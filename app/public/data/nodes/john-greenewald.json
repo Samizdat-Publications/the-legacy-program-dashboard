@@ -104,6 +104,21 @@
 ],
 "claims": [
 {
+"source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "He located the federal file on Japan Air Lines flight 1628 at the National Archives after being told twice by the FAA that it had been or would be destroyed. In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!' The file is in Record Group 237, local identifier 1203, archival identifier 733667, and runs to over 1,500 pages against an initial FAA estimate of 107.",
+"tier": 1
+},
+{
+"source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "He publishes the FAA's letter of 27 June 2001 responding to his request: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A follow-up request in 2009 was answered with the statement that the records had been destroyed.",
+"tier": 1
+},
+{
+"source": "The Black Vault case file, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+"text": "Greenewald published a case file on 1 April 2016 stating 'There is no evidence that I have found, that shows that Thomas Costello even exists', and demonstrating that the photograph circulated as Castello's leaked evidence is a frame from the 2000 film The 6th Day: it 'is, in fact, a verifiable hoax'.",
+"tier": 2
+},
+{
 "source": "DoD FOIA final response letter, 18-F-0324",
 "text": "FOIA case 18-F-0324 was requested on 17 December 2017 and received its final response on 17 August 2022 from Stephanie L. Carr, Chief of the DoD Freedom of Information Division, releasing eight responsive pages with (b)(6) redactions.",
 "tier": 1
@@ -155,7 +170,7 @@
 }
 ],
 "cls": "person",
-"cluster": "media",
+"cluster": "other",
 "conflicts": [],
 "connections": [
 {
@@ -279,6 +294,27 @@
 "type": "investigative"
 },
 {
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2016-04-01",
+"dateStart": "2016-04-01",
+"direction": "out",
+"edgeLabel": "Traced the cluster's best-known physical 'evidence' to a 2000 feature film",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "The photograph circulated for years as leaked proof from inside the facility is a frame from The 6th Day. The identification is checkable by anyone against the film; the surrounding negative, that he found no evidence Castello exists, is Tier 2.",
+"sources": [
+{
+"date": "2016-04-01",
+"name": "The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello'",
+"url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
@@ -345,6 +381,27 @@
 ],
 "tier": "C",
 "type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2018",
+"dateStart": "2001-05",
+"direction": "out",
+"edgeLabel": "Requester and locator of the National Archives file",
+"id": "jal-1628-1986",
+"l0": false,
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"note": "In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!'",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+}
+],
+"tier": "B",
+"type": "research"
 },
 {
 "claimTier": 1,
@@ -432,8 +489,29 @@
 "url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2016-04-01",
+"dateStart": "2016-04-01",
+"direction": "out",
+"edgeLabel": "'There is no evidence that I have found, that shows that Thomas Costello even exists'",
+"id": "thomas-castello",
+"l0": false,
+"label": "Thomas Edwin Castello (fabricated)",
+"note": "A named researcher's published negative, dated, and consistent with the confession obtained independently by Gorightly. Note the Costello spelling, which is how the viral posts carry the name.",
+"sources": [
+{
+"date": "2016-04-01",
+"name": "The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello'",
+"url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+}
+],
+"tier": "C",
+"type": "investigative"
 },
 {
 "claimTier": 1,
@@ -486,9 +564,11 @@
 "date": "2022-08-17",
 "dateEnd": null,
 "dateStart": "2022-08-17",
-"deg": 14,
+"deg": 17,
 "denials": [],
 "domains": [
+"disclosure-project-2026-09-19",
+"dulce-2026-09-19",
 "elizondo-ttsa",
 "history-1970s-2000s",
 "releases-2023-2026",
@@ -514,6 +594,26 @@
 "sequenceChain": [],
 "short": "John Greenewald Jr.",
 "sources": [
+{
+"date": "2026-09-19",
+"name": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+},
+{
+"date": "2016-04-01",
+"name": "The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello'",
+"url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+},
+{
+"date": "2021-05-20",
+"name": "The Black Vault, 'Richard Doty Personnel File - New Mexico State Police', 321 pages obtained by John Greenewald under NMSA 14-2-1 et seq.",
+"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
 {
 "date": "2022-08-17",
 "name": "OSD/JS FOIA 18-F-0324 final response and documents",
@@ -550,11 +650,6 @@
 "url": "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"
 },
 {
-"date": "2021-05-20",
-"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
-"url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
-},
-{
 "date": "2026-07-21",
 "name": "The Black Vault - AARO releases FY2025 UAP report months after statutory deadline",
 "url": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
@@ -578,7 +673,7 @@
 "status": "active",
 "sub": "Founder, The Black Vault; FOIA requester of record on AATIP and Elizondo",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 137 of 1057, score 52). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 98 of 1125, score 63). 17 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "1997-09-01",

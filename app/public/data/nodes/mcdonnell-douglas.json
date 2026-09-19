@@ -63,6 +63,27 @@
 {
 "claimTier": 2,
 "cls": "person",
+"dateEnd": "2000-12",
+"dateStart": "2000-12",
+"direction": "in",
+"edgeLabel": "Named in his own self-stated client list, 2000",
+"id": "mark-mccandlish",
+"l0": false,
+"label": "Mark McCandlish",
+"note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "person",
 "dateEnd": "1970",
 "dateStart": "1968",
 "direction": "in",
@@ -85,7 +106,7 @@
 "coords": null,
 "dateEnd": "1997",
 "dateStart": "1967",
-"deg": 3,
+"deg": 4,
 "denials": [],
 "desc": "McDonnell Douglas is the earliest documented case of a prime contractor studying the phenomenon on its own money. Robert M. Wood, a Cornell physics PhD who spent his career at the company's Astronautics division in Southern California, ran a company-funded study of unidentified craft and their propulsion out of the Huntington Beach facility in the late 1960s. The rationale he has described is the commercial one and it is the rationale that makes this domain coherent: if the propulsion were real, an aerospace prime could not afford to be the last to know. Nothing about that study was reported to Congress, because nothing required it to be - it was internal corporate research, the same category that DoD Instruction 3204.01 would later formalise as independent research and development, recoverable as an indirect expense on government contracts, and that David Grusch would name under oath in 2023 as the mechanism by which UAP work is funded outside oversight. The company merged into Boeing in 1997. No McDonnell Douglas internal record of the study has been released, and the corporate archive of the Huntington Beach organisation has never been searched by any congressional committee.",
 "domains": [
@@ -125,7 +146,7 @@
 ],
 "sub": "Prime contractor 1967-1997; Astronautics Company, Huntington Beach",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 677 of 1057, score 23). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 696 of 1125, score 24). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
 "date": "1968-01-01",

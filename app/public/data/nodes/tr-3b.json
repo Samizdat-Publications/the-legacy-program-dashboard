@@ -1,0 +1,570 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": "reverse-engineering",
+"claims": [
+{
+"source": "Reasoning over the board's existing Tier 1 claims on tr-3b against the propulsion strand of 19 September 2026, research/leads/verified-propulsion-2026-09-19.md section 6.1",
+"text": "STRAND CLASSIFICATION, AND IT MARKS THIS ACCOUNT AS THE WEAKEST OF ITS KIND ON THE BOARD. Every other propulsion claim in the 19 September 2026 strand cites an independent, openable document and misreads it: King's patent for the ARV drawing, Brown's patents for the capacitor stack, Alcubierre's paper for metric engineering. THE TR-3B'S MERCURY PLASMA 'MAGNETIC FIELD DISRUPTER' CITES NOTHING. The 1998 presentation asserts the mechanism directly at slide 72 and there is no independent source to place beside it, which is why the node's refutation had to be built from a materials property rather than from a document comparison: NIST gives mercury a melting point of 234.31 K, and the claimed operating temperature of 150 K is 84 K below it.",
+"tier": 3
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "The originating artefact says, at slide 70: 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra. The tactical reconnaissance TR-3B first operational flight was in the early 90s. The triangular shaped nuclear powered aerospace platform was developed under the Top Secret, Aurora Program with SDI and black budget monies. At least 3 of the billion dollar plus TR-3Bs were flying by 1994... It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA. The TR-3B flying triangle is not fiction and was built with technology available in the mid 80s.'",
+"tier": 1
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 and 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "THE SELF-CONTRADICTION, AND IT IS THE MOST USEFUL SINGLE FACT ON THIS NODE. Slide 69 of the same document states 'The operational model is 600 feet across.' Slide 70 states 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra.' Both sentences are present in the same transcript, two slides apart, and they give the operational craft two different sizes.",
+"tier": 1
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 72, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "The propulsion claim, at slide 72: 'A circular, plasma filled accelerator ring called the Magnetic Field Disrupter, surrounds the rotatable crew compartment and is far ahead of any imaginable technology. Sandia and Livermore laboratories developed the reverse engineered MFD technology... The plasma, mercury based, is pressurized at 250,000 atmospheres at a temperature of 150 degrees Kelvin and accelerated to 50,000 rpm to create a super-conductive plasma with the resulting gravity disruption. The MFD generates a magnetic vortex field, which disrupts or neutralizes the effects of gravity on mass within proximity, by 89 percent. Do not misunderstand. This is not antigravity.'",
+"tier": 1
+},
+{
+"source": "NIST Chemistry WebBook, phase change data for mercury, https://webbook.nist.gov/cgi/cbook.cgi?ID=C7439976&Mask=4 , opened 2026-09-18",
+"text": "THE TIER 1 PHYSICAL ANCHOR AGAINST THE PROPULSION CLAIM. The NIST Chemistry WebBook gives mercury, CAS 7439-97-6, a melting point of 234.31 K (Marsh, 1987, uncertainty assigned by TRC 0.005 K), a triple point of 234.3 K, and a boiling point of 629.81 K.",
+"tier": 1
+},
+{
+"source": "Reasoning over the NIST phase change data for mercury and slide 72 of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 6.2",
+"text": "Stated inference, and it is a short one. 150 K is 84 K below mercury's melting point of 234.31 K at one atmosphere. Mercury's melting curve has a positive slope, so a pressure of 250,000 atmospheres raises the melting point rather than lowering it, putting the material further into the solid region and not closer to a gas. A plasma is an ionised gas. The specification therefore describes a solid and calls it a plasma, and it does so before any question of superconductivity, rotation or gravity is reached.",
+"tier": 3
+},
+{
+"source": "Reasoning over slide 72 of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 6.2",
+"text": "Stated inference, second order. The presentation forecloses the usual defence itself: 'Do not misunderstand. This is not antigravity... The MFD creates a disruption of the Earth's gravitational field upon the mass within the circular accelerator.' A magnetic field acting on gravitational mass is not a mechanism in any physical literature opened here, and the presentation gives no field strength, no power budget and no mass figure against which the claimed 89 per cent reduction could be checked. There is nothing in it to test, which is itself the finding.",
+"tier": 3
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 6, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "The craft is attached to the existing sighting literature by the artefact itself, at slide 6: 'Before I'm through, you will know exactly what the Flying Triangle is. The one that has been sighted around the world... It could be stealthily hovering somewhere over Phoenix - Arizona, Gulf Breeze - Florida, the country of Belgium, or your city.'",
+"tier": 1
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 69, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "The sighting at the core of the account is second hand within the artefact itself. Slide 69 opens: 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' The claimant does not claim to have seen the craft.",
+"tier": 1
+}
+],
+"cls": "program",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1998-08",
+"dateStart": "1998",
+"direction": "in",
+"edgeLabel": "The book the presentation was given to promote; its TR-3B content was NOT opened",
+"id": "alien-rapture-1998",
+"l0": false,
+"label": "Alien Rapture: The Chosen, Galde Press, 1998",
+"note": "CAVEAT CARRIED ON THE EDGE, AND IT IS THE REASON FOR TIER 3. The presentation names the book as its occasion at slide 5, which is Tier 1. But no copy of the book's text was opened, so how or whether the TR-3B appears inside it is unestablished. The edge records the promotional relationship only, and must not be read as the book containing the claim.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 5",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2026-09-18",
+"direction": "in",
+"edgeLabel": "ARVP carries a TR-3B page and routes its readers to the Fouche file",
+"id": "arvp-fluxliner-project",
+"l0": false,
+"label": "ARVP (arvp.co.uk), the Flux Liner project site",
+"note": "Mirrors the board's existing arvp-fluxliner-project to arv-fluxliner research edge. The site is evidence of what the site says and of nothing else: its own characterisations are the anonymous owner's opinion, most of the page is its owner's visual-effects assessment of a video, and it mis-assigns the 'he lied' finding to Jeremy Rys when the only opened account attributes that video to David Hilton and says its screen could not be read.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "ARVP, 'Black Triangle (TR3b)', the page named in research/leads/CANDIDATES-2026-09-18-ARVP.md",
+"url": "https://www.arvp.co.uk/black-triangle-tr3b/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1998-08",
+"direction": "out",
+"edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "A claim about what Fouche said, from the same sentence as the NRO and NSA edges. No record connecting the CIA to this designation was opened.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 70",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1984-07-10",
+"direction": "out",
+"edgeLabel": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
+"id": "darpa",
+"l0": true,
+"label": "Defense Advanced Research Projects Agency",
+"note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
+"sources": [
+{
+"date": "1984-07-10",
+"name": "The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+},
+{
+"date": "2016-03-19",
+"name": "Peter Merlin's reading of the same letter, quoted verbatim",
+"url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1998-08",
+"direction": "in",
+"edgeLabel": "Originating claimant of the TR-3B, August 1998",
+"id": "edgar-fouche",
+"l0": false,
+"label": "Edgar Fouche",
+"note": "The claim exists in his copyrighted document and nowhere earlier that was opened. Tier 2 and not 1 because the edge asserts that he is the origin of the claim, which rests on the absence of an earlier source rather than on a positive record. Note that within the artefact itself the sighting is second hand: slide 69 opens 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' He does not claim to have seen it.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 to 72",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1998-08",
+"dateStart": "1998-08",
+"direction": "in",
+"edgeLabel": "The dated artefact that carries the claim; opened in full",
+"id": "fouche-iufoc-1998",
+"l0": false,
+"label": "Fouche's presentation transcript, August 1998",
+"note": "The dossier proposed this as a custody edge. Built as investigative to match the board's existing precedent for a document carrying a claim about a craft, scott-sorensen-notes-1990 to arv-fluxliner, which is investigative and not custody. A transcript has custody of the record of the claim, not of the craft, and the distinction is worth keeping since custody carries the x3.0 program weighting.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, 62 pages, slides 69 to 72",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1996-05",
+"dateStart": "1982-02",
+"direction": "in",
+"edgeLabel": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
+"id": "northrop-tacit-blue",
+"l0": false,
+"label": "Northrop TACIT BLUE",
+"note": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1998-08",
+"direction": "out",
+"edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"id": "nro",
+"l0": true,
+"label": "National Reconnaissance Office",
+"note": "A claim about what Fouche said, not about the agency. 'It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA.' No record of any kind connecting the NRO to this designation was opened.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 70",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1998-08",
+"direction": "out",
+"edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"id": "nsa",
+"l0": true,
+"label": "National Security Agency",
+"note": "A claim about what Fouche said, from the same sentence as the NRO and CIA edges. No record connecting the NSA to this designation was opened.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 70",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2016-03-19",
+"direction": "in",
+"edgeLabel": "Named aerospace historian; four falsifiable specifics against the claimant's evidence",
+"id": "peter-merlin",
+"l0": false,
+"label": "Peter W. Merlin",
+"note": "'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record.",
+"sources": [
+{
+"date": "2016-03-19",
+"name": "Peter Merlin, quoted verbatim in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax'",
+"url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1998-08",
+"direction": "out",
+"edgeLabel": "CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72",
+"id": "sandia",
+"l0": true,
+"label": "Sandia National Laboratories",
+"note": "A claim about what Fouche said. 'Sandia and Livermore laboratories developed the reverse engineered MFD technology.' No lawrence-livermore node exists on the board and none is proposed here, so only the Sandia half of the sentence is wired. No record connecting either laboratory to this claim was opened, and the propulsion specification the sentence introduces is refuted by the melting point of its own working fluid.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 72",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1998-08",
+"dateStart": "1993-12-25",
+"direction": "in",
+"edgeLabel": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
+"id": "testors-sr-75-kit",
+"l0": false,
+"label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+"note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
+"sources": [
+{
+"date": "1993-12-25",
+"name": "Baltimore Sun, 'For latest spy plane look under your tree'",
+"url": "https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/"
+},
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "C",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1998-08",
+"deg": 12,
+"denials": [
+{
+"by": {
+"id": "northrop-tacit-blue",
+"label": "Northrop TACIT BLUE"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
+"note": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
+"of": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"sources": [
+{
+"date": "2026-09-18",
+"name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+}
+]
+},
+{
+"by": {
+"id": "peter-merlin",
+"label": "Peter W. Merlin"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Named aerospace historian; four falsifiable specifics against the claimant's evidence",
+"note": "'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record.",
+"of": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"sources": [
+{
+"date": "2016-03-19",
+"name": "Peter Merlin, quoted verbatim in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax'",
+"url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+}
+]
+},
+{
+"by": {
+"id": "testors-sr-75-kit",
+"label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
+"note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
+"of": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"sources": [
+{
+"date": "1993-12-25",
+"name": "Baltimore Sun, 'For latest spy plane look under your tree'",
+"url": "https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/"
+},
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+]
+},
+{
+"by": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
+"note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
+"of": {
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+"sources": [
+{
+"date": "1984-07-10",
+"name": "The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+},
+{
+"date": "2016-03-19",
+"name": "Peter Merlin's reading of the same letter, quoted verbatim",
+"url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+}
+]
+}
+],
+"desc": "The TR-3B is a CLAIMED craft for whose existence no record has been opened, and the board carries it as a claim and not as an object: every substantive description of it descends from a single named man's speaking script, which he copyrighted himself in August 1998 and which attributes the sighting itself to an unnamed friend. Everything on this node is therefore a description of a claim. One artefact carries that description and is why the node exists: the 62 page transcript headed 'Presentation to IUFOR by Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates', in which slides 69 to 72 give the craft its designation and code name Astra, place it at Papoose, attribute it to 'the Top Secret, Aurora Program with SDI and black budget monies', name the National Reconnaissance Office, the NSA and the CIA as its funders and taskers, name Sandia and Livermore as developers of its propulsion, and specify 'a circular, plasma filled accelerator ring called the Magnetic Field Disrupter' running a 'mercury based' plasma 'pressurized at 250,000 atmospheres at a temperature of 150 degrees Kelvin and accelerated to 50,000 rpm'. THE DOCUMENT CONTRADICTS ITSELF ABOUT THE SIZE OF THE CRAFT TWO SLIDES APART: slide 69 says 'The operational model is 600 feet across' and slide 70 says 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra'. Both sentences are in the same document, in sequence, and nobody outside it has to adjudicate that. Three further things constrain this node. The presentation was given in the same summer as, and in order to promote, a book the Library of Congress catalogues as science fiction, LCCN 98002961, genre heading 'Science fiction.', subject 'Alien abduction - Fiction'. The propulsion specification is refuted by the freezing point of its own stated working fluid: NIST gives mercury a melting point of 234.31 K, and 150 K is 84 K below that. And the presentation's companion craft, the 'SR-75 Penetrator', is the name of a Testors plastic model kit of a speculative aircraft sold from 1993, five years earlier, about which the Air Force told the Baltimore Sun 'such a plane does not exist'.",
+"domains": [
+"propulsion-2026-09-19",
+"tr3b-2026-09-18"
+],
+"dossier": {
+"claims": [
+{
+"source": "Fouche 1998 presentation transcript, slides 69-72, hosted at checktheevidence.com, opened 2026-09-18",
+"text": "THE ORIGINATING DOCUMENT CONTRADICTS ITSELF TWO SLIDES APART. The 62-page speaking script headed 'Copyright Aug. 1998, Fouche Media Associates' gives the craft's size as '600 feet across' and, two slides later, as 'the 300 feet Operational TR-3Bs'. Both figures are in the same copyrighted document, presented as specification rather than estimate. Where the ARV thread's sizes drifted across three documents over thirty-four years, this one disagrees with itself inside a single afternoon's script.",
+"tier": 1
+},
+{
+"source": "Library of Congress catalogue record LCCN 98002961, opened 2026-09-18",
+"text": "THE NATIONAL LIBRARY SHELVES THE SOURCE BOOK AS FICTION. The Library of Congress record for Alien Rapture: The Chosen, by Edgar Fouche and Brad Steiger, Galde Press 1998, LCCN 98002961, carries the genre heading 'Science fiction.', the subject heading 'Alien abduction - Fiction', and the classification PS3556, which is American fiction. The presentation that originated the TR-3B account was given to promote this book, by the presentation's own words.",
+"tier": 1
+},
+{
+"source": "Fouche 1998 presentation transcript, slide 72, against the NIST value for mercury's melting point, both opened 2026-09-18",
+"text": "THE CLAIMED PROPELLANT WOULD BE SOLID AT THE STATED TEMPERATURE. The 1998 presentation specifies a mercury-based plasma accelerated 'at 150 degrees Kelvin'. NIST gives the melting point of mercury as 234.31 K. At 150 K mercury is a solid, so the stated figure describes a condition in which the claimed mechanism cannot operate as described.",
+"tier": 1
+},
+{
+"source": "Contemporaneous newspaper reporting of the Testor SR-75 Penetrator and XR-7 Thunderdart kits carrying the Air Force's statement, opened 2026-09-18",
+"text": "A DESIGNATION PRESENTED AS INSIDE KNOWLEDGE WAS A MODEL KIT NAME FIVE YEARS EARLIER. 'SR-75 Penetrator' is the designation of a speculative Testor Corporation model kit designed by John Andrews and marketed from 1993, about which the Air Force stated publicly that it was not modelled on anything that exists. The same designation appears in Fouche's 1998 script as privileged knowledge of a real aircraft.",
+"tier": 2
+},
+{
+"source": "Fouche military documents compilation, fifteen pages rendered at 190 dpi and read as images, hosted at checktheevidence.com, opened 2026-09-18",
+"text": "THE CORROBORATING DOCUMENTS CONTAIN NO CLEARANCE RECORD AND NO PROGRAMME DOCUMENT. The fifteen-page compilation Fouche published as his military documents was opened in full and is legible throughout. It consists of decorations, training certificates, performance reports and one 1984 personnel letter. It contains no DD-214, no clearance record and no programme document. The page presented as a 'SAC/DARPA Classified Document' carries no classification marking and is signed by a technical sergeant in the Directorate of Assignments, Deputy Chief of Staff for Personnel.",
+"tier": 1
+},
+{
+"source": "AF Form 77a, 24 August 1979, page 3 of the Fouche military documents compilation, opened 2026-09-18; the DET 3 identification is Merlin's published statement",
+"text": "THE COUNTERWEIGHT, AND IT IS REAL. An AF Form 77a Letter of Evaluation dated 24 August 1979 records Technical Sergeant Fouche assigned on temporary duty to 'AFFTC-DET 3, Nellis AF Range' from 1 June to 14 August 1979. The identification of DET 3 AFFTC with Groom Lake comes from Peter Merlin's own published reference work, which is why this claim's tier is capped at 2 rather than 1: no primary Air Force record making that identification was opened. The form then limits itself, stating that his duties there were verified via a separate report that is not in the file.",
+"tier": 2
+}
+],
+"narrative": "The case for a node carrying a claim with no evidence behind it is the same case the ARV node made, and this cluster tests it harder. Before this build the board carried DARPA, Northrop, the USAF, Groom Lake and Edwards, and carried nothing for the aircraft those four names are most often attached to in public. A reader arriving with the TR-3B in mind found nothing, which reads as the board having no view. It has a view, and this node states it.\n\nThe strongest single fact here is a cataloguing decision. The narrative enters the world attached to a book that the national library shelves as a novel. The second strongest is that the originating document contradicts itself two slides apart, giving the craft as '600 feet across' and then as 'the 300 feet Operational TR-3Bs'. The third is physical: the claimed mercury plasma is specified at 150 degrees Kelvin, and NIST gives mercury's melting point as 234.31 K, so the substance would be a solid at the stated temperature. The fourth is prior art: 'SR-75 Penetrator' is the designation of a Testor Corporation model kit marketed from 1993, about which the Air Force publicly said it was not modelled on anything that exists, and it reappears in the 1998 script as inside knowledge.\n\nThe documents Fouche published as corroboration were opened in full, fifteen legible pages. They are decorations, training certificates, performance reports and one 1984 personnel letter. There is no DD-214, no clearance record and no programme document among them, and the page presented as a 'SAC/DARPA Classified Document' carries no classification marking and is signed by a technical sergeant in the Directorate of Assignments, Deputy Chief of Staff for Personnel. Fouche applied the redactions himself and says so in his own caption.\n\nOne document genuinely earns its place on the other side, and the node carries it as such rather than burying it. An AF Form 77a of 24 August 1979 records Technical Sergeant Fouche assigned on temporary duty to AFFTC Detachment 3, Nellis AF Range, from 1 June to 14 August 1979, and it is the sceptic's own published reference work that identifies DET 3 AFFTC as Groom Lake. The same form then limits itself: it says his duties there were verified via a separate report, and that report is not in the file. That is the most interesting single page in the collection and it is the reason the man has a node at all.\n\nWhat this cluster does not settle is the craft. Nothing here is evidence that a TR-3B exists. Every node is a node about a claim, the hub says so in its first sentence, and the case against is wired in as edges like any other.",
+"openQuestions": [
+"Whether Edgar Fouche ever stood at an International UFO Congress podium. The contemporaneous February 1998 programme does not list him, and the August 1998 attribution rests on the header of his own document. The venue and date are softer than the literature assumes.",
+"How the TR-3B actually appears in Alien Rapture: The Chosen. The book was not opened, so nothing here asserts its contents beyond the Library of Congress cataloguing of it.",
+"The alleged recorded confession by Fouche. The forum thread said to hold it returned HTTP 522, and the one account that was opened says its own screenshot was unreadable. No confession is in evidence anywhere, and the board should stop repeating that one exists until someone produces it.",
+"The FOIA return said to bear on his service record was not opened, so nothing is asserted about what it returned.",
+"Any official record, of any kind, using the string 'TR-3B'. None was found."
+],
+"roles": [
+"reverse-engineering",
+"disclosure",
+"concealment"
+],
+"whatItIs": "A claimed triangular aircraft, called the TR-3B and often the TR-3B 'Astra', said to be a black-programme craft using a mercury-based plasma ring for propulsion. No record of its existence has been opened. The entire account descends from one named man, Edgar Fouche, in a copyrighted 62-page presentation transcript dated August 1998, given to promote a novel he had written with Brad Steiger. The Library of Congress catalogues that novel, Alien Rapture: The Chosen, under LCCN 98002961 with the genre heading 'Science fiction', the subject heading 'Alien abduction - Fiction' and the class PS3556, American fiction. The presentation is the artefact this node is built on, and it is why the node exists, not evidence that the craft does.",
+"whyImplicated": "It is on this map as the second worked example of the rule the board adopted on 18 September 2026: the thing claimed about is a node in its own right, and it is the hub every claimant runs into, the case against included. The TR-3B is one of the most repeated craft claims in the entire subject and the board carried nothing for it, while carrying the sceptical literature, the real black programmes of the period and the contractor estate it is attributed to. Its edges are deliberately mixed: the originating claimant, the documents that carry his account, the site that hosts them, the aerospace historian who took his documents apart, a 1993 commercial model kit whose designations reappear in his script as inside knowledge, and a real declassified stealth demonstrator of the right period whose actual shape is nothing like the claim. Its degree means a lot is claimed here. It does not mean any of it is true, and the tier on each edge says which is which."
+},
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "tr-3b",
+"l0": true,
+"label": "TR-3B 'Astra', claimed black triangular aircraft",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "alien-rapture-1998",
+"label": "Alien Rapture: The Chosen, Galde Press, 1998",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "arvp-fluxliner-project",
+"label": "ARVP (arvp.co.uk), the Flux Liner project site",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "fouche-iufoc-1998",
+"label": "Fouche's presentation transcript, August 1998",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "northrop-tacit-blue",
+"label": "Northrop TACIT BLUE",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "peter-merlin",
+"label": "Peter W. Merlin",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "testors-sr-75-kit",
+"label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+"tier": "C"
+}
+],
+"short": "TR-3B 'Astra' (claimed)",
+"sources": [
+{
+"date": "2004",
+"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics'",
+"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+},
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, Copyright Aug. 1998, Fouche Media Associates, 62 page transcript with slide cues, read in full",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+},
+{
+"date": "2026-09-18",
+"name": "NIST Chemistry WebBook, phase change data for mercury (CAS 7439-97-6)",
+"url": "https://webbook.nist.gov/cgi/cbook.cgi?ID=C7439976&Mask=4"
+},
+{
+"date": "1998-02-04",
+"name": "Library of Congress catalogue record LCCN 98002961, Alien rapture: the chosen, genre heading 'Science fiction.'",
+"url": "http://lx2.loc.gov:210/lcdb"
+},
+{
+"date": "2026-09-18",
+"name": "archive.org text of the same presentation, in the compilation item 'Top Secret TR-3B Astra Documents', used as an independent second copy",
+"url": "https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt"
+}
+],
+"sub": "Claimed triangular craft described in one man's copyrighted August 1998 presentation; no record of its existence has been opened",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 130 of 1125, score 55). 12 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "2011-07-26",
+"id": "tl-2011-07-26-petit-rechain-confession",
+"label": "The most-reproduced black triangle photograph is confessed as a hoax on Belgian television",
+"precision": "day",
+"strand": "witness",
+"text": "Robert Sheaffer records that on 26 July 2011 the Belgian broadcaster RTL carried the photographer's confession about the Petit-Rechain image of the 1989-90 Belgian wave: 'The UFO of Petit-Rechain is not a spaceship from a distant galaxy but a panel of painted styrofoam with three spots affixed', and, from the maker, 'One has managed to fool the whole world with a silly model made of styrofoam.' Fouche's 1998 presentation had attached his craft to 'the country of Belgium' at slide 6. This does not touch the eyewitness reports and it decides nothing about Fouche; it records that the visual corpus the claim borrows plausibility from has a confessed hoax at its centre.",
+"tier": "C"
+}
+]
+}

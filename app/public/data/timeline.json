@@ -253,6 +253,17 @@
 "tier": "A"
 },
 {
+"date": "1948-02-22",
+"era": "0",
+"id": "tl-1948-02-22-fouche-born",
+"label": "Edgar Albert Fouche born, Americus, Georgia",
+"node": "edgar-fouche",
+"precision": "day",
+"strand": "witness",
+"text": "Find a Grave memorial 180498305, citing an obituary from Mason Funeral Home, gives the birth date and birthplace. The Library of Congress name authority attached to LCCN 98002961 independently gives 'Fouche, Edgar Rothschild, 1948-'.",
+"tier": "C"
+},
+{
 "date": "1948-05-14",
 "era": "0",
 "id": "tl-ffrdc-1948-rand-inc",
@@ -515,6 +526,17 @@
 "strand": "program",
 "text": "The Defence Research Board establishes a committee under NRC astronomer Peter Millman. It builds a standardised report form with a weighting factor to minimise the 'personal equation', meets six times, concludes UFOs are neither a security threat nor of scientific interest, and recommends ending all Canadian military investigation.",
 "tier": 1
+},
+{
+"date": "1952-06-13",
+"era": "0",
+"id": "tl-1952-06-13-brown-abandoned-application",
+"label": "Brown files the application that later becomes US 2,949,550, and abandons it",
+"node": "thomas-townsend-brown",
+"precision": "day",
+"strand": "program",
+"text": "US 2,949,550 states on its face: 'This invention was disclosed and described in my application Serial No. 293,465, filed June 13, 1952, which application has become abandoned.' This dates the electrokinetic disclosure five years earlier than the filing the board previously recorded as its start.",
+"tier": "A"
 },
 {
 "date": "1952-07-19",
@@ -781,6 +803,17 @@
 "tier": "B"
 },
 {
+"date": "1957-07-03",
+"era": "0",
+"id": "tl-1957-07-03-brown-2949550-filed",
+"label": "US 2,949,550 filed, Serial No. 669,830, assigned to Whitehall-Rand Inc",
+"node": "thomas-townsend-brown",
+"precision": "day",
+"strand": "program",
+"text": "Thomas Townsend Brown of Umatilla, Florida files 'Electrokinetic Apparatus', assignor to Whitehall-Rand, Inc. of Washington D.C., a Delaware corporation. 12 claims, Class 310-5. A private corporate assignee and no government interest statement.",
+"tier": "A"
+},
+{
 "date": "1958-04-04",
 "era": "0",
 "id": "tl-1958-04-04-keyhoe-precedent",
@@ -790,6 +823,17 @@
 "strand": "coverup",
 "text": "A CIA memorandum for record on 'Comments on Letters Dealing with Unidentified Flying Objects' notes that the Air Force was 'most insistent' on answering his letters itself, that 'the Air Force is endeavoring to impress upon Major Keyhoe and others in a similar position, that his office is the proper place to come for such information', and concludes: 'I think we can use this procedure as a precedent henceforth in all inquiries regarding UFO's.'",
 "tier": "B"
+},
+{
+"date": "1958-05-09",
+"era": "0",
+"id": "tl-1958-05-09-brown-3187206-filed",
+"label": "US 3,187,206 filed, Serial No. 734,342, assigned to Electrokinetics Inc",
+"node": "thomas-townsend-brown",
+"precision": "day",
+"strand": "program",
+"text": "Thomas Townsend Brown of Walkertown, North Carolina files the second 'Electrokinetic Apparatus', assignor by mesne assignments to Electrokinetics, Inc., a Pennsylvania corporation. 23 claims, Class 310-5.",
+"tier": "A"
 },
 {
 "date": "1958-07-21",
@@ -856,6 +900,17 @@
 "strand": "program",
 "text": "Announced by Lt. Gen. Bernard Schriever, Aerospace is created to provide dedicated technical planning for military space and ballistic missile programmes, with charter restrictions the Air Force had not imposed on earlier FFRDCs.",
 "tier": "B"
+},
+{
+"date": "1960-08-16",
+"era": "0",
+"id": "tl-1960-08-16-brown-2949550-granted",
+"label": "US 2,949,550 granted. The word 'gravity' appears zero times in it",
+"node": "thomas-townsend-brown",
+"precision": "day",
+"strand": "program",
+"text": "Claim 1 as granted: 'Thrust producing apparatus comprising an electroconductive body having a relatively large, substantially smooth area thereof exposed to the surrounding medium, an electrode supported on said body, insulated therefrom and shaped to produce a concentrated electrostatic field when electrically charged with respect to said body, and power means connected between said body and electrode to impress high voltage thereon whereby to cause relative movement of an ionizable dielectric medium surrounding said electrodes.' Word counts over all six pages: gravity 0, anti-gravity 0, levitation 0, electrogravitics 0.",
+"tier": "A"
 },
 {
 "date": "1961-01-01",
@@ -935,6 +990,50 @@
 "tier": "C"
 },
 {
+"date": "1964-09-22",
+"era": "0",
+"id": "tl-1964-09-22-big-sur-buzzing-bee",
+"label": "Atlas launch 'Buzzing Bee' filmed from Big Sur at dawn",
+"node": "big-sur-1964",
+"precision": "day",
+"strand": "program",
+"text": "The project engineer's published account fixes the event at dawn on 22 September 1964, on an Atlas launch nicknamed 'Buzzing Bee', photographed by a borrowed Boston University 24-inch telescope with an image orthicon tube sited in the Los Padres National Forest above Big Sur. Lt. Robert Jacobs, the on-site commander, later published that the film showed a saucer-shaped object firing a beam at the warhead; the project engineer published that it showed decoy deployment and trailing packing material. Jacobs's own article gives the date as 2, 3 or 15 September 1964.",
+"tier": "B"
+},
+{
+"date": "1964-09-30",
+"era": "0",
+"id": "tl-1964-09-30-king-patent-filed",
+"label": "James F. King Jr. files US 3,322,374 from a home address, with no assignee",
+"node": "king-patent-mhd",
+"precision": "day",
+"strand": "program",
+"text": "Serial No. 400,456, filed from 925 Goodwood Road, Winston-Salem, North Carolina. No assignee, no government interest statement and no secrecy order appear anywhere in the document.",
+"tier": "C"
+},
+{
+"date": "1964-10-13",
+"era": "0",
+"id": "tl-1964-10-13-george-staff-study",
+"label": "Contemporaneous Air Force staff study on the Big Sur imagery",
+"node": "big-sur-1964",
+"precision": "day",
+"strand": "program",
+"text": "'Preliminary Report on Image Orthicon Photography from Big Sur', Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, 13 October 1964, by Kingston A. George. Cited by title and date in his 1993 article. NOT OPENED. It is the best unopened lead this cluster produced: a contemporaneous Air Force document about the filming, written three weeks afterwards.",
+"tier": "B"
+},
+{
+"date": "1965-06-01",
+"era": "0",
+"id": "tl-1965-06-01-brown-3187206-granted",
+"label": "US 3,187,206 granted. It opens by describing itself as an electrical thrust device",
+"node": "thomas-townsend-brown",
+"precision": "day",
+"strand": "program",
+"text": "First sentence of the specification: 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields.' It states that in a dielectric fluid medium 'the forces of reaction appear to be present in that medium', and in vacuum 'on the solid environmental bodies, such as the walls of the vacuum chamber'. Word counts over all six pages: gravity 0, anti-gravity 0, scalar 0, electrogravitics 0.",
+"tier": "A"
+},
+{
 "date": "1965-12-09",
 "era": "0",
 "id": "tl-1965-1209-kecksburg",
@@ -990,6 +1089,17 @@
 "tier": "A"
 },
 {
+"date": "1966-08-10",
+"era": "0",
+"id": "tl-1966-08-10-lunar-orbiter-1",
+"label": "Lunar Orbiter 1 launched; programme managed by NASA Langley Research Center",
+"node": "nasa",
+"precision": "day",
+"strand": "program",
+"text": "NASA's NSSDCA master catalogue records the launch of Lunar Orbiter 1 on 10 August 1966, photographic data acquired from 18 to 29 August 1966, and that 'The Lunar Orbiter program was managed by NASA Langley Research Center'. This is the agency record against which Karl Wolfe's account of seeing Lunar Orbiter mosaics at an NSA facility on Langley Air Force Base must be measured.",
+"tier": "A"
+},
+{
 "date": "1966-08-25",
 "era": "0",
 "id": "tl-1966-0825-minot",
@@ -1034,6 +1144,17 @@
 "tier": "A"
 },
 {
+"date": "1967-05-30",
+"era": "0",
+"id": "tl-1967-05-30-king-patent-granted",
+"label": "US 3,322,374 granted: magnetohydrodynamic propulsion, 9 claims, Class 244-62",
+"node": "king-patent-mhd",
+"precision": "day",
+"strand": "program",
+"text": "What it claims is a linear induction motor using the surrounding ionised atmosphere as its armature. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. Fifty-nine years later it was offered as evidence that the 'Scalar Physics' callout on the McCandlish ARV drawing refers to spin-zero scalar particles.",
+"tier": "C"
+},
+{
 "date": "1967-06-30",
 "era": "0",
 "id": "tl-1967-1127th",
@@ -1056,6 +1177,17 @@
 "tier": "A"
 },
 {
+"date": "1967-12-10",
+"era": "0",
+"id": "tl-1967-12-10-gasbuggy",
+"label": "AEC detonates 29 kilotons at 4,227 feet, twelve miles from Dulce",
+"node": "gasbuggy-1967",
+"precision": "day",
+"strand": "program",
+"text": "The US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, twelve miles southwest of Dulce in the Carson National Forest, to stimulate natural gas production from the Pictured Cliffs Formation. The first reservoir-stimulation experiment of the Plowshare programme, jointly sponsored by the AEC, the Department of the Interior and El Paso Natural Gas. THE EARLIEST DATED ARTEFACT IN THE CLUSTER, and it is a government record, twelve years before the rumour begins.",
+"tier": "B"
+},
+{
 "date": "1968-01-01",
 "era": "0",
 "id": "pc-1968-mdc",
@@ -1075,6 +1207,28 @@
 "precision": "month",
 "strand": "oversight",
 "text": "John G. Fuller publishes the Low memo, calling the project a $500,000 trick. Condon fires investigators David Saunders and Norman Levine.",
+"tier": "B"
+},
+{
+"date": "1968-07",
+"era": "0",
+"id": "tl-1968-07-gasbuggy-testing",
+"label": "Production testing begins; the gas comes back radioactive",
+"node": "gasbuggy-1967",
+"precision": "month",
+"strand": "program",
+"text": "Testing through the reentry well GB-ER ran from July 1968 to October 1969 across five tests, producing 213 million cubic feet of natural gas that retained measurable radioactive constituents and a significantly lower heat value than expected.",
+"tier": "B"
+},
+{
+"date": "1968-07-08",
+"era": "0",
+"id": "tl-1968-07-08-stone-enters-army",
+"label": "Clifford Stone enters the US Army",
+"node": "clifford-stone",
+"precision": "day",
+"strand": "witness",
+"text": "Per the service record Philip J. Klass obtained from the National Personnel Records Center in St. Louis and printed in 2001: Stone entered the Army on 8 July 1968 and after several months of basic training 'he was trained to be a clerk/typist'. The assignment history that follows is clerical and administrative throughout.",
 "tier": "B"
 },
 {
@@ -1322,6 +1476,17 @@
 {
 "date": "1976",
 "era": "1",
+"id": "tl-1976-valdez-dulce",
+"label": "Gabe Valdez stationed at Dulce, begins the livestock investigations",
+"node": "gabe-valdez",
+"precision": "year",
+"strand": "witness",
+"text": "A New Mexico State Police officer stationed in Dulce in 1976 began investigating cattle and other animals found dead with soft tissue removed, and became the central official figure in the region's caseload. The only official investigator anywhere in this story.",
+"tier": "C"
+},
+{
+"date": "1976",
+"era": "1",
 "id": "tl-intl-1976-ihedn",
 "label": "IHEDN committee opens the French file",
 "node": "ihedn",
@@ -1430,6 +1595,17 @@
 "tier": "A"
 },
 {
+"date": "1978",
+"era": "1",
+"id": "tl-1978-gasbuggy-decommission",
+"label": "AEC decommissions the site and injects liquid radioactive waste into the cavity",
+"node": "gasbuggy-1967",
+"precision": "year",
+"strand": "program",
+"text": "Structures and equipment were decontaminated and removed, liquid radioactive waste was injected into the former cavity now forming the lower part of the collapse chimney, solid radioactive waste went to the Nevada Test Site, and test wells were plugged. Soil sampling followed in 1978, 1986, 2000 and 2002.",
+"tier": "B"
+},
+{
 "date": "1978-01-01",
 "era": "1",
 "id": "t-1978-grillflame",
@@ -1507,6 +1683,28 @@
 "tier": 2
 },
 {
+"date": "1979",
+"era": "1",
+"id": "tl-1979-bennewitz-origin",
+"label": "Bennewitz becomes the origin point of the Dulce claim",
+"node": "paul-bennewitz",
+"precision": "year",
+"strand": "witness",
+"text": "From about 1979 Paul Bennewitz, an Albuquerque instrument manufacturer whose company overlooked the Manzano storage area, began the personally funded study that made him the first person to attach a facility claim to Dulce. He later connected Myrna Hansen's 1980 account to the same place.",
+"tier": "B"
+},
+{
+"date": "1979-06-01",
+"era": "1",
+"id": "tl-1979-06-01-fouche-tdy-det3",
+"label": "THE COUNTERWEIGHT: TSgt Fouche assigned temporary duty to AFFTC Detachment 3, Nellis AF Range",
+"node": "fouche-afftc-det3-1979",
+"precision": "day",
+"strand": "program",
+"text": "An AF Form 77a signed 24 August 1979 by MSgt Brewer of 57 CRS, Nellis AFB Nevada records: 'This out of cycle report is generated because TSgt Fouche was assigned TDY to the AFFTC-DET 3, Nellis AF Range from 1 June 79 to 14 August 79. His duties and responsibilities for this period have been verified via a separate report.' Peter Merlin's published reference work identifies Detachment 3 AFFTC as the unit operating the Groom Lake facility. The form does not say what he did there, and the separate report it refers to is not in the file.",
+"tier": "B"
+},
+{
 "date": "1979-07-01",
 "era": "1",
 "id": "tl-1979-bennewitz",
@@ -1575,6 +1773,17 @@
 {
 "date": "1980-08-08",
 "era": "1",
+"id": "tl-1980-08-08-kirtland",
+"label": "Named 1608 SPS personnel report unidentified objects over Manzano",
+"node": "kirtland-manzano-1980",
+"precision": "day",
+"strand": "witness",
+"text": "SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier of the 1608 Security Police Squadron reported at approximately 2350 hrs on 8 August 1980; a Sandia security guard who requested anonymity reported at approximately 0020 hrs on 9 August. The record establishes that guards at a nuclear weapons storage area reported what they could not identify. It establishes nothing about what the objects were.",
+"tier": "B"
+},
+{
+"date": "1980-08-08",
+"era": "1",
 "id": "tl-ffrdc-1980-kirtland",
 "label": "Kirtland AFB / Manzano incident",
 "node": "kirtland-manzano-1980",
@@ -1582,6 +1791,17 @@
 "strand": "witness",
 "text": "Three 1608 SPS airmen watch an object make stop-and-go manoeuvres near the Manzano restricted test range, descend into Coyote Canyon and depart vertically at high speed; a Sandia security guard reports a disc near an alarmed structure hours later.",
 "tier": "A"
+},
+{
+"date": "1980-09",
+"era": "1",
+"id": "tl-1980-09-afosi-form",
+"label": "AFOSI complaint form filed, District File No. 8017D93-0/29, SA Richard C Doty",
+"node": "afosi-kirtland-file",
+"precision": "month",
+"strand": "witness",
+"text": "The form carries AFOSI Det 1700, Kirtland AFB, New Mexico, the district file number and 'Richard C Doty, SA' on its face. THIS IS THE TIER 1 SOURCE FOR DOTY'S AFOSI SERVICE and needs no interview to support it. The board's existing claim dates the form 9 September 1980; the NICAP page as rendered gives '2-9 Sept 80'; the discrepancy is unresolved.",
+"tier": "B"
 },
 {
 "date": "1980-09-09",
@@ -1606,6 +1826,17 @@
 "tier": "A"
 },
 {
+"date": "1980-12-11",
+"era": "1",
+"id": "tl-1980-12-11-warren-prp",
+"label": "Larry Warren says his PRP clearance came through at Bentwaters",
+"node": "larry-warren",
+"precision": "day",
+"strand": "witness",
+"text": "In the Disclosure Project Briefing Document: 'On December 11th, 1980, my security clearance notice, PRP, came through and I was approved. My clearance was a secret clearance at that time.' His assignment to the 81st Tactical Fighter Wing is not the disputed part of his account; his presence at the events of later that month is.",
+"tier": "C"
+},
+{
 "date": "1980-12-26",
 "era": "1",
 "id": "t-1980-rendlesham",
@@ -1625,6 +1856,17 @@
 "precision": "day",
 "strand": "witness",
 "text": "Betty Cash, Vickie Landrum and Colby Landrum stop on FM 1485 near Huffman, Texas before a bright diamond-shaped object expelling flame, followed by a formation of tandem-rotor helicopters. All three report illness; Cash is hospitalised from 2 January 1981.",
+"tier": "B"
+},
+{
+"date": "1981",
+"era": "1",
+"id": "tl-1981-bennewitz-project-beta",
+"label": "Bennewitz writes his own report, 'Project Beta'",
+"node": "bennewitz-project-beta-1981",
+"precision": "year",
+"strand": "witness",
+"text": "Roughly five thousand words, titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)'. The claimant's own dated statement of his own claim, and the artefact the board had been missing. Read only in two fragments quoted by a 2025 newsletter. NOT to be confused with Greg Bishop's 2005 book of the same name.",
 "tier": "B"
 },
 {
@@ -1683,6 +1925,17 @@
 "tier": "A"
 },
 {
+"date": "1982-02",
+"era": "1",
+"id": "tl-1982-02-tacit-blue-first-flight",
+"label": "Northrop TACIT BLUE first flight",
+"node": "northrop-tacit-blue",
+"precision": "month",
+"strand": "program",
+"text": "The U.S. Air Force fact sheet states 'The aircraft made its first flight in February 1982, and by the conclusion of the program in 1985, had flown 135 times.' This is what a real black aircraft programme of the era looks like in the primary record: 48 ft 2 in span, curved surfaces, two Garrett turbofans, no armament.",
+"tier": "B"
+},
+{
 "date": "1982-03-08",
 "era": "1",
 "id": "t-1982-cert",
@@ -1703,6 +1956,28 @@
 "strand": "program",
 "text": "The 4450th Tactical Group relocates from Groom Lake to the Tonopah Test Range. A manned operational combat squadron will fly from a hidden base for six years before acknowledgement in November 1988.",
 "tier": "B"
+},
+{
+"date": "1982-06-27",
+"era": "1",
+"id": "tl-1982-06-27-la-monitor-jetcar",
+"label": "Los Alamos Monitor front page calls Lazar a physicist at LAMPF",
+"node": "los-alamos-monitor-1982",
+"precision": "day",
+"strand": "witness",
+"text": "The Los Alamos Monitor of Sunday 27 June 1982, pages A1 and A8, carries 'LA Man Joins The Jet Set - At 200 Miles An Hour' by staff writer Terry England, about a jet-powered Honda Lazar had built, and says in the paper's own voice: 'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.' The earliest dated artefact in the cluster, seven years before the UFO claim.",
+"tier": "B"
+},
+{
+"date": "1982-06-28",
+"era": "1",
+"id": "tl-1982-06-28-teller-lecture",
+"label": "Edward Teller lectures at Los Alamos the day after the jet-car story",
+"node": "bob-lazar",
+"precision": "day",
+"strand": "witness",
+"text": "Tom Mahood's 2018 retrospective places Teller's Los Alamos lecture on the day after the Monitor article, calling the timing an 'amazing display of totally fucked synchronicity'. Lazar's own 1991 narration instead places the newspaper story and the Teller speech on the same day. The newspaper's date is fixed, so both cannot be right, and the board carries the anecdote as 'within a day'. No newspaper notice of the lecture was opened.",
+"tier": "C"
 },
 {
 "date": "1983-01-01",
@@ -1738,6 +2013,17 @@
 "tier": "B"
 },
 {
+"date": "1983-12-23",
+"era": "1",
+"id": "tl-1983-12-23-stone-foia-bentwaters",
+"label": "Stone files a FOIA request about Bentwaters, from his home address",
+"node": "clifford-stone",
+"precision": "day",
+"strand": "coverup",
+"text": "Klass records that on 23 December 1983 Clifford Stone filed a Freedom of Information Act request with the USAF for information on the Bentwaters incident, 'used his home address and did not show that he was an Army sergeant'. Stone had told the Disclosure Project that an Army team took him there officially in late December 1980. THIS IS AN AFFIRMATIVE ACT INCONSISTENT WITH HIS OWN ACCOUNT, NOT AN ABSENCE OF EVIDENCE.",
+"tier": "B"
+},
+{
 "date": "1984",
 "era": "1",
 "id": "tl-1984-clear-intent",
@@ -1758,6 +2044,17 @@
 "strand": "oversight",
 "text": "Betty Cash, Vickie Landrum and Colby Landrum sue the United States in the Southern District of Texas under the Federal Tort Claims Act, Civil Action No. H-84-348. Peter A. Gersten is attorney in charge.",
 "tier": "A"
+},
+{
+"date": "1984-07-10",
+"era": "1",
+"id": "tl-1984-07-10-sac-letter",
+"label": "The letter Fouche later calls the 'SAC/DARPA Classified Document' is written",
+"node": "fouche-military-documents",
+"precision": "day",
+"strand": "program",
+"text": "A Headquarters Strategic Air Command letter of 10 July 1984, 'REPLY TO ATTN OF: DARPA', addressed to office code LGMQ, states 'HQ AFMPC has approved an AAR 51[redacted] on MSgt (32674) Fouche as requested. MSgt Fouche's date of availability is Aug 87.' It is signed by DALE E. HAGERMAN, TSgt, USAF, NCOIC, Amn Acft Maint Asgns Sec, Dir of Asgns, DCS/Pers. The page image carries no classification marking of any kind, and all redactions on it were applied by Fouche himself on his own caption's admission.",
+"tier": "B"
 },
 {
 "date": "1984-12",
@@ -1914,6 +2211,39 @@
 "tier": "A"
 },
 {
+"date": "1986-11-17",
+"era": "1",
+"id": "tl-1986-11-17-jal-1628",
+"label": "Japan Air Lines flight 1628 incident over Alaska",
+"node": "jal-1628-1986",
+"precision": "day",
+"strand": "program",
+"text": "A Japan Air Lines 747 crossing Alaskan airspace reported an object accompanying it. The FAA investigated and generated a file that survives at the National Archives in Record Group 237, archival identifier 733667, running to over 1,500 pages including crew statements, air traffic control transcripts and radar data.",
+"tier": "A"
+},
+{
+"date": "1987-01-02",
+"era": "1",
+"id": "tl-1987-01-02-terauchi-interview",
+"label": "FAA interviews Captain Terauchi",
+"node": "jal-1628-1986",
+"precision": "day",
+"strand": "oversight",
+"text": "A 19-page transcript of the FAA's interview with Capt. Terauchi, dated 2 January 1987, is itemised in the National Archives file, alongside interviews with First Officer Tamefugi on 5 January and Flight Engineer Tsukuba on 15 January 1987. Klass reports that in this interview Terauchi 'admitted that this was the third time he had reported sighting a UFO'.",
+"tier": "A"
+},
+{
+"date": "1987-03-05",
+"era": "1",
+"id": "tl-1987-03-05-faa-alaska-release",
+"label": "FAA Alaskan Region press release concludes against a second aircraft",
+"node": "faa",
+"precision": "day",
+"strand": "oversight",
+"text": "The FAA Alaskan Region issued a press release stating that agency experts at the Technical Center in Atlantic City 'determined that a second radar target near the JAL flight... was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return', and concluding: 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.'",
+"tier": "A"
+},
+{
 "date": "1987-05-29",
 "era": "1",
 "id": "t-1987-mj12-public",
@@ -1923,6 +2253,17 @@
 "strand": "coverup",
 "text": "Moore, Shandera and Friedman publish the material. NARA's subsequent searches produce nothing but a single problematic memorandum in Record Group 341.",
 "tier": "B"
+},
+{
+"date": "1987-08-31",
+"era": "1",
+"id": "tl-1987-08-31-fouche-sac-liaison-ends",
+"label": "End of Fouche's Strategic Air Command liaison post at Kelly AFB; active service concludes",
+"node": "edgar-fouche",
+"precision": "day",
+"strand": "witness",
+"text": "The Meritorious Service Medal citation with oak leaf cluster reads 'as the Strategic Air Command Liaison Officer, San Antonio Air Logistics Center, Kelly Air Force Base, Texas, from 17 July 1983 to 31 August 1987', and closes 'The singularly distinctive accomplishments of Sergeant Fouche culminate a distinguished career in the service of his country.' The certificate is signed by John T. Chain, Jr., General, USAF, Commander in Chief.",
+"tier": "C"
 },
 {
 "date": "1987-12-04",
@@ -1947,6 +2288,28 @@
 "tier": "A"
 },
 {
+"date": "1987-12-29",
+"era": "1",
+"id": "tl-1987-12-29-lear-statement",
+"label": "John Lear's statement is dated, eighteen months before Lazar reaches KLAS",
+"node": "john-lear",
+"precision": "day",
+"strand": "witness",
+"text": "A statement by John Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation and preserved in the BSRA/BSRF holdings at the Archives for the Unexplained, circulated on the ParaNet bulletin board in early 1988. It precedes Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. Only the archive item record was opened; the statement's text was not rendered and no content from it is asserted.",
+"tier": "C"
+},
+{
+"date": "1988",
+"era": "1",
+"id": "tl-1988-lear-dulce",
+"label": "Lear develops his Dulce hypothesis, sourced to 'Ann West'",
+"node": "john-lear",
+"precision": "year",
+"strand": "witness",
+"text": "Hayakawa's chronology dates Lear's Dulce hypothesis to 1988 and names his source as a woman called Ann West, the same name Levesque later gives as the raw material of the two original Dulce Base articles.",
+"tier": "C"
+},
+{
 "date": "1988-01-01",
 "era": "1",
 "id": "t-1988-bennewitz",
@@ -1969,6 +2332,50 @@
 "tier": "B"
 },
 {
+"date": "1988-11-12",
+"era": "1",
+"id": "tl-1988-11-12-arv-exhibit-claimed",
+"label": "CLAIMED ONLY: a classified exhibit in the Big Hangar with three saucer-shaped craft",
+"node": "arv-fluxliner",
+"precision": "day",
+"strand": "witness",
+"text": "The load-bearing claim of the whole thread, and it rests on one second-hand chain. McCandlish's December 2000 testimony gives the date and the day: Sorensen 'told me how he had seen these three flying saucers in this hangar at Norton Air Force Base on November 12, 1988 - it was a Saturday.' The 1990 primary document, taken from the claimed eyewitness himself, places it only 'in early Nov. 88'. No record of any exhibit was opened.",
+"tier": "C"
+},
+{
+"date": "1988-11-12",
+"era": "1",
+"id": "tl-1988-11-12-norton-airshow",
+"label": "Air show at Norton AFB; SR-71A 61-7962 flies and departs",
+"node": "norton-afb-airshow-1988",
+"precision": "day",
+"strand": "program",
+"text": "A private photographic collection of Blackbird aircraft carries a section headed 'Norton Air Force Base Airshow, November 12, 1988', with captions including 'SR-71A 61-7962 at Norton AFB on November 12, 1988' and 'The crew of SR-71A 61-7962 shake hands before departing the November 12, 1988 Norton Air Force Base airshow'. This is the only opened record that dates the air show independently of the ARV account.",
+"tier": "C"
+},
+{
+"date": "1988-12",
+"era": "1",
+"id": "tl-1988-12-lazar-claimed-hire",
+"label": "Lazar's claimed employment at S-4 begins",
+"node": "s-4-papoose-lake",
+"precision": "month",
+"strand": "witness",
+"text": "In his 1991 narration Lazar says that 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', and that 'I was hired in December of 1988 to replace one of these men'. This row records the claim and its date, not any employment.",
+"tier": "B"
+},
+{
+"date": "1989-01",
+"era": "1",
+"id": "tl-1989-01-jacobs-mufon",
+"label": "Robert Jacobs publishes his own account of the Big Sur filming",
+"node": "robert-jacobs",
+"precision": "month",
+"strand": "witness",
+"text": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989. He gives his post as Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg AFB from May 1963 to May 1966, and dates the event, uncertainly, to 2, 3 or 15 September 1964. TWELVE YEARS BEFORE THE DISCLOSURE PROJECT, AND THE ANCHOR THE BOARD SHOULD USE FOR THIS WITNESS.",
+"tier": "B"
+},
+{
 "date": "1989-01",
 "era": "1",
 "id": "tl-1989-01-sr5",
@@ -1980,6 +2387,50 @@
 "tier": "A"
 },
 {
+"date": "1989-03",
+"era": "1",
+"id": "tl-1989-03-knapp-first-interviews",
+"label": "George Knapp begins interviewing Lazar",
+"node": "george-knapp",
+"precision": "month",
+"strand": "witness",
+"text": "Tom Mahood's timeline records that Knapp began conducting initial interviews with Lazar in March 1989 'for safekeeping purposes'. No 1989-dated artefact was opened and this row is Tier 3 evidence carried on a Tier C node.",
+"tier": "C"
+},
+{
+"date": "1989-03-22",
+"era": "1",
+"id": "tl-1989-03-22-first-viewing",
+"label": "First Wednesday desert viewing in Tikaboo Valley",
+"node": "gene-huff",
+"precision": "day",
+"strand": "witness",
+"text": "Lazar, his wife, Gene Huff and John Lear watched lights in Tikaboo Valley. Mahood's timeline records that only Lear saw an elliptical shape through a telescope. Huff's own synopsis of 12 March 1995 gives the same date.",
+"tier": "C"
+},
+{
+"date": "1989-04-05",
+"era": "1",
+"id": "tl-1989-04-05-detained",
+"label": "Third viewing ends with the group detained by the Lincoln County Sheriff",
+"node": "gene-huff",
+"precision": "day",
+"strand": "witness",
+"text": "On the third Wednesday viewing the group, which included Lazar, Gene Huff and John Lear, was discovered by guards and detained by the Lincoln County Sheriff. Both the claimants' own accounts and the principal sceptical account agree this happened; they disagree about what the group was watching. Tom Mahood's counter-explanation is that the whole alien-craft narrative began as a cover story after this detention.",
+"tier": "C"
+},
+{
+"date": "1989-05",
+"era": "1",
+"id": "tl-1989-05-klas-dennis",
+"label": "KLAS-TV airs the silhouetted interviews under the pseudonym 'Dennis'",
+"node": "klas-lazar-broadcasts-1989",
+"precision": "month",
+"strand": "witness",
+"text": "TIER 3 DATE, CARRIED HONESTLY. Tom Mahood's timeline records that in May 1989 Lazar's silhouetted interviews with George Knapp aired on KLAS-TV using the pseudonym 'Dennis'. NO 1989-DATED ARTEFACT WAS OPENED BY THIS BOARD, and KLAS's own retrospectives returned HTTP 403 three times on 18 September 2026.",
+"tier": "B"
+},
+{
 "date": "1989-05-01",
 "era": "1",
 "id": "tl-1989-lazar",
@@ -1988,6 +2439,17 @@
 "precision": "month",
 "strand": "witness",
 "text": "George Knapp broadcasts the Robert Lazar interviews on KLAS-TV, creating the public reverse-engineering narrative attached to Area 51 and S-4. No primary record has ever corroborated it.",
+"tier": "C"
+},
+{
+"date": "1989-05-23",
+"era": "1",
+"id": "tl-1989-05-23-cooper-paper",
+"label": "Cooper's paper is dated; it names Four Corners reservations and never says Dulce",
+"node": "cooper-secret-government-1989",
+"precision": "day",
+"strand": "witness",
+"text": "'The Secret Government', dated on its own first page and delivered at the MUFON symposium in Las Vegas on 2 July 1989, carries the frame that 'These alien bases would be constructed under Indian reservations in the Four Corners area of Utah, Colorado, New Mexico and Arizona'. The string 'Dulce' occurs ZERO times in its forty-nine pages, which were extracted and searched in full. Cooper grades the paper himself: 'this chapter must be termed a hypothesis'.",
 "tier": "C"
 },
 {
@@ -2046,6 +2508,17 @@
 "tier": "B"
 },
 {
+"date": "1989-11-10",
+"era": "1",
+"id": "tl-1989-11-10-klas-named",
+"label": "KLAS-TV identifies and interviews Lazar under his own name",
+"node": "klas-lazar-broadcasts-1989",
+"precision": "day",
+"strand": "witness",
+"text": "TIER 3 DATE, CARRIED HONESTLY. Mahood's timeline gives 10 November 1989; some accounts give 11 November. This is the broadcast that put Area 51 into worldwide public consciousness and no artefact of it was opened by this board. The only contemporaneous documentary confirmation opened is the Las Vegas Review-Journal of 19 June 1990 recording that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'.",
+"tier": "B"
+},
+{
 "date": "1990-03-31",
 "era": "1",
 "id": "tl-1990-03-31-belgian-f16-scramble",
@@ -2054,6 +2527,61 @@
 "precision": "day",
 "strand": "witness",
 "text": "The National Archives' guide to the MoD UFO files opened in August 2009 states that the files 'reveal how in March 1990 the Belgian Air Force scrambled F-16 fighters to intercept UFOs reported by police officers and others', and places a four-page account by General Wilfried de Brouwer, Chief of Operations, Belgian Air Staff, in DEFE 24/1960, confirming that the F-16 pilots obtained radar lock-ons but could not explain the phenomena. Malcolm Rifkind later told Lord Hill-Norton that the MoD was not informed at the time.",
+"tier": "C"
+},
+{
+"date": "1990-06-05",
+"era": "1",
+"id": "tl-1990-06-05-lazar-arrested",
+"label": "Lazar arrested for pandering in Las Vegas",
+"node": "lazar-clark-county-1990",
+"precision": "day",
+"strand": "witness",
+"text": "Mahood's timeline records the arrest on 5 June 1990. The offence, per the police account printed in the Review-Journal a fortnight later, was recruiting a prostitute, operating her business from an apartment complex, maintaining computer records of customers and their licence plate numbers, and taking at least half her earnings.",
+"tier": "C"
+},
+{
+"date": "1990-06-18",
+"era": "1",
+"id": "tl-1990-06-18-guilty-plea",
+"label": "Guilty plea to felony pandering",
+"node": "lazar-clark-county-1990",
+"precision": "day",
+"strand": "witness",
+"text": "Lazar pleaded guilty to felony pandering in District Court. The Las Vegas Review-Journal reported it the next day under the headline 'Source in Channel 8's UFO series pleads guilty to pandering charge', by Warren Bates, page 8B, noting the exposure as 'one to six years, with a possible fine of $5,000'.",
+"tier": "C"
+},
+{
+"date": "1990-07-27",
+"era": "1",
+"id": "tl-1990-07-27-presentence-report",
+"label": "Pre-Sentence Report records the Pacifica, MIT and Caltech credential list",
+"node": "lazar-clark-county-1990",
+"precision": "day",
+"strand": "witness",
+"text": "THE SPINE OF THE CREDENTIAL QUESTION. Lazar's Pre-Sentence Report of 27 July 1990 lists his own reported education: '1978, Bachelor of Science Degree in Physics and Electronic Technology, Pacifica University'; '1982, Masters of Science in Physics, MIT'; '1985, Masters of Science in Electronic Technology, Cal Tech'. Because this is a court document rather than a television statement, the credential question is Tier 1 evidence and not gossip. No institution has confirmed any of the three. Gene Huff's rebuttal of 15 May 1995, that the probation officer misread two Pacifica correspondence courses, is carried beside it and is not adopted.",
+"tier": "C"
+},
+{
+"date": "1990-08-13",
+"era": "1",
+"id": "tl-1990-08-13-scott-mark-notes",
+"label": "Scott's handwritten sheet headed 'Mark - 8/13/90'",
+"node": "scott-sorensen-notes-1990",
+"precision": "day",
+"strand": "witness",
+"text": "One of the handwritten sheets on Aviation Week & Space Technology letterhead in the 31 page scan is headed, circled, 'Mark - 8/13/90'. It is the earliest dated page in the document.",
+"tier": "B"
+},
+{
+"date": "1990-08-20",
+"era": "1",
+"id": "tl-1990-08-20-sentenced",
+"label": "Sentenced by Judge Jack Lehman to probation, community service and psychotherapy",
+"node": "lazar-clark-county-1990",
+"precision": "day",
+"strand": "witness",
+"text": "District Judge Jack Lehman sentenced Lazar to probation rather than prison, with 150 hours of community service, an order to 'stay away from brothels and undergo psychotherapy', and a year of psychotherapy, saying he 'could not make a determination regarding his claims'. The same report describes Lazar's claim as of that date as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas', which is a different named place from the one the claim later settled on.",
 "tier": "C"
 },
 {
@@ -2066,6 +2594,72 @@
 "strand": "oversight",
 "text": "The CFO Act imposes audited financial statements on major federal agencies. In the same month the Secretary of the Treasury, the Director of OMB and the Comptroller General create the Federal Accounting Standards Advisory Board to set federal accounting standards. The Department of Defense will not attempt a full-scope audit for twenty-seven years.",
 "tier": "B"
+},
+{
+"date": "1990-10-01",
+"era": "1",
+"id": "tl-1990-10-01-avweek-artwork",
+"label": "YEAR INFERRED: Aviation Week prints McCandlish's paintings of two aircraft",
+"node": "mark-mccandlish",
+"precision": "day",
+"strand": "witness",
+"text": "The 1990 interview notes state 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue.' The year is 1990 only by the document's own December 1990 dating, and the issue itself was NOT OPENED. It is the highest-value gap on this lead.",
+"tier": "B"
+},
+{
+"date": "1990-12-03",
+"era": "1",
+"id": "tl-1990-12-03-scott-interview",
+"label": "Scott interviews 'Brad' for one hour in his Pasadena office, on two tapes",
+"node": "scott-sorensen-notes-1990",
+"precision": "day",
+"strand": "witness",
+"text": "William B. Scott, senior engineering editor of Aviation Week & Space Technology, interviewed the claimed eyewitness for one paid hour: 'He agreed to a one-hr. session in his Pasadena office, pointedly telling me that he gets $200/hr. for his time, and one hr. was all he could give me.' Internal markers show two tapes.",
+"tier": "B"
+},
+{
+"date": "1990-12-10",
+"era": "1",
+"id": "tl-1990-12-10-scott-addendum",
+"label": "Handwritten addendum: 'As of 12/10/90 - additional info from Brad'",
+"node": "scott-sorensen-notes-1990",
+"precision": "day",
+"strand": "witness",
+"text": "Page 16 of the transcript carries a handwritten addendum in the same hand, followed by notes on a diamond-shaped aircraft slowing to subsonic speeds to dispense weapons. The interview was followed up before the notes were compiled.",
+"tier": "B"
+},
+{
+"date": "1990-12-11",
+"era": "1",
+"id": "tl-1990-12-11-scott-compiled",
+"label": "The 16 page transcript is compiled: 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'",
+"node": "scott-sorensen-notes-1990",
+"precision": "day",
+"strand": "witness",
+"text": "The typed transcript is hand-numbered 1 to 16 and headed 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. Nothing in the 31 pages is a published article; Aviation Week printed the artwork, not the interview.",
+"tier": "B"
+},
+{
+"date": "1991",
+"era": "1",
+"id": "tl-1991-lazar-tape",
+"label": "The Lazar Tape fixes the whole claim in datable form",
+"node": "lazar-tape-1991",
+"precision": "year",
+"strand": "witness",
+"text": "Tri-Dot Productions publishes 'The Lazar Tape and Excerpts from the Government Bible', forty minutes, created by Gene Huff and Bob Lazar. It is the strongest artefact in the cluster and the one opened by this board: its English auto-generated captions, 1,046 segments to 38:39, were read in full on 18 September 2026. Every element-115 claim, every S-4 description and the Teller anecdote carry timestamps in it.",
+"tier": "B"
+},
+{
+"date": "1991",
+"era": "1",
+"id": "tl-1991-talley-vacuum-null",
+"label": "Air Force contractor reports no detectable propulsive force in high vacuum",
+"node": "canning-nasa-cr-2004-213312",
+"precision": "year",
+"strand": "program",
+"text": "Robert L. Talley, 'Twenty First Century Propulsion Concept', PL-TR-91-3009, final report for February 1989 to July 1990 on contract FO4611-89-C-0023, Phillips Laboratory, Air Force Systems Command, Edwards AFB. Quoted in NASA/CR-2004-213312: 'Direct experimental results show that under high vacuum conditions... no detectable propulsive force was electrostatically induced by applying a static potential difference... between test device electrodes.' THE TALLEY REPORT ITSELF HAS NOT BEEN OPENED BY THIS BOARD.",
+"tier": "C"
 },
 {
 "date": "1991",
@@ -2112,6 +2706,17 @@
 "tier": "A"
 },
 {
+"date": "1992-06",
+"era": "1",
+"id": "tl-1992-06-yamato-1-sea-trials",
+"label": "Yamato-1 becomes the world's first superconducting MHD-propelled ship",
+"node": "yamato-1",
+"precision": "month",
+"strand": "program",
+"text": "Trial runs of the Ship and Ocean Foundation's experimental vessel, begun as a committee in 1985 under the chairmanship of Yohei Sasakawa and laid down in 1989. THE CONTROL CASE FOR THE WHOLE STRAND: the mechanism the ARV literature offers as evidence of recovered technology was built in public by a civil maritime foundation and reported at an international conference two years later.",
+"tier": "C"
+},
+{
 "date": "1992-09-18",
 "era": "1",
 "id": "ag-tl-1992-nro",
@@ -2120,6 +2725,17 @@
 "precision": "month",
 "strand": "oversight",
 "text": "After 31 years the Deputy Secretary of Defense authorises acknowledgement that the National Reconnaissance Office exists. The precedent cuts both ways: it proves concealment at scale is possible, and it proves it eventually ends.",
+"tier": "B"
+},
+{
+"date": "1993",
+"era": "1",
+"id": "tl-1993-george-skeptical-inquirer",
+"label": "The project engineer answers Jacobs in print",
+"node": "big-sur-1964",
+"precision": "year",
+"strand": "witness",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186. He identifies himself as the project engineer, confirms that Jacobs was named on-site commander by the 1369th Photo Squadron, publishes team photographs, fixes the date and launch, explains the imagery as decoy and chaff deployment, and states that Jacobs was not authorised to view the film.",
 "tier": "B"
 },
 {
@@ -2220,6 +2836,28 @@
 "strand": "oversight",
 "text": "Section 1152 of the FY1994 NDAA, Public Law 103-160, imposes the same reporting regime on every federal agency that runs a SAP other than DoD, the nuclear weapons complex and the intelligence community, and supplies the only statutory definition of 'special access program' in the United States Code, now at 50 U.S.C. 3348(g)(3).",
 "tier": "A"
+},
+{
+"date": "1993-12-25",
+"era": "1",
+"id": "tl-1993-12-25-testors-sr75",
+"label": "Baltimore Sun reports the Testors SR-75 Penetrator and XR-7 Thunderdart on sale",
+"node": "testors-sr-75-kit",
+"precision": "day",
+"strand": "program",
+"text": "'Testor Corp. released the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models', designed by 'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19'. The Air Force spokeswoman Capt. Mary Dillon is quoted: 'We're not saying no comment, we're saying such a plane does not exist.' Fouche's presentation of August 1998 presents the same SR-75 Penetrator designation and the same mothership architecture as inside knowledge.",
+"tier": "C"
+},
+{
+"date": "1994",
+"era": "1",
+"id": "tl-1994-alcubierre-warp-paper",
+"label": "Alcubierre publishes the warp-drive metric, and states that exotic matter will be needed",
+"node": "alcubierre-1994",
+"precision": "year",
+"strand": "program",
+"text": "Classical and Quantum Gravity 11-5, L73-L77. Its abstract closes: 'just as it happens with wormholes, exotic matter will be needed in order to generate a distortion of spacetime like the one discussed here.' The body states that the metric 'violates all three energy conditions' and that the energy density seen by Eulerian observers 'is everywhere negative'. The word 'device' appears zero times in the paper.",
+"tier": "B"
 },
 {
 "date": "1994-01-01",
@@ -2365,6 +3003,17 @@
 "tier": "A"
 },
 {
+"date": "1995-05-08",
+"era": "1",
+"id": "tl-1995-05-08-schneider-postfalls",
+"label": "Schneider supplies the specification: seven levels, 2.5 miles, a 1979 firefight",
+"node": "phil-schneider",
+"precision": "day",
+"strand": "witness",
+"text": "At Post Falls, Idaho he said he had been 'involved in building an addition to the deep underground military base at Dulce', that 'It goes down seven levels and over 2.5 miles deep', and that in a cavern there he shot two aliens and about seventy people were killed. The hosting page's own introduction gives a different casualty figure, sixty-six. He was not part of the initial rumours and arrived about fifteen years after they began.",
+"tier": "C"
+},
+{
 "date": "1995-07-28",
 "era": "1",
 "id": "ag-tl-1995-gao",
@@ -2429,6 +3078,28 @@
 "strand": "coverup",
 "text": "A Presidential Determination exempting 'the Air Force's Operating Location Near Groom Lake, Nevada' from federal environmental disclosure requirements appears in the Federal Register. It is repeated annually thereafter.",
 "tier": "A"
+},
+{
+"date": "1996",
+"era": "1",
+"id": "tl-1996-nasa-bpp-established",
+"label": "NASA establishes the Breakthrough Propulsion Physics Project",
+"node": "nasa-bpp",
+"precision": "year",
+"strand": "program",
+"text": "From its own summary document: 'This emerging science, combined with the realization that rockets are fundamentally inadequate for interstellar exploration, led NASA to establish the \"Breakthrough Propulsion Physics (BPP)\" Project in 1996.' Three grand challenges: propellantless propulsion, hyper-fast travel, and breakthrough spacecraft power.",
+"tier": "B"
+},
+{
+"date": "1996",
+"era": "1",
+"id": "tl-1996-plea-withdrawal-denied",
+"label": "Petition to withdraw the 1990 guilty plea is refused",
+"node": "lazar-clark-county-1990",
+"precision": "year",
+"strand": "witness",
+"text": "Lazar petitioned to withdraw the plea, citing post-traumatic stress, hidden federal records and inadequate legal representation. The District Attorney opposed, arguing 'that Lazar's new claims were irrelevant to his admitted and documented criminal activity'. The judge denied the petition and the conviction stands.",
+"tier": "C"
 },
 {
 "date": "1996-01-01",
@@ -2497,6 +3168,17 @@
 "tier": "A"
 },
 {
+"date": "1996-01-11",
+"era": "1",
+"id": "tl-1996-01-11-schneider-death",
+"label": "Schneider dies in Clackamas County, Oregon; the record is thin and contested",
+"node": "phil-schneider",
+"precision": "day",
+"strand": "witness",
+"text": "His memorial record gives death on 11 January 1996 in Clackamas County, Oregon, cremated. The date in circulation, tied to the discovery of the body, is 17 January 1996. NO DEATH CERTIFICATE, MEDICAL EXAMINER'S REPORT OR POLICE REPORT WAS OPENED, and neither the suicide ruling nor the contest to it is carried as a claim anywhere in this file.",
+"tier": "C"
+},
+{
 "date": "1996-01-20",
 "era": "1",
 "id": "tl-intl-1996-varginha",
@@ -2506,6 +3188,28 @@
 "strand": "witness",
 "text": "Three young women in Varginha, Minas Gerais report a crouching creature with red eyes and three fingers; a week earlier an ultralight pilot reported a cylindrical craft coming down outside the town. Rumours of military recovery and of an American removal follow. A 2010 Brazilian military inquiry attributes the sighting to a mentally disabled man and routine vehicle movements.",
 "tier": 2
+},
+{
+"date": "1996-05",
+"era": "1",
+"id": "tl-1996-05-tacit-blue-display",
+"label": "TACIT BLUE placed on public museum display",
+"node": "northrop-tacit-blue",
+"precision": "month",
+"strand": "program",
+"text": "'The aircraft was placed on display at the museum in May 1996.' A real compartmented aircraft programme of the Groom Lake era ends in a public exhibition hall with a published fact sheet and a cockpit plaque naming its five pilots.",
+"tier": "B"
+},
+{
+"date": "1996-08-26",
+"era": "1",
+"id": "tl-1996-08-26-morgan-critique",
+"label": "Physicist David L. Morgan publishes the physics critique",
+"node": "element-115-claim",
+"precision": "day",
+"strand": "witness",
+"text": "Dr David L. Morgan, a particle physicist, publishes 'A Physicist's Critique', revised April 2001. Three objections: that the strong nuclear force 'has NOTHING TO DO WITH GRAVITY'; that the nuclear force 'extends out to about the same distance away from a nucleus NO MATTER HOW MASSIVE THE NUCLEUS IS'; and, crucially without needing any model of gravity, that if the antimatter must be made on board then 'your system produces NO NET ENERGY AT ALL!!'",
+"tier": "C"
 },
 {
 "date": "1997",
@@ -2618,6 +3322,17 @@
 "tier": 1
 },
 {
+"date": "1997-12",
+"era": "1",
+"id": "tl-1997-12-friedman-fraud",
+"label": "Stanton Friedman publishes 'The Bob Lazar Fraud'",
+"node": "bob-lazar",
+"precision": "month",
+"strand": "witness",
+"text": "Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, publishes the credential investigation, updated January 2011. He located the professor Lazar named as a Caltech instructor: 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' He records the directory page's own scope statement and describes the W-2 as totalling 'under $1000.00'. The heaviest denial in the cluster comes from a proponent, not a debunker.",
+"tier": "B"
+},
+{
 "date": "1998",
 "era": "1",
 "id": "bb-tl-1998-second",
@@ -2627,6 +3342,17 @@
 "strand": "oversight",
 "text": "The DCI discloses $26.7 billion for FY1998 and then stops. No intelligence budget figure is published again until 2007, and then only because Congress compels it by statute.",
 "tier": "A"
+},
+{
+"date": "1998",
+"era": "1",
+"id": "tl-1998-alien-rapture-published",
+"label": "Alien Rapture: The Chosen published by Galde Press",
+"node": "alien-rapture-1998",
+"precision": "year",
+"strand": "witness",
+"text": "First edition, Lakeville, Minnesota, Galde Press, 1998, xii and 275 pages, 23 cm, ISBN 1880090503, by Edgar Rothschild Fouche and Brad Steiger. The Library of Congress record gives only the year; no primary record for the month was opened. No copy of the text was opened, so how the TR-3B appears inside it is unestablished.",
+"tier": "B"
 },
 {
 "date": "1998-01-01",
@@ -2649,6 +3375,39 @@
 "strand": "coverup",
 "text": "Kasza v. Browner, 133 F.3d 1159, sustains dismissal on state secrets and statutory exemption grounds. The Supreme Court denies certiorari at 525 U.S. 967. The facility's contents remain legally unspeakable.",
 "tier": "A"
+},
+{
+"date": "1998-02-01",
+"era": "1",
+"id": "tl-1998-02-01-iufoc-7th-convention",
+"label": "The 7th Annual International UFO Congress Convention runs at Laughlin, and Fouche is not on its programme",
+"node": "fouche-iufoc-1998",
+"precision": "day",
+"strand": "witness",
+"text": "A contemporaneous page for the '7th Annual International UFO Congress Convention Film Festival & EBE Awards' gives the dates 'February 1 thru 7, 1998' and the venue 'Gold River Resort, Laughlin, Nevada', and lists 24 speakers by name. Edgar Fouche is not among them. His own transcript is dated August 1998 and his own text says he spoke at Laughlin 'in August', which the Congress's separate summer sessions make consistent rather than contradictory, but no contemporaneous record placing him on any podium in 1998 was opened.",
+"tier": "C"
+},
+{
+"date": "1998-02-04",
+"era": "1",
+"id": "tl-1998-02-04-loc-catalogues-alien-rapture",
+"label": "THE LIBRARY OF CONGRESS CATALOGUES ALIEN RAPTURE AS SCIENCE FICTION",
+"node": "alien-rapture-1998",
+"precision": "day",
+"strand": "witness",
+"text": "Library of Congress record LCCN 98002961, recordContentSource DLC, recordCreationDate 980204, carries the gsafd genre element 'Science fiction.', the subject heading 'Alien abduction - Fiction', the classification PS3556.O779 A79 1998, which is American literature, individual authors, 1961 onward, and the Dewey number 813/.54, American fiction. The cataloguing predates both the book's publication and the August presentation.",
+"tier": "B"
+},
+{
+"date": "1998-08",
+"era": "1",
+"id": "tl-1998-08-fouche-presentation",
+"label": "THE ANCHOR: the presentation transcript that originates the TR-3B",
+"node": "fouche-iufoc-1998",
+"precision": "month",
+"strand": "witness",
+"text": "A 62 page slide-cued speaking script headed 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Slide 5 names the book it was given to promote. Slides 69 to 72 give the TR-3B its designation and code name Astra, attribute it to 'the Top Secret, Aurora Program with SDI and black budget monies', name the NRO, NSA and CIA as funders and taskers, name Sandia and Livermore as developers of the propulsion, specify a mercury-based plasma 'at a temperature of 150 degrees Kelvin', and give the operational craft two different sizes two slides apart, 600 feet at slide 69 and 300 feet at slide 70.",
+"tier": "B"
 },
 {
 "date": "1998-08-10",
@@ -2728,6 +3487,105 @@
 "tier": "B"
 },
 {
+"date": "2000-09",
+"era": "2",
+"id": "tl-2000-09-stone-testimony",
+"label": "Clifford Stone's testimony recorded for the Disclosure Project",
+"node": "clifford-stone",
+"precision": "month",
+"strand": "witness",
+"text": "Printed at section 3.8.4 under 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. The editorial header: 'Stone has seen living and dead extraterrestrials in his official duties on an army team that retrieved crashed ET crafts.'",
+"tier": "B"
+},
+{
+"date": "2000-09",
+"era": "2",
+"id": "tl-2000-09-warren-testimony",
+"label": "Larry Warren's testimony recorded for the Disclosure Project",
+"node": "larry-warren",
+"precision": "month",
+"strand": "witness",
+"text": "Printed at section 3.8.4 under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'.",
+"tier": "C"
+},
+{
+"date": "2000-09",
+"era": "2",
+"id": "tl-2000-09-williams-testimony",
+"label": "Lt Col John Williams's Disclosure Project testimony on a compartmented facility at Norton",
+"node": "disclosure-project-briefing-2001",
+"precision": "month",
+"strand": "witness",
+"text": "Printed in the same document as McCandlish's. Williams says he 'was responsible for that base's facilities from 1981-82' and that 'I was never allowed in that area when I was there at Norton Air Force Base'. Greer cross-references the two testimonies to each other in bracketed notes signed 'SG'.",
+"tier": "B"
+},
+{
+"date": "2000-10",
+"era": "2",
+"id": "tl-2000-10-callahan-testimony",
+"label": "John Callahan's testimony recorded for the Disclosure Project",
+"node": "john-callahan",
+"precision": "month",
+"strand": "witness",
+"text": "Printed at section 3.8.2 under 'Testimony of FAA Division Chief John Callahan / October 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY ONLY; the case he describes has its own federal record and his claimed title does not.",
+"tier": "B"
+},
+{
+"date": "2000-11",
+"era": "2",
+"id": "tl-2000-11-jacobs-testimony",
+"label": "Robert Jacobs's testimony recorded for the Disclosure Project",
+"node": "robert-jacobs",
+"precision": "month",
+"strand": "witness",
+"text": "Printed at section 3.8.3 under 'Testimony of Professor Robert Jacobs, Lt. US Air Force / November 2000'. The last and weakest of his three published accounts of the same event.",
+"tier": "B"
+},
+{
+"date": "2000-12",
+"era": "2",
+"id": "tl-2000-12-mccandlish-testimony",
+"label": "McCandlish's Disclosure Project testimony is taken",
+"node": "mark-mccandlish",
+"precision": "month",
+"strand": "witness",
+"text": "Printed at section 3.8.5 under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'. It is where the claimed craft acquires the names Alien Reproduction Vehicle and Flux Liner in print, where the sizes are given as 24 / 60 / 'about 120 to 130 feet', and where the Frank Carlucci identification is published in his own voice and labelled as his own speculation.",
+"tier": "B"
+},
+{
+"date": "2001",
+"era": "2",
+"id": "tl-2001-klass-sun-68",
+"label": "Klass publishes Stone's service record and the 1987 FAA release",
+"node": "philip-j-klass",
+"precision": "year",
+"strand": "witness",
+"text": "Skeptics UFO Newsletter #68, Summer 2001. It prints Clifford Stone's assignment history obtained from the National Personnel Records Center, quotes the FAA Alaskan Region press release of 5 March 1987 and the air traffic control transcript on JAL 1628, and records that twenty of sixty-nine interviewees spoke at the press conference. Klass declares that he was refused admission to the event.",
+"tier": "B"
+},
+{
+"date": "2001-04",
+"era": "2",
+"id": "tl-2001-04-briefing-document",
+"label": "The Disclosure Project Briefing Document is prepared by Greer and Loder",
+"node": "disclosure-project-briefing-2001",
+"precision": "month",
+"strand": "witness",
+"text": "The roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony including McCandlish's of December 2000. It is the custody point for dozens of this board's witness claims.",
+"tier": "B"
+},
+{
+"date": "2001-04",
+"era": "2",
+"id": "tl-2001-04-briefing-documentx",
+"label": "Disclosure Project Briefing Document published",
+"node": "disclosure-project-briefing-2001",
+"precision": "month",
+"strand": "witness",
+"text": "'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D. / April, 2001', addressed to members of the press, the US government and the US scientific community. Its section 3.8 prints sixty-eight dated witness testimonies across five subsections.",
+"tier": "A"
+},
+{
 "date": "2001-05-09",
 "era": "2",
 "id": "ms-2001-npc",
@@ -2750,6 +3608,39 @@
 "tier": "B"
 },
 {
+"date": "2001-05-09",
+"era": "2",
+"id": "tl-2001-05-09-press-club",
+"label": "Disclosure Project press conference at the National Press Club",
+"node": "national-press-club-2001",
+"precision": "day",
+"strand": "witness",
+"text": "About twenty former government workers spoke, out of sixty-nine whose interviews appear in the accompanying book. ABC News covered it the same day. NO OPENED SOURCE LISTS THE TWENTY; five are placed at the podium by opened sources, namely Callahan, Stone, Filer, Sheehan and Webre.",
+"tier": "A"
+},
+{
+"date": "2001-06-27",
+"era": "2",
+"id": "tl-2001-06-27-faa-destruction-letter",
+"label": "FAA tells a FOIA requester the JAL 1628 records will be destroyed in 30 days",
+"node": "faa",
+"precision": "day",
+"strand": "coverup",
+"text": "Letter of 27 June 2001: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed. Over 1,500 pages were later found at the National Archives.",
+"tier": "A"
+},
+{
+"date": "2001-11-06",
+"era": "2",
+"id": "tl-2001-11-06-cooper-killed",
+"label": "Cooper is killed during an attempted arrest in Arizona",
+"node": "bill-cooper",
+"precision": "day",
+"strand": "witness",
+"text": "A sheriff's operation involving seventeen officers, with two deputies in plain clothes, on a 1998 federal warrant for tax evasion and bank fraud and a local warrant for aggravated assault with a deadly weapon. Cooper shot a deputy in the head and 'was killed by multiple shots before he made it inside'. The SPLC report gives 6 November; the date in general circulation is 5 November.",
+"tier": "C"
+},
+{
 "date": "2001-11-14",
 "era": "2",
 "id": "t-2001-caus9th",
@@ -2770,6 +3661,17 @@
 "strand": "program",
 "text": "Richard Dolan publishes 'Chronology of a Cover-Up, 1941-1973', moving the field's argument from witness testimony to the documented architecture of American secrecy.",
 "tier": "A"
+},
+{
+"date": "2002",
+"era": "2",
+"id": "tl-2002-nasa-bpp-ended",
+"label": "NASA support for the project ends after six years and sixteen research tasks",
+"node": "nasa-bpp",
+"precision": "year",
+"strand": "program",
+"text": "'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002... Of 16 incremental research tasks completed by the project and from other sponsors, about a third were found not to be viable, a quarter have clear opportunities for sequels, and the rest remain unresolved.' The circumstances of the closure were not opened and are not asserted.",
+"tier": "B"
 },
 {
 "date": "2002-01-01",
@@ -2849,6 +3751,17 @@
 "tier": "A"
 },
 {
+"date": "2003-06-23",
+"era": "2",
+"id": "tl-2003-06-23-bennewitz-death",
+"label": "Bennewitz dies; buried at Santa Fe National Cemetery as a Coast Guard seaman",
+"node": "paul-bennewitz",
+"precision": "day",
+"strand": "witness",
+"text": "Paul Frederick Bennewitz Jr, born 30 September 1927, died 23 June 2003, Section 12 Site 402, marker inscribed 'S1C US COAST GUARD WORLD WAR II'. The man at the centre of the best-documented domestic disinformation operation in this subject was a Second World War Coast Guard seaman who ran a humidity-instrument company.",
+"tier": "B"
+},
+{
 "date": "2003-10-14",
 "era": "2",
 "id": "av-2003-10-14",
@@ -2904,6 +3817,17 @@
 "tier": "A"
 },
 {
+"date": "2004-02-02",
+"era": "2",
+"id": "tl-2004-02-02-element-115-synthesised",
+"label": "Element 115 synthesis published in Physical Review C",
+"node": "element-115-claim",
+"precision": "day",
+"strand": "program",
+"text": "Oganessian et al., 'Experiments on the synthesis of element 115 in the reaction 243Am(48Ca,xn)291-x115', Physical Review C 69, 021601(R), a Dubna and Lawrence Livermore collaboration. The isotopes are 287 and 288, at cross sections of roughly 1 and 3 picobarn, observed as chains of consecutive alpha decays running to completion within about twenty seconds and about half a second. Nothing about them is stable, machinable or storable.",
+"tier": "A"
+},
+{
 "date": "2004-03-03",
 "era": "2",
 "id": "sap-tl-2004-gao",
@@ -2924,6 +3848,39 @@
 "strand": "oversight",
 "text": "GAO-04-332 finds that DoD 'cannot provide adequate assurances that its oversight ensures the protection of classified information' at more than 11,000 cleared contractor facilities. Footnote 2 records that, by agreement with committee staff, the review 'did not include DSS's oversight of special access programs at contractor facilities.'",
 "tier": "A"
+},
+{
+"date": "2004-06",
+"era": "2",
+"id": "tl-2004-06-millis-breakthrough-tm",
+"label": "NASA publishes the finding that Biefeld-Brown devices are ion wind",
+"node": "millis-tm-2004-213082",
+"precision": "month",
+"strand": "program",
+"text": "NASA/TM-2004-213082, prepared for a NASA/DoD-cosponsored conference in Seattle, 24 to 26 June 2004. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' Section 3.3.1 records that 'metric engineering' had emerged at aerospace conferences and that 'The origin of this term is unknown'.",
+"tier": "B"
+},
+{
+"date": "2004-09",
+"era": "2",
+"id": "tl-2004-09-gasbuggy-remediation",
+"label": "Final surface remediation completed; 5,562 cubic yards of contaminated soil removed",
+"node": "gasbuggy-1967",
+"precision": "month",
+"strand": "program",
+"text": "Thirty-seven years after the detonation the federal government was still hauling contaminated soil off ground twelve miles from Dulce. A permanent monument, a brass plaque in a concrete base, marks the site.",
+"tier": "B"
+},
+{
+"date": "2004-10",
+"era": "2",
+"id": "tl-2004-10-canning-asymmetrical-capacitors",
+"label": "NASA contractor report models asymmetrical capacitor thrust as ion drift",
+"node": "canning-nasa-cr-2004-213312",
+"precision": "month",
+"strand": "program",
+"text": "NASA/CR-2004-213312. 'In spite of decades of speculation about possible new physical principles being responsible for the thrust produced by ACTs and lifters, we find no evidence to support such a conclusion. On the contrary, we find that their operation is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions.' Its reference list cites both Brown patents and GB 300,311 by number.",
+"tier": "C"
 },
 {
 "date": "2004-11-10",
@@ -3023,6 +3980,17 @@
 "strand": "witness",
 "text": "Kelleher and Knapp publish the account of the NIDS ranch work; James Lacatski of DIA reads it.",
 "tier": "B"
+},
+{
+"date": "2005-02-08",
+"era": "2",
+"id": "tl-2005-02-08-project-beta-book",
+"label": "Greg Bishop publishes Project Beta, the principal documented account",
+"node": "project-beta-bishop-2005",
+"precision": "day",
+"strand": "witness",
+"text": "Paraview Pocket Books, ISBN 9780743470926, 288 pages, LCCN 2005297375, OCLC 57678877. A participant account at one remove: a writer relying on it states that Bishop had an undisclosed friendship with Bill Moore, one of the two men the book is about.",
+"tier": "C"
 },
 {
 "date": "2005-12",
@@ -3133,6 +4101,17 @@
 "strand": "program",
 "text": "Per 'Skinwalkers at the Pentagon', Lacatski writes to Robert Bigelow on DIA letterhead, the act that originates the contract. DIA later reports no records of the letter.",
 "tier": "B"
+},
+{
+"date": "2007-07-20",
+"era": "2",
+"id": "tl-2007-07-20-cpsc-united-nuclear",
+"label": "CPSC: United Nuclear, the company, fined $7,500 after pleading guilty to three counts",
+"node": "bob-lazar",
+"precision": "day",
+"strand": "program",
+"text": "CORRECTS THE STANDARD FRAMING. It is widely repeated that 'in 2006, Lazar pleaded guilty' to a Federal Hazardous Substances Act violation. The CPSC's own release of 20 July 2007 says the COMPANY pled guilty, to three criminal counts, before U.S. Chief Magistrate Lorenzo F. Garcia: 'United Nuclear Scientific Supplies LLC, of Edgewood, N.M., founded and operated by Robert Lazar, was fined $7,500 and received three years probation.' Robert Lazar and accountant Joy White appear in the separate civil consent decree.",
+"tier": "A"
 },
 {
 "date": "2007-08-03",
@@ -3696,6 +4675,39 @@
 "tier": "B"
 },
 {
+"date": "2010-03-30",
+"era": "2",
+"id": "tl-2010-03-30-dird-antigravity",
+"label": "DIA's own antigravity survey is issued, and it does not mention Thomas Townsend Brown",
+"node": "dird-antigravity-for-aerospace-applications",
+"precision": "day",
+"strand": "program",
+"text": "DIA-08-1003-018, 'Antigravity for Aerospace Applications', ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis. Word counts over the released PDF: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and Brown absent except as three other authors' surnames in the reference list. THIS IS EVIDENCE ABOUT WHAT THE DOCUMENT CONTAINS AND IS NOT A FINDING THAT DIA CONSIDERED AND REJECTED BROWN.",
+"tier": "B"
+},
+{
+"date": "2010-03-30",
+"era": "2",
+"id": "tl-2010-03-30-dird-maverick-inventor",
+"label": "Hathaway's DIRD on maverick inventors is issued, naming Hutchison zero times",
+"node": "dird-series",
+"precision": "day",
+"strand": "program",
+"text": "DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', ICOD 1 December 2009, 20 pages as released, attributed on the DIA list to Dr George Hathaway of Hathaway Consulting, who is the author of the book 'Mindbending: The Hutchison Files'. Word counts: Hutchison 0, Pharos 0, levitation 0.",
+"tier": "A"
+},
+{
+"date": "2010-04-02",
+"era": "2",
+"id": "tl-2010-04-02-dird-warp-drive",
+"label": "DIA's warp DIRD is issued, tabulating the requirement at -10^42 J for light speed",
+"node": "dird-warp-drive-dark-energy-and-the",
+"precision": "day",
+"strand": "program",
+"text": "DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', ICOD 1 December 2009, 34 pages as released. Its Table 3, after the reduction it argues for, gives -1.00 x 10^42 J at light speed and -4.00 x 10^42 J at twice light speed; its Table 2 gives -3.03 x 10^50 J at light speed. Its reference 1 is Alcubierre 1994.",
+"tier": "B"
+},
+{
 "date": "2010-04-06",
 "era": "2",
 "id": "st-2010-04-06",
@@ -3749,6 +4761,17 @@
 "strand": "witness",
 "text": "Robert Hastings convenes seven named USAF veterans at the National Press Club. CNN streams it live. Signed affidavits from Salas, Halt, McDonough, Jamison, Arneson, Fenstermacher and Nelson are on file and published in facsimile. Anonymous testimony becomes on-the-record testimony.",
 "tier": "A"
+},
+{
+"date": "2010-11-21",
+"era": "2",
+"id": "tl-2010-11-21-dird-mhd",
+"label": "DIA's MHD DIRD is issued, and it is about hypersonic aerodynamics",
+"node": "dird-mhd-air-breathing-propulsion-and-power",
+"precision": "day",
+"strand": "program",
+"text": "DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', ICOD 20 July 2010, 'Defense Futures', 33 pages as released, attributed on the DIA list to Dr S Macheret of Lockheed Martin. Its Summary reports 'significant difficulties... weight, complexity, higher power' and that the Ajax energy bypass concept 'has been shown to be meaningless below at least Mach 12'. Word counts: UFO 0, antigravity 0, scalar 0, zero point 0.",
+"tier": "C"
 },
 {
 "date": "2010-12-01",
@@ -3850,6 +4873,17 @@
 "tier": "A"
 },
 {
+"date": "2011-07-26",
+"era": "2",
+"id": "tl-2011-07-26-petit-rechain-confession",
+"label": "The most-reproduced black triangle photograph is confessed as a hoax on Belgian television",
+"node": "tr-3b",
+"precision": "day",
+"strand": "witness",
+"text": "Robert Sheaffer records that on 26 July 2011 the Belgian broadcaster RTL carried the photographer's confession about the Petit-Rechain image of the 1989-90 Belgian wave: 'The UFO of Petit-Rechain is not a spaceship from a distant galaxy but a panel of painted styrofoam with three spots affixed', and, from the maker, 'One has managed to fool the whole world with a silly model made of styrofoam.' Fouche's 1998 presentation had attached his craft to 'the country of Belgium' at slide 6. This does not touch the eyewitness reports and it decides nothing about Fouche; it records that the visual corpus the claim borrows plausibility from has a confessed hoax at its centre.",
+"tier": "C"
+},
+{
 "date": "2011-12-30",
 "era": "2",
 "id": "sap-tl-2011-capco",
@@ -3938,6 +4972,28 @@
 "tier": "A"
 },
 {
+"date": "2013-06-02",
+"era": "2",
+"id": "tl-2013-06-02-zero-point-release",
+"label": "US release date given by IMDb for the Zero Point documentary",
+"node": "zero-point-documentary",
+"precision": "day",
+"strand": "witness",
+"text": "IMDb tt6111304 gives a US release date of 2 June 2013 for 'Zero Point: The Story of Mark McCandlish and the Flux Liner', a 1h 32m documentary with James Allen credited as director and writer. IMDb is user-maintained and the film itself was not opened. The UAP Gerb episode description calls it the '2014 Zero Point Documentary'.",
+"tier": "C"
+},
+{
+"date": "2013-06-13",
+"era": "2",
+"id": "tl-2013-06-13-mirage-men",
+"label": "Mirage Men premieres at Sheffield Doc/Fest, built on the Doty admission",
+"node": "richard-doty",
+"precision": "day",
+"strand": "witness",
+"text": "Directed by John Lundberg with Roland Denning and Kypros Kyprianou, based on Mark Pilkington's 2010 book, produced by a company named Perception Management Productions. The film centres on Doty's dealings with Bennewitz and Linda Moulton Howe. THE FILM WAS NOT WATCHED by this session and nothing he says in it is quoted.",
+"tier": "C"
+},
+{
 "date": "2013-06-25",
 "era": "2",
 "id": "tl-2013-cia",
@@ -3960,6 +5016,28 @@
 "tier": "A"
 },
 {
+"date": "2013-10-29",
+"era": "2",
+"id": "tl-2013-10-29-groom-lake-acknowledged",
+"label": "The CIA's U-2 and OXCART history, declassified, acknowledges Groom Lake",
+"node": "s-4-papoose-lake",
+"precision": "day",
+"strand": "program",
+"text": "The National Security Archive posts Electronic Briefing Book 443, edited by Jeffrey T. Richelson, on the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, declassified that summer. This is the documented half of the hub's geography and it is a statement about Groom Lake, NOT about Papoose Lake.",
+"tier": "A"
+},
+{
+"date": "2013-12-03",
+"era": "2",
+"id": "tl-2013-12-03-skeptoid-391",
+"label": "Skeptoid 391: 'there's nothing there at all'",
+"node": "dulce-base",
+"precision": "day",
+"strand": "witness",
+"text": "Brian Dunning: 'It's trivial to study Google Earth images of Archuleta Mesa and see that there's nothing there at all, certainly nothing like Schneider's elaborate descriptions.' Classified fictional. The episode's own reference list for Dulce is a single blog post, which bounds how much weight it can carry.",
+"tier": "C"
+},
+{
 "date": "2014-01-01",
 "era": "2",
 "id": "av-2014-vfa11",
@@ -3969,6 +5047,50 @@
 "strand": "witness",
 "text": "After the fleet's APG-79 AESA radar upgrade, Ryan Graves's squadron begins witnessing UAP 'on a regular basis' off Virginia Beach during USS Theodore Roosevelt workups.",
 "tier": "A"
+},
+{
+"date": "2014-05-13",
+"era": "2",
+"id": "tl-2014-05-13-rojas-doty",
+"label": "A dated report of the Doty admission, which quotes him nowhere",
+"node": "richard-doty",
+"precision": "day",
+"strand": "witness",
+"text": "Alejandro Rojas reports that Doty says he was tasked with hoaxing documents and feeding false information while an AFOSI special agent at Kirtland, that he was ordered to make Bennewitz believe in an impending alien invasion, and that he entered Bennewitz's house and office under orders. The piece paraphrases throughout and contains no direct quotation from him; the Air Force 'refuses to comment'.",
+"tier": "B"
+},
+{
+"date": "2014-06-15",
+"era": "2",
+"id": "tl-2014-06-15-military-documents-published",
+"label": "The fifteen page military documents compilation is printed to PDF",
+"node": "fouche-military-documents",
+"precision": "day",
+"strand": "witness",
+"text": "The PDF opened carries producer 'PDF-XChange 4.0.195.0' and creation date D:20140615084520+01'00'. It is a print of an HTML page on checktheevidence.co.uk, 15 pages with 23 embedded images and a caption text layer in mixed voice. It contains no discharge certificate, no DD Form 214, no clearance record, no contract and no programme document.",
+"tier": "B"
+},
+{
+"date": "2014-06-26",
+"era": "2",
+"id": "tl-2014-06-26-hilton-forgery-allegation",
+"label": "David Hilton alleges Fouche faked one or more of his own military documents",
+"node": "fouche-military-documents",
+"precision": "day",
+"strand": "witness",
+"text": "Andrew Johnson records that Hilton made the allegation in a video dated 26 June 2014 and concluded that Fouche could not be trusted. The video itself was not opened; the allegation reaches this record only through Johnson's description of it.",
+"tier": "C"
+},
+{
+"date": "2014-09-25",
+"era": "2",
+"id": "tl-2014-09-25-foia-return-posted",
+"label": "Hilton posts the FOIA return on Fouche's military records",
+"node": "edgar-fouche",
+"precision": "day",
+"strand": "witness",
+"text": "Andrew Johnson records that Hilton filed a Freedom of Information Act request for Fouche's military records and posted the return on 25 September 2014, and reads it as corroborating what Fouche had already said: Lackland AFB 1967, Keesler and Cannon 1968, Nellis June 1976 to 16 July 1979, Kadena 5 September 1979 to 4 March 1982, and decorations including the Vietnam Service Medal and three Meritorious Service Medals. THE FOIA RETURN ITSELF WAS NOT OPENED by this research.",
+"tier": "C"
 },
 {
 "date": "2014-11",
@@ -4048,6 +5170,17 @@
 "tier": "A"
 },
 {
+"date": "2015-07-24",
+"era": "2",
+"id": "tl-2015-07-24-pais-emfg-filed",
+"label": "Application 14/807,943 filed for the Electromagnetic Field Generator",
+"node": "pais-patent-emfg",
+"precision": "day",
+"strand": "program",
+"text": "The first of the five Pais filings, assigned to the United States as represented by the Secretary of the Navy. It is the device NAWCAD would later test.",
+"tier": "B"
+},
+{
 "date": "2015-09",
 "era": "2",
 "id": "bb-tl-2015-fmr",
@@ -4057,6 +5190,17 @@
 "strand": "oversight",
 "text": "The Department's reprogramming regulation sets the four action types and the congressional approval thresholds - $10 million for military personnel, $15 million for operation and maintenance, $20 million or 20 percent for procurement, $10 million or 20 percent for RDT&E - and preserves Below-Threshold Reprogramming, which requires no approval and no notification at all.",
 "tier": "B"
+},
+{
+"date": "2015-10-05",
+"era": "2",
+"id": "tl-2015-10-05-dean-form-171",
+"label": "A researcher publishes Callahan's self-supplied OMB Form 171",
+"node": "john-callahan",
+"precision": "day",
+"strand": "witness",
+"text": "Paul Dean publishes an OMB Form 171 showing 'Division Mgr. Investigations/Evaluations', 'FAA ATS-1 Washington Headquarters', 'Oct. 1986 to present', stating that the originals were provided by Callahan himself in 2015. In part one of the same series Dean had reported his own negative finding: the public record showed a 'Quality Control Branch Manager' of the 'Quality Assurance Staff'.",
+"tier": "C"
 },
 {
 "date": "2015-10-17",
@@ -4092,6 +5236,28 @@
 "tier": "B"
 },
 {
+"date": "2015-11",
+"era": "2",
+"id": "tl-2015-11-levesque-confession",
+"label": "THE CONFESSION: 'TEC (Thomas Edwin Castello) is a creation. A MYTH'",
+"node": "thomas-castello",
+"precision": "month",
+"strand": "witness",
+"text": "Tal Levesque, who wrote as Jason Bishop III and authored the two original Dulce Base articles, told Adam Gorightly by email that Castello was his own invention, described composing the articles from an account by a woman he names as Ann West mixed with his own research, and described mailing a hundred large envelope packets of supporting material to authors and lecturers 'who then mixed it into their talks, articles and books'. The single most important dated item in this cluster, and the board's cleanest worked example of manufactured corroboration.",
+"tier": "B"
+},
+{
+"date": "2015-12-30",
+"era": "2",
+"id": "tl-2015-12-30-iupac-priority",
+"label": "IUPAC assigns discovery priority for element 115",
+"node": "element-115-claim",
+"precision": "day",
+"strand": "program",
+"text": "Priority went to 'the Dubna-Livermore-Oak Ridge collaborations', on the basis of work 'starting in 2010, and subsequently confirmed in 2012 and 2013'. A precision point usually got wrong in both directions: the priority statement rests on the 2010 to 2013 work, not on the 2003 experiment. The Joint Working Party report is Karol, Barber, Sherrill, Vardaci and Yamazaki, Pure and Applied Chemistry 88 (2016) 155.",
+"tier": "A"
+},
+{
 "date": "2016-01-01",
 "era": "2",
 "id": "tl-2016-eval",
@@ -4112,6 +5278,39 @@
 "strand": "witness",
 "text": "Under the subject line 'General McCasland', Tom DeLonge writes to John Podesta: 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The same day's calendar thread for a DeLonge/Podesta meeting runs between Podesta and an address signing 'Neil McC', copied to DeLonge, a Clinton campaign address and Rob Weiss of Lockheed Martin. Neither Prometheus nor Linda Moulton Howe appears anywhere in the release.",
 "tier": "B"
+},
+{
+"date": "2016-03-19",
+"era": "2",
+"id": "tl-2016-03-19-merlin-analysis-published",
+"label": "Peter Merlin's four-part analysis of Fouche is published",
+"node": "peter-merlin",
+"precision": "day",
+"strand": "witness",
+"text": "Quoted verbatim between (QUOTE) and (UNQUOTE) markers on Norio Hayakawa's blog: that the SAC letter is unclassified and carries no classification markings, control number or copy-of count and that 'REPLY TO: DARPA' is probably a five-letter office code; that the photograph Fouche captioned 'Have Blue' is 'the first YF-117A SENIOR TREND prototype'; that 'No such person as Steve Stenson was ever commander of AFFTC'; and that the KGB passport and badges are fakes 'widely available at many Army-Navy surplus stores'.",
+"tier": "C"
+},
+{
+"date": "2016-04-01",
+"era": "2",
+"id": "tl-2016-04-01-greenewald-photo",
+"label": "Greenewald traces the Dulce photograph to the film The 6th Day",
+"node": "thomas-castello",
+"precision": "day",
+"strand": "witness",
+"text": "The photograph of bodies in a chamber, circulated for years as Castello's leaked proof, is a frame from the 2000 feature film: it 'is, in fact, a verifiable hoax', and 'You can see that the position of the bodies, inside the chamber, are a match.' In the same case file: 'There is no evidence that I have found, that shows that Thomas Costello even exists.'",
+"tier": "B"
+},
+{
+"date": "2016-04-28",
+"era": "2",
+"id": "tl-2016-04-28-pais-imrd-filed",
+"label": "Application 15/141,270 filed: 'Craft using an inertial mass reduction device'",
+"node": "pais-patent-imrd",
+"precision": "day",
+"strand": "program",
+"text": "Assignee on the granted patent: 'The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'. Attorney of record: 'Mark O Glut; NAWCAD'. Prior publication US 2017/0313446 A1 of 2 November 2017.",
+"tier": "A"
 },
 {
 "date": "2016-04-28",
@@ -4158,6 +5357,39 @@
 "tier": "A"
 },
 {
+"date": "2016-08-29",
+"era": "2",
+"id": "tl-2016-08-29-hayakawa-negative",
+"label": "Hayakawa, working the question since 1988: 'it does not seem to exist'",
+"node": "norio-hayakawa",
+"precision": "day",
+"strand": "witness",
+"text": "The same post supplies the dated chronology of the cluster's originators used throughout this file: Bennewitz from about 1979, Myrna Hansen in 1980, Tom Adams in the early 1980s, John Lear in 1988 from 'Ann West', and Phil Schneider only in 1995.",
+"tier": "C"
+},
+{
+"date": "2016-10",
+"era": "2",
+"id": "tl-2016-10-nawcad-pais-testing-begins",
+"label": "NAWCAD begins testing the High Energy Electromagnetic Field Generator",
+"node": "pais-patent-emfg",
+"precision": "month",
+"strand": "program",
+"text": "Timothy Boulay, Communications Director at NAWCAD, on the record: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019.' The $508,000 spent corresponds closely to the two $250,000 lines the PAX 205 invention-disclosure briefing proposed.",
+"tier": "B"
+},
+{
+"date": "2016-11-28",
+"era": "2",
+"id": "tl-2016-11-28-moscovium-named",
+"label": "Element 115 formally named moscovium",
+"node": "element-115-claim",
+"precision": "day",
+"strand": "program",
+"text": "The name moscovium, symbol Mc, was formally approved on 28 November 2016 and announced on 30 November 2016, proposed by the discoverers at Dubna, Oak Ridge, Vanderbilt and Lawrence Livermore, in recognition of the Moscow region. This event is regularly presented as vindicating the Lazar claim. It does not: his claim requires a STABLE isotope that can be machined and stored, and no such isotope exists.",
+"tier": "A"
+},
+{
 "date": "2017-01",
 "era": "3",
 "id": "tl-intl-2017-chile-release",
@@ -4169,6 +5401,17 @@
 "tier": 2
 },
 {
+"date": "2017-05-11",
+"era": "3",
+"id": "tl-2017-05-11-fouche-died",
+"label": "Edgar Albert Fouche dies, aged 69; buried Coffey Cemetery, Mason County, Texas",
+"node": "edgar-fouche",
+"precision": "day",
+"strand": "witness",
+"text": "Find a Grave memorial 180498305, created 18 June 2017 and citing an obituary from Mason Funeral Home, gives the death date and age and the burial at Coffey Cemetery, Streeter, Mason County, Texas, with the inscription 'Saved by the blood of Jesus Christ'. A death date of 6 May 2018 at age 82 also circulates and is wrong on both counts; no opened record supports it.",
+"tier": "C"
+},
+{
 "date": "2017-05-28",
 "era": "3",
 "id": "tl-2017-60min",
@@ -4178,6 +5421,28 @@
 "strand": "witness",
 "text": "Robert Bigelow tells CBS he is 'absolutely convinced' of an extraterrestrial presence on Earth, seven months before the program he was paid to run becomes public.",
 "tier": "B"
+},
+{
+"date": "2017-06-13",
+"era": "3",
+"id": "tl-2017-06-13-robbins-statement",
+"label": "Peter Robbins repudiates his co-author after twenty-nine years",
+"node": "peter-robbins",
+"precision": "day",
+"strand": "witness",
+"text": "Robbins publishes a statement alleging that Larry Warren fabricated a photograph with John Lennon, altered a USAF Form 490 whose ophthalmic notation is attributed to a physician Robbins found to be an orthopaedic surgeon, produced an in-processing sheet with mismatched signatures, and attributed testimonial letters to two named airmen that were never sent. He accepts as authentic Warren's January 1981 letter to his mother.",
+"tier": "B"
+},
+{
+"date": "2017-07-19",
+"era": "3",
+"id": "tl-2017-07-19-united-nuclear-search",
+"label": "FBI searches United Nuclear Scientific in a Michigan homicide investigation",
+"node": "bob-lazar",
+"precision": "day",
+"strand": "program",
+"text": "A two-page Laingsburg, Michigan police report records an 'Agency Assist' supporting an FBI search of United Nuclear Scientific in aid of 'a homicide investigation out of Houghton, MI involving poison', and records that Lazar consented to the search. The underlying case is the thallium death of Janel Sturzl, 31, on 22 December 2015. Lazar is not recorded as a suspect. The report was obtained by Tim McMillan under a local open-records request.",
+"tier": "A"
 },
 {
 "date": "2017-08-09",
@@ -4266,6 +5531,17 @@
 "strand": "program",
 "text": "DeLonge, Puthoff, Semivan, Justice, Elizondo and Mellon appear on one masthead, with a Regulation A+ offering targeting $50 million and divisions for Science, Aerospace and Entertainment.",
 "tier": "A"
+},
+{
+"date": "2017-10-17",
+"era": "3",
+"id": "tl-2017-10-17-cosimo-withdrawal",
+"label": "Publisher suspends distribution of Left at East Gate",
+"node": "larry-warren",
+"precision": "day",
+"strand": "witness",
+"text": "Cosimo, Inc.: 'Cosimo is announcing that it is suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins', because 'some of the experiences described in this book may be inaccurate or embellished'.",
+"tier": "B"
 },
 {
 "date": "2017-12",
@@ -4389,6 +5665,17 @@
 "tier": "A"
 },
 {
+"date": "2018",
+"era": "3",
+"id": "tl-2018-mahood-retrospective",
+"label": "Mahood's retrospective: nothing at Papoose Lake, S-4 is a Tonopah radar facility",
+"node": "s-4-papoose-lake",
+"precision": "year",
+"strand": "witness",
+"text": "Tom Mahood publishes his mature assessment: there is 'nothing at Papoose Lake', S-4 refers to a radar facility at the Tonopah Test Range, and the alien-craft narrative began as a cover story after the April 1989 detention. It concedes in the same document that Lazar is 'amazingly believable' and that Mahood initially found the story plausible. T.D. Barnes reaches the same radar-site conclusion by an unrelated route in 2026.",
+"tier": "C"
+},
+{
 "date": "2018-01-09",
 "era": "3",
 "id": "tl-2018-sasc",
@@ -4488,6 +5775,17 @@
 "tier": "A"
 },
 {
+"date": "2018-10-10",
+"era": "3",
+"id": "tl-2018-10-10-wolfe-dies",
+"label": "Karl Wolfe dies",
+"node": "disclosure-project-witness-set",
+"precision": "day",
+"strand": "witness",
+"text": "Karl R. Wolfe, 19 April 1944 to 10 October 2018, per his funeral home obituary at Lansing, New York. The obituary does not mention US Air Force service, an employer, an education or a career, which is the whole of the independent record on him.",
+"tier": "C"
+},
+{
 "date": "2018-10-15",
 "era": "3",
 "id": "tl-2018-10-deficit",
@@ -4510,6 +5808,17 @@
 "tier": "A"
 },
 {
+"date": "2018-11-01",
+"era": "3",
+"id": "tl-2018-11-01-corbell-documentary",
+"label": "Bob Lazar: Area 51 and Flying Saucers released digitally in the United States",
+"node": "corbell-lazar-2018",
+"precision": "day",
+"strand": "witness",
+"text": "Jeremy Corbell's 97-minute documentary, narrated by Mickey Rourke, featuring Lazar, George Knapp and Joy White. Letterboxd lists United States digital release on 1 November 2018, United Kingdom physical on 4 December 2018 and United States physical on 8 December 2018. The widely cited '4 December 2018' is the UK physical date; IMDb returned HTTP 403 and no distributor record was opened.",
+"tier": "C"
+},
+{
 "date": "2018-11-06",
 "era": "3",
 "id": "tl-ffrdc-2018-kerr",
@@ -4518,6 +5827,17 @@
 "precision": "day",
 "strand": "program",
 "text": "MITRE's trustees elect a former director of Los Alamos and of the National Reconnaissance Office as chairman, and former House Intelligence Committee chairman Mike Rogers as vice chairman.",
+"tier": "A"
+},
+{
+"date": "2018-12-04",
+"era": "3",
+"id": "tl-2018-12-04-pais-imrd-granted",
+"label": "US 10,144,532 granted, with Philip J Bonzell named as primary examiner",
+"node": "pais-patent-imrd",
+"precision": "day",
+"strand": "program",
+"text": "The printed front page gives 'Primary Examiner - Philip J Bonzell', the same person the board's existing Tier 1 claim names as the addressee of the Sheehy letter of 15 December 2017. 4 claims, 1 drawing sheet, term extended 153 days under 35 U.S.C. 154(b). A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS.",
 "tier": "A"
 },
 {
@@ -4818,6 +6138,17 @@
 "tier": "A"
 },
 {
+"date": "2019-09",
+"era": "3",
+"id": "tl-2019-09-nawcad-pais-testing-concludes",
+"label": "NAWCAD concludes testing: the Pais Effect could not be proven",
+"node": "pais-patent-emfg",
+"precision": "month",
+"strand": "program",
+"text": "Timothy Boulay, Communications Director at NAWCAD: 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' Three years, $508,000, of which $462,000 was salaries. The sponsor tested its own patent and reported the negative result.",
+"tier": "B"
+},
+{
 "date": "2019-09-10",
 "era": "3",
 "id": "tl-2019-09-10-gradisher",
@@ -4961,6 +6292,17 @@
 "tier": "A"
 },
 {
+"date": "2020-04-13",
+"era": "3",
+"id": "tl-2020-04-13-papoose-overflight",
+"label": "Papoose Lake photographed from the air on a legal overflight: nothing there",
+"node": "s-4-papoose-lake",
+"precision": "day",
+"strand": "program",
+"text": "Tyler Rogoway of The War Zone publishes aerial images taken on a pilot's authorised flight directly over Papoose Lake: 'nothing appears to be there, just as satellite images show. There isn't even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.'",
+"tier": "B"
+},
+{
 "date": "2020-04-27",
 "era": "3",
 "id": "av-2020-04-27",
@@ -5082,6 +6424,39 @@
 "tier": "A"
 },
 {
+"date": "2021-02-01",
+"era": "3",
+"id": "tl-2021-02-01-nawcad-statement",
+"label": "The Navy says so publicly, through a named spokesman",
+"node": "pais-patent-emfg",
+"precision": "day",
+"strand": "program",
+"text": "Brett Tingley, 'The Navy Finally Speaks Up About Its Bizarre \"UFO Patent\" Experiments', The War Zone, updated 1 February 2021. This is the citation that replaces the board's previous encyclopedia sourcing for the same fact: a named NAWCAD official quoted by a named reporter, giving the window, the sum, the salary share and the result.",
+"tier": "B"
+},
+{
+"date": "2021-02-03",
+"era": "3",
+"id": "tl-2021-02-03-gorightly-book",
+"label": "Gorightly publishes the confession in Saucers, Spooks and Kooks",
+"node": "saucers-spooks-and-kooks-2021",
+"precision": "day",
+"strand": "witness",
+"text": "Daily Grail Publishing, ISBN 978-0994617682. The book was NOT opened by this session; the confession was read as reproduced by Hayakawa quoting it, which is why every dependent claim is capped at Tier 2 and why opening the book is this cluster's highest-value upgrade.",
+"tier": "C"
+},
+{
+"date": "2021-02-10",
+"era": "3",
+"id": "tl-2021-02-10-stone-dies",
+"label": "Clifford Stone dies at Roswell",
+"node": "clifford-stone",
+"precision": "day",
+"strand": "witness",
+"text": "Kevin Randle: 'Clifford E. Stone, known for his relentless pursuit of UFO documentation through his use of FOIA died on February 10, in Roswell, New Mexico.' Randle sets out in the same post the discrepancies between Stone's account and his service record.",
+"tier": "C"
+},
+{
 "date": "2021-02-24",
 "era": "3",
 "id": "sap-tl-2021-nispom",
@@ -5102,6 +6477,28 @@
 "strand": "program",
 "text": "The carve-out provision moves from a DoD manual into the Code of Federal Regulations at 117.6(b)(3): the Director, DCSA 'will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision'.",
 "tier": "A"
+},
+{
+"date": "2021-04-13",
+"era": "3",
+"id": "tl-2021-04-13-mccandlish-death",
+"label": "McCandlish declared deceased at 1946 Trumpet Drive, Redding, California",
+"node": "mark-mccandlish",
+"precision": "day",
+"strand": "witness",
+"text": "Shasta County Sheriff-Coroner case C21-0324, Verdict of Death (without jury): 'In the matter of the death of Mark Edward McCandlish, a 68 year old male ... he was declared deceased on the 13th day of April 2021.' Cause of death 'Gunshot wound of head'; other significant conditions 'None'.",
+"tier": "B"
+},
+{
+"date": "2021-04-19",
+"era": "3",
+"id": "tl-2021-04-19-external-examination",
+"label": "External examination at 0713 by Dan Purtzer MD; no internal examination performed",
+"node": "mark-mccandlish",
+"precision": "day",
+"strand": "witness",
+"text": "The Report of External Examination, dated 04/19/21 at 0713, gives the cause of death as 'central nervous system damage caused by self-inflicted gunshot wound to the head', records an entrance wound '1 cm above the right ear' whose edges 'have powder burns' and an exit wound above the left ear, and states on page 2: 'Due to the obvious cause of death, internal examination is not performed.'",
+"tier": "B"
 },
 {
 "date": "2021-05-01",
@@ -5148,6 +6545,17 @@
 "tier": "A"
 },
 {
+"date": "2021-05-20",
+"era": "3",
+"id": "tl-2021-05-20-doty-file",
+"label": "Doty's 321-page New Mexico State Police personnel file released",
+"node": "richard-doty",
+"precision": "day",
+"strand": "witness",
+"text": "Obtained by John Greenewald under the New Mexico Inspection of Public Records Act, NMSA 14-2-1 et seq., and released by the New Mexico Department of Public Safety with redactions. His Air Force service dates, rank progression and separation are inside the PDF, which was not opened by this session.",
+"tier": "B"
+},
+{
 "date": "2021-05-21",
 "era": "3",
 "id": "tl-2021-05-21-gough-partial",
@@ -5179,6 +6587,17 @@
 "strand": "program",
 "text": "Villarroel and colleagues report nine simultaneously occurring transients on a single Palomar plate from 12 April 1950 in Scientific Reports.",
 "tier": "A"
+},
+{
+"date": "2021-06-21",
+"era": "3",
+"id": "tl-2021-06-21-verdict-signed",
+"label": "Verdict of Death signed by Chief Deputy Coroner Logan Stonehouse; manner of death Suicide",
+"node": "mark-mccandlish",
+"precision": "day",
+"strand": "witness",
+"text": "The verdict gives manner of death as Suicide and records that 'Phillip Wacker, Deputy Coroner, conducted the investigation and established the identity of the decedent. A postmortem examination was conducted by Dr. Dan Purtzer, M.D., Pathologist.' The postmortem it rests on is an external examination that expressly declined an internal one.",
+"tier": "B"
 },
 {
 "date": "2021-06-25",
@@ -5423,6 +6842,17 @@
 "tier": "A"
 },
 {
+"date": "2022-03-29",
+"era": "3",
+"id": "tl-2022-03-29-lear-dies",
+"label": "John Lear dies",
+"node": "john-lear",
+"precision": "day",
+"strand": "witness",
+"text": "The Museum of Flight Archives authority record states: 'John Lear died on March 29, 2022.' He was born 3 December 1942, the son of William Powell Lear and Moya Olsen Lear, and his materials sit within the William P. and Moya Olsen Lear Family Collection.",
+"tier": "C"
+},
+{
 "date": "2022-04-01",
 "era": "3",
 "id": "g-tl-2022-04-kirkpatrick",
@@ -5464,6 +6894,17 @@
 "precision": "day",
 "strand": "oversight",
 "text": "At the House Intelligence subcommittee UAP hearing, Ronald Moultrie and Scott Bray are asked directly about the Wilson-Davis memo and the Malmstrom missile events and state they are unaware of them.",
+"tier": "A"
+},
+{
+"date": "2022-05-17",
+"era": "3",
+"id": "tl-2022-05-17-hpsci-uap-hearing",
+"label": "First open congressional UAP hearing in over fifty years",
+"node": "hearing-2022-05-17",
+"precision": "day",
+"strand": "oversight",
+"text": "The House Permanent Select Committee on Intelligence, Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation met at 9:00 a.m. in Room HVC-210 with Rep. Andre Carson presiding, taking testimony from Under Secretary of Defense for Intelligence and Security Ronald S. Moultrie and Deputy Director of Naval Intelligence Scott W. Bray. Carson opened by saying the subcommittee would 'bring that organization out of the shadows', referring to AOIMSG.",
 "tier": "A"
 },
 {
@@ -5993,6 +7434,17 @@
 "strand": "program",
 "text": "'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table.' The text is the Unidentified Anomalous Phenomena Disclosure Act of 2023, including the exercise of eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence, and a nine-member Senate-confirmed Records Review Board.",
 "tier": "A"
+},
+{
+"date": "2023-07-17",
+"era": "3",
+"id": "tl-2023-07-17-herrera-srs",
+"label": "Michael Herrera's account enters the public record on a dated recording",
+"node": "michael-herrera",
+"precision": "day",
+"strand": "witness",
+"text": "'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)' premiered on the Shawn Ryan Show, runtime 1:26:50. The artefact is dated and openable; the account within it is a man's own statement and nothing more.",
+"tier": "C"
 },
 {
 "date": "2023-07-20",
@@ -7194,6 +8646,17 @@
 "tier": "B"
 },
 {
+"date": "2024-10-17",
+"era": "3",
+"id": "tl-2024-10-17-scott-pdf-created",
+"label": "The PDF of the Scott notes is created, per its own metadata",
+"node": "scott-sorensen-notes-1990",
+"precision": "day",
+"strand": "witness",
+"text": "The file's own /CreationDate is 'D:20241017132510' and its /Producer and /Creator are both 'PDFium'. It is 9,172,025 bytes over 31 pages with 31 embedded JPEG page images and no text layer. Nothing in it establishes who held the notes between 1990 and 2024.",
+"tier": "C"
+},
+{
 "date": "2024-10-18",
 "era": "3",
 "id": "tl-2024-shell",
@@ -7203,6 +8666,17 @@
 "strand": "oversight",
 "text": "Public reports an alleged parent USAP consolidating UAP observations, sourced to a current or former US government official and confirmed to Shellenberger by a former intelligence community official.",
 "tier": "B"
+},
+{
+"date": "2024-10-21",
+"era": "3",
+"id": "tl-2024-10-21-gerb-arv-episode",
+"label": "UAP Gerb publishes 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish'",
+"node": "mark-mccandlish",
+"precision": "day",
+"strand": "witness",
+"text": "Video id wF07QMm6joE, channel 'UAP Gerb', runtime 01:09:12. Its description opens 'In late 1988, accomplished aerospace illustrator Mark McCandlish came into information that indicated the United States ...'. This is the episode that brings the account to this board's corpus; several assertions attributed to Gerb in the corpus files are recorded on these nodes as unverified rather than as claims.",
+"tier": "C"
 },
 {
 "date": "2024-10-22",
@@ -7458,6 +8932,17 @@
 "tier": "A"
 },
 {
+"date": "2024-12",
+"era": "3",
+"id": "tl-2024-12-scott-pdf-uploaded",
+"label": "The Scott notes are uploaded to arvp.co.uk",
+"node": "arvp-fluxliner-project",
+"precision": "month",
+"strand": "witness",
+"text": "The PDF sits under the path /wp-content/uploads/2024/12/ on a site whose operator is not named anywhere on the pages opened. This is the point at which the only opened copy of the primary document enters the public record.",
+"tier": "C"
+},
+{
 "date": "2024-12-01",
 "era": "3",
 "id": "tl-2024-12",
@@ -7489,6 +8974,17 @@
 "strand": "witness",
 "text": "Nocturnal drone sightings across New Jersey and neighbouring states generate more than 5,000 reports to the FBI.",
 "tier": "A"
+},
+{
+"date": "2024-12-12",
+"era": "3",
+"id": "tl-2024-12-12-michels-davis-episode",
+"label": "Jesse Michels publishes the Eric Davis episode carrying the denial",
+"node": "arv-fluxliner",
+"precision": "day",
+"strand": "witness",
+"text": "Video id LnAiNChnuEQ, runtime 52:45, as opened on 18 September 2026 titled 'Eric Davis: A US President Was Briefed on UFOs!' on the channel 'Jesse Michels'. research/leads/michels-corpus-03.md file 04 recorded the same episode under the title 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; the channel and the title now differ, and the corpus timestamp 0:36:24 to 0:38:00 falls inside the 52:45 runtime. The episode is identified by video id, not by title.",
+"tier": "C"
 },
 {
 "date": "2024-12-14",
@@ -8127,6 +9623,17 @@
 "strand": "program",
 "text": "Chairwoman Anna Paulina Luna convenes 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' in HVC-210 with witnesses Nuccetelli, Wiggins, Knapp, Borland and minority witness Spielberger. Rep. Crane submits a letter to the Secretary of Defense on the Grusch reprisal. Printed as Serial No. 119-44 (CHRG-119hhrg61718).",
 "tier": "A"
+},
+{
+"date": "2025-09-09",
+"era": "3",
+"id": "tl-2025-09-09-herrera-entered",
+"label": "Herrera's written testimony entered into a hearing record by motion, sourced to Steven Greer",
+"node": "michael-herrera",
+"precision": "day",
+"strand": "oversight",
+"text": "Rep. Eric Burlison moved into the record of the House Oversight Task Force hearing 'further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony', naming also Roderick Castle, Randy Anderson and Steven Digna. Chairwoman Luna: 'No objection.' He did not appear and was not sworn.",
+"tier": "C"
 },
 {
 "date": "2025-09-09",

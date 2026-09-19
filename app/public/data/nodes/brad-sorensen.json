@@ -1,0 +1,180 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11",
+"text": "Scott's typed notes open: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER', and give the interview's terms: 'He agreed to a one-hr. session in his Pasadena office, pointedly telling me that he gets $200/hr. for his time, and one hr. was all he could give me.'",
+"tier": 1
+},
+{
+"source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11",
+"text": "The document profiles him with no surname: 'Brad: A mid-30s designer; grad of Pasadena Art Center, taking engr'g. classes at Cal Tech now to keep up. Is a very successful designer, having clients such as Rossignol(?) skis, Mazda (new RX-7 design, beginning in 86), electric toothbrushes, motorcycle helmets, etc. Has own design business, including prototyping shops.'",
+"tier": 1
+},
+{
+"source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11",
+"text": "The same page records his own assessment of his aviation knowledge and his reluctance: he 'Claims to be a private pilot, but didn't seem to have a lot of knowledge about military aircraft types', and he 'refused to talk with me last summer', preferring to 'let the whole thing drop; it never made me a dime, and has hurt my own business and professional credibility.'",
+"tier": 1
+},
+{
+"source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-03",
+"text": "He told Scott on 3 December 1990: 'I wish I hadn't even seen those things; they've been nothing but trouble for me since then.'",
+"tier": 1
+},
+{
+"source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 1, 1990-12-11",
+"text": "The document establishes the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'.",
+"tier": 1
+},
+{
+"source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
+"text": "The name 'Sorensen' reaches the record through McCandlish, not through the primary document. McCandlish's 2001 testimony gives 'a fellow by the name of Brad Sorensen', whom he knew 'in school' and who called him again 'eight years after school'. No opened record carries the surname in the witness's own voice or over his own signature.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "1990-12-10",
+"dateStart": "1988-11-12",
+"direction": "out",
+"edgeLabel": "Sole claimed eyewitness to the three craft",
+"id": "arv-fluxliner",
+"l0": true,
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"note": "Every substantive claim about the craft traces to him and to nobody else. His own 1990 words limit it: the sizes are 'Just a guess; don't hold me to that', and of the manned vehicle in McCandlish's drawing, 'this is probably the farthest from what I saw'.",
+"sources": [
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1990-12-11",
+"dateStart": "1988-11",
+"direction": "in",
+"edgeLabel": "Painted the craft from Sorensen's verbal description; he was not at the air show",
+"id": "mark-mccandlish",
+"l0": false,
+"label": "Mark McCandlish",
+"note": "The 1990 primary document states the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. The same document records Sorensen disowning part of what McCandlish drew.",
+"sources": [
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1988-11-12",
+"dateStart": "1988-11-12",
+"direction": "out",
+"edgeLabel": "Sole claimed eyewitness to the alleged hangar exhibit",
+"id": "norton-afb-airshow-1988",
+"l0": false,
+"label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"note": "He is the only person who claims to have been inside. The 1990 notes place his account only 'in early Nov. 88'; the exact date comes from McCandlish in 2001.",
+"sources": [
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1990-12-11",
+"dateStart": "1990-12-03",
+"direction": "out",
+"edgeLabel": "Interviewee; the notes are his account in his own words",
+"id": "scott-sorensen-notes-1990",
+"l0": false,
+"label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
+"note": "The document's own header: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD', 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. He gave one paid hour in his Pasadena office and had refused an approach the previous summer.",
+"sources": [
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "1990-12-03",
+"dateEnd": null,
+"dateStart": "1990-12-03",
+"deg": 4,
+"denials": [],
+"domains": [
+"arv-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "brad-sorensen",
+"instId": null,
+"l0": false,
+"label": "'Brad' Sorensen",
+"loc": "Pasadena, California",
+"locId": null,
+"members": null,
+"narrative": "Everything substantive on this thread traces to one man, and the earliest document that carries him gives him a first name only. William B. Scott, then senior engineering editor of Aviation Week and Space Technology, interviewed 'Brad' for one paid hour in his Pasadena office on 3 December 1990 and compiled sixteen typed pages from two tapes. The profile there is of a mid-thirties Pasadena Art Center graduate with his own design business and clients including ski and motorcycle manufacturers, who claims a private pilot's licence but, in the interviewer's own note, 'didn't seem to have a lot of knowledge about military aircraft types'. He had refused to talk the previous summer, he told Scott he wished he had never seen the craft, and he disowned part of the drawing McCandlish had made from his description. The surname Sorensen reaches the record through McCandlish, not through this document, and no opened record carries it in the witness's own voice or over his own signature.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "'Brad' Sorensen",
+"sources": [
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes and 16 page typed transcript on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+},
+{
+"date": "2000-12",
+"name": "Disclosure Project Briefing Document, full OCR text, section 3.8.5",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"status": "active",
+"sub": "Industrial designer; sole claimed eyewitness to the alleged classified exhibit at Norton AFB on 12 November 1988; interviewed by an Aviation Week editor on 3 December 1990",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 498 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"That he told UAP Gerb that McCandlish 'died because he could not keep his mouth shut', that he 'protected him until I could not', and that he warned Gerb off. Recorded in research/leads/gerb-corpus-25-35.md file 33 at 00;21;41 and 01;05;39. No record of that exchange was opened.",
+"That Sen. Alan Cranston and Rep. George E. Brown Jr. were present at the alleged exhibit, and that a male staffer in Rep. Brown's office confirmed it. Recorded in research/leads/gerb-corpus-25-35.md file 33 at 00;00;28, 00;07;35 and 00;25;14. In the 1990 notes the witness says the opposite about his own knowledge of who was there: 'we didn't get in on the introductions of people', 'I did NOT see any stars in there--like generals of any sort', and, asked who put the event on, 'Me too; look, we got there a little late'. No congressional record, letter or statement was opened.",
+"Any record of him under the surname Sorensen. California business registrations, design-industry press for Rossignol and the Mazda RX-7, and Pasadena Art Center alumni records were not searched from here."
+]
+}

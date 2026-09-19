@@ -2,7 +2,7 @@
 "A": 2,
 "C": 2,
 "D": 2,
-"band": "research",
+"band": "custody",
 "claims": [
 {
 "source": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, Relator Juiz Federal João Batista Lazzari, RELVOTO, signed 27/2/2023, quoting Comando de Operações Aéreas/COMAER contestation, evento 13, ANEXO2 (https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf)",
@@ -349,7 +349,7 @@
 "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "custody"
 },
 {
@@ -370,7 +370,7 @@
 "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 }
 ],
@@ -507,7 +507,7 @@
 "cls": "person",
 "id": "uyrange-hollanda",
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
-"tier": "B"
+"tier": "C"
 }
 ],
 "short": "Operação Prato",
@@ -540,7 +540,7 @@
 ],
 "sub": "Brazilian Air Force I COMAR (Belem/PA) intelligence-section operation, Colares, Para, 1977-1978; documents held in the Arquivo Nacional Fundo OVNI, BR DFANBSB ARX",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 70 of 1057, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 75 of 1125, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
 "date": "1977-10-20",

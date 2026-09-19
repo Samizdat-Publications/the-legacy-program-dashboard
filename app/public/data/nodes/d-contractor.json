@@ -111,12 +111,33 @@
 ],
 "tier": "A",
 "type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1982",
+"direction": "in",
+"edgeLabel": "Named support-services contractor at a national laboratory",
+"id": "kirk-mayer",
+"l0": false,
+"label": "Kirk-Mayer, Inc.",
+"note": "The contractor spine this pass was asked to begin. The directory page itself names Kirk-Mayer as the outside contractor whose staff it covers.",
+"sources": [
+{
+"date": "1997-12",
+"name": "Stanton T. Friedman, 'The Bob Lazar Fraud', quoting the directory page's own scope statement",
+"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+}
+],
+"tier": "C",
+"type": "institutional"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-01-01",
-"deg": 4,
+"deg": 5,
 "denials": [
 {
 "by": {
@@ -182,6 +203,6 @@
 ],
 "sub": "Industrial domain - the private firms alleged to hold material, and the legal shelter that creates",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 238 of 1057, score 41). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 251 of 1125, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
 "timeline": []
 }

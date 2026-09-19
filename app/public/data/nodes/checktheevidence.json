@@ -1,0 +1,144 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', checktheevidence.com, 11 February 2014, https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/ , opened 2026-09-18",
+"text": "Andrew Johnson's index post of 11 February 2014 is the custody page for the whole Fouche file and links the direct file locations, including checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, checktheevidence.com/pdf/TR-3B%20questions%20and%20Answers.pdf and video mirrors on richplanet.net.",
+"tier": 1
+},
+{
+"source": "Andrew Johnson, checktheevidence.co.uk and checktheevidence.com, 12 and 13 January 2015, http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm , opened 2026-09-18",
+"text": "Johnson's posts of 12 and 13 January 2015 are the only opened account of the FOIA episode: that David Hilton claimed on 26 June 2014 that Fouche 'faked one or more of his own military documents', that Hilton then filed a FOIA request for the records, and that Hilton posted the return on 25 September 2014. Johnson lists the return as showing Lackland AFB (1967), Keesler and Cannon AFB (1968), the Nellis assignment from June 1976 to 16 July 1979, the Kadena assignment from 5 September 1979 to 4 March 1982, and decorations including the Vietnam Service Medal, the Republic of Vietnam Gallantry Cross with Palm Device and three Meritorious Service Medals.",
+"tier": 1
+},
+{
+"source": "Andrew Johnson, 'Keeping The Secret Space Programme a Secret', 2 July 2014, http://www.checktheevidence.co.uk/articles/Keeping%20The%20Secret%20Space%20Programme%20a%20Secret.htm , opened 2026-09-18",
+"text": "Johnson's post of 2 July 2014 is the only opened description of the video said to contain an admission, and it records that he could not verify it: 'The video is about an alleged Skype conversation with Edgar Fouche, but I could not see the screen clearly enough in Hilton's video to verify the claims he was making.' It also establishes that the video is David Hilton's and not Jeremy Rys's.",
+"tier": 1
+},
+{
+"source": "checktheevidence.com posts of 11 February 2014, 2 July 2014 and 13 January 2015, all bylined Andrew Johnson, opened 2026-09-18",
+"text": "The site is operated under a named individual who signs and dates his posts, which distinguishes it from arvp.co.uk, whose owner is unnamed and which the board already records as anonymous.",
+"tier": 1
+}
+],
+"cls": "institution",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2014-02-11",
+"direction": "out",
+"edgeLabel": "Custodian of the Fouche file, under a named operator",
+"id": "edgar-fouche",
+"l0": false,
+"label": "Edgar Fouche",
+"note": "Mirrors the board's existing arvp-fluxliner-project to mark-mccandlish custody edge. The distinction worth recording is that this custodian signs and dates his posts by name, where arvp.co.uk is anonymous.",
+"sources": [
+{
+"date": "2014-02-11",
+"name": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies'",
+"url": "https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2014-01-13",
+"direction": "in",
+"edgeLabel": "Presentation transcript hosted by Check The Evidence",
+"id": "fouche-iufoc-1998",
+"l0": false,
+"label": "Fouche's presentation transcript, August 1998",
+"note": "Genuine custody: a hosting site holding a file. Direction and type mirror the board's existing scott-sorensen-notes-1990 to arvp-fluxliner-project edge, and the treatment of the-black-vault.",
+"sources": [
+{
+"date": "2014-02-11",
+"name": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', the index page linking the file",
+"url": "https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2014-06-15",
+"direction": "in",
+"edgeLabel": "Military documents compilation hosted by Check The Evidence",
+"id": "fouche-military-documents",
+"l0": false,
+"label": "Edgar Fouche's Military, and DOD contractors reference Documents",
+"note": "Genuine custody. The site holds both the HTML original and the printed PDF, which is how the compilation's provenance was established.",
+"sources": [
+{
+"date": "2014-06-15",
+"name": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', the index page linking the file; and the HTML original the PDF was printed from",
+"url": "http://www.checktheevidence.co.uk/articles/edgar%20fouche%20documents.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2014-02-11",
+"deg": 3,
+"denials": [],
+"desc": "This is the custody node for three of the artefacts in this cluster, in the same role the board already gives the-black-vault and arvp-fluxliner-project. It is a website operated by Andrew Johnson, who signs his posts by name and dates them, and that distinguishes it materially from arvp.co.uk, which is anonymous, and the node must say so, because it is a real difference in evidentiary weight. Johnson's index post of 11 February 2014 is the page from which the direct file locations were taken, and it links, among others, the 1998 presentation transcript, the fifteen page military documents compilation, a TR-3B questions and answers file, and video mirrors. His posts of 12 and 13 January 2015 are the only opened account of the FOIA episode, in which David Hilton alleged that Fouche had faked military documents and then filed a Freedom of Information Act request whose return, in Johnson's reading, corroborated what Fouche had said. His post of 2 July 2014 is the only opened account of the video said to contain an admission, and it says plainly that he could not verify it. Johnson is a partisan custodian: he frames the book as presenting 'his experiences using fictional framing while describing real events' and reads Hilton's focus on credibility as a deliberate distraction. He is cited here for custody and for what he says, never as an adjudicator.",
+"domains": [
+"tr3b-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "checktheevidence",
+"l0": false,
+"label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+"locLabel": null,
+"members": null,
+"short": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+"sources": [
+{
+"date": "2014-02-11",
+"name": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', the index and custody page for the Fouche file",
+"url": "https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/"
+},
+{
+"date": "2015-01-13",
+"name": "Andrew Johnson, 'Edgar Fouche - Documents Released In FOIA Show The Same Type Of Record As He Provided Himself'",
+"url": "https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/"
+},
+{
+"date": "2014-07-02",
+"name": "Andrew Johnson, 'Keeping The Secret Space Programme a Secret'",
+"url": "http://www.checktheevidence.co.uk/articles/Keeping%20The%20Secret%20Space%20Programme%20a%20Secret.htm"
+},
+{
+"date": null,
+"name": "Andrew Johnson, checktheevidence.co.uk and checktheevidence.com, 12 and 13 January 2015, , opened 2026-09-18",
+"url": "http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm"
+}
+],
+"sub": "British site operated under a named individual that hosts the Fouche presentation transcript, the military documents compilation and the commentary on the FOIA dispute",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 529 of 1125, score 30). 3 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": []
+}

@@ -1,0 +1,179 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "He is the co-author of Left at East Gate with Larry Warren, and on 13 June 2017, updated 20 June 2017, he published a statement repudiating his co-author's account after twenty-nine years of defending it.",
+"tier": 2
+},
+{
+"source": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The specific allegations in that statement: a fabricated photograph purporting to show Warren with John Lennon; a USAF Form 490 medical appointment card whose notation 'OPTI/RET BURN/EXP' is attributed to a 'Dr. Echols' whom Robbins says was an orthopaedic surgeon rather than an ophthalmologist, making the notation impossible; signature inconsistencies on an in-processing sheet; and testimonial letters attributed to airmen Steve LaPlume and Steve Longero that Robbins says were never sent.",
+"tier": 2
+},
+{
+"source": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html , opened 2026-09-19",
+"text": "What he examined and what he concedes: military paperwork supplied by Warren, 'mostly Xerox copies with some originals', and the handwritten letter Warren wrote to his mother in January 1981, which Robbins accepts as authentic while arguing it 'does not mean that everything else Warren has said or written follows in kind'.",
+"tier": 2
+},
+{
+"source": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html , opened 2026-09-19",
+"text": "A limitation on him as a source, in his own words: 'I have come to a point in my life where I no longer have any interest in researching, investigating or otherwise actively studying that thing alternatively known as the Woodbridge Lights.'",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2017-10-17",
+"dateStart": "2017-06-13",
+"direction": "out",
+"edgeLabel": "Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017",
+"id": "larry-warren",
+"l0": false,
+"label": "Larry Warren",
+"note": "TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins's findings and the underlying documents were not opened here. He concedes the authenticity of Warren's January 1981 letter home.",
+"sources": [
+{
+"date": "2017-06-13",
+"name": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog",
+"url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+},
+{
+"date": "2017-10-17",
+"name": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate'",
+"url": "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2017-06-13",
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Co-author of a book-length treatment of the event, later repudiated by him",
+"id": "rendlesham-1980",
+"l0": true,
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"note": "AUTHORSHIP RELATION, TYPED research. Left at East Gate, with Larry Warren, defended for twenty-nine years and then repudiated in June 2017.",
+"sources": [
+{
+"date": "2017-06-13",
+"name": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog",
+"url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+},
+{
+"date": "2017-08-10",
+"name": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective",
+"url": "http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html"
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"date": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "peter-robbins",
+"label": "Peter Robbins"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017",
+"note": "TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins's findings and the underlying documents were not opened here. He concedes the authenticity of Warren's January 1981 letter home.",
+"of": {
+"id": "larry-warren",
+"label": "Larry Warren"
+},
+"sources": [
+{
+"date": "2017-06-13",
+"name": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog",
+"url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+},
+{
+"date": "2017-10-17",
+"name": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate'",
+"url": "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
+}
+]
+}
+],
+"domains": [
+"disclosure-project-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "peter-robbins",
+"instId": null,
+"l0": false,
+"label": "Peter Robbins",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Peter Robbins is a node because the strongest evidence against one of this cluster's witnesses is a document he wrote, and a claim of that weight should not hang off an unattributed note. He spent twenty-nine years as Larry Warren's co-author and public defender, and then on 13 June 2017 published a statement setting out, item by item, why he no longer believed what he had defended: an allegedly fabricated photograph, an allegedly altered USAF medical form, signatures that do not match, letters that were never sent. What makes the statement usable rather than merely dramatic is that it concedes: he accepts the authenticity of Warren's January 1981 letter home and says so, and he notes that the paperwork he examined came to him from Warren and was mostly photocopies. Four months after he published, the book's publisher suspended its distribution. Robbins also records that he has no further interest in researching the case, which is a limitation on him as a source and is carried here as one.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Peter Robbins",
+"sources": [
+{
+"date": "2017-06-13",
+"name": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog",
+"url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
+},
+{
+"date": "2017-08-10",
+"name": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective",
+"url": "http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html"
+},
+{
+"date": "2017-10-17",
+"name": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate'",
+"url": "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
+}
+],
+"status": "unknown",
+"sub": "Co-author of Left at East Gate with Larry Warren; author of the June 2017 statement repudiating his own co-author's account after twenty-nine years",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 867 of 1125, score 18). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2017-06-13",
+"id": "tl-2017-06-13-robbins-statement",
+"label": "Peter Robbins repudiates his co-author after twenty-nine years",
+"precision": "day",
+"strand": "witness",
+"text": "Robbins publishes a statement alleging that Larry Warren fabricated a photograph with John Lennon, altered a USAF Form 490 whose ophthalmic notation is attributed to a physician Robbins found to be an orthopaedic surgeon, produced an in-processing sheet with mismatched signatures, and attributed testimonial letters to two named airmen that were never sent. He accepts as authentic Warren's January 1981 letter to his mother.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The USAF Form 490 itself, the in-processing sheet, the Lennon photograph and the LaPlume and Longero letters. None was opened by this board; all are known through Robbins's description.",
+"Part Two of his account, promised in the Randle series and not opened."
+]
+}

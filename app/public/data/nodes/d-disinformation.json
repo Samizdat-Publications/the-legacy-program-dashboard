@@ -5,6 +5,11 @@
 "band": null,
 "claims": [
 {
+"source": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"text": "THE DOMAIN'S CLEANEST WORKED EXAMPLE OF MANUFACTURED CORROBORATION. Tal Levesque, author of the two original Dulce Base articles, told Adam Gorightly by email in November 2015 that Thomas Edwin Castello was 'a creation. A MYTH', and described the distribution: 'Literally, I made 100 large envelope packets with supporting material about Underground bases, genetic research, hidden science (R & D), etc. and sent the material to authors and lecturers, who then mixed it into their talks, articles and books.' The many later sources that agree about Dulce agree because they were seeded from one origin.",
+"tier": 2
+},
+{
 "source": "FBI Records: The Vault - 'Majestic 12'",
 "text": "The FBI maintains a public file on the Majestic 12 documents, released through its Vault reading room, recording the investigation of their authenticity.",
 "tier": 1
@@ -66,6 +71,27 @@
 "type": "programmatic"
 },
 {
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "A cluster whose central witness has a confessed author",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "It belongs in this domain on its own evidence rather than by association with the Bennewitz operation, because the confession describes the deliberate manufacture of apparent independent corroboration.",
+"sources": [
+{
+"date": "2024-04-02",
+"name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
 "claimTier": 1,
 "cls": "document",
 "dateEnd": null,
@@ -90,10 +116,11 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1984-12-11",
-"deg": 3,
+"deg": 4,
 "denials": [],
 "desc": "A body of fabricated documents is the most efficient way to poison an evidentiary well, and this field has one of the largest such bodies on record. The Majestic-12 papers - first surfacing on unsolicited film delivered to Jaime Shandera in December 1984, purporting to be an Eisenhower-era briefing on recovered craft - were investigated by the FBI, whose file on the matter is public in the Bureau's Vault reading room and records the Air Force Office of Special Investigations' assessment that the documents were bogus. Whether any given MJ-12 document is a forgery, a forgery built on real classified content, or a genuine record does not change the structural point: once fabricated material enters circulation, every genuine document acquires the burden of proving it is not one of them, and that burden is the concealment dividend. This board therefore treats forged documents as evidence of an act - someone made them, at a cost, for a purpose - and asks who benefited from their circulation. Scoring high on this domain means an entity authored, distributed, authenticated or debunked fabricated material, all four of which are consequential roles.",
 "domains": [
+"dulce-2026-09-19",
 "w2-taxonomy"
 ],
 "dossier": null,
@@ -111,6 +138,11 @@
 "members": null,
 "short": "Disinformation & Fabricated Documents",
 "sources": [
+{
+"date": "2024-04-02",
+"name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
 {
 "date": "2011-04-01",
 "name": "FBI Records: The Vault - 'Majestic 12'",
@@ -134,6 +166,6 @@
 ],
 "sub": "Evidentiary domain - forged and salted records as a concealment instrument",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 758 of 1057, score 21). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 617 of 1125, score 27). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": []
 }

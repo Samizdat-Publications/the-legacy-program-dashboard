@@ -362,6 +362,27 @@
 },
 {
 "claimTier": 2,
+"cls": "person",
+"dateEnd": "2024-10-21",
+"dateStart": "2024-10-21",
+"direction": "in",
+"edgeLabel": "Subject of a 1:09:12 UAP Gerb episode published 21 October 2024",
+"id": "mark-mccandlish",
+"l0": false,
+"label": "Mark McCandlish",
+"note": "Video id wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', channel 'UAP Gerb', published 21 October 2024, runtime 01:09:12. Gerb is the investigator who brings this account to the board's corpus and who located the 1990 notes. Several assertions attributed to him in the corpus files are recorded on these nodes as unverified rather than as claims.",
+"sources": [
+{
+"date": "2024-10-21",
+"name": "YouTube listing for video wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', UAP Gerb",
+"url": "https://www.youtube.com/watch?v=wF07QMm6joE"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
 "cls": "document",
 "dateEnd": "2026",
 "dateStart": "2026",
@@ -535,7 +556,7 @@
 "url": "https://www.youtube.com/watch?v=iAWD4irLMZM"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "behavioral"
 },
 {
@@ -563,7 +584,7 @@
 "date": "2026-08-07",
 "dateEnd": null,
 "dateStart": "2026-08-07",
-"deg": 16,
+"deg": 17,
 "denials": [],
 "domains": [
 "ffrdcs",
@@ -677,7 +698,7 @@
 "status": "active",
 "sub": "Pseudonymous open-source investigator; publisher of the 7 August 2026 MITRE investigation, produced with a researcher using the handle 'Kerberos'; interviewed on NewsNation's Reality Check by Ross Coulthart",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 103 of 1057, score 60). 17 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 104 of 1125, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "2025-02-21",

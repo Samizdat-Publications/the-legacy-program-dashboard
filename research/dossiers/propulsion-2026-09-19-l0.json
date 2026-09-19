@@ -1,0 +1,134 @@
+[
+  {
+    "id": "dird-antigravity-for-aerospace-applications",
+    "entityDossier": {
+      "whatItIs": "A Defense Intelligence Reference Document titled 'Antigravity for Aerospace Applications', series 'Acquisition Threat Support', published 30 March 2010, produced in FY2009 under the Defense Intelligence Agency's Advanced Aerospace Weapon System Applications programme. The released copy is 44 pages, UNCLASSIFIED//FOR OFFICIAL USE ONLY, with the author's name withheld under FOIA exemption (b)(6) and the 'Prepared by:' line withheld under (b)(3) 10 USC 424, so the released cover attributes the paper to nobody.",
+      "whyImplicated": "It is the United States government's own survey of antigravity, commissioned by a defence intelligence agency, and it is the single best control document this board carries for the propulsion strand. What a government study of a subject contains is evidence. What it does not contain is evidence too, and this one does not contain the thing the lore says is at its centre.",
+      "roles": [
+        "research",
+        "concealment"
+      ],
+      "narrative": "The popular account of antigravity research has a founding figure. Thomas Townsend Brown, his two patents, and the electrogravitics literature of the 1950s are treated as the origin of the whole subject, and this board carries them because the account carries them.\n\nThis document is what happens when the government surveys the same field. Over the complete released 45-page PDF, taken on 19 September 2026: **Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and Thomas Townsend Brown absent entirely.** The three occurrences of the string 'Brown' are other authors' surnames in the reference list.\n\nWhat is in it instead is its own contents page: 'Concepts for Antigravity Within Newtonian Physics', 'Negating Newtonian Gravity', 'Energy Estimate for Newtonian Levitation', and the corresponding treatment within general relativity. It is a physics review, and it reaches for the physics rather than for the lore.\n\nThe careful statement of what this proves, and it is narrower than it first looks: a survey's silence is evidence about the survey, not proof that a subject is empty. What it establishes is that when a defence intelligence agency paid for a literature review of antigravity in 2009, the reviewer did not consider Brown worth a sentence. That is a fact about how the documented research community regards the man the lore treats as its founder, and the board carries it as exactly that and no more.",
+      "claims": [
+        {
+          "text": "THE ZERO-COUNTS, over the complete released 45-page PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and THOMAS TOWNSEND BROWN ABSENT ENTIRELY. The three occurrences of 'Brown' are other authors' surnames in the reference list. The government's own antigravity survey never reaches for the man the lore treats as its origin.",
+          "tier": 1,
+          "source": "DIA-08-1003-018, complete released PDF, word-counted 2026-09-19"
+        },
+        {
+          "text": "WHAT THE ZERO-COUNT IS AND IS NOT EVIDENCE FOR. It is evidence about how a funded 2009 literature review of antigravity regarded Thomas Townsend Brown, which is: not worth a sentence. It is NOT evidence that Brown's patents say nothing, which the board establishes separately from the patents themselves, nor proof that the subject is empty.",
+          "tier": 3,
+          "source": "stated inference, recorded so the zero-count is not over-read"
+        },
+        {
+          "text": "THE PAPER IS ATTRIBUTED TO NOBODY IN THE RELEASED COPY. The author's name is withheld under FOIA exemption (b)(6) and the 'Prepared by:' line under (b)(3) 10 USC 424. Any attribution of this document to a named author rests on something other than the released cover.",
+          "tier": 1,
+          "source": "DIA-08-1003-018, released cover and inside cover, opened 2026-09-19"
+        }
+      ],
+      "openQuestions": [
+        "The author. The released copy attributes the paper to nobody, and the board asserts no attribution.",
+        "Whether an unredacted copy exists in any openable form.",
+        "The other reports in the FY2009 series that this board does not yet carry."
+      ]
+    }
+  },
+  {
+    "id": "dird-mhd-air-breathing-propulsion-and-power",
+    "entityDossier": {
+      "whatItIs": "A Defense Intelligence Reference Document titled 'MHD Air Breathing Propulsion and Power for Aerospace Applications', series 'Defense Futures', published 21 November 2010, produced in FY2009 under the same DIA Advanced Aerospace Weapon System Applications programme. The released copy is 33 pages, with the author withheld under the same two exemptions.",
+      "whyImplicated": "Magnetohydrodynamics is the mechanism the lore most often reaches for when it wants a propulsion story that sounds technical, and this is the government's own assessment of it. It sits in the propulsion strand as the document that shows what a real MHD review looks like: hypersonic aerodynamics, weight, complexity and power budgets, with no exotic content anywhere.",
+      "roles": [
+        "research"
+      ],
+      "narrative": "The value of this document to the board is that it is boring, and that its boringness is checkable.\n\nIts own summary describes a review of 'novel propulsion concepts utilizing plasmas (ionized gases) and magnetohydrodynamics', and its assessment is unflattering: the concepts face significant difficulties of weight, complexity and higher power. On the specific concept the popular literature reaches for most, it is blunter still, finding that the well-publicised Ajax MHD energy-bypass concept 'has been shown to be meaningless below at least Mach 12'.\n\nThe zero-counts over the whole released 33-page PDF, taken 19 September 2026: **UFO 0, unidentified 0, anti-gravity 0, antigravity 0, scalar 0, zero point 0, levitation 0.** The word 'gravity' occurs only in ordinary aerodynamic senses.\n\nRead beside King's 1967 patent, which claims exactly MHD with an atmosphere as its armature and mentions scalar, spin and gravity zero times, and beside Yamato-1, which put superconducting MHD to sea at Kobe in 1992 and performed poorly, this document completes a picture the strand exists to draw. The mechanism is real, it was patented, it was built, it was assessed by the government, and at no point in that chain does anything exotic appear. The exotic content arrives only when the mechanism is invoked rather than examined.",
+      "claims": [
+        {
+          "text": "THE ZERO-COUNTS over the complete released 33-page PDF, taken 19 September 2026: UFO 0, unidentified 0, anti-gravity 0, antigravity 0, scalar 0, zero point 0, levitation 0. The word 'gravity' occurs only in ordinary aerodynamic senses.",
+          "tier": 1,
+          "source": "DIA-08-1011-006, complete released PDF, word-counted 2026-09-19"
+        },
+        {
+          "text": "ITS FINDING ON THE CONCEPT THE LORE REACHES FOR, verbatim: 'A well-publicized Ajax concept of MHD energy bypass has been shown to be meaningless below at least Mach 12.'",
+          "tier": 1,
+          "source": "DIA-08-1011-006, opened 2026-09-19"
+        },
+        {
+          "text": "ITS OWN ASSESSMENT OF THE FIELD: the concepts reviewed face significant difficulties of weight, complexity and higher power. This is a government review of magnetohydrodynamic propulsion that finds it hard rather than hidden.",
+          "tier": 1,
+          "source": "DIA-08-1011-006, its own summary, opened 2026-09-19"
+        }
+      ],
+      "openQuestions": [
+        "The author, withheld under the same exemptions as the rest of the series.",
+        "Whether any classified companion assessment exists; nothing opened indicates one either way."
+      ]
+    }
+  },
+  {
+    "id": "dird-warp-drive-dark-energy-and-the",
+    "entityDossier": {
+      "whatItIs": "A Defense Intelligence Reference Document titled 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', series 'Acquisition Threat Support', published 2 April 2010, from the same FY2009 DIA series, author withheld under the same two exemptions. Its reference 1 is Alcubierre's 1994 paper in Classical and Quantum Gravity, printed in full.",
+      "whyImplicated": "It is the government's own treatment of metric engineering, and unlike almost everything else in this subject it **prints the requirement as a number**. Two tables give the negative energy required for a warp bubble, before and after the reduction the paper argues for. A number is checkable, and a board built on grading evidence should prefer the document that gives one.",
+      "roles": [
+        "research"
+      ],
+      "narrative": "The warp drive occupies an unusual position in this subject. Unlike most claimed mechanisms it has a real, citable, peer-reviewed origin: Alcubierre's 1994 paper, which this document's reference 1 prints in full. So the question is never whether the physics exists in the literature. It is what the literature actually says.\n\nAlcubierre says it requires matter that violates all three energy conditions, with energy density everywhere negative, and states in terms that one needs exotic matter. Over the whole paper the word 'device' appears zero times and 'propulsion' appears once. It is a general relativity result about what a metric would have to look like, not an engineering proposal.\n\nThis DIA document takes the next step and quantifies it, tabulating the negative energy required for a warp bubble at light speed on the order of -10^42 joules before the reduction it argues for. Its own summary is careful in the same way, describing the idea that a sufficiently advanced technology may acquire direct control over higher dimensions as a possibility being explored rather than a result obtained.\n\nThe board carries all of this so that the gap is visible in one place: the peer-reviewed source, the government's quantification of what it would cost, and the popular claim that it is being done. The first two agree with each other and neither supports the third.",
+      "claims": [
+        {
+          "text": "IT PRINTS THE REQUIREMENT AS A NUMBER, IN TWO TABLES. Table 2, 'Negative Energy Required for Warp Bubble (Larger Negative Energy)', and Table 3 after the reduction the paper argues for. The board prefers the document that gives a figure to the account that gives an adjective.",
+          "tier": 1,
+          "source": "DIA warp-drive DIRD, Tables 2 and 3, opened 2026-09-19"
+        },
+        {
+          "text": "ITS OWN SUMMARY FRAMES THE SUBJECT AS A POSSIBILITY AND NOT A RESULT: 'The idea that a sufficiently advanced technology may interact with, and acquire direct control over, the higher dimensions...' is explored, not demonstrated.",
+          "tier": 1,
+          "source": "DIA warp-drive DIRD, its own summary, opened 2026-09-19"
+        },
+        {
+          "text": "ITS SOURCE DOCUMENT IS PEER-REVIEWED AND SAYS LESS THAN IS CLAIMED FOR IT. Reference 1 is Alcubierre, M., 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity vol. 11, 1994. That paper states the requirement violates all three energy conditions, that energy density is everywhere negative, and that one needs exotic matter. Across the whole paper 'device' occurs 0 times and 'propulsion' once.",
+          "tier": 1,
+          "source": "Alcubierre 1994, Classical and Quantum Gravity vol. 11, opened and word-counted 2026-09-19"
+        }
+      ],
+      "openQuestions": [
+        "The author, withheld under the same exemptions as the rest of the series.",
+        "Whether the reduction this paper argues for has been assessed anywhere in the open literature."
+      ]
+    }
+  },
+  {
+    "id": "millis-tm-2004-213082",
+    "entityDossier": {
+      "whatItIs": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics', by Marc G. Millis, the summary report of NASA's Breakthrough Propulsion Physics Project. It adjudicates, in one openable 19-page document with named references, the three claims this board's propulsion strand is built around: Biefeld-Brown and lifters, metric engineering, and the experimental record behind both.",
+      "whyImplicated": "It is the closest thing this subject has to a referee. A national space agency ran a project specifically to assess breakthrough propulsion claims, published its findings under a named author with a reference list, and reached conclusions that are quotable and checkable. Where the lore says a mechanism is suppressed, this document says what was tested and what the tests found.",
+      "roles": [
+        "research",
+        "disclosure"
+      ],
+      "narrative": "The most useful sentence on this board's propulsion question is in section 3.2.7 of this report: that in 1928 a device was patented for creating thrust using high-voltage capacitors, that many variants followed, and that **all rigorous experimental tests indicate the observed thrust is attributable to ion wind**, with the devices not viable candidates. Behind that phrase NASA prints its three references, including Talley's PL-TR-91-3009 final report for the Air Force, so the adjudication is not an assertion but a citation.\n\nSection 3.3.1 does the same for metric engineering, recording that the concepts face enormous technical hurdles and in particular require enormous quantities of negative energy. That is the same finding the DIA warp-drive document reaches independently and quantifies.\n\nThe report is also useful for dating a term. NASA recorded in 2004 that 'metric engineering' had emerged at aerospace conferences and noted where it came from, which matters because the UAP literature treats the phrase as established technical vocabulary rather than as a recent coinage from a specific community.\n\nAnd it supplies one of the two checkable facts behind this board's treatment of the Hutchison claim, by word count over its complete text. The board's position on Hutchison is that it rests entirely on undocumented video, and a NASA assessment that surveyed the field without engaging it is part of why.\n\nA caution the node carries: this is a 2004 document. It is Tier 1 for what NASA concluded in 2004 from the experiments it cites, and it is not a standing refutation of work done since. The Army Research Laboratory dissent on the ion-wind mechanism, recorded in this cluster's conflicts, is an example of the argument continuing among people doing real work.",
+      "claims": [
+        {
+          "text": "THE BIEFELD-BROWN ADJUDICATION, section 3.2.7, in NASA's own words: 'all rigorous experimental tests indicate that the observed thrust is attributable to ion wind', and the devices are 'not viable candidates'. NASA prints three references behind that phrase, including Talley, R. L., 'Twenty First Century Propulsion Concept', PL-TR-91-3009.",
+          "tier": 1,
+          "source": "NASA/TM-2004-213082 section 3.2.7, opened 2026-09-19"
+        },
+        {
+          "text": "THE METRIC-ENGINEERING ADJUDICATION, section 3.3.1, verbatim: 'Enormous technical hurdles face these concepts. In particular, they require enormous quantities of \"negative energy\"'. NASA and the DIA warp-drive document reach the same finding independently, and the DIA document quantifies it.",
+          "tier": 1,
+          "source": "NASA/TM-2004-213082 section 3.3.1, opened 2026-09-19"
+        },
+        {
+          "text": "IT IS A 2004 DOCUMENT AND IS NOT A STANDING REFUTATION. It is Tier 1 for what NASA concluded in 2004 from the experiments it cites. Work since is not addressed by it, and the Army Research Laboratory dissent on the ion-wind mechanism, which rejects the ballistic account while invoking no new physics, is recorded in this cluster as a live disagreement rather than a settled one.",
+          "tier": 3,
+          "source": "stated inference, recorded so the report is not over-read as final"
+        }
+      ],
+      "openQuestions": [
+        "Talley's PL-TR-91-3009 itself, which NASA cites as one of the three experimental references. It returned HTTP 403 and was not opened.",
+        "Tajmar 2004, the other reference behind the ion-wind finding, also not opened.",
+        "Whether NASA or any successor has revisited the Biefeld-Brown adjudication since 2004."
+      ]
+    }
+  }
+]

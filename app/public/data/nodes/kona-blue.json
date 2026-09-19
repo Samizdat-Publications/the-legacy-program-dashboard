@@ -404,7 +404,7 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "temporal"
 },
 {
@@ -698,7 +698,7 @@
 "cls": "document",
 "id": "reid-sap-letter-2009",
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -767,7 +767,7 @@
 ],
 "sub": "Proposed DHS special access program, circa 2011",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 10 of 1057, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 10 of 1125, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "date": "2011-01-01",

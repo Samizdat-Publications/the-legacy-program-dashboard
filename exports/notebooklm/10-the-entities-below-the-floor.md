@@ -14,7 +14,7 @@ Wright-Patterson Air Force Base sits immediately east and northeast of Dayton, O
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 52 of 1057, score 78). 20 connections, 8 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 52 of 1125, score 78). 20 connections, 8 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -34,6 +34,115 @@ Re-graded A on a global pass (rank 52 of 1057, score 78). 20 connections, 8 of t
 
 It carries 20 connections in total on the board.
 
+## S-4 / Papoose Lake, Nevada
+
+S-4 / Papoose Lake, Nevada is a location on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1988-12 to 1989-04; axes C0 A0 D3; 16 connections.
+
+In one line: THE HUB. A claimed nine-hangar facility said to be built into a mountain about fifteen miles south of Groom Lake, at a real dry lake on which aerial photography shows no installation.
+
+### What it is
+
+THIS NODE RECORDS A CLAIM AND NOT A PLACE WHOSE CONTENTS ARE ESTABLISHED. Papoose Lake is a real dry lake bed in Lincoln County, Nevada, a few miles southwest of the Groom Lake facility and adjacent to the Papoose Range. Nothing documented attaches any facility to it. What attaches to it is an assertion: from 1989 Bob Lazar has said that between December 1988 and April 1989 he worked at a site he calls S-4, about fifteen miles south of Groom Lake on the Nellis range, built into a mountainside behind nine hangar doors angled at about sixty degrees, holding nine disc-shaped craft whose propulsion he was hired to back-engineer. The node exists because that assertion is the convergence point of an entire cluster: Lazar, John Lear, Gene Huff, George Knapp, the 1989 KLAS broadcasts, the 1991 videotape and the 2018 Corbell documentary all run into it, and so do the people who say it is wrong. The documented half of the surrounding geography is real and should not be blurred into the claim: the Groom Lake facility was officially acknowledged when the CIA history of the U-2 and OXCART programmes by Gregory Pedlow and Donald Welzenbach was declassified in summer 2013. That is a statement about Groom Lake. It is not a statement about Papoose Lake. The node is named s-4-papoose-lake rather than s-4 deliberately, because the two strongest sceptical accounts both say the designator S-4 is real and attaches to a radar facility elsewhere on the range; a node called s-4 would silently adopt the claimant's referent as the board's own.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 172 of 1125, score 49). 16 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 2 named person on the record.** THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990 describes Lazar's claim, as of that date, as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a different named place from Papoose Lake and from the Nellis range. The board carries the discrepancy on the hub rather than smoothing it into the later settled version. Source: Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/, opened 2026-09-18, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+- **Tier 2 named person on the record.** THE CLAIM, in the claimant's own narration on the 1991 videotape: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; 'The S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; he was bussed there from near 'the gro[o]m mountains in the groom[ ]dry lake bed from Area 51... to an even more highly secure' site; and he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate. Source: The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions at 1:54, 24:24, 27:16 and 28:01 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity, opened 2026-09-18
+- **Tier 2 named person on the record.** THE DOCUMENTED HALF OF THE GEOGRAPHY, WHICH IS ABOUT GROOM LAKE AND NOT ABOUT PAPOOSE LAKE. The Groom Lake facility's existence was officially acknowledged by the declassification, in summer 2013, of the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, posted as National Security Archive Electronic Briefing Book 443, edited by Jeffrey T. Richelson on 29 October 2013. Source: National Security Archive Electronic Briefing Book 443, ed. Jeffrey T. Richelson, 29 October 2013, https://nsarchive.gwu.edu/node/3324, opened 2026-09-18, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+- **Tier 2 named person on the record.** THE LAKEBED HAS BEEN PHOTOGRAPHED FROM THE AIR, LEGALLY, AND THERE IS NOTHING ON IT. Tyler Rogoway of The War Zone published aerial images taken on a pilot's authorised flight directly over Papoose Lake: 'nothing appears to be there, just as satellite images show. There isn't even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.' Rogoway states his own position in the same piece: 'No, I don't believe Bob's story, but I do think that it is one of the most entertaining tales ever told.' Source: Tyler Rogoway, The War Zone, updated 13 April 2020, https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends, opened 2026-09-18, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+- **Tier 2 named person on the record.** THE PLACE IS REAL AND THE FACILITY IS NOT DOCUMENTED. Papoose Lake is a dry lake bed in Lincoln County, Nevada, a few miles southwest of the Groom Lake facility and adjacent to the Papoose Range. The only source cited for it is the USGS Geographic Names Information System, which this session did not open, so no feature identifier and no coordinates are asserted anywhere on this node. Source: Wikipedia article on Papoose Lake, opened only to read its citation, https://en.wikipedia.org/wiki/Papoose_Lake, opened 2026-09-18, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** THE SECOND-BEST FINDING IN THIS CLUSTER: TWO PEOPLE REACH THE SAME COUNTER-EXPLANATION BY UNRELATED ROUTES. Tom Mahood, a physics graduate who spent years on the documentary record, concludes in his 2018 retrospective that there is 'nothing at Papoose Lake' and that S-4 actually refers to a radar facility at the Tonopah Test Range. Separately, T.D. Barnes, a former CIA and NASA engineer who worked at Groom Lake, says the real Site 4 is a remote radar site north of the main facility that held captured Soviet equipment, that this and not an underground base is what Lazar referred to, and that a named retired Area 51 security chief confirmed to him that Lazar appears on no manifest. Neither route depends on the other: one is documentary and civilian, the other is recollection by a former range engineer. Shared conclusions from a shared method are not corroboration; these two do not share a method. Source: Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/, opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 0:57:13 and 1:01:21 to 1:02:58, recorded 2026-07-20
+- **Tier 3 stated inference.** NEGATIVE FINDING, STATED AS ONE. No opened government record of any kind names a facility called S-4 at Papoose Lake. That is a statement about the searching done on 18 September 2026 and it is not a proof of absence. Source: research/leads/verified-lazar-s4-2026-09-18.md, this board's own research pass, 2026-09-18
+
+### Its strongest connections
+
+- S-4 / Papoose Lake, Nevada runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier B), a geographic link at Tier 1 documented. The link reads: The claim's earlier geography, as reported contemporaneously in August 1990. Tier 1 for what the newspaper shows. In August 1990 Lazar's claim was reported as being about 'the Nevada Test Site, 65 miles northwest of Las Vegas', a Department of Energy site, not the Air Force range. The claim's geography moved and the edge records that. Sources: Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/, dated 1990-08-21.
+- S-4 / Papoose Lake, Nevada comes in from **George Knapp** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Journalist who brought the claim to air in 1989 and has carried it since. Confirmed contemporaneously in print: 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. Mahood's timeline puts his first interviews with Lazar in March 1989. Sources: Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/, dated 1990-06-19.
+- S-4 / Papoose Lake, Nevada comes in from **Robert "Bob" Lazar** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Originating claimant: says he worked at S-4, December 1988 to April 1989. The originating claim of the whole cluster, in his own narration: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. The edge records that he says this and nothing more. Sources: The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions at 1:54 to 2:13, https://archive.org/details/antigravity, dated 1991.
+- S-4 / Papoose Lake, Nevada runs out to **Groom Lake, Nevada** (location, board tier A), a geographic link at Tier 2 named person on the record. The link reads: Claimed site sited by reference to Groom Lake, about fifteen miles north of it. The claim anchors itself to a documented facility. That anchoring does not transfer the facility's documentation to the claim. Sources: The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16, https://archive.org/details/antigravity, dated 1991.
+- S-4 / Papoose Lake, Nevada comes in from **Stanton T. Friedman** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: Denial from a UFO proponent: the claimant's credentials do not survive checking. The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
+- S-4 / Papoose Lake, Nevada comes in from **Tom Mahood** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility. EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible. Sources: Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/, dated 2018.
+
+It carries 16 connections in total on the board.
+
+## Dulce Base (alleged facility, Archuleta Mesa, New Mexico)
+
+Dulce Base (alleged facility, Archuleta Mesa, New Mexico) is a location on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1979; axes C0 A0 D3; 15 connections.
+
+In one line: THE HUB. A claimed multi-level joint human and alien facility under Archuleta Mesa, for which no documented facility exists and whose central witness was confessed as an invention.
+
+### What it is
+
+THIS NODE RECORDS A CLAIM. It does not record a facility, and nothing opened by this board places any facility under Archuleta Mesa. What attaches to the mesa is a set of assertions made by named people on datable occasions, and this node is the point at which they converge. Paul Bennewitz is the origin point from about 1979. Myrna Hansen's 1980 abduction account was connected to Dulce by Bennewitz after he had begun to suspect a facility. Tom Adams arrived in the early 1980s by way of cattle-mutilation work. John Lear developed his Dulce hypothesis in 1988, having heard of it from a woman named as Ann West. Tal Levesque wrote the two original Dulce Base articles. Phil Schneider arrived only in 1995 and supplied the specification the modern claim uses: seven levels, over two and a half miles deep, and an alleged 1979 firefight in which he says he shot two aliens and roughly seventy people died. Bill Cooper carried a related frame to a mass audience from 1989, and the precise limit of what he carried is recorded on his own node: his 1989 paper names alien bases under Indian reservations in the Four Corners area and the string 'Dulce' occurs in it zero times. What distinguishes this hub from every other claimant hub on the board is that its central witness has an author who confessed. In November 2015 Tal Levesque told Adam Gorightly by email that Thomas Edwin Castello was 'a creation. A MYTH', described composing the original articles from an account by Ann West mixed with his own research, and described mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. That last part is the manufacture of apparent corroboration, and it is why this cluster is the board's cleanest worked example of many sources agreeing because they share one origin. Against the claim sit four independent checks, none of them each other's method: Levesque's confession; Adam Gorightly, who obtained and published it; John Greenewald, who on 1 April 2016 traced the most-circulated photographic 'evidence' to the 2000 film The 6th Day and stated he had found no evidence Castello exists; Norio Hayakawa, who has worked the question since 1988 and concludes 'it does not seem to exist'; and Brian Dunning, whose 3 December 2013 episode calls the imagery case trivially checkable and classifies the base as fictional. And one documentary counterweight that is not scepticism at all but a fact about the ground: on 10 December 1967 the Atomic Energy Commission detonated a 29-kiloton device at 4,227 feet twelve miles southwest of Dulce, and the site remained under federal management, with liquid radioactive waste injected into the cavity and contaminated soil hauled away as late as 2004. A rumour of a secret federal installation in the ground near Dulce is, in the flattest sense, a rumour about something that happened. What the record does not support is the facility, the levels, the depth, the firefight, or the man.
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 134 of 1125, score 54). 15 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented, allegation shaped wording as stored.** THE DOCUMENTED FEDERAL HOLE IN THE GROUND NEXT TO DULCE, TWELVE YEARS BEFORE THE RUMOUR. On 10 December 1967 the US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, twelve miles southwest of Dulce in the Carson National Forest, on a 640-acre site now managed by the DOE Office of Legacy Management. This is a record of Project Gasbuggy. It is adjacency and precedence, and it is NOT a claim that Gasbuggy caused the rumour. Source: US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf, text extracted and read in full 2026-09-19
+- **Tier 1 documented.** THE MOST-CIRCULATED PHYSICAL 'EVIDENCE' IS A MOVIE FRAME. The photograph of bodies in a chamber, distributed for years as Castello's leaked proof, was traced by John Greenewald on 1 April 2016 to the 2000 feature film The 6th Day: it 'is, in fact, a verifiable hoax'. Tier 1 because the identification is checkable by anyone against the film. Source: The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/, opened 2026-09-19
+- **Tier 2 named person on the record.** THE CENTRAL FINDING. The claimed insider at the heart of the Dulce story was confessed as an invention by the man who says he invented him. Tal Levesque to Adam Gorightly, November 2015: 'You still do not get it. TEC (Thomas Edwin Castello) is a creation. A MYTH.' He described composing the two original Dulce Base articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large envelope packets of supporting material to authors and lecturers 'who then mixed it into their talks, articles and books'. Source: Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/, opened 2026-09-19
+- **Tier 2 named person on the record.** THE IMAGERY NEGATIVE, DATED. Brian Dunning, Skeptoid episode 391 of 3 December 2013: 'It's trivial to study Google Earth images of Archuleta Mesa and see that there's nothing there at all, certainly nothing like Schneider's elaborate descriptions.' He classifies the base as fictional. Its own reference list for Dulce is a single blog post, which bounds how much weight the episode can carry. Source: Brian Dunning, Skeptoid 391, 3 December 2013, https://skeptoid.com/episodes/4391, opened 2026-09-19
+- **Tier 2 named person on the record.** THE NAMED LOCAL NEGATIVE. Norio Hayakawa, who has worked the Dulce question since 1988 and is a proponent of investigating the subject rather than a professional debunker, states on his own site: 'it does not seem to exist'. Source: Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, opened 2026-09-19
+- **Tier 2 named person on the record, allegation shaped wording as stored.** THE SPECIFICATION, AND WHERE IT COMES FROM. Every specific number in the modern claim comes from one lecture, at Post Falls, Idaho on 8 May 1995, in which Phil Schneider said the base 'goes down seven levels and over 2.5 miles deep' and described a firefight in which he shot two aliens and about seventy people were killed. He was not part of the initial rumours and arrived fifteen years after they began. Source: Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm, and Norio Hayakawa, 29 August 2016, both opened 2026-09-19
+- **Tier 3 stated inference.** STATED INFERENCE, AND THE REASON THIS CLUSTER MATTERS BEYOND ITSELF. The Levesque confession describes the deliberate seeding of a hundred identical packets into independent-looking authors and lecturers, which means the many later sources that agree about Dulce agree because they were supplied from one origin by one method. This is a documented real-world instance of the board's own rule that two agents agreeing is not corroboration when they share a method. Reasoning: the inference is about what the confession implies for every downstream citation in this literature, and it should govern how any future Dulce source is graded. Source: Inference from the November 2015 Levesque confession as reproduced by Norio Hayakawa, 2 April 2024, opened 2026-09-19
+
+### Its strongest connections
+
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) comes in from **Project Gasbuggy, 10 December 1967** (event, board tier C), a denial link at Tier 1 documented. The link reads: ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier. The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour. Sources: US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf, dated 2026-09-19.
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) comes in from **John Greenewald Jr.** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Traced the cluster's best-known physical 'evidence' to a 2000 feature film. The photograph circulated for years as leaked proof from inside the facility is a frame from The 6th Day. The identification is checkable by anyone against the film; the surrounding negative, that he found no evidence Castello exists, is Tier 2. Sources: The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello', https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/, dated 2016-04-01.
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) comes in from **Richard C. Doty** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied. A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such. Sources: Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M, dated 2026-09-19.
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) comes in from **Paul Frederick Bennewitz** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Origin point of the Dulce claim, from about 1979. Bennewitz is the first person to attach a facility claim to Dulce, from about 1979, in the dated chronology of the cluster's originators, and he connected Myrna Hansen's 1980 account to it after he had begun to suspect a site there. The edge records that he asserted it and nothing more. Sources: Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors', https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, dated 2016-08-29.
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) runs out to **Psychological Operations & Perception Management** (domain, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Downstream of the Kirtland operation, which is this domain's best-known case. The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged. Sources: Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies', https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650, dated 2014-05-13; Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors', https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, dated 2016-08-29.
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) runs out to **Disinformation & Fabricated Documents** (domain, board tier C), a programmatic link at Tier 2 named person on the record. The link reads: A cluster whose central witness has a confessed author. It belongs in this domain on its own evidence rather than by association with the Bennewitz operation, because the confession describes the deliberate manufacture of apparent independent corroboration. Sources: Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/, dated 2024-04-02.
+
+It carries 15 connections in total on the board.
+
+## Groom Lake, Nevada
+
+Groom Lake, Nevada is a location on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1955; axes C2 A3 D2; 14 connections.
+
+In one line: Dry lakebed and USAF/CIA flight test facility, Lincoln County, Nevada; R-4808N; 83 mi NNW of Las Vegas.
+
+### What it is
+
+Groom Lake is a salt flat roughly 3.75 miles north-south by 3 miles east-west at about 4,409 feet elevation in the Groom Lake Valley of Lincoln County, Nevada, 83 miles north-northwest of Las Vegas and 25 miles south of Rachel. The flight test facility on its southwest shore sits inside Restricted Area 4808 North, the 'Groom box' - a 23-by-25-mile block of restricted airspace enclosing the original 6-by-10-mile rectangular withdrawal - and abuts Yucca Flat, where 739 of the 928 Nevada Test Site nuclear detonations occurred. Its acknowledgement history is the reason it belongs on this board as a case study in how the United States conceals a physical installation for decades and then concedes it in fragments. The CIA established the site in April 1955 for Project AQUATONE, the U-2; the first U-2 arrived on 24 July 1955. Project OXCART, the A-12, was established in August 1959, construction of the 8,500-foot runway began in September 1960, the first A-12 arrived 28 February 1962 and flew on 26 April 1962. HAVE BLUE, the Lockheed stealth demonstrator, first flew here in December 1977; the YF-117A first flew on 18 June 1981 with Lockheed test pilot Hal Farley; Northrop's TACIT BLUE first flew 5 February 1982 with Richard G. Thomas. Exploited foreign aircraft were flown here from the late 1960s under HAVE DOUGHNUT, HAVE DRILL, HAVE IDEA and HAVE GLIB. Against that record, the government's disclosure posture is instructive: no acknowledgement of any kind until 1995, when President Clinton issued a presidential determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure laws - a determination reissued annually since - which arose out of Kasza v. Browner and Frost v. Perry, the 1994 suits by contractors and by the widows of Walter Kasza and Robert Frost alleging exposure to chemicals burned in open pits, in which Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat. District Judge Philip Pro rejected the state secrets claim; the suits were dismissed for lack of evidence; the Ninth Circuit affirmed; the Supreme Court declined review. The Air Force acknowledged the site's existence in 1998. Only on 25 June 2013, answering a 2005 FOIA request by Jeffrey T. Richelson of the National Security Archive, did the CIA release the U-2 and OXCART history naming Area 51 and admitting specific activity there. That is fifty-eight years from establishment to specific acknowledgement, achieved by FOIA litigation rather than by voluntary disclosure - the template against which every current UAP disclosure claim should be measured. The cover story function matters too: Groom's own historians note the U-2's high-altitude operations generated a wave of civilian UFO reports in the late 1950s that the Air Force did not correct, meaning a real black programme was knowingly allowed to be absorbed into the UFO explanation space.
+
+### The board's reading
+
+Acknowledgement chronology, stated plainly because it is the board's benchmark: facility established April 1955; no acknowledgement of any kind 1955-1995; 1995 presidential determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure law, issued in the shadow of Kasza v. Browner and reissued annually; 1998 USAF acknowledgement that the site exists; 25 June 2013 CIA release of the U-2/OXCART history naming Area 51 and admitting specific activity, in response to a FOIA request filed in 2005 by Jeffrey T. Richelson of the National Security Archive. Fifty-eight years from establishment to specific acknowledgement, and the concession was compelled by a records request rather than volunteered. Any claim that a programme of this kind 'could not stay secret' has to be measured against this chronology.
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 136 of 1125, score 54). 14 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+
+### The claims on the record
+
+- **Tier 2 named person on the record.** Bob Lazar's 1991 narration sites his claimed S-4 facility by reference to this place, 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake', and says he was bussed from there to the claimed site. The claim is anchored geographically to a documented facility; that anchoring does not transfer the facility's documentation to the claim. Source: The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity, opened 2026-09-18
+- **Tier 2 named person on the record.** In 1995 President Clinton issued a presidential determination exempting the Air Force's operating location near Groom Lake, Nevada from environmental disclosure laws; the determination is reissued annually. Source: Presidential determination on the Groom Lake exemption; Wikipedia, Area 51, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record, allegation shaped wording as stored.** Kasza v. Browner and Frost v. Perry (filed 1994) alleged exposure to hazardous waste burned in open pits at Groom Lake; Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat; District Judge Philip Pro rejected the government's state secrets claim before the suits were dismissed for lack of evidence. Source: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998); Wikipedia, Area 51, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** On 25 June 2013 the CIA released an official history of the U-2 and OXCART projects acknowledging testing at Area 51, in response to a 2005 FOIA request filed by Jeffrey T. Richelson of the National Security Archive. Source: CIA, 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974', released 25 June 2013; National Security Archive, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+- **Tier 2 named person on the record.** Project AQUATONE was established in April 1955 with the first U-2 arriving 24 July 1955; Project OXCART was established August 1959 with the first A-12 arriving 28 February 1962; HAVE BLUE first flew December 1977; TACIT BLUE first flew 5 February 1982. Source: CIA OXCART history; Wikipedia, Area 51, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** The facility's existence was officially acknowledged by the declassification, in summer 2013, of the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, posted as National Security Archive Electronic Briefing Book 443 by Jeffrey T. Richelson on 29 October 2013. This is a statement about Groom Lake. It is NOT a statement about Papoose Lake, and the board's s-4-papoose-lake node exists partly to keep the two from being blurred. Source: National Security Archive Electronic Briefing Book 443, 29 October 2013, https://nsarchive.gwu.edu/node/3324, opened 2026-09-18, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+- **Tier 3 stated inference.** Groom Lake is the empirical benchmark for how long the United States can hold a physical installation off the public record: fifty-eight years from establishment in 1955 to specific acknowledgement in 2013, and the acknowledgement was forced by a FOIA request, not volunteered. Reasoning: dates are documented; the 2013 release is explicitly a FOIA response. Source: Inference from the CIA 2013 release and its stated FOIA provenance
+
+### Its strongest connections
+
+- Groom Lake, Nevada comes in from **Atomic Energy Commission** (institution, board tier A), a geographic link at Tier 1 documented. The link reads: Absorbed Groom Lake into its Nevada real estate at CIA request, 1955. The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
+- Groom Lake, Nevada comes in from **Richard M. Bissell Jr.** (person, board tier B), a geographic link at Tier 1 documented. The link reads: Selected the site on 12 April 1955. He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
+- Groom Lake, Nevada comes in from **Presidential Determinations on the Air Force's Operating Location Near Groom Lake** (document, board tier B), a institutional link at Tier 1 documented. The link reads: Annual presidential determinations exempt the Groom Lake operating location from environmental disclosure. Published in the Federal Register every year since 1995, the determinations never name the facility or describe its contents - the cleanest documentary proof of a contractor-operated site legally exempted from statutory disclosure. Sources: Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10; Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada (Presidential Determination), https://www.federalregister.gov/documents/2000/10/05/00-25742/classified-information-concerning-the-air-forces-operating-location-near-groom-lake-nevada, dated 2000-10-05.
+- Groom Lake, Nevada comes in from **EG&G (Edgerton, Germeshausen and Grier)** (institution, board tier A), a institutional link at Tier 2 named person on the record. The link reads: EG&G provided the classified site services and personnel transport for the Groom Lake operating location. The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility. Sources: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08; Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
+- Groom Lake, Nevada comes in from **S-4 / Papoose Lake, Nevada** (location, board tier B), a geographic link at Tier 2 named person on the record. The link reads: Claimed site sited by reference to Groom Lake, about fifteen miles north of it. The claim anchors itself to a documented facility. That anchoring does not transfer the facility's documentation to the claim. Sources: The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16, https://archive.org/details/antigravity, dated 1991.
+- Groom Lake, Nevada comes in from **Lockheed Martin Advanced Development Programs (Skunk Works)** (institution, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards. The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12.
+
+It carries 14 connections in total on the board.
+
 ## Funding Channels
 
 Funding Channels is a domain on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947-01-01; axes C1 A3 D2; 13 connections.
@@ -46,7 +155,7 @@ Money is the most auditable thing a concealed programme touches, and this is whe
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 55 of 1057, score 75). 13 connections, 11 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 58 of 1125, score 75). 13 connections, 11 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -66,6 +175,36 @@ Re-graded A on a global pass (rank 55 of 1057, score 75). 13 connections, 11 of 
 
 It carries 13 connections in total on the board.
 
+## Chain of custody
+
+Chain of custody is a domain on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947; axes C3 A2 D2; 12 connections.
+
+In one line: Cross-cutting domain: who held what, when, and under what documentation.
+
+### What it is
+
+The custody domain tracks the documentary handoffs themselves rather than the objects. Its findings on this board are mostly negative and that is the point: To The Stars Academy's own chief operating officer, a former Lockheed Skunk Works advanced systems director, publicly conceded that the ADAM materials had been 'collected from sources with varying levels of chain-of-custody documentation'. The DIA-funded AAWSAP DIRD series is exemplary at documenting the flow of paper - control numbers, fiscal years, named programme managers, contractor addresses - and silent on the flow of objects. No released document in the AAWSAP corpus records the receipt, transfer or storage of a physical sample. That asymmetry is the single most important structural observation in this domain: the government's own released record proves that it commissioned propulsion theory, materials science and injury pathology, and proves nothing about what it was holding while it did so.
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 71 of 1125, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** No released AAWSAP-era document records the receipt, transfer or storage of a physical sample, despite the release of the statement of work, contract status briefs, 38 reference-product titles and multiple internal memoranda. Source: DIA FOIA Electronic Reading Room AATIP index, examined August 2026
+- **Tier 2 named person on the record.** Steve Justice conceded the ADAM materials were 'collected from sources with varying levels of chain-of-custody documentation'. Source: Steve Justice, quoted in Vice, 26 July 2019
+
+### Its strongest connections
+
+- Chain of custody comes in from **Project AZORIAN and the Hughes Glomar Explorer** (program, board tier A), a custody link at Tier 1 documented. The link reads: Covert recovery of foreign hardware under a named commercial cover. Covert recovery of foreign hardware from the deep ocean under a commercial cover, with a named corporate front, is the custody mechanism this board tracks. Sources: PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt, dated 2010-01-04.
+- Chain of custody comes in from **CIA Prepublication Classification Review Board** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Requires every version of a manuscript surrendered for destruction and removed from the author's hard drive. The guidance's own destruction and hard-drive removal provision is a documented custody mechanism operating on an author's text. Sources: Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt, dated 2018-11-28.
+- Chain of custody comes in from **DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)** (document, board tier C), a investigative link at Tier 1 documented. The link reads: Converted an oral controversy into an enumerated procurement record. Whatever else AATIP/AAWSAP was, the FOIA release proves it bought 38 named studies on wormholes, warp drive, metamaterials, metallic glasses, negative mass propulsion and clinical injury pathology for roughly $22 million. Sources: Federation of American Scientists, 'AATIP List' (Secrecy News), https://fas.org/publication/aatip-list/, dated 2019-01-17; DIA letter to Steven Aftergood listing 38 AATIP reference products, https://irp.fas.org/dia/aatip-list.pdf, dated 2019-01-16.
+- Chain of custody comes in from **Eric W. Davis** (person, board tier A), a custody link at Tier 2 named person on the record. The link reads: 'We couldn't make it ourselves' - a custody claim with no public chain. Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now. Sources: Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times, https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html, dated 2020-07-23.
+- Chain of custody comes in from **UAP Science Advisory Council** (institution, board tier A), a denial link at Tier 2 named person on the record. The link reads: No budget, no classified access - constitutionally unable to reach the material. The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme. Sources: Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press, https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85, dated 2026-06-30; The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01.
+- Chain of custody comes in from **Garry Nolan** (person, board tier A), a custody link at Tier 2 named person on the record. The link reads: Approached by unnamed government and aerospace-corporation representatives about casualty biology. Nolan told KQED he was approached about medical harm from 'supposed interactions with an anomalous craft'. Neither the government element nor the corporation has ever been named, which is where this chain goes dark at its first link. Sources: Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED, https://www.kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-expert-weigh-in, dated 2021-06-14.
+
+It carries 12 connections in total on the board.
+
 ## Materials and custody analysis
 
 Materials and custody analysis is a domain on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947; axes C3 A2 D2; 12 connections.
@@ -82,7 +221,7 @@ Custody chains catalogued in this domain, with the point at which each goes dark
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 153 of 1057, score 49). 12 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 166 of 1125, score 49). 12 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -102,72 +241,35 @@ Re-graded A on a global pass (rank 153 of 1057, score 49). 12 connections, 2 of 
 
 It carries 12 connections in total on the board.
 
-## Chain of custody
+## Independent media as the disclosure substrate
 
-Chain of custody is a domain on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947; axes C3 A2 D2; 11 connections.
+Independent media as the disclosure substrate is a domain on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2017; axes C0 A0 D3; 12 connections.
 
-In one line: Cross-cutting domain: who held what, when, and under what documentation.
-
-### What it is
-
-The custody domain tracks the documentary handoffs themselves rather than the objects. Its findings on this board are mostly negative and that is the point: To The Stars Academy's own chief operating officer, a former Lockheed Skunk Works advanced systems director, publicly conceded that the ADAM materials had been 'collected from sources with varying levels of chain-of-custody documentation'. The DIA-funded AAWSAP DIRD series is exemplary at documenting the flow of paper - control numbers, fiscal years, named programme managers, contractor addresses - and silent on the flow of objects. No released document in the AAWSAP corpus records the receipt, transfer or storage of a physical sample. That asymmetry is the single most important structural observation in this domain: the government's own released record proves that it commissioned propulsion theory, materials science and injury pathology, and proves nothing about what it was holding while it did so.
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 83 of 1057, score 67). 11 connections, 7 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** No released AAWSAP-era document records the receipt, transfer or storage of a physical sample, despite the release of the statement of work, contract status briefs, 38 reference-product titles and multiple internal memoranda. Source: DIA FOIA Electronic Reading Room AATIP index, examined August 2026
-- **Tier 2 named person on the record.** Steve Justice conceded the ADAM materials were 'collected from sources with varying levels of chain-of-custody documentation'. Source: Steve Justice, quoted in Vice, 26 July 2019
-
-### Its strongest connections
-
-- Chain of custody comes in from **Project AZORIAN and the Hughes Glomar Explorer** (program, board tier A), a custody link at Tier 1 documented. The link reads: Covert recovery of foreign hardware under a named commercial cover. Covert recovery of foreign hardware from the deep ocean under a commercial cover, with a named corporate front, is the custody mechanism this board tracks. Sources: PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt, dated 2010-01-04.
-- Chain of custody comes in from **CIA Prepublication Classification Review Board** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Requires every version of a manuscript surrendered for destruction and removed from the author's hard drive. The guidance's own destruction and hard-drive removal provision is a documented custody mechanism operating on an author's text. Sources: Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt, dated 2018-11-28.
-- Chain of custody comes in from **DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)** (document, board tier C), a investigative link at Tier 1 documented. The link reads: Converted an oral controversy into an enumerated procurement record. Whatever else AATIP/AAWSAP was, the FOIA release proves it bought 38 named studies on wormholes, warp drive, metamaterials, metallic glasses, negative mass propulsion and clinical injury pathology for roughly $22 million. Sources: Federation of American Scientists, 'AATIP List' (Secrecy News), https://fas.org/publication/aatip-list/, dated 2019-01-17; DIA letter to Steven Aftergood listing 38 AATIP reference products, https://irp.fas.org/dia/aatip-list.pdf, dated 2019-01-16.
-- Chain of custody comes in from **Eric W. Davis** (person, board tier A), a custody link at Tier 2 named person on the record. The link reads: 'We couldn't make it ourselves' - a custody claim with no public chain. Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now. Sources: Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times, https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html, dated 2020-07-23.
-- Chain of custody comes in from **UAP Science Advisory Council** (institution, board tier A), a denial link at Tier 2 named person on the record. The link reads: No budget, no classified access - constitutionally unable to reach the material. The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme. Sources: Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press, https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85, dated 2026-06-30; The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01.
-- Chain of custody comes in from **Garry Nolan** (person, board tier A), a custody link at Tier 2 named person on the record. The link reads: Approached by unnamed government and aerospace-corporation representatives about casualty biology. Nolan told KQED he was approached about medical harm from 'supposed interactions with an anomalous craft'. Neither the government element nor the corporation has ever been named, which is where this chain goes dark at its first link. Sources: Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED, https://www.kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-expert-weigh-in, dated 2021-06-14.
-
-It carries 11 connections in total on the board.
-
-## Groom Lake, Nevada
-
-Groom Lake, Nevada is a location on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1955; axes C2 A3 D2; 11 connections.
-
-In one line: Dry lakebed and USAF/CIA flight test facility, Lincoln County, Nevada; R-4808N; 83 mi NNW of Las Vegas.
+In one line: Research domain.
 
 ### What it is
 
-Groom Lake is a salt flat roughly 3.75 miles north-south by 3 miles east-west at about 4,409 feet elevation in the Groom Lake Valley of Lincoln County, Nevada, 83 miles north-northwest of Las Vegas and 25 miles south of Rachel. The flight test facility on its southwest shore sits inside Restricted Area 4808 North, the 'Groom box' - a 23-by-25-mile block of restricted airspace enclosing the original 6-by-10-mile rectangular withdrawal - and abuts Yucca Flat, where 739 of the 928 Nevada Test Site nuclear detonations occurred. Its acknowledgement history is the reason it belongs on this board as a case study in how the United States conceals a physical installation for decades and then concedes it in fragments. The CIA established the site in April 1955 for Project AQUATONE, the U-2; the first U-2 arrived on 24 July 1955. Project OXCART, the A-12, was established in August 1959, construction of the 8,500-foot runway began in September 1960, the first A-12 arrived 28 February 1962 and flew on 26 April 1962. HAVE BLUE, the Lockheed stealth demonstrator, first flew here in December 1977; the YF-117A first flew on 18 June 1981 with Lockheed test pilot Hal Farley; Northrop's TACIT BLUE first flew 5 February 1982 with Richard G. Thomas. Exploited foreign aircraft were flown here from the late 1960s under HAVE DOUGHNUT, HAVE DRILL, HAVE IDEA and HAVE GLIB. Against that record, the government's disclosure posture is instructive: no acknowledgement of any kind until 1995, when President Clinton issued a presidential determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure laws - a determination reissued annually since - which arose out of Kasza v. Browner and Frost v. Perry, the 1994 suits by contractors and by the widows of Walter Kasza and Robert Frost alleging exposure to chemicals burned in open pits, in which Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat. District Judge Philip Pro rejected the state secrets claim; the suits were dismissed for lack of evidence; the Ninth Circuit affirmed; the Supreme Court declined review. The Air Force acknowledged the site's existence in 1998. Only on 25 June 2013, answering a 2005 FOIA request by Jeffrey T. Richelson of the National Security Archive, did the CIA release the U-2 and OXCART history naming Area 51 and admitting specific activity there. That is fifty-eight years from establishment to specific acknowledgement, achieved by FOIA litigation rather than by voluntary disclosure - the template against which every current UAP disclosure claim should be measured. The cover story function matters too: Groom's own historians note the U-2's high-altitude operations generated a wave of civilian UFO reports in the late 1950s that the Air Force did not correct, meaning a real black programme was knowingly allowed to be absorbed into the UFO explanation space.
-
-### The board's reading
-
-Acknowledgement chronology, stated plainly because it is the board's benchmark: facility established April 1955; no acknowledgement of any kind 1955-1995; 1995 presidential determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure law, issued in the shadow of Kasza v. Browner and reissued annually; 1998 USAF acknowledgement that the site exists; 25 June 2013 CIA release of the U-2/OXCART history naming Area 51 and admitting specific activity, in response to a FOIA request filed in 2005 by Jeffrey T. Richelson of the National Security Archive. Fifty-eight years from establishment to specific acknowledgement, and the concession was compelled by a records request rather than volunteered. Any claim that a programme of this kind 'could not stay secret' has to be measured against this chronology.
+The domain covering how the disclosure record is actually produced and distributed. The defining fact of the 2023-2026 period is that the substrate moved: the New York Times carried the 2017 AATIP story but not the 2023 Grusch story, which went to The Debrief; the most detailed structural reconstruction of the alleged programme was published not by any newsroom but on a YouTube channel; and the mainstream broadcast contribution came from a single correspondent at a fourth-place cable network. The consequences cut both ways. Long-form independent media gave the structural argument the room it needed - three and four hours, with timestamped chapter indexes that make claims retrievable and dateable - which no broadcast format would have allowed. It also removed the editorial layer that would have forced sourcing discipline, and it attached the whole enterprise to advertising, membership and merchandise revenue models that reward escalation. Both facts belong in any assessment of this record.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 170 of 1057, score 47). 11 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded C on a global pass (rank 795 of 1125, score 21). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
-- **Tier 2 named person on the record.** In 1995 President Clinton issued a presidential determination exempting the Air Force's operating location near Groom Lake, Nevada from environmental disclosure laws; the determination is reissued annually. Source: Presidential determination on the Groom Lake exemption; Wikipedia, Area 51, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 2 named person on the record, allegation shaped wording as stored.** Kasza v. Browner and Frost v. Perry (filed 1994) alleged exposure to hazardous waste burned in open pits at Groom Lake; Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat; District Judge Philip Pro rejected the government's state secrets claim before the suits were dismissed for lack of evidence. Source: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998); Wikipedia, Area 51, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 2 named person on the record.** On 25 June 2013 the CIA released an official history of the U-2 and OXCART projects acknowledging testing at Area 51, in response to a 2005 FOIA request filed by Jeffrey T. Richelson of the National Security Archive. Source: CIA, 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974', released 25 June 2013; National Security Archive, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 2 named person on the record.** Project AQUATONE was established in April 1955 with the first U-2 arriving 24 July 1955; Project OXCART was established August 1959 with the first A-12 arriving 28 February 1962; HAVE BLUE first flew December 1977; TACIT BLUE first flew 5 February 1982. Source: CIA OXCART history; Wikipedia, Area 51, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 3 stated inference.** Groom Lake is the empirical benchmark for how long the United States can hold a physical installation off the public record: fifty-eight years from establishment in 1955 to specific acknowledgement in 2013, and the acknowledgement was forced by a FOIA request, not volunteered. Reasoning: dates are documented; the 2013 release is explicitly a FOIA response. Source: Inference from the CIA 2013 release and its stated FOIA provenance
+- **Tier 2 named person on the record.** The 2017 AATIP story ran in the New York Times; the 2023 Grusch story by the same authors ran in The Debrief. Source: Wikipedia entries for Leslie Kean and Ralph Blumenthal; The Debrief, 5 June 2023, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 3 stated inference, allegation shaped wording as stored.** The commercial structure of independent long-form media - sponsorship reads, membership tiers, merchandise and tour revenue attached to episodes making structural allegations - creates an escalation incentive that must be weighed against the format's genuine advantage in allowing claims to be laid out at length and indexed. Source: Inference from the monetisation disclosed in the episode descriptions themselves.
 
 ### Its strongest connections
 
-- Groom Lake, Nevada comes in from **Atomic Energy Commission** (institution, board tier A), a geographic link at Tier 1 documented. The link reads: Absorbed Groom Lake into its Nevada real estate at CIA request, 1955. The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
-- Groom Lake, Nevada comes in from **Richard M. Bissell Jr.** (person, board tier B), a geographic link at Tier 1 documented. The link reads: Selected the site on 12 April 1955. He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
-- Groom Lake, Nevada comes in from **Presidential Determinations on the Air Force's Operating Location Near Groom Lake** (document, board tier B), a institutional link at Tier 1 documented. The link reads: Annual presidential determinations exempt the Groom Lake operating location from environmental disclosure. Published in the Federal Register every year since 1995, the determinations never name the facility or describe its contents - the cleanest documentary proof of a contractor-operated site legally exempted from statutory disclosure. Sources: Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10; Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada (Presidential Determination), https://www.federalregister.gov/documents/2000/10/05/00-25742/classified-information-concerning-the-air-forces-operating-location-near-groom-lake-nevada, dated 2000-10-05.
-- Groom Lake, Nevada comes in from **EG&G (Edgerton, Germeshausen and Grier)** (institution, board tier A), a institutional link at Tier 2 named person on the record. The link reads: EG&G provided the classified site services and personnel transport for the Groom Lake operating location. The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility. Sources: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08; Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
-- Groom Lake, Nevada comes in from **Lockheed Martin Advanced Development Programs (Skunk Works)** (institution, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards. The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12.
-- Groom Lake, Nevada comes in from **Area 51 (Homey Airport / Groom Lake operating location)** (location, board tier B), a geographic link at Tier 2 named person on the record. The link reads: Area 51 is the named facility on the Groom Lake shore. The operating location is carried on charts as Homey Airport and sits on the southwest shore of the Groom Lake salt flat inside R-4808N. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12.
+- Independent media as the disclosure substrate comes in from **Immaculate Constellation disclosure, October-November 2024** (event, board tier A), a investigative link at Tier 1 documented. The link reads: the case that proves the substrate: leak, newsletter, congressional record, no newsroom. An alleged unacknowledged special access program entered the public record in October 2024 through an independent journalist and the Congressional Record on 13 November 2024, via written testimony and the House Oversight hearing transcript. Whatever the underlying report is worth, the path it travelled is the clearest single demonstration of how disclosure is now produced and distributed. Sources: Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf, dated 2024-11-13; House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
+- Independent media as the disclosure substrate comes in from **John Greenewald Jr.** (person, board tier A), a investigative link at Tier 1 documented. The link reads: one private FOIA operation supplies the documentary base the rest of the substrate runs on. Greenewald has filed FOIA requests since 1996 and published well over two million pages through The Black Vault, including the OSD/JS 18-F-0324 release that anchors much of the AATIP record. The fact that the primary-document layer of this subject is held by a private individual rather than an institution is itself the domain's argument. Sources: OSD/JS FOIA case 18-F-0324, final response and released documents (The Black Vault), https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf, dated 2022-08-17; The Black Vault, case file: To The Stars Academy, Tom DeLonge and the secret DoD UFO research program, https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/, dated 2026-08-21.
+- Independent media as the disclosure substrate comes in from **New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'** (event, board tier A), a investigative link at Tier 1 documented. The link reads: the baseline against which the substrate shift is measured. The 16 December 2017 story is the last time a US paper of record originated a legacy-programme disclosure. Every subsequent major disclosure - Grusch in 2023, Immaculate Constellation in 2024, the structural reconstruction in 2026 - went somewhere else first. This node is what makes the domain's central claim measurable rather than rhetorical. Sources: New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program', https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html, dated 2017-12-16; New York Times, 'Glowing Auras and Black Money' (NICAP archival copy), https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf, dated 2017-12-16.
+- Independent media as the disclosure substrate comes in from **KLAS-TV (Las Vegas)** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: four decades of the record produced from a single local affiliate. KLAS-TV is where George Knapp has anchored and reported since 1981, where the Bob Lazar interviews aired in 1989, and the institutional capacity in which he testified before the House Oversight Task Force on 9 September 2025. A local CBS affiliate in a desert market holding a national investigative record for forty years is a structural fact about the substrate, not a curiosity. Sources: House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; Wikipedia, George Knapp (television journalist), https://en.wikipedia.org/wiki/George_Knapp_(television_journalist), dated 2026-08-21.
+- Independent media as the disclosure substrate comes in from **The Intercept** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: the adversarial counterweight inside the same substrate. The Intercept's contribution to this record is subtractive rather than additive: its June 2019 investigation found no discernible evidence that Luis Elizondo led AATIP and obtained a Pentagon statement in tension with the earlier one given to Politico, and in August 2023 it published FOIA'd records on David Grusch weeks after his testimony. A domain about the disclosure substrate that contains only friendly outlets is not a domain, it is a reading list. Sources: The Intercept, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?', https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/, dated 2019-06-01; The Intercept, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention', https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/, dated 2023-08-09.
+- Independent media as the disclosure substrate comes in from **Public** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: a newsletter, not a newsroom, carried a named alleged programme into the congressional record. Michael Shellenberger reported the Immaculate Constellation allegations on Public and then entered the twelve-page report into the record as a witness before the House Committee on Oversight and Accountability on 13 November 2024. The chain runs leak to Substack to sworn testimony with no traditional newsroom in it, which is the domain's thesis stated as a single case. Sources: Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf, dated 2024-11-13; House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 
-It carries 11 connections in total on the board.
+It carries 12 connections in total on the board.
 
 ## Federal Contracting Mechanics
 
@@ -181,7 +283,7 @@ Follow the contract vehicle and you find the programme, which is why acquisition
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 304 of 1057, score 37). 10 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 334 of 1125, score 37). 10 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -200,36 +302,6 @@ Re-graded B on a global pass (rank 304 of 1057, score 37). 10 connections, 1 of 
 
 It carries 10 connections in total on the board.
 
-## Independent media as the disclosure substrate
-
-Independent media as the disclosure substrate is a domain on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2017; axes C0 A0 D3; 10 connections.
-
-In one line: Research domain.
-
-### What it is
-
-The domain covering how the disclosure record is actually produced and distributed. The defining fact of the 2023-2026 period is that the substrate moved: the New York Times carried the 2017 AATIP story but not the 2023 Grusch story, which went to The Debrief; the most detailed structural reconstruction of the alleged programme was published not by any newsroom but on a YouTube channel; and the mainstream broadcast contribution came from a single correspondent at a fourth-place cable network. The consequences cut both ways. Long-form independent media gave the structural argument the room it needed - three and four hours, with timestamped chapter indexes that make claims retrievable and dateable - which no broadcast format would have allowed. It also removed the editorial layer that would have forced sourcing discipline, and it attached the whole enterprise to advertising, membership and merchandise revenue models that reward escalation. Both facts belong in any assessment of this record.
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 804 of 1057, score 19). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
-
-### The claims on the record
-
-- **Tier 2 named person on the record.** The 2017 AATIP story ran in the New York Times; the 2023 Grusch story by the same authors ran in The Debrief. Source: Wikipedia entries for Leslie Kean and Ralph Blumenthal; The Debrief, 5 June 2023, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 3 stated inference, allegation shaped wording as stored.** The commercial structure of independent long-form media - sponsorship reads, membership tiers, merchandise and tour revenue attached to episodes making structural allegations - creates an escalation incentive that must be weighed against the format's genuine advantage in allowing claims to be laid out at length and indexed. Source: Inference from the monetisation disclosed in the episode descriptions themselves.
-
-### Its strongest connections
-
-- Independent media as the disclosure substrate comes in from **Immaculate Constellation disclosure, October-November 2024** (event, board tier A), a investigative link at Tier 1 documented. The link reads: the case that proves the substrate: leak, newsletter, congressional record, no newsroom. An alleged unacknowledged special access program entered the public record in October 2024 through an independent journalist and the Congressional Record on 13 November 2024, via written testimony and the House Oversight hearing transcript. Whatever the underlying report is worth, the path it travelled is the clearest single demonstration of how disclosure is now produced and distributed. Sources: Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf, dated 2024-11-13; House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
-- Independent media as the disclosure substrate comes in from **John Greenewald Jr.** (person, board tier A), a investigative link at Tier 1 documented. The link reads: one private FOIA operation supplies the documentary base the rest of the substrate runs on. Greenewald has filed FOIA requests since 1996 and published well over two million pages through The Black Vault, including the OSD/JS 18-F-0324 release that anchors much of the AATIP record. The fact that the primary-document layer of this subject is held by a private individual rather than an institution is itself the domain's argument. Sources: OSD/JS FOIA case 18-F-0324, final response and released documents (The Black Vault), https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf, dated 2022-08-17; The Black Vault, case file: To The Stars Academy, Tom DeLonge and the secret DoD UFO research program, https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/, dated 2026-08-21.
-- Independent media as the disclosure substrate comes in from **New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'** (event, board tier A), a investigative link at Tier 1 documented. The link reads: the baseline against which the substrate shift is measured. The 16 December 2017 story is the last time a US paper of record originated a legacy-programme disclosure. Every subsequent major disclosure - Grusch in 2023, Immaculate Constellation in 2024, the structural reconstruction in 2026 - went somewhere else first. This node is what makes the domain's central claim measurable rather than rhetorical. Sources: New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program', https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html, dated 2017-12-16; New York Times, 'Glowing Auras and Black Money' (NICAP archival copy), https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf, dated 2017-12-16.
-- Independent media as the disclosure substrate comes in from **KLAS-TV (Las Vegas)** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: four decades of the record produced from a single local affiliate. KLAS-TV is where George Knapp has anchored and reported since 1981, where the Bob Lazar interviews aired in 1989, and the institutional capacity in which he testified before the House Oversight Task Force on 9 September 2025. A local CBS affiliate in a desert market holding a national investigative record for forty years is a structural fact about the substrate, not a curiosity. Sources: House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; Wikipedia, George Knapp (television journalist), https://en.wikipedia.org/wiki/George_Knapp_(television_journalist), dated 2026-08-21.
-- Independent media as the disclosure substrate comes in from **The Intercept** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: the adversarial counterweight inside the same substrate. The Intercept's contribution to this record is subtractive rather than additive: its June 2019 investigation found no discernible evidence that Luis Elizondo led AATIP and obtained a Pentagon statement in tension with the earlier one given to Politico, and in August 2023 it published FOIA'd records on David Grusch weeks after his testimony. A domain about the disclosure substrate that contains only friendly outlets is not a domain, it is a reading list. Sources: The Intercept, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?', https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/, dated 2019-06-01; The Intercept, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention', https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/, dated 2023-08-09.
-- Independent media as the disclosure substrate comes in from **Public** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: a newsletter, not a newsroom, carried a named alleged programme into the congressional record. Michael Shellenberger reported the Immaculate Constellation allegations on Public and then entered the twelve-page report into the record as a witness before the House Committee on Oversight and Accountability on 13 November 2024. The chain runs leak to Substack to sworn testimony with no traditional newsroom in it, which is the domain's thesis stated as a single case. Sources: Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf, dated 2024-11-13; House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
-
-It carries 10 connections in total on the board.
-
 ## Program structure and organisational mapping
 
 Program structure and organisational mapping is a domain on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2023; axes C0 A0 D3; 10 connections.
@@ -242,7 +314,7 @@ The research domain concerned not with whether a legacy programme exists but wit
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 860 of 1057, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 916 of 1125, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -275,10 +347,12 @@ The Bennewitz operation is the best-documented instance in the American record o
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 222 of 1057, score 42). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 175 of 1125, score 48). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
+- **Tier 1 documented.** Paul Frederick Bennewitz Jr, whose company sat where it overlooked the Manzano storage area, was born 30 September 1927 and died 23 June 2003, and is buried at Santa Fe National Cemetery, Section 12 Site 402, under a marker reading 'S1C US COAST GUARD WORLD WAR II'. Source: Find a Grave memorial 17482201, https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz, opened 2026-09-19
+- **Tier 1 documented.** The 1980 AFOSI complaint form for the Coyote Canyon and Manzano observations is reproduced in full and openable, with its file number, its agent and its named 1608 Security Police Squadron observers, which fixes the Kirtland end of the Bennewitz affair in a primary record rather than in anyone's recollection. Source: AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, opened 2026-09-19
 - **Tier 2 named person on the record.** Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980. Source: Wikipedia, Paul Bennewitz, citing contemporaneous correspondence and the Albuquerque Tribune, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
 - **Tier 2 named person on the record.** Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; KUMMSC was activated in 1992 with more than 300,000 square feet underground. Source: Wikipedia, Kirtland Air Force Base, citing USAF fact sheets, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
 - **Tier 2 named person on the record.** On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz. Source: Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room
@@ -289,10 +363,10 @@ Re-graded B on a global pass (rank 222 of 1057, score 42). 11 connections, 1 of 
 
 - Kirtland Air Force Base and Albuquerque, New Mexico comes in from **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: nuclear-adjacent installations named in AARO's own unresolved allegations. Volume I page 30 records interviews with five former Air Force officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977 and defers the unresolved allegations to Volume II. Sources: AARO Historical Record Report Volume I, p.30, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/30, dated 2024-03-08; AARO Historical Record Report Volume I (DOPSR-cleared PDF), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 - Kirtland Air Force Base and Albuquerque, New Mexico comes in from **AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959** (document, board tier A), a geographic link at Tier 1 documented. The link reads: Issued from Kirtland Air Force Base, New Mexico. Headquarters Air Force Special Weapons Center is named on the title page with Kirtland as its station. Sources: AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380, https://archive.org/details/DTIC_AD0425380, dated 1959-06-19.
-- Kirtland Air Force Base and Albuquerque, New Mexico comes in from **AFOSI Kirtland AFB UFO File (1980-1983)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: AFOSI District 17 file generated at Kirtland AFB. The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
 - Kirtland Air Force Base and Albuquerque, New Mexico comes in from **Kirtland AFB / Manzano Weapons Storage Area incident** (event, board tier B), a institutional link at Tier 1 documented. The link reads: Occurred at the Manzano Weapons Storage Area and Coyote Canyon. Manzano is a nuclear weapons storage area on the Kirtland footprint shared with Sandia National Laboratories. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Kirtland Air Force Base and Albuquerque, New Mexico comes in from **AFOSI Kirtland AFB UFO File (1980-1983)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: AFOSI District 17 file generated at Kirtland AFB. The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
 - Kirtland Air Force Base and Albuquerque, New Mexico comes in from **Eric H. Wang** (person, board tier B), a geographic link at Tier 1 documented. The link reads: Chief, Structures Division, Air Force Special Weapons Center, Kirtland AFB. A 1960 DTIC report names 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, AFSWC, Kirtland Air Force Base, New Mexico. His documented work there is blast effects on structures. Sources: Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283, https://archive.org/details/DTIC_AD0460283, dated 1960-05-06.
-- Kirtland Air Force Base and Albuquerque, New Mexico comes in from **Sandia National Laboratories** (institution, board tier A), a geographic link at Tier 2 named person on the record. The link reads: Sandia National Laboratories is adjacent to Kirtland AFB. Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966. Sources: Wikipedia - Kirtland Air Force Base, https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base, dated 2026-08-12; Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
+- Kirtland Air Force Base and Albuquerque, New Mexico comes in from **Richard C. Doty** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Doty's AFOSI detachment ran the Bennewitz deception from Kirtland. Richard C. Doty, an AFOSI special agent at Kirtland, has said publicly he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz. A 1992 article held in the CIA library names Doty and William Moore. Sources: Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
 
 It carries 11 connections in total on the board.
 
@@ -312,7 +386,7 @@ How the seam actually works, mechanism by mechanism. (1) RECORDS STATUS. Documen
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 166 of 1057, score 47). 9 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.
+Re-graded B on a global pass (rank 182 of 1125, score 47). 9 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -345,7 +419,7 @@ This domain isolates what is enacted from what was merely proposed, because the 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 582 of 1057, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 628 of 1125, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -376,7 +450,7 @@ Legislation is where the disclosure fight has produced its only binding outcomes
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 516 of 1057, score 29). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 558 of 1125, score 29). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -408,7 +482,7 @@ A denial is not the end of an inquiry on this board; it is an entry in it. The e
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 109 of 1057, score 58). 8 connections, 0 of them custody/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.
+Re-graded A on a global pass (rank 112 of 1125, score 58). 8 connections, 0 of them custody/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -443,7 +517,7 @@ The full text of the mechanism as stated by Chairwoman Luna on 9 September 2025:
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 319 of 1057, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 347 of 1125, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -463,6 +537,40 @@ Re-graded B on a global pass (rank 319 of 1057, score 36). 8 connections, 1 of t
 
 It carries 8 connections in total on the board.
 
+## Exotic Technology & Physics
+
+Exotic Technology & Physics is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2008-08-18; axes C1 A2 D2; 7 connections.
+
+In one line: Technical domain - the physics that would be required, and who was paid to study it.
+
+### What it is
+
+The most tractable question in this whole field is not whether exotic physics is real but who was paid to study it, and that question has a documented answer. Between 2008 and 2010 the Defense Intelligence Agency commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, released under FOIA, on subjects including 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 'Traversable Wormholes, Stargates, and Negative Energy' by Eric W. Davis of EarthTech International, and 'Antigravity for Aerospace Applications'. Those are real government contract deliverables on precisely the physics a recovered craft would require, written by named authors, with document control numbers. Two readings are available and this board records both: either the topics were selected because someone had a reason to believe they were relevant, or a sympathetic programme manager funded a literature survey of fringe physics. The strength of the domain is that it does not depend on resolving that - the tasking itself is the tier-1 fact. Scoring high here means an entity authored, commissioned or reviewed this body of work.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 281 of 1125, score 40). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** DIA commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, subsequently released under FOIA. Source: DIA FOIA Electronic Reading Room, AAWSAP/AATIP collection
+- **Tier 1 documented.** DIRD 15 is 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering'. Source: DIRD 15, DIA release via The Black Vault
+- **Tier 1 documented.** DIRD 19 is 'Antigravity for Aerospace Applications'. Source: DIRD 19, DIA release via The Black Vault
+- **Tier 1 documented.** DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', was authored by Eric W. Davis of EarthTech International and dated 6 April 2010. Source: DIRD 18 / DIA-08-1004-004
+- **Tier 1 documented.** The domain's best single published adjudication, and it is openable by anyone: NASA/TM-2004-213082, by the manager of NASA's Breakthrough Propulsion Physics Project, which rules on Biefeld-Brown and its variants in section 3.2.7, on metric engineering in section 3.3.1, and on high frequency gravitational waves in section 3.3.2. Source: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, opened 2026-09-19
+- **Tier 3 stated inference.** THE DOMAIN'S ORGANISING FINDING AFTER THE PROPULSION STRAND OF 19 SEPTEMBER 2026, and it is a stated inference over documents rather than a claim about physics. For each propulsion mechanism the literature invokes, a document is named; when the document is opened it says less than is claimed for it, and usually something else entirely. Brown's two patents contain the word 'gravity' zero times. Alcubierre's 1994 paper contains the word 'device' zero times and states in its own abstract that exotic matter will be needed. King's 1967 patent contains 'scalar' zero times and has no assignee and no government interest. DIA's own antigravity survey does not mention Brown. THE STRAND RECORDS THE GAP BETWEEN CITATIONS AND DOCUMENTS AND TAKES NO POSITION ON WHETHER EXOTIC PROPULSION IS POSSIBLE. Source: research/leads/verified-propulsion-2026-09-19.md, strand table, built over documents opened 2026-09-19
+
+### Its strongest connections
+
+- Exotic Technology & Physics comes in from **NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)** (document, board tier B), a research link at Tier 1 documented. The link reads: The domain's best single published adjudication. One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves. Sources: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, dated 2004.
+- Exotic Technology & Physics comes in from **Concepts for Extracting Energy From the Quantum Vacuum** (document, board tier B), a research link at Tier 1 documented. The link reads: subject domain: zero-point/vacuum energy extraction. Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network. Sources: Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/, dated 2026-08-22; https://earthtech.org/pubs/davis/, https://earthtech.org/pubs/davis/
+- Exotic Technology & Physics runs out to **Propulsion & Field Physics** (domain, board tier B), a research link at Tier 1 documented. The link reads: Field physics is the propulsion answer. DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem. Sources: AAWSAP Statement of Work, https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf, dated 2008-08-22.
+- Exotic Technology & Physics comes in from **Program Structure & Management** (domain, board tier B), a programmatic link at Tier 1 documented. The link reads: Tasking reveals expectation. The AAWSAP statement of work and the thirty-eight DIRDs are the tier-1 evidence that a government agency paid for study of the physics a recovered craft would require. Sources: AAWSAP Statement of Work, https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf, dated 2008-08-22.
+- Exotic Technology & Physics comes in from **George D. Hathaway** (person, board tier B), a research link at Tier 2 named person on the record. The link reads: Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'. THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times. Sources: Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/, dated 2026-09-19; Defense Intelligence Reference Document DIA-08-1003-017, 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, dated 2010-03-30.
+- Exotic Technology & Physics comes in from **Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)** (document, board tier C), a research link at Tier 2 named person on the record. The link reads: The origin document of the field's metric-engineering claims. THE NOTE IS THE POINT. The paper itself is mainstream general relativity in a mainstream journal and nothing about it is exotic or disputed. It sits in this domain because of what is claimed FOR it, not because of what is in it: the word 'device' appears zero times in ten pages. Sources: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77, https://arxiv.org/abs/gr-qc/0009013, dated 1994.
+
+It carries 7 connections in total on the board.
+
 ## Congressional Oversight
 
 Congressional Oversight is a domain on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1966-04-05; axes C0 A2 D3; 7 connections.
@@ -475,7 +583,7 @@ Congressional oversight of the deepest access tiers is not a matter of will but 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 533 of 1057, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 574 of 1125, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -488,9 +596,41 @@ Re-graded C on a global pass (rank 533 of 1057, score 28). 7 connections, 0 of t
 - Congressional Oversight runs out to **Records & Archives** (domain, board tier B), a legislative link at Tier 1 documented. The link reads: Records law as the oversight instrument that worked. Subtitle C of P.L. 118-31 is the only binding UAP transparency outcome Congress has produced, and it operates through records custody rather than through programme access. Sources: NDAA FY2024 (P.L. 118-31), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Congressional Oversight comes in from **GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement** (document, board tier B), a investigative link at Tier 1 documented. The link reads: Commissioned by statute, section 1133 of Public Law 100-180, and reported to the four defence committees. Congress commissioned it by statute, section 1133 of Public Law 100-180, and GAO reported to the four defence committees. Sources: GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, https://www.gao.gov/assets/nsiad-88-152.pdf, dated 1988-05-24.
 - Congressional Oversight comes in from **Special Access Programs** (domain, board tier B), a legislative link at Tier 1 documented. The link reads: Waived notification limits reporting to eight members. The waiver authority in 10 U.S.C. 119(e) is the statutory provision congressional witnesses cite when describing why members cannot confirm a programme's existence. Sources: 10 U.S.C. Sec. 119, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
+- Congressional Oversight runs out to **Witness Chain** (domain, board tier B), a witness-chain link at Tier 1 documented. The link reads: Sworn testimony is oversight's evidence-gathering act. The 26 July 2023 and 9 September 2025 House Oversight hearings converted witness accounts into sworn congressional record. Sources: House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09.
 - Congressional Oversight runs out to **Washington, D.C.** (location, board tier B), a geographic link at Tier 1 documented. The link reads: Where the hearings happen. The July 2023 and September 2025 House Oversight UAP hearings, and the NARA records collection created by P.L. 118-31, are all seated in the District of Columbia. Sources: House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; NDAA FY2024 (P.L. 118-31), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Congressional Oversight comes in from **Secrecy Architecture** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: Compartmentation defeats committee access. 10 U.S.C. 119's waiver provision reduces notification to eight members without staff, which is the specific point at which the secrecy architecture and congressional oversight collide. Sources: 10 U.S.C. Sec. 119, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
-- Congressional Oversight runs out to **Witness Chain** (domain, board tier B), a witness-chain link at Tier 1 documented. The link reads: Sworn testimony is oversight's evidence-gathering act. The 26 July 2023 and 9 September 2025 House Oversight hearings converted witness accounts into sworn congressional record. Sources: House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09.
+
+It carries 7 connections in total on the board.
+
+## Psychological Operations & Perception Management
+
+Psychological Operations & Perception Management is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1953-01-17; axes C1 A2 D1; 7 connections.
+
+In one line: Operational domain - deliberate manipulation of belief as a security measure.
+
+### What it is
+
+The use of the UFO subject as a vehicle for deception against a domestic audience is documented at the level of an official recommendation and at the level of a named case. The recommendation is the Robertson Panel's January 1953 proposal for a debunking campaign using mass media, psychiatrists and advertising specialists, explicitly aimed at reducing public susceptibility rather than at establishing what the objects were. The named case is Paul Bennewitz, an Albuquerque physicist living beside Kirtland AFB, who in the early 1980s was fed fabricated documents and staged material by Air Force Office of Special Investigations personnel - most prominently Richard C. Doty, whose later New Mexico State Police personnel file was released under public records law and runs to 321 pages - with the documented effect of destroying his mental health. The dual-use route is exact: a genuine sensitive programme adjacent to a witness generates a security problem, and the cheapest solution is not to silence the witness but to discredit him by feeding him something absurd and letting him repeat it. That mechanism cuts in both directions and must be applied honestly - it explains real disinformation injected into the field, and it is also the most common frame used to dismiss testimony that is not disinformation. Scoring high here means an entity ran, authored or knowingly transmitted deception material.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 229 of 1125, score 43). 7 connections, 5 of them custody/funding/programmatic. Axes C1/A2/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request and is publicly archived. Source: The Black Vault, Richard Doty Personnel File - New Mexico State Police
+- **Tier 1 documented.** The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched. Source: Robertson Panel report, declassified text
+- **Tier 2 named person on the record.** Air Force OSI personnel supplied Paul Bennewitz with fabricated documents concerning alien activity in the early 1980s; the episode is the documented core of the 'Mirage Men' account of UFO-adjacent counterintelligence deception. Source: Named-source reporting summarised at Garber Files, 'From Mirage Men to Military Deception'
+- **Tier 3 stated inference.** STATED INFERENCE ABOUT THE DOMAIN'S BEST-KNOWN CASE. The Bennewitz operation is carried across this board on the strength of admissions, and the principal admitting officer has since denied on the record that the operation did the harm attributed to it, while the civilian who admitted the same conduct in 1989 has not retracted. Reasoning: where a domain rests on self-description by deceivers, its strongest claims should be the ones with a documentary spine, here the 1980 complaint form, and its weakest should be the ones resting only on what a deceiver later said about himself. Source: Inference from Alejandro Rojas, HuffPost, 13 May 2014 and Mystery Wire YouTube 9TLfM5VKX3M, both opened 2026-09-19
+
+### Its strongest connections
+
+- Psychological Operations & Perception Management comes in from **The Cover-Up** (domain, board tier A), a programmatic link at Tier 1 documented. The link reads: Debunking recommended as a security measure. The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation. Sources: Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0), https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf, dated 1953-01-17.
+- Psychological Operations & Perception Management comes in from **Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: Calls for a cover and deception plan executed to provoke a citable reaction. The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation. Sources: Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt, dated 1962-03-13.
+- Psychological Operations & Perception Management comes in from **Gordon Gray** (person, board tier B), a institutional link at Tier 1 documented. The link reads: First Director of the Psychological Strategy Board, appointed 1951. Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it. Sources: FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3, https://history.state.gov/historicaldocuments/frus1951v01/d16, dated 1951-04-04.
+- Psychological Operations & Perception Management comes in from **CIA Office of Policy Coordination** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: Propaganda is the first named category in the charter. Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made. Sources: NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292), https://history.state.gov/historicaldocuments/frus1945-50Intel/d292, dated 1948-06-18.
+- Psychological Operations & Perception Management comes in from **Counterintelligence** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: Same service, both functions. AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
+- Psychological Operations & Perception Management comes in from **Dulce Base (alleged facility, Archuleta Mesa, New Mexico)** (location, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Downstream of the Kirtland operation, which is this domain's best-known case. The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged. Sources: Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies', https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650, dated 2014-05-13; Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors', https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, dated 2016-08-29.
 
 It carries 7 connections in total on the board.
 
@@ -506,7 +646,7 @@ Skinwalker Ranch is a property of approximately 512 acres in Uintah County, Utah
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 88 of 1057, score 65). 9 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 90 of 1125, score 65). 9 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -544,7 +684,7 @@ This board treats concealment as a discipline with doctrine, staffing and a budg
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 139 of 1057, score 52). 6 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 150 of 1125, score 52). 6 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -556,8 +696,8 @@ Re-graded A on a global pass (rank 139 of 1057, score 52). 6 connections, 3 of t
 ### Its strongest connections
 
 - The Cover-Up runs out to **Official Denial** (domain, board tier A), a denial link at Tier 1 documented. The link reads: Denial is the public face of concealment. CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity. Sources: Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/, dated 1997-01-01.
-- The Cover-Up comes in from **Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962** (document, board tier B), a behavioral link at Tier 1 documented. The link reads: Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years. Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it. Sources: Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt, dated 1962-03-13.
 - The Cover-Up runs out to **Psychological Operations & Perception Management** (domain, board tier B), a programmatic link at Tier 1 documented. The link reads: Debunking recommended as a security measure. The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation. Sources: Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0), https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf, dated 1953-01-17.
+- The Cover-Up comes in from **Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962** (document, board tier B), a behavioral link at Tier 1 documented. The link reads: Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years. Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it. Sources: Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt, dated 1962-03-13.
 - The Cover-Up runs out to **Records & Archives** (domain, board tier B), a custody link at Tier 1 documented. The link reads: Record destruction as concealment. GAO found Roswell AAF outgoing messages for 1946-1949 destroyed with no disposition authority and no destruction certificate - concealment executed through the records system. Sources: GAO/NSIAD-95-187, https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm, dated 1995-07-28.
 - The Cover-Up comes in from **Aerospace Engineering & Advanced Projects** (domain, board tier B), a denial link at Tier 1 documented. The link reads: Black aircraft generated real cover stories. CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them. Sources: Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/, dated 1997-01-01.
 - The Cover-Up comes in from **Intelligence Community** (domain, board tier B), a programmatic link at Tier 1 documented. The link reads: CIA convened the panel that recommended debunking. The Robertson Panel was convened by CIA's Office of Scientific Intelligence, placing the recommendation inside the intelligence community rather than the Air Force. Sources: Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0), https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf, dated 1953-01-17.
@@ -574,7 +714,7 @@ The Freedom of Information Act is the only routine instrument by which a private
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 487 of 1057, score 30). 6 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 530 of 1125, score 30). 6 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -592,35 +732,6 @@ Re-graded B on a global pass (rank 487 of 1057, score 30). 6 connections, 0 of t
 - Freedom of Information Practice comes in from **John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file** (document, board tier C), a investigative link at Tier 1 documented. The link reads: A FOIA request that defeated a records-destruction order. The Senate's own framing is that one individual, through a Freedom of Information request, accomplished what two Senate committees could not. Sources: Opening statement, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
 - Freedom of Information Practice comes in from **Prime Contractor Custody** (domain, board tier B), a denial link at Tier 3 stated inference. The link reads: Contractor records are outside the statute. FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier. Sources: FAR 35.017, Federally Funded Research and Development Centers, https://www.acquisition.gov/far/35.017, dated 2026-08-12; GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
 
-## Psychological Operations & Perception Management
-
-Psychological Operations & Perception Management is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1953-01-17; axes C1 A2 D1; 6 connections.
-
-In one line: Operational domain - deliberate manipulation of belief as a security measure.
-
-### What it is
-
-The use of the UFO subject as a vehicle for deception against a domestic audience is documented at the level of an official recommendation and at the level of a named case. The recommendation is the Robertson Panel's January 1953 proposal for a debunking campaign using mass media, psychiatrists and advertising specialists, explicitly aimed at reducing public susceptibility rather than at establishing what the objects were. The named case is Paul Bennewitz, an Albuquerque physicist living beside Kirtland AFB, who in the early 1980s was fed fabricated documents and staged material by Air Force Office of Special Investigations personnel - most prominently Richard C. Doty, whose later New Mexico State Police personnel file was released under public records law and runs to 321 pages - with the documented effect of destroying his mental health. The dual-use route is exact: a genuine sensitive programme adjacent to a witness generates a security problem, and the cheapest solution is not to silence the witness but to discredit him by feeding him something absurd and letting him repeat it. That mechanism cuts in both directions and must be applied honestly - it explains real disinformation injected into the field, and it is also the most common frame used to dismiss testimony that is not disinformation. Scoring high here means an entity ran, authored or knowingly transmitted deception material.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 286 of 1057, score 38). 6 connections, 4 of them custody/funding/programmatic. Axes C1/A2/D1.
-
-### The claims on the record
-
-- **Tier 1 documented.** Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request and is publicly archived. Source: The Black Vault, Richard Doty Personnel File - New Mexico State Police
-- **Tier 1 documented.** The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched. Source: Robertson Panel report, declassified text
-- **Tier 2 named person on the record.** Air Force OSI personnel supplied Paul Bennewitz with fabricated documents concerning alien activity in the early 1980s; the episode is the documented core of the 'Mirage Men' account of UFO-adjacent counterintelligence deception. Source: Named-source reporting summarised at Garber Files, 'From Mirage Men to Military Deception'
-
-### Its strongest connections
-
-- Psychological Operations & Perception Management comes in from **The Cover-Up** (domain, board tier A), a programmatic link at Tier 1 documented. The link reads: Debunking recommended as a security measure. The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation. Sources: Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0), https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf, dated 1953-01-17.
-- Psychological Operations & Perception Management comes in from **Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: Calls for a cover and deception plan executed to provoke a citable reaction. The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation. Sources: Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt, dated 1962-03-13.
-- Psychological Operations & Perception Management comes in from **Gordon Gray** (person, board tier B), a institutional link at Tier 1 documented. The link reads: First Director of the Psychological Strategy Board, appointed 1951. Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it. Sources: FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3, https://history.state.gov/historicaldocuments/frus1951v01/d16, dated 1951-04-04.
-- Psychological Operations & Perception Management comes in from **CIA Office of Policy Coordination** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: Propaganda is the first named category in the charter. Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made. Sources: NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292), https://history.state.gov/historicaldocuments/frus1945-50Intel/d292, dated 1948-06-18.
-- Psychological Operations & Perception Management comes in from **Counterintelligence** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: Same service, both functions. AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
-- Psychological Operations & Perception Management runs out to **Disinformation & Fabricated Documents** (domain, board tier C), a programmatic link at Tier 2 named person on the record. The link reads: Fabricated material as the delivery vehicle. The Bennewitz episode, in which AFOSI personnel supplied fabricated documents, is the documented case linking perception management to forged records; Doty's own personnel file is public. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
-
 ## Records & Archives
 
 Records & Archives is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1992-10-26; axes C1 A1 D3; 6 connections.
@@ -633,7 +744,7 @@ Whoever controls the records controls the history, and this is the one front on 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 254 of 1057, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 284 of 1125, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -667,7 +778,7 @@ Where a program could sit, and what changes when it moves. There are five distin
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 182 of 1057, score 45). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 198 of 1125, score 45). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -688,6 +799,35 @@ Re-graded B on a global pass (rank 182 of 1057, score 45). 6 connections, 1 of t
 - The four SAP reporting regimes and the seams between them comes in from **Alternative Compensatory Control Measures (ACCM)** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: ACCM applies 'where SAP controls are not required' and is named in no reporting statute. ACCM is the hole in the map. 32 CFR 117.23 places it in the same regulated set as SAPs, SCI, RD, FRD, TFNI and NNPI, and names it first in the heading - but it is the only member of that set with no reporting statute attached. 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on 'special access program' or 'controlled access program'. A measure that is neither falls outside all four. Sources: 32 CFR 117.3 (eCFR), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3, dated 2026-08-12; 32 CFR 117.23 (eCFR), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23, dated 2026-08-12.
 - The four SAP reporting regimes and the seams between them comes in from **50 U.S.C. 3091, General Congressional Oversight Provisions (NSA 1947 sec. 501)** (legislation, board tier B), a legislative link at Tier 3 stated inference. The link reads: The anti-withholding rule does not reach DoD special access programs. 50 U.S.C. 3091(e) bars withholding from the intelligence committees on classification grounds, but binds only as to 'intelligence activities' and only for those committees, leaving DoD acquisition and operations and support SAPs outside it. Sources: 50 U.S.C. 3091, General congressional oversight provisions, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim, dated 2026-08-12.
 
+## Nevada Test Site / Nevada National Security Site
+
+Nevada Test Site / Nevada National Security Site is a location on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1951; axes C2 A3 D0; 6 connections.
+
+In one line: DOE site complex; successive contractor management EG&G, Bechtel Nevada, NSTec.
+
+### What it is
+
+The Nevada complex is where the classification regimes overlap. A Department of Energy site operated under Atomic Energy Act authorities by a succession of private management and operating contractors - EG&G in the nuclear testing era, Bechtel Nevada from 1996 to 2006, the Northrop Grumman-led National Security Technologies LLC from 2006 - it sits adjacent to the Air Force operating location near Groom Lake, whose environmental disclosure obligations the President waives annually. Its contractor-operated laboratories, the Remote Sensing Laboratory and the Special Technologies Laboratory, hold the national capability for characterising anomalous radiological and material signatures. Al O'Donnell, the EG&G manager who told George Knapp that a recovered saucer and a live being existed, was the first general manager of EG&G's operations here. Material held under DOE Restricted Data authority at a contractor-operated site sits outside the 10 U.S.C. Sec. 119 special access program reporting regime entirely.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 483 of 1125, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
+
+### The claims on the record
+
+- **Tier 1 documented.** Bechtel Nevada and subsequently National Security Technologies, LLC appear as the management and operating research organisations of record on DOE Nevada Test Site technical reports. Source: OSTI.GOV, Nevada Test Site Environmental Report 2005
+- **Tier 1 documented.** THE EARLIER GEOGRAPHY OF THE LAZAR CLAIM, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990, reporting his sentencing, describes his claim as of that date as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a Department of Energy site, and it is a different named place from Papoose Lake on the Air Force range, where the claim later settled. Source: Las Vegas Review-Journal, 21 August 1990, p 2C, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/, opened 2026-09-18
+- **Tier 2 named person on the record.** Al O'Donnell, described as the first general manager of EG&G in Nevada 'which managed the Nevada test site,' is the source of the recovered-saucer and live-being account. Source: George Knapp, sworn testimony 9 September 2025 and Liberation Times, 28 February 2023
+
+### Its strongest connections
+
+- Nevada Test Site / Nevada National Security Site comes in from **United States Department of Energy** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: DOE operating authority over the Nevada National Security Site. The Nevada test complex is DOE/NNSA property operated by contract, with its own protective force and clearance regime, and is named repeatedly in retrieval testimony. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
+- Nevada Test Site / Nevada National Security Site comes in from **Atomic Energy Commission** (institution, board tier A), a geographic link at Tier 1 documented. The link reads: Area 51 was added to the Nevada Test Site by the Commission. The same CIA history states that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site, and DNA 6040F separately locates Groom Lake at the northeast corner of the AEC's Nevada Proving Ground. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
+- Nevada Test Site / Nevada National Security Site comes in from **S-4 / Papoose Lake, Nevada** (location, board tier B), a geographic link at Tier 1 documented. The link reads: The claim's earlier geography, as reported contemporaneously in August 1990. Tier 1 for what the newspaper shows. In August 1990 Lazar's claim was reported as being about 'the Nevada Test Site, 65 miles northwest of Las Vegas', a Department of Energy site, not the Air Force range. The claim's geography moved and the edge records that. Sources: Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/, dated 1990-08-21.
+- Nevada Test Site / Nevada National Security Site comes in from **Northrop Grumman Corporation** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: A Northrop Grumman-led consortium took over Nevada Test Site management in 2006. National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; USAspending.gov federal award search (prime contract obligations by recipient), https://www.usaspending.gov/search, dated 2026-08-12.
+- Nevada Test Site / Nevada National Security Site comes in from **Bechtel Nevada Corporation** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Bechtel Nevada held the DOE management and operating contract for the Nevada Test Site 1996-2006. DOE technical reports list Bechtel Nevada as research organisation of record through 2006, succeeded by National Security Technologies, LLC. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01.
+- Nevada Test Site / Nevada National Security Site comes in from **EG&G (Edgerton, Germeshausen and Grier)** (institution, board tier A), a institutional link at Tier 2 named person on the record. The link reads: EG&G was the classified services contractor for the Nevada complex in the testing era. Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08.
+
 ## Acknowledged, unacknowledged and waived, the three states of a DoD SAP
 
 Acknowledged, unacknowledged and waived, the three states of a DoD SAP is a domain on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2010-07-01; axes C2 A3 D3; 6 connections.
@@ -704,7 +844,7 @@ Terms of art, precisely, and why each one matters to the allegations. ACKNOWLEDG
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 61 of 1057, score 73). 6 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 65 of 1125, score 73). 6 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -740,7 +880,7 @@ Aerospace is the FFRDC that owns the technical judgement on everything the Unite
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 186 of 1057, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 204 of 1125, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -775,7 +915,7 @@ The Armed Forces Special Weapons Project was established by joint directive of t
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 164 of 1057, score 47). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 180 of 1125, score 47). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -811,7 +951,7 @@ The Bolender memorandum is short, administrative, and the most quietly damaging 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 172 of 1057, score 46). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 187 of 1125, score 46). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -840,7 +980,7 @@ On 9 June 2026 lawmakers and UAP whistleblowers gathered at the US Capitol to re
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 596 of 1057, score 26). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded C on a global pass (rank 641 of 1125, score 26). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -869,7 +1009,7 @@ Conventional Prompt Global Strike is the family of American programmes intended 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 299 of 1057, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 328 of 1125, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -886,7 +1026,35 @@ Re-graded B on a global pass (rank 299 of 1057, score 37). 5 connections, 2 of t
 - Conventional Prompt Global Strike runs out to **Defense Advanced Research Projects Agency** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: DARPA and the Air Force initiated FALCON in 2003. DARPA and the Air Force initiated the FALCON programme in 2003, which produced the HTV-2 glide vehicle. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
 - Conventional Prompt Global Strike runs out to **Aerospace Engineering & Advanced Projects** (domain, board tier B), a programmatic link at Tier 1 documented. The link reads: Hypersonic boost-glide development across three services on appropriated funding. Hypersonic boost-glide development across three services, with named prime contractors and appropriated funding. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
 - Conventional Prompt Global Strike runs out to **Propulsion & Field Physics** (domain, board tier B), a research link at Tier 1 documented. The link reads: Every booster traced to Trident II, Peacekeeper or Polaris derived stages. The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
-- Conventional Prompt Global Strike runs out to **Daniel P. Sheehan** (person, board tier C), a investigative link at Tier 2 named person on the record. The link reads: Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it. Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
+- Conventional Prompt Global Strike runs out to **Daniel P. Sheehan** (person, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it. Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
+
+## Prime Contractor Custody
+
+Prime Contractor Custody is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1947-01-01; axes C3 A3 D1; 5 connections.
+
+In one line: Industrial domain - the private firms alleged to hold material, and the legal shelter that creates.
+
+### What it is
+
+Moving a programme into a prime contractor does not merely add secrecy - it changes the legal category of everything inside it. Contractor records are not agency records and so fall outside the Freedom of Information Act; contractor facilities are inspected by the Defense Counterintelligence and Security Agency rather than by congressional staff; and proprietary data markings restrict government-side circulation independently of classification. GAO reported in 2004 that DoD could not provide adequate assurance that its industrial security oversight was protecting classified information at contractor facilities - a finding about the mechanism's opacity from the government's own auditor. This is the structural reason the custody question and the contractor question are the same question: an object on a contractor's shelf is legally further from Congress than the same object on a government shelf, without any change in its classification. The named firms recur across sworn and named-source testimony rather than across documents, which is precisely why this domain is scored on the C axis and researched through contract data, facility clearance records and personnel movement. Scoring high here means an entity is alleged to hold material or to have managed those who do.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 251 of 1125, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** GAO-04-332 found that DoD could not provide adequate assurances that its oversight ensures the protection of classified information at contractor facilities. Source: GAO-04-332, Industrial Security
+- **Tier 2 named person on the record.** David Grusch testified on 26 July 2023 that material and programmes had been placed with defence contractors outside congressional oversight. Source: House Oversight Committee hearing, 26 July 2023
+- **Tier 2 named person on the record.** In May 2026 a group of House Republicans led by Rep. Eric Burlison sent a letter targeting private UFO contractors. Source: Newsmax, 16 May 2026
+
+### Its strongest connections
+
+- Prime Contractor Custody comes in from **Kirk-Mayer, Inc.** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Named support-services contractor at a national laboratory. The contractor spine this pass was asked to begin. The directory page itself names Kirk-Mayer as the outside contractor whose staff it covers. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', quoting the directory page's own scope statement, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
+- Prime Contractor Custody runs out to **The FFRDC Mechanism** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: The seam between government and industry. FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment. Sources: FAR 35.017, Federally Funded Research and Development Centers, https://www.acquisition.gov/far/35.017, dated 2026-08-12.
+- Prime Contractor Custody comes in from **Materials and custody analysis** (domain, board tier A), a custody link at Tier 2 named person on the record. The link reads: Analysis follows possession. Material alleged to be held by primes cannot be independently analysed, which is why the custody question and the materials question cannot be separated. Sources: GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
+- Prime Contractor Custody comes in from **Aerospace Engineering & Advanced Projects** (domain, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Advanced projects shops are the industrial home. The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme. Sources: GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
+- Prime Contractor Custody runs out to **Freedom of Information Practice** (domain, board tier B), a denial link at Tier 3 stated inference. The link reads: Contractor records are outside the statute. FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier. Sources: FAR 35.017, Federally Funded Research and Development Centers, https://www.acquisition.gov/far/35.017, dated 2026-08-12; GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
 
 ## Special Access Programs
 
@@ -900,7 +1068,7 @@ A special access programme is the mechanism by which the executive branch create
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 229 of 1057, score 41). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 258 of 1125, score 41). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -928,7 +1096,7 @@ Everything this board describes is, on its face, legal - and that is the point. 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 411 of 1057, score 32). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 444 of 1125, score 32). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -956,7 +1124,7 @@ The data that could resolve most of this exists, and it is classified for reason
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 374 of 1057, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 407 of 1125, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -984,7 +1152,7 @@ The funding instrument, and the reason the whole thing stayed invisible. AARO's 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 261 of 1057, score 39). 5 connections, 5 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 291 of 1125, score 39). 5 connections, 5 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1012,7 +1180,7 @@ DHS was established in 2002, 'combining 22 different federal departments and age
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 126 of 1057, score 54). 6 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 132 of 1125, score 54). 6 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1043,7 +1211,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 211 of 1057, score 42). 6 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 235 of 1125, score 42). 6 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1077,7 +1245,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 335 of 1057, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 364 of 1125, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1109,7 +1277,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 291 of 1057, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 321 of 1125, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1142,7 +1310,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 337 of 1057, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 366 of 1125, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1163,39 +1331,6 @@ Re-graded B on a global pass (rank 337 of 1057, score 35). 5 connections, 3 of t
 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues comes in from **Christopher C. 'Kit' Green** (person, board tier A), a research link at Tier 1 documented. The link reads: authored. DIA list item 12 names "Dr Kit Green, Wayne State Univ", under the shorter title "Field Effects on Biological Tissues". The released document's printed title is longer and more specific. Sources: Released DIRD, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues runs out to **Wayne State University** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: authored at Wayne State University. The DIA list gives Green's affiliation of record for this deliverable as Wayne State University. Wayne State is second only to EarthTech on the DIRD author list, supplying Green plus R. Genik's three human-interface papers. Sources: Released DIRD, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 
-## Antigravity for Aerospace Applications
-
-Antigravity for Aerospace Applications is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D0; 5 connections.
-
-In one line: defense-intelligence-reference-document.
-
-### What it is
-
-DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-30, DIA-08-1003-018, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 292 of 1057, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/
-- **Tier 1 documented.** Authored by Dr Eric Davis of EarthTech International, per the 9 January 2018 DIA list (item 11). Source: https://irp.fas.org/dia/aatip-list.pdf
-- **Tier 1 documented.** Cover page reads "30 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-018", series "Acquisition Threat Support". Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf
-- **Tier 1 documented.** Davis is credited with six of the 38 DIRDs on the DIA list, more than any other author: antigravity, traversable wormholes, quantum vacuum energy extraction, laser lightcraft nanosatellites, quantum tomography of negative energy states, and (with R. Obousy) warp drive and extra dimensions. Source: https://irp.fas.org/dia/aatip-list.pdf
-- **Tier 1 documented.** Defense Intelligence Reference Document titled "Antigravity for Aerospace Applications", series "Acquisition Threat Support", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-018. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/
-- **Tier 1 documented.** Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100". Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/
-- **Tier 1 documented.** Released PDF is 44 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/
-- **Tier 2 named person on the record.** EarthTech International's own publication list independently records the document as: Davis, E. W. (2010), "Antigravity for Aerospace Applications", Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1003-018, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC. This is the author's own attribution and matches the DIA list and the cover page exactly. Source: https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-
-### Its strongest connections
-
-- Antigravity for Aerospace Applications comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: deliverable under AAWSAP. The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf; DIA FOIA Reading Room, Antigravity for Aerospace Applications (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2010-03-30.
-- Antigravity for Aerospace Applications comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-018. Publication date 30 March 2010 on the cover. 45 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'Antigravity for Aerospace Applications' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22.
-- Antigravity for Aerospace Applications comes in from **Defense Intelligence Agency** (institution, board tier A), a custody link at Tier 1 documented. The link reads: published and holds; DIA-08-1003-018. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf; DIA FOIA Reading Room, Antigravity for Aerospace Applications (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2010-03-30.
-- Antigravity for Aerospace Applications comes in from **Eric W. Davis** (person, board tier A), a research link at Tier 1 documented. The link reads: authored. DIA list item 11 names "Dr Eric Davis, EarthTech International". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office. Sources: Released DIRD, 'Antigravity for Aerospace Applications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
-- Antigravity for Aerospace Applications runs out to **EarthTech International / Institute for Advanced Studies at Austin** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: authored at EarthTech International. EarthTech International supplied six of the 38 DIRDs through Eric Davis plus one through Hal Puthoff, making it the single most represented institution on the author list. Sources: Released DIRD, 'Antigravity for Aerospace Applications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
-
 ## Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft
 
 Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D0; 5 connections.
@@ -1208,7 +1343,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-12-15
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 380 of 1057, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 414 of 1125, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1241,7 +1376,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 338 of 1057, score 35). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 367 of 1125, score 35). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1274,7 +1409,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 212 of 1057, score 42). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 236 of 1125, score 42). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1309,7 +1444,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 339 of 1057, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 368 of 1125, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1341,7 +1476,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2011-01-03
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 340 of 1057, score 35). 5 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 369 of 1125, score 35). 5 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1372,7 +1507,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 495 of 1057, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 538 of 1125, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1404,7 +1539,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 467 of 1057, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 508 of 1125, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1422,7 +1557,7 @@ Re-graded B on a global pass (rank 467 of 1057, score 30). 5 connections, 2 of t
 - The Role of Superconductors in Gravity Research comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 23 March 2010 on the cover. 17 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22.
 - The Role of Superconductors in Gravity Research comes in from **Defense Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: published by DIA as DIA-08-1003-013, Acquisition Threat Support series. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: Defense Intelligence Reference Document, "The Role of Superconductors in Gravity Research" (The Black Vault FOIA release), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2010-03-23; DIA FOIA Reading Room, The Role of Superconductors in Gravity Research (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2010-03-23.
 - The Role of Superconductors in Gravity Research runs out to **Materials and custody analysis** (domain, board tier A), a research link at Tier 1 documented. The link reads: subject domain: superconducting materials and claimed gravitational coupling. The paper's subject is a materials question posed as a physics question: whether a rotating high-temperature superconductor can produce a measurable gravitational anomaly. It sits with the materials strand of the DIRD set rather than with the metric-engineering strand. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22.
-- The Role of Superconductors in Gravity Research comes in from **George D. Hathaway** (person, board tier C), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 10: "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
+- The Role of Superconductors in Gravity Research comes in from **George D. Hathaway** (person, board tier B), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 10: "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 
 ## Traversable Wormholes, Stargates, and Negative Energy
 
@@ -1436,7 +1571,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 468 of 1057, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 509 of 1125, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1468,7 +1603,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 469 of 1057, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 510 of 1125, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1488,37 +1623,40 @@ Re-graded B on a global pass (rank 469 of 1057, score 30). 5 connections, 2 of t
 - Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications runs out to **Materials and custody analysis** (domain, board tier A), a research link at Tier 1 documented. The link reads: subject domain: energy-storage materials for commercial and military applications. Electrode and electrolyte materials science applied to high-power energy storage. One of the DIRDs with immediate conventional military application and no anomalous content. Sources: Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2026-08-22.
 - Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications comes in from **J. Golightly** (person, board tier C), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 35: "Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin." The given name behind the initial was not established by any source consulted, and the node is labelled accordingly rather than guessed. Sources: Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 
-## Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions
+## Disclosure Project witness cohort (68 testimonies, 2000 to 2001)
 
-Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D0; 5 connections.
+Disclosure Project witness cohort (68 testimonies, 2000 to 2001) is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2000-07 to 2001-05-09; axes C0 A0 D3; 5 connections.
 
-In one line: defense-intelligence-reference-document.
+In one line: A SET NODE, NOT AN ORGANISATION. Carries the 68 named testimonies printed in section 3.8 of the April 2001 Briefing Document, and holds the witnesses for whom no independent record exists rather than giving each a single-claim node.
 
 ### What it is
 
-DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-04-02, DIA-08-1004-001, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.
+THIS IS A SET NODE AND NOT AN ORGANISATION; NOTHING HERE EVER MET AS A BODY. It exists because a person node built on one testimony in one interested-party document would assert that somebody said something and nothing else, and because sixty-eight of those would make `witness-chain` the dominant edge type of an entire region of this board, which CLAUDE.md section 6 warns turns degree into a measure of how much is claimed rather than of what is true. The set carries the roster and the counts, and individual witnesses are promoted out of it only when an independent record is found, which in this pass happened for John Callahan, Clifford Stone, Robert Jacobs and Larry Warren and did not happen for Karl Wolfe, Donna Hare, Don Phillips or John Weygandt. Those four are held here with their claims and with the specific documentary problems each carries: Wolfe's NSA-at-Langley account against NASA's own record that the Lunar Orbiter programme was run by NASA Langley Research Center; Hare's employer documented by Ford Motor Company while her employment is documented nowhere; Phillips with nothing independent at all; and Weygandt, whose name the Briefing Document prints as John while the modern literature calls him Jonathan, which is precisely the class of error this board keeps having to undo.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 470 of 1057, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 294 of 1125, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
-- **Tier 1 documented.** Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/
-- **Tier 1 documented.** Defense Intelligence Reference Document titled "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions", series "Acquisition Threat Support", published 2010-04-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/
-- **Tier 1 documented.** EarthTech International's citation list gives the paper as "Obousy, R. K. and Davis, E. W. (2010), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-001, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC." It is co-authored, with Obousy first named, which reconciles the DIA list with the popular attribution. Source: http://earthtech.org/pubs/davis/
-- **Tier 1 documented.** Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100". Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/
-- **Tier 1 documented.** The released cover page reads "2 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-001." The author line is redacted under (b)(6). Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf
-- **Tier 2 named person on the record.** One of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017. Davis confirmed by email to the researcher Isaac Koi that the circulating copy was genuine. Source: https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html
-- **Tier 2 named person on the record.** The DIA letter of 9 January 2018 lists item 19 as "Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants." The government's own list names Obousy, not Eric Davis, as the author of record. The widespread press attribution of this paper to Davis alone is not supported by the DIA list. Source: https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 1 documented.** DON PHILLIPS. Printed at section 3.8.4 under 'Testimony of Mr. Don Phillips, Lockheed Skunkworks, USAF, and CIA Contractor / December 2000'. The editorial header states that he 'worked with Kelly Johnson at the Lockheed Skunkworks on design and construction of the U-2 and the SR-71 Blackbird'. In his own words the sighting was at 'Angels Peak... a classified radar installation', 'in 1966, to 67', with estimated speeds of '3,800 to 4,200 miles per hour equivalent, ground speed', and one named corroborating witness, 'a buddy that was chief radar operator named Anthony Kasar'. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
+- **Tier 1 documented.** DONNA HARE. Printed at section 3.8.4 under 'Testimony of Donna Hare / November 2000'. Her heading carries no rank, service or agency, which is unusual in this document; the editorial header supplies it: 'Donna Hare had a secret clearance while working for NASA contractor, Philco Ford.' In her own words: 'During 70 and 71 I worked in Building 8 of NASA for a contractor, Philco Ford', and of the technician she describes, 'he said, well, we always have to airbrush them out before we sell them to the public.' Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
+- **Tier 1 documented.** JOHN WEYGANDT, AND THE NAME DISCREPANCY THIS BOARD MUST NOT REPEAT. The Briefing Document prints the heading 'Testimony of Lance Corporal John Weygandt / October 2000' at section 3.8.4. THE MODERN LITERATURE AND THE CANON-GAP AUDIT BOTH CALL HIM JONATHAN. No node should be created under a given name that this cluster's own primary source contradicts. His own printed account is unusually specific and is the obvious next test: enlisted under the delayed entry programme in July 1994 while still in high school, boot camp from 18 June, graduated 8 September 1995, MOS 0311, reassigned in late January 1996 to MOS 7212 Stinger Avenger, in training February to late May 1996, then Second Marine Air Wing, 28th Marine Air Control Group, second air defence battalion, Battery B from June 1996, transferred to 'the section for laser strike' in February 1997. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
+- **Tier 1 documented.** KARL WOLFE. Printed at section 3.8.4 under 'Testimony of Sergeant Karl Wolfe, US Air Force / September 2000'. Its editorial header: 'Karl Wolfe was in the Air Force for 4 1/2 years beginning in January 1964. He had a top secret crypto clearance and worked with the tactical air command at Langley AFB in Virginia. While working at a NSA facility he was shown photographs taken by the Lunar Orbiter of the moon that showed detailed artificial structures. These photos were taken prior to the Apollo landing in 1969.' In his own words: 'So I was asked to go over to this facility on Langley Air Force Base, where the NSA was bringing in the information from the lunar orbiter.' Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
+- **Tier 1 documented.** Karl R. Wolfe died on 10 October 2018, born 19 April 1944, per his funeral home obituary at Lansing, New York. A NEGATIVE WORTH RECORDING: the obituary does not mention US Air Force service, an employer, an education or a career. Source: Obituary of Karl R. Wolfe, Lansing Funeral Home, Lansing, New York, https://www.lansingfuneralhome.com/obituaries/karl-wolfe, opened 2026-09-19
+- **Tier 1 documented.** THE EMPLOYER IS DOCUMENTED AND THE EMPLOYEE IS NOT. Ford Motor Company's own corporate history records that Ford purchased Philco in 1961 and 'transferred its Aeronutronic Division to a new entity it called Philco-Ford'; that 'In 1963, the company went head-to-head against tech giants like IBM, RCA, Lockheed, Hughes Aircraft and AT&T in a bid to implement the Mission Control Center at the new Manned Space Center in Houston'; and that it was renamed Ford Aerospace and Communications Corporation in 1976 and sold to Loral in 1990. Source: Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center', https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html, opened 2026-09-19
+- **Tier 1 documented.** THE INSTITUTIONAL DISCREPANCY IN THE WOLFE ACCOUNT, FROM NASA'S OWN CATALOGUE. The NSSDCA record for Lunar Orbiter 1 states: 'The Lunar Orbiter program was managed by NASA Langley Research Center', a NASA civil facility at Hampton, Virginia, which is a separate installation from Langley Air Force Base. The same record gives launch on 10 August 1966 and photographic data acquired 'from August 18 to 29, 1966'. Source: NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A, opened 2026-09-19
+- **Tier 1 documented.** The cohort is defined by section 3.8 of the Disclosure Project Briefing Document of April 2001, which prints SIXTY-EIGHT dated testimony headings across five subsections. Seven of the named individuals already exist on this board: `robert-salas`, `nick-pope`, `philip-corso`, `walter-haut`, `mark-mccandlish`, `paul-czysz` and `harold-puthoff`. Two are anonymous or initials only, 'Dr. B.' and 'A. H., Boeing Aerospace'. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
+
+A further 4 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
-- Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: AAWSAP deliverable, Acquisition Support Division (DWO-3). The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering. Sources: Defense Intelligence Reference Document, "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions" (The Black Vault FOIA release), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2010-04-02; DIA FOIA Reading Room, Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2010-04-02; https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html, https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html
-- Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 April 2010 on the cover. 34 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2026-08-22.
-- Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions comes in from **Defense Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: published by DIA as DIA-08-1004-001, Acquisition Threat Support series. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: Defense Intelligence Reference Document, "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions" (The Black Vault FOIA release), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2010-04-02; DIA FOIA Reading Room, Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2010-04-02; http://earthtech.org/pubs/davis/, http://earthtech.org/pubs/davis/
-- Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions comes in from **Eric W. Davis** (person, board tier A), a research link at Tier 1 documented. The link reads: co-author per EarthTech International's own citation. EarthTech International's publications page cites the paper as "Obousy, R. K. and Davis, E. W. (2010)." Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them. Sources: Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2026-08-22; http://earthtech.org/pubs/davis/, http://earthtech.org/pubs/davis/
-- Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions comes in from **Richard K. Obousy** (person, board tier C), a research link at Tier 1 documented. The link reads: author of record on the DIA list; lead author. CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names "Dr R Obousy, Obousy Consultants" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author. Sources: Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; http://earthtech.org/pubs/davis/, http://earthtech.org/pubs/davis/; https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/, https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/
+- Disclosure Project witness cohort (68 testimonies, 2000 to 2001) runs out to **Disclosure Project Briefing Document, April 2001** (document, board tier B), a institutional link at Tier 1 documented. The link reads: The cohort is defined by section 3.8 of the document. Sixty-eight dated testimony headings across five subsections. The set node exists so that the fifty-seven unchecked witnesses do not each become a single-claim person node. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project witness cohort (68 testimonies, 2000 to 2001) runs out to **Witness Chain** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: A cohort of claimants, which is what this domain is for. Every member of the set is on the board only as someone who asserted something, which under CLAUDE.md section 6 is exactly the situation in which degree must never be read as truth. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project witness cohort (68 testimonies, 2000 to 2001) runs out to **National Aeronautics and Space Administration** (institution, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Carries the Wolfe and Hare claims about NASA imagery, against NASA's own records. Wolfe's Lunar Orbiter account runs against the NSSDCA record that the programme was managed by NASA Langley Research Center. Hare's employer, Philco-Ford, is a documented NASA Manned Spacecraft Center contractor per Ford's own corporate history, while her employment is documented nowhere. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A, dated 2026-09-19; Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center', https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html, dated 2026-09-19.
+- Disclosure Project witness cohort (68 testimonies, 2000 to 2001) runs out to **Lockheed Martin Corporation** (institution, board tier A), a witness-chain link at Tier 3 stated inference. The link reads: Carries the Don Phillips claim of work with Kelly Johnson at the Skunk Works. TIER 3, AND DELIBERATELY ROUTED THROUGH THE SET RATHER THAN A PERSON NODE. Nothing independent exists for Phillips: no personnel record, no Lockheed document, no CIA record, no publication, and the name is extremely common. An unverified claimant must not acquire a direct edge into a Tier A contractor node. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project witness cohort (68 testimonies, 2000 to 2001) runs out to **National Security Agency** (institution, board tier B), a witness-chain link at Tier 3 stated inference. The link reads: Carries the Wolfe claim of an NSA facility at Langley AFB handling Lunar Orbiter imagery. TIER 3. Nothing independent places Wolfe anywhere, and NASA's own catalogue places the Lunar Orbiter programme at NASA Langley Research Center, a separate civil installation from Langley Air Force Base. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A, dated 2026-09-19.
 
 ## 341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)
 
@@ -1532,7 +1670,7 @@ Excerpts from five quarterly histories of the 341st Strategic Missile Wing, Malm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 298 of 1057, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 327 of 1125, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1545,8 +1683,8 @@ Re-graded B on a global pass (rank 298 of 1057, score 37). 5 connections, 2 of t
 
 - 341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001) runs out to **United States Air Force** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: An Air Force wing history, released by an Air Force FOIA office. The history is an Air Force wing history and the release is an Air Force FOIA response. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
 - 341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001) runs out to **John Greenewald Jr.** (person, board tier A), a custody link at Tier 1 documented. The link reads: Requester of the 9 May 2001 FOIA that produced the release. Greenewald filed the request of 9 May 2001 that produced the release, and the copy in public circulation is his. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
+- 341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001) runs out to **The Black Vault** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Host of the released scan. The Black Vault is the host of the released scan. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
 - 341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001) runs out to **Malmstrom AFB missile shutdowns, March 1967** (event, board tier B), a investigative link at Tier 1 documented. The link reads: The unit history the event node names as decisive, now opened. The unit history is the document the event node names as decisive, and it records the shutdown while stating that the UFO reports around it were disproven. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
-- 341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001) runs out to **The Black Vault** (institution, board tier C), a custody link at Tier 1 documented. The link reads: Host of the released scan. The Black Vault is the host of the released scan. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
 - 341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001) runs out to **Malmstrom AFB and Minuteman Missile Fields, Montana** (location, board tier C), a geographic link at Tier 1 documented. The link reads: The whole release concerns Malmstrom AFB, Montana. The whole release concerns Malmstrom AFB, Montana. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
 
 ## Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)
@@ -1561,7 +1699,7 @@ An eight-page document on Ministério da Aeronáutica letterhead, stamped CONFID
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 285 of 1057, score 38). 5 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 316 of 1125, score 38). 5 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1589,7 +1727,7 @@ On 5 January 1994 the Deputy Secretary of Defense changed the Department's speci
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 217 of 1057, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 242 of 1125, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1620,7 +1758,7 @@ This is the version of DoD's SAP charter that governed for the entire period cov
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 58 of 1057, score 74). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 61 of 1125, score 74). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1656,7 +1794,7 @@ The current directive, effective 12 September 2024, cancels the 1 July 2010 vers
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 79 of 1057, score 68). 6 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 84 of 1125, score 68). 6 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1692,7 +1830,7 @@ The Inspector General's evaluation of how the Department handles UAP, completed 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 72 of 1057, score 69). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 77 of 1125, score 69). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1728,7 +1866,7 @@ The DoD SAP Security Manual is issued in four volumes under number 5205.07: Volu
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 60 of 1057, score 73). 5 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded A on a global pass (rank 64 of 1125, score 73). 5 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -1749,7 +1887,7 @@ A further 6 claims sit on this node on the board and are not reproduced here.
 - DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4) runs out to **Carve-Out Provision (DCSA relief from NISP oversight)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: defines and operates the carve-out. The Manual is where the carve-out is defined and where it operates. Volume 1's glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight.' Enclosure 2 para 2 carries the operational form of the same provision, and Volume 1 also states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out' - which is the sentence establishing that a carved-out SAP is not so coordinated. Quotations are the verbatim ones already recorded on this node. Sources: Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18), https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF, dated 2026-05-18; DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019), https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 - DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4) runs out to **DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: manual implements policy established in DoDD 5205.07. The Manual implements the Directive. The 2010 directive sets SAP policy and defines the carve-out in its glossary; the four-volume Manual carries the operating detail - Volume 1's Enclosure 2 on DSS oversight and its relief, Enclosure 4 on whistleblower routing through SAP channels, and the patents and intellectual property provision. Directive states the policy, Manual runs it. Sources: Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18), https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF, dated 2026-05-18; DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019), https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 - DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4) runs out to **DoDM 5205.07 Volume 1, DoD SAP Security Manual: General Procedures** (document, board tier A), a institutional link at Tier 1 documented. The link reads: Volume 1 is the general procedures volume of the four-volume manual. DoDM 5205.07 is issued in volumes; Volume 1 carries the responsibilities, general procedures, HVSACO rules and the glossary containing the carve-out definition. Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
-- DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4) runs out to **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: relieves it of oversight. The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme. Sources: Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18), https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF, dated 2026-05-18; DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019), https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
+- DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4) runs out to **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: relieves it of oversight. The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme. Sources: Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18), https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF, dated 2026-05-18; DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019), https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 
 ## DoDM 5205.07 Volume 1, DoD SAP Security Manual: General Procedures
 
@@ -1763,7 +1901,7 @@ Volume 1 of the four-volume DoD SAP Security Manual assigns responsibilities and
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 104 of 1057, score 60). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 108 of 1125, score 60). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1798,7 +1936,7 @@ In mid-1948 the Project SIGN staff at Wright Field completed a Top Secret docume
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 300 of 1057, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 330 of 1125, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1827,7 +1965,7 @@ The Foreign Technology Division was the Air Force's foreign aerospace materiel e
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 234 of 1057, score 41). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 262 of 1125, score 41). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1857,7 +1995,7 @@ This is the one death inside a compartmented American programme that the governm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 194 of 1057, score 44). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 213 of 1125, score 44). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1893,7 +2031,7 @@ The recalled January 2015 US Fleet Forces Command message is the highest-value s
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 283 of 1057, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 313 of 1125, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1922,7 +2060,7 @@ GAO is the audit arm of Congress and the only investigative body on this board t
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 836 of 1057, score 18). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 890 of 1125, score 18). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1953,7 +2091,7 @@ GAO explains the carve-out in its own words: special access contracts are 'carve
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 267 of 1057, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 297 of 1125, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1985,7 +2123,7 @@ Gerb's first corporate investigation, published 18 February 2024, and the most p
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 508 of 1057, score 29). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 550 of 1125, score 29). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2014,7 +2152,7 @@ Published 20 March 2026, this is the corporate-breakaway argument. It moves past
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 268 of 1057, score 39). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 298 of 1125, score 39). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2027,8 +2165,8 @@ Re-graded B on a global pass (rank 268 of 1057, score 39). 5 connections, 1 of t
 
 - UAP Gerb - Northrop Grumman & TRW investigation (Vol.2) runs out to **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Built on Grusch's statements about Clapper and O'Sullivan. Gerb extrapolates from Grusch's remarks on Megyn Kelly and from Grusch's statement that James Clapper and Stephanie O'Sullivan managed the crash retrieval issue at ODNI. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
 - UAP Gerb - Northrop Grumman & TRW investigation (Vol.2) comes in from **'UAP Gerb' (Sam)** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Gerb authored the Northrop/TRW breakaway analysis. Published 20 March 2026, following a Vol.1 Northrop investigation in 2025. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
-- UAP Gerb - Northrop Grumman & TRW investigation (Vol.2) runs out to **The Aerospace Corporation** (institution, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Traces Stephanie O'Sullivan from TRW to ODNI to the Aerospace board. O'Sullivan is a former TRW engineer, former Principal Deputy Director of National Intelligence and a current Aerospace Corporation board member - a single career spanning prime contractor, IC leadership and FFRDC governance. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
 - UAP Gerb - Northrop Grumman & TRW investigation (Vol.2) runs out to **Northrop Grumman Corporation** (institution, board tier B), a funding link at Tier 2 named person on the record. The link reads: Alleges IRAD self-funding of a breakaway programme after 9/11. The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
+- UAP Gerb - Northrop Grumman & TRW investigation (Vol.2) runs out to **The Aerospace Corporation** (institution, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Traces Stephanie O'Sullivan from TRW to ODNI to the Aerospace board. O'Sullivan is a former TRW engineer, former Principal Deputy Director of National Intelligence and a current Aerospace Corporation board member - a single career spanning prime contractor, IC leadership and FFRDC governance. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
 - UAP Gerb - Northrop Grumman & TRW investigation (Vol.2) comes in from **TRW Inc.** (institution, board tier B), a investigative link at Tier 2 named person on the record. The link reads: The subject of the 20 March 2026 corporate-breakaway argument. The video's whole case turns on the 2002 acquisition, which the filings document; its funding-mechanism proposition is an extrapolation and is not in any filing opened here. Sources: Northrop Grumman Corporation, Form 8-K, event 11 December 2002, https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm, dated 2002-12-20.
 
 ## Los Alamos Green Fireballs Conference
@@ -2043,7 +2181,7 @@ The first documented scientific conference convened by the United States governm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 383 of 1057, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 417 of 1125, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2075,7 +2213,7 @@ Chain of custody for the complaint, as established by sworn testimony and report
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 314 of 1057, score 36). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 344 of 1125, score 36). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2103,7 +2241,7 @@ The facility referred to in the Varginha literature as the Hospital Regional de 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 925 of 1057, score 14). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 984 of 1125, score 14). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2133,7 +2271,7 @@ HASC held the House side of the NDAA conference through the stripping and is the
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 682 of 1057, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 725 of 1125, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -2160,7 +2298,7 @@ Division G of Public Law 118-31. Sec. 7341 moves the annual UAP report obligatio
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 924 of 1057, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 983 of 1125, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2191,7 +2329,7 @@ Why the intelligence side is the harder problem and the softer target at the sam
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 48 of 1057, score 81). 7 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 49 of 1125, score 81). 7 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2217,6 +2355,41 @@ A further 13 claims sit on this node on the board and are not reproduced here.
 
 It carries 7 connections in total on the board.
 
+## Japan Air Lines flight 1628, Alaska, 17 November 1986
+
+Japan Air Lines flight 1628, Alaska, 17 November 1986 is a event on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1986-11-17 to 1987-03-05; axes C0 A0 D2; 5 connections.
+
+In one line: A civil-aviation incident with a 1,500-page federal file at the National Archives, an FAA investigation, an agency press release concluding against a second aircraft, and a documented seventeen-year FOIA recovery.
+
+### What it is
+
+THIS IS THE NODE IN THIS CLUSTER WITH A REAL AGENCY RECORD, AND IT SHOULD CARRY MORE WEIGHT THAN THE WITNESS BESIDE IT. On the evening of 17 November 1986 a Japan Air Lines 747 crossing Alaskan airspace reported an object accompanying it; the FAA investigated, and the paper it generated survives in volume. The Black Vault asked for it in May 2001 and was told in a letter of 27 June 2001 that everything would be destroyed within thirty days; asked again in 2009 and was told it had been destroyed; and then found over 1,500 pages of it at the National Archives in Record Group 237, local identifier 1203, archival identifier 733667. The archive itemises 1,569 pages across thirty-five or more documents: FAA Form 8020-5 Aircraft Incident Record, FAA Form 3112, FAA Form 1600-32-1 interview notes, Captain Terauchi's written statement in Japanese and in English translation, dated transcripts of interviews with all three crew members in January 1987, radar data and computer plots, and a folder of correspondence with Philip Klass and Richard Haines. The agency's conclusion is equally on the record and it is negative: the FAA Alaskan Region's press release of 5 March 1987 states that its experts determined the second radar target was not another aircraft but an uncorrelated primary and beacon return, and that the investigation was complete and would not be pursued further. None of this depends on the Disclosure Project or on any witness, which is exactly why it belongs on this board.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 479 of 1125, score 31). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** THE AGENCY'S OWN CONCLUSION. The FAA Alaskan Region press release of 5 March 1987, quoted at length by Klass: FAA experts at the agency's Technical Center in Atlantic City 'determined that a second radar target near the JAL flight... was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return. This means that the primary radar signal reflected off the aircraft's [JAL] surface did not correlate exactly with the pulses emitted by the aircraft's radar transponder. This phenomenon is not unusual...' The release concludes: 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.' Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
+- **Tier 1 documented.** The Black Vault independently records the same March 1987 position: the FAA was 'unable to support' a UFO identification, and 'a subsequent review of Anchorage's radar failed to confirm any targets in close proximity to JAL 1628'. Source: The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, opened 2026-09-19
+- **Tier 1 documented.** The FAA told the requester the records would be destroyed. Letter of 27 June 2001: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed. Source: The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, opened 2026-09-19
+- **Tier 1 documented.** The archive itemises 1,569 pages across thirty-five or more documents, including FAA Form 8020-5 Aircraft Incident Record; FAA Form 3112 Inspection and Surveillance Record; FAA Form 1600-32-1 notes of interviews with three crew members; a written statement by Capt. Terauchi in Japanese, 18 pages, and in English translation, 13 pages; a transcript of an interview with Capt. Terauchi dated 2 January 1987; with First Officer Tamefugi dated 5 January 1987; with Flight Engineer Tsukuba dated 15 January 1987; radar data and computer plots; and a 40-page folder of 'Klass and Haines inquires and responses'. Source: The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/, opened 2026-09-19
+- **Tier 1 documented.** The federal record: over 1,500 pages at the National Archives in Record Group 237, Records of the Federal Aviation Administration, local identifier 1203, archival identifier 733667, located by The Black Vault after the FAA's initial estimate of approximately 107 pages. Source: The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, opened 2026-09-19
+- **Tier 2 named person on the record.** From the FAA's own 2 January 1987 crew interview, as reported by Klass, Capt. Terauchi 'admitted that this was the third time he had reported sighting a UFO'; and on 11 January 1987 he reported a fourth sighting over Alaska which, after landing, he told FAA personnel he believed was 'light from a petroleum pumping station bouncing off clouds of ice crystals'. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
+- **Tier 2 named person on the record.** The Black Vault states in its own voice that 'Callahan's dramatic account is unconfirmed by other sources', while observing that he preserved copies of the data and later shared them with researchers. Source: The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, opened 2026-09-19
+- **Tier 2 named person on the record.** The air traffic control transcript, as Klass prints it, records that a United Airlines crew vectored toward JAL 1628 for a closer look reported 'We've got the Japan airliner in sight. I don't see anybody around him', and again 'I don't see anybody around him at all. I can see his contrail but I sure don't see any other airplanes.' A USAF C-130 vectored to within about fifteen miles 'reported seeing no other traffic in the vicinity of JAL 1628'. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
+
+A further 1 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- Japan Air Lines flight 1628, Alaska, 17 November 1986 comes in from **John Greenewald Jr.** (person, board tier A), a research link at Tier 1 documented. The link reads: Requester and locator of the National Archives file. In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!' Sources: The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/, dated 2026-09-19.
+- Japan Air Lines flight 1628, Alaska, 17 November 1986 runs out to **The Black Vault** (institution, board tier B), a research link at Tier 1 documented. The link reads: Federal file recovered after seventeen years and two destruction notices. The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667. Sources: The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, dated 2026-09-19; The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/, dated 2026-09-19.
+- Japan Air Lines flight 1628, Alaska, 17 November 1986 runs out to **Federal Aviation Administration** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: The agency investigated it, issued a finding and created the file. FAA Alaskan Region press release of 5 March 1987; the agency's own forms and crew interviews; and the 1,500-page file in Record Group 237. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001; The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, dated 2026-09-19.
+- Japan Air Lines flight 1628, Alaska, 17 November 1986 runs out to **Military Aviators & Operators** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: A civil-aviation case with a crew, an ATC transcript and a radar record. The file contains crew statements, air traffic control transcripts with flight-path charts, and radar data and computer plots. Sources: The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/, dated 2026-09-19.
+- Japan Air Lines flight 1628, Alaska, 17 November 1986 comes in from **John Callahan** (person, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Claimed role in the FAA's handling of the case. TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html, dated 2015-10-05; The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, dated 2026-09-19.
+
 ## Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)
 
 Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American) is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2024; axes C0 A1 D2; 5 connections.
@@ -2229,7 +2402,7 @@ Published 19 January 2024, seven weeks after Kirkpatrick left AARO and seven wee
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 371 of 1057, score 34). 6 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 404 of 1125, score 34). 6 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2248,31 +2421,34 @@ Re-graded B on a global pass (rank 371 of 1057, score 34). 6 connections, 0 of t
 - Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American) runs out to **Robert T. Bigelow** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: names Bigelow as the seeding influence behind the modern belief system. The op-ed's causal account routes the entire disclosure record back through Bigelow's funding of the AAWSAP/AATIP orbit. Sources: Scientific American op-ed, https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/, dated 2024-01-19.
 - Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American) runs out to **YANKEE BLUE (alleged AFOSI indoctrination program)** (program, board tier B), a temporal link at Tier 3 stated inference. The link reads: the 'circular reporting from a small group' thesis, seventeen months before the Air Force was identified as the seeding group. Kirkpatrick's mechanism was correct in form and wrong in agent: belief was seeded and repeated from a small source, but the documented source is a US Air Force indoctrination practice, not a civilian believer network. Whether AARO knew this when the op-ed ran is unresolved, given that AARO discovered Yankee Blue during his tenure. Sources: Scientific American op-ed, https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/, dated 2024-01-19; Metabunk thread documenting the WSJ report, https://www.metabunk.org/threads/yankee-blue-the-hazing-ritual-responsible-for-some-military-belief-in-ufos.14260/, dated 2025-06-06.
 
-## KLAS-TV (Las Vegas)
+## Kirtland AFB / Manzano Weapons Storage Area incident
 
-KLAS-TV (Las Vegas) is a institution on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1981; axes C0 A0 D2; 5 connections.
+Kirtland AFB / Manzano Weapons Storage Area incident is a event on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1980; axes C2 A2 D1; 5 connections.
 
-In one line: CBS affiliate, Channel 8.
+In one line: 8-9 August 1980, Coyote Canyon and Manzano, Kirtland AFB, New Mexico.
 
 ### What it is
 
-KLAS-TV is the Las Vegas station where George Knapp has worked as anchor and I-Team investigative reporter since 1981, apart from a break from 1991 to 1995. It is where the Bob Lazar interviews aired in May and November 1989, putting Area 51 into global consciousness, and it remains the institutional base from which Knapp has run four decades of UAP reporting. A local CBS affiliate in a desert market being the originating venue for the most durable claims in this field is itself a structural fact about where this story has been allowed to live.
+On the night of 8 August 1980 three members of the 1608th Security Police Squadron at Kirtland Air Force Base - SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier - watched a very bright light approximately three miles north-north-east of their position perform stop-and-go manoeuvres inconsistent with a helicopter, descend into Coyote Canyon, and later depart straight up at high speed. Shortly after midnight a Sandia Laboratories security guard reported a round disc-shaped object near an alarmed structure, with his radio failing during the encounter. A further incident was recorded on 13 August. AFOSI Special Agent Richard C. Doty documented the reports on a complaint form dated 9 September 1980 under District File No. 8017D93-0/29, describing the 'alleged sighting of unidentified aerial lights in restricted test range'. Manzano is a nuclear weapons storage area. The case matters here because of who is in the file: an Air Force counterintelligence agent, a nuclear storage site security detachment, and a Department of Energy contractor laboratory's own guard force. Within a year the same AFOSI office was running material at Paul Bennewitz. The Kirtland file is where the anomalous-object record, the nuclear weapons complex and the disinformation apparatus visibly overlap.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 928 of 1057, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded B on a global pass (rank 350 of 1125, score 36). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
-- **Tier 2 named person on the record.** Knapp joined KLAS-TV as reporter and news anchor in 1981, left in 1991 and was rehired in 1995; the Bob Lazar programmes aired on KLAS in May and November 1989. Source: Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 1 documented.** A Sandia security guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980; his radio malfunctioned during the encounter. Source: AFOSI FOIA release archived by NICAP
+- **Tier 1 documented.** AFOSI documented sightings at Kirtland AFB between 8 August and 3 September 1980 on a complaint form dated 9 September 1980 filed by Special Agent Richard C. Doty, District File No. 8017D93-0/29. Source: AFOSI FOIA release archived by NICAP
+- **Tier 1 documented.** Independently confirmed this session from the NICAP reproduction of the AFOSI complaint form: the named 1608 Security Police Squadron observers, the Sandia security guard who requested anonymity, and the clock times of 8 to 9 August 1980, together with further observations on 22 August 1980 and a New Mexico State Patrolman on 10 August 1980. The form establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that AFOSI opened a file. IT ESTABLISHES NOTHING ABOUT WHAT THE OBJECTS WERE. Source: AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, opened 2026-09-19
+- **Tier 1 documented.** Named observers were SSgt Stephen Ferenz (area supervisor), ATC Martin W. Rist and AMN Anthony D. Frazier of the 1608 Security Police Squadron, reporting at approximately 23:50 on 8 August 1980. Source: AFOSI FOIA release archived by NICAP
 
 ### Its strongest connections
 
-- KLAS-TV (Las Vegas) runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Knapp testified as KLAS-TV chief investigative reporter. Knapp opened his sworn statement: 'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.' The witness list gives him as 'Mr. George Knapp, UAP Journalist'; Chairwoman Luna's introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', 9 September 2025 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
-- KLAS-TV (Las Vegas) runs out to **Harry M. Reid** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Knapp's Lazar/S-4 reporting opened a private channel to Reid. Knapp told the Task Force that after reporting the Bob Lazar / S-4 story in 1989 he 'interviewed dozens of other people' over the years, and named the list: 'They include Senator Harry Reid; Senator Howard Cannon, also of Nevada; a guy named Al O'Donnell, who was the first general manager of EG&G in Nevada... There is a guy named Dr. James Lacatski.' The printed hearing reproduces oral statements only, so the sequence in which Knapp first approached Reid sits in his written statement at docs.house.gov and is not asserted here. Sources: House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
-- KLAS-TV (Las Vegas) runs out to **James T. Lacatski** (person, board tier A), a research link at Tier 1 documented. The link reads: Knapp co-authored two books with the AAWSAP originator. Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.' Sources: House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
-- KLAS-TV (Las Vegas) runs out to **Independent media as the disclosure substrate** (domain, board tier C), a investigative link at Tier 1 documented. The link reads: four decades of the record produced from a single local affiliate. KLAS-TV is where George Knapp has anchored and reported since 1981, where the Bob Lazar interviews aired in 1989, and the institutional capacity in which he testified before the House Oversight Task Force on 9 September 2025. A local CBS affiliate in a desert market holding a national investigative record for forty years is a structural fact about the substrate, not a curiosity. Sources: House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; Wikipedia, George Knapp (television journalist), https://en.wikipedia.org/wiki/George_Knapp_(television_journalist), dated 2026-08-21.
-- KLAS-TV (Las Vegas) runs out to **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis. Knapp's custody allegation, made under oath: 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' On the Russia files he testified that he obtained documents and interviews from Soviet defence officials in the early 1990s and has 'now shared with this Task Force' - the printed hearing carries no statement that he shared them with BAASS or the DIA, which is why this is tier 2. It is an allegation by a named witness, not a documented transfer. Sources: House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
+- Kirtland AFB / Manzano Weapons Storage Area incident comes in from **Richard C. Doty** (person, board tier A), a custody link at Tier 1 documented. The link reads: Filed the AFOSI complaint form documenting the incident. Complaint form dated 9 September 1980, District File No. 8017D93-0/29, 'alleged sighting of unidentified aerial lights in restricted test range'. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Kirtland AFB / Manzano Weapons Storage Area incident runs out to **Sandia National Laboratories** (institution, board tier A), a witness-chain link at Tier 1 documented. The link reads: A Sandia security guard is a named reporting party in the AFOSI file. A Sandia guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with radio malfunction. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Kirtland AFB / Manzano Weapons Storage Area incident comes in from **Air Force Office of Special Investigations** (institution, board tier A), a investigative link at Tier 1 documented. The link reads: AFOSI investigated the 1980 intrusions at the nuclear weapons storage area. The intrusions occurred at the Manzano Weapons Storage Area adjacent to Sandia National Laboratories; AFOSI ran the investigation and simultaneously ran the Bennewitz operation. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Kirtland AFB / Manzano Weapons Storage Area incident runs out to **Paul Frederick Bennewitz** (person, board tier B), a investigative link at Tier 1 documented. The link reads: AFOSI opened a file covering the observations Bennewitz was reporting. Confirmed independently this session from the NICAP reproduction. The record establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that a file was opened. It establishes nothing about what the objects were. Sources: AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, dated 2026-09-19.
+- Kirtland AFB / Manzano Weapons Storage Area incident runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a institutional link at Tier 1 documented. The link reads: Occurred at the Manzano Weapons Storage Area and Coyote Canyon. Manzano is a nuclear weapons storage area on the Kirtland footprint shared with Sandia National Laboratories. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
 
 ## Brasilia, Federal District, Brazil
 
@@ -2286,7 +2462,7 @@ Brasilia is the seat of the Brazilian federal government and the administrative 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 697 of 1057, score 23). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded C on a global pass (rank 741 of 1125, score 23). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2313,7 +2489,7 @@ The Air Force installation in Florida's first congressional district that produc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 417 of 1057, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 450 of 1125, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -2329,32 +2505,66 @@ Re-graded B on a global pass (rank 417 of 1057, score 32). 5 connections, 0 of t
 - Eglin Air Force Base, Florida comes in from **Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962** (document, board tier B), a geographic link at Tier 1 documented. The link reads: The annex places the duplicate aircraft at Eglin AFB. The annex places the duplicate aircraft at Eglin AFB, naming a specific base as the staging point for the deception. Sources: Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt, dated 1962-03-13.
 - Eglin Air Force Base, Florida comes in from **Matthew Louis Gaetz II** (person, board tier C), a investigative link at Tier 1 documented. The link reads: Received a protected disclosure from Eglin and went to the base with Burchett and Luna. Initially refused images, radar and full crew access; obtained a photograph and one crew member after a discussion 'about how authorities flow in the United States of America.' Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 
-## Nevada Test Site / Nevada National Security Site
+## Los Alamos, New Mexico
 
-Nevada Test Site / Nevada National Security Site is a location on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1951; axes C2 A3 D0; 5 connections.
+Los Alamos, New Mexico is a location on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1943; axes C2 A3 D1; 5 connections.
 
-In one line: DOE site complex; successive contractor management EG&G, Bechtel Nevada, NSTec.
+In one line: Los Alamos National Laboratory; site of the 16 February 1949 green fireballs conference.
 
 ### What it is
 
-The Nevada complex is where the classification regimes overlap. A Department of Energy site operated under Atomic Energy Act authorities by a succession of private management and operating contractors - EG&G in the nuclear testing era, Bechtel Nevada from 1996 to 2006, the Northrop Grumman-led National Security Technologies LLC from 2006 - it sits adjacent to the Air Force operating location near Groom Lake, whose environmental disclosure obligations the President waives annually. Its contractor-operated laboratories, the Remote Sensing Laboratory and the Special Technologies Laboratory, hold the national capability for characterising anomalous radiological and material signatures. Al O'Donnell, the EG&G manager who told George Knapp that a recovered saucer and a live being existed, was the first general manager of EG&G's operations here. Material held under DOE Restricted Data authority at a contractor-operated site sits outside the 10 U.S.C. Sec. 119 special access program reporting regime entirely.
+Los Alamos sits on the Pajarito Plateau in Los Alamos County, New Mexico, and is the site of the laboratory established in 1943 as Project Y of the Manhattan Project, now Los Alamos National Laboratory. Its place on this board rests on two things. First, it is one of the two nuclear design laboratories and therefore one of the small number of American institutions with both the compartmentation architecture and the materials-science capability that a concealed exploitation programme would require; whistleblower accounts collected by AAWSAP and by David Grusch describe materials work distributed across the Department of Energy laboratory complex and its industrial partners, and no document has been produced placing any specific laboratory inside such a programme. Second, and documented, Los Alamos hosted the conference of 16 February 1949 on the green fireballs - the anomalous luminous objects observed repeatedly over northern New Mexico's nuclear installations from December 1948 - attended by Edward Teller and by the University of New Mexico meteoriticist Lincoln LaPaz, whom the Air Force had retained to investigate. LANL's own published account records that the phenomenon was ultimately dismissed as a national security threat, a conclusion that did not prevent the Air Force from standing up Project Twinkle ten months later to instrument it. Los Alamos is thus the first place where American nuclear scientists formally met to discuss unexplained objects over their own facilities, and the meeting is on the laboratory's own record.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 575 of 1057, score 27). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 329 of 1125, score 37). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
-- **Tier 1 documented.** Bechtel Nevada and subsequently National Security Technologies, LLC appear as the management and operating research organisations of record on DOE Nevada Test Site technical reports. Source: OSTI.GOV, Nevada Test Site Environmental Report 2005
-- **Tier 2 named person on the record.** Al O'Donnell, described as the first general manager of EG&G in Nevada 'which managed the Nevada test site,' is the source of the recovered-saucer and live-being account. Source: George Knapp, sworn testimony 9 September 2025 and Liberation Times, 28 February 2023
+- **Tier 1 documented.** A conference on the green fireballs was convened at Los Alamos on 16 February 1949; Edward Teller was among the attendees. Source: Los Alamos National Laboratory historical account
+- **Tier 1 documented.** The 16 February 1949 green fireballs conference was held at Los Alamos Scientific Laboratory and its minutes are held by the National Security Research Center. Source: Los Alamos National Laboratory, 18 November 2024
+- **Tier 1 documented.** The Los Alamos Monitor of Sunday 27 June 1982 carried a front-page story by staff writer Terry England, 'LA Man Joins The Jet Set - At 200 Miles An Hour', pages A1 and A8, about a jet-powered Honda built by Bob Lazar, describing him in the paper's own voice as 'a physicist at the Los Alamos Meson Physics Facility'. This is the earliest dated artefact in the Lazar cluster and it predates the UFO claim by seven years. Source: Los Alamos Monitor, 27 June 1982, A1 and A8, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/, opened 2026-09-18
+- **Tier 3 stated inference.** Los Alamos is one of a very small set of US institutions holding both the compartmentation architecture and the materials characterisation capability a concealed exploitation programme would need; no primary document places it inside one. Reasoning: capability inference stated as such, with the evidentiary gap declared. Source: Inference from DOE laboratory capability and the absence of any primary record
 
 ### Its strongest connections
 
-- Nevada Test Site / Nevada National Security Site comes in from **United States Department of Energy** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: DOE operating authority over the Nevada National Security Site. The Nevada test complex is DOE/NNSA property operated by contract, with its own protective force and clearance regime, and is named repeatedly in retrieval testimony. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
-- Nevada Test Site / Nevada National Security Site comes in from **Atomic Energy Commission** (institution, board tier A), a geographic link at Tier 1 documented. The link reads: Area 51 was added to the Nevada Test Site by the Commission. The same CIA history states that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site, and DNA 6040F separately locates Groom Lake at the northeast corner of the AEC's Nevada Proving Ground. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
-- Nevada Test Site / Nevada National Security Site comes in from **Northrop Grumman Corporation** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: A Northrop Grumman-led consortium took over Nevada Test Site management in 2006. National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; USAspending.gov federal award search (prime contract obligations by recipient), https://www.usaspending.gov/search, dated 2026-08-12.
-- Nevada Test Site / Nevada National Security Site comes in from **Bechtel Nevada Corporation** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Bechtel Nevada held the DOE management and operating contract for the Nevada Test Site 1996-2006. DOE technical reports list Bechtel Nevada as research organisation of record through 2006, succeeded by National Security Technologies, LLC. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01.
-- Nevada Test Site / Nevada National Security Site comes in from **EG&G (Edgerton, Germeshausen and Grier)** (institution, board tier A), a institutional link at Tier 2 named person on the record. The link reads: EG&G was the classified services contractor for the Nevada complex in the testing era. Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08.
+- Los Alamos, New Mexico comes in from **AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959** (document, board tier A), a custody link at Tier 1 documented. The link reads: A copy went to the Los Alamos Scientific Laboratory report library. The distribution list names the Director, Los Alamos Scientific Laboratory, with two attention lines including 'Helen Redman, Report Library'. Sources: AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380, https://archive.org/details/DTIC_AD0425380, dated 1959-06-19.
+- Los Alamos, New Mexico comes in from **Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'** (document, board tier C), a geographic link at Tier 1 documented. The link reads: The newspaper, the facility and the event are all in Los Alamos. A local daily, naming the Los Alamos Meson Physics Facility. Sources: Los Alamos Monitor, 27 June 1982, A1 and A8, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/, dated 1982-06-27.
+- Los Alamos, New Mexico comes in from **Los Alamos Green Fireballs Conference** (event, board tier B), a research link at Tier 2 named person on the record. The link reads: The green fireballs conference was convened at Los Alamos. Edward Teller and Lincoln LaPaz were among the attendees; the laboratory's own account records that the phenomenon was ultimately dismissed as a national security threat. Sources: Wikipedia - White Sands Missile Range, https://en.wikipedia.org/wiki/White_Sands_Missile_Range, dated 2026-08-12.
+- Los Alamos, New Mexico runs out to **White Sands Missile Range, New Mexico** (location, board tier C), a geographic link at Tier 2 named person on the record. The link reads: Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor. The 16 February 1949 conference at Los Alamos and the Project Twinkle instrumented observation effort in southern New Mexico both arose from reporting across this corridor. Sources: Wikipedia - White Sands Missile Range, https://en.wikipedia.org/wiki/White_Sands_Missile_Range, dated 2026-08-12.
+- Los Alamos, New Mexico comes in from **Harald B. Malmgren** (person, board tier C), a temporal link at Tier 3 stated inference. The link reads: Named as the cause of the December 1962 presidential visit. The visit itself is Tier 1 from the Public Papers, dated 7 December 1962 with the Vice President present; the claim that Bluegill Triple Prime prompted it comes only from the family biography and is carried here as a stated inference, not as a documented link. Sources: Pippa Malmgren biography; Public Papers of the Presidents, 7 December 1962, https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico, dated 1962-12-07; Dr. Harald Malmgren Passed, Second Line of Defense, biography by Pippa Malmgren, https://sldinfo.com/2025/02/dr-harald-malmgren-passed/, dated 2025-02-24.
+
+## Vandenberg Space Force Base, California
+
+Vandenberg Space Force Base, California is a location on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1941; axes C1 A2 D2; 5 connections.
+
+In one line: Space Force installation near Lompoc, Santa Barbara County; polar-orbit launch, NRO missions, missile defence sites.
+
+### What it is
+
+Vandenberg, on the Santa Barbara County coast near Lompoc, is the United States' west coast space launch installation: it is where polar and sun-synchronous orbits are reached, where National Reconnaissance Office payloads have long gone up, where ICBM test launches down the Western Range originate, and where ground-based missile defence infrastructure sits. It was an Air Force base until it was redesignated a Space Force base in May 2021. Its place on this board comes from sworn congressional testimony rather than from folklore. Jeffrey Nuccetelli, a sixteen-year Air Force veteran who served in security forces at Vandenberg between roughly 2003 and 2005, testified in writing to the House Oversight Task Force on 9 September 2025 that on 14 October 2003 Boeing contractors reported 'a massive, glowing red square silently hovering over two missile defense sites'; that the same night security personnel described 'a massive rectangular craft, larger than a football field' that hovered silently for about 45 seconds before departing at high speed; that a week later a patrol tracked an object inbound from the ocean that descended and vanished, after which the witness 'was threatened and told to kept quiet about the incident'; and that in 2005 a patrol reported a massive triangular craft hovering low over the main base. Two elements make this the most FOIA-actionable location claim in the modern record: Nuccetelli states that 'Official Air Force records documenting it are now held by AARO and the FBI', naming custodians for specific dated incidents at a named installation, and he states that each incident was 'witnessed by multiple personnel, documented, investigated and reported up the chain of command.' Those records have not been produced.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 376 of 1125, score 35). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** Between August and November 1964 the Air Force ran a light-sensitive telescope deployment in the Los Padres National Forest above Big Sur, about 100 miles north, to photograph launches from Vandenberg into the Air Force Western Test Range, covering nine of eleven launches in three months. The instrument was a borrowed Boston University 24-inch mirror telescope on a modified 5-inch gun mount, owned by the Range Measurements Laboratory of the Air Force Eastern Test Range, using an image orthicon camera tube. Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+- **Tier 1 documented.** The 1369th Photographic Squadron was based here: Robert Jacobs gives his post as 'Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg Air Force Base, California from May, 1963 to May, 1966', and the project engineer independently confirms that Jacobs 'was named the on-site commander by the 1369th Photo Squadron'. Source: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, opened 2026-09-19
+- **Tier 1 documented.** The Atlas launch at the centre of the resulting dispute was nicknamed 'Buzzing Bee' and took place at dawn on 22 September 1964, per the project engineer's published account. Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+- **Tier 2 named person on the record.** 'Official Air Force records documenting it are now held by AARO and the FBI.' Source: Jeffrey Nuccetelli, written testimony, 9 September 2025
+- **Tier 2 named person on the record.** A witness to the follow-on incident approximately one week after 14 October 2003 'was later threatened and told to kept quiet about the incident.' Source: Jeffrey Nuccetelli, written testimony, 9 September 2025
+- **Tier 2 named person on the record.** On 14 October 2003 Boeing contractors at Vandenberg reported a massive, glowing red square silently hovering over two missile defense sites; the same night security personnel described a massive rectangular craft larger than a football field. Source: Jeffrey Nuccetelli, written testimony to the House Oversight Task Force, 9 September 2025
+- **Tier 3 stated inference.** The Vandenberg incidents are the strategic-asset analogue of the naval encounters: same period, same reporting suppression, but over missile defence and national reconnaissance launch infrastructure, with a named custodian for the records. Reasoning: comparison of the Nuccetelli testimony with the 2004 Nimitz record. Source: Inference from the Nuccetelli testimony and the Navy range fouler reporting
+
+### Its strongest connections
+
+- Vandenberg Space Force Base, California runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: The Vandenberg incidents entered the congressional record in September 2025. Nuccetelli named AARO and the FBI as custodians of the official Air Force records for specific dated incidents at a named installation - a checkable custody claim Congress has not pursued to production. Sources: Jeffrey Nuccetelli written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf, dated 2025-09-09; House Oversight hearing page, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09.
+- Vandenberg Space Force Base, California comes in from **Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload** (program, board tier B), a geographic link at Tier 1 documented. The link reads: Polar launches were to fly from Vandenberg on the Titan-IIIM. Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article. Sources: 55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/, dated 2024-06-11.
+- Vandenberg Space Force Base, California comes in from **Big Sur missile-test filming, September 1964** (event, board tier B), a geographic link at Tier 1 documented. The link reads: Coverage of Vandenberg launches from a site about 100 miles north. The Big Sur site gave a side-look at launches into the Western Test Range that local telephoto coverage at Vandenberg could not, because of prevailing fog. Sources: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
+- Vandenberg Space Force Base, California comes in from **Robert M. Jacobs** (person, board tier B), a geographic link at Tier 1 documented. The link reads: 1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966. His own published statement of his post, independently confirmed as to unit and role by the project engineer. Sources: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, dated 1989-01; Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
+- Vandenberg Space Force Base, California comes in from **Jeffrey Nuccetelli** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Nuccetelli served in security forces at Vandenberg 2003-2005. His sworn written testimony of 9 September 2025 describes the 14 October 2003 red square over two missile defense sites, a rectangular craft larger than a football field, a threatened witness, and a 2005 triangular craft. Sources: Jeffrey Nuccetelli written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf, dated 2025-09-09; House Oversight hearing page, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09.
 
 ## Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload
 
@@ -2368,7 +2578,7 @@ A fully documented case of a real programme carrying a second, classified progra
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 207 of 1057, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 230 of 1125, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -2381,14 +2591,14 @@ Re-graded B on a global pass (rank 207 of 1057, score 43). 5 connections, 2 of t
 ### Its strongest connections
 
 - Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **United States Air Force** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: MOL was the Air Force's public programme. MOL was the Air Force's public programme and the service that selected and trained the seventeen officers. Sources: Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf, dated 2019-05-01.
+- Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **National Aeronautics and Space Administration** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: After cancellation the younger MOL astronauts transferred to NASA. After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record. Sources: 55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/, dated 2024-06-11.
 - Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **National Reconnaissance Office** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: The NRO ran the DORIAN payload inside the Air Force programme. The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015. Sources: Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf, dated 2019-05-01.
-- Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **National Aeronautics and Space Administration** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: After cancellation the younger MOL astronauts transferred to NASA. After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record. Sources: 55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/, dated 2024-06-11.
-- Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **Vandenberg Space Force Base, California** (location, board tier C), a geographic link at Tier 1 documented. The link reads: Polar launches were to fly from Vandenberg on the Titan-IIIM. Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article. Sources: 55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/, dated 2024-06-11.
+- Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **Vandenberg Space Force Base, California** (location, board tier B), a geographic link at Tier 1 documented. The link reads: Polar launches were to fly from Vandenberg on the Titan-IIIM. Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article. Sources: 55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/, dated 2024-06-11.
 - Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload runs out to **Secrecy Architecture** (domain, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: A worked example of compartmentation: one workforce, two programmes. A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it. Sources: Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf, dated 2019-05-01.
 
 ## MIT Lincoln Laboratory
 
-MIT Lincoln Laboratory is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1951; axes C2 A3 D2; 5 connections.
+MIT Lincoln Laboratory is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1951; axes C2 A3 D2; 5 connections.
 
 In one line: FFRDC, est. 1951; Air Force sponsored.
 
@@ -2398,7 +2608,7 @@ Lincoln Laboratory is MITRE's parent and the first FFRDC in this domain to have 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 156 of 1057, score 49). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 170 of 1125, score 49). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -2435,7 +2645,7 @@ Status as of 12 August 2026. Statutory basis: FY2024 NDAA, P.L. 118-31, sections
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 293 of 1057, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 322 of 1125, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2465,7 +2675,7 @@ Three unclassified U.S. Navy infrared targeting-pod recordings, one captured in 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 213 of 1057, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 237 of 1125, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -2493,7 +2703,7 @@ What Congress actually enacted is a records-transfer statute with the enforcemen
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 154 of 1057, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 168 of 1125, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2526,7 +2736,7 @@ The National Defense Authorization Act for Fiscal Year 2026 was approved on 18 D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 69 of 1057, score 70). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 74 of 1125, score 70). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2562,7 +2772,7 @@ The command responsible for detecting and defeating air threats to North America
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 496 of 1057, score 29). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 539 of 1125, score 29). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -2578,34 +2788,6 @@ Re-graded B on a global pass (rank 496 of 1057, score 29). 5 connections, 0 of t
 - NORAD and US Northern Command comes in from **Langley AFB Drone Incursions (December 2023)** (event, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Centrepiece of Guillot's 90-day counter-UAS assessment. Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review. Sources: The War Zone - mysterious drones swarmed Langley AFB for weeks, https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks, dated 2024-03-15; The War Zone - NORAD commander on the Langley incursions, https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions, dated 2024-10-30.
 - NORAD and US Northern Command comes in from **Gregory M. Guillot** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Commander, NORAD and USNORTHCOM from February 2024. Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position. Sources: The War Zone - NORAD commander on the Langley incursions, https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions, dated 2024-10-30; The War Zone - US battled drone incursions over key bases after Epic Fury, https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury, dated 2026-03-25.
 
-## Northrop Grumman Corporation
-
-Northrop Grumman Corporation is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1994; axes C2 A3 D0; 5 connections.
-
-In one line: Prime contractor; B-2/B-21; former Nevada Test Site management partner.
-
-### What it is
-
-Northrop Grumman is one of the three companies Senate investigator Richard D'Amato is reported to have identified as the kind of private entity inside which a UFO cover-up could feasibly be held, alongside Lockheed Martin and EG&G. Its documented government relationship spans stealth bomber development at the deepest classification levels - the B-2 and now the B-21 Raider, built at Air Force Plant 42 - national security space, and, materially for this domain, the Nevada complex: from 2006 to 2017 the Nevada Test Site was managed and operated by National Security Technologies LLC, a Northrop Grumman-led consortium that succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory and Special Technologies Laboratory and the classified support infrastructure adjacent to the Groom Lake operating location. USAspending records tens of billions of dollars in prime contract obligations to Northrop Grumman Systems Corporation since FY2008. No sworn witness has named Northrop Grumman as a holder of material; it appears in this domain through D'Amato's reported assessment, through its stewardship of the Nevada infrastructure, and through the general allegation that material is distributed across primes by technical domain.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 424 of 1057, score 32). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** National Security Technologies LLC, a Northrop Grumman-led consortium, succeeded Bechtel Nevada as management and operating contractor for the Nevada Test Site from 2006. Source: DOE/OSTI records listing Bechtel Nevada and National Security Technologies, LLC as successive Nevada Test Site research organisations
-- **Tier 1 documented.** USAspending records prime contract obligations to Northrop Grumman Systems Corporation in the tens of billions of dollars since FY2008. Source: USAspending.gov recipient search, retrieved 12 August 2026
-- **Tier 3 stated inference.** Senate Appropriations investigator Richard D'Amato is reported to have considered it 'entirely feasible' that the cover-up sat inside a private company such as Lockheed Martin, EG&G or Northrop Grumman. Reasoning: reported at second hand by George Knapp; D'Amato's own public statement says the inquiry found nothing meriting further investigation. Source: George Knapp via Liberation Times, 28 February 2023
-
-### Its strongest connections
-
-- Northrop Grumman Corporation comes in from **The MITRE Corporation** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named among the primes whose MITRE-related work Congress demanded an accounting of. Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos. Sources: DefenseScoop, https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/, dated 2026-05-27.
-- Northrop Grumman Corporation comes in from **TRW Inc.** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Merged into a Northrop Grumman subsidiary, 11 December 2002. Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology. Sources: Northrop Grumman Corporation, Form 8-K, event 11 December 2002, https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm, dated 2002-12-20.
-- Northrop Grumman Corporation runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier C), a institutional link at Tier 1 documented. The link reads: A Northrop Grumman-led consortium took over Nevada Test Site management in 2006. National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; USAspending.gov federal award search (prime contract obligations by recipient), https://www.usaspending.gov/search, dated 2026-08-12.
-- Northrop Grumman Corporation comes in from **Eric Burlison** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Named as a target of his records investigation. Same statement of 14-16 May 2026. Sources: The Hill: House Republican requests UFO talk from private contractor, https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/, dated 2026-05-16.
-- Northrop Grumman Corporation comes in from **UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)** (document, board tier B), a funding link at Tier 2 named person on the record. The link reads: Alleges IRAD self-funding of a breakaway programme after 9/11. The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
-
 ## Oak Ridge National Laboratory (UT-Battelle, LLC)
 
 Oak Ridge National Laboratory (UT-Battelle, LLC) is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1943; axes C3 A2 D1; 5 connections.
@@ -2618,7 +2800,7 @@ Oak Ridge is where the modern government sent the material. In 2022 the All-doma
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 143 of 1057, score 51). 7 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 154 of 1125, score 51). 7 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -2652,7 +2834,7 @@ MOON DUST was the US Air Force codeword for the collection and exploitation of o
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 133 of 1057, score 53). 5 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 145 of 1125, score 53). 5 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -2681,7 +2863,7 @@ Project SIGN was the first official United States Air Force investigation of uni
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 160 of 1057, score 48). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 176 of 1125, score 48). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -2710,7 +2892,7 @@ The fifth and most recent tranche, published 7 August 2026: 41 files comprising 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 119 of 1057, score 55). 5 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 124 of 1125, score 55). 5 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2731,7 +2913,7 @@ Re-graded A on a global pass (rank 119 of 1057, score 55). 5 connections, 5 of t
 
 ## Reid Letter to DEPSECDEF Requesting Restricted SAP Status
 
-Reid Letter to DEPSECDEF Requesting Restricted SAP Status is a document on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2009; axes C2 A3 D3; 5 connections.
+Reid Letter to DEPSECDEF Requesting Restricted SAP Status is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2009; axes C2 A3 D3; 5 connections.
 
 In one line: Senator Harry Reid to William J. Lynn III, 24 June 2009.
 
@@ -2741,7 +2923,7 @@ Three pages on Senate letterhead that are, in the board's judgement, the most co
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 155 of 1057, score 49). 5 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 169 of 1125, score 49). 5 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2774,7 +2956,7 @@ Grade it honestly. This is a corporate research institute that studied gravitati
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 746 of 1057, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 793 of 1125, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -2807,7 +2989,7 @@ The single most valuable unreleased document on this board. It exists. It has ex
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 106 of 1057, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 109 of 1125, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -2842,7 +3024,7 @@ The SAPOC was established on 5 January 1994, not in 2010. A Deputy Secretary of 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 108 of 1057, score 58). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 111 of 1125, score 58). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -2877,7 +3059,7 @@ The Scientific Coalition for UAP Studies describes itself as 'a think tank of sc
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 689 of 1057, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 733 of 1125, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2906,7 +3088,7 @@ Two Imperial Iranian Air Force F-4 Phantoms were scrambled from Shahrokhi AFB in
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 246 of 1057, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 275 of 1125, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2921,7 +3103,7 @@ Re-graded B on a global pass (rank 246 of 1057, score 40). 5 connections, 2 of t
 - Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976 runs out to **Defense Intelligence Agency** (institution, board tier A), a custody link at Tier 1 documented. The link reads: Addressee of the report and the agency whose 1996 search located it as the single responsive document. DIA is the addressee of the report and the agency whose 1996 records search located it as the single responsive document. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
 - Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976 runs out to **John Greenewald Jr.** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Requester of the 1996 FOIA that produced the release. Greenewald's FOIA request of 11 August 1996 produced the release, and DIA's response to him is the record of how much DIA holds. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
 - Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976 runs out to **National Security Agency** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: An information addressee on the report's own distribution list. NSA Washington is an information addressee on the report's own distribution list. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
-- Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976 runs out to **The Black Vault** (institution, board tier C), a custody link at Tier 1 documented. The link reads: Host of the released report and its covering letter. The Black Vault hosts the released document and its covering letter. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
+- Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976 runs out to **The Black Vault** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Host of the released report and its covering letter. The Black Vault hosts the released document and its covering letter. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
 - Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976 runs out to **Belgian Air Force F-16 intercept and the 1989-90 Belgian wave** (event, board tier B), a research link at Tier 2 named person on the record. The link reads: The same shape fourteen years later: a foreign air force intercept inside an allied intelligence file. The same shape fourteen years later: a foreign air force intercept documented inside a US or allied intelligence file rather than by the flying service. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
 
 ## The Intercept
@@ -2936,7 +3118,7 @@ The Intercept is an investigative news organisation founded in 2014 and built ar
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 948 of 1057, score 13). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 1007 of 1125, score 13). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2965,7 +3147,7 @@ The second executive action of 2026 and the one that goes to witnesses rather th
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 220 of 1057, score 42). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 246 of 1125, score 42). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2997,7 +3179,7 @@ The Review Board is the JFK Records Act transplant at the centre of the UAPDA an
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 110 of 1057, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 113 of 1125, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -3026,7 +3208,7 @@ Section 1152 of the National Defense Authorization Act for Fiscal Year 1994, Pub
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 94 of 1057, score 64). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 96 of 1125, score 64). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3062,7 +3244,7 @@ On 15 February 2023 at approximately 1915 PST in Warning Area W-291 off Southern
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 654 of 1057, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded C on a global pass (rank 700 of 1125, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -3090,7 +3272,7 @@ AARO's public posture in the current cycle is defined by what its own homepage d
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 474 of 1057, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 514 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3118,7 +3300,7 @@ The first statutory annual report, published 25 October 2023 covering 31 August 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 278 of 1057, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.
+Re-graded B on a global pass (rank 308 of 1125, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -3152,7 +3334,7 @@ This is the money. Contract HHM402-08-C-0072, awarded 22 September 2008 by the D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 145 of 1057, score 51). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 156 of 1125, score 51). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -3185,21 +3367,24 @@ The Bennewitz operation is the only place in this domain where the state's metho
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 262 of 1057, score 39). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 209 of 1125, score 44). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
 - **Tier 1 documented.** AARO's 'Report on the Historical Record of U.S. Government Involvement with UAP, Volume I' (March 2024) contains no mention of Kirtland AFB, AFOSI, Paul Bennewitz or Richard Doty anywhere in its text. Source: AARO Historical Record Report Volume I, DOPSR-2024-0263, 8 Mar 2024 - full-text review
 - **Tier 1 documented.** An AFOSI record dated 10 November 1980 documents Kirtland AFB security police observations of unexplained aerial objects in the Coyote Canyon / Manzano Weapons Storage Area and notes Paul Bennewitz's photographic and reporting activity. Source: AFOSI Kirtland AFB complaint-form record, 10 Nov 1980, released under FOIA
+- **Tier 1 documented.** The complaint form is reproduced in full by NICAP from the CUFON archive and carries on its face: AFOSI Det 1700, Kirtland AFB, New Mexico; District File No. 8017D93-0/29; and 'Richard C Doty, SA'. Named observers with units and clock times: SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier, all 1608 Security Police Squadron, at approximately 2350 hrs on 8 August 1980; an unnamed Sandia security guard at approximately 0020 hrs on 9 August 1980 who requested anonymity; three further security policemen on 22 August 1980; and a New Mexico State Patrolman on 10 August 1980. Source: AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, opened 2026-09-19
 - **Tier 2 named person on the record.** Richard Doty, the AFOSI agent associated with the Kirtland file, has publicly stated that he supplied false documents and information to Bennewitz as part of his official duties. Source: Richard Doty, on-record documentary and press interviews
+- **Tier 3 stated inference.** A DATE DISCREPANCY THAT SHOULD BE RESOLVED RATHER THAN SILENTLY PICKED. The board's existing Tier 1 claim gives the complaint form's date as 9 September 1980. The NICAP page as rendered to this session gives '2-9 Sept 80'. The file number, the agent and the observers match exactly in both. The original scan was not read. Reasoning: two dates for one artefact is a defect a later pass should close by reading the image, not by preferring one. Source: Comparison of the board's existing claim with the NICAP reproduction, https://www.nicap.org/foia_003.htm, checked 2026-09-19
 
 ### Its strongest connections
 
-- AFOSI Kirtland AFB UFO File (1980-1983) runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a institutional link at Tier 1 documented. The link reads: AFOSI District 17 file generated at Kirtland AFB. The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
-- AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Air Force Office of Special Investigations** (institution, board tier B), a custody link at Tier 1 documented. The link reads: AFOSI is the originating agency of the released Kirtland UFO file. The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Richard C. Doty** (person, board tier A), a research link at Tier 1 documented. The link reads: Named on the complaint form as the special agent who filed it. The form carries 'Richard C Doty, SA' under AFOSI Det 1700, Kirtland AFB, District File No. 8017D93-0/29. Typed research as the producer of a document, never custody. This is the Tier 1 source for his AFOSI service and should replace any interview-sourced claim of it. Sources: AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, dated 2026-09-19.
+- AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Air Force Office of Special Investigations** (institution, board tier A), a custody link at Tier 1 documented. The link reads: AFOSI is the originating agency of the released Kirtland UFO file. The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
 - AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Paul Frederick Bennewitz** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Bennewitz's reporting generated the AFOSI Kirtland file. The 10 November 1980 AFOSI record documents Kirtland security police observations of unexplained objects over Coyote Canyon and notes Bennewitz's photography and reporting. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+- AFOSI Kirtland AFB UFO File (1980-1983) runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a institutional link at Tier 1 documented. The link reads: AFOSI District 17 file generated at Kirtland AFB. The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
+- AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Richard C. Doty** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Doty was the AFOSI special agent associated with the Kirtland UFO file. Doty served in AFOSI at Kirtland from 1979 and is the agent identified with the Kirtland UFO documents and with the subsequent contact with Bennewitz and Howe. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
 - AFOSI Kirtland AFB UFO File (1980-1983) runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a custody link at Tier 2 named person on the record. The link reads: The AFOSI Kirtland file is the documentary residue of the Bennewitz operation. The AFOSI documents concerning the 1980 Kirtland incidents are the only contemporaneous official records of the observations that triggered the campaign against Bennewitz. Sources: Wikipedia - Kirtland Air Force Base, https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base, dated 2026-08-12.
-- AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Richard C. Doty** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Doty was the AFOSI special agent associated with the Kirtland UFO file. Doty served in AFOSI at Kirtland from 1979 and is the agent identified with the Kirtland UFO documents and with the subsequent contact with Bennewitz and Howe. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
 
 ## Air Force Regulation 200-2
 
@@ -3213,7 +3398,7 @@ AFR 200-2, 'Unidentified Flying Objects Reporting', is the internal Air Force re
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 196 of 1057, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.
+Re-graded B on a global pass (rank 215 of 1125, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -3247,7 +3432,7 @@ The Age of Disclosure premiered at SXSW in Austin on 9 March 2025 and is the hig
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 803 of 1057, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 853 of 1125, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3262,6 +3447,66 @@ Re-graded C on a global pass (rank 803 of 1057, score 19). 4 connections, 0 of t
 - The Age of Disclosure (documentary, 2025) comes in from **UAP Gerb - 'The Hidden Wing' (USAF structure)** (document, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Gerb cites the film's characterisation of the Air Force. The Hidden Wing description notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure', using the film as a corroborating reference. Sources: UAP Gerb - 'The Hidden Wing', https://www.youtube.com/watch?v=-IXSZe4xVv4, dated 2026-01-30.
 - The Age of Disclosure (documentary, 2025) comes in from **Dan Farah** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Director and producer. Farah directed and produced the film that premiered at SXSW on 9 March 2025. Sources: The Age of Disclosure - trailer, https://www.youtube.com/watch?v=DkU7ZqbADRs, dated 2025-03-09.
 
+## Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)
+
+Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994) is a document on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1994; axes C0 A0 D0; 4 connections.
+
+In one line: The five-page Classical and Quantum Gravity letter that is the origin of every warp-drive claim in the field, and which states in its own abstract that exotic matter will be needed.
+
+### What it is
+
+THE PAPER STATES A REQUIREMENT AND NOT A CAPABILITY, AND IT SAYS SO IN ITS OWN ABSTRACT. Miguel Alcubierre, then at the Department of Physics and Astronomy, University of Wales, College of Cardiff, showed that a spacetime metric can be written which expands space behind a spaceship and contracts it in front, allowing arbitrarily large apparent speed to outside observers while the ship stays on a timelike trajectory inside its own light cone. He then computed what would be required to source that metric and reported the answer against himself: the metric 'violates all three energy conditions (weak, dominant and strong)', the energy density seen by Eulerian observers 'is everywhere negative', and 'one needs exotic matter to travel faster than the speed of light'. THE WORD 'DEVICE' APPEARS ZERO TIMES IN THE PAPER. The word 'propulsion' appears once, in the sentence naming the idea after science fiction. There is no apparatus, no engine, no method of construction and no experiment. The node exists because the paper is cited throughout the UAP literature as though it described an engineering programme, and because DIA paid for a Defense Intelligence Reference Document built on it. Citing this paper as evidence that a craft could do this is citing a requirement as though it were a capability, which is this strand's pattern in its purest form: unlike the other instances, it is not even a misreading, because the abstract says plainly that exotic matter will be needed.
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 826 of 1125, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+
+### The claims on the record
+
+- **Tier 1 documented.** His closing paragraph, verbatim: 'As a final comment, I will just mention the fact that even though the spacetime described by the metric (8) is globally hyperbolic, and hence contains no closed causal curves, it is probably not very difficult to construct a spacetime that does contain such curves using a similar idea to the one presented here.' Source: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013, opened 2026-09-19
+- **Tier 1 documented.** His own conclusion, verbatim: 'We see then that, just as it happens with wormholes, one needs exotic matter to travel faster than the speed of light. However, even if one believes that exotic matter is forbidden classically, it is well known that quantum field theory permits the existence of regions with negative energy densities in some special circumstances (as, for example, in the Casimir effect). The need of exotic matter therefore doesn't necessarily eliminate the possibility of using a spacetime distortion like the one described above for hyper-fast interstellar travel.' Source: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013, opened 2026-09-19
+- **Tier 1 documented.** THE ABSTRACT, VERBATIM AND IN FULL: 'It is shown how, within the framework of general relativity and without the introduction of wormholes, it is possible to modify a spacetime in a way that allows a spaceship to travel with an arbitrarily large speed. By a purely local expansion of spacetime behind the spaceship and an opposite contraction in front of it, motion faster than the speed of light as seen by observers outside the disturbed region is possible. The resulting distortion is reminiscent of the "warp drive" of science fiction. However, just as it happens with wormholes, exotic matter will be needed in order to generate a distortion of spacetime like the one discussed here.' Source: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013, opened 2026-09-19
+- **Tier 1 documented.** THE REQUIREMENT, IN ALCUBIERRE'S OWN WORDS: 'The metric I have just described has one important drawback, however: it violates all three energy conditions (weak, dominant and strong). Both the weak and the dominant energy conditions require the energy density to be positive for all observers.' Having given the expression for the energy density the Eulerian observers see, he writes: 'The fact that this expression is everywhere negative implies that the weak and dominant energy conditions are violated. In a similar way one can show that the strong energy condition is also violated.' Source: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013, opened 2026-09-19
+- **Tier 1 documented.** THE ZERO-COUNT, WHICH IS WHAT THIS NODE EXISTS TO CARRY. Word counts over the complete 10-page text: 'device' 0, 'how to' 0, 'propulsion' 1. The single occurrence of 'propulsion' is the sentence 'A propulsion mechanism based on such a local distortion of spacetime just begs to be given the familiar name of the "warp drive" of science fiction.' The paper contains no apparatus, no engine and no method of construction. THIS IS EVIDENCE ABOUT WHAT THE PAPER SAYS AND IS NOT EVIDENCE THAT THE EFFECT IS IMPOSSIBLE. Source: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013, opened 2026-09-19
+- **Tier 3 stated inference.** THE BOARD OWNER'S OWN RULING, RECORDED AS HIS AND AS NOTHING ELSE. Stewart, 18 September 2026, rules Alcubierre-style metric engineering out on his own reasoning: locally bending spacetime above a building would have effects nobody could conceal. This is not a finding of any research session and no document opened for this node supports or contradicts it. It is carried at Tier 3, stated inference, attributed to him by name and date. Source: Board owner's framing of 18 September 2026, recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 3
+
+### Its strongest connections
+
+- Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994) runs out to **Antigravity for Aerospace Applications** (document, board tier A), a research link at Tier 1 documented. The link reads: Reference [43] of the antigravity DIRD, and its only appearance in that document. Cited once, in the reference list. Recorded because the count matters to this board: in a 45-page government survey of antigravity, the warp paper appears once and Thomas Townsend Brown does not appear at all. Sources: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77, https://arxiv.org/abs/gr-qc/0009013, dated 1994; Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2010-03-30.
+- Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994) comes in from **NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)** (document, board tier B), a research link at Tier 1 documented. The link reads: NASA's assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered. DELIBERATELY NOT A DENIAL EDGE. NASA does not contradict the paper; it agrees with it and restates its requirement in engineering terms. Section 3.3.1: these concepts 'require enormous quantities of "negative energy" (equivalent mass of planets or suns)' and are 'extremely unlikely to be engineered'. Alcubierre's own abstract says exotic matter will be needed. Writing this as a denial would misrepresent both documents. Sources: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, dated 2004.
+- Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994) runs out to **Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions** (document, board tier B), a research link at Tier 1 documented. The link reads: Reference 1 of the DIRD, and the source of the idea it builds on. The DIRD prints the citation as 'Alcubierre, M., "The warp drive: hyper-fast travel within general relativity." Classical and Quantum Gravity, vol. 11, 1994, pp. L73-L77' and states in its introduction that the 1994 paper 'placed the idea on a more solid theoretical footing'. Sources: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77, https://arxiv.org/abs/gr-qc/0009013, dated 1994; Defense Intelligence Reference Document DIA-08-1004-001, 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2010-04-02.
+- Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994) runs out to **Exotic Technology & Physics** (domain, board tier B), a research link at Tier 2 named person on the record. The link reads: The origin document of the field's metric-engineering claims. THE NOTE IS THE POINT. The paper itself is mainstream general relativity in a mainstream journal and nothing about it is exotic or disputed. It sits in this domain because of what is claimed FOR it, not because of what is in it: the word 'device' appears zero times in ten pages. Sources: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77, https://arxiv.org/abs/gr-qc/0009013, dated 1994.
+
+## ARVP (arvp.co.uk), the Flux Liner project site
+
+ARVP (arvp.co.uk), the Flux Liner project site is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2024; axes C0 A0 D3; 4 connections.
+
+In one line: Anonymously operated British website hosting the Scott 1990 notes and the McCandlish coroner's file; publishes and sells a 3D reconstruction.
+
+### What it is
+
+The custody node for two of the three primary documents in this thread, in the same role the board already gives the-black-vault, and with two differences the node has to say out loud. Its owner is unnamed: no author, no organisation and no copyright or licence statement appears anywhere on the pages opened, only an icloud.com address and a credit to a site builder. And it sells what it publishes. Its 3D reconstruction is the site operator's own work, built from the 2001 testimony and from McCandlish's later talks and podcast appearances rather than from the original drawing, which the page says could not be obtained; prints of that reconstruction are on sale at 30.00 each with no licence terms stated. Its TECH page then sets out a theory of operation that is not McCandlish's and is sourced to nobody in this thread. A reader who takes the site as a source on the 1990 account is reading two different things bound together.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 447 of 1125, score 32). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** The 3D reconstruction is the site operator's own work, built from secondary material and not from the original drawing. The page states: 'This is my 3D recreation of the craft they described. I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos', and, for a second version, 'using measurements from the original sketches and information provided by Mark from online live streams and podcast apperences.' Source: https://www.arvp.co.uk/flux-01/, read 2026-09-18
+- **Tier 1 documented.** The page states that the original McCandlish artwork could not be obtained: 'Fascinated by this story I tried to find an original copy of Mark's work to buy. Unfortunately, now that Mark has passed on it's impossible to get hold of. I imagine that Steven Greer may have it or at least a copy.' Source: https://www.arvp.co.uk/flux-01/, read 2026-09-18
+- **Tier 1 documented.** The renders are sold. The shop lists three products, 'ARV_2009', 'Fluxliner full colour' and 'Fluxliner Illustrated', at 30.00 each, with no licence terms stated. Source: https://www.arvp.co.uk/shop/, read 2026-09-18
+- **Tier 1 documented.** The site is the host of two of the three primary documents in this thread: the Scott 1990 interview notes, under the link text 'SORENSEN 1990 INTERVIEW' with a Download button, and the McCandlish coroner's file, under the link text 'Coroner's report on Mark MaCandlish's death' pointing at a Google Drive item named 'C21-0324 McCandlish.pdf'. Source: https://www.arvp.co.uk/flux-01/, read 2026-09-18
+- **Tier 1 documented.** The site names no owner, author or organisation anywhere on the pages opened. Its footer gives only 'Email: Flux_liners@icloud.com', a 'Privacy Policy' link and 'Site by Blueqube' pointing at https://blueqube.org.uk . It carries no copyright notice and no licence statement of any kind on the FLUX 1988, TECH or SHOP pages. Source: https://www.arvp.co.uk/flux-01/ and https://www.arvp.co.uk/shop/, read 2026-09-18
+- **Tier 3 stated inference.** The site's own stated theory of how the craft works is not McCandlish's and is not sourced to him. Its TECH page lists 'Magnetohydrodynamics', 'Quasicrystals', 'Einstein-Rosen bridge theory', 'The Hutchinson effect' and 'Levels of consciousness' among 'Our current lines of thinking', and leans on Bob Greenyer of the Martin Fleischmann Memorial Project, a Lockheed Martin matterwave patent, Thomas Bearden and Malcolm Bendall. A reader who takes the site as a source on the 1990 account is reading two different things bound together. Source: https://www.arvp.co.uk/tech/, read 2026-09-18
+
+### Its strongest connections
+
+- ARVP (arvp.co.uk), the Flux Liner project site runs out to **Mark McCandlish** (person, board tier A), a custody link at Tier 1 documented. The link reads: Hosts his coroner's file and publishes a reconstruction built from his talks. The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement. Sources: arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18; Shasta County Sheriff-Coroner, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view, dated 2021-06-21.
+- ARVP (arvp.co.uk), the Flux Liner project site runs out to **TR-3B 'Astra', claimed black triangular aircraft** (program, board tier A), a research link at Tier 1 documented. The link reads: ARVP carries a TR-3B page and routes its readers to the Fouche file. Mirrors the board's existing arvp-fluxliner-project to arv-fluxliner research edge. The site is evidence of what the site says and of nothing else: its own characterisations are the anonymous owner's opinion, most of the page is its owner's visual-effects assessment of a video, and it mis-assigns the 'he lied' finding to Jeremy Rys when the only opened account attributes that video to David Hilton and says its screen could not be read. Sources: ARVP, 'Black Triangle (TR3b)', the page named in research/leads/CANDIDATES-2026-09-18-ARVP.md, https://www.arvp.co.uk/black-triangle-tr3b/, dated 2026-09-18.
+- ARVP (arvp.co.uk), the Flux Liner project site runs out to **Alien Reproduction Vehicle (ARV) / Flux Liner** (program, board tier A), a research link at Tier 1 documented. The link reads: Publishes a 3D reconstruction of the claimed craft and sells prints of it. The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated. Sources: arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18; arvp.co.uk, SHOP page, https://www.arvp.co.uk/shop/, dated 2026-09-18.
+- ARVP (arvp.co.uk), the Flux Liner project site comes in from **William B. Scott's interview notes on 'Brad', 3 December 1990** (document, board tier B), a custody link at Tier 1 documented. The link reads: The only opened copy of the notes is the scan that site hosts. The PDF sits under /wp-content/uploads/2024/12/ on arvp.co.uk with /CreationDate 'D:20241017132510'. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11; arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18.
+
 ## Atomic Energy Act of 1946 (McMahon Act)
 
 Atomic Energy Act of 1946 (McMahon Act) is a legislation on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1946-08-01; axes C2 A3 D1; 4 connections.
@@ -3274,7 +3519,7 @@ The Atomic Energy Act of 1946 is where classification by category enters United 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 198 of 1057, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 217 of 1125, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3304,7 +3549,7 @@ In March 1990 the Belgian Air Force scrambled F-16 fighters against objects repo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 216 of 1057, score 42). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 241 of 1125, score 42). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3322,6 +3567,40 @@ Re-graded B on a global pass (rank 216 of 1057, score 42). 4 connections, 1 of t
 - Belgian Air Force F-16 intercept and the 1989-90 Belgian wave runs out to **DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew** (document, board tier C), a custody link at Tier 1 documented. The link reads: The Belgian material sits in named DEFE 24 pieces. The National Archives' guide places the Belgian Air Force's November 1993 statement at DEFE 24/1970 pages 86 to 87 and de Brouwer's four-page account at DEFE 24/1960 pages 320 to 324, with further references in DEFE 24/1962 and DEFE 24/1965. Sources: TNA Highlights Guide, August 2009 tranche, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf, dated 2009-08-17.
 - Belgian Air Force F-16 intercept and the 1989-90 Belgian wave comes in from **Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976** (event, board tier B), a research link at Tier 2 named person on the record. The link reads: The same shape fourteen years later: a foreign air force intercept inside an allied intelligence file. The same shape fourteen years later: a foreign air force intercept documented inside a US or allied intelligence file rather than by the flying service. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
 
+## Big Sur missile-test filming, September 1964
+
+Big Sur missile-test filming, September 1964 is a event on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1964-08 to 1964-11; axes C0 A1 D2; 4 connections.
+
+In one line: An Air Force image-orthicon telescope deployment above Big Sur covering Vandenberg launches from August to November 1964, and the subject of two published first-person accounts that agree on who was there and disagree on what was filmed.
+
+### What it is
+
+THE RAREST EVIDENTIARY SHAPE IN THIS CLUSTER: TWO PARTICIPANTS, BOTH PUBLISHED UNDER THEIR OWN NAMES, AGREEING ABOUT THE FACTS OF THE DEPLOYMENT AND DISAGREEING ABOUT ITS PRODUCT. The Air Force placed a borrowed 24-inch Boston University telescope, mounted on a modified five-inch gun mount and fitted with an image orthicon television camera tube, at about 4,000 feet in the Los Padres National Forest above Big Sur, and covered nine of eleven Vandenberg launches between August and November 1964. Lt. Robert Jacobs, named on-site commander by the 1369th Photographic Squadron, published in January 1989 that the resulting film showed a saucer-shaped object circling an Atlas warhead and firing a beam at it. Kingston A. George, the project engineer, published in Winter 1993 that the event was at dawn on 22 September 1964 on a launch nicknamed 'Buzzing Bee', that what was recorded was decoy and chaff deployment giving away the false status of the decoys, that the classified alarm which followed concerned the vulnerability of a weapons system rather than anything extraterrestrial, that Jacobs was not authorised to view the imagery, and that the film was destroyed long before its twelve-year declassification date. George cites a contemporaneous internal document by title and date, which is the best unopened lead this pass produced.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 314 of 1125, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** A contemporaneous internal document is cited by title and date: 'George, Kingston A. 1964. Preliminary Report on Image Orthicon Photography from Big Sur. Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, October 13.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+- **Tier 1 documented.** The date and the launch, per the project engineer: 'Dawn on September 22, 1964', on 'an Atlas launch nicknamed Buzzing Bee before sunup'. Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+- **Tier 1 documented.** The deployment: 'The United States Air Force conducted a test of a special light-sensitive telescope high up in the coastal mountains in the Los Padres National Forest above Big Sur, California, between August and November 1964. The objective was to collect low-light-level photography of missile launches into the Air Force Western Test Range from Vandenberg Air Force Base, situated a little over 100 miles to the south... Nine of eleven launches from Vandenberg were successfully covered during the three-month deployment.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+- **Tier 1 documented.** The film's fate: 'The Top Secret film was marked for downgrading and declassification after 12 years, but its utility was over after a few months... the film and related materials were all destroyed long before the 12 years were up.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+- **Tier 1 documented.** The instrument: a 24-inch mirror telescope 'built in the 1950s on a modified 5-inch gun mount by Boston University under government contract', owned and operated by the Range Measurements Laboratory of the Air Force Eastern Test Range, using an image orthicon television camera tube. Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+- **Tier 1 documented.** The project engineer confirms the other participant's role: 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+- **Tier 2 named person on the record.** The claimant's account, published in January 1989: an object that 'maneuvered around' the warhead package, 'emitted four distinct bright flashes of light at approximately the 4 cardinal compass points of its orbit', and a warhead that 'malfunctioned and tumbled out of suborbit hundreds of miles short of its target'. His own dating is uncertain: 'most probably either September 2nd, 3rd, or 15th, 1964'. Source: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, opened 2026-09-19
+- **Tier 2 named person on the record.** The counter-explanation: 'two decoys were fired off by small rocket charges on schedule, but some of the decoy packing material also trailed along and could be seen optically and also by certain kinds of radar. A little cloud of debris around each decoy warhead clearly gave away the false status, almost as well as coloring the decoys bright red.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
+
+A further 1 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- Big Sur missile-test filming, September 1964 runs out to **United States Air Force** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: An Air Force telescope deployment covering Air Force Western Test Range launches. Instrument owned by the Range Measurements Laboratory of the Air Force Eastern Test Range; nine of eleven Vandenberg launches covered; the resulting film classified Top Secret on a weapons-vulnerability rationale and later destroyed. Sources: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
+- Big Sur missile-test filming, September 1964 runs out to **Vandenberg Space Force Base, California** (location, board tier B), a geographic link at Tier 1 documented. The link reads: Coverage of Vandenberg launches from a site about 100 miles north. The Big Sur site gave a side-look at launches into the Western Test Range that local telephoto coverage at Vandenberg could not, because of prevailing fog. Sources: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
+- Big Sur missile-test filming, September 1964 comes in from **Robert M. Jacobs** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: On-site commander at the filming; his presence, unit and role confirmed by the project engineer in print. THE ONLY TIER 1 WITNESS-TO-CASE EDGE IN THIS CLUSTER. Jacobs published his own account in January 1989; Kingston George, the project engineer, wrote in 1993 that 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location', and published team photographs captioning Jacobs into and out of them. The edge carries his PRESENCE, not his interpretation. Sources: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, dated 1989-01; Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
+- Big Sur missile-test filming, September 1964 comes in from **Kingston A. George** (person, board tier B), a investigative link at Tier 1 documented. The link reads: Project engineer for the deployment. His own opening line: 'I was the project engineer for these experiments.' He supplies the dates, the instrument, the launch name, the photographs and a contemporaneous 13 October 1964 staff study cited by title. Sources: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
+
 ## Bigelow Aerospace
 
 Bigelow Aerospace is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1999; axes C3 A2 D1; 4 connections.
@@ -3334,7 +3613,7 @@ Bigelow Aerospace Advanced Space Studies was the prime contractor executing the 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 116 of 1057, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 120 of 1125, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -3355,6 +3634,33 @@ Re-graded A on a global pass (rank 116 of 1057, score 56). 5 connections, 4 of t
 - Bigelow Aerospace comes in from **Luis D. Elizondo** (person, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Elizondo identified Bigelow Aerospace as the intended recipient of the divested material. Asked by Rep. Burlison 'That is the Bigelow Aerospace, correct?', Elizondo answered 'Yes, sir.' He described later conversations with contract personnel who told him the account was accurate. Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 - Bigelow Aerospace comes in from **Lockheed Martin Corporation** (institution, board tier A), a custody link at Tier 2 named person on the record. The link reads: Alleged negotiated transfer of non-terrestrial material from a Lockheed California facility to BAASS. George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material 'stashed away and protected at a facility in California' that 'was not made here.' Luis Elizondo confirmed to the House on 13 November 2024 that the transfer was blocked. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 
+## The Boeing Company
+
+The Boeing Company is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1916; axes C1 A3 D1; 4 connections.
+
+In one line: Prime contractor; Phantom Works; successor to McDonnell Douglas.
+
+### What it is
+
+Boeing enters this record through two doors. The first is testimonial: at the 26 July 2023 House Oversight hearing Ryan Graves described the October 2003 Vandenberg incident in which a large group of Boeing contractors working near a launch facility observed a red square roughly a hundred yards across hovering silently over missile defense sites - an account repeated in sworn testimony on 9 September 2025 by Jeffrey Nuccetelli, who investigated the events. Rep. Alexandria Ocasio-Cortez seized on the detail in 2023 to ask both witnesses about interactions between defense contractor companies and UAP programs, and Grusch answered that contractors have no obligation to report such encounters. The second door is corporate lineage: Boeing absorbed McDonnell Douglas in 1997, inheriting the Huntington Beach astronautics organisation where Robert Wood ran a company-funded study of unidentified craft in the late 1960s, along with whatever record that study generated. Boeing's Phantom Works is the direct analogue of Skunk Works. USAspending records prime contract obligations to Boeing entities exceeding $100 billion since FY2008.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 488 of 1125, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** Asked whether contractors are required to report UAP sightings, Grusch answered 'In terms of the contractors? Not that I am aware of.' Source: CHRG-118hhrg53022, exchange with Rep. Ocasio-Cortez, 26 July 2023
+- **Tier 1 documented.** Boeing acquired McDonnell Douglas in 1997, inheriting its astronautics organisation and records. Source: Corporate merger record; McDonnell Douglas ceased independent existence in 1997
+- **Tier 1 documented.** Boeing contractors at Vandenberg were the observers in the October 2003 'red square' incident described in sworn testimony at both the 2023 and 2025 hearings. Source: Ryan Graves, CHRG-118hhrg53022, 26 July 2023; Jeffrey Nuccetelli, CHRG-119hhrg61718, 9 September 2025
+
+### Its strongest connections
+
+- The Boeing Company runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Boeing contractors were the observers in the 2003 Vandenberg red square incident. Ryan Graves described the incident in 2023 and Jeffrey Nuccetelli, who investigated it, testified to it in 2025. Rep. Ocasio-Cortez used the detail to open the question of contractor reporting obligations, and Grusch answered that none exist. Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- The Boeing Company runs out to **McDonnell Douglas Corporation** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Boeing absorbed McDonnell Douglas in 1997, inheriting the Huntington Beach organisation and its records. Any corporate record of the Wood study, and of anything else the astronautics organisation held, passed to Boeing. No committee has requested it. Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
+- The Boeing Company comes in from **Mark McCandlish** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Named in his own self-stated client list, 2000. Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- The Boeing Company comes in from **David Charles Grusch** (person, board tier A), a funding link at Tier 3 stated inference. The link reads: Contractor thread: Boeing personnel named in the same hearing; Grusch's IR&D mechanism. Ryan Graves named Boeing contractors as witnesses to the 2003 Vandenberg event, and Rep. Ocasio-Cortez used that to open the contractor line with Grusch, who described the metal benders doing specific performance on government contracts and IR&D as the unreported funding channel. Reasoning: Grusch named no company; the connection is the hearing's own sequence, not an attribution. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
+
 ## CENTER LANE
 
 CENTER LANE is a program on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1983 to 1986; axes C0 A3 D1; 4 connections.
@@ -3367,7 +3673,7 @@ CENTER LANE was the Army Intelligence and Security Command's designation for the
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 249 of 1057, score 40). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D1.
+Re-graded B on a global pass (rank 278 of 1125, score 40). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D1.
 
 ### The claims on the record
 
@@ -3396,7 +3702,7 @@ The NISPOM ceased to be a DoD manual and became a federal regulation with the co
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 62 of 1057, score 73). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 66 of 1125, score 73). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -3416,7 +3722,7 @@ A further 7 claims sit on this node on the board and are not reproduced here.
 - 32 CFR Part 117, NISPOM Rule comes in from **Carve-Out Provision (DCSA relief from NISP oversight)** (program, board tier A), a institutional link at Tier 1 documented. The link reads: The carve-out is codified in the NISPOM rule itself. 32 CFR 117.6(b)(3) is the operative regulatory text relieving the Director, DCSA of NISP oversight for a carved-out DoD SAP. Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
 - 32 CFR Part 117, NISPOM Rule runs out to **Carve-Out Provision (DCSA relief from NISP oversight)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: 32 CFR 117.6(b) writes the carve-out into regulation. The carve-out is in the codified federal regulation, not only in a DoD manual. 32 CFR 117.6(b)(3), 'Responsibilities': "The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'." The NISPOM Rule was published at 85 FR 83312 on 21 December 2020, so the provision relieving the oversight body has the force of a legislative rule rather than of internal DoD policy. Read from the eCFR renderer API on 22 August 2026. Sources: 32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117, dated 2026-08-22; National Industrial Security Program Operating Manual (NISPOM) final rule, 85 FR 83312, 21 December 2020, https://www.federalregister.gov/documents/2020/12/21/2020-27698/national-industrial-security-program-operating-manual-nispom, dated 2020-12-21.
 - 32 CFR Part 117, NISPOM Rule runs out to **Acknowledged, unacknowledged and waived, the three states of a DoD SAP** (domain, board tier A), a institutional link at Tier 1 documented. The link reads: Supplies the regulatory definition of a special access program binding on contractors. 32 CFR 117.3(b) defines SAP as a program controlling access and distribution 'beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information'. Sources: 32 CFR Part 117 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117, dated 2026-08-12.
-- 32 CFR Part 117, NISPOM Rule comes in from **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Designated the DoD Cognizant Security Office by regulation. 32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.' Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
+- 32 CFR Part 117, NISPOM Rule comes in from **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Designated the DoD Cognizant Security Office by regulation. 32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.' Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
 - 32 CFR Part 117, NISPOM Rule comes in from **Executive Order 12829, National Industrial Security Program (6 Jan 1993)** (legislation, board tier C), a institutional link at Tier 1 documented. The link reads: Section 201 of E.O. 12829 is the authority for the NISPOM rule. 32 CFR 117.6(a)(1) records that USD(I&S) issues and maintains the rule under section 201 of E.O. 12829. Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
 - 32 CFR Part 117, NISPOM Rule comes in from **Executive Order 12829, National Industrial Security Program (6 Jan 1993)** (legislation, board tier C), a programmatic link at Tier 1 documented. The link reads: 32 CFR 117 implements E.O. 12829. 32 CFR part 117 names E.O. 12829 in its authority citation - 'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458...' - and section 117.1 Purpose states that the rule 'implements policy, assigns responsibilities, establishes requirements, and provides procedures, consistent with E.O. 12829, "National Industrial Security Program"'. Read from the eCFR renderer API on 22 August 2026. Sources: 32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117, dated 2026-08-22.
 
@@ -3432,7 +3738,7 @@ The most direct answer to how money reaches a programme that does not appear as 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 112 of 1057, score 58). 4 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 115 of 1125, score 58). 4 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -3463,7 +3769,7 @@ The Task Force's opening move. On establishing the Task Force on the Declassific
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 951 of 1057, score 13). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 1010 of 1125, score 13). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3488,7 +3794,7 @@ Advanced projects organisations are the industrial layer at which secrecy and en
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 287 of 1057, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 317 of 1125, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3502,274 +3808,3 @@ Re-graded B on a global pass (rank 287 of 1057, score 38). 4 connections, 1 of t
 - Aerospace Engineering & Advanced Projects comes in from **Conventional Prompt Global Strike** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: Hypersonic boost-glide development across three services on appropriated funding. Hypersonic boost-glide development across three services, with named prime contractors and appropriated funding. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
 - Aerospace Engineering & Advanced Projects comes in from **Cockpits in the Era of Breakthrough Flight** (document, board tier B), a research link at Tier 1 documented. The link reads: subject domain: crew-station design for breakthrough flight regimes. The paper asks what a cockpit must look like once a vehicle has inertial control, a hover-to-superluminal speed range and no separation between near-ground, orbital and interstellar operating regimes, including the loss of the pilot's own inertia and visual motion cues. It is the only DIRD that reasons from observed flight behaviour back to onboard design constraints rather than to physics. Sources: Released DIRD, 'Cockpits in the Era of Breakthrough Flight', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/, dated 2026-08-22; http://www.jbis.org.uk/paper.php?p=2013.66.278, http://www.jbis.org.uk/paper.php?p=2013.66.278
 - Aerospace Engineering & Advanced Projects runs out to **Prime Contractor Custody** (domain, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Advanced projects shops are the industrial home. The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme. Sources: GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
-
-## Prime Contractor Custody
-
-Prime Contractor Custody is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1947-01-01; axes C3 A3 D1; 4 connections.
-
-In one line: Industrial domain - the private firms alleged to hold material, and the legal shelter that creates.
-
-### What it is
-
-Moving a programme into a prime contractor does not merely add secrecy - it changes the legal category of everything inside it. Contractor records are not agency records and so fall outside the Freedom of Information Act; contractor facilities are inspected by the Defense Counterintelligence and Security Agency rather than by congressional staff; and proprietary data markings restrict government-side circulation independently of classification. GAO reported in 2004 that DoD could not provide adequate assurance that its industrial security oversight was protecting classified information at contractor facilities - a finding about the mechanism's opacity from the government's own auditor. This is the structural reason the custody question and the contractor question are the same question: an object on a contractor's shelf is legally further from Congress than the same object on a government shelf, without any change in its classification. The named firms recur across sworn and named-source testimony rather than across documents, which is precisely why this domain is scored on the C axis and researched through contract data, facility clearance records and personnel movement. Scoring high here means an entity is alleged to hold material or to have managed those who do.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 238 of 1057, score 41). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
-
-### The claims on the record
-
-- **Tier 1 documented.** GAO-04-332 found that DoD could not provide adequate assurances that its oversight ensures the protection of classified information at contractor facilities. Source: GAO-04-332, Industrial Security
-- **Tier 2 named person on the record.** David Grusch testified on 26 July 2023 that material and programmes had been placed with defence contractors outside congressional oversight. Source: House Oversight Committee hearing, 26 July 2023
-- **Tier 2 named person on the record.** In May 2026 a group of House Republicans led by Rep. Eric Burlison sent a letter targeting private UFO contractors. Source: Newsmax, 16 May 2026
-
-### Its strongest connections
-
-- Prime Contractor Custody runs out to **The FFRDC Mechanism** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: The seam between government and industry. FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment. Sources: FAR 35.017, Federally Funded Research and Development Centers, https://www.acquisition.gov/far/35.017, dated 2026-08-12.
-- Prime Contractor Custody comes in from **Materials and custody analysis** (domain, board tier A), a custody link at Tier 2 named person on the record. The link reads: Analysis follows possession. Material alleged to be held by primes cannot be independently analysed, which is why the custody question and the materials question cannot be separated. Sources: GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
-- Prime Contractor Custody comes in from **Aerospace Engineering & Advanced Projects** (domain, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Advanced projects shops are the industrial home. The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme. Sources: GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
-- Prime Contractor Custody runs out to **Freedom of Information Practice** (domain, board tier B), a denial link at Tier 3 stated inference. The link reads: Contractor records are outside the statute. FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier. Sources: FAR 35.017, Federally Funded Research and Development Centers, https://www.acquisition.gov/far/35.017, dated 2026-08-12; GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
-
-## Propulsion & Field Physics
-
-Propulsion & Field Physics is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1956-02-01; axes C1 A2 D2; 4 connections.
-
-In one line: Technical domain - gravitic, inertial-mass and metric-engineering approaches to flight.
-
-### What it is
-
-The observed flight characteristics reported by aviators - hypersonic velocity without a thermal signature, instantaneous acceleration without a control surface, transmedium travel - are incompatible with reaction propulsion, which is why every serious technical treatment of the subject ends in field physics. That is not a fringe observation but a funded one: DIA's AAWSAP reference documents include commissioned studies on vacuum spacetime metric engineering, on warp drive and negative energy, and on antigravity for aerospace applications. The independent-analysis strand is equally real - Knuth, Powell and Reali published estimates of the flight characteristics of the 2004 Nimitz object in the MaxEnt 2019 proceedings, deriving accelerations and power requirements from the reported kinematics and finding them orders of magnitude beyond known aerospace capability. The documented dual-use route runs through patents: the US Navy has prosecuted and been granted patents in the names of Salvatore Cezar Pais covering high-frequency gravitational wave generators and inertial mass reduction devices, with the Naval Air Warfare Center as assignee, and those filings are public in the USPTO record regardless of what one concludes about them. Scoring high on this domain means an entity worked, funded or filed in this space.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 455 of 1057, score 31). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** DIA commissioned DIRD 15 on advanced space propulsion based on vacuum (spacetime metric) engineering and DIRD 19 on antigravity for aerospace applications. Source: DIA AAWSAP DIRD releases
-- **Tier 1 documented.** Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter' in the MaxEnt 2019 proceedings. Source: Proceedings 2019, 33(1):26, doi:10.3390/proceedings2019033026
-- **Tier 1 documented.** US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', names Salvatore Cezar Pais as inventor and the US Department of the Navy as assignee; filed 28 April 2016, granted 4 December 2018. Source: US Patent 10,144,532 B2 (Google Patents record)
-
-### Its strongest connections
-
-- Propulsion & Field Physics comes in from **Institute of Field Physics (UNC Chapel Hill)** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Standing written disclaimer of any connection to anti-gravity research. On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called "anti-gravity research" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute. Sources: History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/, dated 2026-09-02.
-- Propulsion & Field Physics comes in from **Conventional Prompt Global Strike** (program, board tier B), a research link at Tier 1 documented. The link reads: Every booster traced to Trident II, Peacekeeper or Polaris derived stages. The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
-- Propulsion & Field Physics comes in from **Exotic Technology & Physics** (domain, board tier B), a research link at Tier 1 documented. The link reads: Field physics is the propulsion answer. DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem. Sources: AAWSAP Statement of Work, https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf, dated 2008-08-22.
-- Propulsion & Field Physics runs out to **Military Aviators & Operators** (domain, board tier C), a research link at Tier 3 stated inference. The link reads: Reported kinematics set the physics requirement. Aviator accounts with sensor corroboration generate the acceleration and power figures that any propulsion hypothesis must satisfy. Sources: DoD statement on release of historical Navy videos, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/, dated 2020-04-27.
-
-## DCSA as DoD Cognizant Security Office under the NISP
-
-DCSA as DoD Cognizant Security Office under the NISP is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1993-01-06; axes C1 A2 D2; 4 connections.
-
-In one line: agency.
-
-### What it is
-
-DCSA, the successor to the Defense Security Service, is designated by 32 CFR 117.6(b)(1) as the DoD Cognizant Security Office. It administers the National Industrial Security Program 'as a separate program element on behalf of DoD GCAs and those agencies with agreements with DoD for security services' and 'Provides security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD'. It issues facility clearances for defense contractors 'to include contractors performing on DoD SAPs'. It is the only recurring, external, adversarial security inspection that a cleared contractor facility receives - and it is the entity that the carve-out provision at 32 CFR 117.6(b)(3) switches off by a signature of the Secretary or Deputy Secretary of Defense. DCSA's own performance without any carve-out was found wanting by GAO in 2004: GAO-04-332 concluded that DoD 'cannot provide adequate assurances that its oversight ensures the protection of classified information' at contractor facilities. The report is doubly relevant because GAO expressly excluded SAPs from the review at the request of committee staff - so the only public audit of the industrial security inspection system deliberately did not look at the programs the board cares about.
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 158 of 1057, score 48). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** 32 CFR 117.6(b)(1)-(3): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO', 'Administers the NISP as a separate program element', and 'Provides security oversight of the NISP as the DoD CSO' - subject to relief by an approved carve-out. Source: 32 CFR 117.6(b)
-- **Tier 1 documented.** 32 CFR 117.6(b): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO', 'Administers the NISP as a separate program element on behalf of DoD GCAs and those agencies with agreements with DoD for security services', and 'Provides security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD' -- followed immediately by the carve-out sentence relieving the Director of that function for DoD SAPs on SecDef/DepSecDef approval. Source: https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6
-- **Tier 1 documented.** DoDI 5205.11 para 1.2.i: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.' Source: https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf
-- **Tier 1 documented.** DoDM 5205.07 Vol 1, Enclosure 2, para 2.b (then DSS, now DCSA): 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.' Facility clearance issuance is NOT carved out -- only inspection, IS authorization and CI cross-sharing are. A carved-out SAP contractor site still has a DCSA-issued FCL and therefore still exists in DCSA's facility records. Source: https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf
-- **Tier 1 documented.** DoDM 5205.07-V1 Enclosure 2 para 2.b: the Director, DSS 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.' Source: DoDM 5205.07 Volume 1, Enclosure 2, para 2.b
-- **Tier 1 documented.** GAO-04-332 (3 March 2004) is titled 'Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information' and found that DSS 'has not always followed required procedures when contractors have reported security violations and possible compromises of classified information.' Source: GAO-04-332, 3 March 2004
-- **Tier 1 documented.** GAO-04-332 footnote 2: 'As agreed with committee staff, our review was limited to DSS's oversight of contractor facilities' protection of Confidential, Secret, and Top Secret information as defined in Executive Order no. 12958, as amended, and did not include DSS's oversight of special access programs at contractor facilities.' Source: GAO-04-332, footnote 2
-- **Tier 3 stated inference.** Because the FCL function survives a carve-out (DoDM V1 Encl 2 para 2.b) while inspection does not, DCSA's facility clearance database remains the one government-wide index that lists a carved-out SAP contractor location as a cleared facility, even when no inspector may enter it. That makes FCL records a discovery surface that the carve-out does not close. Reasoning stated. Source: https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf
-
-A further 1 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- DCSA as DoD Cognizant Security Office under the NISP comes in from **Carve-Out Provision (DCSA relief from NISP oversight)** (program, board tier A), a institutional link at Tier 1 documented. The link reads: Switches off the only external inspector of a contractor SAP facility. DoDM 5205.07-V1 Enclosure 2 para 2.c enumerates what DSS/DCSA does 'Unless a carve-out provision is approved' - inspections, IS authorisation and CI cross-sharing. Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12; 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
-- DCSA as DoD Cognizant Security Office under the NISP comes in from **Carve-Out Provision (DCSA relief from NISP oversight)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: relieves DCSA of NISP industrial security oversight for a DoD SAP. The regulation names the office the carve-out acts on. 32 CFR 117.6(b) makes the Director, DCSA responsible for 'security oversight of the NISP as the DoD CSO', and then (b)(3) removes it: "The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'." So the effect is not that oversight passes to another body but that the cognizant security office's oversight function ceases for that programme, on the written approval of one of two named officials. Sources: 32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117, dated 2026-08-22.
-- DCSA as DoD Cognizant Security Office under the NISP comes in from **DoDM 5205.07, DoD SAP Security Manual (Volumes 1-4)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: relieves it of oversight. The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme. Sources: Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18), https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF, dated 2026-05-18; DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019), https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
-- DCSA as DoD Cognizant Security Office under the NISP runs out to **32 CFR Part 117, NISPOM Rule** (legislation, board tier A), a institutional link at Tier 1 documented. The link reads: Designated the DoD Cognizant Security Office by regulation. 32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.' Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
-- DCSA as DoD Cognizant Security Office under the NISP runs out to **GAO-04-332, Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information** (document, board tier B), a investigative link at Tier 1 documented. The link reads: GAO found DoD could not assure adequate industrial security oversight - and excluded SAPs. GAO-04-332 title states the finding; its footnote 2 records that the review 'did not include DSS's oversight of special access programs at contractor facilities'. Sources: GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
-
-## DD Form 1910 for GoFast, Gimbal and FLIR video files
-
-DD Form 1910 for GoFast, Gimbal and FLIR video files is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2017; axes C2 A3 D3; 4 connections.
-
-In one line: Clearance request submitted 9 August 2017, approved 24 August 2017.
-
-### What it is
-
-A Department of Defense Clearance Request for Public Release of Department of Defense Information, submitted by Luis D. Elizondo in his capacity as Director, National Programs Special Management Staff, OUSD(I), on 9 August 2017 and approved on 24 August 2017. It covers three .mpg files named 'GoFast', 'Gimbal' and 'FLIR'. The stated purpose is precise and, read carefully, does not authorise publication: 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.' The subject matter is described in terms of UAV, balloons and other unmanned aircraft systems, with no reference to unidentified phenomena. This one form carries most of the weight in the dispute over how the videos entered the public record: it proves Elizondo processed the AATIP-associated imagery from inside OUSD(I) in August 2017, and it simultaneously undercuts the claim that the government cleared the footage for public release. The Navy's Joseph Gradisher later stated that neither the cognizant Navy offices nor DOPSR had any record of a request for unrestricted release in 2017.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 185 of 1057, score 45). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** States the purpose as 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.' Source: DD Form 1910, FOIA release
-- **Tier 1 documented.** Submitted by Luis D. Elizondo, Director, National Programs Special Management Staff, OUSD(I), on 9 August 2017 and approved 24 August 2017, covering three .mpg files: GoFast, Gimbal and FLIR. Source: DD Form 1910 released under FOIA, published by Blue Blurry Lines, 17 August 2019
-- **Tier 2 named person on the record.** The version originally published by George Knapp had Elizondo's name and DoD title redacted; the unredacted FOIA copy identifies him. Source: Blue Blurry Lines, 17 August 2019
-
-### Its strongest connections
-
-- DD Form 1910 for GoFast, Gimbal and FLIR video files comes in from **Luis D. Elizondo** (person, board tier A), a custody link at Tier 1 documented. The link reads: Submitted the clearance request for the three video files, 9 Aug 2017. The form bears his name and OUSD(I) title. It is the documentary link between him and the AATIP-associated imagery, and it was approved 24 August 2017. Sources: Blue Blurry Lines, DD Form 1910 FOIA release, https://www.blueblurrylines.com/2019/08/documents-released-via-foia-on-aatip.html, dated 2019-08-17.
-- DD Form 1910 for GoFast, Gimbal and FLIR video files runs out to **FLIR1, Gimbal and GoFast Navy gun-camera videos** (document, board tier B), a custody link at Tier 1 documented. The link reads: Cleared the GoFast, Gimbal and FLIR files for internal distribution only. The form's stated purpose expressly excludes publication: research and analysis only, for a UAS threat database. This is the narrow basis on which the Navy later said no unrestricted release was ever authorised. Sources: Blue Blurry Lines, https://www.blueblurrylines.com/2019/08/documents-released-via-foia-on-aatip.html, dated 2019-08-17.
-- DD Form 1910 for GoFast, Gimbal and FLIR video files runs out to **Defense Office of Prepublication and Security Review** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Prepublication review chain for the video files. The Navy later said DOPSR held no record of a request for unrestricted release of the videos in 2017, consistent with the form's 'not for publication' framing. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/, dated 2019-09-10.
-- DD Form 1910 for GoFast, Gimbal and FLIR video files comes in from **Joseph Gradisher** (person, board tier C), a denial link at Tier 1 documented. The link reads: 'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request. A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/, dated 2019-09-10.
-
-## The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin
-
-The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2023; axes C2 A2 D3; 4 connections.
-
-In one line: Kean and Blumenthal, 5 June 2023.
-
-### What it is
-
-The article that made Grusch public. Written by Leslie Kean and Ralph Blumenthal - the same reporting pair behind the December 2017 New York Times AATIP story - and published by The Debrief on 5 June 2023 after major national outlets passed on it. Its architecture is what made it durable: rather than resting on Grusch alone, it carries on-record corroboration from retired Army Col. Karl Nell, the Army's UAP Task Force liaison, who calls Grusch beyond reproach and affirms the eighty-year reverse-engineering arms race as fundamentally correct; from Christopher Mellon, former Deputy Assistant Secretary of Defense for Intelligence, on well-placed officials sharing detailed information; and from a serving NASIC officer under the name Jonathan Grey. It documents the July 2021 DoD IG disclosure, the May 2022 ICIG filing by McCullough, the July 2022 credible-and-urgent determination, and the April 2023 DOPSR clearances. Grusch's core claims as reported: intact and partially intact vehicles of non-human origin have been retrieved for decades; the materials have unique atomic arrangements and radiological signatures; the activity is illegally withheld from Congress by nesting inside classified programs; and individuals inside those programs raised concerns about illegal contracting.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 444 of 1057, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** Published 5 June 2023 by Leslie Kean and Ralph Blumenthal with named on-record corroboration from Karl Nell and Christopher Mellon and pseudonymous corroboration from a serving NASIC officer. Source: The Debrief, 5 June 2023
-- **Tier 2 named person on the record.** Reports Grusch's claim that the retrieved material includes intact and partially intact vehicles with unique atomic arrangements and radiological signatures. Source: The Debrief, 5 June 2023
-- **Tier 2 named person on the record.** Reports that Grusch left government on 7 April 2023 to advance accountability through public disclosure, and that he helped draft the UAP whistleblower language in the FY2023 NDAA. Source: The Debrief, 5 June 2023
-
-### Its strongest connections
-
-- The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a temporal link at Tier 1 documented. The link reads: Publication to sworn testimony in fifty-one days. The Debrief published 5 June 2023; the House Oversight subcommittee took sworn testimony 26 July 2023. The speed is itself a data point about congressional appetite in that window. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
-- The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin comes in from **Leslie Kean** (person, board tier B), a investigative link at Tier 1 documented. The link reads: Co-author; vetted Grusch through Nell and the NASIC officer. Kean built the story on named and verified corroborators rather than on Grusch alone, interviewing Karl Nell to establish standing and securing the pseudonymous NASIC officer on the record. Sources: The Debrief, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/, dated 2023-06-05.
-- The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin comes in from **Ralph Blumenthal** (person, board tier C), a investigative link at Tier 1 documented. The link reads: Co-author. Blumenthal, with Kean, had co-authored the December 2017 New York Times AATIP story; the same byline pair carried the Grusch story after national outlets declined it. Sources: The Debrief, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/, dated 2023-06-05.
-- The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin comes in from **Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)** (document, board tier C), a temporal link at Tier 1 documented. The link reads: Clearance preceded publication by two months. DOPSR approvals of 4 and 6 April 2023 preceded the 5 June 2023 Debrief publication. Kean and Blumenthal confirmed the clearance before publishing, which is why the Pentagon's response contested substantiation rather than authorization. Sources: The Debrief, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/, dated 2023-06-05.
-
-## Advanced Nuclear Propulsion for Manned Deep Space Missions
-
-Advanced Nuclear Propulsion for Manned Deep Space Missions is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D0; 4 connections.
-
-In one line: defense-intelligence-reference-document.
-
-### What it is
-
-DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-11, DIA-08-1003-007, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 357 of 1057, score 34). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/
-- **Tier 1 documented.** Authored by Dr F. Winterberg of the University of Nevada-Reno, per the DIA list of 38 AAWSAP products transmitted to the Senate Armed Services Committee on 9 January 2018 (item 2). The released PDF redacts the author name under FOIA exemption (b)(6). Source: https://irp.fas.org/dia/aatip-list.pdf
-- **Tier 1 documented.** Cover page reads: "11 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-007", series "Acquisition Threat Support". The OCR renders the date field as "reDO" and the number as "DIA-OS-1003-007"; these are scan artefacts for ICOD and DIA-08-. Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf
-- **Tier 1 documented.** Defense Intelligence Reference Document titled "Advanced Nuclear Propulsion for Manned Deep Space Missions", series "Acquisition Threat Support", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/
-- **Tier 1 documented.** Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100". Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/
-- **Tier 1 documented.** Inside cover states the product is "one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the AAWSA Program Manager, DIA, Bldg 6000, Washington DC 20340-5100. Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf
-- **Tier 1 documented.** Released PDF is 37 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/
-
-### Its strongest connections
-
-- Advanced Nuclear Propulsion for Manned Deep Space Missions comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: deliverable under AAWSAP. The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf; DIA FOIA Reading Room, Advanced Nuclear Propulsion for Manned Deep Space Missions (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/, dated 2010-03-11.
-- Advanced Nuclear Propulsion for Manned Deep Space Missions comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 11 March 2010 on the cover. 38 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'Advanced Nuclear Propulsion for Manned Deep Space Missions' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/, dated 2026-08-22.
-- Advanced Nuclear Propulsion for Manned Deep Space Missions comes in from **Defense Intelligence Agency** (institution, board tier A), a custody link at Tier 1 documented. The link reads: published and holds; DIA-08-1003-007. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf; DIA FOIA Reading Room, Advanced Nuclear Propulsion for Manned Deep Space Missions (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/, dated 2010-03-11.
-- Advanced Nuclear Propulsion for Manned Deep Space Missions comes in from **Friedwardt Winterberg** (person, board tier B), a research link at Tier 1 documented. The link reads: authored. Named as author on the DIA list of 38 AAWSAP products transmitted to the Senate Armed Services Committee, 9 January 2018, item 2. The released PDF redacts the author under (b)(6); the DIA list is the controlling source. Sources: Released DIRD, 'Advanced Nuclear Propulsion for Manned Deep Space Missions', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
-
-## An Introduction to the Statistical Drake Equation
-
-An Introduction to the Statistical Drake Equation is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D0; 4 connections.
-
-In one line: defense-intelligence-reference-document.
-
-### What it is
-
-DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-11, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 336 of 1057, score 35). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** Appendix B of the released DIRD reproduces Maccone's underlying IAA conference paper "The Statistical Drake Equation" with its byline and Turin address intact, corroborating the DIA list attribution from inside the document even though the cover author field is redacted under (b)(6). Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf
-- **Tier 1 documented.** Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/
-- **Tier 1 documented.** Authored by Dr Claudio Maccone of the International Academy of Astronautics, per the 9 January 2018 DIA list (item 15). Source: https://irp.fas.org/dia/aatip-list.pdf
-- **Tier 1 documented.** Cover page reads "11 March 2010 / ICOD: 1 December 2009", series "Acquisition Threat Support". No DIA-08-XXXX-XXX document number is recoverable anywhere in the text layer of the released scan; the number is either absent from the scan or lost to OCR. It is therefore recorded here as unknown rather than guessed. Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf
-- **Tier 1 documented.** Defense Intelligence Reference Document titled "An Introduction to the Statistical Drake Equation", series "Acquisition Threat Support", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/
-- **Tier 1 documented.** Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100". Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/
-- **Tier 1 documented.** Released PDF is 55 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/
-- **Tier 3 stated inference.** This is the only one of the 38 DIRDs whose subject is the prevalence of extraterrestrial civilisations rather than a physical technology, which is a direct indication that the DIA sponsor treated non-terrestrial technology as a category within "advanced aerospace threat". Source: https://irp.fas.org/dia/aatip-list.pdf
-
-### Its strongest connections
-
-- An Introduction to the Statistical Drake Equation comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: deliverable under AAWSAP. The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf; DIA FOIA Reading Room, An Introduction to the Statistical Drake Equation (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/, dated 2010-03-11.
-- An Introduction to the Statistical Drake Equation comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 11 March 2010 on the cover. 56 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'An Introduction to the Statistical Drake Equation' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/, dated 2026-08-22.
-- An Introduction to the Statistical Drake Equation comes in from **Defense Intelligence Agency** (institution, board tier A), a custody link at Tier 1 documented. The link reads: published and holds; document number not recoverable. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf; DIA FOIA Reading Room, An Introduction to the Statistical Drake Equation (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/, dated 2010-03-11.
-- An Introduction to the Statistical Drake Equation comes in from **Claudio Maccone** (person, board tier C), a research link at Tier 1 documented. The link reads: authored. DIA list item 15 names "Dr Claudio Maccone, International Academy of Astronautics". Independently corroborated by Appendix B of the released document, which reproduces his IAA conference paper with the byline intact. Sources: Released DIRD, 'An Introduction to the Statistical Drake Equation', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
-
-## Aneutronic Fusion Propulsion (DIA-08-1011-003)
-
-Aneutronic Fusion Propulsion (DIA-08-1011-003) is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D0; 4 connections.
-
-In one line: defense-intelligence-reference-document.
-
-### What it is
-
-DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01, DIA-08-1011-003, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 379 of 1057, score 33). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/
-- **Tier 1 documented.** Cover page reads "01 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-003", series "Defense Futures" (not "Acquisition Threat Support"), with a singular "Author:" field redacted under (b)(6). The document runs 50 pages with 28 endnotes. Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf
-- **Tier 1 documented.** Defense Intelligence Reference Document titled "Aneutronic Fusion Propulsion", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-003. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/
-- **Tier 1 documented.** Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100". Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/
-- **Tier 1 documented.** Released PDF is 50 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/
-- **Tier 1 documented.** The DIA list of 9 January 2018 records TWO distinct aneutronic fusion deliverables, not one: item 26 "Aneutronic Fusion Propulsion, Dr V Teofilo, Lockheed Martin" and item 30 "Aneutronic Fusion Propulsion II, Dr W Culbreth, Univ of Nevada-Las Vegas". The apparent duplication on the board is therefore genuine bibliography, not a data error. Source: https://irp.fas.org/dia/aatip-list.pdf
-- **Tier 2 named person on the record.** Assigned to Culbreth by elimination and by internal character: this document contains five separate Nevada Test Site passages (Project Rover, NERVA at Area 25, Silverpeak lithium mining), cites standard nuclear engineering textbooks, and includes a relativistic rocket worksheet appendix, while containing zero occurrences of "Lockheed", "Teofilo", "Sunnyvale" or any Lockheed Martin content. The companion document DIA-08-1011-004 does contain a V. Teofilo self-citation. Neither cover names its author. Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf
-
-### Its strongest connections
-
-- Aneutronic Fusion Propulsion (DIA-08-1011-003) comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: deliverable under AAWSAP. Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf; DIA FOIA Reading Room, Aneutronic Fusion Propulsion (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/, dated 2010-11-01; DIA letter of 9 January 2018 to the Senate Armed Services Committee listing 38 AAWSAP/AATIP reference products (FAS Intelligence Resource Program), https://fas.org/publication/aatip-list/, dated 2026-08-23.
-- Aneutronic Fusion Propulsion (DIA-08-1011-003) comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1011-003. Publication date 01 November 2010 on the cover. 50 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'Aneutronic Fusion Propulsion' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/, dated 2026-08-22.
-- Aneutronic Fusion Propulsion (DIA-08-1011-003) comes in from **Defense Intelligence Agency** (institution, board tier A), a custody link at Tier 1 documented. The link reads: published and holds; DIA-08-1011-003. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf; DIA FOIA Reading Room, Aneutronic Fusion Propulsion (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/, dated 2010-11-01.
-- Aneutronic Fusion Propulsion (DIA-08-1011-003) comes in from **William Culbreth** (person, board tier B), a research link at Tier 2 named person on the record. The link reads: authored (attribution by elimination, see note). TIER 2 AND DELIBERATELY SO. The DIA list establishes at tier 1 that two aneutronic fusion DIRDs exist, one by V. Teofilo (Lockheed Martin) and one by W. Culbreth (UNLV). Which released document number belongs to which author is NOT stated on either cover, both of which redact the author under (b)(6). This document, DIA-08-1011-003, is assigned to Culbreth because the companion DIA-08-1011-004 carries a V. Teofilo self-citation at endnote 17 and Lockheed Martin content, while this one carries none of either and is instead saturated with Nevada Test Site, Project Rover and NERVA material plus nuclear engineering textbook citations. If the mapping is ever shown to be reversed, this edge and its partner must be swapped together. Sources: Released DIRD, 'Aneutronic Fusion Propulsion (DIA-08-1011-003)', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
-
-## Biosensors and BioMEMS: A Survey of the Present Field
-
-Biosensors and BioMEMS: A Survey of the Present Field is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D0; 4 connections.
-
-In one line: defense-intelligence-reference-document.
-
-### What it is
-
-DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-31, DIA-08-1003-020, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 313 of 1057, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/
-- **Tier 1 documented.** Contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and therapeutic neurostimulation - the human-effects and human-interface leg of the AAWSAP survey. Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf
-- **Tier 1 documented.** Defense Intelligence Reference Document titled "Biosensors and BioMEMS: A Survey of the Present Field", series "Acquisition Threat Support", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-020. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/
-- **Tier 1 documented.** Entry 6 on the DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.' Source: https://irp.fas.org/dia/aatip-list.pdf
-- **Tier 1 documented.** Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100". Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/
-- **Tier 1 documented.** Released PDF is 45 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/
-- **Tier 1 documented.** The administrative note states the product 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program.' Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf
-- **Tier 1 documented.** The released cover page carries the date 31 March 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1003-020; the author field is redacted under FOIA exemption (b)(5) and 'Prepared by' is redacted under 10 U.S.C. 424. Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf
-
-A further 1 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Biosensors and BioMEMS: A Survey of the Present Field comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: commissioned under AAWSAP, FY2009 series. The document's own administrative note states it 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program', with comments directed to the AAWSA Program Manager, DIA, Bldg 6000, Washington DC 20340-5100. Hal Puthoff, subcontracting to BAASS through EarthTech International, has stated he let the 38 contracts himself, acting as a surrogate so DIA would not have to expose its interest. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf; DIA FOIA Reading Room, Biosensors and BioMEMS: A Survey of the Present Field (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/, dated 2010-03-31; https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/, https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/
-- Biosensors and BioMEMS: A Survey of the Present Field comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-020. Publication date 31 March 2010 on the cover. 46 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/, dated 2026-08-22.
-- Biosensors and BioMEMS: A Survey of the Present Field runs out to **Biology & Non-Human Biologics** (domain, board tier B), a research link at Tier 1 documented. The link reads: subject domain: implantable biosensors and neuro-interface. The contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and microscale therapeutic neurostimulation. This is the human-effects and human-interface leg of the AAWSAP survey, alongside Kit Green's field-effects paper and Richard Genik's three neuro deliverables. Sources: Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/, dated 2026-08-22.
-- Biosensors and BioMEMS: A Survey of the Present Field runs out to **Bruce C. Towe** (person, board tier C), a research link at Tier 1 documented. The link reads: authored by Bruce Towe. Attribution rests on the DIA list of 38 AATIP products transmitted to the Senate Armed Services Committee on 9 January 2018, entry 6: 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.' The released PDF's own author block is redacted under FOIA exemption (b)(5), so the DIA list is the sole authority for authorship. Towe also wrote the 'Biomaterials' DIRD (entry 17). Sources: Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html

@@ -1,0 +1,158 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "https://vimeo.com/channels/942663 , read 2026-09-18",
+"text": "A Vimeo channel titled 'Zero Point: The Story of Mark McCandlish and the Flux Liner', created by 'James Gladman', with 27 followers and no videos, carries the description verbatim: 'This Channel is dedicated the the film, and to the late Writer-Director James Allen.'",
+"tier": 1
+},
+{
+"source": "https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
+"text": "The arvp.co.uk FLUX 1988 page links the film under the text 'Full Documentary Zero Point The Story of Mark McCandlish and the Fluxliner', pointing at https://www.youtube.com/watch?v=afLsRsd5roY&t=3629s . That video was not opened.",
+"tier": 1
+},
+{
+"source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 gives the title 'Zero Point: The Story of Mark McCandlish and the Flux Liner', the year 2013, a runtime of 1h 32m and the genre Documentary. IMDb is user-maintained and the film itself was not opened.",
+"tier": 2
+},
+{
+"source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 gives a US release date of 2 June 2013. IMDb is user-maintained and the film itself was not opened.",
+"tier": 2
+},
+{
+"source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 credits James Allen as both director and writer. IMDb is user-maintained and the film itself was not opened.",
+"tier": 2
+},
+{
+"source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 credits Mark McCandlish as 'Self - Guest', the only listed cast member. IMDb is user-maintained and the film itself was not opened.",
+"tier": 2
+},
+{
+"source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 gives an estimated budget of $5,000. IMDb is user-maintained and the film itself was not opened.",
+"tier": 2
+},
+{
+"source": "IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026. IMDb is user-maintained and the film itself was not opened.",
+"text": "IMDb tt6111304 showed a user rating of 8.3 out of 10 from 34 ratings as opened on 18 September 2026. IMDb is user-maintained, the rating is a user aggregate, and the film itself was not opened.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": "2013-06-02",
+"dateStart": "2013-06-02",
+"direction": "out",
+"edgeLabel": "A feature documentary carrying the claim to a later audience",
+"id": "arv-fluxliner",
+"l0": true,
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"note": "A later carrier rather than a source. The film itself was not opened; the node rests on the Vimeo channel, the arvp.co.uk link and the user-maintained IMDb listing. Written as 'investigative' because 'media' is not one of this board's edge types.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner'",
+"url": "https://vimeo.com/channels/942663"
+},
+{
+"date": "2026-09-18",
+"name": "IMDb tt6111304, user-maintained listing",
+"url": "https://www.imdb.com/title/tt6111304/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2013-06-02",
+"dateStart": "2013-06-02",
+"direction": "out",
+"edgeLabel": "The film is about him and names him in its title",
+"id": "mark-mccandlish",
+"l0": false,
+"label": "Mark McCandlish",
+"note": "The dossier and the session ruling call this a media edge; 'media' is not one of this board's twelve edge types, so it is written as 'investigative', the type the board already uses for a media node covering a subject. IMDb credits him as 'Self - Guest', the only listed cast member.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner'",
+"url": "https://vimeo.com/channels/942663"
+},
+{
+"date": "2026-09-18",
+"name": "IMDb tt6111304, user-maintained listing",
+"url": "https://www.imdb.com/title/tt6111304/"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2013-06-02",
+"dateStart": "2013-06-02",
+"deg": 2,
+"denials": [],
+"desc": "A later carrier rather than a source, and it is carried thin on purpose. Two things about it were opened directly: a Vimeo channel bearing its full title, created by 'James Gladman', whose description dedicates it to the film and to 'the late Writer-Director James Allen', and the link on the arvp.co.uk FLUX 1988 page that points at a YouTube copy of the full documentary. Everything else on this node comes from its IMDb listing, which is user-maintained, and the film itself was not opened by any session. What IMDb gives is a 2013 documentary of 1h 32m with James Allen credited as both director and writer, McCandlish as the only listed cast member, and an estimated budget of $5,000. The circumstances of Allen's death are widely repeated and none of them is recorded here, because no death record, autopsy report or obituary has been opened.",
+"domains": [
+"arv-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "zero-point-documentary",
+"l0": false,
+"label": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"locLabel": null,
+"members": null,
+"short": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner', created by James Gladman",
+"url": "https://vimeo.com/channels/942663"
+},
+{
+"date": "2026-09-18",
+"name": "IMDb tt6111304, user-maintained listing",
+"url": "https://www.imdb.com/title/tt6111304/"
+},
+{
+"date": "2026-09-18",
+"name": "arvp.co.uk, FLUX 1988 page",
+"url": "https://www.arvp.co.uk/flux-01/"
+}
+],
+"sub": "Feature documentary on McCandlish and the claimed craft; writer-director James Allen is dead",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 699 of 1125, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2013-06-02",
+"id": "tl-2013-06-02-zero-point-release",
+"label": "US release date given by IMDb for the Zero Point documentary",
+"precision": "day",
+"strand": "witness",
+"text": "IMDb tt6111304 gives a US release date of 2 June 2013 for 'Zero Point: The Story of Mark McCandlish and the Flux Liner', a 1h 32m documentary with James Allen credited as director and writer. IMDb is user-maintained and the film itself was not opened. The UAP Gerb episode description calls it the '2014 Zero Point Documentary'.",
+"tier": "C"
+}
+]
+}

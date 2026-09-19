@@ -531,7 +531,7 @@
 "url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -700,6 +700,27 @@
 ],
 "tier": "A",
 "type": "denial"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": "2024-02",
+"dateStart": "2024-02",
+"direction": "in",
+"edgeLabel": "Inferred identification with the anonymised page 29 interviewee",
+"id": "michael-herrera",
+"l0": false,
+"label": "Michael Herrera",
+"note": "THE IDENTIFICATION IS AN INFERENCE AND THIS EDGE CARRIES IT AS ONE. The page 29 interviewee account matches his public account on year, mission type and scene. AARO names nobody and holds the anonymisation key itself. No opened record makes the link.",
+"sources": [
+{
+"date": "2024-02",
+"name": "AARO Historical Record Report Volume I, p. 29 (Black Vault mirror)",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
 },
 {
 "claimTier": 1,
@@ -891,7 +912,7 @@
 "url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 },
 {
@@ -1189,7 +1210,7 @@
 "coords": null,
 "dateEnd": "2024",
 "dateStart": "2024",
-"deg": 31,
+"deg": 32,
 "denials": [
 {
 "by": {
@@ -1855,6 +1876,12 @@
 "tier": "A"
 },
 {
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera",
+"tier": "B"
+},
+{
 "cls": "document",
 "id": "nasa-uapist-report",
 "label": "NASA Unidentified Anomalous Phenomena Independent Study Team Report",
@@ -2048,7 +2075,7 @@
 ],
 "sub": "report",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 6 of 1057, score 156). 37 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 6 of 1125, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "date": "2021-01-01",

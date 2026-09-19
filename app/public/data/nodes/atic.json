@@ -2,7 +2,7 @@
 "A": 3,
 "C": 3,
 "D": 0,
-"band": "research",
+"band": "custody",
 "claims": [
 {
 "source": "AEROSPACE TECHNICAL INTELLIGENCE CENTER, Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
@@ -378,6 +378,6 @@
 ],
 "sub": "USAF technical intelligence centre, Wright-Patterson AFB",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 148 of 1057, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 160 of 1125, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": []
 }

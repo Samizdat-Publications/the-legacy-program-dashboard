@@ -31,12 +31,38 @@
 "source": "Inference from his documented positions; explicitly not evidenced",
 "text": "Teller's later position at the apex of the DOE weapons-laboratory complex means that if any laboratory-hosted exploitation activity existed in the 1950s-1970s he would have been positioned to know of it. Reasoning: laboratory directors hold Q clearance and programme visibility; no document establishes such knowledge.",
 "tier": 3
+},
+{
+"source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 35:48 to 36:32 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "Bob Lazar claims Teller as his route into the classified work, in his own 1991 narration: 'while working at Los Alamos National Lab in 1982 the local newspaper did a front page story on a jet car [I'd] built coincidentally Dr Teller was giving a speech in Los Alamos that same day we met and had a short chat'. He says he later wrote to Teller and 'inquired about a job', and that 'Dr Teller responded by telephone and told me that it was no longer active but' referred him on. He adds that he never asked Teller whether he remembered him. The claim is uncorroborated by any opened record and its internal dating conflicts with the newspaper's own date of 27 June 1982, Teller's Los Alamos lecture falling on the following day per Mahood. Carried at Tier 3 and asserting only what Lazar said.",
+"tier": 3
 }
 ],
 "cls": "person",
 "cluster": "research",
 "conflicts": [],
 "connections": [
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1982-06",
+"direction": "in",
+"edgeLabel": "Claimed 1982 meeting and later job referral, uncorroborated and internally misdated",
+"id": "bob-lazar",
+"l0": false,
+"label": "Robert \"Bob\" Lazar",
+"note": "Tier 3. His own narration puts the Monitor jet-car story and Teller's Los Alamos speech on the same day; the article is dated 27 June 1982 and Mahood puts the lecture on the following day, so both cannot be right. The edge asserts only that Lazar says this.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 35:48 to 36:32",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
 {
 "claimTier": 1,
 "cls": "event",
@@ -83,10 +109,11 @@
 "date": "1949-02-16",
 "dateEnd": null,
 "dateStart": "1949-02-16",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "domains": [
-"ffrdcs"
+"ffrdcs",
+"lazar-s4-2026-09-18"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -112,12 +139,22 @@
 "date": "2024-11-18",
 "name": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center",
 "url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
+},
+{
+"date": "1991",
+"name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE at 35:48 to 36:32",
+"url": "https://archive.org/details/antigravity"
+},
+{
+"date": "2018",
+"name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
 }
 ],
 "status": "dead",
 "sub": "Los Alamos physicist; co-founder and later Director of Lawrence Livermore National Laboratory; attendee of the 16 February 1949 Los Alamos green fireballs conference",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 787 of 1057, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 780 of 1125, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

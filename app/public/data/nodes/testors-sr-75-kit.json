@@ -1,0 +1,134 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Baltimore Sun, 'For latest spy plane look under your tree', 25 December 1993, https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/ , opened 2026-09-18",
+"text": "The Baltimore Sun of 25 December 1993 reports Testor Corp. selling 'the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models', developed by analysing 'sonic boom patterns over Southern California, jet exhaust patterns over Nevada, journals on Stealth and high-speed jet technology, and informed aviation-industry speculation'.",
+"tier": 1
+},
+{
+"source": "Baltimore Sun, 25 December 1993, https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/ , opened 2026-09-18",
+"text": "The same article names the designer: 'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19.'",
+"tier": 1
+},
+{
+"source": "Baltimore Sun, 25 December 1993, https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/ , opened 2026-09-18",
+"text": "The same article carries the Air Force's on-record denial, from Capt. Mary Dillon, an Air Force spokeswoman in Washington: 'We're not saying no comment, we're saying such a plane does not exist.'",
+"tier": 1
+},
+{
+"source": "Reasoning over the Baltimore Sun of 25 December 1993 and slide 62 onward of the 1998 presentation; research/leads/verified-tr3b-2026-09-18.md section 6.3",
+"text": "Stated inference. 'SR-75 Penetrator', a mothership carrying a smaller high-speed vehicle, is a specific and unusual concept that was published commercially, in a box, with a designer's name on it, in 1993. Fouche presents the same designation and the same mothership architecture in August 1998 as inside knowledge. Either the kit anticipated a real programme, which is what the audience was invited to conclude from the F-19 precedent the article itself cites, or the account absorbed the kit. Nothing opened decides it. The priority is documented and one-directional and must not be inverted.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "1998-08",
+"dateStart": "1993-12-25",
+"direction": "out",
+"edgeLabel": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
+"id": "tr-3b",
+"l0": true,
+"label": "TR-3B 'Astra', claimed black triangular aircraft",
+"note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
+"sources": [
+{
+"date": "1993-12-25",
+"name": "Baltimore Sun, 'For latest spy plane look under your tree'",
+"url": "https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/"
+},
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "1993-12-25",
+"dateStart": "1993-12-25",
+"deg": 1,
+"denials": [
+{
+"by": {
+"id": "testors-sr-75-kit",
+"label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993"
+},
+"claimTier": 3,
+"denialKind": "association",
+"label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
+"note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
+"of": {
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"sources": [
+{
+"date": "1993-12-25",
+"name": "Baltimore Sun, 'For latest spy plane look under your tree'",
+"url": "https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/"
+},
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+]
+}
+],
+"desc": "This node exists because it is the only documented prior-art channel found for any part of the Fouche account, and because it is documented on both ends. On 25 December 1993 the Baltimore Sun reported that Testor Corp. was selling 'the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models', designed by 'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19', and said to have been developed by analysing sonic boom patterns over Southern California, jet exhaust patterns over Nevada, published stealth and high-speed literature and industry speculation. The same article carries the Air Force on the record through its spokeswoman Capt. Mary Dillon: 'We're not saying no comment, we're saying such a plane does not exist.' Four and a half years later Fouche's presentation devotes slides 62 onward to an 'SR-75' called the 'Penetrator' that is also 'a mothership', and elsewhere to an 'SR-74 Scramp'. The designation and the mothership architecture are the same, the priority is documented and one-directional, and the direction of influence is not established. The node is here so that a build session cannot accidentally let the TR-3B cluster imply the reverse.",
+"domains": [
+"tr3b-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "testors-sr-75-kit",
+"l0": false,
+"label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+"locLabel": null,
+"members": null,
+"short": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+"sources": [
+{
+"date": "1993-12-25",
+"name": "Baltimore Sun, 'For latest spy plane look under your tree'",
+"url": "https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/"
+},
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward, for the SR-75 Penetrator and SR-74 Scramp passages",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"sub": "Commercially published speculative model kits designed by John Andrews whose designations reappear in Fouche's 1998 presentation as inside knowledge",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 919 of 1125, score 17). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
+"timeline": [
+{
+"date": "1993-12-25",
+"id": "tl-1993-12-25-testors-sr75",
+"label": "Baltimore Sun reports the Testors SR-75 Penetrator and XR-7 Thunderdart on sale",
+"precision": "day",
+"strand": "program",
+"text": "'Testor Corp. released the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models', designed by 'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19'. The Air Force spokeswoman Capt. Mary Dillon is quoted: 'We're not saying no comment, we're saying such a plane does not exist.' Fouche's presentation of August 1998 presents the same SR-75 Penetrator designation and the same mothership architecture as inside knowledge.",
+"tier": "C"
+}
+]
+}

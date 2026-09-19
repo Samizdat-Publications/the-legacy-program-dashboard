@@ -5,6 +5,11 @@
 "band": null,
 "claims": [
 {
+"source": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
+"text": "Project Gasbuggy, the first natural-gas reservoir stimulation experiment of the Plowshare programme, left a 640-acre site in Rio Arriba County, New Mexico under federal stewardship from the 1967 detonation through decommissioning in 1978, soil sampling in 1978, 1986, 2000 and 2002, and final surface remediation completed in September 2004. Liquid radioactive waste remains injected in the former cavity and a brass plaque on a concrete base marks the site.",
+"tier": 1
+},
+{
 "source": "House Oversight Committee hearing, 26 July 2023; NPR contemporaneous report",
 "text": "David Grusch testified under oath to the House Oversight Committee on 26 July 2023 that he was informed of a multi-decade UAP crash retrieval and reverse-engineering programme, and that he made a protected disclosure to the ICIG.",
 "tier": 2
@@ -64,16 +69,59 @@
 ],
 "tier": "B",
 "type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1967-12-10",
+"direction": "in",
+"edgeLabel": "A contaminated Plowshare site under forty years of federal stewardship",
+"id": "l-dulce",
+"l0": false,
+"label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
+"note": "Stated inference and a domain-to-domain link, correctly capped at Tier 3: the legacy character of the ground holds whatever is or is not true about the mesa.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full",
+"url": "https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "in",
+"edgeLabel": "The hub's claimed content is a legacy reverse-engineering programme",
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"note": "Tier 3 because it is what is claimed, not what is shown.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape, Tri-Dot Productions, 1991",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "B",
+"type": "programmatic"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-07-01",
-"deg": 2,
+"deg": 4,
 "denials": [],
 "desc": "This is the board's central claim expressed as a research domain: that a recovery, exploitation and reverse-engineering effort was stood up in the late 1940s, was subsequently moved outside ordinary acquisition and oversight channels, and has run continuously since - the word 'legacy' being the term used by the witnesses themselves for a programme that predates every currently serving official. The claim's highest-grade attestation is sworn: on 26 July 2023 David Grusch told the House Oversight Committee, under oath and after having filed a protected disclosure with the Intelligence Community Inspector General, that he was informed by named individuals of a multi-decade crash retrieval and reverse-engineering programme, and that he provided that information with witnesses to the ICIG and to Congress. The government's own answer is on the record too: AARO's February 2024 Volume I report found 'no empirical evidence' for the reverse-engineering claim, having interviewed approximately thirty individuals and investigated named programmes. Both documents belong on this board, and the disagreement between them is the research problem rather than its resolution. Scoring high on this domain means an entity is placed inside that continuity by testimony or by document - and the C axis, custody proximity, is the axis that most directly tests it.",
 "domains": [
 "_rs-archive-mirror",
+"dulce-2026-09-19",
 "w2-taxonomy"
 ],
 "dossier": null,
@@ -102,6 +150,11 @@
 "url": "https://web.archive.org/web/20260206140359/https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF"
 },
 {
+"date": "2026-09-19",
+"name": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full",
+"url": "https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf"
+},
+{
 "date": "2023-07-27",
 "name": "NPR - U.S. recovered non-human biologics from UFO crash sites, former intel official says",
 "url": "https://www.npr.org/2023/07/27/1190390376/ufo-hearing-non-human-biologics-uaps"
@@ -118,8 +171,8 @@
 }
 ],
 "sub": "Core domain - the alleged continuous recovery and reverse-engineering effort, 1940s to present",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 230 of 1057, score 41). 2 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 167 of 1125, score 49). 4 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D2.",
 "timeline": [
 {
 "date": "1950-11-21",

@@ -10,6 +10,11 @@
 "tier": 2
 },
 {
+"source": "Oganessian et al., Physical Review C 69, 021601(R), 2 February 2004, https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601 ; IUPAC, 30 December 2015, https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/ , both opened 2026-09-18",
+"text": "Element 115 was synthesised by a collaboration including Lawrence Livermore National Laboratory, a laboratory in the NNSA complex, working with the Joint Institute for Nuclear Research at Dubna, and reported in Physical Review C 69, 021601(R) on 2 February 2004. IUPAC assigned discovery priority to the Dubna-Livermore-Oak Ridge collaborations on 30 December 2015, on the basis of work starting in 2010 and confirmed in 2012 and 2013, and the name moscovium was approved on 28 November 2016. NOTHING ABOUT THE SYNTHESISED ELEMENT IS STABLE, MACHINABLE OR STORABLE: the isotopes are 287 and 288, produced one atom at a time at cross sections of roughly one and three picobarn. This claim is recorded here because Bob Lazar's element-115 account is regularly presented as having been vindicated by these events, and the record of the complex's own laboratories is what shows that it was not.",
+"tier": 1
+},
+{
 "source": "NNSA, About NNSA",
 "text": "NNSA is 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science', 'Established by Congress in 2000'.",
 "tier": 1
@@ -46,6 +51,37 @@
 },
 {
 "claimTier": 1,
+"cls": "program",
+"dateEnd": "2016-11-28",
+"dateStart": "2004-02-02",
+"direction": "in",
+"edgeLabel": "The real element: synthesised 2003, published 2004, assigned 2015, named moscovium 2016",
+"id": "element-115-claim",
+"l0": false,
+"label": "Element 115: the Lazar claim and moscovium",
+"note": "THE FIRST CLAUSE OF THIS EDGE IS THE CONTRADICTION, NOT THE CONNECTION: nothing about the synthesised element is stable, machinable or storable, and the isotopes 287 and 288 are produced one atom at a time at picobarn cross sections. Lawrence Livermore, an NNSA laboratory, was in the discovering collaboration with Dubna and Oak Ridge. The edge exists because the element-115 claim is routinely presented as vindicated by these events, and this is the record that shows it was not.",
+"sources": [
+{
+"date": "2004-02-02",
+"name": "Oganessian et al., Physical Review C 69, 021601(R)",
+"url": "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601"
+},
+{
+"date": "2015-12-30",
+"name": "IUPAC, discovery and assignment of elements 113, 115, 117 and 118",
+"url": "https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/"
+},
+{
+"date": "2016-11-30",
+"name": "IUPAC announces the names of the elements 113, 115, 117 and 118",
+"url": "https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
 "cls": "legislation",
 "dateEnd": null,
 "dateStart": "1999-10-05",
@@ -69,11 +105,12 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2000-03-01",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "desc": "NNSA is 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science', established by Congress in 2000 in the wake of the Wen Ho Lee security failures at Los Alamos. It operates the weapons complex through management and operating contracts: Los Alamos National Laboratory, Sandia National Laboratories, Lawrence Livermore National Laboratory, the Nevada National Security Site, the Pantex Plant, the Y-12 National Security Complex, the Kansas City National Security Campus and the Savannah River Site. Every one of those facilities is contractor-operated on government-owned land, carries an armed protective force, operates under DOE's own clearance regime rather than the DoD's, and holds material under Restricted Data authority. NNSA is thus the single most capable custodial architecture in the United States government for material that must be stored, guarded, machined and analysed without appearing in any Department of Defense special access program list. The historical UAP record intersects it repeatedly: the 1948-1951 green fireball events centred on LosAlamos, Sandia and the Kirtland complex; the 1980 Manzano Weapons Storage Area intrusions; the persistent identification of the Nevada Test Site and its S-4 area in retrieval testimony; and the modern use of DOE laboratory analytical capability for AARO's materials work.",
 "domains": [
 "_rs-archive-mirror",
+"lazar-s4-2026-09-18",
 "w2-agencies"
 ],
 "dossier": null,
@@ -102,6 +139,16 @@
 "url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
 },
 {
+"date": "2004-02-02",
+"name": "Oganessian et al., Physical Review C 69, 021601(R)",
+"url": "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601"
+},
+{
+"date": "2015-12-30",
+"name": "IUPAC, discovery and assignment of elements 113, 115, 117 and 118",
+"url": "https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/"
+},
+{
 "date": "2026-08-12",
 "name": "NNSA - About NNSA",
 "url": "https://www.energy.gov/nnsa/about-nnsa"
@@ -114,7 +161,7 @@
 ],
 "sub": "Semi-autonomous DOE agency established by Congress in 2000; operator of the nuclear weapons complex",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 502 of 1057, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 420 of 1125, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "2000-03-01",

@@ -1,0 +1,350 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"affiliations": [],
+"age": 69,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Find a Grave memorial 180498305, https://www.findagrave.com/memorial/180498305/edgar-albert-fouch%C3%A9 , opened 2026-09-18",
+"text": "Find a Grave memorial 180498305, created 18 June 2017 and citing an obituary from Mason Funeral Home, records Edgar Albert Fouche, born 22 February 1948 in Americus, Georgia, died 11 May 2017 aged 69, buried at Coffey Cemetery, Streeter, Mason County, Texas, with the inscription 'Saved by the blood of Jesus Christ'. It states he 'served 20 years in the USAF and worked as a Project Manager in the DOD until his 2001 retirement'.",
+"tier": 1
+},
+{
+"source": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+"text": "The Library of Congress name authority attached to LCCN 98002961 gives the author as 'Fouche, Edgar Rothschild, 1948-', independently fixing the birth year against a national bibliographic authority rather than against his own account.",
+"tier": 1
+},
+{
+"source": "Edgar Fouche's Military, and DOD contractors reference Documents, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+"text": "A Meritorious Service Medal citation in his own published document collection reads: 'Master Sergeant Edgar A. Fouche distinguished himself in the performance of outstanding service to the United States as Noncommissioned Officer in Charge, F-16 Manual Test Station and Assistant Integrated Avionics Superintendent, 6100th Logistics Support Squadron, Kadena Air Base, Japan, from 5 September 1979 to 1 March 1982'.",
+"tier": 1
+},
+{
+"source": "Edgar Fouche's Military, and DOD contractors reference Documents, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+"text": "A second Meritorious Service Medal citation, oak leaf cluster, signed by John T. Chain, Jr., General, USAF, Commander in Chief, reads: 'as the Strategic Air Command Liaison Officer, San Antonio Air Logistics Center, Kelly Air Force Base, Texas, from 17 July 1983 to 31 August 1987', and closes 'The singularly distinctive accomplishments of Sergeant Fouche culminate a distinguished career in the service of his country'.",
+"tier": 1
+},
+{
+"source": "Edgar Fouche's Military, and DOD contractors reference Documents, 15 pages read in full, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+"text": "The same collection carries an Air Training Command Associate in Applied Science degree in Avionics Systems Technology conferred July 1983 through the Community College of the Air Force, a 1970 Field Training Detachment certificate in Solid State Devices, and a February 1974 McDonnell Aircraft Corporation certificate for the F-15 Eagle Integrated Avionics Component Technicians Course. Every item in the collection is a decoration, a training certificate, a performance report, a degree, or one personnel assignment letter. There is no discharge certificate, no DD Form 214, no clearance record and no programme document.",
+"tier": 1
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, Copyright Aug. 1998, Fouche Media Associates, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "In his own 1998 presentation he claims clearances no opened record corroborates: 'I've held positions within the USAF that required me to have Top Secret and Q Clearances and Top Secret - Crypto access clearances.' No clearance record of any kind was opened.",
+"tier": 2
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 7 to 10, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "In the same presentation he claims descent from Napoleon's minister of police: 'He was the head of the French secret National Police Force and a direct ancestor of mine.' No genealogical record was opened, and the presentation also calls Joseph Fouche 'the Prime Minister under Napoleon', which is not an office he held.",
+"tier": 2
+},
+{
+"source": "Fouche 1998 presentation text as carried at https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt , opened 2026-09-18",
+"text": "He states the documents were vetted before the talk: 'Before I gave a presentation to the International UFO Congress in Laughlin, Nevada in August, I brought over 200 documents as an offer of proof to substantiate my credibility... These documents were viewed by Ken Seddington of the International UFO Congress, Jim Courrant, a UFO investigator, and Tim Shawcross and John Purdie of Union Pictures in London England.' None of these four people was contacted and no account by any of them was opened, so the claim that the documents were vetted is itself unvetted.",
+"tier": 2
+},
+{
+"source": "Andrew Johnson, checktheevidence.com, 13 January 2015, https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/ , opened 2026-09-18",
+"text": "Andrew Johnson reports that a FOIA return obtained by David Hilton and posted on 25 September 2014 lists Lackland AFB (1967), Keesler AFB and Cannon AFB (1968), 'F-15 Manual Test Station Shift Chief, 57th Component Repair Squadron, Nellis Air Force Base, Nevada, from June 1976 to 16 July 1979', the Kadena assignment, and decorations including the Vietnam Service Medal and Republic of Vietnam Gallantry Cross with Palm Device. The FOIA return itself was not opened by this research.",
+"tier": 2
+},
+{
+"source": "Reasoning over the two Andrew Johnson posts of 12 and 13 January 2015 compared against the decoration citations in the self-published collection; research/leads/verified-tr3b-2026-09-18.md section 5.3",
+"text": "Stated inference. Taking Andrew Johnson's description of the FOIA return at face value, it corroborates the ordinary career and is silent on everything contested: no clearance record, no Groom Lake entry, nothing aerospace. A forgery allegation against the ordinary documents is therefore answered, and the aerospace claims are untouched, because the aerospace claims never rested on documents in the first place.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Three different figures for the length of his career circulate and are not the same figure. His own 1998 presentation says 'My Career Background Spans 30 Years' and, separately, 'As a civilian, from 1987 to 1995, I performed as Engineering Program Manager, Site Manager, and Director of Engineering for several DoD Contractors'. The Find a Grave summary of the funeral home obituary says twenty years in the USAF plus DoD project management to a 2001 retirement. The three are reconcilable but none was reconciled from an opened record.",
+"The temporary duty dates on the AF Form 77a, 1 June to 14 August 1979, extend past 16 July 1979, which is the date Andrew Johnson gives as the close of the Nellis assignment in the FOIA return. Temporary duty running concurrently with, and past the nominal end of, a permanent assignment is normal, but the overlap is recorded here rather than smoothed over, because the FOIA return itself was not opened and the two records were therefore never compared directly."
+],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1998",
+"dateStart": "1998",
+"direction": "out",
+"edgeLabel": "Primary author of Alien Rapture: The Chosen",
+"id": "alien-rapture-1998",
+"l0": false,
+"label": "Alien Rapture: The Chosen, Galde Press, 1998",
+"note": "INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives 'Fouche, Edgar Rothschild, 1948-' with usage primary and a statement of responsibility reading 'Edgar Rothschild Fouche and Brad Steiger.'",
+"sources": [
+{
+"date": "1998-02-04",
+"name": "Library of Congress catalogue record LCCN 98002961, MODS, name usage primary",
+"url": "http://lx2.loc.gov:210/lcdb"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2014-02-11",
+"direction": "in",
+"edgeLabel": "Custodian of the Fouche file, under a named operator",
+"id": "checktheevidence",
+"l0": false,
+"label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+"note": "Mirrors the board's existing arvp-fluxliner-project to mark-mccandlish custody edge. The distinction worth recording is that this custodian signs and dates his posts by name, where arvp.co.uk is anonymous.",
+"sources": [
+{
+"date": "2014-02-11",
+"name": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies'",
+"url": "https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1998-08",
+"dateStart": "1998-08",
+"direction": "out",
+"edgeLabel": "Author and copyright holder of the presentation transcript",
+"id": "fouche-iufoc-1998",
+"l0": false,
+"label": "Fouche's presentation transcript, August 1998",
+"note": "INTENT: AUTHORSHIP. The board has no authorship edge type, and authorship is deliberately NOT built as custody here, because custody is weighted x3.0 as a program edge and giving a claimant a x3 edge to his own document would inflate him. Mapped to research. The document's first four lines are 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, page 1 header",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2014-06-15",
+"dateStart": "2014-06-15",
+"direction": "in",
+"edgeLabel": "Self-published compilation about and by its own subject",
+"id": "fouche-military-documents",
+"l0": false,
+"label": "Edgar Fouche's Military, and DOD contractors reference Documents",
+"note": "INTENT: AUTHORSHIP AND SELF-PUBLICATION, mapped to research rather than custody so that the subject of a file is not given a x3.0 program edge to his own compilation. The compilation is about him, published by him, redacted by him on its own caption's admission, and one passage in it is signed 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'.",
+"sources": [
+{
+"date": "2014-06-15",
+"name": "Edgar Fouche's Military, and DOD contractors reference Documents, caption text layer",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1974",
+"direction": "out",
+"edgeLabel": "Claims assignment to 6515 TSS, AFFTC, Edwards AFB on the F-15 R&D and FOT&E programme",
+"id": "l-edwards-afb",
+"l0": false,
+"label": "Edwards Air Force Base, California",
+"note": "His own statement in the caption layer: 'When I arrived at Edwards AFB - 6515 TSS - AFFTC, I was assigned to the F-15 R&D and FOT&E Program.' No form in the collection carries an Edwards assignment, and Andrew Johnson's account of the FOIA return does not list one. Tier 2 on his word.",
+"sources": [
+{
+"date": "2014-06-15",
+"name": "Edgar Fouche's Military, and DOD contractors reference Documents, caption text layer in his own voice",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1979-08-14",
+"dateStart": "1979-06-01",
+"direction": "out",
+"edgeLabel": "Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation",
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"note": "The strongest documented connection between any TR-3B claimant and a real classified airfield, and it must be read with its own limit attached: the form does not say what he did there, referring that out to 'a separate report' that is not in the file, and everything else on the form describes F-15 avionics intermediate shop work. The extensive Groom Lake narration in the 1998 presentation, including helicopter flights and a mess hall conversation about an NSA system, is Tier 2 on his word alone.",
+"sources": [
+{
+"date": "1979-08-24",
+"name": "AF Form 77a, 24 August 1979, page 3 of the compilation",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+},
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 42 onward",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1998-08",
+"direction": "out",
+"edgeLabel": "Originating claimant of the TR-3B, August 1998",
+"id": "tr-3b",
+"l0": true,
+"label": "TR-3B 'Astra', claimed black triangular aircraft",
+"note": "The claim exists in his copyrighted document and nowhere earlier that was opened. Tier 2 and not 1 because the edge asserts that he is the origin of the claim, which rests on the absence of an earlier source rather than on a positive record. Note that within the artefact itself the sighting is second hand: slide 69 opens 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' He does not claim to have seen it.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 to 72",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1987-08-31",
+"dateStart": "1967",
+"direction": "out",
+"edgeLabel": "USAF master sergeant; twenty year avionics maintenance career, three Meritorious Service Medals",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "Tier 1 and entirely ordinary. The citations describe F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bed-down, and a Strategic Air Command liaison post at Kelly AFB. The second Meritorious Service Medal citation closes 'culminate a distinguished career', which dates the end of active service to 1987.",
+"sources": [
+{
+"date": "2014-06-15",
+"name": "Decoration certificates and citations, performance reports and education certificates in the self-published compilation",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "2017-05-11",
+"dateEnd": null,
+"dateStart": "2017-05-11",
+"deg": 8,
+"denials": [],
+"domains": [
+"tr3b-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "edgar-fouche",
+"instId": "usaf",
+"l0": false,
+"label": "Edgar Fouche",
+"loc": "Mason County, Texas",
+"locId": null,
+"members": null,
+"narrative": "Edgar Albert Fouche is the single named origin of the TR-3B account, and what makes him a node is that origin and not any documented authority. The ordinary facts of his life are settled at Tier 1: born 22 February 1948 in Americus, Georgia, died 11 May 2017 aged 69, buried at Coffey Cemetery in Mason County, Texas, and independently fixed at 1948 by the Library of Congress name authority attached to his own book. The career the opened records document is a twenty year enlisted avionics maintenance career: F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bay, a Strategic Air Command liaison post at Kelly AFB, a Community College of the Air Force associate degree in avionics systems technology, and three Meritorious Service Medals whose citations describe exactly that work. It is an honourable record and an entirely ordinary one, and nothing in it touches aerospace design, propulsion or physics. Everything extraordinary rests on his own word in documents he wrote and copyrighted himself: the Top Secret and 'Q' clearances, the descent from Napoleon's minister of police, the helicopter flights to Groom Lake, and the TR-3B. One document is a real counterweight and the node must carry it: an AF Form 77a of 24 August 1979 records him assigned temporary duty to AFFTC Detachment 3 on the Nellis range for ten weeks, and Peter Merlin, the historian whose analysis demolishes most of the rest of the account, is the source that identifies Detachment 3 AFFTC as the unit operating Groom Lake. That form also says its own limit out loud: his duties there 'have been verified via a separate report', and that separate report is not in the file. In July 1998 he published a novel with Brad Steiger; the Library of Congress catalogues it as science fiction. In August 1998 he gave the presentation that put the TR-3B into the world.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Edgar Fouche",
+"sources": [
+{
+"date": "2017-06-18",
+"name": "Find a Grave memorial 180498305, Edgar Albert Fouche, created by 'Robin' 18 June 2017, citing an obituary from Mason Funeral Home",
+"url": "https://www.findagrave.com/memorial/180498305/edgar-albert-fouch%C3%A9"
+},
+{
+"date": "1998-02-04",
+"name": "Library of Congress catalogue record LCCN 98002961, retrieved through the SRU endpoint with query bath.isbn=1880090503 in MODS schema",
+"url": "http://lx2.loc.gov:210/lcdb"
+},
+{
+"date": "2014-06-15",
+"name": "Edgar Fouche's Military, and DOD contractors reference Documents, 15 page PDF, produced 15 June 2014 with PDF-XChange; text layer extracted and pages 1 and 3 rendered at 190 dpi and read as images",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+},
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, Copyright Aug. 1998, Fouche Media Associates, 62 page transcript with slide cues",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+},
+{
+"date": "2015-01-13",
+"name": "Andrew Johnson, 'Edgar Fouche - Documents Released In FOIA Show The Same Type Of Record As He Provided Himself', checktheevidence.com",
+"url": "https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/"
+},
+{
+"date": null,
+"name": "Fouche 1998 presentation text as carried at , opened 2026-09-18",
+"url": "https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt"
+}
+],
+"status": "dead",
+"sub": "USAF master sergeant and avionics maintenance NCO, later a DoD contractor engineering manager; originating claimant of the TR-3B in an August 1998 presentation",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 208 of 1125, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1948-02-22",
+"id": "tl-1948-02-22-fouche-born",
+"label": "Edgar Albert Fouche born, Americus, Georgia",
+"precision": "day",
+"strand": "witness",
+"text": "Find a Grave memorial 180498305, citing an obituary from Mason Funeral Home, gives the birth date and birthplace. The Library of Congress name authority attached to LCCN 98002961 independently gives 'Fouche, Edgar Rothschild, 1948-'.",
+"tier": "C"
+},
+{
+"date": "1987-08-31",
+"id": "tl-1987-08-31-fouche-sac-liaison-ends",
+"label": "End of Fouche's Strategic Air Command liaison post at Kelly AFB; active service concludes",
+"precision": "day",
+"strand": "witness",
+"text": "The Meritorious Service Medal citation with oak leaf cluster reads 'as the Strategic Air Command Liaison Officer, San Antonio Air Logistics Center, Kelly Air Force Base, Texas, from 17 July 1983 to 31 August 1987', and closes 'The singularly distinctive accomplishments of Sergeant Fouche culminate a distinguished career in the service of his country.' The certificate is signed by John T. Chain, Jr., General, USAF, Commander in Chief.",
+"tier": "C"
+},
+{
+"date": "2014-09-25",
+"id": "tl-2014-09-25-foia-return-posted",
+"label": "Hilton posts the FOIA return on Fouche's military records",
+"precision": "day",
+"strand": "witness",
+"text": "Andrew Johnson records that Hilton filed a Freedom of Information Act request for Fouche's military records and posted the return on 25 September 2014, and reads it as corroborating what Fouche had already said: Lackland AFB 1967, Keesler and Cannon 1968, Nellis June 1976 to 16 July 1979, Kadena 5 September 1979 to 4 March 1982, and decorations including the Vietnam Service Medal and three Meritorious Service Medals. THE FOIA RETURN ITSELF WAS NOT OPENED by this research.",
+"tier": "C"
+},
+{
+"date": "2017-05-11",
+"id": "tl-2017-05-11-fouche-died",
+"label": "Edgar Albert Fouche dies, aged 69; buried Coffey Cemetery, Mason County, Texas",
+"precision": "day",
+"strand": "witness",
+"text": "Find a Grave memorial 180498305, created 18 June 2017 and citing an obituary from Mason Funeral Home, gives the death date and age and the burial at Coffey Cemetery, Streeter, Mason County, Texas, with the inscription 'Saved by the blood of Jesus Christ'. A death date of 6 May 2018 at age 82 also circulates and is wrong on both counts; no opened record supports it.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"That he ever stood at an International UFO Congress podium. The contemporaneous programme for the 7th Annual International UFO Congress Convention gives dates of 1 to 7 February 1998 at the Gold River Resort, Laughlin, Nevada, and its speaker list of 24 names does not include him. His own transcript is headed 'Copyright Aug. 1998' and his own text says he spoke at Laughlin 'in August'. The International UFO Congress ran summer sessions separately from its February convention, so August is consistent rather than contradictory, but no contemporaneous programme, report, ticket or press notice placing him on any podium in 1998 was opened. The venue attribution rests on his own document and on later repetition of it.",
+"Any recorded admission by him that he lied. The arvp.co.uk TR-3B page asserts 'Jeremy Rys found him to have lied in his talk. He said he was pressured by people at iUFOC to mention S4'. No page or video authored by Jeremy Rys about Fouche was opened. The video said to record an admission is David Hilton's, and the only account of it that was opened says its screen could not be read: 'The video is about an alleged Skype conversation with Edgar Fouche, but I could not see the screen clearly enough in Hilton's video to verify the claims he was making'. The Paracast thread titled 'Ed Fouche comes clean - He is a liar and fraud!' contains no confession; its opening post is 'He is simply a faker.' No confession is in evidence anywhere in the opened record.",
+"His screen credits. IMDb returned HTTP 403 to this environment on both the mobile and desktop hosts. The Union Pictures documentary he names in the presentation, and its broadcast date, were not opened, so his own claim that his documents were shown in it is uncorroborated.",
+"A death date of 6 May 2018 at age 82 surfaced in a search result during this research and is wrong on both counts. No opened record supports it. It is recorded here so that a later session does not re-import it."
+]
+}

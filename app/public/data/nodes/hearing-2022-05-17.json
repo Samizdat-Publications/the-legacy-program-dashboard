@@ -1,0 +1,134 @@
+{
+"A": 2,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"text": "The transcript's own caption block reads: 'UNIDENTIFIED AERIAL PHENOMENA / Tuesday, May 17, 2022 / U.S. House of Representatives, / Permanent Select Committee on Intelligence, / Subcommittee on Counterterrorism, Counterintelligence, / and Counterproliferation, / Washington, D.C.' It records that 'The subcommittee met, pursuant to call, at 9:00 a.m., in Room HVC-210, Capitol Visitor Center, the Hon. Andre Carson [chairman of the subcommittee] presiding', with Representatives Carson, Schiff, Welch, Himes, Krishnamoorthi, Wenstrup, Crawford, Gallagher, Mullin and LaHood present.",
+"tier": 1
+},
+{
+"source": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"text": "Carson stated the hearing's premise on the record: 'More than 50 years ago, the U.S. Government ended Project Blue Book... In 2017, we learned for the first time that the Department of Defense had quietly restarted a similar organization, tracking what we now call unidentified aerial phenomena, or UAPs. Last year Congress rewrote the charter for that organization, now called the Airborne Object Identification and Management Synchronization Group, or AOIMSG for short. Today we will bring that organization out of the shadows.'",
+"tier": 1
+},
+{
+"source": "HHRG-117-IG05-Transcript-20220517, https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf , 2022-05-17",
+"text": "Carson put the organisational status question to the witnesses on the record: 'First, we need you to update us on the status of AOIMSG. The legislation creating it was passed in December. The deadline for implementation is fast approaching, but the group does not even have a named director.'",
+"tier": 1
+}
+],
+"cls": "event",
+"cluster": "other",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023-07-26",
+"dateStart": "2022-05-17",
+"direction": "out",
+"edgeLabel": "The first open congressional UAP hearing of the modern era, and the one the Oversight sequence descends from",
+"id": "hearing-2023-07-26",
+"l0": true,
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"note": "Both transcripts are openable and both are on the board. The 2022 hearing precedes the Oversight sequence of 2023, 2024 and 2025.",
+"sources": [
+{
+"date": "2022-05-17",
+"name": "HHRG-117-IG05-Transcript-20220517",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2022-05-17",
+"dateStart": "2022-05-17",
+"direction": "in",
+"edgeLabel": "Witness of record, appearing as Under Secretary of Defense for Intelligence and Security",
+"id": "ronald-moultrie",
+"l0": false,
+"label": "Ronald S. Moultrie",
+"note": "A genuine witness appearance in an official capacity, unlike the Herrera edge above, which is a document entered by motion.",
+"sources": [
+{
+"date": "2022-05-17",
+"name": "HHRG-117-IG05-Transcript-20220517",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2022-05-17",
+"dateStart": "2022-05-17",
+"direction": "in",
+"edgeLabel": "Witness of record, appearing as Deputy Director of Naval Intelligence",
+"id": "scott-bray",
+"l0": false,
+"label": "Scott W. Bray",
+"note": "A genuine witness appearance in an official capacity.",
+"sources": [
+{
+"date": "2022-05-17",
+"name": "HHRG-117-IG05-Transcript-20220517",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "2022-05-17",
+"dateStart": "2022-05-17",
+"deg": 3,
+"denials": [],
+"desc": "The House Permanent Select Committee on Intelligence, Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation, meeting at 9:00 a.m. in Room HVC-210 of the Capitol Visitor Center with Rep. Andre Carson presiding, took testimony from Under Secretary of Defense for Intelligence and Security Ronald S. Moultrie and Deputy Director of Naval Intelligence Scott W. Bray. It is the first open congressional hearing on unidentified aerial phenomena in more than fifty years, and it is the hearing from which the 2023, 2024 and 2025 Oversight sequence descends. The board carried a node for every other congressional UAP hearing of the modern era and not this one, which is the gap this node closes.",
+"domains": [
+"witnesses-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "hearing-2022-05-17",
+"l0": false,
+"label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"locLabel": null,
+"members": null,
+"short": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"sources": [
+{
+"date": "2022-05-17",
+"name": "Transcript, House Permanent Select Committee on Intelligence, Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation, 'Unidentified Aerial Phenomena', 17 May 2022",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
+}
+],
+"sub": "The first open congressional hearing on this subject in over fifty years, taking testimony from Under Secretary Moultrie and Deputy Director Bray",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 460 of 1125, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"timeline": [
+{
+"date": "2022-05-17",
+"id": "tl-2022-05-17-hpsci-uap-hearing",
+"label": "First open congressional UAP hearing in over fifty years",
+"precision": "day",
+"strand": "oversight",
+"text": "The House Permanent Select Committee on Intelligence, Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation met at 9:00 a.m. in Room HVC-210 with Rep. Andre Carson presiding, taking testimony from Under Secretary of Defense for Intelligence and Security Ronald S. Moultrie and Deputy Director of Naval Intelligence Scott W. Bray. Carson opened by saying the subcommittee would 'bring that organization out of the shadows', referring to AOIMSG.",
+"tier": "A"
+}
+]
+}

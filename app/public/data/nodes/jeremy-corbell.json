@@ -22,6 +22,11 @@
 ],
 "claims": [
 {
+"source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"text": "He directed Bob Lazar: Area 51 and Flying Saucers, 2018, 97 minutes, narrated by Mickey Rourke and featuring Bob Lazar, George Knapp and Joy White. It is the artefact that returned the S-4 claim to mass circulation thirty years after the 1989 broadcasts, and it is how the July 2017 search of United Nuclear entered the UFO literature.",
+"tier": 1
+},
+{
 "source": "Wikipedia, 'Jeremy Corbell', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Corbell has released leaked footage from US Navy aircraft associated with the USS Omaha and video of apparently triangular objects filmed by Navy personnel.",
 "tier": 2
@@ -43,11 +48,32 @@
 }
 ],
 "cls": "person",
-"cluster": "media",
+"cluster": "other",
 "conflicts": [
 "Some imagery he released has been attributed by analysts to triangular lens aperture artefacts."
 ],
 "connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "Director of the 2018 documentary",
+"id": "corbell-lazar-2018",
+"l0": false,
+"label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+"note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling.",
+"sources": [
+{
+"date": "2018",
+"name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+"url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+}
+],
+"tier": "C",
+"type": "research"
+},
 {
 "claimTier": 2,
 "cls": "person",
@@ -98,7 +124,7 @@
 "direction": "in",
 "edgeLabel": "'Sleeping Dog' document trove said to originate with a deceased LANL cybersecurity chief",
 "id": "lanl",
-"l0": false,
+"l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them.",
 "sources": [
@@ -178,9 +204,10 @@
 "date": "2021-05-14",
 "dateEnd": null,
 "dateStart": "2021-05-14",
-"deg": 6,
+"deg": 7,
 "denials": [],
 "domains": [
+"lazar-s4-2026-09-18",
 "media-structure",
 "w16-thin-people"
 ],
@@ -205,6 +232,11 @@
 "short": "Jeremy Kenyon Lockyer Corbell",
 "sources": [
 {
+"date": "2018",
+"name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+"url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+},
+{
 "date": "2026-08-12",
 "name": "Wikipedia - Jeremy Corbell",
 "url": "https://en.wikipedia.org/wiki/Jeremy_Corbell"
@@ -218,7 +250,7 @@
 "status": "active",
 "sub": "Filmmaker; co-host, Weaponized",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 669 of 1057, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 603 of 1125, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

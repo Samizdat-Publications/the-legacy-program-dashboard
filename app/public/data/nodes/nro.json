@@ -254,6 +254,27 @@
 "type": "denial"
 },
 {
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1998-08",
+"direction": "in",
+"edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"id": "tr-3b",
+"l0": true,
+"label": "TR-3B 'Astra', claimed black triangular aircraft",
+"note": "A claim about what Fouche said, not about the agency. 'It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA.' No record of any kind connecting the NRO to this designation was opened.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 70",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
 "claimTier": 1,
 "cls": "program",
 "dateEnd": "2021",
@@ -304,7 +325,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1961",
-"deg": 12,
+"deg": 13,
 "denials": [
 {
 "by": {
@@ -558,7 +579,7 @@
 ],
 "sub": "Overhead reconnaissance agency whose existence was itself classified for 31 years",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 105 of 1057, score 59). 12 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 107 of 1125, score 60). 13 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
 "timeline": [
 {
 "date": "1961-09-06",

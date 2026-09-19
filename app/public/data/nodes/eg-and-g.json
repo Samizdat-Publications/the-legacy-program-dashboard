@@ -2,7 +2,7 @@
 "A": 3,
 "C": 3,
 "D": 0,
-"band": "research",
+"band": "custody",
 "claims": [
 {
 "source": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 0:08:54 to 0:09:47",
@@ -71,7 +71,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -144,7 +144,7 @@
 "url": "https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -170,7 +170,7 @@
 "url": "https://www.courtlistener.com/opinion/7058198/kasza-v-browner/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -368,7 +368,7 @@
 "cls": "person",
 "id": "alfred-odonnell",
 "label": "Alfred 'Al' O'Donnell",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "domain",
@@ -386,13 +386,13 @@
 "cls": "location",
 "id": "l-groom-lake",
 "label": "Groom Lake, Nevada",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "location",
 "id": "l-nevada-test-site",
 "label": "Nevada Test Site / Nevada National Security Site",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -451,7 +451,7 @@
 ],
 "sub": "Nuclear test instrumentation and classified site services; Groom Lake support",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 134 of 1057, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 146 of 1125, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "1989-11-01",

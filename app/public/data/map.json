@@ -17,12 +17,12 @@
    "label": "funding"
   },
   {
-   "id": "research",
-   "label": "research"
-  },
-  {
    "id": "oversight",
    "label": "oversight"
+  },
+  {
+   "id": "research",
+   "label": "research"
   },
   {
    "id": "disclosure",
@@ -31,18 +31,33 @@
  ],
  "cells": {
   "custody.0": [
+   "afswc-tr-59-39",
+   "atic",
    "atomic-energy-commission",
+   "battelle",
    "defense-support-program",
+   "eg-and-g",
+   "fab",
+   "lanl",
+   "lockheed-skunk-works",
    "mitre-corporation",
-   "project-blue-book"
+   "nasa",
+   "project-blue-book",
+   "sandia"
   ],
   "custody.1": [
+   "disclosure-project",
    "dod-sapco",
+   "ev-noite-ovnis-1986",
+   "klas-tv",
    "mj-12-documents",
+   "operacao-prato",
    "sac-overflights-1975",
    "the-black-vault"
   ],
   "custody.2": [
+   "arquivo-nacional-ufo",
+   "disclosure-project-briefing-2001",
    "nimitz-2004",
    "ousdi",
    "podesta-delonge-mccasland-email-2016",
@@ -51,11 +66,16 @@
   "custody.3": [
    "aaro",
    "burlison-mitre-letter-2026",
+   "gerb-mitre-investigation",
    "nara-rg615",
    "nara-uap-collection",
    "pursue-releases",
    "samdt-797",
    "uapda-2023"
+  ],
+  "custody.nd": [
+   "us-navy",
+   "wayne-state-university"
   ],
   "disclosure.0": [
    "malmstrom-echo-flight-1967",
@@ -65,6 +85,9 @@
   "disclosure.1": [
    "roswell-report-case-closed",
    "yankee-blue"
+  ],
+  "disclosure.2": [
+   "national-press-club-2001"
   ],
   "disclosure.3": [
    "nyt-2017-12-16"
@@ -83,6 +106,7 @@
    "classified-annex",
    "inscom",
    "nids",
+   "northrop-grumman",
    "stargate-program",
    "usc-10-119",
    "waived-usap",
@@ -136,32 +160,22 @@
    "waived-sap-notification-group"
   ],
   "research.0": [
-   "afswc-tr-59-39",
-   "atic",
-   "battelle",
    "blue-book-special-report-14",
    "condon-committee",
-   "eg-and-g",
-   "fab",
-   "lockheed-skunk-works",
    "mkultra",
-   "nasa",
    "robertson-panel",
-   "sandia",
    "talbert-gravity-series-1955"
   ],
   "research.1": [
    "cefaa",
    "cometa",
-   "ev-noite-ovnis-1986",
-   "operacao-prato",
    "setka-program"
   ],
   "research.2": [
-   "arquivo-nacional-ufo",
    "doc-condign-report",
    "doc-condign-vol3",
    "geipan",
+   "millis-tm-2004-213082",
    "odni",
    "pais-patent-imrd"
   ],
@@ -170,7 +184,6 @@
    "aaro-historical-record-vol2",
    "americans-for-safe-aerospace",
    "galileo-project",
-   "gerb-mitre-investigation",
    "michels-gerb-structural-episode",
    "nasa-uap-ist",
    "paper-nolan-vallee-2022",
@@ -178,10 +191,11 @@
    "uap-task-force"
   ],
   "research.nd": [
+   "dird-antigravity-for-aerospace-applications",
+   "dird-mhd-air-breathing-propulsion-and-power",
+   "dird-warp-drive-dark-energy-and-the",
    "ndaa-fy2023-sec-6802",
-   "senado-brasil",
-   "us-navy",
-   "wayne-state-university"
+   "senado-brasil"
   ],
   "retrieval.0": [
    "afosi",
@@ -205,9 +219,11 @@
    "manhattan-project-2"
   ],
   "reverse-engineering.1": [
+   "arv-fluxliner",
    "doe",
    "earthtech-international",
-   "lockheed-martin"
+   "lockheed-martin",
+   "tr-3b"
   ],
   "reverse-engineering.2": [
    "aatip",
@@ -406,6 +422,12 @@
    "kind": "directed",
    "label": "The Condon report was the stated basis for terminating Blue Book",
    "of": "project-blue-book"
+  },
+  {
+   "by": "darpa",
+   "kind": "association",
+   "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
+   "of": "tr-3b"
   },
   {
    "by": "dia",
@@ -973,10 +995,42 @@
   },
   {
    "a": "aawsap",
+   "b": "dird-antigravity-for-aerospace-applications",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "dird-mhd-air-breathing-propulsion-and-power",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aawsap",
    "b": "dird-series",
    "tier": 1,
    "types": [
     "programmatic"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "dird-warp-drive-dark-energy-and-the",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "klas-tv",
+   "tier": 2,
+   "types": [
+    "custody"
    ]
   },
   {
@@ -1443,6 +1497,14 @@
    ]
   },
   {
+   "a": "cia",
+   "b": "tr-3b",
+   "tier": 2,
+   "types": [
+    "witness-chain"
+   ]
+  },
+  {
    "a": "classified-annex",
    "b": "dod-sapco",
    "tier": 1,
@@ -1525,6 +1587,14 @@
   },
   {
    "a": "darpa",
+   "b": "tr-3b",
+   "tier": 1,
+   "types": [
+    "denial"
+   ]
+  },
+  {
+   "a": "darpa",
    "b": "waived-usap",
    "tier": 3,
    "types": [
@@ -1550,6 +1620,22 @@
   {
    "a": "defense-support-program",
    "b": "usaf",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "dird-antigravity-for-aerospace-applications",
+   "tier": 1,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "dird-warp-drive-dark-energy-and-the",
    "tier": 1,
    "types": [
     "institutional"
@@ -1596,6 +1682,46 @@
    ]
   },
   {
+   "a": "dird-antigravity-for-aerospace-applications",
+   "b": "dird-series",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "dird-antigravity-for-aerospace-applications",
+   "b": "earthtech-international",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dird-mhd-air-breathing-propulsion-and-power",
+   "b": "dird-series",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "dird-mhd-air-breathing-propulsion-and-power",
+   "b": "lockheed-martin",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dird-series",
+   "b": "dird-warp-drive-dark-energy-and-the",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
    "a": "dird-series",
    "b": "earthtech-international",
    "tier": 1,
@@ -1609,6 +1735,31 @@
    "tier": 2,
    "types": [
     "research"
+   ]
+  },
+  {
+   "a": "disclosure-project",
+   "b": "disclosure-project-briefing-2001",
+   "tier": 1,
+   "types": [
+    "institutional",
+    "research"
+   ]
+  },
+  {
+   "a": "disclosure-project",
+   "b": "national-press-club-2001",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "disclosure-project-briefing-2001",
+   "b": "national-press-club-2001",
+   "tier": 1,
+   "types": [
+    "temporal"
    ]
   },
   {
@@ -1771,6 +1922,14 @@
    "tier": 1,
    "types": [
     "programmatic"
+   ]
+  },
+  {
+   "a": "doe",
+   "b": "lanl",
+   "tier": 1,
+   "types": [
+    "institutional"
    ]
   },
   {
@@ -1983,6 +2142,14 @@
    "tier": 1,
    "types": [
     "institutional"
+   ]
+  },
+  {
+   "a": "hearing-2025-09-09",
+   "b": "klas-tv",
+   "tier": 1,
+   "types": [
+    "witness-chain"
    ]
   },
   {
@@ -2236,6 +2403,14 @@
   },
   {
    "a": "mitre-corporation",
+   "b": "northrop-grumman",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "mitre-corporation",
    "b": "rand-corporation",
    "tier": 2,
    "types": [
@@ -2469,6 +2644,14 @@
   },
   {
    "a": "nro",
+   "b": "tr-3b",
+   "tier": 2,
+   "types": [
+    "witness-chain"
+   ]
+  },
+  {
+   "a": "nro",
    "b": "uap-task-force",
    "tier": 1,
    "types": [
@@ -2481,6 +2664,14 @@
    "tier": 1,
    "types": [
     "institutional"
+   ]
+  },
+  {
+   "a": "nsa",
+   "b": "tr-3b",
+   "tier": 2,
+   "types": [
+    "witness-chain"
    ]
   },
   {
@@ -2567,7 +2758,7 @@
   {
    "a": "pais-patent-imrd",
    "b": "us-navy",
-   "tier": 2,
+   "tier": 1,
    "types": [
     "institutional"
    ]
@@ -2643,6 +2834,14 @@
    "tier": 1,
    "types": [
     "legislative"
+   ]
+  },
+  {
+   "a": "sandia",
+   "b": "tr-3b",
+   "tier": 2,
+   "types": [
+    "witness-chain"
    ]
   },
   {
@@ -2731,6 +2930,7 @@
     "podesta-delonge-mccasland-email-2016",
     "nara-rg615",
     "nicap",
+    "disclosure-project-briefing-2001",
     "nimitz-2004",
     "roosevelt-2014-2015",
     "pursue-releases",
@@ -2743,6 +2943,7 @@
     "ttsa-army-crada",
     "battelle",
     "roswell-1947",
+    "lanl",
     "atic",
     "project-blue-book",
     "gao-nsiad-95-187",
@@ -2762,6 +2963,8 @@
     "uap-task-force",
     "arquivo-nacional-ufo",
     "operacao-prato",
+    "dird-antigravity-for-aerospace-applications",
+    "klas-tv",
     "aawsap",
     "rendlesham-1980",
     "odni-memo-es-2026-00818",
@@ -2779,8 +2982,8 @@
     "carve-out"
    ],
    "label": "The custody chain",
-   "onMap": 52,
-   "total": 186
+   "onMap": 56,
+   "total": 204
   },
   {
    "blurb": "A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers.",
@@ -2812,9 +3015,13 @@
     "nicap",
     "cia",
     "aaro-fy2025-annual-report",
+    "millis-tm-2004-213082",
+    "us-navy",
+    "dird-antigravity-for-aerospace-applications",
     "hearing-2025-09-09",
     "aaro-fy2024-annual-report",
     "immaculate-constellation-12-page-report",
+    "tr-3b",
     "aaro-historical-record-vol2",
     "dod-sapco",
     "aztec-1948",
@@ -2830,8 +3037,8 @@
     "waived-usap-mechanism"
    ],
    "label": "Who denied what",
-   "onMap": 42,
-   "total": 136
+   "onMap": 46,
+   "total": 156
   },
   {
    "blurb": "States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument.",
@@ -2942,7 +3149,7 @@
    "sub": "no start date recorded"
   }
  ],
- "generated": "2026-09-18",
+ "generated": "2026-09-19",
  "nodes": [
   {
    "A": 3,
@@ -3077,13 +3284,13 @@
    "id": "afosi",
    "label": "Air Force Office of Special Investigations",
    "short": "AFOSI",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
    "C": 3,
    "D": 2,
-   "band": "research",
+   "band": "custody",
    "cls": "document",
    "cluster": "research",
    "dateStart": "1959-06-19",
@@ -3113,7 +3320,7 @@
    "A": 0,
    "C": 1,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "other",
    "dateStart": "2009",
@@ -3125,10 +3332,25 @@
    "tier": "A"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "program",
+   "cluster": "witness",
+   "dateStart": "1988-11-12",
+   "era": "1",
+   "hl": null,
+   "id": "arv-fluxliner",
+   "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+   "short": "ARV / Flux Liner",
+   "tier": "A"
+  },
+  {
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "other",
    "dateStart": "1951",
@@ -3188,7 +3410,7 @@
    "A": 2,
    "C": 3,
    "D": 1,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "other",
    "dateStart": "1929",
@@ -3398,6 +3620,36 @@
    "A": 0,
    "C": 0,
    "D": 0,
+   "band": "research",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "dird-antigravity-for-aerospace-applications",
+   "label": "Antigravity for Aerospace Applications",
+   "short": "DIA: Antigravity for Aerospace",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": "research",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "dird-mhd-air-breathing-propulsion-and-power",
+   "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+   "short": "DIA: MHD Air Breathing Propulsion",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
    "band": "reverse-engineering",
    "cls": "document",
    "cluster": "other",
@@ -3408,6 +3660,51 @@
    "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
    "short": "38 Defense Intelligence Ref. Docs",
    "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": "research",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "dird-warp-drive-dark-energy-and-the",
+   "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "short": "DIA: Warp Drive and Dark Energy",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "custody",
+   "cls": "program",
+   "cluster": "witness",
+   "dateStart": "1993",
+   "era": "1",
+   "hl": null,
+   "id": "disclosure-project",
+   "label": "The Disclosure Project",
+   "short": "The Disclosure Project",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "custody",
+   "cls": "document",
+   "cluster": "witness",
+   "dateStart": "2001-04",
+   "era": "2",
+   "hl": null,
+   "id": "disclosure-project-briefing-2001",
+   "label": "Disclosure Project Briefing Document, April 2001",
+   "short": "DP Briefing Document, April 2001",
+   "tier": "B"
   },
   {
    "A": 2,
@@ -3533,7 +3830,7 @@
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "contractor",
    "dateStart": "1947",
@@ -3563,7 +3860,7 @@
    "A": 2,
    "C": 1,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "event",
    "cluster": "other",
    "dateStart": "1986-05-19",
@@ -3578,7 +3875,7 @@
    "A": 2,
    "C": 2,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "other",
    "dateStart": "1941",
@@ -3632,7 +3929,7 @@
    "id": "gao-nsiad-95-187",
    "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
    "short": "GAO/NSIAD-95-187",
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -3653,7 +3950,7 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "document",
    "cluster": "research",
    "dateStart": "2026",
@@ -3860,6 +4157,21 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": "custody",
+   "cls": "institution",
+   "cluster": "media",
+   "dateStart": "1981",
+   "era": "1",
+   "hl": null,
+   "id": "klas-tv",
+   "label": "KLAS-TV (Las Vegas)",
+   "short": "KLAS-TV",
+   "tier": "C"
+  },
+  {
    "A": 3,
    "C": 3,
    "D": 3,
@@ -3891,6 +4203,21 @@
   },
   {
    "A": 3,
+   "C": 2,
+   "D": 1,
+   "band": "custody",
+   "cls": "institution",
+   "cluster": "ffrdc",
+   "dateStart": "1943",
+   "era": "0",
+   "hl": null,
+   "id": "lanl",
+   "label": "Los Alamos National Laboratory",
+   "short": "Los Alamos National Laboratory",
+   "tier": "B"
+  },
+  {
+   "A": 3,
    "C": 3,
    "D": 0,
    "band": "reverse-engineering",
@@ -3908,7 +4235,7 @@
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "contractor",
    "dateStart": "1943",
@@ -3963,6 +4290,21 @@
    "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
    "short": "'The Pentagon's UFO Program Is Real'",
    "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 1,
+   "band": "research",
+   "cls": "document",
+   "cluster": "research",
+   "dateStart": "2004-06",
+   "era": "2",
+   "hl": null,
+   "id": "millis-tm-2004-213082",
+   "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "short": "NASA/TM-2004-213082, Millis",
+   "tier": "B"
   },
   {
    "A": 3,
@@ -4043,7 +4385,7 @@
    "A": 1,
    "C": 0,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "research",
    "dateStart": "1958-07-29",
@@ -4052,7 +4394,7 @@
    "id": "nasa",
    "label": "National Aeronautics and Space Administration",
    "short": "NASA",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -4068,6 +4410,21 @@
    "label": "NASA UAP Independent Study Team",
    "short": "NASA UAP Independent Study Team",
    "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "disclosure",
+   "cls": "event",
+   "cluster": "witness",
+   "dateStart": "2001-05-09",
+   "era": "2",
+   "hl": null,
+   "id": "national-press-club-2001",
+   "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "short": "Disclosure Project, 9 May 2001",
+   "tier": "C"
   },
   {
    "A": 3,
@@ -4207,6 +4564,21 @@
   {
    "A": 3,
    "C": 2,
+   "D": 0,
+   "band": "funding",
+   "cls": "institution",
+   "cluster": "contractor",
+   "dateStart": "1994",
+   "era": "1",
+   "hl": null,
+   "id": "northrop-grumman",
+   "label": "Northrop Grumman Corporation",
+   "short": "Northrop Grumman Corporation",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 2,
    "D": 2,
    "band": "funding",
    "cls": "institution",
@@ -4298,7 +4670,7 @@
    "A": 2,
    "C": 2,
    "D": 2,
-   "band": "research",
+   "band": "custody",
    "cls": "program",
    "cluster": "other",
    "dateStart": "1977-10-20",
@@ -4457,7 +4829,7 @@
    "id": "rendlesham-1980",
    "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
    "short": "Rendlesham Forest, 1980",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
@@ -4553,7 +4925,7 @@
    "A": 3,
    "C": 3,
    "D": 1,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "ffrdc",
    "dateStart": "1949",
@@ -4742,7 +5114,22 @@
    "id": "the-black-vault",
    "label": "The Black Vault",
    "short": "The Black Vault",
-   "tier": "C"
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "program",
+   "cluster": "witness",
+   "dateStart": "1998-08",
+   "era": "1",
+   "hl": null,
+   "id": "tr-3b",
+   "label": "TR-3B 'Astra', claimed black triangular aircraft",
+   "short": "TR-3B 'Astra' (claimed)",
+   "tier": "A"
   },
   {
    "A": 2,
@@ -4868,7 +5255,7 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "ic",
    "dateStart": null,
@@ -4877,7 +5264,7 @@
    "id": "us-navy",
    "label": "United States Navy",
    "short": "United States Navy",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -4958,7 +5345,7 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "research",
    "dateStart": null,
@@ -5000,7 +5387,7 @@
    "tier": "B"
   }
  ],
- "source": "2697314bdac1",
+ "source": "a6674d2616e7",
  "summarised": [
   {
    "a": "aaro",
@@ -5114,6 +5501,14 @@
   },
   {
    "a": "aaro-historical-record-vol1",
+   "b": "hearing-2025-09-09",
+   "via": [
+    "david-grusch",
+    "michael-herrera"
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
    "b": "immaculate-constellation",
    "via": [
     "luis-elizondo",
@@ -5207,7 +5602,6 @@
    "b": "earthtech-international",
    "via": [
     "dird-advanced-space-propulsion-based-on-vacuum",
-    "dird-antigravity-for-aerospace-applications",
     "dird-concepts-for-extracting-energy-from-the",
     "dird-laser-lightcraft-nanosatellites",
     "dird-quantum-tomography-of-negative-energy-states",
@@ -5219,7 +5613,6 @@
    "b": "lockheed-martin",
    "via": [
     "dird-aneutronic-fusion-propulsion-2",
-    "dird-mhd-air-breathing-propulsion-and-power",
     "dird-ultracapacitors-as-energy-and-power-storage",
     "vincent-teofilo"
    ]
@@ -5240,6 +5633,14 @@
    "via": [
     "ryan-graves",
     "tim-gallaudet"
+   ]
+  },
+  {
+   "a": "arv-fluxliner",
+   "b": "dird-antigravity-for-aerospace-applications",
+   "via": [
+    "eric-davis",
+    "thomas-townsend-brown"
    ]
   },
   {
@@ -5449,6 +5850,14 @@
    ]
   },
   {
+   "a": "darpa",
+   "b": "usaf",
+   "via": [
+    "harry-s-truman",
+    "northrop-tacit-blue"
+   ]
+  },
+  {
    "a": "dia",
    "b": "dird-series",
    "via": [
@@ -5459,7 +5868,6 @@
     "dird-aneutronic-fusion-propulsion",
     "dird-aneutronic-fusion-propulsion-2",
     "dird-anomalous-acute-and-subacute-field-effects",
-    "dird-antigravity-for-aerospace-applications",
     "dird-laser-lightcraft-nanosatellites",
     "dird-negative-mass-propulsion",
     "dird-pulsed-high-power-microwave-source-technology",
@@ -5468,8 +5876,7 @@
     "dird-technological-approaches-to-controlling-external-devices",
     "dird-the-role-of-superconductors-in-gravity",
     "dird-the-space-communication-implications-of-quantum",
-    "dird-traversable-wormholes-stargates-and-negative-energy",
-    "dird-warp-drive-dark-energy-and-the"
+    "dird-traversable-wormholes-stargates-and-negative-energy"
    ]
   },
   {
@@ -5485,7 +5892,6 @@
    "b": "earthtech-international",
    "via": [
     "dird-advanced-space-propulsion-based-on-vacuum",
-    "dird-antigravity-for-aerospace-applications",
     "dird-laser-lightcraft-nanosatellites",
     "dird-traversable-wormholes-stargates-and-negative-energy"
    ]
@@ -5507,11 +5913,26 @@
    ]
   },
   {
+   "a": "dird-antigravity-for-aerospace-applications",
+   "b": "dird-warp-drive-dark-energy-and-the",
+   "via": [
+    "alcubierre-1994",
+    "eric-davis"
+   ]
+  },
+  {
+   "a": "dird-antigravity-for-aerospace-applications",
+   "b": "millis-tm-2004-213082",
+   "via": [
+    "alcubierre-1994",
+    "thomas-townsend-brown"
+   ]
+  },
+  {
    "a": "dird-series",
    "b": "lockheed-martin",
    "via": [
     "dird-aneutronic-fusion-propulsion-2",
-    "dird-mhd-air-breathing-propulsion-and-power",
     "dird-ultracapacitors-as-energy-and-power-storage"
    ]
   },
@@ -5554,6 +5975,14 @@
    "via": [
     "eric-davis",
     "kit-green"
+   ]
+  },
+  {
+   "a": "disclosure-project-briefing-2001",
+   "b": "rendlesham-1980",
+   "via": [
+    "clifford-stone",
+    "larry-warren"
    ]
   },
   {
@@ -5813,6 +6242,14 @@
    ]
   },
   {
+   "a": "klas-tv",
+   "b": "nyt-2017-12-16",
+   "via": [
+    "d-media",
+    "harry-reid"
+   ]
+  },
+  {
    "a": "lockheed-martin",
    "b": "lockheed-skunk-works",
    "via": [
@@ -5843,6 +6280,14 @@
    "via": [
     "d-contracting",
     "luis-elizondo"
+   ]
+  },
+  {
+   "a": "millis-tm-2004-213082",
+   "b": "nasa",
+   "via": [
+    "canning-nasa-cr-2004-213312",
+    "nasa-bpp"
    ]
   },
   {
@@ -6036,6 +6481,14 @@
    "via": [
     "harold-puthoff",
     "kit-green"
+   ]
+  },
+  {
+   "a": "tr-3b",
+   "b": "usaf",
+   "via": [
+    "edgar-fouche",
+    "northrop-tacit-blue"
    ]
   },
   {

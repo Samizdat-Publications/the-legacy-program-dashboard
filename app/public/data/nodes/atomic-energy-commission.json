@@ -166,7 +166,7 @@
 "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "geographic"
 },
 {
@@ -187,7 +187,7 @@
 "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "geographic"
 },
 {
@@ -338,13 +338,13 @@
 "cls": "location",
 "id": "l-groom-lake",
 "label": "Groom Lake, Nevada",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "location",
 "id": "l-nevada-test-site",
 "label": "Nevada Test Site / Nevada National Security Site",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -383,6 +383,6 @@
 ],
 "sub": "Civilian atomic authority, 1946-1974; statutory custodian of fissionable material and atomic weapons",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 124 of 1057, score 55). 9 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 129 of 1125, score 55). 9 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": []
 }

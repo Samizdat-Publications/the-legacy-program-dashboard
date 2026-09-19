@@ -14,6 +14,27 @@
 "cluster": "research",
 "connections": [
 {
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "2019-06-18",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "NASA treated high frequency gravitational waves as a detection problem in 2004",
+"id": "millis-tm-2004-213082",
+"l0": true,
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+"note": "STATED INFERENCE ABOUT THE DISTANCE BETWEEN TWO DOCUMENTS AND NOT A REFUTATION. Section 3.3.2 opens 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses' and proceeds to interferometry and LIGO. Fifteen years later US 10,322,827 was granted for a generator. Both statements are Tier 1 for what their own documents say and nothing opened joins them.",
+"sources": [
+{
+"date": "2004",
+"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
+"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
 "claimTier": 1,
 "cls": "document",
 "dateEnd": null,
@@ -59,7 +80,7 @@
 "coords": null,
 "dateEnd": "2019-06-18",
 "dateStart": "2017-02-14",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "desc": "The filing with the largest asserted consequences. Application 15/431823, filed 14 February 2017 and granted 18 June 2019, assigned to the Secretary of the Navy. The PAX 205 briefing links it directly to the inertial mass reduction device, stating that the IMRD can be used as an artificial gravitational wave generator by enabling the Gertsenshtein Effect, with offensive and defensive military applications and planetary-scale local spacetime modification described as feasible. Filing followed the first detection of gravitational waves, which the same briefing dates to February 2016.",
 "domains": [
@@ -88,7 +109,7 @@
 ],
 "sub": "Application 15/431823, filed 14 February 2017, granted 18 June 2019; assignee the Secretary of the Navy",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 861 of 1057, score 17). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 887 of 1125, score 18). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [
 {
 "date": "2019-06-18",

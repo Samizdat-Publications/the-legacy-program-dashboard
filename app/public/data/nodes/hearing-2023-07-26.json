@@ -184,7 +184,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "programmatic"
 },
 {
@@ -215,7 +215,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "witness-chain"
 },
 {
@@ -416,6 +416,27 @@
 "date": "2023-06-05",
 "name": "The Debrief",
 "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2023-07-26",
+"dateStart": "2022-05-17",
+"direction": "in",
+"edgeLabel": "The first open congressional UAP hearing of the modern era, and the one the Oversight sequence descends from",
+"id": "hearing-2022-05-17",
+"l0": false,
+"label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"note": "Both transcripts are openable and both are on the board. The 2022 hearing precedes the Oversight sequence of 2023, 2024 and 2025.",
+"sources": [
+{
+"date": "2022-05-17",
+"name": "HHRG-117-IG05-Transcript-20220517",
+"url": "https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-Transcript-20220517.pdf"
 }
 ],
 "tier": "B",
@@ -696,7 +717,7 @@
 "coords": null,
 "dateEnd": "2023",
 "dateStart": "2023",
-"deg": 19,
+"deg": 20,
 "denials": [
 {
 "by": {
@@ -887,7 +908,7 @@
 "cls": "person",
 "id": "david-fravor",
 "label": "David Fravor",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "person",
@@ -917,6 +938,12 @@
 "cls": "document",
 "id": "grusch-icig-complaint",
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "hearing-2022-05-17",
+"label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
 "tier": "B"
 },
 {
@@ -1028,7 +1055,7 @@
 ],
 "sub": "congressional-hearings",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 24 of 1057, score 102). 24 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 24 of 1125, score 103). 25 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
 "timeline": [
 {
 "date": "2023-07-20",

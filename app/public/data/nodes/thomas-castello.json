@@ -1,0 +1,226 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Norio Hayakawa, Civilian Intelligence News Service, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"text": "THE CONFESSION. Tal Levesque, who wrote as Jason Bishop III, told Adam Gorightly by email in November 2015: 'You still do not get it. TEC (Thomas Edwin Castello) is a creation. A MYTH. I took rantings from a heavily drugged (with prescription pills) woman Ann West (a.k.a., Cherry Hinkle), made corrections to stuff that was really wrong, added my own real research, mixed it together. That was the basis of the two original DULCE BASE articles.' Tier 2 and not Tier 1 because the email was read as reproduced on Hayakawa's site quoting Gorightly's book, and neither the email nor the book was opened by this board.",
+"tier": 2
+},
+{
+"source": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 Levesque email, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"text": "THE MECHANISM, AND THE REASON THIS NODE MATTERS TO THE BOARD'S OWN RULES. In the same message Levesque describes how the appearance of independent corroboration was produced: 'Literally, I made 100 large envelope packets with supporting material about Underground bases, genetic research, hidden science (R & D), etc. and sent the material to authors and lecturers, who then mixed it into their talks, articles and books.' This is a documented instance of many apparently separate sources sharing one method and one origin.",
+"tier": 2
+},
+{
+"source": "The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+"text": "John Greenewald, publishing a case file on 1 April 2016, states: 'There is no evidence that I have found, that shows that Thomas Costello even exists.' Note the spelling variant Costello, which is how the viral posts carry the name.",
+"tier": 2
+},
+{
+"source": "The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/ , opened 2026-09-19",
+"text": "The photograph circulated for years as Castello's leaked evidence of bodies in a chamber at Dulce is a frame from the 2000 feature film The 6th Day. Greenewald: it 'is, in fact, a verifiable hoax', and 'You can see that the position of the bodies, inside the chamber, are a match.' Tier 1 because the identification is checkable by anyone against the film.",
+"tier": 1
+},
+{
+"source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "A further negative exists and is recorded here only so that it is not later mistaken for a check. Norio Hayakawa wrote on 29 August 2016 that an 'alleged' retired Air Force colonel told him no Thomas Edwin Castello was ever employed as security personnel at Dulce. The source is anonymous and Hayakawa brackets him in his own quotation marks.",
+"tier": 3
+},
+{
+"source": "Inference from the absence of any identifying particular in every version of the claim opened by this session, 2026-09-19",
+"text": "STATED INFERENCE. No jurisdiction, employer of record, date of birth or date of death has ever been attached to the name in any version of the claim, so no vital-records, employment or corporate personnel search is even formulable. The claim is constructed so as to be unfalsifiable by records search. Reasoning: this is an observation about the shape of the claim, not about the world, and it is why the author's own testimony is the only thing that could ever have settled it.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"The name is carried as both Castello and Costello across the literature and within single sources. Neither spelling has a record behind it."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The claimed insider, whose author confessed the invention",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "The edge records that the claim was made and circulated under this name. The node it runs from records that the man who wrote the original articles says he invented the name. Both halves are needed: deleting the edge would leave the downstream literature unexplained, and leaving it untyped would let a fabricated witness read as a witness.",
+"sources": [
+{
+"date": "2024-04-02",
+"name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+{
+"date": "2016-04-01",
+"name": "The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello'",
+"url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2016-04-01",
+"dateStart": "2016-04-01",
+"direction": "in",
+"edgeLabel": "'There is no evidence that I have found, that shows that Thomas Costello even exists'",
+"id": "john-greenewald",
+"l0": false,
+"label": "John Greenewald Jr.",
+"note": "A named researcher's published negative, dated, and consistent with the confession obtained independently by Gorightly. Note the Costello spelling, which is how the viral posts carry the name.",
+"sources": [
+{
+"date": "2016-04-01",
+"name": "The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello'",
+"url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2015-11",
+"dateStart": "2015-11",
+"direction": "in",
+"edgeLabel": "Confessed authorship: 'TEC ... is a creation. A MYTH'",
+"id": "tal-levesque",
+"l0": false,
+"label": "Tal Levesque (Jason Bishop III)",
+"note": "The only confession of authorship in the cluster, made by email to Adam Gorightly in November 2015 after a long correspondence in which Levesque had maintained the opposite. Read as reproduced on Hayakawa's site quoting Gorightly's book, so Tier 2.",
+"sources": [
+{
+"date": "2024-04-02",
+"name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+{
+"date": "2021-04-23",
+"name": "Norio Hayakawa, 'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths'",
+"url": "https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/"
+}
+],
+"tier": "C",
+"type": "denial"
+}
+],
+"date": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "tal-levesque",
+"label": "Tal Levesque (Jason Bishop III)"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Confessed authorship: 'TEC ... is a creation. A MYTH'",
+"note": "The only confession of authorship in the cluster, made by email to Adam Gorightly in November 2015 after a long correspondence in which Levesque had maintained the opposite. Read as reproduced on Hayakawa's site quoting Gorightly's book, so Tier 2.",
+"of": {
+"id": "thomas-castello",
+"label": "Thomas Edwin Castello (fabricated)"
+},
+"sources": [
+{
+"date": "2024-04-02",
+"name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+{
+"date": "2021-04-23",
+"name": "Norio Hayakawa, 'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths'",
+"url": "https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/"
+}
+]
+}
+],
+"domains": [
+"dulce-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "thomas-castello",
+"instId": null,
+"l0": false,
+"label": "Thomas Edwin Castello (fabricated)",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "THE NAME WAS CONFESSED AS AN INVENTION BY THE MAN WHO SAYS HE INVENTED IT. Thomas Edwin Castello is presented in the Dulce literature as a security technician who worked inside the alleged facility, stole a set of photographs and papers, and vanished with his family. In November 2015 Tal Levesque, who wrote under the name Jason Bishop III and who authored the two original Dulce Base articles, told the researcher Adam Gorightly by email: 'You still do not get it. TEC (Thomas Edwin Castello) is a creation. A MYTH.' He named his ingredients in the same message and described mailing a hundred large packets of supporting material to authors and lecturers who then folded it into their own talks, articles and books. That last sentence is the important one, because it describes the deliberate manufacture of the appearance of independent corroboration: the many later sources that agree about Castello agree because they were seeded from one envelope. This node is therefore not an absence-of-record node and should never be rebuilt as one. Absence of record is what a board writes when it has looked and found nothing; here the author has spoken. The separate checks that were made are consistent with the confession and add nothing to it: John Greenewald, publishing on 1 April 2016, states 'There is no evidence that I have found, that shows that Thomas Costello even exists', and demonstrates that the single most-circulated piece of physical evidence attached to the name, a photograph of bodies in a chamber, is a frame from the 2000 film The 6th Day. One point of honesty about the sourcing: the confession reaches this board at second hand. It was read as reproduced on Norio Hayakawa's site, quoting Gorightly's book, and neither the email nor the book was opened. That is why the confession claim is graded Tier 2 rather than Tier 1, and it is the single item in this cluster most worth upgrading. A further negative recorded by Hayakawa in 2016, that an 'alleged' retired Air Force colonel told him no such person was ever employed at Dulce, is anonymous, is bracketed in quotation marks by Hayakawa himself, and is carried at Tier 3 so that nobody later mistakes it for a check. No jurisdiction, employer of record, date of birth or date of death has ever been attached to the name, which means no records search is even formulable: the claim is built so as to be unfalsifiable by records, and only its author could ever have settled it.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Thomas Edwin Castello (fabricated)",
+"sources": [
+{
+"date": "2024-04-02",
+"name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+},
+{
+"date": "2021-04-23",
+"name": "Norio Hayakawa, 'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths'",
+"url": "https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/"
+},
+{
+"date": "2016-08-29",
+"name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+{
+"date": "2016-04-01",
+"name": "The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello'",
+"url": "https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/"
+}
+],
+"status": "fabricated",
+"sub": "The claimed Dulce security officer. Confessed as an invention by the man who says he invented him",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 868 of 1125, score 18). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
+"timeline": [
+{
+"date": "2015-11",
+"id": "tl-2015-11-levesque-confession",
+"label": "THE CONFESSION: 'TEC (Thomas Edwin Castello) is a creation. A MYTH'",
+"precision": "month",
+"strand": "witness",
+"text": "Tal Levesque, who wrote as Jason Bishop III and authored the two original Dulce Base articles, told Adam Gorightly by email that Castello was his own invention, described composing the articles from an account by a woman he names as Ann West mixed with his own research, and described mailing a hundred large envelope packets of supporting material to authors and lecturers 'who then mixed it into their talks, articles and books'. The single most important dated item in this cluster, and the board's cleanest worked example of manufactured corroboration.",
+"tier": "B"
+},
+{
+"date": "2016-04-01",
+"id": "tl-2016-04-01-greenewald-photo",
+"label": "Greenewald traces the Dulce photograph to the film The 6th Day",
+"precision": "day",
+"strand": "witness",
+"text": "The photograph of bodies in a chamber, circulated for years as Castello's leaked proof, is a frame from the 2000 feature film: it 'is, in fact, a verifiable hoax', and 'You can see that the position of the bodies, inside the chamber, are a match.' In the same case file: 'There is no evidence that I have found, that shows that Thomas Costello even exists.'",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The 'Dulce Papers' and the accompanying thirty-odd photographs and videotape said to have been removed by Castello. No copy of any of them was opened. They are folded into this node rather than given a node of their own, because the confession covers both.",
+"That Castello and his family disappeared or died. No missing-person report, death record or news report was opened."
+]
+}

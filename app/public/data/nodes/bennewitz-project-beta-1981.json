@@ -1,0 +1,108 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"text": "Bennewitz summarised his own investigation in late 1981 in a document of roughly five thousand words titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)', which opens by describing the research methods he used to obtain his information.",
+"tier": 2
+},
+{
+"source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"text": "Two verbatim fragments were read: 'IN TRUTH THEY TEND TO LIE, HOWEVER THEIR MEMORY FOR LYING IS NOT LONG' and 'THEY MUST BE MADE TO COME DOWN - DESTRUCT THEMSELVES WHICH IS A STANDING ORDER'. The document itself was not opened by this session.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1981",
+"dateStart": "1981",
+"direction": "out",
+"edgeLabel": "The claimant's own dated statement of his own claim, late 1981",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "His roughly five-thousand-word report, read only in two fragments quoted by a 2025 newsletter. The edge records the existence and date of the claimant's own document, which is the anchor discipline this board asks for, and it does not assert the document's contents beyond the fragments read.",
+"sources": [
+{
+"date": "2025-11-29",
+"name": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'",
+"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1981",
+"dateStart": "1981",
+"direction": "in",
+"edgeLabel": "Author of the late-1981 report",
+"id": "paul-bennewitz",
+"l0": false,
+"label": "Paul Frederick Bennewitz",
+"note": "Authorship, typed research rather than custody by rule: custody carries a programme weighting and inflating a claimant with it is a defect this board has already had to remove once.",
+"sources": [
+{
+"date": "2025-11-29",
+"name": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'",
+"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "1981",
+"dateStart": "1981",
+"deg": 2,
+"denials": [],
+"desc": "THIS IS NOT GREG BISHOP'S BOOK. Two different documents in this cluster are called Project Beta and conflating them would be a real error, which is why this node carries the author's name in its id. This one is Paul Bennewitz's own report, written in late 1981, about five thousand words, titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)'. It is the artefact the board has been missing: the claimant's own dated statement of his own claim, which is what the anchor discipline asks for, and the thing the AFOSI operation was reacting to. Two fragments were read, both in capitals in the original as quoted: 'IN TRUTH THEY TEND TO LIE, HOWEVER THEIR MEMORY FOR LYING IS NOT LONG' and 'THEY MUST BE MADE TO COME DOWN - DESTRUCT THEMSELVES WHICH IS A STANDING ORDER'. The document itself was NOT opened; the fragments were read in a November 2025 newsletter whose author states that he is relying almost entirely on Greg Bishop as sole source and who flags Bishop's undisclosed friendship with Bill Moore. That caveat travels with the citation, and it is why every claim here is Tier 2. The node is built incomplete on purpose so that a later pass has somewhere to attach the document when somebody opens it.",
+"domains": [
+"dulce-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "bennewitz-project-beta-1981",
+"l0": false,
+"label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
+"locLabel": null,
+"members": null,
+"short": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
+"sources": [
+{
+"date": "2025-11-29",
+"name": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'",
+"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
+}
+],
+"sub": "The claimant's own dated statement of his own claim, roughly five thousand words. DISTINCT FROM GREG BISHOP'S 2005 BOOK OF THE SAME NAME",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1083 of 1125, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1981",
+"id": "tl-1981-bennewitz-project-beta",
+"label": "Bennewitz writes his own report, 'Project Beta'",
+"precision": "year",
+"strand": "witness",
+"text": "Roughly five thousand words, titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)'. The claimant's own dated statement of his own claim, and the artefact the board had been missing. Read only in two fragments quoted by a 2025 newsletter. NOT to be confused with Greg Bishop's 2005 book of the same name.",
+"tier": "B"
+}
+]
+}

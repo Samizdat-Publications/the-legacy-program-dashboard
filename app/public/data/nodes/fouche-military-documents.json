@@ -1,0 +1,245 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Edgar Fouche's Military, and DOD contractors reference Documents, 15 pages read in full, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+"text": "The compilation contains no discharge certificate, no DD Form 214, no security clearance record, no SF 86, no contract, no programme document and no drawing. Every item is a decoration, a training certificate, a performance report, a degree, or one personnel assignment letter.",
+"tier": 1
+},
+{
+"source": "Edgar Fouche's Military, and DOD contractors reference Documents, page 1 image, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+"text": "THE 'SAC/DARPA CLASSIFIED DOCUMENT' CARRIES NO CLASSIFICATION MARKING. The page 1 image, rendered at 190 dpi and read, reads: 'DEPARTMENT OF THE AIR FORCE / HEADQUARTERS STRATEGIC AIR COMMAND / OFFUTT AIR FORCE BASE, NEBRASKA 68113 / 10 JUL 1984 / REPLY TO ATTN OF: DARPA / SUBJECT: Request for Assignment [redacted] MSgt Edgar A. Fouche, FR[redacted] (Your Ltr, 21 Jun 84) / TO: LGMQ / HQ AFMPC has approved an AAR 51[redacted] on MSgt (32674) Fouche as requested. MSgt Fouche's date of availability is Aug 87. / DALE E. HAGERMAN, TSgt, USAF / NCOIC, Amn Acft Maint Asgns Sec / Dir of Asgns, DCS/Pers', with a handwritten marginal note reading '(Controlled) 51 still accessable until' and the Strategic Air Command motto at the foot. There is no banner marking, no portion marking, no control number and no copy-of count anywhere on the page. It is signed by a technical sergeant in an assignments section of a personnel directorate.",
+"tier": 1
+},
+{
+"source": "Edgar Fouche's Military, and DOD contractors reference Documents, page 1 caption text layer, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+"text": "THE REDACTIONS WERE APPLIED BY THE SUBJECT OF THE RECORD, ON HIS OWN CAPTION'S ADMISSION: 'The first blackened out part is a classified assignment SCI/:SAP code. The second blackened out part is my SSN. AAR is After Action Request, refers to a classified program. This was blackened out by me as the specific AAR is classified TS.' The document as published therefore cannot be checked at precisely the points where its publisher says the meaning lies.",
+"tier": 1
+},
+{
+"source": "Edgar Fouche's Military, and DOD contractors reference Documents, page 1 caption text layer, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+"text": "The same caption misnames the agency it invokes: 'First DARPA (Defense Advanced Research Agency asked that I be available until 1987)'. The agency is the Defense Advanced Research Projects Agency.",
+"tier": 1
+},
+{
+"source": "Edgar Fouche's Military, and DOD contractors reference Documents, text layer, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+"text": "The compilation's final pages are not about Fouche but about Bob Lazar, arguing that his W-2 is suspect, that 'MAJ' on his badge 'could also stand for MAJ COM- MAJOR COMMAND', that the badge 'is not an original badge but a composite image someone created', and closing 'I am still scanning the MIT archives for proof that Bob Lazar was a student there... Haven't found anything as of yet.'",
+"tier": 1
+},
+{
+"source": "Edgar Fouche's Military, and DOD contractors reference Documents, text layer, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf , opened 2026-09-18",
+"text": "The commentary is mixed-voice and cannot be treated as third-party curation. One passage is signed inside the text itself: 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'.",
+"tier": 1
+},
+{
+"source": "Edgar Fouche's Military, and DOD contractors reference Documents, text layer, and the HTML original at http://www.checktheevidence.co.uk/articles/edgar%20fouche%20documents.htm , opened 2026-09-18",
+"text": "The captions name a vetting witness: 'This is consistent with his previous documents and also has been verified by Don Waldrop, California State Director MUFON. Don Waldrop saw this document and about 200 others in 1998.' This is Tier 1 as a record of what the page says. Waldrop's own account was not opened.",
+"tier": 1
+},
+{
+"source": "Andrew Johnson, checktheevidence.com, 12 and 13 January 2015, http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm , opened 2026-09-18",
+"text": "David Hilton alleged in a video of 26 June 2014 that Fouche 'faked one or more of his own military documents' and therefore could not be trusted; Hilton then filed a Freedom of Information Act request for Fouche's military records and posted the return on 25 September 2014. Andrew Johnson's reading of the return is that it corroborates what Fouche had already said.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2014-06-15",
+"direction": "out",
+"edgeLabel": "Military documents compilation hosted by Check The Evidence",
+"id": "checktheevidence",
+"l0": false,
+"label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+"note": "Genuine custody. The site holds both the HTML original and the printed PDF, which is how the compilation's provenance was established.",
+"sources": [
+{
+"date": "2014-06-15",
+"name": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', the index page linking the file; and the HTML original the PDF was printed from",
+"url": "http://www.checktheevidence.co.uk/articles/edgar%20fouche%20documents.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2014-06-15",
+"dateStart": "2014-06-15",
+"direction": "out",
+"edgeLabel": "Self-published compilation about and by its own subject",
+"id": "edgar-fouche",
+"l0": false,
+"label": "Edgar Fouche",
+"note": "INTENT: AUTHORSHIP AND SELF-PUBLICATION, mapped to research rather than custody so that the subject of a file is not given a x3.0 program edge to his own compilation. The compilation is about him, published by him, redacted by him on its own caption's admission, and one passage in it is signed 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'.",
+"sources": [
+{
+"date": "2014-06-15",
+"name": "Edgar Fouche's Military, and DOD contractors reference Documents, caption text layer",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2014-06-15",
+"dateStart": "2014-06-15",
+"direction": "in",
+"edgeLabel": "The AF Form 77a is page 3 of the compilation",
+"id": "fouche-afftc-det3-1979",
+"l0": false,
+"label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+"note": "INTENT: CONTAINMENT. The board has no contains edge type, so this is built as custody, document to document, which is genuine containment custody and does not inflate any person.",
+"sources": [
+{
+"date": "2014-06-15",
+"name": "Edgar Fouche's Military, and DOD contractors reference Documents, page 3",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2016-03-19",
+"direction": "in",
+"edgeLabel": "Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office",
+"id": "peter-merlin",
+"l0": false,
+"label": "Peter W. Merlin",
+"note": "Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction.",
+"sources": [
+{
+"date": "2016-03-19",
+"name": "Peter Merlin, quoted verbatim in Norio Hayakawa, 19 March 2016",
+"url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+},
+{
+"date": "1984-07-10",
+"name": "The page 1 image of the compilation, rendered at 190 dpi and read, which corroborates the absence of classification markings and the signature block",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "2014-06-15",
+"dateStart": "2014-06-15",
+"deg": 4,
+"denials": [
+{
+"by": {
+"id": "peter-merlin",
+"label": "Peter W. Merlin"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office",
+"note": "Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction.",
+"of": {
+"id": "fouche-military-documents",
+"label": "Edgar Fouche's Military, and DOD contractors reference Documents"
+},
+"sources": [
+{
+"date": "2016-03-19",
+"name": "Peter Merlin, quoted verbatim in Norio Hayakawa, 19 March 2016",
+"url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+},
+{
+"date": "1984-07-10",
+"name": "The page 1 image of the compilation, rendered at 190 dpi and read, which corroborates the absence of classification markings and the signature block",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+}
+]
+}
+],
+"desc": "This is the artefact both sides of the Fouche dispute argue over, and it deserves a node so that the arguments attach to a document rather than to a vague 'his documents'. It is a print of an HTML page, produced on 15 June 2014 with PDF-XChange, fifteen pages carrying 23 embedded images. Its text layer is caption and commentary rather than record, and the commentary is mixed-voice: some of it is a compiler's and some is Fouche's own, one passage being signed inside the text 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'. It is legible. WHAT IT CONTAINS is a 1967 basic training photograph, a Department of the Air Force letter of 10 July 1984, an AF Form 77a of 24 August 1979, a 1968 on-the-job training certificate, a 1970 Field Training Detachment certificate in solid state devices, a February 1974 McDonnell Aircraft Corporation certificate, a 1985 Strategic Air Command liaison performance report, a 1993 contractor performance evaluation, five decoration certificates and citations, and two education certificates. WHAT IT DOES NOT CONTAIN is a discharge certificate, a DD Form 214, a security clearance record, an SF 86, a contract, a programme document, or a drawing. It documents an avionics maintenance career and it supports no aerospace, propulsion or reverse-engineering claim whatever. Its final pages are not about Fouche at all: they are an attack on Bob Lazar's documentation, arguing that his W-2 is suspect, that 'MAJ' on his badge 'could also stand for MAJ COM- MAJOR COMMAND', and closing 'I am still scanning the MIT archives for proof that Bob Lazar was a student there... Haven't found anything as of yet.'",
+"domains": [
+"tr3b-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "fouche-military-documents",
+"l0": false,
+"label": "Edgar Fouche's Military, and DOD contractors reference Documents",
+"locLabel": null,
+"members": null,
+"short": "Edgar Fouche's Military, and DOD contractors reference Documents",
+"sources": [
+{
+"date": "2014-06-15",
+"name": "Edgar Fouche's Military, and DOD contractors reference Documents, 15 page PDF, 2,353,996 bytes, 23 embedded images, producer PDF-XChange 4.0.195.0, creation date D:20140615084520+01'00'; text layer extracted and pages 1 and 3 rendered at 190 dpi and read as images",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+},
+{
+"date": "2026-09-18",
+"name": "The HTML original from which the PDF was printed, carrying the same captions including the Bob Lazar section",
+"url": "http://www.checktheevidence.co.uk/articles/edgar%20fouche%20documents.htm"
+},
+{
+"date": "2015-01-12",
+"name": "Andrew Johnson, 'David Hilton FOIA on Ed Fouche', checktheevidence.co.uk",
+"url": "http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm"
+},
+{
+"date": "2016-03-19",
+"name": "Peter Merlin's reading of the 1984 letter, quoted verbatim in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax'",
+"url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
+}
+],
+"sub": "Fifteen page self-published compilation of Fouche's decorations, training certificates, performance reports and one 1984 personnel letter, with his own redactions and his own captions",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 218 of 1125, score 44). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"timeline": [
+{
+"date": "1984-07-10",
+"id": "tl-1984-07-10-sac-letter",
+"label": "The letter Fouche later calls the 'SAC/DARPA Classified Document' is written",
+"precision": "day",
+"strand": "program",
+"text": "A Headquarters Strategic Air Command letter of 10 July 1984, 'REPLY TO ATTN OF: DARPA', addressed to office code LGMQ, states 'HQ AFMPC has approved an AAR 51[redacted] on MSgt (32674) Fouche as requested. MSgt Fouche's date of availability is Aug 87.' It is signed by DALE E. HAGERMAN, TSgt, USAF, NCOIC, Amn Acft Maint Asgns Sec, Dir of Asgns, DCS/Pers. The page image carries no classification marking of any kind, and all redactions on it were applied by Fouche himself on his own caption's admission.",
+"tier": "B"
+},
+{
+"date": "2014-06-15",
+"id": "tl-2014-06-15-military-documents-published",
+"label": "The fifteen page military documents compilation is printed to PDF",
+"precision": "day",
+"strand": "witness",
+"text": "The PDF opened carries producer 'PDF-XChange 4.0.195.0' and creation date D:20140615084520+01'00'. It is a print of an HTML page on checktheevidence.co.uk, 15 pages with 23 embedded images and a caption text layer in mixed voice. It contains no discharge certificate, no DD Form 214, no clearance record, no contract and no programme document.",
+"tier": "B"
+},
+{
+"date": "2014-06-26",
+"id": "tl-2014-06-26-hilton-forgery-allegation",
+"label": "David Hilton alleges Fouche faked one or more of his own military documents",
+"precision": "day",
+"strand": "witness",
+"text": "Andrew Johnson records that Hilton made the allegation in a video dated 26 June 2014 and concluded that Fouche could not be trusted. The video itself was not opened; the allegation reaches this record only through Johnson's description of it.",
+"tier": "C"
+}
+]
+}

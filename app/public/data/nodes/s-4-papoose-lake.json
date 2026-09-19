@@ -1,0 +1,522 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions at 1:54, 24:24, 27:16 and 28:01 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "THE CLAIM, in the claimant's own narration on the 1991 videotape: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; 'The S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; he was bussed there from near 'the gro[o]m mountains in the groom[ ]dry lake bed from Area 51... to an even more highly secure' site; and he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
+"tier": 2
+},
+{
+"source": "Wikipedia article on Papoose Lake, opened only to read its citation, https://en.wikipedia.org/wiki/Papoose_Lake , opened 2026-09-18 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "THE PLACE IS REAL AND THE FACILITY IS NOT DOCUMENTED. Papoose Lake is a dry lake bed in Lincoln County, Nevada, a few miles southwest of the Groom Lake facility and adjacent to the Papoose Range. The only source cited for it is the USGS Geographic Names Information System, which this session did not open, so no feature identifier and no coordinates are asserted anywhere on this node.",
+"tier": 2
+},
+{
+"source": "National Security Archive Electronic Briefing Book 443, ed. Jeffrey T. Richelson, 29 October 2013, https://nsarchive.gwu.edu/node/3324 , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "THE DOCUMENTED HALF OF THE GEOGRAPHY, WHICH IS ABOUT GROOM LAKE AND NOT ABOUT PAPOOSE LAKE. The Groom Lake facility's existence was officially acknowledged by the declassification, in summer 2013, of the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, posted as National Security Archive Electronic Briefing Book 443, edited by Jeffrey T. Richelson on 29 October 2013.",
+"tier": 2
+},
+{
+"source": "Tyler Rogoway, The War Zone, updated 13 April 2020, https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "THE LAKEBED HAS BEEN PHOTOGRAPHED FROM THE AIR, LEGALLY, AND THERE IS NOTHING ON IT. Tyler Rogoway of The War Zone published aerial images taken on a pilot's authorised flight directly over Papoose Lake: 'nothing appears to be there, just as satellite images show. There isn't even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.' Rogoway states his own position in the same piece: 'No, I don't believe Bob's story, but I do think that it is one of the most entertaining tales ever told.'",
+"tier": 2
+},
+{
+"source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 0:57:13 and 1:01:21 to 1:02:58, recorded 2026-07-20",
+"text": "THE SECOND-BEST FINDING IN THIS CLUSTER: TWO PEOPLE REACH THE SAME COUNTER-EXPLANATION BY UNRELATED ROUTES. Tom Mahood, a physics graduate who spent years on the documentary record, concludes in his 2018 retrospective that there is 'nothing at Papoose Lake' and that S-4 actually refers to a radar facility at the Tonopah Test Range. Separately, T.D. Barnes, a former CIA and NASA engineer who worked at Groom Lake, says the real Site 4 is a remote radar site north of the main facility that held captured Soviet equipment, that this and not an underground base is what Lazar referred to, and that a named retired Area 51 security chief confirmed to him that Lazar appears on no manifest. Neither route depends on the other: one is documentary and civilian, the other is recollection by a former range engineer. Shared conclusions from a shared method are not corroboration; these two do not share a method.",
+"tier": 2
+},
+{
+"source": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990 describes Lazar's claim, as of that date, as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a different named place from Papoose Lake and from the Nellis range. The board carries the discrepancy on the hub rather than smoothing it into the later settled version.",
+"tier": 2
+},
+{
+"source": "research/leads/verified-lazar-s4-2026-09-18.md, this board's own research pass, 2026-09-18",
+"text": "NEGATIVE FINDING, STATED AS ONE. No opened government record of any kind names a facility called S-4 at Papoose Lake. That is a statement about the searching done on 18 September 2026 and it is not a proof of absence.",
+"tier": 3
+}
+],
+"cls": "location",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1989-04",
+"dateStart": "1988-12",
+"direction": "in",
+"edgeLabel": "Originating claimant: says he worked at S-4, December 1988 to April 1989",
+"id": "bob-lazar",
+"l0": false,
+"label": "Robert \"Bob\" Lazar",
+"note": "The originating claim of the whole cluster, in his own narration: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. The edge records that he says this and nothing more.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions at 1:54 to 2:13",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "2018-12-08",
+"dateStart": "2018-11-01",
+"direction": "in",
+"edgeLabel": "2018 documentary that returned the claim to mass circulation",
+"id": "corbell-lazar-2018",
+"l0": false,
+"label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+"note": "A downstream carrier, not a source. The film was not viewed by this board; the edge rests on its credits, its subject and its documented downstream effect.",
+"sources": [
+{
+"date": "2018",
+"name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+"url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "out",
+"edgeLabel": "Claimed custody of non-human craft at the claimed site",
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"note": "Tier 3, same caveat. The claim is that nine discs were held there; nothing documented supports it.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 24:24",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "out",
+"edgeLabel": "The hub's claimed content is a legacy reverse-engineering programme",
+"id": "d-legacy",
+"l0": false,
+"label": "Legacy Program",
+"note": "Tier 3 because it is what is claimed, not what is shown.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape, Tri-Dot Productions, 1991",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1989-04-05",
+"dateStart": "1989-03-22",
+"direction": "in",
+"edgeLabel": "Witness to the 1989 desert lights, not to the claimed facility",
+"id": "gene-huff",
+"l0": false,
+"label": "Gene Huff",
+"note": "THE LABEL MUST STAY PRECISE. Huff's first-hand claim is about lights seen from Tikaboo Valley on three Wednesdays in 1989, on 22 March, 29 March and 5 April, the last ending in the group's detention by the Lincoln County Sheriff. He never claims to have been inside anything.",
+"sources": [
+{
+"date": "1995-03-12",
+"name": "Gene Huff, synopsis posted to alt.conspiracy.area51",
+"url": "https://www.dreamlandresort.com/area51/lazar/synopsis.htm"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1989-03",
+"direction": "in",
+"edgeLabel": "Journalist who brought the claim to air in 1989 and has carried it since",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "Confirmed contemporaneously in print: 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. Mahood's timeline puts his first interviews with Lazar in March 1989.",
+"sources": [
+{
+"date": "1990-06-19",
+"name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 3,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "in",
+"edgeLabel": "Carrier of the claim, not an eyewitness to the claimed site",
+"id": "john-lear",
+"l0": false,
+"label": "John Olsen Lear",
+"note": "CARRIER, NOT EYEWITNESS TO THE SITE. Lear promoted the account and was present at two of the three 1989 desert viewings, on 22 March and 5 April. No opened record has him claiming to have seen the facility itself. Tier 3 accordingly.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "Tom Mahood, 'The Robert Lazar Timeline'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1989-12-09",
+"dateStart": "1989-05",
+"direction": "in",
+"edgeLabel": "The original broadcast artefact of the claim",
+"id": "klas-lazar-broadcasts-1989",
+"l0": false,
+"label": "The KLAS-TV Lazar broadcasts, 1989",
+"note": "Tier 3 on this board for one reason only: NOT ONE OF THESE BROADCASTS WAS OPENED. The dates on this edge are from a secondary chronology and should be replaced when an artefact is reached.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "Tom Mahood, 'The Robert Lazar Timeline'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "out",
+"edgeLabel": "Claimed site sited about fifteen miles south of Area 51",
+"id": "l-area51",
+"l0": false,
+"label": "Area 51 (Homey Airport / Groom Lake operating location)",
+"note": "Uses the board's existing l-area51 id. No node called area-51 was created.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "out",
+"edgeLabel": "Claimed site sited by reference to Groom Lake, about fifteen miles north of it",
+"id": "l-groom-lake",
+"l0": false,
+"label": "Groom Lake, Nevada",
+"note": "The claim anchors itself to a documented facility. That anchoring does not transfer the facility's documentation to the claim.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "out",
+"edgeLabel": "Claimed site placed on the Nellis range by the claimant",
+"id": "l-nellis",
+"l0": false,
+"label": "Nellis Air Force Base and the Nevada Test and Training Range",
+"note": "Uses the board's existing l-nellis id, whose label already carries the Nevada Test and Training Range. No node called nttr was created.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:02",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1990-08-21",
+"direction": "out",
+"edgeLabel": "The claim's earlier geography, as reported contemporaneously in August 1990",
+"id": "l-nevada-test-site",
+"l0": false,
+"label": "Nevada Test Site / Nevada National Security Site",
+"note": "Tier 1 for what the newspaper shows. In August 1990 Lazar's claim was reported as being about 'the Nevada Test Site, 65 miles northwest of Las Vegas', a Department of Energy site, not the Air Force range. The claim's geography moved and the edge records that.",
+"sources": [
+{
+"date": "1990-08-21",
+"name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2026-07-20",
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "DISPUTE over the designator: two sources say S-4 belongs to a Tonopah radar facility",
+"id": "l-tonopah",
+"l0": false,
+"label": "Tonopah Test Range, Nevada",
+"note": "THIS EDGE IS A DISAGREEMENT AND MUST NOT RENDER AS A LINK BETWEEN THE CLAIMED SITE AND TONOPAH. Mahood and T.D. Barnes, by unrelated routes, both say the designator S-4 attaches to a radar facility on the Tonopah side of the range rather than to anything at Papoose Lake.",
+"sources": [
+{
+"date": "2018",
+"name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1991",
+"direction": "in",
+"edgeLabel": "The dated, opened, complete statement of the claim in the claimant's own voice",
+"id": "lazar-tape-1991",
+"l0": false,
+"label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
+"note": "The strongest artefact in the cluster and the one actually opened. A videotape of a claimant narrating his own claim is evidence of the claim and never of its content.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar tape and excerpts from the Government Bible, Internet Archive item; captions via YouTube video kc10m6HFbDE",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2011-01",
+"dateStart": "1997-12",
+"direction": "in",
+"edgeLabel": "Denial from a UFO proponent: the claimant's credentials do not survive checking",
+"id": "stanton-friedman",
+"l0": false,
+"label": "Stanton T. Friedman",
+"note": "The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does.",
+"sources": [
+{
+"date": "1997-12",
+"name": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
+"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "in",
+"edgeLabel": "Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility",
+"id": "tom-mahood",
+"l0": false,
+"label": "Tom Mahood",
+"note": "EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible.",
+"sources": [
+{
+"date": "2018",
+"name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": "1989-04",
+"dateStart": "1988-12",
+"deg": 16,
+"denials": [
+{
+"by": {
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Denial from a UFO proponent: the claimant's credentials do not survive checking",
+"note": "The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does.",
+"of": {
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"sources": [
+{
+"date": "1997-12",
+"name": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
+"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+}
+]
+},
+{
+"by": {
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility",
+"note": "EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible.",
+"of": {
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
+"sources": [
+{
+"date": "2018",
+"name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+}
+]
+}
+],
+"desc": "THIS NODE RECORDS A CLAIM AND NOT A PLACE WHOSE CONTENTS ARE ESTABLISHED. Papoose Lake is a real dry lake bed in Lincoln County, Nevada, a few miles southwest of the Groom Lake facility and adjacent to the Papoose Range. Nothing documented attaches any facility to it. What attaches to it is an assertion: from 1989 Bob Lazar has said that between December 1988 and April 1989 he worked at a site he calls S-4, about fifteen miles south of Groom Lake on the Nellis range, built into a mountainside behind nine hangar doors angled at about sixty degrees, holding nine disc-shaped craft whose propulsion he was hired to back-engineer. The node exists because that assertion is the convergence point of an entire cluster: Lazar, John Lear, Gene Huff, George Knapp, the 1989 KLAS broadcasts, the 1991 videotape and the 2018 Corbell documentary all run into it, and so do the people who say it is wrong. The documented half of the surrounding geography is real and should not be blurred into the claim: the Groom Lake facility was officially acknowledged when the CIA history of the U-2 and OXCART programmes by Gregory Pedlow and Donald Welzenbach was declassified in summer 2013. That is a statement about Groom Lake. It is not a statement about Papoose Lake. The node is named s-4-papoose-lake rather than s-4 deliberately, because the two strongest sceptical accounts both say the designator S-4 is real and attaches to a radar facility elsewhere on the range; a node called s-4 would silently adopt the claimant's referent as the board's own.",
+"domains": [
+"lazar-s4-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"locLabel": null,
+"members": null,
+"short": "S-4 / Papoose Lake, Nevada",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions read in full via YouTube video kc10m6HFbDE",
+"url": "https://archive.org/details/antigravity"
+},
+{
+"date": "2013-10-29",
+"name": "National Security Archive Electronic Briefing Book 443, ed. Jeffrey T. Richelson, on the declassified CIA U-2 and OXCART history",
+"url": "https://nsarchive.gwu.edu/node/3324"
+},
+{
+"date": "2020-04-13",
+"name": "Tyler Rogoway, The War Zone, aerial photographs of Papoose Lake taken on an authorised overflight",
+"url": "https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends"
+},
+{
+"date": "2018",
+"name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+},
+{
+"date": "1990-08-21",
+"name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
+},
+{
+"date": "2026-09-18",
+"name": "Wikipedia article on Papoose Lake, opened only to read its underlying citation to the USGS Geographic Names Information System",
+"url": "https://en.wikipedia.org/wiki/Papoose_Lake"
+}
+],
+"sub": "THE HUB. A claimed nine-hangar facility said to be built into a mountain about fifteen miles south of Groom Lake, at a real dry lake on which aerial photography shows no installation",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 172 of 1125, score 49). 16 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "1988-12",
+"id": "tl-1988-12-lazar-claimed-hire",
+"label": "Lazar's claimed employment at S-4 begins",
+"precision": "month",
+"strand": "witness",
+"text": "In his 1991 narration Lazar says that 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', and that 'I was hired in December of 1988 to replace one of these men'. This row records the claim and its date, not any employment.",
+"tier": "B"
+},
+{
+"date": "2013-10-29",
+"id": "tl-2013-10-29-groom-lake-acknowledged",
+"label": "The CIA's U-2 and OXCART history, declassified, acknowledges Groom Lake",
+"precision": "day",
+"strand": "program",
+"text": "The National Security Archive posts Electronic Briefing Book 443, edited by Jeffrey T. Richelson, on the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, declassified that summer. This is the documented half of the hub's geography and it is a statement about Groom Lake, NOT about Papoose Lake.",
+"tier": "A"
+},
+{
+"date": "2018",
+"id": "tl-2018-mahood-retrospective",
+"label": "Mahood's retrospective: nothing at Papoose Lake, S-4 is a Tonopah radar facility",
+"precision": "year",
+"strand": "witness",
+"text": "Tom Mahood publishes his mature assessment: there is 'nothing at Papoose Lake', S-4 refers to a radar facility at the Tonopah Test Range, and the alien-craft narrative began as a cover story after the April 1989 detention. It concedes in the same document that Lazar is 'amazingly believable' and that Mahood initially found the story plausible. T.D. Barnes reaches the same radar-site conclusion by an unrelated route in 2026.",
+"tier": "C"
+},
+{
+"date": "2020-04-13",
+"id": "tl-2020-04-13-papoose-overflight",
+"label": "Papoose Lake photographed from the air on a legal overflight: nothing there",
+"precision": "day",
+"strand": "program",
+"text": "Tyler Rogoway of The War Zone publishes aerial images taken on a pilot's authorised flight directly over Papoose Lake: 'nothing appears to be there, just as satellite images show. There isn't even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.'",
+"tier": "B"
+}
+]
+}

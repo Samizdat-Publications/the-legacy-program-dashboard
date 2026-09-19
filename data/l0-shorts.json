@@ -7,7 +7,7 @@
   "An acronym is only used where it is the form the record itself uses (AAWSAP, AATIP, ODNI, AFOSI, NIDS, NASA). Never coin one.",
   "Two nodes must never share a short. Volume I and Volume II, and the two Immaculate Constellation records, are the cases that force this."
  ],
- "_verified": "59 authored, every one 37 characters or fewer, no duplicates among themselves and no collision with the derived shorts already in use. Seven were added on 3 September 2026 for nodes the Danny Jones corpus build pushed over the L0 floor or over the 37-character chip; each is a shortening of the label already on the record and asserts nothing new.",
+ "_verified": "60 authored, every one 37 characters or fewer, no duplicates among themselves and no collision with the derived shorts already in use. Seven were added on 3 September 2026 for nodes the Danny Jones corpus build pushed over the L0 floor or over the 37-character chip; each is a shortening of the label already on the record and asserts nothing new. One was added on 18 September 2026 for arv-fluxliner, which the ARV corpus build created: 'Alien Reproduction Vehicle (ARV) / Flux Liner' is 45 characters, and ARV is the form the record itself uses throughout, so the short drops the parenthetical gloss and keeps both names the record carries.",
  "shorts": {
   "aaro-fy2024-annual-report": "AARO FY2024 Annual Report",
   "aaro-fy2025-annual-report": "AARO FY2025 Annual Report",
@@ -67,6 +67,14 @@
   "talbert-gravity-series-1955": "Talbert gravity series, Nov 1955",
   "operation-northwoods": "Operation Northwoods, 13 Mar 1962",
   "defense-support-program": "Defense Support Program (DSP)",
-  "malmstrom-echo-flight-1967": "Malmstrom Echo Flight, Mar 1967"
+  "malmstrom-echo-flight-1967": "Malmstrom Echo Flight, Mar 1967",
+  "arv-fluxliner": "ARV / Flux Liner",
+    "tr-3b": "TR-3B 'Astra' (claimed)",
+    "national-press-club-2001": "Disclosure Project, 9 May 2001",
+    "disclosure-project-briefing-2001": "DP Briefing Document, April 2001",
+    "dird-antigravity-for-aerospace-applications": "DIA: Antigravity for Aerospace",
+    "dird-mhd-air-breathing-propulsion-and-power": "DIA: MHD Air Breathing Propulsion",
+    "dird-warp-drive-dark-energy-and-the": "DIA: Warp Drive and Dark Energy",
+    "millis-tm-2004-213082": "NASA/TM-2004-213082, Millis"
  }
 }

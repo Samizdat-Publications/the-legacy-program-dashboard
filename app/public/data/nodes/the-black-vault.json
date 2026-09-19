@@ -5,14 +5,60 @@
 "band": "custody",
 "claims": [
 {
+"source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "It recovered the federal file on Japan Air Lines flight 1628 after seventeen years, having been told by the FAA in a letter of 27 June 2001 that the records would be destroyed within thirty days and again in 2009 that they had been destroyed. The file was located at the National Archives in Record Group 237, local identifier 1203, archival identifier 733667, and runs to over 1,500 pages against the FAA's initial estimate of approximately 107.",
+"tier": 1
+},
+{
+"source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "Its archive of that file itemises 1,569 pages across thirty-five or more documents and publishes them individually, including the FAA's own forms, Captain Terauchi's written statement in Japanese and in English translation, and dated January 1987 interview transcripts with all three crew members.",
+"tier": 1
+},
+{
+"source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "It states its own reservation about the best-known witness to the case: 'Callahan's dramatic account is unconfirmed by other sources', while recording that he preserved copies of the data.",
+"tier": 1
+},
+{
 "source": "The Black Vault document archive and case files",
 "text": "Obtained and published OSD/JS FOIA case 18-F-0324, the DD Form 1910 release, the OUSD(I) messaging emails, and the CCDC FOIA denial regarding the TTSA CRADA correspondence.",
+"tier": 1
+},
+{
+"source": "The Black Vault document archive and case files, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ and https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18",
+"text": "It is the custody point for three separate parts of the Lazar record: the FBI FOIA releases on United Nuclear Scientific Supplies, pursued from November 2018 and delivered in three releases of 55, 130 and 130 pages; the Laingsburg, Michigan police report on the 19 July 2017 search, obtained by Tim McMillan under a local open-records request; and Stanton Friedman's own 1997 article on Lazar, in the Stanton Friedman Collection.",
+"tier": 1
+},
+{
+"source": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ , opened 2026-09-18",
+"text": "A negative FOIA result it records and flags: 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', with the site's own observation that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'.",
 "tier": 1
 }
 ],
 "cls": "institution",
 "cluster": "media",
 "connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023-11",
+"dateStart": "2018-11",
+"direction": "out",
+"edgeLabel": "Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article",
+"id": "bob-lazar",
+"l0": false,
+"label": "Robert \"Bob\" Lazar",
+"note": "GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file.",
+"sources": [
+{
+"date": "2023-11",
+"name": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear'",
+"url": "https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
 {
 "claimTier": 1,
 "cls": "program",
@@ -59,6 +105,32 @@
 ],
 "tier": "B",
 "type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2018",
+"dateStart": "2001-05",
+"direction": "in",
+"edgeLabel": "Federal file recovered after seventeen years and two destruction notices",
+"id": "jal-1628-1986",
+"l0": false,
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"note": "The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+}
+],
+"tier": "B",
+"type": "research"
 },
 {
 "claimTier": 1,
@@ -182,18 +254,20 @@
 "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "witness-chain"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1996",
-"deg": 7,
+"deg": 9,
 "denials": [],
 "desc": "The Black Vault is the private FOIA archive through which the overwhelming majority of primary documents in this domain reached the public: the Elizondo resignation letters, the Garry Reid memoranda, the DD Form 1910, the Neill Tipton messaging emails, the Elizondo-Gough correspondence, the Army's denial of the TTSA CRADA correspondence, and the DoD Inspector General files. It is not aligned with the disclosure movement's conclusions and has publicly contested several of them, which is what gives its releases their evidentiary force — these are documents extracted by an adversarial requester, not supplied by an interested party.",
 "domains": [
-"elizondo-ttsa"
+"disclosure-project-2026-09-19",
+"elizondo-ttsa",
+"lazar-s4-2026-09-18"
 ],
 "dossier": {
 "claims": [
@@ -238,9 +312,21 @@
 "locLabel": null,
 "members": [
 {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar",
+"tier": "A"
+},
+{
 "cls": "document",
 "id": "doc-341-smw-history-1967",
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "jal-1628-1986",
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "tier": "B"
 },
 {
@@ -265,19 +351,44 @@
 "cls": "person",
 "id": "uyrange-hollanda",
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
-"tier": "B"
+"tier": "C"
 }
 ],
 "short": "The Black Vault",
 "sources": [
 {
+"date": "2026-09-19",
+"name": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+},
+{
 "date": "2026-08-12",
 "name": "The Black Vault — AATIP, Tom DeLonge, Luis Elizondo and the Claims of To The Stars Academy (case file)",
 "url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+},
+{
+"date": "2023-11",
+"name": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', three releases of 55, 130 and 130 pages",
+"url": "https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/"
+},
+{
+"date": "2019-07-01",
+"name": "The Black Vault, 'Documents on 2017 Bob Lazar / United Nuclear Raid - Laingsburg Police Department'",
+"url": "https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/"
+},
+{
+"date": "1997-12",
+"name": "The Black Vault, Stanton Friedman Collection, 'The Bob Lazar Fraud'",
+"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
 }
 ],
 "sub": "FOIA document archive founded by John Greenewald Jr., 1996",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 624 of 1057, score 25). 7 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 202 of 1125, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": []
 }

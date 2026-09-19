@@ -1,0 +1,174 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"affiliations": [],
+"age": 48,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
+"text": "In the Post Falls, Idaho lecture of 8 May 1995 Schneider said he was 'involved in building an addition to the deep underground military base at Dulce' and that his job was 'to go down the holes and check the rock samples, and recommend the explosive[s]'. Tier 2 as a record of what he said: the transcript is hosted without a named transcriber and the lecture recording itself carries no captions.",
+"tier": 2
+},
+{
+"source": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
+"text": "In the same lecture he gave the specification that the whole modern claim rests on: 'It goes down seven levels and over 2.5 miles deep.'",
+"tier": 2
+},
+{
+"source": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
+"text": "In the same lecture he described the alleged 1979 firefight: 'We found ourselves amidst a large cavern that was full of outer-space aliens...I shot two of them. At that time, there were 30 people down there. About 40 more came down after this started, and all of them got killed.' The hosting page's own introduction gives a different figure, sixty-six dead. The internal inconsistency is part of the record.",
+"tier": 2
+},
+{
+"source": "archive.org items phildenveraugust and philexpo, https://archive.org/details/phildenveraugust , opened 2026-09-19",
+"text": "Two further dated artefacts of the 1995 lecture series exist as archive.org items and bound it: a Denver, Colorado lecture dated 14 August 1995 and a Preparedness Expo talk dated 1 September 1995. Neither carries captions and neither was watched.",
+"tier": 2
+},
+{
+"source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "Schneider was not part of the initial Dulce rumours and emerged only in 1995, according to Norio Hayakawa's dated chronology of the cluster's originators, which places the initial rumours between about 1979 and the early 1980s.",
+"tier": 2
+},
+{
+"source": "Find a Grave memorial 146890828, created by Charles H Proctor III 23 May 2015, https://www.findagrave.com/memorial/146890828/phil-schneider , opened 2026-09-19",
+"text": "His memorial record gives birth 23 April 1947 at Bethesda, Montgomery County, Maryland and death 11 January 1996 in Clackamas County, Oregon, cremated with ashes given to family or friend. Tier 2: a Find a Grave memorial is better than nothing and is not a certificate.",
+"tier": 2
+},
+{
+"source": "Find a Grave memorial 3930946, originally created by the US Veterans Affairs Office, https://www.findagrave.com/memorial/3930946/oscar-schneider , opened 2026-09-19",
+"text": "HIS FATHER IS THE ONLY DOCUMENTED PART. Captain Otto Oscar Schneider, US Navy, born 22 January 1906 in San Francisco, died 13 May 1993 in Portland, Oregon, buried at Willamette National Cemetery, Section X Site 2284, headstone inscribed 'OSCAR SCHNEIDER / CAPT US NAVY'. The memorial was originally created by the US Veterans Affairs Office. The biography on the same page, including the U-boat command, Naval Intelligence, Operation Crossroads and the Philadelphia Experiment, is contributor prose and is not asserted.",
+"tier": 1
+},
+{
+"source": "Inference from the Find a Grave memorial 146890828 and the 8 May 1995 lecture transcript, both opened 2026-09-19",
+"text": "STATED INFERENCE, AND THE CENTRAL NEGATIVE OF THIS NODE. No employment of Philip Schneider by any employer was documented by this board: no employer record, no contract, no clearance record, no payroll. The Morrison Knudsen, Corps of Engineers and US Navy attribution rests on a contributor-written memorial biography and on his own lectures. Reasoning: a claim whose sole support is the claimant plus a user-edited memorial page has no independent documentary support at all, and the node must say so rather than leaving the absence to the gaps file.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Death date unresolved: the memorial record gives 11 January 1996, the date in circulation tied to the discovery of the body is 17 January 1996. The node carries 11 January 1996 because that is the date on the only record opened, and the conflict is flagged here rather than silently resolved.",
+"Casualty figure unresolved within a single source: Schneider's own words give roughly seventy dead, the introduction on the same page gives sixty-six."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1995-05-08",
+"dateStart": "1995-05-08",
+"direction": "out",
+"edgeLabel": "Supplies every specific number in the modern claim, 8 May 1995",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "Seven levels, over 2.5 miles deep, a firefight in which he says he shot two aliens and roughly seventy people died. He was not part of the initial rumours and arrived about fifteen years after they began. Transcript hosted without a named transcriber; the lecture recording carries no captions.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Hosted transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture; the page names no transcriber",
+"url": "https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm"
+},
+{
+"date": "2016-08-29",
+"name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+}
+],
+"date": "1996-01-11",
+"dateEnd": null,
+"dateStart": "1996-01-11",
+"deg": 1,
+"denials": [],
+"domains": [
+"dulce-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "phil-schneider",
+"instId": null,
+"l0": false,
+"label": "Philip Schneider",
+"loc": "Clackamas County, Oregon",
+"locId": null,
+"members": null,
+"narrative": "Philip Schneider supplied every specific number in the modern Dulce claim and none of them can be traced past him. In a lecture at Post Falls, Idaho on 8 May 1995 he said he had been 'involved in building an addition to the deep underground military base at Dulce', that his job was 'to go down the holes and check the rock samples, and recommend the explosive[s]', that the base 'goes down seven levels and over 2.5 miles deep', and that in a cavern there he shot two aliens, after which the thirty people already underground and about forty more who came down were killed. He arrived late: Norio Hayakawa's chronology places him outside the initial rumours entirely and dates his emergence to 1995, when the Dulce story was already about fifteen years old. WHAT COULD NOT BE ESTABLISHED IS RECORDED HERE AND NOT ONLY IN THE GAPS. No employment of Philip Schneider by anybody, ever, was documented by this board: no employer record, no contract, no clearance record, no payroll. The attribution to Morrison Knudsen, the Corps of Engineers and the Navy rests on a contributor-written biography attached to his Find a Grave memorial and on his own lectures, and a contributor-written memorial biography is not a record of employment. His death is likewise unresolved: the memorial record gives 11 January 1996 in Clackamas County, Oregon, while the date in circulation, tied to the discovery of the body, is 17 January 1996, and NO DEATH CERTIFICATE, MEDICAL EXAMINER'S REPORT OR POLICE REPORT WAS OPENED. The suicide ruling, the ligature and his former wife's letter contesting the finding are all in circulation and none of it is carried as a claim here. The one genuinely documented element of the Schneider story is his father: Captain Otto Oscar Schneider, US Navy, 22 January 1906 to 13 May 1993, on a Find a Grave memorial originally created by the US Veterans Affairs Office. The rank and the dates are real; the narrative attached to the same page, a captured U-boat commander repatriated into US Naval Intelligence, Operation Crossroads and the Philadelphia Experiment, is contributor prose and none of it is asserted. It matters only because Philip Schneider's own claim leaned on his father's standing, and the standing is real while the stories about it are not documented by anything opened here.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Philip Schneider",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Hosted transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture; the page names no transcriber",
+"url": "https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm"
+},
+{
+"date": "2026-09-19",
+"name": "Find a Grave memorial 146890828, Phil Schneider, created by Charles H Proctor III 23 May 2015",
+"url": "https://www.findagrave.com/memorial/146890828/phil-schneider"
+},
+{
+"date": "2026-09-19",
+"name": "Find a Grave memorial 3930946, Capt Otto Oscar Schneider, Willamette National Cemetery, memorial originally created by the US Veterans Affairs Office",
+"url": "https://www.findagrave.com/memorial/3930946/oscar-schneider"
+},
+{
+"date": "2016-08-29",
+"name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+{
+"date": "2026-09-19",
+"name": "archive.org item 'Phil Schneider - ET's, UFO's and NWO', dated 14 August 1995, Denver, Colorado",
+"url": "https://archive.org/details/phildenveraugust"
+},
+{
+"date": "2013-12-03",
+"name": "Brian Dunning, Skeptoid episode 391, '8 Secret bases: Real or fictional'",
+"url": "https://skeptoid.com/episodes/4391"
+}
+],
+"status": "deceased",
+"sub": "Lecturer of 1995 who claimed to have helped build the Dulce facility and to have survived a 1979 firefight there; no employment by anyone was ever documented",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 713 of 1125, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "1995-05-08",
+"id": "tl-1995-05-08-schneider-postfalls",
+"label": "Schneider supplies the specification: seven levels, 2.5 miles, a 1979 firefight",
+"precision": "day",
+"strand": "witness",
+"text": "At Post Falls, Idaho he said he had been 'involved in building an addition to the deep underground military base at Dulce', that 'It goes down seven levels and over 2.5 miles deep', and that in a cavern there he shot two aliens and about seventy people were killed. The hosting page's own introduction gives a different casualty figure, sixty-six. He was not part of the initial rumours and arrived about fifteen years after they began.",
+"tier": "C"
+},
+{
+"date": "1996-01-11",
+"id": "tl-1996-01-11-schneider-death",
+"label": "Schneider dies in Clackamas County, Oregon; the record is thin and contested",
+"precision": "day",
+"strand": "witness",
+"text": "His memorial record gives death on 11 January 1996 in Clackamas County, Oregon, cremated. The date in circulation, tied to the discovery of the body, is 17 January 1996. NO DEATH CERTIFICATE, MEDICAL EXAMINER'S REPORT OR POLICE REPORT WAS OPENED, and neither the suicide ruling nor the contest to it is carried as a claim anywhere in this file.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The manner and cause of his death. No death certificate, medical examiner's report or police report was opened. The suicide ruling, the ligature, and the letter attributed to Cynthia Drayer of 23 February 1996 contesting the finding are all in circulation and none of it is carried as a claim.",
+"Any employment by Morrison Knudsen, the US Army Corps of Engineers or the US Navy.",
+"Any 1979 incident at or near Dulce. No record of any kind was opened."
+]
+}

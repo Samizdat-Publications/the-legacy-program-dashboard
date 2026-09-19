@@ -1,0 +1,245 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "The federal record: over 1,500 pages at the National Archives in Record Group 237, Records of the Federal Aviation Administration, local identifier 1203, archival identifier 733667, located by The Black Vault after the FAA's initial estimate of approximately 107 pages.",
+"tier": 1
+},
+{
+"source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "The FAA told the requester the records would be destroyed. Letter of 27 June 2001: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed.",
+"tier": 1
+},
+{
+"source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "The archive itemises 1,569 pages across thirty-five or more documents, including FAA Form 8020-5 Aircraft Incident Record; FAA Form 3112 Inspection and Surveillance Record; FAA Form 1600-32-1 notes of interviews with three crew members; a written statement by Capt. Terauchi in Japanese, 18 pages, and in English translation, 13 pages; a transcript of an interview with Capt. Terauchi dated 2 January 1987; with First Officer Tamefugi dated 5 January 1987; with Flight Engineer Tsukuba dated 15 January 1987; radar data and computer plots; and a 40-page folder of 'Klass and Haines inquires and responses'.",
+"tier": 1
+},
+{
+"source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+"text": "THE AGENCY'S OWN CONCLUSION. The FAA Alaskan Region press release of 5 March 1987, quoted at length by Klass: FAA experts at the agency's Technical Center in Atlantic City 'determined that a second radar target near the JAL flight... was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return. This means that the primary radar signal reflected off the aircraft's [JAL] surface did not correlate exactly with the pulses emitted by the aircraft's radar transponder. This phenomenon is not unusual...' The release concludes: 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.'",
+"tier": 1
+},
+{
+"source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "The Black Vault independently records the same March 1987 position: the FAA was 'unable to support' a UFO identification, and 'a subsequent review of Anchorage's radar failed to confirm any targets in close proximity to JAL 1628'.",
+"tier": 1
+},
+{
+"source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+"text": "The air traffic control transcript, as Klass prints it, records that a United Airlines crew vectored toward JAL 1628 for a closer look reported 'We've got the Japan airliner in sight. I don't see anybody around him', and again 'I don't see anybody around him at all. I can see his contrail but I sure don't see any other airplanes.' A USAF C-130 vectored to within about fifteen miles 'reported seeing no other traffic in the vicinity of JAL 1628'.",
+"tier": 2
+},
+{
+"source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+"text": "From the FAA's own 2 January 1987 crew interview, as reported by Klass, Capt. Terauchi 'admitted that this was the third time he had reported sighting a UFO'; and on 11 January 1987 he reported a fourth sighting over Alaska which, after landing, he told FAA personnel he believed was 'light from a petroleum pumping station bouncing off clouds of ice crystals'.",
+"tier": 2
+},
+{
+"source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "The Black Vault states in its own voice that 'Callahan's dramatic account is unconfirmed by other sources', while observing that he preserved copies of the data and later shared them with researchers.",
+"tier": 2
+},
+{
+"source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "STATED LIMITATION. NO PAGE OF THIS FILE WAS READ BY THIS BOARD. One document was downloaded, 2.8 MB, and is a scan with no text layer; the National Archives catalogue is a JavaScript application the fetch tool could not render. The file's existence, extent and itemisation are established; its contents are known only through Klass's quotations and The Black Vault's description.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "oversight",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": "1987-03-05",
+"dateStart": "1986-11-17",
+"direction": "out",
+"edgeLabel": "A civil-aviation case with a crew, an ATC transcript and a radar record",
+"id": "d-aviators",
+"l0": false,
+"label": "Military Aviators & Operators",
+"note": "The file contains crew statements, air traffic control transcripts with flight-path charts, and radar data and computer plots.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1987-03-05",
+"dateStart": "1986-11-17",
+"direction": "out",
+"edgeLabel": "The agency investigated it, issued a finding and created the file",
+"id": "faa",
+"l0": false,
+"label": "Federal Aviation Administration",
+"note": "FAA Alaskan Region press release of 5 March 1987; the agency's own forms and crew interviews; and the 1,500-page file in Record Group 237.",
+"sources": [
+{
+"date": "2001",
+"name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1987-03",
+"dateStart": "1986-11",
+"direction": "in",
+"edgeLabel": "Claimed role in the FAA's handling of the case",
+"id": "john-callahan",
+"l0": false,
+"label": "John Callahan",
+"note": "TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+{
+"date": "2015-10-05",
+"name": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles",
+"url": "https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2018",
+"dateStart": "2001-05",
+"direction": "in",
+"edgeLabel": "Requester and locator of the National Archives file",
+"id": "john-greenewald",
+"l0": false,
+"label": "John Greenewald Jr.",
+"note": "In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!'",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2018",
+"dateStart": "2001-05",
+"direction": "out",
+"edgeLabel": "Federal file recovered after seventeen years and two destruction notices",
+"id": "the-black-vault",
+"l0": true,
+"label": "The Black Vault",
+"note": "The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "1987-03-05",
+"dateStart": "1986-11-17",
+"deg": 5,
+"denials": [],
+"desc": "THIS IS THE NODE IN THIS CLUSTER WITH A REAL AGENCY RECORD, AND IT SHOULD CARRY MORE WEIGHT THAN THE WITNESS BESIDE IT. On the evening of 17 November 1986 a Japan Air Lines 747 crossing Alaskan airspace reported an object accompanying it; the FAA investigated, and the paper it generated survives in volume. The Black Vault asked for it in May 2001 and was told in a letter of 27 June 2001 that everything would be destroyed within thirty days; asked again in 2009 and was told it had been destroyed; and then found over 1,500 pages of it at the National Archives in Record Group 237, local identifier 1203, archival identifier 733667. The archive itemises 1,569 pages across thirty-five or more documents: FAA Form 8020-5 Aircraft Incident Record, FAA Form 3112, FAA Form 1600-32-1 interview notes, Captain Terauchi's written statement in Japanese and in English translation, dated transcripts of interviews with all three crew members in January 1987, radar data and computer plots, and a folder of correspondence with Philip Klass and Richard Haines. The agency's conclusion is equally on the record and it is negative: the FAA Alaskan Region's press release of 5 March 1987 states that its experts determined the second radar target was not another aircraft but an uncorrelated primary and beacon return, and that the investigation was complete and would not be pursued further. None of this depends on the Disclosure Project or on any witness, which is exactly why it belongs on this board.",
+"domains": [
+"disclosure-project-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "jal-1628-1986",
+"l0": false,
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"locLabel": null,
+"members": null,
+"short": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+},
+{
+"date": "2001",
+"name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+}
+],
+"sub": "A civil-aviation incident with a 1,500-page federal file at the National Archives, an FAA investigation, an agency press release concluding against a second aircraft, and a documented seventeen-year FOIA recovery",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 479 of 1125, score 31). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1986-11-17",
+"id": "tl-1986-11-17-jal-1628",
+"label": "Japan Air Lines flight 1628 incident over Alaska",
+"precision": "day",
+"strand": "program",
+"text": "A Japan Air Lines 747 crossing Alaskan airspace reported an object accompanying it. The FAA investigated and generated a file that survives at the National Archives in Record Group 237, archival identifier 733667, running to over 1,500 pages including crew statements, air traffic control transcripts and radar data.",
+"tier": "A"
+},
+{
+"date": "1987-01-02",
+"id": "tl-1987-01-02-terauchi-interview",
+"label": "FAA interviews Captain Terauchi",
+"precision": "day",
+"strand": "oversight",
+"text": "A 19-page transcript of the FAA's interview with Capt. Terauchi, dated 2 January 1987, is itemised in the National Archives file, alongside interviews with First Officer Tamefugi on 5 January and Flight Engineer Tsukuba on 15 January 1987. Klass reports that in this interview Terauchi 'admitted that this was the third time he had reported sighting a UFO'.",
+"tier": "A"
+}
+]
+}

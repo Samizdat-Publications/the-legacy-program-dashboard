@@ -5,6 +5,21 @@
 "band": null,
 "claims": [
 {
+"source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "Between August and November 1964 the Air Force ran a light-sensitive telescope deployment in the Los Padres National Forest above Big Sur, about 100 miles north, to photograph launches from Vandenberg into the Air Force Western Test Range, covering nine of eleven launches in three months. The instrument was a borrowed Boston University 24-inch mirror telescope on a modified 5-inch gun mount, owned by the Range Measurements Laboratory of the Air Force Eastern Test Range, using an image orthicon camera tube.",
+"tier": 1
+},
+{
+"source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "The Atlas launch at the centre of the resulting dispute was nicknamed 'Buzzing Bee' and took place at dawn on 22 September 1964, per the project engineer's published account.",
+"tier": 1
+},
+{
+"source": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm , opened 2026-09-19",
+"text": "The 1369th Photographic Squadron was based here: Robert Jacobs gives his post as 'Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg Air Force Base, California from May, 1963 to May, 1966', and the project engineer independently confirms that Jacobs 'was named the on-site commander by the 1369th Photo Squadron'.",
+"tier": 1
+},
+{
 "source": "Jeffrey Nuccetelli, written testimony to the House Oversight Task Force, 9 September 2025",
 "text": "On 14 October 2003 Boeing contractors at Vandenberg reported a massive, glowing red square silently hovering over two missile defense sites; the same night security personnel described a massive rectangular craft larger than a football field.",
 "tier": 2
@@ -28,6 +43,27 @@
 "cls": "location",
 "cluster": "legacy",
 "connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1964-11",
+"dateStart": "1964-08",
+"direction": "in",
+"edgeLabel": "Coverage of Vandenberg launches from a site about 100 miles north",
+"id": "big-sur-1964",
+"l0": false,
+"label": "Big Sur missile-test filming, September 1964",
+"note": "The Big Sur site gave a side-look at launches into the Western Test Range that local telephoto coverage at Vandenberg could not, because of prevailing fog.",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
 {
 "claimTier": 1,
 "cls": "event",
@@ -100,6 +136,32 @@
 ],
 "tier": "B",
 "type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1966-05",
+"dateStart": "1963-05",
+"direction": "in",
+"edgeLabel": "1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966",
+"id": "robert-jacobs",
+"l0": false,
+"label": "Robert M. Jacobs",
+"note": "His own published statement of his post, independently confirmed as to unit and role by the project engineer.",
+"sources": [
+{
+"date": "1989-01",
+"name": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP",
+"url": "http://www.nicap.org/reports/bigsur2.htm"
+},
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
 }
 ],
 "coords": [
@@ -108,10 +170,11 @@
 ],
 "dateEnd": null,
 "dateStart": "1941",
-"deg": 3,
+"deg": 5,
 "denials": [],
 "desc": "Vandenberg, on the Santa Barbara County coast near Lompoc, is the United States' west coast space launch installation: it is where polar and sun-synchronous orbits are reached, where National Reconnaissance Office payloads have long gone up, where ICBM test launches down the Western Range originate, and where ground-based missile defence infrastructure sits. It was an Air Force base until it was redesignated a Space Force base in May 2021. Its place on this board comes from sworn congressional testimony rather than from folklore. Jeffrey Nuccetelli, a sixteen-year Air Force veteran who served in security forces at Vandenberg between roughly 2003 and 2005, testified in writing to the House Oversight Task Force on 9 September 2025 that on 14 October 2003 Boeing contractors reported 'a massive, glowing red square silently hovering over two missile defense sites'; that the same night security personnel described 'a massive rectangular craft, larger than a football field' that hovered silently for about 45 seconds before departing at high speed; that a week later a patrol tracked an object inbound from the ocean that descended and vanished, after which the witness 'was threatened and told to kept quiet about the incident'; and that in 2005 a patrol reported a massive triangular craft hovering low over the main base. Two elements make this the most FOIA-actionable location claim in the modern record: Nuccetelli states that 'Official Air Force records documenting it are now held by AARO and the FBI', naming custodians for specific dated incidents at a named installation, and he states that each incident was 'witnessed by multiple personnel, documented, investigated and reported up the chain of command.' Those records have not been produced.",
 "domains": [
+"disclosure-project-2026-09-19",
 "w2-places-events"
 ],
 "dossier": null,
@@ -130,6 +193,16 @@
 "short": "Vandenberg Space Force Base, California",
 "sources": [
 {
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+{
+"date": "1989-01",
+"name": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP",
+"url": "http://www.nicap.org/reports/bigsur2.htm"
+},
+{
 "date": "2025-09-09",
 "name": "Jeffrey Nuccetelli written testimony (PDF)",
 "url": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf"
@@ -141,8 +214,8 @@
 }
 ],
 "sub": "Space Force installation near Lompoc, Santa Barbara County; polar-orbit launch, NRO missions, missile defence sites",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 663 of 1057, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 376 of 1125, score 35). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "date": "2003-10-14",

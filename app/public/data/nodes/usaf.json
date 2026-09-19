@@ -46,7 +46,7 @@
 "url": "https://www.osi.af.mil/About-Us/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -153,6 +153,27 @@
 ],
 "tier": "C",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1964-11",
+"dateStart": "1964-08",
+"direction": "in",
+"edgeLabel": "An Air Force telescope deployment covering Air Force Western Test Range launches",
+"id": "big-sur-1964",
+"l0": false,
+"label": "Big Sur missile-test filming, September 1964",
+"note": "Instrument owned by the Range Measurements Laboratory of the Air Force Eastern Test Range; nine of eleven Vandenberg launches covered; the resulting film classified Top Secret on a weapons-vulnerability rationale and later destroyed.",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
 },
 {
 "claimTier": 1,
@@ -279,6 +300,27 @@
 ],
 "tier": "B",
 "type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1987-08-31",
+"dateStart": "1967",
+"direction": "in",
+"edgeLabel": "USAF master sergeant; twenty year avionics maintenance career, three Meritorious Service Medals",
+"id": "edgar-fouche",
+"l0": false,
+"label": "Edgar Fouche",
+"note": "Tier 1 and entirely ordinary. The citations describe F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bed-down, and a Strategic Air Command liaison post at Kelly AFB. The second Meritorious Service Medal citation closes 'culminate a distinguished career', which dates the end of active service to 1987.",
+"sources": [
+{
+"date": "2014-06-15",
+"name": "Decoration certificates and citations, performance reports and education certificates in the self-published compilation",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
 },
 {
 "claimTier": 1,
@@ -409,6 +451,53 @@
 {
 "claimTier": 1,
 "cls": "program",
+"dateEnd": "1996-05",
+"dateStart": "1978",
+"direction": "in",
+"edgeLabel": "USAF a named partner and the publisher of the fact sheet",
+"id": "northrop-tacit-blue",
+"l0": false,
+"label": "Northrop TACIT BLUE",
+"note": "The Air Force is both a programme partner and the author of the primary record, and the fact sheet is a claim about its own programme, which is exactly the case CLAUDE.md section 2 says is a primary record rather than an interested-party inference.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1988-11-12",
+"dateStart": "1988-11-12",
+"direction": "in",
+"edgeLabel": "Air Force open house; the 1990 notes describe Air Force briefers",
+"id": "norton-afb-airshow-1988",
+"l0": false,
+"label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"note": "The air show is an Air Force open house and is documented as such. The briefers inside the alleged exhibit are described only in the witness's words: uniforms in 'Blue; Air Force', 'Colonel, major, something like that'. No Air Force record of the exhibit was opened.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "air-and-space.com, Lockheed A-12 / YF-12 / SR-71 Blackbirds collection",
+"url": "https://www.air-and-space.com/Lockheed%20A-12%20YF-12%20SR-71%20Blackbirds.htm"
+},
+{
+"date": "1990-12-11",
+"name": "William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk",
+"url": "https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
 "dateEnd": null,
 "dateStart": "1976",
 "direction": "out",
@@ -494,7 +583,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-09-18",
-"deg": 21,
+"deg": 25,
 "denials": [
 {
 "by": {
@@ -652,6 +741,12 @@
 },
 {
 "cls": "event",
+"id": "big-sur-1964",
+"label": "Big Sur missile-test filming, September 1964",
+"tier": "B"
+},
+{
+"cls": "event",
 "id": "bluegill-triple-prime",
 "label": "Bluegill Triple Prime",
 "tier": "B"
@@ -672,6 +767,12 @@
 "cls": "person",
 "id": "donald-keyhoe",
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche",
 "tier": "B"
 },
 {
@@ -699,6 +800,18 @@
 "tier": "C"
 },
 {
+"cls": "program",
+"id": "northrop-tacit-blue",
+"label": "Northrop TACIT BLUE",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "norton-afb-airshow-1988",
+"label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
+"tier": "B"
+},
+{
 "cls": "document",
 "id": "tr-ac-47-silver-bug",
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
@@ -721,7 +834,7 @@
 ],
 "sub": "Military department; original custodian of the UFO record and of the Roswell material",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 41 of 1057, score 85). 22 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 33 of 1125, score 92). 26 connections, 7 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [
 {
 "date": "1947-09-18",

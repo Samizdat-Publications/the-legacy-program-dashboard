@@ -5,6 +5,16 @@
 "band": null,
 "claims": [
 {
+"source": "National Security Archive Electronic Briefing Book 443, 29 October 2013, https://nsarchive.gwu.edu/node/3324 , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The facility's existence was officially acknowledged by the declassification, in summer 2013, of the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, posted as National Security Archive Electronic Briefing Book 443 by Jeffrey T. Richelson on 29 October 2013. This is a statement about Groom Lake. It is NOT a statement about Papoose Lake, and the board's s-4-papoose-lake node exists partly to keep the two from being blurred.",
+"tier": 2
+},
+{
+"source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
+"text": "Bob Lazar's 1991 narration sites his claimed S-4 facility by reference to this place, 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake', and says he was bussed from there to the claimed site. The claim is anchored geographically to a documented facility; that anchoring does not transfer the facility's documentation to the claim.",
+"tier": 2
+},
+{
 "source": "CIA, 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974', released 25 June 2013; National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "On 25 June 2013 the CIA released an official history of the U-2 and OXCART projects acknowledging testing at Area 51, in response to a 2005 FOIA request filed by Jeffrey T. Richelson of the National Security Archive.",
 "tier": 2
@@ -56,6 +66,32 @@
 },
 {
 "claimTier": 2,
+"cls": "person",
+"dateEnd": "1979-08-14",
+"dateStart": "1979-06-01",
+"direction": "in",
+"edgeLabel": "Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation",
+"id": "edgar-fouche",
+"l0": false,
+"label": "Edgar Fouche",
+"note": "The strongest documented connection between any TR-3B claimant and a real classified airfield, and it must be read with its own limit attached: the form does not say what he did there, referring that out to 'a separate report' that is not in the file, and everything else on the form describes F-15 avionics intermediate shop work. The extensive Groom Lake narration in the 1998 presentation, including helicopter flights and a mess hall conversation about an NSA system, is Tier 2 on his word alone.",
+"sources": [
+{
+"date": "1979-08-24",
+"name": "AF Form 77a, 24 August 1979, page 3 of the compilation",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+},
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 42 onward",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "1955",
@@ -79,6 +115,32 @@
 ],
 "tier": "A",
 "type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1979-08-14",
+"dateStart": "1979-06-01",
+"direction": "in",
+"edgeLabel": "Records temporary duty to AFFTC Detachment 3, the unit operating Groom Lake, 1 June to 14 August 1979",
+"id": "fouche-afftc-det3-1979",
+"l0": false,
+"label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+"note": "TIER 2 IS THE CEILING AND HERE IS WHY. The form itself says 'AFFTC-DET 3, Nellis AF Range', which is Tier 1. The identification of DET 3 AFFTC with Groom Lake rests on Peter Merlin's own published site and not on any primary Air Force unit history, organisational chart or FOIA release opened by this research. The weaker link sets the tier.",
+"sources": [
+{
+"date": "1979-08-24",
+"name": "AF Form 77a, 24 August 1979, page 3 of the compilation, rendered and read as an image",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+},
+{
+"date": "2026-09-18",
+"name": "Peter W. Merlin, 'Black Projects at Groom Lake', for the identification of DET 3 AFFTC",
+"url": "https://www.dreamlandresort.com/black_projects/black_projects_history.html"
+}
+],
+"tier": "C",
+"type": "geographic"
 },
 {
 "claimTier": 1,
@@ -259,6 +321,27 @@
 "type": "geographic"
 },
 {
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "in",
+"edgeLabel": "Claimed site sited by reference to Groom Lake, about fifteen miles north of it",
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"note": "The claim anchors itself to a documented facility. That anchoring does not transfer the facility's documentation to the claim.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
 "claimTier": 3,
 "cls": "event",
 "dateEnd": "2017",
@@ -291,10 +374,11 @@
 ],
 "dateEnd": null,
 "dateStart": "1955",
-"deg": 11,
+"deg": 14,
 "denials": [],
 "desc": "Groom Lake is a salt flat roughly 3.75 miles north-south by 3 miles east-west at about 4,409 feet elevation in the Groom Lake Valley of Lincoln County, Nevada, 83 miles north-northwest of Las Vegas and 25 miles south of Rachel. The flight test facility on its southwest shore sits inside Restricted Area 4808 North, the 'Groom box' - a 23-by-25-mile block of restricted airspace enclosing the original 6-by-10-mile rectangular withdrawal - and abuts Yucca Flat, where 739 of the 928 Nevada Test Site nuclear detonations occurred. Its acknowledgement history is the reason it belongs on this board as a case study in how the United States conceals a physical installation for decades and then concedes it in fragments. The CIA established the site in April 1955 for Project AQUATONE, the U-2; the first U-2 arrived on 24 July 1955. Project OXCART, the A-12, was established in August 1959, construction of the 8,500-foot runway began in September 1960, the first A-12 arrived 28 February 1962 and flew on 26 April 1962. HAVE BLUE, the Lockheed stealth demonstrator, first flew here in December 1977; the YF-117A first flew on 18 June 1981 with Lockheed test pilot Hal Farley; Northrop's TACIT BLUE first flew 5 February 1982 with Richard G. Thomas. Exploited foreign aircraft were flown here from the late 1960s under HAVE DOUGHNUT, HAVE DRILL, HAVE IDEA and HAVE GLIB. Against that record, the government's disclosure posture is instructive: no acknowledgement of any kind until 1995, when President Clinton issued a presidential determination exempting 'the Air Force's operating location near Groom Lake, Nevada' from environmental disclosure laws - a determination reissued annually since - which arose out of Kasza v. Browner and Frost v. Perry, the 1994 suits by contractors and by the widows of Walter Kasza and Robert Frost alleging exposure to chemicals burned in open pits, in which Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat. District Judge Philip Pro rejected the state secrets claim; the suits were dismissed for lack of evidence; the Ninth Circuit affirmed; the Supreme Court declined review. The Air Force acknowledged the site's existence in 1998. Only on 25 June 2013, answering a 2005 FOIA request by Jeffrey T. Richelson of the National Security Archive, did the CIA release the U-2 and OXCART history naming Area 51 and admitting specific activity there. That is fifty-eight years from establishment to specific acknowledgement, achieved by FOIA litigation rather than by voluntary disclosure - the template against which every current UAP disclosure claim should be measured. The cover story function matters too: Groom's own historians note the U-2's high-altitude operations generated a wave of civilian UFO reports in the late 1950s that the Air Force did not correct, meaning a real black programme was knowingly allowed to be absorbed into the UFO explanation space.",
 "domains": [
+"lazar-s4-2026-09-18",
 "w2-places-events"
 ],
 "dossier": null,
@@ -316,6 +400,11 @@
 "short": "Groom Lake, Nevada",
 "sources": [
 {
+"date": "2013-10-29",
+"name": "National Security Archive Electronic Briefing Book 443, ed. Jeffrey T. Richelson, on the declassified CIA U-2 and OXCART history by Gregory Pedlow and Donald E. Welzenbach",
+"url": "https://nsarchive.gwu.edu/node/3324"
+},
+{
 "date": "2026-08-12",
 "name": "Wikipedia - Area 51",
 "url": "https://en.wikipedia.org/wiki/Area_51"
@@ -324,11 +413,16 @@
 "date": "2013-06-25",
 "name": "National Security Archive - CIA OXCART/U-2 history release",
 "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/"
+},
+{
+"date": null,
+"name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, , opened 2026-09-18",
+"url": "https://archive.org/details/antigravity"
 }
 ],
 "sub": "Dry lakebed and USAF/CIA flight test facility, Lincoln County, Nevada; R-4808N; 83 mi NNW of Las Vegas",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 170 of 1057, score 47). 11 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 136 of 1125, score 54). 14 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "date": "1955-04-01",

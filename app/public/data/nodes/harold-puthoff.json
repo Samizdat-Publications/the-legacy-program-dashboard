@@ -239,6 +239,11 @@
 "tier": 2
 },
 {
+"source": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"text": "A GRANTED US NAVY PATENT CITES HIM BY NAME ON ITS PRINTED FRONT PAGE. The 'Other Publications' list of US 10,144,532, 'Craft using an inertial mass reduction device', assigned to the Secretary of the Navy, includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. This is a documentary join between the Navy filing and Puthoff, printed on the patent, and it is better evidence of the connection than any later statement about the same relationship.",
+"tier": 1
+},
+{
 "source": "DIA letter to Steven Aftergood, Federation of American Scientists, 16 January 2019; DIA FOIA reading room AATIP index",
 "text": "Puthoff authored the DIA reference document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', one of 38 products produced under the DIA Defense Warning Office's AAWSA programme and listed by DIA to FAS on 16 January 2019.",
 "tier": 1
@@ -601,6 +606,27 @@
 },
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": "2018-12-04",
+"dateStart": "2018-12-04",
+"direction": "in",
+"edgeLabel": "US 10,144,532 cites Puthoff's Polarizable-Vacuum paper on its printed front page",
+"id": "salvatore-pais",
+"l0": false,
+"label": "Salvatore Cezar Pais",
+"note": "A DOCUMENTARY JOIN PRINTED ON A GRANTED US NAVY PATENT, which is better evidence of a connection than any later statement about the same relationship. The 'Other Publications' list includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. The edge asserts the citation and nothing about any personal or professional contact, for which nothing was opened.",
+"sources": [
+{
+"date": "2018-12-04",
+"name": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page",
+"url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": "1985",
 "dateStart": "1972",
@@ -712,7 +738,7 @@
 "date": "2010-01-01",
 "dateEnd": null,
 "dateStart": "2010-01-01",
-"deg": 15,
+"deg": 16,
 "denials": [],
 "domains": [
 "_rs-aawsap-dirds",
@@ -720,6 +746,7 @@
 "aawsap-aatip",
 "elizondo-ttsa",
 "history-1970s-2000s",
+"propulsion-2026-09-19",
 "scientists-technical"
 ],
 "dossier": null,
@@ -855,6 +882,11 @@
 "url": "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously"
 },
 {
+"date": "2018-12-04",
+"name": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page, 'Other Publications'",
+"url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+},
+{
 "date": "2026-08-12",
 "name": "Wikipedia: Harold E. Puthoff",
 "url": "https://en.wikipedia.org/wiki/Harold_E._Puthoff"
@@ -903,7 +935,7 @@
 "status": "active",
 "sub": "President, EarthTech International; AAWSAP DIRD author; former SRI remote-viewing program director",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 18 of 1057, score 109). 17 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 18 of 1125, score 110). 18 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [
 {
 "date": "1972-01-01",

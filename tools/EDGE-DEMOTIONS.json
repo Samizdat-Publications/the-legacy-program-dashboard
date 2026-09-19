@@ -32,6 +32,28 @@
   ]
  },
  {
+  "a": "peter-robbins",
+  "b": "larry-warren",
+  "type": "denial",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The spec",
+  "sources": [
+   "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html",
+   "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
+  ]
+ },
+ {
+  "a": "peter-robbins",
+  "b": "rendlesham-1980",
+  "type": "research",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "AUTHORSHIP RELATION, TYPED research. Left at East Gate, with Larry Warren, defended for twenty-nine years and ",
+  "sources": [
+   "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html",
+   "http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html"
+  ]
+ },
+ {
   "a": "uap-gerb",
   "b": "uap-gerb-mitre-investigation",
   "type": "investigative",
@@ -59,6 +81,16 @@
   "note": "AARO identifies KONA BLUE as a prospective SAP proposed to DHS, never approved, whose advocates only assumed m",
   "sources": [
    "https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/35"
+  ]
+ },
+ {
+  "a": "element-115-claim",
+  "b": "lazar-tape-1991",
+  "type": "custody",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "GENUINE CUSTODY: a document containing the claim, in the same sense the ruling allows for a document containin",
+  "sources": [
+   "https://archive.org/details/antigravity"
   ]
  },
  {

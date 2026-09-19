@@ -103,7 +103,7 @@
 "url": "https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "custody"
 },
 {
@@ -280,7 +280,7 @@
 "direction": "in",
 "edgeLabel": "author's employer at time of writing (Skunk Works)",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
-"l0": false,
+"l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list.",
 "sources": [
@@ -358,6 +358,27 @@
 ],
 "tier": "B",
 "type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Carries the Don Phillips claim of work with Kelly Johnson at the Skunk Works",
+"id": "disclosure-project-witness-set",
+"l0": false,
+"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+"note": "TIER 3, AND DELIBERATELY ROUTED THROUGH THE SET RATHER THAN A PERSON NODE. Nothing independent exists for Phillips: no personnel record, no Lockheed document, no CIA record, no publication, and the name is extremely common. An unverified claimant must not acquire a direct edge into a Tier A contractor node.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "B",
+"type": "witness-chain"
 },
 {
 "claimTier": 1,
@@ -797,7 +818,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1995",
-"deg": 30,
+"deg": 31,
 "denials": [
 {
 "by": {
@@ -1012,7 +1033,7 @@
 "cls": "person",
 "id": "ben-rich",
 "label": "Ben R. Rich",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "institution",
@@ -1046,14 +1067,14 @@
 },
 {
 "cls": "document",
-"id": "dird-mhd-air-breathing-propulsion-and-power",
-"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "tier": "B"
 },
 {
-"cls": "document",
-"id": "dird-ultracapacitors-as-energy-and-power-storage",
-"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"cls": "institution",
+"id": "disclosure-project-witness-set",
+"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
 "tier": "B"
 },
 {
@@ -1183,7 +1204,7 @@
 ],
 "sub": "Prime defense contractor; largest single recipient of DoD prime contract obligations",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 27 of 1057, score 99). 30 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 26 of 1125, score 100). 31 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "2009-01-01",

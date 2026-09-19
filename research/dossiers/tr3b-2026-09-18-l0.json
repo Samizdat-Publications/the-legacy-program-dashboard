@@ -1,0 +1,54 @@
+[
+  {
+    "id": "tr-3b",
+    "entityDossier": {
+      "whatItIs": "A claimed triangular aircraft, called the TR-3B and often the TR-3B 'Astra', said to be a black-programme craft using a mercury-based plasma ring for propulsion. No record of its existence has been opened. The entire account descends from one named man, Edgar Fouche, in a copyrighted 62-page presentation transcript dated August 1998, given to promote a novel he had written with Brad Steiger. The Library of Congress catalogues that novel, Alien Rapture: The Chosen, under LCCN 98002961 with the genre heading 'Science fiction', the subject heading 'Alien abduction - Fiction' and the class PS3556, American fiction. The presentation is the artefact this node is built on, and it is why the node exists, not evidence that the craft does.",
+      "whyImplicated": "It is on this map as the second worked example of the rule the board adopted on 18 September 2026: the thing claimed about is a node in its own right, and it is the hub every claimant runs into, the case against included. The TR-3B is one of the most repeated craft claims in the entire subject and the board carried nothing for it, while carrying the sceptical literature, the real black programmes of the period and the contractor estate it is attributed to. Its edges are deliberately mixed: the originating claimant, the documents that carry his account, the site that hosts them, the aerospace historian who took his documents apart, a 1993 commercial model kit whose designations reappear in his script as inside knowledge, and a real declassified stealth demonstrator of the right period whose actual shape is nothing like the claim. Its degree means a lot is claimed here. It does not mean any of it is true, and the tier on each edge says which is which.",
+      "roles": [
+        "reverse-engineering",
+        "disclosure",
+        "concealment"
+      ],
+      "narrative": "The case for a node carrying a claim with no evidence behind it is the same case the ARV node made, and this cluster tests it harder. Before this build the board carried DARPA, Northrop, the USAF, Groom Lake and Edwards, and carried nothing for the aircraft those four names are most often attached to in public. A reader arriving with the TR-3B in mind found nothing, which reads as the board having no view. It has a view, and this node states it.\n\nThe strongest single fact here is a cataloguing decision. The narrative enters the world attached to a book that the national library shelves as a novel. The second strongest is that the originating document contradicts itself two slides apart, giving the craft as '600 feet across' and then as 'the 300 feet Operational TR-3Bs'. The third is physical: the claimed mercury plasma is specified at 150 degrees Kelvin, and NIST gives mercury's melting point as 234.31 K, so the substance would be a solid at the stated temperature. The fourth is prior art: 'SR-75 Penetrator' is the designation of a Testor Corporation model kit marketed from 1993, about which the Air Force publicly said it was not modelled on anything that exists, and it reappears in the 1998 script as inside knowledge.\n\nThe documents Fouche published as corroboration were opened in full, fifteen legible pages. They are decorations, training certificates, performance reports and one 1984 personnel letter. There is no DD-214, no clearance record and no programme document among them, and the page presented as a 'SAC/DARPA Classified Document' carries no classification marking and is signed by a technical sergeant in the Directorate of Assignments, Deputy Chief of Staff for Personnel. Fouche applied the redactions himself and says so in his own caption.\n\nOne document genuinely earns its place on the other side, and the node carries it as such rather than burying it. An AF Form 77a of 24 August 1979 records Technical Sergeant Fouche assigned on temporary duty to AFFTC Detachment 3, Nellis AF Range, from 1 June to 14 August 1979, and it is the sceptic's own published reference work that identifies DET 3 AFFTC as Groom Lake. The same form then limits itself: it says his duties there were verified via a separate report, and that report is not in the file. That is the most interesting single page in the collection and it is the reason the man has a node at all.\n\nWhat this cluster does not settle is the craft. Nothing here is evidence that a TR-3B exists. Every node is a node about a claim, the hub says so in its first sentence, and the case against is wired in as edges like any other.",
+      "claims": [
+        {
+          "text": "THE ORIGINATING DOCUMENT CONTRADICTS ITSELF TWO SLIDES APART. The 62-page speaking script headed 'Copyright Aug. 1998, Fouche Media Associates' gives the craft's size as '600 feet across' and, two slides later, as 'the 300 feet Operational TR-3Bs'. Both figures are in the same copyrighted document, presented as specification rather than estimate. Where the ARV thread's sizes drifted across three documents over thirty-four years, this one disagrees with itself inside a single afternoon's script.",
+          "tier": 1,
+          "source": "Fouche 1998 presentation transcript, slides 69-72, hosted at checktheevidence.com, opened 2026-09-18"
+        },
+        {
+          "text": "THE NATIONAL LIBRARY SHELVES THE SOURCE BOOK AS FICTION. The Library of Congress record for Alien Rapture: The Chosen, by Edgar Fouche and Brad Steiger, Galde Press 1998, LCCN 98002961, carries the genre heading 'Science fiction.', the subject heading 'Alien abduction - Fiction', and the classification PS3556, which is American fiction. The presentation that originated the TR-3B account was given to promote this book, by the presentation's own words.",
+          "tier": 1,
+          "source": "Library of Congress catalogue record LCCN 98002961, opened 2026-09-18"
+        },
+        {
+          "text": "THE CLAIMED PROPELLANT WOULD BE SOLID AT THE STATED TEMPERATURE. The 1998 presentation specifies a mercury-based plasma accelerated 'at 150 degrees Kelvin'. NIST gives the melting point of mercury as 234.31 K. At 150 K mercury is a solid, so the stated figure describes a condition in which the claimed mechanism cannot operate as described.",
+          "tier": 1,
+          "source": "Fouche 1998 presentation transcript, slide 72, against the NIST value for mercury's melting point, both opened 2026-09-18"
+        },
+        {
+          "text": "A DESIGNATION PRESENTED AS INSIDE KNOWLEDGE WAS A MODEL KIT NAME FIVE YEARS EARLIER. 'SR-75 Penetrator' is the designation of a speculative Testor Corporation model kit designed by John Andrews and marketed from 1993, about which the Air Force stated publicly that it was not modelled on anything that exists. The same designation appears in Fouche's 1998 script as privileged knowledge of a real aircraft.",
+          "tier": 2,
+          "source": "Contemporaneous newspaper reporting of the Testor SR-75 Penetrator and XR-7 Thunderdart kits carrying the Air Force's statement, opened 2026-09-18"
+        },
+        {
+          "text": "THE CORROBORATING DOCUMENTS CONTAIN NO CLEARANCE RECORD AND NO PROGRAMME DOCUMENT. The fifteen-page compilation Fouche published as his military documents was opened in full and is legible throughout. It consists of decorations, training certificates, performance reports and one 1984 personnel letter. It contains no DD-214, no clearance record and no programme document. The page presented as a 'SAC/DARPA Classified Document' carries no classification marking and is signed by a technical sergeant in the Directorate of Assignments, Deputy Chief of Staff for Personnel.",
+          "tier": 1,
+          "source": "Fouche military documents compilation, fifteen pages rendered at 190 dpi and read as images, hosted at checktheevidence.com, opened 2026-09-18"
+        },
+        {
+          "text": "THE COUNTERWEIGHT, AND IT IS REAL. An AF Form 77a Letter of Evaluation dated 24 August 1979 records Technical Sergeant Fouche assigned on temporary duty to 'AFFTC-DET 3, Nellis AF Range' from 1 June to 14 August 1979. The identification of DET 3 AFFTC with Groom Lake comes from Peter Merlin's own published reference work, which is why this claim's tier is capped at 2 rather than 1: no primary Air Force record making that identification was opened. The form then limits itself, stating that his duties there were verified via a separate report that is not in the file.",
+          "tier": 2,
+          "source": "AF Form 77a, 24 August 1979, page 3 of the Fouche military documents compilation, opened 2026-09-18; the DET 3 identification is Merlin's published statement"
+        }
+      ],
+      "openQuestions": [
+        "Whether Edgar Fouche ever stood at an International UFO Congress podium. The contemporaneous February 1998 programme does not list him, and the August 1998 attribution rests on the header of his own document. The venue and date are softer than the literature assumes.",
+        "How the TR-3B actually appears in Alien Rapture: The Chosen. The book was not opened, so nothing here asserts its contents beyond the Library of Congress cataloguing of it.",
+        "The alleged recorded confession by Fouche. The forum thread said to hold it returned HTTP 522, and the one account that was opened says its own screenshot was unreadable. No confession is in evidence anywhere, and the board should stop repeating that one exists until someone produces it.",
+        "The FOIA return said to bear on his service record was not opened, so nothing is asserted about what it returned.",
+        "Any official record, of any kind, using the string 'TR-3B'. None was found."
+      ]
+    }
+  }
+]

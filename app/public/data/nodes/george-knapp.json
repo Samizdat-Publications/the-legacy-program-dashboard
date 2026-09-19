@@ -138,6 +138,21 @@
 "tier": 1
 },
 {
+"source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18",
+"text": "CONTEMPORANEOUS CONFIRMATION OF THE 1989 REPORTING. A Las Vegas Review-Journal report of 19 June 1990, page 8B, by Warren Bates, records that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. This is the only contemporaneous documentary confirmation opened by this session that the 1989 Lazar broadcasts happened at all.",
+"tier": 1
+},
+{
+"source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+"text": "Tom Mahood's timeline records that Knapp began interviewing Lazar in March 1989, that the silhouetted interviews under the pseudonym 'Dennis' aired in May 1989, that KLAS-TV identified and interviewed him publicly on 10 November 1989, and that Lazar appeared on Knapp's KLAS programme 'On The Record' on 9 December 1989. No 1989-dated artefact was opened by this session and these dates are carried at Tier 3.",
+"tier": 3
+},
+{
+"source": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"text": "He appears in and is credited on Jeremy Corbell's 2018 documentary Bob Lazar: Area 51 and Flying Saucers, alongside Lazar himself and Joy White.",
+"tier": 1
+},
+{
 "source": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Knapp has been credited with introducing Senator Harry Reid to Robert Bigelow because of their shared interest in unidentified aerial phenomena.",
 "tier": 2
@@ -223,7 +238,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "witness-chain"
 },
 {
@@ -245,6 +260,27 @@
 }
 ],
 "tier": "B",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "out",
+"edgeLabel": "Appears in and is credited on the 2018 documentary",
+"id": "corbell-lazar-2018",
+"l0": false,
+"label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+"note": "He is a participant rather than an author of this film, which is why it is witness-chain and not research.",
+"sources": [
+{
+"date": "2018",
+"name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+"url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+}
+],
+"tier": "C",
 "type": "witness-chain"
 },
 {
@@ -462,6 +498,27 @@
 "type": "institutional"
 },
 {
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1989-12-09",
+"dateStart": "1989-03",
+"direction": "out",
+"edgeLabel": "Reporter and author of the broadcasts",
+"id": "klas-lazar-broadcasts-1989",
+"l0": false,
+"label": "The KLAS-TV Lazar broadcasts, 1989",
+"note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. Authorship of a document is typed research under the board's ruling of 18 September 2026.",
+"sources": [
+{
+"date": "1990-06-19",
+"name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
 "claimTier": 2,
 "cls": "location",
 "dateEnd": "1989-05",
@@ -546,6 +603,27 @@
 "type": "behavioral"
 },
 {
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1989-03",
+"direction": "out",
+"edgeLabel": "Journalist who brought the claim to air in 1989 and has carried it since",
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"note": "Confirmed contemporaneously in print: 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. Mahood's timeline puts his first interviews with Lazar in March 1989.",
+"sources": [
+{
+"date": "1990-06-19",
+"name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
 "claimTier": 1,
 "cls": "document",
 "dateEnd": "2021",
@@ -591,12 +669,13 @@
 "date": "2021-08-01",
 "dateEnd": null,
 "dateStart": "2021-08-01",
-"deg": 16,
+"deg": 19,
 "denials": [],
 "domains": [
 "_rs-legislation",
 "aawsap-aatip",
 "grusch",
+"lazar-s4-2026-09-18",
 "media-structure",
 "primes-custody"
 ],
@@ -651,6 +730,21 @@
 "url": "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
 },
 {
+"date": "1990-06-19",
+"name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+},
+{
+"date": "2026-09-18",
+"name": "Tom Mahood, 'The Robert Lazar Timeline'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+},
+{
+"date": "2018",
+"name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+"url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+},
+{
 "date": "2026-08-12",
 "name": "Wikipedia - George Knapp (television journalist)",
 "url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
@@ -669,8 +763,17 @@
 "status": "active",
 "sub": "Investigative journalist, KLAS-TV Las Vegas; co-author of the AAWSAP insider books",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 85 of 1057, score 66). 18 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 54 of 1125, score 76). 21 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
+{
+"date": "1989-03",
+"id": "tl-1989-03-knapp-first-interviews",
+"label": "George Knapp begins interviewing Lazar",
+"precision": "month",
+"strand": "witness",
+"text": "Tom Mahood's timeline records that Knapp began conducting initial interviews with Lazar in March 1989 'for safekeeping purposes'. No 1989-dated artefact was opened and this row is Tier 3 evidence carried on a Tier C node.",
+"tier": "C"
+},
 {
 "date": "1989-11-01",
 "id": "ms-1989-lazar",

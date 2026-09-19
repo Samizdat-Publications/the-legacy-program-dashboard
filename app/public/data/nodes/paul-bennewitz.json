@@ -47,6 +47,26 @@
 "tier": 2
 },
 {
+"source": "Find a Grave memorial 17482201, https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz , opened 2026-09-19",
+"text": "THE BURIAL RECORD, WHICH THE LITERATURE NEVER CARRIES. Paul Frederick Bennewitz Jr, 30 September 1927 to 23 June 2003, buried at Santa Fe National Cemetery, Santa Fe County, New Mexico, Section 12 Site 402, marker inscribed 'S1C US COAST GUARD WORLD WAR II'. The man at the centre of the best-documented domestic disinformation operation in this subject was a Second World War Coast Guard seaman who ran a humidity-instrument company.",
+"tier": 1
+},
+{
+"source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"text": "HIS OWN DATED DOCUMENT, WHICH THE BOARD HAS NOT CARRIED. Bennewitz summarised his own investigation in late 1981 in a roughly five-thousand-word report titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)'. Two fragments of it were read: 'IN TRUTH THEY TEND TO LIE, HOWEVER THEIR MEMORY FOR LYING IS NOT LONG' and 'THEY MUST BE MADE TO COME DOWN - DESTRUCT THEMSELVES WHICH IS A STANDING ORDER'. Tier 2 because the fragments were read in a 2025 newsletter and not in the document.",
+"tier": 2
+},
+{
+"source": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
+"text": "INDEPENDENT CONFIRMATION OF THE 1980 AFOSI RECORD. The complaint form reproduced by NICAP from the CUFON archive carries AFOSI Det 1700 at Kirtland AFB, District File No. 8017D93-0/29, and Richard C Doty, SA, on its face, together with named 1608 Security Police Squadron observers: SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier at approximately 2350 hrs on 8 August 1980, and an unnamed Sandia security guard at approximately 0020 hrs on 9 August 1980 who requested anonymity.",
+"tier": 1
+},
+{
+"source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "Bennewitz is the origin point of the Dulce claim, from about 1979, in the dated chronology of the cluster's originators. Myrna Hansen's 1980 abduction claim was connected to Dulce by Bennewitz after he had begun to suspect a facility there.",
+"tier": 2
+},
+{
 "source": "AFOSI complaint-form record, Kirtland AFB, 10 Nov 1980, released under FOIA",
 "text": "An AFOSI record dated 10 November 1980 documents that Kirtland AFB security police observed unexplained aerial objects over the Coyote Canyon/Manzano area and that Bennewitz's reporting was under official notice.",
 "tier": 1
@@ -122,6 +142,69 @@
 },
 {
 "claimTier": 2,
+"cls": "document",
+"dateEnd": "1981",
+"dateStart": "1981",
+"direction": "out",
+"edgeLabel": "Author of the late-1981 report",
+"id": "bennewitz-project-beta-1981",
+"l0": false,
+"label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
+"note": "Authorship, typed research rather than custody by rule: custody carries a programme weighting and inflating a claimant with it is a defect this board has already had to remove once.",
+"sources": [
+{
+"date": "2025-11-29",
+"name": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'",
+"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1979",
+"direction": "out",
+"edgeLabel": "Origin point of the Dulce claim, from about 1979",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "Bennewitz is the first person to attach a facility claim to Dulce, from about 1979, in the dated chronology of the cluster's originators, and he connected Myrna Hansen's 1980 account to it after he had begun to suspect a site there. The edge records that he asserted it and nothing more.",
+"sources": [
+{
+"date": "2016-08-29",
+"name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1980-09",
+"dateStart": "1980-08",
+"direction": "in",
+"edgeLabel": "AFOSI opened a file covering the observations Bennewitz was reporting",
+"id": "kirtland-manzano-1980",
+"l0": false,
+"label": "Kirtland AFB / Manzano Weapons Storage Area incident",
+"note": "Confirmed independently this session from the NICAP reproduction. The record establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that a file was opened. It establishes nothing about what the objects were.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
 "cls": "location",
 "dateEnd": "1980",
 "dateStart": "1979",
@@ -143,20 +226,72 @@
 },
 {
 "claimTier": 2,
-"cls": "person",
-"dateEnd": "1985",
-"dateStart": "1980",
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1983-04",
 "direction": "in",
-"edgeLabel": "Ran fabricated material at Bennewitz out of the same AFOSI office",
+"edgeLabel": "Fabricated programme material in the Kirtland operation, corroborated as told by 1989",
+"id": "project-aquarius",
+"l0": false,
+"label": "Project AQUARIUS (alleged)",
+"note": "Cooper's 1989 paper independently records Howe telling him that Doty showed her documents at Kirtland. That corroborates the telling by 1989 and nothing about the documents. No copy of any document given to Bennewitz was opened by this session, and no aquarius-document node should be created.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Milton William Cooper, 'The Secret Government', dated on its own first page 23 May 1989, updated 21 November 1990, 49pp, text extracted and searched in full",
+"url": "https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2005-02-08",
+"direction": "in",
+"edgeLabel": "The principal documented account of the affair",
+"id": "project-beta-bishop-2005",
+"l0": false,
+"label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
+"note": "Tier 1 as a bibliographic record of a book about him. The participant-account caveat, Bishop's undisclosed friendship with Bill Moore as reported by a writer relying on Bishop, goes in this note and not in the tier: it bars the book from being the sole source for a claim about Moore's conduct, it does not degrade the record of the book's existence.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Open Library bibliographic record for Greg Bishop, 'Project Beta', Paraview Pocket Books, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877",
+"url": "https://openlibrary.org/books/OL7950835M/Project_Beta"
+},
+{
+"date": "2025-11-29",
+"name": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'",
+"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Two-sided: the reported admission, and his own recorded denial of harm",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
-"note": "Doty has acknowledged on the record passing fabricated documents to Bennewitz while an AFOSI agent; Bennewitz's psychiatric collapse is the documented outcome. This is the field's baseline case for government-authored disinformation.",
+"note": "The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing.",
 "sources": [
 {
 "date": "2014-05-13",
-"name": "HuffPost - Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Incident",
+"name": "Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies'",
 "url": "https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650"
+},
+{
+"date": "2026-09-19",
+"name": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full",
+"url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
 },
 {
 "date": "2021-05-20",
@@ -174,7 +309,7 @@
 "url": "https://www.nicap.org/foia_003.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "behavioral"
 },
 {
@@ -201,15 +336,20 @@
 {
 "claimTier": 2,
 "cls": "person",
-"dateEnd": "1989",
-"dateStart": "1980",
+"dateEnd": "1989-07-01",
+"dateStart": "1989-07-01",
 "direction": "in",
-"edgeLabel": "Moore admitted in 1989 to feeding Bennewitz false information",
+"edgeLabel": "The 1 July 1989 MUFON admission, which outranks anything Doty has said",
 "id": "william-l-moore",
 "l0": false,
 "label": "William L. Moore",
-"note": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens.",
+"note": "Already on the board and confirmed as unweakened: a civilian, about himself, in public, at a named event on a named date, and not since retracted by its author. Doty's parallel statements have since been partly retracted by him. Any claim about Moore's conduct sourced to Bishop's Project Beta carries the participant-account caveat.",
 "sources": [
+{
+"date": "2025-11-29",
+"name": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'",
+"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
+},
 {
 "date": "2026-08-12",
 "name": "Wikipedia - Paul Bennewitz",
@@ -223,7 +363,7 @@
 "date": "1980-11-10",
 "dateEnd": null,
 "dateStart": "1980-11-10",
-"deg": 6,
+"deg": 11,
 "denials": [
 {
 "by": {
@@ -254,6 +394,7 @@
 ],
 "domains": [
 "_rs-archive-mirror",
+"dulce-2026-09-19",
 "history-1970s-2000s"
 ],
 "dossier": null,
@@ -287,6 +428,26 @@
 "url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
 },
 {
+"date": "2026-09-19",
+"name": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive",
+"url": "https://www.nicap.org/foia_003.htm"
+},
+{
+"date": "2026-09-19",
+"name": "Find a Grave memorial 17482201, Paul Frederick Bennewitz Jr, Santa Fe National Cemetery",
+"url": "https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz"
+},
+{
+"date": "2025-11-29",
+"name": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'",
+"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
+},
+{
+"date": "2016-08-29",
+"name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+{
 "date": "2021-05-20",
 "name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
 "url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
@@ -305,8 +466,17 @@
 "status": "active",
 "sub": "Physicist; president, Thunder Scientific Corp.; target of AFOSI disinformation 1980-1988",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 456 of 1057, score 30). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 193 of 1125, score 45). 11 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.",
 "timeline": [
+{
+"date": "1979",
+"id": "tl-1979-bennewitz-origin",
+"label": "Bennewitz becomes the origin point of the Dulce claim",
+"precision": "year",
+"strand": "witness",
+"text": "From about 1979 Paul Bennewitz, an Albuquerque instrument manufacturer whose company overlooked the Manzano storage area, began the personally funded study that made him the first person to attach a facility claim to Dulce. He later connected Myrna Hansen's 1980 account to the same place.",
+"tier": "B"
+},
 {
 "date": "1988-01-01",
 "id": "t-1988-bennewitz",
@@ -315,6 +485,15 @@
 "strand": "coverup",
 "text": "After eight years of fabricated material fed to him through AFOSI channels, Paul Bennewitz is hospitalised for psychiatric care and withdraws from the field.",
 "tier": "A"
+},
+{
+"date": "2003-06-23",
+"id": "tl-2003-06-23-bennewitz-death",
+"label": "Bennewitz dies; buried at Santa Fe National Cemetery as a Coast Guard seaman",
+"precision": "day",
+"strand": "witness",
+"text": "Paul Frederick Bennewitz Jr, born 30 September 1927, died 23 June 2003, Section 12 Site 402, marker inscribed 'S1C US COAST GUARD WORLD WAR II'. The man at the centre of the best-documented domestic disinformation operation in this subject was a Second World War Coast Guard seaman who ran a humidity-instrument company.",
+"tier": "B"
 }
 ],
 "unexplainedResidual": "AFOSI's own 1980 document concedes unexplained objects over a nuclear weapons storage area. No follow-up investigation of that concession has ever been released.",

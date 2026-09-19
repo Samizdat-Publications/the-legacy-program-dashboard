@@ -1,0 +1,214 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": 79,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "Lear heard of Dulce from a woman named as 'Ann West' and developed his Dulce hypothesis in 1988, in the dated chronology of the cluster's originators. The same name appears in Tal Levesque's November 2015 confession as the raw material from which he composed the two original Dulce Base articles.",
+"tier": 2
+},
+{
+"source": "The Museum of Flight Archives, authority record for John Lear, https://archives.museumofflight.org/agents/people/4962 , opened 2026-09-18",
+"text": "The Museum of Flight Archives authority record states: 'John Olsen Lear was born December 3, 1942' and 'John Lear died on March 29, 2022.' His materials sit inside the William P. and Moya Olsen Lear Family Collection, spanning 1938 to 2001. The archive's own summary line for him is 'UFO conspiracy theorist, pilot, and a one-time candidate for Nevada State Senate.'",
+"tier": 1
+},
+{
+"source": "The Museum of Flight Archives collection description, https://archives.museumofflight.org/agents/people/4962 , opened 2026-09-18",
+"text": "In May 1966 he was one of the pilots on a Learjet 24 flight around the world that set a large number of international aviation records. The FAI record files were not opened and the count of records and the exact crew roles are not asserted here.",
+"tier": 2
+},
+{
+"source": "John Lear's Dec. 29, 1987 Statement, Internet Archive item uploaded by Rich Geldreich 10 June 2023, https://archive.org/details/john-lear-statement-1987 , opened 2026-09-18",
+"text": "HIS OWN CLAIM DOCUMENT IS DATED AND PRECEDES LAZAR. A statement by Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation, survives in the BSRA/BSRF holdings at the Archives for the Unexplained and was, on the uploader's account, circulated on the ParaNet bulletin board in early 1988. This is roughly eighteen months before Lazar reached KLAS-TV. The item record was opened; the statement's text was not rendered by the fetch and no content from it is asserted.",
+"tier": 1
+},
+{
+"source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+"text": "Lear and Lazar had met by 1988. Lear was present at the first and third of the three Wednesday-night desert viewings, on 22 March 1989 and 5 April 1989, and Mahood's timeline records that at the first of those 'only Lear saw the elliptical shape through a telescope'. On 5 April 1989 the group, including Lear, was detained by the Lincoln County Sheriff after guards discovered them.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "other",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1989-04-05",
+"dateStart": "1988",
+"direction": "out",
+"edgeLabel": "Met by 1988; present at two of the three 1989 desert viewings",
+"id": "bob-lazar",
+"l0": false,
+"label": "Robert \"Bob\" Lazar",
+"note": "THIS EDGE DOES NOT SAY LEAR INTRODUCED LAZAR TO KNAPP. That is universally repeated and it is in nothing this board opened.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "Tom Mahood, 'The Robert Lazar Timeline'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "domain",
+"dateEnd": "1988",
+"dateStart": "1987-12-29",
+"direction": "out",
+"edgeLabel": "His dated 1987 statement reached the field through ParaNet in early 1988",
+"id": "d-media",
+"l0": false,
+"label": "Independent media as the disclosure substrate",
+"note": "Chronologically important: his public claim document predates Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. The statement's text was not rendered by the fetch and no content from it is asserted.",
+"sources": [
+{
+"date": "1987-12-29",
+"name": "John Lear's Dec. 29, 1987 Statement, Internet Archive item record and provenance note",
+"url": "https://archive.org/details/john-lear-statement-1987"
+}
+],
+"tier": "C",
+"type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1988",
+"dateStart": "1988",
+"direction": "out",
+"edgeLabel": "Developed his Dulce hypothesis in 1988, from 'Ann West'",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "Hayakawa's chronology dates Lear's hypothesis to 1988 and names his source as Ann West, the same name Levesque gives as the raw material of the original articles. Two entry points into the literature appear to run back through one person.",
+"sources": [
+{
+"date": "2016-08-29",
+"name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "out",
+"edgeLabel": "Carrier of the claim, not an eyewitness to the claimed site",
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"note": "CARRIER, NOT EYEWITNESS TO THE SITE. Lear promoted the account and was present at two of the three 1989 desert viewings, on 22 March and 5 April. No opened record has him claiming to have seen the facility itself. Tier 3 accordingly.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "Tom Mahood, 'The Robert Lazar Timeline'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "2022-03-29",
+"dateEnd": null,
+"dateStart": "2022-03-29",
+"deg": 4,
+"denials": [],
+"domains": [
+"dulce-2026-09-19",
+"lazar-s4-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "john-lear",
+"instId": null,
+"l0": false,
+"label": "John Olsen Lear",
+"loc": "Las Vegas, Nevada",
+"locId": null,
+"members": null,
+"narrative": "John Lear is the rare figure in this cluster whose ordinary career is fully documented and whose extraordinary claims are not. He was born on 3 December 1942, the son of William Powell Lear, founder of Lear Jet, and Moya Olsen Lear, and his papers sit inside the William P. and Moya Olsen Lear Family Collection at The Museum of Flight Archives. In May 1966 he was one of the pilots on a Learjet 24 flight around the world that set a large number of international records. His place in this cluster is chronological as much as evidentiary: his own public claim document is dated 29 December 1987, roughly eighteen months before Lazar reached KLAS-TV, and it circulated through the ParaNet bulletin board in early 1988, setting the frame that Lazar's 1989 account then fitted into. He and Lazar had met by 1988, and he was present at the first and third of the three Wednesday-night desert viewings in the spring of 1989, on 22 March and 5 April, the second of which ended with the group detained by the Lincoln County Sheriff. He is carried here as an early promoter and a viewing participant, not as an eyewitness to any facility. He died on 29 March 2022.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "John Olsen Lear",
+"sources": [
+{
+"date": "2016-08-29",
+"name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+{
+"date": "2026-09-18",
+"name": "The Museum of Flight Archives, authority record for John Lear, within the William P. and Moya Olsen Lear Family Collection",
+"url": "https://archives.museumofflight.org/agents/people/4962"
+},
+{
+"date": "1987-12-29",
+"name": "John Lear's Dec. 29, 1987 Statement, Internet Archive item record and provenance note",
+"url": "https://archive.org/details/john-lear-statement-1987"
+},
+{
+"date": "2026-09-18",
+"name": "Tom Mahood, 'The Robert Lazar Timeline'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+}
+],
+"status": "active",
+"sub": "Son of the Learjet founder and a documented pilot; from a dated statement of 29 December 1987 one of the field's most prolific claimants; present at two of the three 1989 desert viewings with Lazar",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 811 of 1125, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1987-12-29",
+"id": "tl-1987-12-29-lear-statement",
+"label": "John Lear's statement is dated, eighteen months before Lazar reaches KLAS",
+"precision": "day",
+"strand": "witness",
+"text": "A statement by John Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation and preserved in the BSRA/BSRF holdings at the Archives for the Unexplained, circulated on the ParaNet bulletin board in early 1988. It precedes Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. Only the archive item record was opened; the statement's text was not rendered and no content from it is asserted.",
+"tier": "C"
+},
+{
+"date": "1988",
+"id": "tl-1988-lear-dulce",
+"label": "Lear develops his Dulce hypothesis, sourced to 'Ann West'",
+"precision": "year",
+"strand": "witness",
+"text": "Hayakawa's chronology dates Lear's Dulce hypothesis to 1988 and names his source as a woman called Ann West, the same name Levesque later gives as the raw material of the two original Dulce Base articles.",
+"tier": "C"
+},
+{
+"date": "2022-03-29",
+"id": "tl-2022-03-29-lear-dies",
+"label": "John Lear dies",
+"precision": "day",
+"strand": "witness",
+"text": "The Museum of Flight Archives authority record states: 'John Lear died on March 29, 2022.' He was born 3 December 1942, the son of William Powell Lear and Moya Olsen Lear, and his materials sit within the William P. and Moya Olsen Lear Family Collection.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"That John Lear was the route by which Lazar reached George Knapp. This is universally repeated and it is in nothing opened by this session. Mahood's timeline has Knapp beginning interviews with Lazar in March 1989 and has Lear at the viewings in the same weeks, but no opened source states the introduction. No edge on this board asserts it.",
+"His FAA certificates. The Museum of Flight record gives his dates and his collection but no certificate detail. The frequently repeated claim that he held every FAA certificate issued was not checked against any FAA record and is not carried.",
+"The text of his 29 December 1987 statement. Only the archive item record was read; the document itself was not rendered, so no content from it is on this node."
+]
+}
