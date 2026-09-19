@@ -5,26 +5,6 @@
 "band": "retrieval",
 "claims": [
 {
-"source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
-"text": "Larry Warren's claimed connection to it is printed at section 3.8.4 of the Disclosure Project Briefing Document under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000', in which he states he was assigned to the 81st Tactical Fighter Wing at Bentwaters and that his PRP clearance was approved on 11 December 1980.",
-"tier": 1
-},
-{
-"source": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"text": "THAT CLAIM IS DISPUTED IN THE PUBLISHED LITERATURE BY HIS OWN CO-AUTHOR AND HIS OWN PUBLISHER. Peter Robbins published a repudiation on 13 June 2017 alleging fabricated and altered documents, and Cosimo, Inc. announced on 17 October 2017 that it was 'suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins' because 'some of the experiences described in this book may be inaccurate or embellished'.",
-"tier": 2
-},
-{
-"source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
-"text": "A SECOND AND SEPARATE CLAIM ON THIS EVENT COMES FROM CLIFFORD STONE, AND IT FAILS ON AN ACT OF HIS OWN. Stone told the Disclosure Project that an Army team took him to Bentwaters in late December 1980. Klass records that on 23 December 1983 Stone filed a FOIA request with the USAF for information on the same incident, 'used his home address and did not show that he was an Army sergeant'. Klass also notes the incident 'was not reported to higher officials until roughly two weeks after Stone says his team arrived'.",
-"tier": 2
-},
-{
-"source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
-"text": "STATED INFERENCE ABOUT A SOURCE. The Briefing Document's editorial header asserts that Warren's testimony is corroborated by Nick Pope, Lord Hill-Norton and Clifford Stone. Two of those three are witnesses inside the same document and one of them is Stone. The corroboration offered for this event by that source is internal to it.",
-"tier": 3
-},
-{
 "source": "Halt memorandum, 'Unexplained Lights,' 13 Jan 81",
 "text": "Halt's memorandum records that on the day after the first sighting 'three depressions 1 1/2\" deep and 7\" in diameter were found where the object had been sighted on the ground' and that 'Beta/Gamma readings of 0.1 milliroentgens were recorded with peak reading in the three depressions and near the center of the triangle formed by the depressions.'",
 "tier": 1
@@ -87,33 +67,7 @@
 "url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
 }
 ],
-"tier": "B",
-"type": "witness-chain"
-},
-{
-"claimTier": 3,
-"cls": "person",
-"dateEnd": "1980-12",
-"dateStart": "1980-12",
-"direction": "in",
-"edgeLabel": "Claims an Army team took him there in late December 1980",
-"id": "clifford-stone",
-"l0": false,
-"label": "Clifford E. Stone",
-"note": "TIER 3. His own FOIA request of 23 December 1983 to the USAF, from his home address and not identifying him as a serving Army sergeant, cuts against the claim, and no record places him in England. Klass also notes the incident was not reported upward until about two weeks after Stone says his team arrived.",
-"sources": [
-{
-"date": "2001-04",
-"name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-},
-{
-"date": "2001",
-"name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
-"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
-}
-],
-"tier": "B",
+"tier": "C",
 "type": "witness-chain"
 },
 {
@@ -191,7 +145,7 @@
 "url": "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -283,63 +237,6 @@
 "type": "geographic"
 },
 {
-"claimTier": 2,
-"cls": "person",
-"dateEnd": "1980-12",
-"dateStart": "1980-12",
-"direction": "in",
-"edgeLabel": "Claims presence at the December 1980 events; contested",
-"id": "larry-warren",
-"l0": false,
-"label": "Larry Warren",
-"note": "TIER 2 AND CONTESTED. His assignment to the 81st Tactical Fighter Wing is not what is disputed; his presence at the events and the documents he produced for it are. His co-author repudiated the account on 13 June 2017 and the publisher suspended distribution of the book on 17 October 2017.",
-"sources": [
-{
-"date": "2001-04",
-"name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-},
-{
-"date": "2017-06-13",
-"name": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog",
-"url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
-},
-{
-"date": "2017-10-17",
-"name": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate'",
-"url": "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
-}
-],
-"tier": "B",
-"type": "witness-chain"
-},
-{
-"claimTier": 2,
-"cls": "person",
-"dateEnd": "2017-06-13",
-"dateStart": null,
-"direction": "in",
-"edgeLabel": "Co-author of a book-length treatment of the event, later repudiated by him",
-"id": "peter-robbins",
-"l0": false,
-"label": "Peter Robbins",
-"note": "AUTHORSHIP RELATION, TYPED research. Left at East Gate, with Larry Warren, defended for twenty-nine years and then repudiated in June 2017.",
-"sources": [
-{
-"date": "2017-06-13",
-"name": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog",
-"url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
-},
-{
-"date": "2017-08-10",
-"name": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective",
-"url": "http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html"
-}
-],
-"tier": "C",
-"type": "research"
-},
-{
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
@@ -384,7 +281,7 @@
 "coords": null,
 "dateEnd": "1981",
 "dateStart": "1980",
-"deg": 12,
+"deg": 9,
 "denials": [
 {
 "by": {
@@ -415,7 +312,6 @@
 ],
 "desc": "Over three nights at the end of December 1980, US Air Force personnel at the twin bases of RAF Woodbridge and RAF Bentwaters in Suffolk - then a nuclear-capable USAF installation under NATO command - reported an object in the adjacent forest and lights in the sky. The deputy base commander documented it in an official memorandum two weeks later. Three distinct evidentiary layers exist: Lt Col Charles Halt's 13 January 1981 memorandum with its physical-trace and radiation readings; Halt's own live audio recording made during the 28 December patrol; and the signed witness statements of the airmen, including SSgt James Penniston and A1C John Burroughs. The UK Ministry of Defence's contemporaneous position was that the events were of no defence significance, a conclusion reached without interviewing the American witnesses. The incident's later history is the more important part for this board: the memo was released under US FOIA in 1983 before the MoD acknowledged its own file; John Burroughs' US Department of Veterans Affairs claim in the 2010s ran into the unavailability of his service medical records for the relevant period and was ultimately granted; and Halt executed a notarized affidavit in 2010 asserting suppression. Rendlesham is the best-documented case in the world of a physical-trace event at a nuclear-capable NATO installation, and the official position remains that nothing of defence significance occurred.",
 "domains": [
-"disclosure-project-2026-09-19",
 "history-1970s-2000s"
 ],
 "dossier": {
@@ -534,13 +430,7 @@
 "cls": "person",
 "id": "charles-halt",
 "label": "Charles I. Halt",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "clifford-stone",
-"label": "Clifford E. Stone",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "document",
@@ -558,7 +448,7 @@
 "cls": "person",
 "id": "john-burroughs",
 "label": "John Burroughs",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "location",
@@ -579,18 +469,6 @@
 "tier": "C"
 },
 {
-"cls": "person",
-"id": "larry-warren",
-"label": "Larry Warren",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "peter-robbins",
-"label": "Peter Robbins",
-"tier": "C"
-},
-{
 "cls": "institution",
 "id": "sheffield-hallam",
 "label": "Sheffield Hallam University",
@@ -599,26 +477,6 @@
 ],
 "short": "Rendlesham Forest, 1980",
 "sources": [
-{
-"date": "2001-04",
-"name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-},
-{
-"date": "2017-06-13",
-"name": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog",
-"url": "http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html"
-},
-{
-"date": "2017-10-17",
-"name": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate'",
-"url": "http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html"
-},
-{
-"date": "2001",
-"name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
-"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
-},
 {
 "date": "2021-11-11",
 "name": "The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997)",
@@ -636,8 +494,8 @@
 }
 ],
 "sub": "26-28 December 1980; USAF-occupied NATO base, Suffolk, England",
-"tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 152 of 1125, score 52). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 237 of 1057, score 41). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
 "date": "1980-12-26",

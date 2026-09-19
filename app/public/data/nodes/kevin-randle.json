@@ -59,21 +59,6 @@
 ],
 "claims": [
 {
-"source": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
-"text": "Writing on 14 February 2021, he announced the death of Clifford E. Stone on 10 February 2021 in Roswell, New Mexico, and set out the discrepancies between Stone's account and his service record: Stone 'claimed four tours, though his military records showed that he had been overseas for 37 months and not all of it in Vietnam', and of the claim that he slipped out at night to hunt the enemy, 'There is nothing in the record to support that claim.'",
-"tier": 2
-},
-{
-"source": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
-"text": "He states the basis of his knowledge of Stone: he met him in February 1989 and 'visited him at his home many times'. This is a thirty-year personal acquaintance rather than a records-based debunking, which is why his account and Klass's are independent methods rather than one method twice.",
-"tier": 2
-},
-{
-"source": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html , opened 2026-09-19",
-"text": "He hosted and published Peter Robbins's account of the Larry Warren repudiation in August 2017, which is one of the two routes by which that material reached this board.",
-"tier": 2
-},
-{
 "source": "Library catalogue records mirrored at the Internet Archive (truthaboutufocra0000rand; ufocrashatroswel00rand) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "'The Truth About the UFO Crash at Roswell' by Kevin D. Randle and Donald R. Schmitt was published in 1994, 251 pages with bibliographical references and index; 'UFO Crash at Roswell' was published in 1991.",
 "tier": 2
@@ -90,32 +75,11 @@
 }
 ],
 "cls": "person",
-"cluster": "other",
+"cluster": "research",
 "conflicts": [
 "Randle and Schmitt publicly split; Randle later repudiated several witnesses the two of them had jointly relied on, including Frank Kaufmann and Glenn Dennis."
 ],
 "connections": [
-{
-"claimTier": 2,
-"cls": "person",
-"dateEnd": "2021-02-14",
-"dateStart": "2021-02-14",
-"direction": "out",
-"edgeLabel": "Thirty-year acquaintance who records the same discrepancies from the record",
-"id": "clifford-stone",
-"l0": false,
-"label": "Clifford E. Stone",
-"note": "A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night.",
-"sources": [
-{
-"date": "2021-02-14",
-"name": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective",
-"url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
-}
-],
-"tier": "B",
-"type": "denial"
-},
 {
 "claimTier": 1,
 "cls": "person",
@@ -197,7 +161,7 @@
 "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -225,29 +189,8 @@
 "date": "1949-06-04",
 "dateEnd": null,
 "dateStart": "1949-06-04",
-"deg": 6,
+"deg": 5,
 "denials": [
-{
-"by": {
-"id": "kevin-randle",
-"label": "Kevin D. Randle"
-},
-"claimTier": 2,
-"denialKind": "directed",
-"label": "Thirty-year acquaintance who records the same discrepancies from the record",
-"note": "A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night.",
-"of": {
-"id": "clifford-stone",
-"label": "Clifford E. Stone"
-},
-"sources": [
-{
-"date": "2021-02-14",
-"name": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective",
-"url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
-}
-]
-},
 {
 "by": {
 "id": "richard-weaver-usaf",
@@ -313,7 +256,6 @@
 }
 ],
 "domains": [
-"disclosure-project-2026-09-19",
 "w2-retrieval-literature"
 ],
 "dossier": null,
@@ -337,16 +279,6 @@
 "short": "Kevin D. Randle",
 "sources": [
 {
-"date": "2021-02-14",
-"name": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective",
-"url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
-},
-{
-"date": "2017-08-10",
-"name": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective",
-"url": "http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html"
-},
-{
 "date": "2026-08-12",
 "name": "Kevin D. Randle - Wikipedia",
 "url": "https://en.wikipedia.org/wiki/Kevin_D._Randle"
@@ -365,7 +297,7 @@
 "status": "active",
 "sub": "Lt Col (ret.), USAF/Army/Iowa NG intelligence officer; Roswell author",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 223 of 1125, score 43). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 406 of 1057, score 32). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
 "date": "1991",

@@ -1,6 +1,6 @@
 # The denials
 
-This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 219 distinct denials here, from 135 deniers, grouped by who did the denying.
+This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 192 distinct denials here, from 115 deniers, grouped by who did the denying.
 
 ## 'Manhattan Project 2.0' (alleged secrecy architecture)
 
@@ -129,12 +129,6 @@ Alternative Compensatory Control Measures (ACCM) is recorded as the denying part
 
 - **Denies: ACCM sits below the definitional trigger of every SAP reporting statute** This is directed at 10 U.S.C. 119, Special Access Programs: Congressional Oversight, recorded as a association denial at Tier 3 stated inference. 32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'. Sources: 32 CFR Part 117 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117, dated 2026-08-12; 10 U.S.C. 119, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-12.
 
-## Antigravity for Aerospace Applications
-
-Antigravity for Aerospace Applications is recorded as the denying party in 1 denial on this board.
-
-- **Denies: The government's own 45-page antigravity survey does not mention Brown at all** This is directed at Thomas Townsend Brown, recorded as a association denial at Tier 1 documented. THE ABSENCE EDGE, AND THIS NOTE IS WHAT KEEPS IT HONEST. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0; 'Brown' occurs three times and all three are other authors' surnames in the reference list (L. S. Brown and Maclay 1969, H. R. Brown as co-editor of 'The Philosophy of Vacuum', J. H. Brownell 2008). WHAT THIS IS: a Tier 1 fact about a named, dated, openable document, checkable in 45 pages. WHAT THIS IS NOT: a finding that DIA considered Brown and rejected him, because the document shows no sign of having considered him. NOBODY DENIED ANYTHING, which is why the verdict is association and not directed, and the edge must never be rendered or summarised as 'DIA rejected Brown'. Sources: Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2010-03-30.
-
 ## Belgian Air Force F-16 intercept and the 1989-90 Belgian wave
 
 Belgian Air Force F-16 intercept and the 1989-90 Belgian wave is recorded as the denying party in 1 denial on this board.
@@ -194,12 +188,6 @@ Charles E. Schumer is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Publicly called the removal of the Review Board an outrage** This is directed at P.L. 118-31 Subtitle C, Secs. 1841-1843 (what survived), recorded as a association denial at Tier 2 named person on the record. Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it. Sources: The Debrief, A Dramatic Dilution, https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/, dated 2023-12-22.
 
-## Charles I. Halt
-
-Charles I. Halt is recorded as the denying party in 1 denial on this board.
-
-- **Denies: Reported as stating that Warren 'was not there'** This is directed at Larry Warren, recorded as a directed denial at Tier 3 stated inference. TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2. Sources: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, dated 2017-06-13.
-
 ## Christopher K. Mellon
 
 Christopher K. Mellon is recorded as the denying party in 1 denial on this board.
@@ -211,12 +199,6 @@ Christopher K. Mellon is recorded as the denying party in 1 denial on this board
 Christopher Sherwood is recorded as the denying party in 1 denial on this board.
 
 - **Denies: 1 June 2019: 'no responsibilities with regard to the AATIP program'** This is directed at Luis D. Elizondo, recorded as a directed denial at Tier 1 documented. Obtained by Keith Kloor for The Intercept in response to the History Channel series. This sentence has anchored every subsequent Departmental statement about Elizondo. Sources: The Intercept, https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/, dated 2019-06-01.
-
-## Clark County, Nevada felony pandering file, 1990 and 1996
-
-Clark County, Nevada felony pandering file, 1990 and 1996 is recorded as the denying party in 1 denial on this board.
-
-- **Denies: The court file contradicts his own credential account, in his own reported words** This is directed at Robert "Bob" Lazar, recorded as a association denial at Tier 1 documented. THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour. Sources: Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm, dated 1990-07-27.
 
 ## Col. Richard L. Weaver
 
@@ -296,12 +278,6 @@ DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology is
 Donald H. Menzel is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977** This is directed at Official Denial, recorded as a denial denial at Tier 1 documented. The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death. Sources: Condon Report, Section V chapter 2; Internet Archive catalogue record for The UFO Enigma, https://files.ncas.org/condon/text/s5chap02.htm, dated 1969.
-
-## Eric W. Davis
-
-Eric W. Davis is recorded as the denying party in 1 denial on this board.
-
-- **Denies: Says no such craft exists and none has ever been built** This is directed at Alien Reproduction Vehicle (ARV) / Flux Liner, recorded as a denial denial at Tier 2 named person on the record. research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime. Sources: Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, dated 2024-12-12.
 
 ## FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting
 
@@ -399,18 +375,6 @@ Joseph Gradisher is recorded as the denying party in 1 denial on this board.
 
 - **Denies: 'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request** This is directed at DD Form 1910 for GoFast, Gimbal and FLIR video files, recorded as a directed denial at Tier 1 documented. A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/, dated 2019-09-10.
 
-## Kevin D. Randle
-
-Kevin D. Randle is recorded as the denying party in 1 denial on this board.
-
-- **Denies: Thirty-year acquaintance who records the same discrepancies from the record** This is directed at Clifford E. Stone, recorded as a directed denial at Tier 2 named person on the record. A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night. Sources: Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html, dated 2021-02-14.
-
-## Kingston A. George
-
-Kingston A. George is recorded as the denying party in 1 denial on this board.
-
-- **Denies: Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993** This is directed at Robert M. Jacobs, recorded as a directed denial at Tier 1 documented. TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs 'was technically not authorized to view the pictures we were collecting'. Sources: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
-
 ## Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)
 
 Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American) is recorded as the denying party in 2 denials on this board.
@@ -453,12 +417,6 @@ Mark A. Milley is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Chairman of the Joint Chiefs: no evidence of alien craft or coverup** This is directed at David Charles Grusch, recorded as a directed denial at Tier 2 named person on the record. Stated 6 August 2023. Recorded as an artifact: under 10 U.S.C. 119 the Deputy Secretary may waive congressional reporting for a SAP with only Gang of Eight notification, so a Chairman's non-knowledge is consistent with the program existing and is data about compartmentation. Sources: Wikipedia - David Grusch UFO whistleblower claims (denials, with contemporaneous citations), https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims, dated 2026-08-12.
 
-## Mark McCandlish
-
-Mark McCandlish is recorded as the denying party in 1 denial on this board.
-
-- **Denies: Davis says the ARV claims are myth** This is directed at Eric W. Davis, recorded as a denial denial at Tier 2 named person on the record. On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel. Sources: Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, dated 2024-12-12.
-
 ## Maryland Air National Guard flare statement, 26 July 1997
 
 Maryland Air National Guard flare statement, 26 July 1997 is recorded as the denying party in 1 denial on this board.
@@ -489,12 +447,6 @@ Mitch McConnell is recorded as the denying party in 1 denial on this board.
 NASA Unidentified Anomalous Phenomena Independent Study Team is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Concluded data was insufficient - having been given only the unclassified record** This is directed at Chain of custody, recorded as a directed denial at Tier 3 stated inference. Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings. Sources: NASA UAP Independent Study Team Final Report, https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team, https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team, dated 2026-08-12.
-
-## NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)
-
-NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004) is recorded as the denying party in 1 denial on this board.
-
-- **Denies: NASA: the observed thrust is ion wind, and these devices are not viable candidates** This is directed at Thomas Townsend Brown, recorded as a directed denial at Tier 1 documented. EXPLICIT DENIAL EDGE, AND ITS SCOPE MUST NOT BE OVERSTATED. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These "Biefeld-Brown," "Lifter" and "Asymmetrical Capacitor Thrusters" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES BUILT ON IT. It is NOT a finding about what Brown's patents claim, because neither patent ever claimed anti-gravity: the word 'gravity' appears zero times in both. The denial lands on the electrogravitic reading of the effect, not on the inventor's own text. Sources: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, dated 2004.
 
 ## Nancy Ruth Mace
 
@@ -580,12 +532,6 @@ Nicola J. Fox is recorded as the denying party in 1 denial on this board.
 
 - **Denies: NASA announced the UAP research director but withheld the name at the briefing** This is directed at Mark McInerney, recorded as a directed denial at Tier 1 documented. The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney. Sources: The Debrief - NASA IST publishes findings, agency appoints UAP research director, https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/, dated 2023-09-14.
 
-## Northrop TACIT BLUE
-
-Northrop TACIT BLUE is recorded as the denying party in 1 denial on this board.
-
-- **Denies: The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle** This is directed at TR-3B 'Astra', claimed black triangular aircraft, recorded as a association denial at Tier 1 documented. THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996. Sources: U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF, dated 2026-09-18.
-
 ## ODNI Controlled Access Program Coordination Office (CAPCO)
 
 ODNI Controlled Access Program Coordination Office (CAPCO) is recorded as the denying party in 1 denial on this board.
@@ -622,26 +568,6 @@ Patrick S. Ryder is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Released and framed the report as 'the widest possible aperture'** This is directed at AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I, recorded as a association denial at Tier 1 documented. Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released. Sources: Roll Call - No evidence of extraterrestrial technology, report finds, https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/, dated 2024-03-08.
 
-## Peter Robbins
-
-Peter Robbins is recorded as the denying party in 1 denial on this board.
-
-- **Denies: Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017** This is directed at Larry Warren, recorded as a directed denial at Tier 2 named person on the record. TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins's findings and the underlying documents were not opened here. He concedes the authenticity of Warren's January 1981 letter home. Sources: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, dated 2017-06-13; Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html, dated 2017-10-17.
-
-## Peter W. Merlin
-
-Peter W. Merlin is recorded as the denying party in 2 denials on this board.
-
-- **Denies: Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office** This is directed at Edgar Fouche's Military, and DOD contractors reference Documents, recorded as a directed denial at Tier 2 named person on the record. Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction. Sources: Peter Merlin, quoted verbatim in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19; The page 1 image of the compilation, rendered at 190 dpi and read, which corroborates the absence of classification markings and the signature block, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 1984-07-10.
-- **Denies: Named aerospace historian; four falsifiable specifics against the claimant's evidence** This is directed at TR-3B 'Astra', claimed black triangular aircraft, recorded as a directed denial at Tier 2 named person on the record. 'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record. Sources: Peter Merlin, quoted verbatim in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax', https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19.
-
-## Philip J. Klass
-
-Philip J. Klass is recorded as the denying party in 2 denials on this board.
-
-- **Denies: Obtained his service record from the National Personnel Records Center and printed it against the claim** This is directed at Clifford E. Stone, recorded as a directed denial at Tier 1 documented. TIER 1 DESPITE BOTH ENDS BEING INTERESTED PARTIES, because the claim carried by this edge is that Klass requested and published a federal service record, which is a fact about an act of research and not a domain-to-domain inference. The record shows clerk/typist, administration specialist, detachment sergeant and chief administrative clerk; Klass also records Stone's 23 December 1983 FOIA request to the USAF about Bentwaters, sent from his home address without identifying him as a serving sergeant. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
-- **Denies: Dated published critique of the Project by name, Summer 2001** This is directed at The Disclosure Project, recorded as a directed denial at Tier 1 documented. Skeptics UFO Newsletter #68, written within weeks of the press conference. Klass declares his own limitation in the same issue: he was refused admission and his account of the event rests on the Project's press releases, its book and broadcast footage. That limitation applies to his reporting of the event and not to the service record he obtained himself. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
-
 ## Presidential Determinations on the Air Force's Operating Location Near Groom Lake
 
 Presidential Determinations on the Air Force's Operating Location Near Groom Lake is recorded as the denying party in 1 denial on this board.
@@ -672,23 +598,11 @@ The Air Force's position has been fixed since 17 December 1969 and restated verb
 - **Denies: The public statistics are the residue of a filter, not the corpus** This is directed at JANAP 146 (CIRVIS/MERINT reporting), recorded as a association denial at Tier 3 stated inference. If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained. Sources: Bolender memorandum, 20 October 1969, https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf, dated 1969-10-20; USAF Fact Sheet: Project Blue Book, https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/, dated 2026-08-12.
 - **Denies: Blue Book declined to field-investigate an instrumented nuclear-site case** This is directed at Minot AFB B-52 incident, 24 October 1968, recorded as a directed denial at Tier 1 documented. The RADCAT directory records that Project Blue Book personnel did not send field investigators and the incident was written off despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols. Sources: NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968, https://www.nicap.org/681024minot_dir.htm, dated 2010-11-24.
 
-## Project Gasbuggy, 10 December 1967
-
-Project Gasbuggy, 10 December 1967 is recorded as the denying party in 1 denial on this board.
-
-- **Denies: ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier** This is directed at Dulce Base (alleged facility, Archuleta Mesa, New Mexico), recorded as a association denial at Tier 1 documented. The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour. Sources: US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf, dated 2026-09-19.
-
 ## Project MOGUL
 
 Project MOGUL is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Mogul is the Air Force's 1994 identification of the debris** This is directed at Roswell Incident, recorded as a directed denial at Tier 2 named person on the record. The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story. Sources: Wikipedia - Roswell incident, https://en.wikipedia.org/wiki/Roswell_incident, dated 2026-08-12.
-
-## Richard C. Doty
-
-Richard C. Doty is recorded as the denying party in 1 denial on this board.
-
-- **Denies: Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied** This is directed at Dulce Base (alleged facility, Archuleta Mesa, New Mexico), recorded as a directed denial at Tier 2 named person on the record. A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such. Sources: Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M, dated 2026-09-19.
 
 ## Richard M. Bissell Jr.
 
@@ -750,11 +664,9 @@ Signals & Sensor Intelligence is recorded as the denying party in 1 denial on th
 
 ## Stanton T. Friedman
 
-Stanton T. Friedman is recorded as the denying party in 3 denials on this board.
+Stanton T. Friedman is recorded as the denying party in 1 denial on this board.
 
-- **Denies: Credential investigation: located Duxler at Pierce, found no institutional record** This is directed at Robert "Bob" Lazar, recorded as a directed denial at Tier 2 named person on the record. 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
 - **Denies: Unresolved dispute over MJ-12 authenticity** This is directed at Kevin D. Randle, recorded as a association denial at Tier 2 named person on the record. Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
-- **Denies: Denial from a UFO proponent: the claimant's credentials do not survive checking** This is directed at S-4 / Papoose Lake, Nevada, recorded as a directed denial at Tier 2 named person on the record. The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
 
 ## Susan Gough
 
@@ -770,30 +682,11 @@ Susan Gough is recorded as the denying party in 9 denials on this board.
 - **Denies: authenticated the letter, denied its significance** This is directed at Reid Letter to DEPSECDEF Requesting Restricted SAP Status, recorded as a directed denial at Tier 1 documented. 'It makes no change to previous statements.' DoD confirmed the document's authenticity in the same breath as dismissing it. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/, dated 2019-06-13.
 - **Denies: named DoD spokeswoman who confirmed the fake-programme findings would be deferred to Volume II** This is directed at YANKEE BLUE (alleged AFOSI indoctrination program), recorded as a directed denial at Tier 2 named person on the record. Gough's confirmation is the Department conceding on the record that the Air Force ran a fictitious alien-technology indoctrination practice, while deferring the official account indefinitely. Sources: Wikipedia - Yankee Blue, https://en.wikipedia.org/wiki/Yankee_Blue, dated 2026-08-12.
 
-## TR-3B 'Astra', claimed black triangular aircraft
-
-TR-3B 'Astra', claimed black triangular aircraft is recorded as the denying party in 1 denial on this board.
-
-- **Denies: The Fouche file's DARPA invocation rests on a letter from a personnel office** This is directed at Defense Advanced Research Projects Agency, recorded as a association denial at Tier 1 documented. DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'. Sources: The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 1984-07-10; Peter Merlin's reading of the same letter, quoted verbatim, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19.
-
 ## TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955
 
 TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955 is recorded as the denying party in 1 denial on this board.
 
 - **Denies: A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding** This is directed at Official Denial, recorded as a denial denial at Tier 1 documented. The Summary states that the project 'should in no way be associated with any science fiction or "Flying Saucer" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold. Sources: TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf, dated 1955-02-15.
-
-## Tal Levesque (Jason Bishop III)
-
-Tal Levesque (Jason Bishop III) is recorded as the denying party in 2 denials on this board.
-
-- **Denies: Says he wrote the two original Dulce Base articles and manufactured the corroboration** This is directed at Dulce Base (alleged facility, Archuleta Mesa, New Mexico), recorded as a directed denial at Tier 2 named person on the record. In the same message he describes composing the articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. This is the described manufacture of apparent independent corroboration. Sources: Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/, dated 2024-04-02.
-- **Denies: Confessed authorship: 'TEC ... is a creation. A MYTH'** This is directed at Thomas Edwin Castello (fabricated), recorded as a directed denial at Tier 2 named person on the record. The only confession of authorship in the cluster, made by email to Adam Gorightly in November 2015 after a long correspondence in which Levesque had maintained the opposite. Read as reproduced on Hayakawa's site quoting Gorightly's book, so Tier 2. Sources: Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/, dated 2024-04-02; Norio Hayakawa, 'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths', https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/, dated 2021-04-23.
-
-## Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993
-
-Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993 is recorded as the denying party in 1 denial on this board.
-
-- **Denies: Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993** This is directed at TR-3B 'Astra', claimed black triangular aircraft, recorded as a association denial at Tier 3 stated inference. A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session. Sources: Baltimore Sun, 'For latest spy plane look under your tree', https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/, dated 1993-12-25; Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
 
 ## The Cover-Up
 
@@ -843,14 +736,6 @@ Thomas R. Wilson is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Wilson denies the meeting and the substance attributed to him** This is directed at The Wilson-Davis Notes (16 October 2002), recorded as a directed denial at Tier 2 named person on the record. Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it. Sources: The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing), https://thedebrief.org/summer-of-the-saucers/, dated 2022-08-01.
 
-## Tom Mahood
-
-Tom Mahood is recorded as the denying party in 3 denials on this board.
-
-- **Denies: The most detailed documentary examination of the account, 1990s and 2018** This is directed at Robert "Bob" Lazar, recorded as a directed denial at Tier 2 named person on the record. 'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one. Sources: Tom Mahood, 'Lazar Flaws - Education', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/, dated 2026-09-18; Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/, dated 2018.
-- **Denies: The island of stability near element 114 was published popular physics from 1969** This is directed at Element 115: the Lazar claim and moscovium, recorded as a directed denial at Tier 2 named person on the record. This denial cuts against the credulous reading without endorsing the hostile one: the finding is 'available prior art, used', not 'fabricated from nothing'. The Seaborg article itself was not opened. Sources: Tom Mahood, 'Element 115 tidbits', citing Seaborg, Scientific American, April 1969, pp 57-67, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/, dated 2026-09-18.
-- **Denies: Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility** This is directed at S-4 / Papoose Lake, Nevada, recorded as a directed denial at Tier 2 named person on the record. EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible. Sources: Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/, dated 2018.
-
 ## U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center
 
 U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center is recorded as the denying party in 1 denial on this board.
@@ -873,12 +758,6 @@ The council itself has issued no denial. Its chair has repeatedly and publicly s
 
 - **Denies: No budget, no classified access - constitutionally unable to reach the material** This is directed at Chain of custody, recorded as a association denial at Tier 2 named person on the record. The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme. Sources: Collin Binkley, 'Harvard professor with polarizing alien theories is picked to lead new White House UFO council', Associated Press, https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85, dated 2026-06-30; The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01.
 - **Denies: Advisory seat conditioned on unclassified-only access** This is directed at The Sol Foundation, recorded as a undirected denial at Tier 1 documented. The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for. Sources: The Sol Foundation - UAP Science Advisory Council announcement, https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-22.
-
-## US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)
-
-US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967) is recorded as the denying party in 1 denial on this board.
-
-- **Denies: Cited FOR the ARV account's 'Scalar Physics' callout and does not support it** This is directed at Alien Reproduction Vehicle (ARV) / Flux Liner, recorded as a association denial at Tier 1 documented. THE STRAND'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed. Sources: US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', James F. King Jr., 7 pages, https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf, dated 1967-05-30.
 
 ## USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)
 
@@ -941,16 +820,6 @@ United States Department of Homeland Security is recorded as the denying party i
 
 - **Denies: DHS Deputy Secretary disapproved and terminated KONA BLUE approximately six months later** This is directed at KONA BLUE, recorded as a directed denial at Tier 1 documented. The AARO/DHS paper states the Deputy Secretary disapproved and terminated the PSAP roughly six months after it was established, and that KONA BLUE was 'never approved or formally established'. Neither official is named in the released text. Sources: AARO/DHS, 'History and Origin of KONA BLUE', https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf, dated 2024-06-01.
 - **Denies: Produced no records for the first statutory UAP transfer** This is directed at National Archives Unidentified Anomalous Phenomena Records Collection, recorded as a directed denial at Tier 1 documented. NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
-
-## United States Navy
-
-United States Navy is recorded as the denying party in 1 denial on this board.
-
-### Its stated denial posture
-
-The board records no denial link on this node in either direction. The posture the record does establish is confirmation without characterisation: the Department confirmed the videos were genuine Navy product and stated in the same release that what they show remains unidentified. The board's own reading of that as damage control rather than disclosure is carried as a Tier 3 inference from the release's wording, and is not treated as a denial by anyone.
-
-- **Denies: NAWCAD: after three years and $508,000 the Pais Effect could not be proven** This is directed at US Patent 10,135,366 - Electromagnetic field generator, recorded as a directed denial at Tier 1 documented. EXPLICIT DENIAL EDGE AND THE DENIER IS THE SPONSOR. Timothy Boulay, Communications Director at NAWCAD, on the record: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019'; 'The cost was $508,000 over the course of three years'; 'When NAWCAD concluded testing in September 2019, the "Pais Effect" could not be proven.' The same institution that filed, funded and prosecuted the patent family tested this device and reported the negative result itself. Sources: Brett Tingley, The War Zone, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments, dated 2021-02-01.
 
 ## United States v. Ronald W. Pelton (D. Md. 1986)
 

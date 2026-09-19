@@ -522,7 +522,7 @@
 "direction": "out",
 "edgeLabel": "deliverable under AAWSAP",
 "id": "dird-antigravity-for-aerospace-applications",
-"l0": true,
+"l0": false,
 "label": "Antigravity for Aerospace Applications",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "sources": [
@@ -537,7 +537,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -863,7 +863,7 @@
 "direction": "out",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
-"l0": true,
+"l0": false,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "sources": [
@@ -1257,7 +1257,7 @@
 "direction": "out",
 "edgeLabel": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
 "id": "dird-warp-drive-dark-energy-and-the",
-"l0": true,
+"l0": false,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "sources": [
@@ -1408,7 +1408,7 @@
 "direction": "in",
 "edgeLabel": "Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis",
 "id": "klas-tv",
-"l0": true,
+"l0": false,
 "label": "KLAS-TV (Las Vegas)",
 "note": "Knapp's custody allegation, made under oath: 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' On the Russia files he testified that he obtained documents and interviews from Soviet defence officials in the early 1990s and has 'now shared with this Task Force' - the printed hearing carries no statement that he shared them with BAASS or the DIA, which is why this is tier 2. It is an allegation by a named witness, not a documented transfer.",
 "sources": [
@@ -2041,6 +2041,12 @@
 },
 {
 "cls": "document",
+"id": "dird-antigravity-for-aerospace-applications",
+"label": "Antigravity for Aerospace Applications",
+"tier": "B"
+},
+{
+"cls": "document",
 "id": "dird-biosensors-and-biomems-a-survey-of",
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "tier": "B"
@@ -2097,6 +2103,12 @@
 "cls": "document",
 "id": "dird-maverick-inventor-versus-corporate-inventor-where",
 "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "tier": "B"
 },
 {
@@ -2172,6 +2184,12 @@
 "tier": "B"
 },
 {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"tier": "B"
+},
+{
 "cls": "person",
 "id": "friedwardt-winterberg",
 "label": "Friedwardt Winterberg",
@@ -2199,6 +2217,12 @@
 "cls": "person",
 "id": "jesse-michels",
 "label": "Jesse Michels",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)",
 "tier": "C"
 },
 {
@@ -2354,7 +2378,7 @@
 ],
 "sub": "dia-program",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 2 of 1125, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 2 of 1057, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "date": "2012-01-01",

@@ -8,16 +8,6 @@
 "chronology": [],
 "claims": [
 {
-"source": "NASA/TM-2004-213082, title page and abstract, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
-"text": "HE RAN NASA'S OWN ASSESSMENT OF EXOTIC PROPULSION, WHICH IS AN EARLIER AND STRONGER INSTITUTIONAL FACT THAN THE AAWSAP DIRD AUTHORSHIP THE BOARD ALREADY CARRIES FOR HIM. NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and summarises the Breakthrough Propulsion Physics Project, which 'NASA supported... from 1996 through 2002'. He therefore comes to the DIA's 2010 'Cockpits in the Era of Breakthrough Flight' with six years of having managed the federal government's only public, funded assessment of the same class of claims.",
-"tier": 1
-},
-{
-"source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
-"text": "He is the author of the single document that adjudicates three of the propulsion mechanisms this board tracks: Biefeld-Brown and its variants, Alcubierre-style metric engineering, and high frequency gravitational waves. His conclusion on the first, in his own text: these devices 'are not viable candidates for breakthrough physics propulsion'. On the second: they are 'extremely unlikely to be engineered'.",
-"tier": 1
-},
-{
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The DIA letter of 9 January 2018 lists 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero.'",
 "tier": 1
@@ -44,7 +34,7 @@
 }
 ],
 "cls": "person",
-"cluster": "other",
+"cluster": "research",
 "conflicts": [],
 "connections": [
 {
@@ -92,57 +82,14 @@
 ],
 "tier": "B",
 "type": "research"
-},
-{
-"claimTier": 1,
-"cls": "document",
-"dateEnd": "2004",
-"dateStart": "2004",
-"direction": "out",
-"edgeLabel": "Sole author of the project's summary technical memorandum",
-"id": "millis-tm-2004-213082",
-"l0": true,
-"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
-"note": "AUTHORSHIP IS research AND NOT custody on this board: custody carries a x3.0 programme weighting and an author is not a custodian. He wrote the document; he did not hold it.",
-"sources": [
-{
-"date": "2004",
-"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
-"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
-}
-],
-"tier": "B",
-"type": "research"
-},
-{
-"claimTier": 1,
-"cls": "program",
-"dateEnd": "2002",
-"dateStart": "1996",
-"direction": "out",
-"edgeLabel": "Managed NASA's Breakthrough Propulsion Physics Project, 1996 to 2002",
-"id": "nasa-bpp",
-"l0": false,
-"label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
-"note": "NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and is the project's own summary of its methods and findings. This is an earlier and stronger institutional fact about him than the AAWSAP DIRD authorship the board already carries.",
-"sources": [
-{
-"date": "2004",
-"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
-"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
-}
-],
-"tier": "C",
-"type": "institutional"
 }
 ],
 "date": "2010-11-01",
 "dateEnd": null,
 "dateStart": "2010-11-01",
-"deg": 3,
+"deg": 1,
 "denials": [],
 "domains": [
-"propulsion-2026-09-19",
 "w7-dirds-2"
 ],
 "dossier": null,
@@ -165,11 +112,6 @@
 "sequenceChain": [],
 "short": "Marc G. Millis",
 "sources": [
-{
-"date": "2004",
-"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
-"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
-},
 {
 "date": null,
 "name": "https://irp.fas.org/dia/aatip-list.pdf",
@@ -214,7 +156,7 @@
 "status": "active",
 "sub": "Former NASA propulsion engineer, founder of the Tau Zero Foundation; author, DIRD 'Cockpits in the Era of Breakthrough Flight' (DIA-08-1011-002)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 290 of 1125, score 39). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 433 of 1057, score 31). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

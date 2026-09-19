@@ -43,31 +43,6 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
 "text": "Confirmed unreachable in this pass: 5 of the 37 DIRD filenames listed by DIA have no resolvable FileId URL — Biomaterials; Materials_For_Advanced_Aerospace_Platforms; Metallic_Glasses_For_Aerospace_Applications; Metallic_Spintronics; Metamaterials_For_Aerospace_Applications. The complete Wayback CDX index for dia.mil FOIA reading-room FileId URLs (3,536 unique FileIds) contains no snapshot of them, and the live page does not expose FileIds to a text fetcher.",
 "tier": 1
-},
-{
-"source": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
-"text": "THE MOST CHECKABLE FINDING THE PROPULSION STRAND PRODUCED, AND IT IS ABOUT THIS SERIES. DIRD DIA-08-1003-018, 'Antigravity for Aerospace Applications', cover-dated 30 March 2010 under the 'Acquisition Threat Support' banner, 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis of EarthTech International, DOES NOT MENTION THOMAS TOWNSEND BROWN. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, Podkletnov 0. 'Brown' occurs three times and every one of them is the surname of a different author in the reference list: L. S. Brown and Maclay, 'Vacuum Stress between Conducting Plates', Physical Review 184 (1969); H. R. Brown as co-editor of 'The Philosophy of Vacuum' (1991); and J. H. Brownell on Casimir photons (2008). Alcubierre occurs once, as reference [43].",
-"tier": 1
-},
-{
-"source": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
-"text": "WHAT THE ZERO-COUNTS ARE AND ARE NOT EVIDENCE FOR, stated so no later session overstates them. THEY ARE EVIDENCE that the United States government's own commissioned survey of antigravity for aerospace applications, written under the same programme this board maps, is a review of gravitomagnetic forces, Forward's dipole generator, Felber's effect, negative energy, dark energy, the cosmological constant and quantum vacuum zero-point fluctuation force, and that it never reaches for the figure the electrogravitics literature treats as its origin. THEY ARE NOT EVIDENCE that DIA considered Brown and rejected him: the document shows no sign of having considered him at all, and an absence is not an adjudication. THEY ARE NOT EVIDENCE that Brown's work was suppressed, hidden or classified; nothing opened supports that and nothing here asserts it.",
-"tier": 1
-},
-{
-"source": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
-"text": "The same survey's own conclusion on what antigravity would require, verbatim: 'Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.'",
-"tier": 1
-},
-{
-"source": "Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf , opened 2026-09-19",
-"text": "A SECOND ZERO-COUNT IN THE SAME SERIES, on the Hutchison effect. DIRD DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, 20 pages as released, attributed on the DIA list to Dr George Hathaway of Hathaway Consulting, names HUTCHISON 0 times and Pharos 0 times. Hathaway is the author of the book 'Mindbending: The Hutchison Files'.",
-"tier": 1
-},
-{
-"source": "Reasoning over NASA/TM-2004-213082 against the board's own dird-series claims, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
-"text": "Stated inference, and it is about transparency rather than content. Between 1996 and 2002 NASA ran a public, funded, unclassified assessment of exotic propulsion, named the claims it examined, published which of sixteen tasks failed, and closed. Between 2009 and 2011 DIA commissioned thirty-eight reference documents covering overlapping subject matter, released them only under FOIA, and withheld every author under exemption (b)(6). NOTHING OPENED JOINS THE TWO PROGRAMMES TO EACH OTHER and no institutional edge between them is proposed; Marc Millis wrote for both, which is a fact about a person and not a link between the institutions.",
-"tier": 3
 }
 ],
 "cls": "document",
@@ -352,7 +327,7 @@
 "direction": "out",
 "edgeLabel": "DIRD",
 "id": "dird-antigravity-for-aerospace-applications",
-"l0": true,
+"l0": false,
 "label": "Antigravity for Aerospace Applications",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-018. Publication date 30 March 2010 on the cover. 45 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
@@ -367,7 +342,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -638,7 +613,7 @@
 "direction": "out",
 "edgeLabel": "DIRD",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
-"l0": true,
+"l0": false,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 21 November 2010 on the cover. 33 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
@@ -976,7 +951,7 @@
 "direction": "out",
 "edgeLabel": "DIRD",
 "id": "dird-warp-drive-dark-energy-and-the",
-"l0": true,
+"l0": false,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 April 2010 on the cover. 34 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "sources": [
@@ -1123,8 +1098,7 @@
 "desc": "Series of ~38 unclassified technical reports produced under AAWSAP by BAASS subcontractors and published by DIA in two series lines: 'Acquisition Threat Support' (FY2009 tranche, published 2009-2010) and 'Defense Futures' (FY2010 tranche, published 2010-2011).",
 "domains": [
 "_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"propulsion-2026-09-19"
+"_rs-archive-mirror"
 ],
 "dossier": {
 "claims": [
@@ -1318,6 +1292,12 @@
 },
 {
 "cls": "document",
+"id": "dird-antigravity-for-aerospace-applications",
+"label": "Antigravity for Aerospace Applications",
+"tier": "B"
+},
+{
+"cls": "document",
 "id": "dird-biosensors-and-biomems-a-survey-of",
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "tier": "B"
@@ -1374,6 +1354,12 @@
 "cls": "document",
 "id": "dird-maverick-inventor-versus-corporate-inventor-where",
 "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "dird-mhd-air-breathing-propulsion-and-power",
+"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "tier": "B"
 },
 {
@@ -1449,6 +1435,12 @@
 "tier": "B"
 },
 {
+"cls": "document",
+"id": "dird-warp-drive-dark-energy-and-the",
+"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"tier": "B"
+},
+{
 "cls": "person",
 "id": "eric-davis",
 "label": "Eric W. Davis",
@@ -1500,21 +1492,6 @@
 "url": "https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/"
 },
 {
-"date": "2010-03-30",
-"name": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released",
-"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
-},
-{
-"date": "2010-03-30",
-"name": "Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor', 20 pages as released",
-"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
-},
-{
-"date": "2004",
-"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics'",
-"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
-},
-{
 "date": null,
 "name": "dia.mil",
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
@@ -1522,17 +1499,8 @@
 ],
 "sub": "AAWSAP contract deliverable set, 2008-2010. A DOCUMENT SERIES, not a programme — the individual papers are wired to their authors and to AAWSAP, and this node is the shelf they sit on. Absorbed the duplicate node dird-collection on 14 Aug 2026.",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 8 of 1125, score 135). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 9 of 1057, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
-{
-"date": "2010-03-30",
-"id": "tl-2010-03-30-dird-maverick-inventor",
-"label": "Hathaway's DIRD on maverick inventors is issued, naming Hutchison zero times",
-"precision": "day",
-"strand": "program",
-"text": "DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', ICOD 1 December 2009, 20 pages as released, attributed on the DIA list to Dr George Hathaway of Hathaway Consulting, who is the author of the book 'Mindbending: The Hutchison Files'. Word counts: Hutchison 0, Pharos 0, levitation 0.",
-"tier": "A"
-},
 {
 "date": "2019-01-16",
 "id": "tl-2019-dirds",

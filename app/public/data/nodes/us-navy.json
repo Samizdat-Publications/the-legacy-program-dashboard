@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": "custody",
+"band": "research",
 "claims": [
 {
 "source": "DoD release, 27 April 2020",
@@ -18,16 +18,6 @@
 "source": "Inference from the text of the 27 April 2020 DoD release",
 "text": "The 2020 release is best read as damage control rather than disclosure: the Department confirmed authenticity, which it could no longer avoid, while declining to characterise the objects, and it released only footage already in public circulation. Reasoning: the release statement's own wording confines the purpose to correcting misconceptions about the existing circulating footage.",
 "tier": 3
-},
-{
-"source": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
-"text": "THE NAVY IS THE ASSIGNEE ON THE FACE OF THE PATENT AND PROSECUTED IT ITSELF. US 10,144,532's printed front page carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)' and '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD'. The government did not merely take an assignment of an employee invention; it put its own patent counsel at the Naval Air Warfare Center Aircraft Division on the prosecution.",
-"tier": 1
-},
-{
-"source": "Brett Tingley, The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
-"text": "AND THE NAVY'S OWN TEST OF THE RELATED DEVICE FAILED, ON THE RECORD FROM A NAMED NAVY OFFICIAL. Timothy Boulay, Communications Director at NAWCAD: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019'; 'The cost was $508,000 over the course of three years'; and 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' The Navy filed it, the Navy funded it, the Navy tested it, and the Navy's own spokesman says the effect could not be proven. NO OTHER PROPULSION MECHANISM ON THIS BOARD HAS ALL FOUR.",
-"tier": 2
 },
 {
 "source": "Board bookkeeping",
@@ -196,28 +186,7 @@
 "type": "institutional"
 },
 {
-"claimTier": 1,
-"cls": "document",
-"dateEnd": "2019-09",
-"dateStart": "2016-10",
-"direction": "out",
-"edgeLabel": "NAWCAD: after three years and $508,000 the Pais Effect could not be proven",
-"id": "pais-patent-emfg",
-"l0": false,
-"label": "US Patent 10,135,366 - Electromagnetic field generator",
-"note": "EXPLICIT DENIAL EDGE AND THE DENIER IS THE SPONSOR. Timothy Boulay, Communications Director at NAWCAD, on the record: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019'; 'The cost was $508,000 over the course of three years'; 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' The same institution that filed, funded and prosecuted the patent family tested this device and reported the negative result itself.",
-"sources": [
-{
-"date": "2021-02-01",
-"name": "Brett Tingley, The War Zone, quoting Timothy Boulay, Communications Director, NAWCAD",
-"url": "https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments"
-}
-],
-"tier": "B",
-"type": "denial"
-},
-{
-"claimTier": 1,
+"claimTier": 2,
 "cls": "document",
 "dateEnd": null,
 "dateStart": "2016-04-28",
@@ -226,17 +195,12 @@
 "id": "pais-patent-imrd",
 "l0": true,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
-"note": "THE SPONSORSHIP IS PRINTED, NOT INFERRED, AND IT IS THE TEST THAT KEEPS KING OUT OF THE PATENTS VIEW. The front page carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)', '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD' and 'Primary Examiner - Philip J Bonzell'. US 3,322,374 by contrast carries no assignee line at all.",
+"note": "Assigned to 'The United States of America as represented by the Secretary of the Navy'.",
 "sources": [
 {
 "date": null,
 "name": "US Patent 10,144,532",
 "url": "https://www.freepatentsonline.com/10144532.html"
-},
-{
-"date": "2018-12-04",
-"name": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page",
-"url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
 }
 ],
 "tier": "A",
@@ -355,35 +319,12 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": null,
-"deg": 13,
-"denials": [
-{
-"by": {
-"id": "us-navy",
-"label": "United States Navy"
-},
-"claimTier": 1,
-"denialKind": "directed",
-"label": "NAWCAD: after three years and $508,000 the Pais Effect could not be proven",
-"note": "EXPLICIT DENIAL EDGE AND THE DENIER IS THE SPONSOR. Timothy Boulay, Communications Director at NAWCAD, on the record: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019'; 'The cost was $508,000 over the course of three years'; 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' The same institution that filed, funded and prosecuted the patent family tested this device and reported the negative result itself.",
-"of": {
-"id": "pais-patent-emfg",
-"label": "US Patent 10,135,366 - Electromagnetic field generator"
-},
-"sources": [
-{
-"date": "2021-02-01",
-"name": "Brett Tingley, The War Zone, quoting Timothy Boulay, Communications Director, NAWCAD",
-"url": "https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments"
-}
-]
-}
-],
+"deg": 12,
+"denials": [],
 "desc": "The United States Navy is the maritime service of the Department of Defense, organised under a civilian Secretary of the Navy with the Chief of Naval Operations as senior uniformed officer, and it states its purpose as deploying combat-ready sailors, ships, aircraft and submarines worldwide without dependence on foreign land bases. It is the service that generated the modern evidentiary core of the UAP problem: carrier strike group encounters off southern California in November 2004 and off the eastern seaboard in 2014-2015, recorded by F/A-18 targeting pods, SPY-1 radar and aircrew who filed the reports through operational channels. On 27 April 2020 the Department authorised release of three unclassified Navy videos - one from November 2004 and two from January 2015 - and stated on the record that it was doing so to clear up public misconceptions about whether the circulating footage was real. That release is a hinge artifact for this board, because it converts material that had circulated as leak and rumour into acknowledged official product while conspicuously not addressing what the objects were. The Navy also holds the institutional position that matters for custody questions - it operates the fleet ranges where the encounters occurred, the aviation safety and hazard reporting systems into which aircrew reports flow, and the shore facilities repeatedly named in recovery and material-storage allegations elsewhere on this board.",
 "domains": [
 "_rs-stubs-known",
-"_stubs",
-"propulsion-2026-09-19"
+"_stubs"
 ],
 "dossier": {
 "claims": [
@@ -486,12 +427,6 @@
 "tier": "B"
 },
 {
-"cls": "document",
-"id": "pais-patent-emfg",
-"label": "US Patent 10,135,366 - Electromagnetic field generator",
-"tier": "B"
-},
-{
 "cls": "person",
 "id": "ryan-graves",
 "label": "Ryan Graves",
@@ -515,20 +450,10 @@
 "date": "2020-04-27",
 "name": "Statement by the Department of Defense on the Release of Historical Navy Videos (official DoD release, article 2165713)",
 "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
-},
-{
-"date": "2021-02-01",
-"name": "Brett Tingley, The War Zone, quoting Timothy Boulay, Communications Director, NAWCAD",
-"url": "https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments"
-},
-{
-"date": "2018-12-04",
-"name": "US Patent 10,144,532 B2, printed front page",
-"url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
 }
 ],
 "sub": "Military service",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 517 of 1125, score 30). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 771 of 1057, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": []
 }

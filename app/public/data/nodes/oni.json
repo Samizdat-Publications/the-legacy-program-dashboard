@@ -10,11 +10,6 @@
 "tier": 2
 },
 {
-"source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; and The Lazar Tape, 1991, captions at 2:19, https://archive.org/details/antigravity , both opened 2026-09-18",
-"text": "A DISCREPANCY, NOT A RELATIONSHIP. The W-2 form in the Lazar literature is described as naming a 'Department of Naval Intelligence', which is not an entity that exists: the Office of Naval Intelligence sits inside the Department of the Navy. Stanton Friedman, who had seen the form, describes it only as 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' Lazar's own 1991 narration says something different again: 'for the duration of my employment at S4 I was paid by the United States Navy'. THE FORM ITSELF WAS NOT OPENED BY THIS BOARD AND NO EMPLOYER IDENTIFICATION NUMBER, ZIP CODE OR BOX CONTENT IS ASSERTED ANYWHERE.",
-"tier": 3
-},
-{
 "source": "Office of Naval Intelligence, official website, retrieved 12 August 2026",
 "text": "ONI describes itself as established in 1882 and 'the nation's longest-serving intelligence agency', headquartered at 4251 Suitland Road, Washington DC.",
 "tier": 1
@@ -38,32 +33,6 @@
 "cls": "institution",
 "cluster": "other",
 "connections": [
-{
-"claimTier": 3,
-"cls": "person",
-"dateEnd": "1989-04",
-"dateStart": "1988-12",
-"direction": "in",
-"edgeLabel": "Claimed payment: 'the United States Navy' in his narration, 'Department of Naval Intelligence' on the W-2 as others describe it",
-"id": "bob-lazar",
-"l0": false,
-"label": "Robert \"Bob\" Lazar",
-"note": "THE EDGE CARRIES A DISCREPANCY AND NOTHING MORE. There is no 'Department of Naval Intelligence'; the Office of Naval Intelligence sits inside the Department of the Navy. THE W-2 WAS NOT OPENED BY THIS BOARD and no employer identification number, zip code or box content is asserted anywhere.",
-"sources": [
-{
-"date": "1997-12",
-"name": "Stanton T. Friedman, 'The Bob Lazar Fraud', on the W-2 he had seen",
-"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
-},
-{
-"date": "1991",
-"name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:19",
-"url": "https://archive.org/details/antigravity"
-}
-],
-"tier": "A",
-"type": "funding"
-},
 {
 "claimTier": 2,
 "cls": "document",
@@ -141,12 +110,11 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1882-03-23",
-"deg": 4,
+"deg": 3,
 "denials": [],
 "desc": "ONI describes itself as 'America's premier maritime intelligence service and a core element of the U.S. Navy's Information Warfare Community', established in 1882 and 'the nation's longest-serving intelligence agency', headquartered at 4251 Suitland Road, Washington DC. Its centrality to the modern UAP record is structural: the encounters that reopened the subject were Navy encounters - the 2004 Nimitz events off Southern California and the 2014-2015 Roosevelt events off the Atlantic coast - and when the Deputy Secretary of Defense formalised the government's response on 4 August 2020, the Unidentified Aerial Phenomena Task Force was established under the cognisance of the Under Secretary of Defense for Intelligence and Security with the Department of the Navy designated to lead it, which placed the Task Force in ONI's institutional orbit. ONI is named in ODNI's 2021 Preliminary Assessment among the contributing elements, listed there as 'Navy/ONI'. ONI is also the agency that has given the most explicit public confirmation that classified UAP holdings exist: in responses to FOIA requests concerning the Nimitz encounter, ONI stated that the responsive material included briefing documents and video classified at the TOP SECRET/SCI level and withheld them in full. That is a formal agency assertion, in writing, that a body of TOP SECRET/SCI UAP material exists - the same category of admission the NSA made in 1980, made forty years later by a different service.",
 "domains": [
 "_rs-archive-mirror",
-"lazar-s4-2026-09-18",
 "w2-agencies"
 ],
 "dossier": null,
@@ -180,16 +148,6 @@
 "url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
 },
 {
-"date": "1997-12",
-"name": "Stanton T. Friedman, 'The Bob Lazar Fraud', on the W-2 form he had seen",
-"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
-},
-{
-"date": "1991",
-"name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE",
-"url": "https://archive.org/details/antigravity"
-},
-{
 "date": "2026-08-12",
 "name": "Office of Naval Intelligence - homepage",
 "url": "https://www.oni.navy.mil/"
@@ -202,7 +160,7 @@
 ],
 "sub": "Established 1882; the nation's longest-serving intelligence agency; parent of the UAP Task Force",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 256 of 1125, score 41). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 315 of 1057, score 36). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "2020-08-04",

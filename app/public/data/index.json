@@ -17,12 +17,12 @@
    "label": "funding"
   },
   {
-   "id": "oversight",
-   "label": "oversight"
-  },
-  {
    "id": "research",
    "label": "research"
+  },
+  {
+   "id": "oversight",
+   "label": "oversight"
   },
   {
    "id": "disclosure",
@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3648,
-   "2": 1618,
-   "3": 573
+   "1": 3363,
+   "2": 1426,
+   "3": 514
   },
-  "edges": 2661,
-  "entities": 787,
+  "edges": 2460,
+  "entities": 746,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
-  "l0": 149,
-  "nodes": 1125,
+  "l0": 137,
+  "nodes": 1057,
   "patents": 5,
-  "people": 338,
+  "people": 311,
   "sheets": 11,
   "threads": 8,
-  "timeline": 1050
+  "timeline": 913
  },
  "eras": [
   {
@@ -167,7 +167,7 @@
    "sub": "no start date recorded"
   }
  ],
- "generated": "2026-09-19",
+ "generated": "2026-09-18",
  "nodes": [
   {
    "A": 0,
@@ -495,7 +495,7 @@
    "cluster": "other",
    "dateEnd": "2024",
    "dateStart": "2024",
-   "deg": 32,
+   "deg": 31,
    "era": "3",
    "hl": 4,
    "id": "aaro-historical-record-vol1",
@@ -911,7 +911,7 @@
    "label": "Adam Smith",
    "short": "Adam Smith",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -1015,8 +1015,8 @@
    "D": 0,
    "band": "retrieval",
    "claims": [
-    4,
     3,
+    2,
     1
    ],
    "cls": "institution",
@@ -1031,7 +1031,7 @@
    "label": "Air Force Office of Special Investigations",
    "short": "AFOSI",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -1039,9 +1039,9 @@
    "D": 3,
    "band": null,
    "claims": [
-    3,
+    2,
     1,
-    1
+    0
    ],
    "cls": "document",
    "cluster": "other",
@@ -1109,7 +1109,7 @@
    "A": 1,
    "C": 3,
    "D": 2,
-   "band": "custody",
+   "band": "research",
    "claims": [
     6,
     0,
@@ -1204,30 +1204,6 @@
   {
    "A": 0,
    "C": 0,
-   "D": 0,
-   "band": null,
-   "claims": [
-    5,
-    0,
-    1
-   ],
-   "cls": "document",
-   "cluster": "research",
-   "dateEnd": "1994",
-   "dateStart": "1994",
-   "deg": 4,
-   "era": "1",
-   "hl": null,
-   "id": "alcubierre-1994",
-   "l0": false,
-   "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
-   "short": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
    "D": 2,
    "band": null,
    "claims": [
@@ -1255,7 +1231,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    5,
+    1,
     2,
     0
    ],
@@ -1271,7 +1247,7 @@
    "label": "Alex Dietrich",
    "short": "Alex Dietrich",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 1,
@@ -1343,7 +1319,7 @@
    "label": "Alfred 'Al' O'Donnell",
    "short": "Alfred 'Al' O'Donnell",
    "status": "dead",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -1366,30 +1342,6 @@
    "l0": false,
    "label": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
    "short": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    3,
-    1,
-    0
-   ],
-   "cls": "document",
-   "cluster": "media",
-   "dateEnd": "1998",
-   "dateStart": "1998",
-   "deg": 3,
-   "era": "1",
-   "hl": null,
-   "id": "alien-rapture-1998",
-   "l0": false,
-   "label": "Alien Rapture: The Chosen, Galde Press, 1998",
-   "short": "Alien Rapture: The Chosen, Galde Press, 1998",
    "status": null,
    "tier": "C"
   },
@@ -1661,7 +1613,7 @@
    "A": 0,
    "C": 1,
    "D": 3,
-   "band": "custody",
+   "band": "research",
    "claims": [
     9,
     4,
@@ -1730,58 +1682,10 @@
    "tier": "B"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": "reverse-engineering",
-   "claims": [
-    5,
-    8,
-    1
-   ],
-   "cls": "program",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "1988-11-12",
-   "deg": 8,
-   "era": "1",
-   "hl": null,
-   "id": "arv-fluxliner",
-   "l0": true,
-   "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
-   "short": "ARV / Flux Liner",
-   "status": null,
-   "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    5,
-    0,
-    1
-   ],
-   "cls": "institution",
-   "cluster": "media",
-   "dateEnd": null,
-   "dateStart": "2024",
-   "deg": 4,
-   "era": "3",
-   "hl": null,
-   "id": "arvp-fluxliner-project",
-   "l0": false,
-   "label": "ARVP (arvp.co.uk), the Flux Liner project site",
-   "short": "ARVP (arvp.co.uk), the Flux Liner project site",
-   "status": null,
-   "tier": "B"
-  },
-  {
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "custody",
+   "band": "research",
    "claims": [
     5,
     1,
@@ -2045,7 +1949,7 @@
    "A": 2,
    "C": 3,
    "D": 1,
-   "band": "custody",
+   "band": "research",
    "claims": [
     8,
     4,
@@ -2255,31 +2159,7 @@
    "label": "Ben R. Rich",
    "short": "Ben R. Rich",
    "status": "dead",
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    0,
-    2,
-    0
-   ],
-   "cls": "document",
-   "cluster": "witness",
-   "dateEnd": "1981",
-   "dateStart": "1981",
-   "deg": 2,
-   "era": "1",
-   "hl": null,
-   "id": "bennewitz-project-beta-1981",
-   "l0": false,
-   "label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
-   "short": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
-   "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -2402,30 +2282,6 @@
    "tier": "C"
   },
   {
-   "A": 1,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    6,
-    3,
-    0
-   ],
-   "cls": "event",
-   "cluster": "legacy",
-   "dateEnd": "1964-11",
-   "dateStart": "1964-08",
-   "deg": 4,
-   "era": "0",
-   "hl": null,
-   "id": "big-sur-1964",
-   "l0": false,
-   "label": "Big Sur missile-test filming, September 1964",
-   "short": "Big Sur missile-test filming, September 1964",
-   "status": null,
-   "tier": "B"
-  },
-  {
    "A": 2,
    "C": 3,
    "D": 1,
@@ -2448,30 +2304,6 @@
    "short": "Bigelow Aerospace",
    "status": null,
    "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    3,
-    2,
-    0
-   ],
-   "cls": "person",
-   "cluster": "media",
-   "dateEnd": null,
-   "dateStart": "2001-11-06",
-   "deg": 2,
-   "era": "2",
-   "hl": null,
-   "id": "bill-cooper",
-   "l0": false,
-   "label": "Milton William Cooper",
-   "short": "Milton William Cooper",
-   "status": "deceased",
-   "tier": "C"
   },
   {
    "A": 0,
@@ -2594,30 +2426,6 @@
    "tier": "B"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    9,
-    6,
-    0
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 14,
-   "era": "nd",
-   "hl": null,
-   "id": "bob-lazar",
-   "l0": false,
-   "label": "Robert \"Bob\" Lazar",
-   "short": "Robert \"Bob\" Lazar",
-   "status": "alive",
-   "tier": "A"
-  },
-  {
    "A": 3,
    "C": 1,
    "D": 1,
@@ -2655,7 +2463,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1916",
-   "deg": 4,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "boeing",
@@ -2735,54 +2543,6 @@
    "label": "Boston University",
    "short": "Boston University",
    "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 1,
-   "C": 1,
-   "D": 1,
-   "band": null,
-   "claims": [
-    5,
-    1,
-    0
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "1990-12-03",
-   "deg": 4,
-   "era": "1",
-   "hl": null,
-   "id": "brad-sorensen",
-   "l0": false,
-   "label": "'Brad' Sorensen",
-   "short": "'Brad' Sorensen",
-   "status": "active",
-   "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 1,
-   "band": null,
-   "claims": [
-    1,
-    1,
-    0
-   ],
-   "cls": "person",
-   "cluster": "media",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 1,
-   "era": "nd",
-   "hl": null,
-   "id": "brad-steiger",
-   "l0": false,
-   "label": "Brad Steiger",
-   "short": "Brad Steiger",
-   "status": "unknown",
    "tier": "C"
   },
   {
@@ -2903,7 +2663,7 @@
    "label": "Howard P. \"Buck\" McKeon",
    "short": "Howard P. \"Buck\" McKeon",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -2998,30 +2758,6 @@
    "l0": false,
    "label": "Canada Department of Transport",
    "short": "Canada Department of Transport",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 0,
-   "band": null,
-   "claims": [
-    4,
-    1,
-    0
-   ],
-   "cls": "document",
-   "cluster": "research",
-   "dateEnd": "2004-10",
-   "dateStart": "2004-10",
-   "deg": 3,
-   "era": "2",
-   "hl": null,
-   "id": "canning-nasa-cr-2004-213312",
-   "l0": false,
-   "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
-   "short": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
    "status": null,
    "tier": "C"
   },
@@ -3417,13 +3153,13 @@
    "claims": [
     2,
     1,
-    1
+    0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1981-01-13",
-   "deg": 3,
+   "deg": 2,
    "era": "1",
    "hl": null,
    "id": "charles-halt",
@@ -3431,7 +3167,7 @@
    "label": "Charles I. Halt",
    "short": "Charles I. Halt",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -3479,30 +3215,6 @@
    "label": "Gen. Charles P. Cabell",
    "short": "Gen. Charles P. Cabell",
    "status": "dead",
-   "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    4,
-    0,
-    0
-   ],
-   "cls": "institution",
-   "cluster": "media",
-   "dateEnd": null,
-   "dateStart": "2014-02-11",
-   "deg": 3,
-   "era": "2",
-   "hl": null,
-   "id": "checktheevidence",
-   "l0": false,
-   "label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
-   "short": "Check The Evidence (checktheevidence.com), Andrew Johnson",
-   "status": null,
    "tier": "B"
   },
   {
@@ -3663,7 +3375,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 41,
+   "deg": 40,
    "era": "0",
    "hl": null,
    "id": "cia",
@@ -3938,30 +3650,6 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    0,
-    8,
-    1
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "2021-02-10",
-   "deg": 5,
-   "era": "3",
-   "hl": null,
-   "id": "clifford-stone",
-   "l0": false,
-   "label": "Clifford E. Stone",
-   "short": "Clifford E. Stone",
-   "status": "dead",
-   "tier": "B"
-  },
-  {
    "A": 1,
    "C": 1,
    "D": 3,
@@ -4176,54 +3864,6 @@
    "short": "Conventional Prompt Global Strike",
    "status": null,
    "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    3,
-    0,
-    0
-   ],
-   "cls": "document",
-   "cluster": "media",
-   "dateEnd": "1990-11-21",
-   "dateStart": "1989-05-23",
-   "deg": 1,
-   "era": "1",
-   "hl": null,
-   "id": "cooper-secret-government-1989",
-   "l0": false,
-   "label": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990",
-   "short": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    2,
-    1,
-    0
-   ],
-   "cls": "document",
-   "cluster": "witness",
-   "dateEnd": "2018-12-08",
-   "dateStart": "2018-11-01",
-   "deg": 3,
-   "era": "3",
-   "hl": null,
-   "id": "corbell-lazar-2018",
-   "l0": false,
-   "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
-   "short": "Bob Lazar: Area 51 and Flying Saucers (2018)",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 2,
@@ -4455,7 +4095,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2004-11-14",
-   "deg": 4,
+   "deg": 3,
    "era": "2",
    "hl": null,
    "id": "d-aviators",
@@ -4575,7 +4215,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1947-01-01",
-   "deg": 5,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "d-contractor",
@@ -4647,7 +4287,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1947",
-   "deg": 12,
+   "deg": 11,
    "era": "0",
    "hl": null,
    "id": "d-custody",
@@ -4712,14 +4352,14 @@
    "band": null,
    "claims": [
     1,
-    2,
+    1,
     1
    ],
    "cls": "domain",
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1984-12-11",
-   "deg": 4,
+   "deg": 3,
    "era": "1",
    "hl": null,
    "id": "d-disinformation",
@@ -4735,15 +4375,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    5,
+    4,
     0,
-    1
+    0
    ],
    "cls": "domain",
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "2008-08-18",
-   "deg": 7,
+   "deg": 3,
    "era": "2",
    "hl": null,
    "id": "d-exotic",
@@ -4951,7 +4591,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    3,
+    2,
     1,
     0
    ],
@@ -4959,7 +4599,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1947-07-01",
-   "deg": 4,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "d-legacy",
@@ -4967,7 +4607,7 @@
    "label": "Legacy Program",
    "short": "Legacy Program",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -5103,7 +4743,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2017",
-   "deg": 12,
+   "deg": 10,
    "era": "3",
    "hl": null,
    "id": "d-media",
@@ -5361,13 +5001,13 @@
    "claims": [
     2,
     1,
-    1
+    0
    ],
    "cls": "domain",
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1953-01-17",
-   "deg": 7,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "d-psyop",
@@ -5655,7 +5295,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1947-07-08",
-   "deg": 4,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "d-witness",
@@ -5744,14 +5384,14 @@
    "band": null,
    "claims": [
     0,
-    7,
+    4,
     1
    ],
    "cls": "person",
    "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2023-11-27",
-   "deg": 6,
+   "deg": 5,
    "era": "3",
    "hl": null,
    "id": "daniel-sheehan",
@@ -5759,7 +5399,7 @@
    "label": "Daniel P. Sheehan",
    "short": "Daniel P. Sheehan",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -5775,7 +5415,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1958-02-07",
-   "deg": 9,
+   "deg": 7,
    "era": "0",
    "hl": null,
    "id": "darpa",
@@ -5839,7 +5479,7 @@
    "D": 3,
    "band": null,
    "claims": [
-    10,
+    4,
     1,
     0
    ],
@@ -5855,7 +5495,7 @@
    "label": "David Fravor",
    "short": "David Fravor",
    "status": "active",
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -5975,7 +5615,7 @@
    "label": "DCSA as DoD Cognizant Security Office under the NISP",
    "short": "DCSA as DoD Cognizant Security Office under the NISP",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
@@ -6629,9 +6269,9 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "research",
+   "band": null,
    "claims": [
-    11,
+    7,
     1,
     0
    ],
@@ -6639,15 +6279,15 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 7,
+   "deg": 5,
    "era": "nd",
    "hl": null,
    "id": "dird-antigravity-for-aerospace-applications",
-   "l0": true,
+   "l0": false,
    "label": "Antigravity for Aerospace Applications",
-   "short": "DIA: Antigravity for Aerospace",
+   "short": "Antigravity for Aerospace Applications",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -6917,23 +6557,23 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "research",
+   "band": null,
    "claims": [
-    9,
+    6,
     0,
-    1
+    0
    ],
    "cls": "document",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 6,
+   "deg": 4,
    "era": "nd",
    "hl": null,
    "id": "dird-mhd-air-breathing-propulsion-and-power",
-   "l0": true,
+   "l0": false,
    "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
-   "short": "DIA: MHD Air Breathing Propulsion",
+   "short": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
    "status": null,
    "tier": "B"
   },
@@ -7063,9 +6703,9 @@
    "D": 0,
    "band": "reverse-engineering",
    "claims": [
-    11,
+    7,
     0,
-    2
+    1
    ],
    "cls": "document",
    "cluster": "other",
@@ -7277,9 +6917,9 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "research",
+   "band": null,
    "claims": [
-    8,
+    5,
     2,
     0
    ],
@@ -7287,61 +6927,13 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 6,
+   "deg": 5,
    "era": "nd",
    "hl": null,
    "id": "dird-warp-drive-dark-energy-and-the",
-   "l0": true,
+   "l0": false,
    "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
-   "short": "DIA: Warp Drive and Dark Energy",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": "custody",
-   "claims": [
-    3,
-    3,
-    1
-   ],
-   "cls": "program",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "1993",
-   "deg": 7,
-   "era": "1",
-   "hl": null,
-   "id": "disclosure-project",
-   "l0": true,
-   "label": "The Disclosure Project",
-   "short": "The Disclosure Project",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": "custody",
-   "claims": [
-    7,
-    1,
-    1
-   ],
-   "cls": "document",
-   "cluster": "witness",
-   "dateEnd": "2001-04",
-   "dateStart": "2001-04",
-   "deg": 10,
-   "era": "2",
-   "hl": null,
-   "id": "disclosure-project-briefing-2001",
-   "l0": true,
-   "label": "Disclosure Project Briefing Document, April 2001",
-   "short": "DP Briefing Document, April 2001",
+   "short": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
    "status": null,
    "tier": "B"
   },
@@ -7351,23 +6943,23 @@
    "D": 3,
    "band": null,
    "claims": [
-    8,
-    0,
-    4
+    1,
+    1,
+    1
    ],
-   "cls": "institution",
+   "cls": "program",
    "cluster": "witness",
-   "dateEnd": "2001-05-09",
-   "dateStart": "2000-07",
-   "deg": 5,
-   "era": "2",
+   "dateEnd": null,
+   "dateStart": "1993",
+   "deg": 3,
+   "era": "1",
    "hl": null,
-   "id": "disclosure-project-witness-set",
+   "id": "disclosure-project",
    "l0": false,
-   "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
-   "short": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "label": "The Disclosure Project",
+   "short": "The Disclosure Project",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -7903,7 +7495,7 @@
    "D": 0,
    "band": "reverse-engineering",
    "claims": [
-    4,
+    3,
     1,
     1
    ],
@@ -7911,7 +7503,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1977-10-01",
-   "deg": 21,
+   "deg": 20,
    "era": "1",
    "hl": null,
    "id": "doe",
@@ -8186,30 +7778,6 @@
    "tier": "B"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    2,
-    4,
-    1
-   ],
-   "cls": "location",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "1979",
-   "deg": 15,
-   "era": "1",
-   "hl": null,
-   "id": "dulce-base",
-   "l0": false,
-   "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
-   "short": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
-   "status": null,
-   "tier": "A"
-  },
-  {
    "A": 2,
    "C": 1,
    "D": 3,
@@ -8280,30 +7848,6 @@
    "short": "EarthTech International",
    "status": null,
    "tier": "A"
-  },
-  {
-   "A": 1,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    5,
-    4,
-    1
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "2017-05-11",
-   "deg": 8,
-   "era": "3",
-   "hl": null,
-   "id": "edgar-fouche",
-   "l0": false,
-   "label": "Edgar Fouche",
-   "short": "Edgar Fouche",
-   "status": "dead",
-   "tier": "B"
   },
   {
    "A": 0,
@@ -8385,13 +7929,13 @@
    "claims": [
     1,
     0,
-    2
+    1
    ],
    "cls": "person",
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1949-02-16",
-   "deg": 3,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "edward-teller",
@@ -8405,7 +7949,7 @@
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "custody",
+   "band": "research",
    "claims": [
     3,
     4,
@@ -8424,30 +7968,6 @@
    "short": "EG&G",
    "status": null,
    "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    4,
-    4,
-    1
-   ],
-   "cls": "program",
-   "cluster": "witness",
-   "dateEnd": "2016-11-28",
-   "dateStart": "1989",
-   "deg": 4,
-   "era": "1",
-   "hl": null,
-   "id": "element-115-claim",
-   "l0": false,
-   "label": "Element 115: the Lazar claim and moscovium",
-   "short": "Element 115: the Lazar claim and moscovium",
-   "status": null,
-   "tier": "B"
   },
   {
    "A": 1,
@@ -8655,7 +8175,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-05-22",
-   "deg": 28,
+   "deg": 27,
    "era": "3",
    "hl": null,
    "id": "eric-burlison",
@@ -8671,7 +8191,7 @@
    "D": 3,
    "band": null,
    "claims": [
-    9,
+    7,
     9,
     3
    ],
@@ -8679,7 +8199,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2010-01-01",
-   "deg": 22,
+   "deg": 20,
    "era": "2",
    "hl": null,
    "id": "eric-davis",
@@ -8813,7 +8333,7 @@
    "A": 2,
    "C": 1,
    "D": 3,
-   "band": "custody",
+   "band": "research",
    "claims": [
     3,
     7,
@@ -8959,7 +8479,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    8,
+    5,
     1,
     0
    ],
@@ -8967,7 +8487,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1967-04-01",
-   "deg": 4,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "faa",
@@ -8981,7 +8501,7 @@
    "A": 2,
    "C": 2,
    "D": 3,
-   "band": "custody",
+   "band": "research",
    "claims": [
     4,
     3,
@@ -9242,78 +8762,6 @@
    "tier": "B"
   },
   {
-   "A": 1,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    4,
-    1,
-    1
-   ],
-   "cls": "document",
-   "cluster": "legacy",
-   "dateEnd": "1979-08-24",
-   "dateStart": "1979-06-01",
-   "deg": 3,
-   "era": "1",
-   "hl": null,
-   "id": "fouche-afftc-det3-1979",
-   "l0": false,
-   "label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
-   "short": "AF Form 77a, Letter of Evaluation, 24 August 1979",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    6,
-    0,
-    0
-   ],
-   "cls": "document",
-   "cluster": "witness",
-   "dateEnd": "1998-08",
-   "dateStart": "1998-08",
-   "deg": 3,
-   "era": "1",
-   "hl": null,
-   "id": "fouche-iufoc-1998",
-   "l0": false,
-   "label": "Fouche's presentation transcript, August 1998",
-   "short": "Fouche's presentation transcript, August 1998",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 1,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    7,
-    1,
-    0
-   ],
-   "cls": "document",
-   "cluster": "witness",
-   "dateEnd": "2014-06-15",
-   "dateStart": "2014-06-15",
-   "deg": 4,
-   "era": "2",
-   "hl": null,
-   "id": "fouche-military-documents",
-   "l0": false,
-   "label": "Edgar Fouche's Military, and DOD contractors reference Documents",
-   "short": "Edgar Fouche's Military, and DOD contractors reference Documents",
-   "status": null,
-   "tier": "B"
-  },
-  {
    "A": 3,
    "C": 1,
    "D": 3,
@@ -9455,30 +8903,6 @@
    "label": "Fund for UFO Research",
    "short": "Fund for UFO Research",
    "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 1,
-   "C": 0,
-   "D": 1,
-   "band": null,
-   "claims": [
-    0,
-    2,
-    1
-   ],
-   "cls": "person",
-   "cluster": "oversight",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 1,
-   "era": "nd",
-   "hl": null,
-   "id": "gabe-valdez",
-   "l0": false,
-   "label": "Gabriel L. \"Gabe\" Valdez",
-   "short": "Gabriel L. \"Gabe\" Valdez",
-   "status": "deceased",
    "tier": "C"
   },
   {
@@ -9695,7 +9119,7 @@
    "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
    "short": "GAO/NSIAD-95-187",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -9842,30 +9266,6 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 1,
-   "band": null,
-   "claims": [
-    4,
-    0,
-    1
-   ],
-   "cls": "event",
-   "cluster": "legacy",
-   "dateEnd": "2004-09",
-   "dateStart": "1967-12-10",
-   "deg": 3,
-   "era": "0",
-   "hl": null,
-   "id": "gasbuggy-1967",
-   "l0": false,
-   "label": "Project Gasbuggy, 10 December 1967",
-   "short": "Project Gasbuggy, 10 December 1967",
-   "status": null,
-   "tier": "C"
-  },
-  {
    "A": 1,
    "C": 1,
    "D": 3,
@@ -9888,30 +9288,6 @@
    "short": "GEIPAN",
    "status": null,
    "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    2,
-    2,
-    0
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 2,
-   "era": "nd",
-   "hl": null,
-   "id": "gene-huff",
-   "l0": false,
-   "label": "Gene Huff",
-   "short": "Gene Huff",
-   "status": "alive",
-   "tier": "C"
   },
   {
    "A": 3,
@@ -9951,7 +9327,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1952",
-   "deg": 3,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "general-dynamics",
@@ -9967,15 +9343,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    3,
-    6,
+    2,
+    5,
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2010-01-01",
-   "deg": 3,
+   "deg": 2,
    "era": "2",
    "hl": null,
    "id": "george-hathaway",
@@ -9983,7 +9359,7 @@
    "label": "George D. Hathaway",
    "short": "George D. Hathaway",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 1,
@@ -9991,15 +9367,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    6,
+    4,
     10,
-    1
+    0
    ],
    "cls": "person",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2021-08-01",
-   "deg": 19,
+   "deg": 16,
    "era": "3",
    "hl": null,
    "id": "george-knapp",
@@ -10253,7 +9629,7 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": "custody",
+   "band": "research",
    "claims": [
     0,
     5,
@@ -10560,30 +9936,6 @@
    "short": "Los Alamos Green Fireballs Conference",
    "status": null,
    "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    1,
-    1,
-    0
-   ],
-   "cls": "person",
-   "cluster": "media",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 1,
-   "era": "nd",
-   "hl": null,
-   "id": "greg-bishop",
-   "l0": false,
-   "label": "Greg Bishop",
-   "short": "Greg Bishop",
-   "status": "alive",
-   "tier": "C"
   },
   {
    "A": 3,
@@ -10903,7 +10255,7 @@
    "D": 3,
    "band": null,
    "claims": [
-    13,
+    12,
     4,
     3
    ],
@@ -10911,7 +10263,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2010-01-01",
-   "deg": 16,
+   "deg": 15,
    "era": "2",
    "hl": null,
    "id": "harold-puthoff",
@@ -11019,30 +10371,6 @@
   },
   {
    "A": 2,
-   "C": 2,
-   "D": 3,
-   "band": null,
-   "claims": [
-    3,
-    0,
-    0
-   ],
-   "cls": "event",
-   "cluster": "other",
-   "dateEnd": "2022-05-17",
-   "dateStart": "2022-05-17",
-   "deg": 3,
-   "era": "3",
-   "hl": null,
-   "id": "hearing-2022-05-17",
-   "l0": false,
-   "label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
-   "short": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 2,
    "C": 0,
    "D": 3,
    "band": null,
@@ -11079,7 +10407,7 @@
    "cluster": "other",
    "dateEnd": "2023",
    "dateStart": "2023",
-   "deg": 20,
+   "deg": 19,
    "era": "3",
    "hl": null,
    "id": "hearing-2023-07-26",
@@ -11151,7 +10479,7 @@
    "cluster": "other",
    "dateEnd": "2025",
    "dateStart": "2025",
-   "deg": 23,
+   "deg": 22,
    "era": "3",
    "hl": null,
    "id": "hearing-2025-09-09",
@@ -12506,30 +11834,6 @@
    "tier": "B"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    5,
-    3,
-    1
-   ],
-   "cls": "event",
-   "cluster": "oversight",
-   "dateEnd": "1987-03-05",
-   "dateStart": "1986-11-17",
-   "deg": 5,
-   "era": "1",
-   "hl": null,
-   "id": "jal-1628-1986",
-   "l0": false,
-   "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
-   "short": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
-   "status": null,
-   "tier": "B"
-  },
-  {
    "A": 3,
    "C": 1,
    "D": 0,
@@ -12987,30 +12291,6 @@
   },
   {
    "A": 0,
-   "C": 0,
-   "D": 1,
-   "band": null,
-   "claims": [
-    0,
-    3,
-    2
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 0,
-   "era": "nd",
-   "hl": null,
-   "id": "jason-sands",
-   "l0": false,
-   "label": "Jason Sands",
-   "short": "Jason Sands",
-   "status": "alive",
-   "tier": "C"
-  },
-  {
-   "A": 0,
    "C": 1,
    "D": 1,
    "band": null,
@@ -13111,15 +12391,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    3,
+    2,
     2,
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2021-05-14",
-   "deg": 7,
+   "deg": 6,
    "era": "3",
    "hl": null,
    "id": "jeremy-corbell",
@@ -13439,30 +12719,6 @@
    "label": "John Burroughs",
    "short": "John Burroughs",
    "status": "active",
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    4,
-    4,
-    1
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 4,
-   "era": "nd",
-   "hl": null,
-   "id": "john-callahan",
-   "l0": false,
-   "label": "John Callahan",
-   "short": "John Callahan",
-   "status": "unknown",
    "tier": "B"
   },
   {
@@ -13519,15 +12775,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    11,
-    2,
+    9,
+    1,
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2022-08-17",
-   "deg": 17,
+   "deg": 14,
    "era": "3",
    "hl": null,
    "id": "john-greenewald",
@@ -13536,30 +12792,6 @@
    "short": "John Greenewald Jr.",
    "status": "active",
    "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    2,
-    3,
-    0
-   ],
-   "cls": "person",
-   "cluster": "other",
-   "dateEnd": null,
-   "dateStart": "2022-03-29",
-   "deg": 4,
-   "era": "3",
-   "hl": null,
-   "id": "john-lear",
-   "l0": false,
-   "label": "John Olsen Lear",
-   "short": "John Olsen Lear",
-   "status": "active",
-   "tier": "C"
   },
   {
    "A": 0,
@@ -14072,14 +13304,14 @@
    "band": null,
    "claims": [
     0,
-    6,
+    3,
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1949-06-04",
-   "deg": 6,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "kevin-randle",
@@ -14114,30 +13346,6 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 0,
-   "band": null,
-   "claims": [
-    4,
-    0,
-    1
-   ],
-   "cls": "document",
-   "cluster": "research",
-   "dateEnd": "1967-05-30",
-   "dateStart": "1964-09-30",
-   "deg": 4,
-   "era": "0",
-   "hl": null,
-   "id": "king-patent-mhd",
-   "l0": false,
-   "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
-   "short": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
-   "status": null,
-   "tier": "C"
-  },
-  {
    "A": 1,
    "C": 2,
    "D": 1,
@@ -14158,54 +13366,6 @@
    "l0": false,
    "label": "Kingman, Arizona claim, 1953",
    "short": "Kingman, Arizona claim, 1953",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 2,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    5,
-    1,
-    0
-   ],
-   "cls": "person",
-   "cluster": "research",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 2,
-   "era": "nd",
-   "hl": null,
-   "id": "kingston-george",
-   "l0": false,
-   "label": "Kingston A. George",
-   "short": "Kingston A. George",
-   "status": "unknown",
-   "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 0,
-   "band": null,
-   "claims": [
-    0,
-    4,
-    0
-   ],
-   "cls": "institution",
-   "cluster": "contractor",
-   "dateEnd": null,
-   "dateStart": "1982",
-   "deg": 3,
-   "era": "1",
-   "hl": null,
-   "id": "kirk-mayer",
-   "l0": false,
-   "label": "Kirk-Mayer, Inc.",
-   "short": "Kirk-Mayer, Inc.",
    "status": null,
    "tier": "C"
   },
@@ -14287,7 +13447,7 @@
    "D": 1,
    "band": null,
    "claims": [
-    4,
+    3,
     0,
     0
    ],
@@ -14295,7 +13455,7 @@
    "cluster": "legacy",
    "dateEnd": "1980",
    "dateStart": "1980",
-   "deg": 5,
+   "deg": 4,
    "era": "1",
    "hl": null,
    "id": "kirtland-manzano-1980",
@@ -14332,48 +13492,24 @@
   {
    "A": 0,
    "C": 0,
-   "D": 3,
+   "D": 2,
    "band": null,
    "claims": [
     0,
     1,
-    3
-   ],
-   "cls": "document",
-   "cluster": "witness",
-   "dateEnd": "1989-12-09",
-   "dateStart": "1989-05",
-   "deg": 3,
-   "era": "1",
-   "hl": null,
-   "id": "klas-lazar-broadcasts-1989",
-   "l0": false,
-   "label": "The KLAS-TV Lazar broadcasts, 1989",
-   "short": "The KLAS-TV Lazar broadcasts, 1989",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": "custody",
-   "claims": [
-    0,
-    2,
     0
    ],
    "cls": "institution",
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "1981",
-   "deg": 6,
+   "deg": 5,
    "era": "1",
    "hl": null,
    "id": "klas-tv",
-   "l0": true,
+   "l0": false,
    "label": "KLAS-TV (Las Vegas)",
-   "short": "KLAS-TV",
+   "short": "KLAS-TV (Las Vegas)",
    "status": null,
    "tier": "C"
   },
@@ -14456,14 +13592,14 @@
    "band": null,
    "claims": [
     0,
-    3,
+    2,
     1
    ],
    "cls": "location",
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1955",
-   "deg": 4,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "l-area51",
@@ -14810,30 +13946,6 @@
    "tier": "B"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 0,
-   "band": null,
-   "claims": [
-    1,
-    2,
-    1
-   ],
-   "cls": "location",
-   "cluster": "legacy",
-   "dateEnd": null,
-   "dateStart": "1967",
-   "deg": 4,
-   "era": "0",
-   "hl": null,
-   "id": "l-dulce",
-   "l0": false,
-   "label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
-   "short": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
-   "status": null,
-   "tier": "C"
-  },
-  {
    "A": 2,
    "C": 1,
    "D": 0,
@@ -14847,7 +13959,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1933",
-   "deg": 3,
+   "deg": 1,
    "era": "0",
    "hl": null,
    "id": "l-edwards-afb",
@@ -14984,14 +14096,14 @@
    "band": null,
    "claims": [
     0,
-    6,
+    4,
     1
    ],
    "cls": "location",
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1955",
-   "deg": 14,
+   "deg": 11,
    "era": "0",
    "hl": null,
    "id": "l-groom-lake",
@@ -14999,7 +14111,7 @@
    "label": "Groom Lake, Nevada",
    "short": "Groom Lake, Nevada",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -15079,7 +14191,7 @@
    "D": 1,
    "band": null,
    "claims": [
-    2,
+    0,
     4,
     1
    ],
@@ -15247,7 +14359,7 @@
    "D": 1,
    "band": null,
    "claims": [
-    3,
+    2,
     0,
     1
    ],
@@ -15255,7 +14367,7 @@
    "cluster": "ffrdc",
    "dateEnd": null,
    "dateStart": "1943",
-   "deg": 5,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "l-los-alamos",
@@ -15368,14 +14480,14 @@
    "band": null,
    "claims": [
     0,
-    3,
+    2,
     0
    ],
    "cls": "location",
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1941",
-   "deg": 2,
+   "deg": 1,
    "era": "0",
    "hl": null,
    "id": "l-nellis",
@@ -15391,7 +14503,7 @@
    "D": 0,
    "band": null,
    "claims": [
-    2,
+    1,
     1,
     0
    ],
@@ -15399,37 +14511,13 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1951",
-   "deg": 6,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "l-nevada-test-site",
    "l0": false,
    "label": "Nevada Test Site / Nevada National Security Site",
    "short": "Nevada Test Site / Nevada National Security Site",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 1,
-   "C": 1,
-   "D": 1,
-   "band": null,
-   "claims": [
-    1,
-    2,
-    0
-   ],
-   "cls": "location",
-   "cluster": "legacy",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 2,
-   "era": "nd",
-   "hl": null,
-   "id": "l-norton-afb",
-   "l0": false,
-   "label": "Norton Air Force Base, San Bernardino, California",
-   "short": "Norton Air Force Base, San Bernardino, California",
    "status": null,
    "tier": "C"
   },
@@ -15567,7 +14655,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1954",
-   "deg": 3,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "l-plant-42",
@@ -15848,14 +14936,14 @@
    "band": null,
    "claims": [
     0,
-    3,
+    2,
     1
    ],
    "cls": "location",
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1957",
-   "deg": 2,
+   "deg": 1,
    "era": "0",
    "hl": null,
    "id": "l-tonopah",
@@ -15967,7 +15055,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    3,
+    0,
     3,
     1
    ],
@@ -15975,7 +15063,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1941",
-   "deg": 5,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "l-vandenberg",
@@ -15983,7 +15071,7 @@
    "label": "Vandenberg Space Force Base, California",
    "short": "Vandenberg Space Force Base, California",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -16181,21 +15269,21 @@
    "A": 3,
    "C": 2,
    "D": 1,
-   "band": "custody",
+   "band": null,
    "claims": [
     3,
     2,
-    1
+    0
    ],
    "cls": "institution",
    "cluster": "ffrdc",
    "dateEnd": null,
    "dateStart": "1943",
-   "deg": 6,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "lanl",
-   "l0": true,
+   "l0": false,
    "label": "Los Alamos National Laboratory",
    "short": "Los Alamos National Laboratory",
    "status": null,
@@ -16224,30 +15312,6 @@
    "short": "Larry G. Lemke",
    "status": "active",
    "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    0,
-    5,
-    3
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 4,
-   "era": "nd",
-   "hl": null,
-   "id": "larry-warren",
-   "l0": false,
-   "label": "Larry Warren",
-   "short": "Larry Warren",
-   "status": "unknown",
-   "tier": "B"
   },
   {
    "A": 1,
@@ -16344,54 +15408,6 @@
    "short": "Lawrence P. Gise",
    "status": "former",
    "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 1,
-   "band": null,
-   "claims": [
-    4,
-    1,
-    0
-   ],
-   "cls": "document",
-   "cluster": "witness",
-   "dateEnd": "1996",
-   "dateStart": "1990-06-05",
-   "deg": 2,
-   "era": "1",
-   "hl": null,
-   "id": "lazar-clark-county-1990",
-   "l0": false,
-   "label": "Clark County, Nevada felony pandering file, 1990 and 1996",
-   "short": "Clark County, Nevada felony pandering file, 1990 and 1996",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    1,
-    2,
-    0
-   ],
-   "cls": "document",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "1991",
-   "deg": 4,
-   "era": "1",
-   "hl": null,
-   "id": "lazar-tape-1991",
-   "l0": false,
-   "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
-   "short": "The Lazar Tape and Excerpts from the Government Bible (1991)",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 3,
@@ -16544,11 +15560,11 @@
    "band": null,
    "claims": [
     0,
-    2,
+    1,
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "1983-04-09",
    "deg": 2,
@@ -16599,7 +15615,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1995",
-   "deg": 31,
+   "deg": 30,
    "era": "1",
    "hl": null,
    "id": "lockheed-martin",
@@ -16613,7 +15629,7 @@
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "custody",
+   "band": "research",
    "claims": [
     2,
     0,
@@ -16623,7 +15639,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1943",
-   "deg": 9,
+   "deg": 8,
    "era": "0",
    "hl": null,
    "id": "lockheed-skunk-works",
@@ -16632,30 +15648,6 @@
    "short": "Lockheed Skunk Works",
    "status": null,
    "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 1,
-   "band": null,
-   "claims": [
-    1,
-    2,
-    0
-   ],
-   "cls": "document",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "1982-06-27",
-   "deg": 3,
-   "era": "1",
-   "hl": null,
-   "id": "los-alamos-monitor-1982",
-   "l0": false,
-   "label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
-   "short": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 1,
@@ -16879,15 +15871,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    6,
+    4,
     1,
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2010-11-01",
-   "deg": 3,
+   "deg": 1,
    "era": "2",
    "hl": null,
    "id": "marc-millis",
@@ -16968,30 +15960,6 @@
    "short": "Marik von Rennenkampff",
    "status": "active",
    "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    0,
-    11,
-    1
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "2021-04-13",
-   "deg": 17,
-   "era": "3",
-   "hl": null,
-   "id": "mark-mccandlish",
-   "l0": false,
-   "label": "Mark McCandlish",
-   "short": "Mark McCandlish",
-   "status": "dead",
-   "tier": "A"
   },
   {
    "A": 1,
@@ -17247,7 +16215,7 @@
    "cluster": "other",
    "dateEnd": "1997",
    "dateStart": "1967",
-   "deg": 4,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "mcdonnell-douglas",
@@ -17327,30 +16295,6 @@
    "label": "Michael Gold",
    "short": "Michael Gold",
    "status": "active",
-   "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 1,
-   "D": 2,
-   "band": null,
-   "claims": [
-    5,
-    1,
-    2
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 4,
-   "era": "nd",
-   "hl": null,
-   "id": "michael-herrera",
-   "l0": false,
-   "label": "Michael Herrera",
-   "short": "Michael Herrera",
-   "status": "alive",
    "tier": "B"
   },
   {
@@ -17570,30 +16514,6 @@
    "tier": "B"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 1,
-   "band": "research",
-   "claims": [
-    7,
-    0,
-    0
-   ],
-   "cls": "document",
-   "cluster": "research",
-   "dateEnd": "2004",
-   "dateStart": "2004-06",
-   "deg": 7,
-   "era": "2",
-   "hl": null,
-   "id": "millis-tm-2004-213082",
-   "l0": true,
-   "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
-   "short": "NASA/TM-2004-213082, Millis",
-   "status": null,
-   "tier": "B"
-  },
-  {
    "A": 1,
    "C": 0,
    "D": 2,
@@ -17711,7 +16631,7 @@
    "label": "MIT Lincoln Laboratory",
    "short": "MIT Lincoln Laboratory",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
@@ -18101,9 +17021,9 @@
    "A": 1,
    "C": 0,
    "D": 3,
-   "band": "custody",
+   "band": "research",
    "claims": [
-    8,
+    4,
     0,
     0
    ],
@@ -18111,7 +17031,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1958-07-29",
-   "deg": 18,
+   "deg": 15,
    "era": "0",
    "hl": null,
    "id": "nasa",
@@ -18119,31 +17039,7 @@
    "label": "National Aeronautics and Space Administration",
    "short": "NASA",
    "status": null,
-   "tier": "A"
-  },
-  {
-   "A": 1,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    4,
-    0,
-    1
-   ],
-   "cls": "program",
-   "cluster": "research",
-   "dateEnd": "2002",
-   "dateStart": "1996",
-   "deg": 3,
-   "era": "1",
-   "hl": null,
-   "id": "nasa-bpp",
-   "l0": false,
-   "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
-   "short": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
-   "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -18288,30 +17184,6 @@
    "short": "National Archives and Records Administration",
    "status": null,
    "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": "disclosure",
-   "claims": [
-    4,
-    1,
-    1
-   ],
-   "cls": "event",
-   "cluster": "witness",
-   "dateEnd": "2001-05-09",
-   "dateStart": "2001-05-09",
-   "deg": 7,
-   "era": "2",
-   "hl": null,
-   "id": "national-press-club-2001",
-   "l0": true,
-   "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
-   "short": "Disclosure Project, 9 May 2001",
-   "status": null,
-   "tier": "C"
   },
   {
    "A": 2,
@@ -19111,7 +17983,7 @@
    "D": 0,
    "band": null,
    "claims": [
-    2,
+    1,
     1,
     1
    ],
@@ -19119,7 +17991,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2000-03-01",
-   "deg": 3,
+   "deg": 2,
    "era": "2",
    "hl": null,
    "id": "nnsa",
@@ -19154,34 +18026,10 @@
    "tier": "B"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    0,
-    3,
-    0
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 1,
-   "era": "nd",
-   "hl": null,
-   "id": "norio-hayakawa",
-   "l0": false,
-   "label": "Norio Hayakawa",
-   "short": "Norio Hayakawa",
-   "status": "alive",
-   "tier": "C"
-  },
-  {
    "A": 3,
    "C": 2,
    "D": 0,
-   "band": "funding",
+   "band": null,
    "claims": [
     2,
     0,
@@ -19191,61 +18039,13 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1994",
-   "deg": 7,
+   "deg": 5,
    "era": "1",
    "hl": null,
    "id": "northrop-grumman",
-   "l0": true,
+   "l0": false,
    "label": "Northrop Grumman Corporation",
    "short": "Northrop Grumman Corporation",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 2,
-   "C": 1,
-   "D": 2,
-   "band": null,
-   "claims": [
-    3,
-    0,
-    1
-   ],
-   "cls": "program",
-   "cluster": "legacy",
-   "dateEnd": "1985",
-   "dateStart": "1978",
-   "deg": 4,
-   "era": "1",
-   "hl": null,
-   "id": "northrop-tacit-blue",
-   "l0": false,
-   "label": "Northrop TACIT BLUE",
-   "short": "Northrop TACIT BLUE",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 1,
-   "C": 1,
-   "D": 2,
-   "band": null,
-   "claims": [
-    2,
-    9,
-    0
-   ],
-   "cls": "event",
-   "cluster": "witness",
-   "dateEnd": "1988-11-12",
-   "dateStart": "1988-11-12",
-   "deg": 4,
-   "era": "1",
-   "hl": null,
-   "id": "norton-afb-airshow-1988",
-   "l0": false,
-   "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
-   "short": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
    "status": null,
    "tier": "B"
   },
@@ -19287,7 +18087,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1961",
-   "deg": 13,
+   "deg": 12,
    "era": "0",
    "hl": null,
    "id": "nro",
@@ -19311,7 +18111,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1952-11-04",
-   "deg": 11,
+   "deg": 9,
    "era": "0",
    "hl": null,
    "id": "nsa",
@@ -19617,13 +18417,13 @@
    "claims": [
     2,
     2,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1882-03-23",
-   "deg": 4,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "oni",
@@ -19637,7 +18437,7 @@
    "A": 2,
    "C": 2,
    "D": 2,
-   "band": "custody",
+   "band": "research",
    "claims": [
     7,
     3,
@@ -19904,14 +18704,14 @@
    "band": null,
    "claims": [
     7,
-    2,
-    1
+    1,
+    0
    ],
    "cls": "document",
    "cluster": "research",
    "dateEnd": "2022-12-26",
    "dateStart": "2015-07-24",
-   "deg": 2,
+   "deg": 1,
    "era": "2",
    "hl": null,
    "id": "pais-patent-emfg",
@@ -19935,7 +18735,7 @@
    "cluster": "research",
    "dateEnd": "2019-06-18",
    "dateStart": "2017-02-14",
-   "deg": 3,
+   "deg": 2,
    "era": "3",
    "hl": null,
    "id": "pais-patent-hfgw",
@@ -19951,7 +18751,7 @@
    "D": 0,
    "band": "research",
    "claims": [
-    15,
+    11,
     2,
     0
    ],
@@ -20143,15 +18943,15 @@
    "D": 3,
    "band": null,
    "claims": [
+    1,
     3,
-    5,
     1
    ],
    "cls": "person",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1980-11-10",
-   "deg": 11,
+   "deg": 6,
    "era": "1",
    "hl": null,
    "id": "paul-bennewitz",
@@ -20354,54 +19154,6 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    1,
-    6,
-    0
-   ],
-   "cls": "person",
-   "cluster": "research",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 3,
-   "era": "nd",
-   "hl": null,
-   "id": "peter-merlin",
-   "l0": false,
-   "label": "Peter W. Merlin",
-   "short": "Peter W. Merlin",
-   "status": "alive",
-   "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    0,
-    4,
-    0
-   ],
-   "cls": "person",
-   "cluster": "research",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 2,
-   "era": "nd",
-   "hl": null,
-   "id": "peter-robbins",
-   "l0": false,
-   "label": "Peter Robbins",
-   "short": "Peter Robbins",
-   "status": "unknown",
-   "tier": "C"
-  },
-  {
    "A": 1,
    "C": 0,
    "D": 3,
@@ -20426,30 +19178,6 @@
    "tier": "B"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    1,
-    6,
-    1
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "1996-01-11",
-   "deg": 1,
-   "era": "1",
-   "hl": null,
-   "id": "phil-schneider",
-   "l0": false,
-   "label": "Philip Schneider",
-   "short": "Philip Schneider",
-   "status": "deceased",
-   "tier": "C"
-  },
-  {
    "A": 2,
    "C": 2,
    "D": 2,
@@ -20472,30 +19200,6 @@
    "short": "Philip J. Corso",
    "status": "dead",
    "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    5,
-    1,
-    0
-   ],
-   "cls": "person",
-   "cluster": "research",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 2,
-   "era": "nd",
-   "hl": null,
-   "id": "philip-j-klass",
-   "l0": false,
-   "label": "Philip J. Klass",
-   "short": "Philip J. Klass",
-   "status": "unknown",
-   "tier": "B"
   },
   {
    "A": 1,
@@ -20696,14 +19400,14 @@
    "band": null,
    "claims": [
     1,
-    2,
-    1
+    1,
+    0
    ],
    "cls": "program",
    "cluster": "other",
    "dateEnd": "1989",
    "dateStart": "1983",
-   "deg": 3,
+   "deg": 2,
    "era": "1",
    "hl": null,
    "id": "project-aquarius",
@@ -20758,30 +19462,6 @@
    "l0": false,
    "label": "Project BEAR (Battelle contract to Project GRUDGE)",
    "short": "Project BEAR (Battelle contract to Project GRUDGE)",
-   "status": null,
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    1,
-    1,
-    0
-   ],
-   "cls": "document",
-   "cluster": "media",
-   "dateEnd": "2005-02-08",
-   "dateStart": "2005-02-08",
-   "deg": 2,
-   "era": "2",
-   "hl": null,
-   "id": "project-beta-bishop-2005",
-   "l0": false,
-   "label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
-   "short": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
    "status": null,
    "tier": "C"
   },
@@ -21527,7 +20207,7 @@
    "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "short": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -21535,15 +20215,15 @@
    "D": 3,
    "band": "retrieval",
    "claims": [
-    3,
-    3,
-    1
+    2,
+    1,
+    0
    ],
    "cls": "event",
    "cluster": "witness",
    "dateEnd": "1981",
    "dateStart": "1980",
-   "deg": 12,
+   "deg": 9,
    "era": "1",
    "hl": null,
    "id": "rendlesham-1980",
@@ -21551,7 +20231,7 @@
    "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
    "short": "Rendlesham Forest, 1980",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -21751,15 +20431,15 @@
    "D": 2,
    "band": null,
    "claims": [
+    1,
     3,
-    7,
-    1
+    0
    ],
    "cls": "person",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1983-04-01",
-   "deg": 11,
+   "deg": 10,
    "era": "1",
    "hl": null,
    "id": "richard-doty",
@@ -21767,7 +20447,7 @@
    "label": "Richard C. Doty",
    "short": "Richard C. Doty",
    "status": "active",
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -22012,30 +20692,6 @@
   {
    "A": 1,
    "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    6,
-    2,
-    1
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 4,
-   "era": "nd",
-   "hl": null,
-   "id": "robert-jacobs",
-   "l0": false,
-   "label": "Robert M. Jacobs",
-   "short": "Robert M. Jacobs",
-   "status": "unknown",
-   "tier": "B"
-  },
-  {
-   "A": 1,
-   "C": 0,
    "D": 0,
    "band": null,
    "claims": [
@@ -22272,30 +20928,6 @@
    "short": "Roger F. Wicker",
    "status": "active",
    "tier": "B"
-  },
-  {
-   "A": 3,
-   "C": 1,
-   "D": 2,
-   "band": null,
-   "claims": [
-    1,
-    0,
-    0
-   ],
-   "cls": "person",
-   "cluster": "ic",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 1,
-   "era": "nd",
-   "hl": null,
-   "id": "ronald-moultrie",
-   "l0": false,
-   "label": "Ronald S. Moultrie",
-   "short": "Ronald S. Moultrie",
-   "status": "alive",
-   "tier": "C"
   },
   {
    "A": 1,
@@ -22540,30 +21172,6 @@
   {
    "A": 0,
    "C": 0,
-   "D": 3,
-   "band": null,
-   "claims": [
-    0,
-    6,
-    1
-   ],
-   "cls": "location",
-   "cluster": "witness",
-   "dateEnd": "1989-04",
-   "dateStart": "1988-12",
-   "deg": 16,
-   "era": "1",
-   "hl": null,
-   "id": "s-4-papoose-lake",
-   "l0": false,
-   "label": "S-4 / Papoose Lake, Nevada",
-   "short": "S-4 / Papoose Lake, Nevada",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
    "D": 0,
    "band": null,
    "claims": [
@@ -22663,15 +21271,15 @@
    "D": 1,
    "band": null,
    "claims": [
-    34,
-    5,
+    30,
+    4,
     6
    ],
    "cls": "person",
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "2015-07-24",
-   "deg": 8,
+   "deg": 7,
    "era": "2",
    "hl": null,
    "id": "salvatore-pais",
@@ -22733,7 +21341,7 @@
    "A": 3,
    "C": 3,
    "D": 1,
-   "band": "custody",
+   "band": "research",
    "claims": [
     4,
     1,
@@ -22743,7 +21351,7 @@
    "cluster": "ffrdc",
    "dateEnd": null,
    "dateStart": "1949",
-   "deg": 8,
+   "deg": 7,
    "era": "0",
    "hl": null,
    "id": "sandia",
@@ -22898,30 +21506,6 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    0,
-    1,
-    0
-   ],
-   "cls": "document",
-   "cluster": "media",
-   "dateEnd": "2021-02-03",
-   "dateStart": "2021-02-03",
-   "deg": 2,
-   "era": "3",
-   "hl": null,
-   "id": "saucers-spooks-and-kooks-2021",
-   "l0": false,
-   "label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
-   "short": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
-   "status": null,
-   "tier": "C"
-  },
-  {
    "A": 3,
    "C": 1,
    "D": 1,
@@ -22942,54 +21526,6 @@
    "l0": false,
    "label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
    "short": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
-   "status": null,
-   "tier": "B"
-  },
-  {
-   "A": 3,
-   "C": 1,
-   "D": 2,
-   "band": null,
-   "claims": [
-    1,
-    0,
-    0
-   ],
-   "cls": "person",
-   "cluster": "ic",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 1,
-   "era": "nd",
-   "hl": null,
-   "id": "scott-bray",
-   "l0": false,
-   "label": "Scott W. Bray",
-   "short": "Scott W. Bray",
-   "status": "alive",
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    6,
-    0,
-    1
-   ],
-   "cls": "document",
-   "cluster": "media",
-   "dateEnd": "1990-12-11",
-   "dateStart": "1990-08-13",
-   "deg": 4,
-   "era": "1",
-   "hl": null,
-   "id": "scott-sorensen-notes-1990",
-   "l0": false,
-   "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
-   "short": "William B. Scott's interview notes on 'Brad', 3 December 1990",
    "status": null,
    "tier": "B"
   },
@@ -23864,14 +22400,14 @@
    "band": null,
    "claims": [
     2,
-    9,
+    7,
     0
    ],
    "cls": "person",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2019-05-13",
-   "deg": 5,
+   "deg": 3,
    "era": "3",
    "hl": null,
    "id": "stanton-friedman",
@@ -23879,7 +22415,7 @@
    "label": "Stanton T. Friedman",
    "short": "Stanton T. Friedman",
    "status": "active",
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -24007,15 +22543,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    3,
-    6,
+    1,
+    4,
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2001-05-09",
-   "deg": 9,
+   "deg": 5,
    "era": "2",
    "hl": null,
    "id": "steven-greer",
@@ -24023,7 +22559,7 @@
    "label": "Steven M. Greer",
    "short": "Steven M. Greer",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 1,
@@ -24221,30 +22757,6 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": null,
-   "claims": [
-    0,
-    3,
-    1
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 3,
-   "era": "nd",
-   "hl": null,
-   "id": "tal-levesque",
-   "l0": false,
-   "label": "Tal Levesque (Jason Bishop III)",
-   "short": "Tal Levesque (Jason Bishop III)",
-   "status": "deceased",
-   "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
    "band": "research",
    "claims": [
     5,
@@ -24386,30 +22898,6 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 1,
-   "band": null,
-   "claims": [
-    3,
-    0,
-    1
-   ],
-   "cls": "document",
-   "cluster": "media",
-   "dateEnd": "1993-12-25",
-   "dateStart": "1993-12-25",
-   "deg": 1,
-   "era": "1",
-   "hl": null,
-   "id": "testors-sr-75-kit",
-   "l0": false,
-   "label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
-   "short": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
-   "status": null,
-   "tier": "C"
-  },
-  {
    "A": 1,
    "C": 0,
    "D": 3,
@@ -24455,7 +22943,7 @@
    "label": "Thad Cochran",
    "short": "Thad Cochran",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -24463,7 +22951,7 @@
    "D": 3,
    "band": "custody",
    "claims": [
-    6,
+    1,
     0,
     0
    ],
@@ -24471,7 +22959,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "1996",
-   "deg": 9,
+   "deg": 7,
    "era": "1",
    "hl": null,
    "id": "the-black-vault",
@@ -24479,7 +22967,7 @@
    "label": "The Black Vault",
    "short": "The Black Vault",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -24578,30 +23066,6 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 0,
-   "band": null,
-   "claims": [
-    1,
-    3,
-    2
-   ],
-   "cls": "person",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 3,
-   "era": "nd",
-   "hl": null,
-   "id": "thomas-castello",
-   "l0": false,
-   "label": "Thomas Edwin Castello (fabricated)",
-   "short": "Thomas Edwin Castello (fabricated)",
-   "status": "fabricated",
-   "tier": "C"
-  },
-  {
    "A": 1,
    "C": 0,
    "D": 0,
@@ -24655,7 +23119,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    20,
+    13,
     7,
     1
    ],
@@ -24663,7 +23127,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1953-03-25",
-   "deg": 7,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "thomas-townsend-brown",
@@ -24799,15 +23263,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    2,
+    1,
     0,
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2023-06-05",
-   "deg": 2,
+   "deg": 1,
    "era": "3",
    "hl": null,
    "id": "tim-mcmillan",
@@ -24936,54 +23400,6 @@
    "short": "Thomas Matthew DeLonge",
    "status": "active",
    "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    1,
-    4,
-    0
-   ],
-   "cls": "person",
-   "cluster": "research",
-   "dateEnd": null,
-   "dateStart": null,
-   "deg": 5,
-   "era": "nd",
-   "hl": null,
-   "id": "tom-mahood",
-   "l0": false,
-   "label": "Tom Mahood",
-   "short": "Tom Mahood",
-   "status": "alive",
-   "tier": "B"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": "reverse-engineering",
-   "claims": [
-    6,
-    0,
-    3
-   ],
-   "cls": "program",
-   "cluster": "witness",
-   "dateEnd": null,
-   "dateStart": "1998-08",
-   "deg": 12,
-   "era": "1",
-   "hl": null,
-   "id": "tr-3b",
-   "l0": true,
-   "label": "TR-3B 'Astra', claimed black triangular aircraft",
-   "short": "TR-3B 'Astra' (claimed)",
-   "status": null,
-   "tier": "A"
   },
   {
    "A": 1,
@@ -25311,7 +23727,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2026-08-07",
-   "deg": 17,
+   "deg": 16,
    "era": "3",
    "hl": null,
    "id": "uap-gerb",
@@ -25901,17 +24317,17 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "custody",
+   "band": "research",
    "claims": [
-    3,
-    1,
+    2,
+    0,
     2
    ],
    "cls": "institution",
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 13,
+   "deg": 12,
    "era": "nd",
    "hl": null,
    "id": "us-navy",
@@ -25919,7 +24335,7 @@
    "label": "United States Navy",
    "short": "United States Navy",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -25983,7 +24399,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 25,
+   "deg": 21,
    "era": "0",
    "hl": null,
    "id": "usaf",
@@ -26399,7 +24815,7 @@
    "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
    "short": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
    "status": "dead",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -26765,7 +25181,7 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "custody",
+   "band": "research",
    "claims": [
     2,
     0,
@@ -26960,7 +25376,7 @@
    "band": null,
    "claims": [
     2,
-    5,
+    3,
     1
    ],
    "cls": "person",
@@ -27050,30 +25466,6 @@
    "tier": "A"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 0,
-   "band": null,
-   "claims": [
-    2,
-    0,
-    1
-   ],
-   "cls": "program",
-   "cluster": "research",
-   "dateEnd": "1992-06",
-   "dateStart": "1985",
-   "deg": 2,
-   "era": "1",
-   "hl": null,
-   "id": "yamato-1",
-   "l0": false,
-   "label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
-   "short": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
-   "status": null,
-   "tier": "C"
-  },
-  {
    "A": 3,
    "C": 1,
    "D": 3,
@@ -27144,31 +25536,7 @@
    "short": "Yury Viktorovich Platov",
    "status": "active",
    "tier": "C"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": null,
-   "claims": [
-    2,
-    6,
-    0
-   ],
-   "cls": "document",
-   "cluster": "media",
-   "dateEnd": "2013-06-02",
-   "dateStart": "2013-06-02",
-   "deg": 2,
-   "era": "2",
-   "hl": null,
-   "id": "zero-point-documentary",
-   "l0": false,
-   "label": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
-   "short": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
-   "status": null,
-   "tier": "C"
   }
  ],
- "source": "a6674d2616e7"
+ "source": "2697314bdac1"
 }

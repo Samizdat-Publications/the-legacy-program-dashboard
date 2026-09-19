@@ -2,28 +2,8 @@
 "A": 1,
 "C": 0,
 "D": 3,
-"band": "custody",
+"band": "research",
 "claims": [
-{
-"source": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A , opened 2026-09-19",
-"text": "Its own NSSDCA master catalogue states that 'The Lunar Orbiter program was managed by NASA Langley Research Center', with Lunar Orbiter 1 launched on 10 August 1966 and photographic data acquired 'from August 18 to 29, 1966, and readout occurred through September 14, 1966'. This is the agency record against which the Karl Wolfe claim, which places Lunar Orbiter imagery at an NSA facility on Langley Air Force Base, must be measured.",
-"tier": 1
-},
-{
-"source": "Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center', https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html , opened 2026-09-19",
-"text": "Philco-Ford, the contractor named in the Donna Hare claim, is documented as a NASA Manned Spacecraft Center contractor by Ford Motor Company's own corporate history, which records that it won the Mission Control Center contract at Houston in 1963 against IBM, RCA, Lockheed, Hughes Aircraft and AT&T.",
-"tier": 1
-},
-{
-"source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
-"text": "NASA RAN THE ONLY PUBLIC, FUNDED, FEDERAL ASSESSMENT OF EXOTIC PROPULSION THIS BOARD HAS FOUND. From its own summary document: 'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002. This project has three grand challenges: (1) Discover propulsion that eliminates the need for propellant; (2) Discover methods to achieve hyper-fast travel; and (3) Discover breakthrough methods to power spacecraft.' Of sixteen incremental research tasks completed, 'about a third were found not to be viable'.",
-"tier": 1
-},
-{
-"source": "NASA/CR-2004-213312, Conclusions, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
-"text": "NASA also paid for the experiment that settled the asymmetrical-capacitor question, published under its own report number as NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion', by Canning, Melcher and Winet of the Institute for Scientific Research, October 2004, which concluded that the operation of such devices 'is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions'.",
-"tier": 1
-},
 {
 "source": "NASA UAP Independent Study Team Report, 14 September 2023",
 "text": "NASA published the 'Unidentified Anomalous Phenomena Independent Study Team Report' on 14 September 2023, from a 16-member panel chaired by Dr David Spergel and including Capt. Scott Kelly (USN, ret.), Dr Anamaria Berea, Dr Federica Bianco and Dr David Grinspoon.",
@@ -102,27 +82,6 @@
 },
 {
 "claimTier": 1,
-"cls": "document",
-"dateEnd": "2004-10",
-"dateStart": "2004-10",
-"direction": "in",
-"edgeLabel": "A NASA contractor report, published under a NASA/CR number",
-"id": "canning-nasa-cr-2004-213312",
-"l0": false,
-"label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
-"note": "NASA/CR-2004-213312. The board's funding edge type is used because a contractor report records who paid for the work; the performing organisation was the Institute for Scientific Research of Fairmont, West Virginia, for which no node is proposed because nothing about the organisation itself was opened.",
-"sources": [
-{
-"date": "2004-10",
-"name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages",
-"url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
-}
-],
-"tier": "C",
-"type": "funding"
-},
-{
-"claimTier": 1,
 "cls": "person",
 "dateEnd": "2023-09-14",
 "dateStart": "2022",
@@ -141,37 +100,6 @@
 ],
 "tier": "B",
 "type": "research"
-},
-{
-"claimTier": 2,
-"cls": "institution",
-"dateEnd": "1971",
-"dateStart": "1966",
-"direction": "in",
-"edgeLabel": "Carries the Wolfe and Hare claims about NASA imagery, against NASA's own records",
-"id": "disclosure-project-witness-set",
-"l0": false,
-"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
-"note": "Wolfe's Lunar Orbiter account runs against the NSSDCA record that the programme was managed by NASA Langley Research Center. Hare's employer, Philco-Ford, is a documented NASA Manned Spacecraft Center contractor per Ford's own corporate history, while her employment is documented nowhere.",
-"sources": [
-{
-"date": "2001-04",
-"name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-},
-{
-"date": "2026-09-19",
-"name": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A)",
-"url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A"
-},
-{
-"date": "2026-09-19",
-"name": "Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center'",
-"url": "https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html"
-}
-],
-"tier": "B",
-"type": "witness-chain"
 },
 {
 "claimTier": 3,
@@ -287,27 +215,6 @@
 ],
 "tier": "C",
 "type": "investigative"
-},
-{
-"claimTier": 1,
-"cls": "program",
-"dateEnd": "2002",
-"dateStart": "1996",
-"direction": "in",
-"edgeLabel": "A NASA project, supported 1996 to 2002 and run out of Glenn Research Center",
-"id": "nasa-bpp",
-"l0": false,
-"label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
-"note": "From the project's own summary document: 'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002.'",
-"sources": [
-{
-"date": "2004",
-"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
-"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
-}
-],
-"tier": "C",
-"type": "institutional"
 },
 {
 "claimTier": 1,
@@ -475,12 +382,10 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1958-07-29",
-"deg": 18,
+"deg": 15,
 "denials": [],
 "desc": "NASA was created by the National Aeronautics and Space Act of 1958 as an explicitly civilian agency, and for six decades its institutional answer on UFOs was that the subject belonged to the Air Force. That changed on 9 June 2022, when NASA announced an independent study of unidentified anomalous phenomena, and on 14 September 2023, when it published the 'Unidentified Anomalous Phenomena Independent Study Team Report'. The 16-member panel was chaired by Dr David Spergel of the Simons Foundation and included Dr Anamaria Berea, Dr Federica Bianco, Dr David Grinspoon and the retired NASA astronaut Captain Scott Kelly. The report's findings are notable less for what they concluded about UAP than for what they conceded about the data problem: that 'much of the data collected by military sensors or intelligence satellites are classified', that structured data curation 'plays a pivotal role' and is largely absent, and that NASA's Earth-observing fleet and the U.S. commercial remote-sensing industry have 'the collective potential to directly resolve UAP events'. In the foreword, Associate Administrator for the Science Mission Directorate Dr Nicola Fox announced that 'NASA is appointing a Director of UAP Research to centralize communications'. NASA's leverage on this board is that it is the one agency with world-class sensing capability, a statutory public mission and no SAP equity in the alleged recovery enterprise - which makes it the most plausible venue for an unclassified evidentiary standard, and the agency most conspicuously kept at arm's length from the classified holdings.",
 "domains": [
-"disclosure-project-2026-09-19",
-"propulsion-2026-09-19",
 "w2-agencies"
 ],
 "dossier": {
@@ -620,21 +525,9 @@
 "tier": "C"
 },
 {
-"cls": "document",
-"id": "canning-nasa-cr-2004-213312",
-"label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
-"tier": "C"
-},
-{
 "cls": "person",
 "id": "david-spergel",
 "label": "David N. Spergel",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "disclosure-project-witness-set",
-"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
 "tier": "B"
 },
 {
@@ -659,12 +552,6 @@
 "cls": "person",
 "id": "maxwell-frost",
 "label": "Maxwell Alejandro Frost",
-"tier": "C"
-},
-{
-"cls": "program",
-"id": "nasa-bpp",
-"label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
 "tier": "C"
 },
 {
@@ -707,44 +594,15 @@
 "short": "NASA",
 "sources": [
 {
-"date": "2026-09-19",
-"name": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A)",
-"url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A"
-},
-{
-"date": "2026-09-19",
-"name": "Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center'",
-"url": "https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html"
-},
-{
-"date": "2004",
-"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center",
-"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
-},
-{
-"date": "2004-10",
-"name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion'",
-"url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
-},
-{
 "date": "2023-09-14",
 "name": "NASA Unidentified Anomalous Phenomena Independent Study Team Report",
 "url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
 }
 ],
 "sub": "Civil space agency; host of the 2023 UAP Independent Study Team",
-"tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 99 of 1125, score 63). 18 connections, 4 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 190 of 1057, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
-{
-"date": "1966-08-10",
-"id": "tl-1966-08-10-lunar-orbiter-1",
-"label": "Lunar Orbiter 1 launched; programme managed by NASA Langley Research Center",
-"precision": "day",
-"strand": "program",
-"text": "NASA's NSSDCA master catalogue records the launch of Lunar Orbiter 1 on 10 August 1966, photographic data acquired from 18 to 29 August 1966, and that 'The Lunar Orbiter program was managed by NASA Langley Research Center'. This is the agency record against which Karl Wolfe's account of seeing Lunar Orbiter mosaics at an NSA facility on Langley Air Force Base must be measured.",
-"tier": "A"
-},
 {
 "date": "2023-09-14",
 "id": "ag-tl-2023-nasa",

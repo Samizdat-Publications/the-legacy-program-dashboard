@@ -2,7 +2,7 @@
 "A": 3,
 "C": 2,
 "D": 0,
-"band": "funding",
+"band": null,
 "claims": [
 {
 "source": "DOE/OSTI records listing Bechtel Nevada and National Security Technologies, LLC as successive Nevada Test Site research organisations",
@@ -88,28 +88,7 @@
 "url": "https://www.usaspending.gov/search"
 }
 ],
-"tier": "B",
-"type": "institutional"
-},
-{
-"claimTier": 2,
-"cls": "person",
-"dateEnd": "2000-12",
-"dateStart": "2000-12",
-"direction": "in",
-"edgeLabel": "Named in his own self-stated client list, 2000",
-"id": "mark-mccandlish",
-"l0": false,
-"label": "Mark McCandlish",
-"note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more.",
-"sources": [
-{
-"date": "2001-04",
-"name": "Disclosure Project Briefing Document, section 3.8.5",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-}
-],
-"tier": "A",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -131,27 +110,6 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
-},
-{
-"claimTier": 1,
-"cls": "program",
-"dateEnd": "1985",
-"dateStart": "1978",
-"direction": "in",
-"edgeLabel": "Northrop Corp. the airframe contractor",
-"id": "northrop-tacit-blue",
-"l0": false,
-"label": "Northrop TACIT BLUE",
-"note": "The fact sheet names 'the Northrop Corp.'; the board's existing node is northrop-grumman, the successor entity after the 1994 merger, and the edge is wired to it on that basis.",
-"sources": [
-{
-"date": "2026-09-18",
-"name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
-"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
-}
-],
-"tier": "B",
 "type": "institutional"
 },
 {
@@ -179,43 +137,13 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1994",
-"deg": 7,
+"deg": 5,
 "denials": [],
 "desc": "Northrop Grumman is one of the three companies Senate investigator Richard D'Amato is reported to have identified as the kind of private entity inside which a UFO cover-up could feasibly be held, alongside Lockheed Martin and EG&G. Its documented government relationship spans stealth bomber development at the deepest classification levels - the B-2 and now the B-21 Raider, built at Air Force Plant 42 - national security space, and, materially for this domain, the Nevada complex: from 2006 to 2017 the Nevada Test Site was managed and operated by National Security Technologies LLC, a Northrop Grumman-led consortium that succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory and Special Technologies Laboratory and the classified support infrastructure adjacent to the Groom Lake operating location. USAspending records tens of billions of dollars in prime contract obligations to Northrop Grumman Systems Corporation since FY2008. No sworn witness has named Northrop Grumman as a holder of material; it appears in this domain through D'Amato's reported assessment, through its stewardship of the Nevada infrastructure, and through the general allegation that material is distributed across primes by technical domain.",
 "domains": [
 "primes-custody"
 ],
-"dossier": {
-"claims": [
-{
-"source": "DOE/OSTI records listing Bechtel Nevada and National Security Technologies, LLC as successive Nevada Test Site research organisations",
-"text": "National Security Technologies LLC, a Northrop Grumman-led consortium, succeeded Bechtel Nevada as management and operating contractor for the Nevada Test Site from 2006.",
-"tier": 1
-},
-{
-"source": "USAspending.gov recipient search, retrieved 12 August 2026",
-"text": "USAspending records prime contract obligations to Northrop Grumman Systems Corporation in the tens of billions of dollars since FY2008.",
-"tier": 1
-},
-{
-"source": "George Knapp via Liberation Times, 28 February 2023",
-"text": "Senate Appropriations investigator Richard D'Amato is reported to have considered it 'entirely feasible' that the cover-up sat inside a private company such as Lockheed Martin, EG&G or Northrop Grumman. Reasoning: reported at second hand by George Knapp; D'Amato's own public statement says the inquiry found nothing meriting further investigation.",
-"tier": 3
-}
-],
-"narrative": "Northrop Grumman crossed this map's floor on the build of 18 September 2026, which is ordinary churn and not a finding: the board's practice, recorded in data/l0-shorts.json, is that a corpus build pushing a node over the L0 floor gets its dossier authored. What is worth stating is that its case for the map does not rest on the edge that moved it. That edge is a Tier 2 self-stated client list, an illustrator saying he did conceptual work for the company, with no personnel record and no contract record opened, and it proves nothing about the company at all. The case rests instead on two Tier 1 claims already on its record: the DOE listing that makes it the Nevada Test Site's management and operating contractor for eleven years, and USAspending's record of prime contract obligations in the tens of billions since FY2008. A board about who holds the programme's money and the programme's ground has to carry the company that held both. The D'Amato report is the weakest thing here and the most quoted, and it is graded Tier 3 for that reason.",
-"openQuestions": [
-"Whether any NSTec contract document names the scope of the management and operating role at the Nevada Test Site beyond the DOE research-organization listing.",
-"What the USAspending prime contract obligations break down to by programme, which the recipient search does not itself show."
-],
-"roles": [
-"custody",
-"concealment",
-"funding"
-],
-"whatItIs": "One of the United States' prime defense contractors, builder of the B-2 and the B-21 Raider at Air Force Plant 42, and, from 2006 to 2017, the leader of National Security Technologies LLC, the consortium that held the management and operating contract for the Nevada Test Site after Bechtel Nevada.",
-"whyImplicated": "It sits at the intersection of the two things this board tracks: work at the deepest classification levels, and custody of the Nevada complex. The stealth bomber programmes put it inside compartmented aircraft development at Plant 42; the NSTec contract put it in operational control of the ground the retrieval and reverse-engineering claims are attached to. Senate Appropriations investigator Richard D'Amato is reported to have named it, with Lockheed Martin and EG&G, as the kind of private entity inside which a cover-up could feasibly sit. That last is a Tier 3 report and is carried as one."
-},
+"dossier": null,
 "entityInfo": null,
 "era": "1",
 "foia": {
@@ -224,47 +152,10 @@
 },
 "hl": null,
 "id": "northrop-grumman",
-"l0": true,
+"l0": false,
 "label": "Northrop Grumman Corporation",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "eric-burlison",
-"label": "Eric Burlison",
-"tier": "A"
-},
-{
-"cls": "document",
-"id": "gerb-northrop-trw-investigation",
-"label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-nevada-test-site",
-"label": "Nevada Test Site / Nevada National Security Site",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "mark-mccandlish",
-"label": "Mark McCandlish",
-"tier": "A"
-},
-{
-"cls": "program",
-"id": "northrop-tacit-blue",
-"label": "Northrop TACIT BLUE",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "trw-inc",
-"label": "TRW Inc.",
-"tier": "B"
-}
-],
+"members": null,
 "short": "Northrop Grumman Corporation",
 "sources": [
 {
@@ -285,7 +176,7 @@
 ],
 "sub": "Prime contractor; B-2/B-21; former Nevada Test Site management partner",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 401 of 1125, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 424 of 1057, score 32). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [
 {
 "date": "2006-01-01",

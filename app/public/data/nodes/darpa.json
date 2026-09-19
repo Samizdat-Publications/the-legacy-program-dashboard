@@ -140,27 +140,6 @@
 },
 {
 "claimTier": 1,
-"cls": "program",
-"dateEnd": "1985",
-"dateStart": "1978",
-"direction": "in",
-"edgeLabel": "DARPA a named partner in the programme, 1978 to 1985",
-"id": "northrop-tacit-blue",
-"l0": false,
-"label": "Northrop TACIT BLUE",
-"note": "'The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985.' This is what a documented DARPA black-programme involvement actually looks like in a primary record, and it is worth having on the board next to the Fouche file's use of the same four letters.",
-"sources": [
-{
-"date": "2026-09-18",
-"name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
-"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
-}
-],
-"tier": "B",
-"type": "institutional"
-},
-{
-"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "2021-06-25",
@@ -179,32 +158,6 @@
 ],
 "tier": "A",
 "type": "institutional"
-},
-{
-"claimTier": 1,
-"cls": "program",
-"dateEnd": null,
-"dateStart": "1984-07-10",
-"direction": "in",
-"edgeLabel": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
-"id": "tr-3b",
-"l0": true,
-"label": "TR-3B 'Astra', claimed black triangular aircraft",
-"note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
-"sources": [
-{
-"date": "1984-07-10",
-"name": "The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel",
-"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
-},
-{
-"date": "2016-03-19",
-"name": "Peter Merlin's reading of the same letter, quoted verbatim",
-"url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
-}
-],
-"tier": "A",
-"type": "denial"
 },
 {
 "claimTier": 3,
@@ -231,35 +184,8 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1958-02-07",
-"deg": 9,
-"denials": [
-{
-"by": {
-"id": "tr-3b",
-"label": "TR-3B 'Astra', claimed black triangular aircraft"
-},
-"claimTier": 1,
-"denialKind": "association",
-"label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
-"note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
-"of": {
-"id": "darpa",
-"label": "Defense Advanced Research Projects Agency"
-},
-"sources": [
-{
-"date": "1984-07-10",
-"name": "The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel",
-"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
-},
-{
-"date": "2016-03-19",
-"name": "Peter Merlin's reading of the same letter, quoted verbatim",
-"url": "https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/"
-}
-]
-}
-],
+"deg": 7,
+"denials": [],
 "desc": "DARPA describes itself as 'an independent research and development agency within the U.S. Department of War' and states it was 'Created in response to the launch of Sputnik in 1957' as 'our nation's commitment to never again face a strategic technical surprise'. It runs six technical offices, and its published budget figures as of 2026 are a President's FY2027 request of $5.039 billion against an FY2026 enacted level of $4.322 billion. DARPA's relevance to this board is twofold and mostly negative-space. First, it is named among the contributing elements to ODNI's June 2021 Preliminary Assessment on UAP - the only pure R&D organisation on that list, which implies it was consulted on the 'USG or U.S. industry developmental programs' explanatory category, the category that exists to reconcile UAP reports against black aerospace projects. Second, DARPA is the institutional counterfactual against which the legacy program allegation is measured: DARPA is what an American breakthrough-technology effort looks like when it is run in the open, with named program managers on fixed terms, published solicitations and a public budget. Any organisation performing eighty years of exotic materials exploitation without producing a single DARPA-style transition to a fielded system is either failing or is structured to avoid exactly that visibility.",
 "domains": [
 "_rs-archive-mirror",
@@ -325,12 +251,6 @@
 "id": "neil-h-mcelroy",
 "label": "Neil H. McElroy",
 "tier": "B"
-},
-{
-"cls": "program",
-"id": "northrop-tacit-blue",
-"label": "Northrop TACIT BLUE",
-"tier": "B"
 }
 ],
 "short": "DARPA",
@@ -368,6 +288,6 @@
 ],
 "sub": "Independent R&D agency created in response to Sputnik; contributor to the 2021 UAP assessment",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 240 of 1125, score 42). 9 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 316 of 1057, score 36). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": []
 }

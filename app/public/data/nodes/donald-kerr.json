@@ -72,7 +72,7 @@
 "direction": "out",
 "edgeLabel": "Directed Los Alamos before the NRO and ODNI",
 "id": "lanl",
-"l0": true,
+"l0": false,
 "label": "Los Alamos National Laboratory",
 "note": "The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand.",
 "sources": [
@@ -150,7 +150,7 @@
 "status": "former",
 "sub": "Former Chairman, MITRE Board of Trustees (elected 2018); former Principal Deputy Director of National Intelligence (2007-2009); former Director, National Reconnaissance Office; former Director, Los Alamos National Laboratory",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 437 of 1125, score 32). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 403 of 1057, score 32). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [
 {
 "date": "2018-11-06",

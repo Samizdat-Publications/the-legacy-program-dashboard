@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-19",
- "source": "a6674d2616e7",
+ "generated": "2026-09-18",
+ "source": "2697314bdac1",
  "threads": [
   {
    "blurb": "DIA records Senator Reid as co-sponsor with Senator Inouye of the July 2008 Supplemental Appropriation language directing DIA to investigate far-term foreign advanced aerospace threats, and that is the appropriation AAWSAP was run on. Sixteen years later AARO's own historical report is where the Department's account of that money, its contractor and its proposed successor sits.",
@@ -438,11 +438,11 @@
     {
      "edge": {
       "kind": "direct",
-      "tier": 1,
+      "tier": 2,
       "type": "institutional",
       "via": []
      },
-     "evidence": "Assignee of record, printed on the patent's own front page at field (73): 'The United States of America as represented by the Secretary of the Navy'. Printed, not inferred, which is why this step is Tier 1.",
+     "evidence": "Assignee of record: 'The United States of America as represented by the Secretary of the Navy'.",
      "node": "us-navy",
      "year": null
     },

@@ -1089,6 +1089,14 @@
 },
 {
 "a": "afosi",
+"b": "richard-doty",
+"dateStart": "1979",
+"label": "Doty served as an AFOSI special agent at the Kirtland detachment",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "afosi",
 "b": "usaf",
 "dateStart": "1948",
 "label": "Air Force felony investigative and counterintelligence field agency",
@@ -1248,30 +1256,6 @@
 "tier": 2
 },
 {
-"a": "alcubierre-1994",
-"b": "d-exotic",
-"dateStart": "1994",
-"label": "The origin document of the field's metric-engineering claims",
-"t": "research",
-"tier": 2
-},
-{
-"a": "alcubierre-1994",
-"b": "dird-antigravity-for-aerospace-applications",
-"dateStart": "1994",
-"label": "Reference [43] of the antigravity DIRD, and its only appearance in that document",
-"t": "research",
-"tier": 1
-},
-{
-"a": "alcubierre-1994",
-"b": "dird-warp-drive-dark-energy-and-the",
-"dateStart": "1994",
-"label": "Reference 1 of the DIRD, and the source of the idea it builds on",
-"t": "research",
-"tier": 1
-},
-{
 "a": "alejandro-rojas",
 "b": "pursue-releases",
 "dateStart": "2026",
@@ -1365,14 +1349,6 @@
 "dateStart": "2026-03-17",
 "label": "contemplated branding not used",
 "t": "temporal",
-"tier": 3
-},
-{
-"a": "alien-rapture-1998",
-"b": "tr-3b",
-"dateStart": "1998",
-"label": "The book the presentation was given to promote; its TR-3B content was NOT opened",
-"t": "investigative",
 "tier": 3
 },
 {
@@ -1776,30 +1752,6 @@
 "tier": 1
 },
 {
-"a": "arvp-fluxliner-project",
-"b": "arv-fluxliner",
-"dateStart": "2024",
-"label": "Publishes a 3D reconstruction of the claimed craft and sells prints of it",
-"t": "research",
-"tier": 1
-},
-{
-"a": "arvp-fluxliner-project",
-"b": "mark-mccandlish",
-"dateStart": "2024",
-"label": "Hosts his coroner's file and publishes a reconstruction built from his talks",
-"t": "custody",
-"tier": 1
-},
-{
-"a": "arvp-fluxliner-project",
-"b": "tr-3b",
-"dateStart": "2026-09-18",
-"label": "ARVP carries a TR-3B page and routes its readers to the Fouche file",
-"t": "research",
-"tier": 1
-},
-{
 "a": "atic",
 "b": "foreign-technology-division",
 "dateStart": null,
@@ -2192,14 +2144,6 @@
 "tier": 1
 },
 {
-"a": "bennewitz-project-beta-1981",
-"b": "dulce-base",
-"dateStart": "1981",
-"label": "The claimant's own dated statement of his own claim, late 1981",
-"t": "witness-chain",
-"tier": 2
-},
-{
 "a": "bernard-norlain",
 "b": "cometa",
 "dateStart": "1995-03",
@@ -2238,38 +2182,6 @@
 "label": "The DNI must concur in the appointment to the office she held",
 "t": "institutional",
 "tier": 1
-},
-{
-"a": "big-sur-1964",
-"b": "l-vandenberg",
-"dateStart": "1964-08",
-"label": "Coverage of Vandenberg launches from a site about 100 miles north",
-"t": "geographic",
-"tier": 1
-},
-{
-"a": "big-sur-1964",
-"b": "usaf",
-"dateStart": "1964-08",
-"label": "An Air Force telescope deployment covering Air Force Western Test Range launches",
-"t": "programmatic",
-"tier": 1
-},
-{
-"a": "bill-cooper",
-"b": "cooper-secret-government-1989",
-"dateStart": "1989-05-23",
-"label": "Author of 'The Secret Government', 23 May 1989, updated 21 November 1990",
-"t": "research",
-"tier": 1
-},
-{
-"a": "bill-cooper",
-"b": "dulce-base",
-"dateStart": "1989-05-23",
-"label": "FRAME-PROPAGATION ONLY: his 1989 paper contains the word Dulce zero times",
-"t": "witness-chain",
-"tier": 3
 },
 {
 "a": "blackvault-pursue-archive",
@@ -2384,62 +2296,6 @@
 "tier": 1
 },
 {
-"a": "bob-lazar",
-"b": "edward-teller",
-"dateStart": "1982-06",
-"label": "Claimed 1982 meeting and later job referral, uncorroborated and internally misdated",
-"t": "witness-chain",
-"tier": 3
-},
-{
-"a": "bob-lazar",
-"b": "element-115-claim",
-"dateStart": "1989",
-"label": "The element 115 fuel claim is his",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "bob-lazar",
-"b": "kirk-mayer",
-"dateStart": "1982-05-18",
-"label": "The contractor he actually worked for at Los Alamos in 1982",
-"t": "institutional",
-"tier": 2
-},
-{
-"a": "bob-lazar",
-"b": "lanl",
-"dateStart": "1982",
-"label": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
-"t": "institutional",
-"tier": 3
-},
-{
-"a": "bob-lazar",
-"b": "lazar-tape-1991",
-"dateStart": "1991",
-"label": "Co-author and narrator of the 1991 videotape",
-"t": "research",
-"tier": 1
-},
-{
-"a": "bob-lazar",
-"b": "oni",
-"dateStart": "1988-12",
-"label": "Claimed payment: 'the United States Navy' in his narration, 'Department of Naval Intelligence' on the W-2 as others describe it",
-"t": "funding",
-"tier": 3
-},
-{
-"a": "bob-lazar",
-"b": "s-4-papoose-lake",
-"dateStart": "1988-12",
-"label": "Originating claimant: says he worked at S-4, December 1988 to April 1989",
-"t": "witness-chain",
-"tier": 2
-},
-{
 "a": "bobby-ray-inman",
 "b": "cia",
 "dateStart": "1981",
@@ -2526,38 +2382,6 @@
 "label": "Security-support primes administer the compartmentation the statute is supposed to make visible",
 "t": "institutional",
 "tier": 3
-},
-{
-"a": "brad-sorensen",
-"b": "arv-fluxliner",
-"dateStart": "1988-11-12",
-"label": "Sole claimed eyewitness to the three craft",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "brad-sorensen",
-"b": "norton-afb-airshow-1988",
-"dateStart": "1988-11-12",
-"label": "Sole claimed eyewitness to the alleged hangar exhibit",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "brad-sorensen",
-"b": "scott-sorensen-notes-1990",
-"dateStart": "1990-12-03",
-"label": "Interviewee; the notes are his account in his own words",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "brad-steiger",
-"b": "alien-rapture-1998",
-"dateStart": "1998",
-"label": "Co-author of Alien Rapture: The Chosen",
-"t": "research",
-"tier": 1
 },
 {
 "a": "brett-mansfield",
@@ -2653,30 +2477,6 @@
 "dateStart": "2026",
 "label": "Framed as enforcement of the records identified for public release under the 2026 disclosure push",
 "t": "legislative",
-"tier": 1
-},
-{
-"a": "canning-nasa-cr-2004-213312",
-"b": "millis-tm-2004-213082",
-"dateStart": "2004",
-"label": "The experiment behind the survey's ion-wind finding",
-"t": "research",
-"tier": 1
-},
-{
-"a": "canning-nasa-cr-2004-213312",
-"b": "nasa",
-"dateStart": "2004-10",
-"label": "A NASA contractor report, published under a NASA/CR number",
-"t": "funding",
-"tier": 1
-},
-{
-"a": "canning-nasa-cr-2004-213312",
-"b": "thomas-townsend-brown",
-"dateStart": "2004-10",
-"label": "Cites both Brown patents and GB 300,311 by number, and models the thrust as ion drift",
-"t": "research",
 "tier": 1
 },
 {
@@ -2897,14 +2697,6 @@
 },
 {
 "a": "charles-halt",
-"b": "larry-warren",
-"dateStart": null,
-"label": "Reported as stating that Warren 'was not there'",
-"t": "denial",
-"tier": 3
-},
-{
-"a": "charles-halt",
 "b": "rendlesham-1980",
 "dateStart": "1980",
 "label": "Halt personally led the 28 December 1980 forest patrol",
@@ -2965,14 +2757,6 @@
 "dateStart": null,
 "label": "Director of Intelligence, Office of the Deputy Chief of Staff, USAF",
 "t": "institutional",
-"tier": 1
-},
-{
-"a": "checktheevidence",
-"b": "edgar-fouche",
-"dateStart": "2014-02-11",
-"label": "Custodian of the Fouche file, under a named operator",
-"t": "custody",
 "tier": 1
 },
 {
@@ -3424,30 +3208,6 @@
 "tier": 3
 },
 {
-"a": "clifford-stone",
-"b": "disclosure-project-briefing-2001",
-"dateStart": "2000-09",
-"label": "Testimony at section 3.8.4, dated September 2000",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "clifford-stone",
-"b": "national-press-club-2001",
-"dateStart": "2001-05-09",
-"label": "Shown at the podium by Fox News Channel, 9 May 2001",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "clifford-stone",
-"b": "rendlesham-1980",
-"dateStart": "1980-12",
-"label": "Claims an Army team took him there in late December 1980",
-"t": "witness-chain",
-"tier": 3
-},
-{
 "a": "cnes",
 "b": "geipan",
 "dateStart": "1977",
@@ -3702,14 +3462,6 @@
 "label": "Air Force, Navy and Army components of one effort, renamed prompt strike in 2012",
 "t": "institutional",
 "tier": 1
-},
-{
-"a": "corbell-lazar-2018",
-"b": "s-4-papoose-lake",
-"dateStart": "2018-11-01",
-"label": "2018 documentary that returned the claim to mass circulation",
-"t": "investigative",
-"tier": 2
 },
 {
 "a": "cosford-incident-1993",
@@ -4316,14 +4068,6 @@
 "b": "mike-turner",
 "dateStart": "2023",
 "label": "Named-source account of what Turner demanded in conference",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "daniel-sheehan",
-"b": "national-press-club-2001",
-"dateStart": "2001-05-09",
-"label": "Counsel to the Project, at the podium on 9 May 2001",
 "t": "witness-chain",
 "tier": 2
 },
@@ -5232,14 +4976,6 @@
 "tier": 1
 },
 {
-"a": "dird-antigravity-for-aerospace-applications",
-"b": "thomas-townsend-brown",
-"dateStart": "2010-03-30",
-"label": "The government's own 45-page antigravity survey does not mention Brown at all",
-"t": "denial",
-"tier": 1
-},
-{
 "a": "dird-biosensors-and-biomems-a-survey-of",
 "b": "bruce-towe",
 "dateStart": null,
@@ -5845,78 +5581,6 @@
 "dateStart": "1997",
 "label": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
 "t": "temporal",
-"tier": 3
-},
-{
-"a": "disclosure-project-briefing-2001",
-"b": "disclosure-project",
-"dateStart": "2001-04",
-"label": "The project's own publication",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "disclosure-project-briefing-2001",
-"b": "disclosure-project",
-"dateStart": "2001-04",
-"label": "The Project's own compiled briefing document, April 2001",
-"t": "research",
-"tier": 1
-},
-{
-"a": "disclosure-project-briefing-2001",
-"b": "steven-greer",
-"dateStart": "2001-04",
-"label": "Named as its director and compiler",
-"t": "custody",
-"tier": 1
-},
-{
-"a": "disclosure-project-briefing-2001",
-"b": "steven-greer",
-"dateStart": "2001-04",
-"label": "Written and compiled by Greer, who also conducted every interview in it",
-"t": "research",
-"tier": 1
-},
-{
-"a": "disclosure-project-witness-set",
-"b": "d-witness",
-"dateStart": "2000-07",
-"label": "A cohort of claimants, which is what this domain is for",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "disclosure-project-witness-set",
-"b": "disclosure-project-briefing-2001",
-"dateStart": "2001-04",
-"label": "The cohort is defined by section 3.8 of the document",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "disclosure-project-witness-set",
-"b": "lockheed-martin",
-"dateStart": null,
-"label": "Carries the Don Phillips claim of work with Kelly Johnson at the Skunk Works",
-"t": "witness-chain",
-"tier": 3
-},
-{
-"a": "disclosure-project-witness-set",
-"b": "nasa",
-"dateStart": "1966",
-"label": "Carries the Wolfe and Hare claims about NASA imagery, against NASA's own records",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "disclosure-project-witness-set",
-"b": "nsa",
-"dateStart": null,
-"label": "Carries the Wolfe claim of an NSA facility at Langley AFB handling Lunar Orbiter imagery",
-"t": "witness-chain",
 "tier": 3
 },
 {
@@ -6696,30 +6360,6 @@
 "tier": 1
 },
 {
-"a": "dulce-base",
-"b": "d-disinformation",
-"dateStart": null,
-"label": "A cluster whose central witness has a confessed author",
-"t": "programmatic",
-"tier": 2
-},
-{
-"a": "dulce-base",
-"b": "d-psyop",
-"dateStart": null,
-"label": "Downstream of the Kirtland operation, which is this domain's best-known case",
-"t": "programmatic",
-"tier": 2
-},
-{
-"a": "dulce-base",
-"b": "l-dulce",
-"dateStart": null,
-"label": "The claim points at real ground",
-"t": "geographic",
-"tier": 3
-},
-{
 "a": "dylan-borland",
 "b": "hearing-2025-09-09",
 "dateStart": "2025-09-09",
@@ -6765,54 +6405,6 @@
 "dateStart": "2008",
 "label": "largest single DIRD producer — six of 38",
 "t": "funding",
-"tier": 1
-},
-{
-"a": "edgar-fouche",
-"b": "alien-rapture-1998",
-"dateStart": "1998",
-"label": "Primary author of Alien Rapture: The Chosen",
-"t": "research",
-"tier": 1
-},
-{
-"a": "edgar-fouche",
-"b": "fouche-iufoc-1998",
-"dateStart": "1998-08",
-"label": "Author and copyright holder of the presentation transcript",
-"t": "research",
-"tier": 1
-},
-{
-"a": "edgar-fouche",
-"b": "l-edwards-afb",
-"dateStart": "1974",
-"label": "Claims assignment to 6515 TSS, AFFTC, Edwards AFB on the F-15 R&D and FOT&E programme",
-"t": "institutional",
-"tier": 2
-},
-{
-"a": "edgar-fouche",
-"b": "l-groom-lake",
-"dateStart": "1979-06-01",
-"label": "Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation",
-"t": "geographic",
-"tier": 2
-},
-{
-"a": "edgar-fouche",
-"b": "tr-3b",
-"dateStart": "1998-08",
-"label": "Originating claimant of the TR-3B, August 1998",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "edgar-fouche",
-"b": "usaf",
-"dateStart": "1967",
-"label": "USAF master sergeant; twenty year avionics maintenance career, three Meritorious Service Medals",
-"t": "institutional",
 "tier": 1
 },
 {
@@ -6902,22 +6494,6 @@
 "label": "EG&G was the classified services contractor for the Nevada complex in the testing era",
 "t": "institutional",
 "tier": 2
-},
-{
-"a": "element-115-claim",
-"b": "lazar-tape-1991",
-"dateStart": "1991",
-"label": "The tape is the artefact in which the element 115 claim is fixed in datable form",
-"t": "custody",
-"tier": 2
-},
-{
-"a": "element-115-claim",
-"b": "nnsa",
-"dateStart": "2004-02-02",
-"label": "The real element: synthesised 2003, published 2004, assigned 2015, named moscovium 2016",
-"t": "research",
-"tier": 1
 },
 {
 "a": "eli-crane",
@@ -7281,14 +6857,6 @@
 },
 {
 "a": "eric-davis",
-"b": "arv-fluxliner",
-"dateStart": "2024-12-12",
-"label": "Says no such craft exists and none has ever been built",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "eric-davis",
 "b": "d-custody",
 "dateStart": "2020",
 "label": "'We couldn't make it ourselves' - a custody claim with no public chain",
@@ -7640,54 +7208,6 @@
 "tier": 1
 },
 {
-"a": "fouche-afftc-det3-1979",
-"b": "fouche-military-documents",
-"dateStart": "2014-06-15",
-"label": "The AF Form 77a is page 3 of the compilation",
-"t": "custody",
-"tier": 1
-},
-{
-"a": "fouche-afftc-det3-1979",
-"b": "l-groom-lake",
-"dateStart": "1979-06-01",
-"label": "Records temporary duty to AFFTC Detachment 3, the unit operating Groom Lake, 1 June to 14 August 1979",
-"t": "geographic",
-"tier": 2
-},
-{
-"a": "fouche-iufoc-1998",
-"b": "checktheevidence",
-"dateStart": "2014-01-13",
-"label": "Presentation transcript hosted by Check The Evidence",
-"t": "custody",
-"tier": 1
-},
-{
-"a": "fouche-iufoc-1998",
-"b": "tr-3b",
-"dateStart": "1998-08",
-"label": "The dated artefact that carries the claim; opened in full",
-"t": "investigative",
-"tier": 1
-},
-{
-"a": "fouche-military-documents",
-"b": "checktheevidence",
-"dateStart": "2014-06-15",
-"label": "Military documents compilation hosted by Check The Evidence",
-"t": "custody",
-"tier": 1
-},
-{
-"a": "fouche-military-documents",
-"b": "edgar-fouche",
-"dateStart": "2014-06-15",
-"label": "Self-published compilation about and by its own subject",
-"t": "research",
-"tier": 1
-},
-{
 "a": "four-regime-map",
 "b": "usc-10-119",
 "dateStart": "1987-12-04",
@@ -7790,14 +7310,6 @@
 "label": "FUFOR funded Stringfield's later Status Reports",
 "t": "funding",
 "tier": 1
-},
-{
-"a": "gabe-valdez",
-"b": "l-dulce",
-"dateStart": "1976",
-"label": "New Mexico State Police officer stationed at Dulce from 1976",
-"t": "institutional",
-"tier": 2
 },
 {
 "a": "galileo-project",
@@ -8120,30 +7632,6 @@
 "tier": 2
 },
 {
-"a": "gasbuggy-1967",
-"b": "doe",
-"dateStart": "1978",
-"label": "DOE Office of Legacy Management holds long-term stewardship",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "gasbuggy-1967",
-"b": "dulce-base",
-"dateStart": "1967-12-10",
-"label": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
-"t": "denial",
-"tier": 1
-},
-{
-"a": "gasbuggy-1967",
-"b": "l-dulce",
-"dateStart": "1967-12-10",
-"label": "640 acres in the Carson National Forest, twelve miles southwest of Dulce",
-"t": "geographic",
-"tier": 1
-},
-{
 "a": "geipan",
 "b": "cefaa",
 "dateStart": "2014-11-11",
@@ -8176,30 +7664,6 @@
 "tier": 1
 },
 {
-"a": "gene-huff",
-"b": "lazar-tape-1991",
-"dateStart": "1991",
-"label": "Writer and co-producer of the 1991 videotape for Tri-Dot Productions",
-"t": "research",
-"tier": 1
-},
-{
-"a": "gene-huff",
-"b": "s-4-papoose-lake",
-"dateStart": "1989-03-22",
-"label": "Witness to the 1989 desert lights, not to the claimed facility",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "george-hathaway",
-"b": "d-exotic",
-"dateStart": "1974",
-"label": "Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'",
-"t": "research",
-"tier": 2
-},
-{
 "a": "george-hathaway",
 "b": "dird-the-role-of-superconductors-in-gravity",
 "dateStart": null,
@@ -8213,14 +7677,6 @@
 "dateStart": "2017",
 "label": "published the contract documentation",
 "t": "investigative",
-"tier": 1
-},
-{
-"a": "george-knapp",
-"b": "corbell-lazar-2018",
-"dateStart": "2018",
-"label": "Appears in and is credited on the 2018 documentary",
-"t": "witness-chain",
 "tier": 1
 },
 {
@@ -8297,14 +7753,6 @@
 },
 {
 "a": "george-knapp",
-"b": "klas-lazar-broadcasts-1989",
-"dateStart": "1989-03",
-"label": "Reporter and author of the broadcasts",
-"t": "research",
-"tier": 1
-},
-{
-"a": "george-knapp",
 "b": "l-las-vegas",
 "dateStart": "1989-05",
 "label": "Knapp broadcast the Lazar interviews from KLAS-TV Las Vegas in 1989",
@@ -8333,14 +7781,6 @@
 "dateStart": "1996",
 "label": "Knapp introduced Harry Reid to Robert Bigelow",
 "t": "behavioral",
-"tier": 2
-},
-{
-"a": "george-knapp",
-"b": "s-4-papoose-lake",
-"dateStart": "1989-03",
-"label": "Journalist who brought the claim to air in 1989 and has carried it since",
-"t": "investigative",
 "tier": 2
 },
 {
@@ -8701,14 +8141,6 @@
 "dateStart": "1949",
 "label": "Held at Los Alamos; LANL's National Security Research Center holds the minutes",
 "t": "custody",
-"tier": 1
-},
-{
-"a": "greg-bishop",
-"b": "project-beta-bishop-2005",
-"dateStart": "2005-02-08",
-"label": "Author of Project Beta (2005)",
-"t": "research",
 "tier": 1
 },
 {
@@ -9141,14 +8573,6 @@
 "dateStart": "1966",
 "label": "Congressional pressure produced a contracted study, not oversight",
 "t": "programmatic",
-"tier": 1
-},
-{
-"a": "hearing-2022-05-17",
-"b": "hearing-2023-07-26",
-"dateStart": "2022-05-17",
-"label": "The first open congressional UAP hearing of the modern era, and the one the Oversight sequence descends from",
-"t": "temporal",
 "tier": 1
 },
 {
@@ -10040,30 +9464,6 @@
 "tier": 2
 },
 {
-"a": "jal-1628-1986",
-"b": "d-aviators",
-"dateStart": "1986-11-17",
-"label": "A civil-aviation case with a crew, an ATC transcript and a radar record",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "jal-1628-1986",
-"b": "faa",
-"dateStart": "1986-11-17",
-"label": "The agency investigated it, issued a finding and created the file",
-"t": "investigative",
-"tier": 1
-},
-{
-"a": "jal-1628-1986",
-"b": "the-black-vault",
-"dateStart": "2001-05",
-"label": "Federal file recovered after seventeen years and two destruction notices",
-"t": "research",
-"tier": 1
-},
-{
 "a": "james-clapper",
 "b": "depsecdef-sap-packet-2009",
 "dateStart": "2009",
@@ -10489,14 +9889,6 @@
 },
 {
 "a": "jeremy-corbell",
-"b": "corbell-lazar-2018",
-"dateStart": "2018",
-"label": "Director of the 2018 documentary",
-"t": "research",
-"tier": 1
-},
-{
-"a": "jeremy-corbell",
 "b": "hearing-2023-07-26",
 "dateStart": "2023",
 "label": "His report 'The UAP Puzzle' was submitted into the record by Rep. Burchett",
@@ -10760,38 +10152,6 @@
 "tier": 2
 },
 {
-"a": "john-callahan",
-"b": "disclosure-project-briefing-2001",
-"dateStart": "2000-10",
-"label": "Testimony at section 3.8.2, dated October 2000",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "john-callahan",
-"b": "faa",
-"dateStart": "1985-07",
-"label": "FAA Washington headquarters management post, mid-1980s; title disputed",
-"t": "institutional",
-"tier": 2
-},
-{
-"a": "john-callahan",
-"b": "jal-1628-1986",
-"dateStart": "1986-11",
-"label": "Claimed role in the FAA's handling of the case",
-"t": "investigative",
-"tier": 2
-},
-{
-"a": "john-callahan",
-"b": "national-press-club-2001",
-"dateStart": "2001-05-09",
-"label": "Spoke at the podium, 9 May 2001",
-"t": "witness-chain",
-"tier": 2
-},
-{
 "a": "john-cramer",
 "b": "dird-the-space-communication-implications-of-quantum",
 "dateStart": null,
@@ -10833,14 +10193,6 @@
 },
 {
 "a": "john-greenewald",
-"b": "dulce-base",
-"dateStart": "2016-04-01",
-"label": "Traced the cluster's best-known physical 'evidence' to a 2000 feature film",
-"t": "investigative",
-"tier": 2
-},
-{
-"a": "john-greenewald",
 "b": "enigma-labs",
 "dateStart": null,
 "label": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
@@ -10853,14 +10205,6 @@
 "dateStart": "2017",
 "label": "Requested 17 Dec 2017; final response 17 Aug 2022",
 "t": "investigative",
-"tier": 1
-},
-{
-"a": "john-greenewald",
-"b": "jal-1628-1986",
-"dateStart": "2001-05",
-"label": "Requester and locator of the National Archives file",
-"t": "research",
 "tier": 1
 },
 {
@@ -10881,51 +10225,11 @@
 },
 {
 "a": "john-greenewald",
-"b": "thomas-castello",
-"dateStart": "2016-04-01",
-"label": "'There is no evidence that I have found, that shows that Thomas Costello even exists'",
-"t": "investigative",
-"tier": 2
-},
-{
-"a": "john-greenewald",
 "b": "yeates-affidavit",
 "dateStart": "2013",
 "label": "2013 Mandatory Declassification Review forced further release of the NSA UFO holdings",
 "t": "investigative",
 "tier": 1
-},
-{
-"a": "john-lear",
-"b": "bob-lazar",
-"dateStart": "1988",
-"label": "Met by 1988; present at two of the three 1989 desert viewings",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "john-lear",
-"b": "d-media",
-"dateStart": "1987-12-29",
-"label": "His dated 1987 statement reached the field through ParaNet in early 1988",
-"t": "behavioral",
-"tier": 2
-},
-{
-"a": "john-lear",
-"b": "dulce-base",
-"dateStart": "1988",
-"label": "Developed his Dulce hypothesis in 1988, from 'Ann West'",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "john-lear",
-"b": "s-4-papoose-lake",
-"dateStart": "1989",
-"label": "Carrier of the claim, not an eyewitness to the claimed site",
-"t": "witness-chain",
-"tier": 3
 },
 {
 "a": "john-marks-foia-f-76-374",
@@ -11329,14 +10633,6 @@
 },
 {
 "a": "kevin-randle",
-"b": "clifford-stone",
-"dateStart": "2021-02-14",
-"label": "Thirty-year acquaintance who records the same discrepancies from the record",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "kevin-randle",
 "b": "don-schmitt",
 "dateStart": "1991",
 "label": "Co-authors of the two Roswell books, later estranged",
@@ -11374,62 +10670,6 @@
 "label": "Fed the reporting stream that became the UAPTF caseload",
 "t": "investigative",
 "tier": 3
-},
-{
-"a": "king-patent-mhd",
-"b": "arv-fluxliner",
-"dateStart": "1967-05-30",
-"label": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
-"t": "denial",
-"tier": 1
-},
-{
-"a": "king-patent-mhd",
-"b": "d-exotic",
-"dateStart": "1967-05-30",
-"label": "In the strand because of what was claimed for it, not because of what is in it",
-"t": "research",
-"tier": 3
-},
-{
-"a": "king-patent-mhd",
-"b": "dird-mhd-air-breathing-propulsion-and-power",
-"dateStart": "1967-05-30",
-"label": "Same mechanism, two documents, forty-three years apart, neither exotic",
-"t": "research",
-"tier": 3
-},
-{
-"a": "kingston-george",
-"b": "big-sur-1964",
-"dateStart": "1964-08",
-"label": "Project engineer for the deployment",
-"t": "investigative",
-"tier": 1
-},
-{
-"a": "kingston-george",
-"b": "robert-jacobs",
-"dateStart": "1993",
-"label": "Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993",
-"t": "denial",
-"tier": 1
-},
-{
-"a": "kirk-mayer",
-"b": "d-contractor",
-"dateStart": "1982",
-"label": "Named support-services contractor at a national laboratory",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "kirk-mayer",
-"b": "lanl",
-"dateStart": "1982",
-"label": "Support-services contractor at the laboratory",
-"t": "institutional",
-"tier": 2
 },
 {
 "a": "kirk-mcconnell",
@@ -11537,14 +10777,6 @@
 },
 {
 "a": "kirtland-manzano-1980",
-"b": "paul-bennewitz",
-"dateStart": "1980-08",
-"label": "AFOSI opened a file covering the observations Bennewitz was reporting",
-"t": "investigative",
-"tier": 1
-},
-{
-"a": "kirtland-manzano-1980",
 "b": "sandia",
 "dateStart": "1980",
 "label": "A Sandia security guard is a named reporting party in the AFOSI file",
@@ -11616,14 +10848,6 @@
 "tier": 2
 },
 {
-"a": "klas-lazar-broadcasts-1989",
-"b": "s-4-papoose-lake",
-"dateStart": "1989-05",
-"label": "The original broadcast artefact of the claim",
-"t": "investigative",
-"tier": 3
-},
-{
 "a": "klas-tv",
 "b": "aawsap",
 "dateStart": null,
@@ -11661,14 +10885,6 @@
 "dateStart": null,
 "label": "Knapp co-authored two books with the AAWSAP originator",
 "t": "research",
-"tier": 1
-},
-{
-"a": "klas-tv",
-"b": "klas-lazar-broadcasts-1989",
-"dateStart": "1989-05",
-"label": "Its own broadcasts",
-"t": "institutional",
 "tier": 1
 },
 {
@@ -11880,14 +11096,6 @@
 "tier": 1
 },
 {
-"a": "l-dulce",
-"b": "d-legacy",
-"dateStart": "1967-12-10",
-"label": "A contaminated Plowshare site under forty years of federal stewardship",
-"t": "institutional",
-"tier": 3
-},
-{
 "a": "l-edwards-afb",
 "b": "l-groom-lake",
 "dateStart": "1955",
@@ -12048,14 +11256,6 @@
 "tier": 2
 },
 {
-"a": "l-norton-afb",
-"b": "disclosure-project-briefing-2001",
-"dateStart": "2000-09",
-"label": "Two of the document's witnesses name the base",
-"t": "investigative",
-"tier": 1
-},
-{
 "a": "l-ottawa",
 "b": "sky-canada-project",
 "dateStart": null,
@@ -12208,22 +11408,6 @@
 "tier": 1
 },
 {
-"a": "larry-warren",
-"b": "disclosure-project-briefing-2001",
-"dateStart": "2000-09",
-"label": "Testimony at section 3.8.4, dated September 2000",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "larry-warren",
-"b": "rendlesham-1980",
-"dateStart": "1980-12",
-"label": "Claims presence at the December 1980 events; contested",
-"t": "witness-chain",
-"tier": 2
-},
-{
 "a": "laurance-rockefeller",
 "b": "john-podesta",
 "dateStart": "1993",
@@ -12277,22 +11461,6 @@
 "dateStart": "1957",
 "label": "Held an AEC headquarters post in the line the DOE node records itself as succeeding",
 "t": "institutional",
-"tier": 2
-},
-{
-"a": "lazar-clark-county-1990",
-"b": "bob-lazar",
-"dateStart": "1990-07-27",
-"label": "The court file contradicts his own credential account, in his own reported words",
-"t": "denial",
-"tier": 1
-},
-{
-"a": "lazar-tape-1991",
-"b": "s-4-papoose-lake",
-"dateStart": "1991",
-"label": "The dated, opened, complete statement of the claim in the claimant's own voice",
-"t": "witness-chain",
 "tier": 2
 },
 {
@@ -12509,22 +11677,6 @@
 "dateStart": "1990",
 "label": "Skunk Works operates at the government-owned contractor-operated Palmdale facility",
 "t": "institutional",
-"tier": 1
-},
-{
-"a": "los-alamos-monitor-1982",
-"b": "bob-lazar",
-"dateStart": "1982-06-27",
-"label": "Front-page newspaper story about him, seven years before the claim",
-"t": "investigative",
-"tier": 1
-},
-{
-"a": "los-alamos-monitor-1982",
-"b": "l-los-alamos",
-"dateStart": "1982-06-27",
-"label": "The newspaper, the facility and the event are all in Los Alamos",
-"t": "geographic",
 "tier": 1
 },
 {
@@ -12872,22 +12024,6 @@
 "tier": 1
 },
 {
-"a": "marc-millis",
-"b": "millis-tm-2004-213082",
-"dateStart": "2004",
-"label": "Sole author of the project's summary technical memorandum",
-"t": "research",
-"tier": 1
-},
-{
-"a": "marc-millis",
-"b": "nasa-bpp",
-"dateStart": "1996",
-"label": "Managed NASA's Breakthrough Propulsion Physics Project, 1996 to 2002",
-"t": "institutional",
-"tier": 1
-},
-{
 "a": "marco-rubio",
 "b": "samdt-797",
 "dateStart": "2023",
@@ -12958,126 +12094,6 @@
 "label": "delivers the monthly Sol Briefing; authors Sol policy briefings",
 "t": "institutional",
 "tier": 1
-},
-{
-"a": "mark-mccandlish",
-"b": "arv-fluxliner",
-"dateStart": "1988-11",
-"label": "The illustrator and relayer who drew the claimed craft and named it in print",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "mark-mccandlish",
-"b": "boeing",
-"dateStart": "2000-12",
-"label": "Named in his own self-stated client list, 2000",
-"t": "institutional",
-"tier": 2
-},
-{
-"a": "mark-mccandlish",
-"b": "brad-sorensen",
-"dateStart": "1988-11",
-"label": "Painted the craft from Sorensen's verbal description; he was not at the air show",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "mark-mccandlish",
-"b": "disclosure-project",
-"dateStart": "2000-12",
-"label": "Disclosure Project witness, testimony taken December 2000",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "mark-mccandlish",
-"b": "disclosure-project-briefing-2001",
-"dateStart": "2000-12",
-"label": "Testimony at section 3.8.5, dated December 2000",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "mark-mccandlish",
-"b": "eric-davis",
-"dateStart": "2024-12-12",
-"label": "Davis says the ARV claims are myth",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "mark-mccandlish",
-"b": "general-dynamics",
-"dateStart": "2000-12",
-"label": "Named in his own self-stated client list, 2000",
-"t": "institutional",
-"tier": 2
-},
-{
-"a": "mark-mccandlish",
-"b": "l-edwards-afb",
-"dateStart": "1973",
-"label": "Relays a second-hand 1973 Edwards North Base allegation",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "mark-mccandlish",
-"b": "l-plant-42",
-"dateStart": "2000-12",
-"label": "Relays an unnamed informant who places himself at the B-2 facility",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "mark-mccandlish",
-"b": "lockheed-skunk-works",
-"dateStart": "2000-12",
-"label": "Same relayed unnamed informant locates the Skunk Works catty-corner from Plant 42",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "mark-mccandlish",
-"b": "mcdonnell-douglas",
-"dateStart": "2000-12",
-"label": "Named in his own self-stated client list, 2000",
-"t": "institutional",
-"tier": 2
-},
-{
-"a": "mark-mccandlish",
-"b": "northrop-grumman",
-"dateStart": "2000-12",
-"label": "Named in his own self-stated client list, 2000",
-"t": "institutional",
-"tier": 2
-},
-{
-"a": "mark-mccandlish",
-"b": "steven-greer",
-"dateStart": "2000-12",
-"label": "Witness to Greer's compilation; Greer writes the editorial notes around his testimony",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "mark-mccandlish",
-"b": "thomas-townsend-brown",
-"dateStart": "2000-12",
-"label": "Attributes the claimed lift effect to a Brown patent of the late 1950s or early 1960s",
-"t": "research",
-"tier": 2
-},
-{
-"a": "mark-mccandlish",
-"b": "uap-gerb",
-"dateStart": "2024-10-21",
-"label": "Subject of a 1:09:12 UAP Gerb episode published 21 October 2024",
-"t": "investigative",
-"tier": 2
 },
 {
 "a": "mark-mcinerney",
@@ -13304,38 +12320,6 @@
 "tier": 1
 },
 {
-"a": "michael-herrera",
-"b": "aaro-historical-record-vol1",
-"dateStart": "2024-02",
-"label": "Inferred identification with the anonymised page 29 interviewee",
-"t": "investigative",
-"tier": 3
-},
-{
-"a": "michael-herrera",
-"b": "eric-burlison",
-"dateStart": "2025-09-09",
-"label": "The member who moved his written testimony into the hearing record",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "michael-herrera",
-"b": "hearing-2025-09-09",
-"dateStart": "2025-09-09",
-"label": "Written testimony moved into the record by a member; NOT a witness appearance",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "michael-herrera",
-"b": "steven-greer",
-"dateStart": "2025-09-09",
-"label": "Named on the record as the custodian who supplied the written testimony",
-"t": "custody",
-"tier": 1
-},
-{
 "a": "michael-powers-comptroller",
 "b": "classified-annex",
 "dateStart": null,
@@ -13510,46 +12494,6 @@
 "label": "Named as demanding removal of the eminent domain provision",
 "t": "denial",
 "tier": 2
-},
-{
-"a": "millis-tm-2004-213082",
-"b": "alcubierre-1994",
-"dateStart": "2004",
-"label": "NASA's assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered",
-"t": "research",
-"tier": 1
-},
-{
-"a": "millis-tm-2004-213082",
-"b": "d-exotic",
-"dateStart": "2004",
-"label": "The domain's best single published adjudication",
-"t": "research",
-"tier": 1
-},
-{
-"a": "millis-tm-2004-213082",
-"b": "nasa-bpp",
-"dateStart": "2004",
-"label": "The published summary of the project's methods and findings",
-"t": "investigative",
-"tier": 1
-},
-{
-"a": "millis-tm-2004-213082",
-"b": "pais-patent-hfgw",
-"dateStart": "2004",
-"label": "NASA treated high frequency gravitational waves as a detection problem in 2004",
-"t": "research",
-"tier": 3
-},
-{
-"a": "millis-tm-2004-213082",
-"b": "thomas-townsend-brown",
-"dateStart": "2004",
-"label": "NASA: the observed thrust is ion wind, and these devices are not viable candidates",
-"t": "denial",
-"tier": 1
 },
 {
 "a": "minot-1966",
@@ -13968,14 +12912,6 @@
 "tier": 1
 },
 {
-"a": "nasa-bpp",
-"b": "nasa",
-"dateStart": "1996",
-"label": "A NASA project, supported 1996 to 2002 and run out of Glenn Research Center",
-"t": "institutional",
-"tier": 1
-},
-{
 "a": "nasa-uap-ist",
 "b": "odni-preliminary-assessment-2021",
 "dateStart": "2021",
@@ -14053,30 +12989,6 @@
 "dateStart": "2024",
 "label": "NARA is custodian without power to compel transmission",
 "t": "custody",
-"tier": 1
-},
-{
-"a": "national-press-club-2001",
-"b": "d-media",
-"dateStart": "2001-05-09",
-"label": "A press event whose purpose was coverage, covered the same day by a national broadcaster",
-"t": "institutional",
-"tier": 2
-},
-{
-"a": "national-press-club-2001",
-"b": "disclosure-project",
-"dateStart": "2001-05-09",
-"label": "The Project's press conference, 9 May 2001",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "national-press-club-2001",
-"b": "disclosure-project-briefing-2001",
-"dateStart": "2001-04",
-"label": "Document April 2001; press conference 9 May 2001; different and largely unknown rosters",
-"t": "temporal",
 "tier": 1
 },
 {
@@ -14856,68 +13768,12 @@
 "tier": 1
 },
 {
-"a": "norio-hayakawa",
-"b": "dulce-base",
-"dateStart": "1988",
-"label": "Thirty-eight years on the question, concluding 'it does not seem to exist'",
-"t": "investigative",
-"tier": 2
-},
-{
 "a": "northrop-grumman",
 "b": "l-nevada-test-site",
 "dateStart": "2006",
 "label": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
 "t": "institutional",
 "tier": 1
-},
-{
-"a": "northrop-tacit-blue",
-"b": "darpa",
-"dateStart": "1978",
-"label": "DARPA a named partner in the programme, 1978 to 1985",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "northrop-tacit-blue",
-"b": "northrop-grumman",
-"dateStart": "1978",
-"label": "Northrop Corp. the airframe contractor",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "northrop-tacit-blue",
-"b": "tr-3b",
-"dateStart": "1982-02",
-"label": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
-"t": "denial",
-"tier": 1
-},
-{
-"a": "northrop-tacit-blue",
-"b": "usaf",
-"dateStart": "1978",
-"label": "USAF a named partner and the publisher of the fact sheet",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "norton-afb-airshow-1988",
-"b": "l-norton-afb",
-"dateStart": "1988-11-12",
-"label": "The event is at the base",
-"t": "geographic",
-"tier": 1
-},
-{
-"a": "norton-afb-airshow-1988",
-"b": "usaf",
-"dateStart": "1988-11-12",
-"label": "Air Force open house; the 1990 notes describe Air Force briefers",
-"t": "institutional",
-"tier": 2
 },
 {
 "a": "nro",
@@ -15593,22 +14449,6 @@
 },
 {
 "a": "paul-bennewitz",
-"b": "bennewitz-project-beta-1981",
-"dateStart": "1981",
-"label": "Author of the late-1981 report",
-"t": "research",
-"tier": 2
-},
-{
-"a": "paul-bennewitz",
-"b": "dulce-base",
-"dateStart": "1979",
-"label": "Origin point of the Dulce claim, from about 1979",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "paul-bennewitz",
 "b": "l-kirtland",
 "dateStart": "1979",
 "label": "Bennewitz's 1979-1980 observations were of the Manzano area of Kirtland AFB",
@@ -15736,46 +14576,6 @@
 "tier": 2
 },
 {
-"a": "peter-merlin",
-"b": "fouche-afftc-det3-1979",
-"dateStart": "2026-09-18",
-"label": "His own published work is what establishes what AFFTC Detachment 3 is",
-"t": "research",
-"tier": 2
-},
-{
-"a": "peter-merlin",
-"b": "fouche-military-documents",
-"dateStart": "2016-03-19",
-"label": "Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "peter-merlin",
-"b": "tr-3b",
-"dateStart": "2016-03-19",
-"label": "Named aerospace historian; four falsifiable specifics against the claimant's evidence",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "peter-robbins",
-"b": "larry-warren",
-"dateStart": "2017-06-13",
-"label": "Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "peter-robbins",
-"b": "rendlesham-1980",
-"dateStart": null,
-"label": "Co-author of a book-length treatment of the event, later repudiated by him",
-"t": "research",
-"tier": 2
-},
-{
 "a": "peter-skafish",
 "b": "sol-foundation",
 "dateStart": "2022",
@@ -15792,35 +14592,11 @@
 "tier": 2
 },
 {
-"a": "phil-schneider",
-"b": "dulce-base",
-"dateStart": "1995-05-08",
-"label": "Supplies every specific number in the modern claim, 8 May 1995",
-"t": "witness-chain",
-"tier": 2
-},
-{
 "a": "philip-corso",
 "b": "l-dc",
 "dateStart": "1954",
 "label": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
 "t": "geographic",
-"tier": 1
-},
-{
-"a": "philip-j-klass",
-"b": "clifford-stone",
-"dateStart": "2001",
-"label": "Obtained his service record from the National Personnel Records Center and printed it against the claim",
-"t": "denial",
-"tier": 1
-},
-{
-"a": "philip-j-klass",
-"b": "disclosure-project",
-"dateStart": "2001",
-"label": "Dated published critique of the Project by name, Summer 2001",
-"t": "denial",
 "tier": 1
 },
 {
@@ -15936,14 +14712,6 @@
 "tier": 3
 },
 {
-"a": "project-aquarius",
-"b": "paul-bennewitz",
-"dateStart": "1983-04",
-"label": "Fabricated programme material in the Kirtland operation, corroborated as told by 1989",
-"t": "behavioral",
-"tier": 2
-},
-{
 "a": "project-azorian",
 "b": "cia",
 "dateStart": null,
@@ -15981,14 +14749,6 @@
 "dateStart": "1954",
 "label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
 "t": "denial",
-"tier": 1
-},
-{
-"a": "project-beta-bishop-2005",
-"b": "paul-bennewitz",
-"dateStart": "2005-02-08",
-"label": "The principal documented account of the affair",
-"t": "investigative",
 "tier": 1
 },
 {
@@ -16729,14 +15489,6 @@
 },
 {
 "a": "richard-doty",
-"b": "afosi",
-"dateStart": "1980",
-"label": "Documented AFOSI special agent at Kirtland, 1980",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "richard-doty",
 "b": "afosi-kirtland-file",
 "dateStart": "1980",
 "label": "Doty was the AFOSI special agent associated with the Kirtland UFO file",
@@ -16745,27 +15497,11 @@
 },
 {
 "a": "richard-doty",
-"b": "afosi-kirtland-file",
-"dateStart": "1980-09",
-"label": "Named on the complaint form as the special agent who filed it",
-"t": "research",
-"tier": 1
-},
-{
-"a": "richard-doty",
 "b": "doty-personnel-file",
 "dateStart": "2021",
 "label": "321-page New Mexico State Police personnel file released 2021",
 "t": "institutional",
 "tier": 1
-},
-{
-"a": "richard-doty",
-"b": "dulce-base",
-"dateStart": null,
-"label": "Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied",
-"t": "denial",
-"tier": 2
 },
 {
 "a": "richard-doty",
@@ -16794,8 +15530,8 @@
 {
 "a": "richard-doty",
 "b": "paul-bennewitz",
-"dateStart": null,
-"label": "Two-sided: the reported admission, and his own recorded denial of harm",
+"dateStart": "1980",
+"label": "Ran fabricated material at Bennewitz out of the same AFOSI office",
 "t": "behavioral",
 "tier": 2
 },
@@ -17024,30 +15760,6 @@
 "tier": 2
 },
 {
-"a": "robert-jacobs",
-"b": "big-sur-1964",
-"dateStart": "1964-08",
-"label": "On-site commander at the filming; his presence, unit and role confirmed by the project engineer in print",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "robert-jacobs",
-"b": "disclosure-project-briefing-2001",
-"dateStart": "2000-11",
-"label": "Testimony at section 3.8.3, dated November 2000",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "robert-jacobs",
-"b": "l-vandenberg",
-"dateStart": "1963-05",
-"label": "1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966",
-"t": "geographic",
-"tier": 1
-},
-{
 "a": "robert-low",
 "b": "low-memo",
 "dateStart": "1966",
@@ -17189,14 +15901,6 @@
 "dateStart": null,
 "label": "seat 1 of 12 - Chairman, Senate Armed Services",
 "t": "institutional",
-"tier": 1
-},
-{
-"a": "ronald-moultrie",
-"b": "hearing-2022-05-17",
-"dateStart": "2022-05-17",
-"label": "Witness of record, appearing as Under Secretary of Defense for Intelligence and Security",
-"t": "witness-chain",
 "tier": 1
 },
 {
@@ -17368,62 +16072,6 @@
 "tier": 2
 },
 {
-"a": "s-4-papoose-lake",
-"b": "d-custody",
-"dateStart": "1989",
-"label": "Claimed custody of non-human craft at the claimed site",
-"t": "custody",
-"tier": 3
-},
-{
-"a": "s-4-papoose-lake",
-"b": "d-legacy",
-"dateStart": "1989",
-"label": "The hub's claimed content is a legacy reverse-engineering programme",
-"t": "programmatic",
-"tier": 3
-},
-{
-"a": "s-4-papoose-lake",
-"b": "l-area51",
-"dateStart": "1989",
-"label": "Claimed site sited about fifteen miles south of Area 51",
-"t": "geographic",
-"tier": 2
-},
-{
-"a": "s-4-papoose-lake",
-"b": "l-groom-lake",
-"dateStart": "1989",
-"label": "Claimed site sited by reference to Groom Lake, about fifteen miles north of it",
-"t": "geographic",
-"tier": 2
-},
-{
-"a": "s-4-papoose-lake",
-"b": "l-nellis",
-"dateStart": "1989",
-"label": "Claimed site placed on the Nellis range by the claimant",
-"t": "geographic",
-"tier": 2
-},
-{
-"a": "s-4-papoose-lake",
-"b": "l-nevada-test-site",
-"dateStart": "1990-08-21",
-"label": "The claim's earlier geography, as reported contemporaneously in August 1990",
-"t": "geographic",
-"tier": 1
-},
-{
-"a": "s-4-papoose-lake",
-"b": "l-tonopah",
-"dateStart": "2018",
-"label": "DISPUTE over the designator: two sources say S-4 belongs to a Tonopah radar facility",
-"t": "geographic",
-"tier": 2
-},
-{
 "a": "sac-overflights-1975",
 "b": "aaro-historical-record-vol1",
 "dateStart": "2024",
@@ -17494,14 +16142,6 @@
 "label": "SAIC held the government's remote viewing research line after it left SRI",
 "t": "programmatic",
 "tier": 2
-},
-{
-"a": "salvatore-pais",
-"b": "harold-puthoff",
-"dateStart": "2018-12-04",
-"label": "US 10,144,532 cites Puthoff's Polarizable-Vacuum paper on its printed front page",
-"t": "research",
-"tier": 1
 },
 {
 "a": "salvatore-pais",
@@ -17680,60 +16320,12 @@
 "tier": 1
 },
 {
-"a": "saucers-spooks-and-kooks-2021",
-"b": "dulce-base",
-"dateStart": "2021-02-03",
-"label": "The publication that obtained and printed the confession",
-"t": "investigative",
-"tier": 2
-},
-{
-"a": "saucers-spooks-and-kooks-2021",
-"b": "tal-levesque",
-"dateStart": "2015-11",
-"label": "Obtained Levesque's confession across a multi-year correspondence",
-"t": "investigative",
-"tier": 2
-},
-{
 "a": "schulgen-memo",
 "b": "project-sign",
 "dateStart": "1947",
 "label": "Collection requirement fed the project that began weeks later",
 "t": "programmatic",
 "tier": 2
-},
-{
-"a": "scott-bray",
-"b": "hearing-2022-05-17",
-"dateStart": "2022-05-17",
-"label": "Witness of record, appearing as Deputy Director of Naval Intelligence",
-"t": "witness-chain",
-"tier": 1
-},
-{
-"a": "scott-sorensen-notes-1990",
-"b": "arv-fluxliner",
-"dateStart": "1990-12-03",
-"label": "Earliest opened record of the claimed craft",
-"t": "investigative",
-"tier": 1
-},
-{
-"a": "scott-sorensen-notes-1990",
-"b": "arvp-fluxliner-project",
-"dateStart": "2024-10-17",
-"label": "The only opened copy of the notes is the scan that site hosts",
-"t": "custody",
-"tier": 1
-},
-{
-"a": "scott-sorensen-notes-1990",
-"b": "norton-afb-airshow-1988",
-"dateStart": "1990-12-03",
-"label": "Earliest opened record of the claim, taken about two years after the alleged event",
-"t": "investigative",
-"tier": 1
 },
 {
 "a": "scu-uap-studies",
@@ -18369,14 +16961,6 @@
 },
 {
 "a": "stanton-friedman",
-"b": "bob-lazar",
-"dateStart": "1997-12",
-"label": "Credential investigation: located Duxler at Pierce, found no institutional record",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "stanton-friedman",
 "b": "jesse-marcel",
 "dateStart": "1978-02",
 "label": "Friedman's February 1978 interview reopened Roswell",
@@ -18388,14 +16972,6 @@
 "b": "kevin-randle",
 "dateStart": "1987",
 "label": "Unresolved dispute over MJ-12 authenticity",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "stanton-friedman",
-"b": "s-4-papoose-lake",
-"dateStart": "1997-12",
-"label": "Denial from a UFO proponent: the claimant's credentials do not survive checking",
 "t": "denial",
 "tier": 2
 },
@@ -18492,14 +17068,6 @@
 "b": "john-podesta",
 "dateStart": "1993",
 "label": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "steven-greer",
-"b": "national-press-club-2001",
-"dateStart": "2001-05-09",
-"label": "Organiser of the event",
 "t": "institutional",
 "tier": 1
 },
@@ -18704,22 +17272,6 @@
 "tier": 2
 },
 {
-"a": "tal-levesque",
-"b": "dulce-base",
-"dateStart": "2015-11",
-"label": "Says he wrote the two original Dulce Base articles and manufactured the corroboration",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "tal-levesque",
-"b": "thomas-castello",
-"dateStart": "2015-11",
-"label": "Confessed authorship: 'TEC ... is a creation. A MYTH'",
-"t": "denial",
-"tier": 2
-},
-{
 "a": "talbert-gravity-series-1955",
 "b": "general-dynamics",
 "dateStart": null,
@@ -18848,14 +17400,6 @@
 "tier": 1
 },
 {
-"a": "testors-sr-75-kit",
-"b": "tr-3b",
-"dateStart": "1993-12-25",
-"label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
-"t": "denial",
-"tier": 3
-},
-{
 "a": "tf-declassification-federal-secrets",
 "b": "hearing-2025-09-09",
 "dateStart": "2025-09-09",
@@ -18885,14 +17429,6 @@
 "dateStart": "2009-01-06",
 "label": "Ranking Member, Senate Appropriations Committee and its Defense Subcommittee",
 "t": "institutional",
-"tier": 1
-},
-{
-"a": "the-black-vault",
-"b": "bob-lazar",
-"dateStart": "2018-11",
-"label": "Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article",
-"t": "custody",
 "tier": 1
 },
 {
@@ -18984,14 +17520,6 @@
 "tier": 1
 },
 {
-"a": "thomas-castello",
-"b": "dulce-base",
-"dateStart": null,
-"label": "The claimed insider, whose author confessed the invention",
-"t": "witness-chain",
-"tier": 2
-},
-{
 "a": "thomas-crosson",
 "b": "aatip",
 "dateStart": "2017",
@@ -19021,14 +17549,6 @@
 "dateStart": "2024",
 "label": "Briefed House Oversight members for about ninety minutes",
 "t": "institutional",
-"tier": 2
-},
-{
-"a": "thomas-townsend-brown",
-"b": "arv-fluxliner",
-"dateStart": "1957-07-03",
-"label": "The account's claimed lift lineage, which the patents themselves do not support",
-"t": "research",
 "tier": 2
 },
 {
@@ -19233,14 +17753,6 @@
 },
 {
 "a": "tim-mcmillan",
-"b": "bob-lazar",
-"dateStart": "2019-07-01",
-"label": "Obtained the Laingsburg police report and traced the 2017 raid to a homicide investigation",
-"t": "investigative",
-"tier": 1
-},
-{
-"a": "tim-mcmillan",
 "b": "the-debrief",
 "dateStart": "2020",
 "label": "Co-founder and Executive Director",
@@ -19326,86 +17838,6 @@
 "label": "Co-founder, President, interim CEO and controlling shareholder",
 "t": "institutional",
 "tier": 1
-},
-{
-"a": "tom-mahood",
-"b": "bob-lazar",
-"dateStart": "1993",
-"label": "The most detailed documentary examination of the account, 1990s and 2018",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "tom-mahood",
-"b": "element-115-claim",
-"dateStart": "1969-04",
-"label": "The island of stability near element 114 was published popular physics from 1969",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "tom-mahood",
-"b": "lazar-clark-county-1990",
-"dateStart": "1995-05-14",
-"label": "Holds the reprints of both 1990 newspaper reports and quotes the Pre-Sentence Report",
-"t": "custody",
-"tier": 1
-},
-{
-"a": "tom-mahood",
-"b": "los-alamos-monitor-1982",
-"dateStart": "1993",
-"label": "Holds the only openable copy of the article's text",
-"t": "custody",
-"tier": 1
-},
-{
-"a": "tom-mahood",
-"b": "s-4-papoose-lake",
-"dateStart": "2018",
-"label": "Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility",
-"t": "denial",
-"tier": 2
-},
-{
-"a": "tr-3b",
-"b": "cia",
-"dateStart": "1998-08",
-"label": "CLAIMED ONLY: named as a funder and tasker at slide 70",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "tr-3b",
-"b": "darpa",
-"dateStart": "1984-07-10",
-"label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
-"t": "denial",
-"tier": 1
-},
-{
-"a": "tr-3b",
-"b": "nro",
-"dateStart": "1998-08",
-"label": "CLAIMED ONLY: named as a funder and tasker at slide 70",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "tr-3b",
-"b": "nsa",
-"dateStart": "1998-08",
-"label": "CLAIMED ONLY: named as a funder and tasker at slide 70",
-"t": "witness-chain",
-"tier": 2
-},
-{
-"a": "tr-3b",
-"b": "sandia",
-"dateStart": "1998-08",
-"label": "CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72",
-"t": "witness-chain",
-"tier": 2
 },
 {
 "a": "tr-ac-47-silver-bug",
@@ -20201,19 +18633,11 @@
 },
 {
 "a": "us-navy",
-"b": "pais-patent-emfg",
-"dateStart": "2016-10",
-"label": "NAWCAD: after three years and $508,000 the Pais Effect could not be proven",
-"t": "denial",
-"tier": 1
-},
-{
-"a": "us-navy",
 "b": "pais-patent-imrd",
 "dateStart": "2016-04-28",
 "label": "Assignee of record",
 "t": "institutional",
-"tier": 1
+"tier": 2
 },
 {
 "a": "us-navy",
@@ -21106,8 +19530,8 @@
 {
 "a": "william-l-moore",
 "b": "paul-bennewitz",
-"dateStart": "1989-07-01",
-"label": "The 1 July 1989 MUFON admission, which outranks anything Doty has said",
+"dateStart": "1980",
+"label": "Moore admitted in 1989 to feeding Bennewitz false information",
 "t": "behavioral",
 "tier": 2
 },
@@ -21184,22 +19608,6 @@
 "tier": 3
 },
 {
-"a": "yamato-1",
-"b": "dird-mhd-air-breathing-propulsion-and-power",
-"dateStart": "1992-06",
-"label": "The built vessel and the government survey describe the same physics",
-"t": "research",
-"tier": 3
-},
-{
-"a": "yamato-1",
-"b": "king-patent-mhd",
-"dateStart": "1992-06",
-"label": "The same mechanism, independently built and taken to sea in June 1992",
-"t": "research",
-"tier": 3
-},
-{
 "a": "yankee-blue",
 "b": "aaro",
 "dateStart": "2025",
@@ -21270,21 +19678,5 @@
 "label": "chief executive for SETKA-AN at IZMIRAN",
 "t": "institutional",
 "tier": 2
-},
-{
-"a": "zero-point-documentary",
-"b": "arv-fluxliner",
-"dateStart": "2013-06-02",
-"label": "A feature documentary carrying the claim to a later audience",
-"t": "investigative",
-"tier": 2
-},
-{
-"a": "zero-point-documentary",
-"b": "mark-mccandlish",
-"dateStart": "2013-06-02",
-"label": "The film is about him and names him in its title",
-"t": "investigative",
-"tier": 1
 }
 ]

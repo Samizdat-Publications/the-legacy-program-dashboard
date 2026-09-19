@@ -53,26 +53,6 @@
 ],
 "claims": [
 {
-"source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
-"text": "He is named on the title page of the Disclosure Project Briefing Document of April 2001 as its author and compiler, jointly with Theodore C. Loder III, Ph.D.: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' The document gives his address as 'The Disclosure Project, PO Box 265, Crozet, VA 22932'.",
-"tier": 1
-},
-{
-"source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
-"text": "He conducts the interviews in the document himself and his presence is printed inside the transcripts: each testimony carries an initials key of the form 'SG: Dr. Steven Greer', and his editorial interjections are printed within the witness text marked 'SG]'. THE DOCUMENT IS THEREFORE NOT A NEUTRAL COMPILATION AND CAPS AT TIER 2 THE MOMENT IT IS ASKED TO SUPPORT THE CONTENT OF A CLAIM RATHER THAN THE EXISTENCE OF THE TESTIMONY.",
-"tier": 1
-},
-{
-"source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
-"text": "ABC News, reporting from the National Press Club on 9 May 2001, records his claim of 'some 400 witnesses who claim to have firsthand experience with UFO sightings or alien evidence, and are willing to testify before Congress'. Klass, in the same season, records that the book published alongside the event contains 69 interview transcripts, of whom 20 spoke at the conference.",
-"tier": 2
-},
-{
-"source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
-"text": "Klass records that Greer refused him admission to a comparable press conference in 1997 and 'reportedly refused the request for admission by Fund For UFO Research officials' in 2001.",
-"tier": 2
-},
-{
 "source": "Disclosure Project National Press Club event, Washington DC, 9 May 2001; contemporaneous international press coverage",
 "text": "On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power.",
 "tier": 2
@@ -99,7 +79,7 @@
 }
 ],
 "cls": "person",
-"cluster": "other",
+"cluster": "media",
 "conflicts": [
 "Greer's later claims - including assertions about non-human biological specimens - are unsupported and are routinely used to discredit the 2001 witness corpus as a whole.",
 "Central claims (Atacama skeleton, CE-5 contact) are disproven or unfalsifiable; treated by structural investigators as a discrediting vector rather than a source."
@@ -123,7 +103,7 @@
 "url": "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -134,7 +114,7 @@
 "direction": "out",
 "edgeLabel": "Greer founded and led the Disclosure Project",
 "id": "disclosure-project",
-"l0": true,
+"l0": false,
 "label": "The Disclosure Project",
 "note": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event.",
 "sources": [
@@ -144,50 +124,8 @@
 "url": "https://clinton.presidentiallibraries.us/items/show/36386"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
-},
-{
-"claimTier": 1,
-"cls": "document",
-"dateEnd": "2001-04",
-"dateStart": "2001-04",
-"direction": "in",
-"edgeLabel": "Named as its director and compiler",
-"id": "disclosure-project-briefing-2001",
-"l0": true,
-"label": "Disclosure Project Briefing Document, April 2001",
-"note": "Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'.",
-"sources": [
-{
-"date": "2001-04",
-"name": "Disclosure Project Briefing Document, section 3.8.5",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-}
-],
-"tier": "B",
-"type": "custody"
-},
-{
-"claimTier": 1,
-"cls": "document",
-"dateEnd": "2001-04",
-"dateStart": "2001-04",
-"direction": "in",
-"edgeLabel": "Written and compiled by Greer, who also conducted every interview in it",
-"id": "disclosure-project-briefing-2001",
-"l0": true,
-"label": "Disclosure Project Briefing Document, April 2001",
-"note": "AUTHORSHIP, TYPED research. Title page: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' He is also the interviewer in every transcript, printed as 'SG', and his editorial interjections appear inside the witness text marked 'SG]'. This edge is the structural reason the document caps at Tier 2 for content.",
-"sources": [
-{
-"date": "2001-04",
-"name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-}
-],
-"tier": "B",
-"type": "research"
 },
 {
 "claimTier": 1,
@@ -205,69 +143,6 @@
 "date": "2019-09-16",
 "name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
 "url": "https://clinton.presidentiallibraries.us/items/show/36386"
-}
-],
-"tier": "C",
-"type": "institutional"
-},
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": "2001-04",
-"dateStart": "2000-12",
-"direction": "in",
-"edgeLabel": "Witness to Greer's compilation; Greer writes the editorial notes around his testimony",
-"id": "mark-mccandlish",
-"l0": false,
-"label": "Mark McCandlish",
-"note": "Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB.",
-"sources": [
-{
-"date": "2001-04",
-"name": "Disclosure Project Briefing Document, section 3.8.5",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-}
-],
-"tier": "A",
-"type": "witness-chain"
-},
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": "2025-09-09",
-"dateStart": "2025-09-09",
-"direction": "in",
-"edgeLabel": "Named on the record as the custodian who supplied the written testimony",
-"id": "michael-herrera",
-"l0": false,
-"label": "Michael Herrera",
-"note": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
-"sources": [
-{
-"date": "2025-09-09",
-"name": "Serial CHRG-119hhrg61718, printed record of 9 September 2025",
-"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
-}
-],
-"tier": "B",
-"type": "custody"
-},
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": "2001-05-09",
-"dateStart": "2001-05-09",
-"direction": "out",
-"edgeLabel": "Organiser of the event",
-"id": "national-press-club-2001",
-"l0": true,
-"label": "Disclosure Project press conference, National Press Club, 9 May 2001",
-"note": "ABC News, on the day: Greer 'organized the program at the National Press Club in Washington'.",
-"sources": [
-{
-"date": "2001-05-09",
-"name": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM",
-"url": "https://abcnews.com/Technology/story?id=98572&page=1"
 }
 ],
 "tier": "C",
@@ -319,10 +194,9 @@
 "date": "2001-05-09",
 "dateEnd": null,
 "dateStart": "2001-05-09",
-"deg": 9,
+"deg": 5,
 "denials": [],
 "domains": [
-"disclosure-project-2026-09-19",
 "history-1970s-2000s",
 "media-structure"
 ],
@@ -347,21 +221,6 @@
 "short": "Steven M. Greer",
 "sources": [
 {
-"date": "2001-04",
-"name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-},
-{
-"date": "2001-05-09",
-"name": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM",
-"url": "https://abcnews.com/Technology/story?id=98572&page=1"
-},
-{
-"date": "2001",
-"name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
-"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
-},
-{
 "date": "2019-09-16",
 "name": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
 "url": "https://clinton.presidentiallibraries.us/items/show/36386"
@@ -384,8 +243,8 @@
 ],
 "status": "active",
 "sub": "Emergency physician; founder of CSETI (1990) and the Disclosure Project (1993); National Press Club event 9 May 2001",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 222 of 1125, score 43). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 705 of 1057, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "2001-05-09",

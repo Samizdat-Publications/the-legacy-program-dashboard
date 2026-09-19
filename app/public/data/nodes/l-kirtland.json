@@ -5,16 +5,6 @@
 "band": null,
 "claims": [
 {
-"source": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
-"text": "The 1980 AFOSI complaint form for the Coyote Canyon and Manzano observations is reproduced in full and openable, with its file number, its agent and its named 1608 Security Police Squadron observers, which fixes the Kirtland end of the Bennewitz affair in a primary record rather than in anyone's recollection.",
-"tier": 1
-},
-{
-"source": "Find a Grave memorial 17482201, https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz , opened 2026-09-19",
-"text": "Paul Frederick Bennewitz Jr, whose company sat where it overlooked the Manzano storage area, was born 30 September 1927 and died 23 June 2003, and is buried at Santa Fe National Cemetery, Section 12 Site 402, under a marker reading 'S1C US COAST GUARD WORLD WAR II'.",
-"tier": 1
-},
-{
 "source": "Wikipedia, Kirtland Air Force Base, citing USAF fact sheets — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; KUMMSC was activated in 1992 with more than 300,000 square feet underground.",
 "tier": 2
@@ -234,7 +224,7 @@
 "url": "https://en.wikipedia.org/wiki/Paul_Bennewitz"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "behavioral"
 },
 {
@@ -295,7 +285,6 @@
 "denials": [],
 "desc": "Kirtland Air Force Base occupies 51,558 acres in the southeast quadrant of Albuquerque, sharing runways with the Albuquerque International Sunport. It began as three private airfields, was taken over as Albuquerque Army Air Base in 1941, renamed Kirtland Army Air Field on 24 February 1942 for Col. Roy C. Kirtland, and became Kirtland Air Force Base on 13 January 1948 - the same day as Wright-Patterson. Its relevance is that it is the single densest concentration of nuclear-weapons and directed-energy infrastructure in the United States sitting inside a city: Sandia National Laboratories, descended from the Manhattan Project's Z Division, is adjacent; the Air Force Nuclear Weapons Center and the 377th Air Base Wing are hosted here; the Air Force Research Laboratory Directed Energy Directorate runs the laser and high-power microwave portfolio here; the Manzano Base weapons storage complex, tunnelled into the Manzano Mountains on the base's eastern edge, merged administratively with Kirtland on 1 July 1971; and the Kirtland Underground Munitions Maintenance and Storage Complex, activated in 1992, is described in the base's own literature as the largest nuclear weapons storage facility in the world, with more than 300,000 square feet underground. Kirtland is also the operational address of the best-documented domestic UAP-adjacent counterintelligence operation on the record. Albuquerque businessman Paul Bennewitz, whose company Thunder Scientific sat on the base perimeter and sold humidity sensors licensed from Sandia in 1966, began a self-funded study in July 1979, filmed lights over the Manzano storage area and recorded anomalous signals, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980. What followed was a sustained feed of fabricated material through the Air Force Office of Special Investigations detachment here, later admitted in public by AFOSI special agent Richard C. Doty and by UFO researcher William Moore, who stated on 1 July 1989 that he had participated in an effort to push Bennewitz toward a breakdown by feeding him false information. Bennewitz was hospitalised in August 1988 and died on 23 June 2003. The Bennewitz operation is the board's clearest evidence that counterintelligence resources were deployed against a private citizen over UAP-adjacent observations at a nuclear site, and Kirtland is where it happened.",
 "domains": [
-"dulce-2026-09-19",
 "w2-places-events"
 ],
 "dossier": null,
@@ -317,16 +306,6 @@
 "short": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "sources": [
 {
-"date": "2026-09-19",
-"name": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive",
-"url": "https://www.nicap.org/foia_003.htm"
-},
-{
-"date": "2026-09-19",
-"name": "Find a Grave memorial 17482201, Paul Frederick Bennewitz Jr, Santa Fe National Cemetery",
-"url": "https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz"
-},
-{
 "date": "2026-08-12",
 "name": "Wikipedia - Kirtland Air Force Base",
 "url": "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
@@ -339,7 +318,7 @@
 ],
 "sub": "51,558-acre USAF installation, southeast Albuquerque; AFRL Directed Energy, AFNWC, Manzano, KUMMSC, Sandia",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 175 of 1125, score 48). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 222 of 1057, score 42). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1979-07-01",

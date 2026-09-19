@@ -27,11 +27,6 @@
 ],
 "claims": [
 {
-"source": "Milton William Cooper, 'The Secret Government', 23 May 1989 updated 21 November 1990, https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , text extracted and read 2026-09-19",
-"text": "INDEPENDENT 1989 CORROBORATION THAT SHE WAS TELLING THE KIRTLAND STORY BY THEN, FROM A THIRD PARTY AND NOT FROM HER. Milton William Cooper writes in his paper dated 23 May 1989: 'she confided to me that Sgt. Richard Doty of the Counterintelligence Division of the Air Force Office of Special Investigations had taken her into the Intelligence office at Kirtland Air Force Base in New Mexico and showed her the exact same documents that I had seen.' This corroborates the telling and nothing about the documents.",
-"tier": 2
-},
-{
 "source": "Linda Moulton Howe, contemporaneous notes and consistent public accounts, 1983-present",
 "text": "Howe states that AFOSI Special Agent Richard Doty showed her at Kirtland AFB in April 1983 a paper describing US recovery of craft and biological entities, and that she was permitted to read but not copy it.",
 "tier": 2
@@ -43,7 +38,7 @@
 }
 ],
 "cls": "person",
-"cluster": "other",
+"cluster": "media",
 "conflicts": [
 "The National Archives searched NSC Policy Paper and Meeting Minute indexes under the subject term 'Aquarius' among others and found nothing."
 ],
@@ -97,7 +92,7 @@
 "url": "https://www.archives.gov/research/military/air-force/ufos"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "behavioral"
 }
 ],
@@ -107,7 +102,6 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"dulce-2026-09-19",
 "history-1970s-2000s"
 ],
 "dossier": null,
@@ -131,11 +125,6 @@
 "short": "Linda Moulton Howe",
 "sources": [
 {
-"date": "2026-09-19",
-"name": "Milton William Cooper, 'The Secret Government', dated on its own first page 23 May 1989, updated 21 November 1990, 49pp, text extracted and searched in full",
-"url": "https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf"
-},
-{
 "date": "2021-05-20",
 "name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
 "url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
@@ -154,7 +143,7 @@
 "status": "active",
 "sub": "Documentary producer (HBO, KMGH-TV Denver); shown the 'Project Aquarius' paper at Kirtland AFB, 1983",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 975 of 1125, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 965 of 1057, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

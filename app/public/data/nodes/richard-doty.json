@@ -52,41 +52,6 @@
 "tier": 2
 },
 {
-"source": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
-"text": "HIS AFOSI SERVICE IS DOCUMENTED BY THE FILE ITSELF AND NEEDS NO INTERVIEW TO SUPPORT IT. The 1980 AFOSI complaint form reproduced by NICAP carries 'Richard C Doty, SA' on its face, under AFOSI Det 1700, Kirtland AFB, New Mexico, District File No. 8017D93-0/29. Every claim of his service should be sourced here rather than to any of his own later accounts.",
-"tier": 1
-},
-{
-"source": "Alejandro Rojas, HuffPost Weird News, 13 May 2014, https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650 , opened 2026-09-19",
-"text": "THE ADMISSION SIDE, AND IT IS WEAKER THAN IT LOOKS. A dated named-outlet report states that Doty says he was tasked with hoaxing documents and feeding false information to UFO researchers while an AFOSI special agent at Kirtland, that he was ordered to make Paul Bennewitz believe in an impending alien invasion, and that he entered Bennewitz's house and office under orders. The piece paraphrases throughout and contains no direct quotation from him. It also records that the Air Force 'refuses to comment' and did not answer the author's letter.",
-"tier": 2
-},
-{
-"source": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case...Part 4', YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
-"text": "THE DENIAL SIDE, IN HIS OWN VOICE, WHICH THE BOARD HAS NOT CARRIED. Answering George Knapp on camera, Doty rejects the harm narrative outright. From the auto-generated captions, wording approximate: 'yes that was the story that I brainwashed him I fed chemicals I mean I've heard it all we shot beams in his head I mean I've heard everything and none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself he was a brilliant but troubled person'.",
-"tier": 2
-},
-{
-"source": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
-"text": "IN THE SAME CLIP HE GIVES BENNEWITZ'S MATERIAL AN EXTRATERRESTRIAL MEANING. Wording approximate, from the same auto-captions: 'he tapped into something national security programs that he shouldn't have had access to...he was collecting frequencies that were up any high gigahertz that we didn't have at that time period in the 1980s so it had to come from it an ET source'. And on custody: 'I wish I knew it went to headquarters...and from that point on I would guess dia has a repository someplace and it went there'.",
-"tier": 2
-},
-{
-"source": "The Black Vault, 'Richard Doty Personnel File - New Mexico State Police', 20 May 2021, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/ , opened 2026-09-19",
-"text": "His complete releasable New Mexico State Police personnel file runs to 321 pages and 39.5 MB, was obtained by John Greenewald under the New Mexico Inspection of Public Records Act, NMSA 14-2-1 et seq., and was released by the New Mexico Department of Public Safety with redactions on 20 May 2021. The landing page does not print his Air Force service dates, rank progression or separation: those are inside the PDF and the PDF was not opened by this session.",
-"tier": 1
-},
-{
-"source": "archive.org item for Mirage Men (2013), https://archive.org/details/mirage-men-2013 , opened 2026-09-19",
-"text": "The 2013 documentary Mirage Men, directed by John Lundberg with Roland Denning and Kypros Kyprianou, based on Mark Pilkington's 2010 book and premiered at Sheffield Doc/Fest on 13 June 2013, is built on the admission and centres on Doty's dealings with Bennewitz and Linda Moulton Howe. The production company is named Perception Management Productions. The film was NOT watched by this session and nothing he says in it is quoted here.",
-"tier": 2
-},
-{
-"source": "Inference from Alejandro Rojas, HuffPost, 13 May 2014 and Mystery Wire YouTube 9TLfM5VKX3M, both opened 2026-09-19",
-"text": "STATED INFERENCE, AND IT BELONGS ON THIS NODE RATHER THAN IN A RATIONALE FIELD BECAUSE AN ENRICHMENT CANNOT CARRY ONE. Doty is on record both acknowledging a deception operation and denying its most damaging effect. A man who says he ran a disinformation operation is structurally difficult: his later statements cannot be used to establish anything he asserts, INCLUDING HIS DENIALS, and are evidence only of what he said and when. The board should not resolve the contradiction by preferring whichever quotation suits a narrative; it should carry both and grade neither above Tier 2. Reasoning: the reliability of a self-described deceiver is not recoverable from his own further statements.",
-"tier": 3
-},
-{
 "source": "Richard Doty, on-record documentary and press interviews, 2005-2013",
 "text": "Doty has stated publicly that he provided false documents and false information to Paul Bennewitz as part of his AFOSI duties.",
 "tier": 2
@@ -111,27 +76,27 @@
 {
 "claimTier": 1,
 "cls": "institution",
-"dateEnd": null,
-"dateStart": "1980",
-"direction": "out",
-"edgeLabel": "Documented AFOSI special agent at Kirtland, 1980",
+"dateEnd": "1988",
+"dateStart": "1979",
+"direction": "in",
+"edgeLabel": "Doty served as an AFOSI special agent at the Kirtland detachment",
 "id": "afosi",
 "l0": true,
 "label": "Air Force Office of Special Investigations",
-"note": "Documented by the complaint form itself rather than by any of his own later accounts, which is the point: his service does not depend on the reliability of a self-described disinformation officer.",
+"note": "The AFOSI Kirtland file and Doty's later New Mexico State Police personnel file, released in 321 pages, document his AFOSI service during the Manzano intrusion period.",
 "sources": [
-{
-"date": "2026-09-19",
-"name": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive",
-"url": "https://www.nicap.org/foia_003.htm"
-},
 {
 "date": "2021-05-20",
 "name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
 "url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP - 1980 Kirtland AFB, NM FOIA document files",
+"url": "https://www.nicap.org/foia_003.htm"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -158,27 +123,6 @@
 {
 "claimTier": 1,
 "cls": "document",
-"dateEnd": null,
-"dateStart": "1980-09",
-"direction": "out",
-"edgeLabel": "Named on the complaint form as the special agent who filed it",
-"id": "afosi-kirtland-file",
-"l0": false,
-"label": "AFOSI Kirtland AFB UFO File (1980-1983)",
-"note": "The form carries 'Richard C Doty, SA' under AFOSI Det 1700, Kirtland AFB, District File No. 8017D93-0/29. Typed research as the producer of a document, never custody. This is the Tier 1 source for his AFOSI service and should replace any interview-sourced claim of it.",
-"sources": [
-{
-"date": "2026-09-19",
-"name": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive",
-"url": "https://www.nicap.org/foia_003.htm"
-}
-],
-"tier": "B",
-"type": "research"
-},
-{
-"claimTier": 1,
-"cls": "document",
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "out",
@@ -196,27 +140,6 @@
 ],
 "tier": "C",
 "type": "institutional"
-},
-{
-"claimTier": 2,
-"cls": "location",
-"dateEnd": null,
-"dateStart": null,
-"direction": "out",
-"edgeLabel": "Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied",
-"id": "dulce-base",
-"l0": false,
-"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
-"note": "A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such.",
-"sources": [
-{
-"date": "2026-09-19",
-"name": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full",
-"url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
-}
-],
-"tier": "A",
-"type": "denial"
 },
 {
 "claimTier": 1,
@@ -310,24 +233,19 @@
 {
 "claimTier": 2,
 "cls": "person",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "1985",
+"dateStart": "1980",
 "direction": "out",
-"edgeLabel": "Two-sided: the reported admission, and his own recorded denial of harm",
+"edgeLabel": "Ran fabricated material at Bennewitz out of the same AFOSI office",
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
-"note": "The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing.",
+"note": "Doty has acknowledged on the record passing fabricated documents to Bennewitz while an AFOSI agent; Bennewitz's psychiatric collapse is the documented outcome. This is the field's baseline case for government-authored disinformation.",
 "sources": [
 {
 "date": "2014-05-13",
-"name": "Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies'",
+"name": "HuffPost - Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Incident",
 "url": "https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650"
-},
-{
-"date": "2026-09-19",
-"name": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full",
-"url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
 },
 {
 "date": "2021-05-20",
@@ -414,33 +332,10 @@
 "date": "1983-04-01",
 "dateEnd": null,
 "dateStart": "1983-04-01",
-"deg": 11,
-"denials": [
-{
-"by": {
-"id": "richard-doty",
-"label": "Richard C. Doty"
-},
-"claimTier": 2,
-"denialKind": "directed",
-"label": "Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied",
-"note": "A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such.",
-"of": {
-"id": "dulce-base",
-"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
-},
-"sources": [
-{
-"date": "2026-09-19",
-"name": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full",
-"url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
-}
-]
-}
-],
+"deg": 10,
+"denials": [],
 "domains": [
 "_rs-archive-mirror",
-"dulce-2026-09-19",
 "history-1970s-2000s"
 ],
 "dossier": null,
@@ -474,34 +369,9 @@
 "url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
 },
 {
-"date": "2026-09-19",
-"name": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive",
-"url": "https://www.nicap.org/foia_003.htm"
-},
-{
-"date": "2026-09-19",
-"name": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full",
-"url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
-},
-{
-"date": "2014-05-13",
-"name": "Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies'",
-"url": "https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650"
-},
-{
 "date": "2021-05-20",
-"name": "The Black Vault, 'Richard Doty Personnel File - New Mexico State Police', 321 pages obtained by John Greenewald under NMSA 14-2-1 et seq.",
+"name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
 "url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
-},
-{
-"date": "2026-09-19",
-"name": "archive.org item for 'Mirage Men' (2013), dirs John Lundberg, Roland Denning, Kypros Kyprianou, premiered Sheffield Doc/Fest 13 June 2013",
-"url": "https://archive.org/details/mirage-men-2013"
-},
-{
-"date": "2026-09-19",
-"name": "Milton William Cooper, 'The Secret Government', dated on its own first page 23 May 1989, updated 21 November 1990, 49pp, text extracted and searched in full",
-"url": "https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf"
 },
 {
 "date": "2024-03-08",
@@ -516,8 +386,8 @@
 ],
 "status": "active",
 "sub": "USAF AFOSI Special Agent 1979-1988; later New Mexico State Police officer",
-"tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 116 of 1125, score 57). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 306 of 1057, score 36). 10 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "date": "1980-09-09",
@@ -527,33 +397,6 @@
 "strand": "coverup",
 "text": "District File No. 8017D93-0/29 documents the Kirtland sightings. The same AFOSI office would shortly begin running fabricated material at Albuquerque physicist Paul Bennewitz.",
 "tier": "A"
-},
-{
-"date": "2013-06-13",
-"id": "tl-2013-06-13-mirage-men",
-"label": "Mirage Men premieres at Sheffield Doc/Fest, built on the Doty admission",
-"precision": "day",
-"strand": "witness",
-"text": "Directed by John Lundberg with Roland Denning and Kypros Kyprianou, based on Mark Pilkington's 2010 book, produced by a company named Perception Management Productions. The film centres on Doty's dealings with Bennewitz and Linda Moulton Howe. THE FILM WAS NOT WATCHED by this session and nothing he says in it is quoted.",
-"tier": "C"
-},
-{
-"date": "2014-05-13",
-"id": "tl-2014-05-13-rojas-doty",
-"label": "A dated report of the Doty admission, which quotes him nowhere",
-"precision": "day",
-"strand": "witness",
-"text": "Alejandro Rojas reports that Doty says he was tasked with hoaxing documents and feeding false information while an AFOSI special agent at Kirtland, that he was ordered to make Bennewitz believe in an impending alien invasion, and that he entered Bennewitz's house and office under orders. The piece paraphrases throughout and contains no direct quotation from him; the Air Force 'refuses to comment'.",
-"tier": "B"
-},
-{
-"date": "2021-05-20",
-"id": "tl-2021-05-20-doty-file",
-"label": "Doty's 321-page New Mexico State Police personnel file released",
-"precision": "day",
-"strand": "witness",
-"text": "Obtained by John Greenewald under the New Mexico Inspection of Public Records Act, NMSA 14-2-1 et seq., and released by the New Mexico Department of Public Safety with redactions. His Air Force service dates, rank progression and separation are inside the PDF, which was not opened by this session.",
-"tier": "B"
 }
 ],
 "unexplainedResidual": "No US government document has ever acknowledged the authority under which an AFOSI agent conducted a multi-year disinformation campaign against a US citizen.",

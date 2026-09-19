@@ -45,21 +45,6 @@
 "tier": 3
 },
 {
-"source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"text": "He is one of only five people whom an opened source places at the podium of the 9 May 2001 National Press Club press conference. ABC News, reporting the same day, names him as the Washington lawyer serving as counsel to the Disclosure Project.",
-"tier": 2
-},
-{
-"source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
-"text": "ABC News reports his account, given at that event, of being shown UFO photographs bearing 'alien writing symbols' in the National Archives during the Carter administration, which he traced onto a legal pad. TIER 2: this is a named person on the record describing his own action, with no document produced.",
-"tier": 2
-},
-{
-"source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
-"text": "Klass records his function for the Project: he 'serves as counsel for Project Disclosure to defend any witnesses who might be charged with violating their security oaths', and that he claims to have examined photographs of crashed craft in 1977 which were not classified.",
-"tier": 2
-},
-{
 "source": "Wikipedia, 'Daniel Sheehan (attorney)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizondo in a case against the Department of Defense.",
 "tier": 2
@@ -145,32 +130,6 @@
 "type": "witness-chain"
 },
 {
-"claimTier": 2,
-"cls": "event",
-"dateEnd": "2001-05-09",
-"dateStart": "2001-05-09",
-"direction": "out",
-"edgeLabel": "Counsel to the Project, at the podium on 9 May 2001",
-"id": "national-press-club-2001",
-"l0": true,
-"label": "Disclosure Project press conference, National Press Club, 9 May 2001",
-"note": "ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.",
-"sources": [
-{
-"date": "2001-05-09",
-"name": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM",
-"url": "https://abcnews.com/Technology/story?id=98572&page=1"
-},
-{
-"date": "2001",
-"name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
-"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
-}
-],
-"tier": "C",
-"type": "witness-chain"
-},
-{
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": "2026",
@@ -209,18 +168,17 @@
 "url": "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 }
 ],
 "date": "2023-11-27",
 "dateEnd": null,
 "dateStart": "2023-11-27",
-"deg": 6,
+"deg": 5,
 "denials": [],
 "domains": [
 "congress-senate-legislation",
-"disclosure-project-2026-09-19",
 "media-structure"
 ],
 "dossier": null,
@@ -249,16 +207,6 @@
 "url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/"
 },
 {
-"date": "2001-05-09",
-"name": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM",
-"url": "https://abcnews.com/Technology/story?id=98572&page=1"
-},
-{
-"date": "2001",
-"name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
-"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
-},
-{
 "date": "2026-08-12",
 "name": "Wikipedia - Daniel Sheehan (attorney)",
 "url": "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
@@ -271,8 +219,8 @@
 ],
 "status": "active",
 "sub": "Constitutional attorney; lobbied the FY2024 NDAA conference",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 463 of 1125, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 642 of 1057, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.",
 "timeline": [
 {
 "date": "1988-06-23",

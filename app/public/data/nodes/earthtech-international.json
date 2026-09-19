@@ -154,7 +154,7 @@
 "direction": "in",
 "edgeLabel": "authored at EarthTech International",
 "id": "dird-antigravity-for-aerospace-applications",
-"l0": true,
+"l0": false,
 "label": "Antigravity for Aerospace Applications",
 "note": "EarthTech International supplied six of the 38 DIRDs through Eric Davis plus one through Hal Puthoff, making it the single most represented institution on the author list.",
 "sources": [
@@ -174,7 +174,7 @@
 "url": "https://irp.fas.org/dia/aatip-list.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -635,6 +635,12 @@
 },
 {
 "cls": "document",
+"id": "dird-antigravity-for-aerospace-applications",
+"label": "Antigravity for Aerospace Applications",
+"tier": "B"
+},
+{
+"cls": "document",
 "id": "dird-concepts-for-extracting-energy-from-the",
 "label": "Concepts for Extracting Energy From the Quantum Vacuum",
 "tier": "B"
@@ -743,6 +749,6 @@
 ],
 "sub": "Private research firm, Austin, TX; largest single DIRD producer",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 85 of 1125, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 80 of 1057, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.",
 "timeline": []
 }

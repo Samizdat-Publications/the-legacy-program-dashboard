@@ -56,16 +56,6 @@
 ],
 "claims": [
 {
-"source": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
-"text": "THE CREDENTIAL CASE AGAINST LAZAR WAS MADE BY A UFO PROPONENT, NOT A DEBUNKER, AND THAT IS THE PART THE LITERATURE LOSES. Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, wrote 'The Bob Lazar Fraud' in December 1997, updated January 2011: 'No diplomas, no resumes, no transcripts, no memberships in professional organizations, no papers, no pages from MIT or Caltech yearbooks.' On the schools: 'Pierce said he had taken electronics courses in the late 1970s. The other three schools never heard of him.' On the professor Lazar named as a Caltech instructor: 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman that Lazar had taken at least one of his Pierce classes in the late 1970s.",
-"tier": 2
-},
-{
-"source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
-"text": "On the two documents most often cited in Lazar's favour, Friedman, who had seen both, records what they actually show. On the W-2: 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' On the Los Alamos directory: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' On element 115: 'It has a very short half life so there is no way to accumulate pounds of it.'",
-"tier": 2
-},
-{
 "source": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148",
 "text": "The US Air Force's own 1995 Roswell report states: 'In 1978, a UFO researcher, Stanton Friedman, met with Marcel and began investigating the claims that the material Marcel handled was from a crashed UFO.' The board's account of Friedman as the first civilian investigator to reach Marcel is therefore attested by the Air Force, not only by Friedman.",
 "tier": 1
@@ -120,27 +110,6 @@
 {
 "claimTier": 2,
 "cls": "person",
-"dateEnd": "2011-01",
-"dateStart": "1997-12",
-"direction": "out",
-"edgeLabel": "Credential investigation: located Duxler at Pierce, found no institutional record",
-"id": "bob-lazar",
-"l0": false,
-"label": "Robert \"Bob\" Lazar",
-"note": "'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s.",
-"sources": [
-{
-"date": "1997-12",
-"name": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
-"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
-}
-],
-"tier": "A",
-"type": "denial"
-},
-{
-"claimTier": 2,
-"cls": "person",
 "dateEnd": "1978",
 "dateStart": "1978-02",
 "direction": "out",
@@ -182,27 +151,6 @@
 },
 {
 "claimTier": 2,
-"cls": "location",
-"dateEnd": "2011-01",
-"dateStart": "1997-12",
-"direction": "out",
-"edgeLabel": "Denial from a UFO proponent: the claimant's credentials do not survive checking",
-"id": "s-4-papoose-lake",
-"l0": false,
-"label": "S-4 / Papoose Lake, Nevada",
-"note": "The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does.",
-"sources": [
-{
-"date": "1997-12",
-"name": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
-"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
-}
-],
-"tier": "B",
-"type": "denial"
-},
-{
-"claimTier": 2,
 "cls": "person",
 "dateEnd": "1996",
 "dateStart": "1984-12",
@@ -226,29 +174,8 @@
 "date": "2019-05-13",
 "dateEnd": null,
 "dateStart": "2019-05-13",
-"deg": 5,
+"deg": 3,
 "denials": [
-{
-"by": {
-"id": "stanton-friedman",
-"label": "Stanton T. Friedman"
-},
-"claimTier": 2,
-"denialKind": "directed",
-"label": "Credential investigation: located Duxler at Pierce, found no institutional record",
-"note": "'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s.",
-"of": {
-"id": "bob-lazar",
-"label": "Robert \"Bob\" Lazar"
-},
-"sources": [
-{
-"date": "1997-12",
-"name": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
-"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
-}
-]
-},
 {
 "by": {
 "id": "stanton-friedman",
@@ -269,31 +196,9 @@
 "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
 }
 ]
-},
-{
-"by": {
-"id": "stanton-friedman",
-"label": "Stanton T. Friedman"
-},
-"claimTier": 2,
-"denialKind": "directed",
-"label": "Denial from a UFO proponent: the claimant's credentials do not survive checking",
-"note": "The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does.",
-"of": {
-"id": "s-4-papoose-lake",
-"label": "S-4 / Papoose Lake, Nevada"
-},
-"sources": [
-{
-"date": "1997-12",
-"name": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
-"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
-}
-]
 }
 ],
 "domains": [
-"lazar-s4-2026-09-18",
 "w16-thin-people",
 "w2-retrieval-literature"
 ],
@@ -317,11 +222,6 @@
 "sequenceChain": [],
 "short": "Stanton T. Friedman",
 "sources": [
-{
-"date": "1997-12",
-"name": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, in the Stanton Friedman Collection on The Black Vault",
-"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
-},
 {
 "date": "2026-08-25",
 "name": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), DTIC ADA326148",
@@ -350,8 +250,8 @@
 ],
 "status": "active",
 "sub": "Nuclear physicist; first civilian Roswell investigator; MJ-12 researcher",
-"tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 140 of 1125, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 260 of 1057, score 39). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
 "date": "1978-02",

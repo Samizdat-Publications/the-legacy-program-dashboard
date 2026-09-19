@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": "research",
+"band": null,
 "claims": [
 {
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/",
@@ -18,26 +18,6 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
-},
-{
-"source": "Defense Intelligence Reference Document DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 21 November 2010, ICOD 20 July 2010, 33 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
-"text": "ITS OWN SUMMARY, VERBATIM, and it is a document about hypersonic aerodynamics and nothing else: 'The paper reviews novel propulsion concepts utilizing plasmas (ionized gases) and magnetohydrodynamics (MHD). These concepts are shown to be attractive due to their potential to achieve propulsion and aerodynamic performance far beyond current conventional technologies. However, significant difficulties impede the development and application of these technologies; these include weight, complexity, higher power, and the need for complex and energy-consuming artificial ionization in \"cold\" air (at Mach <12).'",
-"tier": 1
-},
-{
-"source": "Defense Intelligence Reference Document DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 21 November 2010, ICOD 20 July 2010, 33 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
-"text": "Its finding on the concept the popular literature most often reaches for, verbatim: 'A well-publicized Ajax concept of MHD energy bypass has been shown to be meaningless below at least Mach 12. In contrast, a new \"reverse energy bypass\" with Virtual Cowl is potentially practical for air-breathing hypersonic vehicles.'",
-"tier": 1
-},
-{
-"source": "Defense Intelligence Reference Document DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 21 November 2010, ICOD 20 July 2010, 33 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
-"text": "THE ZERO-COUNTS over the whole released 33-page PDF, taken 19 September 2026: UFO 0, unidentified 0, anti-gravity 0, antigravity 0, scalar 0, zero point 0, levitation 0. The word 'gravity' occurs once. Its chapter structure is concept overview, aeronautical applications, space applications, and summary and predictions, with figures on arcjet thrusters, gridded ion thrusters, Hall thrusters, scramjet inlet control by e-beam ionization, the Ajax vehicle concept, the virtual cowl and reentry drag reduction.",
-"tier": 1
-},
-{
-"source": "Reasoning over the released text of DIA-08-1011-006 against the opened text of US 3,322,374, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19",
-"text": "Stated inference, and it is the strand's comparison. The board already records that this DIRD is attributed on the DIA list supplied to the Senate Armed Services Committee to 'Dr S Macheret, Lockheed Martin'. A government agency paid a Lockheed Martin plasma physicist to survey magnetohydrodynamic propulsion under the same programme the lore invokes, and what he delivered concerns scramjet inlets, virtual cowls and reentry drag reduction. NOTHING JOINS THIS DOCUMENT TO US 3,322,374 and the edge between them records a similarity of subject only.",
-"tier": 3
 },
 {
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
@@ -109,32 +89,6 @@
 ],
 "tier": "A",
 "type": "programmatic"
-},
-{
-"claimTier": 3,
-"cls": "document",
-"dateEnd": "2010-11-21",
-"dateStart": "1967-05-30",
-"direction": "in",
-"edgeLabel": "Same mechanism, two documents, forty-three years apart, neither exotic",
-"id": "king-patent-mhd",
-"l0": false,
-"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
-"note": "STATED INFERENCE OF SIMILARITY AND NOTHING MORE. Nothing joins these two documents to each other: the DIRD does not cite the patent and the patent predates it by forty-three years. The edge exists so the strand's comparison is visible, and its note must be read before the line is: a private 1964 filing and a 2010 Lockheed Martin survey describe the same physics and neither contains the word antigravity.",
-"sources": [
-{
-"date": "1967-05-30",
-"name": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', James F. King Jr., 7 pages",
-"url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
-},
-{
-"date": "2010-11-21",
-"name": "Defense Intelligence Reference Document DIA-08-1011-006, 33 pages as released",
-"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
-}
-],
-"tier": "C",
-"type": "research"
 },
 {
 "claimTier": 1,
@@ -222,75 +176,20 @@
 ],
 "tier": "C",
 "type": "research"
-},
-{
-"claimTier": 3,
-"cls": "program",
-"dateEnd": "2010-11-21",
-"dateStart": "1992-06",
-"direction": "in",
-"edgeLabel": "The built vessel and the government survey describe the same physics",
-"id": "yamato-1",
-"l0": false,
-"label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
-"note": "STATED INFERENCE OF SUBJECT SIMILARITY. The DIRD does not mention Yamato-1 and nothing joins them. Both concern a magnetic field acting on a conducting fluid with the fluid as the reaction mass, one in seawater and one in ionised air.",
-"sources": [
-{
-"date": "1995-04",
-"name": "OSTI record and abstract for the YAMATO-1 paper",
-"url": "https://www.osti.gov/biblio/135352"
-},
-{
-"date": "2010-11-21",
-"name": "Defense Intelligence Reference Document DIA-08-1011-006, 33 pages as released",
-"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
-}
-],
-"tier": "C",
-"type": "research"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": null,
-"deg": 6,
+"deg": 4,
 "denials": [],
 "desc": "DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-21, DIA-08-1011-006, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
 "domains": [
 "_rs-aawsap-dirds",
 "_rs-archive-mirror",
-"propulsion-2026-09-19",
 "w7-dirds-3"
 ],
-"dossier": {
-"claims": [
-{
-"source": "DIA-08-1011-006, complete released PDF, word-counted 2026-09-19",
-"text": "THE ZERO-COUNTS over the complete released 33-page PDF, taken 19 September 2026: UFO 0, unidentified 0, anti-gravity 0, antigravity 0, scalar 0, zero point 0, levitation 0. The word 'gravity' occurs only in ordinary aerodynamic senses.",
-"tier": 1
-},
-{
-"source": "DIA-08-1011-006, opened 2026-09-19",
-"text": "ITS FINDING ON THE CONCEPT THE LORE REACHES FOR, verbatim: 'A well-publicized Ajax concept of MHD energy bypass has been shown to be meaningless below at least Mach 12.'",
-"tier": 1
-},
-{
-"source": "DIA-08-1011-006, its own summary, opened 2026-09-19",
-"text": "ITS OWN ASSESSMENT OF THE FIELD: the concepts reviewed face significant difficulties of weight, complexity and higher power. This is a government review of magnetohydrodynamic propulsion that finds it hard rather than hidden.",
-"tier": 1
-}
-],
-"narrative": "The value of this document to the board is that it is boring, and that its boringness is checkable.\n\nIts own summary describes a review of 'novel propulsion concepts utilizing plasmas (ionized gases) and magnetohydrodynamics', and its assessment is unflattering: the concepts face significant difficulties of weight, complexity and higher power. On the specific concept the popular literature reaches for most, it is blunter still, finding that the well-publicised Ajax MHD energy-bypass concept 'has been shown to be meaningless below at least Mach 12'.\n\nThe zero-counts over the whole released 33-page PDF, taken 19 September 2026: **UFO 0, unidentified 0, anti-gravity 0, antigravity 0, scalar 0, zero point 0, levitation 0.** The word 'gravity' occurs only in ordinary aerodynamic senses.\n\nRead beside King's 1967 patent, which claims exactly MHD with an atmosphere as its armature and mentions scalar, spin and gravity zero times, and beside Yamato-1, which put superconducting MHD to sea at Kobe in 1992 and performed poorly, this document completes a picture the strand exists to draw. The mechanism is real, it was patented, it was built, it was assessed by the government, and at no point in that chain does anything exotic appear. The exotic content arrives only when the mechanism is invoked rather than examined.",
-"openQuestions": [
-"The author, withheld under the same exemptions as the rest of the series.",
-"Whether any classified companion assessment exists; nothing opened indicates one either way."
-],
-"roles": [
-"research"
-],
-"whatItIs": "A Defense Intelligence Reference Document titled 'MHD Air Breathing Propulsion and Power for Aerospace Applications', series 'Defense Futures', published 21 November 2010, produced in FY2009 under the same DIA Advanced Aerospace Weapon System Applications programme. The released copy is 33 pages, with the author withheld under the same two exemptions.",
-"whyImplicated": "Magnetohydrodynamics is the mechanism the lore most often reaches for when it wants a propulsion story that sounds technical, and this is the government's own assessment of it. It sits in the propulsion strand as the document that shows what a real MHD review looks like: hypersonic aerodynamics, weight, complexity and power budgets, with no exotic content anywhere."
-},
+"dossier": null,
 "entityInfo": null,
 "era": "nd",
 "foia": {
@@ -299,30 +198,11 @@
 },
 "hl": null,
 "id": "dird-mhd-air-breathing-propulsion-and-power",
-"l0": true,
+"l0": false,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "king-patent-mhd",
-"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "sergey-macheret",
-"label": "Sergey O. Macheret",
-"tier": "C"
-},
-{
-"cls": "program",
-"id": "yamato-1",
-"label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
-"tier": "C"
-}
-],
-"short": "DIA: MHD Air Breathing Propulsion",
+"members": null,
+"short": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "sources": [
 {
 "date": "2010-11-21",
@@ -345,8 +225,8 @@
 "url": "https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
 },
 {
-"date": "2010-11-21",
-"name": "Defense Intelligence Reference Document DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', 33 pages as released",
+"date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
 },
 {
@@ -357,16 +237,6 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 269 of 1125, score 40). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": [
-{
-"date": "2010-11-21",
-"id": "tl-2010-11-21-dird-mhd",
-"label": "DIA's MHD DIRD is issued, and it is about hypersonic aerodynamics",
-"precision": "day",
-"strand": "program",
-"text": "DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', ICOD 20 July 2010, 'Defense Futures', 33 pages as released, attributed on the DIA list to Dr S Macheret of Lockheed Martin. Its Summary reports 'significant difficulties... weight, complexity, higher power' and that the Ajax energy bypass concept 'has been shown to be meaningless below at least Mach 12'. Word counts: UFO 0, antigravity 0, scalar 0, zero point 0.",
-"tier": "C"
-}
-]
+"tierRationale": "Re-graded B on a global pass (rank 527 of 1057, score 28). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": []
 }

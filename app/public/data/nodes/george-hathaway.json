@@ -8,16 +8,6 @@
 "chronology": [],
 "claims": [
 {
-"source": "Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf , opened 2026-09-19",
-"text": "HIS OWN DIA-FUNDED REFERENCE DOCUMENT DOES NOT MENTION THE HUTCHISON EFFECT. DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', cover-dated 30 March 2010, ICOD 1 December 2009, 20 pages as released, attributed on the DIA list of 9 January 2018 to Dr George Hathaway of Hathaway Consulting. Word counts over the whole released document: HUTCHISON 0, Pharos 0, levitation 0. Gravity occurs 12 times and antigravity 3. THE MAN WHO WROTE THE BOOK ON THE HUTCHISON EFFECT WROTE A DIA REFERENCE DOCUMENT ABOUT MAVERICK INVENTORS AND DID NOT MENTION IT. This is a fact about the document and is not a statement by him about the claim.",
-"tier": 1
-},
-{
-"source": "Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/ , opened 2026-09-19",
-"text": "HE IS THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND THE LINK RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own staff page states that he 'graduated from the Dep't of Electrical Engineering at the University of Toronto in 1974 and is a Registered Professional Engineer', that he consults on 'novel and exotic materials, energy production and propulsion concepts', and that he is 'author of the book \"Mindbending: The Hutchison Files\"'. HIS HUTCHISON PUBLICATION IS A BOOK AND NOT A PAPER, and this board carries no peer-reviewed publication and no primary record of a controlled Hutchison demonstration, because none was found.",
-"tier": 2
-},
-{
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of item 16, 'Maverick Inventor Versus Corporate Inventor', affiliation Hathaway Consulting.",
 "tier": 1
@@ -54,35 +44,9 @@
 }
 ],
 "cls": "person",
-"cluster": "other",
+"cluster": "research",
 "conflicts": [],
 "connections": [
-{
-"claimTier": 2,
-"cls": "domain",
-"dateEnd": null,
-"dateStart": "1974",
-"direction": "out",
-"edgeLabel": "Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'",
-"id": "d-exotic",
-"l0": false,
-"label": "Exotic Technology & Physics",
-"note": "THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times.",
-"sources": [
-{
-"date": "2026-09-19",
-"name": "Hathaway Research International, principal staff page",
-"url": "https://www.hathawayresearch.com/principal-staff/"
-},
-{
-"date": "2010-03-30",
-"name": "Defense Intelligence Reference Document DIA-08-1003-017, 20 pages as released",
-"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
-}
-],
-"tier": "B",
-"type": "research"
-},
 {
 "claimTier": 1,
 "cls": "document",
@@ -169,10 +133,9 @@
 "date": "2010-01-01",
 "dateEnd": null,
 "dateStart": "2010-01-01",
-"deg": 3,
+"deg": 2,
 "denials": [],
 "domains": [
-"propulsion-2026-09-19",
 "w7-dirds-3",
 "w7-dirds-4"
 ],
@@ -197,16 +160,6 @@
 "short": "George D. Hathaway",
 "sources": [
 {
-"date": "2010-03-30",
-"name": "Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 20 pages as released",
-"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
-},
-{
-"date": "2026-09-19",
-"name": "Hathaway Research International, principal staff page",
-"url": "https://www.hathawayresearch.com/principal-staff/"
-},
-{
 "date": null,
 "name": "https://irp.fas.org/dia/aatip-list.pdf",
 "url": "https://irp.fas.org/dia/aatip-list.pdf"
@@ -223,8 +176,18 @@
 },
 {
 "date": null,
+"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+},
+{
+"date": null,
 "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
 "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+{
+"date": null,
+"name": "Hathaway Research International, principal scientist and staff biographies",
+"url": "https://www.hathawayresearch.com/principal-staff/"
 },
 {
 "date": null,
@@ -239,8 +202,8 @@
 ],
 "status": "active",
 "sub": "Professional engineer, Hathaway Consulting Services (Toronto); author of two AAWSAP DIRDs",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 469 of 1125, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 615 of 1057, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

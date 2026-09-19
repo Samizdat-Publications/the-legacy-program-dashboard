@@ -2,7 +2,7 @@
 "A": 3,
 "C": 2,
 "D": 1,
-"band": "custody",
+"band": null,
 "claims": [
 {
 "source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
@@ -28,37 +28,11 @@
 "source": "New York Post, 25 April 2026; NDTV, 26 April 2026; NewsNation reporting, 24 April 2026",
 "text": "Jeremy Corbell states he received a trove of documents from the son of a deceased former Los Alamos National Laboratory cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory; these form the basis of the documentary 'Sleeping Dog'.",
 "tier": 2
-},
-{
-"source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , both opened 2026-09-18",
-"text": "Bob Lazar's connection to the laboratory must be stated as 'named in a directory', never as 'employed by'. He appears in a 1982 Los Alamos telephone directory whose own text states that it covers Department of Energy employees and the outside contractor Kirk-Mayer; a colleague interviewed on tape in 1996 said Lazar 'was a contractor' under Kirk Mayer; and the laboratory later said it held no records for him. The Los Alamos Monitor of 27 June 1982 described him in the newspaper's own voice as 'a physicist at the Los Alamos Meson Physics Facility', which is what he told the reporter.",
-"tier": 3
 }
 ],
 "cls": "institution",
 "cluster": "ffrdc",
 "connections": [
-{
-"claimTier": 3,
-"cls": "person",
-"dateEnd": null,
-"dateStart": "1982",
-"direction": "in",
-"edgeLabel": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
-"id": "bob-lazar",
-"l0": false,
-"label": "Robert \"Bob\" Lazar",
-"note": "THE LABEL IS THE WHOLE POINT OF THIS EDGE AND MUST NOT BE SHORTENED TO 'employed by'. The directory page states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and the laboratory later said it held no records for him.",
-"sources": [
-{
-"date": "1997-12",
-"name": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
-"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
-}
-],
-"tier": "A",
-"type": "institutional"
-},
 {
 "claimTier": 1,
 "cls": "institution",
@@ -147,71 +121,18 @@
 ],
 "tier": "C",
 "type": "investigative"
-},
-{
-"claimTier": 2,
-"cls": "institution",
-"dateEnd": null,
-"dateStart": "1982",
-"direction": "in",
-"edgeLabel": "Support-services contractor at the laboratory",
-"id": "kirk-mayer",
-"l0": false,
-"label": "Kirk-Mayer, Inc.",
-"note": "The whole purpose of the kirk-mayer node. Nothing was opened about the company itself beyond this relationship.",
-"sources": [
-{
-"date": "1997-12",
-"name": "Stanton T. Friedman, 'The Bob Lazar Fraud', quoting the directory page's own scope statement",
-"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
-}
-],
-"tier": "C",
-"type": "institutional"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1943",
-"deg": 6,
+"deg": 4,
 "denials": [],
 "desc": "Los Alamos is the first place the United States convened scientists to discuss unexplained objects over its own nuclear installations, and it is the laboratory that confirms it. On 16 February 1949 a conference was held at Los Alamos Scientific Laboratory on the green fireballs then appearing over the New Mexico weapons complex; attendees included Laboratory Director Norris Bradbury, Edward Teller and Frederick Reines, together with representatives of the FBI, the Atomic Energy Commission and the US military. LANL's own National Security Research Center published this in November 2024, stating that it holds the conference minutes, that its senior archivist receives several UFO-related FOIA requests every year, and that the Center does not appear to hold materials on Project Twinkle although not all of its millions of items are searchable. In December 1949 Project Twinkle was established as a network of observation and photographic stations and never fully implemented. Newly declassified records on the 1949 conference were publicised in July 2026 in the wake of the PURSUE releases. In April 2026, filmmaker Jeremy Corbell announced a trove of documents said to have been provided by the son of a deceased former LANL cybersecurity chief, forming the basis of the documentary 'Sleeping Dog' and alleged to include material on a secret 1991 UFO meeting at the laboratory. LANL is administered by Triad National Security, LLC and was funded at approximately 3,918.3 million dollars in FY2024 - the second-largest FFRDC in the country. It is a contractor-operated laboratory whose archives are not agency records, which is why a laboratory blog post is currently a better source on the 1949 conference than any FOIA response.",
 "domains": [
-"ffrdcs",
-"lazar-s4-2026-09-18"
+"ffrdcs"
 ],
-"dossier": {
-"claims": [
-{
-"source": "The 1982 Los Alamos telephone directory listing and the 1996 taped colleague interview, as recorded in research/leads/verified-lazar-s4-2026-09-18.md, opened 2026-09-18",
-"text": "THE CONNECTION IS A DIRECTORY LISTING AND MUST NEVER BE STATED AS EMPLOYMENT. Bob Lazar appears in a 1982 Los Alamos telephone directory, and that directory's own terms state that it covers outside contractors in addition to laboratory staff. A 1996 taped interview with a former colleague places him under the contractor Kirk-Mayer. No employment record was opened. This board states the connection as 'named in a directory' and nothing more.",
-"tier": 3
-},
-{
-"source": "Los Alamos Monitor front page, 27 June 1982, opened 2026-09-18",
-"text": "THE CONTEMPORANEOUS ARTEFACT IS REAL AND IS NARROWER THAN ITS USE. The Los Alamos Monitor of 27 June 1982 carries him on its front page. It is a dated, openable, contemporaneous newspaper record and it is the strongest single thread in his favour. It is a local newspaper's account, not a personnel record, and it carries the same qualification as the directory.",
-"tier": 1
-},
-{
-"source": "LANL's own published statements, already on the board before this cluster",
-"text": "THE LABORATORY DOCUMENTS ITS OWN UAP HISTORY. LANL states that a conference was organised at Los Alamos on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury and Frederick Reines among others, and that its senior archivist receives several FOIA requests every year related to unidentified flying objects and other unexplained aerial phenomena.",
-"tier": 1
-}
-],
-"narrative": "The board carries this laboratory for the ordinary reasons first. It hosted a conference on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury and Frederick Reines among others, which is documented by the laboratory itself rather than by the literature about it. Its senior archivist has said on the record that the institution receives several FOIA requests a year on unidentified aerial phenomena, which is a rare thing for an institution to say about itself and is the reason a `custody` reading of this node is defensible at all.\n\nWhat brought it onto the top-level map is narrower and sharper. The Lazar account stands or falls on whether he was what he said he was, and the only contemporaneous documentary thread in his favour runs through here. On 27 June 1982 the Los Alamos Monitor put him on its front page. A 1982 internal telephone directory lists his name. Taken together they are routinely presented as proof of employment at the laboratory.\n\nThey are not that, and this node exists partly to say so precisely. The directory's own terms state that it covers outside contractors as well as staff, and a 1996 taped interview with a former colleague places him under Kirk-Mayer, a contractor, which is why `kirk-mayer` is now a node in its own right with an edge to this one. The board's rule, written as a claim on this node rather than left to a reader to work out, is that his connection is to be stated as named in a directory and never as employed by. That is a smaller claim than either his supporters or his critics usually make, and it is the one the documents support.\n\nThe laboratory has made no statement about him in anything opened here, and none is asserted. The edge from this node to `bob-lazar` is Tier 3 for exactly that reason.",
-"openQuestions": [
-"The 1982 Los Alamos telephone directory page itself, as an image. It is described and quoted in the secondary literature but was not opened as a scan, so its exact wording and the placement of his entry are not established here.",
-"Any laboratory or Kirk-Mayer personnel record for Bob Lazar. None was opened, and the board asserts no employment either way.",
-"Whether the laboratory has ever made any statement about him. Nothing opened here contains one."
-],
-"roles": [
-"research",
-"custody",
-"disclosure"
-],
-"whatItIs": "Los Alamos National Laboratory, the Department of Energy federally funded research and development centre at Los Alamos, New Mexico, administered by Triad National Security, LLC since 9 June 2018 and receiving approximately $3,918.3 million in FY2024. It is the laboratory that built the first nuclear weapons, and on this board it appears in three unrelated capacities: as the host of a documented 1949 conference on the green fireballs, as an institution whose own archivist says it fields several UFO-related FOIA requests a year, and as the workplace named in the single most contested credential claim in the subject.",
-"whyImplicated": "It joined this map with the Lazar cluster of 18 September 2026, and it is the node where that cluster's central factual question actually lives. Bob Lazar's account requires a documented scientific career, and the one contemporaneous document that appears to supply it is a Los Alamos artefact: the 27 June 1982 front page of the Los Alamos Monitor, which reports on him as a laboratory-connected physicist, and a 1982 internal telephone directory that lists his name. Both are real, both were opened, and both are narrower than the use made of them. The laboratory is therefore not a bystander here. It is the place where the strongest evidence for the claimant and the strongest qualification of that evidence sit on the same pair of pages."
-},
+"dossier": null,
 "entityInfo": null,
 "era": "0",
 "foia": {
@@ -220,41 +141,10 @@
 },
 "hl": null,
 "id": "lanl",
-"l0": true,
+"l0": false,
 "label": "Los Alamos National Laboratory",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "bob-lazar",
-"label": "Robert \"Bob\" Lazar",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "donald-kerr",
-"label": "Donald M. Kerr",
-"tier": "B"
-},
-{
-"cls": "event",
-"id": "green-fireballs-conference-1949",
-"label": "Los Alamos Green Fireballs Conference",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "jeremy-corbell",
-"label": "Jeremy Kenyon Lockyer Corbell",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "kirk-mayer",
-"label": "Kirk-Mayer, Inc.",
-"tier": "C"
-}
-],
+"members": null,
 "short": "Los Alamos National Laboratory",
 "sources": [
 {
@@ -276,21 +166,11 @@
 "date": "2026-08-12",
 "name": "NSF NCSES - Master Government List of Federally Funded R&D Centers",
 "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc"
-},
-{
-"date": "1997-12",
-"name": "Stanton T. Friedman, 'The Bob Lazar Fraud', on the scope statement printed on the Los Alamos directory page",
-"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
-},
-{
-"date": "1996-05-25",
-"name": "Mark Farmer, recorded telephone interview with an anonymised Los Alamos colleague",
-"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/"
 }
 ],
 "sub": "DOE FFRDC administered by Triad National Security, LLC since 9 June 2018; Los Alamos, NM",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 245 of 1125, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 265 of 1057, score 39). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1949-12-01",

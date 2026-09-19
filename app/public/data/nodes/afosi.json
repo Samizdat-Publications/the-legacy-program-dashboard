@@ -5,16 +5,6 @@
 "band": "retrieval",
 "claims": [
 {
-"source": "AFOSI complaint form, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
-"text": "The 1980 Kirtland complaint form reproduced by NICAP carries AFOSI Det 1700, Kirtland AFB, New Mexico, District File No. 8017D93-0/29, and names Richard C Doty as the special agent on it. This is the primary documentary source for AFOSI's presence in the Bennewitz affair and for Doty's service in it.",
-"tier": 1
-},
-{
-"source": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
-"text": "The former agent most associated with the Kirtland file has publicly denied the account of harm usually attributed to the operation. Answering George Knapp on camera, Doty said of the story that he drove Bennewitz mad: 'none of it's true every every aspect of that is false'. The board should carry this alongside, and not instead of, the admissions already recorded on this node.",
-"tier": 2
-},
-{
 "source": "AFOSI, About Us, retrieved 12 August 2026",
 "text": "AFOSI states its investigative remit covers 'espionage, terrorism, crimes against property, violence against people, larceny, computer hacking, acquisition fraud... and any other illegal activity that undermines the mission of the U.S. Air Force or the Department of Defense', with units 'located at most Air Force bases worldwide'.",
 "tier": 1
@@ -145,27 +135,27 @@
 {
 "claimTier": 1,
 "cls": "person",
-"dateEnd": null,
-"dateStart": "1980",
-"direction": "in",
-"edgeLabel": "Documented AFOSI special agent at Kirtland, 1980",
+"dateEnd": "1988",
+"dateStart": "1979",
+"direction": "out",
+"edgeLabel": "Doty served as an AFOSI special agent at the Kirtland detachment",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
-"note": "Documented by the complaint form itself rather than by any of his own later accounts, which is the point: his service does not depend on the reliability of a self-described disinformation officer.",
+"note": "The AFOSI Kirtland file and Doty's later New Mexico State Police personnel file, released in 321 pages, document his AFOSI service during the Manzano intrusion period.",
 "sources": [
-{
-"date": "2026-09-19",
-"name": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive",
-"url": "https://www.nicap.org/foia_003.htm"
-},
 {
 "date": "2021-05-20",
 "name": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
 "url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP - 1980 Kirtland AFB, NM FOIA document files",
+"url": "https://www.nicap.org/foia_003.htm"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -261,7 +251,6 @@
 "desc": "AFOSI is the Air Force's independent criminal investigative and counterintelligence field agency, established in 1948 on the FBI model, whose remit it states covers 'espionage, terrorism, crimes against property, violence against people, larceny, computer hacking, acquisition fraud, drug use and distribution, financial misdeeds, military desertion, corruption of the contracting process, and any other illegal activity that undermines the mission of the U.S. Air Force or the Department of Defense', with units 'located at most Air Force bases worldwide'. AFOSI matters to this board because it is the one component of the US government whose participation in a UFO disinformation campaign is documented from the government's own files and admitted by the officer who ran it. Between 1980 and 1983 AFOSI Special Agent Richard C. Doty, working out of the Kirtland Air Force Base detachment during the Manzano Weapons Storage Area intrusion investigations, fed fabricated documents about crash retrievals, alien liaison and a programme called AQUARIUS to the Albuquerque physicist Paul Bennewitz, who was conducting his own surveillance of the base perimeter; Bennewitz's mental collapse is the documented outcome. The AFOSI Kirtland file, released under FOIA and archived by NICAP, is the primary record; Doty's later personnel file, released in 321 pages by the New Mexico State Police under the state's Inspection of Public Records Act, is the corroborating one; and Doty has repeatedly acknowledged on the record that he passed disinformation under orders. The Bennewitz operation is the reason no claim in this field can be evaluated without asking who benefits from the claimant being believed. It also cuts the other way, and this is the part usually omitted: a counterintelligence agency does not build a bespoke disinformation apparatus around a private citizen with a telescope unless something at the perimeter of that installation was worth protecting. In September 2025 the Wall Street Journal reported an alleged Air Force practice codenamed YANKEE BLUE, in which personnel were said to have been shown fabricated material about recovered craft as a loyalty or security test; the Pentagon first denied that any such memo existed and then, in December 2025, reopened the search for it.",
 "domains": [
 "_rs-archive-mirror",
-"dulce-2026-09-19",
 "w2-agencies"
 ],
 "dossier": {
@@ -435,7 +424,7 @@
 "cls": "person",
 "id": "richard-doty",
 "label": "Richard C. Doty",
-"tier": "A"
+"tier": "B"
 }
 ],
 "short": "AFOSI",
@@ -451,19 +440,14 @@
 "url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
 },
 {
-"date": "2026-09-19",
-"name": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive",
-"url": "https://www.nicap.org/foia_003.htm"
-},
-{
-"date": "2026-09-19",
-"name": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full",
-"url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
-},
-{
 "date": "2026-08-12",
 "name": "Air Force Office of Special Investigations - About Us",
 "url": "https://www.osi.af.mil/About-Us/"
+},
+{
+"date": "2026-08-12",
+"name": "NICAP - 1980 Kirtland AFB, NM Freedom of Information Act document files",
+"url": "https://www.nicap.org/foia_003.htm"
 },
 {
 "date": "2021-05-20",
@@ -487,8 +471,8 @@
 }
 ],
 "sub": "Air Force felony investigative and counterintelligence field agency; the documented author of a UFO disinformation operation",
-"tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 161 of 1125, score 50). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 181 of 1057, score 45). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.",
 "timeline": [
 {
 "date": "1980-08-08",

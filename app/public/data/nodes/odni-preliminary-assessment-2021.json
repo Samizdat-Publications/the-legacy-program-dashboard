@@ -138,7 +138,7 @@
 "url": "https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "behavioral"
 },
 {
@@ -550,7 +550,7 @@
 "cls": "person",
 "id": "alex-dietrich",
 "label": "Alex Dietrich",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -627,7 +627,7 @@
 ],
 "sub": "report",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 100 of 1125, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 97 of 1057, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "date": "2021-06-25",

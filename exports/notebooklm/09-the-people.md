@@ -1,6 +1,6 @@
 # The people below the programme map
 
-None of the 149 nodes on the programme map is a person, so every one of the board's 338 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
+None of the 137 nodes on the programme map is a person, so every one of the board's 311 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
 
 ## David Charles Grusch
 
@@ -39,7 +39,7 @@ Affiliations recorded: National Geospatial-Intelligence Agency, National Reconna
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 1 of 1125, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 1 of 1057, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -103,7 +103,7 @@ Affiliations recorded: US Army counterintelligence, Office of the Under Secretar
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 5 of 1125, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 5 of 1057, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -131,7 +131,7 @@ It carries 43 connections in total on the board.
 
 ## Eric Burlison
 
-Eric Burlison is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2026-05-22; axes C1 A2 D3; 28 connections.
+Eric Burlison is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2026-05-22; axes C1 A2 D3; 27 connections.
 
 In one line: U.S. Rep. (R-MO-7); Oversight subcommittee chair; runs the FFRDC/contractor records investigation.
 
@@ -149,7 +149,7 @@ Affiliations recorded: U.S. House of Representatives, MO-7 (2023- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 30 of 1125, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 30 of 1057, score 94). 29 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -173,7 +173,7 @@ A further 15 claims sit on this node on the board and are not reproduced here.
 - Eric Burlison comes in from **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: Burlison could not get the UAP Disclosure Act onto the House NDAA in 2024 or 2025. 'It was stripped out by the House last year, and I cannot get it onto the bill leaving the House this year.' Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - Eric Burlison runs out to **Bigelow Aerospace Advanced Space Studies (BAASS), LLC** (institution, board tier A), a investigative link at Tier 1 documented. The link reads: Named BAASS from the dais as a reverse-engineering exploitation question. Asked of witness Dylan Borland at the 9 September 2025 hearing. Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 
-It carries 30 connections in total on the board.
+It carries 29 connections in total on the board.
 
 ## Anna Paulina Luna
 
@@ -199,7 +199,7 @@ Affiliations recorded: U.S. House of Representatives, FL-13 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 23 of 1125, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 22 of 1057, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -227,7 +227,7 @@ It carries 31 connections in total on the board.
 
 ## Eric W. Davis
 
-Eric W. Davis is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2010-01-01; axes C2 A3 D3; 22 connections.
+Eric W. Davis is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2010-01-01; axes C2 A3 D3; 20 connections.
 
 In one line: Astrophysicist, EarthTech International; five-time AAWSAP DIRD author.
 
@@ -260,7 +260,7 @@ Affiliations recorded: National Institute for Discovery Science (1996-2004), Ear
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 17 of 1125, score 111). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 28 of 1057, score 98). 21 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -271,73 +271,18 @@ Re-graded A on a global pass (rank 17 of 1125, score 111). 23 connections, 4 of 
 - **Tier 1 documented.** DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', Acquisition Threat Support series, 6 April 2010, ICOD 1 December 2009, exists in the DIA FOIA release with the author withheld under (b)(6). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/
 - **Tier 1 documented.** Davis authored Defense Intelligence Reference Documents delivered under DIA's AAWSAP contract, the government-funded research line executed by BAASS. Source: AARO, Historical Record Report Volume I, March 2024, Section IV on AAWSAP/AATIP deliverables
 - **Tier 1 documented.** Davis authored five of the 38 AAWSAP Defense Intelligence Reference Documents, more than any other individual. Source: DIA letter to Senate Armed Services Committee, 9 January 2018, items 8, 11, 14, 31, 34
-- **Tier 1 documented.** HIS OWN CONCLUSION, verbatim: 'One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments. Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.' Source: Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, opened 2026-09-19
+- **Tier 2 named person on the record.** Davis briefed Senate Armed Services Committee staff in March 2019 on retrievals of 'off-world vehicles not made on this earth'. Source: Leslie Kean and Ralph Blumenthal, New York Times, 23 July 2020
 
-A further 13 claims sit on this node on the board and are not reproduced here.
+A further 11 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
 - Eric W. Davis runs out to **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: authored five of the 38 DIRDs. Items 8, 11, 14, 31 and 34, wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography. Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
 - Eric W. Davis comes in from **The Sol Foundation** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Eric Davis sits on Sol's Natural Sciences Advisory Board. Named on the Sol Foundation People page - placing a figure central to the AAWSAP and Wilson-Davis memo record inside the movement's institutional apex. Sources: The Sol Foundation - People, https://thesolfoundation.org/people/, dated 2026-08-12.
 - Eric W. Davis runs out to **EarthTech International / Institute for Advanced Studies at Austin** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: staff scientist. Davis wrote all five of his DIRDs under the EarthTech banner. Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
-- Eric W. Davis runs out to **Antigravity for Aerospace Applications** (document, board tier A), a research link at Tier 1 documented. The link reads: authored. DIA list item 11 names "Dr Eric Davis, EarthTech International". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office. Sources: Released DIRD, 'Antigravity for Aerospace Applications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
-- Eric W. Davis runs out to **Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions** (document, board tier B), a research link at Tier 1 documented. The link reads: co-author per EarthTech International's own citation. EarthTech International's publications page cites the paper as "Obousy, R. K. and Davis, E. W. (2010)." Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them. Sources: Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2026-08-22; http://earthtech.org/pubs/davis/, http://earthtech.org/pubs/davis/
+- Eric W. Davis runs out to **Antigravity for Aerospace Applications** (document, board tier B), a research link at Tier 1 documented. The link reads: authored. DIA list item 11 names "Dr Eric Davis, EarthTech International". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office. Sources: Released DIRD, 'Antigravity for Aerospace Applications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
 - Eric W. Davis comes in from **Concepts for Extracting Energy From the Quantum Vacuum** (document, board tier B), a research link at Tier 1 documented. The link reads: authored by Eric W. Davis. Doubly sourced. The DIA list of 9 January 2018 gives entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'. EarthTech's own bibliography for Davis cites the same document with the matching DIA number DIA-08-1004-007, confirming the attribution against the redacted cover page independently of the DIA list. Sources: Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://earthtech.org/pubs/davis/, https://earthtech.org/pubs/davis/
-
-It carries 23 connections in total on the board.
-
-## George Knapp
-
-George Knapp is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2021-08-01; axes C1 A1 D3; 19 connections.
-
-In one line: Investigative journalist, KLAS-TV Las Vegas; co-author of the AAWSAP insider books.
-
-### The longer account
-
-Knapp converted forty years of Nevada-desert sourcing into sworn congressional testimony on 9 September 2025, and in doing so put the contractor-custody allegation into the Congressional Record under his own name. Testifying before the House Oversight Task Force on the Declassification of Federal Secrets, he told the panel that Robert Bigelow and a colleague from the AAWSAP program 'met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California,' adding flatly: 'That material was not made here.' Asked directly by Rep. Tim Burchett which corporations hold the material, Knapp answered 'one of them is Lockheed,' declined to treat the company as villainous - 'they are doing what they were asked to do' - and offered the committee a list. Pressed by Rep. Nick Begich to name individual gatekeepers, he named Dr. James Ryder at Lockheed and, separately, Glenn Gaffney of CIA. He also placed on the record his interviews with Alfred O'Donnell, first general manager of EG&G in Nevada, and with Senators Harry Reid and Howard Cannon. Knapp's 1989 Bob Lazar reporting, which he re-affirmed in the same testimony, is the origin point of the modern S-4 reverse-engineering narrative. He is not a cleared insider and does not claim to be; his value is that he is a named journalist who has now sworn to his sourcing before Congress, converting decades of tier-3 anecdote into tier-2 record.
-
-### What is left unexplained
-
-A sworn witness told a congressional task force that reprisal against Grusch was occurring in the days before the hearing. Nobody on the dais asked him what he meant, and the record contains no follow-up.
-
-### Where the record conflicts
-
-- Knapp worked as a consultant to BAASS, the DIA contractor at the centre of the alleged Lockheed material transfer - he is reporting on an episode in which his own employer was a party.
-
-### Recorded as unverified
-
-- What the 'events in recent days' against Grusch in early September 2025 were; Knapp did not specify and no reporting has identified them.
-- The identity and role of Dr. James Ryder within Lockheed Martin.
-- The existence and current location of the 'list' Knapp offered to provide to Congress.
-- The alleged O'Donnell deathbed recording, which has never surfaced.
-
-Affiliations recorded: KLAS-TV Las Vegas, I-Team (1980s-present), Mystery Wire (2019-present), Co-author, 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021), KLAS-TV Las Vegas, chief investigative reporter (1980s- ), Coast to Coast AM, Co-author, Skinwalkers at the Pentagon, KLAS-TV Channel 8 (1981-1991, 1995-present), National Institute of Discovery Science (late 1990s-2000s), Weaponized podcast (with Jeremy Corbell), KLAS-TV Las Vegas, investigative reporter (1980s-present), Coast to Coast AM, contributor, WEAPONIZED podcast, co-host with Jeremy Corbell, Bigelow Aerospace Advanced Space Studies / BAASS, consultant (2008-2010).
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 54 of 1125, score 76). 21 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** 'So many of the things that happen to witnesses like these are extra-legal. They are carried out by persons unknown, as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' Source: George Knapp sworn statement, Task Force on the Declassification of Federal Secrets, 9 September 2025
-- **Tier 1 documented.** A statement for the record by George Knapp was submitted by Rep. Burchett to the 26 July 2023 House Oversight hearing. Source: Index of documents, House Oversight hearing Serial No. 118-53
-- **Tier 1 documented.** CONTEMPORANEOUS CONFIRMATION OF THE 1989 REPORTING. A Las Vegas Review-Journal report of 19 June 1990, page 8B, by Warren Bates, records that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. This is the only contemporaneous documentary confirmation opened by this session that the 1989 Lazar broadcasts happened at all. Source: Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/, opened 2026-09-18
-- **Tier 1 documented.** He appears in and is credited on Jeremy Corbell's 2018 documentary Bob Lazar: Area 51 and Flying Saucers, alongside Lazar himself and Joy White. Source: Letterboxd record for Bob Lazar: Area 51 and Flying Saucers, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/, opened 2026-09-18
-- **Tier 1 documented.** Knapp's KLAS I-Team published AAWSAP contract documentation establishing the DIA-funded study was executed in Las Vegas. Source: KLAS 8 News Now, 'I-Team: Documents prove secret UFO study based in Nevada', December 2017
-- **Tier 1 documented.** Witness of record at the 9 September 2025 hearing: 'Mr. George Knapp, UAP Journalist'. Source: CHRG-119hhrg61718 CONTENTS
-- **Tier 2 named person on the record.** 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' Source: George Knapp, sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025
-- **Tier 2 named person on the record.** Alfred O'Donnell, first general manager of EG&G in Nevada, told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.' Source: George Knapp, quoted by Christopher Sharp, Liberation Times, 28 February 2023; repeated in sworn testimony 9 September 2025
-
-A further 9 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- George Knapp runs out to **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Sworn statement that extra-legal reprisal against Grusch was ongoing in September 2025. From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up. Sources: Task Force hearing record, Serial No. 119-44, https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf, dated 2025-09-09.
-- George Knapp runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a institutional link at Tier 1 documented. The link reads: Knapp's testimony named the company, the executive and the intelligence official. The naming is sworn and specific; the underlying sourcing has not been published, which is why the claims are graded tier 2 rather than tier 1. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- George Knapp runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09.
-- George Knapp runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Journalist witness at the September 2025 hearing. Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors. Sources: House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; George Knapp, written testimony, House Oversight Task Force, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, dated 2025-09-09; Task Force hearing record, Serial No. 119-44, https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf, dated 2025-09-09; House Oversight - Hearing Wrap Up, https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/, dated 2025-09-09.
-- George Knapp runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: His Statement for the Record was submitted by Rep. Burchett in 2023, two years before he testified in person. Listed in the 2023 Index of Documents; Knapp testified live on 9 September 2025. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- George Knapp comes in from **Timothy Floyd Burchett** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Burchett asked Knapp to name the corporations; Knapp named Lockheed and offered a list. No list has been published and no committee has reported receiving one, which is itself a documented gap in the record. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- Eric W. Davis comes in from **Laser Lightcraft Nanosatellites** (document, board tier B), a research link at Tier 1 documented. The link reads: authored by. The DIA list of all 38 AATIP/AAWSAP products, transmitted to the Senate Armed Services Committee in January 2018 and released under FOIA in January 2019, credits 'Laser Lightcraft Nanosatellites' to 'Dr E Davis, EarthTech'. The author line on the released PDF cover page is redacted, so this attribution rests on the congressional list rather than the document. Sources: Released DIRD, 'Laser Lightcraft Nanosatellites', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
 
 It carries 21 connections in total on the board.
 
@@ -359,7 +304,7 @@ Affiliations recorded: US Senate (1987-2017), Senate Majority Leader (2007-2015)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 40 of 1125, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 39 of 1057, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -381,104 +326,7 @@ A further 4 claims sit on this node on the board and are not reproduced here.
 - Harry M. Reid runs out to **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a legislative link at Tier 1 documented. The link reads: 24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied. Susan Gough authenticated the memorandum on 13 June 2019. Elizondo's and Puthoff's names were originally redacted from it and later released. Sources: The Black Vault, Reid memo, https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/, dated 2019-06-13.
 - Harry M. Reid comes in from **New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'** (event, board tier A), a funding link at Tier 1 documented. The link reads: Identified Reid as the senator who initiated and funded AATIP. Reid told the Times 'I'm not embarrassed or ashamed or sorry I got this thing going' and called the appropriation 'black money'. Sources: New York Times (NICAP copy), https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf, dated 2017-12-16.
 - Harry M. Reid runs out to **KONA BLUE** (program, board tier A), a funding link at Tier 1 documented. The link reads: Reid and Lieberman asked that the DHS prospective SAP be established with promised funding. AARO states 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding' - the same senator who created the DIA appropriation now seeking a DHS compartment. Sources: AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
-- Harry M. Reid runs out to **Defense Appropriations Acts FY2008 and FY2010, the $22M AAWSAP appropriation** (legislation, board tier B), a funding link at Tier 1 documented. The link reads: directed the $22M appropriation. AARO's official history states the FY2008 and FY2010 Defense Appropriations Acts appropriated $22 million to DIA 'at the direction of Senate Majority Leader Harry Reid (D-NV)'. Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
-
-It carries 17 connections in total on the board.
-
-## John Greenewald Jr.
-
-John Greenewald Jr. is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2022-08-17; axes C0 A0 D3; 17 connections.
-
-In one line: Founder, The Black Vault; FOIA requester of record on AATIP and Elizondo.
-
-### The longer account
-
-Greenewald is the private citizen who has done more than any institution to build the documentary base this board runs on. He began filing FOIA requests as a teenager in 1996 and has since obtained and published well over two million pages. Two of his releases are load-bearing for the 1970s-2000s era: DoD FOIA case 97-F-1677, processed by the Office of the Assistant Secretary of Defense in September 1997, which produced the Halt memorandum on Rendlesham and the November 1975 Malmstrom AFB overflight records; and his 2013 Mandatory Declassification Review of the entire NSA UFO holding, which forced further release of documents NSA had previously produced with only a few words visible per page. In 2025 he became the principal test of the Pentagon's own honesty about disinformation: after the Wall Street Journal reported that the Secretary of Defense's office had issued a spring 2023 memo ordering an end to an Air Force practice of falsely telling personnel they were on a reverse-engineering programme, Greenewald filed for the memo. OSD responded in September 2025 that no such record existed; AFOSI said it had no records of any such investigation; the Pentagon spokesperson said in October 2025 she could not confirm the memo existed. In December 2025 an OSD appellate authority granted his appeal and remanded for a new search. That sequence - press claim, government no-records finding, appeal, remand - is the mechanism by which this board's evidence is actually produced.
-
-### Recorded as unverified
-
-- Why the Department applied password protection to released PDFs, and whether it was a deliberate processing decision or an artefact of the export pipeline.
-
-Affiliations recorded: The Black Vault, founder (1996-present), The Black Vault (founder, 1996-present), The Black Vault, founder (1996-), The Black Vault.
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 98 of 1125, score 63). 17 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** FOIA case 18-F-0324 was requested on 17 December 2017 and received its final response on 17 August 2022 from Stephanie L. Carr, Chief of the DoD Freedom of Information Division, releasing eight responsive pages with (b)(6) redactions. Source: DoD FOIA final response letter, 18-F-0324
-- **Tier 1 documented.** He located the federal file on Japan Air Lines flight 1628 at the National Archives after being told twice by the FAA that it had been or would be destroyed. In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!' The file is in Record Group 237, local identifier 1203, archival identifier 733667, and runs to over 1,500 pages against an initial FAA estimate of 107. Source: The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/, opened 2026-09-19
-- **Tier 1 documented.** He publishes the FAA's letter of 27 June 2001 responding to his request: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A follow-up request in 2009 was answered with the statement that the records had been destroyed. Source: The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, opened 2026-09-19
-- **Tier 1 documented, allegation shaped wording as stored.** In September 2025 OSD responded in FOIA case 25-F-3514 that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged Yankee Blue cessation memo. Source: OSD FOIA final response, case 25-F-3514, September 2025
-- **Tier 1 documented.** In case 2025-06002-F, AFOSI stated it found 'no records' of investigative reports, summaries or closure memos tied to 'Yankee Blue.' Source: AFOSI FOIA response, case 2025-06002-F, 2025
-- **Tier 1 documented.** Obtained and published the DD Form 1910 for the GoFast, Gimbal and FLIR files, the Tipton messaging emails, the Elizondo-Gough correspondence, and the TTSA CRADA-related FOIA denials. Source: The Black Vault document archive
-- **Tier 1 documented, allegation shaped wording as stored.** On 1 October 2025 Pentagon spokesperson Susan Gough stated: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.' Source: Susan Gough, Department of War, emailed statement, 1 Oct 2025
-- **Tier 1 documented.** Requester of record in Department of War OIG FOIA case DODIG-2021-000806, whose fourth interim release of five pages was published 16 June 2026 with approximately 245 pages still pending. Source: https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/
-
-A further 5 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- John Greenewald Jr. runs out to **AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Hosts the working public mirror of Volume I. The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original. Sources: The Black Vault - AARO Historical Record Report Volume I (mirror), https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
-- John Greenewald Jr. runs out to **AARO FY2025 Consolidated Annual Report on UAP** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Established publicly that the FY2025 report was released months late. The Black Vault, not the Department, documented that the statutory annual report missed its cadence, and hosts the working public copy. Sources: The Black Vault - AARO releases FY2025 UAP report months after statutory deadline, https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/, dated 2026-07-21; AARO - FY2025 Consolidated Annual Report on UAP (PDF), https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf, dated 2026-07-21.
-- John Greenewald Jr. runs out to **Susan Gough** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Recipient of the 13 June 2019 and 6 December 2019 statements. Both of the Department's pivotal statements were issued to a FOIA requester rather than at a podium. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/, dated 2019-12-06.
-- John Greenewald Jr. comes in from **1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)** (event, board tier A), a investigative link at Tier 1 documented. The link reads: Malmstrom records released to The Black Vault under FOIA case 97-F-1677. The same September 1997 OASD release that produced the Halt memo produced the November 1975 Malmstrom overflight records. Sources: Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677), https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/, dated 2021-11-08; The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997), https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/, dated 2021-11-11.
-- John Greenewald Jr. comes in from **YANKEE BLUE (alleged AFOSI indoctrination program)** (program, board tier B), a investigative link at Tier 1 documented. The link reads: Greenewald's FOIA requests and appeal are the test of the YANKEE BLUE claim. OSD case 25-F-3514 returned no records in September 2025; AFOSI case 2025-06002-F returned no records; the appeal was granted and remanded on 15 December 2025. Sources: John Greenewald Jr., 'Pentagon Denies Existence of "Yankee Blue" Memo Reported by Wall Street Journal', The Black Vault, https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/, dated 2025-09-16; John Greenewald Jr., 'Pentagon Reopens Search for Alleged "Yankee Blue" Memo After Initial Denial', The Black Vault, https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/, dated 2025-12-15.
-- John Greenewald Jr. runs out to **The Black Vault** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Founder and operator of the archive that produced the primary record. Nearly every document in this domain arrived through his requests. Sources: The Black Vault case file, https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/, dated 2026-08-12.
-
-It carries 17 connections in total on the board.
-
-## Mark McCandlish
-
-Mark McCandlish is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2021-04-13; axes C0 A0 D3; 17 connections.
-
-In one line: Aerospace illustrator and conceptual artist; Disclosure Project witness, December 2000; relayer and draughtsman of the claimed Alien Reproduction Vehicle.
-
-### The longer account
-
-Mark McCandlish is the origin point in print of a named craft, and he is not a witness to it. By his own account in the Disclosure Project's April 2001 Briefing Document he works principally as a conceptual artist for defence contractors, he missed the Norton Air Force Base air show of 12 November 1988 because of an illustration deadline, and everything he describes about a hangar holding three hovering saucer-shaped craft was told to him the following week by a friend who was there. He drew it, and the drawing is what propagates. The one contemporaneous document in the thread, an Aviation Week editor's unpublished 1990 interview notes, records the same direction of relay and records the witness disowning part of the drawing. He was declared deceased on 13 April 2021 at his home in Redding, California, of a gunshot wound to the head; the Shasta County coroner ruled suicide on an external examination that expressly declined an internal one. What makes him a node is proximity to the claim, not credibility: he held no office, no clearance is documented anywhere in the opened record, and his whole account is a relay of somebody else's sighting.
-
-### Where the record conflicts
-
-- The Frank Carlucci identification is contradicted by the earliest opened document. The 1990 Scott notes describe a Carter-administration Democrat running about six injection-moulding and special-materials businesses; Carlucci was the sitting Secretary of Defense on 12 November 1988. The board's existing triage calls the identification 'a researcher's guess at two removes'; the opened record corrects that in one direction and confirms it in another, because the guess is McCandlish's own, published in 2001 in his own voice and labelled as speculation, and only afterwards re-attributed to researchers by later carriers.
-- His 2001 testimony adds a claim the 1990 document does not contain: 'Brad said that in this exhibit at Norton Air Force Base, a three star general said that these vehicles were capable of doing light speed or better.' The 1990 document says the opposite about ranks present: 'I did NOT see any stars in there--like generals of any sort. If there had, I would have noticed that.'
-
-### Recorded as unverified
-
-- That he spoke at the Disclosure Project's National Press Club event on 9 May 2001. research/leads/area52-triage-5.md row A12 proposed that appearance as this lead's anchor. No opened record places him at that podium, his Briefing Document testimony is dated December 2000, and c-span.org returned HTTP 403 to this environment, so whether C-SPAN holds the event is not established either. This is recorded as unverified and is not a claim.
-- His birth year. The arvp.co.uk research page, which is unsigned and cites no source, gives '(1957 - 2021)' and calls him 'an American aerospace illustrator, conceptual artist, and researcher'; 1955 also circulates in search results. The coroner gives a '68 year old male' on 13 April 2021, which fits neither cleanly, and no birth record was opened. The node therefore carries no birth year and no age.
-- That the IRS was used against him. Recorded in research/leads/area52-corpus-09.md from DEBRIEFED episode 49, 8 August 2025, at 1:56:11 to 1:57:21. No tax record and no court record opened.
-- That he had contacted Senator Marco Rubio or the Senate Intelligence Committee about testifying before he died. Recorded in research/leads/dannyjones-corpus-20.md section 4b and in social media posts. No correspondence, committee record or press statement opened.
-- That he slept with a pistol under his pillow. Recorded in research/leads/dannyjones-corpus-20.md section 4b. No opened record.
-- A 1989 East Germany recovery of a Lockheed craft with superconducting ceramic spheres, attributed to him in research/leads/gerb-corpus-25-35.md file 33 at 00;54;29. It is in neither primary document opened for this lead and no record was opened.
-- That Gordon Novel had any part in this thread. Zero hits: no mention in the Scott notes, in the Briefing Document's McCandlish testimony, or on any arvp.co.uk page opened.
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 138 of 1125, score 53). 17 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
-
-### The claims on the record
-
-- **Tier 2 named person on the record.** He states that he missed the Norton air show himself: 'the magazine Popular Science came back again and [told me] they had some really, really crazy deadline for another illustration', so 'I had to beg off on this air show'. His entire account of the exhibit is therefore what Sorensen told him 'the following week, after Brad got back home'. Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12
-- **Tier 2 named person on the record.** In his 2001 testimony he dates and sources his own interest: 'In 1967 when I was at Westover Air Force Base, one night before going to bed I saw this light moving across the sky', hovering 'directly over the facility where they kept the nuclear weapons', watched for about ten minutes through a telescope, before it was 'out of sight in just a second or two'. Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12
-- **Tier 2 named person on the record.** In the same testimony he lists his clients: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record for any of these was opened. Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12
-- **Tier 2 named person on the record.** No internal examination was performed. Page 2 of the same report reads in full: 'Due to the obvious cause of death, internal examination is not performed.' Source: Shasta County Sheriff-Coroner, Report of External Examination, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view, 2021-04-19, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 2 named person on the record.** Shasta County Sheriff-Coroner case C21-0324, a Verdict of Death (without jury), reads: 'In the matter of the death of Mark Edward McCandlish, a 68 year old male. I, Logan Stonehouse, Chief Deputy Coroner, have inquired into the circumstances of his death and do certify that he was declared deceased on the 13th day of April 2021.' It gives the place of death as '1946 Trumpet Drive, Redding, Shasta County, CA', the cause as 'Gunshot wound of head', other significant conditions as 'None', and manner of death as 'Suicide'. Source: Shasta County Sheriff-Coroner, Verdict of Death, case C21-0324, signed 21 June 2021, hosted at https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view, 2021-06-21, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 2 named person on the record.** The Disclosure Project Briefing Document of April 2001 prints, at section 3.8.5 under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000', his own description of his work: 'I work principally as a conceptual artist. Most of my clients are in the defense industry. I occasionally work directly for the military, but most the time I work for civilian corporations that are defense contractors and build weapons systems and things for the military.' Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2001-04, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 2 named person on the record.** The Frank Carlucci identification is his own labelled speculation, and the earliest opened document describes a different kind of man. His 2001 testimony gives the host as 'a tall, thin, white-haired man with glasses [and] an Italian-sounding last name', 'already a millionaire in his own right and was in civilian life again after having been either a Secretary of Defense or an Under-Secretary of Defense', followed by 'this fellow whom I speculate was probably Frank Carlucci.' William B. Scott's 1990 interview notes instead record Sorensen describing his host as a man who 'was in the Carter administration, and they wanted him on the Bush team', who 'is a very organized, straightforward, honest, etc. guy. In fact, he's a Democrat, which is not in keeping with the Bush admin. at all', and who 'Runs a business of injection molding and special materials...has about 6 businesses.' Frank Carlucci was the sitting Secretary of Defense on 12 November 1988, so neither 'in civilian life again' nor the injection-moulding businesses fits him on that date. Source: Scott interview notes, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, 1990-12-11, read against the Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 2 named person on the record.** The document's own editorial header describes him, not as an engineer, but as follows: 'Mark McCandlish is an accomplished aerospace illustrator and has worked for many of the top aerospace corporations in the United States.' Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2001-04, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-
-A further 4 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Mark McCandlish runs out to **Disclosure Project Briefing Document, April 2001** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.5, dated December 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, which is the form the existing node already uses. NOTHING OPENED PLACES HIM AT THE 9 MAY 2001 PODIUM, and this edge must never be read as implying it. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Mark McCandlish runs out to **Steven M. Greer** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Witness to Greer's compilation; Greer writes the editorial notes around his testimony. Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Mark McCandlish runs out to **The Disclosure Project** (program, board tier B), a witness-chain link at Tier 1 documented. The link reads: Disclosure Project witness, testimony taken December 2000. His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Mark McCandlish comes in from **ARVP (arvp.co.uk), the Flux Liner project site** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Hosts his coroner's file and publishes a reconstruction built from his talks. The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement. Sources: arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18; Shasta County Sheriff-Coroner, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view, dated 2021-06-21.
-- Mark McCandlish runs out to **'Brad' Sorensen** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Painted the craft from Sorensen's verbal description; he was not at the air show. The 1990 primary document states the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. The same document records Sorensen disowning part of what McCandlish drew. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
-- Mark McCandlish comes in from **Zero Point: The Story of Mark McCandlish and the Flux Liner** (document, board tier C), a investigative link at Tier 1 documented. The link reads: The film is about him and names him in its title. The dossier and the session ruling call this a media edge; 'media' is not one of this board's twelve edge types, so it is written as 'investigative', the type the board already uses for a media node covering a subject. IMDb credits him as 'Self - Guest', the only listed cast member. Sources: Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner', https://vimeo.com/channels/942663, dated 2026-09-18; IMDb tt6111304, user-maintained listing, https://www.imdb.com/title/tt6111304/, dated 2026-09-18.
+- Harry M. Reid runs out to **Reid Letter to DEPSECDEF Requesting Restricted SAP Status** (document, board tier A), a legislative link at Tier 1 documented. The link reads: authored the Restricted SAP request. The Senate Majority Leader asked DoD to compartment a program whose deliverables DoD would three months later describe as unclassifiable basic research. Sources: Reid to Lynn, 24 June 2009, https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf, dated 2009-06-24.
 
 It carries 17 connections in total on the board.
 
@@ -515,7 +363,7 @@ Affiliations recorded: Defense Intelligence Agency, chief scientist for the Defe
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 11 of 1125, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 11 of 1057, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -541,9 +389,110 @@ A further 15 claims sit on this node on the board and are not reproduced here.
 
 It carries 24 connections in total on the board.
 
+## George Knapp
+
+George Knapp is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2021-08-01; axes C1 A1 D3; 16 connections.
+
+In one line: Investigative journalist, KLAS-TV Las Vegas; co-author of the AAWSAP insider books.
+
+### The longer account
+
+Knapp converted forty years of Nevada-desert sourcing into sworn congressional testimony on 9 September 2025, and in doing so put the contractor-custody allegation into the Congressional Record under his own name. Testifying before the House Oversight Task Force on the Declassification of Federal Secrets, he told the panel that Robert Bigelow and a colleague from the AAWSAP program 'met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California,' adding flatly: 'That material was not made here.' Asked directly by Rep. Tim Burchett which corporations hold the material, Knapp answered 'one of them is Lockheed,' declined to treat the company as villainous - 'they are doing what they were asked to do' - and offered the committee a list. Pressed by Rep. Nick Begich to name individual gatekeepers, he named Dr. James Ryder at Lockheed and, separately, Glenn Gaffney of CIA. He also placed on the record his interviews with Alfred O'Donnell, first general manager of EG&G in Nevada, and with Senators Harry Reid and Howard Cannon. Knapp's 1989 Bob Lazar reporting, which he re-affirmed in the same testimony, is the origin point of the modern S-4 reverse-engineering narrative. He is not a cleared insider and does not claim to be; his value is that he is a named journalist who has now sworn to his sourcing before Congress, converting decades of tier-3 anecdote into tier-2 record.
+
+### What is left unexplained
+
+A sworn witness told a congressional task force that reprisal against Grusch was occurring in the days before the hearing. Nobody on the dais asked him what he meant, and the record contains no follow-up.
+
+### Where the record conflicts
+
+- Knapp worked as a consultant to BAASS, the DIA contractor at the centre of the alleged Lockheed material transfer - he is reporting on an episode in which his own employer was a party.
+
+### Recorded as unverified
+
+- What the 'events in recent days' against Grusch in early September 2025 were; Knapp did not specify and no reporting has identified them.
+- The identity and role of Dr. James Ryder within Lockheed Martin.
+- The existence and current location of the 'list' Knapp offered to provide to Congress.
+- The alleged O'Donnell deathbed recording, which has never surfaced.
+
+Affiliations recorded: KLAS-TV Las Vegas, I-Team (1980s-present), Mystery Wire (2019-present), Co-author, 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021), KLAS-TV Las Vegas, chief investigative reporter (1980s- ), Coast to Coast AM, Co-author, Skinwalkers at the Pentagon, KLAS-TV Channel 8 (1981-1991, 1995-present), National Institute of Discovery Science (late 1990s-2000s), Weaponized podcast (with Jeremy Corbell), KLAS-TV Las Vegas, investigative reporter (1980s-present), Coast to Coast AM, contributor, WEAPONIZED podcast, co-host with Jeremy Corbell, Bigelow Aerospace Advanced Space Studies / BAASS, consultant (2008-2010).
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 85 of 1057, score 66). 18 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** 'So many of the things that happen to witnesses like these are extra-legal. They are carried out by persons unknown, as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' Source: George Knapp sworn statement, Task Force on the Declassification of Federal Secrets, 9 September 2025
+- **Tier 1 documented.** A statement for the record by George Knapp was submitted by Rep. Burchett to the 26 July 2023 House Oversight hearing. Source: Index of documents, House Oversight hearing Serial No. 118-53
+- **Tier 1 documented.** Knapp's KLAS I-Team published AAWSAP contract documentation establishing the DIA-funded study was executed in Las Vegas. Source: KLAS 8 News Now, 'I-Team: Documents prove secret UFO study based in Nevada', December 2017
+- **Tier 1 documented.** Witness of record at the 9 September 2025 hearing: 'Mr. George Knapp, UAP Journalist'. Source: CHRG-119hhrg61718 CONTENTS
+- **Tier 2 named person on the record.** 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' Source: George Knapp, sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025
+- **Tier 2 named person on the record.** Alfred O'Donnell, first general manager of EG&G in Nevada, told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.' Source: George Knapp, quoted by Christopher Sharp, Liberation Times, 28 February 2023; repeated in sworn testimony 9 September 2025
+- **Tier 2 named person on the record.** Asked by Rep. Begich to name gatekeepers: 'one of them was named Dr. James Ryder at Lockheed'; and, separately, 'Glenn Gaffney, CIA.' Source: CHRG-119hhrg61718, 9 September 2025
+- **Tier 2 named person on the record.** Asked by Rep. Burchett to name the corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do. But Lockheed would be one. There is a list I can give you, Congressman.' Source: CHRG-119hhrg61718, 9 September 2025
+
+A further 6 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- George Knapp runs out to **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Sworn statement that extra-legal reprisal against Grusch was ongoing in September 2025. From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up. Sources: Task Force hearing record, Serial No. 119-44, https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf, dated 2025-09-09.
+- George Knapp runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a institutional link at Tier 1 documented. The link reads: Knapp's testimony named the company, the executive and the intelligence official. The naming is sworn and specific; the underlying sourcing has not been published, which is why the claims are graded tier 2 rather than tier 1. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- George Knapp runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09.
+- George Knapp runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Journalist witness at the September 2025 hearing. Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors. Sources: House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; George Knapp, written testimony, House Oversight Task Force, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, dated 2025-09-09; Task Force hearing record, Serial No. 119-44, https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf, dated 2025-09-09; House Oversight - Hearing Wrap Up, https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/, dated 2025-09-09.
+- George Knapp runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: His Statement for the Record was submitted by Rep. Burchett in 2023, two years before he testified in person. Listed in the 2023 Index of Documents; Knapp testified live on 9 September 2025. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- George Knapp comes in from **Timothy Floyd Burchett** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Burchett asked Knapp to name the corporations; Knapp named Lockheed and offered a list. No list has been published and no committee has reported receiving one, which is itself a documented gap in the record. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+
+It carries 18 connections in total on the board.
+
+## Timothy Floyd Burchett
+
+Timothy Floyd Burchett is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2023-07-26; axes C0 A1 D3; 16 connections.
+
+In one line: U.S. Rep. (R-TN-2); House Oversight; founder, Congressional UAP Caucus.
+
+### The longer account
+
+Burchett is the member who forced the modern UAP record into the open. He and Anna Paulina Luna drove the 26 July 2023 House Oversight National Security subcommittee hearing into existence; Ranking Member Robert Garcia thanked him from the dais for the leadership 'that has brought us to this place today,' and Jared Moskowitz did the same. Burchett opened that hearing by putting the first documented stonewall on the record: 'we were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.' He then used his rounds to ask Grusch the questions no one else would - whether people had been harmed or murdered in the course of concealment (Grusch: 'Yes, personally,' and on murder, 'I have to be careful answering that question. I directed people with that knowledge to the appropriate authorities'), and what Special Access Programs cover the material and how they evaded oversight (Grusch: 'I do know the names'). Every one of those answers terminated at a SCIF the committee was not allowed into. He launched the bipartisan Congressional UAP Caucus in August 2023 and led a caucus letter to the Intelligence Community Inspector General; in January 2024 he brought roughly sixteen members to a closed ICIG briefing with Thomas Monheim and rated it a four out of ten - 'more of the same... it's very compartmentalized; it's like looking down the barrel of a .22 rifle.' He led the first push for a UAP select committee under Speaker McCarthy, which died with the speakership. He is the author of every standalone House UAP bill that matters: H.R. 8424 and H.R. 1187 (UAP Transparency Act) and H.R. 10111 and H.R. 5060 (UAP Whistleblower Protection Act). None have received a markup. His structural theory of the concealment is explicit and it is the theory this board is built on: 'You have to imagine Oak Ridge National Laboratory, the Manhattan Project, thousands of people working on the atomic bomb and less than 12 knew what it was.'
+
+### Recorded as unverified
+
+- Who denied the SCIF for the July 2023 hearing and under what authority.
+- Whether Knapp's offered list was ever transmitted to the committee.
+- The subject of the briefing Burchett described on 1 April 2026.
+
+Affiliations recorded: U.S. House of Representatives, TN-2 (2019- ), House Committee on Oversight and Accountability / Government Reform (2019- ), Congressional UAP Caucus, founder (2023- ), Task Force on the Declassification of Federal Secrets (2025- ), Subcommittee on Delivering on Government Efficiency, Chairman (2025- ), US House of Representatives, TN-02 (2019- ), House Oversight Committee, Task Force on the Declassification of Federal Secrets, US House of Representatives (2019-present), House Committee on Oversight and Accountability, US House of Representatives (TN-2).
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 77 of 1057, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** 'Maybe in a - if we could get in a confidential area, a SCIF, we could talk about that. But unfortunately, we were denied access to the SCIF and that is very unfortunate in this scenario.' - said immediately after asking Grusch whether anyone had been murdered. Source: CHRG-118hhrg53022, 26 July 2023
+- **Tier 1 documented.** 'We were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.' Source: Rep. Tim Burchett, opening statement, House Oversight National Security subcommittee hearing, 26 July 2023, GPO transcript CHRG-118hhrg53022
+- **Tier 1 documented.** Burchett introduced H.R. 5060, the UAP Whistleblower Protection Act, in the 119th Congress. Source: Congress.gov, H.R. 5060, 119th Congress
+- **Tier 1 documented.** Burchett introduced H.R. 8197 on 6 April 2026, a four-page bill to abolish AARO, bar any successor entity, and redistribute its functions to the military departments; referred to HASC and HPSCI. Source: H.R. 8197, 119th Congress; Newsweek, 8 April 2026; Political Saucer analysis of the bill text
+- **Tier 1 documented.** Burchett: 'who are the contractors that have this material, the corporations?' Knapp: 'Well, one of them is Lockheed... There is a list I can give you, Congressman.' Source: CHRG-119hhrg61718, 9 September 2025
+- **Tier 1 documented.** Elicited under oath that Grusch has personal knowledge of people harmed or injured in efforts to conceal the technology, and that Grusch directed people with knowledge of deaths to the appropriate authorities. Source: House Oversight hearing transcript, 26 July 2023
+- **Tier 1 documented.** Sponsor of H.R. 8424 and H.R. 1187 (UAP Transparency Act) and H.R. 10111 and H.R. 5060 (UAP Whistleblower Protection Act); none has advanced beyond referral. Source: Congress.gov bill records, 118th and 119th Congresses
+- **Tier 1 documented.** Stated on the record at the hearing that members were denied access to a SCIF, limiting what Grusch could say. Source: House Oversight hearing transcript, 26 July 2023
+
+A further 7 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- Timothy Floyd Burchett runs out to **David Charles Grusch** (person, board tier A), a legislative link at Tier 1 documented. The link reads: Elicited the harm, injury and murder answers; recorded the SCIF denial. Burchett drew Grusch's 'Yes, personally' on knowledge of people harmed in the concealment effort and his careful non-answer on murder, then stated on the record that members had been denied SCIF access. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
+- Timothy Floyd Burchett comes in from **United States Department of Defense (secondary designation: Department of War)** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Denied members SCIF access to Grusch before the founding hearing. Burchett's opening statement: members 'were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.' Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
+- Timothy Floyd Burchett runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a investigative link at Tier 1 documented. The link reads: Drove the hearing into existence; opened by disclosing the denied SCIF access. Garcia and Moskowitz both credited Burchett's leadership from the dais; Burchett's opening statement records that members were denied a SCIF briefing before the hearing. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
+- Timothy Floyd Burchett runs out to **George Knapp** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Burchett asked Knapp to name the corporations; Knapp named Lockheed and offered a list. No list has been published and no committee has reported receiving one, which is itself a documented gap in the record. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- Timothy Floyd Burchett runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a legislative link at Tier 1 documented. The link reads: Elicited Elizondo's corroboration of Grusch under oath. Burchett asked the direct question that produced the only sworn second-source affirmation of Grusch's central allegation in the congressional record. Sources: House Oversight hearing record, Serial No. 118-140, https://www.congress.gov/118/chrg/CHRG-118hhrg57440/CHRG-118hhrg57440.pdf, dated 2024-11-13.
+- Timothy Floyd Burchett runs out to **Immaculate Constellation 12-page report entered into the Congressional Record** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Distributed the document to every member on the dais and moved to enter it. Mace announced that Burchett held the document and would enter it into the record. Sources: U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
+
+It carries 16 connections in total on the board.
+
 ## 'UAP Gerb' (Sam)
 
-'UAP Gerb' (Sam) is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2026-08-07; axes C0 A0 D3; 17 connections.
+'UAP Gerb' (Sam) is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2026-08-07; axes C0 A0 D3; 16 connections.
 
 In one line: Pseudonymous open-source investigator; publisher of the 7 August 2026 MITRE investigation, produced with a researcher using the handle 'Kerberos'; interviewed on NewsNation's Reality Check by Ross Coulthart.
 
@@ -587,7 +536,7 @@ Affiliations recorded: UAP Gerb (YouTube channel, ~135,000 subscribers), NewsNat
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 104 of 1125, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 103 of 1057, score 60). 17 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -605,17 +554,17 @@ A further 10 claims sit on this node on the board and are not reproduced here.
 ### Its strongest connections
 
 - 'UAP Gerb' (Sam) runs out to **PURSUE - Presidential Unsealing and Reporting System for UAP Encounters** (program, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Gerb analysed the PURSUE releases as they were published. Gerb ran a livestream on 'UFO File Drop 1' on 12 May 2026 and discussed the release programme in his 2 March 2026 livestream on Trump's announcement, making him one of the first analysts working the released record. Sources: UAP Gerb Live - 'UFO File Drop 1', https://www.youtube.com/watch?v=iAWD4irLMZM, dated 2026-05-12; UAP Gerb Live - 'Air Force Hidden Wing, Admin & the UFO Files', https://www.youtube.com/watch?v=Gqw9tnuBrOM, dated 2026-03-02.
-- 'UAP Gerb' (Sam) comes in from **Mark McCandlish** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Subject of a 1:09:12 UAP Gerb episode published 21 October 2024. Video id wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', channel 'UAP Gerb', published 21 October 2024, runtime 01:09:12. Gerb is the investigator who brings this account to the board's corpus and who located the 1990 notes. Several assertions attributed to him in the corpus files are recorded on these nodes as unverified rather than as claims. Sources: YouTube listing for video wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', UAP Gerb, https://www.youtube.com/watch?v=wF07QMm6joE, dated 2024-10-21.
 - 'UAP Gerb' (Sam) runs out to **'Manhattan Project 2.0' (alleged secrecy architecture)** (program, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Gerb constructed and named the Manhattan Project 2.0 model. Set out across two investigations, 1 May and 19 June 2026, covering the 1947 founding, AEC custody, the NSC 5412 Committee, the Atomic Energy Act of 1954, the 1980s fracture, the 1994 SAP restructuring and modern Non-Covert Action Programs. Sources: UAP Gerb - 'The Manhattan Project 2.0' Vol.1, https://www.youtube.com/watch?v=jR-h5p2bd-A, dated 2026-05-01; UAP Gerb - 'Special Access Required' Vol.2, https://www.youtube.com/watch?v=6MsmPrpQqa8, dated 2026-06-19.
-- 'UAP Gerb' (Sam) runs out to **Steven M. Greer** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Gerb publicly critiqued the 8 May 2026 Greer press-club event. Gerb's 12 May 2026 livestream discussed the 'Greer NPC' event critically. The structural investigators define themselves against Greer's model, and the split is itself a feature of the field. Sources: UAP Gerb Live - 12 May 2026, https://www.youtube.com/watch?v=iAWD4irLMZM, dated 2026-05-12.
 - 'UAP Gerb' (Sam) runs out to **UAP Gerb - The MITRE Corporation investigation** (document, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Gerb authored and published the MITRE investigation. Published 7 August 2026; the named priority document for this board. Two hours, seven chapters, building explicitly on eight prior Gerb investigations. Sources: UAP Gerb - The MITRE Corporation investigation, https://www.youtube.com/watch?v=107BtDYhTkA, dated 2026-08-07.
 - 'UAP Gerb' (Sam) runs out to **UAP Gerb - Battelle Memorial Institute investigation** (document, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Gerb's first corporate investigation, with full primary citations. Published 18 February 2024 with a published citation list including CUFON's Project Stork reports, the CIA reading room copy of Special Report No. 14, a Black Vault titanium alloys release and the Defense.gov Moultrie roundtable transcript. Sources: UAP Gerb - Battelle Memorial Institute investigation, https://www.youtube.com/watch?v=tISTJRPOqFo, dated 2024-02-18.
+- 'UAP Gerb' (Sam) runs out to **UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)** (document, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Gerb authored the Northrop/TRW breakaway analysis. Published 20 March 2026, following a Vol.1 Northrop investigation in 2025. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
+- 'UAP Gerb' (Sam) runs out to **UAP Gerb - 'The Hidden Wing' (USAF structure)** (document, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Gerb authored the USAF structural map. Published 30 January 2026; maps SAF/AQ, SAF/AQX, SAF/AQL, SAF/AQR, SAF/AA, SAF/AAH, SAF/AZ, AF/TE and AFOSI/PJ. Sources: UAP Gerb - 'The Hidden Wing', https://www.youtube.com/watch?v=-IXSZe4xVv4, dated 2026-01-30.
 
-It carries 18 connections in total on the board.
+It carries 17 connections in total on the board.
 
 ## Harold E. Puthoff
 
-Harold E. Puthoff is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2010-01-01; axes C2 A3 D3; 16 connections.
+Harold E. Puthoff is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2010-01-01; axes C2 A3 D3; 15 connections.
 
 In one line: President, EarthTech International; AAWSAP DIRD author; former SRI remote-viewing program director.
 
@@ -639,11 +588,10 @@ Affiliations recorded: Stanford Research Institute, remote viewing programs (197
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 18 of 1125, score 110). 18 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 18 of 1057, score 109). 17 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
-- **Tier 1 documented.** A GRANTED US NAVY PATENT CITES HIM BY NAME ON ITS PRINTED FRONT PAGE. The 'Other Publications' list of US 10,144,532, 'Craft using an inertial mass reduction device', assigned to the Secretary of the Navy, includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. This is a documentary join between the Navy filing and Puthoff, printed on the patent, and it is better evidence of the connection than any later statement about the same relationship. Source: US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
 - **Tier 1 documented.** DIA singled this report out as its showcase deliverable: Info Memo U-10-2552 to USD(AT&L) states 'One of the 26 reports, titled Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering was published in March, 2010. It is included as enclosure 2 and is provided as an example of the reports.' Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/
 - **Tier 1 documented.** DIRD DIA-08-1003-015, 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 29 March 2010, ICOD 1 December 2009, 17 pages, exists in the DIA FOIA release with the author line withheld under (b)(6). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/
 - **Tier 1 documented.** EarthTech International Inc., Austin, was founded by Puthoff in 1991 as the corporate vehicle for the Institute for Advanced Studies at Austin (est. 1985). Source: EarthTech International, About page
@@ -651,8 +599,9 @@ Re-graded A on a global pass (rank 18 of 1125, score 110). 18 connections, 8 of 
 - **Tier 1 documented.** Listed in TTSA's Form 1-K as Vice President Science and Technology, age 81, a director, and President and CEO of EarthTech International since 1985 with a 1967 Stanford PhD. Source: SEC EDGAR, TTSA Form 1-K Part II, filed April 2018
 - **Tier 1 documented.** Puthoff and Targ published remote-viewing results in Nature (vol. 251, pp. 602-607) on 18 October 1974. Source: Nature 251, 602-607 (1974)
 - **Tier 1 documented.** Puthoff and Targ's November 1978 SRI paper 'Standard Remote Viewing Protocol (Local Targets)' is part of the declassified CIA STARGATE corpus. Source: CIA STARGATE declassified collection
+- **Tier 1 documented.** Puthoff authored the AAWSAP Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' for EarthTech International. Source: DIA letter to Senate Armed Services Committee listing 38 AATIP products, 9 January 2018, item 5
 
-A further 12 claims sit on this node on the board and are not reproduced here.
+A further 11 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
@@ -663,103 +612,49 @@ A further 12 claims sit on this node on the board and are not reproduced here.
 - Harold E. Puthoff runs out to **National Institute for Discovery Science (NIDS)** (program, board tier A), a institutional link at Tier 1 documented. The link reads: Puthoff was among the consultants Bigelow hired at NIDS in 1995. The New Yorker records that among the consultants Bigelow hired was Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.' Sources: Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker, https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously, dated 2021-05-10; Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News, https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn, dated 1998-08-10.
 - Harold E. Puthoff runs out to **STAR GATE and predecessor remote viewing programs, 1970-1995** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: Ran the SRI International half of the government's psychoenergetics effort. The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme. Sources: Wikipedia: Advanced Aerospace Threat Identification Program, https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program, dated 2026-08-12; Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12; The Black Vault - Army/TTSA CRADA and FOIA records, https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/, dated 2019-10-18; CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF), https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, dated 2026-08-25.
 
-It carries 18 connections in total on the board.
+It carries 17 connections in total on the board.
 
-## Timothy Floyd Burchett
+## John Greenewald Jr.
 
-Timothy Floyd Burchett is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2023-07-26; axes C0 A1 D3; 16 connections.
+John Greenewald Jr. is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2022-08-17; axes C0 A0 D3; 14 connections.
 
-In one line: U.S. Rep. (R-TN-2); House Oversight; founder, Congressional UAP Caucus.
-
-### The longer account
-
-Burchett is the member who forced the modern UAP record into the open. He and Anna Paulina Luna drove the 26 July 2023 House Oversight National Security subcommittee hearing into existence; Ranking Member Robert Garcia thanked him from the dais for the leadership 'that has brought us to this place today,' and Jared Moskowitz did the same. Burchett opened that hearing by putting the first documented stonewall on the record: 'we were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.' He then used his rounds to ask Grusch the questions no one else would - whether people had been harmed or murdered in the course of concealment (Grusch: 'Yes, personally,' and on murder, 'I have to be careful answering that question. I directed people with that knowledge to the appropriate authorities'), and what Special Access Programs cover the material and how they evaded oversight (Grusch: 'I do know the names'). Every one of those answers terminated at a SCIF the committee was not allowed into. He launched the bipartisan Congressional UAP Caucus in August 2023 and led a caucus letter to the Intelligence Community Inspector General; in January 2024 he brought roughly sixteen members to a closed ICIG briefing with Thomas Monheim and rated it a four out of ten - 'more of the same... it's very compartmentalized; it's like looking down the barrel of a .22 rifle.' He led the first push for a UAP select committee under Speaker McCarthy, which died with the speakership. He is the author of every standalone House UAP bill that matters: H.R. 8424 and H.R. 1187 (UAP Transparency Act) and H.R. 10111 and H.R. 5060 (UAP Whistleblower Protection Act). None have received a markup. His structural theory of the concealment is explicit and it is the theory this board is built on: 'You have to imagine Oak Ridge National Laboratory, the Manhattan Project, thousands of people working on the atomic bomb and less than 12 knew what it was.'
-
-### Recorded as unverified
-
-- Who denied the SCIF for the July 2023 hearing and under what authority.
-- Whether Knapp's offered list was ever transmitted to the committee.
-- The subject of the briefing Burchett described on 1 April 2026.
-
-Affiliations recorded: U.S. House of Representatives, TN-2 (2019- ), House Committee on Oversight and Accountability / Government Reform (2019- ), Congressional UAP Caucus, founder (2023- ), Task Force on the Declassification of Federal Secrets (2025- ), Subcommittee on Delivering on Government Efficiency, Chairman (2025- ), US House of Representatives, TN-02 (2019- ), House Oversight Committee, Task Force on the Declassification of Federal Secrets, US House of Representatives (2019-present), House Committee on Oversight and Accountability, US House of Representatives (TN-2).
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 82 of 1125, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** 'Maybe in a - if we could get in a confidential area, a SCIF, we could talk about that. But unfortunately, we were denied access to the SCIF and that is very unfortunate in this scenario.' - said immediately after asking Grusch whether anyone had been murdered. Source: CHRG-118hhrg53022, 26 July 2023
-- **Tier 1 documented.** 'We were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.' Source: Rep. Tim Burchett, opening statement, House Oversight National Security subcommittee hearing, 26 July 2023, GPO transcript CHRG-118hhrg53022
-- **Tier 1 documented.** Burchett introduced H.R. 5060, the UAP Whistleblower Protection Act, in the 119th Congress. Source: Congress.gov, H.R. 5060, 119th Congress
-- **Tier 1 documented.** Burchett introduced H.R. 8197 on 6 April 2026, a four-page bill to abolish AARO, bar any successor entity, and redistribute its functions to the military departments; referred to HASC and HPSCI. Source: H.R. 8197, 119th Congress; Newsweek, 8 April 2026; Political Saucer analysis of the bill text
-- **Tier 1 documented.** Burchett: 'who are the contractors that have this material, the corporations?' Knapp: 'Well, one of them is Lockheed... There is a list I can give you, Congressman.' Source: CHRG-119hhrg61718, 9 September 2025
-- **Tier 1 documented.** Elicited under oath that Grusch has personal knowledge of people harmed or injured in efforts to conceal the technology, and that Grusch directed people with knowledge of deaths to the appropriate authorities. Source: House Oversight hearing transcript, 26 July 2023
-- **Tier 1 documented.** Sponsor of H.R. 8424 and H.R. 1187 (UAP Transparency Act) and H.R. 10111 and H.R. 5060 (UAP Whistleblower Protection Act); none has advanced beyond referral. Source: Congress.gov bill records, 118th and 119th Congresses
-- **Tier 1 documented.** Stated on the record at the hearing that members were denied access to a SCIF, limiting what Grusch could say. Source: House Oversight hearing transcript, 26 July 2023
-
-A further 7 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Timothy Floyd Burchett runs out to **David Charles Grusch** (person, board tier A), a legislative link at Tier 1 documented. The link reads: Elicited the harm, injury and murder answers; recorded the SCIF denial. Burchett drew Grusch's 'Yes, personally' on knowledge of people harmed in the concealment effort and his careful non-answer on murder, then stated on the record that members had been denied SCIF access. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
-- Timothy Floyd Burchett comes in from **United States Department of Defense (secondary designation: Department of War)** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Denied members SCIF access to Grusch before the founding hearing. Burchett's opening statement: members 'were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.' Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-- Timothy Floyd Burchett runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a investigative link at Tier 1 documented. The link reads: Drove the hearing into existence; opened by disclosing the denied SCIF access. Garcia and Moskowitz both credited Burchett's leadership from the dais; Burchett's opening statement records that members were denied a SCIF briefing before the hearing. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-- Timothy Floyd Burchett runs out to **George Knapp** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Burchett asked Knapp to name the corporations; Knapp named Lockheed and offered a list. No list has been published and no committee has reported receiving one, which is itself a documented gap in the record. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- Timothy Floyd Burchett runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a legislative link at Tier 1 documented. The link reads: Elicited Elizondo's corroboration of Grusch under oath. Burchett asked the direct question that produced the only sworn second-source affirmation of Grusch's central allegation in the congressional record. Sources: House Oversight hearing record, Serial No. 118-140, https://www.congress.gov/118/chrg/CHRG-118hhrg57440/CHRG-118hhrg57440.pdf, dated 2024-11-13.
-- Timothy Floyd Burchett runs out to **Immaculate Constellation 12-page report entered into the Congressional Record** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Distributed the document to every member on the dais and moved to enter it. Mace announced that Burchett held the document and would enter it into the record. Sources: U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
-
-It carries 16 connections in total on the board.
-
-## Robert "Bob" Lazar
-
-Robert "Bob" Lazar is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates no dates recorded; axes C0 A0 D3; 14 connections.
-
-In one line: Los Alamos contract technician, 1982; claimant from 1989 of work on alien propulsion at a facility he calls S-4 near Papoose Lake; convicted Nevada felon, 1990.
+In one line: Founder, The Black Vault; FOIA requester of record on AATIP and Elizondo.
 
 ### The longer account
 
-Bob Lazar is the origin point of the best-known claim in the field and, on the opened record, he is a contract electronics technician rather than the physicist the claim requires. In 1982 he worked at Los Alamos, and the Los Alamos Monitor of 27 June 1982 described him on its front page as 'a physicist at the Los Alamos Meson Physics Facility'. That description is the strongest documentary thread in his favour and it carries its own qualification: the Los Alamos telephone directory page that also lists his name states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and a Los Alamos colleague interviewed on tape in 1996 said Lazar 'was a contractor' under Kirk Mayer. In 1989 he told KLAS-TV in Las Vegas, first silhouetted under the pseudonym 'Dennis' and then under his own name, that between December 1988 and April 1989 he had worked at a facility called S-4, about fifteen miles south of Groom Lake, back-engineering the propulsion of nine disc-shaped craft fuelled by a stable isotope of element 115. In 1991 he fixed that account in datable form by narrating it himself on a forty-minute videotape produced with his friend Gene Huff. The credential half of his account has been checked by named people and does not survive: no institutional record of the MIT or Caltech degrees exists, and the professor he named as a Caltech instructor turned out to teach at Pierce Junior College, where Lazar had taken at least one of his classes. The credential question is Tier 1 rather than gossip because Lazar's own reported education, listing a 1978 Pacifica University BS alongside the MIT and Caltech degrees, is printed in his Pre-Sentence Report of 27 July 1990, a Clark County court document produced after he pleaded guilty to felony pandering. What makes him a node is proximity to the claim, not credibility: no clearance is documented anywhere in the opened record, no office, and no physical trace of anything he describes.
-
-### Where the record conflicts
-
-- His own 1991 narration says 'for the duration of my employment at S4 I was paid by the United States Navy'. The W-2 form as others describe it names a 'Department of Naval Intelligence', which is not an entity that exists; the Office of Naval Intelligence sits inside the Department of the Navy. The two statements are not the same statement, and the board carries the discrepancy rather than resolving it, because the form itself was not opened.
-- The Teller anecdote has a date problem. His 1991 narration puts the Los Alamos Monitor jet-car story and Edward Teller's Los Alamos speech on the same day. Tom Mahood's 2018 retrospective puts the Monitor article on 27 June 1982 and Teller's lecture on the following day. The newspaper's own date is fixed, so both cannot be right. The anecdote survives as 'within a day' and is carried as such.
-- The sentence is described differently by two reliable routes. The Las Vegas Review-Journal of 21 August 1990 reports probation with 150 hours of community service and psychotherapy. Douglas Dean Johnson, working from the court file, describes a three-year suspended sentence with probation, completed. These are compatible readings of one disposition but they are not the same wording, and no session has reconciled them against the judgment of conviction itself.
+Greenewald is the private citizen who has done more than any institution to build the documentary base this board runs on. He began filing FOIA requests as a teenager in 1996 and has since obtained and published well over two million pages. Two of his releases are load-bearing for the 1970s-2000s era: DoD FOIA case 97-F-1677, processed by the Office of the Assistant Secretary of Defense in September 1997, which produced the Halt memorandum on Rendlesham and the November 1975 Malmstrom AFB overflight records; and his 2013 Mandatory Declassification Review of the entire NSA UFO holding, which forced further release of documents NSA had previously produced with only a few words visible per page. In 2025 he became the principal test of the Pentagon's own honesty about disinformation: after the Wall Street Journal reported that the Secretary of Defense's office had issued a spring 2023 memo ordering an end to an Air Force practice of falsely telling personnel they were on a reverse-engineering programme, Greenewald filed for the memo. OSD responded in September 2025 that no such record existed; AFOSI said it had no records of any such investigation; the Pentagon spokesperson said in October 2025 she could not confirm the memo existed. In December 2025 an OSD appellate authority granted his appeal and remanded for a new search. That sequence - press claim, government no-records finding, appeal, remand - is the mechanism by which this board's evidence is actually produced.
 
 ### Recorded as unverified
 
-- The W-2 form. It was NOT OPENED by this session in any form. The figure of $958.11 in general circulation is Gene Huff's recollection of a cheque he says he saw, in his own 1995 synopsis; Friedman, who had seen the form, describes it only as 'from the Department of Naval Intelligence', totalling 'under $1000.00'. NO EIN, NO ZIP CODE AND NO BOX CONTENTS ARE ASSERTED ANYWHERE ON THIS BOARD, including the 'E-6722MAJ' string and the employer identification number that circulate in the literature.
-- His polygraph examinations. Referred to constantly in the literature. No source for them was opened and nothing about them is carried on this node.
-- The EG&G recruitment route into the claimed job. It is the standard form of the account in the literature and no source for it was opened, so no edge to eg-and-g is proposed and the node makes no statement about it.
-- His birth date and age. No birth record was opened, so the node carries neither.
-- The Clark County docket number. Douglas Dean Johnson reproduces documents from the file but no case number came through, so none is asserted.
+- Why the Department applied password protection to released PDFs, and whether it was a deliberate processing decision or an artefact of the export pipeline.
+
+Affiliations recorded: The Black Vault, founder (1996-present), The Black Vault (founder, 1996-present), The Black Vault, founder (1996-), The Black Vault.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 53 of 1125, score 77). 14 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 137 of 1057, score 52). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
-- **Tier 1 documented.** A Las Vegas Review-Journal report of Tuesday 19 June 1990, page 8B, by Warren Bates, headed 'Source in Channel 8's UFO series pleads guilty to pandering charge', records the plea and records contemporaneously that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. It also records, from police records, that 'Lazar told her he had master's degrees from two universities'. Source: Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/, opened 2026-09-18
-- **Tier 1 documented.** A Las Vegas Review-Journal report of Tuesday 21 August 1990, page 2C, by Warren Bates, headed 'Judge gives UFO witness Lazar probation on pandering charge', records District Judge Jack Lehman sentencing him to probation with 150 hours of community service, an order to 'stay away from brothels and undergo psychotherapy', and one year of psychotherapy, the judge saying he 'could not make a determination regarding his claims'. Source: Las Vegas Review-Journal, 21 August 1990, p 2C, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/, opened 2026-09-18
-- **Tier 1 documented.** A negative FOIA result worth carrying: The Black Vault, which pursued FBI records on United Nuclear from November 2018 and received three releases totalling 315 pages, states that 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', and comments that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'. Source: The Black Vault, 'FBI File: Bob Lazar's United Nuclear', releases of 55, 130 and 130 pages, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/, opened 2026-09-18
-- **Tier 1 documented.** Douglas Dean Johnson, who obtained the court file, establishes that Lazar received a three-year suspended sentence with probation which he completed; that in 1996 he petitioned to withdraw the guilty plea citing post-traumatic stress, hidden federal records and inadequate representation; that the District Attorney opposed on the ground that 'Lazar's new claims were irrelevant to his admitted and documented criminal activity'; and that the judge denied the petition, so the conviction stands. Source: Douglas Dean Johnson, 'Bob Lazar and his Nevada felony: Some key documents', 31 January 2021, https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/, opened 2026-09-18
-- **Tier 1 documented.** THE 2017 RAID IS A HOMICIDE FILE, NOT A UFO FILE. A two-page Laingsburg, Michigan police report, obtained under a state open-records request by Tim McMillan, records an 'Agency Assist' on 19 July 2017 supporting an FBI search of United Nuclear Scientific in aid of 'a homicide investigation out of Houghton, MI involving poison', and records that Lazar 'evidently waived his Fourth Amendment Rights and gave law enforcement permission to search the premise'. Source: Laingsburg Police Department report, 19 July 2017, published by The Black Vault 1 July 2019, updated 11 June 2020, https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/, opened 2026-09-18
-- **Tier 1 documented.** THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The same 21 August 1990 report describes Lazar's claim, as of that date, as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a different named place from Papoose Lake and from the Nellis range, and the board records the discrepancy rather than smoothing it. Source: Las Vegas Review-Journal, 21 August 1990, p 2C, reprinted at otherhand.org, opened 2026-09-18
-- **Tier 1 documented.** THE CREDENTIAL CLAIM IS A COURT DOCUMENT, WHICH IS WHY IT IS TIER 1 RATHER THAN GOSSIP. Lazar's Pre-Sentence Report of 27 July 1990, produced for the Clark County court after his guilty plea, lists his reported education as '1978, Bachelor of Science Degree in Physics and Electronic Technology, Pacifica University'; '1982, Masters of Science in Physics, MIT'; '1985, Masters of Science in Electronic Technology, Cal Tech'. This is not a television boast that can be blamed on paraphrase; it is what he reported about himself to a court under sentence. Source: Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood in a post of 14 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm, opened 2026-09-18
-- **Tier 1 documented.** THE STANDARD FRAMING OF THE FEDERAL MATTER IS WRONG AND THE PRIMARY RELEASE CORRECTS IT. It is widely repeated, including in Vice's 2019 reporting, that 'in 2006, Lazar pleaded guilty to violating the Federal Hazardous Substances Act'. The U.S. Consumer Product Safety Commission's own release of 20 July 2007 says something materially different: the COMPANY pled guilty, to three criminal counts, and the sentence was reported in 2007. 'United Nuclear Scientific Supplies LLC, of Edgewood, N.M., founded and operated by Robert Lazar, was fined $7,500 and received three years probation', after United Nuclear 'pled guilty to three criminal counts' before U.S. Chief Magistrate Lorenzo F. Garcia of the District of New Mexico. Robert Lazar and accountant Joy White appear in the separate civil consent decree, which permanently limited future sales of fireworks-related chemicals, prohibited sales of fuses, tubes and end caps, and required destruction of remaining inventory. Source: U.S. Consumer Product Safety Commission, Release 07-249, 20 July 2007, https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components, opened 2026-09-18
+- **Tier 1 documented.** FOIA case 18-F-0324 was requested on 17 December 2017 and received its final response on 17 August 2022 from Stephanie L. Carr, Chief of the DoD Freedom of Information Division, releasing eight responsive pages with (b)(6) redactions. Source: DoD FOIA final response letter, 18-F-0324
+- **Tier 1 documented, allegation shaped wording as stored.** In September 2025 OSD responded in FOIA case 25-F-3514 that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged Yankee Blue cessation memo. Source: OSD FOIA final response, case 25-F-3514, September 2025
+- **Tier 1 documented.** In case 2025-06002-F, AFOSI stated it found 'no records' of investigative reports, summaries or closure memos tied to 'Yankee Blue.' Source: AFOSI FOIA response, case 2025-06002-F, 2025
+- **Tier 1 documented.** Obtained and published the DD Form 1910 for the GoFast, Gimbal and FLIR files, the Tipton messaging emails, the Elizondo-Gough correspondence, and the TTSA CRADA-related FOIA denials. Source: The Black Vault document archive
+- **Tier 1 documented, allegation shaped wording as stored.** On 1 October 2025 Pentagon spokesperson Susan Gough stated: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.' Source: Susan Gough, Department of War, emailed statement, 1 Oct 2025
+- **Tier 1 documented.** Requester of record in Department of War OIG FOIA case DODIG-2021-000806, whose fourth interim release of five pages was published 16 June 2026 with approximately 245 pages still pending. Source: https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/
+- **Tier 1 documented.** The Black Vault hosts the mirror of the AARO Historical Record Report Volume I relied on across published UAP research. Source: documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf
+- **Tier 1 documented.** The Black Vault hosts the working public copy of the AARO FY2025 Consolidated Annual Report and documented its release months past the statutory cadence. Source: The Black Vault document archive entry, 21 July 2026
 
-A further 7 claims sit on this node on the board and are not reproduced here.
+A further 2 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
-- Robert "Bob" Lazar comes in from **The Black Vault** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article. GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file. Sources: The Black Vault, 'FBI File: Bob Lazar's United Nuclear', https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/, dated 2023-11.
-- Robert "Bob" Lazar runs out to **The Lazar Tape and Excerpts from the Government Bible (1991)** (document, board tier C), a research link at Tier 1 documented. The link reads: Co-author and narrator of the 1991 videotape. MAPPED FROM AN ORIGINAL INTENT OF 'custody'. The relation is authorship of a document, which the board's ruling of 18 September 2026 types as research, because custody is weighted x3.0 as a programme edge and giving a claimant a triple-weighted edge to his own artefact would inflate him. Sources: The Lazar tape and excerpts from the Government Bible, Internet Archive item record, https://archive.org/details/antigravity, dated 1991.
-- Robert "Bob" Lazar comes in from **Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'** (document, board tier C), a investigative link at Tier 1 documented. The link reads: Front-page newspaper story about him, seven years before the claim. MAPPED FROM AN ORIGINAL INTENT OF 'custody', which was wrong: he is the subject of the article, not its author or its holder. Journalism about a person is typed investigative here. The article's description of him as a physicist is what he told the reporter, and the qualification travels with the edge. Sources: Los Alamos Monitor, 27 June 1982, A1 and A8, by Terry England, reprinted by Tom Mahood, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/, dated 1982-06-27.
-- Robert "Bob" Lazar comes in from **Clark County, Nevada felony pandering file, 1990 and 1996** (document, board tier C), a denial link at Tier 1 documented. The link reads: The court file contradicts his own credential account, in his own reported words. THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour. Sources: Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm, dated 1990-07-27.
-- Robert "Bob" Lazar comes in from **Tim McMillan** (person, board tier C), a investigative link at Tier 1 documented. The link reads: Obtained the Laingsburg police report and traced the 2017 raid to a homicide investigation. The documentary correction to the claim that the July 2017 search was about recovering element 115. Sources: Tim McMillan, Vice, https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/, dated 2019-11-13.
-- Robert "Bob" Lazar comes in from **Stanton T. Friedman** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: Credential investigation: located Duxler at Pierce, found no institutional record. 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
+- John Greenewald Jr. runs out to **AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Hosts the working public mirror of Volume I. The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original. Sources: The Black Vault - AARO Historical Record Report Volume I (mirror), https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+- John Greenewald Jr. runs out to **AARO FY2025 Consolidated Annual Report on UAP** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Established publicly that the FY2025 report was released months late. The Black Vault, not the Department, documented that the statutory annual report missed its cadence, and hosts the working public copy. Sources: The Black Vault - AARO releases FY2025 UAP report months after statutory deadline, https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/, dated 2026-07-21; AARO - FY2025 Consolidated Annual Report on UAP (PDF), https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf, dated 2026-07-21.
+- John Greenewald Jr. runs out to **Susan Gough** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Recipient of the 13 June 2019 and 6 December 2019 statements. Both of the Department's pivotal statements were issued to a FOIA requester rather than at a podium. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/, dated 2019-12-06.
+- John Greenewald Jr. comes in from **1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)** (event, board tier A), a investigative link at Tier 1 documented. The link reads: Malmstrom records released to The Black Vault under FOIA case 97-F-1677. The same September 1997 OASD release that produced the Halt memo produced the November 1975 Malmstrom overflight records. Sources: Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677), https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/, dated 2021-11-08; The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997), https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/, dated 2021-11-11.
+- John Greenewald Jr. comes in from **YANKEE BLUE (alleged AFOSI indoctrination program)** (program, board tier B), a investigative link at Tier 1 documented. The link reads: Greenewald's FOIA requests and appeal are the test of the YANKEE BLUE claim. OSD case 25-F-3514 returned no records in September 2025; AFOSI case 2025-06002-F returned no records; the appeal was granted and remanded on 15 December 2025. Sources: John Greenewald Jr., 'Pentagon Denies Existence of "Yankee Blue" Memo Reported by Wall Street Journal', The Black Vault, https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/, dated 2025-09-16; John Greenewald Jr., 'Pentagon Reopens Search for Alleged "Yankee Blue" Memo After Initial Denial', The Black Vault, https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/, dated 2025-12-15.
+- John Greenewald Jr. comes in from **341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)** (document, board tier B), a custody link at Tier 1 documented. The link reads: Requester of the 9 May 2001 FOIA that produced the release. Greenewald filed the request of 9 May 2001 that produced the release, and the copy in public circulation is his. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
 
 It carries 14 connections in total on the board.
 
@@ -796,7 +691,7 @@ Affiliations recorded: Central Intelligence Agency, Office of Scientific Intelli
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 46 of 1125, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 44 of 1057, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -846,7 +741,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 29 of 1125, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
+Re-graded A on a global pass (rank 29 of 1057, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -867,8 +762,8 @@ A further 9 claims sit on this node on the board and are not reproduced here.
 - Susan Gough comes in from **Luis D. Elizondo** (person, board tier A), a behavioral link at Tier 1 documented. The link reads: Direct correspondence, 5 June 2019 and 3 June 2020: 'I ran the program'. Released in the Department's own reading room under FOIA 21-F-0938. He also gave her a list of people who could confirm his role. The Department's response, if any, has not been released in full. Sources: DoD FOIA Reading Room, 21-F-0938, https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf, dated 2021-01-01; The Black Vault, Elizondo's letters to the Pentagon, https://www.theblackvault.com/documentarchive/luis-elizondo-and-his-letters-to-the-pentagon-about-his-claims-and-credibility/, dated 2021-01-01; House Oversight, Written Testimony of Luis Elizondo, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf, dated 2024-11-13.
 - Susan Gough runs out to **Luis D. Elizondo** (person, board tier A), a denial link at Tier 1 documented. The link reads: 'no assigned responsibilities for AATIP'. Issued in response to the authenticated Harry Reid memorandum, with the assertion that the memo 'makes no change to previous statements'. She added that DIA administered AATIP and Elizondo was never assigned to DIA. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/, dated 2019-06-13; OSD/WHS FOIA 21-F-0938 - Elizondo emails, https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf, dated 2021-01-01.
 - Susan Gough runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a denial link at Tier 1 documented. The link reads: Post-hearing statement rebutting the harm claims. Gough stated the Department has no information that any individual has been harmed or killed as a result of providing information to AARO, and warned that unsubstantiated harm claims discourage witnesses. Grusch's sworn claim was about harm in the concealment effort, not about providing information to AARO - the denial answers a question that was not asked. Sources: DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses, https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/, dated 2023-07-31.
-- Susan Gough comes in from **John Greenewald Jr.** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Recipient of the 13 June 2019 and 6 December 2019 statements. Both of the Department's pivotal statements were issued to a FOIA requester rather than at a podium. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/, dated 2019-12-06.
 - Susan Gough runs out to **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a denial link at Tier 1 documented. The link reads: 6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'. A direct reversal of her own colleague's May 2019 statement, justified on the ground that Sherwood was repeating what an earlier spokesperson had said and that spokesperson 'is no longer with my organization'. Sources: The Black Vault, The Pentagon Corrects Record, https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program/, dated 2019-12-06.
+- Susan Gough runs out to **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a institutional link at Tier 1 documented. The link reads: 21 May 2021 partial reversal: contract 'allowed for research... including reports of UAPs'. Eighteen months after the flat denial, the Department conceded UAP reports were within AATIP's research scope while insisting they were not its purpose. The denial of Elizondo's role did not move. Sources: Blue Blurry Lines, The Pentagon's Updated Statement, https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html, dated 2021-05-21.
 
 It carries 15 connections in total on the board.
 
@@ -892,7 +787,7 @@ Affiliations recorded: Senate Select Committee on Intelligence, Minority Staff D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 81 of 1125, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 76 of 1057, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -940,7 +835,7 @@ Affiliations recorded: U.S. House of Representatives, SC-1 (2021- ), House Overs
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 106 of 1125, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded A on a global pass (rank 102 of 1057, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -965,110 +860,6 @@ A further 3 claims sit on this node on the board and are not reproduced here.
 - Nancy Ruth Mace comes in from **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a legislative link at Tier 1 documented. The link reads: Chaired the joint subcommittee hearing. Joint hearing of the Cybersecurity/IT/Government Innovation and National Security/Border/Foreign Affairs subcommittees, with Rep. Glenn Grothman co-chairing. Sources: Congress.gov, House event 117721, https://www.congress.gov/event/118th-congress/house-event/117721, dated 2024-11-13.
 
 It carries 13 connections in total on the board.
-
-## Paul Frederick Bennewitz
-
-Paul Frederick Bennewitz is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1980-11-10; axes C1 A0 D3; 11 connections.
-
-In one line: Physicist; president, Thunder Scientific Corp.; target of AFOSI disinformation 1980-1988.
-
-### The longer account
-
-Bennewitz is the clearest documented casualty of a US counterintelligence operation run against an American civilian over UFO information. He was a working physicist who ran Thunder Scientific Corporation, an instrumentation firm whose customers included the Air Force, from a property whose sightlines took in the Manzano Weapons Storage Area and Coyote Canyon on the eastern edge of Kirtland AFB. From 1979 he recorded lights and electronic signals over the Manzano nuclear-weapons storage complex and reported them - to the Air Force, in writing, repeatedly. The Air Force's documented response was an AFOSI file: a formal AFOSI complaint-form record dated 10 November 1980 confirming that Kirtland security police had observed unexplained aerial objects over Coyote Canyon and that Bennewitz's photography and reporting were under official notice. What followed, on the accounts of the AFOSI personnel involved, was not an investigation but a feed: Bennewitz was supplied with fabricated material about underground alien bases, treaties and biological experiments, calibrated to his existing beliefs, in order to discredit him and to mask whatever it was he had actually recorded near a nuclear storage site. He deteriorated, was hospitalised for psychiatric care in 1988, and died in 2003. The Bennewitz affair is the template: the state does not need to seize a witness's evidence if it can destroy the witness's credibility, and it can do that using its own personnel, on the record, with no legal consequence.
-
-### What is left unexplained
-
-AFOSI's own 1980 document concedes unexplained objects over a nuclear weapons storage area. No follow-up investigation of that concession has ever been released.
-
-### Where the record conflicts
-
-- No official US government report has ever acknowledged the Bennewitz disinformation operation. AARO's 2024 Historical Record Report Volume I does not mention Bennewitz, Doty, AFOSI or Kirtland at all.
-
-### Recorded as unverified
-
-- The content of the material Bennewitz recorded on his equipment has never been independently analysed; his original data is not publicly held.
-
-Affiliations recorded: Thunder Scientific Corporation, Albuquerque (founder/president), Aerial Phenomena Research Organization (associate).
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 193 of 1125, score 45). 11 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** An AFOSI record dated 10 November 1980 documents that Kirtland AFB security police observed unexplained aerial objects over the Coyote Canyon/Manzano area and that Bennewitz's reporting was under official notice. Source: AFOSI complaint-form record, Kirtland AFB, 10 Nov 1980, released under FOIA
-- **Tier 1 documented.** INDEPENDENT CONFIRMATION OF THE 1980 AFOSI RECORD. The complaint form reproduced by NICAP from the CUFON archive carries AFOSI Det 1700 at Kirtland AFB, District File No. 8017D93-0/29, and Richard C Doty, SA, on its face, together with named 1608 Security Police Squadron observers: SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier at approximately 2350 hrs on 8 August 1980, and an unnamed Sandia security guard at approximately 0020 hrs on 9 August 1980 who requested anonymity. Source: AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, opened 2026-09-19
-- **Tier 1 documented.** THE BURIAL RECORD, WHICH THE LITERATURE NEVER CARRIES. Paul Frederick Bennewitz Jr, 30 September 1927 to 23 June 2003, buried at Santa Fe National Cemetery, Santa Fe County, New Mexico, Section 12 Site 402, marker inscribed 'S1C US COAST GUARD WORLD WAR II'. The man at the centre of the best-documented domestic disinformation operation in this subject was a Second World War Coast Guard seaman who ran a humidity-instrument company. Source: Find a Grave memorial 17482201, https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz, opened 2026-09-19
-- **Tier 2 named person on the record.** At 0:34:30 in the same episode Bishop said that in his own reading Bennewitz 'was his own worst enemy' and that the specific thing he knows Bill Moore did was to be told to give Bennewitz the Aquarius document, in which two of Bennewitz's own films are mentioned. The author of the standard account is on the record limiting what he says was actually done to the man. Source: American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:34:30
-- **Tier 2 named person on the record.** Bennewitz is the origin point of the Dulce claim, from about 1979, in the dated chronology of the cluster's originators. Myrna Hansen's 1980 abduction claim was connected to Dulce by Bennewitz after he had begun to suspect a facility there. Source: Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, opened 2026-09-19
-- **Tier 2 named person on the record.** HIS OWN DATED DOCUMENT, WHICH THE BOARD HAS NOT CARRIED. Bennewitz summarised his own investigation in late 1981 in a roughly five-thousand-word report titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)'. Two fragments of it were read: 'IN TRUTH THEY TEND TO LIE, HOWEVER THEIR MEMORY FOR LYING IS NOT LONG' and 'THEY MUST BE MADE TO COME DOWN - DESTRUCT THEMSELVES WHICH IS A STANDING ORDER'. Tier 2 because the fragments were read in a 2025 newsletter and not in the document. Source: Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz, opened 2026-09-19
-- **Tier 2 named person on the record.** On American Alchemy with Jesse Michels, 5 July 2025, at 0:36:14, Greg Bishop said that Doty told him, and he thinks Moore told him, that the Air Force flew Bennewitz by helicopter from Kirtland to Archuleta Mesa on the Jicarilla Apache reservation and showed him a site, and that jeeps, water tanks 'and all kind of stuff' had been placed there as props so his attention would move away from Kirtland. At 0:37:25 he said something did later crash there, that Bennewitz reached the site only after it had been cleaned up, and that what was found was burned ground, broken brush and a pen marked US government property. Nothing in the board's files mentions Archuleta. Source: American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:36:14 and 0:37:25, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918
-- **Tier 2 named person on the record.** Richard Doty, then an AFOSI special agent, has stated publicly that he supplied Bennewitz with false documents and false information as part of an official effort. Source: Richard Doty, on-record interviews and documentary appearances, 2005-2013
-
-A further 1 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Paul Frederick Bennewitz runs out to **AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I** (document, board tier A), a denial link at Tier 1 documented. The link reads: AARO's 2024 historical review makes no mention of Bennewitz, Doty, AFOSI or Kirtland. The best-documented instance of US government disinformation about UFOs directed at an American citizen is entirely absent from the government's own historical review of the subject. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
-- Paul Frederick Bennewitz comes in from **Kirtland AFB / Manzano Weapons Storage Area incident** (event, board tier B), a investigative link at Tier 1 documented. The link reads: AFOSI opened a file covering the observations Bennewitz was reporting. Confirmed independently this session from the NICAP reproduction. The record establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that a file was opened. It establishes nothing about what the objects were. Sources: AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, dated 2026-09-19.
-- Paul Frederick Bennewitz runs out to **AFOSI Kirtland AFB UFO File (1980-1983)** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Bennewitz's reporting generated the AFOSI Kirtland file. The 10 November 1980 AFOSI record documents Kirtland security police observations of unexplained objects over Coyote Canyon and notes Bennewitz's photography and reporting. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
-- Paul Frederick Bennewitz comes in from **Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)** (document, board tier C), a investigative link at Tier 1 documented. The link reads: The principal documented account of the affair. Tier 1 as a bibliographic record of a book about him. The participant-account caveat, Bishop's undisclosed friendship with Bill Moore as reported by a writer relying on Bishop, goes in this note and not in the tier: it bars the book from being the sole source for a claim about Moore's conduct, it does not degrade the record of the book's existence. Sources: Open Library bibliographic record for Greg Bishop, 'Project Beta', Paraview Pocket Books, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877, https://openlibrary.org/books/OL7950835M/Project_Beta, dated 2026-09-19; Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?', https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz, dated 2025-11-29.
-- Paul Frederick Bennewitz runs out to **Dulce Base (alleged facility, Archuleta Mesa, New Mexico)** (location, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Origin point of the Dulce claim, from about 1979. Bennewitz is the first person to attach a facility claim to Dulce, from about 1979, in the dated chronology of the cluster's originators, and he connected Myrna Hansen's 1980 account to it after he had begun to suspect a site there. The edge records that he asserted it and nothing more. Sources: Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors', https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, dated 2016-08-29.
-- Paul Frederick Bennewitz comes in from **Richard C. Doty** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Two-sided: the reported admission, and his own recorded denial of harm. The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing. Sources: Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies', https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650, dated 2014-05-13; Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M, dated 2026-09-19; Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
-
-It carries 11 connections in total on the board.
-
-## Richard C. Doty
-
-Richard C. Doty is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1983-04-01; axes C1 A2 D2; 11 connections.
-
-In one line: USAF AFOSI Special Agent 1979-1988; later New Mexico State Police officer.
-
-### The longer account
-
-Doty is the only US counterintelligence officer to have stated on camera and on the record that he personally ran disinformation about UFOs against American civilians as part of his official duties. As an AFOSI special agent at Kirtland AFB from 1979, he authored or handled the 1980-1983 Kirtland documents concerning unexplained objects over Coyote Canyon, fed fabricated material to Paul Bennewitz, and in April 1983 showed the documentary producer Linda Moulton Howe a briefing paper purporting to describe a government programme - the 'Project Aquarius' teletype - which she was not permitted to copy. He was also a conduit in the emergence of the MJ-12 material through Bill Moore. He left AFOSI in 1988 and later served as a New Mexico State Police officer; his 321-page state police personnel file was obtained under the New Mexico Inspection of Public Records Act and published in 2021, giving the first full documentary picture of his post-Air Force career. Doty's value to this board is not that his statements are reliable - they are not, and he has repeatedly changed them - but that his existence is the proof of concept. The United States assigned a counterintelligence officer to manage the UFO information environment. He has said so. Whatever else is in dispute, that is not.
-
-### What is left unexplained
-
-No US government document has ever acknowledged the authority under which an AFOSI agent conducted a multi-year disinformation campaign against a US citizen.
-
-### Where the record conflicts
-
-- AARO's 2024 Historical Record Report Volume I makes no mention of Doty, AFOSI, Bennewitz or Kirtland - an omission in a report whose stated purpose was to address the historical record of USG involvement with UAP.
-
-### Recorded as unverified
-
-- Doty's varying claims about what he was shown or told inside AFOSI cannot be corroborated from any released document.
-
-Affiliations recorded: US Air Force Office of Special Investigations (c.1979-1988), New Mexico State Police (1990s-2000s).
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 116 of 1125, score 57). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** Doty's complete releasable New Mexico State Police personnel file runs to 321 pages and was obtained under NMSA 14-2-1 et seq. Source: The Black Vault, Richard Doty personnel file release, 20 May 2021
-- **Tier 1 documented.** HIS AFOSI SERVICE IS DOCUMENTED BY THE FILE ITSELF AND NEEDS NO INTERVIEW TO SUPPORT IT. The 1980 AFOSI complaint form reproduced by NICAP carries 'Richard C Doty, SA' on its face, under AFOSI Det 1700, Kirtland AFB, New Mexico, District File No. 8017D93-0/29. Every claim of his service should be sourced here rather than to any of his own later accounts. Source: AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, opened 2026-09-19
-- **Tier 1 documented.** His complete releasable New Mexico State Police personnel file runs to 321 pages and 39.5 MB, was obtained by John Greenewald under the New Mexico Inspection of Public Records Act, NMSA 14-2-1 et seq., and was released by the New Mexico Department of Public Safety with redactions on 20 May 2021. The landing page does not print his Air Force service dates, rank progression or separation: those are inside the PDF and the PDF was not opened by this session. Source: The Black Vault, 'Richard Doty Personnel File - New Mexico State Police', 20 May 2021, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, opened 2026-09-19
-- **Tier 2 named person on the record.** Doty has stated publicly that he provided false documents and false information to Paul Bennewitz as part of his AFOSI duties. Source: Richard Doty, on-record documentary and press interviews, 2005-2013
-- **Tier 2 named person on the record.** Doty showed Linda Moulton Howe a document at Kirtland AFB in April 1983 that she has described as a government briefing paper on retrieved craft and occupants. Source: Linda Moulton Howe, contemporaneous notes and repeated public accounts from 1983 onward
-- **Tier 2 named person on the record.** IN THE SAME CLIP HE GIVES BENNEWITZ'S MATERIAL AN EXTRATERRESTRIAL MEANING. Wording approximate, from the same auto-captions: 'he tapped into something national security programs that he shouldn't have had access to...he was collecting frequencies that were up any high gigahertz that we didn't have at that time period in the 1980s so it had to come from it an ET source'. And on custody: 'I wish I knew it went to headquarters...and from that point on I would guess dia has a repository someplace and it went there'. Source: Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M, opened 2026-09-19
-- **Tier 2 named person on the record.** On American Alchemy with Jesse Michels, 5 July 2025, at 0:23:44 to 0:24:30, the episode describes the 1977 Ellsworth Air Force Base case of missile security officer Mario Woods and cuts in Woods's own voice saying of his debrief 'Next to him was this new OSI guy named Rick Doty', and later that when he saw him again on television he thought 'I know that guy. He was at my debrief.' Michels and Greg Bishop then date it to a year or two before the Bennewitz operation. The transcript renders the name Dodi and Dodie throughout. Source: American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:23:44 to 0:24:30, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918
-- **Tier 2 named person on the record.** THE ADMISSION SIDE, AND IT IS WEAKER THAN IT LOOKS. A dated named-outlet report states that Doty says he was tasked with hoaxing documents and feeding false information to UFO researchers while an AFOSI special agent at Kirtland, that he was ordered to make Paul Bennewitz believe in an impending alien invasion, and that he entered Bennewitz's house and office under orders. The piece paraphrases throughout and contains no direct quotation from him. It also records that the Air Force 'refuses to comment' and did not answer the author's letter. Source: Alejandro Rojas, HuffPost Weird News, 13 May 2014, https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650, opened 2026-09-19
-
-A further 3 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Richard C. Doty runs out to **Air Force Office of Special Investigations** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Documented AFOSI special agent at Kirtland, 1980. Documented by the complaint form itself rather than by any of his own later accounts, which is the point: his service does not depend on the reliability of a self-described disinformation officer. Sources: AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, dated 2026-09-19; Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
-- Richard C. Doty runs out to **Kirtland AFB / Manzano Weapons Storage Area incident** (event, board tier B), a custody link at Tier 1 documented. The link reads: Filed the AFOSI complaint form documenting the incident. Complaint form dated 9 September 1980, District File No. 8017D93-0/29, 'alleged sighting of unidentified aerial lights in restricted test range'. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
-- Richard C. Doty runs out to **AFOSI Kirtland AFB UFO File (1980-1983)** (document, board tier B), a research link at Tier 1 documented. The link reads: Named on the complaint form as the special agent who filed it. The form carries 'Richard C Doty, SA' under AFOSI Det 1700, Kirtland AFB, District File No. 8017D93-0/29. Typed research as the producer of a document, never custody. This is the Tier 1 source for his AFOSI service and should replace any interview-sourced claim of it. Sources: AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, dated 2026-09-19.
-- Richard C. Doty runs out to **Richard Doty New Mexico State Police Personnel File [321 pages]** (document, board tier C), a institutional link at Tier 1 documented. The link reads: 321-page New Mexico State Police personnel file released 2021. Obtained under NMSA 14-2-1 et seq. after federal channels produced nothing; state public-records law delivered what FOIA did not. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
-- Richard C. Doty runs out to **Dulce Base (alleged facility, Archuleta Mesa, New Mexico)** (location, board tier A), a denial link at Tier 2 named person on the record. The link reads: Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied. A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such. Sources: Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M, dated 2026-09-19.
-- Richard C. Doty runs out to **Paul Frederick Bennewitz** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Two-sided: the reported admission, and his own recorded denial of harm. The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing. Sources: Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies', https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650, dated 2014-05-13; Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M, dated 2026-09-19; Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
-
-It carries 12 connections in total on the board.
 
 ## Robert T. Bigelow
 
@@ -1096,7 +887,7 @@ Affiliations recorded: Budget Suites of America (1988-present), National Institu
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 55 of 1125, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 53 of 1057, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -1117,8 +908,8 @@ A further 3 claims sit on this node on the board and are not reproduced here.
 - Robert T. Bigelow comes in from **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a funding link at Tier 1 documented. The link reads: Most of the ~$22m went to Bigelow Aerospace, 2008-2011. Reported by the New York Times with Bigelow on record describing modified Las Vegas buildings for storing recovered metal alloys. Sources: New York Times (NICAP copy), https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf, dated 2017-12-16.
 - Robert T. Bigelow runs out to **KONA BLUE** (program, board tier A), a funding link at Tier 1 documented. The link reads: Bigelow's organisation was the anticipated contract performer for the proposed program. AARO notes the material 'was only assumed to exist by KONA BLUE advocates and its anticipated contract performers,' and that the proposed lines of effort mirrored the private sector organisation's AAWSAP work. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
 - Robert T. Bigelow runs out to **Skinwalker Ranch, Uintah Basin, Utah** (location, board tier A), a custody link at Tier 1 documented. The link reads: purchased the ranch in 1996 and owned it throughout the DIA contract. The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed. Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; Zack Van Eyck, 'Frequent Fliers?', Deseret News, https://www.deseret.com/1996/6/30/19251541/frequent-fliers, dated 1996-06-30; Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News, https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn, dated 1998-08-10; Wikipedia - Skinwalker Ranch, https://en.wikipedia.org/wiki/Skinwalker_Ranch, dated 2026-08-12.
-- Robert T. Bigelow comes in from **George Knapp** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Knapp introduced Harry Reid to Robert Bigelow. The single most causally consequential act by any journalist in this domain: the introduction that produced NIDS, then AAWSAP and BAASS, and therefore the entire modern Pentagon lineage. Sources: Wikipedia - George Knapp, https://en.wikipedia.org/wiki/George_Knapp_(television_journalist), dated 2026-08-12.
 - Robert T. Bigelow runs out to **Harry M. Reid** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: constituent relationship behind the appropriation. Reid has said publicly that Bigelow's interest and briefings prompted him to pursue the funding; both men are Nevadans and the contract went to a Nevada firm. Sources: KLAS 8 News Now, Reid interview, https://www.8newsnow.com/investigators/i-team-former-sen-harry-reid-talks-ufos-in-sit-down-interview/, dated 2021-05-01.
+- Robert T. Bigelow comes in from **George Knapp** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Knapp introduced Harry Reid to Robert Bigelow. The single most causally consequential act by any journalist in this domain: the introduction that produced NIDS, then AAWSAP and BAASS, and therefore the entire modern Pentagon lineage. Sources: Wikipedia - George Knapp, https://en.wikipedia.org/wiki/George_Knapp_(television_journalist), dated 2026-08-12.
 
 It carries 11 connections in total on the board.
 
@@ -1140,7 +931,7 @@ Affiliations recorded: Defense Intelligence Agency, Defense Warning Office (1990
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 102 of 1125, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 99 of 1057, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1182,7 +973,7 @@ Affiliations recorded: American Alchemy (2021-present), Thiel Capital (investor)
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 605 of 1125, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 560 of 1057, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1235,7 +1026,7 @@ Affiliations recorded: National Security Agency (physicist / technical director)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 42 of 1125, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 42 of 1057, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1284,7 +1075,7 @@ Affiliations recorded: The Debrief (2023), The New York Times (2017-2019, contri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 224 of 1125, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 202 of 1057, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1307,6 +1098,52 @@ A further 1 claims sit on this node on the board and are not reproduced here.
 - Leslie Kean runs out to **The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin** (document, board tier B), a investigative link at Tier 1 documented. The link reads: Co-author; vetted Grusch through Nell and the NASIC officer. Kean built the story on named and verified corroborators rather than on Grusch alone, interviewing Karl Nell to establish standing and securing the pseudonymous NASIC officer on the record. Sources: The Debrief, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/, dated 2023-06-05.
 - Leslie Kean runs out to **Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)** (event, board tier C), a investigative link at Tier 1 documented. The link reads: Plaintiff who forced a court-supervised NASA records search. Kean filed the complaint on 9 December 2003, obtained a 27 March 2007 finding that NASA had not shown its searches adequate, settled in part on 16 October 2007 and litigated status reports until dismissal on 24 August 2009. Sources: Kean v. NASA docket, No. 1:03-cv-02509 (D.D.C.), https://www.courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-administration/, dated 2026-08-12; Memorandum Opinion, Kean v. NASA, 27 March 2007, https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf, dated 2007-03-27.
 - Leslie Kean runs out to **The Debrief** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: The Debrief published the Grusch story the NYT did not run. The same authors whose AATIP scoop the New York Times published in 2017 took the 2023 Grusch story to The Debrief. The placement, not the verification, is the notable fact. Sources: The Debrief - About, https://thedebrief.org/about/, dated 2026-08-12.
+
+It carries 10 connections in total on the board.
+
+## Richard C. Doty
+
+Richard C. Doty is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1983-04-01; axes C1 A2 D2; 10 connections.
+
+In one line: USAF AFOSI Special Agent 1979-1988; later New Mexico State Police officer.
+
+### The longer account
+
+Doty is the only US counterintelligence officer to have stated on camera and on the record that he personally ran disinformation about UFOs against American civilians as part of his official duties. As an AFOSI special agent at Kirtland AFB from 1979, he authored or handled the 1980-1983 Kirtland documents concerning unexplained objects over Coyote Canyon, fed fabricated material to Paul Bennewitz, and in April 1983 showed the documentary producer Linda Moulton Howe a briefing paper purporting to describe a government programme - the 'Project Aquarius' teletype - which she was not permitted to copy. He was also a conduit in the emergence of the MJ-12 material through Bill Moore. He left AFOSI in 1988 and later served as a New Mexico State Police officer; his 321-page state police personnel file was obtained under the New Mexico Inspection of Public Records Act and published in 2021, giving the first full documentary picture of his post-Air Force career. Doty's value to this board is not that his statements are reliable - they are not, and he has repeatedly changed them - but that his existence is the proof of concept. The United States assigned a counterintelligence officer to manage the UFO information environment. He has said so. Whatever else is in dispute, that is not.
+
+### What is left unexplained
+
+No US government document has ever acknowledged the authority under which an AFOSI agent conducted a multi-year disinformation campaign against a US citizen.
+
+### Where the record conflicts
+
+- AARO's 2024 Historical Record Report Volume I makes no mention of Doty, AFOSI, Bennewitz or Kirtland - an omission in a report whose stated purpose was to address the historical record of USG involvement with UAP.
+
+### Recorded as unverified
+
+- Doty's varying claims about what he was shown or told inside AFOSI cannot be corroborated from any released document.
+
+Affiliations recorded: US Air Force Office of Special Investigations (c.1979-1988), New Mexico State Police (1990s-2000s).
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 306 of 1057, score 36). 10 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** Doty's complete releasable New Mexico State Police personnel file runs to 321 pages and was obtained under NMSA 14-2-1 et seq. Source: The Black Vault, Richard Doty personnel file release, 20 May 2021
+- **Tier 2 named person on the record.** Doty has stated publicly that he provided false documents and false information to Paul Bennewitz as part of his AFOSI duties. Source: Richard Doty, on-record documentary and press interviews, 2005-2013
+- **Tier 2 named person on the record.** Doty showed Linda Moulton Howe a document at Kirtland AFB in April 1983 that she has described as a government briefing paper on retrieved craft and occupants. Source: Linda Moulton Howe, contemporaneous notes and repeated public accounts from 1983 onward
+- **Tier 2 named person on the record.** On American Alchemy with Jesse Michels, 5 July 2025, at 0:23:44 to 0:24:30, the episode describes the 1977 Ellsworth Air Force Base case of missile security officer Mario Woods and cuts in Woods's own voice saying of his debrief 'Next to him was this new OSI guy named Rick Doty', and later that when he saw him again on television he thought 'I know that guy. He was at my debrief.' Michels and Greg Bishop then date it to a year or two before the Bennewitz operation. The transcript renders the name Dodi and Dodie throughout. Source: American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:23:44 to 0:24:30, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918
+
+### Its strongest connections
+
+- Richard C. Doty comes in from **Air Force Office of Special Investigations** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Doty served as an AFOSI special agent at the Kirtland detachment. The AFOSI Kirtland file and Doty's later New Mexico State Police personnel file, released in 321 pages, document his AFOSI service during the Manzano intrusion period. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Richard C. Doty runs out to **Kirtland AFB / Manzano Weapons Storage Area incident** (event, board tier B), a custody link at Tier 1 documented. The link reads: Filed the AFOSI complaint form documenting the incident. Complaint form dated 9 September 1980, District File No. 8017D93-0/29, 'alleged sighting of unidentified aerial lights in restricted test range'. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Richard C. Doty runs out to **Richard Doty New Mexico State Police Personnel File [321 pages]** (document, board tier C), a institutional link at Tier 1 documented. The link reads: 321-page New Mexico State Police personnel file released 2021. Obtained under NMSA 14-2-1 et seq. after federal channels produced nothing; state public-records law delivered what FOIA did not. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
+- Richard C. Doty runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Doty's AFOSI detachment ran the Bennewitz deception from Kirtland. Richard C. Doty, an AFOSI special agent at Kirtland, has said publicly he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz. A 1992 article held in the CIA library names Doty and William Moore. Sources: Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
+- Richard C. Doty runs out to **William L. Moore** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz. Moore told the 1989 MUFON symposium that he had worked with Air Force counterintelligence in exchange for access, and had knowingly fed Bennewitz false material. Sources: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy, https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/, dated 1997-01-01; Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer, https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/, dated 1988-01-01.
+- Richard C. Doty runs out to **Paul Frederick Bennewitz** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Ran fabricated material at Bennewitz out of the same AFOSI office. Doty has acknowledged on the record passing fabricated documents to Bennewitz while an AFOSI agent; Bennewitz's psychiatric collapse is the documented outcome. This is the field's baseline case for government-authored disinformation. Sources: HuffPost - Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Incident, https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650, dated 2014-05-13; Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
 
 It carries 10 connections in total on the board.
 
@@ -1340,7 +1177,7 @@ Affiliations recorded: Stanford University School of Medicine, Professor of Path
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 119 of 1125, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 115 of 1057, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -1389,7 +1226,7 @@ Affiliations recorded: Stanford Research Institute, Augmentation Research Center
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 289 of 1125, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 259 of 1057, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -1411,55 +1248,6 @@ Re-graded B on a global pass (rank 289 of 1125, score 39). 9 connections, 0 of t
 - Jacques F. Vallee comes in from **Operação Prato (Operation Saucer)** (program, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Vallee was shown the Prato military file at First Air Force headquarters in 1988. From Vallee's Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, 'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: "...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato."' Tier 2, diary testimony quoted at one remove, with no FAB document confirming the meeting. Sources: Jacques Vallee, 'Forbidden Science Volume Three' (diary of the July 1988 Brazil trip), quoted in Basterfield, 'Investigative adventures in Brazil'; Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 
 It carries 9 connections in total on the board.
-
-## Steven M. Greer
-
-Steven M. Greer is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2001-05-09; axes C0 A0 D3; 9 connections.
-
-In one line: Emergency physician; founder of CSETI (1990) and the Disclosure Project (1993); National Press Club event 9 May 2001.
-
-### The longer account
-
-Greer built the first mass witness-aggregation project and demonstrated both its power and its limits. A practising emergency physician, he founded the Center for the Study of Extraterrestrial Intelligence in 1990 and the Disclosure Project in 1993 with the explicit aim of assembling former military and government personnel willing to testify to Congress. On 9 May 2001 he convened roughly twenty of them at the National Press Club in Washington - radar operators, missile launch officers, air traffic controllers, FAA personnel - and announced that more than four hundred had given testimony, demanding congressional hearings with subpoena power and amnesty for witnesses. The event drew heavy international coverage and produced no hearing. Its consequence for the record is twofold. First, it created a large videotaped corpus of named former personnel making specific, dated, on-the-record claims, some of which - notably the missile-facility shutdown accounts - align with the FOIA-released overflight documents from 1975. Second, Greer's subsequent trajectory into claims that outran his evidence gave the institutions he was pressuring a durable reason to treat the whole category as unserious. The Clinton White House's own UFO FOIA collection (2006-0474-F) consists in the majority of documents Greer sent it, which is a precise measure of how the material was received: filed as correspondence.
-
-### Where the record conflicts
-
-- Greer's later claims - including assertions about non-human biological specimens - are unsupported and are routinely used to discredit the 2001 witness corpus as a whole.
-- Central claims (Atacama skeleton, CE-5 contact) are disproven or unfalsifiable; treated by structural investigators as a discrediting vector rather than a source.
-
-### Recorded as unverified
-
-- The full four-hundred-plus witness archive has never been independently catalogued or corroborated.
-
-Affiliations recorded: Center for the Study of Extraterrestrial Intelligence (founder, 1990), The Disclosure Project (founder, 1993), CSETI (founder, 1990).
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 222 of 1125, score 43). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** He conducts the interviews in the document himself and his presence is printed inside the transcripts: each testimony carries an initials key of the form 'SG: Dr. Steven Greer', and his editorial interjections are printed within the witness text marked 'SG]'. THE DOCUMENT IS THEREFORE NOT A NEUTRAL COMPILATION AND CAPS AT TIER 2 THE MOMENT IT IS ASKED TO SUPPORT THE CONTENT OF A CLAIM RATHER THAN THE EXISTENCE OF THE TESTIMONY. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
-- **Tier 1 documented.** He is named on the title page of the Disclosure Project Briefing Document of April 2001 as its author and compiler, jointly with Theodore C. Loder III, Ph.D.: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' The document gives his address as 'The Disclosure Project, PO Box 265, Crozet, VA 22932'. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
-- **Tier 1 documented.** The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracking forms, memos, reports, email and cables relating to UFO's or extraterrestrial beings. A majority of the collection are documents which were sent to the White House by Steven M. Greer, the head of a nongovernmental organization called the Center for the Study of Extraterrestrial Intelligence (CSETI).' Source: Clinton Digital Library collection finding aid, identifier 2006-0474-F
-- **Tier 2 named person on the record.** ABC News, reporting from the National Press Club on 9 May 2001, records his claim of 'some 400 witnesses who claim to have firsthand experience with UFO sightings or alien evidence, and are willing to testify before Congress'. Klass, in the same season, records that the book published alongside the event contains 69 interview transcripts, of whom 20 spoke at the conference. Source: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, opened 2026-09-19
-- **Tier 2 named person on the record.** Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club press conference featuring 20 retired Air Force, FAA and intelligence officers. Source: Wikipedia, 'Steven M. Greer', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 2 named person on the record.** Greer held a National Press Club event on 8 May 2026. Source: UAP Gerb livestream description, 12 May 2026
-- **Tier 2 named person on the record, allegation shaped wording as stored.** Klass records that Greer refused him admission to a comparable press conference in 1997 and 'reportedly refused the request for admission by Fund For UFO Research officials' in 2001. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
-- **Tier 2 named person on the record.** On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power. Source: Disclosure Project National Press Club event, Washington DC, 9 May 2001; contemporaneous international press coverage
-
-A further 1 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Steven M. Greer comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Witness to Greer's compilation; Greer writes the editorial notes around his testimony. Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Steven M. Greer comes in from **Disclosure Project Briefing Document, April 2001** (document, board tier B), a custody link at Tier 1 documented. The link reads: Named as its director and compiler. Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Steven M. Greer comes in from **Disclosure Project Briefing Document, April 2001** (document, board tier B), a research link at Tier 1 documented. The link reads: Written and compiled by Greer, who also conducted every interview in it. AUTHORSHIP, TYPED research. Title page: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' He is also the interviewer in every transcript, printed as 'SG', and his editorial interjections appear inside the witness text marked 'SG]'. This edge is the structural reason the document caps at Tier 2 for content. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Steven M. Greer comes in from **Michael Herrera** (person, board tier B), a custody link at Tier 1 documented. The link reads: Named on the record as the custodian who supplied the written testimony. Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'. Sources: Serial CHRG-119hhrg61718, printed record of 9 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- Steven M. Greer runs out to **Disclosure Project press conference, National Press Club, 9 May 2001** (event, board tier C), a institutional link at Tier 1 documented. The link reads: Organiser of the event. ABC News, on the day: Greer 'organized the program at the National Press Club in Washington'. Sources: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, dated 2001-05-09.
-- Steven M. Greer runs out to **John D. Podesta** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Greer's CSETI submissions form the majority of the Clinton White House UFO file. Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
-
-It carries 10 connections in total on the board.
 
 ## Colm A. Kelleher
 
@@ -1486,7 +1274,7 @@ Affiliations recorded: National Institute for Discovery Science, project manager
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 195 of 1125, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 178 of 1057, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1507,56 +1295,6 @@ Re-graded B on a global pass (rank 195 of 1125, score 45). 8 connections, 1 of t
 - Colm A. Kelleher runs out to **George Knapp** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: 'Hunt for the Skinwalker' (2005), the book that triggered the contract. Lacatski read it and wrote to Bigelow in June 2007; a trade paperback is the documented first cause of a $22 million federal program. Sources: KLAS Mystery Wire, https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/, dated 2021-08-01.
 - Colm A. Kelleher runs out to **National Institute for Discovery Science (NIDS)** (program, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Kelleher was NIDS deputy administrator and ran field operations. Kelleher managed the ranch instrumentation, the necropsy response programme and the hotline casework for the institute's whole life. Sources: Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News, https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn, dated 1998-08-10; Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131, https://journalofscientificexploration.org/index.php/jse/article/view/2857, dated 2023-05-02.
 - Colm A. Kelleher runs out to **Robert T. Bigelow** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Continuous employment across NIDS and BAASS under the same principal. Kelleher's move from NIDS project manager to BAASS deputy administrator meant the DIA-funded programme inherited a pre-existing private case and sample archive rather than building one. Sources: Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics, https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/, dated 2020-02-14.
-
-It carries 8 connections in total on the board.
-
-## Edgar Fouche
-
-Edgar Fouche is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2017-05-11; axes C0 A1 D3; 8 connections.
-
-In one line: USAF master sergeant and avionics maintenance NCO, later a DoD contractor engineering manager; originating claimant of the TR-3B in an August 1998 presentation.
-
-### The longer account
-
-Edgar Albert Fouche is the single named origin of the TR-3B account, and what makes him a node is that origin and not any documented authority. The ordinary facts of his life are settled at Tier 1: born 22 February 1948 in Americus, Georgia, died 11 May 2017 aged 69, buried at Coffey Cemetery in Mason County, Texas, and independently fixed at 1948 by the Library of Congress name authority attached to his own book. The career the opened records document is a twenty year enlisted avionics maintenance career: F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bay, a Strategic Air Command liaison post at Kelly AFB, a Community College of the Air Force associate degree in avionics systems technology, and three Meritorious Service Medals whose citations describe exactly that work. It is an honourable record and an entirely ordinary one, and nothing in it touches aerospace design, propulsion or physics. Everything extraordinary rests on his own word in documents he wrote and copyrighted himself: the Top Secret and 'Q' clearances, the descent from Napoleon's minister of police, the helicopter flights to Groom Lake, and the TR-3B. One document is a real counterweight and the node must carry it: an AF Form 77a of 24 August 1979 records him assigned temporary duty to AFFTC Detachment 3 on the Nellis range for ten weeks, and Peter Merlin, the historian whose analysis demolishes most of the rest of the account, is the source that identifies Detachment 3 AFFTC as the unit operating Groom Lake. That form also says its own limit out loud: his duties there 'have been verified via a separate report', and that separate report is not in the file. In July 1998 he published a novel with Brad Steiger; the Library of Congress catalogues it as science fiction. In August 1998 he gave the presentation that put the TR-3B into the world.
-
-### Where the record conflicts
-
-- Three different figures for the length of his career circulate and are not the same figure. His own 1998 presentation says 'My Career Background Spans 30 Years' and, separately, 'As a civilian, from 1987 to 1995, I performed as Engineering Program Manager, Site Manager, and Director of Engineering for several DoD Contractors'. The Find a Grave summary of the funeral home obituary says twenty years in the USAF plus DoD project management to a 2001 retirement. The three are reconcilable but none was reconciled from an opened record.
-- The temporary duty dates on the AF Form 77a, 1 June to 14 August 1979, extend past 16 July 1979, which is the date Andrew Johnson gives as the close of the Nellis assignment in the FOIA return. Temporary duty running concurrently with, and past the nominal end of, a permanent assignment is normal, but the overlap is recorded here rather than smoothed over, because the FOIA return itself was not opened and the two records were therefore never compared directly.
-
-### Recorded as unverified
-
-- That he ever stood at an International UFO Congress podium. The contemporaneous programme for the 7th Annual International UFO Congress Convention gives dates of 1 to 7 February 1998 at the Gold River Resort, Laughlin, Nevada, and its speaker list of 24 names does not include him. His own transcript is headed 'Copyright Aug. 1998' and his own text says he spoke at Laughlin 'in August'. The International UFO Congress ran summer sessions separately from its February convention, so August is consistent rather than contradictory, but no contemporaneous programme, report, ticket or press notice placing him on any podium in 1998 was opened. The venue attribution rests on his own document and on later repetition of it.
-- Any recorded admission by him that he lied. The arvp.co.uk TR-3B page asserts 'Jeremy Rys found him to have lied in his talk. He said he was pressured by people at iUFOC to mention S4'. No page or video authored by Jeremy Rys about Fouche was opened. The video said to record an admission is David Hilton's, and the only account of it that was opened says its screen could not be read: 'The video is about an alleged Skype conversation with Edgar Fouche, but I could not see the screen clearly enough in Hilton's video to verify the claims he was making'. The Paracast thread titled 'Ed Fouche comes clean - He is a liar and fraud!' contains no confession; its opening post is 'He is simply a faker.' No confession is in evidence anywhere in the opened record.
-- His screen credits. IMDb returned HTTP 403 to this environment on both the mobile and desktop hosts. The Union Pictures documentary he names in the presentation, and its broadcast date, were not opened, so his own claim that his documents were shown in it is uncorroborated.
-- A death date of 6 May 2018 at age 82 surfaced in a search result during this research and is wrong on both counts. No opened record supports it. It is recorded here so that a later session does not re-import it.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 208 of 1125, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** A Meritorious Service Medal citation in his own published document collection reads: 'Master Sergeant Edgar A. Fouche distinguished himself in the performance of outstanding service to the United States as Noncommissioned Officer in Charge, F-16 Manual Test Station and Assistant Integrated Avionics Superintendent, 6100th Logistics Support Squadron, Kadena Air Base, Japan, from 5 September 1979 to 1 March 1982'. Source: Edgar Fouche's Military, and DOD contractors reference Documents, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, opened 2026-09-18
-- **Tier 1 documented.** A second Meritorious Service Medal citation, oak leaf cluster, signed by John T. Chain, Jr., General, USAF, Commander in Chief, reads: 'as the Strategic Air Command Liaison Officer, San Antonio Air Logistics Center, Kelly Air Force Base, Texas, from 17 July 1983 to 31 August 1987', and closes 'The singularly distinctive accomplishments of Sergeant Fouche culminate a distinguished career in the service of his country'. Source: Edgar Fouche's Military, and DOD contractors reference Documents, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, opened 2026-09-18
-- **Tier 1 documented.** Find a Grave memorial 180498305, created 18 June 2017 and citing an obituary from Mason Funeral Home, records Edgar Albert Fouche, born 22 February 1948 in Americus, Georgia, died 11 May 2017 aged 69, buried at Coffey Cemetery, Streeter, Mason County, Texas, with the inscription 'Saved by the blood of Jesus Christ'. It states he 'served 20 years in the USAF and worked as a Project Manager in the DOD until his 2001 retirement'. Source: Find a Grave memorial 180498305, https://www.findagrave.com/memorial/180498305/edgar-albert-fouch%C3%A9, opened 2026-09-18
-- **Tier 1 documented.** The Library of Congress name authority attached to LCCN 98002961 gives the author as 'Fouche, Edgar Rothschild, 1948-', independently fixing the birth year against a national bibliographic authority rather than against his own account. Source: Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, http://lx2.loc.gov:210/lcdb, opened 2026-09-18
-- **Tier 1 documented.** The same collection carries an Air Training Command Associate in Applied Science degree in Avionics Systems Technology conferred July 1983 through the Community College of the Air Force, a 1970 Field Training Detachment certificate in Solid State Devices, and a February 1974 McDonnell Aircraft Corporation certificate for the F-15 Eagle Integrated Avionics Component Technicians Course. Every item in the collection is a decoration, a training certificate, a performance report, a degree, or one personnel assignment letter. There is no discharge certificate, no DD Form 214, no clearance record and no programme document. Source: Edgar Fouche's Military, and DOD contractors reference Documents, 15 pages read in full, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, opened 2026-09-18
-- **Tier 2 named person on the record.** Andrew Johnson reports that a FOIA return obtained by David Hilton and posted on 25 September 2014 lists Lackland AFB (1967), Keesler AFB and Cannon AFB (1968), 'F-15 Manual Test Station Shift Chief, 57th Component Repair Squadron, Nellis Air Force Base, Nevada, from June 1976 to 16 July 1979', the Kadena assignment, and decorations including the Vietnam Service Medal and Republic of Vietnam Gallantry Cross with Palm Device. The FOIA return itself was not opened by this research. Source: Andrew Johnson, checktheevidence.com, 13 January 2015, https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/, opened 2026-09-18
-- **Tier 2 named person on the record.** He states the documents were vetted before the talk: 'Before I gave a presentation to the International UFO Congress in Laughlin, Nevada in August, I brought over 200 documents as an offer of proof to substantiate my credibility... These documents were viewed by Ken Seddington of the International UFO Congress, Jim Courrant, a UFO investigator, and Tim Shawcross and John Purdie of Union Pictures in London England.' None of these four people was contacted and no account by any of them was opened, so the claim that the documents were vetted is itself unvetted. Source: Fouche 1998 presentation text as carried at https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt, opened 2026-09-18
-- **Tier 2 named person on the record.** In his own 1998 presentation he claims clearances no opened record corroborates: 'I've held positions within the USAF that required me to have Top Secret and Q Clearances and Top Secret - Crypto access clearances.' No clearance record of any kind was opened. Source: Presentation to IUFOR by Edgar Rothshild Fouche, Copyright Aug. 1998, Fouche Media Associates, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, 1998-08
-
-A further 2 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Edgar Fouche runs out to **United States Air Force** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: USAF master sergeant; twenty year avionics maintenance career, three Meritorious Service Medals. Tier 1 and entirely ordinary. The citations describe F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bed-down, and a Strategic Air Command liaison post at Kelly AFB. The second Meritorious Service Medal citation closes 'culminate a distinguished career', which dates the end of active service to 1987. Sources: Decoration certificates and citations, performance reports and education certificates in the self-published compilation, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 2014-06-15.
-- Edgar Fouche comes in from **Edgar Fouche's Military, and DOD contractors reference Documents** (document, board tier B), a research link at Tier 1 documented. The link reads: Self-published compilation about and by its own subject. INTENT: AUTHORSHIP AND SELF-PUBLICATION, mapped to research rather than custody so that the subject of a file is not given a x3.0 program edge to his own compilation. The compilation is about him, published by him, redacted by him on its own caption's admission, and one passage in it is signed 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'. Sources: Edgar Fouche's Military, and DOD contractors reference Documents, caption text layer, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 2014-06-15.
-- Edgar Fouche comes in from **Check The Evidence (checktheevidence.com), Andrew Johnson** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Custodian of the Fouche file, under a named operator. Mirrors the board's existing arvp-fluxliner-project to mark-mccandlish custody edge. The distinction worth recording is that this custodian signs and dates his posts by name, where arvp.co.uk is anonymous. Sources: Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/, dated 2014-02-11.
-- Edgar Fouche runs out to **Fouche's presentation transcript, August 1998** (document, board tier B), a research link at Tier 1 documented. The link reads: Author and copyright holder of the presentation transcript. INTENT: AUTHORSHIP. The board has no authorship edge type, and authorship is deliberately NOT built as custody here, because custody is weighted x3.0 as a program edge and giving a claimant a x3 edge to his own document would inflate him. Mapped to research. The document's first four lines are 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, page 1 header, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
-- Edgar Fouche runs out to **Alien Rapture: The Chosen, Galde Press, 1998** (document, board tier C), a research link at Tier 1 documented. The link reads: Primary author of Alien Rapture: The Chosen. INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives 'Fouche, Edgar Rothschild, 1948-' with usage primary and a statement of responsibility reading 'Edgar Rothschild Fouche and Brad Steiger.' Sources: Library of Congress catalogue record LCCN 98002961, MODS, name usage primary, http://lx2.loc.gov:210/lcdb, dated 1998-02-04.
-- Edgar Fouche runs out to **Groom Lake, Nevada** (location, board tier A), a geographic link at Tier 2 named person on the record. The link reads: Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation. The strongest documented connection between any TR-3B claimant and a real classified airfield, and it must be read with its own limit attached: the form does not say what he did there, referring that out to 'a separate report' that is not in the file, and everything else on the form describes F-15 avionics intermediate shop work. The extensive Groom Lake narration in the 1998 presentation, including helicopter flights and a mess hall conversation about an NSA system, is Tier 2 on his word alone. Sources: AF Form 77a, 24 August 1979, page 3 of the compilation, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 1979-08-24; Presentation to IUFOR by Edgar Rothshild Fouche, slide 42 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
 
 It carries 8 connections in total on the board.
 
@@ -1587,7 +1325,7 @@ Affiliations recorded: US Navy (2009-2019), VFA-11 Red Rippers, USS Theodore Roo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 177 of 1125, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 161 of 1057, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1607,15 +1345,179 @@ A further 1 claims sit on this node on the board and are not reproduced here.
 - Ryan Graves comes in from **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Co-witness, 26 July 2023 hearing panel. Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
 - Ryan Graves runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26.
 - Ryan Graves runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Lead witness at the July 2023 House Oversight hearing. Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record. Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-- Ryan Graves comes in from **United States Navy** (institution, board tier B), a witness-chain link at Tier 1 documented. The link reads: Navy F/A-18F pilot turned first active-duty-era witness before Congress. In his own words: 'My name is Ryan "FOBS" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation. Sources: Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023, https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf
 - Ryan Graves runs out to **USS Theodore Roosevelt Encounters (2014-2015)** (event, board tier B), a witness-chain link at Tier 1 documented. The link reads: VFA-11 aircrew during the 2014-2015 encounter series. Graves testified in writing that his squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis' after the AESA radar upgrade. Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
 - Ryan Graves runs out to **Americans for Safe Aerospace** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Founder and Executive Director. Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023. Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26.
+- Ryan Graves comes in from **United States Navy** (institution, board tier C), a witness-chain link at Tier 1 documented. The link reads: Navy F/A-18F pilot turned first active-duty-era witness before Congress. In his own words: 'My name is Ryan "FOBS" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation. Sources: Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023, https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf
 
 It carries 10 connections in total on the board.
 
+## William L. Moore
+
+William L. Moore is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1989-07-01; axes C0 A1 D2; 8 connections.
+
+In one line: Co-author, 'The Roswell Incident' (1980); first recipient of the MJ-12 film; self-confessed conduit for AFOSI disinformation.
+
+### The longer account
+
+William L. Moore wrote the book that made Roswell a public case and then, nine years later, told a room full of ufologists that he had been working with Air Force counterintelligence. With Charles Berlitz he published 'The Roswell Incident' (Grosset & Dunlap, 1980), built on Stanton Friedman's 1978 contact with Jesse Marcel Sr. and on the second-hand Barney Barnett material, and it established the modern case. In December 1984 he and Jaime Shandera received in the post a roll of undeveloped 35mm film containing the Eisenhower Briefing Document and the Truman-Forrestal memorandum - the origin of the entire MJ-12 corpus that Friedman then spent a decade defending and Randle a decade attacking. At the 1989 MUFON symposium in Las Vegas, Moore stated publicly that from about 1980 he had cooperated with personnel of the Air Force Office of Special Investigations, and that he had knowingly passed disinformation to the Albuquerque physicist and businessman Paul Bennewitz, whose mental health collapsed under it. That admission is the single most consequential statement ever made by a researcher in this field, and this board treats it structurally rather than moralistically: it establishes, on the admission of the participant, that a US counterintelligence element used a civilian UFO researcher as a delivery channel for fabricated material into the UFO community. Any document, witness or claim entering the record through that channel between roughly 1980 and 1989 - and the MJ-12 papers arrived in the middle of it - carries a provenance problem that cannot be argued away.
+
+### Where the record conflicts
+
+- Friedman continued to regard the MJ-12 core documents as authentic after Moore's admission; Randle regarded the admission as conclusive against them.
+
+### Recorded as unverified
+
+- The names of the AFOSI personnel Moore says he dealt with, and whether any AFOSI record of the relationship has ever been requested or released. Nothing responsive has surfaced.
+
+Affiliations recorded: Fair-Witness Project, Co-author with Charles Berlitz, 'The Roswell Incident' (1980).
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 277 of 1057, score 38). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - both cited in CIA's own 1997 history of the Agency's UFO role. Source: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93
+- **Tier 1 documented.** The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book. Source: Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148
+- **Tier 2 named person on the record.** 'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992. Source: Publisher's imprint and library catalogue records; DEMOTED from Tier 1 (the same assertion is Tier 2 on the-roswell-incident-1980); needs primary replacement
+- **Tier 2 named person on the record.** Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz. Source: William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989
+- **Tier 2 named person on the record.** Moore stated at the 1989 MUFON symposium that he had cooperated with US Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz. Source: Moore's own statement to the 1989 MUFON symposium, subsequently published in full in MUFON and Focus/Fair-Witness materials
+- **Tier 3 stated inference.** The 1984 arrival of the MJ-12 film at Moore's address falls inside the window he later admitted was a period of cooperation with AFOSI, which is sufficient on its own to bar the MJ-12 corpus from tier 1 or tier 2 status regardless of any forensic analysis. Reasoning: the recipient of an anonymous delivery has admitted to being an operational channel for the agency most likely to have sent it. Source: Chronological overlay of Moore's admitted 1980-1989 cooperation window on the December 1984 MJ-12 delivery
+
+### Its strongest connections
+
+- William L. Moore runs out to **MJ-12 / Operation Majestic-12 Documents** (document, board tier B), a custody link at Tier 1 documented. The link reads: Moore controlled the MJ-12 material's release with Shandera and Friedman. Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication 1500 in 1990, cited in CIA's own 1997 UFO history. Sources: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy, https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/, dated 1997-01-01; FBI Records: The Vault - 'Majestic 12', https://vault.fbi.gov/Majestic%2012, dated 2011-04-01.
+- William L. Moore runs out to **The Majestic Documents archive (Wood and Wood)** (program, board tier C), a custody link at Tier 1 documented. The link reads: The archive's core corpus entered the record through Moore's mailbox. The Eisenhower Briefing Document and Truman-Forrestal memorandum arrived as undeveloped 35mm film addressed to Moore and Shandera in December 1984; everything downstream in the corpus dates from that delivery. Sources: The Majestic Documents (Wood & Wood), https://majesticdocuments.com/, dated 2026-08-12.
+- William L. Moore runs out to **The Roswell Incident (Berlitz and Moore, 1980)** (document, board tier C), a research link at Tier 1 documented. The link reads: Co-authored the founding Roswell book. Charles Berlitz and William L. Moore, Grosset & Dunlap, 1980, ISBN 978-0448211992. Sources: Berlitz and Moore, 'The Roswell Incident' (1980), https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012, dated 1980-01-01.
+- William L. Moore comes in from **Richard C. Doty** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz. Moore told the 1989 MUFON symposium that he had worked with Air Force counterintelligence in exchange for access, and had knowingly fed Bennewitz false material. Sources: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy, https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/, dated 1997-01-01; Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer, https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/, dated 1988-01-01.
+- William L. Moore runs out to **Paul Frederick Bennewitz** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Moore admitted in 1989 to feeding Bennewitz false information. On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens. Sources: Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
+- William L. Moore runs out to **Kevin D. Randle** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12. Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
+
+It carries 8 connections in total on the board.
+
+## Harry S. Truman
+
+Harry S. Truman is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1946-01-22; axes C2 A3 D1; 7 connections.
+
+In one line: President of the United States from 12 April 1945; signatory of the 22 January 1946 intelligence directive and of the National Security Act of 1947.
+
+### The longer account
+
+The president who signed the founding instruments of the structure this board maps has had no node on it, because the board's prose says 'Truman' and never 'Harry'. Two records settle the office and the instruments. The directive of 22 January 1946 creates the National Intelligence Authority and the Central Intelligence Group and the post of Director of Central Intelligence, and carries his signature. The National Security Act of 1947, approved 26 July 1947, creates the National Security Council, the Central Intelligence Agency, the National Military Establishment and a Research and Development Board, and requires the Secretary of Defense to come from civilian life. He is here for the instruments, not for anything said about him on a podcast.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 225 of 1057, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** Section 102(d)(5) of the same Act is the residual authority every later covert-action directive is written under: the Agency is 'to perform such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct.' Source: National Security Act of 1947, Public Law 80-253, 61 Stat. 495, sec. 102(d)(5), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf
+- **Tier 1 documented.** The 22 January 1946 directive is signed by him and creates the office by fiat: 'It is my desire, and I hereby direct, that all Federal foreign intelligence activities be planned, developed and coordinated so as to assure the most effective accomplishment of the intelligence mission related to the national security.' The Director of Central Intelligence 'shall be designated by me'. Source: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71
+- **Tier 1 documented.** The Department of State's own list of persons gives the office and its start: 'Truman, Harry S., President of the United States from April 12, 1945'. Source: FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons
+- **Tier 1 documented.** The same directive draws the domestic line the board's later argument keeps testing: 'No police, law enforcement or internal security functions shall be exercised under this directive', and it makes the Authority and the Director 'responsible for fully protecting intelligence sources and methods'. Source: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71
+- **Tier 1 documented.** The statute approved on 26 July 1947 creates, in one instrument, the Council, the Agency and the military establishment: 'There is hereby established a council to be known as the National Security Council'; 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence, who shall be the head thereof'; 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof.' Source: National Security Act of 1947, Public Law 80-253, ch. 343, 61 Stat. 495, secs. 101(a), 102(a), 201(a), approved 26 July 1947, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf
+
+### Its strongest connections
+
+- Harry S. Truman runs out to **United States Department of Defense (secondary designation: Department of War)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Signed the statute that created the National Military Establishment. Section 201(a) establishes the National Military Establishment under a Secretary of Defense who, by section 202(a), must be appointed from civilian life. Sources: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71), https://history.state.gov/historicaldocuments/frus1945-50Intel/d71, dated 1946-01-22.
+- Harry S. Truman runs out to **Central Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Signed the statute that created the Agency. Section 102(a) of the National Security Act of 1947, approved 26 July 1947, establishes the Central Intelligence Agency under the National Security Council. Sources: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71), https://history.state.gov/historicaldocuments/frus1945-50Intel/d71, dated 1946-01-22.
+- Harry S. Truman runs out to **United States Air Force** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Signed the statute that created the Department of the Air Force. Section 2's declaration of policy provides three military departments including the Air Force, and section 101(a) names a Secretary of the Air Force appointed under section 207. Sources: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71), https://history.state.gov/historicaldocuments/frus1945-50Intel/d71, dated 1946-01-22.
+- Harry S. Truman comes in from **Defense Advanced Research Projects Agency** (institution, board tier B), a legislative link at Tier 1 documented. The link reads: Founded under the authority of the 1947 Act. The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
+- Harry S. Truman runs out to **Rear Adm. Sidney W. Souers** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Designated the first Director of Central Intelligence. The directive reserves the designation to the President: 'The Director of Central Intelligence shall be designated by me'. The board's Souers node already carries the office and its dates. Sources: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71), https://history.state.gov/historicaldocuments/frus1945-50Intel/d71, dated 1946-01-22.
+- Harry S. Truman comes in from **CIA Office of Policy Coordination** (institution, board tier B), a legislative link at Tier 1 documented. The link reads: Chartered under section 102(d)(5) of the Act he signed. The directive names its own authority as the residual clause of the National Security Act of 1947, approved 26 July 1947. Sources: NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292), https://history.state.gov/historicaldocuments/frus1945-50Intel/d292, dated 1948-06-18.
+
+It carries 7 connections in total on the board.
+
+## Jesse A. Marcel Sr.
+
+Jesse A. Marcel Sr. is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1978-02-20; axes C3 A2 D3; 7 connections.
+
+In one line: Intelligence officer, 509th Bomb Group.
+
+### The longer account
+
+Major Jesse Marcel was the staff intelligence officer of the 509th Bomb Group and the officer who physically handled the Foster ranch debris in July 1947, going to the site with Counter Intelligence Corps Capt. Sheridan Cavitt and carrying material back to the base and onward to Fort Worth. He is the highest-custody witness in the entire 1940s record: not a distant observer, but the man whose job was to identify recovered materiel and who was then photographed in Gen. Ramey's office beside weather balloon debris he later said had been substituted for what he brought in. Marcel said nothing publicly for thirty-one years. In February 1978 he told researcher Stanton Friedman that the balloon explanation was a cover story and that the material he recovered was not from any device he could identify, the interview that restarted the entire Roswell inquiry and, downstream, produced the 1994-1997 Air Force reports and the 1995 GAO records search. His son, Dr. Jesse Marcel Jr., separately described handling the debris as a child. The Air Force's counter-position, that Marcel was mistaken about Project MOGUL balloon materials, is recorded here as the official rebuttal it is.
+
+### What is left unexplained
+
+No disposition authority has ever been produced for the destruction of the RAAF outgoing message traffic covering the exact period of the recovery.
+
+### Where the record conflicts
+
+- Marcel overstated parts of his military biography in later interviews, which the Air Force uses to impeach him; the overstatements do not bear on what he handled in July 1947
+
+### Recorded as unverified
+
+- Whether material was substituted between Roswell and Fort Worth on 8 July 1947
+
+Affiliations recorded: 509th Bomb Group, Roswell Army Air Field, S-2 Intelligence (1946-1948), US Air Force, Special Weapons Program (1948-1950).
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 129 of 1057, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** Marcel was the 509th Bomb Group intelligence officer who collected debris at the Foster ranch with CIC Capt. Sheridan Cavitt, and was photographed with debris at Fort Worth on 8 July 1947. Source: USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview
+- **Tier 1 documented.** The Air Force's own 1995 and 1997 reports concluded the recovered material was from Project MOGUL balloon trains, directly contradicting Marcel. Source: USAF, 'The Roswell Report: Fact vs. Fiction' (1995) and 'The Roswell Report: Case Closed' (1997)
+- **Tier 2 named person on the record.** Marcel stated in 1978 that the weather balloon explanation was a cover story and the recovered material was not identifiable as any known device. Source: Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978
+- **Tier 2 named person on the record.** Marcel told Stanton Friedman in February 1978 that the material he recovered was not from a weather balloon and was not of terrestrial manufacture, and that the material displayed at Fort Worth was substituted. Source: Friedman's account of the 1978 interview; repeated in Berlitz and Moore (1980) and in Marcel's own filmed interviews
+- **Tier 2 named person on the record.** Marcel was named in the 8 July 1947 Roswell Army Air Field press release as the intelligence officer responsible for the recovery, and was photographed at Fort Worth AAF with debris identified there as a weather balloon and radar target. Source: RAAF press release and Fort Worth AAF press photographs, July 1947; reproduced in the 1995 Air Force report as Fig. 4, 'Maj. Jesse Marcel With Flying Disc Debris'
+- **Tier 3 stated inference.** Marcel's silence from 1947 to 1978 is more probative than his 1978 statement: a career intelligence officer who believed he had been publicly humiliated by a substitution had thirty-one years and a reserve pension's worth of reasons to say nothing, and did. Reasoning: the timing of his disclosure tracks his retirement and the death of the officers senior to him, not the arrival of a book contract. Source: Inference from his service chronology
+- **Tier 3 stated inference.** The GAO's finding that the relevant RAAF messages and administrative records were destroyed without disposition authority means Marcel's account cannot be checked against the primary record, which is itself the point. Source: Inference from GAO/NSIAD-95-187, p.3
+
+### Its strongest connections
+
+- Jesse A. Marcel Sr. runs out to **Roswell Incident** (event, board tier A), a custody link at Tier 1 documented. The link reads: Marcel physically handled the recovered debris. The 509th's staff intelligence officer collected the Foster ranch material with CIC Capt. Sheridan Cavitt and carried it to Fort Worth. His custody role is documented in the Air Force's own 1995 report. Sources: USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01.
+- Jesse A. Marcel Sr. runs out to **The Roswell Reports (USAF, 1994-1997)** (document, board tier B), a denial link at Tier 1 documented. The link reads: The Air Force reports were produced to rebut Marcel's account. Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies. Sources: USAF, The Roswell Report: Case Closed (1997), https://archive.org/details/DTIC_ADA326147, dated 1997-06-24; USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01.
+- Jesse A. Marcel Sr. comes in from **Roger M. Ramey** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Ramey's headquarters overrode Marcel's base-level identification. Marcel was photographed in Ramey's office beside balloon debris on 8 July 1947; thirty-one years later he stated the material had been substituted. The photographs are reproduced in the 1995 USAF report. Sources: USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01.
+- Jesse A. Marcel Sr. runs out to **Roswell Incident** (event, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Marcel was the 509th intelligence officer who recovered the debris. Marcel and Cavitt were assigned by RAAF to retrieve the material from the Foster Ranch after Brazel reported it to Sheriff Wilcox on 6 July 1947. Sources: Wikipedia - Roswell incident, https://en.wikipedia.org/wiki/Roswell_incident, dated 2026-08-12.
+- Jesse A. Marcel Sr. comes in from **Walter Haut** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Haut's 8 July 1947 press release named Marcel as the recovering officer. The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard's order, identified the intelligence officer responsible. This is the only same-week official document naming a custodian of the material. Sources: Walter Haut - Wikipedia, https://en.wikipedia.org/wiki/Walter_Haut, dated 2026-08-12.
+- Jesse A. Marcel Sr. comes in from **Stanton T. Friedman** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Friedman's February 1978 interview reopened Roswell. Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
+
+It carries 8 connections in total on the board.
+
+## Kirsten E. Gillibrand
+
+Kirsten E. Gillibrand is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2021-12-27; axes C0 A2 D3; 7 connections.
+
+In one line: D-NY; author of Sec. 1683, FY2022 NDAA (50 U.S.C. 3373).
+
+### The longer account
+
+Gillibrand built the statutory machine that everything else in this domain hangs off. Section 1683 of the FY2022 NDAA, P.L. 117-81, signed 27 December 2021 and codified at 50 U.S.C. 3373, ordered the Secretary of Defense and the DNI to stand up a permanent office to absorb the UAP Task Force, to force reporting into a centralized repository, and to report to Congress. It was restated a year later by Section 6802 of the Intelligence Authorization Act for FY2023, enacted inside P.L. 117-263 on 23 December 2022, which named the office the All-domain Anomaly Resolution Office, put its Director reporting to the Deputy Secretary of Defense and the Principal Deputy DNI, and at subsection (j) demanded a written historical record report on the United States Government's dealings with UAP built from intelligence community records, oral history interviews and interviews of current and former officials. In February 2023 Gillibrand and Rubio led sixteen senators demanding full funding for AARO, arguing it 'provides the opportunity to integrate and resolve threats and hazards to the U.S., while also offering increased transparency.' She was an original cosponsor of S.Amdt. 797 in July 2023. Her posture is different from Schumer's: she legislates the plumbing, not the seizure. It is her plumbing, Sections 1841-1843 of the FY2024 NDAA, that survived when Schumer's Review Board did not, and it is that surviving language she invoked on 8 May 2026 when the administration began releasing files, saying the government must 'finally meet its legal obligation to the American people.'
+
+Affiliations recorded: U.S. Senate, New York (2009- ), Senate Armed Services Committee, Chair, SASC Subcommittee on Personnel, US Senate (NY), SASC Subcommittee on Emerging Threats and Capabilities, Chair.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 200 of 1057, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** AARO's legal authority and reporting obligations derive from the FY2022 NDAA (P.L. 117-81, 27 December 2021) and the FY2023 NDAA (P.L. 117-263, 23 December 2022), codified at 50 U.S.C. 3373. Source: Public Laws 117-81 and 117-263; AARO annual reports cite 50 U.S.C. 3373(k)
+- **Tier 1 documented.** Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023. Source: CREC-2023-07-13-pt1-PgS2953
+- **Tier 1 documented.** Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee hearing of 19 April 2023 on AARO's mission, activities, oversight and budget, published as S.Hrg. 118-648. Source: Senate Armed Services Committee hearing record; congress.gov S.Hrg. 118-648
+- **Tier 1 documented.** IAA FY2023 Sec. 6802 rewrote Sec. 1683 to designate the 'All-domain Anomaly Resolution Office' and added subsection (j), the Historical Record Report, due 540 days after enactment. Source: P.L. 117-263, Sec. 6802, GPO
+- **Tier 1 documented.** Sec. 1683 of the FY2022 NDAA (P.L. 117-81) directed establishment of the office within 180 days and is codified at 50 U.S.C. 3373. Source: P.L. 117-81, Sec. 1683, GPO
+- **Tier 2 named person on the record.** 'Transparency is the only path to truth... I will continue to fight to ensure the administration finally meets its legal obligation to the American people.' Source: Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026
+- **Tier 2 named person on the record.** Gillibrand's standing criticism is that AARO has been under-resourced and slow-walked by the Department relative to its statutory mandate. Source: Gillibrand opening statements, SASC UAP hearings 2023 and 2024
+- **Tier 2 named person on the record.** Her FY2026 defense bill announcement claims only 'language to update congressional briefing requirements for UAP', matching Sec. 1671 of P.L. 119-60, not any disclosure mandate. Source: gillibrand.senate.gov, 15 July 2025
+
+### Its strongest connections
+
+- Kirsten E. Gillibrand runs out to **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a legislative link at Tier 1 documented. The link reads: authored the statutory mandate and reporting regime AARO operates under. Gillibrand's FY2022 NDAA and IAA provisions and the FY2023 NDAA codification at 50 U.S.C. 3373 create AARO's legal identity and its classified quarterly and unclassified annual reporting duties. Sources: Congress.gov - S.Hrg. 118-648, https://www.congress.gov/event/118th-congress/senate-event/LC74346/text, dated 2023-04-19.
+- Kirsten E. Gillibrand runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a programmatic link at Tier 1 documented. The link reads: cosponsor. Named in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
+- Kirsten E. Gillibrand runs out to **S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Original cosponsor, 13 July 2023. Gillibrand cosponsored Schumer's amendment while her own Sec. 1683 architecture was the statutory baseline it cross-referenced. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
+- Kirsten E. Gillibrand runs out to **FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)** (legislation, board tier B), a legislative link at Tier 1 documented. The link reads: Author of the founding AARO authority. Sec. 1683 of P.L. 117-81, codified at 50 U.S.C. 3373, is the statute every later UAP provision cross-references. Sources: P.L. 117-81, GPO, https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm, dated 2021-12-27.
+- Kirsten E. Gillibrand runs out to **Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'** (event, board tier B), a legislative link at Tier 1 documented. The link reads: chaired the hearing. Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee for both AARO oversight hearings. Sources: Senate Armed Services hearing page, https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office, dated 2023-04-19.
+- Kirsten E. Gillibrand runs out to **FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting** (legislation, board tier A), a legislative link at Tier 2 named person on the record. The link reads: Claims only the briefing-requirement update as her FY2026 UAP win. Gillibrand's FY2026 announcement lists 'language to update congressional briefing requirements for UAP', matching Sec. 1671 rather than any disclosure mandate. Sources: Gillibrand announces FY2026 defense bill wins, https://www.gillibrand.senate.gov/news/press/release/gillibrand-announces-fy2026-defense-bill-wins/, dated 2025-07-15; P.L. 119-60, GPO, https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm, dated 2025-12-18.
+
+It carries 7 connections in total on the board.
+
 ## Salvatore Cezar Pais
 
-Salvatore Cezar Pais is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2015-07-24; axes C2 A1 D1; 8 connections.
+Salvatore Cezar Pais is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2015-07-24; axes C2 A1 D1; 7 connections.
 
 In one line: Aerospace engineer, NAWCAD, NAS Patuxent River (to 2019); named inventor on five Navy-assigned patent filings 2015-2019; later US Navy Strategic Systems Programs, then US Air Force.
 
@@ -1656,609 +1558,29 @@ Affiliations recorded: Naval Air Warfare Center Aircraft Division (NAWCAD), NAS 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 43 of 1125, score 84). 8 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 45 of 1057, score 83). 7 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
 
 ### The claims on the record
 
-- **Tier 1 documented.** A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS, and what US 10,144,532 claims, in its own abstract: 'A craft using an inertial mass reduction device comprises of an inner resonant cavity wall, an outer resonant cavity, and microwave emitters. The electrically charged outer resonant cavity wall and the electrically insulated inner resonant cavity wall form a resonant cavity. The microwave emitters create high frequency electromagnetic waves throughout the resonant cavity causing the resonant cavity to vibrate in an accelerated mode and create a local polarized vacuum outside the outer resonant cavity wall.' The mechanism the specification gives is 'negative pressure (hence repulsive gravity) exhibited by the polarized local vacuum energy state'. Source: US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
 - **Tier 1 documented.** A patent assigned to a federal agency owes maintenance fees on the ordinary schedule, which closes the question the expiry finding rested on. 37 CFR 1.362(a) requires them 'in all patents based on applications filed on or after December 12, 1980, except as noted in paragraph (b) of this section, to maintain a patent in force beyond 4, 8 and 12 years after the date of grant', and paragraph (b) gives the exemptions in full: 'Maintenance fees are not required for any plant patents or for any design patents.' Both Pais grants are utility patents from applications filed long after 1980. Neither was in an exempt class, and both owed the fee. Source: 37 CFR 1.362, Time for payment of maintenance fees (CFR 2024, title 37, vol. 1) || https://www.govinfo.gov/content/pkg/CFR-2024-title37-vol1/xml/CFR-2024-title37-vol1-sec1-362.xml
 - **Tier 1 documented.** Both granted Pais patents lapsed at the first maintenance fee, five weeks apart. US 10,135,366, granted 20 November 2018, is recorded expired for non-payment on 26 December 2022; US 10,144,532, granted 4 December 2018, is recorded expired for non-payment on 9 January 2023. USPTO mailed a maintenance fee reminder for each in the preceding July. Source: USPTO application data for 14/807943 and 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrappers 28 August 2026
 - **Tier 1 documented.** Paragraph [0020] of the application as filed credits the mechanism to a named figure already on this board: 'it is feasible to remove energy-mass from the system by enabling vacuum polarization, as discussed by Harold Puthoff; in that diminution of inertial (and thus gravitational) mass can be achieved via manipulation of quantum field fluctuations in the vacuum.' Source: Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205
 - **Tier 1 documented.** Paragraph [0037] of the application as filed states that the preferred electromagnetic generator for the craft is the one described in US application 14/807,943, 'incorporated by reference, and has the same inventor'. The inertial mass reduction craft and the electromagnetic field generator are therefore linked as components of one design by the filings themselves rather than by inference. Source: Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205
 - **Tier 1 documented.** Sheehy's declaration of 11 May 2018 states his credentials: a PhD in physiological optics from Pennsylvania State University, a master's in Human Factors Engineering from Rensselaer, a bachelor's from Kean University; a civilian Navy employee since 1985; formerly Chief Scientist of the Naval Air Systems Command; Chief Technology Officer of the Naval Aviation Enterprise for the preceding eleven years; promoted to the Senior Executive Service in November 2001; awarded the Presidential Rank Award in 2007. It is sworn under 18 U.S.C. 1001. Source: USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt
-- **Tier 1 documented.** THE NAVY'S SPONSORSHIP IS PRINTED ON THE FACE OF THE PATENT AND NOT INFERRED. US 10,144,532's front page carries, verbatim: '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'; '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD'; and 'Primary Examiner - Philip J Bonzell'. The government did not merely take an assignment: it paid a NAWCAD attorney to prosecute the application, before the same examiner the board's existing Tier 1 claim names as the addressee of the Sheehy letter of 15 December 2017. Source: US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
-- **Tier 1 documented.** THE PATENT AND THE INVENTION-DISCLOSURE BRIEFING CORROBORATE EACH OTHER, which is rare and worth recording. The specification of US 10,144,532 states that the hybrid craft 'would move with great ease through the air / space / water mediums, by being enclosed in a vacuum plasma bubble / sheath, due to the coupled effects of EM field-induced air / water particles repulsion and vacuum energy polarization'. The board already carries that same sentence at Tier 1 from the Navy Case PAX 205 invention-disclosure briefing, which was obtained by a different route. Source: US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
+- **Tier 1 documented.** The 17 January 2018 examiner interview was telephonic, attended by examiner Philip J. Bonzell, attorney Mark Glut and Salvatore Pais personally. The summary records that no exhibit was shown and no demonstration conducted, and that 'The Examiner pointed out that he still felt that there were enablement issues. The Applicant to submit arguments to the contrary. No agreement was reached.' Source: USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCKKXW5GRXEAPX4.pdf, Applicant-Initiated Interview Summary mailed 22 January 2018; transcript at research/patents/wrapper/interview-summary-2018-01-17.txt
+- **Tier 1 documented.** The Appeal Brief states the ownership position without qualification: 'The real party in interested is the United States Government represented by the Secretary of the Navy (The Department of the Navy). The inventor is a U.S.government employee who invented the invention during the course of his employment. As a result, Federal law provides all rights to this invention belong to the United States of America under 37 C.F.R. 501.6.' This is the Navy's own characterisation, in a filing signed by its Office of Counsel. Source: USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt
+- **Tier 1 documented.** The December 2017 letter places the NAWCAD experimental programme on the record and dates it. Sheehy wrote that 'Dr. Pais is currently funded by NAWCAD to design a test article and instrumentation to demonstrate the experimental feasibility of achieving high electromagnetic (EM) field-energy and flux values', and that 'He is currently one year into the project and has already begun a series of experiments'. That places the start of funded experimental work in about December 2016 and corroborates, from a primary document, the secondary reporting that NAWCAD funded testing from 2016. Source: USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt
 
-A further 37 claims sit on this node on the board and are not reproduced here.
+A further 32 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
-- Salvatore Cezar Pais runs out to **Harold E. Puthoff** (person, board tier A), a research link at Tier 1 documented. The link reads: US 10,144,532 cites Puthoff's Polarizable-Vacuum paper on its printed front page. A DOCUMENTARY JOIN PRINTED ON A GRANTED US NAVY PATENT, which is better evidence of a connection than any later statement about the same relationship. The 'Other Publications' list includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. The edge asserts the citation and nothing about any personal or professional contact, for which nothing was opened. Sources: US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, dated 2018-12-04.
 - Salvatore Cezar Pais runs out to **Naval Air Station Patuxent River, Maryland** (location, board tier B), a institutional link at Tier 1 documented. The link reads: NAWCAD, NAS Patuxent River, at the time of filing. The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670. Sources: NAVAIR FOIA release 2021-003244, p. 1, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
 - Salvatore Cezar Pais runs out to **NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: Author of the Navy invention disclosure. The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page. Sources: NAVAIR FOIA release 2021-003244, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
 - Salvatore Cezar Pais runs out to **US Patent 10,144,532 - Craft using an inertial mass reduction device** (document, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 15/141270, assigned to the Secretary of the Navy. Sources: US Patent 10,144,532, https://www.freepatentsonline.com/10144532.html
 - Salvatore Cezar Pais runs out to **US Patent 10,135,366 - Electromagnetic field generator** (document, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 14/807943, assigned to the Secretary of the Navy. Sources: US Patent 10,135,366, https://www.freepatentsonline.com/10135366.html
 - Salvatore Cezar Pais runs out to **US Patent 10,322,827 - High frequency gravitational wave generator** (document, board tier C), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 15/431823, assigned to the Secretary of the Navy. Sources: US Patent 10,322,827, https://www.freepatentsonline.com/10322827.html
-
-It carries 8 connections in total on the board.
-
-## William L. Moore
-
-William L. Moore is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1989-07-01; axes C0 A1 D2; 8 connections.
-
-In one line: Co-author, 'The Roswell Incident' (1980); first recipient of the MJ-12 film; self-confessed conduit for AFOSI disinformation.
-
-### The longer account
-
-William L. Moore wrote the book that made Roswell a public case and then, nine years later, told a room full of ufologists that he had been working with Air Force counterintelligence. With Charles Berlitz he published 'The Roswell Incident' (Grosset & Dunlap, 1980), built on Stanton Friedman's 1978 contact with Jesse Marcel Sr. and on the second-hand Barney Barnett material, and it established the modern case. In December 1984 he and Jaime Shandera received in the post a roll of undeveloped 35mm film containing the Eisenhower Briefing Document and the Truman-Forrestal memorandum - the origin of the entire MJ-12 corpus that Friedman then spent a decade defending and Randle a decade attacking. At the 1989 MUFON symposium in Las Vegas, Moore stated publicly that from about 1980 he had cooperated with personnel of the Air Force Office of Special Investigations, and that he had knowingly passed disinformation to the Albuquerque physicist and businessman Paul Bennewitz, whose mental health collapsed under it. That admission is the single most consequential statement ever made by a researcher in this field, and this board treats it structurally rather than moralistically: it establishes, on the admission of the participant, that a US counterintelligence element used a civilian UFO researcher as a delivery channel for fabricated material into the UFO community. Any document, witness or claim entering the record through that channel between roughly 1980 and 1989 - and the MJ-12 papers arrived in the middle of it - carries a provenance problem that cannot be argued away.
-
-### Where the record conflicts
-
-- Friedman continued to regard the MJ-12 core documents as authentic after Moore's admission; Randle regarded the admission as conclusive against them.
-
-### Recorded as unverified
-
-- The names of the AFOSI personnel Moore says he dealt with, and whether any AFOSI record of the relationship has ever been requested or released. Nothing responsive has surfaced.
-
-Affiliations recorded: Fair-Witness Project, Co-author with Charles Berlitz, 'The Roswell Incident' (1980).
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 233 of 1125, score 42). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - both cited in CIA's own 1997 history of the Agency's UFO role. Source: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93
-- **Tier 1 documented.** The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book. Source: Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148
-- **Tier 2 named person on the record.** 'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992. Source: Publisher's imprint and library catalogue records; DEMOTED from Tier 1 (the same assertion is Tier 2 on the-roswell-incident-1980); needs primary replacement
-- **Tier 2 named person on the record.** A CAVEAT FOR ANY CLAIM ABOUT MOORE SOURCED TO GREG BISHOP'S PROJECT BETA. Stephen Fisher, writing 29 November 2025 and relying almost entirely on Bishop, states that Bishop had an undisclosed friendship with Moore. Project Beta is a participant account at one remove and should never be the sole source for a claim about Moore's conduct. Source: Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz, opened 2026-09-19
-- **Tier 2 named person on the record.** MOORE'S 1989 ADMISSION IS THE CLEAREST ADMISSION IN THE AFFAIR AND OUTRANKS ANYTHING DOTY HAS SAID, because it is from a civilian, about himself, in public, at a named event on a named date, and it is not later contradicted by its own author. The board already carries it; this session confirms nothing has emerged to weaken it and records that Doty's parallel statements have since been partly retracted by him while Moore's have not. Source: Inference recorded against the board's existing Tier 2 claims on william-l-moore, checked 2026-09-19
-- **Tier 2 named person on the record.** Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz. Source: William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989
-- **Tier 2 named person on the record.** Moore stated at the 1989 MUFON symposium that he had cooperated with US Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz. Source: Moore's own statement to the 1989 MUFON symposium, subsequently published in full in MUFON and Focus/Fair-Witness materials
-- **Tier 3 stated inference.** The 1984 arrival of the MJ-12 film at Moore's address falls inside the window he later admitted was a period of cooperation with AFOSI, which is sufficient on its own to bar the MJ-12 corpus from tier 1 or tier 2 status regardless of any forensic analysis. Reasoning: the recipient of an anonymous delivery has admitted to being an operational channel for the agency most likely to have sent it. Source: Chronological overlay of Moore's admitted 1980-1989 cooperation window on the December 1984 MJ-12 delivery
-
-### Its strongest connections
-
-- William L. Moore runs out to **MJ-12 / Operation Majestic-12 Documents** (document, board tier B), a custody link at Tier 1 documented. The link reads: Moore controlled the MJ-12 material's release with Shandera and Friedman. Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication 1500 in 1990, cited in CIA's own 1997 UFO history. Sources: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy, https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/, dated 1997-01-01; FBI Records: The Vault - 'Majestic 12', https://vault.fbi.gov/Majestic%2012, dated 2011-04-01.
-- William L. Moore runs out to **The Majestic Documents archive (Wood and Wood)** (program, board tier C), a custody link at Tier 1 documented. The link reads: The archive's core corpus entered the record through Moore's mailbox. The Eisenhower Briefing Document and Truman-Forrestal memorandum arrived as undeveloped 35mm film addressed to Moore and Shandera in December 1984; everything downstream in the corpus dates from that delivery. Sources: The Majestic Documents (Wood & Wood), https://majesticdocuments.com/, dated 2026-08-12.
-- William L. Moore runs out to **The Roswell Incident (Berlitz and Moore, 1980)** (document, board tier C), a research link at Tier 1 documented. The link reads: Co-authored the founding Roswell book. Charles Berlitz and William L. Moore, Grosset & Dunlap, 1980, ISBN 978-0448211992. Sources: Berlitz and Moore, 'The Roswell Incident' (1980), https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012, dated 1980-01-01.
-- William L. Moore comes in from **Richard C. Doty** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz. Moore told the 1989 MUFON symposium that he had worked with Air Force counterintelligence in exchange for access, and had knowingly fed Bennewitz false material. Sources: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy, https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/, dated 1997-01-01; Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer, https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/, dated 1988-01-01.
-- William L. Moore runs out to **Stanton T. Friedman** (person, board tier A), a research link at Tier 2 named person on the record. The link reads: Moore and Shandera's 1984 film delivery became Friedman's decade-long project. Friedman became aware of the MJ-12 documents through Moore and Jaime Shandera in 1984 and defended their core authenticity through 'Top Secret/Majic' (1996). Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
-- William L. Moore runs out to **Paul Frederick Bennewitz** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: The 1 July 1989 MUFON admission, which outranks anything Doty has said. Already on the board and confirmed as unweakened: a civilian, about himself, in public, at a named event on a named date, and not since retracted by its author. Doty's parallel statements have since been partly retracted by him. Any claim about Moore's conduct sourced to Bishop's Project Beta carries the participant-account caveat. Sources: Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?', https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz, dated 2025-11-29; Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
-
-It carries 8 connections in total on the board.
-
-## Harry S. Truman
-
-Harry S. Truman is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1946-01-22; axes C2 A3 D1; 7 connections.
-
-In one line: President of the United States from 12 April 1945; signatory of the 22 January 1946 intelligence directive and of the National Security Act of 1947.
-
-### The longer account
-
-The president who signed the founding instruments of the structure this board maps has had no node on it, because the board's prose says 'Truman' and never 'Harry'. Two records settle the office and the instruments. The directive of 22 January 1946 creates the National Intelligence Authority and the Central Intelligence Group and the post of Director of Central Intelligence, and carries his signature. The National Security Act of 1947, approved 26 July 1947, creates the National Security Council, the Central Intelligence Agency, the National Military Establishment and a Research and Development Board, and requires the Secretary of Defense to come from civilian life. He is here for the instruments, not for anything said about him on a podcast.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 252 of 1125, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
-
-### The claims on the record
-
-- **Tier 1 documented.** Section 102(d)(5) of the same Act is the residual authority every later covert-action directive is written under: the Agency is 'to perform such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct.' Source: National Security Act of 1947, Public Law 80-253, 61 Stat. 495, sec. 102(d)(5), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf
-- **Tier 1 documented.** The 22 January 1946 directive is signed by him and creates the office by fiat: 'It is my desire, and I hereby direct, that all Federal foreign intelligence activities be planned, developed and coordinated so as to assure the most effective accomplishment of the intelligence mission related to the national security.' The Director of Central Intelligence 'shall be designated by me'. Source: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71
-- **Tier 1 documented.** The Department of State's own list of persons gives the office and its start: 'Truman, Harry S., President of the United States from April 12, 1945'. Source: FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons
-- **Tier 1 documented.** The same directive draws the domestic line the board's later argument keeps testing: 'No police, law enforcement or internal security functions shall be exercised under this directive', and it makes the Authority and the Director 'responsible for fully protecting intelligence sources and methods'. Source: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71
-- **Tier 1 documented.** The statute approved on 26 July 1947 creates, in one instrument, the Council, the Agency and the military establishment: 'There is hereby established a council to be known as the National Security Council'; 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence, who shall be the head thereof'; 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof.' Source: National Security Act of 1947, Public Law 80-253, ch. 343, 61 Stat. 495, secs. 101(a), 102(a), 201(a), approved 26 July 1947, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf
-
-### Its strongest connections
-
-- Harry S. Truman runs out to **United States Department of Defense (secondary designation: Department of War)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Signed the statute that created the National Military Establishment. Section 201(a) establishes the National Military Establishment under a Secretary of Defense who, by section 202(a), must be appointed from civilian life. Sources: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71), https://history.state.gov/historicaldocuments/frus1945-50Intel/d71, dated 1946-01-22.
-- Harry S. Truman runs out to **Central Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Signed the statute that created the Agency. Section 102(a) of the National Security Act of 1947, approved 26 July 1947, establishes the Central Intelligence Agency under the National Security Council. Sources: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71), https://history.state.gov/historicaldocuments/frus1945-50Intel/d71, dated 1946-01-22.
-- Harry S. Truman runs out to **United States Air Force** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Signed the statute that created the Department of the Air Force. Section 2's declaration of policy provides three military departments including the Air Force, and section 101(a) names a Secretary of the Air Force appointed under section 207. Sources: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71), https://history.state.gov/historicaldocuments/frus1945-50Intel/d71, dated 1946-01-22.
-- Harry S. Truman comes in from **Defense Advanced Research Projects Agency** (institution, board tier B), a legislative link at Tier 1 documented. The link reads: Founded under the authority of the 1947 Act. The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
-- Harry S. Truman runs out to **Rear Adm. Sidney W. Souers** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Designated the first Director of Central Intelligence. The directive reserves the designation to the President: 'The Director of Central Intelligence shall be designated by me'. The board's Souers node already carries the office and its dates. Sources: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71), https://history.state.gov/historicaldocuments/frus1945-50Intel/d71, dated 1946-01-22.
-- Harry S. Truman comes in from **CIA Office of Policy Coordination** (institution, board tier B), a legislative link at Tier 1 documented. The link reads: Chartered under section 102(d)(5) of the Act he signed. The directive names its own authority as the residual clause of the National Security Act of 1947, approved 26 July 1947. Sources: NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292), https://history.state.gov/historicaldocuments/frus1945-50Intel/d292, dated 1948-06-18.
-
-It carries 7 connections in total on the board.
-
-## Jeremy Kenyon Lockyer Corbell
-
-Jeremy Kenyon Lockyer Corbell is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2021-05-14; axes C0 A1 D2; 7 connections.
-
-In one line: Filmmaker; co-host, Weaponized.
-
-### The longer account
-
-Jeremy Corbell is the movement's primary conduit for leaked military imagery, and that role - not his filmmaking - is what makes him structurally significant. Beginning in 2019 he released a sequence of US Navy materials including the USS Omaha 'transmedium' footage and the pyramid-shaped object video, several of which the Pentagon subsequently confirmed as genuine Navy recordings. The confirmation pattern is the interesting datum: material leaks to Corbell, Corbell publishes, the Department authenticates the provenance while contesting the interpretation. He directed Bob Lazar: Area 51 & Flying Saucers, which premiered on Netflix in 2019 and returned Lazar to public attention, and Hunt for the Skinwalker, based on the George Knapp and Colm Kelleher book. He co-hosts Weaponized with Knapp. He has been criticised within the field for showmanship and for imagery later explained by lens artefacts, and both things are true at once: he is an unreliable narrator and a reliable pipe.
-
-### Where the record conflicts
-
-- Some imagery he released has been attributed by analysts to triangular lens aperture artefacts.
-
-Affiliations recorded: Weaponized podcast (with George Knapp), Extraordinary Beliefs (film series).
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 603 of 1125, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** Burchett on the record at that hearing: 'I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject, and I seek unanimous consent to enter those statements into the record.' The unanimous consent was granted without objection. Source: CHRG-118hhrg53022, Rep. Burchett https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm
-- **Tier 1 documented.** Corbell's report 'The UAP Puzzle' was entered into the record of the 26 July 2023 House Oversight hearing by Rep. Tim Burchett, and appears in the hearing's Index of Documents as 'Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett.' Source: CHRG-118hhrg53022, Index of Documents https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm
-- **Tier 1 documented.** He directed Bob Lazar: Area 51 and Flying Saucers, 2018, 97 minutes, narrated by Mickey Rourke and featuring Bob Lazar, George Knapp and Joy White. It is the artefact that returned the S-4 claim to mass circulation thirty years after the 1989 broadcasts, and it is how the July 2017 search of United Nuclear entered the UFO literature. Source: Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/, opened 2026-09-18
-- **Tier 2 named person on the record.** Corbell directed Hunt for the Skinwalker, based on the book by George Knapp and Colm Kelleher. Source: Wikipedia, 'Jeremy Corbell', DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 2 named person on the record.** Corbell has released leaked footage from US Navy aircraft associated with the USS Omaha and video of apparently triangular objects filmed by Navy personnel. Source: Wikipedia, 'Jeremy Corbell', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-
-### Its strongest connections
-
-- Jeremy Kenyon Lockyer Corbell runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a investigative link at Tier 1 documented. The link reads: His report 'The UAP Puzzle' was submitted into the record by Rep. Burchett. Listed in the hearing's Index of Documents. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-- Jeremy Kenyon Lockyer Corbell runs out to **Bob Lazar: Area 51 and Flying Saucers (2018)** (document, board tier C), a research link at Tier 1 documented. The link reads: Director of the 2018 documentary. MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling. Sources: Letterboxd record for Bob Lazar: Area 51 and Flying Saucers, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/, dated 2018.
-- Jeremy Kenyon Lockyer Corbell runs out to **Lockheed Martin Corporation** (institution, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Corbell publicly challenged the Senate Appropriations Committee to audit Lockheed Martin's special access programs. Speaking alongside Rep. Burchett in March 2023, Corbell named Senators Murray and Collins and the Committee's jurisdiction over spending. Elizondo responded that the inquiry should not be limited to one aerospace company 'but to several others that have likely played a key historical role.' Sources: Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times, https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings, dated 2023-03-11.
-- Jeremy Kenyon Lockyer Corbell comes in from **George Knapp** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Co-hosts the Weaponized podcast. Pairs Knapp's four decades of sourcing with Corbell's leak pipeline. Sources: Wikipedia - George Knapp, https://en.wikipedia.org/wiki/George_Knapp_(television_journalist), dated 2026-08-12.
-- Jeremy Kenyon Lockyer Corbell comes in from **Los Alamos National Laboratory** (institution, board tier B), a investigative link at Tier 2 named person on the record. The link reads: 'Sleeping Dog' document trove said to originate with a deceased LANL cybersecurity chief. Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them. Sources: New York Post, https://nypost.com/2026/04/25/us-news/trove-of-leaked-documents-show-us-lab-where-two-missing-scientists-worked-studied-ufos-film/, dated 2026-04-25.
-- Jeremy Kenyon Lockyer Corbell comes in from **USS Jackson (LCS-6) Encounter, 15 February 2023** (event, board tier C), a investigative link at Tier 2 named person on the record. The link reads: Footage reached the public through journalists, not through the Navy or AARO. Wiggins's statement records that the stabilized footage and screenshots were published by journalists Jeremy Corbell and George Knapp. Sources: House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09.
-
-It carries 7 connections in total on the board.
-
-## Jesse A. Marcel Sr.
-
-Jesse A. Marcel Sr. is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1978-02-20; axes C3 A2 D3; 7 connections.
-
-In one line: Intelligence officer, 509th Bomb Group.
-
-### The longer account
-
-Major Jesse Marcel was the staff intelligence officer of the 509th Bomb Group and the officer who physically handled the Foster ranch debris in July 1947, going to the site with Counter Intelligence Corps Capt. Sheridan Cavitt and carrying material back to the base and onward to Fort Worth. He is the highest-custody witness in the entire 1940s record: not a distant observer, but the man whose job was to identify recovered materiel and who was then photographed in Gen. Ramey's office beside weather balloon debris he later said had been substituted for what he brought in. Marcel said nothing publicly for thirty-one years. In February 1978 he told researcher Stanton Friedman that the balloon explanation was a cover story and that the material he recovered was not from any device he could identify, the interview that restarted the entire Roswell inquiry and, downstream, produced the 1994-1997 Air Force reports and the 1995 GAO records search. His son, Dr. Jesse Marcel Jr., separately described handling the debris as a child. The Air Force's counter-position, that Marcel was mistaken about Project MOGUL balloon materials, is recorded here as the official rebuttal it is.
-
-### What is left unexplained
-
-No disposition authority has ever been produced for the destruction of the RAAF outgoing message traffic covering the exact period of the recovery.
-
-### Where the record conflicts
-
-- Marcel overstated parts of his military biography in later interviews, which the Air Force uses to impeach him; the overstatements do not bear on what he handled in July 1947
-
-### Recorded as unverified
-
-- Whether material was substituted between Roswell and Fort Worth on 8 July 1947
-
-Affiliations recorded: 509th Bomb Group, Roswell Army Air Field, S-2 Intelligence (1946-1948), US Air Force, Special Weapons Program (1948-1950).
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 139 of 1125, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** Marcel was the 509th Bomb Group intelligence officer who collected debris at the Foster ranch with CIC Capt. Sheridan Cavitt, and was photographed with debris at Fort Worth on 8 July 1947. Source: USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview
-- **Tier 1 documented.** The Air Force's own 1995 and 1997 reports concluded the recovered material was from Project MOGUL balloon trains, directly contradicting Marcel. Source: USAF, 'The Roswell Report: Fact vs. Fiction' (1995) and 'The Roswell Report: Case Closed' (1997)
-- **Tier 2 named person on the record.** Marcel stated in 1978 that the weather balloon explanation was a cover story and the recovered material was not identifiable as any known device. Source: Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978
-- **Tier 2 named person on the record.** Marcel told Stanton Friedman in February 1978 that the material he recovered was not from a weather balloon and was not of terrestrial manufacture, and that the material displayed at Fort Worth was substituted. Source: Friedman's account of the 1978 interview; repeated in Berlitz and Moore (1980) and in Marcel's own filmed interviews
-- **Tier 2 named person on the record.** Marcel was named in the 8 July 1947 Roswell Army Air Field press release as the intelligence officer responsible for the recovery, and was photographed at Fort Worth AAF with debris identified there as a weather balloon and radar target. Source: RAAF press release and Fort Worth AAF press photographs, July 1947; reproduced in the 1995 Air Force report as Fig. 4, 'Maj. Jesse Marcel With Flying Disc Debris'
-- **Tier 3 stated inference.** Marcel's silence from 1947 to 1978 is more probative than his 1978 statement: a career intelligence officer who believed he had been publicly humiliated by a substitution had thirty-one years and a reserve pension's worth of reasons to say nothing, and did. Reasoning: the timing of his disclosure tracks his retirement and the death of the officers senior to him, not the arrival of a book contract. Source: Inference from his service chronology
-- **Tier 3 stated inference.** The GAO's finding that the relevant RAAF messages and administrative records were destroyed without disposition authority means Marcel's account cannot be checked against the primary record, which is itself the point. Source: Inference from GAO/NSIAD-95-187, p.3
-
-### Its strongest connections
-
-- Jesse A. Marcel Sr. runs out to **Roswell Incident** (event, board tier A), a custody link at Tier 1 documented. The link reads: Marcel physically handled the recovered debris. The 509th's staff intelligence officer collected the Foster ranch material with CIC Capt. Sheridan Cavitt and carried it to Fort Worth. His custody role is documented in the Air Force's own 1995 report. Sources: USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01.
-- Jesse A. Marcel Sr. runs out to **The Roswell Reports (USAF, 1994-1997)** (document, board tier B), a denial link at Tier 1 documented. The link reads: The Air Force reports were produced to rebut Marcel's account. Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies. Sources: USAF, The Roswell Report: Case Closed (1997), https://archive.org/details/DTIC_ADA326147, dated 1997-06-24; USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01.
-- Jesse A. Marcel Sr. comes in from **Roger M. Ramey** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Ramey's headquarters overrode Marcel's base-level identification. Marcel was photographed in Ramey's office beside balloon debris on 8 July 1947; thirty-one years later he stated the material had been substituted. The photographs are reproduced in the 1995 USAF report. Sources: USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01.
-- Jesse A. Marcel Sr. runs out to **Roswell Incident** (event, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Marcel was the 509th intelligence officer who recovered the debris. Marcel and Cavitt were assigned by RAAF to retrieve the material from the Foster Ranch after Brazel reported it to Sheriff Wilcox on 6 July 1947. Sources: Wikipedia - Roswell incident, https://en.wikipedia.org/wiki/Roswell_incident, dated 2026-08-12.
-- Jesse A. Marcel Sr. comes in from **Stanton T. Friedman** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Friedman's February 1978 interview reopened Roswell. Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
-- Jesse A. Marcel Sr. comes in from **Walter Haut** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Haut's 8 July 1947 press release named Marcel as the recovering officer. The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard's order, identified the intelligence officer responsible. This is the only same-week official document naming a custodian of the material. Sources: Walter Haut - Wikipedia, https://en.wikipedia.org/wiki/Walter_Haut, dated 2026-08-12.
-
-It carries 8 connections in total on the board.
-
-## Kirsten E. Gillibrand
-
-Kirsten E. Gillibrand is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2021-12-27; axes C0 A2 D3; 7 connections.
-
-In one line: D-NY; author of Sec. 1683, FY2022 NDAA (50 U.S.C. 3373).
-
-### The longer account
-
-Gillibrand built the statutory machine that everything else in this domain hangs off. Section 1683 of the FY2022 NDAA, P.L. 117-81, signed 27 December 2021 and codified at 50 U.S.C. 3373, ordered the Secretary of Defense and the DNI to stand up a permanent office to absorb the UAP Task Force, to force reporting into a centralized repository, and to report to Congress. It was restated a year later by Section 6802 of the Intelligence Authorization Act for FY2023, enacted inside P.L. 117-263 on 23 December 2022, which named the office the All-domain Anomaly Resolution Office, put its Director reporting to the Deputy Secretary of Defense and the Principal Deputy DNI, and at subsection (j) demanded a written historical record report on the United States Government's dealings with UAP built from intelligence community records, oral history interviews and interviews of current and former officials. In February 2023 Gillibrand and Rubio led sixteen senators demanding full funding for AARO, arguing it 'provides the opportunity to integrate and resolve threats and hazards to the U.S., while also offering increased transparency.' She was an original cosponsor of S.Amdt. 797 in July 2023. Her posture is different from Schumer's: she legislates the plumbing, not the seizure. It is her plumbing, Sections 1841-1843 of the FY2024 NDAA, that survived when Schumer's Review Board did not, and it is that surviving language she invoked on 8 May 2026 when the administration began releasing files, saying the government must 'finally meet its legal obligation to the American people.'
-
-Affiliations recorded: U.S. Senate, New York (2009- ), Senate Armed Services Committee, Chair, SASC Subcommittee on Personnel, US Senate (NY), SASC Subcommittee on Emerging Threats and Capabilities, Chair.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 220 of 1125, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** AARO's legal authority and reporting obligations derive from the FY2022 NDAA (P.L. 117-81, 27 December 2021) and the FY2023 NDAA (P.L. 117-263, 23 December 2022), codified at 50 U.S.C. 3373. Source: Public Laws 117-81 and 117-263; AARO annual reports cite 50 U.S.C. 3373(k)
-- **Tier 1 documented.** Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023. Source: CREC-2023-07-13-pt1-PgS2953
-- **Tier 1 documented.** Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee hearing of 19 April 2023 on AARO's mission, activities, oversight and budget, published as S.Hrg. 118-648. Source: Senate Armed Services Committee hearing record; congress.gov S.Hrg. 118-648
-- **Tier 1 documented.** IAA FY2023 Sec. 6802 rewrote Sec. 1683 to designate the 'All-domain Anomaly Resolution Office' and added subsection (j), the Historical Record Report, due 540 days after enactment. Source: P.L. 117-263, Sec. 6802, GPO
-- **Tier 1 documented.** Sec. 1683 of the FY2022 NDAA (P.L. 117-81) directed establishment of the office within 180 days and is codified at 50 U.S.C. 3373. Source: P.L. 117-81, Sec. 1683, GPO
-- **Tier 2 named person on the record.** 'Transparency is the only path to truth... I will continue to fight to ensure the administration finally meets its legal obligation to the American people.' Source: Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026
-- **Tier 2 named person on the record.** Gillibrand's standing criticism is that AARO has been under-resourced and slow-walked by the Department relative to its statutory mandate. Source: Gillibrand opening statements, SASC UAP hearings 2023 and 2024
-- **Tier 2 named person on the record.** Her FY2026 defense bill announcement claims only 'language to update congressional briefing requirements for UAP', matching Sec. 1671 of P.L. 119-60, not any disclosure mandate. Source: gillibrand.senate.gov, 15 July 2025
-
-### Its strongest connections
-
-- Kirsten E. Gillibrand runs out to **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a legislative link at Tier 1 documented. The link reads: authored the statutory mandate and reporting regime AARO operates under. Gillibrand's FY2022 NDAA and IAA provisions and the FY2023 NDAA codification at 50 U.S.C. 3373 create AARO's legal identity and its classified quarterly and unclassified annual reporting duties. Sources: Congress.gov - S.Hrg. 118-648, https://www.congress.gov/event/118th-congress/senate-event/LC74346/text, dated 2023-04-19.
-- Kirsten E. Gillibrand runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a programmatic link at Tier 1 documented. The link reads: cosponsor. Named in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
-- Kirsten E. Gillibrand runs out to **S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Original cosponsor, 13 July 2023. Gillibrand cosponsored Schumer's amendment while her own Sec. 1683 architecture was the statutory baseline it cross-referenced. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
-- Kirsten E. Gillibrand runs out to **FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)** (legislation, board tier B), a legislative link at Tier 1 documented. The link reads: Author of the founding AARO authority. Sec. 1683 of P.L. 117-81, codified at 50 U.S.C. 3373, is the statute every later UAP provision cross-references. Sources: P.L. 117-81, GPO, https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm, dated 2021-12-27.
-- Kirsten E. Gillibrand runs out to **Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'** (event, board tier B), a legislative link at Tier 1 documented. The link reads: chaired the hearing. Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee for both AARO oversight hearings. Sources: Senate Armed Services hearing page, https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office, dated 2023-04-19.
-- Kirsten E. Gillibrand runs out to **FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting** (legislation, board tier A), a legislative link at Tier 2 named person on the record. The link reads: Claims only the briefing-requirement update as her FY2026 UAP win. Gillibrand's FY2026 announcement lists 'language to update congressional briefing requirements for UAP', matching Sec. 1671 rather than any disclosure mandate. Sources: Gillibrand announces FY2026 defense bill wins, https://www.gillibrand.senate.gov/news/press/release/gillibrand-announces-fy2026-defense-bill-wins/, dated 2025-07-15; P.L. 119-60, GPO, https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm, dated 2025-12-18.
-
-It carries 7 connections in total on the board.
-
-## Thomas Townsend Brown
-
-Thomas Townsend Brown is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1953-03-25; axes C2 A1 D2; 7 connections.
-
-In one line: Electrostatic-propulsion inventor; five patents; subject of a 1953 FBI fraud inquiry.
-
-### The longer account
-
-Thomas Townsend Brown is the technical origin point on which the entire electrogravitics thread hangs, and the useful thing this board can do with him is separate what he patented from what was later written about him. The patents are real and were read off the USPTO's own image server: US 1,974,483 ELECTROSTATIC MOTOR (1934), US 2,207,576 (1940), US 2,417,347 VIBRATION DAMPER (1947, assigned by mesne assignments to Lockheed Aircraft Corporation), US 2,949,550 ELECTROKINETIC APPARATUS (1960) and US 3,187,206 ELECTROKINETIC APPARATUS (1965). None of them claims gravity control. The 1934 patent claims 'a method of producing force or motion by applying and maintaining high potential electro-static charges'; the 1965 patent opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields' and is explicit that the reaction appears in the surrounding medium and, in vacuum, on the walls of the chamber. That is an electrostatic-thrust claim. The word 'electrogravitics' appears in none of them.
-
-Project Winterhaven is real and does not say what the secondary literature says it says. The 66-page proposal, 'A PROPOSAL FOR JOINT SERVICES RESEARCH AND DEVELOPMENT CONTRACT, THE TOWNSEND BROWN FOUNDATION', does propose research on 'the control of gravitation' and lists 'electrified disc airfoils' among results to date. But the words 'saucer', 'interceptor', 'Mach' and 'Air Force' appear in it zero times. The saucer-as-USAF-interceptor framing belongs to the 1956 Aviation Studies (International) report 'Electrogravitics Systems', not to Winterhaven, and that report has no catalogue record anywhere WorldCat indexes.
-
-The provenance that matters most is the one the enthusiast literature omits. Brown's own FBI file records the Winterhaven pitch inside a Fraud Against the Government inquiry: the LEADS section directs the Washington Field Office to 'ascertain from appropriate defense agencies the nature of any overtures made by BROWN' and to 'determine any possible violation of the [F]AG Statute'. The same file carries named informants describing the apparatus as a relabelled stock-market predicting machine, one of them 'confident this flying saucer thing is a phony'. A node on Brown that carries the patents without that is not an honest node.
-
-### Recorded as unverified
-
-- T
-- h
-- e
-- 
-- P
-- r
-- o
-- j
-- e
-- c
-- t
-- 
-- W
-- i
-- n
-- t
-- e
-- r
-- h
-- a
-- v
-- e
-- n
-- 
-- s
-- c
-- a
-- n
-- 
-- i
-- s
-- 
-- a
-- 
-- p
-- r
-- i
-- v
-- a
-- t
-- e
-- 
-- u
-- p
-- l
-- o
-- a
-- d
-- 
-- t
-- o
-- 
-- a
-- r
-- c
-- h
-- i
-- v
-- e
-- .
-- o
-- r
-- g
-- 
-- w
-- i
-- t
-- h
-- 
-- n
-- o
-- 
-- i
-- n
-- s
-- t
-- i
-- t
-- u
-- t
-- i
-- o
-- n
-- a
-- l
-- 
-- c
-- u
-- s
-- t
-- o
-- d
-- y
-- 
-- n
-- a
-- m
-- e
-- d
-- ,
-- 
-- s
-- o
-- 
-- i
-- t
-- s
-- 
-- c
-- o
-- n
-- t
-- e
-- n
-- t
-- s
-- 
-- a
-- r
-- e
-- 
-- d
-- o
-- c
-- u
-- m
-- e
-- n
-- t
-- e
-- d
-- 
-- b
-- u
-- t
-- 
-- i
-- t
-- s
-- 
-- a
-- u
-- t
-- h
-- e
-- n
-- t
-- i
-- c
-- i
-- t
-- y
-- 
-- a
-- s
-- 
-- a
-- 
-- 1
-- 9
-- 5
-- 2
-- -
-- 5
-- 3
-- 
-- a
-- r
-- t
-- i
-- f
-- a
-- c
-- t
-- 
-- r
-- e
-- s
-- t
-- s
-- 
-- o
-- n
-- 
-- t
-- h
-- e
-- 
-- u
-- p
-- l
-- o
-- a
-- d
-- e
-- r
-- .
-- 
-- B
-- r
-- i
-- t
-- i
-- s
-- h
-- 
-- P
-- a
-- t
-- e
-- n
-- t
-- 
-- 3
-- 0
-- 0
-- ,
-- 3
-- 1
-- 1
-- 
-- w
-- a
-- s
-- 
-- n
-- o
-- t
-- 
-- o
-- p
-- e
-- n
-- e
-- d
-- .
-- 
-- T
-- h
-- e
-- 
-- 1
-- 9
-- 5
-- 6
-- 
-- '
-- E
-- l
-- e
-- c
-- t
-- r
-- o
-- g
-- r
-- a
-- v
-- i
-- t
-- i
-- c
-- s
-- 
-- S
-- y
-- s
-- t
-- e
-- m
-- s
-- '
-- 
-- r
-- e
-- p
-- o
-- r
-- t
-- 
-- h
-- a
-- s
-- 
-- n
-- o
-- 
-- c
-- a
-- t
-- a
-- l
-- o
-- g
-- u
-- e
-- 
-- r
-- e
-- c
-- o
-- r
-- d
-- 
-- a
-- n
-- y
-- w
-- h
-- e
-- r
-- e
-- 
-- W
-- o
-- r
-- l
-- d
-- C
-- a
-- t
-- 
-- i
-- n
-- d
-- e
-- x
-- e
-- s
-- .
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 56 of 1125, score 75). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A1/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** A memorandum of 6 December 1950 from J. Edgar Hoover to the Chief, Investigations Division, U.S. Civil Service Commission records Brown as an appointee to the Industrial Relations Department, Pearl Harbor Naval Shipyard, notes a 1943 Navy resignation 'accepted for the good of the service', and reports 'no information of disloyal nature.' Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, Hoover memorandum of 6 December 1950
-- **Tier 1 documented.** A named former president of Lake States Securities Corporation told the FBI that Brown's 'flying saucers' apparatus 'was identical to the old stock market predicting machine except that it operated in the atmosphere rather than in an oil bath and it was much larger', and that he was 'confident this flying saucer thing is a phony'. Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, informant statement
-- **Tier 1 documented.** Brown's FBI file directs the Washington Field Office that Brown 'is apparently in Washington attempting to obtain a research and development contract for his so-called Project Winterhaven', anticipates 'a contract of approximately a million dollars', and instructs the office to 'determine any possible violation of the [F]AG Statute in this matter' -- the Fraud Against the Government statute. Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section, referring to the report of 25 March 1953, Cincinnati
-- **Tier 1 documented.** NEITHER PATENT WAS FILED BY OR FOR A GOVERNMENT. US 2,949,550 was assigned to Whitehall-Rand, Inc. of Washington D.C., a Delaware corporation; US 3,187,206 to Electrokinetics, Inc., a Pennsylvania corporation, by mesne assignments. Both are private corporations, and neither patent carries a government interest statement. On the sponsorship test the board applies to the Pais filings, Brown sits with the private inventors and not with the Navy; he is board material for other reasons, including his FBI file, and not because a government filed his patents. Source: US Patent 3,187,206, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf, opened 2026-09-19
-- **Tier 1 documented.** THE ABSENCE IN THE GOVERNMENT'S OWN ANTIGRAVITY SURVEY. DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis of EarthTech International, does not mention Thomas Townsend Brown. Word counts over the whole released PDF: Biefeld 0, electrogravitics 0, Podkletnov 0. 'Brown' occurs three times and all three are reference-list surnames of other authors: L. S. Brown and Maclay in Physical Review 184 (1969), H. R. Brown as co-editor of 'The Philosophy of Vacuum', and J. H. Brownell on Casimir photons. THIS IS A FACT ABOUT THE DOCUMENT. IT IS NOT EVIDENCE THAT DIA CONSIDERED AND REJECTED BROWN, because the document shows no sign of having considered him at all. Source: Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, opened 2026-09-19
-- **Tier 1 documented.** THE MODERN COUNTER-EXPLANATION IS NASA'S OWN AND IT NAMES THE EFFECT. NASA/TM-2004-213082, section 3.2.7, by the manager of NASA's Breakthrough Propulsion Physics Project: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These "Biefeld-Brown," "Lifter" and "Asymmetrical Capacitor Thrusters" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES AND NOT ABOUT WHAT BROWN'S PATENTS CLAIM, since the patents never claimed anti-gravity in the first place. Source: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, opened 2026-09-19
-- **Tier 1 documented.** THE ZERO-COUNT, TAKEN OVER BOTH COMPLETE PATENT TEXTS, because a count is checkable and an adjective is not. Across all six pages of US 2,949,550 and all six pages of US 3,187,206: gravity 0, anti-gravity 0, antigravity 0, levitation 0, scalar 0, electrogravitics 0, zero point 0. THE WORD 'GRAVITY' DOES NOT APPEAR IN EITHER PATENT, in either direction, not once. The board has recorded since 30 August 2026 that neither patent claims anti-gravity; this is that record verified against the printed documents rather than against a prior reading of them. Source: US Patent 3,187,206, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf, opened 2026-09-19
-- **Tier 1 documented.** The 1934 patent claims 'a method of producing force or motion by applying and maintaining high potential electro-static charges in a system of chargeable masses and associated electrodes', and describes the motor as useful in observatory recording instruments. It does not claim gravity control. Source: US Patent 1,974,483, specification
-
-A further 20 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Thomas Townsend Brown runs out to **Lockheed Martin Corporation** (institution, board tier A), a research link at Tier 1 documented. The link reads: US 2,417,347 assigned by mesne assignments to Lockheed Aircraft Corporation. The patent's own inventor line reads 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'. This is the one item in Brown's self-authored biography that a second document corroborates. Sources: US Patent 2,417,347, Vibration Damper, assignment line, https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2417347, dated 1947-03-11.
-- Thomas Townsend Brown comes in from **Antigravity for Aerospace Applications** (document, board tier A), a denial link at Tier 1 documented. The link reads: The government's own 45-page antigravity survey does not mention Brown at all. THE ABSENCE EDGE, AND THIS NOTE IS WHAT KEEPS IT HONEST. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0; 'Brown' occurs three times and all three are other authors' surnames in the reference list (L. S. Brown and Maclay 1969, H. R. Brown as co-editor of 'The Philosophy of Vacuum', J. H. Brownell 2008). WHAT THIS IS: a Tier 1 fact about a named, dated, openable document, checkable in 45 pages. WHAT THIS IS NOT: a finding that DIA considered Brown and rejected him, because the document shows no sign of having considered him. NOBODY DENIED ANYTHING, which is why the verdict is association and not directed, and the edge must never be rendered or summarised as 'DIA rejected Brown'. Sources: Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2010-03-30.
-- Thomas Townsend Brown comes in from **NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)** (document, board tier B), a denial link at Tier 1 documented. The link reads: NASA: the observed thrust is ion wind, and these devices are not viable candidates. EXPLICIT DENIAL EDGE, AND ITS SCOPE MUST NOT BE OVERSTATED. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These "Biefeld-Brown," "Lifter" and "Asymmetrical Capacitor Thrusters" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES BUILT ON IT. It is NOT a finding about what Brown's patents claim, because neither patent ever claimed anti-gravity: the word 'gravity' appears zero times in both. The denial lands on the electrogravitic reading of the effect, not on the inventor's own text. Sources: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, dated 2004.
-- Thomas Townsend Brown runs out to **National Investigations Committee on Aerial Phenomena (NICAP)** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Ran NICAP at its formation, October 1956, as executive vice chairman pro tempore. A Washington Daily News report of 23 October 1956, in the FBI's own NICAP file, names T. Townsend Brown of Leesburg, Virginia as the man who runs it and gives his title, with the board of governors still to be elected on 1 November. Sources: FBI file 100-35992, part 1, Washington Daily News clipping, 23 October 1956, https://archive.org/details/NICAP, dated 1956-10-23.
-- Thomas Townsend Brown comes in from **NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)** (document, board tier C), a research link at Tier 1 documented. The link reads: Cites both Brown patents and GB 300,311 by number, and models the thrust as ion drift. THE JOIN IS DOCUMENTARY AND NOT TOPICAL. The report's reference list opens with 'Brown, T.T., US Patent 2,949,550', 'Brown, T.T., US Patent 3,187,206' and 'Brown, T.T., GB Patent 300,311', which are exactly the three Brown documents this board already carries. Its conclusion is that the operation of such devices 'is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions'. Sources: NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf, dated 2004-10.
-- Thomas Townsend Brown comes in from **Mark McCandlish** (person, board tier A), a research link at Tier 2 named person on the record. The link reads: Attributes the claimed lift effect to a Brown patent of the late 1950s or early 1960s. THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. His testimony describes a plate capacitor floated at about a million volts 'in accordance with principles that had been described in a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Salvatore Cezar Pais runs out to **US Application 2019/0295733 - Plasma Compression Fusion Device** (document, board tier C), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 15/928703, assigned to the Secretary of the Navy. Sources: US Application 2019/0295733, https://www.freepatentsonline.com/20190295733.html
 
 It carries 7 connections in total on the board.
 
@@ -2280,7 +1602,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 268 of 1125, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 241 of 1057, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -2325,7 +1647,7 @@ Affiliations recorded: Harvard University Department of Astronomy (1993- ; chair
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 225 of 1125, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 203 of 1057, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -2349,83 +1671,41 @@ A further 3 claims sit on this node on the board and are not reproduced here.
 - Abraham 'Avi' Loeb runs out to **Garry Nolan** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Chair and member of the same 2026 advisory council. The astronomer who built the unclassified instrumentation programme and the pathologist who published the materials analysis now sit on the same federally requested body - with neither given classified access. Sources: Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/, dated 2026-06-15; The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01.
 - Abraham 'Avi' Loeb runs out to **The Galileo Project** (program, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Founder, 26 July 2021. Founded four weeks after the ODNI preliminary assessment on the premise that the way past a classified impasse is to build unclassified instruments and publish. Sources: Wikipedia: The Galileo Project, https://en.wikipedia.org/wiki/The_Galileo_Project, dated 2026-08-12; The Galileo Project, Harvard University, https://projects.iq.harvard.edu/galileo, dated 2026-08-12.
 
-## Daniel P. Sheehan
+## Jeremy Kenyon Lockyer Corbell
 
-Daniel P. Sheehan is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2023-11-27; axes C1 A0 D3; 6 connections.
+Jeremy Kenyon Lockyer Corbell is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2021-05-14; axes C0 A1 D2; 6 connections.
 
-In one line: Constitutional attorney; lobbied the FY2024 NDAA conference.
-
-### The longer account
-
-Daniel Sheehan is the legal architecture of the disclosure movement. A Harvard College and Harvard Law graduate who worked the Pentagon Papers case, Watergate, Silkwood, Greensboro and the La Penca bombing suit, he founded the Christic Institute and the Romero Institute and now runs the New Paradigm Institute, which lobbies directly for the UAP Disclosure Act. He was counsel to Harvard psychiatrist John Mack and to Steven Greer's Disclosure Project, and he represents Luis Elizondo in litigation against the Department of Defense. His significance for this board is that he is the person converting testimony into legal instruments - eminent domain provisions, records-review boards, whistleblower protection - and the New Paradigm Institute is running the campaign to get the Senate to pass the UAPDA after House action. Sheehan's record also carries a real liability: the Avirgan v. Hull suit was dismissed in 1988 with Rule 11 sanctions of over a million dollars against the Christic Institute, and the presiding judge criticised his reliance on witnesses who were dead, unwilling or one person removed from the facts. That is a hostile-audit vulnerability the board should carry openly, because the same evidentiary pattern - second-hand witnesses, unavailable primaries - recurs in the UAP context.
-
-### Where the record conflicts
-
-- Judicially sanctioned in 1988 for reliance on unavailable and second-hand witnesses - a pattern critics apply to his UAP advocacy.
-
-Affiliations recorded: New Paradigm Institute (founder), Christic Institute (co-founder), Romero Institute (Chief Counsel), Christic Institute (founder), Counsel to Luis Elizondo v. DoD.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 463 of 1125, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
-
-### The claims on the record
-
-- **Tier 2 named person on the record.** ABC News reports his account, given at that event, of being shown UFO photographs bearing 'alien writing symbols' in the National Archives during the Carter administration, which he traced onto a legal pad. TIER 2: this is a named person on the record describing his own action, with no document produced. Source: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, opened 2026-09-19
-- **Tier 2 named person on the record.** He is one of only five people whom an opened source places at the podium of the 9 May 2001 National Press Club press conference. ABC News, reporting the same day, names him as the Washington lawyer serving as counsel to the Disclosure Project. Source: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, opened 2026-09-19, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 2 named person on the record.** In Avirgan v. Hull, Judge James Lawrence King dismissed the suit on 23 June 1988 and ordered the Christic Institute to pay $955,000 in attorney's fees and $79,500 in costs under Rule 11. Source: Wikipedia, 'Daniel Sheehan (attorney)'; US District Court, Southern District of Florida, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 2 named person on the record.** Klass records his function for the Project: he 'serves as counsel for Project Disclosure to defend any witnesses who might be charged with violating their security oaths', and that he claims to have examined photographs of crashed craft in 1977 which were not classified. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
-- **Tier 2 named person on the record.** Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizondo in a case against the Department of Defense. Source: Wikipedia, 'Daniel Sheehan (attorney)', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 2 named person on the record.** Sheehan states Turner 'first attacked those two elements', eminent domain and the Review Board's subpoena power, saying in effect 'we want the eminent domain provision out of here, and we want the subpoena power out.' Source: Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023
-- **Tier 2 named person on the record.** The New Paradigm Institute is running a public campaign urging the Senate to pass the UAP Disclosure Act following House passage of its version, and a 'UAP Transparency Pledge' for candidates. Source: New Paradigm Institute website, retrieved 12 August 2026, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 3 stated inference.** Sheehan's account is the only named-source explanation for why the enacted subtitle lacks precisely the two provisions with reach into contractor-held material, and it is consistent with the text; treat it as the working hypothesis pending release of conference records. Source: Inference from Sheehan's account compared with P.L. 118-31 Subtitle C
-
-### Its strongest connections
-
-- Daniel P. Sheehan runs out to **New Paradigm Institute** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Founder and principal. NPI is Sheehan's vehicle for the UAPDA campaign and the UAP Transparency Pledge. Sources: New Paradigm Institute, https://newparadigminstitute.org/, dated 2026-08-12.
-- Daniel P. Sheehan runs out to **Luis D. Elizondo** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Represents Elizondo in litigation against DoD. The legal channel through which prepublication review and non-disclosure constraints on a former programme director are being contested. Sources: Wikipedia - Daniel Sheehan (attorney), https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney), dated 2026-08-12.
-- Daniel P. Sheehan runs out to **Steven M. Greer** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Sheehan served as counsel to Greer's Disclosure Project. Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use. Sources: Wikipedia - Daniel Sheehan (attorney), https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney), dated 2026-08-12.
-- Daniel P. Sheehan comes in from **Conventional Prompt Global Strike** (program, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it. Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
-- Daniel P. Sheehan runs out to **Michael R. Turner** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Named-source account of what Turner demanded in conference. Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27.
-- Daniel P. Sheehan runs out to **Disclosure Project press conference, National Press Club, 9 May 2001** (event, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Counsel to the Project, at the podium on 9 May 2001. ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths. Sources: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, dated 2001-05-09; Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
-
-## Kevin D. Randle
-
-Kevin D. Randle is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1949-06-04; axes C0 A1 D3; 6 connections.
-
-In one line: Lt Col (ret.), USAF/Army/Iowa NG intelligence officer; Roswell author.
+In one line: Filmmaker; co-host, Weaponized.
 
 ### The longer account
 
-Kevin Douglas Randle (born 4 June 1949) is the closest thing the retrieval literature has to an internal auditor with a security background. He flew UH-1s with the 116th and 187th Assault Helicopter Companies in Vietnam, served in the Air Force as a public affairs officer, general's aide and intelligence officer, completed Air Force Reserve service as a captain and director of intelligence for an airlift group, then joined the Iowa National Guard as an intelligence officer after 11 September 2001, deploying with the 234th Signal Battalion to Baghdad International Airport in June 2003 and retiring as a lieutenant colonel in 2009. With Donald R. Schmitt he wrote 'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994), the two books that drove Roswell into congressional attention and produced the Air Force counter-reports. Randle is important to this board precisely because he moved against the current: he demolished the Majestic 12 documents in 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) while Friedman defended them, he withdrew his and Schmitt's support for witnesses who did not hold up, and he later told Skeptical Inquirer's Robert Sheaffer that he sets a very high bar for evidence, that most abductees are describing sleep paralysis, and eventually that he was 'no longer sure what actually happened' at Roswell and that the case for extraterrestrial involvement 'is no longer robust.' He also wrote 'Project Moon Dust' (1999), 'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010), which is the field's most systematic case-by-case survey.
+Jeremy Corbell is the movement's primary conduit for leaked military imagery, and that role - not his filmmaking - is what makes him structurally significant. Beginning in 2019 he released a sequence of US Navy materials including the USS Omaha 'transmedium' footage and the pyramid-shaped object video, several of which the Pentagon subsequently confirmed as genuine Navy recordings. The confirmation pattern is the interesting datum: material leaks to Corbell, Corbell publishes, the Department authenticates the provenance while contesting the interpretation. He directed Bob Lazar: Area 51 & Flying Saucers, which premiered on Netflix in 2019 and returned Lazar to public attention, and Hunt for the Skinwalker, based on the George Knapp and Colm Kelleher book. He co-hosts Weaponized with Knapp. He has been criticised within the field for showmanship and for imagery later explained by lens artefacts, and both things are true at once: he is an unreliable narrator and a reliable pipe.
 
 ### Where the record conflicts
 
-- Randle and Schmitt publicly split; Randle later repudiated several witnesses the two of them had jointly relied on, including Frank Kaufmann and Glenn Dennis.
+- Some imagery he released has been attributed by analysts to triangular lens aperture artefacts.
 
-Affiliations recorded: US Army, Vietnam (116th and 187th Assault Helicopter Companies), US Air Force / Air Force Reserve, intelligence officer, Iowa National Guard, 234th Signal Battalion, Iraq 2003-2004, J. Allen Hynek Center for UFO Studies.
+Affiliations recorded: Weaponized podcast (with George Knapp), Extraordinary Beliefs (film series).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 223 of 1125, score 43). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 669 of 1057, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
-- **Tier 2 named person on the record.** 'The Truth About the UFO Crash at Roswell' by Kevin D. Randle and Donald R. Schmitt was published in 1994, 251 pages with bibliographical references and index; 'UFO Crash at Roswell' was published in 1991. Source: Library catalogue records mirrored at the Internet Archive (truthaboutufocra0000rand; ufocrashatroswel00rand), DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 2 named person on the record.** He hosted and published Peter Robbins's account of the Larry Warren repudiation in August 2017, which is one of the two routes by which that material reached this board. Source: Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html, opened 2026-09-19
-- **Tier 2 named person on the record.** He states the basis of his knowledge of Stone: he met him in February 1989 and 'visited him at his home many times'. This is a thirty-year personal acquaintance rather than a records-based debunking, which is why his account and Klass's are independent methods rather than one method twice. Source: Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html, opened 2026-09-19
-- **Tier 2 named person on the record.** Randle concluded the Majestic 12 documents were not authentic, in direct opposition to Stanton Friedman. Source: Randle, 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002)
-- **Tier 2 named person on the record.** Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust. Source: Robert Sheaffer interviews with Randle, Skeptical Inquirer
-- **Tier 2 named person on the record.** Writing on 14 February 2021, he announced the death of Clifford E. Stone on 10 February 2021 in Roswell, New Mexico, and set out the discrepancies between Stone's account and his service record: Stone 'claimed four tours, though his military records showed that he had been overseas for 37 months and not all of it in Vietnam', and of the claim that he slipped out at night to hunt the enemy, 'There is nothing in the record to support that claim.' Source: Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html, opened 2026-09-19
+- **Tier 1 documented.** Burchett on the record at that hearing: 'I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject, and I seek unanimous consent to enter those statements into the record.' The unanimous consent was granted without objection. Source: CHRG-118hhrg53022, Rep. Burchett https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm
+- **Tier 1 documented.** Corbell's report 'The UAP Puzzle' was entered into the record of the 26 July 2023 House Oversight hearing by Rep. Tim Burchett, and appears in the hearing's Index of Documents as 'Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett.' Source: CHRG-118hhrg53022, Index of Documents https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm
+- **Tier 2 named person on the record.** Corbell directed Hunt for the Skinwalker, based on the book by George Knapp and Colm Kelleher. Source: Wikipedia, 'Jeremy Corbell', DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Corbell has released leaked footage from US Navy aircraft associated with the USS Omaha and video of apparently triangular objects filmed by Navy personnel. Source: Wikipedia, 'Jeremy Corbell', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
 
 ### Its strongest connections
 
-- Kevin D. Randle runs out to **Donald R. Schmitt** (person, board tier C), a research link at Tier 1 documented. The link reads: Co-authors of the two Roswell books, later estranged. 'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994). Randle later broke with Schmitt over Schmitt's misrepresentation of his own background and withdrew support for witnesses they had jointly relied on. Sources: The truth about the UFO crash at Roswell (1994), https://archive.org/details/truthaboutufocra0000rand, dated 1994-01-01.
-- Kevin D. Randle comes in from **Stanton T. Friedman** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: Unresolved dispute over MJ-12 authenticity. Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
-- Kevin D. Randle comes in from **William L. Moore** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12. Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
-- Kevin D. Randle runs out to **Clifford E. Stone** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: Thirty-year acquaintance who records the same discrepancies from the record. A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night. Sources: Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html, dated 2021-02-14.
-- Kevin D. Randle comes in from **Leonard H. Stringfield** (person, board tier C), a research link at Tier 3 stated inference. The link reads: Randle's case-by-case surveys audit Stringfield's corpus. 'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010) revisit the Status Report cases with named sourcing where it exists and rejection where it does not. Reasoning: comparison of case lists. Sources: Stringfield Status Reports 1-7 (scans), https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ, dated 2026-08-12.
-- Kevin D. Randle comes in from **Col. Richard L. Weaver** (person, board tier C), a denial link at Tier 3 stated inference. The link reads: The Air Force reports were the institutional response to the Randle-Schmitt books. The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
+- Jeremy Kenyon Lockyer Corbell runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a investigative link at Tier 1 documented. The link reads: His report 'The UAP Puzzle' was submitted into the record by Rep. Burchett. Listed in the hearing's Index of Documents. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
+- Jeremy Kenyon Lockyer Corbell runs out to **Lockheed Martin Corporation** (institution, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Corbell publicly challenged the Senate Appropriations Committee to audit Lockheed Martin's special access programs. Speaking alongside Rep. Burchett in March 2023, Corbell named Senators Murray and Collins and the Committee's jurisdiction over spending. Elizondo responded that the inquiry should not be limited to one aerospace company 'but to several others that have likely played a key historical role.' Sources: Christopher Sharp, 'Lockheed Martin Challenged On UFO Legacy Programs, As Politicians Talk Hearings,' Liberation Times, https://www.liberationtimes.com/home/lockheed-martin-challenged-on-ufo-legacy-programs-as-politicians-talk-hearings, dated 2023-03-11.
+- Jeremy Kenyon Lockyer Corbell comes in from **George Knapp** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Co-hosts the Weaponized podcast. Pairs Knapp's four decades of sourcing with Corbell's leak pipeline. Sources: Wikipedia - George Knapp, https://en.wikipedia.org/wiki/George_Knapp_(television_journalist), dated 2026-08-12.
+- Jeremy Kenyon Lockyer Corbell comes in from **Los Alamos National Laboratory** (institution, board tier B), a investigative link at Tier 2 named person on the record. The link reads: 'Sleeping Dog' document trove said to originate with a deceased LANL cybersecurity chief. Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them. Sources: New York Post, https://nypost.com/2026/04/25/us-news/trove-of-leaked-documents-show-us-lab-where-two-missing-scientists-worked-studied-ufos-film/, dated 2026-04-25.
+- Jeremy Kenyon Lockyer Corbell comes in from **USS Jackson (LCS-6) Encounter, 15 February 2023** (event, board tier C), a investigative link at Tier 2 named person on the record. The link reads: Footage reached the public through journalists, not through the Navy or AARO. Wiggins's statement records that the stabilized footage and screenshots were published by journalists Jeremy Corbell and George Knapp. Sources: House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09.
+- Jeremy Kenyon Lockyer Corbell runs out to **Weaponized (Knapp & Corbell)** (program, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Co-host. The primary channel through which leaked Navy imagery has entered the public record. Sources: Wikipedia - George Knapp, https://en.wikipedia.org/wiki/George_Knapp_(television_journalist), dated 2026-08-12.
 
 ## Marco Rubio
 
@@ -2445,7 +1725,7 @@ Affiliations recorded: U.S. Senate, Florida (2011-2025), SSCI Acting Chairman (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 434 of 1125, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 400 of 1057, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -2463,6 +1743,51 @@ Re-graded B on a global pass (rank 434 of 1125, score 32). 6 connections, 1 of t
 - Marco Rubio comes in from **The Age of Disclosure (documentary, 2025)** (document, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Rubio appears on record in the documentary. A sitting Secretary of State appearing in a film premised on an 80-year cover-up is a first-order fact about the coherence of the official denial posture. Sources: The Age of Disclosure - teaser, https://www.youtube.com/watch?v=AZo-Q-FXoXM, dated 2025-11-01.
 - Marco Rubio comes in from **Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025** (document, board tier C), a investigative link at Tier 2 named person on the record. The link reads: Addressed to the Secretary of State, who had publicly described UAP whistleblowers approaching Senate Intelligence. Rubio was one of five Senate cosponsors of the UAP Disclosure Act before joining the executive branch. Sources: The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency, https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/, dated 2025-02-18.
 
+## Paul Frederick Bennewitz
+
+Paul Frederick Bennewitz is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1980-11-10; axes C1 A0 D3; 6 connections.
+
+In one line: Physicist; president, Thunder Scientific Corp.; target of AFOSI disinformation 1980-1988.
+
+### The longer account
+
+Bennewitz is the clearest documented casualty of a US counterintelligence operation run against an American civilian over UFO information. He was a working physicist who ran Thunder Scientific Corporation, an instrumentation firm whose customers included the Air Force, from a property whose sightlines took in the Manzano Weapons Storage Area and Coyote Canyon on the eastern edge of Kirtland AFB. From 1979 he recorded lights and electronic signals over the Manzano nuclear-weapons storage complex and reported them - to the Air Force, in writing, repeatedly. The Air Force's documented response was an AFOSI file: a formal AFOSI complaint-form record dated 10 November 1980 confirming that Kirtland security police had observed unexplained aerial objects over Coyote Canyon and that Bennewitz's photography and reporting were under official notice. What followed, on the accounts of the AFOSI personnel involved, was not an investigation but a feed: Bennewitz was supplied with fabricated material about underground alien bases, treaties and biological experiments, calibrated to his existing beliefs, in order to discredit him and to mask whatever it was he had actually recorded near a nuclear storage site. He deteriorated, was hospitalised for psychiatric care in 1988, and died in 2003. The Bennewitz affair is the template: the state does not need to seize a witness's evidence if it can destroy the witness's credibility, and it can do that using its own personnel, on the record, with no legal consequence.
+
+### What is left unexplained
+
+AFOSI's own 1980 document concedes unexplained objects over a nuclear weapons storage area. No follow-up investigation of that concession has ever been released.
+
+### Where the record conflicts
+
+- No official US government report has ever acknowledged the Bennewitz disinformation operation. AARO's 2024 Historical Record Report Volume I does not mention Bennewitz, Doty, AFOSI or Kirtland at all.
+
+### Recorded as unverified
+
+- The content of the material Bennewitz recorded on his equipment has never been independently analysed; his original data is not publicly held.
+
+Affiliations recorded: Thunder Scientific Corporation, Albuquerque (founder/president), Aerial Phenomena Research Organization (associate).
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 456 of 1057, score 30). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** An AFOSI record dated 10 November 1980 documents that Kirtland AFB security police observed unexplained aerial objects over the Coyote Canyon/Manzano area and that Bennewitz's reporting was under official notice. Source: AFOSI complaint-form record, Kirtland AFB, 10 Nov 1980, released under FOIA
+- **Tier 2 named person on the record.** At 0:34:30 in the same episode Bishop said that in his own reading Bennewitz 'was his own worst enemy' and that the specific thing he knows Bill Moore did was to be told to give Bennewitz the Aquarius document, in which two of Bennewitz's own films are mentioned. The author of the standard account is on the record limiting what he says was actually done to the man. Source: American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:34:30
+- **Tier 2 named person on the record.** On American Alchemy with Jesse Michels, 5 July 2025, at 0:36:14, Greg Bishop said that Doty told him, and he thinks Moore told him, that the Air Force flew Bennewitz by helicopter from Kirtland to Archuleta Mesa on the Jicarilla Apache reservation and showed him a site, and that jeeps, water tanks 'and all kind of stuff' had been placed there as props so his attention would move away from Kirtland. At 0:37:25 he said something did later crash there, that Bennewitz reached the site only after it had been cleaned up, and that what was found was burned ground, broken brush and a pen marked US government property. Nothing in the board's files mentions Archuleta. Source: American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:36:14 and 0:37:25, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918
+- **Tier 2 named person on the record.** Richard Doty, then an AFOSI special agent, has stated publicly that he supplied Bennewitz with false documents and false information as part of an official effort. Source: Richard Doty, on-record interviews and documentary appearances, 2005-2013
+- **Tier 3 stated inference.** The disinformation fed to Bennewitz was intended to protect an actual sensitive activity at or near Manzano rather than merely to discredit a nuisance complainant - the operation's cost and duration exceed what a simple crank case would warrant. Source: Inference from the duration (1980-1988), the involvement of a serving counterintelligence agent, and the fact that AFOSI's own file conceded unexplained objects over a nuclear storage site.
+
+### Its strongest connections
+
+- Paul Frederick Bennewitz runs out to **AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I** (document, board tier A), a denial link at Tier 1 documented. The link reads: AARO's 2024 historical review makes no mention of Bennewitz, Doty, AFOSI or Kirtland. The best-documented instance of US government disinformation about UFOs directed at an American citizen is entirely absent from the government's own historical review of the subject. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
+- Paul Frederick Bennewitz runs out to **AFOSI Kirtland AFB UFO File (1980-1983)** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Bennewitz's reporting generated the AFOSI Kirtland file. The 10 November 1980 AFOSI record documents Kirtland security police observations of unexplained objects over Coyote Canyon and notes Bennewitz's photography and reporting. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+- Paul Frederick Bennewitz runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Bennewitz's 1979-1980 observations were of the Manzano area of Kirtland AFB. Bennewitz dated his personally funded study to July 1979, filmed lights and recorded signals over the base, contacted Kirtland on 24 October 1980 and briefed base officials on 10 November 1980. Attested by his own correspondence and contemporary press. Sources: Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
+- Paul Frederick Bennewitz comes in from **Richard C. Doty** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Ran fabricated material at Bennewitz out of the same AFOSI office. Doty has acknowledged on the record passing fabricated documents to Bennewitz while an AFOSI agent; Bennewitz's psychiatric collapse is the documented outcome. This is the field's baseline case for government-authored disinformation. Sources: HuffPost - Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Incident, https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650, dated 2014-05-13; Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Paul Frederick Bennewitz comes in from **William L. Moore** (person, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Moore admitted in 1989 to feeding Bennewitz false information. On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens. Sources: Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
+- Paul Frederick Bennewitz runs out to **Thunder Scientific Corporation** (institution, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Bennewitz founded and ran Thunder Scientific, a USAF instrumentation vendor. The company's location gave sightlines to the Manzano Weapons Storage Area at Kirtland; Bennewitz had the technical capability to record and characterise emissions. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
+
 ## Roscoe H. Hillenkoetter
 
 Roscoe H. Hillenkoetter is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1960-06-01; axes C3 A2 D3; 6 connections.
@@ -2479,7 +1804,7 @@ The structural point is the ordering. A former DCI publicly contradicting the Ai
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 165 of 1125, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 152 of 1057, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -2525,7 +1850,7 @@ Affiliations recorded: US Navy (1989-2017), Rear Admiral, Commander, Naval Meteo
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 147 of 1125, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 135 of 1057, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2563,7 +1888,7 @@ A private correspondent of John Podesta's in the WikiLeaks Podesta Emails, writi
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 534 of 1125, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 491 of 1057, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2594,7 +1919,7 @@ The board already holds a document over Cabell's signature, cited as a source on
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 253 of 1125, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 226 of 1057, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -2630,7 +1955,7 @@ Affiliations recorded: U.S. Senate, New York (1999- ), Senate Majority Leader (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 265 of 1125, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 239 of 1057, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2649,55 +1974,45 @@ Re-graded B on a global pass (rank 265 of 1125, score 40). 5 connections, 1 of t
 - Charles E. Schumer runs out to **Harry M. Reid** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Schumer names Reid as the legacy he is continuing. Schumer publicly framed the UAPDA as inheriting from Reid, who had funded AAWSAP through leadership discretion rather than committee process. Sources: The Debrief, UAP Disclosure Act of 2023, https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/, dated 2023-07-14.
 - Charles E. Schumer runs out to **P.L. 118-31 Subtitle C, Secs. 1841-1843 (what survived)** (legislation, board tier A), a denial link at Tier 2 named person on the record. The link reads: Publicly called the removal of the Review Board an outrage. Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it. Sources: The Debrief, A Dramatic Dilution, https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/, dated 2023-12-22.
 
-## Clifford E. Stone
+## Daniel P. Sheehan
 
-Clifford E. Stone is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2021-02-10; axes C0 A0 D3; 5 connections.
+Daniel P. Sheehan is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2023-11-27; axes C1 A0 D3; 5 connections.
 
-In one line: US Army sergeant, 1968 to 1990, whose documented assignments were clerical and administrative; claimant from the 1990s of service on Army crash-retrieval teams recovering craft and occupants.
+In one line: Constitutional attorney; lobbied the FY2024 NDAA conference.
 
 ### The longer account
 
-Clifford Stone is on this board because the evidence against his extraordinary account is unusually good, not because the account is. His ordinary career is a federal record and it was obtained: Philip J. Klass requested it from the National Personnel Records Center in St. Louis and printed the assignments in the summer of 2001, and they run clerk/typist from basic training, clerk/typist in Vietnam from February 1970 to August 1972, administration specialist from March 1975, seven years in Germany, detachment sergeant, and from May 1985 chief administrative clerk at the New Mexico Military Institute. Kevin Randle, who is already a node on this board, who met Stone in February 1989 and visited his home many times, independently records the same shape: four claimed Vietnam tours against a record showing thirty-seven months overseas and not all of it in Vietnam, and nothing in the record supporting the story of slipping out at night to hunt the enemy. Those are two genuinely independent methods, a records request and a thirty-year acquaintance, and one of the two men spent his career arguing that other UFO cases are real. But the item that matters most is not an absence at all. It is something Stone did. He told the Disclosure Project that an Army team took him to Bentwaters in England in late December 1980 to investigate the incident there. On 23 December 1983, three years later, he filed a Freedom of Information Act request with the United States Air Force asking for information about that same incident, from his home address, without indicating that he was a serving Army sergeant. A man who had been there officially does not write in as a member of the public for the file. The record also contains something in his favour and it belongs here: after he was relieved for administrative inefficiency in January 1988, an Army investigation cleared him and he was later awarded the Meritorious Service Medal for the work he had been criticised over.
+Daniel Sheehan is the legal architecture of the disclosure movement. A Harvard College and Harvard Law graduate who worked the Pentagon Papers case, Watergate, Silkwood, Greensboro and the La Penca bombing suit, he founded the Christic Institute and the Romero Institute and now runs the New Paradigm Institute, which lobbies directly for the UAP Disclosure Act. He was counsel to Harvard psychiatrist John Mack and to Steven Greer's Disclosure Project, and he represents Luis Elizondo in litigation against the Department of Defense. His significance for this board is that he is the person converting testimony into legal instruments - eminent domain provisions, records-review boards, whistleblower protection - and the New Paradigm Institute is running the campaign to get the Senate to pass the UAPDA after House action. Sheehan's record also carries a real liability: the Avirgan v. Hull suit was dismissed in 1988 with Rule 11 sanctions of over a million dollars against the Christic Institute, and the presiding judge criticised his reliance on witnesses who were dead, unwilling or one person removed from the facts. That is a hostile-audit vulnerability the board should carry openly, because the same evidentiary pattern - second-hand witnesses, unavailable primaries - recurs in the UAP context.
 
 ### Where the record conflicts
 
-- His own testimony places him in NBC duties and in the 96th Civil Affairs Company. The assignment list Klass prints from the National Personnel Records Center record contains no NBC billet and no Civil Affairs unit; it runs clerk/typist, administration specialist, detachment sergeant, chief administrative clerk. The two descriptions of the same career are not compatible and the board carries both rather than resolving them, because the NPRC record itself was not opened here.
-- He told the Disclosure Project that his team was sent to Bentwaters in late December 1980. Klass notes that the incident was not reported to higher officials until roughly two weeks after Stone says his team arrived.
+- Judicially sanctioned in 1988 for reliance on unavailable and second-hand witnesses - a pattern critics apply to his UAP advocacy.
 
-### Recorded as unverified
-
-- The National Personnel Records Center file itself. It was not opened by this board; the assignments are as Klass prints them.
-- The Army's eight-page investigation report which Klass says Stone gave him, the 1987 Roswell Daily Record feature, and the correspondence with Senator Pete Domenici. None was opened.
-- The 23 December 1983 FOIA request as a document. Its existence and its contents are as Klass reports them; the USAF FOIA file was not opened.
+Affiliations recorded: New Paradigm Institute (founder), Christic Institute (co-founder), Romero Institute (Chief Counsel), Christic Institute (founder), Counsel to Luis Elizondo v. DoD.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 340 of 1125, score 36). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 642 of 1057, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
-- **Tier 2 named person on the record, allegation shaped wording as stored.** AFFIRMATIVE EVIDENCE AGAINST THE ACCOUNT, NOT MERELY AN ABSENCE. Klass records: 'Stone claims that he and his Army team were sent to the USAF Bentwaters base in England in late December of 1980 to investigate a UFO incident... A further challenge to this claim is that on Dec. 23, 1983, Stone made a Freedom Of Information Act (FOIA) request to the USAF for information on the Bentwaters UFO incident which he would have acquired during his (alleged) official visit in 1980. Further, Stone's request used his home address and did not show that he was an Army sergeant.' This is an act by Stone, three years after the event, inconsistent with his own later account of having been there officially. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
-- **Tier 2 named person on the record.** HIS SERVICE RECORD WAS OBTAINED FROM A FEDERAL REPOSITORY AND PRINTED. Philip J. Klass states the source: 'If Greer had obtained a copy of Stone's military record from the National Personnel Records Center in St. Louis, he could have learned that these and other such Stone claims were FALSE.' The assignments as Klass prints them: entered the Army 8 July 1968; after basic training 'he was trained to be a clerk/typist'; Vietnam February 1970 to August 1972 'where his duties are listed as clerk/typist'; Fort Gordon and Fort Knox, principal duty clerk/typist; 'as of March 1975 his duty is shown as administration specialist'; August 1976 to August 1983 in Germany as administration specialist; then Keesler AFB and Fort Gordon as 'Det. Sgt'; and from May 1985 the New Mexico Military Institute as 'chief administrative clerk'. The underlying NPRC record itself was not opened by this board, which is why this is Tier 2 and not Tier 1. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
-- **Tier 2 named person on the record.** He is one of only five people whom an opened source places at the podium of the 9 May 2001 press conference, and the attestation is a broadcaster rather than the organiser: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
-- **Tier 2 named person on the record, allegation shaped wording as stored.** IN HIS FAVOUR, AND CARRIED HERE BECAUSE IT IS IN THE SAME SOURCE. In October 1987 his superior told him his work was unsatisfactory and that he should retire when eligible in mid-1988; on refusing he was 'relieved for administrative inefficiency' in January 1988, the stated basis being his personal UFO activities including a 1987 Roswell Daily Record feature. Klass records that 'A subsequent Army investigation of the allegations cleared Stone and he later was given the Meritorious Service Medal for his work at NMMI', and that Stone himself gave Klass the Army's eight-page final report. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
-- **Tier 2 named person on the record.** INDEPENDENT SECOND SOURCE WITH A DIFFERENT METHOD. Kevin D. Randle, announcing Stone's death on 10 February 2021 in Roswell, New Mexico, records that Stone 'claimed four tours, though his military records showed that he had been overseas for 37 months and not all of it in Vietnam', and of the claim that he slipped out at night to hunt the enemy, 'There is nothing in the record to support that claim.' Randle states he met Stone in February 1989 and 'visited him at his home many times'. Source: Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html, opened 2026-09-19
-- **Tier 2 named person on the record.** In the same testimony he describes his own training in his own words: 'very early on in my career they sent me to NBC School at Fort McCullen [sp], Alabama. It's a three-week school. It's for NBC personnel, NBC meaning Nuclear, Biological, and Chemical', and elsewhere places himself in 'the 96th Civil Affairs Company. I was the NBC Non-Commissioner [sic]'. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 2 named person on the record, allegation shaped wording as stored.** Klass's own summary of the record: 'THE ARMY REPORT DID NOT TRY TO EXPLAIN STONE'S UFO INTERESTS ON THE BASIS OF HIS ALLEGEDLY HAVING BEEN A MEMBER OF AN ARMY UFO RECOVERY TEAM. NOR DOES HIS MILITARY RECORD OFFER ANY EVIDENCE TO SUPPORT SUCH CLAIMS.' Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
-- **Tier 2 named person on the record.** The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. Its editorial header states: 'Stone has seen living and dead extraterrestrials in his official duties on an army team that retrieved crashed ET crafts.' TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-
-A further 1 claims sit on this node on the board and are not reproduced here.
+- **Tier 2 named person on the record.** In Avirgan v. Hull, Judge James Lawrence King dismissed the suit on 23 June 1988 and ordered the Christic Institute to pay $955,000 in attorney's fees and $79,500 in costs under Rule 11. Source: Wikipedia, 'Daniel Sheehan (attorney)'; US District Court, Southern District of Florida, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizondo in a case against the Department of Defense. Source: Wikipedia, 'Daniel Sheehan (attorney)', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Sheehan states Turner 'first attacked those two elements', eminent domain and the Review Board's subpoena power, saying in effect 'we want the eminent domain provision out of here, and we want the subpoena power out.' Source: Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023
+- **Tier 2 named person on the record.** The New Paradigm Institute is running a public campaign urging the Senate to pass the UAP Disclosure Act following House passage of its version, and a 'UAP Transparency Pledge' for candidates. Source: New Paradigm Institute website, retrieved 12 August 2026, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+- **Tier 3 stated inference.** Sheehan's account is the only named-source explanation for why the enacted subtitle lacks precisely the two provisions with reach into contractor-held material, and it is consistent with the text; treat it as the working hypothesis pending release of conference records. Source: Inference from Sheehan's account compared with P.L. 118-31 Subtitle C
 
 ### Its strongest connections
 
-- Clifford E. Stone runs out to **Disclosure Project Briefing Document, April 2001** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.4, dated September 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Clifford E. Stone comes in from **Philip J. Klass** (person, board tier B), a denial link at Tier 1 documented. The link reads: Obtained his service record from the National Personnel Records Center and printed it against the claim. TIER 1 DESPITE BOTH ENDS BEING INTERESTED PARTIES, because the claim carried by this edge is that Klass requested and published a federal service record, which is a fact about an act of research and not a domain-to-domain inference. The record shows clerk/typist, administration specialist, detachment sergeant and chief administrative clerk; Klass also records Stone's 23 December 1983 FOIA request to the USAF about Bentwaters, sent from his home address without identifying him as a serving sergeant. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
-- Clifford E. Stone comes in from **Kevin D. Randle** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: Thirty-year acquaintance who records the same discrepancies from the record. A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night. Sources: Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html, dated 2021-02-14.
-- Clifford E. Stone runs out to **Disclosure Project press conference, National Press Club, 9 May 2001** (event, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Shown at the podium by Fox News Channel, 9 May 2001. Klass: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' A broadcast attestation independent of the organiser. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
-- Clifford E. Stone runs out to **Rendlesham Forest Incident, RAF Woodbridge/Bentwaters** (event, board tier A), a witness-chain link at Tier 3 stated inference. The link reads: Claims an Army team took him there in late December 1980. TIER 3. His own FOIA request of 23 December 1983 to the USAF, from his home address and not identifying him as a serving Army sergeant, cuts against the claim, and no record places him in England. Klass also notes the incident was not reported upward until about two weeks after Stone says his team arrived. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
+- Daniel P. Sheehan runs out to **New Paradigm Institute** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Founder and principal. NPI is Sheehan's vehicle for the UAPDA campaign and the UAP Transparency Pledge. Sources: New Paradigm Institute, https://newparadigminstitute.org/, dated 2026-08-12.
+- Daniel P. Sheehan runs out to **Luis D. Elizondo** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Represents Elizondo in litigation against DoD. The legal channel through which prepublication review and non-disclosure constraints on a former programme director are being contested. Sources: Wikipedia - Daniel Sheehan (attorney), https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney), dated 2026-08-12.
+- Daniel P. Sheehan comes in from **Conventional Prompt Global Strike** (program, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it. Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
+- Daniel P. Sheehan runs out to **Michael R. Turner** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Named-source account of what Turner demanded in conference. Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27.
+- Daniel P. Sheehan runs out to **Steven M. Greer** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Sheehan served as counsel to Greer's Disclosure Project. Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use. Sources: Wikipedia - Daniel Sheehan (attorney), https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney), dated 2026-08-12.
 
 ## David Fravor
 
-David Fravor is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2023-07-26; axes C0 A1 D3; 5 connections.
+David Fravor is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2023-07-26; axes C0 A1 D3; 5 connections.
 
 In one line: CDR, USN (Ret.); Commanding Officer, VFA-41 Black Aces; 14 Nov 2004 Nimitz intercept.
 
@@ -2717,28 +2032,23 @@ Affiliations recorded: US Navy (1989-2006), VFA-41 Black Aces, Commanding Office
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 159 of 1125, score 50). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 401 of 1057, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
 - **Tier 1 documented.** 'In Nov 2004, I was the Commanding Officer of Strike Fighter Squadron Forty-One' and encountered 'a small white Tic Tac shaped object ... There were no Rotors, No Rotor wash, or any visible flight control surfaces.' Source: David Fravor, written statement for the House Oversight Subcommittee on National Security, the Border and Foreign Affairs, 26 July 2023
 - **Tier 1 documented.** 'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.' Source: David Fravor, written statement to House Oversight, 26 July 2023
-- **Tier 1 documented.** Asked by Rep. Langworthy 'is it true that you saw, in your words, a 40-foot flying Tic Tac shaped object?', he answered under oath: 'That is correct. For some people that cannot--know what a Tic Tac is it is a giant flying propane tank.' Source: Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, 2023-07-26
-- **Tier 1 documented.** The biography Fravor filed with the subcommittee for the 26 July 2023 hearing, held in the House Committee Repository under event 116282, reads in full: 'David Fravor is a retired naval pilot and Commander of VFA-41 also known as The Black Aces. He is one of the primary witness in the 2004 USS Nimitz UFO incident. He was featured in the 2008 PBS documentary Carrier and has been interviewed on Joe Rogan's podcast The Joe Rogan Experience. Fravor joined the military at the age of 17. He has a career spanning 24 years, 18 of which was as a Navy pilot. He had completed five tours to the Persian Gulf starting after Operation Desert Storm. He commanded a squadron of 12 airplanes consisting of 330 people. Fravor retired in 2006.' The grammatical slip 'one of the primary witness' is in the original. This is a document filed with a committee and held in its repository, which is what makes it Tier 1. It is a witness-supplied biography, not a Navy service record. Source: HHRG-118-GO06-Bio-FravorD-20230726.pdf, http://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-FravorD-20230726.pdf, 2023-07-26
-- **Tier 1 documented.** The testimony was sworn, and the printed record carries the mechanism. Chairman Grothman: 'Pursuant to Committee Rule 9(g), the witnesses will please stand and raise their right hands. Do you solemnly swear to tell the truth, the whole truth, and nothing but the truth, so help you God? [Witnesses are sworn.] Mr. Grothman. Let the record show that all the witnesses answered in the affirmative.' Source: Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, 2023-07-26
 - **Tier 1 documented.** USS Princeton had been tracking the objects on Aegis for two weeks, descending from above 80,000 ft to 20,000 ft. Source: David Fravor, written statement to House Oversight, 26 July 2023
-- **Tier 1 documented.** Under oath he gave the chain by which the case reached investigators and then the public: 'It was not until 2009, until Jay Stratton had contacted me to investigate. Unbeknownst to all, he was part of the ATIP program in the Pentagon led by Lue Elizondo. There was an unofficial official report that came out that is now on the internet. Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk. I was contacted by Mr. Elizondo, and we talked for a short period of time.' This is the provenance chain in the words of the witness, under oath. Source: Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, 2023-07-26
-- **Tier 1 documented.** Under oath he gave the radar picture of the 14 November 2004 intercept, in answer to Rep. Langworthy: 'The Princeton tracked it. The Nimitz tracked it. The E2 tracked it. We never saw it on our radars. Our fire control radars never picked it up. The other airplane that took the video did get it on a radar. As soon as it tried to lock it, it jammed the radar, spit the lock and he rapidly switched over to the targeting pod, which you can do in the F-18.' Source: Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, 2023-07-26
-
-A further 3 claims sit on this node on the board and are not reproduced here.
+- **Tier 1 documented.** Witness of record at the 26 July 2023 House Oversight hearing: 'Commander David Fravor (Ret.), Former Commanding Officer, United States Navy'. Written statement, Truth in Testimony form and bio filed in the House Committee Repository, event 116282. Source: CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282
+- **Tier 2 named person on the record.** 'It was aware we were there' and 'It just disappears. Like, gone.' Source: David Fravor, CBS 60 Minutes, 16 May 2021
 
 ### Its strongest connections
 
 - David Fravor comes in from **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Co-witness, 26 July 2023 hearing panel. Fravor testified alongside Grusch and Graves, providing the operational encounter testimony that framed Grusch's programmatic allegations for the committee. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
+- David Fravor runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Intercepted the object as CO of VFA-41 on 14 Nov 2004. Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - David Fravor runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26.
 - David Fravor runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified as former commanding officer, VFA-41. Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept. Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-- David Fravor runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Intercepted the object as CO of VFA-41 on 14 Nov 2004. Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
-- David Fravor runs out to **Alex Dietrich** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
+- David Fravor runs out to **Alex Dietrich** (person, board tier C), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
 - David Fravor runs out to **Kevin Day** (person, board tier C), a behavioral link at Tier 1 documented. The link reads: Direct conflict over whether data was taken. Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 
 ## Maj. Donald E. Keyhoe, USMC (Ret.)
@@ -2758,7 +2068,7 @@ Keyhoe ran the civilian organisation the board already carries as nicap, and he 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 221 of 1125, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 201 of 1057, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2798,7 +2108,7 @@ Affiliations recorded: US Air Force veteran, U.S. Air Force (Langley AFB, c.2012
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 103 of 1125, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 100 of 1057, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2840,7 +2150,7 @@ Affiliations recorded: U.S. House of Representatives, FL-23 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 360 of 1125, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 331 of 1057, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2878,7 +2188,7 @@ Affiliations recorded: The White House (1993-2001; 2014-2015), Center for Americ
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 690 of 1125, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 646 of 1057, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2888,10 +2198,10 @@ Re-graded C on a global pass (rank 690 of 1125, score 24). 5 connections, 0 of t
 
 ### Its strongest connections
 
-- John D. Podesta comes in from **Steven M. Greer** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Greer's CSETI submissions form the majority of the Clinton White House UFO file. Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
 - John D. Podesta comes in from **DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Addressee of the McCasland email and organiser of the 25 January 2016 meeting. The email is addressed to john.podesta@gmail.com, and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited. Sources: WikiLeaks, The Podesta Emails, email ids 3099 and 51979, https://wikileaks.org/podesta-emails/emailid/3099, dated 2016-01-25.
 - John D. Podesta comes in from **Bob Fish** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Wrote to Podesta over three days in March 2015 offering programme names. Fish wrote to Podesta directly over three days in March 2015 offering programme names; Podesta replied once and forwarded one email onward. Sources: WikiLeaks, The Podesta Emails, email id 30433, https://wikileaks.org/podesta-emails/emailid/30433, dated 2015-03-06.
-- John D. Podesta runs out to **The Disclosure Project** (program, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference. Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
+- John D. Podesta comes in from **Steven M. Greer** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Greer's CSETI submissions form the majority of the Clinton White House UFO file. Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
+- John D. Podesta runs out to **The Disclosure Project** (program, board tier C), a behavioral link at Tier 2 named person on the record. The link reads: Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference. Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
 - John D. Podesta comes in from **Laurance S. Rockefeller** (person, board tier C), a institutional link at Tier 3 stated inference. The link reads: The initiative worked the Clinton White House while Podesta was Staff Secretary and later Chief of Staff. Podesta held senior White House staff positions throughout the initiative's life and has since publicly and repeatedly demanded UFO declassification, including at the National Press Club on 22 October 2002. Sources: Clinton Digital Library, FOIA collection 2006-0480-F, 'Laurance Rockefeller' (Clinton-Rockefeller correspondence), https://clinton.presidentiallibraries.us/items/show/36323, dated 2019-09-16; Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
 
 ## Kevin H. Knuth
@@ -2912,7 +2222,7 @@ Affiliations recorded: NASA Ames Research Center (2001-2005), University at Alba
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 904 of 1125, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 849 of 1057, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -2927,6 +2237,40 @@ Re-graded C on a global pass (rank 904 of 1125, score 17). 5 connections, 0 of t
 - Kevin H. Knuth runs out to **Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences** (document, board tier C), a investigative link at Tier 1 documented. The link reads: Lead author of the 34-author UAP review. UAlbany: 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world.' Knuth, quoted in the same release: 'Given the longstanding, global nature of the UAP/UFO question, the air safety and security implications of their presence, and the potentially profound importance of their nature, studying and understanding these phenomena is of great and urgent importance.' Sources: UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research', https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research, dated 2025-06-04.
 - Kevin H. Knuth runs out to **Knuth, Powell & Reali (2019), Entropy 21(10):939** (document, board tier C), a investigative link at Tier 1 documented. The link reads: Lead author of the Entropy kinematics paper. Entropy 21(10):939 estimated accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter. Sources: Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939, https://doi.org/10.3390/e21100939, dated 2019-09-25.
 - Kevin H. Knuth runs out to **UAPx** (institution, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Vice President of UAPx and co-author of the 2025 paper. Knuth links UAPx to the Galileo Project, where he is a research affiliate, and to SCU through the Entropy collaboration with Powell. Sources: Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099, https://doi.org/10.1016/j.paerosci.2025.101099, dated 2025-06-01; Knuth, Powell & Reali, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939, https://doi.org/10.3390/e21100939, dated 2019-09-25.
+
+## Kevin D. Randle
+
+Kevin D. Randle is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1949-06-04; axes C0 A1 D3; 5 connections.
+
+In one line: Lt Col (ret.), USAF/Army/Iowa NG intelligence officer; Roswell author.
+
+### The longer account
+
+Kevin Douglas Randle (born 4 June 1949) is the closest thing the retrieval literature has to an internal auditor with a security background. He flew UH-1s with the 116th and 187th Assault Helicopter Companies in Vietnam, served in the Air Force as a public affairs officer, general's aide and intelligence officer, completed Air Force Reserve service as a captain and director of intelligence for an airlift group, then joined the Iowa National Guard as an intelligence officer after 11 September 2001, deploying with the 234th Signal Battalion to Baghdad International Airport in June 2003 and retiring as a lieutenant colonel in 2009. With Donald R. Schmitt he wrote 'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994), the two books that drove Roswell into congressional attention and produced the Air Force counter-reports. Randle is important to this board precisely because he moved against the current: he demolished the Majestic 12 documents in 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) while Friedman defended them, he withdrew his and Schmitt's support for witnesses who did not hold up, and he later told Skeptical Inquirer's Robert Sheaffer that he sets a very high bar for evidence, that most abductees are describing sleep paralysis, and eventually that he was 'no longer sure what actually happened' at Roswell and that the case for extraterrestrial involvement 'is no longer robust.' He also wrote 'Project Moon Dust' (1999), 'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010), which is the field's most systematic case-by-case survey.
+
+### Where the record conflicts
+
+- Randle and Schmitt publicly split; Randle later repudiated several witnesses the two of them had jointly relied on, including Frank Kaufmann and Glenn Dennis.
+
+Affiliations recorded: US Army, Vietnam (116th and 187th Assault Helicopter Companies), US Air Force / Air Force Reserve, intelligence officer, Iowa National Guard, 234th Signal Battalion, Iraq 2003-2004, J. Allen Hynek Center for UFO Studies.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 406 of 1057, score 32). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D3.
+
+### The claims on the record
+
+- **Tier 2 named person on the record.** 'The Truth About the UFO Crash at Roswell' by Kevin D. Randle and Donald R. Schmitt was published in 1994, 251 pages with bibliographical references and index; 'UFO Crash at Roswell' was published in 1991. Source: Library catalogue records mirrored at the Internet Archive (truthaboutufocra0000rand; ufocrashatroswel00rand), DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+- **Tier 2 named person on the record.** Randle concluded the Majestic 12 documents were not authentic, in direct opposition to Stanton Friedman. Source: Randle, 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002)
+- **Tier 2 named person on the record.** Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust. Source: Robert Sheaffer interviews with Randle, Skeptical Inquirer
+
+### Its strongest connections
+
+- Kevin D. Randle runs out to **Donald R. Schmitt** (person, board tier C), a research link at Tier 1 documented. The link reads: Co-authors of the two Roswell books, later estranged. 'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994). Randle later broke with Schmitt over Schmitt's misrepresentation of his own background and withdrew support for witnesses they had jointly relied on. Sources: The truth about the UFO crash at Roswell (1994), https://archive.org/details/truthaboutufocra0000rand, dated 1994-01-01.
+- Kevin D. Randle comes in from **William L. Moore** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12. Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
+- Kevin D. Randle comes in from **Stanton T. Friedman** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: Unresolved dispute over MJ-12 authenticity. Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
+- Kevin D. Randle comes in from **Leonard H. Stringfield** (person, board tier C), a research link at Tier 3 stated inference. The link reads: Randle's case-by-case surveys audit Stringfield's corpus. 'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010) revisit the Status Report cases with named sourcing where it exists and rejection where it does not. Reasoning: comparison of case lists. Sources: Stringfield Status Reports 1-7 (scans), https://archive.org/details/stringfield_Retrievals_Report_6_inner_sanctum_LQ, dated 2026-08-12.
+- Kevin D. Randle comes in from **Col. Richard L. Weaver** (person, board tier C), a denial link at Tier 3 stated inference. The link reads: The Air Force reports were the institutional response to the Randle-Schmitt books. The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
 
 ## Leonard H. Stringfield
 
@@ -2951,7 +2295,7 @@ Affiliations recorded: CRIFO (Civilian Research, Interplanetary Flying Objects),
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 784 of 1125, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 738 of 1057, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2986,7 +2330,7 @@ Affiliations recorded: University at Albany (SUNY), Department of Physics, LUX /
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 903 of 1125, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 848 of 1057, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3019,7 +2363,7 @@ Genik has no documented custody proximity and no documented special access. He i
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 141 of 1125, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 130 of 1057, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3058,7 +2402,7 @@ Richard Bissell is where the documented record of Area 51 begins, and the board'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 234 of 1125, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 210 of 1057, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -3072,7 +2416,7 @@ Re-graded B on a global pass (rank 234 of 1125, score 42). 5 connections, 1 of t
 
 - Richard M. Bissell Jr. runs out to **Central Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Special Assistant to the DCI for Planning and Coordination from January 1954. The Agency's own history names him in that post and records Dulles handing him the U-2 project in November 1954. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Richard M. Bissell Jr. runs out to **Project Blue Book** (program, board tier A), a denial link at Tier 1 documented. The link reads: His project staff resolved Blue Book's reports and withheld the reason. The CIA history states that Blue Book investigators checked reported sightings against U-2 flight logs held by the Agency's project staff and could not reveal the true cause to the people who had written in. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
-- Richard M. Bissell Jr. runs out to **Groom Lake, Nevada** (location, board tier A), a geographic link at Tier 1 documented. The link reads: Selected the site on 12 April 1955. He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
+- Richard M. Bissell Jr. runs out to **Groom Lake, Nevada** (location, board tier B), a geographic link at Tier 1 documented. The link reads: Selected the site on 12 April 1955. He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Richard M. Bissell Jr. runs out to **Lockheed Martin Advanced Development Programs (Skunk Works)** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: Ran the project Kelly Johnson built the aircraft for. Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Richard M. Bissell Jr. runs out to **Area 51 (Homey Airport / Groom Lake operating location)** (location, board tier B), a institutional link at Tier 1 documented. The link reads: Asked the AEC to absorb the land that became Area 51. On finding the site lay outside the proving ground he and Miller asked the Commission to add it to its Nevada holdings; Strauss agreed and Eisenhower approved the addition of the strip known by its map designation as Area 51. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 
@@ -3098,7 +2442,7 @@ Affiliations recorded: ufohastings.com, UFOs and Nukes (book and documentary).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 506 of 1125, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 465 of 1057, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -3117,50 +2461,46 @@ Re-graded B on a global pass (rank 506 of 1125, score 30). 5 connections, 2 of t
 - Robert L. Hastings runs out to **Clear Intent: The Government Coverup of the UFO Experience (1984)** (document, board tier C), a research link at Tier 3 stated inference. The link reads: Hastings extended the Fawcett-Greenwood documentary method with named witnesses. Hastings pairs the FOIA paper that 'Clear Intent' established with signed affidavits from named officers, which is the step the 1984 book could not take. Reasoning: comparison of the two evidence bases. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12; Fawcett and Greenwood, 'Clear Intent' (1984), https://archive.org/details/clear-intent-the-government-coverup-of-the-ufo-experience, dated 1984-01-01.
 - Robert L. Hastings comes in from **Richard M. Dolan** (person, board tier C), a research link at Tier 3 stated inference. The link reads: Dolan's institutional frame and Hastings's nuclear casework are complementary. Dolan argues concealment from the documented secrecy architecture; Hastings supplies the best-documented category of incident occurring inside the most heavily compartmented part of that architecture. Reasoning: the nuclear weapons complex is where SAP density and incident documentation coincide. Sources: UFOs & Nukes document archive, https://www.ufohastings.com/documents, dated 2026-08-12.
 
-## Stanton T. Friedman
+## Steven M. Greer
 
-Stanton T. Friedman is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2019-05-13; axes C0 A2 D3; 5 connections.
+Steven M. Greer is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2001-05-09; axes C0 A0 D3; 5 connections.
 
-In one line: Nuclear physicist; first civilian Roswell investigator; MJ-12 researcher.
+In one line: Emergency physician; founder of CSETI (1990) and the Disclosure Project (1993); National Press Club event 9 May 2001.
 
 ### The longer account
 
-Stanton Terry Friedman (29 July 1934 - 13 May 2019) was a nuclear physicist who spent fourteen years on classified nuclear propulsion programmes at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW and McDonnell Douglas before leaving full-time physics in 1970 to investigate UFOs professionally. That industrial background matters to this board: Friedman had held clearances on compartmented nuclear aircraft and fission and fusion rocket work, and he argued from direct experience that a programme could be run for decades without leaking, because he had worked inside ones that did not. In February 1978 in Baton Rouge, Louisiana, he was put in touch with Major Jesse A. Marcel Sr., the 509th Bomb Group intelligence officer who had handled the Roswell debris - the single act that restarted the Roswell case after thirty years of silence and made him, as he put it, the first civilian to document the site. He fed Marcel to William Moore and Charles Berlitz, whose 1980 'The Roswell Incident' made the case public. From 1984 he was the principal defender of the Majestic 12 documents received by Moore and Jaime Shandera, publishing 'Top Secret/Majic' in 1996 and maintaining that no substantive grounds existed for dismissing the authenticity of the core documents - a position that split him permanently from Randle, Klass and much of the field. He was also the first to demonstrate that some MJ-12 papers were provably faked, showing that a purported 17 February 1948 Hillenkoetter-to-Truman memo was an emulation of a Marshall-to-Roosevelt letter reproduced in 'The American MAGIC'. He testified in writing to a House committee in 1968, appeared twice at the United Nations, and donated his research files to the Provincial Archives of New Brunswick shortly before his death.
+Greer built the first mass witness-aggregation project and demonstrated both its power and its limits. A practising emergency physician, he founded the Center for the Study of Extraterrestrial Intelligence in 1990 and the Disclosure Project in 1993 with the explicit aim of assembling former military and government personnel willing to testify to Congress. On 9 May 2001 he convened roughly twenty of them at the National Press Club in Washington - radar operators, missile launch officers, air traffic controllers, FAA personnel - and announced that more than four hundred had given testimony, demanding congressional hearings with subpoena power and amnesty for witnesses. The event drew heavy international coverage and produced no hearing. Its consequence for the record is twofold. First, it created a large videotaped corpus of named former personnel making specific, dated, on-the-record claims, some of which - notably the missile-facility shutdown accounts - align with the FOIA-released overflight documents from 1975. Second, Greer's subsequent trajectory into claims that outran his evidence gave the institutions he was pressuring a durable reason to treat the whole category as unserious. The Clinton White House's own UFO FOIA collection (2006-0474-F) consists in the majority of documents Greer sent it, which is a precise measure of how the material was received: filed as correspondence.
 
 ### Where the record conflicts
 
-- Friedman defended the authenticity of the core MJ-12 documents; Kevin Randle ('Conclusions on Operation Majestic Twelve', 1994; 'Case MJ-12', 2002), Philip Klass and the FBI's 'BOGUS' annotation on the Aquarius/Cutler-Twining material took the opposite view. This dispute is unresolved and is recorded on this board as unresolved.
+- Greer's later claims - including assertions about non-human biological specimens - are unsupported and are routinely used to discredit the 2001 witness corpus as a whole.
+- Central claims (Atacama skeleton, CE-5 contact) are disproven or unfalsifiable; treated by structural investigators as a discrediting vector rather than a source.
 
 ### Recorded as unverified
 
-- The exact date in February 1978 of the first Friedman-Marcel contact.
+- The full four-hundred-plus witness archive has never been independently catalogued or corroborated.
 
-Affiliations recorded: General Electric (1956-1959), Aerojet General Nucleonics (1959-1963), General Motors (1963-1966), Westinghouse (1966-1968), TRW Systems (1969-1970), McDonnell Douglas.
+Affiliations recorded: Center for the Study of Extraterrestrial Intelligence (founder, 1990), The Disclosure Project (founder, 1993), CSETI (founder, 1990).
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 140 of 1125, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 705 of 1057, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
-- **Tier 1 documented.** The US Air Force's own 1995 Roswell report states: 'In 1978, a UFO researcher, Stanton Friedman, met with Marcel and began investigating the claims that the material Marcel handled was from a crashed UFO.' The board's account of Friedman as the first civilian investigator to reach Marcel is therefore attested by the Air Force, not only by Friedman. Source: Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148
-- **Tier 1 documented.** The same report lists 'Crash at Corona (1992) by Stanton T. Friedman and Don Berliner' among the major works its records search reviewed, placing Friedman's authorship in the Air Force's own bibliography of the case. Source: Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), review of the popular literature https://archive.org/details/DTIC_ADA326148
-- **Tier 2 named person on the record.** CBC News reports that Friedman died suddenly at Toronto Pearson Airport on the Monday night of 13 May 2019, aged 84, while returning from a speaking engagement in Columbus, Ohio, and describes him as 'a nuclear physicist by training' who 'had devoted his life to researching and investigating UFOs since the late 1960s'. The City of Fredericton declared 27 August 2007 Stanton Friedman Day. Source: CBC News, 14 May 2019 https://www.cbc.ca/news/canada/new-brunswick/stanton-friedman-ufologist-dead-1.5135588
-- **Tier 2 named person on the record.** Friedman began donating his research collection to the Provincial Archives of New Brunswick in the months before his death. Archivist Joanna Aiton-Kerr told CBC the archives had received about 300 boxes -- roughly 60 metres laid end to end -- and expected several more cargo vans. This is where the primary material behind his Roswell and MJ-12 work now sits, and it is not online. Source: CBC News, 13 October 2019 https://www.cbc.ca/news/canada/new-brunswick/provincial-archives-stanton-friedman-records-1.5315664
-- **Tier 2 named person on the record, allegation shaped wording as stored.** Friedman demonstrated that a purported 17 February 1948 Hillenkoetter memo to Truman was an emulation of a Marshall-to-Roosevelt letter published in 'The American MAGIC' - i.e. he proved part of the MJ-12 corpus fraudulent while defending the rest. Source: Friedman, 'Top Secret/Majic' (1996); summarised in Wikipedia biography
-- **Tier 2 named person on the record.** Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW Systems and McDonnell Douglas working on classified nuclear aircraft, fission and fusion rockets and compact space nuclear power. Source: Wikipedia biography, sourced to Friedman's own published CV and obituaries, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 2 named person on the record.** Friedman was the first civilian to interview Maj. Jesse Marcel Sr. about the Roswell debris, in February 1978, and the first to document the site. Source: Friedman's own account, repeated in his books and in the standard Roswell literature
-- **Tier 2 named person on the record.** Friedman's 'Top Secret/MAJIC' was published by Marlowe & Co. in 1996, ISBN 1569248303, and is available as a full scan. The board's claim about his Hillenkoetter-memo analysis cited this book by title with no locator. Source: Stanton T. Friedman, 'Top Secret/MAJIC' (Marlowe & Co., 1996) https://archive.org/details/topsecretmajic0000frie
-
-A further 3 claims sit on this node on the board and are not reproduced here.
+- **Tier 1 documented.** The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracking forms, memos, reports, email and cables relating to UFO's or extraterrestrial beings. A majority of the collection are documents which were sent to the White House by Steven M. Greer, the head of a nongovernmental organization called the Center for the Study of Extraterrestrial Intelligence (CSETI).' Source: Clinton Digital Library collection finding aid, identifier 2006-0474-F
+- **Tier 2 named person on the record.** Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club press conference featuring 20 retired Air Force, FAA and intelligence officers. Source: Wikipedia, 'Steven M. Greer', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** Greer held a National Press Club event on 8 May 2026. Source: UAP Gerb livestream description, 12 May 2026
+- **Tier 2 named person on the record.** On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power. Source: Disclosure Project National Press Club event, Washington DC, 9 May 2001; contemporaneous international press coverage
+- **Tier 2 named person on the record.** The Atacama skeleton presented in Sirius was shown by genetic evidence to be human. Source: Wikipedia, 'Steven M. Greer', DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
 
 ### Its strongest connections
 
-- Stanton T. Friedman runs out to **Robert "Bob" Lazar** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: Credential investigation: located Duxler at Pierce, found no institutional record. 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
-- Stanton T. Friedman runs out to **Jesse A. Marcel Sr.** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Friedman's February 1978 interview reopened Roswell. Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
-- Stanton T. Friedman runs out to **S-4 / Papoose Lake, Nevada** (location, board tier B), a denial link at Tier 2 named person on the record. The link reads: Denial from a UFO proponent: the claimant's credentials do not survive checking. The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
-- Stanton T. Friedman comes in from **William L. Moore** (person, board tier B), a research link at Tier 2 named person on the record. The link reads: Moore and Shandera's 1984 film delivery became Friedman's decade-long project. Friedman became aware of the MJ-12 documents through Moore and Jaime Shandera in 1984 and defended their core authenticity through 'Top Secret/Majic' (1996). Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
-- Stanton T. Friedman runs out to **Kevin D. Randle** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: Unresolved dispute over MJ-12 authenticity. Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
+- Steven M. Greer runs out to **John D. Podesta** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Greer's CSETI submissions form the majority of the Clinton White House UFO file. Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
+- Steven M. Greer comes in from **'UAP Gerb' (Sam)** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Gerb publicly critiqued the 8 May 2026 Greer press-club event. Gerb's 12 May 2026 livestream discussed the 'Greer NPC' event critically. The structural investigators define themselves against Greer's model, and the split is itself a feature of the field. Sources: UAP Gerb Live - 12 May 2026, https://www.youtube.com/watch?v=iAWD4irLMZM, dated 2026-05-12.
+- Steven M. Greer comes in from **Daniel P. Sheehan** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Sheehan served as counsel to Greer's Disclosure Project. Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use. Sources: Wikipedia - Daniel Sheehan (attorney), https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney), dated 2026-08-12.
+- Steven M. Greer comes in from **Will Miller** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Placed with Greer and Mitchell at the April 1997 Pentagon talk. The notes place Miller with Greer and Mitchell at the April 1997 Pentagon talk and record that Miller told Greer what Wilson had said. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
+- Steven M. Greer runs out to **The Disclosure Project** (program, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Greer founded and led the Disclosure Project. Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
 
 ## Steven H. Schiff
 
@@ -3184,7 +2524,7 @@ Affiliations recorded: US House of Representatives, NM-01 (1989-1998), House Jud
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 303 of 1125, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 273 of 1057, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3199,45 +2539,11 @@ Re-graded B on a global pass (rank 303 of 1125, score 38). 5 connections, 0 of t
 
 ### Its strongest connections
 
-- Steven H. Schiff runs out to **GAO/NSIAD-95-187, Results of a Search for Records Concerning the 1947 Crash Near Roswell** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Schiff tasked GAO after DoD refused to answer him. A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed. Sources: GAO/NSIAD-95-187 (landing page), https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28; GAO/NSIAD-95-187 (full PDF), https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
+- Steven H. Schiff runs out to **GAO/NSIAD-95-187, Results of a Search for Records Concerning the 1947 Crash Near Roswell** (document, board tier A), a legislative link at Tier 1 documented. The link reads: Schiff tasked GAO after DoD refused to answer him. A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed. Sources: GAO/NSIAD-95-187 (landing page), https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28; GAO/NSIAD-95-187 (full PDF), https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
 - Steven H. Schiff runs out to **The Roswell Reports (USAF, 1994-1997)** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Schiff's inquiry forced the Air Force to abandon the weather balloon story. Both Roswell Reports state they were produced in response to Rep. Schiff's inquiry. The 1994-1995 volume conceded that the 1947 weather balloon explanation was false. Sources: USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01; GAO/NSIAD-95-187, https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
 - Steven H. Schiff runs out to **Albuquerque, New Mexico** (location, board tier B), a investigative link at Tier 1 documented. The link reads: Schiff's New Mexico district inquiry produced the GAO Roswell audit. Rep. Steven H. Schiff of New Mexico asked GAO to search federal records after the Defense Department declined to answer his Roswell inquiries, producing GAO/NSIAD-95-187. Sources: GAO/NSIAD-95-187, https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28.
 - Steven H. Schiff comes in from **Government Accountability Office** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: GAO conducted the Roswell records search at Rep. Schiff's request. Schiff turned to GAO after the Air Force declined to answer him directly; GAO/NSIAD-95-187 is the result. Sources: GAO/NSIAD-95-187, https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
 - Steven H. Schiff runs out to **GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico** (document, board tier C), a legislative link at Tier 1 documented. The link reads: Schiff directed GAO to conduct the government-wide records search. GAO issued GAO/NSIAD-95-187 to Schiff on 28 July 1995 after DoD referred his 1993 inquiry to the National Archives instead of answering it. Sources: GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico', https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm, dated 1995-07-28.
-
-## Tom Mahood
-
-Tom Mahood is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D2; 5 connections.
-
-In one line: Retired civil and traffic engineer with an MS in physics; author of the otherhand.org Lazar investigation, the most detailed documentary examination of the account in existence.
-
-### The longer account
-
-Tom Mahood is the custody and analysis point for most of the documentary record in this cluster, and without a node for him the board's case-against edges have nothing to originate from. He describes himself on his own site as a former civil engineer and traffic engineer for Orange County, California, with a Master's degree in physics from Cal State Fullerton. His otherhand.org investigation reprints the Los Alamos Monitor front page of 27 June 1982, both Las Vegas Review-Journal reports of 1990, Mark Farmer's 1996 taped interview with an anonymised Los Alamos colleague, and David L. Morgan's physics critique, and it quotes Lazar's 1990 Pre-Sentence Report. His conclusion on the credentials is flat: 'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' His 2018 retrospective is the single best case-against document in the cluster precisely because it concedes what is true, granting that Lazar is 'amazingly believable', that Mahood himself initially found the story plausible, and that Lazar showed genuine technical cleverness. His counter-explanation is that there is nothing at Papoose Lake, that S-4 is a designator attaching to a Tonopah Test Range radar facility, and that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989.
-
-### Recorded as unverified
-
-- The exact dates of composition of most of the otherhand.org Lazar pages. The site's own index warns 'You should be aware this is all very old stuff!' and the investigation began in the early 1990s, but only the physicist's critique and the 2018 retrospective carry explicit dates.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 304 of 1125, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** His own identification and background, on his site's about page: he is Tom Mahood, he worked as a civil engineer and traffic engineer for Orange County, California, later City Traffic Engineer for Orange, and he holds a Master's degree in physics from Cal State Fullerton. Source: otherhand.org, 'About me', https://otherhand.org/about-me/, opened 2026-09-18
-- **Tier 2 named person on the record.** His 2018 retrospective concludes that there is 'nothing at Papoose Lake', that S-4 actually refers to a radar facility at the Tonopah Test Range, and that Lazar constructed the alien-craft narrative as a cover after security caught him bringing friends to watch classified tests in April 1989. It concedes in the same document that Lazar is 'amazingly believable', that Mahood initially found the story plausible before investigating the details, and that Lazar demonstrated real technical cleverness as a troubleshooter. Source: Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/, opened 2026-09-18
-- **Tier 2 named person on the record.** His conclusion on the credentials: 'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' His investigation records that 'Standard inquiries have been made by George Knapp and Stanton Friedman and turned up nothing'; that Glenn Campbell in 1993 found no Lazar 'in any MIT student directory between 1978 and 1990'; and that Natalie Gilmore of Caltech Graduate Studies stated that Caltech 'does not currently have, nor has it ever had any sort of graduate degree in electronics or electronic technology'. Source: Tom Mahood, 'Lazar Flaws - Education', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/, opened 2026-09-18
-- **Tier 2 named person on the record.** On element 115 his page assembles the prior art: Glenn Seaborg's article in Scientific American of April 1969, pages 57 to 67, with graphics of expected half-lives for superheavy elements, and a 1970 textbook describing element 114, with 114 protons and 184 neutrons, as 'an island of stability in a sea of instability'. The island of stability was published popular physics long before 1989. Source: Tom Mahood, 'Element 115 tidbits', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/, opened 2026-09-18
-- **Tier 2 named person on the record.** On the Los Alamos question he concludes that Lazar worked as an electronic technician for the contractor Kirk-Mayer rather than as a staff physicist, that the phone-directory listing reflects that contractor relationship, and that the Monitor article's description followed what Lazar told the reporter. He also accepts that the W-2 could be legitimate, representing a brief stint at Groom, while insisting 'it doesn't mean saucers exist at Papoose'. Source: Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/, opened 2026-09-18
-
-### Its strongest connections
-
-- Tom Mahood runs out to **Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'** (document, board tier C), a custody link at Tier 1 documented. The link reads: Holds the only openable copy of the article's text. GENUINE CUSTODY: a hosting site holding a file, in the same role the board already gives the-black-vault. Sources: Tom Mahood's reprint of the Los Alamos Monitor front page, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/, dated 1982-06-27.
-- Tom Mahood runs out to **Clark County, Nevada felony pandering file, 1990 and 1996** (document, board tier C), a custody link at Tier 1 documented. The link reads: Holds the reprints of both 1990 newspaper reports and quotes the Pre-Sentence Report. GENUINE CUSTODY. He is the route by which the court material is openable at all from this environment. Sources: Tom Mahood's post of 14 May 1995 quoting the Pre-Sentence Report, hosted on Dreamland Resort, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm, dated 1995-05-14.
-- Tom Mahood runs out to **Robert "Bob" Lazar** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: The most detailed documentary examination of the account, 1990s and 2018. 'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one. Sources: Tom Mahood, 'Lazar Flaws - Education', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/, dated 2026-09-18; Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/, dated 2018.
-- Tom Mahood runs out to **S-4 / Papoose Lake, Nevada** (location, board tier B), a denial link at Tier 2 named person on the record. The link reads: Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility. EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible. Sources: Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/, dated 2018.
-- Tom Mahood runs out to **Element 115: the Lazar claim and moscovium** (program, board tier B), a denial link at Tier 2 named person on the record. The link reads: The island of stability near element 114 was published popular physics from 1969. This denial cuts against the credulous reading without endorsing the hostile one: the finding is 'available prior art, used', not 'fabricated from nothing'. The Seaborg article itself was not opened. Sources: Tom Mahood, 'Element 115 tidbits', citing Seaborg, Scientific American, April 1969, pp 57-67, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/, dated 2026-09-18.
 
 ## Walter Bedell Smith
 
@@ -3258,7 +2564,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 411 of 1125, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 377 of 1057, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3287,7 +2593,7 @@ The correspondent named throughout the Wilson-Davis notes as the man who first r
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 712 of 1125, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 668 of 1057, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3301,13 +2607,13 @@ Re-graded C on a global pass (rank 712 of 1125, score 23). 5 connections, 0 of t
 
 - Will Miller runs out to **Eric W. Davis** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: His letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics. Miller's letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics and offers him paid research assistance. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 - Will Miller runs out to **The Wilson-Davis Notes (16 October 2002)** (document, board tier A), a witness-chain link at Tier 1 documented. The link reads: Named on six of the fifteen pages; his own signed letter is two of them. Miller is named on six of the notes' fifteen pages and his own signed letter is bound in as two of them. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
-- Will Miller runs out to **United States Navy** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: His letter of 25 April 2002 is on United States Navy letterhead. Miller's letter is on United States Navy letterhead and Wilson's complaint in the notes is framed in terms of trust among Navy officers, though no rank is stated anywhere in the document. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
-- Will Miller runs out to **Steven M. Greer** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Placed with Greer and Mitchell at the April 1997 Pentagon talk. The notes place Miller with Greer and Mitchell at the April 1997 Pentagon talk and record that Miller told Greer what Wilson had said. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
+- Will Miller runs out to **United States Navy** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: His letter of 25 April 2002 is on United States Navy letterhead. Miller's letter is on United States Navy letterhead and Wilson's complaint in the notes is framed in terms of trust among Navy officers, though no rank is stated anywhere in the document. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
+- Will Miller runs out to **Steven M. Greer** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Placed with Greer and Mitchell at the April 1997 Pentagon talk. The notes place Miller with Greer and Mitchell at the April 1997 Pentagon talk and record that Miller told Greer what Wilson had said. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 - Will Miller runs out to **Thomas R. Wilson** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: The private two hour conversation of April 1997, as the notes record it. The notes record a private two hour conversation between Miller and Wilson in April 1997 and Wilson's later anger that Miller repeated it. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 
 ## Alex Dietrich
 
-Alex Dietrich is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2021-05-16; axes C0 A1 D2; 4 connections.
+Alex Dietrich is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2021-05-16; axes C0 A1 D2; 4 connections.
 
 In one line: LCDR, USN (Ret.); VFA-41 wingman on the 14 Nov 2004 Nimitz intercept.
 
@@ -3319,15 +2625,11 @@ Affiliations recorded: US Navy (2001-2019), VFA-41 Black Aces (2004), Naval Post
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 499 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 815 of 1057, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
-- **Tier 1 documented.** CBS News, 60 Minutes, correspondent Bill Whitaker, published 16 May 2021, states that Dietrich, a former F/A-18F pilot, 'has never before spoken publicly about what she saw that day'. The same report quotes her: 'It was unidentified. And that's why it was so unsettling to us. Because we weren't expecting it. We couldn't classify it'; 'No predictable movement, no predictable trajectory'; and 'I felt the vulnerability of not having anything to defend ourselves. And then I felt confused when it disappeared.' This dates the start of her public record to 16 May 2021 on the network's own assertion. Source: https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/, 2021-05-16
-- **Tier 1 documented, allegation shaped wording as stored.** In sworn testimony at the 13 November 2024 House Oversight joint hearing, Tim Gallaudet named her while alleging AARO pressure on him: 'In addition, they tried to have me question very valid UAP reports like the Tic Tac incident, even coming to a--stating possibly that the Tic Tac was American technology. And then, of course, if you ask David Fravor or Alex Dietrich, the two witnesses, they were convinced it was otherwise.' Tier 1 for the fact that he said it under oath. The allegation about AARO's conduct is his word and caps at Tier 2 as a claim about the world. Source: Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, 2024-11-13
-- **Tier 1 documented.** In sworn testimony at the 26 July 2023 House Oversight subcommittee hearing, David Fravor placed her in the chain of who re-opened the 2004 case: 'Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk.' Tier 1 for the fact that a sworn witness said this on that date; the underlying sequence is his account. Source: Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, 2023-07-26
 - **Tier 1 documented.** Navy range fouler documentation on the 14 Nov 2004 incident names the F/A-18 aircrew as including Commander David Fravor and Lt. Cmdr. Alex Dietrich. Source: Navy range fouler reports released via the Navy FOIA reading room, 13 January 2023, reported by The War Zone
-- **Tier 1 documented.** The University of Colorado Boulder publishes her as a Lecturer in its Lockheed Martin Engineering Management Program, previously an adjunct instructor in the Engineering Leadership Program (2022) and Scholar in Residence to the Engineering Management Program (2023). The same page gives her career as a 20-year Naval career as an F/A-18F strike fighter pilot, with combat deployments supporting Operation Iraqi Freedom and Operation Enduring Freedom, a final yearlong assignment as an infrastructure reconstruction engineer in Ghazni, Afghanistan, and a Bronze Star and Air Combat Medal. Prior teaching posts: Naval Science instructor across a Washington DC consortium of Georgetown, George Washington, Howard and Catholic universities, and Military Professor at the US Naval Academy, Department of Leadership, Ethics and Law. Education: BS Civil Engineering, George Washington University; Defense Language Institute certification in Dari; MBA, GW School of Business. This is an employer's published biography of its own lecturer, not a service record. Source: https://www.colorado.edu/emp/people/alex-dietrich, opened 2026-09-18
 - **Tier 2 named person on the record.** 'I never wanted to be on national TV, no offense.' Source: Alex Dietrich, CBS 60 Minutes, 16 May 2021
 - **Tier 2 named person on the record.** Dietrich 'was mocked by her colleagues' and the incident 'went years without any investigation.' Source: Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024
 
@@ -3335,7 +2637,7 @@ Re-graded B on a global pass (rank 499 of 1125, score 30). 4 connections, 0 of t
 
 - Alex Dietrich runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Flew wing on the 14 Nov 2004 intercept; observed the object for about five minutes. Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
 - Alex Dietrich runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a behavioral link at Tier 1 documented. The link reads: Sixteen years of silence is the stigma the assessment describes. Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.' Sources: CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16; ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
-- Alex Dietrich comes in from **David Fravor** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
+- Alex Dietrich comes in from **David Fravor** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
 - Alex Dietrich comes in from **Michael Gold** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Cited Dietrich by name to Congress as evidence of aviator stigma. Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.' Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
 
 ## Alexandro Wiggins
@@ -3364,7 +2666,7 @@ Affiliations recorded: US Navy, Senior Chief Operations Specialist, USS Jackson 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 186 of 1125, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 171 of 1057, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -3406,7 +2708,7 @@ The documented officeholder who joins three institutions the board already carri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 254 of 1125, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 227 of 1057, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -3426,42 +2728,6 @@ Re-graded B on a global pass (rank 254 of 1125, score 41). 4 connections, 0 of t
 - Adm. Bobby Ray Inman runs out to **National Security Agency** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Director of the National Security Agency from 5 July 1977. Director of the National Security Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing. Sources: Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf, dated 1981-02-03.
 - Adm. Bobby Ray Inman runs out to **Science Applications International Corporation** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Director of SAIC since 1982 and a paid part-time employee since 1990. Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President. Sources: Science Applications International Corporation definitive proxy statement (DEF 14A), 28 May 2003, https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm, dated 2003-05-28; SEC Form 4, Bobby R. Inman, Science Applications International Corporation, 10 April 2003, https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm, dated 2003-04-14.
 
-## 'Brad' Sorensen
-
-'Brad' Sorensen is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1990-12-03; axes C1 A1 D1; 4 connections.
-
-In one line: Industrial designer; sole claimed eyewitness to the alleged classified exhibit at Norton AFB on 12 November 1988; interviewed by an Aviation Week editor on 3 December 1990.
-
-### The longer account
-
-Everything substantive on this thread traces to one man, and the earliest document that carries him gives him a first name only. William B. Scott, then senior engineering editor of Aviation Week and Space Technology, interviewed 'Brad' for one paid hour in his Pasadena office on 3 December 1990 and compiled sixteen typed pages from two tapes. The profile there is of a mid-thirties Pasadena Art Center graduate with his own design business and clients including ski and motorcycle manufacturers, who claims a private pilot's licence but, in the interviewer's own note, 'didn't seem to have a lot of knowledge about military aircraft types'. He had refused to talk the previous summer, he told Scott he wished he had never seen the craft, and he disowned part of the drawing McCandlish had made from his description. The surname Sorensen reaches the record through McCandlish, not through this document, and no opened record carries it in the witness's own voice or over his own signature.
-
-### Recorded as unverified
-
-- That he told UAP Gerb that McCandlish 'died because he could not keep his mouth shut', that he 'protected him until I could not', and that he warned Gerb off. Recorded in research/leads/gerb-corpus-25-35.md file 33 at 00;21;41 and 01;05;39. No record of that exchange was opened.
-- That Sen. Alan Cranston and Rep. George E. Brown Jr. were present at the alleged exhibit, and that a male staffer in Rep. Brown's office confirmed it. Recorded in research/leads/gerb-corpus-25-35.md file 33 at 00;00;28, 00;07;35 and 00;25;14. In the 1990 notes the witness says the opposite about his own knowledge of who was there: 'we didn't get in on the introductions of people', 'I did NOT see any stars in there--like generals of any sort', and, asked who put the event on, 'Me too; look, we got there a little late'. No congressional record, letter or statement was opened.
-- Any record of him under the surname Sorensen. California business registrations, design-industry press for Rossignol and the Mazda RX-7, and Pasadena Art Center alumni records were not searched from here.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 498 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
-
-### The claims on the record
-
-- **Tier 1 documented.** He told Scott on 3 December 1990: 'I wish I hadn't even seen those things; they've been nothing but trouble for me since then.' Source: William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, transcript p 1, 1990-12-03
-- **Tier 1 documented.** Scott's typed notes open: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD' and 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER', and give the interview's terms: 'He agreed to a one-hr. session in his Pasadena office, pointedly telling me that he gets $200/hr. for his time, and one hr. was all he could give me.' Source: William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, transcript p 1, 1990-12-11
-- **Tier 1 documented.** The document establishes the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. Source: William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, transcript p 1, 1990-12-11
-- **Tier 1 documented.** The document profiles him with no surname: 'Brad: A mid-30s designer; grad of Pasadena Art Center, taking engr'g. classes at Cal Tech now to keep up. Is a very successful designer, having clients such as Rossignol(?) skis, Mazda (new RX-7 design, beginning in 86), electric toothbrushes, motorcycle helmets, etc. Has own design business, including prototyping shops.' Source: William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, transcript p 1, 1990-12-11
-- **Tier 1 documented.** The same page records his own assessment of his aviation knowledge and his reluctance: he 'Claims to be a private pilot, but didn't seem to have a lot of knowledge about military aircraft types', and he 'refused to talk with me last summer', preferring to 'let the whole thing drop; it never made me a dime, and has hurt my own business and professional credibility.' Source: William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, transcript p 1, 1990-12-11
-- **Tier 2 named person on the record.** The name 'Sorensen' reaches the record through McCandlish, not through the primary document. McCandlish's 2001 testimony gives 'a fellow by the name of Brad Sorensen', whom he knew 'in school' and who called him again 'eight years after school'. No opened record carries the surname in the witness's own voice or over his own signature. Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12
-
-### Its strongest connections
-
-- 'Brad' Sorensen comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Painted the craft from Sorensen's verbal description; he was not at the air show. The 1990 primary document states the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. The same document records Sorensen disowning part of what McCandlish drew. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
-- 'Brad' Sorensen runs out to **William B. Scott's interview notes on 'Brad', 3 December 1990** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Interviewee; the notes are his account in his own words. The document's own header: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD', 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. He gave one paid hour in his Pasadena office and had refused an approach the previous summer. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
-- 'Brad' Sorensen runs out to **Alien Reproduction Vehicle (ARV) / Flux Liner** (program, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Sole claimed eyewitness to the three craft. Every substantive claim about the craft traces to him and to nobody else. His own 1990 words limit it: the sizes are 'Just a guess; don't hold me to that', and of the manned vehicle in McCandlish's drawing, 'this is probably the farthest from what I saw'. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
-- 'Brad' Sorensen runs out to **Norton AFB air show, 12 November 1988, and the alleged classified exhibit** (event, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Sole claimed eyewitness to the alleged hangar exhibit. He is the only person who claims to have been inside. The 1990 notes place his account only 'in early Nov. 88'; the exact date comes from McCandlish in 2001. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
-
 ## Christopher Sherwood
 
 Christopher Sherwood is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2019-06-01; axes C0 A1 D0; 4 connections.
@@ -3480,7 +2746,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 778 of 1125, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
+Re-graded C on a global pass (rank 733 of 1057, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
 
 ### The claims on the record
 
@@ -3512,7 +2778,7 @@ Affiliations recorded: Air Technical Intelligence Center, Wright-Patterson AFB (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 386 of 1125, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 356 of 1057, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -3550,7 +2816,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-2 (2023- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 359 of 1125, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 330 of 1057, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3581,7 +2847,7 @@ Affiliations recorded: U.S. House of Representatives, WI-6 (2015- ), Subcommitte
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 745 of 1125, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 701 of 1057, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3615,7 +2881,7 @@ Gordon Gray held, in sequence, four offices that between them cover the whole of
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 319 of 1125, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 289 of 1057, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -3647,7 +2913,7 @@ Affiliations recorded: CIA Office of Scientific Intelligence, Assistant Director
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 536 of 1125, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 493 of 1057, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3677,7 +2943,7 @@ Affiliations recorded: Ohio State University (1936-1956), Project SIGN / GRUDGE 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 501 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 461 of 1057, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3707,7 +2973,7 @@ Affiliations recorded: U.S. House of Representatives, KY-1 (2016- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 836 of 1125, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 785 of 1057, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3737,7 +3003,7 @@ Affiliations recorded: University of Arizona, Institute of Atmospheric Physics (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 467 of 1125, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 431 of 1057, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3780,7 +3046,7 @@ Affiliations recorded: Defense Intelligence Agency (2000s-2021), AAWSAP/AATIP pa
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 148 of 1125, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 136 of 1057, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -3804,87 +3070,6 @@ A further 1 claims sit on this node on the board and are not reproduced here.
 - Jay Stratton comes in from **The Age of Disclosure (documentary, 2025)** (document, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Former UAP Task Force director appears on record. Stratton, former director of the government's UAP Task Force, is named in the film's promotional materials as a participant. Sources: The Age of Disclosure - teaser, https://www.youtube.com/watch?v=AZo-Q-FXoXM, dated 2025-11-01.
 - Jay Stratton runs out to **David Charles Grusch** (person, board tier A), a programmatic link at Tier 3 stated inference. The link reads: UAP Task Force Director tasked Grusch to identify all SAPs and CAPs (2019). Grusch swore that in 2019 'the UAP Task Force Director asked me to identify all special access programs and controlled access programs... we needed to satisfy our congressionally mandated mission.' Stratton is the individual publicly identified as directing that effort in that period. Grusch has never made the identification himself, so this is a reasoned inference, not a documented one. Sources: House Oversight hearing transcript, Serial No. 118-53, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26; Deadline - HarperCollins Acquires Rights To Bombshell Memoir From Jay Stratton, https://deadline.com/2024/09/jay-stratton-uap-memoir-william-morrow-farah-films-acquire-rights-1236083182/, dated 2024-09-01.
 
-## John Callahan
-
-John Callahan is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D3; 4 connections.
-
-In one line: Federal Aviation Administration manager at Washington headquarters in the mid-1980s; the FAA official who in 2000 and 2001 publicly described the agency's handling of the Japan Air Lines 1628 case of 17 November 1986.
-
-### The longer account
-
-John Callahan is the most useful witness the Disclosure Project produced and the reason is not him. The event he describes is one of the very few claims in this cluster with a large federal record that owes nothing whatever to Steven Greer: over 1,500 pages at the National Archives in Record Group 237, archival identifier 733667, containing the air traffic control transcript, the FAA's own forms, dated January 1987 interviews with all three Japan Air Lines crew members, Captain Terauchi's written statement in Japanese and in translation, and the FAA Alaskan Region's press release of 5 March 1987. That record exists whether or not Callahan ever spoke, and it was recovered only because John Greenewald kept asking for seventeen years after the FAA wrote to him on 27 June 2001 that the documents would be destroyed in thirty days. The asymmetry is the whole point of this node. The case is documented to an unusual depth; the man's claimed office is not. He says, in the Briefing Document and at the National Press Club, that he was Division Chief of the Accidents and Investigations Branch at FAA headquarters for about six years. The researcher who set out in 2015 specifically to confirm that found, in his own words, that only four references to a John Callahan at the FAA came up and that none of them matched the claimed area; what the public record showed was a Quality Control Branch Manager on the Quality Assurance Staff under the Associate Administrator for Air Traffic. The document eventually published in support of the claimed title is an OMB Form 171, a Personal Qualifications Statement, which Callahan handed the researcher himself in 2015. Its dates are consistent with the incident falling inside his tenure and they reconcile the researcher's negative finding with Callahan's account, so it is a point in his favour, but a form supplied by its own subject is not an agency release and this board does not score it as one. Nothing about that weakens the FAA file. It is why the case node beside this one matters more than the person node.
-
-### Where the record conflicts
-
-- His claimed title and the public record do not agree. He says Division Chief of the Accidents and Investigations Branch for about six years; the first researcher to look found him listed as Quality Control Branch Manager on the Quality Assurance Staff. The OMB Form 171 he supplied in 2015 reconciles the two by sequence, July 1985 to October 1986 in the Quality Control Branch and October 1986 onward as Division Manager of the Investigation and Evaluation Division, but that reconciliation depends entirely on a document that came from him.
-- He says the military told the FAA 'they were short on their tapes and they had to put them back in service, but it's only been 12 days. Now, the tapes were supposed to be kept for 15 days.' No opened record corroborates that exchange, and it is not among the itemised contents of the National Archives file.
-
-### Recorded as unverified
-
-- Whether he held the title 'Division Chief, Accidents and Investigations Branch'. No FAA release, no Federal Register entry, no agency directory and no personnel record was opened.
-- Admiral Donald Engen's tenure as FAA Administrator in November 1986 and January 1987. faa.gov returned HTTP 403 and no FAA source was opened. He is named only by Callahan and by Klass repeating Callahan.
-- The claimed briefing attended by CIA, FBI and Reagan science advisers, and the instruction that 'the meeting never took place'. The Black Vault states in its own voice that 'Callahan's dramatic account is unconfirmed by other sources'.
-- Whether he is living or dead. No obituary for this John Callahan was opened.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 464 of 1125, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** THE COUNTERWEIGHT THAT MAKES THIS NODE WORTH BUILDING. The case he describes has its own federal record with no connection to the Disclosure Project: over 1,500 pages located at the National Archives in Record Group 237, Records of the Federal Aviation Administration, local identifier 1203, archival identifier 733667, after the FAA had told the requester in a letter of 27 June 2001 that 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter' and had repeated in 2009 that the records were destroyed. Source: The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, opened 2026-09-19
-- **Tier 1 documented.** The Disclosure Project Briefing Document of April 2001 prints, at section 3.8.2 under the heading 'Testimony of FAA Division Chief John Callahan / October 2000', his own account of his post: 'I was the Division Chief of the Accidents and Investigations Branch of the FAA in Washington, D.C. I stayed there for about six years and then retired.' THIS CLAIM IS TIER 1 FOR THE FACT THAT HE GAVE THAT TESTIMONY UNDER THAT HEADING AND DATE, AND FOR NOTHING ELSE. The document is edited and published by an interested party and is not evidence for the content of what he says. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
-- **Tier 1 documented.** The FAA's own conclusion is on the record and it is negative. The FAA Alaskan Region press release of 5 March 1987, quoted at length by Philip J. Klass, states that FAA experts at the agency's Technical Center in Atlantic City 'determined that a second radar target near the JAL flight... was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return', and concludes: 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.' Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
-- **Tier 1 documented.** The document's own editorial header at the same section reads: 'For 6 years Mr. Callahan was the Division Chief of the Accidents and Investigations Branch of the FAA in Washington DC. In his testimony he tells about a 1986 Japanese Airlines 747 flight that was followed by a UFO for 31 minutes over the Alaskan skies.' This is the editor's description, not an agency record, and is carried here as such. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
-- **Tier 2 named person on the record.** HIS CLAIMED TITLE IS NOT CORROBORATED BY ANY AGENCY RECORD THAT HAS BEEN OPENED. Paul Dean, a proponent researcher writing in October 2015 for the express purpose of confirming him, reports his own negative finding verbatim: 'Worryingly, only a handful, and by that I mean literally four, referances came up for a John Callahan being at the FAA, and none of them really matched his claimed Accidents, Evaluations and Investigations area.' What Dean found in the public record instead was a 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the 'Associate Administrator for Air Traffic'. Source: Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt1', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter.html, opened 2026-09-19
-- **Tier 2 named person on the record.** He is one of only five people whom an opened source places at the podium of the 9 May 2001 National Press Club press conference. Klass: 'The incident was described at Greer's press conference (and in more detail in Greer's book) by John Callahan who said he was head of the Federal Aviation Administration's Accidents & Investigations Branch at FAA headquarters in Washington.' Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
-- **Tier 2 named person on the record.** He names the FAA Administrator who he says was briefed: 'we go up to the 10th floor [of FAA Headquarters in Washington DC] and give a four or five minute debriefing for the Administrator who was at the time Admiral Engen.' Klass repeats the name from Callahan's account. No FAA source confirming Donald Engen's tenure was opened; faa.gov returned HTTP 403. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
-- **Tier 2 named person on the record.** The one document ever produced for the claimed title is an OMB Form 171, Personal Qualifications Statement, showing 'Division Mgr. Investigations/Evaluations', employer 'FAA ATS-1 Washington Headquarters', dates 'Oct. 1986 to present', with an accompanying resume line 'Jul 85 to Oct 86 Branch Manager Quality Control Branch and Accident/Incident Analysis Branch'. Dean states these were originals provided by Callahan himself in 2015 correspondence. THE DATES ARE CONSISTENT WITH THE 17 NOVEMBER 1986 INCIDENT FALLING INSIDE HIS TENURE AND THEY RECONCILE DEAN'S NEGATIVE FINDING WITH CALLAHAN'S ACCOUNT, BUT A FORM SUPPLIED BY ITS SUBJECT IS NOT AN AGENCY RELEASE AND IS GRADED TIER 2 FOR THAT REASON. Source: Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html, opened 2026-09-19
-
-A further 1 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- John Callahan runs out to **Disclosure Project Briefing Document, April 2001** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.2, dated October 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, per the rule stated on the document node. Heading as printed: 'Testimony of FAA Division Chief John Callahan / October 2000'. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- John Callahan runs out to **Japan Air Lines flight 1628, Alaska, 17 November 1986** (event, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Claimed role in the FAA's handling of the case. TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html, dated 2015-10-05; The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, dated 2026-09-19.
-- John Callahan runs out to **Federal Aviation Administration** (institution, board tier B), a institutional link at Tier 2 named person on the record. The link reads: FAA Washington headquarters management post, mid-1980s; title disputed. Employment at FAA headquarters is supported by an OMB Form 171 he supplied. The TITLE is not: the researcher who set out to confirm it found him in the public record as 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the Associate Administrator for Air Traffic, and wrote that 'none of them really matched his claimed Accidents, Evaluations and Investigations area'. Sources: Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt1', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter.html, dated 2015-10; Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles, https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html, dated 2015-10-05.
-- John Callahan runs out to **Disclosure Project press conference, National Press Club, 9 May 2001** (event, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Spoke at the podium, 9 May 2001. One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
-
-## John Olsen Lear
-
-John Olsen Lear is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2022-03-29; axes C0 A0 D2; 4 connections.
-
-In one line: Son of the Learjet founder and a documented pilot; from a dated statement of 29 December 1987 one of the field's most prolific claimants; present at two of the three 1989 desert viewings with Lazar.
-
-### The longer account
-
-John Lear is the rare figure in this cluster whose ordinary career is fully documented and whose extraordinary claims are not. He was born on 3 December 1942, the son of William Powell Lear, founder of Lear Jet, and Moya Olsen Lear, and his papers sit inside the William P. and Moya Olsen Lear Family Collection at The Museum of Flight Archives. In May 1966 he was one of the pilots on a Learjet 24 flight around the world that set a large number of international records. His place in this cluster is chronological as much as evidentiary: his own public claim document is dated 29 December 1987, roughly eighteen months before Lazar reached KLAS-TV, and it circulated through the ParaNet bulletin board in early 1988, setting the frame that Lazar's 1989 account then fitted into. He and Lazar had met by 1988, and he was present at the first and third of the three Wednesday-night desert viewings in the spring of 1989, on 22 March and 5 April, the second of which ended with the group detained by the Lincoln County Sheriff. He is carried here as an early promoter and a viewing participant, not as an eyewitness to any facility. He died on 29 March 2022.
-
-### Recorded as unverified
-
-- That John Lear was the route by which Lazar reached George Knapp. This is universally repeated and it is in nothing opened by this session. Mahood's timeline has Knapp beginning interviews with Lazar in March 1989 and has Lear at the viewings in the same weeks, but no opened source states the introduction. No edge on this board asserts it.
-- His FAA certificates. The Museum of Flight record gives his dates and his collection but no certificate detail. The frequently repeated claim that he held every FAA certificate issued was not checked against any FAA record and is not carried.
-- The text of his 29 December 1987 statement. Only the archive item record was read; the document itself was not rendered, so no content from it is on this node.
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 811 of 1125, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** HIS OWN CLAIM DOCUMENT IS DATED AND PRECEDES LAZAR. A statement by Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation, survives in the BSRA/BSRF holdings at the Archives for the Unexplained and was, on the uploader's account, circulated on the ParaNet bulletin board in early 1988. This is roughly eighteen months before Lazar reached KLAS-TV. The item record was opened; the statement's text was not rendered by the fetch and no content from it is asserted. Source: John Lear's Dec. 29, 1987 Statement, Internet Archive item uploaded by Rich Geldreich 10 June 2023, https://archive.org/details/john-lear-statement-1987, opened 2026-09-18
-- **Tier 1 documented.** The Museum of Flight Archives authority record states: 'John Olsen Lear was born December 3, 1942' and 'John Lear died on March 29, 2022.' His materials sit inside the William P. and Moya Olsen Lear Family Collection, spanning 1938 to 2001. The archive's own summary line for him is 'UFO conspiracy theorist, pilot, and a one-time candidate for Nevada State Senate.' Source: The Museum of Flight Archives, authority record for John Lear, https://archives.museumofflight.org/agents/people/4962, opened 2026-09-18
-- **Tier 2 named person on the record.** In May 1966 he was one of the pilots on a Learjet 24 flight around the world that set a large number of international aviation records. The FAI record files were not opened and the count of records and the exact crew roles are not asserted here. Source: The Museum of Flight Archives collection description, https://archives.museumofflight.org/agents/people/4962, opened 2026-09-18
-- **Tier 2 named person on the record.** Lear and Lazar had met by 1988. Lear was present at the first and third of the three Wednesday-night desert viewings, on 22 March 1989 and 5 April 1989, and Mahood's timeline records that at the first of those 'only Lear saw the elliptical shape through a telescope'. On 5 April 1989 the group, including Lear, was detained by the Lincoln County Sheriff after guards discovered them. Source: Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/, opened 2026-09-18
-- **Tier 2 named person on the record.** Lear heard of Dulce from a woman named as 'Ann West' and developed his Dulce hypothesis in 1988, in the dated chronology of the cluster's originators. The same name appears in Tal Levesque's November 2015 confession as the raw material from which he composed the two original Dulce Base articles. Source: Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, opened 2026-09-19
-
-### Its strongest connections
-
-- John Olsen Lear runs out to **Dulce Base (alleged facility, Archuleta Mesa, New Mexico)** (location, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Developed his Dulce hypothesis in 1988, from 'Ann West'. Hayakawa's chronology dates Lear's hypothesis to 1988 and names his source as Ann West, the same name Levesque gives as the raw material of the original articles. Two entry points into the literature appear to run back through one person. Sources: Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors', https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, dated 2016-08-29.
-- John Olsen Lear runs out to **Robert "Bob" Lazar** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Met by 1988; present at two of the three 1989 desert viewings. THIS EDGE DOES NOT SAY LEAR INTRODUCED LAZAR TO KNAPP. That is universally repeated and it is in nothing this board opened. Sources: Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/, dated 2026-09-18.
-- John Olsen Lear runs out to **Independent media as the disclosure substrate** (domain, board tier C), a behavioral link at Tier 2 named person on the record. The link reads: His dated 1987 statement reached the field through ParaNet in early 1988. Chronologically important: his public claim document predates Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. The statement's text was not rendered by the fetch and no content from it is asserted. Sources: John Lear's Dec. 29, 1987 Statement, Internet Archive item record and provenance note, https://archive.org/details/john-lear-statement-1987, dated 1987-12-29.
-- John Olsen Lear runs out to **S-4 / Papoose Lake, Nevada** (location, board tier B), a witness-chain link at Tier 3 stated inference. The link reads: Carrier of the claim, not an eyewitness to the claimed site. CARRIER, NOT EYEWITNESS TO THE SITE. Lear promoted the account and was present at two of the three 1989 desert viewings, on 22 March and 5 April. No opened record has him claiming to have seen the facility itself. Tier 3 accordingly. Sources: Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/, dated 2026-09-18.
-
 ## Karl E. Nell
 
 Karl E. Nell is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2023-06-05; axes C1 A3 D3; 4 connections.
@@ -3903,7 +3088,7 @@ Affiliations recorded: US Army, Colonel (ret.), UAP Task Force, Army liaison (20
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 535 of 1125, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 492 of 1057, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -3942,7 +3127,7 @@ Affiliations recorded: US Navy (retired Senior Chief Operations Specialist), USS
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 743 of 1125, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded C on a global pass (rank 699 of 1057, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -3952,53 +3137,10 @@ Re-graded C on a global pass (rank 743 of 1125, score 22). 4 connections, 0 of t
 
 ### Its strongest connections
 
-- Kevin Day comes in from **David Fravor** (person, board tier A), a behavioral link at Tier 1 documented. The link reads: Direct conflict over whether data was taken. Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
+- Kevin Day comes in from **David Fravor** (person, board tier B), a behavioral link at Tier 1 documented. The link reads: Direct conflict over whether data was taken. Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - Kevin Day runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Ran the Princeton air picture and vectored the intercept. As Senior Chief Operations Specialist Day was the air warfare coordinator holding the tracks. Fravor's sworn statement corroborates the substance of the radar picture Day describes. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26.
 - Kevin Day runs out to **USS Princeton (CG-59)** (institution, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Senior Chief Operations Specialist aboard USS Princeton, Nov 2004. Day's billet is the reason his account of the radar record and its removal carries weight; he is the man who owned the air picture. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26.
 - Kevin Day runs out to **Gary Voorhis** (person, board tier C), a witness-chain link at Tier 3 stated inference. The link reads: Independent shipmate corroboration of the post-encounter data collection. Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
-
-## Larry Warren
-
-Larry Warren is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D3; 4 connections.
-
-In one line: USAF security specialist who says he was assigned to the 81st Tactical Fighter Wing at RAF Bentwaters in December 1980; co-author of Left at East Gate, a book his co-author repudiated and his publisher withdrew.
-
-### The longer account
-
-Larry Warren is carried here for the dispute rather than for the claim, because the dispute is documented and the claim is not. What is not in dispute is his assignment: his own co-author, after repudiating almost everything else, still accepts as authentic the handwritten letter Warren sent his mother in January 1981 and says explicitly that its authenticity does not carry the rest. What is in dispute is his presence at the events and the documentary evidence he produced for it. The case against him was not assembled by sceptics. Peter Robbins wrote Left at East Gate with him and defended it for twenty-nine years before publishing a statement on 13 June 2017 alleging, among other things, that a USAF Form 490 in the book's evidence carries an ophthalmic notation attributed to a physician Robbins found to be an orthopaedic surgeon, that a photograph purporting to show Warren with John Lennon is fabricated, that signatures on an in-processing sheet do not match, and that testimonial letters attributed to two named fellow airmen were never sent. Four months later the publisher, Cosimo, Inc., announced it was suspending distribution of the book because some of the experiences described in it 'may be inaccurate or embellished'. The senior officer on the record, Col. Charles Halt, is reported as saying Warren was not there; that strand reaches this board only through summaries and is graded Tier 3 until something Halt wrote is opened. The Briefing Document's own editorial header asserts that Warren is corroborated by Nick Pope, Lord Hill-Norton and Clifford Stone, but two of those three are witnesses inside the same document and one of them is Stone, whose service record is on this board.
-
-### Where the record conflicts
-
-- Warren's account of his own presence and Col. Halt's reported denial of it cannot both be right. The board carries both, with Halt's strand at Tier 3 because no document of his was opened.
-- Robbins accepts the January 1981 letter as authentic while alleging that other documents Warren supplied were altered. The board therefore does not treat 'Warren was at Bentwaters' and 'Warren witnessed the events' as the same claim.
-
-### Recorded as unverified
-
-- Ian Ridpath's own writing on Warren. ianridpath.com returned an SSL handshake failure on both http and https, twice, on 19 September 2026. The most-cited sceptical treatment of Rendlesham was not opened.
-- Any document written or signed by Col. Charles Halt denying Warren's presence.
-- Warren's service record, duty roster or DD-214. None was opened; the paperwork discussed by Robbins was supplied by Warren himself.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 465 of 1125, score 31). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
-
-### The claims on the record
-
-- **Tier 2 named person on the record, allegation shaped wording as stored.** HIS CO-AUTHOR OF TWENTY-NINE YEARS REPUDIATED THE BOOK. Peter Robbins published a statement on 13 June 2017, updated 20 June 2017. His specific allegations: a fabricated photograph purporting to show Warren with John Lennon; an altered USAF Form 490 medical appointment card on which the notation 'OPTI/RET BURN/EXP' is attributed to a 'Dr. Echols' whom Robbins says was an orthopaedic surgeon and not an ophthalmologist; signature inconsistencies on an in-processing sheet where 'Lea' is signed twice in different pens against a typed 'Lee'; and testimonial letters attributed to fellow airmen Steve LaPlume and Steve Longero that Robbins says were never sent. Source: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, opened 2026-09-19, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 2 named person on the record.** HIS PUBLISHER WITHDREW THE BOOK. Cosimo, Inc., 17 October 2017, verbatim: 'Cosimo is announcing that it is suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins.' The stated reason is that 'some of the experiences described in this book may be inaccurate or embellished' and that the publisher cannot presently confirm the book meets its standards. Source: Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html, opened 2026-09-19, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-- **Tier 2 named person on the record.** In his own printed words: 'In December of 1980, I was assigned to the 81st Tactical Fighter Wing in Suffolk, East Anglia, at the NATO Air Base Bentwaters, which is next to Woodbridge. I was a security specialist and worked with securing the nuclear arsenal we secretly housed there at that time. On December 11th, 1980, my security clearance notice, PRP, came through and I was approved. My clearance was a secret clearance at that time.' Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 2 named person on the record.** The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
-- **Tier 2 named person on the record.** WHAT THE REPUDIATION CONCEDES, AND IT MUST BE CARRIED. Robbins accepts as authentic the handwritten letter Warren wrote to his mother in January 1981 and states that its authenticity 'does not mean that everything else Warren has said or written follows in kind'. Robbins also records that the military paperwork he examined was supplied by Warren and was 'mostly Xerox copies with some originals'. So the honest position is not that Warren was never at Bentwaters; it is that his presence at the events, and the documents he produced for it, are what is disputed. Source: Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html, opened 2026-09-19
-- **Tier 3 stated inference.** REPORTED ONLY. Col. Charles I. Halt, the senior officer on the record at Bentwaters and already a node on this board, is reported as stating that Warren 'was not there' and as denying that Warren was present during Halt's own night in Rendlesham Forest on 28 to 29 December 1980. This reaches the board through search-result summaries and a video title, NOT through any document written or signed by Halt, and is graded Tier 3 for exactly that reason. Source: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, opened 2026-09-19
-- **Tier 3 stated inference.** STATED INFERENCE ABOUT THE SOURCE. The Briefing Document's editorial header claims that 'Warren's testimony is corroborated by multiple other military witnesses' and specifically by 'Nick Pope, and five-star Admiral, Sea Lord, former Ministry of Defense head Lord Hill-Norton, and Sergeant Clifford Stone'. Two of those three are witnesses inside the same document, and one of them is Clifford Stone. The corroboration offered is internal to the source. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
-- **Tier 3 stated inference.** STATED INFERENCE. Nothing opened by this board places Warren at the podium of the 9 May 2001 press conference. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
-
-### Its strongest connections
-
-- Larry Warren runs out to **Disclosure Project Briefing Document, April 2001** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.4, dated September 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Larry Warren runs out to **Rendlesham Forest Incident, RAF Woodbridge/Bentwaters** (event, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Claims presence at the December 1980 events; contested. TIER 2 AND CONTESTED. His assignment to the 81st Tactical Fighter Wing is not what is disputed; his presence at the events and the documents he produced for it are. His co-author repudiated the account on 13 June 2017 and the publisher suspended distribution of the book on 17 October 2017. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, dated 2017-06-13; Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html, dated 2017-10-17.
-- Larry Warren comes in from **Peter Robbins** (person, board tier C), a denial link at Tier 2 named person on the record. The link reads: Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017. TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins's findings and the underlying documents were not opened here. He concedes the authenticity of Warren's January 1981 letter home. Sources: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, dated 2017-06-13; Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html, dated 2017-10-17.
-- Larry Warren comes in from **Charles I. Halt** (person, board tier B), a denial link at Tier 3 stated inference. The link reads: Reported as stating that Warren 'was not there'. TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2. Sources: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, dated 2017-06-13.
 
 ## Louis Witten
 
@@ -4345,7 +3487,7 @@ What is documented about his work is classical general relativity, not gravity c
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 634 of 1125, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 589 of 1057, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -4382,7 +3524,7 @@ Affiliations recorded: The Hill (opinion contributor), US Department of State (f
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 1071 of 1125, score 10). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 1008 of 1057, score 10). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -4409,7 +3551,7 @@ Affiliations recorded: Bigelow Aerospace (Washington DC operations, prior), NASA
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 496 of 1125, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 458 of 1057, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4426,45 +3568,7 @@ Re-graded B on a global pass (rank 496 of 1125, score 30). 5 connections, 1 of t
 - Michael Gold runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified before the House Oversight joint subcommittees. Gold testified as the fourth witness and answered Boebert's genetics question in the negative. Sources: House Oversight - hearing page, 13 Nov 2024, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/, dated 2024-11-13; House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13; U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 - Michael Gold runs out to **NASA UAP Independent Study Team** (program, board tier B), a institutional link at Tier 1 documented. The link reads: Member of the study team. Gold is listed among the team's members and later testified to Congress on its findings. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
 - Michael Gold runs out to **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a investigative link at Tier 2 named person on the record. The link reads: NASA UAP study participant testifying on stigma and data policy alongside AARO's remit. Gold's testimony argued the problem is stigma and data quality as much as classification. Sources: U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; Michael Gold, written testimony, House Oversight, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
-- Michael Gold runs out to **Alex Dietrich** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Cited Dietrich by name to Congress as evidence of aviator stigma. Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.' Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
-
-## Michael Herrera
-
-Michael Herrera is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C1 A0 D2; 4 connections.
-
-In one line: Former US Marine who says that in 2009, during humanitarian and security operations after an Indonesian earthquake, he and his unit encountered a large craft being loaded by non-uniformed armed personnel.
-
-### The longer account
-
-Michael Herrera is a claimant whose account has reached two official records without him ever having testified, and the distinction is the whole reason this node is carefully worded. He has never been a witness at a congressional hearing. His name appears exactly once across the printed records of the three modern House UAP hearings: on 9 September 2025 Rep. Eric Burlison moved a document about him into the record, describing it as testimony given to him by Dr. Steven Greer, and the chair admitted it without objection. Separately, AARO's Historical Record Report Volume I carries at page 29 an anonymised one-sentence summary of a 2009 foreign humanitarian-mission account that matches his public account on year, mission type and scene. AARO names nobody and maintains the anonymisation key itself, so the identification of that interviewee as Herrera is an inference and is carried here as Tier 3, not as a fact. His own account is on the public record in a dated artefact, a Shawn Ryan Show appearance of 17 July 2023. No service record, no DD-214 and no corroborating squadmate was opened. What makes him a node is proximity to a claim that two official records touch, not credibility: he held no programme office and no clearance is documented anywhere.
-
-### Recorded as unverified
-
-- The 'Memorandum for Record' he says he later obtained from AARO was NOT OPENED. Only a search-engine paraphrase of a social-media post describing it was found, and it is deliberately not cited.
-- No service record, DD-214 or unit assignment was opened. His Marine Corps service is self-stated.
-- No squadmate or member of his claimed unit has corroborated the account in any opened record.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 387 of 1125, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** AARO's 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', February 2024, carries at page 29, in Section V 'Assessment of Interviewee Claims of USG Involvement in Hidden UAP Programs', this sentence: 'An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered U.S. Special Forces loading containers onto a large extraterrestrial spacecraft.' The sentence is AARO's summary of an interview, not a quotation of the interviewee, and it names nobody. Source: AARO Historical Record Report Volume I, p. 29, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, 2024-02
-- **Tier 1 documented.** He is on no congressional witness list. The committee-published witness lists for 26 July 2023 (event 116282), 13 November 2024 (event 117722) and 9 September 2025 name him nowhere, and the printed records of all three hearings contain his name exactly once in total, in the Burlison colloquy. Source: https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282, https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventId=117722, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, all opened 2026-09-18
-- **Tier 1 documented.** The National Press Club's own events listing carries 'UFO/UAP Disclosure Press Conference', 12 June 2023, 2:00 PM, in the Club's Ballroom, with the disclaimer 'This event is not sponsored or endorsed by The National Press Club'. Steven Greer is the only named presenter and Michael Herrera is not named on the listing. This matters because that event is widely given as the venue of his first public statement; the venue's own record neither confirms nor denies his presence, it simply does not name him. Source: https://www.press.org/events/ufouap-disclosure-press-conference, opened 2026-09-18
-- **Tier 1 documented.** The printed record of the House Oversight Task Force on the Declassification of Federal Secrets hearing of 9 September 2025 carries this colloquy. Rep. Eric Burlison: 'Madam Chair, I also have further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony. We have Roderick Castle and his testimony; Randy Anderson, his testimony; Steven Digna, and others, three others, all saying similar things to what the witnesses today have said, and I would like to enter that into the record as well.' Chairwoman Luna: 'No objection.' What this documents is that a member moved a document about him into a hearing record and sourced it to Steven Greer. It does not document that he testified, was sworn, or appeared. Source: Serial CHRG-119hhrg61718, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, 2025-09-09
-- **Tier 1 documented.** The same report states the anonymisation rule that is why the page 29 sentence names nobody: 'AARO generated random numbers and assigned one to each interviewee. AARO maintains the key, which is stored and handled in a secure manner to protect each interviewee's privacy.' It also gives the scale and the tiering: 'As of September 17, 2023, AARO interviewed approximately 30 individuals', with Tier 1 interviewees being 'those who have spoken with congressional staff or Members of Congress and have been subsequently referred to AARO'. Source: AARO Historical Record Report Volume I, p. 28, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, 2024-02
-- **Tier 2 named person on the record.** His own account is on the public record in a dated artefact: 'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)', Shawn Ryan Show, premiered 17 July 2023, runtime 1:26:50. The channel's own description reads: 'Former Marine Michael Herrera tells all in part one of this three part series. Herrera and his team were tasked with responding to a major earthquake and tsunami in Indonesia providing overwatch and logistical support. Little did they know--they would come face to face with a UAP / UFO and be ambushed by an unmarked shadow unit of operators.' This is a man saying a thing on a dated recording, and nothing more. Source: Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17, opened 2026-09-18
-- **Tier 3 stated inference.** The Shawn Ryan Show description's phrase 'how he is testifying to Congress' is not supported by any opened record. He has never been a hearing witness. Whether he was interviewed in a closed congressional setting is a separate question that has not been reached, and the promotional phrasing should not be read as establishing either. Source: stated inference from the committee witness lists and the Shawn Ryan Show description
-- **Tier 3 stated inference.** The identification of AARO's page 29 interviewee as Michael Herrera is an INFERENCE and this node carries it as one. It matches his public account on year, on mission type and on the described scene. No opened record makes the link, AARO names nobody, and Herrera is not named anywhere in the report. Source: stated inference from the AARO Volume I page 29 summary and his Shawn Ryan Show account
-
-### Its strongest connections
-
-- Michael Herrera runs out to **Eric Burlison** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: The member who moved his written testimony into the hearing record. Burlison is the member who made the motion on 9 September 2025, naming Herrera among several individuals whose testimony he entered. Sources: Serial CHRG-119hhrg61718, printed record of 9 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- Michael Herrera runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Written testimony moved into the record by a member; NOT a witness appearance. HE IS NOT A WITNESS AT THIS HEARING AND THIS EDGE MUST NOT BE READ AS AN APPEARANCE. Rep. Eric Burlison moved a document about him into the record and the chair admitted it without objection. He is on no committee witness list for this or any other hearing. Sources: Serial CHRG-119hhrg61718, printed record of 9 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- Michael Herrera runs out to **Steven M. Greer** (person, board tier B), a custody link at Tier 1 documented. The link reads: Named on the record as the custodian who supplied the written testimony. Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'. Sources: Serial CHRG-119hhrg61718, printed record of 9 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- Michael Herrera runs out to **AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I** (document, board tier A), a investigative link at Tier 3 stated inference. The link reads: Inferred identification with the anonymised page 29 interviewee. THE IDENTIFICATION IS AN INFERENCE AND THIS EDGE CARRIES IT AS ONE. The page 29 interviewee account matches his public account on year, mission type and scene. AARO names nobody and holds the anonymisation key itself. No opened record makes the link. Sources: AARO Historical Record Report Volume I, p. 29 (Black Vault mirror), https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-02.
+- Michael Gold runs out to **Alex Dietrich** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Cited Dietrich by name to Congress as evidence of aviator stigma. Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.' Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
 
 ## Michael Shellenberger
 
@@ -4485,7 +3589,7 @@ Affiliations recorded: Public (co-founder), University of Austin (faculty, 2026)
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 300 of 1125, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 270 of 1057, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -4523,7 +3627,7 @@ Affiliations recorded: U.S. Senate, South Dakota (2015- ), Senate Armed Services
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 433 of 1125, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 399 of 1057, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -4562,7 +3666,7 @@ Affiliations recorded: U.S. House, Ohio (2003- ), Chairman, HPSCI (2023-2025), H
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 500 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 460 of 1057, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -4576,7 +3680,7 @@ Re-graded B on a global pass (rank 500 of 1125, score 30). 4 connections, 0 of t
 - Michael R. Turner runs out to **House Permanent Select Committee on Intelligence** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Chairman during the FY2024 conference. Turner chaired HPSCI from January 2023 to January 2025, spanning the conference in which the disclosure division was reduced. Sources: P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Michael R. Turner runs out to **Unidentified Anomalous Phenomena Records Review Board** (program, board tier A), a denial link at Tier 2 named person on the record. The link reads: Named as demanding removal of the Board's subpoena power. The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27; P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Michael R. Turner runs out to **Section 9010(a), Exercise of Eminent Domain** (document, board tier A), a denial link at Tier 2 named person on the record. The link reads: Named as demanding removal of the eminent domain provision. Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27; P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
-- Michael R. Turner comes in from **Daniel P. Sheehan** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Named-source account of what Turner demanded in conference. Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27.
+- Michael R. Turner comes in from **Daniel P. Sheehan** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Named-source account of what Turner demanded in conference. Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27.
 
 ## Nathan F. Twining
 
@@ -4596,7 +3700,7 @@ Affiliations recorded: US Army Air Forces / Air Materiel Command (1945-1947), US
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 318 of 1125, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 288 of 1057, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -4630,7 +3734,7 @@ Affiliations recorded: OUSD(I), Director for Defense Intelligence (Collection & 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 436 of 1125, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 402 of 1057, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -4664,7 +3768,7 @@ Affiliations recorded: uk-mod, uk-mod-ufo-desk.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 658 of 1125, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 614 of 1057, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -4698,7 +3802,7 @@ Affiliations recorded: fab, Ministério da Aeronáutica.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 505 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 464 of 1057, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -4735,7 +3839,7 @@ Affiliations recorded: Secretary of Defense / Secretary of War (2025-), Fox News
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 178 of 1125, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 162 of 1057, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -4773,7 +3877,7 @@ Affiliations recorded: U.S. House of Representatives, CA-42 (2023- ), Subcommitt
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 744 of 1125, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 700 of 1057, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4789,51 +3893,6 @@ Re-graded C on a global pass (rank 744 of 1125, score 22). 4 connections, 0 of t
 - Robert Garcia runs out to **H.R. 6967 - Safe Airspace for Americans Act (118th Congress)** (legislation, board tier C), a legislative link at Tier 1 documented. The link reads: Sponsor. Introduced 11 January 2024, the day before the ICIG briefing. Sources: Congress.gov, H.R. 6967, Safe Airspace for Americans Act (118th Congress), https://www.congress.gov/bill/118th-congress/house-bill/6967, dated 2024-01-11; The Hill: Classified UFO briefing, House members emerge with mixed feelings, https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/, dated 2024-01-12.
 - Robert Garcia runs out to **U.S. House Committee on Oversight and Government Reform** (institution, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Ranking Member of the full committee from 2025. Garcia moved from subcommittee ranking member to full-committee ranking member in the 119th Congress; printed in the CHRG-119hhrg61718 roster. Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 
-## Robert M. Jacobs
-
-Robert M. Jacobs is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A1 D3; 4 connections.
-
-In one line: USAF lieutenant, Officer-in-Charge of Photo-optical Instrumentation, 1369th Photographic Squadron, Vandenberg AFB, 1963 to 1966; later an academic; claimant from 1982 about the Big Sur missile-test filming of September 1964.
-
-### The longer account
-
-Robert Jacobs is the one witness in this cluster whose claimed role is confirmed by an independent named participant, and the confirmation comes from the man who spent a published article demolishing his interpretation. He published his own account twelve years before the Disclosure Project existed, in the MUFON UFO Journal of January 1989, giving his post as Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg Air Force Base from May 1963 to May 1966. In 1993 Kingston A. George, who identifies himself in his opening line as the project engineer for the experiment, answered him in the Skeptical Inquirer, and in the course of doing so confirmed that Jacobs was named on-site commander by the 1369th Photo Squadron and managed the logistics at the Big Sur location, published photographs of the team and captioned Jacobs into and out of them, named the launch and gave its date, and cited a contemporaneous internal Air Force staff study by title and date. That is the rarest evidentiary shape on this board: two first-person published accounts by two people who were both there, agreeing about who was present and disagreeing about what the film showed. George's counter-explanation is that the imagery was decoy and chaff deployment, that the alarm which followed was about a classified weapons vulnerability rather than anything extraterrestrial, and that Jacobs was not cleared to interpret what he had seen. Jacobs's own dating is uncertain in his own article, which gives 2, 3 or 15 September 1964, while George fixes the event at dawn on 22 September 1964. The board should build this node on the 1989 publication and not on the Briefing Document, which arrived last and adds nothing but a date.
-
-### Where the record conflicts
-
-- The date. Jacobs's own 1989 article gives 2, 3 or 15 September 1964. Kingston George fixes the event at dawn on 22 September 1964, on an Atlas launch nicknamed 'Buzzing Bee', and cites a staff study he wrote on 13 October 1964. Both cannot be right and the board carries the discrepancy rather than resolving it.
-- The clearance. Jacobs's account depends on having seen and understood the product; George states in print that he was not authorised to view it and probably never gained the required clearance.
-
-### Recorded as unverified
-
-- His 1982 National Enquirer article, 'UFO Spied on Space Missile, and I Captured It on Film', which would be his earliest published account and which was not opened.
-- Any Air Force personnel record, service record or unit roster naming him. His post is documented only by his own publication and by George's confirmation in print.
-- His academic position. The Briefing Document calls him 'a respected professor at a major US university' without naming it and no employment record was opened.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 267 of 1125, score 40). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** HE PUBLISHED THE ACCOUNT HIMSELF TWELVE YEARS EARLIER, WHICH IS THE ANCHOR THIS NODE SHOULD USE. Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989. His stated post, verbatim: 'Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg Air Force Base, California from May, 1963 to May, 1966.' The issue number and month are fixed independently by Kingston George's 1993 reference list. Source: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, opened 2026-09-19
-- **Tier 1 documented.** HIS ROLE AND UNIT ARE CONFIRMED BY AN INDEPENDENT NAMED PARTICIPANT IN A PUBLISHED JOURNAL. Kingston A. George, project engineer for the deployment, writing in the Skeptical Inquirer in Winter 1993: 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location.' George also publishes team photographs and captions them, noting in one 'Lt. Bob Jacobs is not in this picture' and in another 'Jacobs at far right holding a camera and standing behind Chief Warrant Officer Spooner'. Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
-- **Tier 1 documented.** His own account is explicitly uncertain about its own date: 'the date of the event was most probably either September 2nd, 3rd, or 15th, 1964.' Source: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, opened 2026-09-19
-- **Tier 1 documented.** THE SAME INDEPENDENT PARTICIPANT STATES THAT HE DID NOT HOLD THE ACCESS THE CLAIM REQUIRES: 'Lieutenant Bob Jacobs was one of the key field team members who, it later developed, was technically not authorized to view the pictures we were collecting', and later, 'Weeks later, my clearance level was increased to allow me to see the films again and analyze them. I don't think Bob Jacobs ever gained the required clearance.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
-- **Tier 1 documented.** The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.3 under the heading 'Testimony of Professor Robert Jacobs, Lt. US Air Force / November 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. This document is the LAST and WEAKEST anchor for this witness and the board should not cite it for content. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
-- **Tier 1 documented.** What he says the film showed: an object that 'maneuvered around' the warhead package and 'emitted four distinct bright flashes of light at approximately the 4 cardinal compass points of its orbit', whose shape 'was that of a classic flying saucer', after which the warhead 'malfunctioned and tumbled out of suborbit hundreds of miles short of its target'. Source: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, opened 2026-09-19
-- **Tier 2 named person on the record.** George concedes a point to Jacobs, which is why the exchange is a serious one rather than a polemic: 'Bob is correct in saying that the observations in 1964 did not involve lasers, and, I would add, neither intra- nor extraterrestrial.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
-- **Tier 2 named person on the record.** The counter-explanation, from the same source: 'what had happened on Buzzing Bee was that two decoys were fired off by small rocket charges on schedule, but some of the decoy packing material also trailed along and could be seen optically and also by certain kinds of radar. A little cloud of debris around each decoy warhead clearly gave away the false status'. George also corrects a factual point: 'the Atlas was sub-orbital, as all ICBMs are, and it did not miss the target.' Source: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, opened 2026-09-19
-
-A further 1 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Robert M. Jacobs runs out to **Disclosure Project Briefing Document, April 2001** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.3, dated November 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. This is the LAST and WEAKEST anchor for this witness; his own 1989 publication is the one the board should cite. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Robert M. Jacobs runs out to **Vandenberg Space Force Base, California** (location, board tier B), a geographic link at Tier 1 documented. The link reads: 1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966. His own published statement of his post, independently confirmed as to unit and role by the project engineer. Sources: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, dated 1989-01; Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
-- Robert M. Jacobs runs out to **Big Sur missile-test filming, September 1964** (event, board tier B), a witness-chain link at Tier 1 documented. The link reads: On-site commander at the filming; his presence, unit and role confirmed by the project engineer in print. THE ONLY TIER 1 WITNESS-TO-CASE EDGE IN THIS CLUSTER. Jacobs published his own account in January 1989; Kingston George, the project engineer, wrote in 1993 that 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location', and published team photographs captioning Jacobs into and out of them. The edge carries his PRESENCE, not his interpretation. Sources: Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm, dated 1989-01; Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
-- Robert M. Jacobs comes in from **Kingston A. George** (person, board tier B), a denial link at Tier 1 documented. The link reads: Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993. TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs 'was technically not authorized to view the pictures we were collecting'. Sources: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
-
 ## Sidney Gottlieb
 
 Sidney Gottlieb is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1955-03-31; axes C0 A3 D0; 4 connections.
@@ -4846,7 +3905,7 @@ Sidney Gottlieb is the officer at the centre of the destruction event the board'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 337 of 1125, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 308 of 1057, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -4880,7 +3939,7 @@ Souers held, in sequence, the two offices through which the postwar national sec
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 301 of 1125, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 271 of 1057, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -4899,7 +3958,7 @@ Re-graded B on a global pass (rank 301 of 1125, score 38). 4 connections, 0 of t
 
 ## Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima
 
-Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1997; axes C2 A2 D2; 4 connections.
+Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1997; axes C2 A2 D2; 4 connections.
 
 In one line: Brazilian Air Force captain; commander of Operação Prato, 1977-1978.
 
@@ -4920,7 +3979,7 @@ Affiliations recorded: fab, Serviço Nacional de Informações (SNI).
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 567 of 1125, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 525 of 1057, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -4933,7 +3992,7 @@ Re-graded C on a global pass (rank 567 of 1125, score 28). 4 connections, 0 of t
 - Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima comes in from **Força Aérea Brasileira / Ministério da Aeronáutica** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Hollanda was a serving FAB officer, not a civilian investigator. Uyrangê Hollanda commanded Operação Prato as a captain of the Brazilian Air Force and retired as a lieutenant colonel. Pratt's file: 'In 1997, long after he had retired as a lieutenant colonel, Hollanda decided he was no longer obligated to remain silent about Operação Prato and publicly discussed Operação Prato.' The institutional tie matters because his later account contradicts the service's official negative finding, the contradiction is internal to the FAB, not between the FAB and outsiders. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Relatório de Ocorrências (Arquivo Nacional), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima runs out to **Operação Prato (Operation Saucer)** (program, board tier A), a institutional link at Tier 2 named person on the record. The link reads: commanded the operation. Named as commanding officer in Brazilian press accounts of the released Arquivo Nacional file. Sources: Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima runs out to **Jacques F. Vallee** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Hollanda showed the operation's photographs and trajectory analyses to Vallee. The 1988 Belém meeting places Hollanda, nine years before his 1997 public account and his death, giving a serving officer's access to the Prato file to the researcher who would later design the CAPELLA data warehouse for a DIA-funded programme. Tier 2 on the same diary sourcing. Flag for the audit: this pass found no support for any claim that the 2009 BAASS teams met Hollanda, and his 1997 death makes it impossible, Basterfield's account names only Ademar Gevaerd and Helio Loyola as the BAASS teams' Brazilian contacts. Sources: Jacques Vallee, 'Forbidden Science Volume Three' (diary of the July 1988 Brazil trip), quoted in Basterfield, 'Investigative adventures in Brazil'; Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
-- Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima runs out to **The Black Vault** (institution, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Hollanda's account to an American reporter is preserved in the Pratt file. Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain. Sources: Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
+- Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima runs out to **The Black Vault** (institution, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Hollanda's account to an American reporter is preserved in the Pratt file. Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain. Sources: Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 
 ## Walter Haut
 
@@ -4959,7 +4018,7 @@ Affiliations recorded: 509th Bomb Group, Roswell Army Air Field (1946-1948), Int
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 320 of 1125, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 290 of 1057, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -4996,7 +4055,7 @@ Affiliations recorded: nro, odni.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 599 of 1125, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded C on a global pass (rank 555 of 1057, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -5006,8 +4065,8 @@ Re-graded C on a global pass (rank 599 of 1125, score 27). 4 connections, 0 of t
 ### Its strongest connections
 
 - William B. Adkins runs out to **Central Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: CIA officer detailed to NRO advanced systems. The NRO's own biography states: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.' The CIA employment and the NRO assignment are the same three years. Sources: National Reconnaissance Office, leadership biography of William B. Adkins, https://www.nro.gov/About-NRO/Leadership/leadership-adkins/, dated 2026-08-25.
-- William B. Adkins runs out to **National Aeronautics and Space Administration** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Staff Director, House Space and Aeronautics Subcommittee. Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it. Sources: National Reconnaissance Office, leadership biography of William B. Adkins, https://www.nro.gov/About-NRO/Leadership/leadership-adkins/, dated 2026-08-25; https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/, https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/
 - William B. Adkins runs out to **National Reconnaissance Office** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Principal Deputy Director, then Acting Director, NRO. NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.' Sources: National Reconnaissance Office, leadership biography of William B. Adkins, https://www.nro.gov/About-NRO/Leadership/leadership-adkins/, dated 2026-08-25; https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf, https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf
+- William B. Adkins runs out to **National Aeronautics and Space Administration** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Staff Director, House Space and Aeronautics Subcommittee. Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it. Sources: National Reconnaissance Office, leadership biography of William B. Adkins, https://www.nro.gov/About-NRO/Leadership/leadership-adkins/, dated 2026-08-25; https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/, https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/
 - William B. Adkins runs out to **United States House of Representatives** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA. Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex. Sources: Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11), https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2026-08-11; National Reconnaissance Office - About NRO, https://www.nro.gov/About-NRO/, dated 2026-08-12; https://www.nro.gov/About-NRO/Leadership/leadership-adkins/, https://www.nro.gov/About-NRO/Leadership/leadership-adkins/
 
 ## William Culbreth
@@ -5026,7 +4085,7 @@ The released aneutronic paper attributed to him reads like a nuclear engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 226 of 1125, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 204 of 1057, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -5059,7 +4118,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-5 (2017- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 1042 of 1125, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
+Re-graded C on a global pass (rank 983 of 1057, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -5085,7 +4144,7 @@ Affiliations recorded: U.S. House of Representatives, TN-5 (2023- ), Congression
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 864 of 1125, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 816 of 1057, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -5117,7 +4176,7 @@ Arthur G. Trudeau held the Army post that sat directly above the office Philip C
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 468 of 1125, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 432 of 1057, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -5145,7 +4204,7 @@ Cecilia Levy is the third University at Albany physicist on the only peer-review
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 932 of 1125, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.
+Re-graded C on a global pass (rank 876 of 1057, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.
 
 ### The claims on the record
 
@@ -5159,47 +4218,6 @@ Re-graded C on a global pass (rank 932 of 1125, score 16). 3 connections, 0 of t
 - Cecilia Levy comes in from **University at Albany (SUNY), Department of Physics** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper. Levy is an LZ dark-matter physicist in the same department and co-developer, with Szydagis, of the Snowball Chamber supercooled-water detector. The University's own news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences field-expedition paper. Her faculty page does not itself list UAP among her research interests, which is worth recording rather than smoothing over: unlike Szydagis, her UAP involvement appears in the publication record and the university press office but not in her stated departmental research profile. Sources: University at Albany, Department of Physics - Cecilia Levy faculty page, https://www.albany.edu/physics/faculty/cecilia-levy, dated 2026-08-21; UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research', https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research, dated 2025-06-04.
 - Cecilia Levy runs out to **Matthew Szydagis** (person, board tier C), a research link at Tier 1 documented. The link reads: Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work. Levy's faculty page lists 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as 'a research topic completely unique to the UAlbany dark matter group'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is 'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution. Sources: University at Albany, Department of Physics - Cecilia Levy faculty page, https://www.albany.edu/physics/faculty/cecilia-levy, dated 2026-08-21; UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research', https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research, dated 2025-06-04.
 - Cecilia Levy runs out to **Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099** (document, board tier C), a investigative link at Tier 1 documented. The link reads: Co-author of the UAPx field-expedition results. Fourth-named author on Szydagis, Knuth, Kugielsky & Levy (2025). The board's existing node label for this paper already carries her surname; until now she had no node behind it. Sources: UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research', https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research, dated 2025-06-04.
-
-## Charles I. Halt
-
-Charles I. Halt is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1981-01-13; axes C1 A2 D3; 3 connections.
-
-In one line: Lt Col USAF (later Col); Deputy Base Commander, RAF Bentwaters/Woodbridge 1980-81.
-
-### The longer account
-
-Halt wrote the single most consequential UFO document ever produced by a serving US officer inside a NATO nuclear-capable installation. On 13 January 1981, as Deputy Base Commander of the 81st Combat Support Group at RAF Bentwaters/Woodbridge, he sent a one-page memorandum captioned 'Unexplained Lights' to the RAF station commander describing events of 26-28 December 1980: security patrolmen encountering a 'strange glowing object' that was 'metalic in appearance and triangular in shape, approximately two to three meters across the base'; three ground depressions 1.5 inches deep and 7 inches in diameter; and radiation readings of 0.1 milliroentgens beta/gamma peaking in the depressions. The memo is not a UFO buff's account - it is an official USAF memorandum, released to the public through the Office of the Assistant Secretary of Defense FOIA office and re-released under DoD FOIA case 97-F-1677 in September 1997. Halt personally led the 28 December patrol and tape-recorded it. He remained in the Air Force for another decade, retiring as a full colonel, and only after retirement began stating publicly that he believed the objects were under intelligent control and that base personnel had been debriefed under pressure. In 2010 he executed a notarized affidavit asserting that the objects were not of terrestrial origin and that USAF and UK authorities had worked to suppress the incident; he has since stated that airmen were subjected to what he characterized as drugged and hypnotic debriefings. The 45-year documentary life of the Halt memo is a case study in the board's central thesis: the record exists, it was written by the responsible officer at the time, and the institutional response has been to route it into a category ('unexplained lights') that requires no follow-up.
-
-### What is left unexplained
-
-The radiation readings and ground depressions in Halt's memo have never been the subject of any published official analysis - the physical-trace annex referenced by the memo has never surfaced.
-
-### Where the record conflicts
-
-- UK MoD's contemporaneous position was that the events were of 'no defence significance'; astronomers have attributed elements of the 26 December sighting to a fireball and the Orfordness lighthouse. Halt has rejected both explanations and the MoD's own defence-significance finding was made without interviewing the American witnesses.
-
-### Recorded as unverified
-
-- Halt's later assertions that witnesses were drugged and hypnotically debriefed are not corroborated by any released document.
-
-Affiliations recorded: United States Air Force (1965-1991), 81st Combat Support Group, RAF Bentwaters/Woodbridge (1980-1981).
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 435 of 1125, score 32). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** Halt's memo records physical trace evidence: three depressions 1.5 inches deep and 7 inches in diameter, and beta/gamma readings of 0.1 milliroentgens peaking in the depressions and at the centre of the triangle they formed. Source: Halt memorandum, 13 Jan 81, paragraph 2
-- **Tier 1 documented.** Halt's memo states the object was 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high,' and that it 'illuminated the entire forest with a white light.' Source: Halt memorandum, 'Unexplained Lights,' 13 Jan 81, released under DoD FOIA case 97-F-1677
-- **Tier 2 named person on the record.** Halt has stated in a notarized affidavit that the objects were under intelligent control, were not of terrestrial origin, and that the US and UK governments acted to suppress the incident. Source: Charles I. Halt, notarized affidavit, 2010; restated in BBC and researcher interviews on the 40th anniversary, 26 Dec 2020
-- **Tier 3 stated inference.** REPORTED ONLY, AND GRADED TIER 3 FOR THAT REASON. He is reported as stating that Larry Warren 'was not there', and as denying that Warren was present during Halt's own extended time in Rendlesham Forest on the night of 28 to 29 December 1980. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. A primary would move it to Tier 2. Source: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, opened 2026-09-19
-
-### Its strongest connections
-
-- Charles I. Halt runs out to **Rendlesham Forest Incident, RAF Woodbridge/Bentwaters** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Halt personally led the 28 December 1980 forest patrol. Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.' Sources: The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997), https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/, dated 2021-11-11.
-- Charles I. Halt runs out to **Halt Memorandum, 'Unexplained Lights', 13 January 1981** (document, board tier C), a witness-chain link at Tier 1 documented. The link reads: Halt authored and signed the 'Unexplained Lights' memorandum. Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force. Sources: The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997), https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/, dated 2021-11-11.
-- Charles I. Halt runs out to **Larry Warren** (person, board tier B), a denial link at Tier 3 stated inference. The link reads: Reported as stating that Warren 'was not there'. TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2. Sources: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, dated 2017-06-13.
 
 ## David N. Spergel
 
@@ -5221,7 +4239,7 @@ Affiliations recorded: Princeton University, Department of Astrophysical Science
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 532 of 1125, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 489 of 1057, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -5235,7 +4253,7 @@ Re-graded B on a global pass (rank 532 of 1125, score 29). 4 connections, 0 of t
 
 ### Its strongest connections
 
-- David N. Spergel runs out to **National Aeronautics and Space Administration** (institution, board tier A), a research link at Tier 1 documented. The link reads: Chaired the NASA UAP Independent Study Team. Spergel of the Simons Foundation chaired the 16-member panel. Sources: NASA UAP Independent Study Team Report, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
+- David N. Spergel runs out to **National Aeronautics and Space Administration** (institution, board tier B), a research link at Tier 1 documented. The link reads: Chaired the NASA UAP Independent Study Team. Spergel of the Simons Foundation chaired the 16-member panel. Sources: NASA UAP Independent Study Team Report, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
 - David N. Spergel runs out to **NASA UAP Independent Study Team** (program, board tier B), a institutional link at Tier 1 documented. The link reads: Chaired the NASA UAP Independent Study Team. Spergel chaired the sixteen-member panel whose final report was released 14 September 2023. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
 - David N. Spergel runs out to **NASA Unidentified Anomalous Phenomena Independent Study Team** (program, board tier C), a institutional link at Tier 1 documented. The link reads: Chaired the sixteen-member NASA panel, 2022-2023. Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023. Sources: Wikipedia: NASA Unidentified Anomalous Phenomena Independent Study Team, https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team, dated 2026-08-12; NASA UAP Independent Study Team Final Report, https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
 - David N. Spergel runs out to **NASA UAP Independent Study Team** (program, board tier B), a behavioral link at Tier 2 named person on the record. The link reads: Panel worked under sustained public harassment. Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed. Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
@@ -5257,7 +4275,7 @@ Donald Howard Menzel, 1901-1976, was the director of the Harvard College Observa
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 336 of 1125, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 307 of 1057, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -5287,7 +4305,7 @@ Affiliations recorded: President of the United States (2017-2021, 2025-).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 432 of 1125, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 398 of 1057, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -5324,7 +4342,7 @@ Affiliations recorded: National Bureau of Standards, director (1945-1951), Unive
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 431 of 1125, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
+Re-graded B on a global pass (rank 397 of 1057, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
 
 ### The claims on the record
 
@@ -5345,38 +4363,6 @@ A further 1 claims sit on this node on the board and are not reproduced here.
 - Edward U. Condon comes in from **Donald H. Menzel** (person, board tier B), a behavioral link at Tier 1 documented. The link reads: Condon praised him by name in the study he directed. The praise is Condon's own, in his own chapter, and it is the specific sentence that bears on this board's argument that the Colorado study was disposed towards a conclusion before it reported. Sources: Condon Report, Section V chapter 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1969.
 - Edward U. Condon runs out to **Robert J. Low** (person, board tier C), a behavioral link at Tier 2 named person on the record. The link reads: Condon fired the investigators who surfaced Low's memo. David Saunders and Norman Levine found the memo in project files and it reached Look magazine in May 1968; both were dismissed. Sources: Scientific Study of Unidentified Flying Objects (Condon Report), https://files.ncas.org/condon/, dated 1968-11-01.
 
-## Edward Teller
-
-Edward Teller is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1949-02-16; axes C1 A3 D0; 3 connections.
-
-In one line: Los Alamos physicist; co-founder and later Director of Lawrence Livermore National Laboratory; attendee of the 16 February 1949 Los Alamos green fireballs conference.
-
-### The longer account
-
-Teller's presence in the room at Los Alamos on 16 February 1949 is the documented fact, and Los Alamos National Laboratory itself is the source for it. That places one of the two or three most access-privileged physicists in the United States - a man who within three years would co-found the Livermore laboratory and spend half a century inside the most tightly compartmented weapons programmes the country ran - in the earliest recorded scientific conference on anomalous aerial objects over American nuclear facilities. LANL records that the conference concluded the green fireballs were ultimately dismissed as a national security threat. That conclusion did not stop the Air Force from standing up Project Twinkle ten months later to instrument them. Teller was later associated with the Livermore laboratory throughout the era in which, according to whistleblower testimony collected by AAWSAP and by David Grusch, materials exploitation work was distributed across the DOE laboratory complex and its industrial partners. No document has been produced placing Teller inside such a programme. What the record does show is that when the United States first convened scientists to discuss unexplained objects over its nuclear archipelago, it convened them inside the contractor-operated laboratory system and not inside the Air Force's public UFO project.
-
-### Recorded as unverified
-
-- Any Teller involvement in materials exploitation of recovered objects is unsupported by any produced document.
-
-Affiliations recorded: Los Alamos Scientific Laboratory (1943-1951), Lawrence Livermore National Laboratory (co-founder 1952; Director 1958-1960), University of California Radiation Laboratory.
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 780 of 1125, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** Teller attended the 16 February 1949 Los Alamos conference on green fireballs, together with Laboratory Director Norris Bradbury, Frederick Reines, and FBI, AEC and military representatives. Source: Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024
-- **Tier 3 stated inference.** Bob Lazar claims Teller as his route into the classified work, in his own 1991 narration: 'while working at Los Alamos National Lab in 1982 the local newspaper did a front page story on a jet car [I'd] built coincidentally Dr Teller was giving a speech in Los Alamos that same day we met and had a short chat'. He says he later wrote to Teller and 'inquired about a job', and that 'Dr Teller responded by telephone and told me that it was no longer active but' referred him on. He adds that he never asked Teller whether he remembered him. The claim is uncorroborated by any opened record and its internal dating conflicts with the newspaper's own date of 27 June 1982, Teller's Los Alamos lecture falling on the following day per Mahood. Carried at Tier 3 and asserting only what Lazar said. Source: The Lazar Tape, Tri-Dot Productions, 1991, captions at 35:48 to 36:32 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity, opened 2026-09-18
-- **Tier 3 stated inference.** Teller's later position at the apex of the DOE weapons-laboratory complex means that if any laboratory-hosted exploitation activity existed in the 1950s-1970s he would have been positioned to know of it. Reasoning: laboratory directors hold Q clearance and programme visibility; no document establishes such knowledge. Source: Inference from his documented positions; explicitly not evidenced
-
-### Its strongest connections
-
-- Edward Teller runs out to **Los Alamos Green Fireballs Conference** (event, board tier B), a witness-chain link at Tier 1 documented. The link reads: Attended the 16 February 1949 conference. Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present. Sources: LANL National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18.
-- Edward Teller runs out to **Lawrence Livermore National Laboratory** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Co-founder and director of the Livermore laboratory. The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory. Sources: CRS Report R44629, https://www.everycrsreport.com/reports/R44629.html, dated 2026-05-15.
-- Edward Teller comes in from **Robert "Bob" Lazar** (person, board tier A), a witness-chain link at Tier 3 stated inference. The link reads: Claimed 1982 meeting and later job referral, uncorroborated and internally misdated. Tier 3. His own narration puts the Monitor jet-car story and Teller's Los Alamos speech on the same day; the article is dated 27 June 1982 and Mahood puts the lecture on the following day, so both cannot be right. The edge asserts only that Lazar says this. Sources: The Lazar Tape, Tri-Dot Productions, 1991, captions at 35:48 to 36:32, https://archive.org/details/antigravity, dated 1991.
-
 ## Friedwardt Winterberg
 
 Friedwardt Winterberg is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2010-01-01; axes C1 A1 D2; 3 connections.
@@ -5393,7 +4379,7 @@ His geographic placement matters to the shape of the programme. AAWSAP funding w
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 412 of 1125, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 378 of 1057, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -5432,7 +4418,7 @@ Affiliations recorded: U.S. Special Operations Command / OSD SO-LIC, OUSD(I&S), 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 597 of 1125, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 553 of 1057, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -5470,7 +4456,7 @@ Affiliations recorded: US Navy, USS Princeton (CG-59), Carrier Strike Group 11 (
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 711 of 1125, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded C on a global pass (rank 667 of 1057, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -5483,45 +4469,6 @@ Re-graded C on a global pass (rank 711 of 1125, score 23). 4 connections, 2 of t
 - Gary Voorhis runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a custody link at Tier 3 stated inference. The link reads: Voorhis describes removal or wiping of Princeton recording media. Voorhis, a CEC/Aegis technician, has said in public interviews since 2018 that he was directed to hand over or wipe recording media and that unrecognised personnel were aboard collecting. Reasoning: no primary record naming those personnel has been located. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-13.
 - Gary Voorhis runs out to **USS Princeton (CG-59)** (institution, board tier B), a custody link at Tier 3 stated inference. The link reads: Says recording media were surrendered or wiped after 14 Nov 2004. The confiscation account rests on Voorhis and Day, in different billets, describing the same 48-hour window. No document, log entry or chain-of-custody form corroborating it has been located. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - Gary Voorhis comes in from **Kevin Day** (person, board tier C), a witness-chain link at Tier 3 stated inference. The link reads: Independent shipmate corroboration of the post-encounter data collection. Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
-
-## George D. Hathaway
-
-George D. Hathaway is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2010-01-01; axes C0 A1 D2; 3 connections.
-
-In one line: Professional engineer, Hathaway Consulting Services (Toronto); author of two AAWSAP DIRDs.
-
-### The longer account
-
-George Hathaway is the author the DIA list names for "Role of Superconductors in Gravity Research," and separately for "Maverick Inventor Versus Corporate Inventor" (item 16). Two DIRDs, and they are an odd pair: one a technical review of the most contested claim in gravity-modification research, the other an essay on where breakthrough invention actually comes from. Both are consistent with what Hathaway has done for fifty years.
-
-Hathaway graduated in electrical engineering from the University of Toronto in 1974 and is a registered professional engineer. He runs a private laboratory near Toronto International Airport, first as Hathaway Consulting Services, the affiliation the DIA letter records, and latterly as Hathaway Research International. The laboratory's stated function is to test claims of anomalous energy production and unconventional propulsion and gravity modification, which in practice means being the person who replicates other people's extraordinary claims and reports honestly when they fail. Between 1996 and 2003 he ran the Podkletnov rotating-superconductor gravity-shielding experiment for a prospective investor and obtained null results. He co-authored with Reiss a 2005 paper on correct laboratory practice in experiments designed to detect gravity-like forces.
-
-That record is why his DIRD is more interesting than its title suggests. The superconductor paper, DIA-08-1003-013, dated 23 March 2010 in the Acquisition Threat Support series, reviews the Soviet-lineage gravity claims of Evgeny Podkletnov and the work of Ning Li. DIA commissioned a review of gravity modification from the one person in the field with a documented history of failing to replicate it. That is not the commissioning behaviour of a programme buying a predetermined conclusion, and it is a fact that cuts against the standard reading of the DIRD set in both directions.
-
-Hathaway's disclosure role is scored above the other subject-matter authors because his laboratory is a standing independent node in the anomalous-physics network, referenced alongside EarthTech International as one of the few places where such claims get instrumented rather than argued.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 469 of 1125, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** HIS OWN DIA-FUNDED REFERENCE DOCUMENT DOES NOT MENTION THE HUTCHISON EFFECT. DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', cover-dated 30 March 2010, ICOD 1 December 2009, 20 pages as released, attributed on the DIA list of 9 January 2018 to Dr George Hathaway of Hathaway Consulting. Word counts over the whole released document: HUTCHISON 0, Pharos 0, levitation 0. Gravity occurs 12 times and antigravity 3. THE MAN WHO WROTE THE BOOK ON THE HUTCHISON EFFECT WROTE A DIA REFERENCE DOCUMENT ABOUT MAVERICK INVENTORS AND DID NOT MENTION IT. This is a fact about the document and is not a statement by him about the claim. Source: Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, opened 2026-09-19
-- **Tier 1 documented.** Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of item 16, 'Maverick Inventor Versus Corporate Inventor', affiliation Hathaway Consulting. Source: https://irp.fas.org/dia/aatip-list.pdf
-- **Tier 1 documented.** Named on the same DIA list as author of item 10, 'Role of Superconductors in Gravity Research', affiliation Hathaway Consulting, making him a two-deliverable AAWSAP contributor. Source: https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/
-- **Tier 2 named person on the record.** Between 1996 and 2003 Hathaway conducted the Podkletnov spinning-superconductor gravity experiment for a prospective investor and reported null results. Source: https://www.altpropulsion.com/gravity-control-experiments/
-- **Tier 2 named person on the record.** Graduated from the Department of Electrical Engineering, University of Toronto, 1974; Registered Professional Engineer; founder and principal of his consulting firm; consultant on 'novel and exotic materials, energy production and propulsion concepts'; author of 'Mindbending: The Hutchison Files'. Source: https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/
-- **Tier 2 named person on the record.** HE IS THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND THE LINK RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own staff page states that he 'graduated from the Dep't of Electrical Engineering at the University of Toronto in 1974 and is a Registered Professional Engineer', that he consults on 'novel and exotic materials, energy production and propulsion concepts', and that he is 'author of the book "Mindbending: The Hutchison Files"'. HIS HUTCHISON PUBLICATION IS A BOOK AND NOT A PAPER, and this board carries no peer-reviewed publication and no primary record of a controlled Hutchison demonstration, because none was found. Source: Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/, opened 2026-09-19
-- **Tier 2 named person on the record.** Hathaway graduated in electrical engineering from the University of Toronto in 1974, is a registered professional engineer, and founded Hathaway Consulting Services and later Hathaway Research International, a laboratory near Toronto International Airport dedicated to testing claims of anomalous energy production and unconventional propulsion and gravity modification. Source: https://www.hathawayresearch.com/principal-staff/
-- **Tier 2 named person on the record.** The DIA letter of 9 January 2018 lists item 10 as "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." Source: https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-
-A further 1 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- George D. Hathaway runs out to **The Role of Superconductors in Gravity Research** (document, board tier B), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 10: "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
-- George D. Hathaway comes in from **Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?** (document, board tier B), a research link at Tier 1 documented. The link reads: authored by. The DIA congressional list credits 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' to 'Dr George Hathaway, Hathaway Consulting'. Hathaway is also credited on the same list with 'Role of Superconductors in Gravity Research'. The author line on the released PDF is redacted under (b)(6). Sources: Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/, https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/
-- George D. Hathaway runs out to **Exotic Technology & Physics** (domain, board tier B), a research link at Tier 2 named person on the record. The link reads: Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'. THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times. Sources: Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/, dated 2026-09-19; Defense Intelligence Reference Document DIA-08-1003-017, 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, dated 2010-03-30.
 
 ## George S. Trimble
 
@@ -5843,7 +4790,7 @@ The industrial and academic halves were deliberately kept apart, and the source 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 604 of 1125, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 559 of 1057, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -5880,7 +4827,7 @@ Gerald Anderson came forward in 1990, after a television broadcast, claiming tha
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 783 of 1125, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.
+Re-graded C on a global pass (rank 737 of 1057, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.
 
 ### The claims on the record
 
@@ -5894,3 +4841,521 @@ Re-graded C on a global pass (rank 783 of 1125, score 21). 3 connections, 0 of t
 - Gerald Anderson runs out to **J. Allen Hynek Center for UFO Studies (CUFOS)** (institution, board tier C), a investigative link at Tier 2 named person on the record. The link reads: CUFOS and FUFOR investigated and discredited their own witness. Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
 - Gerald Anderson runs out to **Plains of San Agustin claim, July 1947** (event, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Sole claimed first-hand witness to the San Agustin site. Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
 - Gerald Anderson comes in from **Fund for UFO Research** (institution, board tier C), a investigative link at Tier 2 named person on the record. The link reads: FUFOR co-authored the report against its own first-hand witness. Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
+
+## Glenn T. Seaborg
+
+Glenn T. Seaborg is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1961-01-16; axes C2 A3 D1; 3 connections.
+
+In one line: Chairman, United States Atomic Energy Commission, named 16 January 1961, confirmed 24 February 1961.
+
+### The longer account
+
+The board's own framing calls the programme's security apparatus one taken from the Manhattan Project and the Atomic Energy Commission, and it has never named a single AEC chairman. Seaborg is the one the corpus reaches, and the records that name him in the office also carry the structural fact the board should want: the CIA's declassified chronology records him named AEC chairman on 16 January 1961 succeeding John A. McCone, and McCone became Director of Central Intelligence, so two years later Seaborg is writing on Commission letterhead to the same man at CIA. That 20 March 1963 letter transmits the Commission's Annual Report to Congress for 1962 and points the DCI at its fallout appendix. The end of the chairmanship is not established by any record opened for this pass and is left off this node deliberately.
+
+### Recorded as unverified
+
+- The end of the chairmanship. The triage row gives 1961 to 1971 and no record opened for this pass gives an end date. An AEC annual report to Congress was not opened either; the 1963 letter names and describes the 1962 report but is not that report.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 310 of 1057, score 36). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** A second, earlier instance of the office runs the other way. On 25 October 1961 the Director of Central Intelligence wrote to 'The Honorable Glenn T. Seaborg, Chairman, Atomic Energy Commission', thanking him for his impressions of a conference in Vienna and saying 'I am showing your good report to a few of our interested people.' It is signed 'Allen W. Dulles, Director'. Source: CIA reading room document CIA-RDP80B01676R000700150004-7, 25 October 1961, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r000700150004-7
+- **Tier 1 documented.** He is in the office on Commission letterhead in 1963, writing to the man he succeeded at the AEC, now at CIA: 'It is with pleasure that I forward to you a copy of the Commission's Annual Report to Congress for 1962', signed 'Glenn T. Seaborg, Chairman', addressed to 'Honorable John A. McCone, Director, Central Intelligence Agency'. Source: CIA reading room document CIA-RDP80B01676R002800020014-7, 20 March 1963, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7
+- **Tier 1 documented.** The CIA's own declassified chronology dates the appointment and its confirmation: '16 JAN. Dr. Glenn T. Seaborg named AEC chairman, succeeding John A. McCone (confirmed by Senate 24 Feb).' The entry sits under the volume's period heading for January 1961. Source: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5
+- **Tier 1 documented.** The same letter points the Director of Central Intelligence at the report's fallout material: 'In connection with the Military Applications section, you may find Appendix 15--Environmental Contamination from Nuclear Explosives--of interest, since it concerns fallout data obtained from recent nuclear detonations.' Source: CIA reading room document CIA-RDP80B01676R002800020014-7, 20 March 1963, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7
+- **Tier 2 named person on the record.** On the Danny Jones Podcast #181, 16 April 2023, at 3:24, Jeremy Rys cited Seaborg's island-of-stability prediction for superheavy elements against the claim that Bob Lazar predicted element 115. The publication he names was not opened for this node, and the lead map for that episode gives its date inconsistently as May 1969 in one row and May 1989 in another. Nothing here resolves it. Source: Danny Jones Podcast #181, 'Explosive New Bob Lazar Evidence & Area 51 Secrets Revealed', 16 April 2023, at 3:24 to 4:16
+
+### Its strongest connections
+
+- Glenn T. Seaborg runs out to **Central Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Transmitted the Commission's annual report to the Director of Central Intelligence. The 20 March 1963 letter forwards the Annual Report to Congress for 1962 to DCI John A. McCone and directs his attention to the appendix on environmental contamination from nuclear explosives. Sources: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5, dated 1970-06-01.
+- Glenn T. Seaborg runs out to **Atomic Energy Commission** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Chairman of the Commission. Named 16 January 1961 and confirmed by the Senate on 24 February 1961 per the CIA's own chronology; in office on Commission letterhead in October 1961 and March 1963. No end date is attested by any record opened here. Sources: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5, dated 1970-06-01.
+- Glenn T. Seaborg runs out to **Allen W. Dulles** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Corresponded with the Director of Central Intelligence. Dulles thanks him for a report on a Vienna conference and says he is circulating it inside the Agency. The edge records a documented channel between the AEC chair and the DCI, which is the board's own structural claim in miniature. Sources: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5, dated 1970-06-01.
+
+## Gregory M. Guillot
+
+Gregory M. Guillot is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2024-10-30; axes C0 A3 D2; 3 connections.
+
+In one line: General, USAF; Commander, NORAD and US Northern Command (Feb 2024- ).
+
+### The longer account
+
+Guillot is the four-star who had to say out loud that the United States cannot identify what is flying over its own nuclear-capable bases. He took command of NORAD and US Northern Command in February 2024 and immediately made counter-unmanned-systems the centrepiece of his 90-day assessment, with the December 2023 Langley Air Force Base incursions as the driving case. Speaking to The War Zone on 30 October 2024 he conceded the limits of what he could say - 'The only thing I can tell you about the Langley drones is roughly the number and roughly the altitude' - and, on the question everyone wanted answered, 'I have not seen [and] I do not know of any organized or unorganized foreign nexus.' NORAD's own figure at that point was more than 600 drone reports over US military installations since 2022. By March 2026, after waves of incursions over Barksdale Air Force Base and other strategic installations following the launch of Operation Epic Fury, Guillot told reporters 'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter of detected drones now defeated versus almost none previously. Read from the board's premise, Guillot is the honest institutional face of a real gap: the command responsible for homeland air defence is describing an unattributed, persistent, sensor-resistant intrusion campaign against the continental United States and cannot name the actor.
+
+### Where the record conflicts
+
+- Guillot's 'no foreign nexus' finding sits against the DHS/FBI/DoD/FAA joint conclusion of 17 December 2024 that the New Jersey sightings were 'commercial drones, hobbyist drones, and law enforcement drones' - an explanation that does not account for objects roughly 20 feet long at 100 mph over a fighter base for seventeen nights.
+
+### Recorded as unverified
+
+- The classified annexes of Guillot's 90-day counter-UAS assessment.
+- NORAD's per-installation incursion counts for 2025 and 2026.
+
+Affiliations recorded: US Air Force, Commander, NORAD and USNORTHCOM (Feb 2024- ), Deputy Commander, US Central Command (prior).
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 640 of 1057, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
+
+### The claims on the record
+
+- **Tier 2 named person on the record.** 'I have not seen [and] I do not know of any organized or unorganized foreign nexus.' Source: Gen. Gregory Guillot to The War Zone, 30 October 2024
+- **Tier 2 named person on the record.** 'The only thing I can tell you about the Langley drones is roughly the number and roughly the altitude.' Source: Gen. Gregory Guillot to The War Zone, 30 October 2024
+- **Tier 2 named person on the record.** 'We've seen an increase from last year in the number of detections over military installations'; roughly one quarter of detected drones are now defeated, versus almost none previously. Source: Gen. Gregory Guillot, reported by The War Zone, 25 March 2026
+- **Tier 2 named person on the record.** NORAD counted more than 600 drone reports above US military installations since 2022. Source: NORAD, via The War Zone, 30 October 2024
+
+### Its strongest connections
+
+- Gregory M. Guillot runs out to **Langley AFB Drone Incursions (December 2023)** (event, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Public non-attribution finding by the homeland air defence commander. 'I have not seen [and] I do not know of any organized or unorganized foreign nexus' - a four-star conceding that seventeen nights of intrusions over an F-22 base cannot be attributed. Sources: The War Zone - NORAD commander on the Langley incursions, https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions, dated 2024-10-30.
+- Gregory M. Guillot runs out to **NORAD and US Northern Command** (institution, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Commander, NORAD and USNORTHCOM from February 2024. Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position. Sources: The War Zone - NORAD commander on the Langley incursions, https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions, dated 2024-10-30; The War Zone - US battled drone incursions over key bases after Epic Fury, https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury, dated 2026-03-25.
+- Gregory M. Guillot runs out to **Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)** (event, board tier C), a investigative link at Tier 2 named person on the record. The link reads: Confirmed year-on-year increase in detections over installations. 'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously. Sources: The War Zone - US battled drone incursions over key bases after Epic Fury, https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury, dated 2026-03-25.
+
+## John F. Reed
+
+John F. Reed is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2023-07-27; axes C3 A2 D3; 3 connections.
+
+In one line: D-RI; SASC Chairman 2021-2025; sponsor of S. 2226.
+
+### The longer account
+
+Reed is the single most continuously entitled person on this board. He has held a 10 U.S.C. 119(e)(2) seat on the Senate Armed Services Committee across every one of the load-bearing moments the board tracks after 2009: he was ranking member in 2020 when the Unidentified Aerial Phenomena Task Force was stood up, chairman in 2023 when David Grusch testified, and ranking member again in August 2026. In each configuration he was entitled to receive waived special access program information and the Secretary's justification for the waiver, jointly with his opposite number. He also sits on the Senate Appropriations Committee and its Defense Subcommittee, though membership on those bodies confers nothing under section 119 - only the chair and ranking seats do. Reed's importance to the board is that he is the continuity: where chairmanships rotated with party control, Reed occupied one of the two Senate armed services seats without interruption. If a waived DoD special access program concerning recovered non-human technology existed and was notified under 119(e)(2) at any point between 2015 and 2026, Reed is the person most likely to have received that notification. He has made no public statement to that effect, and no public statement denying it. That silence is the expected behaviour of someone lawfully constrained by the statute, and it is not evidence either way - but it does mean the board should treat him as a node of known entitlement rather than known knowledge.
+
+Affiliations recorded: U.S. Senate, Rhode Island (1997- ), Chairman, Senate Armed Services Committee (2021-2025); Ranking Member (2025- ).
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 209 of 1057, score 42). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** Jack Reed (D-RI) is listed as Ranking Member of the Senate Armed Services Committee on the committee's official membership page. Source: https://www.armed-services.senate.gov/about/membership
+- **Tier 1 documented.** No transcribed Senate remarks during the December 2023 final consideration of the FY2024 NDAA use the word 'anomalous'; the removal was not debated aloud in the Senate. Source: Congressional Record granules for Senate NDAA consideration, 7-12 December 2023, GPO
+- **Tier 1 documented.** Reed is the sponsor of S. 2226, introduced 11 July 2023. Source: Congress.gov bill record, S. 2226, 118th Congress
+- **Tier 1 documented.** Reed was Chairman of the Senate Armed Services Committee in the 118th Congress. Source: https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm
+- **Tier 1 documented.** Reed was Ranking Member of the Senate Armed Services Committee in the 116th Congress, opposite Chairman James M. Inhofe. Source: https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm
+
+### Its strongest connections
+
+- John F. Reed runs out to **Waived SAP Notification Group** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: seat 2 of 12 - Ranking Member, Senate Armed Services. Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking). Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; Congress.gov, S. 2226, https://www.congress.gov/bill/118th-congress/senate-bill/2226, dated 2023-07-11; https://www.armed-services.senate.gov/about/membership, https://www.armed-services.senate.gov/about/membership; https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm, https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm; https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm, https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm
+- John F. Reed runs out to **FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: Sponsor of S. 2226 and Senate conference principal. Reed introduced the vehicle on 11 July 2023 and signed the conference product that removed his own chamber's passed division. Sources: Congress.gov, S. 2226, https://www.congress.gov/bill/118th-congress/senate-bill/2226, dated 2023-07-11; P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
+- John F. Reed runs out to **Senate Armed Services Committee** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Chairman 2021-2025. Reed chaired SASC through the only cycle in which a UAP disclosure regime reached an engrossed Senate bill. Sources: Congress.gov, S. 2226, https://www.congress.gov/bill/118th-congress/senate-bill/2226, dated 2023-07-11.
+
+## James R. Clapper Jr.
+
+James R. Clapper Jr. is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2009-11-17; axes C1 A3 D0; 3 connections.
+
+In one line: Under Secretary of Defense for Intelligence, 2007-2010; later DNI 2010-2017.
+
+### The longer account
+
+Clapper is the official who killed the Reid SAP request, and the fact that this decision sat with him rather than with DIA alone is the most underused fact in the AAWSAP record. The final packet presented to Deputy Secretary of Defense William Lynn III on 17 November 2009 carries Clapper, as Under Secretary of Defense for Intelligence, recommending against establishing a Special Access Program at that time, on the stated basis that the FY09 deliverables and anticipated FY10 work did not justify it. Seven months later he became Director of National Intelligence, a post he held until January 2017, meaning the man who signed off on refusing SAP protection to the UAP program then ran the entire intelligence community through the period in which, per the whistleblower record, the recovery and reverse-engineering effort was being kept outside congressional reporting. Clapper has spoken publicly about UAP since 2017 in general terms and has never been asked on the record about the memorandum bearing his recommendation. The board records this as a decision node: a USD(I) told a Deputy Secretary that the deliverables from a program the Senate Majority Leader wanted compartmented were not sensitive enough to compartment.
+
+### Recorded as unverified
+
+- Whether Clapper was briefed on any material beyond the DIRD deliverables when he made the recommendation.
+
+Affiliations recorded: Director, DIA (1992-1995), Under Secretary of Defense for Intelligence (2007-2010), Director of National Intelligence (2010-2017).
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 430 of 1057, score 31). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D0.
+
+### The claims on the record
+
+- **Tier 1 documented.** Clapper, as USD(I), recommended against establishing a Special Access Program 'at this time', citing insufficient justification based on FY09 deliverables and anticipated FY10 work. Source: DIA/OSD packet presented to DEPSECDEF, 17 November 2009, released via FOIA
+- **Tier 1 documented.** The supporting DIA memorandum of 13 November 2009 found 'insufficient grounds to classify this open program' and stated no report contained information 'sufficiently sensitive and vulnerable to require extra protection'. Source: DIA memo U-09-2660CE-IM, 13 November 2009
+- **Tier 3 stated inference.** Refusing SAP status kept AAWSAP's deliverables in an unclassified/FOUO regime that could later be released in full to Congress and the public, while any genuinely compartmented material remained in programs the SAP request would have formally connected to the Reid appropriation, the practical effect was to sever the paper link between the appropriation and any waived-unacknowledged effort. Source: Inference from the SAP denial documents read against the fact that 37 of 38 DIRDs were ultimately released unclassified
+
+### Its strongest connections
+
+- James R. Clapper Jr. runs out to **Waived unacknowledged special access program (waived USAP)** (program, board tier A), a denial link at Tier 1 documented. The link reads: USD(I) recommendation against SAP status for the AAWSAP effort, November 2009. Clapper as Under Secretary of Defense for Intelligence recommended against establishing a special access program in response to Senator Reid's June 2009 request. The refusal is the documented instance of the SAP decision being made against, not for, concealment. Sources: 10 U.S.C. 119, Special access programs: congressional oversight, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
+- James R. Clapper Jr. runs out to **Final Packet Presented to the Deputy Secretary of Defense on the SAP Request** (document, board tier B), a denial link at Tier 1 documented. The link reads: USD(I) recommends against establishing a SAP. Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later. Sources: Packet presented to DEPSECDEF, https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf, dated 2009-11-17.
+- James R. Clapper Jr. runs out to **STAR GATE and predecessor remote viewing programs, 1970-1995** (event, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Clapper led the programme in the 1990s before becoming DNI. Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence. Sources: Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12.
+
+## James Jesus Angleton
+
+James Jesus Angleton is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1955-12-07; axes C2 A3 D2; 3 connections.
+
+In one line: Chief, CIA Counterintelligence Staff, 1954-1974; ran the covert mail programme 1955-1973.
+
+### The longer account
+
+Angleton was Chief of the CIA's Counterintelligence Staff from 1954 to 1974 and, on the Church Committee's finding, in charge of the Agency's covert mail programme from 1955 until its termination in 1973. In November 1955 he proposed moving the New York mail intercept from photographing envelopes to opening them, indexing and analysing the product, and shifting primary responsibility for the project from the Office of Security to his own staff. The Committee found that the project was never processed through the Agency's approval system, had no separate funds, and in twenty years was reviewed by disinterested components twice, both reviews' recommendations going unimplemented. Angleton's own explanation was that normal processing would have opened the activity to too many people, and that the arrangement short-circuited the project approval process. He is carried here as a documented precedent for records and activities held outside an agency's own approval and review machinery, and for nothing else: nothing in the Church Committee record connects him to any UFO-related holding.
+
+### Recorded as unverified
+
+- Any connection to a UFO-related holding or registry. The word 'registry' appears nowhere in Church Committee Book III, and nothing in that record connects him to this board's subject.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 257 of 1057, score 39). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** Angleton's own stated reason for the exemption was the number of people normal processing would have exposed: a typical project would need sign-off by many components and a project review board, giving 'this tremendous opening up of the activity to a great number of people. ... That is the reason why I think it was excepted from [the usual approval system], and that way it shortcircuited the normal project approval process.' Source: S. Rept. 94-755, Book III, quoting Angleton testimony of 17 September 1975, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf
+- **Tier 1 documented.** Asked in public session why the Agency continued the mail programme after the President revoked the authority, Angleton answered: 'I have no satisfactory answer or that.' Source: S. Rept. 94-755, Book III, public hearing exchange with Senator Church, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf
+- **Tier 1 documented.** He proposed the change from photographing mail to opening it and the transfer of the project to his own staff. 'In November 1955, James Angleton, the Chief of the Counterintelligence (CI) Staff, submitted a proposal to Richard Helms for the further expansion of the New York mail intercept project', recommending access to 'all mail traffic to and from the U.S.S.R. which enters, departs, or transits the United States through the Port of New York' and that 'primary responsibility for the project be transferred within the Plans Directorate from 0/S to the CI Staff.' Helms approved it on 7 December 1955. Source: S. Rept. 94-755, Book III, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf
+- **Tier 1 documented.** The Committee states his office and its dates: 'James Angleton, who served as Chief of the CIA Counterintelligence Staff from 1954 to 1974 and was in charge of the CIA covert mail program from 1955 to its termination in 1973.' Source: S. Rept. 94-755, Book III, Supplementary Detailed Staff Reports on Intelligence Activities and the Rights of Americans, Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, 1976, section on the Huston Plan, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf
+- **Tier 1 documented.** The project sat outside the Agency's own approval and review machinery: it 'was never processed through the approval system and has no separate funds ... the normal programming procedures have not been followed for the project as a whole', and the Committee concluded that 'The security of the operation was enhanced by this exemption but the opportunity for critical evaluation by disinterested division heads was lost.' Source: S. Rept. 94-755, Book III, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf
+
+### Its strongest connections
+
+- James Jesus Angleton runs out to **Central Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Chief of the Counterintelligence Staff, 1954 to 1974. The Church Committee's Book III states the office and its dates in its own narrative text and cites his testimony of 17 and 24 September 1975 throughout. Sources: S. Rept. 94-755, Book III, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf, dated 1976-04-23.
+- James Jesus Angleton runs out to **Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: Testified in September 1975; the mail programme is documented largely through him. Book III cites Angleton testimony of 17 and 24 September 1975 more than fifty times and reproduces a public exchange with Senator Church on concealment from the President. Sources: S. Rept. 94-755, Book III, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf, dated 1976-04-23.
+- James Jesus Angleton runs out to **Waived unacknowledged special access program (waived USAP)** (program, board tier A), a behavioral link at Tier 3 stated inference. The link reads: Documented precedent for an activity exempted from its own department's approval machinery. Reasoning: the board's structural claim is that a programme can be held outside the machinery meant to review it. Book III documents exactly that for a different subject, in an agency's own words, and the analogy is the board's, not the Committee's. No opened record connects Angleton to any DoD special access programme. Sources: S. Rept. 94-755, Book III, read against the waived-usap node, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf, dated 1976-04-23.
+
+## James V. Forrestal
+
+James V. Forrestal is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1949; axes C3 A2 D1; 3 connections.
+
+In one line: Secretary of the Navy until September 1947; first Secretary of Defense, 17 September 1947 to 28 March 1949.
+
+### The longer account
+
+James V. Forrestal was Secretary of the Navy until September 1947 and then the first Secretary of Defense, from 17 September 1947 to 28 March 1949, under the National Security Act of 1947 that created the office. He reaches this board as the addressee of the memorandum the whole MJ-12 corpus is built on and as the subject of a recurring claim that his death was concealed. Two things about him are documented and one is not. Documented: the office and its dates, and the statutory requirement that its holder be a civilian, which contradicts the 1987 document's repeated description of him as 'General James V. Forestall'. Not documented from here: the United States Navy board of investigation into his death of 1949, the Willcutts Report, which could not be opened at the Internet Archive, in the National Archives catalogue, or through the university finding aid that a search named; the claim that his medical records are sealed is therefore neither confirmed nor refuted on this board.
+
+### Recorded as unverified
+
+- The Willcutts Report, the United States Navy board of investigation into his death in 1949, and with it the claim that his medical records are sealed. It is not in the Internet Archive catalogue and not findable in the National Archives catalogue under 'Willcutts'.
+- That Forrestal was hearing an account of recovered bodies from the head of the Air Force shortly before his hospitalisation. Michels prefaced it with 'I don't know if this is right' and named no document.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 255 of 1057, score 39). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** His tenure is dated to the day in the Department of State's own editorial apparatus: 'Forrestal, James V., Secretary of the Navy until September 1947; Secretary of Defense, September 17, 1947-March 28, 1949.' Source: Persons, FRUS, Emergence of the Intelligence Establishment, 1945-1950, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons
+- **Tier 1 documented.** The office he held first was created by statute, and its holder must be a civilian: 'There shall be a Secretary of Defense, who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate: Provided, That a person who has within ten years been on active duty as a commissioned officer in a Regular component of the armed services shall not be eligible for appointment as Secretary of Defense.' Source: National Security Act of 1947, Chapter 343, approved 26 July 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf
+- **Tier 1 documented.** The same section makes the office the President's principal national-security assistant, with duties to 'Establish general policies and programs for the National Military Establishment and for all of the departments and agencies therein' and to 'Exercise general direction, authority, and control over such departments and agencies'. Source: National Security Act of 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf
+- **Tier 2 named person on the record.** On AREA52 - DEBRIEFED with Chris Ramsay, episode 20, 3 January 2025, at 0:12:27, Ramsay read aloud from John Lear's 1987 statement that 'several committed suicide, the most prominent of which was General James V. Forestall who jumped to his death from a 16th story hospital window. General Forestall's medical records are sealed to this day.' The document's rank is wrong: the statute creating the office he held requires a civilian appointee and bars any commissioned officer on active duty within the previous ten years. Source: AREA52 - DEBRIEFED with Chris Ramsay, ep. 20, 3 January 2025, 0:12:27; National Security Act of 1947, 61 Stat. 495, sec. 202(a)
+- **Tier 3 stated inference.** On AREA52 - DEBRIEFED with Chris Ramsay, episode 32, 4 April 2025, at 1:26:37, Jesse Michels said, prefacing it with 'I don't know if this is right', that Forrestal was hearing 'a description of like mutilated, like human and alien bodies together' from 'the head of the Air Force' and 'was checked into this, you know, Navy hospital in Bethesda, Maryland ... very soon after'. He names no document and no date, and nothing supporting it was opened. Source: AREA52 - DEBRIEFED with Chris Ramsay, ep. 32, 4 April 2025, 1:26:37
+
+### Its strongest connections
+
+- James V. Forrestal runs out to **United States Department of Defense (secondary designation: Department of War)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: First Secretary of Defense, 17 September 1947 to 28 March 1949. The National Security Act of 1947 created the office at section 202(a) and required its holder to be appointed from civilian life; the Office of the Historian's persons list dates his tenure to the day. Sources: National Security Act of 1947, 61 Stat. 495, sec. 202(a); Persons, FRUS Emergence of the Intelligence Establishment, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf, dated 1947-07-26.
+- James V. Forrestal runs out to **United States Navy** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Secretary of the Navy until September 1947. The Office of the Historian's persons list gives 'Secretary of the Navy until September 1947' immediately before the Defense appointment. Sources: Persons, FRUS, Emergence of the Intelligence Establishment, 1945-1950, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons, dated 2026-09-02.
+- James V. Forrestal runs out to **Majestic-12 Corpus** (domain, board tier C), a denial link at Tier 2 named person on the record. The link reads: The 1987 Lear document gives him a military rank his own office forbade. Read aloud on AREA52 - DEBRIEFED episode 20, 3 January 2025, the document twice calls him 'General James V. Forestall'. Section 202(a) of the National Security Act of 1947 requires the Secretary of Defense to be appointed from civilian life and disqualifies anyone who has been on active duty as a commissioned officer within ten years. The edge records the error, not the attribution. Sources: National Security Act of 1947, 61 Stat. 495, sec. 202(a), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf, dated 1947-07-26.
+
+## Jeffrey Nuccetelli
+
+Jeffrey Nuccetelli is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2025-09-09; axes C1 A1 D2; 3 connections.
+
+In one line: USAF veteran, security forces / military police, Vandenberg AFB 2003-2005.
+
+### The longer account
+
+Nuccetelli brought the base-security side of the observational record into the congressional record. In written testimony to the House Oversight Task Force on 9 September 2025 he described serving as military police at Vandenberg Air Force Base, home of the National Missile Defense project, and receiving reports on 14 October 2003 from Boeing contractors of 'a massive, glowing red square silently hovering over two missile defense sites.' The same night, security guards reported a bright fast-moving object and witnesses described 'a massive rectangular craft, larger than a football field.' A week later a patrol reported an object over the ocean that descended and 'vanished instantly into the night sky'; in 2005 a patrol reported 'a massive triangular craft, larger than a C-130, hovering low over the main base.' Two things make this testimony operationally significant rather than anecdotal. First, he states that 'Official Air Force records documenting it are now held by AARO and the FBI' - which is a specific, checkable custody claim that FOIA can be aimed at. Second, he states one witness 'was threatened and told to keep quiet about the incident,' which is the same suppression pattern the Navy witnesses describe, applied to a strategic missile installation.
+
+### Recorded as unverified
+
+- The Air Force security forces blotter entries and incident reports for Vandenberg AFB, 14 Oct 2003 and 2005, have not been released.
+- The identity of the person who threatened the witness.
+- AARO has not confirmed holding the Vandenberg records Nuccetelli says it holds.
+- Whether AARO ever interviewed Nuccetelli or logged his account in its case holdings.
+- Whether the Vandenberg security forces incident reports he describes still exist and whether the Air Force identified them as covered UAP records under the FY2024 NDAA.
+
+Affiliations recorded: US Air Force security forces / military police, Vandenberg AFB (c. 2003-2005), U.S. Air Force (16 years, incl. Vandenberg AFB security forces), US Air Force (approx. 16 years), Vandenberg AFB security forces, US Air Force, Vandenberg Air Force Base, House Oversight Task Force on the Declassification of Federal Secrets.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 177 of 1057, score 45). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** He appeared as a named witness at the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection.' Source: House Committee on Oversight and Government Reform hearing record, 9 September 2025
+- **Tier 1 documented.** Witness of record at the 9 September 2025 hearing: 'Mr. Jeffrey Nuccetelli, U.S. Air Force Veteran'. Source: CHRG-119hhrg61718 CONTENTS
+- **Tier 1 documented.** Written testimony filed with the House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025. Source: https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf
+- **Tier 2 named person on the record.** 'Each incident was witnessed by multiple personnel, documented, investigated and reported up the chain of command.' Source: Jeffrey Nuccetelli, sworn testimony, House Oversight Task Force, 9 September 2025
+- **Tier 2 named person on the record.** 'Each incident was witnessed by multiple personnel, documented, investigated and reported up the chain.' Source: https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/
+- **Tier 2 named person on the record.** 'Official Air Force records documenting it are now held by AARO and the FBI.' Source: Nuccetelli written testimony, 9 September 2025
+- **Tier 2 named person on the record.** 'Transparency is the foundation of truth. Without it, witnesses like us are dismissed.' Source: Nuccetelli, House Oversight hearing, 9 September 2025
+- **Tier 2 named person on the record, allegation shaped wording as stored.** Described multiple alleged UAP incursions at Vandenberg AFB in 2003-2005 during National Reconnaissance Office launches, objects 'like flying buildings' that 'pulsed and moved in strange ways.' Source: https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/
+
+A further 4 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- Jeffrey Nuccetelli runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09.
+- Jeffrey Nuccetelli runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified before the House Oversight Task Force. Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain. Sources: House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; House Oversight - Nuccetelli written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; DefenseScoop - Military whistleblowers share new evidence of alleged UAP, https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/, dated 2025-09-09.
+- Jeffrey Nuccetelli runs out to **Vandenberg Space Force Base, California** (location, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Nuccetelli served in security forces at Vandenberg 2003-2005. His sworn written testimony of 9 September 2025 describes the 14 October 2003 red square over two missile defense sites, a rectangular craft larger than a football field, a threatened witness, and a 2005 triangular craft. Sources: Jeffrey Nuccetelli written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf, dated 2025-09-09; House Oversight hearing page, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09.
+- Jeffrey Nuccetelli runs out to **Vandenberg AFB Incidents (2003-2005)** (event, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Military police witness and report recipient at Vandenberg, 2003-2005. Nuccetelli testified to reports of a glowing red square over two missile defense sites on 14 October 2003 and a triangular craft over the main base in 2005. Sources: House Oversight - Nuccetelli written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf, dated 2025-09-09.
+
+## Dr. Joseph Cannon
+
+Dr. Joseph Cannon is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2019-10-17; axes C2 A2 D0; 3 connections.
+
+In one line: Government principal investigator, TTSA CRADA; U.S. Army Ground Vehicle Survivability and Protection.
+
+### The longer account
+
+Cannon is the named U.S. Government principal investigator on the To The Stars Academy CRADA, the point at which a private company claiming custody of material from a craft of unknown origin was formally connected to an Army laboratory. He is quoted in TTSA's 17 October 2019 announcement: 'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.' Army public affairs subsequently distanced the service from the provenance question, with GVSP spokesman Doug Halleaux saying that because 'the Army's interest is in the potential for novel materials and exploring the edges of materials science, any speculation as to their origin is (pardon the pun) immaterial.' When John Greenewald sought Cannon's correspondence with TTSA, the Army located twenty-nine emails totalling one hundred pages and withheld all of them in full under FOIA exemptions (b)(4) and (b)(5).
+
+### What is left unexplained
+
+The Army withheld 100 pages of correspondence about a materials collaboration it publicly described as routine. Deliberative-process and trade-secret exemptions over an unclassified novel-materials review is an unusually heavy posture for a partnership characterised as immaterial to origin.
+
+### Recorded as unverified
+
+- What, if anything, the Army actually tested, and what the results were. No technical output from the CRADA has been released.
+
+Affiliations recorded: U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center / Ground Vehicle Survivability and Protection.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 376 of 1057, score 33). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D0.
+
+### The claims on the record
+
+- **Tier 1 documented.** Named as the U.S. Government principal investigator on the TTSA CRADA alongside Bean Soave. Source: CRADA document released by U.S. Army CCDC, 18 October 2019
+- **Tier 1 documented.** On 21 February 2020 CCDC FOIA Officer Joy L. Linton wrote that 'there are twenty-nine (29) emails totaling one hundred (100) pages' of Cannon's TTSA correspondence, all withheld under exemptions (b)(4) and (b)(5). Source: CCDC FOIA response to The Black Vault, 21 February 2020
+- **Tier 1 documented.** Quoted: 'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.' Source: PR Newswire, 17 October 2019
+
+### Its strongest connections
+
+- Dr. Joseph Cannon runs out to **CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy** (document, board tier A), a institutional link at Tier 1 documented. The link reads: Government principal investigator. Named in the agreement alongside Bean Soave and quoted in the announcement calling TTSA 'an exciting, non-traditional source for novel materials'. Sources: PR Newswire, CRADA announcement, https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html, dated 2019-10-17.
+- Dr. Joseph Cannon runs out to **Detroit Arsenal, Warren, Michigan** (location, board tier B), a custody link at Tier 1 documented. The link reads: Cannon was the named government principal investigator at GVSC. The Army located twenty-nine emails totalling a hundred pages of Cannon's TTSA correspondence and withheld all of them under FOIA exemptions (b)(4) and (b)(5). Sources: The Black Vault - Army/TTSA CRADA and FOIA records, https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/, dated 2019-10-18; CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF), https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, dated 2026-08-25.
+- Dr. Joseph Cannon comes in from **U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center** (institution, board tier C), a denial link at Tier 1 documented. The link reads: 21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full. CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial. Sources: The Black Vault, Secrecy Deepens, https://www.theblackvault.com/documentarchive/secrecy-deepens-about-u-s-army-agreement-to-analyze-ufo-material/, dated 2020-03-12.
+
+## Kathleen H. Hicks
+
+Kathleen H. Hicks is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2022-07-15; axes C0 A3 D2; 3 connections.
+
+In one line: Deputy Secretary of Defense (2021-2025); signed AOIMSG and AARO establishment memoranda.
+
+### The longer account
+
+Every structural decision about the official UAP apparatus between 2021 and 2024 carries Hicks's signature. As Deputy Secretary of Defense she directed the establishment of the Airborne Object Identification and Management Synchronization Group on 23 November 2021, an entity built to answer Congress's Section 1683 mandate without disturbing anything below it. When AOIMSG proved inadequate she signed the memorandum of 15 July 2022 - announced 20 July - establishing the All-domain Anomaly Resolution Office, disestablishing AOIMSG, ordering the Navy to shut down the UAP Task Force and hand its data and materials to AARO, and placing AARO under the Under Secretary of Defense for Intelligence and Security. In late July and August 2023, with Grusch's testimony fresh, she pulled AARO out of the USD(I&S) chain and made its director report directly to her, saying the Department takes UAP seriously because they are a potential national security threat and a safety risk. That re-wiring is the most consequential organisational fact in the domain: it put the office that adjudicates whistleblower claims about concealed special access programmes directly under the deputy head of the department those programmes would be concealed within. Notably, Hicks did not publicly endorse the central findings of the Historical Record Report Volume I when it was released in March 2024, a silence Christopher Mellon flagged at the time - the report's assertions were made at the AARO level, never ratified at cabinet level.
+
+### Recorded as unverified
+
+- Whether the July/August 2023 reporting-chain change was prompted specifically by the Grusch testimony of 26 July 2023.
+
+Affiliations recorded: Deputy Secretary of Defense (2021-2025), Center for Strategic and International Studies, OSD Policy (Obama administration).
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 637 of 1057, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** Hicks, as Deputy Secretary of Defense, signed the 15 July 2022 memorandum establishing AARO, superseding the 23 November 2021 AOIMSG direction and ordering the Navy to disestablish the UAPTF. Source: DoD memorandum, Establishment of the All-domain Anomaly Resolution Office, 15 July 2022
+- **Tier 1 documented.** In summer 2023 Hicks took direct oversight of AARO, repositioning its director to report to her rather than through USD(I&S). Source: DefenseScoop, 30 August 2023
+- **Tier 2 named person on the record.** Hicks declined to publicly endorse the key findings of Historical Record Report Volume I. Source: Analysis by Douglas Dean Johnson; contemporaneous comment by Christopher Mellon, March 2024
+
+### Its strongest connections
+
+- Kathleen H. Hicks runs out to **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: took direct oversight; AARO director reports to her from summer 2023. Weeks after Grusch testified, Hicks pulled AARO out of the USD(I&S) chain and made its director report directly to the Deputy Secretary of Defense. Sources: DefenseScoop - Hicks takes direct oversight of Pentagon's UAP office, https://defensescoop.com/2023/08/30/hicks-takes-direct-oversight-of-pentagons-uap-office-new-reporting-website-to-be-launched/, dated 2023-08-30.
+- Kathleen H. Hicks runs out to **Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: signatory of the AARO establishment memorandum. Hicks signed the memorandum on 15 July 2022; DoD announced it on 20 July. Sources: AARO establishment memorandum, https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF, dated 2022-07-15.
+- Kathleen H. Hicks runs out to **Airborne Object Identification and Management Synchronization Group (AOIMSG)** (program, board tier C), a institutional link at Tier 1 documented. The link reads: directed establishment of AOIMSG, 23 November 2021. Hicks stood up AOIMSG as the Department's answer to the FY2022 NDAA Section 1683 requirement for a permanent office. Sources: AARO establishment memorandum (reciting AOIMSG), https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF, dated 2022-07-15.
+
+## Lt. Gen. Leslie R. Groves
+
+Lt. Gen. Leslie R. Groves is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1947-02-28; axes C2 A3 D1; 3 connections.
+
+In one line: First Chief, Armed Forces Special Weapons Project, 28 February 1947 to 29 February 1948.
+
+### The longer account
+
+Groves is the hinge the board has been carrying in prose. The Armed Forces Special Weapons Project node already reproduces the sentence that makes him its first Chief, and the man himself has had no node on a 1,027-node board. The Defense Threat Reduction Agency's own history dates the appointment to 28 February 1947, one year exactly before his retirement on 29 February 1948, with promotion to Lieutenant General on 24 January 1948 while in post. The same history explains why the post stood empty for two months: neither Eisenhower nor Nimitz had made a selection, and Groves's own aide held the Washington headquarters in the interval. He is here for the office and its dates, and because the transcript that surfaced him is contradicted by the record on the point that carries the claim.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 375 of 1057, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** He had joined the Military Liaison Committee to the Atomic Energy Commission four weeks earlier: 'Jan. 31, 1947. Maj Gen Leslie R. Groves becomes member of MLC.' Source: Defense's Nuclear Agency 1947-1997, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt
+- **Tier 1 documented.** The Defense Threat Reduction Agency's chronology of its own lineage: 'Feb. 28, 1947. Maj Gen Groves becomes first Chief AFSWP, serving for one year, until his retirement on February 29, 1948; he is promoted to Lt. General on January 24, 1948.' Source: Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt
+- **Tier 1 documented.** The command was vacant when it was created, and his own aide held it. 'Therefore, between the beginning of January and the end of February 1947, there was no officially appointed chief of AFSWP. During this period, Groves' aide, Colonel Hasbrouck, assumed Headquarters command in Washington as the senior officer of the organization.' Source: Defense's Nuclear Agency 1947-1997, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt
+- **Tier 2 named person on the record.** On the Danny Jones Podcast #263, 30 September 2024, at 1:48:12, Jack Kruse said the covert apparatus he describes 'has been planned all the way from when General Groves left in 1947' and that Groves's 'parting gift was turning the OSS into the CIA', adding at 1:49:00 that Groves 'formed a militia outside the military'. The agency history opened for this node contradicts the premise: Groves did not leave government in 1947, he took a new joint command on 28 February 1947 and retired on 29 February 1948. The same history contains no reference to the Office of Strategic Services, to Operation Paperclip or to any militia. Source: Danny Jones Podcast #263, 'Exiled Brain Surgeon', 30 September 2024, transcript at 1:48:12 to 1:49:51; contradicted against Defense's Nuclear Agency 1947-1997, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt
+
+### Its strongest connections
+
+- Lt. Gen. Leslie R. Groves runs out to **Atomic Energy Commission** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Member, Military Liaison Committee to the AEC. He joined the Military Liaison Committee on 31 January 1947, four weeks before taking AFSWP, so the same officer sat on both sides of the military-civil split of the atomic programme. Sources: Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt, dated 2002-01-01.
+- Lt. Gen. Leslie R. Groves runs out to **Armed Forces Special Weapons Project** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: First Chief, AFSWP. The agency's own chronology dates the appointment and the retirement to the day, and gives the promotion to Lieutenant General on 24 January 1948 while in post. Sources: Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt, dated 2002-01-01.
+- Lt. Gen. Leslie R. Groves runs out to **United States Navy** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Joint command with a Navy deputy. Rear Admiral W.S. Parsons was appointed Deputy Chief AFSWP on 31 March 1947, the deputy coming from the opposite service by the terms of the activating directive. Sources: Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt, dated 2002-01-01.
+
+## Mark Skidmore
+
+Mark Skidmore is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2019-01-09; axes C0 A0 D3; 3 connections.
+
+In one line: Morris Chair in State and Local Government Finance and Policy, Professor of Economics, Michigan State University.
+
+### The longer account
+
+Mark Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University, where he is a Professor of Economics working in public finance, regional economics and the economics of natural disasters. In 2017, after hearing Catherine Austin Fitts assert that the Department of Housing and Urban Development had recorded $6.5 billion in undocumented adjustments, and initially assuming she had misspoken, Skidmore set his students to compiling the unsupported adjustment figures that federal Inspectors General and the Government Accountability Office had themselves published. The exercise ran from fiscal year 1998 to fiscal year 2015 and produced a summary report, co-authored with Fitts and dated September 2017, arriving at roughly $21 trillion in unsupported journal voucher adjustments at the Department of Defense and roughly $350 billion at HUD. He then co-wrote three Forbes columns with the Boston University economist Laurence Kotlikoff - December 2017, July 2018 and January 2019 - putting the number in front of a financial-markets readership. Skidmore's own methodological caution is the most valuable thing about him for this board: the report states plainly that the public Inspector General reports 'only provide summary information; thus it is impossible for us to conduct a detailed assessment of the nature of these unsupported adjustments and errors', and that data could not be recovered for several years in the series. He has never claimed that $21 trillion is missing money, and the popular restatement of his work in those terms is the single most common way the black-budget argument gets destroyed in public. Used correctly - as an eighteen-year aggregate index of documentation failure at two cabinet departments, drawn entirely from the government's own audit reports - his work is the quantitative backbone of the argument that the federal ledger cannot answer the question this board asks.
+
+### Where the record conflicts
+
+- Secondary coverage routinely restates Skidmore's aggregate as '$21 trillion missing', which his own report does not say and which the underlying OIG figures do not support.
+
+### Recorded as unverified
+
+- Whether Skidmore or any co-author has ever obtained the underlying journal voucher detail behind any of the summary figures, by FOIA or otherwise.
+
+Affiliations recorded: michigan-state, skidmore-fitts-report.
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 903 of 1057, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 2 named person on the record, allegation shaped wording as stored.** Skidmore and Fitts compiled unsupported journal voucher adjustments reported in OIG and GAO documents for FY1998-FY2015, reaching roughly $21 trillion for DoD and $350 billion for HUD. Source: https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf
+- **Tier 2 named person on the record.** Skidmore co-authored three Forbes columns with Laurence Kotlikoff on the $21 trillion figure, in December 2017, July 2018 and January 2019. Source: https://mark-skidmore.com/research/research-in-finance-public-finance/
+- **Tier 2 named person on the record.** Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there. Source: https://mark-skidmore.com/about/
+
+### Its strongest connections
+
+- Mark Skidmore runs out to **Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)** (document, board tier C), a research link at Tier 2 named person on the record. The link reads: Co-author and compiler. Skidmore compiled the OIG and GAO unsupported-adjustment figures for FY1998-FY2015 and co-authored the September 2017 summary report. Attested by the report and by his own publication list. Sources: Skidmore-Fitts summary report, https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf, dated 2017-09-01.
+- Mark Skidmore comes in from **Laurence J. Kotlikoff** (person, board tier C), a research link at Tier 2 named person on the record. The link reads: Co-authored three Forbes columns carrying the figure into the financial press. Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list. Sources: Mark Skidmore, publications, https://mark-skidmore.com/research/research-in-finance-public-finance/, dated 2026-08-12.
+- Mark Skidmore runs out to **Michigan State University** (institution, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Morris Chair in State and Local Government Finance and Policy. Skidmore holds the Morris Chair and is Professor of Economics at Michigan State University. Attested by his own site. Sources: Mark Skidmore, About, https://mark-skidmore.com/about/, dated 2026-08-12.
+
+## Maxwell Alejandro Frost
+
+Maxwell Alejandro Frost is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2023-07-26; axes C0 A1 D1; 3 connections.
+
+In one line: U.S. Rep. (D-FL-10); questioned Graves and Fravor on the reporting gap.
+
+### The longer account
+
+Frost sat on the National Security subcommittee for the 2023 hearing and is now a member of the Task Force on the Declassification of Federal Secrets. His questioning at the 2023 hearing concentrated on Graves and Fravor and on the practical failure of reporting - the same gap Ranking Member Garcia converted into H.R. 6967 six months later. He is one of the Democratic members whose continued presence keeps the House UAP inquiry from collapsing into a single-party exercise, and his membership on the Task Force means the minority is represented on the body with the declassification remit rather than only on the parent committee.
+
+Affiliations recorded: U.S. House of Representatives, FL-10 (2023- ), Committee on Oversight and Accountability / Government Reform (2023- ), Task Force on the Declassification of Federal Secrets.
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 917 of 1057, score 14). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets. Source: oversight.house.gov Task Force membership page
+- **Tier 1 documented.** Member of the Subcommittee on National Security, the Border, and Foreign Affairs at the 26 July 2023 hearing and a questioner of Graves and Fravor. Source: GPO CHRG-118hhrg53022
+
+### Its strongest connections
+
+- Maxwell Alejandro Frost runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a legislative link at Tier 1 documented. The link reads: questioned witnesses at the 26 July 2023 UAP hearing. Frost used his round on the scientific and stigma dimension: NASA's independent study team, the Galileo Project, whether military pilots feeling empowered to speak had shifted scientific research goals, and how Congress might connect scientists to the government's UAP work. He closed: 'I think it is important that we keep our top scientific minds focused on this issue and look for ways to increase collaboration.' Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; https://www.congress.gov/event/118th-congress/house-event/116282/text, https://www.congress.gov/event/118th-congress/house-event/116282/text
+- Maxwell Alejandro Frost runs out to **National Aeronautics and Space Administration** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: questioned Administrator Nelson on UAP; pressed NASA's role at hearing. Frost told the hearing: 'In fact, I sit on the Science, Space and Technology Committee and when we were doing a hearing with the NASA Administrator, Bill Nelson, I asked, you know, why NASA needed to be fully funded. And there were many great reasons, but one of them was actually--had to do with UAPs.' He tied it forward to the NASA independent study team and to Harvard standing up the Galileo Project in 2021. Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
+- Maxwell Alejandro Frost runs out to **Ryan Graves** (person, board tier B), a investigative link at Tier 1 documented. The link reads: questioned Graves on scientific advisory board and NASA reporting. Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee. Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
+
+## Neil H. McElroy
+
+Neil H. McElroy is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1958-02-07; axes C2 A3 D1; 3 connections.
+
+In one line: Secretary of Defense from 9 October 1957; issued DoD Directive 5105.15 establishing ARPA, 7 February 1958.
+
+### The longer account
+
+The board's DARPA node argues a counterfactual about the agency and carries no founding record at all. This is that record and the officer behind it. McElroy was sworn in as Secretary of Defense on 9 October 1957, five days after Sputnik, and on 7 February 1958 issued DoD Directive 5105.15, which established the Advanced Research Projects Agency in the Office of the Secretary of Defense under the authority of the National Security Act of 1947 as amended and Reorganization Plan No. 6 of 1953. The agency's own commissioned history reproduces the directive in full and records that he took a personal hand in the founding and selected Roy W. Johnson as first Director. His public description of the plan predates the name: testifying on 20 November 1957 he called it the Special Projects Agency and was told the name was confusable with the Armed Forces Special Weapons Project.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 309 of 1057, score 36). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** A second agency's record dates the founding and names the first Director independently. The CIA Historical Staff Chronology, under Jan-Apr 58: '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Source: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5
+- **Tier 1 documented.** He proposed the agency in public before it had its name. Testifying on 20 November 1957 to the House Appropriations Subcommittee on Defense Appropriations he said: 'We plan to establish in the Department of Defense a special agency to handle our satellite and space research and development projects. Tentatively we are thinking of calling this ... the Special Projects Agency of the Department of Defense.' The history records that a member objected to that name as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project. Source: House Appropriations Subcommittee on Defense Appropriations, 'The Ballistic Missile Program', Hearings, November 20-21, 1957, p. 25, quoted in The Advanced Research Projects Agency, 1958-1974, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt
+- **Tier 1 documented.** The founding instrument, reproduced in the agency's own commissioned history: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' The figure is captioned 'TEXT OF DOD DIRECTIVE NUMBER 5105.15, FEBRUARY 7, 1958 (Establishing ARPA)'. The scan is a poor one and renders ARPA as 'AREA' throughout; the readings given here are normalised from obvious OCR corruption. Source: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt
+- **Tier 1 documented.** The mandate is open-ended by design. The Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.' The directive is 'effective immediately'. Source: The Advanced Research Projects Agency, 1958-1974, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt
+- **Tier 2 named person on the record.** On the Danny Jones Podcast #228, 11 March 2024, at 2:00:47, Annie Jacobsen said ARPA was created around 1956 to 1957 and that its first director was Herb York. The opened records contradict both: the directive is dated 7 February 1958 and Roy W. Johnson was appointed Director the same day, while Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering. Source: Danny Jones Podcast #228, 11 March 2024, at 2:00:47 to 2:06:12; contradicted against The Advanced Research Projects Agency, 1958-1974, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt
+
+### Its strongest connections
+
+- Neil H. McElroy runs out to **United States Department of Defense (secondary designation: Department of War)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Secretary of Defense. The ARPA history records him sworn in on 9 October 1957, five days after Sputnik, and describes him taking a personal hand in the agency's creation. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
+- Neil H. McElroy runs out to **Defense Advanced Research Projects Agency** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Issued the directive that established ARPA. DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
+- Neil H. McElroy runs out to **Armed Forces Special Weapons Project** (institution, board tier B), a temporal link at Tier 1 documented. The link reads: Named AFSWP as the reason the new agency was renamed. The ARPA history's footnote records that Rep. Scrivner objected to 'Special Projects Agency' as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project, and that McElroy promised a better name. This is the documented reason ARPA is called ARPA. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
+
+## Nicola J. Fox
+
+Nicola J. Fox is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2023-09-14; axes C0 A1 D1; 3 connections.
+
+In one line: Associate Administrator, NASA Science Mission Directorate (2023- ).
+
+### The longer account
+
+Fox is the NASA science chief who stood on the stage on 14 September 2023 when the agency released the Independent Study Team report and announced it had appointed a Director of UAP Research - and then did not say who it was. Her framing of the agency's position was 'The language of scientists is data,' which is the correct scientific posture and also, in context, an admission that the data NASA could obtain was inadequate. The non-naming is the item that belongs on this board. NASA had just spent a year telling the public that stigma was the primary obstacle to studying UAP, and then withheld the identity of its own research director at the very briefing announcing the appointment. Subsequent reporting identified the appointee as Mark McInerney. The episode is a small, precisely dated demonstration of how the stigma structure reproduces itself inside the agency that was supposed to break it.
+
+### Recorded as unverified
+
+- NASA's stated reason for withholding the director's name at the briefing has not been produced as a written agency statement.
+
+Affiliations recorded: Johns Hopkins Applied Physics Laboratory (Parker Solar Probe project scientist), NASA Heliophysics Division Director (2018-2023), NASA Associate Administrator, Science Mission Directorate (2023- ).
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 843 of 1057, score 17). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** NASA announced the appointment of a Director of UAP Research at the 14 September 2023 briefing but did not disclose the individual's name at that briefing; a subsequent statement identified Mark McInerney. Source: The Debrief, 14 September 2023; NASA UAP briefing
+- **Tier 2 named person on the record.** 'The language of scientists is data.' Source: Nicola Fox, NASA UAP report media briefing, 14 September 2023
+
+### Its strongest connections
+
+- Nicola J. Fox runs out to **National Aeronautics and Space Administration** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Announced the appointment of a NASA Director of UAP Research. In the report foreword Fox, Associate Administrator for the Science Mission Directorate, wrote that 'NASA is appointing a Director of UAP Research to centralize communications'. Sources: NASA UAP Independent Study Team Report, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
+- Nicola J. Fox runs out to **NASA UAP Independent Study Team** (program, board tier B), a institutional link at Tier 1 documented. The link reads: NASA science chief at the report release briefing. Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee. Sources: The Debrief - NASA IST publishes findings, agency appoints UAP research director, https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/, dated 2023-09-14.
+- Nicola J. Fox runs out to **Mark McInerney** (person, board tier C), a denial link at Tier 1 documented. The link reads: NASA announced the UAP research director but withheld the name at the briefing. The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney. Sources: The Debrief - NASA IST publishes findings, agency appoints UAP research director, https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/, dated 2023-09-14.
+
+## Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque
+
+Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2009-09-25; axes C1 A2 D2; 3 connections.
+
+In one line: Acting Commander, Brazilian Air Defence Command (COMDA/NuCOMDABRA), 1986.
+
+### The longer account
+
+José Pessoa Cavalcanti de Albuquerque was the acting commander of Brazil's Air Defence Command when he signed, at Brasília on 2 June 1986, the CONFIDENCIAL Relatório de Ocorrências on the events of the night of 19 May 1986. That document, held in the Brazilian National Archives under reference BR_DFANBSB_ARX_0_0_0249 and released on 25 September 2009, is the most important single sentence in the Latin American record. Its final considerations state that the phenomena produced radar echoes on both the Air Defence System and the interceptors' own airborne radars simultaneously with visual acquisition by the pilots; varied their speeds from subsonic to supersonic and also hovered; varied altitude from below flight level 050 to above flight level 400; sometimes displayed white, green and red lights and sometimes none; could accelerate and decelerate abruptly; and could turn with constant or indefinite radii. Then it concludes, in the command's own voice: 'As a conclusion from the facts constantly observed in almost all the presentations, this Command is of the opinion that the phenomena are solid and reflect in a certain manner intelligence, by the capacity to follow and to maintain distance from observers as well as to fly in formation, not necessarily crewed.' The report also notes, drily, that the Brazilian air defence radar coverage was primarily air-traffic equipment not designed for air defence, which made tracking deficient.
+
+### Recorded as unverified
+
+- His dates of birth and death were not established.
+
+Affiliations recorded: fab, Brazilian Air Defence Command (COMDA).
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 405 of 1057, score 32). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** 'Como conclusão dos fatos constantes observados, em quase todas as apresentações, este Comando é de parecer, que os fenômenos são sólidos e refletem de certa forma inteligência, pela capacidade de acompanhar e manter distância dos observadores como também voar em formação, não forçosamente tripulados.' Source: Comando Aéreo de Defesa Aérea, Relatório de Ocorrências, Brasília-DF, 2 June 1986, signed Brig do Ar José Pessoa Cavalcanti de Albuquerque, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249
+- **Tier 1 documented.** Characteristics listed in Considerações Finais: 'a - Produzem ecos radar não só do Sistema de Defesa Aérea, como também das aeronaves interceptadoras simultaneamente, com comparação visual pelos pilotos. b - Variam suas velocidades da gama subsônica até supersônica, bem como mantêm-se em vôo pairado. c - Variam suas altitudes abaixo do FL-050 até altitudes superiores FL-400.' Source: Relatório de Ocorrências, 2 June 1986, Considerações Finais, para 2
+- **Tier 1 documented.** The report records that the interceptor pilot in the Anápolis area closed to two miles of a radar contact whose track was 'ora mantinha-se em zique-zaque, ora em curva acentuada pela direita' and which 'afastava-se repentinamente, mesmo estando o interceptador em velocidade supersônica'. Source: Relatório de Ocorrências, 2 June 1986
+- **Tier 1 documented.** The report's introduction states that because of limits of time and of specialised knowledge the Command chose to confine itself 'à narração simples dos fatos, de forma a não dar margem a especulações que envolvam o Ministério da Aeronáutica' - to a simple narration of the facts so as not to give scope for speculation involving the Ministry. Source: Relatório de Ocorrências, 2 June 1986, Introdução
+
+### Its strongest connections
+
+- Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque comes in from **Força Aérea Brasileira / Ministério da Aeronáutica** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Pessoa Cavalcanti signed for the FAB's own Air Defence Command. José Pessoa Cavalcanti de Albuquerque signed the Relatório de Ocorrências of 2 June 1986 as acting commander of COMDA/NuCOMDABRA, a command of the Brazilian Air Force. The finding that the objects were solid and behaved intelligently is therefore a FAB internal finding rendered up its own chain of command under classification, not an outside assessment. Sources: Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report); Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02.
+- Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque runs out to **Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986** (event, board tier A), a investigative link at Tier 1 documented. The link reads: Commanded the air defence organisation whose engagement he then wrote up. The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document. Sources: Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report); Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02.
+- Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque runs out to **Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)** (document, board tier B), a custody link at Tier 1 documented. The link reads: signed the CONFIDENCIAL Air Defence Command report. Signed at Brasília on 2 June 1986 as acting commander COMDA/NuCOMDABRA; the document is served by the Arquivo Nacional as BR_DFANBSB_ARX_0_0_0249. Sources: Arquivo Nacional PDF, http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02.
+
+## Ralph Blumenthal
+
+Ralph Blumenthal is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2023-06-05; axes C0 A1 D3; 3 connections.
+
+In one line: Former New York Times reporter; co-author, 5 June 2023 Debrief story.
+
+### The longer account
+
+Ralph Blumenthal spent forty-five years as a New York Times staff reporter before becoming, with Leslie Kean, the co-author of both stories that structure the modern record: the 16 December 2017 AATIP revelation and the 5 June 2023 David Grusch story. His institutional weight is the point - a Times lifer's byline is what made the 2017 piece survivable inside the paper, and his departure from the Times masthead by 2023 is part of why the Grusch story landed at The Debrief instead. His 2021 book The Believer, on Harvard psychiatrist John Mack, situates him in the longer lineage of establishment-credentialed writers who took the subject seriously and paid a professional price for it.
+
+Affiliations recorded: The New York Times (1964-2009, and contributor thereafter), The Debrief (2023), The New York Times (1964-2009), The Debrief (contributor, 2023).
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 873 of 1057, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+
+### The claims on the record
+
+- **Tier 2 named person on the record.** Blumenthal was a New York Times staff reporter from 1964 to 2009 and co-authored both the 2017 AATIP story and the 2023 Grusch story. Source: Wikipedia, 'Ralph Blumenthal', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record, allegation shaped wording as stored.** Co-author of the 5 June 2023 Debrief article on Grusch's allegations. Source: The Debrief byline, 5 June 2023, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+
+### Its strongest connections
+
+- Ralph Blumenthal comes in from **New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'** (event, board tier A), a investigative link at Tier 1 documented. The link reads: Co-byline, 16 December 2017. Blumenthal shares the byline that broke AATIP and published two of the three videos. Sources: New York Times (NICAP copy), https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf, dated 2017-12-16.
+- Ralph Blumenthal runs out to **The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin** (document, board tier B), a investigative link at Tier 1 documented. The link reads: Co-author. Blumenthal, with Kean, had co-authored the December 2017 New York Times AATIP story; the same byline pair carried the Grusch story after national outlets declined it. Sources: The Debrief, https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/, dated 2023-06-05.
+- Ralph Blumenthal comes in from **Leslie Kean** (person, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Co-authors of both defining stories, 2017 and 2023. The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Kean and Blumenthal; Helene Cooper was a third author on the 2017 piece. Sources: Wikipedia - Leslie Kean, https://en.wikipedia.org/wiki/Leslie_Kean, dated 2026-08-12.

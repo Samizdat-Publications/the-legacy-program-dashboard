@@ -42,16 +42,6 @@
 "tier": 1
 },
 {
-"source": "Inference recorded against the board's existing Tier 2 claims on william-l-moore, checked 2026-09-19",
-"text": "MOORE'S 1989 ADMISSION IS THE CLEAREST ADMISSION IN THE AFFAIR AND OUTRANKS ANYTHING DOTY HAS SAID, because it is from a civilian, about himself, in public, at a named event on a named date, and it is not later contradicted by its own author. The board already carries it; this session confirms nothing has emerged to weaken it and records that Doty's parallel statements have since been partly retracted by him while Moore's have not.",
-"tier": 2
-},
-{
-"source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
-"text": "A CAVEAT FOR ANY CLAIM ABOUT MOORE SOURCED TO GREG BISHOP'S PROJECT BETA. Stephen Fisher, writing 29 November 2025 and relying almost entirely on Bishop, states that Bishop had an undisclosed friendship with Moore. Project Beta is a participant account at one remove and should never be the sole source for a claim about Moore's conduct.",
-"tier": 2
-},
-{
 "source": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148",
 "text": "The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book.",
 "tier": 1
@@ -170,20 +160,15 @@
 {
 "claimTier": 2,
 "cls": "person",
-"dateEnd": "1989-07-01",
-"dateStart": "1989-07-01",
+"dateEnd": "1989",
+"dateStart": "1980",
 "direction": "out",
-"edgeLabel": "The 1 July 1989 MUFON admission, which outranks anything Doty has said",
+"edgeLabel": "Moore admitted in 1989 to feeding Bennewitz false information",
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
-"note": "Already on the board and confirmed as unweakened: a civilian, about himself, in public, at a named event on a named date, and not since retracted by its author. Doty's parallel statements have since been partly retracted by him. Any claim about Moore's conduct sourced to Bishop's Project Beta carries the participant-account caveat.",
+"note": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens.",
 "sources": [
-{
-"date": "2025-11-29",
-"name": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'",
-"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
-},
 {
 "date": "2026-08-12",
 "name": "Wikipedia - Paul Bennewitz",
@@ -216,7 +201,7 @@
 "url": "https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "behavioral"
 },
 {
@@ -237,7 +222,7 @@
 "url": "https://en.wikipedia.org/wiki/Stanton_T._Friedman"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "research"
 },
 {
@@ -290,7 +275,6 @@
 }
 ],
 "domains": [
-"dulce-2026-09-19",
 "w16-thin-people",
 "w2-retrieval-literature"
 ],
@@ -330,16 +314,6 @@
 "url": "https://vault.fbi.gov/Majestic%2012"
 },
 {
-"date": "2025-11-29",
-"name": "Stephen Fisher, The Trenchant Edges Newsletter, 'What Did They Do To Paul Bennewitz?'",
-"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
-},
-{
-"date": "2026-09-19",
-"name": "Open Library bibliographic record for Greg Bishop, 'Project Beta', Paraview Pocket Books, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877",
-"url": "https://openlibrary.org/books/OL7950835M/Project_Beta"
-},
-{
 "date": "2026-08-25",
 "name": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), DTIC ADA326148",
 "url": "https://archive.org/details/DTIC_ADA326148"
@@ -353,7 +327,7 @@
 "status": "active",
 "sub": "Co-author, 'The Roswell Incident' (1980); first recipient of the MJ-12 film; self-confessed conduit for AFOSI disinformation",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 233 of 1125, score 42). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 277 of 1057, score 38). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
 "timeline": [
 {
 "date": "1984-12",
