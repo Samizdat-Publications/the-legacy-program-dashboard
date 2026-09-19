@@ -157,6 +157,27 @@
 {
 "claimTier": 1,
 "cls": "event",
+"dateEnd": "1964-11",
+"dateStart": "1964-08",
+"direction": "in",
+"edgeLabel": "An Air Force telescope deployment covering Air Force Western Test Range launches",
+"id": "big-sur-1964",
+"l0": false,
+"label": "Big Sur missile-test filming, September 1964",
+"note": "Instrument owned by the Range Measurements Laboratory of the Air Force Eastern Test Range; nine of eleven Vandenberg launches covered; the resulting film classified Top Secret on a weapons-vulnerability rationale and later destroyed.",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "event",
 "dateEnd": "1962",
 "dateStart": "1962",
 "direction": "in",
@@ -562,7 +583,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-09-18",
-"deg": 24,
+"deg": 25,
 "denials": [
 {
 "by": {
@@ -720,6 +741,12 @@
 },
 {
 "cls": "event",
+"id": "big-sur-1964",
+"label": "Big Sur missile-test filming, September 1964",
+"tier": "B"
+},
+{
+"cls": "event",
 "id": "bluegill-triple-prime",
 "label": "Bluegill Triple Prime",
 "tier": "B"
@@ -807,7 +834,7 @@
 ],
 "sub": "Military department; original custodian of the UFO record and of the Roswell material",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 39 of 1094, score 88). 25 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 33 of 1105, score 92). 26 connections, 7 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [
 {
 "date": "1947-09-18",

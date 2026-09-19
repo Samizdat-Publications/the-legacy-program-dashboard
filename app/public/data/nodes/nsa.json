@@ -66,6 +66,32 @@
 "type": "denial"
 },
 {
+"claimTier": 3,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Carries the Wolfe claim of an NSA facility at Langley AFB handling Lunar Orbiter imagery",
+"id": "disclosure-project-witness-set",
+"l0": false,
+"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+"note": "TIER 3. Nothing independent places Wolfe anywhere, and NASA's own catalogue places the Lunar Orbiter programme at NASA Langley Research Center, a separate civil installation from Langley Air Force Base.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+{
+"date": "2026-09-19",
+"name": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A)",
+"url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
 "claimTier": 1,
 "cls": "person",
 "dateEnd": null,
@@ -237,7 +263,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1952-11-04",
-"deg": 10,
+"deg": 11,
 "denials": [
 {
 "by": {
@@ -367,6 +393,12 @@
 "tier": "B"
 },
 {
+"cls": "institution",
+"id": "disclosure-project-witness-set",
+"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+"tier": "B"
+},
+{
 "cls": "person",
 "id": "eugene-yeates",
 "label": "Eugene F. Yeates",
@@ -427,7 +459,7 @@
 ],
 "sub": "Signals intelligence and cybersecurity agency; established 4 November 1952 by classified presidential memorandum",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 254 of 1094, score 40). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 246 of 1105, score 41). 11 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.",
 "timeline": [
 {
 "date": "1952-11-04",

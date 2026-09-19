@@ -1,0 +1,110 @@
+[
+  {
+    "id": "disclosure-project-briefing-2001",
+    "entityDossier": {
+      "whatItIs": "The Disclosure Project Briefing Document of April 2001, roughly 500 pages, written and compiled by Steven M. Greer MD and Theodore C. Loder III PhD and addressed on its own title page to members of the press, of the United States government and of the US scientific community. Its section 3.8 prints sixty-eight dated witness testimonies across five subsections, sixty-five of them dated between July 2000 and early 2001. The interviews are conducted by Greer himself, each carrying an initials key of the form 'JC: FAA Division Chief John Callahan SG: Dr. Steven Greer', with his editorial comments printed inline.",
+      "whyImplicated": "It is the single openable anchor under an entire generation of claims. A large share of what circulates about retrieval, custody and reverse engineering traces to a named testimony in this document and to nothing earlier, which makes it the most efficient node on this board: one artefact, sixty-eight dated statements, all readable. It is on the map because it is the origin point in print for more of this subject than any other single object the board carries.",
+      "roles": [
+        "disclosure",
+        "custody",
+        "research"
+      ],
+      "narrative": "This document is the reason the Disclosure Project cluster could be built cheaply and graded honestly at the same time. Sixty-eight testimonies, each under a name, a rank, a service and a month, is a rare thing in this subject: most claims arrive undated and unattributed, and these do not.\n\nWhat the document is NOT is evidence for what the testimonies describe, and the board's governing rule for this whole cluster is written as a Tier 3 claim on this node so that nobody has to infer it. The document is Tier 1 for the fact that a named person gave testimony on a stated date. It is Tier 2 at best for anything that testimony asserts about the world. Every witness node built from it carries that distinction in its own claims.\n\nTwo features of the document itself deserve a reader's attention. The compiler cross-references his own witnesses to each other in bracketed editorial notes signed 'SG', which means the apparent convergence between two testimonies can be the editor's construction rather than the witnesses'. And the interviews are all conducted by one man, so the sixty-eight are not sixty-eight independent methods. That is the same caution the board applies to the Castello fabrication in the Dulce cluster, arrived at from the opposite direction.\n\nThe research pass of 19 September also found what the document does not support. It prints McCandlish's testimony dated December 2000, five months before the press conference that is routinely said to be where he spoke. Of sixty-nine interviewees, twenty spoke at that event, and only five can be placed at the podium by any opened source. The document and the press conference are different objects and the board now carries them as different nodes.",
+      "claims": [
+        {
+          "text": "THE GOVERNING RULE OF THE WHOLE CLUSTER, STATED ON ITS ANCHOR. This document is Tier 1 for the fact that a named person gave testimony on a stated date, and Tier 2 at best for anything that testimony asserts about the world. Every node built from it carries that distinction.",
+          "tier": 3,
+          "source": "stated inference, and the rule the 19 September build applied to all twelve witness nodes"
+        },
+        {
+          "text": "SIXTY-EIGHT DATED TESTIMONY HEADINGS. Section 3.8 contains sixty-eight headings of the form 'Testimony of [name, rank, service]' followed on the next line by a month and year. Sixty-five carry dates between July 2000 and early 2001. The subsections are 3.8.1 Overview, 3.8.2 Radar / Pilot Cases, 3.8.3 SAC/NUKE, 3.8.4 Government Insiders / NASA, 3.8.5 Technology / Science.",
+          "tier": 1,
+          "source": "Disclosure Project Briefing Document, April 2001, section 3.8 and its own contents list, opened 2026-09-19"
+        },
+        {
+          "text": "THE EDITOR CROSS-REFERENCES HIS OWN WITNESSES TO EACH OTHER. Bracketed editorial notes signed 'SG' link one testimony to another, including '[See the testimony of Mark McCandlish which establishes that indeed a UFO was stored...]'. Apparent convergence between two testimonies in this document can therefore be the compiler's construction rather than the witnesses'.",
+          "tier": 1,
+          "source": "Disclosure Project Briefing Document, April 2001, editorial notes in section 3.8, opened 2026-09-19"
+        },
+        {
+          "text": "ALL SIXTY-EIGHT INTERVIEWS WERE CONDUCTED BY ONE MAN. Each testimony carries an initials key naming Greer as interviewer. Sixty-eight testimonies collected by a single method are not sixty-eight independent methods, which is the same caution CLAUDE.md section 2 states in general terms.",
+          "tier": 1,
+          "source": "Disclosure Project Briefing Document, April 2001, the initials keys throughout section 3.8, opened 2026-09-19"
+        }
+      ],
+      "openQuestions": [
+        "The full witness list against the podium roster. Of sixty-nine interviewees, twenty spoke at the 9 May 2001 press conference and only five are placed there by any opened source. The other fifteen are unidentified.",
+        "Whether any testimony in the document was recorded other than by Greer himself. Nothing opened indicates so.",
+        "The video recordings the document summarises. None was opened; the board carries the printed summaries only."
+      ]
+    }
+  },
+  {
+    "id": "national-press-club-2001",
+    "entityDossier": {
+      "whatItIs": "The Disclosure Project press conference at the National Press Club in Washington DC on 9 May 2001, at which about twenty of the project's sixty-nine interviewees spoke briefly and called for congressional hearings with subpoena power and amnesty for witnesses. It is a distinct object from the April 2001 Briefing Document and it carries a different and much smaller evidentiary weight, which is the entire reason it has its own node.",
+      "whyImplicated": "Because almost everything attributed to it is unverifiable, and saying so precisely is worth a node. This press conference is the single most-cited event in modern disclosure advocacy, and the board can place exactly five people at its podium from opened sources. Treating the event and the document as one object, which the literature routinely does, silently upgrades a printed testimony into a public appearance. This node exists to stop that.",
+      "roles": [
+        "disclosure"
+      ],
+      "narrative": "The event is documented. ABC News reported it the same day under the headline 'Group Calls for Disclosure of UFO Info', recording that Steven Greer organised the programme at the National Press Club and that about twenty people spoke. Philip Klass, hostile and writing within weeks, gives the same date, the same venue and the same count, and states the objective as prompting a congressional hearing. Two sources of opposite disposition agreeing on date, venue and count is as solid as this subject gets.\n\nWhat is not documented is who stood there. Klass records that Greer's book contains transcripts of interviews with sixty-nine witnesses, of whom twenty spoke briefly at the press conference. The board has been able to place five of those twenty by an opened source: John Callahan, who described the JAL incident; Clifford Stone, shown there by Fox News Channel; and three others. **Nothing opened by this board places Karl Wolfe, Donna Hare, Robert Jacobs, Larry Warren, Don Phillips or Mark McCandlish at this podium**, and all six are routinely said to have spoken there.\n\nThat gap is not a failure of research effort. The Internet Archive is unreachable from this session, both WorldCat records returned 403, and no C-SPAN record of the event exists. The roster may simply not survive in any open form, and the board should say that rather than repeat an assumption.\n\nOne limitation on the best hostile source, recorded because it cuts both ways: Klass did not attend. Greer had refused him admission to a comparable event in 1997. That limits his account of what was said at the podium; it does not limit the records he obtained himself, which is where his value on this board lies.",
+      "claims": [
+        {
+          "text": "TWO SOURCES OF OPPOSITE DISPOSITION AGREE ON DATE, VENUE AND COUNT. ABC News, 9 May 2001, 'Group Calls for Disclosure of UFO Info', records that Greer organised the programme at the National Press Club and that about twenty people spoke. Philip Klass, hostile and writing within weeks, gives 9 May, the National Press Club, and states the objective as prompting a congressional hearing on UFOs.",
+          "tier": 1,
+          "source": "ABC News, 9 May 2001, and Klass's contemporaneous newsletter, both opened 2026-09-19"
+        },
+        {
+          "text": "THE COUNT THAT GOVERNS EVERY PODIUM CLAIM IN THIS CLUSTER. Klass: Greer's book 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference'. So forty-nine interviewees did not speak at this event, and the board must not treat a printed testimony as an appearance.",
+          "tier": 1,
+          "source": "Klass, contemporaneous newsletter, opened 2026-09-19"
+        },
+        {
+          "text": "FIVE PEOPLE, AND ONLY FIVE, ARE PLACED AT THE PODIUM BY AN OPENED SOURCE. Nothing opened by this board places Karl Wolfe, Donna Hare, Robert Jacobs, Larry Warren, John or Jonathan Weygandt, Don Phillips or Mark McCandlish at this event, though all are commonly said to have spoken there.",
+          "tier": 3,
+          "source": "stated inference from the opened sources; the podium roster could not be recovered"
+        }
+      ],
+      "openQuestions": [
+        "THE PODIUM ROSTER ITSELF. Which twenty of the sixty-nine spoke. The Internet Archive was unreachable, both WorldCat records returned HTTP 403, and no C-SPAN record of the event exists. This is the highest-value single gap in the cluster.",
+        "Whether any complete recording of the event survives in an openable form.",
+        "Whether the National Press Club's own records name the speakers."
+      ]
+    }
+  },
+  {
+    "id": "disclosure-project",
+    "entityDossier": {
+      "whatItIs": "A private witness-aggregation and congressional-hearing campaign founded by Steven M. Greer, running from 1993, whose method is to interview former military and government personnel on video and publish summarised transcripts. Its April 2001 Briefing Document prints sixty-eight dated testimonies; its press conference of 9 May 2001 presented about twenty witnesses and called for congressional hearings with subpoena power and amnesty.",
+      "whyImplicated": "It is the largest single upstream source of witness claims on this board, and it is also an interested party with an explicit political objective. Both facts have to be visible at once. The board carries its testimony because the testimony is dated and attributed, and grades that testimony carefully because the collection method is one man with a stated goal.",
+      "roles": [
+        "disclosure",
+        "research",
+        "custody"
+      ],
+      "narrative": "The Disclosure Project's importance to this board is structural rather than evidential. Its Briefing Document is the anchor under a large share of the witness claims the board carries, which is why the document has its own L0 node, and its 2001 press conference is the event most often invoked as the moment those claims entered public life.\n\nTwo documented facts complicate it, and the node carries both. It controlled access to its own press events: Klass records being refused admission to a comparable 1997 conference, and reportedly the Fund for UFO Research was refused too. An organisation that selects its audience is entitled to, and a board recording its output should note it. And the Clinton White House's principal UFO FOIA collection, 2006-0474-F, consists in the majority of documents sent to the White House by Greer of CSETI, which means a federal records collection frequently cited as government material is substantially this organisation's own correspondence arriving back through the front door.\n\nIts reach is not only rhetorical. The Wilson-Davis notes record the Disclosure Project's April 1997 Washington briefing week as the proximate trigger for Admiral Thomas Wilson's attempt to locate a special access programme. Whatever one concludes about the testimony, the organisation demonstrably moved a senior officer to go looking, and the board carries that at Tier 3 because the notes themselves are contested.\n\nThe 19 September pass found the organisation's cross-referencing habit worth flagging: the compiler links his own witnesses to each other in editorial notes, so convergence inside the Briefing Document is not independent convergence.",
+      "claims": [
+        {
+          "text": "A FEDERAL FOIA COLLECTION THAT IS SUBSTANTIALLY ITS OWN CORRESPONDENCE. The Clinton White House's principal UFO FOIA collection, 2006-0474-F, consists in the majority of documents sent to the White House by Steven M. Greer of CSETI. A collection routinely cited as government material is largely this organisation's own letters arriving back through the front door.",
+          "tier": 1,
+          "source": "already on the board before this cluster; the collection's own finding aid"
+        },
+        {
+          "text": "IT CONTROLLED ACCESS TO ITS OWN PRESS EVENTS. Klass records that Greer refused him admission to a comparable press conference in 1997, and reportedly refused the request for admission by the Fund for UFO Research.",
+          "tier": 2,
+          "source": "Klass, contemporaneous newsletter, opened 2026-09-19"
+        },
+        {
+          "text": "IT MOVED A SENIOR OFFICER TO GO LOOKING. The Wilson-Davis notes record the Disclosure Project's April 1997 Washington briefing week as the proximate trigger for Admiral Thomas Wilson's attempt to locate the special access programme. Tier 3 because the notes themselves are contested.",
+          "tier": 3,
+          "source": "the Wilson-Davis notes, already on the board; the document's authenticity is disputed"
+        }
+      ],
+      "openQuestions": [
+        "The video recordings behind the sixty-eight printed testimonies. None has been opened.",
+        "Whether any witness has retracted or amended testimony given to the project.",
+        "The organisation's funding across its history, which nothing opened here addresses."
+      ]
+    }
+  }
+]

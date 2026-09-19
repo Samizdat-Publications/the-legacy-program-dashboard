@@ -880,6 +880,36 @@
     "lazar-clark-county-1990|bob-lazar": {
       "denialKind": "association",
       "label": "a court record whose existence tells against the self-account; nobody's act of denial"
+    },
+    "philip-j-klass|clifford-stone": {
+      "denialKind": "directed",
+      "denier": "philip-j-klass",
+      "label": "Klass obtained Stone's service record from the National Personnel Records Center and published it against the claim, Summer 2001"
+    },
+    "kevin-randle|clifford-stone": {
+      "denialKind": "directed",
+      "denier": "kevin-randle",
+      "label": "Randle, from thirty years' acquaintance and the same record, published the discrepancies on 14 February 2021"
+    },
+    "kingston-george|robert-jacobs": {
+      "denialKind": "directed",
+      "denier": "kingston-george",
+      "label": "The project engineer answered Jacobs point by point in the Skeptical Inquirer, Winter 1993"
+    },
+    "peter-robbins|larry-warren": {
+      "denialKind": "directed",
+      "denier": "peter-robbins",
+      "label": "Warren's co-author of twenty-nine years published a detailed repudiation on 13 June 2017"
+    },
+    "charles-halt|larry-warren": {
+      "denialKind": "directed",
+      "denier": "charles-halt",
+      "label": "Halt is REPORTED as saying Warren 'was not there'; no document written or signed by Halt has been opened, and the edge is Tier 3"
+    },
+    "philip-j-klass|disclosure-project": {
+      "denialKind": "directed",
+      "denier": "philip-j-klass",
+      "label": "Skeptics UFO Newsletter #68, Summer 2001, a dated published critique of the Project by name"
     }
   }
 }

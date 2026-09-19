@@ -104,6 +104,16 @@
 ],
 "claims": [
 {
+"source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "He located the federal file on Japan Air Lines flight 1628 at the National Archives after being told twice by the FAA that it had been or would be destroyed. In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!' The file is in Record Group 237, local identifier 1203, archival identifier 733667, and runs to over 1,500 pages against an initial FAA estimate of 107.",
+"tier": 1
+},
+{
+"source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "He publishes the FAA's letter of 27 June 2001 responding to his request: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A follow-up request in 2009 was answered with the statement that the records had been destroyed.",
+"tier": 1
+},
+{
 "source": "DoD FOIA final response letter, 18-F-0324",
 "text": "FOIA case 18-F-0324 was requested on 17 December 2017 and received its final response on 17 August 2022 from Stephanie L. Carr, Chief of the DoD Freedom of Information Division, releasing eight responsive pages with (b)(6) redactions.",
 "tier": 1
@@ -155,7 +165,7 @@
 }
 ],
 "cls": "person",
-"cluster": "media",
+"cluster": "other",
 "conflicts": [],
 "connections": [
 {
@@ -349,6 +359,27 @@
 {
 "claimTier": 1,
 "cls": "event",
+"dateEnd": "2018",
+"dateStart": "2001-05",
+"direction": "out",
+"edgeLabel": "Requester and locator of the National Archives file",
+"id": "jal-1628-1986",
+"l0": false,
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"note": "In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!'",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "event",
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "in",
@@ -486,9 +517,10 @@
 "date": "2022-08-17",
 "dateEnd": null,
 "dateStart": "2022-08-17",
-"deg": 14,
+"deg": 15,
 "denials": [],
 "domains": [
+"disclosure-project-2026-09-19",
 "elizondo-ttsa",
 "history-1970s-2000s",
 "releases-2023-2026",
@@ -514,6 +546,16 @@
 "sequenceChain": [],
 "short": "John Greenewald Jr.",
 "sources": [
+{
+"date": "2026-09-19",
+"name": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+},
 {
 "date": "2022-08-17",
 "name": "OSD/JS FOIA 18-F-0324 final response and documents",
@@ -578,7 +620,7 @@
 "status": "active",
 "sub": "Founder, The Black Vault; FOIA requester of record on AATIP and Elizondo",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 142 of 1094, score 52). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 107 of 1105, score 59). 15 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "1997-09-01",

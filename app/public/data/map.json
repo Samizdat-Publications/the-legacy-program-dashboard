@@ -66,6 +66,9 @@
    "roswell-report-case-closed",
    "yankee-blue"
   ],
+  "disclosure.2": [
+   "national-press-club-2001"
+  ],
   "disclosure.3": [
    "nyt-2017-12-16"
   ],
@@ -155,6 +158,7 @@
   "research.1": [
    "cefaa",
    "cometa",
+   "disclosure-project",
    "ev-noite-ovnis-1986",
    "klas-tv",
    "operacao-prato",
@@ -162,6 +166,7 @@
   ],
   "research.2": [
    "arquivo-nacional-ufo",
+   "disclosure-project-briefing-2001",
    "doc-condign-report",
    "doc-condign-vol3",
    "geipan",
@@ -1647,6 +1652,31 @@
    ]
   },
   {
+   "a": "disclosure-project",
+   "b": "disclosure-project-briefing-2001",
+   "tier": 1,
+   "types": [
+    "institutional",
+    "research"
+   ]
+  },
+  {
+   "a": "disclosure-project",
+   "b": "national-press-club-2001",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "disclosure-project-briefing-2001",
+   "b": "national-press-club-2001",
+   "tier": 1,
+   "types": [
+    "temporal"
+   ]
+  },
+  {
    "a": "doc-condign-report",
    "b": "doc-condign-vol3",
    "tier": 1,
@@ -2814,6 +2844,7 @@
     "podesta-delonge-mccasland-email-2016",
     "nara-rg615",
     "nicap",
+    "disclosure-project-briefing-2001",
     "nimitz-2004",
     "roosevelt-2014-2015",
     "pursue-releases",
@@ -2864,7 +2895,7 @@
     "carve-out"
    ],
    "label": "The custody chain",
-   "onMap": 54,
+   "onMap": 55,
    "total": 204
   },
   {
@@ -2917,7 +2948,7 @@
    ],
    "label": "Who denied what",
    "onMap": 43,
-   "total": 144
+   "total": 149
   },
   {
    "blurb": "States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument.",
@@ -3509,6 +3540,36 @@
    "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
    "short": "38 Defense Intelligence Ref. Docs",
    "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "cls": "program",
+   "cluster": "other",
+   "dateStart": "1993",
+   "era": "1",
+   "hl": null,
+   "id": "disclosure-project",
+   "label": "The Disclosure Project",
+   "short": "The Disclosure Project",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "cls": "document",
+   "cluster": "witness",
+   "dateStart": "2001-04",
+   "era": "2",
+   "hl": null,
+   "id": "disclosure-project-briefing-2001",
+   "label": "Disclosure Project Briefing Document, April 2001",
+   "short": "DP Briefing Document, April 2001",
+   "tier": "B"
   },
   {
    "A": 2,
@@ -4176,14 +4237,14 @@
    "D": 3,
    "band": "research",
    "cls": "institution",
-   "cluster": "research",
+   "cluster": "other",
    "dateStart": "1958-07-29",
    "era": "0",
    "hl": null,
    "id": "nasa",
    "label": "National Aeronautics and Space Administration",
    "short": "NASA",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -4199,6 +4260,21 @@
    "label": "NASA UAP Independent Study Team",
    "short": "NASA UAP Independent Study Team",
    "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "disclosure",
+   "cls": "event",
+   "cluster": "witness",
+   "dateStart": "2001-05-09",
+   "era": "2",
+   "hl": null,
+   "id": "national-press-club-2001",
+   "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "short": "Disclosure Project, 9 May 2001",
+   "tier": "C"
   },
   {
    "A": 3,
@@ -4596,14 +4672,14 @@
    "D": 3,
    "band": "retrieval",
    "cls": "event",
-   "cluster": "witness",
+   "cluster": "other",
    "dateStart": "1980",
    "era": "1",
    "hl": null,
    "id": "rendlesham-1980",
    "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
    "short": "Rendlesham Forest, 1980",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
@@ -4881,7 +4957,7 @@
    "D": 3,
    "band": "custody",
    "cls": "institution",
-   "cluster": "media",
+   "cluster": "other",
    "dateStart": "1996",
    "era": "1",
    "hl": null,
@@ -5161,7 +5237,7 @@
    "tier": "B"
   }
  ],
- "source": "4aaef0272336",
+ "source": "0e80372c95cd",
  "summarised": [
   {
    "a": "aaro",
@@ -5731,6 +5807,14 @@
    "via": [
     "eric-davis",
     "kit-green"
+   ]
+  },
+  {
+   "a": "disclosure-project-briefing-2001",
+   "b": "rendlesham-1980",
+   "via": [
+    "clifford-stone",
+    "larry-warren"
    ]
   },
   {

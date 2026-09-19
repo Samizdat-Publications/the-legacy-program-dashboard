@@ -896,6 +896,118 @@
   }
  },
  {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-dp-podium-roster",
+   "text": "THE LARGEST HOLE IN THIS CLUSTER. Twenty of sixty-nine interviewees spoke at the National Press Club on 9 May 2001 and NO OPENED SOURCE LISTS WHICH TWENTY. Five are placed at the podium by opened sources: Callahan, Stone, Filer, Sheehan and Webre. web.archive.org is blocked to this session entirely, so no May 2001 capture of the Project's own site was opened; both WorldCat catalogue records for the event recording returned HTTP 403; no C-SPAN record was found. EVERY PODIUM CLAIM ON THIS BOARD FOR ANY OTHER WITNESS, INCLUDING MARK McCANDLISH, IS UNSUPPORTED UNTIL THIS CLOSES.",
+   "wouldClose": "A Wayback capture of disclosureproject.org from May or June 2001; either WorldCat record via a non-403 route; a C-SPAN or other broadcaster's programme record; or a contemporaneous newspaper listing of the speakers."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-callahan-faa-title",
+   "text": "JOHN CALLAHAN'S CLAIMED TITLE IS UNCORROBORATED BY ANY AGENCY RECORD. The only document is an OMB Form 171 he supplied to a researcher himself in 2015. The researcher's own first pass through the public record found him as 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the Associate Administrator for Air Traffic, and wrote 'none of them really matched his claimed Accidents, Evaluations and Investigations area'. No FAA release, Federal Register entry, agency directory or personnel record was opened.",
+   "wouldClose": "An FAA organisational directory or Federal Register notice for 1985 to 1990 naming the Investigation and Evaluation Division and its manager; a DOT or FAA telephone directory of the period; or an OPM personnel record obtained from the agency rather than from the subject."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-jal-1628-file-contents",
+   "text": "NO PAGE OF THE 1,500-PAGE NATIONAL ARCHIVES FILE ON JAL 1628 WAS READ. One PDF was downloaded, 2.8 MB, and is a scan with no text layer; the National Archives catalogue at catalog.archives.gov is a JavaScript application the fetch tool could not render. The file's existence, extent and itemisation are established; its contents are known only through Klass's quotations and The Black Vault's description.",
+   "wouldClose": "OCR of the individual PDFs at documents.theblackvault.com; or the NARA catalogue record for archival identifier 733667 retrieved through the NARA API rather than the catalogue front end."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-faa-administrator-engen",
+   "text": "ADMIRAL DONALD ENGEN'S TENURE AS FAA ADMINISTRATOR WAS NOT CONFIRMED FROM ANY FAA SOURCE. faa.gov/about/history/administrators returned HTTP 403. He is named in this cluster only by Callahan and by Klass repeating Callahan, and the briefing Callahan describes rests entirely on that.",
+   "wouldClose": "The FAA's own administrators page via a non-403 route; a Federal Register appointment notice; or a Senate confirmation record."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-george-1964-staff-study",
+   "text": "THE BEST UNOPENED LEAD IN THIS CLUSTER. 'Preliminary Report on Image Orthicon Photography from Big Sur', Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, 13 October 1964, by Kingston A. George, cited by him in the Skeptical Inquirer in 1993. It would be a contemporaneous Air Force document about the Big Sur filming, written three weeks after the event, by a named participant.",
+   "wouldClose": "An Air Force Historical Research Agency holding for 1st Strategic Aerospace Division, 1964; a NARA record group for Air Force Systems Command or the Western Test Range; or a FOIA request to AFHRA naming the study by title and date."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-jacobs-1982-enquirer",
+   "text": "Robert Jacobs's earliest published account, 'UFO Spied on Space Missile, and I Captured It on Film', National Enquirer, 1982, was not opened. It would predate the MUFON article by seven years and is the version Kingston George says he first saw.",
+   "wouldClose": "A microfilm or archival copy of the 1982 National Enquirer issue; or the reproduction of the page that George's 1993 article states he printed."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-stone-nprc-record",
+   "text": "CLIFFORD STONE'S SERVICE RECORD ITSELF WAS NOT OPENED. The assignment history on his node is as Philip J. Klass printed it in 2001 from a National Personnel Records Center request. Also unopened: the Army's eight-page investigation report which Klass says Stone gave him, the 1987 Roswell Daily Record feature, the correspondence with Senator Pete Domenici, and the 23 December 1983 FOIA request as a document.",
+   "wouldClose": "A National Personnel Records Center request for Stone's Official Military Personnel File, now releasable in part as he is deceased; or the USAF FOIA case file for the 23 December 1983 request."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-ridpath-rendlesham",
+   "text": "IAN RIDPATH'S OWN WRITING ON LARRY WARREN WAS NOT OPENED. ianridpath.com returned an SSL handshake failure on both http and https, twice, on 19 September 2026. The most-cited sceptical treatment of Rendlesham, including its dedicated page on Warren, is entirely absent from this board's sourcing, and the Warren dispute rests instead on Robbins, on the publisher and on reported statements by Halt.",
+   "wouldClose": "A working route to ianridpath.com; or the same material as published in David Clarke and Andy Roberts's work, or in Ridpath's contributions to a print periodical."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-halt-on-warren-primary",
+   "text": "NO DOCUMENT WRITTEN OR SIGNED BY COL. CHARLES HALT DENYING LARRY WARREN'S PRESENCE WAS OPENED. The strand reaches this board through search-result summaries and a video title only, and both the `charles-halt` enrichment and the `charles-halt` to `larry-warren` denial edge are graded Tier 3 for that reason.",
+   "wouldClose": "A signed statement, an affidavit, a book passage or a transcript of Halt speaking; the 2015 interviews in which he is reported to have said it."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-wolfe-service-and-date",
+   "text": "KARL WOLFE HAS NO INDEPENDENT RECORD OF ANY KIND and his own obituary does not mention Air Force service. Separately, the chronology objection commonly made against him is not assertable from this board's sources: THE BRIEFING DOCUMENT GIVES NO YEAR for the episode, and the service window it does give, January 1964 plus four and a half years, encloses the Lunar Orbiter photographic period. The later source in which he is said to have specified 1965 was not opened.",
+   "wouldClose": "A National Personnel Records Center request for Wolfe's Official Military Personnel File; and the specific later Wolfe interview, book chapter or broadcast in which he gives a year."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-hare-employment",
+   "text": "DONNA HARE'S EMPLOYMENT BY PHILCO-FORD IS UNDOCUMENTED, although Philco-Ford's NASA Manned Spacecraft Center contract is documented by Ford Motor Company's own corporate history. No badge record, contractor roster, clearance record or contemporaneous document was opened; the photograph, the technician's name and any written NASA policy have never been produced. The '[1997] congressional briefings' she refers to were not identified.",
+   "wouldClose": "A NASA JSC contractor roster or badge record for Philco-Ford, 1970 to 1971; a NASA photographic laboratory procedure of the period; or identification of the 1997 briefings she names."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-phillips-and-weygandt",
+   "text": "DON PHILLIPS AND JOHN WEYGANDT HAVE NO INDEPENDENT RECORD WHATEVER. For Phillips: no personnel record, no Lockheed document, no CIA record, no USAF record, no publication, no contemporaneous report of the Angels Peak sighting, and no trace of the named corroborating witness Anthony Kasar. For Weygandt: no DD-214, no USMC unit record, no USSOUTHCOM document and no Peruvian record, although his testimony gives unusually specific enlistment dates, MOS numbers and unit designations that are directly testable. NOTE ALSO THAT THE BRIEFING DOCUMENT SPELLS HIM JOHN, NOT JONATHAN.",
+   "wouldClose": "USMC unit histories for 2nd Marine Air Wing and 28th Marine Air Control Group, 1996 to 1997; a National Personnel Records Center request for either man; or a Lockheed retiree or Skunk Works personnel listing."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-dp-57-unchecked",
+   "text": "FIFTY-SEVEN OF THE SIXTY-EIGHT WITNESSES IN THE BRIEFING DOCUMENT HAVE NOT BEEN CHECKED BY ANYONE ON THIS BOARD for an independent record of any kind. The `disclosure-project-witness-set` node exists to hold them, and its existence is not a finding about its members. Several of them, notably Robert Salas, Nick Pope, Philip Corso, Walter Haut, Paul Czysz and Harold Puthoff, already have nodes built on other evidence and should not be re-created from this document.",
+   "wouldClose": "A pass that takes the roster in section 10 of the lead file and tests each name against a service record, a publication or an agency file, in the manner applied to the eight in this pass."
+  }
+ },
+ {
+  "domain": "disclosure-project-2026-09-19",
+  "gap": {
+   "id": "gap-dp-video-and-book",
+   "text": "THE UNDERLYING ARTEFACTS OF THE BRIEFING DOCUMENT WERE NOT OPENED. Its section 3.8 is titled 'Summary of Video Taped Witness Testimony' and no tape was opened. The 573-page book Disclosure, published alongside and containing the same 69 transcripts, was not opened either, although Klass quotes it.",
+   "wouldClose": "The Disclosure Project's video archive with dated recording metadata; or a copy of the 2001 book, whose fuller transcripts Klass says differ in detail from the Briefing Document."
+  }
+ },
+ {
   "domain": "elizondo-ttsa",
   "gap": "The outcome of Elizondo's May 2021 DoD Inspector General complaint has never been published. FOIA releases have produced the IG's February 2023 interview transcript of Elizondo (103 pages), 126 pages of IG emails released February 2024, and 40 further pages in March 2025 — but no finding, no substantiation determination, and no corrective action. The DoD IG report released publicly on 7 January 2026 (case DODOIG-2025-000932, closed February 2025, not substantiated) concerns a different, heavily redacted complainant whose profile matches David Grusch, not Elizondo. Do not conflate them."
  },

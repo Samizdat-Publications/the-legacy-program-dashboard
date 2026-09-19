@@ -33,11 +33,78 @@
 "source": "DEBRIEFED with Chris Ramsay, 'Hidden Alien Photos - Amaury Rivera pt 3', 22 May 2026, 0:09:40, transcript in dist/transcripts/md/",
 "text": "On DEBRIEFED with Chris Ramsay, 22 May 2026, at 0:09:40, host Chris Ramsay, attributing the account to the Puerto Rican researcher Jorge Martin, said that the FAA confirmed the deployment of multiple F-14s 'for testing' near Cabo Rojo at the time of a December 1988 mass sighting, and that the Americans later denied it. No record opened here bears on that claim.",
 "tier": 2
+},
+{
+"source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
+"text": "Its Alaskan Region issued a press release on 5 March 1987 on the Japan Air Lines 1628 incident, stating that agency experts at the Technical Center in Atlantic City 'determined that a second radar target near the JAL flight... was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return', and concluding 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.'",
+"tier": 1
+},
+{
+"source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"text": "In a letter of 27 June 2001 responding to a FOIA request it stated: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed. Over 1,500 pages were subsequently located at the National Archives in Record Group 237, archival identifier 733667.",
+"tier": 1
+},
+{
+"source": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/ , opened 2026-09-19",
+"text": "The surviving file records the agency's own process in dated documents: FAA Form 8020-5 Aircraft Incident Record, FAA Form 3112, FAA Form 1600-32-1 interview notes, and transcripts of interviews with the three JAL crew members on 2, 5 and 15 January 1987.",
+"tier": 1
 }
 ],
 "cls": "institution",
 "cluster": "oversight",
 "connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1987-03-05",
+"dateStart": "1986-11-17",
+"direction": "in",
+"edgeLabel": "The agency investigated it, issued a finding and created the file",
+"id": "jal-1628-1986",
+"l0": false,
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"note": "FAA Alaskan Region press release of 5 March 1987; the agency's own forms and crew interviews; and the 1,500-page file in Record Group 237.",
+"sources": [
+{
+"date": "2001",
+"name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1985-07",
+"direction": "in",
+"edgeLabel": "FAA Washington headquarters management post, mid-1980s; title disputed",
+"id": "john-callahan",
+"l0": false,
+"label": "John Callahan",
+"note": "Employment at FAA headquarters is supported by an OMB Form 171 he supplied. The TITLE is not: the researcher who set out to confirm it found him in the public record as 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the Associate Administrator for Air Traffic, and wrote that 'none of them really matched his claimed Accidents, Evaluations and Investigations area'.",
+"sources": [
+{
+"date": "2015-10",
+"name": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt1', The UFO Chronicles",
+"url": "https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter.html"
+},
+{
+"date": "2015-10-05",
+"name": "Paul Dean, 'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2', The UFO Chronicles",
+"url": "https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
 {
 "claimTier": 1,
 "cls": "institution",
@@ -89,11 +156,12 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1967-04-01",
-"deg": 2,
+"deg": 4,
 "denials": [],
 "desc": "The civil aviation regulator inside the Department of Transportation, and one of the eight agencies that have transferred records into the National Archives' Unidentified Anomalous Phenomena Records Collection under sections 1841 to 1843 of the FY2024 National Defense Authorization Act. Its series, National Archives Identifier 493468575, holds 575 PDF files under two accessions and is listed first on NARA's own RG 615 page. The series is withheld in part under UAP Records Collection Postponement Code 1843(a)(3). This node is a promotion from board prose, where the agency is already named as an RG 615 contributor, rather than a discovery from the podcast corpus.",
 "domains": [
-"area52-2026-09-02"
+"area52-2026-09-02",
+"disclosure-project-2026-09-19"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -124,10 +192,44 @@
 "date": "2026-09-02",
 "name": "National Archives, Bulk Downloads for Records Related to Unidentified Anomalous Phenomena (UAPs)",
 "url": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download"
+},
+{
+"date": "2001",
+"name": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr.",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
 }
 ],
 "sub": "Civil aviation regulator in the Department of Transportation; first-listed contributing agency to NARA Record Group 615",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 404 of 1094, score 33). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 205 of 1105, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"timeline": [
+{
+"date": "1987-03-05",
+"id": "tl-1987-03-05-faa-alaska-release",
+"label": "FAA Alaskan Region press release concludes against a second aircraft",
+"precision": "day",
+"strand": "oversight",
+"text": "The FAA Alaskan Region issued a press release stating that agency experts at the Technical Center in Atlantic City 'determined that a second radar target near the JAL flight... was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return', and concluding: 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.'",
+"tier": "A"
+},
+{
+"date": "2001-06-27",
+"id": "tl-2001-06-27-faa-destruction-letter",
+"label": "FAA tells a FOIA requester the JAL 1628 records will be destroyed in 30 days",
+"precision": "day",
+"strand": "coverup",
+"text": "Letter of 27 June 2001: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed. Over 1,500 pages were later found at the National Archives.",
+"tier": "A"
+}
+]
 }

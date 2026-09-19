@@ -71,6 +71,27 @@
 "type": "research"
 },
 {
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1987-03-05",
+"dateStart": "1986-11-17",
+"direction": "in",
+"edgeLabel": "A civil-aviation case with a crew, an ATC transcript and a radar record",
+"id": "jal-1628-1986",
+"l0": false,
+"label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"note": "The file contains crew statements, air traffic control transcripts with flight-path charts, and radar data and computer plots.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986'",
+"url": "https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
 "claimTier": 2,
 "cls": "location",
 "dateEnd": null,
@@ -95,7 +116,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "2004-11-14",
-"deg": 3,
+"deg": 4,
 "denials": [],
 "desc": "Aviators are the highest-value witness class in this field for one reason: their observations arrive with instrumentation attached. A fighter pilot's account of an object is accompanied by radar tracks, targeting-pod video, wingman corroboration and, in the Navy's case, an entire carrier strike group's sensor picture - which converts a subjective report into a multi-sensor event that can be argued about technically. That is why the 2004 Nimitz encounter and the 2014-2015 Roosevelt encounters became the fulcrum of the modern disclosure period, and why the Department of Defense's formal release of the FLIR1, GIMBAL and GOFAST videos on 27 April 2020 mattered so much: the government authenticated the imagery while declining to explain it. Ryan Graves's testimony added the operational dimension that outlasts any single case - that objects were being encountered routinely off the eastern seaboard, that there was no functioning reporting mechanism, and that the stigma attached to reporting was itself a flight safety hazard. Knuth, Powell and Reali's peer-reviewed analysis of the Nimitz kinematics turned the accounts into numbers. Scoring high on this domain means an entity flew, controlled or commanded during such an event.",
 "domains": [
@@ -161,7 +182,7 @@
 ],
 "sub": "Witness domain - the trained observers whose accounts came with sensor corroboration",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 595 of 1094, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 572 of 1105, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "date": "2020-04-27",

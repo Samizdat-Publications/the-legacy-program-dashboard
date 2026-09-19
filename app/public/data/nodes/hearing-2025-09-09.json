@@ -815,7 +815,7 @@
 "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -1266,7 +1266,7 @@
 "cls": "location",
 "id": "l-vandenberg",
 "label": "Vandenberg Space Force Base, California",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1369,7 +1369,7 @@
 ],
 "sub": "congressional-hearings",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 13 of 1094, score 117). 33 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 13 of 1105, score 117). 33 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
 "date": "2025-02-19",

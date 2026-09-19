@@ -2216,6 +2216,22 @@
 "tier": 1
 },
 {
+"a": "big-sur-1964",
+"b": "l-vandenberg",
+"dateStart": "1964-08",
+"label": "Coverage of Vandenberg launches from a site about 100 miles north",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "big-sur-1964",
+"b": "usaf",
+"dateStart": "1964-08",
+"label": "An Air Force telescope deployment covering Air Force Western Test Range launches",
+"t": "programmatic",
+"tier": 1
+},
+{
 "a": "blackvault-pursue-archive",
 "b": "pursue-releases",
 "dateStart": "2026-05-11",
@@ -2817,6 +2833,14 @@
 },
 {
 "a": "charles-halt",
+"b": "larry-warren",
+"dateStart": null,
+"label": "Reported as stating that Warren 'was not there'",
+"t": "denial",
+"tier": 3
+},
+{
+"a": "charles-halt",
 "b": "rendlesham-1980",
 "dateStart": "1980",
 "label": "Halt personally led the 28 December 1980 forest patrol",
@@ -3333,6 +3357,30 @@
 "dateStart": "1984",
 "label": "Documentary method versus anonymous-testimony method",
 "t": "research",
+"tier": 3
+},
+{
+"a": "clifford-stone",
+"b": "disclosure-project-briefing-2001",
+"dateStart": "2000-09",
+"label": "Testimony at section 3.8.4, dated September 2000",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "clifford-stone",
+"b": "national-press-club-2001",
+"dateStart": "2001-05-09",
+"label": "Shown at the podium by Fox News Channel, 9 May 2001",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "clifford-stone",
+"b": "rendlesham-1980",
+"dateStart": "1980-12",
+"label": "Claims an Army team took him there in late December 1980",
+"t": "witness-chain",
 "tier": 3
 },
 {
@@ -4204,6 +4252,14 @@
 "b": "mike-turner",
 "dateStart": "2023",
 "label": "Named-source account of what Turner demanded in conference",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "daniel-sheehan",
+"b": "national-press-club-2001",
+"dateStart": "2001-05-09",
+"label": "Counsel to the Project, at the podium on 9 May 2001",
 "t": "witness-chain",
 "tier": 2
 },
@@ -5729,11 +5785,67 @@
 },
 {
 "a": "disclosure-project-briefing-2001",
+"b": "disclosure-project",
+"dateStart": "2001-04",
+"label": "The Project's own compiled briefing document, April 2001",
+"t": "research",
+"tier": 1
+},
+{
+"a": "disclosure-project-briefing-2001",
 "b": "steven-greer",
 "dateStart": "2001-04",
 "label": "Named as its director and compiler",
 "t": "custody",
 "tier": 1
+},
+{
+"a": "disclosure-project-briefing-2001",
+"b": "steven-greer",
+"dateStart": "2001-04",
+"label": "Written and compiled by Greer, who also conducted every interview in it",
+"t": "research",
+"tier": 1
+},
+{
+"a": "disclosure-project-witness-set",
+"b": "d-witness",
+"dateStart": "2000-07",
+"label": "A cohort of claimants, which is what this domain is for",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "disclosure-project-witness-set",
+"b": "disclosure-project-briefing-2001",
+"dateStart": "2001-04",
+"label": "The cohort is defined by section 3.8 of the document",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "disclosure-project-witness-set",
+"b": "lockheed-martin",
+"dateStart": null,
+"label": "Carries the Don Phillips claim of work with Kelly Johnson at the Skunk Works",
+"t": "witness-chain",
+"tier": 3
+},
+{
+"a": "disclosure-project-witness-set",
+"b": "nasa",
+"dateStart": "1966",
+"label": "Carries the Wolfe and Hare claims about NASA imagery, against NASA's own records",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "disclosure-project-witness-set",
+"b": "nsa",
+"dateStart": null,
+"label": "Carries the Wolfe claim of an NSA facility at Langley AFB handling Lunar Orbiter imagery",
+"t": "witness-chain",
+"tier": 3
 },
 {
 "a": "disclosure-symposium-2026",
@@ -9784,6 +9896,30 @@
 "tier": 2
 },
 {
+"a": "jal-1628-1986",
+"b": "d-aviators",
+"dateStart": "1986-11-17",
+"label": "A civil-aviation case with a crew, an ATC transcript and a radar record",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "jal-1628-1986",
+"b": "faa",
+"dateStart": "1986-11-17",
+"label": "The agency investigated it, issued a finding and created the file",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "jal-1628-1986",
+"b": "the-black-vault",
+"dateStart": "2001-05",
+"label": "Federal file recovered after seventeen years and two destruction notices",
+"t": "research",
+"tier": 1
+},
+{
 "a": "james-clapper",
 "b": "depsecdef-sap-packet-2009",
 "dateStart": "2009",
@@ -10480,6 +10616,38 @@
 "tier": 2
 },
 {
+"a": "john-callahan",
+"b": "disclosure-project-briefing-2001",
+"dateStart": "2000-10",
+"label": "Testimony at section 3.8.2, dated October 2000",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "john-callahan",
+"b": "faa",
+"dateStart": "1985-07",
+"label": "FAA Washington headquarters management post, mid-1980s; title disputed",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "john-callahan",
+"b": "jal-1628-1986",
+"dateStart": "1986-11",
+"label": "Claimed role in the FAA's handling of the case",
+"t": "investigative",
+"tier": 2
+},
+{
+"a": "john-callahan",
+"b": "national-press-club-2001",
+"dateStart": "2001-05-09",
+"label": "Spoke at the podium, 9 May 2001",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "john-cramer",
 "b": "dird-the-space-communication-implications-of-quantum",
 "dateStart": null,
@@ -10533,6 +10701,14 @@
 "dateStart": "2017",
 "label": "Requested 17 Dec 2017; final response 17 Aug 2022",
 "t": "investigative",
+"tier": 1
+},
+{
+"a": "john-greenewald",
+"b": "jal-1628-1986",
+"dateStart": "2001-05",
+"label": "Requester and locator of the National Archives file",
+"t": "research",
 "tier": 1
 },
 {
@@ -10985,6 +11161,14 @@
 },
 {
 "a": "kevin-randle",
+"b": "clifford-stone",
+"dateStart": "2021-02-14",
+"label": "Thirty-year acquaintance who records the same discrepancies from the record",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "kevin-randle",
 "b": "don-schmitt",
 "dateStart": "1991",
 "label": "Co-authors of the two Roswell books, later estranged",
@@ -11022,6 +11206,22 @@
 "label": "Fed the reporting stream that became the UAPTF caseload",
 "t": "investigative",
 "tier": 3
+},
+{
+"a": "kingston-george",
+"b": "big-sur-1964",
+"dateStart": "1964-08",
+"label": "Project engineer for the deployment",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "kingston-george",
+"b": "robert-jacobs",
+"dateStart": "1993",
+"label": "Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993",
+"t": "denial",
+"tier": 1
 },
 {
 "a": "kirk-mayer",
@@ -11800,6 +12000,22 @@
 "tier": 1
 },
 {
+"a": "larry-warren",
+"b": "disclosure-project-briefing-2001",
+"dateStart": "2000-09",
+"label": "Testimony at section 3.8.4, dated September 2000",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "larry-warren",
+"b": "rendlesham-1980",
+"dateStart": "1980-12",
+"label": "Claims presence at the December 1980 events; contested",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "laurance-rockefeller",
 "b": "john-podesta",
 "dateStart": "1993",
@@ -12548,6 +12764,14 @@
 "b": "disclosure-project",
 "dateStart": "2000-12",
 "label": "Disclosure Project witness, testimony taken December 2000",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "mark-mccandlish",
+"b": "disclosure-project-briefing-2001",
+"dateStart": "2000-12",
+"label": "Testimony at section 3.8.5, dated December 2000",
 "t": "witness-chain",
 "tier": 1
 },
@@ -13557,6 +13781,30 @@
 "dateStart": "2024",
 "label": "NARA is custodian without power to compel transmission",
 "t": "custody",
+"tier": 1
+},
+{
+"a": "national-press-club-2001",
+"b": "d-media",
+"dateStart": "2001-05-09",
+"label": "A press event whose purpose was coverage, covered the same day by a national broadcaster",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "national-press-club-2001",
+"b": "disclosure-project",
+"dateStart": "2001-05-09",
+"label": "The Project's press conference, 9 May 2001",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "national-press-club-2001",
+"b": "disclosure-project-briefing-2001",
+"dateStart": "2001-04",
+"label": "Document April 2001; press conference 9 May 2001; different and largely unknown rosters",
+"t": "temporal",
 "tier": 1
 },
 {
@@ -15216,6 +15464,22 @@
 "tier": 2
 },
 {
+"a": "peter-robbins",
+"b": "larry-warren",
+"dateStart": "2017-06-13",
+"label": "Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "peter-robbins",
+"b": "rendlesham-1980",
+"dateStart": null,
+"label": "Co-author of a book-length treatment of the event, later repudiated by him",
+"t": "research",
+"tier": 2
+},
+{
 "a": "peter-skafish",
 "b": "sol-foundation",
 "dateStart": "2022",
@@ -15237,6 +15501,22 @@
 "dateStart": "1954",
 "label": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
 "t": "geographic",
+"tier": 1
+},
+{
+"a": "philip-j-klass",
+"b": "clifford-stone",
+"dateStart": "2001",
+"label": "Obtained his service record from the National Personnel Records Center and printed it against the claim",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "philip-j-klass",
+"b": "disclosure-project",
+"dateStart": "2001",
+"label": "Dated published critique of the Project by name, Summer 2001",
+"t": "denial",
 "tier": 1
 },
 {
@@ -16398,6 +16678,30 @@
 "label": "Convened and hosted the National Press Club event",
 "t": "witness-chain",
 "tier": 2
+},
+{
+"a": "robert-jacobs",
+"b": "big-sur-1964",
+"dateStart": "1964-08",
+"label": "On-site commander at the filming; his presence, unit and role confirmed by the project engineer in print",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "robert-jacobs",
+"b": "disclosure-project-briefing-2001",
+"dateStart": "2000-11",
+"label": "Testimony at section 3.8.3, dated November 2000",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "robert-jacobs",
+"b": "l-vandenberg",
+"dateStart": "1963-05",
+"label": "1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966",
+"t": "geographic",
+"tier": 1
 },
 {
 "a": "robert-low",
@@ -17820,6 +18124,14 @@
 "b": "john-podesta",
 "dateStart": "1993",
 "label": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "steven-greer",
+"b": "national-press-club-2001",
+"dateStart": "2001-05-09",
+"label": "Organiser of the event",
 "t": "institutional",
 "tier": 1
 },

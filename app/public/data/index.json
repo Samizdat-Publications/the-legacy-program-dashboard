@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3485,
-   "2": 1527,
-   "3": 535
+   "1": 3550,
+   "2": 1571,
+   "3": 551
   },
-  "edges": 2570,
-  "entities": 770,
+  "edges": 2609,
+  "entities": 774,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
-  "l0": 142,
-  "nodes": 1094,
+  "l0": 145,
+  "nodes": 1105,
   "patents": 5,
-  "people": 324,
+  "people": 331,
   "sheets": 11,
   "threads": 8,
-  "timeline": 978
+  "timeline": 1002
  },
  "eras": [
   {
@@ -1319,7 +1319,7 @@
    "label": "Alfred 'Al' O'Donnell",
    "short": "Alfred 'Al' O'Donnell",
    "status": "dead",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -2231,7 +2231,7 @@
    "label": "Ben R. Rich",
    "short": "Ben R. Rich",
    "status": "dead",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -2352,6 +2352,30 @@
    "short": "Betty J. Sapp",
    "status": "former",
    "tier": "C"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    6,
+    3,
+    0
+   ],
+   "cls": "event",
+   "cluster": "legacy",
+   "dateEnd": "1964-11",
+   "dateStart": "1964-08",
+   "deg": 4,
+   "era": "0",
+   "hl": null,
+   "id": "big-sur-1964",
+   "l0": false,
+   "label": "Big Sur missile-test filming, September 1964",
+   "short": "Big Sur missile-test filming, September 1964",
+   "status": null,
+   "tier": "B"
   },
   {
    "A": 2,
@@ -2807,7 +2831,7 @@
    "label": "Howard P. \"Buck\" McKeon",
    "short": "Howard P. \"Buck\" McKeon",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -3297,13 +3321,13 @@
    "claims": [
     2,
     1,
-    0
+    1
    ],
    "cls": "person",
-   "cluster": "witness",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1981-01-13",
-   "deg": 2,
+   "deg": 3,
    "era": "1",
    "hl": null,
    "id": "charles-halt",
@@ -3311,7 +3335,7 @@
    "label": "Charles I. Halt",
    "short": "Charles I. Halt",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -3818,6 +3842,30 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    0,
+    8,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2021-02-10",
+   "deg": 5,
+   "era": "3",
+   "hl": null,
+   "id": "clifford-stone",
+   "l0": false,
+   "label": "Clifford E. Stone",
+   "short": "Clifford E. Stone",
+   "status": "dead",
+   "tier": "B"
+  },
+  {
    "A": 1,
    "C": 1,
    "D": 3,
@@ -4287,7 +4335,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2004-11-14",
-   "deg": 3,
+   "deg": 4,
    "era": "2",
    "hl": null,
    "id": "d-aviators",
@@ -4871,7 +4919,7 @@
    "label": "Legislative Process (proposed and pending)",
    "short": "Legislative Process (proposed and pending)",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -4935,7 +4983,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2017",
-   "deg": 11,
+   "deg": 12,
    "era": "3",
    "hl": null,
    "id": "d-media",
@@ -5487,7 +5535,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1947-07-08",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "d-witness",
@@ -5576,14 +5624,14 @@
    "band": null,
    "claims": [
     0,
-    4,
+    7,
     1
    ],
    "cls": "person",
    "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2023-11-27",
-   "deg": 5,
+   "deg": 6,
    "era": "3",
    "hl": null,
    "id": "daniel-sheehan",
@@ -5591,7 +5639,7 @@
    "label": "Daniel P. Sheehan",
    "short": "Daniel P. Sheehan",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -7133,25 +7181,49 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": null,
+   "band": "research",
    "claims": [
-    1,
-    1,
+    3,
+    3,
     1
    ],
    "cls": "program",
-   "cluster": "witness",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1993",
-   "deg": 5,
+   "deg": 7,
    "era": "1",
    "hl": null,
    "id": "disclosure-project",
-   "l0": false,
+   "l0": true,
    "label": "The Disclosure Project",
    "short": "The Disclosure Project",
    "status": null,
-   "tier": "C"
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "claims": [
+    7,
+    1,
+    1
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": "2001-04",
+   "dateStart": "2001-04",
+   "deg": 10,
+   "era": "2",
+   "hl": null,
+   "id": "disclosure-project-briefing-2001",
+   "l0": true,
+   "label": "Disclosure Project Briefing Document, April 2001",
+   "short": "DP Briefing Document, April 2001",
+   "status": null,
+   "tier": "B"
   },
   {
    "A": 0,
@@ -7159,23 +7231,23 @@
    "D": 3,
    "band": null,
    "claims": [
-    3,
-    1,
-    0
+    8,
+    0,
+    4
    ],
-   "cls": "document",
+   "cls": "institution",
    "cluster": "witness",
-   "dateEnd": "2001-04",
-   "dateStart": "2001-04",
-   "deg": 3,
+   "dateEnd": "2001-05-09",
+   "dateStart": "2000-07",
+   "deg": 5,
    "era": "2",
    "hl": null,
-   "id": "disclosure-project-briefing-2001",
+   "id": "disclosure-project-witness-set",
    "l0": false,
-   "label": "Disclosure Project Briefing Document, April 2001",
-   "short": "Disclosure Project Briefing Document, April 2001",
+   "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+   "short": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -8743,7 +8815,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    5,
+    8,
     1,
     0
    ],
@@ -8751,7 +8823,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1967-04-01",
-   "deg": 2,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "faa",
@@ -11183,7 +11255,7 @@
    "label": "Hoyt S. Vandenberg",
    "short": "Hoyt S. Vandenberg",
    "status": "dead",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -12218,6 +12290,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    5,
+    3,
+    1
+   ],
+   "cls": "event",
+   "cluster": "oversight",
+   "dateEnd": "1987-03-05",
+   "dateStart": "1986-11-17",
+   "deg": 5,
+   "era": "1",
+   "hl": null,
+   "id": "jal-1628-1986",
+   "l0": false,
+   "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+   "short": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+   "status": null,
+   "tier": "B"
+  },
+  {
    "A": 3,
    "C": 1,
    "D": 0,
@@ -13127,6 +13223,30 @@
    "label": "John Burroughs",
    "short": "John Burroughs",
    "status": "active",
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    4,
+    4,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 4,
+   "era": "nd",
+   "hl": null,
+   "id": "john-callahan",
+   "l0": false,
+   "label": "John Callahan",
+   "short": "John Callahan",
+   "status": "unknown",
    "tier": "B"
   },
   {
@@ -13183,15 +13303,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    9,
+    11,
     1,
     0
    ],
    "cls": "person",
-   "cluster": "media",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "2022-08-17",
-   "deg": 14,
+   "deg": 15,
    "era": "3",
    "hl": null,
    "id": "john-greenewald",
@@ -13583,7 +13703,7 @@
    "label": "Kecksburg incident, 9 December 1965",
    "short": "Kecksburg incident, 9 December 1965",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -13736,14 +13856,14 @@
    "band": null,
    "claims": [
     0,
-    3,
+    6,
     0
    ],
    "cls": "person",
-   "cluster": "research",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1949-06-04",
-   "deg": 5,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "kevin-randle",
@@ -13800,6 +13920,30 @@
    "short": "Kingman, Arizona claim, 1953",
    "status": null,
    "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "research",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 2,
+   "era": "nd",
+   "hl": null,
+   "id": "kingston-george",
+   "l0": false,
+   "label": "Kingston A. George",
+   "short": "Kingston A. George",
+   "status": "unknown",
+   "tier": "B"
   },
   {
    "A": 0,
@@ -15559,15 +15703,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    0,
+    3,
     3,
     1
    ],
    "cls": "location",
-   "cluster": "legacy",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1941",
-   "deg": 3,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "l-vandenberg",
@@ -15575,7 +15719,7 @@
    "label": "Vandenberg Space Force Base, California",
    "short": "Vandenberg Space Force Base, California",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -15816,6 +15960,30 @@
    "short": "Larry G. Lemke",
    "status": "active",
    "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    0,
+    5,
+    3
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 4,
+   "era": "nd",
+   "hl": null,
+   "id": "larry-warren",
+   "l0": false,
+   "label": "Larry Warren",
+   "short": "Larry Warren",
+   "status": "unknown",
+   "tier": "B"
   },
   {
    "A": 1,
@@ -16167,7 +16335,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1995",
-   "deg": 30,
+   "deg": 31,
    "era": "1",
    "hl": null,
    "id": "lockheed-martin",
@@ -16545,13 +16713,13 @@
    "claims": [
     0,
     11,
-    0
+    1
    ],
    "cls": "person",
    "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2021-04-13",
-   "deg": 16,
+   "deg": 17,
    "era": "3",
    "hl": null,
    "id": "mark-mccandlish",
@@ -16943,7 +17111,7 @@
    "label": "Michael Powers",
    "short": "Michael Powers",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -17647,15 +17815,15 @@
    "D": 3,
    "band": "research",
    "claims": [
-    4,
+    6,
     0,
     0
    ],
    "cls": "institution",
-   "cluster": "research",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1958-07-29",
-   "deg": 15,
+   "deg": 16,
    "era": "0",
    "hl": null,
    "id": "nasa",
@@ -17663,7 +17831,7 @@
    "label": "National Aeronautics and Space Administration",
    "short": "NASA",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -17808,6 +17976,30 @@
    "short": "National Archives and Records Administration",
    "status": null,
    "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "disclosure",
+   "claims": [
+    4,
+    1,
+    1
+   ],
+   "cls": "event",
+   "cluster": "witness",
+   "dateEnd": "2001-05-09",
+   "dateStart": "2001-05-09",
+   "deg": 7,
+   "era": "2",
+   "hl": null,
+   "id": "national-press-club-2001",
+   "l0": true,
+   "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
+   "short": "Disclosure Project, 9 May 2001",
+   "status": null,
+   "tier": "C"
   },
   {
    "A": 2,
@@ -18783,7 +18975,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1952-11-04",
-   "deg": 10,
+   "deg": 11,
    "era": "0",
    "hl": null,
    "id": "nsa",
@@ -19850,6 +20042,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    4,
+    0
+   ],
+   "cls": "person",
+   "cluster": "research",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 2,
+   "era": "nd",
+   "hl": null,
+   "id": "peter-robbins",
+   "l0": false,
+   "label": "Peter Robbins",
+   "short": "Peter Robbins",
+   "status": "unknown",
+   "tier": "C"
+  },
+  {
    "A": 1,
    "C": 0,
    "D": 3,
@@ -19896,6 +20112,30 @@
    "short": "Philip J. Corso",
    "status": "dead",
    "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "research",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 2,
+   "era": "nd",
+   "hl": null,
+   "id": "philip-j-klass",
+   "l0": false,
+   "label": "Philip J. Klass",
+   "short": "Philip J. Klass",
+   "status": "unknown",
+   "tier": "B"
   },
   {
    "A": 1,
@@ -20911,15 +21151,15 @@
    "D": 3,
    "band": "retrieval",
    "claims": [
-    2,
-    1,
-    0
+    3,
+    3,
+    1
    ],
    "cls": "event",
-   "cluster": "witness",
+   "cluster": "other",
    "dateEnd": "1981",
    "dateStart": "1980",
-   "deg": 9,
+   "deg": 12,
    "era": "1",
    "hl": null,
    "id": "rendlesham-1980",
@@ -20927,7 +21167,7 @@
    "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
    "short": "Rendlesham Forest, 1980",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 2,
@@ -21383,6 +21623,30 @@
    "label": "Robert L. Hastings",
    "short": "Robert L. Hastings",
    "status": "active",
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    6,
+    2,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 4,
+   "era": "nd",
+   "hl": null,
+   "id": "robert-jacobs",
+   "l0": false,
+   "label": "Robert M. Jacobs",
+   "short": "Robert M. Jacobs",
+   "status": "unknown",
    "tier": "B"
   },
   {
@@ -21911,7 +22175,7 @@
    "label": "S-4 / Papoose Lake, Nevada",
    "short": "S-4 / Papoose Lake, Nevada",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -23335,15 +23599,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    1,
-    4,
+    3,
+    6,
     0
    ],
    "cls": "person",
-   "cluster": "media",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "2001-05-09",
-   "deg": 8,
+   "deg": 9,
    "era": "2",
    "hl": null,
    "id": "steven-greer",
@@ -23767,15 +24031,15 @@
    "D": 3,
    "band": "custody",
    "claims": [
-    3,
+    6,
     0,
     0
    ],
    "cls": "institution",
-   "cluster": "media",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1996",
-   "deg": 8,
+   "deg": 9,
    "era": "1",
    "hl": null,
    "id": "the-black-vault",
@@ -24119,7 +24383,7 @@
    "label": "Timothy A. Phillips",
    "short": "Timothy A. Phillips",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -25263,7 +25527,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 24,
+   "deg": 25,
    "era": "0",
    "hl": null,
    "id": "usaf",
@@ -26426,5 +26690,5 @@
    "tier": "C"
   }
  ],
- "source": "4aaef0272336"
+ "source": "0e80372c95cd"
 }

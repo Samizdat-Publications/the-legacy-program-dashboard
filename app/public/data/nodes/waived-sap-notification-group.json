@@ -294,7 +294,7 @@
 "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -1359,7 +1359,7 @@
 "cls": "person",
 "id": "buck-mckeon",
 "label": "Howard P. \"Buck\" McKeon",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -1569,6 +1569,6 @@
 ],
 "sub": "The persons entitled to notice of, and access to, a waived DoD special access program",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 25 of 1094, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 25 of 1105, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.",
 "timeline": []
 }

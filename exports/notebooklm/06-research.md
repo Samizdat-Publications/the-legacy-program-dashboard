@@ -1,6 +1,6 @@
 # The research band
 
-The programme map splits the 142 nodes closest to the alleged programme into seven bands, and this file is the research band: 40 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 145 nodes closest to the alleged programme into seven bands, and this file is the research band: 42 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -10,7 +10,7 @@ Names in full, for this file:
 
 ## National Aeronautics and Space Administration
 
-National Aeronautics and Space Administration is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1958-07-29; axes C0 A1 D3; 15 connections; in the research band.
+National Aeronautics and Space Administration is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1958-07-29; axes C0 A1 D3; 16 connections; in the research band.
 
 In one line: Civil space agency; host of the 2023 UAP Independent Study Team.
 
@@ -56,7 +56,7 @@ Roles the board assigns it: research, concealment, disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 197 of 1094, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 147 of 1105, score 52). 16 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -64,11 +64,13 @@ Re-graded B on a global pass (rank 197 of 1094, score 45). 15 connections, 3 of 
 - **Tier 1 documented.** Isaacman identified NASA's own most significant contribution to the disclosure: 'I would say that some of the most interesting data that NASA has provided as part of the UAP disclosure was taken on the surface of the moon from Apollo 12 and 17. You can't be a moon landing denier and also believe that those photos captured unexplained phenomenon.' Source: https://www.foxnews.com/politics/nasa-chief-pulls-back-curtain-trump-ufo-files-after-bizarre-finds-surface-buried-fed-records (27 May 2026)
 - **Tier 1 documented.** Isaacman stated that federal agencies did not conduct UAP records searches until compelled: 'Government agencies really didn't take this quite as seriously in the past until President Trump put out the tweet, basically giving an order to government agencies and going out and saying, look, this time you better go through the files, you better start searching your databases and bring things up.' Source: https://www.foxnews.com/politics/nasa-chief-pulls-back-curtain-trump-ufo-files-after-bizarre-finds-surface-buried-fed-records (27 May 2026)
 - **Tier 1 documented.** Isaacman stated: 'There's nothing I'm aware of in terms of alien bodies or spaceships.', a personal-knowledge formulation rather than an institutional denial. Source: https://www.foxnews.com/politics/nasa-chief-pulls-back-curtain-trump-ufo-files-after-bizarre-finds-surface-buried-fed-records (27 May 2026)
+- **Tier 1 documented.** Its own NSSDCA master catalogue states that 'The Lunar Orbiter program was managed by NASA Langley Research Center', with Lunar Orbiter 1 launched on 10 August 1966 and photographic data acquired 'from August 18 to 29, 1966, and readout occurred through September 14, 1966'. This is the agency record against which the Karl Wolfe claim, which places Lunar Orbiter imagery at an NSA facility on Langley Air Force Base, must be measured. Source: NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A, opened 2026-09-19
 - **Tier 1 documented.** Mark McInerney 'previously served as NASA's liaison to the Department of Defense covering limited UAP activities for the agency,' and has held positions at NASA's Goddard Space Flight Center, NOAA and the National Hurricane Center since 1996. Administrator Bill Nelson said the new director would apply 'artificial intelligence and machine learning to search the skies for anomalies' and that 'NASA will do this work transparently for the benefit of humanity.' Source: https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/ (14 September 2023)
 - **Tier 1 documented.** NASA Administrator Jared Isaacman stated on 27 May 2026: 'What's being surfaced isn't crashed ships or alien bodies, but real unexplained phenomena.' Source: https://www.foxnews.com/politics/nasa-chief-pulls-back-curtain-trump-ufo-files-after-bizarre-finds-surface-buried-fed-records (Fox News Digital interview, published 27 May 2026)
 - **Tier 1 documented.** NASA published the 'Unidentified Anomalous Phenomena Independent Study Team Report' on 14 September 2023, from a 16-member panel chaired by Dr David Spergel and including Capt. Scott Kelly (USN, ret.), Dr Anamaria Berea, Dr Federica Bianco and Dr David Grinspoon. Source: NASA UAP Independent Study Team Report, 14 September 2023
 - **Tier 1 documented.** NASA states in the same release that 'The report is not a review or assessment of previous UAP incidents', the study's charter excluded the historical record. Source: https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/ (14 September 2023)
 - **Tier 1 documented.** On 14 September 2023, under release 23-106, NASA published the UAP Independent Study Team final report and announced the appointment of Mark McInerney as director of UAP research. Source: https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/ (NASA RELEASE 23-106, 14 September 2023)
+- **Tier 1 documented.** Philco-Ford, the contractor named in the Donna Hare claim, is documented as a NASA Manned Spacecraft Center contractor by Ford Motor Company's own corporate history, which records that it won the Mission Control Center contract at Houston in 1963 against IBM, RCA, Lockheed, Hughes Aircraft and AT&T. Source: Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center', https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html, opened 2026-09-19
 - **Tier 1 documented.** Spergel stated: 'Using unclassified data was essential for our team's fact-finding, open-communication collaboration, and for upholding scientific rigor to produce this report for NASA.' Source: https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/ (14 September 2023)
 - **Tier 1 documented.** The Department of War's PURSUE Release 05 slideshow (7 August 2026) carries an image captioned as 'A photograph of an unidentified object in low-Earth orbit, taken from Space Shuttle Columbia in 1996' while the underlying file is named DOW-UAP-D098_Film-Analysis-of-Unidentified-Objects_1953.jpg, a 43-year date discrepancy inside the government's own release metadata. Source: https://www.war.gov/UFO/ (Release 05 slideshow; file https://www.war.gov/portals/1/Interactive/2026/UFO/080726/Slideshow/DOW-UAP-D098_Film-Analysis-of-Unidentified-Objects_1953.jpg)
 - **Tier 1 documented.** The independent study team was chaired by David Spergel, president of the Simons Foundation, and comprised sixteen experts; it was set up outside NASA and used unclassified data from civilian government entities, commercial data and other sources. Source: https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/ (14 September 2023)
@@ -93,9 +95,11 @@ Re-graded B on a global pass (rank 197 of 1094, score 45). 15 connections, 3 of 
 - National Aeronautics and Space Administration comes in from **Mark McInerney** (person, board tier C), a institutional link at Tier 1 documented. The link reads: NASA Director of UAP Research. Appointment announced 14 September 2023; no public outputs from the role have been identified since. Sources: The Debrief - NASA IST publishes findings, agency appoints UAP research director, https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/, dated 2023-09-14.
 - National Aeronautics and Space Administration comes in from **Blue Marble Space Institute of Science** (institution, board tier C), a research link at Tier 1 documented. The link reads: BMSIS research investigator seated on NASA's UAP independent study team. NASA's announcement of the 16-member independent study team describes Anamaria Berea as 'an associate professor of Computational and Data Science at George Mason University in Fairfax, Virginia', 'a research affiliate with the SETI Institute' and 'a research investigator with Blue Marble Space Institute of Science in Seattle'. Worth noting for anyone checking: the team's final report of September 2023 lists her affiliation as George Mason University alone, and does not mention Blue Marble or Seattle anywhere in its 36 pages. Both statements are NASA's; the Blue Marble tie is in the announcement, not the report. Sources: NASA, 'NASA Announces Unidentified Aerial Phenomena Study Team Members', 21 October 2022, https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/, dated 2022-10-21; NASA Unidentified Anomalous Phenomena Independent Study Team Report, September 2023, https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; NASA, 'NASA Announces Unidentified Aerial Phenomena Study Team Members,' October 21, 2022 -- https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/
 - National Aeronautics and Space Administration comes in from **NASA Ames Research Center, Mountain View, California** (location, board tier C), a geographic link at Tier 1 documented. The link reads: NASA field centre at Moffett Field. NASA describes Ames as 'one of ten NASA field centers ... located in the heart of California's Silicon Valley', gives its location as Moffett Field, California, and dates its establishment to 20 December 1939, before its absorption into NASA in 1958. Sources: NASA Ames Research Center, https://www.nasa.gov/ames/, dated 2026-08-25; https://en.wikipedia.org/wiki/Ames_Research_Center, https://en.wikipedia.org/wiki/Ames_Research_Center
+- National Aeronautics and Space Administration comes in from **Disclosure Project witness cohort (68 testimonies, 2000 to 2001)** (institution, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Carries the Wolfe and Hare claims about NASA imagery, against NASA's own records. Wolfe's Lunar Orbiter account runs against the NSSDCA record that the programme was managed by NASA Langley Research Center. Hare's employer, Philco-Ford, is a documented NASA Manned Spacecraft Center contractor per Ford's own corporate history, while her employment is documented nowhere. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A, dated 2026-09-19; Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center', https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html, dated 2026-09-19.
 - National Aeronautics and Space Administration comes in from **PURSUE Release 03** (event, board tier B), a custody link at Tier 2 named person on the record. The link reads: Released NASA Gemini-era crew debriefings. Gemini crew debriefings and 1962 Cronkite-Cooper interview audio were published in the third tranche. Sources: Disclosure Archives - Department of War files index, https://disclosurearchives.com/department-of-war-files, dated 2026-08-01.
 - National Aeronautics and Space Administration comes in from **PURSUE Release 01** (event, board tier B), a custody link at Tier 2 named person on the record. The link reads: Released Apollo 12 and Apollo 17 mission records. Apollo mission records including cockpit transcript describing 'very bright particles or fragments' appear in the first tranche. Sources: Aerotime - US releases UFO files in UAP transparency push, https://www.aerotime.aero/articles/us-releases-ufo-uap-files, dated 2026-05-09; Disclosure Archives - Department of War files index, https://disclosurearchives.com/department-of-war-files, dated 2026-08-01.
-- National Aeronautics and Space Administration runs out to **United States Department of Energy** (institution, board tier A), a research link at Tier 3 stated inference. The link reads: Both hold analytical capability that could resolve material claims and neither has been tasked publicly. NASA's report identifies the classification of military and intelligence data as the binding constraint; DOE laboratories hold the analytical instruments actually used by AARO. Reasoning: the capability exists and the tasking does not. Sources: NASA UAP Independent Study Team Report, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
+
+It carries 16 connections in total on the board.
 
 ## Battelle Memorial Institute
 
@@ -143,7 +147,7 @@ Roles the board assigns it: research, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 35 of 1094, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 36 of 1105, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -237,7 +241,7 @@ Roles the board assigns it: concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 99 of 1094, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
+Re-graded A on a global pass (rank 99 of 1105, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -325,7 +329,7 @@ Roles the board assigns it: concealment, oversight, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 135 of 1094, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+Re-graded A on a global pass (rank 137 of 1105, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -409,7 +413,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 103 of 1094, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 103 of 1105, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -484,7 +488,7 @@ Roles the board assigns it: concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 181 of 1094, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded B on a global pass (rank 183 of 1105, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -499,8 +503,8 @@ Re-graded B on a global pass (rank 181 of 1094, score 46). 9 connections, 3 of t
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge. rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General. Sources: WikiLeaks, The Podesta Emails, email ids 51979 and 15486, https://wikileaks.org/podesta-emails/emailid/15486, dated 2016-02-22.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation** (document, board tier B), a geographic link at Tier 1 documented. The link reads: the companion report names the Lockheed/Burbank plant the testimony would not. GAO/NSIAD-86-191 names 'the Lockheed/Burbank plant'. The testimony itself carries a footnote recording that GAO 'agreed not to identify the nature of the program or the specific DOD component or military service involved'. Sources: GAO/NSIAD-86-191, 7 August 1986, https://www.gao.gov/assets/nsiad-86-191.pdf, dated 1986-08-07.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Richard M. Bissell Jr.** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: Ran the project Kelly Johnson built the aircraft for. Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
-- Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Ben R. Rich** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage. His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation. Sources: Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive), https://archive.org/details/skunkworks00benr, dated 1994-01-01.
 - Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Air Force Plant 42, Palmdale, California** (location, board tier C), a institutional link at Tier 1 documented. The link reads: Skunk Works operates at the government-owned contractor-operated Palmdale facility. Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
+- Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Ben R. Rich** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage. His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation. Sources: Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive), https://archive.org/details/skunkworks00benr, dated 1994-01-01.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Same relayed unnamed informant locates the Skunk Works catty-corner from Plant 42. Same passage, same caveat: relayed, unnamed and uncorroborated, and no record was opened. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
 - Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Groom Lake, Nevada** (location, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards. The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **KONA BLUE** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: Alleges Lockheed-held material was to be transferred. The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence. Sources: NewsNation Reality Check - 'Inside Kona Blue', https://www.youtube.com/watch?v=F2NfXgv8x1E, dated 2026-08-04.
@@ -533,7 +537,7 @@ Roles the board assigns it: concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 151 of 1094, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 153 of 1105, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -592,7 +596,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 136 of 1094, score 53). 8 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 138 of 1105, score 53). 8 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -652,7 +656,7 @@ Roles the board assigns it: custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 154 of 1094, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 156 of 1105, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -726,7 +730,7 @@ Roles the board assigns it: custody, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 139 of 1094, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 141 of 1105, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -755,7 +759,7 @@ Re-graded A on a global pass (rank 139 of 1094, score 53). 7 connections, 1 of t
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **Presidential Determinations on the Air Force's Operating Location Near Groom Lake** (document, board tier B), a denial link at Tier 1 documented. The link reads: The state secrets defence shielded the contractor-operated facility from the workers' suit. Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied. Sources: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08; Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
 - EG&G (Edgerton, Germeshausen and Grier) runs out to **Groom Lake, Nevada** (location, board tier A), a institutional link at Tier 2 named person on the record. The link reads: EG&G provided the classified site services and personnel transport for the Groom Lake operating location. The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility. Sources: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08; Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
 - EG&G (Edgerton, Germeshausen and Grier) runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier B), a institutional link at Tier 2 named person on the record. The link reads: EG&G was the classified services contractor for the Nevada complex in the testing era. Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08.
-- EG&G (Edgerton, Germeshausen and Grier) comes in from **Alfred 'Al' O'Donnell** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada. His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation. Sources: Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times, https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs, dated 2023-02-28; House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- EG&G (Edgerton, Germeshausen and Grier) comes in from **Alfred 'Al' O'Donnell** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada. His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation. Sources: Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times, https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs, dated 2023-02-28; House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **Richard D'Amato** (person, board tier C), a investigative link at Tier 2 named person on the record. The link reads: D'Amato's Senate inquiry reached EG&G and stopped there. Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation. Sources: Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times, https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs, dated 2023-02-28.
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **The Wilson-Davis Notes (16 October 2002)** (document, board tier A), a custody link at Tier 3 stated inference. The link reads: The meeting is reported to have taken place at an EG&G facility in Las Vegas. EG&G held the Groom Lake support and personnel-transport contracts; the reported venue matters because it places the conversation inside the contractor perimeter it describes. Sources: The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing), https://thedebrief.org/summer-of-the-saucers/, dated 2022-08-01.
 
@@ -796,7 +800,7 @@ Roles the board assigns it: research, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 112 of 1094, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 113 of 1105, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -864,7 +868,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 143 of 1094, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 144 of 1105, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -935,7 +939,7 @@ Roles the board assigns it: research, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 230 of 1094, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 236 of 1105, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -983,7 +987,7 @@ Roles the board assigns it: disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 529 of 1094, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 543 of 1105, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1039,7 +1043,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 118 of 1094, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 119 of 1105, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1121,7 +1125,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 198 of 1094, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 201 of 1105, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1194,7 +1198,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 86 of 1094, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 86 of 1105, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1274,7 +1278,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 73 of 1094, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 73 of 1105, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -1307,6 +1311,64 @@ Re-graded A on a global pass (rank 73 of 1094, score 70). 10 connections, 5 of t
 - Operação Prato (Operation Saucer) runs out to **The Black Vault** (institution, board tier B), a custody link at Tier 2 named person on the record. The link reads: The American reporter's Prato dossier sits in Greenewald's archive. A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Operação Prato (Operation Saucer) comes in from **Brazil** (location, board tier C), a geographic link at Tier 2 named person on the record. The link reads: Operação Prato was run on Colares, Pará, in northern Brazil. Pratt's file: intelligence agents 'from the Air Force base in Belém in northern Brazil interviewed hundreds of witnesses in Colares and about thirty other villages north of Belém'. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Operação Prato (Operation Saucer) comes in from **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: commanded the operation. Named as commanding officer in Brazilian press accounts of the released Arquivo Nacional file. Sources: Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
+
+## The Disclosure Project
+
+The Disclosure Project is a program on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1993; axes C0 A0 D3; 7 connections; in the research band.
+
+In one line: Private witness-aggregation and congressional-hearing campaign, 1993-.
+
+### What it is
+
+A private witness-aggregation and congressional-hearing campaign founded by Steven M. Greer, running from 1993, whose method is to interview former military and government personnel on video and publish summarised transcripts. Its April 2001 Briefing Document prints sixty-eight dated testimonies; its press conference of 9 May 2001 presented about twenty witnesses and called for congressional hearings with subpoena power and amnesty.
+
+### Why it is implicated
+
+It is the largest single upstream source of witness claims on this board, and it is also an interested party with an explicit political objective. Both facts have to be visible at once. The board carries its testimony because the testimony is dated and attributed, and grades that testimony carefully because the collection method is one man with a stated goal.
+
+### The longer account
+
+The Disclosure Project's importance to this board is structural rather than evidential. Its Briefing Document is the anchor under a large share of the witness claims the board carries, which is why the document has its own L0 node, and its 2001 press conference is the event most often invoked as the moment those claims entered public life.
+
+Two documented facts complicate it, and the node carries both. It controlled access to its own press events: Klass records being refused admission to a comparable 1997 conference, and reportedly the Fund for UFO Research was refused too. An organisation that selects its audience is entitled to, and a board recording its output should note it. And the Clinton White House's principal UFO FOIA collection, 2006-0474-F, consists in the majority of documents sent to the White House by Greer of CSETI, which means a federal records collection frequently cited as government material is substantially this organisation's own correspondence arriving back through the front door.
+
+Its reach is not only rhetorical. The Wilson-Davis notes record the Disclosure Project's April 1997 Washington briefing week as the proximate trigger for Admiral Thomas Wilson's attempt to locate a special access programme. Whatever one concludes about the testimony, the organisation demonstrably moved a senior officer to go looking, and the board carries that at Tier 3 because the notes themselves are contested.
+
+The 19 September pass found the organisation's cross-referencing habit worth flagging: the compiler links his own witnesses to each other in editorial notes, so convergence inside the Briefing Document is not independent convergence.
+
+Roles the board assigns it: disclosure, research, custody.
+
+### Open questions on this node
+
+- The video recordings behind the sixty-eight printed testimonies. None has been opened.
+- Whether any witness has retracted or amended testimony given to the project.
+- The organisation's funding across its history, which nothing opened here addresses.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 392 of 1105, score 34). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** A FEDERAL FOIA COLLECTION THAT IS SUBSTANTIALLY ITS OWN CORRESPONDENCE. The Clinton White House's principal UFO FOIA collection, 2006-0474-F, consists in the majority of documents sent to the White House by Steven M. Greer of CSETI. A collection routinely cited as government material is largely this organisation's own letters arriving back through the front door. Source: already on the board before this cluster; the collection's own finding aid
+- **Tier 1 documented.** It held a press conference at the National Press Club in Washington DC on 9 May 2001, confirmed the same day by ABC News and within weeks by a hostile contemporaneous newsletter. Source: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, opened 2026-09-19
+- **Tier 1 documented.** Its Briefing Document of April 2001 prints SIXTY-EIGHT dated witness testimonies across five subsections of its section 3.8, 'Summary of Video Taped Witness Testimony and Government Documents', running from the document's printed page 48 to page 349. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
+- **Tier 1 documented.** The Clinton White House's principal UFO FOIA collection (2006-0474-F) consists in the majority of documents sent to the White House by Steven M. Greer of CSETI. Source: Clinton Digital Library collection finding aid 2006-0474-F
+- **Tier 2 named person on the record, allegation shaped wording as stored.** IT CONTROLLED ACCESS TO ITS OWN PRESS EVENTS. Klass records that Greer refused him admission to a comparable press conference in 1997, and reportedly refused the request for admission by the Fund for UFO Research. Source: Klass, contemporaneous newsletter, opened 2026-09-19
+- **Tier 2 named person on the record, allegation shaped wording as stored.** It controlled access to its own press events. Klass records that Greer refused him admission to a comparable press conference in 1997 and 'reportedly refused the request for admission by Fund For UFO Research officials' in 2001. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
+- **Tier 2 named person on the record.** On 9 May 2001 the Disclosure Project presented roughly twenty former military and government witnesses at the National Press Club and called for congressional hearings with subpoena power and amnesty for witnesses. Source: Disclosure Project National Press Club event, 9 May 2001, and contemporaneous international press coverage
+- **Tier 2 named person on the record.** The proportion that spoke: Klass records that the book published alongside the event 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference.' NO OPENED SOURCE LISTS THE TWENTY, and this board should never infer a podium appearance from a printed testimony. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
+
+### Its strongest connections
+
+- The Disclosure Project comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Disclosure Project witness, testimony taken December 2000. His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- The Disclosure Project comes in from **Disclosure Project Briefing Document, April 2001** (document, board tier B), a institutional link at Tier 1 documented. The link reads: The project's own publication. It is the Disclosure Project's own April 2001 compilation of witness testimony. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- The Disclosure Project comes in from **Disclosure Project Briefing Document, April 2001** (document, board tier B), a research link at Tier 1 documented. The link reads: The Project's own compiled briefing document, April 2001. PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- The Disclosure Project comes in from **Philip J. Klass** (person, board tier B), a denial link at Tier 1 documented. The link reads: Dated published critique of the Project by name, Summer 2001. Skeptics UFO Newsletter #68, written within weeks of the press conference. Klass declares his own limitation in the same issue: he was refused admission and his account of the event rests on the Project's press releases, its book and broadcast footage. That limitation applies to his reporting of the event and not to the service record he obtained himself. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
+- The Disclosure Project comes in from **Disclosure Project press conference, National Press Club, 9 May 2001** (event, board tier C), a institutional link at Tier 1 documented. The link reads: The Project's press conference, 9 May 2001. Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose. Sources: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, dated 2001-05-09; Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
+- The Disclosure Project comes in from **Steven M. Greer** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Greer founded and led the Disclosure Project. Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
+- The Disclosure Project comes in from **John D. Podesta** (person, board tier C), a behavioral link at Tier 2 named person on the record. The link reads: Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference. Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue. Sources: Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
+- The Disclosure Project runs out to **Thomas R. Wilson** (person, board tier C), a temporal link at Tier 3 stated inference. The link reads: The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings. The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period. Sources: The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing), https://thedebrief.org/summer-of-the-saucers/, dated 2022-08-01; Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence), https://clinton.presidentiallibraries.us/items/show/36386, dated 2019-09-16.
 
 ## Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986
 
@@ -1352,7 +1414,7 @@ Roles the board assigns it: research, disclosure, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 126 of 1094, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 127 of 1105, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1414,7 +1476,7 @@ Roles the board assigns it: disclosure, custody, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 892 of 1094, score 17). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 903 of 1105, score 17). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -1483,7 +1545,7 @@ Roles the board assigns it: oversight, concealment, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 121 of 1094, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 122 of 1105, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1528,6 +1590,71 @@ Re-graded A on a global pass (rank 121 of 1094, score 55). 18 connections, 2 of 
 
 It carries 18 connections in total on the board.
 
+## Disclosure Project Briefing Document, April 2001
+
+Disclosure Project Briefing Document, April 2001 is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2001-04; axes C0 A0 D3; 10 connections; in the research band.
+
+In one line: Roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony.
+
+### What it is
+
+The Disclosure Project Briefing Document of April 2001, roughly 500 pages, written and compiled by Steven M. Greer MD and Theodore C. Loder III PhD and addressed on its own title page to members of the press, of the United States government and of the US scientific community. Its section 3.8 prints sixty-eight dated witness testimonies across five subsections, sixty-five of them dated between July 2000 and early 2001. The interviews are conducted by Greer himself, each carrying an initials key of the form 'JC: FAA Division Chief John Callahan SG: Dr. Steven Greer', with his editorial comments printed inline.
+
+### Why it is implicated
+
+It is the single openable anchor under an entire generation of claims. A large share of what circulates about retrieval, custody and reverse engineering traces to a named testimony in this document and to nothing earlier, which makes it the most efficient node on this board: one artefact, sixty-eight dated statements, all readable. It is on the map because it is the origin point in print for more of this subject than any other single object the board carries.
+
+### The longer account
+
+This document is the reason the Disclosure Project cluster could be built cheaply and graded honestly at the same time. Sixty-eight testimonies, each under a name, a rank, a service and a month, is a rare thing in this subject: most claims arrive undated and unattributed, and these do not.
+
+What the document is NOT is evidence for what the testimonies describe, and the board's governing rule for this whole cluster is written as a Tier 3 claim on this node so that nobody has to infer it. The document is Tier 1 for the fact that a named person gave testimony on a stated date. It is Tier 2 at best for anything that testimony asserts about the world. Every witness node built from it carries that distinction in its own claims.
+
+Two features of the document itself deserve a reader's attention. The compiler cross-references his own witnesses to each other in bracketed editorial notes signed 'SG', which means the apparent convergence between two testimonies can be the editor's construction rather than the witnesses'. And the interviews are all conducted by one man, so the sixty-eight are not sixty-eight independent methods. That is the same caution the board applies to the Castello fabrication in the Dulce cluster, arrived at from the opposite direction.
+
+The research pass of 19 September also found what the document does not support. It prints McCandlish's testimony dated December 2000, five months before the press conference that is routinely said to be where he spoke. Of sixty-nine interviewees, twenty spoke at that event, and only five can be placed at the podium by any opened source. The document and the press conference are different objects and the board now carries them as different nodes.
+
+Roles the board assigns it: disclosure, custody, research.
+
+### Open questions on this node
+
+- The full witness list against the podium roster. Of sixty-nine interviewees, twenty spoke at the 9 May 2001 press conference and only five are placed there by any opened source. The other fifteen are unidentified.
+- Whether any testimony in the document was recorded other than by Greer himself. Nothing opened indicates so.
+- The video recordings the document summarises. None was opened; the board carries the printed summaries only.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 194 of 1105, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** ALL SIXTY-EIGHT INTERVIEWS WERE CONDUCTED BY ONE MAN. Each testimony carries an initials key naming Greer as interviewer. Sixty-eight testimonies collected by a single method are not sixty-eight independent methods, which is the same caution CLAUDE.md section 2 states in general terms. Source: Disclosure Project Briefing Document, April 2001, the initials keys throughout section 3.8, opened 2026-09-19
+- **Tier 1 documented.** Its subsection structure, as printed in the body and in its own contents list: 3.8.1 Overview (page 48), 3.8.2 Radar / Pilot Cases (page 62), 3.8.3 SAC/NUKE (page 123), 3.8.4 Government Insiders / NASA / Deep Insiders (page 165), 3.8.5 Technology / Science (page 323). Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
+- **Tier 1 documented.** Its title page reads: 'DISCLOSURE PROJECT BRIEFING DOCUMENT / Prepared for: Members of the Press, Members of United States Government, Members of the US Scientific Community / Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D. / April, 2001.' Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
+- **Tier 1 documented.** SIXTY-EIGHT DATED TESTIMONY HEADINGS. Section 3.8 contains sixty-eight headings of the form 'Testimony of [name, rank, service]' followed on the next line by a month and year. Sixty-five carry dates between July 2000 and early 2001. The subsections are 3.8.1 Overview, 3.8.2 Radar / Pilot Cases, 3.8.3 SAC/NUKE, 3.8.4 Government Insiders / NASA, 3.8.5 Technology / Science. Source: Disclosure Project Briefing Document, April 2001, section 3.8 and its own contents list, opened 2026-09-19
+- **Tier 1 documented.** Section 3.8 contains SIXTY-EIGHT dated testimony headings, each of the form 'Testimony of [name, rank, service]' followed on the next line by a month and year. Sixty-five carry dates between July 2000 and March 2001; Edgar Mitchell's is dated May 1998 and Vasily Alexeyev's March 1997; Gordon Cooper's, Denise McKenzie's and Phillip J. Corso's carry no date at all. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
+- **Tier 1 documented.** THE EDITOR CROSS-REFERENCES HIS OWN WITNESSES TO EACH OTHER. Bracketed editorial notes signed 'SG' link one testimony to another, including '[See the testimony of Mark McCandlish which establishes that indeed a UFO was stored...]'. Apparent convergence between two testimonies in this document can therefore be the compiler's construction rather than the witnesses'. Source: Disclosure Project Briefing Document, April 2001, editorial notes in section 3.8, opened 2026-09-19
+- **Tier 1 documented.** The compiler cross-references his own two witnesses to each other in bracketed editorial notes signed 'SG', including '[See the testimony of Mark McCandlish which establishes that indeed a UFO was stored at this facility at Norton AFB. SG]'. The corroboration between the two testimonies is asserted by the compiler, inside the compilation. Source: Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2001-04
+- **Tier 1 documented.** The document prints McCandlish's testimony under the date 'December 2000', in section 3.8.5 'Technology / Science', with an editorial preface that states its own summary of what the reader will learn, including 'In addition, we have the drawing from aerospace inventor Brad Sorenson of the devices that he saw, as well as a schematic of one of these alien reproduction vehicles - in some remarkable detail.' Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2001-04
+- **Tier 1 documented.** The interviews are conducted by Greer himself. Each testimony carries an initials key of the form 'JC: FAA Division Chief John Callahan SG: Dr. Steven Greer', and Greer's editorial comments are printed inside the witness text marked 'SG]'. Source: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, opened 2026-09-19
+- **Tier 1 documented.** The same document carries a separate 'Testimony of Lieutenant Colonel John Williams / September 2000' which states of Norton AFB: 'I was never allowed in that area when I was there at Norton Air Force Base', and, asked how he could validate the facility existed, 'That's correct because I was responsible for that base's facilities from 1981-82.' Source: Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-09
+- **Tier 2 named person on the record.** The document is the origin in print of the craft's two names: 'Well, this craft was what they called the Alien Reproduction Vehicle; it was also nicknamed the Flux Liner.' Source: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, 2000-12
+
+### Its strongest connections
+
+- Disclosure Project Briefing Document, April 2001 comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.5, dated December 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, which is the form the existing node already uses. NOTHING OPENED PLACES HIM AT THE 9 MAY 2001 PODIUM, and this edge must never be read as implying it. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project Briefing Document, April 2001 runs out to **Steven M. Greer** (person, board tier B), a custody link at Tier 1 documented. The link reads: Named as its director and compiler. Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project Briefing Document, April 2001 runs out to **Steven M. Greer** (person, board tier B), a research link at Tier 1 documented. The link reads: Written and compiled by Greer, who also conducted every interview in it. AUTHORSHIP, TYPED research. Title page: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' He is also the interviewer in every transcript, printed as 'SG', and his editorial interjections appear inside the witness text marked 'SG]'. This edge is the structural reason the document caps at Tier 2 for content. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project Briefing Document, April 2001 runs out to **The Disclosure Project** (program, board tier B), a institutional link at Tier 1 documented. The link reads: The project's own publication. It is the Disclosure Project's own April 2001 compilation of witness testimony. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project Briefing Document, April 2001 runs out to **The Disclosure Project** (program, board tier B), a research link at Tier 1 documented. The link reads: The Project's own compiled briefing document, April 2001. PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project Briefing Document, April 2001 comes in from **Clifford E. Stone** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.4, dated September 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project Briefing Document, April 2001 comes in from **Disclosure Project witness cohort (68 testimonies, 2000 to 2001)** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: The cohort is defined by section 3.8 of the document. Sixty-eight dated testimony headings across five subsections. The set node exists so that the fifty-seven unchecked witnesses do not each become a single-claim person node. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project Briefing Document, April 2001 comes in from **John Callahan** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.2, dated October 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, per the rule stated on the document node. Heading as printed: 'Testimony of FAA Division Chief John Callahan / October 2000'. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project Briefing Document, April 2001 comes in from **Larry Warren** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.4, dated September 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project Briefing Document, April 2001 comes in from **Robert M. Jacobs** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Testimony at section 3.8.3, dated November 2000. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. This is the LAST and WEAKEST anchor for this witness; his own 1989 publication is the one the board should cite. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Disclosure Project Briefing Document, April 2001 comes in from **Disclosure Project press conference, National Press Club, 9 May 2001** (event, board tier C), a temporal link at Tier 1 documented. The link reads: Document April 2001; press conference 9 May 2001; different and largely unknown rosters. THE DOCUMENT PRECEDES THE EVENT BY ABOUT A MONTH AND THE TWO ROSTERS ARE NOT THE SAME SET. The document prints 68 testimonies; the book published alongside contains 69 transcripts; 20 people spoke at the conference and no opened source lists which 20. This edge exists to stop the inference that a printed testimony implies a podium appearance. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
+- Disclosure Project Briefing Document, April 2001 comes in from **Norton Air Force Base, San Bernardino, California** (location, board tier C), a investigative link at Tier 1 documented. The link reads: Two of the document's witnesses name the base. McCandlish and Lt Col John Williams name Norton AFB in separate testimonies inside the same document, and the compiler then cross-references them to each other. The corroboration is the compiler's assertion, made inside the compilation. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+
 ## GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés
 
 GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2005; axes C1 A1 D3; 10 connections; in the research band.
@@ -1562,7 +1689,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 84 of 1094, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 84 of 1105, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1645,7 +1772,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 97 of 1094, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 97 of 1105, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1727,7 +1854,7 @@ Roles the board assigns it: custody, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 66 of 1094, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded A on a global pass (rank 66 of 1105, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1818,7 +1945,7 @@ Roles the board assigns it: research, concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 182 of 1094, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 184 of 1105, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1891,7 +2018,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 88 of 1094, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
+Re-graded A on a global pass (rank 88 of 1105, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
 
 ### The claims on the record
 
@@ -1977,7 +2104,7 @@ Roles the board assigns it: disclosure, concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 17 of 1094, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 17 of 1105, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -2074,7 +2201,7 @@ Roles the board assigns it: oversight, concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 77 of 1094, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 77 of 1105, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -2164,7 +2291,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 409 of 1094, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 420 of 1105, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -2241,7 +2368,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 533 of 1094, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
+Re-graded B on a global pass (rank 547 of 1105, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
 
 ### The claims on the record
 
@@ -2325,7 +2452,7 @@ Roles the board assigns it: disclosure, oversight, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 536 of 1094, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 550 of 1105, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2409,7 +2536,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 750 of 1094, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 761 of 1105, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2485,7 +2612,7 @@ Roles the board assigns it: research, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 357 of 1094, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 366 of 1105, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2510,8 +2637,8 @@ Re-graded B on a global pass (rank 357 of 1094, score 35). 8 connections, 2 of t
 
 ### Its strongest connections
 
+- NASA UAP Independent Study Team comes in from **National Aeronautics and Space Administration** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: NASA chartered and published the Independent Study Team report. The 16-member panel reported on 14 September 2023 with findings on data curation, satellite assets and the classification obstacle. Sources: NASA UAP Independent Study Team Report, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
 - NASA UAP Independent Study Team runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Both diagnose the same evidentiary deficit. ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.' Sources: ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
-- NASA UAP Independent Study Team comes in from **National Aeronautics and Space Administration** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: NASA chartered and published the Independent Study Team report. The 16-member panel reported on 14 September 2023 with findings on data curation, satellite assets and the classification obstacle. Sources: NASA UAP Independent Study Team Report, https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
 - NASA UAP Independent Study Team comes in from **Americans for Safe Aerospace** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: Shared reporting-reform agenda: ASRS and FAA pilot reporting. The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
 - NASA UAP Independent Study Team comes in from **Michael Gold** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Member of the study team. Gold is listed among the team's members and later testified to Congress on its findings. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
 - NASA UAP Independent Study Team comes in from **David N. Spergel** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Chaired the NASA UAP Independent Study Team. Spergel chaired the sixteen-member panel whose final report was released 14 September 2023. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14.
@@ -2565,7 +2692,7 @@ Roles the board assigns it: concealment, oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 46 of 1094, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 46 of 1105, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2656,7 +2783,7 @@ Roles the board assigns it: disclosure, research, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 458 of 1094, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 471 of 1105, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2733,7 +2860,7 @@ Roles the board assigns it: custody, concealment, oversight, disclosure, researc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 408 of 1094, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 419 of 1105, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2801,7 +2928,7 @@ Roles the board assigns it: disclosure, custody, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 799 of 1094, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 811 of 1105, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2883,7 +3010,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 71 of 1094, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 71 of 1105, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2973,7 +3100,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 942 of 1094, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 953 of 1105, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -3047,7 +3174,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 738 of 1094, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 749 of 1105, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

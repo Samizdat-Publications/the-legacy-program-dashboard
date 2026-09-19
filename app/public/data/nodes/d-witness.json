@@ -85,12 +85,33 @@
 ],
 "tier": "C",
 "type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2001-05-09",
+"dateStart": "2000-07",
+"direction": "in",
+"edgeLabel": "A cohort of claimants, which is what this domain is for",
+"id": "disclosure-project-witness-set",
+"l0": false,
+"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+"note": "Every member of the set is on the board only as someone who asserted something, which under CLAUDE.md section 6 is exactly the situation in which degree must never be read as truth.",
+"sources": [
+{
+"date": "2001-04",
+"name": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-07-08",
-"deg": 3,
+"deg": 4,
 "denials": [],
 "desc": "A compartmented programme cannot produce a witness who saw the whole of it, so the evidence available is necessarily a chain rather than a testimony, and the chain's links have to be graded individually. This board distinguishes four grades in descending order: sworn testimony before a congressional committee under penalty of perjury; a signed complaint to an Inspector General, which carries criminal exposure for false statements; an on-the-record statement to a named journalist; and an anonymous account, which is recorded but cannot be scored above tier 3. The 26 July 2023 House Oversight hearing is the field's highest-grade single event, putting David Grusch, David Fravor and Ryan Graves under oath on the same afternoon - two of them describing what they personally observed, the third describing what he was told by others he named to the Intelligence Community Inspector General. The structural weakness the board must state honestly is that most links are second-hand by design, because the people with first-hand knowledge are the ones whose non-disclosure agreements carry criminal penalties. Scoring high on this domain means an entity is a link in a documented chain - either as a source, a recipient, or the person who put it under oath.",
 "domains": [
@@ -156,7 +177,7 @@
 ],
 "sub": "Evidentiary domain - who told whom, under what oath, and with what corroboration",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 426 of 1094, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 413 of 1105, score 33). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
 "date": "2023-07-26",

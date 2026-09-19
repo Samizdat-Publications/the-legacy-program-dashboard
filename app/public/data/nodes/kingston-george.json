@@ -1,0 +1,155 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He identifies his own role in the opening paragraph of his published article: 'I was the project engineer for these experiments.' Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186.",
+"tier": 1
+},
+{
+"source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He describes the deployment: 'The United States Air Force conducted a test of a special light-sensitive telescope high up in the coastal mountains in the Los Padres National Forest above Big Sur, California, between August and November 1964... Nine of eleven launches from Vandenberg were successfully covered during the three-month deployment.'",
+"tier": 1
+},
+{
+"source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He identifies the instrument: a 24-inch mirror telescope 'built in the 1950s on a modified 5-inch gun mount by Boston University under government contract', owned and operated by the 'Range Measurements Laboratory of the Air Force Eastern Test Range', employing an image orthicon television camera tube.",
+"tier": 1
+},
+{
+"source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He cites a contemporaneous internal document by title and date, which is the strongest unopened lead this pass produced: 'George, Kingston A. 1964. Preliminary Report on Image Orthicon Photography from Big Sur. Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, October 13.'",
+"tier": 1
+},
+{
+"source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He records the disposal of the film: 'The Top Secret film was marked for downgrading and declassification after 12 years, but its utility was over after a few months... the film and related materials were all destroyed long before the 12 years were up.'",
+"tier": 1
+},
+{
+"source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He describes the security reaction in terms that concede a cover-up while denying its subject: 'Vulnerability of a major weapons system is normally classified Top Secret. How could this matter be kept from leaking out?' and records that everyone at the site had to be identified and questioned, 'All, including Jacobs and myself'.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1964-11",
+"dateStart": "1964-08",
+"direction": "out",
+"edgeLabel": "Project engineer for the deployment",
+"id": "big-sur-1964",
+"l0": false,
+"label": "Big Sur missile-test filming, September 1964",
+"note": "His own opening line: 'I was the project engineer for these experiments.' He supplies the dates, the instrument, the launch name, the photographs and a contemporaneous 13 October 1964 staff study cited by title.",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1993",
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993",
+"id": "robert-jacobs",
+"l0": false,
+"label": "Robert M. Jacobs",
+"note": "TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs 'was technically not authorized to view the pictures we were collecting'.",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+}
+],
+"date": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "kingston-george",
+"label": "Kingston A. George"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993",
+"note": "TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs 'was technically not authorized to view the pictures we were collecting'.",
+"of": {
+"id": "robert-jacobs",
+"label": "Robert M. Jacobs"
+},
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+]
+}
+],
+"domains": [
+"disclosure-project-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "kingston-george",
+"instId": null,
+"l0": false,
+"label": "Kingston A. George",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Kingston George is the reason the Big Sur case is worth carrying at all. He identifies himself in the opening paragraph of his 1993 article as the project engineer for the experiments, and everything that makes the case checkable comes from him: the deployment's dates and location, the borrowed Boston University 24-inch telescope on a modified five-inch gun mount owned by the Range Measurements Laboratory of the Air Force Eastern Test Range, the photographs of the team, the name and date of the launch, the sequence of the security reaction, the disposal of the film, and a contemporaneous internal document cited by title and date. He is an interested party against the UFO reading, and he is also the only person in this cluster who both held the access at issue and published about it under his own name. He is careful where a polemicist would not be: he concedes the point about lasers to Jacobs, he describes the classified matter as a weapons-system vulnerability rather than anything exotic, and he records that he himself was questioned along with everyone else. That combination, documented access plus a published concession, is why he is a node and not a footnote.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Kingston A. George",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"status": "unknown",
+"sub": "Air Force project engineer for the 1964 Big Sur image-orthicon telescope deployment; author of the published rebuttal of Robert Jacobs's account and of a contemporaneous 1964 staff study on the same imagery",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 401 of 1105, score 33). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"His 13 October 1964 staff study, 'Preliminary Report on Image Orthicon Photography from Big Sur', Headquarters 1st Strategic Aerospace Division Operations Analysis. Cited by him, not opened by this board.",
+"His 2009 follow-up, 'Buzzing Bee Missile Mythology Flies Again', Skeptical Inquirer 33(1), January to February 2009, which appears in a citation list but was not opened.",
+"Any independent record of his employment. His role rests on his own published statement, which is uncontradicted but also uncorroborated outside the article."
+]
+}

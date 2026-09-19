@@ -1,12 +1,12 @@
 # The disclosure band
 
-The programme map splits the 142 nodes closest to the alleged programme into seven bands, and this file is the disclosure band: 6 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 145 nodes closest to the alleged programme into seven bands, and this file is the disclosure band: 7 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 # THROUGH 1969: Estimate through Blue Book
 
 ## National Security Agency
 
-National Security Agency is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1952-11-04; axes C1 A3 D1; 10 connections; in the disclosure band.
+National Security Agency is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1952-11-04; axes C1 A3 D1; 11 connections; in the disclosure band.
 
 In one line: Signals intelligence and cybersecurity agency; established 4 November 1952 by classified presidential memorandum.
 
@@ -42,7 +42,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 254 of 1094, score 40). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 246 of 1105, score 41). 11 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -65,6 +65,7 @@ Re-graded B on a global pass (rank 254 of 1094, score 40). 10 connections, 0 of 
 - National Security Agency comes in from **United States v. Ronald W. Pelton (D. Md. 1986)** (document, board tier C), a institutional link at Tier 1 documented. The link reads: Prosecution of a former NSA employee for compromising NSA operations. Pelton was a former NSA employee and the government's brief describes the compromise as concerning NSA operations. Sources: Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General, https://www.justice.gov/osg/media/218076/dl
 - National Security Agency comes in from **TR-3B 'Astra', claimed black triangular aircraft** (program, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: CLAIMED ONLY: named as a funder and tasker at slide 70. A claim about what Fouche said, from the same sentence as the NRO and CIA edges. No record connecting the NSA to this designation was opened. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
 - National Security Agency comes in from **British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946** (document, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Released by NSA with its declassification markings on the pages. The pages carry the NSA declassification exemption marking NSA25X6 with EO 1.4.(d), and the copy opened comes from a mirror of the National Security Agency's UKUSA release. NSA did not exist in 1946; STANCIB was the United States party. The claim that NSA and GCHQ released the file jointly in 2010 was not verified from any record opened by this pass. Sources: Outline of British-U.S. Communication Intelligence Agreement, page markings, https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf, dated 1946-03-05.
+- National Security Agency comes in from **Disclosure Project witness cohort (68 testimonies, 2000 to 2001)** (institution, board tier B), a witness-chain link at Tier 3 stated inference. The link reads: Carries the Wolfe claim of an NSA facility at Langley AFB handling Lunar Orbiter imagery. TIER 3. Nothing independent places Wolfe anywhere, and NASA's own catalogue places the Lunar Orbiter programme at NASA Langley Research Center, a separate civil installation from Langley Air Force Base. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A, dated 2026-09-19.
 
 ## Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962
 
@@ -93,7 +94,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 259 of 1094, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 265 of 1105, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -140,7 +141,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 183 of 1094, score 46). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 185 of 1105, score 46). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -216,7 +217,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 37 of 1094, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 38 of 1105, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -303,7 +304,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 234 of 1094, score 42). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.
+Re-graded B on a global pass (rank 240 of 1105, score 42). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -334,6 +335,64 @@ Re-graded B on a global pass (rank 234 of 1094, score 42). 6 connections, 0 of t
 - The Roswell Report: Case Closed (1997) comes in from **W. Glenn Dennis** (person, board tier C), a denial link at Tier 1 documented. The link reads: The 1997 report dismantled the 'missing nurse' account by name. Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
 - The Roswell Report: Case Closed (1997) comes in from **James Ragsdale** (person, board tier C), a denial link at Tier 1 documented. The link reads: Ragsdale's own words were used to support the dummy explanation. The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
 - The Roswell Report: Case Closed (1997) comes in from **Varginha incident, Minas Gerais, January 1996** (event, board tier B), a denial link at Tier 3 stated inference. The link reads: Two official inquiries that explained the recovery activity without producing the logs. The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log. Sources: The Roswell Report: Case Closed (1997), https://archive.org/details/AFD-101027-030, dated 1997-01-01.
+
+# 2000-2016: AAWSAP / AATIP
+
+## Disclosure Project press conference, National Press Club, 9 May 2001
+
+Disclosure Project press conference, National Press Club, 9 May 2001 is a event on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2001-05-09; axes C0 A0 D3; 7 connections; in the disclosure band.
+
+In one line: The event at which 20 of the Disclosure Project's 69 interviewees spoke publicly; distinct from the April 2001 Briefing Document and carrying a different and largely unknown roster.
+
+### What it is
+
+The Disclosure Project press conference at the National Press Club in Washington DC on 9 May 2001, at which about twenty of the project's sixty-nine interviewees spoke briefly and called for congressional hearings with subpoena power and amnesty for witnesses. It is a distinct object from the April 2001 Briefing Document and it carries a different and much smaller evidentiary weight, which is the entire reason it has its own node.
+
+### Why it is implicated
+
+Because almost everything attributed to it is unverifiable, and saying so precisely is worth a node. This press conference is the single most-cited event in modern disclosure advocacy, and the board can place exactly five people at its podium from opened sources. Treating the event and the document as one object, which the literature routinely does, silently upgrades a printed testimony into a public appearance. This node exists to stop that.
+
+### The longer account
+
+The event is documented. ABC News reported it the same day under the headline 'Group Calls for Disclosure of UFO Info', recording that Steven Greer organised the programme at the National Press Club and that about twenty people spoke. Philip Klass, hostile and writing within weeks, gives the same date, the same venue and the same count, and states the objective as prompting a congressional hearing. Two sources of opposite disposition agreeing on date, venue and count is as solid as this subject gets.
+
+What is not documented is who stood there. Klass records that Greer's book contains transcripts of interviews with sixty-nine witnesses, of whom twenty spoke briefly at the press conference. The board has been able to place five of those twenty by an opened source: John Callahan, who described the JAL incident; Clifford Stone, shown there by Fox News Channel; and three others. **Nothing opened by this board places Karl Wolfe, Donna Hare, Robert Jacobs, Larry Warren, Don Phillips or Mark McCandlish at this podium**, and all six are routinely said to have spoken there.
+
+That gap is not a failure of research effort. The Internet Archive is unreachable from this session, both WorldCat records returned 403, and no C-SPAN record of the event exists. The roster may simply not survive in any open form, and the board should say that rather than repeat an assumption.
+
+One limitation on the best hostile source, recorded because it cuts both ways: Klass did not attend. Greer had refused him admission to a comparable event in 1997. That limits his account of what was said at the podium; it does not limit the records he obtained himself, which is where his value on this board lies.
+
+Roles the board assigns it: disclosure.
+
+### Open questions on this node
+
+- THE PODIUM ROSTER ITSELF. Which twenty of the sixty-nine spoke. The Internet Archive was unreachable, both WorldCat records returned HTTP 403, and no C-SPAN record of the event exists. This is the highest-value single gap in the cluster.
+- Whether any complete recording of the event survives in an openable form.
+- Whether the National Press Club's own records name the speakers.
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 580 of 1105, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** ABC News, reporting on the day under the headline 'Group Calls for Disclosure of UFO Info', 9 May 2001: Steven Greer 'organized the program at the National Press Club in Washington', at which about 20 former government workers, many of them military and security officials, came forward. Source: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, opened 2026-09-19
+- **Tier 1 documented, allegation shaped wording as stored.** Klass records his own exclusion, which limits his account of the event but not the records he obtained himself: he did not attend because Greer had refused him admission to a comparable 1997 event and 'reportedly refused the request for admission by Fund For UFO Research officials', so his account 'is based largely on Greer's own press releases and his 573-page book'. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
+- **Tier 1 documented.** Philip J. Klass, writing within weeks: the press conference was 'held May 9 at the National Press Club in Washington DC, whose stated objective was to prompt a Congressional hearing on UFOs'. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
+- **Tier 1 documented.** THE COUNT THAT GOVERNS EVERY PODIUM CLAIM IN THIS CLUSTER. Klass: Greer's book 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference'. So forty-nine interviewees did not speak at this event, and the board must not treat a printed testimony as an appearance. Source: Klass, contemporaneous newsletter, opened 2026-09-19
+- **Tier 1 documented.** THE COUNT THAT GOVERNS EVERY PODIUM CLAIM IN THIS CLUSTER. Klass: Greer's book 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference.' Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
+- **Tier 1 documented.** TWO SOURCES OF OPPOSITE DISPOSITION AGREE ON DATE, VENUE AND COUNT. ABC News, 9 May 2001, 'Group Calls for Disclosure of UFO Info', records that Greer organised the programme at the National Press Club and that about twenty people spoke. Philip Klass, hostile and writing within weeks, gives 9 May, the National Press Club, and states the objective as prompting a congressional hearing on UFOs. Source: ABC News, 9 May 2001, and Klass's contemporaneous newsletter, both opened 2026-09-19
+- **Tier 2 named person on the record.** FIVE PEOPLE, AND ONLY FIVE, ARE PLACED AT THE PODIUM BY AN OPENED SOURCE. John Callahan, who 'described' the JAL incident at the conference; Clifford Stone, shown there by Fox News Channel; Major George A. Filer III, 'another impressive witness at Greer's press conference'; Daniel Sheehan, named by ABC News on the day as counsel and reported describing his National Archives account; and Alfred L. Webre, whom a MUFON correspondent quoted by Klass describes, with Sheehan, as 'prominently involved in Greer's press conference at the National Press Club'. Source: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, opened 2026-09-19
+
+### Its strongest connections
+
+- Disclosure Project press conference, National Press Club, 9 May 2001 runs out to **Disclosure Project Briefing Document, April 2001** (document, board tier B), a temporal link at Tier 1 documented. The link reads: Document April 2001; press conference 9 May 2001; different and largely unknown rosters. THE DOCUMENT PRECEDES THE EVENT BY ABOUT A MONTH AND THE TWO ROSTERS ARE NOT THE SAME SET. The document prints 68 testimonies; the book published alongside contains 69 transcripts; 20 people spoke at the conference and no opened source lists which 20. This edge exists to stop the inference that a printed testimony implies a podium appearance. Sources: Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
+- Disclosure Project press conference, National Press Club, 9 May 2001 comes in from **Steven M. Greer** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Organiser of the event. ABC News, on the day: Greer 'organized the program at the National Press Club in Washington'. Sources: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, dated 2001-05-09.
+- Disclosure Project press conference, National Press Club, 9 May 2001 runs out to **The Disclosure Project** (program, board tier B), a institutional link at Tier 1 documented. The link reads: The Project's press conference, 9 May 2001. Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose. Sources: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, dated 2001-05-09; Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
+- Disclosure Project press conference, National Press Club, 9 May 2001 comes in from **Daniel P. Sheehan** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Counsel to the Project, at the podium on 9 May 2001. ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths. Sources: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, dated 2001-05-09; Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
+- Disclosure Project press conference, National Press Club, 9 May 2001 comes in from **Clifford E. Stone** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Shown at the podium by Fox News Channel, 9 May 2001. Klass: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' A broadcast attestation independent of the organiser. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
+- Disclosure Project press conference, National Press Club, 9 May 2001 comes in from **John Callahan** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Spoke at the podium, 9 May 2001. One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
+- Disclosure Project press conference, National Press Club, 9 May 2001 runs out to **Independent media as the disclosure substrate** (domain, board tier C), a institutional link at Tier 2 named person on the record. The link reads: A press event whose purpose was coverage, covered the same day by a national broadcaster. ABC News reported it on 9 May 2001 with a sceptical comment from its own space consultant. The far larger audience figures that circulate come from the Project's own publicity and are not carried. Sources: ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1, dated 2001-05-09.
 
 # 2017-2026: Post-disclosure
 
@@ -385,7 +444,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 128 of 1094, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 129 of 1105, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.
 
 ### The claims on the record
 

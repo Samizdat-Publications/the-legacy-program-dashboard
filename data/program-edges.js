@@ -12749,6 +12749,771 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'disclosure-project-briefing-2001',
+    b: 'disclosure-project',
+    type: 'research',
+    label: 'The Project\'s own compiled briefing document, April 2001',
+    claimTier: 1,
+    dateStart: '2001-04',
+    dateEnd: '2001-04',
+    note: 'PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project\'s own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      }
+    ]
+  },
+  {
+    a: 'disclosure-project-briefing-2001',
+    b: 'steven-greer',
+    type: 'research',
+    label: 'Written and compiled by Greer, who also conducted every interview in it',
+    claimTier: 1,
+    dateStart: '2001-04',
+    dateEnd: '2001-04',
+    note: 'AUTHORSHIP, TYPED research. Title page: \'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.\' He is also the interviewer in every transcript, printed as \'SG\', and his editorial interjections appear inside the witness text marked \'SG]\'. This edge is the structural reason the document caps at Tier 2 for content.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      }
+    ]
+  },
+  {
+    a: 'national-press-club-2001',
+    b: 'disclosure-project',
+    type: 'institutional',
+    label: 'The Project\'s press conference, 9 May 2001',
+    claimTier: 1,
+    dateStart: '2001-05-09',
+    dateEnd: '2001-05-09',
+    note: 'Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose.',
+    sources: [
+      {
+        name: 'ABC News, \'Group Calls for Disclosure of UFO Info\', 9 May 2001, 2:35 PM',
+        url: 'https://abcnews.com/Technology/story?id=98572&page=1',
+        date: '2001-05-09'
+      },
+      {
+        name: 'Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, \'Dr. Greer\'s Disclosure Conference Reveals His New Strategy\'; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf',
+        date: '2001'
+      }
+    ]
+  },
+  {
+    a: 'national-press-club-2001',
+    b: 'disclosure-project-briefing-2001',
+    type: 'temporal',
+    label: 'Document April 2001; press conference 9 May 2001; different and largely unknown rosters',
+    claimTier: 1,
+    dateStart: '2001-04',
+    dateEnd: '2001-05-09',
+    note: 'THE DOCUMENT PRECEDES THE EVENT BY ABOUT A MONTH AND THE TWO ROSTERS ARE NOT THE SAME SET. The document prints 68 testimonies; the book published alongside contains 69 transcripts; 20 people spoke at the conference and no opened source lists which 20. This edge exists to stop the inference that a printed testimony implies a podium appearance.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      },
+      {
+        name: 'Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, \'Dr. Greer\'s Disclosure Conference Reveals His New Strategy\'; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf',
+        date: '2001'
+      }
+    ]
+  },
+  {
+    a: 'national-press-club-2001',
+    b: 'd-media',
+    type: 'institutional',
+    label: 'A press event whose purpose was coverage, covered the same day by a national broadcaster',
+    claimTier: 2,
+    dateStart: '2001-05-09',
+    dateEnd: '2001-05-09',
+    note: 'ABC News reported it on 9 May 2001 with a sceptical comment from its own space consultant. The far larger audience figures that circulate come from the Project\'s own publicity and are not carried.',
+    sources: [
+      {
+        name: 'ABC News, \'Group Calls for Disclosure of UFO Info\', 9 May 2001, 2:35 PM',
+        url: 'https://abcnews.com/Technology/story?id=98572&page=1',
+        date: '2001-05-09'
+      }
+    ]
+  },
+  {
+    a: 'steven-greer',
+    b: 'national-press-club-2001',
+    type: 'institutional',
+    label: 'Organiser of the event',
+    claimTier: 1,
+    dateStart: '2001-05-09',
+    dateEnd: '2001-05-09',
+    note: 'ABC News, on the day: Greer \'organized the program at the National Press Club in Washington\'.',
+    sources: [
+      {
+        name: 'ABC News, \'Group Calls for Disclosure of UFO Info\', 9 May 2001, 2:35 PM',
+        url: 'https://abcnews.com/Technology/story?id=98572&page=1',
+        date: '2001-05-09'
+      }
+    ]
+  },
+  {
+    a: 'john-callahan',
+    b: 'disclosure-project-briefing-2001',
+    type: 'witness-chain',
+    label: 'Testimony at section 3.8.2, dated October 2000',
+    claimTier: 1,
+    dateStart: '2000-10',
+    dateEnd: '2000-10',
+    note: 'TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, per the rule stated on the document node. Heading as printed: \'Testimony of FAA Division Chief John Callahan / October 2000\'.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      }
+    ]
+  },
+  {
+    a: 'john-callahan',
+    b: 'national-press-club-2001',
+    type: 'witness-chain',
+    label: 'Spoke at the podium, 9 May 2001',
+    claimTier: 2,
+    dateStart: '2001-05-09',
+    dateEnd: '2001-05-09',
+    note: 'One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser.',
+    sources: [
+      {
+        name: 'Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, \'Dr. Greer\'s Disclosure Conference Reveals His New Strategy\'; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf',
+        date: '2001'
+      }
+    ]
+  },
+  {
+    a: 'john-callahan',
+    b: 'jal-1628-1986',
+    type: 'investigative',
+    label: 'Claimed role in the FAA\'s handling of the case',
+    claimTier: 2,
+    dateStart: '1986-11',
+    dateEnd: '1987-03',
+    note: 'TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that \'Callahan\'s dramatic account is unconfirmed by other sources\'.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      },
+      {
+        name: 'Paul Dean, \'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2\', The UFO Chronicles',
+        url: 'https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html',
+        date: '2015-10-05'
+      },
+      {
+        name: 'The Black Vault case file, \'The Vault Files: 1986 Alaska JAL Flight 1628\', John Greenewald Jr.',
+        url: 'https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'john-callahan',
+    b: 'faa',
+    type: 'institutional',
+    label: 'FAA Washington headquarters management post, mid-1980s; title disputed',
+    claimTier: 2,
+    dateStart: '1985-07',
+    dateEnd: null,
+    note: 'Employment at FAA headquarters is supported by an OMB Form 171 he supplied. The TITLE is not: the researcher who set out to confirm it found him in the public record as \'Quality Control Branch Manager\' of the \'Quality Assurance Staff\' under the Associate Administrator for Air Traffic, and wrote that \'none of them really matched his claimed Accidents, Evaluations and Investigations area\'.',
+    sources: [
+      {
+        name: 'Paul Dean, \'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt1\', The UFO Chronicles',
+        url: 'https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter.html',
+        date: '2015-10'
+      },
+      {
+        name: 'Paul Dean, \'John Callahan & The JAL-1628 UFO Encounter; FAA Credentials Finally Confirmed, pt2\', The UFO Chronicles',
+        url: 'https://www.theufochronicles.com/2015/10/john-callahan-jal-1628-ufo-encounter_4.html',
+        date: '2015-10-05'
+      }
+    ]
+  },
+  {
+    a: 'jal-1628-1986',
+    b: 'faa',
+    type: 'investigative',
+    label: 'The agency investigated it, issued a finding and created the file',
+    claimTier: 1,
+    dateStart: '1986-11-17',
+    dateEnd: '1987-03-05',
+    note: 'FAA Alaskan Region press release of 5 March 1987; the agency\'s own forms and crew interviews; and the 1,500-page file in Record Group 237.',
+    sources: [
+      {
+        name: 'Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, \'Dr. Greer\'s Disclosure Conference Reveals His New Strategy\'; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf',
+        date: '2001'
+      },
+      {
+        name: 'The Black Vault case file, \'The Vault Files: 1986 Alaska JAL Flight 1628\', John Greenewald Jr.',
+        url: 'https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'jal-1628-1986',
+    b: 'the-black-vault',
+    type: 'research',
+    label: 'Federal file recovered after seventeen years and two destruction notices',
+    claimTier: 1,
+    dateStart: '2001-05',
+    dateEnd: '2018',
+    note: 'The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.',
+    sources: [
+      {
+        name: 'The Black Vault case file, \'The Vault Files: 1986 Alaska JAL Flight 1628\', John Greenewald Jr.',
+        url: 'https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/',
+        date: '2026-09-19'
+      },
+      {
+        name: 'The Black Vault document archive, \'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986\'',
+        url: 'https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'john-greenewald',
+    b: 'jal-1628-1986',
+    type: 'research',
+    label: 'Requester and locator of the National Archives file',
+    claimTier: 1,
+    dateStart: '2001-05',
+    dateEnd: '2018',
+    note: 'In his own words on the archive: \'17 YEARS after being told the documents relating to this event were destroyed, I finally found them!\'',
+    sources: [
+      {
+        name: 'The Black Vault document archive, \'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986\'',
+        url: 'https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'jal-1628-1986',
+    b: 'd-aviators',
+    type: 'institutional',
+    label: 'A civil-aviation case with a crew, an ATC transcript and a radar record',
+    claimTier: 1,
+    dateStart: '1986-11-17',
+    dateEnd: '1987-03-05',
+    note: 'The file contains crew statements, air traffic control transcripts with flight-path charts, and radar data and computer plots.',
+    sources: [
+      {
+        name: 'The Black Vault document archive, \'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986\'',
+        url: 'https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'clifford-stone',
+    b: 'disclosure-project-briefing-2001',
+    type: 'witness-chain',
+    label: 'Testimony at section 3.8.4, dated September 2000',
+    claimTier: 1,
+    dateStart: '2000-09',
+    dateEnd: '2000-09',
+    note: 'TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: \'Testimony of Sergeant Clifford Stone, United States Army / September 2000\'.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      }
+    ]
+  },
+  {
+    a: 'clifford-stone',
+    b: 'national-press-club-2001',
+    type: 'witness-chain',
+    label: 'Shown at the podium by Fox News Channel, 9 May 2001',
+    claimTier: 2,
+    dateStart: '2001-05-09',
+    dateEnd: '2001-05-09',
+    note: 'Klass: \'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.\' A broadcast attestation independent of the organiser.',
+    sources: [
+      {
+        name: 'Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, \'Dr. Greer\'s Disclosure Conference Reveals His New Strategy\'; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf',
+        date: '2001'
+      }
+    ]
+  },
+  {
+    a: 'philip-j-klass',
+    b: 'clifford-stone',
+    type: 'denial',
+    label: 'Obtained his service record from the National Personnel Records Center and printed it against the claim',
+    claimTier: 1,
+    dateStart: '2001',
+    dateEnd: '2001',
+    note: 'TIER 1 DESPITE BOTH ENDS BEING INTERESTED PARTIES, because the claim carried by this edge is that Klass requested and published a federal service record, which is a fact about an act of research and not a domain-to-domain inference. The record shows clerk/typist, administration specialist, detachment sergeant and chief administrative clerk; Klass also records Stone\'s 23 December 1983 FOIA request to the USAF about Bentwaters, sent from his home address without identifying him as a serving sergeant.',
+    sources: [
+      {
+        name: 'Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, \'Dr. Greer\'s Disclosure Conference Reveals His New Strategy\'; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf',
+        date: '2001'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'philip-j-klass'
+  },
+  {
+    a: 'kevin-randle',
+    b: 'clifford-stone',
+    type: 'denial',
+    label: 'Thirty-year acquaintance who records the same discrepancies from the record',
+    claimTier: 2,
+    dateStart: '2021-02-14',
+    dateEnd: '2021-02-14',
+    note: 'A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night.',
+    sources: [
+      {
+        name: 'Kevin D. Randle, \'Cliff Stone Has Died\', A Different Perspective',
+        url: 'https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html',
+        date: '2021-02-14'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'kevin-randle'
+  },
+  {
+    a: 'clifford-stone',
+    b: 'rendlesham-1980',
+    type: 'witness-chain',
+    label: 'Claims an Army team took him there in late December 1980',
+    claimTier: 3,
+    dateStart: '1980-12',
+    dateEnd: '1980-12',
+    note: 'TIER 3. His own FOIA request of 23 December 1983 to the USAF, from his home address and not identifying him as a serving Army sergeant, cuts against the claim, and no record places him in England. Klass also notes the incident was not reported upward until about two weeks after Stone says his team arrived.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      },
+      {
+        name: 'Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, \'Dr. Greer\'s Disclosure Conference Reveals His New Strategy\'; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf',
+        date: '2001'
+      }
+    ]
+  },
+  {
+    a: 'robert-jacobs',
+    b: 'disclosure-project-briefing-2001',
+    type: 'witness-chain',
+    label: 'Testimony at section 3.8.3, dated November 2000',
+    claimTier: 1,
+    dateStart: '2000-11',
+    dateEnd: '2000-11',
+    note: 'TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. This is the LAST and WEAKEST anchor for this witness; his own 1989 publication is the one the board should cite.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      }
+    ]
+  },
+  {
+    a: 'robert-jacobs',
+    b: 'big-sur-1964',
+    type: 'witness-chain',
+    label: 'On-site commander at the filming; his presence, unit and role confirmed by the project engineer in print',
+    claimTier: 1,
+    dateStart: '1964-08',
+    dateEnd: '1964-11',
+    note: 'THE ONLY TIER 1 WITNESS-TO-CASE EDGE IN THIS CLUSTER. Jacobs published his own account in January 1989; Kingston George, the project engineer, wrote in 1993 that \'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location\', and published team photographs captioning Jacobs into and out of them. The edge carries his PRESENCE, not his interpretation.',
+    sources: [
+      {
+        name: 'Bob Jacobs, Ph.D., \'Deliberate Deception: The Big Sur UFO Filming\', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP',
+        url: 'http://www.nicap.org/reports/bigsur2.htm',
+        date: '1989-01'
+      },
+      {
+        name: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf',
+        date: '1993'
+      }
+    ]
+  },
+  {
+    a: 'robert-jacobs',
+    b: 'l-vandenberg',
+    type: 'geographic',
+    label: '1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966',
+    claimTier: 1,
+    dateStart: '1963-05',
+    dateEnd: '1966-05',
+    note: 'His own published statement of his post, independently confirmed as to unit and role by the project engineer.',
+    sources: [
+      {
+        name: 'Bob Jacobs, Ph.D., \'Deliberate Deception: The Big Sur UFO Filming\', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP',
+        url: 'http://www.nicap.org/reports/bigsur2.htm',
+        date: '1989-01'
+      },
+      {
+        name: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf',
+        date: '1993'
+      }
+    ]
+  },
+  {
+    a: 'kingston-george',
+    b: 'big-sur-1964',
+    type: 'investigative',
+    label: 'Project engineer for the deployment',
+    claimTier: 1,
+    dateStart: '1964-08',
+    dateEnd: '1964-11',
+    note: 'His own opening line: \'I was the project engineer for these experiments.\' He supplies the dates, the instrument, the launch name, the photographs and a contemporaneous 13 October 1964 staff study cited by title.',
+    sources: [
+      {
+        name: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf',
+        date: '1993'
+      }
+    ]
+  },
+  {
+    a: 'kingston-george',
+    b: 'robert-jacobs',
+    type: 'denial',
+    label: 'Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993',
+    claimTier: 1,
+    dateStart: '1993',
+    dateEnd: '1993',
+    note: 'TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs \'was technically not authorized to view the pictures we were collecting\'.',
+    sources: [
+      {
+        name: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf',
+        date: '1993'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'kingston-george'
+  },
+  {
+    a: 'big-sur-1964',
+    b: 'usaf',
+    type: 'programmatic',
+    label: 'An Air Force telescope deployment covering Air Force Western Test Range launches',
+    claimTier: 1,
+    dateStart: '1964-08',
+    dateEnd: '1964-11',
+    note: 'Instrument owned by the Range Measurements Laboratory of the Air Force Eastern Test Range; nine of eleven Vandenberg launches covered; the resulting film classified Top Secret on a weapons-vulnerability rationale and later destroyed.',
+    sources: [
+      {
+        name: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf',
+        date: '1993'
+      }
+    ]
+  },
+  {
+    a: 'big-sur-1964',
+    b: 'l-vandenberg',
+    type: 'geographic',
+    label: 'Coverage of Vandenberg launches from a site about 100 miles north',
+    claimTier: 1,
+    dateStart: '1964-08',
+    dateEnd: '1964-11',
+    note: 'The Big Sur site gave a side-look at launches into the Western Test Range that local telephoto coverage at Vandenberg could not, because of prevailing fog.',
+    sources: [
+      {
+        name: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf',
+        date: '1993'
+      }
+    ]
+  },
+  {
+    a: 'larry-warren',
+    b: 'disclosure-project-briefing-2001',
+    type: 'witness-chain',
+    label: 'Testimony at section 3.8.4, dated September 2000',
+    claimTier: 1,
+    dateStart: '2000-09',
+    dateEnd: '2000-09',
+    note: 'TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: \'Testimony of Security Officer Larry Warren, United States Air Force / September 2000\'.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      }
+    ]
+  },
+  {
+    a: 'larry-warren',
+    b: 'rendlesham-1980',
+    type: 'witness-chain',
+    label: 'Claims presence at the December 1980 events; contested',
+    claimTier: 2,
+    dateStart: '1980-12',
+    dateEnd: '1980-12',
+    note: 'TIER 2 AND CONTESTED. His assignment to the 81st Tactical Fighter Wing is not what is disputed; his presence at the events and the documents he produced for it are. His co-author repudiated the account on 13 June 2017 and the publisher suspended distribution of the book on 17 October 2017.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      },
+      {
+        name: 'Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie\'s blog',
+        url: 'http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html',
+        date: '2017-06-13'
+      },
+      {
+        name: 'Cosimo, Inc., publisher\'s announcement, \'Announcement: Left at East Gate\'',
+        url: 'http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html',
+        date: '2017-10-17'
+      }
+    ]
+  },
+  {
+    a: 'peter-robbins',
+    b: 'larry-warren',
+    type: 'denial',
+    label: 'Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017',
+    claimTier: 2,
+    dateStart: '2017-06-13',
+    dateEnd: '2017-10-17',
+    note: 'TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER\'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins\'s findings and the underlying documents were not opened here. He concedes the authenticity of Warren\'s January 1981 letter home.',
+    sources: [
+      {
+        name: 'Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie\'s blog',
+        url: 'http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html',
+        date: '2017-06-13'
+      },
+      {
+        name: 'Cosimo, Inc., publisher\'s announcement, \'Announcement: Left at East Gate\'',
+        url: 'http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html',
+        date: '2017-10-17'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'peter-robbins'
+  },
+  {
+    a: 'peter-robbins',
+    b: 'rendlesham-1980',
+    type: 'research',
+    label: 'Co-author of a book-length treatment of the event, later repudiated by him',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: '2017-06-13',
+    note: 'AUTHORSHIP RELATION, TYPED research. Left at East Gate, with Larry Warren, defended for twenty-nine years and then repudiated in June 2017.',
+    sources: [
+      {
+        name: 'Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie\'s blog',
+        url: 'http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html',
+        date: '2017-06-13'
+      },
+      {
+        name: 'Kevin D. Randle, \'Peter Robbins Explains His Take on Left at East Gate (Part One)\', A Different Perspective',
+        url: 'http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html',
+        date: '2017-08-10'
+      }
+    ]
+  },
+  {
+    a: 'charles-halt',
+    b: 'larry-warren',
+    type: 'denial',
+    label: 'Reported as stating that Warren \'was not there\'',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2.',
+    sources: [
+      {
+        name: 'Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie\'s blog',
+        url: 'http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html',
+        date: '2017-06-13'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'charles-halt'
+  },
+  {
+    a: 'disclosure-project-witness-set',
+    b: 'disclosure-project-briefing-2001',
+    type: 'institutional',
+    label: 'The cohort is defined by section 3.8 of the document',
+    claimTier: 1,
+    dateStart: '2001-04',
+    dateEnd: '2001-04',
+    note: 'Sixty-eight dated testimony headings across five subsections. The set node exists so that the fifty-seven unchecked witnesses do not each become a single-claim person node.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      }
+    ]
+  },
+  {
+    a: 'disclosure-project-witness-set',
+    b: 'd-witness',
+    type: 'institutional',
+    label: 'A cohort of claimants, which is what this domain is for',
+    claimTier: 1,
+    dateStart: '2000-07',
+    dateEnd: '2001-05-09',
+    note: 'Every member of the set is on the board only as someone who asserted something, which under CLAUDE.md section 6 is exactly the situation in which degree must never be read as truth.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      }
+    ]
+  },
+  {
+    a: 'disclosure-project-witness-set',
+    b: 'nasa',
+    type: 'witness-chain',
+    label: 'Carries the Wolfe and Hare claims about NASA imagery, against NASA\'s own records',
+    claimTier: 2,
+    dateStart: '1966',
+    dateEnd: '1971',
+    note: 'Wolfe\'s Lunar Orbiter account runs against the NSSDCA record that the programme was managed by NASA Langley Research Center. Hare\'s employer, Philco-Ford, is a documented NASA Manned Spacecraft Center contractor per Ford\'s own corporate history, while her employment is documented nowhere.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      },
+      {
+        name: 'NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A)',
+        url: 'https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Ford Motor Company corporate history, \'Ford, Philco and the Mission Control Center\'',
+        url: 'https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'disclosure-project-witness-set',
+    b: 'nsa',
+    type: 'witness-chain',
+    label: 'Carries the Wolfe claim of an NSA facility at Langley AFB handling Lunar Orbiter imagery',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'TIER 3. Nothing independent places Wolfe anywhere, and NASA\'s own catalogue places the Lunar Orbiter programme at NASA Langley Research Center, a separate civil installation from Langley Air Force Base.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      },
+      {
+        name: 'NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A)',
+        url: 'https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'disclosure-project-witness-set',
+    b: 'lockheed-martin',
+    type: 'witness-chain',
+    label: 'Carries the Don Phillips claim of work with Kelly Johnson at the Skunk Works',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'TIER 3, AND DELIBERATELY ROUTED THROUGH THE SET RATHER THAN A PERSON NODE. Nothing independent exists for Phillips: no personnel record, no Lockheed document, no CIA record, no publication, and the name is extremely common. An unverified claimant must not acquire a direct edge into a Tier A contractor node.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      }
+    ]
+  },
+  {
+    a: 'philip-j-klass',
+    b: 'disclosure-project',
+    type: 'denial',
+    label: 'Dated published critique of the Project by name, Summer 2001',
+    claimTier: 1,
+    dateStart: '2001',
+    dateEnd: '2001',
+    note: 'Skeptics UFO Newsletter #68, written within weeks of the press conference. Klass declares his own limitation in the same issue: he was refused admission and his account of the event rests on the Project\'s press releases, its book and broadcast footage. That limitation applies to his reporting of the event and not to the service record he obtained himself.',
+    sources: [
+      {
+        name: 'Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, \'Dr. Greer\'s Disclosure Conference Reveals His New Strategy\'; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf',
+        date: '2001'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'philip-j-klass'
+  },
+  {
+    a: 'daniel-sheehan',
+    b: 'national-press-club-2001',
+    type: 'witness-chain',
+    label: 'Counsel to the Project, at the podium on 9 May 2001',
+    claimTier: 2,
+    dateStart: '2001-05-09',
+    dateEnd: '2001-05-09',
+    note: 'ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.',
+    sources: [
+      {
+        name: 'ABC News, \'Group Calls for Disclosure of UFO Info\', 9 May 2001, 2:35 PM',
+        url: 'https://abcnews.com/Technology/story?id=98572&page=1',
+        date: '2001-05-09'
+      },
+      {
+        name: 'Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, \'Dr. Greer\'s Disclosure Conference Reveals His New Strategy\'; PDF downloaded and converted to text in full this session',
+        url: 'https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf',
+        date: '2001'
+      }
+    ]
+  },
+  {
+    a: 'mark-mccandlish',
+    b: 'disclosure-project-briefing-2001',
+    type: 'witness-chain',
+    label: 'Testimony at section 3.8.5, dated December 2000',
+    claimTier: 1,
+    dateStart: '2000-12',
+    dateEnd: '2000-12',
+    note: 'TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, which is the form the existing node already uses. NOTHING OPENED PLACES HIM AT THE 9 MAY 2001 PODIUM, and this edge must never be read as implying it.',
+    sources: [
+      {
+        name: 'Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session',
+        url: 'https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt',
+        date: '2001-04'
+      }
+    ]
+  },
+  {
     a: 'luis-elizondo',
     b: 'aatip',
     type: 'programmatic',

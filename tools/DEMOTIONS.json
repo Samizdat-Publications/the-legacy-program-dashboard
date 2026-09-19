@@ -91,6 +91,11 @@
  },
  {
   "id": "daniel-sheehan",
+  "why": "node carries no primary-record URL",
+  "claim": "He is one of only five people whom an opened source places at the podium of the 9 May 2001 National Press Club"
+ },
+ {
+  "id": "daniel-sheehan",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizon"
  },
@@ -103,6 +108,61 @@
   "id": "daniel-sheehan",
   "why": "node carries no primary-record URL",
   "claim": "The New Paradigm Institute is running a public campaign urging the Senate to pass the UAP Disclosure Act follo"
+ },
+ {
+  "id": "clifford-stone",
+  "why": "node carries no primary-record URL",
+  "claim": "The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading"
+ },
+ {
+  "id": "clifford-stone",
+  "why": "node carries no primary-record URL",
+  "claim": "In the same testimony he describes his own training in his own words: 'very early on in my career they sent me"
+ },
+ {
+  "id": "larry-warren",
+  "why": "node carries no primary-record URL",
+  "claim": "The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading"
+ },
+ {
+  "id": "larry-warren",
+  "why": "node carries no primary-record URL",
+  "claim": "In his own printed words: 'In December of 1980, I was assigned to the 81st Tactical Fighter Wing in Suffolk, E"
+ },
+ {
+  "id": "larry-warren",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "HIS PUBLISHER WITHDREW THE BOOK. Cosimo, Inc., 17 October 2017, verbatim: 'Cosimo is announcing that it is sus"
+ },
+ {
+  "id": "larry-warren",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "HIS CO-AUTHOR OF TWENTY-NINE YEARS REPUDIATED THE BOOK. Peter Robbins published a statement on 13 June 2017, u"
+ },
+ {
+  "id": "peter-robbins",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "He is the co-author of Left at East Gate with Larry Warren, and on 13 June 2017, updated 20 June 2017, he publ"
+ },
+ {
+  "id": "peter-robbins",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The specific allegations in that statement: a fabricated photograph purporting to show Warren with John Lennon"
+ },
+ {
+  "id": "steven-greer",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club pre"
+ },
+ {
+  "id": "steven-greer",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The Atacama skeleton presented in Sirius was shown by genetic evidence to be human."
+ },
+ {
+  "id": "kevin-randle",
+  "why": "node carries no primary-record URL",
+  "claim": "'The Truth About the UFO Crash at Roswell' by Kevin D. Randle and Donald R. Schmitt was published in 1994, 251"
  },
  {
   "id": "uap-gerb",
@@ -138,16 +198,6 @@
   "id": "ross-coulthart",
   "why": "node carries no primary-record URL",
   "claim": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; "
- },
- {
-  "id": "steven-greer",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club pre"
- },
- {
-  "id": "steven-greer",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "The Atacama skeleton presented in Sirius was shown by genetic evidence to be human."
  },
  {
   "id": "stanton-friedman",
@@ -223,11 +273,6 @@
   "id": "leonard-stringfield",
   "why": "node carries no primary-record URL",
   "claim": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Str"
- },
- {
-  "id": "kevin-randle",
-  "why": "node carries no primary-record URL",
-  "claim": "'The Truth About the UFO Crash at Roswell' by Kevin D. Randle and Donald R. Schmitt was published in 1994, 251"
  },
  {
   "id": "glenn-dennis",
@@ -703,6 +748,11 @@
   "id": "arv-fluxliner",
   "why": "node carries no primary-record URL",
   "claim": "THE WITNESS DISOWNS PART OF THE DRAWING. Shown McCandlish's sketches in December 1990, Sorensen says of the ma"
+ },
+ {
+  "id": "rendlesham-1980",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "THAT CLAIM IS DISPUTED IN THE PUBLISHED LITERATURE BY HIS OWN CO-AUTHOR AND HIS OWN PUBLISHER. Peter Robbins p"
  },
  {
   "id": "nyt-2017-12-16",

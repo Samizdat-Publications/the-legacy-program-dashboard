@@ -946,6 +946,28 @@
 "tier": "C"
 },
 {
+"date": "1964-09-22",
+"era": "0",
+"id": "tl-1964-09-22-big-sur-buzzing-bee",
+"label": "Atlas launch 'Buzzing Bee' filmed from Big Sur at dawn",
+"node": "big-sur-1964",
+"precision": "day",
+"strand": "program",
+"text": "The project engineer's published account fixes the event at dawn on 22 September 1964, on an Atlas launch nicknamed 'Buzzing Bee', photographed by a borrowed Boston University 24-inch telescope with an image orthicon tube sited in the Los Padres National Forest above Big Sur. Lt. Robert Jacobs, the on-site commander, later published that the film showed a saucer-shaped object firing a beam at the warhead; the project engineer published that it showed decoy deployment and trailing packing material. Jacobs's own article gives the date as 2, 3 or 15 September 1964.",
+"tier": "B"
+},
+{
+"date": "1964-10-13",
+"era": "0",
+"id": "tl-1964-10-13-george-staff-study",
+"label": "Contemporaneous Air Force staff study on the Big Sur imagery",
+"node": "big-sur-1964",
+"precision": "day",
+"strand": "program",
+"text": "'Preliminary Report on Image Orthicon Photography from Big Sur', Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, 13 October 1964, by Kingston A. George. Cited by title and date in his 1993 article. NOT OPENED. It is the best unopened lead this cluster produced: a contemporaneous Air Force document about the filming, written three weeks afterwards.",
+"tier": "B"
+},
+{
 "date": "1965-12-09",
 "era": "0",
 "id": "tl-1965-1209-kecksburg",
@@ -998,6 +1020,17 @@
 "precision": "day",
 "strand": "coverup",
 "text": "Robert Low's memorandum proposes a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. McDonald finds it in the project files in July 1967.",
+"tier": "A"
+},
+{
+"date": "1966-08-10",
+"era": "0",
+"id": "tl-1966-08-10-lunar-orbiter-1",
+"label": "Lunar Orbiter 1 launched; programme managed by NASA Langley Research Center",
+"node": "nasa",
+"precision": "day",
+"strand": "program",
+"text": "NASA's NSSDCA master catalogue records the launch of Lunar Orbiter 1 on 10 August 1966, photographic data acquired from 18 to 29 August 1966, and that 'The Lunar Orbiter program was managed by NASA Langley Research Center'. This is the agency record against which Karl Wolfe's account of seeing Lunar Orbiter mosaics at an NSA facility on Langley Air Force Base must be measured.",
 "tier": "A"
 },
 {
@@ -1086,6 +1119,17 @@
 "precision": "month",
 "strand": "oversight",
 "text": "John G. Fuller publishes the Low memo, calling the project a $500,000 trick. Condon fires investigators David Saunders and Norman Levine.",
+"tier": "B"
+},
+{
+"date": "1968-07-08",
+"era": "0",
+"id": "tl-1968-07-08-stone-enters-army",
+"label": "Clifford Stone enters the US Army",
+"node": "clifford-stone",
+"precision": "day",
+"strand": "witness",
+"text": "Per the service record Philip J. Klass obtained from the National Personnel Records Center in St. Louis and printed in 2001: Stone entered the Army on 8 July 1968 and after several months of basic training 'he was trained to be a clerk/typist'. The assignment history that follows is clerical and administrative throughout.",
 "tier": "B"
 },
 {
@@ -1628,6 +1672,17 @@
 "tier": "A"
 },
 {
+"date": "1980-12-11",
+"era": "1",
+"id": "tl-1980-12-11-warren-prp",
+"label": "Larry Warren says his PRP clearance came through at Bentwaters",
+"node": "larry-warren",
+"precision": "day",
+"strand": "witness",
+"text": "In the Disclosure Project Briefing Document: 'On December 11th, 1980, my security clearance notice, PRP, came through and I was approved. My clearance was a secret clearance at that time.' His assignment to the 81st Tactical Fighter Wing is not the disputed part of his account; his presence at the events of later that month is.",
+"tier": "C"
+},
+{
 "date": "1980-12-26",
 "era": "1",
 "id": "t-1980-rendlesham",
@@ -1790,6 +1845,17 @@
 "precision": "day",
 "strand": "program",
 "text": "A twenty-nine page memorandum from the US Army Operational Group, US Army Intelligence and Security Command, Fort George G. Meade, analyses the Gateway Experience on tasking from its own commander and states that it is meant as 'a useful guide for other USAINSCOM personnel who are required to take the Gateway training or work with Gateway materials'. It names remote viewing as a follow-on technique inside the method and concludes that there is 'a sound, rational basis in terms of physical science parameters for considering Gateway to be plausible in terms of its essential objectives'.",
+"tier": "B"
+},
+{
+"date": "1983-12-23",
+"era": "1",
+"id": "tl-1983-12-23-stone-foia-bentwaters",
+"label": "Stone files a FOIA request about Bentwaters, from his home address",
+"node": "clifford-stone",
+"precision": "day",
+"strand": "coverup",
+"text": "Klass records that on 23 December 1983 Clifford Stone filed a Freedom of Information Act request with the USAF for information on the Bentwaters incident, 'used his home address and did not show that he was an Army sergeant'. Stone had told the Disclosure Project that an Army team took him there officially in late December 1980. THIS IS AN AFFIRMATIVE ACT INCONSISTENT WITH HIS OWN ACCOUNT, NOT AN ABSENCE OF EVIDENCE.",
 "tier": "B"
 },
 {
@@ -1980,6 +2046,39 @@
 "tier": "A"
 },
 {
+"date": "1986-11-17",
+"era": "1",
+"id": "tl-1986-11-17-jal-1628",
+"label": "Japan Air Lines flight 1628 incident over Alaska",
+"node": "jal-1628-1986",
+"precision": "day",
+"strand": "program",
+"text": "A Japan Air Lines 747 crossing Alaskan airspace reported an object accompanying it. The FAA investigated and generated a file that survives at the National Archives in Record Group 237, archival identifier 733667, running to over 1,500 pages including crew statements, air traffic control transcripts and radar data.",
+"tier": "A"
+},
+{
+"date": "1987-01-02",
+"era": "1",
+"id": "tl-1987-01-02-terauchi-interview",
+"label": "FAA interviews Captain Terauchi",
+"node": "jal-1628-1986",
+"precision": "day",
+"strand": "oversight",
+"text": "A 19-page transcript of the FAA's interview with Capt. Terauchi, dated 2 January 1987, is itemised in the National Archives file, alongside interviews with First Officer Tamefugi on 5 January and Flight Engineer Tsukuba on 15 January 1987. Klass reports that in this interview Terauchi 'admitted that this was the third time he had reported sighting a UFO'.",
+"tier": "A"
+},
+{
+"date": "1987-03-05",
+"era": "1",
+"id": "tl-1987-03-05-faa-alaska-release",
+"label": "FAA Alaskan Region press release concludes against a second aircraft",
+"node": "faa",
+"precision": "day",
+"strand": "oversight",
+"text": "The FAA Alaskan Region issued a press release stating that agency experts at the Technical Center in Atlantic City 'determined that a second radar target near the JAL flight... was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return', and concluding: 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.'",
+"tier": "A"
+},
+{
 "date": "1987-05-29",
 "era": "1",
 "id": "t-1987-mj12-public",
@@ -2087,6 +2186,17 @@
 "precision": "month",
 "strand": "witness",
 "text": "In his 1991 narration Lazar says that 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', and that 'I was hired in December of 1988 to replace one of these men'. This row records the claim and its date, not any employment.",
+"tier": "B"
+},
+{
+"date": "1989-01",
+"era": "1",
+"id": "tl-1989-01-jacobs-mufon",
+"label": "Robert Jacobs publishes his own account of the Big Sur filming",
+"node": "robert-jacobs",
+"precision": "month",
+"strand": "witness",
+"text": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989. He gives his post as Officer-in-Charge of Photo-optical Instrumentation in the 1369th Photographic Squadron at Vandenberg AFB from May 1963 to May 1966, and dates the event, uncertainly, to 2, 3 or 15 September 1964. TWELVE YEARS BEFORE THE DISCLOSURE PROJECT, AND THE ANCHOR THE BOARD SHOULD USE FOR THIS WITNESS.",
 "tier": "B"
 },
 {
@@ -2406,6 +2516,17 @@
 "precision": "month",
 "strand": "oversight",
 "text": "After 31 years the Deputy Secretary of Defense authorises acknowledgement that the National Reconnaissance Office exists. The precedent cuts both ways: it proves concealment at scale is possible, and it proves it eventually ends.",
+"tier": "B"
+},
+{
+"date": "1993",
+"era": "1",
+"id": "tl-1993-george-skeptical-inquirer",
+"label": "The project engineer answers Jacobs in print",
+"node": "big-sur-1964",
+"precision": "year",
+"strand": "witness",
+"text": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186. He identifies himself as the project engineer, confirms that Jacobs was named on-site commander by the 1369th Photo Squadron, publishes team photographs, fixes the date and launch, explains the imagery as decoy and chaff deployment, and states that Jacobs was not authorised to view the film.",
 "tier": "B"
 },
 {
@@ -3115,12 +3236,56 @@
 {
 "date": "2000-09",
 "era": "2",
+"id": "tl-2000-09-stone-testimony",
+"label": "Clifford Stone's testimony recorded for the Disclosure Project",
+"node": "clifford-stone",
+"precision": "month",
+"strand": "witness",
+"text": "Printed at section 3.8.4 under 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. The editorial header: 'Stone has seen living and dead extraterrestrials in his official duties on an army team that retrieved crashed ET crafts.'",
+"tier": "B"
+},
+{
+"date": "2000-09",
+"era": "2",
+"id": "tl-2000-09-warren-testimony",
+"label": "Larry Warren's testimony recorded for the Disclosure Project",
+"node": "larry-warren",
+"precision": "month",
+"strand": "witness",
+"text": "Printed at section 3.8.4 under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'.",
+"tier": "C"
+},
+{
+"date": "2000-09",
+"era": "2",
 "id": "tl-2000-09-williams-testimony",
 "label": "Lt Col John Williams's Disclosure Project testimony on a compartmented facility at Norton",
 "node": "disclosure-project-briefing-2001",
 "precision": "month",
 "strand": "witness",
 "text": "Printed in the same document as McCandlish's. Williams says he 'was responsible for that base's facilities from 1981-82' and that 'I was never allowed in that area when I was there at Norton Air Force Base'. Greer cross-references the two testimonies to each other in bracketed notes signed 'SG'.",
+"tier": "B"
+},
+{
+"date": "2000-10",
+"era": "2",
+"id": "tl-2000-10-callahan-testimony",
+"label": "John Callahan's testimony recorded for the Disclosure Project",
+"node": "john-callahan",
+"precision": "month",
+"strand": "witness",
+"text": "Printed at section 3.8.2 under 'Testimony of FAA Division Chief John Callahan / October 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY ONLY; the case he describes has its own federal record and his claimed title does not.",
+"tier": "B"
+},
+{
+"date": "2000-11",
+"era": "2",
+"id": "tl-2000-11-jacobs-testimony",
+"label": "Robert Jacobs's testimony recorded for the Disclosure Project",
+"node": "robert-jacobs",
+"precision": "month",
+"strand": "witness",
+"text": "Printed at section 3.8.3 under 'Testimony of Professor Robert Jacobs, Lt. US Air Force / November 2000'. The last and weakest of his three published accounts of the same event.",
 "tier": "B"
 },
 {
@@ -3135,6 +3300,17 @@
 "tier": "B"
 },
 {
+"date": "2001",
+"era": "2",
+"id": "tl-2001-klass-sun-68",
+"label": "Klass publishes Stone's service record and the 1987 FAA release",
+"node": "philip-j-klass",
+"precision": "year",
+"strand": "witness",
+"text": "Skeptics UFO Newsletter #68, Summer 2001. It prints Clifford Stone's assignment history obtained from the National Personnel Records Center, quotes the FAA Alaskan Region press release of 5 March 1987 and the air traffic control transcript on JAL 1628, and records that twenty of sixty-nine interviewees spoke at the press conference. Klass declares that he was refused admission to the event.",
+"tier": "B"
+},
+{
 "date": "2001-04",
 "era": "2",
 "id": "tl-2001-04-briefing-document",
@@ -3144,6 +3320,17 @@
 "strand": "witness",
 "text": "The roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony including McCandlish's of December 2000. It is the custody point for dozens of this board's witness claims.",
 "tier": "B"
+},
+{
+"date": "2001-04",
+"era": "2",
+"id": "tl-2001-04-briefing-documentx",
+"label": "Disclosure Project Briefing Document published",
+"node": "disclosure-project-briefing-2001",
+"precision": "month",
+"strand": "witness",
+"text": "'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D. / April, 2001', addressed to members of the press, the US government and the US scientific community. Its section 3.8 prints sixty-eight dated witness testimonies across five subsections.",
+"tier": "A"
 },
 {
 "date": "2001-05-09",
@@ -3166,6 +3353,28 @@
 "strand": "witness",
 "text": "Steven Greer presents about twenty former military and government witnesses at the National Press Club and demands congressional hearings with subpoena power. Global coverage; no hearing.",
 "tier": "B"
+},
+{
+"date": "2001-05-09",
+"era": "2",
+"id": "tl-2001-05-09-press-club",
+"label": "Disclosure Project press conference at the National Press Club",
+"node": "national-press-club-2001",
+"precision": "day",
+"strand": "witness",
+"text": "About twenty former government workers spoke, out of sixty-nine whose interviews appear in the accompanying book. ABC News covered it the same day. NO OPENED SOURCE LISTS THE TWENTY; five are placed at the podium by opened sources, namely Callahan, Stone, Filer, Sheehan and Webre.",
+"tier": "A"
+},
+{
+"date": "2001-06-27",
+"era": "2",
+"id": "tl-2001-06-27-faa-destruction-letter",
+"label": "FAA tells a FOIA requester the JAL 1628 records will be destroyed in 30 days",
+"node": "faa",
+"precision": "day",
+"strand": "coverup",
+"text": "Letter of 27 June 2001: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed. Over 1,500 pages were later found at the National Archives.",
+"tier": "A"
 },
 {
 "date": "2001-11-14",
@@ -4565,6 +4774,17 @@
 "tier": "B"
 },
 {
+"date": "2015-10-05",
+"era": "2",
+"id": "tl-2015-10-05-dean-form-171",
+"label": "A researcher publishes Callahan's self-supplied OMB Form 171",
+"node": "john-callahan",
+"precision": "day",
+"strand": "witness",
+"text": "Paul Dean publishes an OMB Form 171 showing 'Division Mgr. Investigations/Evaluations', 'FAA ATS-1 Washington Headquarters', 'Oct. 1986 to present', stating that the originals were provided by Callahan himself in 2015. In part one of the same series Dean had reported his own negative finding: the public record showed a 'Quality Control Branch Manager' of the 'Quality Assurance Staff'.",
+"tier": "C"
+},
+{
 "date": "2015-10-17",
 "era": "2",
 "id": "sap-tl-2015-icd906",
@@ -4730,6 +4950,17 @@
 "tier": "B"
 },
 {
+"date": "2017-06-13",
+"era": "3",
+"id": "tl-2017-06-13-robbins-statement",
+"label": "Peter Robbins repudiates his co-author after twenty-nine years",
+"node": "peter-robbins",
+"precision": "day",
+"strand": "witness",
+"text": "Robbins publishes a statement alleging that Larry Warren fabricated a photograph with John Lennon, altered a USAF Form 490 whose ophthalmic notation is attributed to a physician Robbins found to be an orthopaedic surgeon, produced an in-processing sheet with mismatched signatures, and attributed testimonial letters to two named airmen that were never sent. He accepts as authentic Warren's January 1981 letter to his mother.",
+"tier": "B"
+},
+{
 "date": "2017-07-19",
 "era": "3",
 "id": "tl-2017-07-19-united-nuclear-search",
@@ -4827,6 +5058,17 @@
 "strand": "program",
 "text": "DeLonge, Puthoff, Semivan, Justice, Elizondo and Mellon appear on one masthead, with a Regulation A+ offering targeting $50 million and divisions for Science, Aerospace and Entertainment.",
 "tier": "A"
+},
+{
+"date": "2017-10-17",
+"era": "3",
+"id": "tl-2017-10-17-cosimo-withdrawal",
+"label": "Publisher suspends distribution of Left at East Gate",
+"node": "larry-warren",
+"precision": "day",
+"strand": "witness",
+"text": "Cosimo, Inc.: 'Cosimo is announcing that it is suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins', because 'some of the experiences described in this book may be inaccurate or embellished'.",
+"tier": "B"
 },
 {
 "date": "2017-12",
@@ -5058,6 +5300,17 @@
 "strand": "coverup",
 "text": "FASAB issues the standard permitting an entity to present amounts associated with one financial statement line item in another 'but not presenting narrative explaining the modification', to omit disclosures that would reveal classified information, and to move a component reporting entity from one consolidation to another. Paragraph 12 requires entities to disclose that such modifications are permitted while expressly forbidding them to disclose that they applied the Statement.",
 "tier": "A"
+},
+{
+"date": "2018-10-10",
+"era": "3",
+"id": "tl-2018-10-10-wolfe-dies",
+"label": "Karl Wolfe dies",
+"node": "disclosure-project-witness-set",
+"precision": "day",
+"strand": "witness",
+"text": "Karl R. Wolfe, 19 April 1944 to 10 October 2018, per his funeral home obituary at Lansing, New York. The obituary does not mention US Air Force service, an employer, an education or a career, which is the whole of the independent record on him.",
+"tier": "C"
 },
 {
 "date": "2018-10-15",
@@ -5674,6 +5927,17 @@
 "strand": "program",
 "text": "AARO confirms that one intelligence community CAP was 'unnecessarily expanded in 2021 to include a UAP reverse-engineering mission' without evidence or mission need, and was later disestablished.",
 "tier": "A"
+},
+{
+"date": "2021-02-10",
+"era": "3",
+"id": "tl-2021-02-10-stone-dies",
+"label": "Clifford Stone dies at Roswell",
+"node": "clifford-stone",
+"precision": "day",
+"strand": "witness",
+"text": "Kevin Randle: 'Clifford E. Stone, known for his relentless pursuit of UFO documentation through his use of FOIA died on February 10, in Roswell, New Mexico.' Randle sets out in the same post the discrepancies between Stone's account and his service record.",
+"tier": "C"
 },
 {
 "date": "2021-02-24",

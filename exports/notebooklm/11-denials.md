@@ -1,6 +1,6 @@
 # The denials
 
-This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 205 distinct denials here, from 123 deniers, grouped by who did the denying.
+This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 211 distinct denials here, from 128 deniers, grouped by who did the denying.
 
 ## 'Manhattan Project 2.0' (alleged secrecy architecture)
 
@@ -187,6 +187,12 @@ The CIA has not issued a modern public denial specific to the legacy recovery an
 Charles E. Schumer is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Publicly called the removal of the Review Board an outrage** This is directed at P.L. 118-31 Subtitle C, Secs. 1841-1843 (what survived), recorded as a association denial at Tier 2 named person on the record. Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it. Sources: The Debrief, A Dramatic Dilution, https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/, dated 2023-12-22.
+
+## Charles I. Halt
+
+Charles I. Halt is recorded as the denying party in 1 denial on this board.
+
+- **Denies: Reported as stating that Warren 'was not there'** This is directed at Larry Warren, recorded as a directed denial at Tier 3 stated inference. TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2. Sources: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, dated 2017-06-13.
 
 ## Christopher K. Mellon
 
@@ -386,6 +392,18 @@ Jon T. Kosloski is recorded as the denying party in 2 denials on this board.
 Joseph Gradisher is recorded as the denying party in 1 denial on this board.
 
 - **Denies: 'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request** This is directed at DD Form 1910 for GoFast, Gimbal and FLIR video files, recorded as a directed denial at Tier 1 documented. A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/, dated 2019-09-10.
+
+## Kevin D. Randle
+
+Kevin D. Randle is recorded as the denying party in 1 denial on this board.
+
+- **Denies: Thirty-year acquaintance who records the same discrepancies from the record** This is directed at Clifford E. Stone, recorded as a directed denial at Tier 2 named person on the record. A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night. Sources: Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html, dated 2021-02-14.
+
+## Kingston A. George
+
+Kingston A. George is recorded as the denying party in 1 denial on this board.
+
+- **Denies: Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993** This is directed at Robert M. Jacobs, recorded as a directed denial at Tier 1 documented. TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs 'was technically not authorized to view the pictures we were collecting'. Sources: Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf, dated 1993.
 
 ## Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)
 
@@ -592,12 +610,25 @@ Patrick S. Ryder is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Released and framed the report as 'the widest possible aperture'** This is directed at AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I, recorded as a association denial at Tier 1 documented. Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released. Sources: Roll Call - No evidence of extraterrestrial technology, report finds, https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/, dated 2024-03-08.
 
+## Peter Robbins
+
+Peter Robbins is recorded as the denying party in 1 denial on this board.
+
+- **Denies: Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017** This is directed at Larry Warren, recorded as a directed denial at Tier 2 named person on the record. TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins's findings and the underlying documents were not opened here. He concedes the authenticity of Warren's January 1981 letter home. Sources: Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html, dated 2017-06-13; Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html, dated 2017-10-17.
+
 ## Peter W. Merlin
 
 Peter W. Merlin is recorded as the denying party in 2 denials on this board.
 
 - **Denies: Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office** This is directed at Edgar Fouche's Military, and DOD contractors reference Documents, recorded as a directed denial at Tier 2 named person on the record. Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction. Sources: Peter Merlin, quoted verbatim in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19; The page 1 image of the compilation, rendered at 190 dpi and read, which corroborates the absence of classification markings and the signature block, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 1984-07-10.
 - **Denies: Named aerospace historian; four falsifiable specifics against the claimant's evidence** This is directed at TR-3B 'Astra', claimed black triangular aircraft, recorded as a directed denial at Tier 2 named person on the record. 'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record. Sources: Peter Merlin, quoted verbatim in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax', https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19.
+
+## Philip J. Klass
+
+Philip J. Klass is recorded as the denying party in 2 denials on this board.
+
+- **Denies: Obtained his service record from the National Personnel Records Center and printed it against the claim** This is directed at Clifford E. Stone, recorded as a directed denial at Tier 1 documented. TIER 1 DESPITE BOTH ENDS BEING INTERESTED PARTIES, because the claim carried by this edge is that Klass requested and published a federal service record, which is a fact about an act of research and not a domain-to-domain inference. The record shows clerk/typist, administration specialist, detachment sergeant and chief administrative clerk; Klass also records Stone's 23 December 1983 FOIA request to the USAF about Bentwaters, sent from his home address without identifying him as a serving sergeant. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
+- **Denies: Dated published critique of the Project by name, Summer 2001** This is directed at The Disclosure Project, recorded as a directed denial at Tier 1 documented. Skeptics UFO Newsletter #68, written within weeks of the press conference. Klass declares his own limitation in the same issue: he was refused admission and his account of the event rests on the Project's press releases, its book and broadcast footage. That limitation applies to his reporting of the event and not to the service record he obtained himself. Sources: Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf, dated 2001.
 
 ## Presidential Determinations on the Air Force's Operating Location Near Groom Lake
 

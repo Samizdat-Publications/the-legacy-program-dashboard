@@ -86,7 +86,7 @@
 "direction": "out",
 "edgeLabel": "Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference",
 "id": "disclosure-project",
-"l0": false,
+"l0": true,
 "label": "The Disclosure Project",
 "note": "Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue.",
 "sources": [
@@ -96,7 +96,7 @@
 "url": "https://clinton.presidentiallibraries.us/items/show/36386"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "behavioral"
 },
 {
@@ -220,7 +220,7 @@
 "status": "active",
 "sub": "White House Staff Secretary 1993-95, Deputy Chief of Staff 1997-98, Chief of Staff 1998-2001; Counselor to the President 2014-15",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 671 of 1094, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 684 of 1105, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "date": "2002-10-22",

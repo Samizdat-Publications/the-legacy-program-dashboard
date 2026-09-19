@@ -71,7 +71,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -368,7 +368,7 @@
 "cls": "person",
 "id": "alfred-odonnell",
 "label": "Alfred 'Al' O'Donnell",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "domain",
@@ -451,7 +451,7 @@
 ],
 "sub": "Nuclear test instrumentation and classified site services; Groom Lake support",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 139 of 1094, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 141 of 1105, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "1989-11-01",
