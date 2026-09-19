@@ -146,7 +146,44 @@ Corollaries that have already cost real time:
   plausible-looking guess.
 - **Two agents agreeing is not corroboration when they share a method.** Two independent
   research passes both "corrected" a statutory citation that was already right, and the
-  correction had to be reverted.
+  correction had to be reverted. **This became load-bearing on 19 September 2026** when the
+  triage rule widened (below). The board now carries the problem documented from both
+  directions: Tal Levesque invented `thomas-castello` and mailed a hundred identical packets
+  to manufacture the look of many independent sources, and the Disclosure Project's
+  sixty-eight testimonies were all collected by one interviewer who cross-references his own
+  witnesses to each other in editorial notes. One deliberate, one nobody intended.
+
+### 2a. NOTABILITY IS A SECOND, PARALLEL CRITERION FOR ADMISSION (19 September 2026)
+
+Adopted on Stewart's instruction from `research/leads/CANON-GAPS-2026-09-18.md` section 5.
+Full reasoning and its obligations: `notes/TRIAGE-RULE-2026-09-19.md`.
+
+The old rule promoted a lead to a node only when an openable primary record anchored the
+claim, which is why this board carried the officials and omitted the claimants. **A person,
+place, programme or event now also belongs on the board when an informed reader would expect
+to find it and would read its absence as a gap in the map**, whether or not any record
+vouches for what was said.
+
+**This widens ADMISSION and changes NOTHING about GRADING.** The triage rule decides whether
+a lead becomes a node. The tier decides how strong the evidence is. They are separate and
+must stay separate:
+
+- Testimony is Tier 2. It is carried at Tier 2, openly, and is not upgraded for being
+  important.
+- The openable anchor is **the dated artefact of the claim** (a recorded testimony, a
+  broadcast, a book, a filing), NOT a record of the thing claimed. There must still be
+  something that fixes WHEN the claim was made.
+- The case against goes in the same node's `conflicts` and `unverified`, never elsewhere.
+- Where no record exists, **the node says so in its own narrative**: "no employment, service
+  or civil record has ever been produced for this person" is a finding, and beats silence.
+
+**THE OBLIGATION THAT COMES WITH IT.** Admitting claimants admits circular reporting, so
+every node admitted on notability records HOW THE CLAIM REACHED US, not only its content:
+who found this person and by what route; what they had said BEFORE being contacted by an
+interested party; whether they were given another witness's account first; and whether the
+accounts agree on substance while diverging on detail, which reads very differently from
+verbatim agreement. `michael-herrera` is the standard: its edge to the 2025 hearing carries
+a note in capitals saying it is NOT a witness appearance.
 
 ---
 
