@@ -1,5 +1,35 @@
 # For Design: `fitChipInk` no longer scales with the board
 
+> ## CORRECTION, later the same night. THIS NOTE'S CENTRAL CLAIM WAS WRONG.
+>
+> Everything below was written when the check was red at chips 31 / cells 16, and it
+> concluded that **"there is no route to the threshold of 33 by building more."**
+>
+> **That was wrong, and building more is exactly what fixed it.** Two further clusters
+> landed (the Disclosure Project and the propulsion strand, then Dulce), L0 went 142 to
+> 149, and the check now PASSES at **chips 29 / cells 12**, which is 24 < 29 with margin.
+>
+> Note what actually moved: **cell ink FELL, 16 to 12.** Chip ink also fell slightly, 31 to
+> 29. The packing scale shrank as the board grew (0.76 to 0.74 at 1920), and cell-mode
+> numerals lost total ink faster than chips did. The note below reasoned only about chips
+> rising and never considered that cells could fall.
+>
+> **The error, stated plainly:** three data points with chip ink flat at 30, 31, 31 were
+> read as saturation and written up as a structural impossibility. Two flat points are not
+> saturation. The measurement was fine; the generalisation from it was not.
+>
+> **What survives, and is still worth Design's time:** the per-cell cost is real. A new
+> band-and-class cell cost about +7 when the ARV cluster opened one, and it took roughly
+> forty more nodes to climb back out. So the check is not broken and not unfixable, but it
+> **is sensitive to first-of-kind nodes in a way that has nothing to do with what the check
+> is trying to assert**, and the current pass is a margin of 5 on a sampled-pixel measure.
+> The next genuinely new kind of object may well turn it red again.
+>
+> So the questions in section 5 still stand. Question 3 should be read as "is a ratio the
+> right shape, given the two sides move independently and one of them tracks the board's
+> variety rather than its size", not as "the constant is unreachable".
+
+
 19 September 2026. Stewart's decision, this session: hand this to Design as a
 first-of-kind case, alongside the map cell panel item already theirs in
 `notes/MAP-CELL-PANEL-2026-09-12.md`.
