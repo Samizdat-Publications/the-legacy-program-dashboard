@@ -151,7 +151,19 @@ measure at all. Master and the fixed branch both read 29 / 10.
 ## 7. What is next
 
 1. **Stewart merges the branch** (section 1), or says why not.
-2. **The NSC and EO/statute spine is TRIAGED AND VERIFIED, ready to build.**
+2. ~~**The NSC and EO/statute spine is TRIAGED AND VERIFIED, ready to build.**~~
+   **BUILT, on its own branch `research/nsc-eo-spine-2026-09-19`, one commit `f803638`,
+   pushed.** Deliberately NOT on the fixes branch, so the merge in section 1 stays simple;
+   merge the fixes first, then this. Board 1,125 to 1,136 nodes, edges 2,685, timeline
+   1,059, Tier 1 claims +53, GOLDEN updated. Gate green, app checks 87 of 87, all 21
+   poisons, `check_rebuild` clean. None of the eleven reaches L0, so `test_packed_layout`
+   is untouched and the nuclear blocker is unaffected either way.
+   **One thing in that commit is yours and was changed anyway:** three chips in
+   `data/analyst-suggestions.json` quote board counts in their own text and the build
+   refuses to run while they are stale, so the numerals were updated (1,125 to 1,136,
+   1,050 to 1,059, 573 to 578) with `_figures` to match. No chip's wording or question was
+   altered. If you would rather they had been left alone, say so and they can be reverted.
+   The triage that produced it:
    `research/leads/NSC-EO-SPINE-2026-09-19.md`. Nine primary documents opened, with exact
    URLs, quotes and the hosts that refused. Read its section 5 first: six widely repeated
    claims about these documents are wrong on the primary text, and three of them are ones
