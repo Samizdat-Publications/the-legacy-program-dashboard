@@ -228,7 +228,7 @@
     4
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2022",
    "deg": 61,
@@ -276,7 +276,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2022-07-20",
    "deg": 4,
@@ -348,7 +348,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2022",
    "dateStart": "2022",
    "deg": 3,
@@ -372,7 +372,7 @@
     2
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2023",
    "dateStart": "2023",
    "deg": 4,
@@ -396,7 +396,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2024",
    "dateStart": "2024",
    "deg": 8,
@@ -420,7 +420,7 @@
     4
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2026",
    "dateStart": "2026",
    "deg": 18,
@@ -444,7 +444,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2024",
    "dateStart": "2023",
    "deg": 2,
@@ -492,7 +492,7 @@
     6
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2024",
    "dateStart": "2024",
    "deg": 32,
@@ -540,7 +540,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2026",
    "dateStart": "2024",
    "deg": 1,
@@ -588,7 +588,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2024",
    "deg": 2,
@@ -636,7 +636,7 @@
     1
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2026",
    "dateStart": "2025",
    "deg": 3,
@@ -660,7 +660,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": "2026",
    "dateStart": "2024",
    "deg": 3,
@@ -708,7 +708,7 @@
     4
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "2012",
    "dateStart": "2009",
    "deg": 14,
@@ -732,7 +732,7 @@
     2
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "2012",
    "dateStart": "2007",
    "deg": 59,
@@ -852,7 +852,7 @@
     2
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2021-02-24",
    "deg": 2,
@@ -876,7 +876,7 @@
     2
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": "2021",
    "dateStart": "2018",
    "deg": 7,
@@ -1020,7 +1020,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1948-08-01",
    "deg": 7,
@@ -1092,7 +1092,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1997-10-31",
    "deg": 2,
@@ -1308,7 +1308,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2025-09-09",
    "deg": 4,
@@ -1500,7 +1500,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1999-07-01",
    "deg": 1,
@@ -1510,7 +1510,7 @@
    "l0": false,
    "label": "Professeur André Lebeau",
    "short": "Professeur André Lebeau",
-   "status": "active",
+   "status": "dead",
    "tier": "C"
   },
   {
@@ -1596,7 +1596,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2025-09-09",
    "deg": 26,
@@ -1620,7 +1620,7 @@
     1
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2022",
    "dateStart": "2021",
    "deg": 2,
@@ -1668,7 +1668,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2009",
    "deg": 8,
@@ -1788,7 +1788,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1951",
    "deg": 7,
@@ -1908,7 +1908,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2021-06-25",
    "deg": 2,
@@ -1918,7 +1918,7 @@
    "l0": false,
    "label": "Avril D. Haines",
    "short": "Avril D. Haines",
-   "status": "active",
+   "status": "former",
    "tier": "C"
   },
   {
@@ -1932,7 +1932,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": "1953",
    "dateStart": "1948-03",
    "deg": 6,
@@ -1956,7 +1956,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": "2012",
    "dateStart": "2007",
    "deg": 19,
@@ -2052,7 +2052,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ffrdc",
    "dateEnd": null,
    "dateStart": "1929",
    "deg": 14,
@@ -2292,7 +2292,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1999-07-01",
    "deg": 1,
@@ -2436,7 +2436,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1999",
    "deg": 4,
@@ -2484,7 +2484,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2026-05-11",
    "deg": 1,
@@ -2508,7 +2508,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "1955",
    "dateStart": "1955",
    "deg": 6,
@@ -2676,7 +2676,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "1969",
    "dateStart": "1969",
    "deg": 5,
@@ -2796,7 +2796,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-05-13",
    "deg": 2,
@@ -3036,7 +3036,7 @@
     2
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2011-12-30",
    "deg": 3,
@@ -3084,7 +3084,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1969-10-20",
    "deg": 1,
@@ -3094,7 +3094,7 @@
    "l0": false,
    "label": "Carroll H. Bolender",
    "short": "Carroll H. Bolender",
-   "status": "active",
+   "status": "dead",
    "tier": "C"
   },
   {
@@ -3108,7 +3108,7 @@
     3
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1993-01-06",
    "deg": 10,
@@ -3324,7 +3324,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "2021-02-24",
    "deg": 4,
@@ -3348,7 +3348,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2004-11-14",
    "deg": 1,
@@ -3420,7 +3420,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1981-01-13",
    "deg": 3,
@@ -3540,7 +3540,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2017-12-16",
    "deg": 11,
@@ -3612,7 +3612,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023-07-13",
    "deg": 5,
@@ -4092,7 +4092,7 @@
     0
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": "1969",
    "dateStart": "1966",
    "deg": 12,
@@ -4452,7 +4452,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2004-11-14",
    "deg": 4,
@@ -4476,7 +4476,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1947-07-01",
    "deg": 3,
@@ -4500,7 +4500,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1957-09-14",
    "deg": 1,
@@ -4596,7 +4596,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1948-08-01",
    "deg": 2,
@@ -4620,7 +4620,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1947-01-01",
    "deg": 6,
@@ -4668,7 +4668,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1947-01-01",
    "deg": 8,
@@ -4692,7 +4692,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1969-12-17",
    "deg": 2,
@@ -4836,7 +4836,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1947-01-01",
    "deg": 13,
@@ -4860,7 +4860,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1948-01-22",
    "deg": 1,
@@ -4884,7 +4884,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1947-09-18",
    "deg": 2,
@@ -4908,7 +4908,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1947-01-01",
    "deg": 2,
@@ -4956,7 +4956,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1947-07-01",
    "deg": 4,
@@ -4980,7 +4980,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1947-07-26",
    "deg": 2,
@@ -5076,7 +5076,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1947",
    "deg": 12,
@@ -5196,7 +5196,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1946-08-01",
    "deg": 2,
@@ -5220,7 +5220,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1966-04-05",
    "deg": 7,
@@ -5292,7 +5292,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1953-01-01",
    "deg": 1,
@@ -5412,7 +5412,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1947-07-08",
    "deg": 3,
@@ -5460,7 +5460,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1948-01-01",
    "deg": 1,
@@ -5484,7 +5484,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1947-07-01",
    "deg": 2,
@@ -5532,7 +5532,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1960-01-01",
    "deg": 5,
@@ -5556,7 +5556,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1946-08-01",
    "deg": 5,
@@ -5580,7 +5580,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1942-01-01",
    "deg": 3,
@@ -5652,7 +5652,7 @@
     0
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1947-07-08",
    "deg": 4,
@@ -5724,7 +5724,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2007-01-01",
    "deg": 1,
@@ -5734,7 +5734,7 @@
    "l0": false,
    "label": "Daniel K. Inouye",
    "short": "Daniel K. Inouye",
-   "status": "active",
+   "status": "dead",
    "tier": "C"
   },
   {
@@ -5772,7 +5772,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1958-02-07",
    "deg": 9,
@@ -5796,7 +5796,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2024-01-08",
    "deg": 1,
@@ -5844,7 +5844,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2023-07-26",
    "deg": 5,
@@ -5868,7 +5868,7 @@
     3
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2023-07-26",
    "deg": 67,
@@ -5892,7 +5892,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2020-08-04",
    "deg": 2,
@@ -5902,7 +5902,7 @@
    "l0": false,
    "label": "David L. Norquist",
    "short": "David L. Norquist",
-   "status": "active",
+   "status": "former",
    "tier": "C"
   },
   {
@@ -5964,7 +5964,7 @@
     2
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1993-01-06",
    "deg": 4,
@@ -6060,7 +6060,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2012",
    "dateStart": "2007",
    "deg": 5,
@@ -6084,7 +6084,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1987-12-04",
    "deg": 2,
@@ -6276,7 +6276,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2002-11-25",
    "deg": 5,
@@ -6300,7 +6300,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2003-03-01",
    "deg": 2,
@@ -6324,7 +6324,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1961",
    "deg": 35,
@@ -6396,7 +6396,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "2009",
    "dateStart": "2009",
    "deg": 3,
@@ -7524,7 +7524,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1947-09-18",
    "deg": 45,
@@ -7548,7 +7548,7 @@
     1
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2018",
    "deg": 9,
@@ -7572,7 +7572,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1982",
    "deg": 4,
@@ -7620,7 +7620,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1994",
    "deg": 18,
@@ -7644,7 +7644,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2020",
    "dateStart": "2020",
    "deg": 1,
@@ -7668,7 +7668,7 @@
     2
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "2024-09-12",
    "dateStart": "2010-07-01",
    "deg": 5,
@@ -7692,7 +7692,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2024-09-12",
    "deg": 5,
@@ -7716,7 +7716,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2014",
    "deg": 3,
@@ -7740,7 +7740,7 @@
     2
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2013-02-06",
    "deg": 7,
@@ -7764,7 +7764,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1982",
    "deg": 3,
@@ -7788,7 +7788,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2016-07-26",
    "deg": 2,
@@ -7836,7 +7836,7 @@
     3
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2024",
    "dateStart": "2023",
    "deg": 5,
@@ -7860,7 +7860,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2012-01-01",
    "deg": 5,
@@ -7884,7 +7884,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2015-06-18",
    "deg": 5,
@@ -7908,7 +7908,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1977-10-01",
    "deg": 21,
@@ -8028,7 +8028,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-02-19",
    "deg": 3,
@@ -8052,7 +8052,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1980",
    "deg": 3,
@@ -8100,7 +8100,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2026-05-13",
    "dateStart": "2026-05-13",
    "deg": 2,
@@ -8124,7 +8124,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2026",
    "dateStart": "2026",
    "deg": 2,
@@ -8148,7 +8148,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-05-12",
    "deg": 1,
@@ -8220,7 +8220,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2025-09-09",
    "deg": 5,
@@ -8316,7 +8316,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-01-20",
    "deg": 1,
@@ -8340,7 +8340,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1969-01-08",
    "deg": 3,
@@ -8350,7 +8350,7 @@
    "l0": false,
    "label": "Edward U. Condon",
    "short": "Edward U. Condon",
-   "status": "active",
+   "status": "dead",
    "tier": "B"
   },
   {
@@ -8460,7 +8460,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2025-07-24",
    "deg": 4,
@@ -8580,7 +8580,7 @@
     0
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1993-01-06",
    "deg": 1,
@@ -8604,7 +8604,7 @@
     3
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2009-12-29",
    "deg": 7,
@@ -8628,7 +8628,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1939-09-08",
    "deg": 4,
@@ -8676,7 +8676,7 @@
     3
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2010-01-01",
    "deg": 22,
@@ -8796,7 +8796,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": "2017-01",
    "dateStart": "2014-11",
    "deg": 1,
@@ -8820,7 +8820,7 @@
     0
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "1986-05-20",
    "dateStart": "1986-05-19",
    "deg": 6,
@@ -8988,7 +8988,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1941",
    "deg": 10,
@@ -9156,7 +9156,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2004",
    "deg": 3,
@@ -9180,7 +9180,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2022",
    "dateStart": "2017",
    "deg": 1,
@@ -9204,7 +9204,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2021",
    "dateStart": "2019",
    "deg": 1,
@@ -9324,7 +9324,7 @@
     2
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1987-12-04",
    "deg": 6,
@@ -9540,7 +9540,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1991-08-14",
    "deg": 4,
@@ -9588,7 +9588,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2004-03-03",
    "dateStart": "2004-03-03",
    "deg": 1,
@@ -9756,7 +9756,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2017-12-23",
    "deg": 3,
@@ -9766,7 +9766,7 @@
    "l0": false,
    "label": "Garry P. Reid",
    "short": "Garry P. Reid",
-   "status": "active",
+   "status": "former",
    "tier": "C"
   },
   {
@@ -9780,7 +9780,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2017",
    "dateStart": "2017",
    "deg": 3,
@@ -9972,7 +9972,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2010-01-01",
    "deg": 3,
@@ -9996,7 +9996,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2021-08-01",
    "deg": 19,
@@ -10140,7 +10140,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1990",
    "deg": 3,
@@ -10150,7 +10150,7 @@
    "l0": false,
    "label": "Gerald Anderson",
    "short": "Gerald Anderson",
-   "status": "active",
+   "status": "resolved",
    "tier": "C"
   },
   {
@@ -10164,7 +10164,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1966-03-28",
    "deg": 2,
@@ -10174,7 +10174,7 @@
    "l0": false,
    "label": "Gerald R. Ford",
    "short": "Gerald R. Ford",
-   "status": "active",
+   "status": "dead",
    "tier": "C"
   },
   {
@@ -10356,7 +10356,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2015",
    "deg": 1,
@@ -10476,7 +10476,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2015",
    "deg": 4,
@@ -10548,7 +10548,7 @@
     0
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "1949",
    "dateStart": "1949",
    "deg": 5,
@@ -10620,7 +10620,7 @@
     0
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2024",
    "deg": 2,
@@ -10692,7 +10692,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2023",
    "dateStart": "2023",
    "deg": 2,
@@ -10716,7 +10716,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2022",
    "deg": 5,
@@ -10788,7 +10788,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": "2026",
    "dateStart": "2021",
    "deg": 4,
@@ -10908,7 +10908,7 @@
     3
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2010-01-01",
    "deg": 16,
@@ -10932,7 +10932,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2009-06-24",
    "deg": 17,
@@ -10942,7 +10942,7 @@
    "l0": false,
    "label": "Harry M. Reid",
    "short": "Harry M. Reid",
-   "status": "active",
+   "status": "dead",
    "tier": "A"
   },
   {
@@ -11052,7 +11052,7 @@
     0
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2023",
    "dateStart": "2023",
    "deg": 2,
@@ -11076,7 +11076,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2023",
    "dateStart": "2023",
    "deg": 20,
@@ -11100,7 +11100,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2024",
    "dateStart": "2024",
    "deg": 16,
@@ -11148,7 +11148,7 @@
     0
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2025",
    "dateStart": "2025",
    "deg": 23,
@@ -11724,7 +11724,7 @@
     2
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023-12-22",
    "deg": 6,
@@ -11748,7 +11748,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2023",
    "dateStart": "2023",
    "deg": 9,
@@ -11796,7 +11796,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2024",
    "deg": 3,
@@ -11820,7 +11820,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2023-12-22",
    "deg": 2,
@@ -11844,7 +11844,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2005",
    "deg": 3,
@@ -11868,7 +11868,7 @@
     2
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2015-10-17",
    "deg": 5,
@@ -11892,7 +11892,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2010",
    "deg": 3,
@@ -12612,7 +12612,7 @@
     2
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2008-09-22",
    "deg": 10,
@@ -13044,7 +13044,7 @@
     2
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2009-01-01",
    "deg": 4,
@@ -13054,7 +13054,7 @@
    "l0": false,
    "label": "Jay Stratton",
    "short": "Jay Stratton",
-   "status": "active",
+   "status": "former",
    "tier": "A"
   },
   {
@@ -13092,7 +13092,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2025-09-09",
    "deg": 3,
@@ -13116,7 +13116,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2021-05-14",
    "deg": 7,
@@ -13284,7 +13284,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1995",
    "deg": 1,
@@ -13294,7 +13294,7 @@
    "l0": false,
    "label": "James Ragsdale",
    "short": "James Ragsdale",
-   "status": "active",
+   "status": "dead",
    "tier": "C"
   },
   {
@@ -13356,7 +13356,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2025-09-09",
    "deg": 2,
@@ -13524,7 +13524,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2022-08-17",
    "deg": 17,
@@ -13548,7 +13548,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2022-03-29",
    "deg": 4,
@@ -13558,7 +13558,7 @@
    "l0": false,
    "label": "John Olsen Lear",
    "short": "John Olsen Lear",
-   "status": "active",
+   "status": "dead",
    "tier": "C"
   },
   {
@@ -13668,7 +13668,7 @@
     2
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2024-11-19",
    "deg": 10,
@@ -13860,7 +13860,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2022-07-15",
    "deg": 3,
@@ -13870,7 +13870,7 @@
    "l0": false,
    "label": "Kathleen H. Hicks",
    "short": "Kathleen H. Hicks",
-   "status": "active",
+   "status": "former",
    "tier": "C"
   },
   {
@@ -14004,7 +14004,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1947-06-24",
    "deg": 2,
@@ -14014,7 +14014,7 @@
    "l0": false,
    "label": "Kenneth Arnold",
    "short": "Kenneth Arnold",
-   "status": "active",
+   "status": "dead",
    "tier": "C"
   },
   {
@@ -14076,7 +14076,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1949-06-04",
    "deg": 6,
@@ -14268,7 +14268,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2021-12-27",
    "deg": 7,
@@ -14316,7 +14316,7 @@
     4
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2010-01-01",
    "deg": 13,
@@ -14388,7 +14388,7 @@
     3
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "2012",
    "dateStart": "2011",
    "deg": 13,
@@ -14652,7 +14652,7 @@
     1
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2021",
    "deg": 1,
@@ -14700,7 +14700,7 @@
     0
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1958",
    "deg": 1,
@@ -14964,7 +14964,7 @@
     1
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": null,
    "deg": 1,
@@ -15156,7 +15156,7 @@
     0
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": null,
    "deg": 2,
@@ -15324,7 +15324,7 @@
     1
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": null,
    "deg": 1,
@@ -15540,7 +15540,7 @@
     0
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1943",
    "deg": 1,
@@ -15660,7 +15660,7 @@
     0
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": null,
    "deg": 1,
@@ -15732,7 +15732,7 @@
     1
    ],
    "cls": "location",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1996",
    "deg": 7,
@@ -16524,7 +16524,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1949-02-16",
    "deg": 2,
@@ -16534,7 +16534,7 @@
    "l0": false,
    "label": "Lincoln LaPaz",
    "short": "Lincoln LaPaz",
-   "status": "active",
+   "status": "dead",
    "tier": "C"
   },
   {
@@ -16548,7 +16548,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "1983-04-09",
    "deg": 2,
@@ -16716,7 +16716,7 @@
     2
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2017-10-04",
    "deg": 38,
@@ -16884,7 +16884,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2010-11-01",
    "deg": 3,
@@ -16908,7 +16908,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2023-07-13",
    "deg": 6,
@@ -16918,7 +16918,7 @@
    "l0": false,
    "label": "Marco Rubio",
    "short": "Marco Rubio",
-   "status": "active",
+   "status": "former",
    "tier": "B"
   },
   {
@@ -17124,7 +17124,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2023-07-13",
    "deg": 2,
@@ -17244,7 +17244,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": "1997",
    "dateStart": "1967",
    "deg": 4,
@@ -17316,7 +17316,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2024-11-13",
    "deg": 4,
@@ -17364,7 +17364,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2026-05-20",
    "deg": 1,
@@ -17388,7 +17388,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2024-11-13",
    "deg": 4,
@@ -17532,7 +17532,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2024-07-11",
    "deg": 4,
@@ -18012,7 +18012,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2024-11-13",
    "deg": 11,
@@ -18060,7 +18060,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2024",
    "deg": 13,
@@ -18084,7 +18084,7 @@
     1
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023",
    "deg": 5,
@@ -18252,7 +18252,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1947-09-23",
    "deg": 4,
@@ -18262,7 +18262,7 @@
    "l0": false,
    "label": "Nathan F. Twining",
    "short": "Nathan F. Twining",
-   "status": "active",
+   "status": "dead",
    "tier": "B"
   },
   {
@@ -18372,7 +18372,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": "2020",
    "dateStart": "2004",
    "deg": 5,
@@ -18468,7 +18468,7 @@
     0
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2021",
    "deg": 8,
@@ -18492,7 +18492,7 @@
     3
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": null,
    "deg": 3,
@@ -18516,7 +18516,7 @@
     0
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2022",
    "deg": 4,
@@ -18564,7 +18564,7 @@
     2
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023",
    "deg": 12,
@@ -18588,7 +18588,7 @@
     3
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023-12-22",
    "deg": 9,
@@ -18612,7 +18612,7 @@
     2
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023-12-22",
    "deg": 2,
@@ -18636,7 +18636,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023",
    "deg": 5,
@@ -18684,7 +18684,7 @@
     2
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2025",
    "deg": 9,
@@ -18756,7 +18756,7 @@
     0
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2025-12-18",
    "deg": 5,
@@ -18900,7 +18900,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1996-10-01",
    "deg": 3,
@@ -19020,7 +19020,7 @@
     2
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": "2004-11-16",
    "dateStart": "2004-11-10",
    "deg": 20,
@@ -19116,7 +19116,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2000-03-01",
    "deg": 3,
@@ -19140,7 +19140,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1958",
    "deg": 5,
@@ -19284,7 +19284,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1961",
    "deg": 13,
@@ -19308,7 +19308,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1952-11-04",
    "deg": 11,
@@ -19380,7 +19380,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ffrdc",
    "dateEnd": null,
    "dateStart": "1943",
    "deg": 5,
@@ -19428,7 +19428,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2005-04-22",
    "deg": 18,
@@ -19476,7 +19476,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2005-01-01",
    "deg": 3,
@@ -19524,7 +19524,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2021",
    "dateStart": "2021",
    "deg": 13,
@@ -19548,7 +19548,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2026",
    "dateStart": "2025",
    "deg": 3,
@@ -19620,7 +19620,7 @@
     2
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1882-03-23",
    "deg": 4,
@@ -19644,7 +19644,7 @@
     0
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "1978",
    "dateStart": "1977-10-20",
    "deg": 9,
@@ -19836,7 +19836,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1988",
    "deg": 12,
@@ -20100,7 +20100,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2024-03-08",
    "deg": 1,
@@ -20148,7 +20148,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1980-11-10",
    "deg": 11,
@@ -20158,7 +20158,7 @@
    "l0": false,
    "label": "Paul Frederick Bennewitz",
    "short": "Paul Frederick Bennewitz",
-   "status": "active",
+   "status": "dead",
    "tier": "B"
   },
   {
@@ -20244,7 +20244,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2001",
    "deg": 3,
@@ -20292,7 +20292,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-05-08",
    "deg": 4,
@@ -20508,7 +20508,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "1987-12-04",
    "dateStart": "1987-12-04",
    "deg": 1,
@@ -20532,7 +20532,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2024",
    "dateStart": "2023",
    "deg": 4,
@@ -20556,7 +20556,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2023",
    "deg": 2,
@@ -20604,7 +20604,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-05-12",
    "deg": 1,
@@ -20796,7 +20796,7 @@
     0
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "1969",
    "dateStart": "1952",
    "deg": 27,
@@ -20916,7 +20916,7 @@
     1
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": "1949",
    "dateStart": "1947",
    "deg": 4,
@@ -21084,7 +21084,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2026-08-07",
    "dateStart": "2026-05-08",
    "deg": 1,
@@ -21132,7 +21132,7 @@
     0
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2026",
    "dateStart": "2026",
    "deg": 3,
@@ -21156,7 +21156,7 @@
     0
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2026",
    "dateStart": "2026",
    "deg": 4,
@@ -21180,7 +21180,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2026",
    "dateStart": "2026",
    "deg": 4,
@@ -21204,7 +21204,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2026",
    "dateStart": "2026",
    "deg": 3,
@@ -21228,7 +21228,7 @@
     1
    ],
    "cls": "event",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2026",
    "dateStart": "2026",
    "deg": 5,
@@ -21252,7 +21252,7 @@
     3
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026",
    "deg": 40,
@@ -21564,7 +21564,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2015-09",
    "deg": 2,
@@ -21756,7 +21756,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1983-04-01",
    "deg": 11,
@@ -21780,7 +21780,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2010-12-15",
    "deg": 5,
@@ -21924,7 +21924,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "2008-09-22",
    "deg": 11,
@@ -22164,7 +22164,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1970-01-01",
    "deg": 1,
@@ -22500,7 +22500,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2023-07-26",
    "deg": 8,
@@ -22716,7 +22716,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2023",
    "dateStart": "2023",
    "deg": 9,
@@ -22764,7 +22764,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1988-03-01",
    "deg": 5,
@@ -22788,7 +22788,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2013-02-06",
    "deg": 3,
@@ -22836,7 +22836,7 @@
     1
    ],
    "cls": "domain",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2010-07-01",
    "deg": 6,
@@ -22860,7 +22860,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1994-01-05",
    "deg": 5,
@@ -23028,7 +23028,7 @@
     3
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2024-03-08",
    "deg": 17,
@@ -23038,7 +23038,7 @@
    "l0": false,
    "label": "Sean M. Kirkpatrick",
    "short": "Sean M. Kirkpatrick",
-   "status": "active",
+   "status": "former",
    "tier": "A"
   },
   {
@@ -23748,7 +23748,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2010-07-01",
    "deg": 3,
@@ -23796,7 +23796,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2010-07-01",
    "deg": 1,
@@ -23868,7 +23868,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "2019-05-13",
    "deg": 5,
@@ -23878,7 +23878,7 @@
    "l0": false,
    "label": "Stanton T. Friedman",
    "short": "Stanton T. Friedman",
-   "status": "active",
+   "status": "dead",
    "tier": "A"
   },
   {
@@ -23940,7 +23940,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "2025-01-01",
    "deg": 1,
@@ -24012,7 +24012,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2001-05-09",
    "deg": 9,
@@ -24214,7 +24214,7 @@
    "l0": false,
    "label": "Susan Gough",
    "short": "Susan Gough",
-   "status": "active",
+   "status": "former",
    "tier": "A"
   },
   {
@@ -24684,7 +24684,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2002-10-16",
    "deg": 3,
@@ -24732,7 +24732,7 @@
     1
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1961",
    "deg": 1,
@@ -24756,7 +24756,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023-07-26",
    "deg": 16,
@@ -24780,7 +24780,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2024-11-13",
    "deg": 6,
@@ -24804,7 +24804,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "media",
    "dateEnd": null,
    "dateStart": "2023-06-05",
    "deg": 2,
@@ -24828,7 +24828,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2024-03-08",
    "deg": 2,
@@ -24838,7 +24838,7 @@
    "l0": false,
    "label": "Timothy A. Phillips",
    "short": "Timothy A. Phillips",
-   "status": "active",
+   "status": "former",
    "tier": "B"
   },
   {
@@ -24876,7 +24876,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2023-07-13",
    "deg": 2,
@@ -25092,7 +25092,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2026",
    "dateStart": "2026",
    "deg": 4,
@@ -25164,7 +25164,7 @@
     0
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "contractor",
    "dateEnd": "2023",
    "dateStart": "2019",
    "deg": 10,
@@ -25236,7 +25236,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2026-05-08",
    "deg": 1,
@@ -25452,7 +25452,7 @@
     5
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2026",
    "deg": 16,
@@ -25500,7 +25500,7 @@
     0
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": "2022",
    "dateStart": "2020",
    "deg": 16,
@@ -25524,7 +25524,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2023",
    "dateStart": "2023",
    "deg": 26,
@@ -25572,7 +25572,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026-07-22",
    "deg": 10,
@@ -25596,7 +25596,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": "2023",
    "dateStart": "2023",
    "deg": 4,
@@ -26052,7 +26052,7 @@
     2
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1989",
    "deg": 16,
@@ -26076,7 +26076,7 @@
     2
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1987-12-04",
    "deg": 4,
@@ -26100,7 +26100,7 @@
     2
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1999-10-05",
    "deg": 4,
@@ -26124,7 +26124,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1991-08-14",
    "deg": 2,
@@ -26148,7 +26148,7 @@
     2
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2022-03-15",
    "deg": 4,
@@ -26196,7 +26196,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1991-08-14",
    "deg": 3,
@@ -26244,7 +26244,7 @@
     1
    ],
    "cls": "legislation",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1993-11-30",
    "deg": 5,
@@ -26604,7 +26604,7 @@
     0
    ],
    "cls": "institution",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": null,
    "deg": 31,
@@ -26628,7 +26628,7 @@
     1
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1988",
    "deg": 11,
@@ -26652,7 +26652,7 @@
     2
    ],
    "cls": "program",
-   "cluster": "other",
+   "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1987-12-04",
    "deg": 11,
@@ -26724,7 +26724,7 @@
     1
    ],
    "cls": "document",
-   "cluster": "other",
+   "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2026",
    "deg": 4,
@@ -26916,7 +26916,7 @@
     0
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "ic",
    "dateEnd": null,
    "dateStart": "2026-08-12",
    "deg": 4,
@@ -26964,7 +26964,7 @@
     1
    ],
    "cls": "person",
-   "cluster": "other",
+   "cluster": "research",
    "dateEnd": null,
    "dateStart": "1989-07-01",
    "deg": 8,
@@ -26974,7 +26974,7 @@
    "l0": false,
    "label": "William L. Moore",
    "short": "William L. Moore",
-   "status": "active",
+   "status": "former",
    "tier": "B"
   },
   {
@@ -27170,5 +27170,5 @@
    "tier": "C"
   }
  ],
- "source": "cc2cd2991e89"
+ "source": "d58a46ba437b"
 }

@@ -160,6 +160,30 @@ def clamp_axis(v):
         return 0
 
 
+# Out-of-vocabulary cluster values, counted rather than coerced in silence. The
+# `_rs-*` source-set files tag `cluster` with a vocabulary of their own
+# ("aaro", "aawsap-dird", "science", "legislation"), which is not a map band.
+off_vocab_cluster = []
+
+
+def _valid_cluster(v, owner=None, slug=None):
+    """A cluster is either a real band or ABSENT. It is never defaulted here.
+
+    This used to read `v if v in VALID_CLUSTER else "other"`, and that one
+    expression was the whole defect: "other" is a real band AND the default, so
+    once written into the record nothing downstream could tell the two apart.
+    `merge_entity`/`merge_person` fill `cluster` only when it is falsy, so the
+    first file to mention a node pinned "other" and every later authored band
+    lost -- silently, because "other" is perfectly valid. 259 entities and 78
+    people shipped off their authored band this way. Absence stays None until
+    finalise_defaults() runs, after every file has been read."""
+    if v in VALID_CLUSTER:
+        return v
+    if v:
+        off_vocab_cluster.append({"id": owner, "file": slug, "value": v})
+    return None
+
+
 def norm_chron(lst, owner=None):
     out = []
     for c in lst or []:
@@ -263,6 +287,40 @@ def merge_entity(a, b):
     return a
 
 
+def finalise_defaults(people, entities):
+    """Apply the defaults for fill-if-falsy fields ONCE, after every research file
+    has been read, so load order cannot decide them.
+
+    A fill-if-falsy field is safe only while its absent-value is falsy. Every
+    other field in those lists (loc, locId, instId, sub, date, age, dateStart,
+    dateEnd, photoCredit, unexplainedResidual) already defaults to None and was
+    never at risk. `cluster` and person `status` were the two that defaulted to a
+    truthy value, and both were wrong on the shipped board.
+
+    An overlay may also set a cluster directly, bypassing _valid_cluster, so the
+    vocabulary is enforced here as well rather than only at read time."""
+    fixed = {"cluster": 0, "status": 0, "coerced": 0}
+    for rec in list(people.values()) + list(entities.values()):
+        c = rec.get("cluster")
+        if c is None:
+            rec["cluster"] = "other"
+            fixed["cluster"] += 1
+        elif c not in VALID_CLUSTER:
+            off_vocab_cluster.append({"id": rec.get("id"), "file": "overlay", "value": c})
+            rec["cluster"] = "other"
+            fixed["coerced"] += 1
+    for rec in people.values():
+        if not rec.get("status"):
+            rec["status"] = "active"
+            fixed["status"] += 1
+    print(f"  defaults applied after merge: cluster={fixed['cluster']} "
+          f"status={fixed['status']} coerced={fixed['coerced']}", file=sys.stderr)
+    if off_vocab_cluster:
+        bad = sorted({o["value"] for o in off_vocab_cluster})
+        print(f"  {len(off_vocab_cluster)} out-of-vocabulary cluster value(s) ignored, "
+              f"from {bad}", file=sys.stderr)
+
+
 def load():
     people, entities, edges, timeline = OrderedDict(), OrderedDict(), OrderedDict(), OrderedDict()
     entity_info, gaps = {}, []
@@ -296,12 +354,17 @@ def load():
             rec = {
                 "id": pid, "cls": "person",
                 "label": p.get("label") or p.get("name") or pid,
-                "status": p.get("status") or "active",
+                # Defaulted LATE, in finalise_defaults(). "active" is truthy and
+                # merge_person fills `status` only when it is falsy, so defaulting
+                # it here let the first file to mention a person pin "active" for
+                # good: Harry Reid, Gerald Ford, Kenneth Arnold and Nathan Twining
+                # all shipped "active" while another file said "dead".
+                "status": p.get("status") or None,
                 "date": p.get("date"), "age": p.get("age"),
                 "loc": p.get("loc"),
                 "locId": canonical_id(p.get("locId")), "instId": canonical_id(p.get("instId")),
                 "sub": p.get("sub"),
-                "cluster": p.get("cluster") if p.get("cluster") in VALID_CLUSTER else "other",
+                "cluster": _valid_cluster(p.get("cluster"), pid, slug),
                 "tier": p.get("tier") if p.get("tier") in VALID_TIER else "C",
                 "C": clamp_axis(p.get("C")), "A": clamp_axis(p.get("A")), "D": clamp_axis(p.get("D")),
                 "domains": p.get("domains") or [],
@@ -365,7 +428,7 @@ def load():
                 continue
             rec = {
                 "id": eid, "cls": cls, "label": e.get("label") or eid,
-                "cluster": e.get("cluster") if e.get("cluster") in VALID_CLUSTER else "other",
+                "cluster": _valid_cluster(e.get("cluster"), eid, slug),
                 "sub": e.get("sub"), "desc": e.get("desc") or None,
                 "tier": e.get("tier") if e.get("tier") in VALID_TIER else "C",
                 "C": clamp_axis(e.get("C")), "A": clamp_axis(e.get("A")), "D": clamp_axis(e.get("D")),
@@ -586,6 +649,8 @@ def load():
         if gone or dropped:
             print(f"  removed {len(gone)} approved node(s) and {len(dropped)} edge(s) "
                   f"that touched them", file=sys.stderr)
+
+    finalise_defaults(people, entities)
 
     return people, entities, edges, timeline, entity_info, gaps
 

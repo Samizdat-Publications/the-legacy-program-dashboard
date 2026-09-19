@@ -64,7 +64,7 @@
 }
 ],
 "cls": "person",
-"cluster": "other",
+"cluster": "legacy",
 "conflicts": [],
 "connections": [
 {
@@ -244,7 +244,7 @@
 "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
 }
 ],
-"status": "active",
+"status": "dead",
 "sub": "Cmdr, Air Materiel Command; later CJCS",
 "tier": "B",
 "tierRationale": "Re-graded B on a global pass (rank 318 of 1125, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",

@@ -59,7 +59,7 @@
 }
 ],
 "cls": "person",
-"cluster": "other",
+"cluster": "oversight",
 "conflicts": [],
 "connections": [
 {
@@ -155,7 +155,7 @@
 "url": "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
 }
 ],
-"status": "active",
+"status": "dead",
 "sub": "House Minority Leader; later 38th President",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 834 of 1125, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",

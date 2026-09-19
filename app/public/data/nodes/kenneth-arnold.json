@@ -48,7 +48,7 @@
 }
 ],
 "cls": "person",
-"cluster": "other",
+"cluster": "witness",
 "conflicts": [],
 "connections": [
 {
@@ -159,7 +159,7 @@
 "url": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf"
 }
 ],
-"status": "active",
+"status": "dead",
 "sub": "Civilian pilot; originator of the 1947 wave",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 896 of 1125, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",

@@ -44,7 +44,7 @@
 }
 ],
 "cls": "person",
-"cluster": "other",
+"cluster": "oversight",
 "conflicts": [],
 "connections": [
 {
@@ -114,7 +114,7 @@
 "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
 }
 ],
-"status": "active",
+"status": "dead",
 "sub": "US Senator (D-HI); Chairman, Senate Appropriations Committee",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 862 of 1125, score 18). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",

@@ -315,6 +315,58 @@ def main():
     excluded = {"susan-gough", "christopher-sherwood", "donald-kerr", "sue-gordon"}
     ck("authority exclusions hold", sorted(excluded & set(auth)), [])
 
+    # ---- no authored field was lost to a default -------------------------------
+    # RESTATED HERE, NOT IMPORTED, and deliberately blunter than merge.py's rule.
+    #
+    # merge.py fills a handful of fields only when the value it already holds is
+    # falsy, so for those fields the FIRST file to mention a node wins. That is
+    # fine while "absent" is falsy. Two fields defaulted to a truthy value instead
+    # -- `cluster` to "other" and person `status` to "active" -- and a default that
+    # is indistinguishable from a real value cannot be overwritten by the file that
+    # actually knows. On 19 September 2026 that had put 267 nodes in the wrong map
+    # band and was reporting Harry Reid, Gerald Ford, Kenneth Arnold and Nathan
+    # Twining as "active". Nothing caught it, because every value involved is
+    # perfectly valid; only the PROVENANCE was wrong.
+    #
+    # So this check does not look at the merge rules at all. It reads the research
+    # files itself, and asks one question of the shipped board: does any node carry
+    # the default for one of these fields while some research file authored a real
+    # value for it? If so, load order beat authorship and the reader is looking at
+    # a default dressed as an editorial decision.
+    import glob
+    BANDS = {"legacy", "contractor", "ffrdc", "ic", "oversight", "witness",
+             "research", "media", "other"}
+    authored = {}          # (kind, id, field) -> set of authored values
+    for path in sorted(glob.glob(os.path.join(ROOT, "research", "*.json"))):
+        try:
+            doc = json.load(open(path, encoding="utf-8"))
+        except Exception:
+            continue
+        for kind, field_set in (("people", ("cluster", "status")),
+                                ("entities", ("cluster",))):
+            for r in doc.get(kind) or []:
+                rid = (r.get("id") or "").strip()
+                if rid.startswith("p-"):
+                    rid = rid[2:]
+                for f in field_set:
+                    v = r.get(f)
+                    if v is None or v == "":
+                        continue
+                    if f == "cluster" and v not in BANDS:
+                        continue          # a vocabulary this board does not use
+                    authored.setdefault((kind, rid, f), set()).add(v)
+
+    lost = []
+    for kind, dflt_by_field in (("people", {"cluster": "other", "status": "active"}),
+                                ("entities", {"cluster": "other"})):
+        for rec in b[kind]:
+            for f, dflt in dflt_by_field.items():
+                want = authored.get((kind, rec["id"], f))
+                if want and rec.get(f) == dflt and dflt not in want:
+                    lost.append(f"{rec['id']}.{f} ships {dflt!r}, authored {sorted(want)}")
+    ck("no authored cluster or status was lost to a default", sorted(lost)[:12], [],
+       f"{len(lost)} node(s); a truthy default beat the file that authored the value")
+
     # ---- report ---------------------------------------------------------------
     print("=" * 66)
     print(f"LAYER 1 — independent re-derivation")
