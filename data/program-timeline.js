@@ -1106,6 +1106,17 @@ export const TIMELINE = [
     node: 'shag-harbour-1967'
   },
   {
+    id: 'tl-1967-12-10-gasbuggy',
+    strand: 'program',
+    date: '1967-12-10',
+    precision: 'day',
+    tier: 'B',
+    node: 'gasbuggy-1967',
+    label: 'AEC detonates 29 kilotons at 4,227 feet, twelve miles from Dulce',
+    text: 'The US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, twelve miles southwest of Dulce in the Carson National Forest, to stimulate natural gas production from the Pictured Cliffs Formation. The first reservoir-stimulation experiment of the Plowshare programme, jointly sponsored by the AEC, the Department of the Interior and El Paso Natural Gas. THE EARLIEST DATED ARTEFACT IN THE CLUSTER, and it is a government record, twelve years before the rumour begins.',
+    source: 'US Department of Energy Office of Legacy Management, \'Gasbuggy, New Mexico, Site\' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf'
+  },
+  {
     id: 'pc-1968-mdc',
     strand: 'program',
     date: '1968-01-01',
@@ -1124,6 +1135,17 @@ export const TIMELINE = [
     text: 'John G. Fuller publishes the Low memo, calling the project a $500,000 trick. Condon fires investigators David Saunders and Norman Levine.',
     tier: 'B',
     node: 'low-memo'
+  },
+  {
+    id: 'tl-1968-07-gasbuggy-testing',
+    strand: 'program',
+    date: '1968-07',
+    precision: 'month',
+    tier: 'B',
+    node: 'gasbuggy-1967',
+    label: 'Production testing begins; the gas comes back radioactive',
+    text: 'Testing through the reentry well GB-ER ran from July 1968 to October 1969 across five tests, producing 213 million cubic feet of natural gas that retained measurable radioactive constituents and a significantly lower heat value than expected.',
+    source: 'US Department of Energy Office of Legacy Management, \'Gasbuggy, New Mexico, Site\' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf'
   },
   {
     id: 'tl-1968-07-08-stone-enters-army',
@@ -1358,6 +1380,17 @@ export const TIMELINE = [
     node: 'sac-overflights-1975'
   },
   {
+    id: 'tl-1976-valdez-dulce',
+    strand: 'witness',
+    date: '1976',
+    precision: 'year',
+    tier: 'C',
+    node: 'gabe-valdez',
+    label: 'Gabe Valdez stationed at Dulce, begins the livestock investigations',
+    text: 'A New Mexico State Police officer stationed in Dulce in 1976 began investigating cattle and other animals found dead with soft tissue removed, and became the central official figure in the region\'s caseload. The only official investigator anywhere in this story.',
+    source: 'Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html'
+  },
+  {
     id: 'tl-intl-1976-ihedn',
     strand: 'program',
     date: '1976',
@@ -1459,6 +1492,17 @@ export const TIMELINE = [
     node: 'clear-intent-1984'
   },
   {
+    id: 'tl-1978-gasbuggy-decommission',
+    strand: 'program',
+    date: '1978',
+    precision: 'year',
+    tier: 'B',
+    node: 'gasbuggy-1967',
+    label: 'AEC decommissions the site and injects liquid radioactive waste into the cavity',
+    text: 'Structures and equipment were decontaminated and removed, liquid radioactive waste was injected into the former cavity now forming the lower part of the collapse chimney, solid radioactive waste went to the Nevada Test Site, and test wells were plugged. Soil sampling followed in 1978, 1986, 2000 and 2002.',
+    source: 'US Department of Energy Office of Legacy Management, \'Gasbuggy, New Mexico, Site\' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf'
+  },
+  {
     id: 't-1978-grillflame',
     strand: 'program',
     date: '1978-01-01',
@@ -1529,6 +1573,17 @@ export const TIMELINE = [
     node: 'setka-program'
   },
   {
+    id: 'tl-1979-bennewitz-origin',
+    strand: 'witness',
+    date: '1979',
+    precision: 'year',
+    tier: 'B',
+    node: 'paul-bennewitz',
+    label: 'Bennewitz becomes the origin point of the Dulce claim',
+    text: 'From about 1979 Paul Bennewitz, an Albuquerque instrument manufacturer whose company overlooked the Manzano storage area, began the personally funded study that made him the first person to attach a facility claim to Dulce. He later connected Myrna Hansen\'s 1980 account to the same place.',
+    source: 'Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/'
+  },
+  {
     id: 'tl-1979-06-01-fouche-tdy-det3',
     strand: 'program',
     date: '1979-06-01',
@@ -1590,6 +1645,17 @@ export const TIMELINE = [
     node: 'caus-v-nsa'
   },
   {
+    id: 'tl-1980-08-08-kirtland',
+    strand: 'witness',
+    date: '1980-08-08',
+    precision: 'day',
+    tier: 'B',
+    node: 'kirtland-manzano-1980',
+    label: 'Named 1608 SPS personnel report unidentified objects over Manzano',
+    text: 'SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier of the 1608 Security Police Squadron reported at approximately 2350 hrs on 8 August 1980; a Sandia security guard who requested anonymity reported at approximately 0020 hrs on 9 August. The record establishes that guards at a nuclear weapons storage area reported what they could not identify. It establishes nothing about what the objects were.',
+    source: 'AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm'
+  },
+  {
     id: 'tl-ffrdc-1980-kirtland',
     strand: 'witness',
     date: '1980-08-08',
@@ -1608,6 +1674,17 @@ export const TIMELINE = [
     text: 'AFOSI at Kirtland AFB investigates intrusions at the Manzano Weapons Storage Area adjacent to Sandia while simultaneously feeding fabricated crash-retrieval material to the physicist Paul Bennewitz through Special Agent Richard Doty.',
     tier: 'A',
     node: 'afosi'
+  },
+  {
+    id: 'tl-1980-09-afosi-form',
+    strand: 'witness',
+    date: '1980-09',
+    precision: 'month',
+    tier: 'B',
+    node: 'afosi-kirtland-file',
+    label: 'AFOSI complaint form filed, District File No. 8017D93-0/29, SA Richard C Doty',
+    text: 'The form carries AFOSI Det 1700, Kirtland AFB, New Mexico, the district file number and \'Richard C Doty, SA\' on its face. THIS IS THE TIER 1 SOURCE FOR DOTY\'S AFOSI SERVICE and needs no interview to support it. The board\'s existing claim dates the form 9 September 1980; the NICAP page as rendered gives \'2-9 Sept 80\'; the discrepancy is unresolved.',
+    source: 'AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm'
   },
   {
     id: 'tl-ffrdc-1980-doty',
@@ -1659,6 +1736,17 @@ export const TIMELINE = [
     text: 'Betty Cash, Vickie Landrum and Colby Landrum stop on FM 1485 near Huffman, Texas before a bright diamond-shaped object expelling flame, followed by a formation of tandem-rotor helicopters. All three report illness; Cash is hospitalised from 2 January 1981.',
     tier: 'B',
     node: 'betty-cash'
+  },
+  {
+    id: 'tl-1981-bennewitz-project-beta',
+    strand: 'witness',
+    date: '1981',
+    precision: 'year',
+    tier: 'B',
+    node: 'bennewitz-project-beta-1981',
+    label: 'Bennewitz writes his own report, \'Project Beta\'',
+    text: 'Roughly five thousand words, titled \'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)\'. The claimant\'s own dated statement of his own claim, and the artefact the board had been missing. Read only in two fragments quoted by a 2025 newsletter. NOT to be confused with Greg Bishop\'s 2005 book of the same name.',
+    source: 'Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz'
   },
   {
     id: 't-1981-halt',
@@ -2069,6 +2157,17 @@ export const TIMELINE = [
     source: 'John Lear\'s Dec. 29, 1987 Statement, Internet Archive item, https://archive.org/details/john-lear-statement-1987'
   },
   {
+    id: 'tl-1988-lear-dulce',
+    strand: 'witness',
+    date: '1988',
+    precision: 'year',
+    tier: 'C',
+    node: 'john-lear',
+    label: 'Lear develops his Dulce hypothesis, sourced to \'Ann West\'',
+    text: 'Hayakawa\'s chronology dates Lear\'s Dulce hypothesis to 1988 and names his source as a woman called Ann West, the same name Levesque later gives as the raw material of the two original Dulce Base articles.',
+    source: 'Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/'
+  },
+  {
     id: 't-1988-bennewitz',
     strand: 'coverup',
     date: '1988-01-01',
@@ -2195,6 +2294,17 @@ export const TIMELINE = [
     text: 'George Knapp broadcasts the Robert Lazar interviews on KLAS-TV, creating the public reverse-engineering narrative attached to Area 51 and S-4. No primary record has ever corroborated it.',
     tier: 'C',
     node: 'l-area51'
+  },
+  {
+    id: 'tl-1989-05-23-cooper-paper',
+    strand: 'witness',
+    date: '1989-05-23',
+    precision: 'day',
+    tier: 'C',
+    node: 'cooper-secret-government-1989',
+    label: 'Cooper\'s paper is dated; it names Four Corners reservations and never says Dulce',
+    text: '\'The Secret Government\', dated on its own first page and delivered at the MUFON symposium in Las Vegas on 2 July 1989, carries the frame that \'These alien bases would be constructed under Indian reservations in the Four Corners area of Utah, Colorado, New Mexico and Arizona\'. The string \'Dulce\' occurs ZERO times in its forty-nine pages, which were extracted and searched in full. Cooper grades the paper himself: \'this chapter must be termed a hypothesis\'.',
+    source: 'Milton William Cooper, \'The Secret Government\', 23 May 1989 updated 21 November 1990, https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf'
   },
   {
     id: 'tl-1989-07-moore',
@@ -2735,6 +2845,17 @@ export const TIMELINE = [
     node: 'stargate-program'
   },
   {
+    id: 'tl-1995-05-08-schneider-postfalls',
+    strand: 'witness',
+    date: '1995-05-08',
+    precision: 'day',
+    tier: 'C',
+    node: 'phil-schneider',
+    label: 'Schneider supplies the specification: seven levels, 2.5 miles, a 1979 firefight',
+    text: 'At Post Falls, Idaho he said he had been \'involved in building an addition to the deep underground military base at Dulce\', that \'It goes down seven levels and over 2.5 miles deep\', and that in a cavern there he shot two aliens and about seventy people were killed. The hosting page\'s own introduction gives a different casualty figure, sixty-six. He was not part of the initial rumours and arrived about fifteen years after they began.',
+    source: 'Transcript of Phil Schneider\'s May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm'
+  },
+  {
     id: 'tl-1995-07-28',
     strand: 'oversight',
     date: '1995-07-28',
@@ -2875,6 +2996,17 @@ export const TIMELINE = [
     text: 'Linda Moulton Howe says the bismuth/magnesium-zinc laminate was tested by Carnegie Science\'s Department of Terrestrial Magnetism, the first documented laboratory in that chain of custody.',
     tier: 'B',
     node: 'adam-research-project'
+  },
+  {
+    id: 'tl-1996-01-11-schneider-death',
+    strand: 'witness',
+    date: '1996-01-11',
+    precision: 'day',
+    tier: 'C',
+    node: 'phil-schneider',
+    label: 'Schneider dies in Clackamas County, Oregon; the record is thin and contested',
+    text: 'His memorial record gives death on 11 January 1996 in Clackamas County, Oregon, cremated. The date in circulation, tied to the discovery of the body, is 17 January 1996. NO DEATH CERTIFICATE, MEDICAL EXAMINER\'S REPORT OR POLICE REPORT WAS OPENED, and neither the suicide ruling nor the contest to it is carried as a claim anywhere in this file.',
+    source: 'Find a Grave memorial 146890828, https://www.findagrave.com/memorial/146890828/phil-schneider'
   },
   {
     id: 'tl-intl-1996-varginha',
@@ -3312,6 +3444,17 @@ export const TIMELINE = [
     source: 'The Black Vault case file, \'The Vault Files: 1986 Alaska JAL Flight 1628\', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/'
   },
   {
+    id: 'tl-2001-11-06-cooper-killed',
+    strand: 'witness',
+    date: '2001-11-06',
+    precision: 'day',
+    tier: 'C',
+    node: 'bill-cooper',
+    label: 'Cooper is killed during an attempted arrest in Arizona',
+    text: 'A sheriff\'s operation involving seventeen officers, with two deputies in plain clothes, on a 1998 federal warrant for tax evasion and bank fraud and a local warrant for aggravated assault with a deadly weapon. Cooper shot a deputy in the head and \'was killed by multiple shots before he made it inside\'. The SPLC report gives 6 November; the date in general circulation is 5 November.',
+    source: 'Southern Poverty Law Center, Intelligence Report, Spring 2002, issue 105, https://www.splcenter.org/resources/reports/conspiracy-theorist-slain-police-shootout/'
+  },
+  {
     id: 't-2001-caus9th',
     strand: 'oversight',
     date: '2001-11-14',
@@ -3413,6 +3556,17 @@ export const TIMELINE = [
     node: 'kean-v-nasa'
   },
   {
+    id: 'tl-2003-06-23-bennewitz-death',
+    strand: 'witness',
+    date: '2003-06-23',
+    precision: 'day',
+    tier: 'B',
+    node: 'paul-bennewitz',
+    label: 'Bennewitz dies; buried at Santa Fe National Cemetery as a Coast Guard seaman',
+    text: 'Paul Frederick Bennewitz Jr, born 30 September 1927, died 23 June 2003, Section 12 Site 402, marker inscribed \'S1C US COAST GUARD WORLD WAR II\'. The man at the centre of the best-documented domestic disinformation operation in this subject was a Second World War Coast Guard seaman who ran a humidity-instrument company.',
+    source: 'Find a Grave memorial 17482201, https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz'
+  },
+  {
     id: 'av-2003-10-14',
     strand: 'witness',
     date: '2003-10-14',
@@ -3505,6 +3659,17 @@ export const TIMELINE = [
     label: 'NASA publishes the finding that Biefeld-Brown devices are ion wind',
     text: 'NASA/TM-2004-213082, prepared for a NASA/DoD-cosponsored conference in Seattle, 24 to 26 June 2004. Section 3.2.7: \'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These "Biefeld-Brown," "Lifter" and "Asymmetrical Capacitor Thrusters" are not viable candidates for breakthrough physics propulsion.\' Section 3.3.1 records that \'metric engineering\' had emerged at aerospace conferences and that \'The origin of this term is unknown\'.',
     source: 'NASA/TM-2004-213082, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19'
+  },
+  {
+    id: 'tl-2004-09-gasbuggy-remediation',
+    strand: 'program',
+    date: '2004-09',
+    precision: 'month',
+    tier: 'B',
+    node: 'gasbuggy-1967',
+    label: 'Final surface remediation completed; 5,562 cubic yards of contaminated soil removed',
+    text: 'Thirty-seven years after the detonation the federal government was still hauling contaminated soil off ground twelve miles from Dulce. A permanent monument, a brass plaque in a concrete base, marks the site.',
+    source: 'US Department of Energy Office of Legacy Management, \'Gasbuggy, New Mexico, Site\' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf'
   },
   {
     id: 'tl-2004-10-canning-asymmetrical-capacitors',
@@ -3606,6 +3771,17 @@ export const TIMELINE = [
     text: 'Kelleher and Knapp publish the account of the NIDS ranch work; James Lacatski of DIA reads it.',
     tier: 'B',
     node: 'nids'
+  },
+  {
+    id: 'tl-2005-02-08-project-beta-book',
+    strand: 'witness',
+    date: '2005-02-08',
+    precision: 'day',
+    tier: 'C',
+    node: 'project-beta-bishop-2005',
+    label: 'Greg Bishop publishes Project Beta, the principal documented account',
+    text: 'Paraview Pocket Books, ISBN 9780743470926, 288 pages, LCCN 2005297375, OCLC 57678877. A participant account at one remove: a writer relying on it states that Bishop had an undisclosed friendship with Bill Moore, one of the two men the book is about.',
+    source: 'Open Library bibliographic record, https://openlibrary.org/books/OL7950835M/Project_Beta'
   },
   {
     id: 'tl-2005-12-nasa',
@@ -4534,6 +4710,17 @@ export const TIMELINE = [
     source: 'IMDb tt6111304, https://www.imdb.com/title/tt6111304/, opened 18 September 2026'
   },
   {
+    id: 'tl-2013-06-13-mirage-men',
+    strand: 'witness',
+    date: '2013-06-13',
+    precision: 'day',
+    tier: 'C',
+    node: 'richard-doty',
+    label: 'Mirage Men premieres at Sheffield Doc/Fest, built on the Doty admission',
+    text: 'Directed by John Lundberg with Roland Denning and Kypros Kyprianou, based on Mark Pilkington\'s 2010 book, produced by a company named Perception Management Productions. The film centres on Doty\'s dealings with Bennewitz and Linda Moulton Howe. THE FILM WAS NOT WATCHED by this session and nothing he says in it is quoted.',
+    source: 'archive.org item for Mirage Men (2013), https://archive.org/details/mirage-men-2013'
+  },
+  {
     id: 'tl-2013-cia',
     strand: 'oversight',
     date: '2013-06-25',
@@ -4565,6 +4752,17 @@ export const TIMELINE = [
     source: 'National Security Archive EBB 443, https://nsarchive.gwu.edu/node/3324'
   },
   {
+    id: 'tl-2013-12-03-skeptoid-391',
+    strand: 'witness',
+    date: '2013-12-03',
+    precision: 'day',
+    tier: 'C',
+    node: 'dulce-base',
+    label: 'Skeptoid 391: \'there\'s nothing there at all\'',
+    text: 'Brian Dunning: \'It\'s trivial to study Google Earth images of Archuleta Mesa and see that there\'s nothing there at all, certainly nothing like Schneider\'s elaborate descriptions.\' Classified fictional. The episode\'s own reference list for Dulce is a single blog post, which bounds how much weight it can carry.',
+    source: 'Brian Dunning, Skeptoid 391, 3 December 2013, https://skeptoid.com/episodes/4391'
+  },
+  {
     id: 'av-2014-vfa11',
     strand: 'witness',
     date: '2014-01-01',
@@ -4573,6 +4771,17 @@ export const TIMELINE = [
     text: 'After the fleet\'s APG-79 AESA radar upgrade, Ryan Graves\'s squadron begins witnessing UAP \'on a regular basis\' off Virginia Beach during USS Theodore Roosevelt workups.',
     tier: 'A',
     node: 'roosevelt-2014-2015'
+  },
+  {
+    id: 'tl-2014-05-13-rojas-doty',
+    strand: 'witness',
+    date: '2014-05-13',
+    precision: 'day',
+    tier: 'B',
+    node: 'richard-doty',
+    label: 'A dated report of the Doty admission, which quotes him nowhere',
+    text: 'Alejandro Rojas reports that Doty says he was tasked with hoaxing documents and feeding false information while an AFOSI special agent at Kirtland, that he was ordered to make Bennewitz believe in an impending alien invasion, and that he entered Bennewitz\'s house and office under orders. The piece paraphrases throughout and contains no direct quotation from him; the Air Force \'refuses to comment\'.',
+    source: 'Alejandro Rojas, HuffPost Weird News, 13 May 2014, https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650'
   },
   {
     id: 'tl-2014-06-15-military-documents-published',
@@ -4753,6 +4962,17 @@ export const TIMELINE = [
     source: 'Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, NRO CSNR, May 2019, foreword, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf'
   },
   {
+    id: 'tl-2015-11-levesque-confession',
+    strand: 'witness',
+    date: '2015-11',
+    precision: 'month',
+    tier: 'B',
+    node: 'thomas-castello',
+    label: 'THE CONFESSION: \'TEC (Thomas Edwin Castello) is a creation. A MYTH\'',
+    text: 'Tal Levesque, who wrote as Jason Bishop III and authored the two original Dulce Base articles, told Adam Gorightly by email that Castello was his own invention, described composing the articles from an account by a woman he names as Ann West mixed with his own research, and described mailing a hundred large envelope packets of supporting material to authors and lecturers \'who then mixed it into their talks, articles and books\'. The single most important dated item in this cluster, and the board\'s cleanest worked example of manufactured corroboration.',
+    source: 'Norio Hayakawa, 2 April 2024, reproducing the November 2015 Levesque email as published in Adam Gorightly, \'Saucers, Spooks and Kooks\', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/'
+  },
+  {
     id: 'tl-2015-12-30-iupac-priority',
     strand: 'program',
     date: '2015-12-30',
@@ -4794,6 +5014,17 @@ export const TIMELINE = [
     label: 'Peter Merlin\'s four-part analysis of Fouche is published',
     text: 'Quoted verbatim between (QUOTE) and (UNQUOTE) markers on Norio Hayakawa\'s blog: that the SAC letter is unclassified and carries no classification markings, control number or copy-of count and that \'REPLY TO: DARPA\' is probably a five-letter office code; that the photograph Fouche captioned \'Have Blue\' is \'the first YF-117A SENIOR TREND prototype\'; that \'No such person as Steve Stenson was ever commander of AFFTC\'; and that the KGB passport and badges are fakes \'widely available at many Army-Navy surplus stores\'.',
     source: 'Norio Hayakawa, \'Edgar Fouche\'s TR-3B is most likely a hoax\', https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/'
+  },
+  {
+    id: 'tl-2016-04-01-greenewald-photo',
+    strand: 'witness',
+    date: '2016-04-01',
+    precision: 'day',
+    tier: 'B',
+    node: 'thomas-castello',
+    label: 'Greenewald traces the Dulce photograph to the film The 6th Day',
+    text: 'The photograph of bodies in a chamber, circulated for years as Castello\'s leaked proof, is a frame from the 2000 feature film: it \'is, in fact, a verifiable hoax\', and \'You can see that the position of the bodies, inside the chamber, are a match.\' In the same case file: \'There is no evidence that I have found, that shows that Thomas Costello even exists.\'',
+    source: 'The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/'
   },
   {
     id: 'tl-pais-imrd-filed',
@@ -4845,6 +5076,17 @@ export const TIMELINE = [
     text: 'Two months after the Army adjustments report, the Department of Defense identifies to the Federal Accounting Standards Advisory Board the need for a standard reconciling generally accepted accounting principles with classification obligations under Executive Order 13526. That request becomes SFFAS 56.',
     tier: 'A',
     node: 'sffas-56'
+  },
+  {
+    id: 'tl-2016-08-29-hayakawa-negative',
+    strand: 'witness',
+    date: '2016-08-29',
+    precision: 'day',
+    tier: 'C',
+    node: 'norio-hayakawa',
+    label: 'Hayakawa, working the question since 1988: \'it does not seem to exist\'',
+    text: 'The same post supplies the dated chronology of the cluster\'s originators used throughout this file: Bennewitz from about 1979, Myrna Hansen in 1980, Tom Adams in the early 1980s, John Lear in 1988 from \'Ann West\', and Phil Schneider only in 1995.',
+    source: 'Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/'
   },
   {
     id: 'tl-2016-10-nawcad-pais-testing-begins',
@@ -5842,6 +6084,17 @@ export const TIMELINE = [
     source: 'Brett Tingley, The War Zone, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19'
   },
   {
+    id: 'tl-2021-02-03-gorightly-book',
+    strand: 'witness',
+    date: '2021-02-03',
+    precision: 'day',
+    tier: 'C',
+    node: 'saucers-spooks-and-kooks-2021',
+    label: 'Gorightly publishes the confession in Saucers, Spooks and Kooks',
+    text: 'Daily Grail Publishing, ISBN 978-0994617682. The book was NOT opened by this session; the confession was read as reproduced by Hayakawa quoting it, which is why every dependent claim is capped at Tier 2 and why opening the book is this cluster\'s highest-value upgrade.',
+    source: 'Norio Hayakawa, 23 April 2021 and 2 April 2024, https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/'
+  },
+  {
     id: 'tl-2021-02-10-stone-dies',
     strand: 'witness',
     date: '2021-02-10',
@@ -5929,6 +6182,17 @@ export const TIMELINE = [
     text: 'Elizondo, Mellon and Navy aviators appear in a CBS 60 Minutes report on UAP in restricted U.S. airspace, weeks before the ODNI preliminary assessment.',
     tier: 'B',
     node: 'luis-elizondo'
+  },
+  {
+    id: 'tl-2021-05-20-doty-file',
+    strand: 'witness',
+    date: '2021-05-20',
+    precision: 'day',
+    tier: 'B',
+    node: 'richard-doty',
+    label: 'Doty\'s 321-page New Mexico State Police personnel file released',
+    text: 'Obtained by John Greenewald under the New Mexico Inspection of Public Records Act, NMSA 14-2-1 et seq., and released by the New Mexico Department of Public Safety with redactions. His Air Force service dates, rank progression and separation are inside the PDF, which was not opened by this session.',
+    source: 'The Black Vault, 20 May 2021, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/'
   },
   {
     id: 't-2021-doty',

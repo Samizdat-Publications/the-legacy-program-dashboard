@@ -13514,6 +13514,622 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'paul-bennewitz',
+    b: 'dulce-base',
+    type: 'witness-chain',
+    label: 'Origin point of the Dulce claim, from about 1979',
+    claimTier: 2,
+    dateStart: '1979',
+    dateEnd: null,
+    note: 'Bennewitz is the first person to attach a facility claim to Dulce, from about 1979, in the dated chronology of the cluster\'s originators, and he connected Myrna Hansen\'s 1980 account to it after he had begun to suspect a site there. The edge records that he asserted it and nothing more.',
+    sources: [
+      {
+        name: 'Norio Hayakawa, \'Enigmatic personalities behind the initial Dulce underground base rumors\'',
+        url: 'https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/',
+        date: '2016-08-29'
+      }
+    ]
+  },
+  {
+    a: 'bennewitz-project-beta-1981',
+    b: 'dulce-base',
+    type: 'witness-chain',
+    label: 'The claimant\'s own dated statement of his own claim, late 1981',
+    claimTier: 2,
+    dateStart: '1981',
+    dateEnd: '1981',
+    note: 'His roughly five-thousand-word report, read only in two fragments quoted by a 2025 newsletter. The edge records the existence and date of the claimant\'s own document, which is the anchor discipline this board asks for, and it does not assert the document\'s contents beyond the fragments read.',
+    sources: [
+      {
+        name: 'Stephen Fisher, The Trenchant Edges Newsletter, \'What Did They Do To Paul Bennewitz?\'',
+        url: 'https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz',
+        date: '2025-11-29'
+      }
+    ]
+  },
+  {
+    a: 'paul-bennewitz',
+    b: 'bennewitz-project-beta-1981',
+    type: 'research',
+    label: 'Author of the late-1981 report',
+    claimTier: 2,
+    dateStart: '1981',
+    dateEnd: '1981',
+    note: 'Authorship, typed research rather than custody by rule: custody carries a programme weighting and inflating a claimant with it is a defect this board has already had to remove once.',
+    sources: [
+      {
+        name: 'Stephen Fisher, The Trenchant Edges Newsletter, \'What Did They Do To Paul Bennewitz?\'',
+        url: 'https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz',
+        date: '2025-11-29'
+      }
+    ]
+  },
+  {
+    a: 'phil-schneider',
+    b: 'dulce-base',
+    type: 'witness-chain',
+    label: 'Supplies every specific number in the modern claim, 8 May 1995',
+    claimTier: 2,
+    dateStart: '1995-05-08',
+    dateEnd: '1995-05-08',
+    note: 'Seven levels, over 2.5 miles deep, a firefight in which he says he shot two aliens and roughly seventy people died. He was not part of the initial rumours and arrived about fifteen years after they began. Transcript hosted without a named transcriber; the lecture recording carries no captions.',
+    sources: [
+      {
+        name: 'Hosted transcript of Phil Schneider\'s May 1995 Post Falls, Idaho lecture; the page names no transcriber',
+        url: 'https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Norio Hayakawa, \'Enigmatic personalities behind the initial Dulce underground base rumors\'',
+        url: 'https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/',
+        date: '2016-08-29'
+      }
+    ]
+  },
+  {
+    a: 'thomas-castello',
+    b: 'dulce-base',
+    type: 'witness-chain',
+    label: 'The claimed insider, whose author confessed the invention',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The edge records that the claim was made and circulated under this name. The node it runs from records that the man who wrote the original articles says he invented the name. Both halves are needed: deleting the edge would leave the downstream literature unexplained, and leaving it untyped would let a fabricated witness read as a witness.',
+    sources: [
+      {
+        name: 'Norio Hayakawa, Civilian Intelligence News Service, \'Startling final confession made in 2015 by the enigmatic Tal Levesque\'',
+        url: 'https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/',
+        date: '2024-04-02'
+      },
+      {
+        name: 'The Black Vault case file, John Greenewald, \'Leaked Underground Dulce Base Alien Photo by Thomas Costello\'',
+        url: 'https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/',
+        date: '2016-04-01'
+      }
+    ]
+  },
+  {
+    a: 'tal-levesque',
+    b: 'thomas-castello',
+    type: 'denial',
+    label: 'Confessed authorship: \'TEC ... is a creation. A MYTH\'',
+    claimTier: 2,
+    dateStart: '2015-11',
+    dateEnd: '2015-11',
+    note: 'The only confession of authorship in the cluster, made by email to Adam Gorightly in November 2015 after a long correspondence in which Levesque had maintained the opposite. Read as reproduced on Hayakawa\'s site quoting Gorightly\'s book, so Tier 2.',
+    sources: [
+      {
+        name: 'Norio Hayakawa, Civilian Intelligence News Service, \'Startling final confession made in 2015 by the enigmatic Tal Levesque\'',
+        url: 'https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/',
+        date: '2024-04-02'
+      },
+      {
+        name: 'Norio Hayakawa, \'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths\'',
+        url: 'https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/',
+        date: '2021-04-23'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'tal-levesque'
+  },
+  {
+    a: 'tal-levesque',
+    b: 'dulce-base',
+    type: 'denial',
+    label: 'Says he wrote the two original Dulce Base articles and manufactured the corroboration',
+    claimTier: 2,
+    dateStart: '2015-11',
+    dateEnd: '2015-11',
+    note: 'In the same message he describes composing the articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. This is the described manufacture of apparent independent corroboration.',
+    sources: [
+      {
+        name: 'Norio Hayakawa, Civilian Intelligence News Service, \'Startling final confession made in 2015 by the enigmatic Tal Levesque\'',
+        url: 'https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/',
+        date: '2024-04-02'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'tal-levesque'
+  },
+  {
+    a: 'john-lear',
+    b: 'dulce-base',
+    type: 'witness-chain',
+    label: 'Developed his Dulce hypothesis in 1988, from \'Ann West\'',
+    claimTier: 2,
+    dateStart: '1988',
+    dateEnd: '1988',
+    note: 'Hayakawa\'s chronology dates Lear\'s hypothesis to 1988 and names his source as Ann West, the same name Levesque gives as the raw material of the original articles. Two entry points into the literature appear to run back through one person.',
+    sources: [
+      {
+        name: 'Norio Hayakawa, \'Enigmatic personalities behind the initial Dulce underground base rumors\'',
+        url: 'https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/',
+        date: '2016-08-29'
+      }
+    ]
+  },
+  {
+    a: 'bill-cooper',
+    b: 'dulce-base',
+    type: 'witness-chain',
+    label: 'FRAME-PROPAGATION ONLY: his 1989 paper contains the word Dulce zero times',
+    claimTier: 3,
+    dateStart: '1989-05-23',
+    dateEnd: '1990-11-21',
+    note: 'Cooper carried the frame of alien bases built under Indian reservations in the Four Corners area to a mass audience from 1989. The string \'Dulce\' occurs zero times in the forty-nine pages, which were extracted and searched in full. Tier 3 because attaching his frame to this specific site is inference and not text, and an edge worded any more strongly would contradict its own source.',
+    sources: [
+      {
+        name: 'Milton William Cooper, \'The Secret Government\', dated on its own first page 23 May 1989, updated 21 November 1990, 49pp, text extracted and searched in full',
+        url: 'https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'bill-cooper',
+    b: 'cooper-secret-government-1989',
+    type: 'research',
+    label: 'Author of \'The Secret Government\', 23 May 1989, updated 21 November 1990',
+    claimTier: 1,
+    dateStart: '1989-05-23',
+    dateEnd: '1990-11-21',
+    note: 'Authorship, typed research by rule. The document is dated on its own first page and states its own delivery at the MUFON symposium of 2 July 1989.',
+    sources: [
+      {
+        name: 'Milton William Cooper, \'The Secret Government\', dated on its own first page 23 May 1989, updated 21 November 1990, 49pp, text extracted and searched in full',
+        url: 'https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'richard-doty',
+    b: 'paul-bennewitz',
+    type: 'behavioral',
+    label: 'Two-sided: the reported admission, and his own recorded denial of harm',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false \'in every aspect\' and says Bennewitz \'did this to himself\'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing.',
+    sources: [
+      {
+        name: 'Alejandro Rojas, HuffPost Weird News, \'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies\'',
+        url: 'https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650',
+        date: '2014-05-13'
+      },
+      {
+        name: 'Mystery Wire, \'UFOs: Former spy Rick Doty\'s role in a controversial case, and national security concerns -- Part 4\', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full',
+        url: 'https://www.youtube.com/watch?v=9TLfM5VKX3M',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release',
+        url: 'https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/',
+        date: '2021-05-20'
+      },
+      {
+        name: 'AARO, \'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I\' (DOPSR-2024-0263)',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF',
+        date: '2024-03-08'
+      },
+      {
+        name: 'NICAP - 1980 Kirtland AFB, NM FOIA document files',
+        url: 'https://www.nicap.org/foia_003.htm',
+        date: '2026-08-12'
+      }
+    ]
+  },
+  {
+    a: 'richard-doty',
+    b: 'dulce-base',
+    type: 'denial',
+    label: 'Attributes Bennewitz\'s beliefs to Bennewitz rather than to material he supplied',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'A denial edge into the hub from the man usually cited as the hub\'s origin. In his own captured words: \'none of it\'s true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself\'. Auto-captions, so the wording is approximate and marked as such.',
+    sources: [
+      {
+        name: 'Mystery Wire, \'UFOs: Former spy Rick Doty\'s role in a controversial case, and national security concerns -- Part 4\', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full',
+        url: 'https://www.youtube.com/watch?v=9TLfM5VKX3M',
+        date: '2026-09-19'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'richard-doty'
+  },
+  {
+    a: 'richard-doty',
+    b: 'afosi-kirtland-file',
+    type: 'research',
+    label: 'Named on the complaint form as the special agent who filed it',
+    claimTier: 1,
+    dateStart: '1980-09',
+    dateEnd: null,
+    note: 'The form carries \'Richard C Doty, SA\' under AFOSI Det 1700, Kirtland AFB, District File No. 8017D93-0/29. Typed research as the producer of a document, never custody. This is the Tier 1 source for his AFOSI service and should replace any interview-sourced claim of it.',
+    sources: [
+      {
+        name: 'AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive',
+        url: 'https://www.nicap.org/foia_003.htm',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'richard-doty',
+    b: 'afosi',
+    type: 'institutional',
+    label: 'Documented AFOSI special agent at Kirtland, 1980',
+    claimTier: 1,
+    dateStart: '1980',
+    dateEnd: null,
+    note: 'Documented by the complaint form itself rather than by any of his own later accounts, which is the point: his service does not depend on the reliability of a self-described disinformation officer.',
+    sources: [
+      {
+        name: 'AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive',
+        url: 'https://www.nicap.org/foia_003.htm',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Richard Doty Personnel File - New Mexico State Police [321 pages]',
+        url: 'https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/',
+        date: '2021-05-20'
+      }
+    ]
+  },
+  {
+    a: 'kirtland-manzano-1980',
+    b: 'paul-bennewitz',
+    type: 'investigative',
+    label: 'AFOSI opened a file covering the observations Bennewitz was reporting',
+    claimTier: 1,
+    dateStart: '1980-08',
+    dateEnd: '1980-09',
+    note: 'Confirmed independently this session from the NICAP reproduction. The record establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that a file was opened. It establishes nothing about what the objects were.',
+    sources: [
+      {
+        name: 'AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive',
+        url: 'https://www.nicap.org/foia_003.htm',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'william-l-moore',
+    b: 'paul-bennewitz',
+    type: 'behavioral',
+    label: 'The 1 July 1989 MUFON admission, which outranks anything Doty has said',
+    claimTier: 2,
+    dateStart: '1989-07-01',
+    dateEnd: '1989-07-01',
+    note: 'Already on the board and confirmed as unweakened: a civilian, about himself, in public, at a named event on a named date, and not since retracted by its author. Doty\'s parallel statements have since been partly retracted by him. Any claim about Moore\'s conduct sourced to Bishop\'s Project Beta carries the participant-account caveat.',
+    sources: [
+      {
+        name: 'Stephen Fisher, The Trenchant Edges Newsletter, \'What Did They Do To Paul Bennewitz?\'',
+        url: 'https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz',
+        date: '2025-11-29'
+      },
+      {
+        name: 'Wikipedia - Paul Bennewitz',
+        url: 'https://en.wikipedia.org/wiki/Paul_Bennewitz',
+        date: '2026-08-12'
+      }
+    ]
+  },
+  {
+    a: 'project-aquarius',
+    b: 'paul-bennewitz',
+    type: 'behavioral',
+    label: 'Fabricated programme material in the Kirtland operation, corroborated as told by 1989',
+    claimTier: 2,
+    dateStart: '1983-04',
+    dateEnd: null,
+    note: 'Cooper\'s 1989 paper independently records Howe telling him that Doty showed her documents at Kirtland. That corroborates the telling by 1989 and nothing about the documents. No copy of any document given to Bennewitz was opened by this session, and no aquarius-document node should be created.',
+    sources: [
+      {
+        name: 'Milton William Cooper, \'The Secret Government\', dated on its own first page 23 May 1989, updated 21 November 1990, 49pp, text extracted and searched in full',
+        url: 'https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'gasbuggy-1967',
+    b: 'dulce-base',
+    type: 'denial',
+    label: 'ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier',
+    claimTier: 1,
+    dateStart: '1967-12-10',
+    dateEnd: '2004-09',
+    note: 'The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management\'s own fact sheet, which is a primary record of the department\'s own act and not an interested-party gloss on somebody else\'s. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour.',
+    sources: [
+      {
+        name: 'US Department of Energy Office of Legacy Management, \'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet\', 3pp, text extracted and read in full',
+        url: 'https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf',
+        date: '2026-09-19'
+      }
+    ],
+    denialKind: 'association'
+  },
+  {
+    a: 'gasbuggy-1967',
+    b: 'l-dulce',
+    type: 'geographic',
+    label: '640 acres in the Carson National Forest, twelve miles southwest of Dulce',
+    claimTier: 1,
+    dateStart: '1967-12-10',
+    dateEnd: null,
+    note: 'From the DOE fact sheet: Rio Arriba County, approximately 55 miles east of Farmington, just west of the Jicarilla Apache Reservation.',
+    sources: [
+      {
+        name: 'US Department of Energy Office of Legacy Management, \'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet\', 3pp, text extracted and read in full',
+        url: 'https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'gasbuggy-1967',
+    b: 'doe',
+    type: 'institutional',
+    label: 'DOE Office of Legacy Management holds long-term stewardship',
+    claimTier: 1,
+    dateStart: '1978',
+    dateEnd: null,
+    note: 'Decommissioned by the AEC in 1978 with liquid radioactive waste injected into the former cavity; soil sampling in 1978, 1986, 2000 and 2002; final surface remediation completed September 2004.',
+    sources: [
+      {
+        name: 'US Department of Energy Office of Legacy Management, \'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet\', 3pp, text extracted and read in full',
+        url: 'https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'norio-hayakawa',
+    b: 'dulce-base',
+    type: 'investigative',
+    label: 'Thirty-eight years on the question, concluding \'it does not seem to exist\'',
+    claimTier: 2,
+    dateStart: '1988',
+    dateEnd: null,
+    note: 'Typed investigative rather than denial because it is a researcher\'s negative finding rather than an interested party\'s rebuttal. Hayakawa is a proponent of investigating the subject, not a professional debunker of it, which is what makes the negative worth more than a debunker\'s. Self-published, so Tier 2.',
+    sources: [
+      {
+        name: 'Norio Hayakawa, \'Enigmatic personalities behind the initial Dulce underground base rumors\'',
+        url: 'https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/',
+        date: '2016-08-29'
+      }
+    ]
+  },
+  {
+    a: 'john-greenewald',
+    b: 'dulce-base',
+    type: 'investigative',
+    label: 'Traced the cluster\'s best-known physical \'evidence\' to a 2000 feature film',
+    claimTier: 2,
+    dateStart: '2016-04-01',
+    dateEnd: '2016-04-01',
+    note: 'The photograph circulated for years as leaked proof from inside the facility is a frame from The 6th Day. The identification is checkable by anyone against the film; the surrounding negative, that he found no evidence Castello exists, is Tier 2.',
+    sources: [
+      {
+        name: 'The Black Vault case file, John Greenewald, \'Leaked Underground Dulce Base Alien Photo by Thomas Costello\'',
+        url: 'https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/',
+        date: '2016-04-01'
+      }
+    ]
+  },
+  {
+    a: 'john-greenewald',
+    b: 'thomas-castello',
+    type: 'investigative',
+    label: '\'There is no evidence that I have found, that shows that Thomas Costello even exists\'',
+    claimTier: 2,
+    dateStart: '2016-04-01',
+    dateEnd: '2016-04-01',
+    note: 'A named researcher\'s published negative, dated, and consistent with the confession obtained independently by Gorightly. Note the Costello spelling, which is how the viral posts carry the name.',
+    sources: [
+      {
+        name: 'The Black Vault case file, John Greenewald, \'Leaked Underground Dulce Base Alien Photo by Thomas Costello\'',
+        url: 'https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/',
+        date: '2016-04-01'
+      }
+    ]
+  },
+  {
+    a: 'saucers-spooks-and-kooks-2021',
+    b: 'dulce-base',
+    type: 'investigative',
+    label: 'The publication that obtained and printed the confession',
+    claimTier: 2,
+    dateStart: '2021-02-03',
+    dateEnd: '2021-02-03',
+    note: 'A document about the cluster with no authorship relation to any node in it, typed investigative. The book itself was not opened; the confession was read as reproduced by a third party quoting it, which caps every dependent claim at Tier 2.',
+    sources: [
+      {
+        name: 'Norio Hayakawa, \'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths\'',
+        url: 'https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/',
+        date: '2021-04-23'
+      },
+      {
+        name: 'Norio Hayakawa, Civilian Intelligence News Service, \'Startling final confession made in 2015 by the enigmatic Tal Levesque\'',
+        url: 'https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/',
+        date: '2024-04-02'
+      }
+    ]
+  },
+  {
+    a: 'saucers-spooks-and-kooks-2021',
+    b: 'tal-levesque',
+    type: 'investigative',
+    label: 'Obtained Levesque\'s confession across a multi-year correspondence',
+    claimTier: 2,
+    dateStart: '2015-11',
+    dateEnd: '2021-02-03',
+    note: 'Gorightly pressed him repeatedly, in different forms, after Levesque had maintained that Castello was real; the November 2015 message is the result.',
+    sources: [
+      {
+        name: 'Norio Hayakawa, \'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths\'',
+        url: 'https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/',
+        date: '2021-04-23'
+      },
+      {
+        name: 'Norio Hayakawa, Civilian Intelligence News Service, \'Startling final confession made in 2015 by the enigmatic Tal Levesque\'',
+        url: 'https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/',
+        date: '2024-04-02'
+      }
+    ]
+  },
+  {
+    a: 'greg-bishop',
+    b: 'project-beta-bishop-2005',
+    type: 'research',
+    label: 'Author of Project Beta (2005)',
+    claimTier: 1,
+    dateStart: '2005-02-08',
+    dateEnd: '2005-02-08',
+    note: 'Authorship, typed research by rule. Bibliographic record is Tier 1: Paraview Pocket Books, 8 February 2005, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877.',
+    sources: [
+      {
+        name: 'Open Library bibliographic record for Greg Bishop, \'Project Beta\', Paraview Pocket Books, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877',
+        url: 'https://openlibrary.org/books/OL7950835M/Project_Beta',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
+    a: 'project-beta-bishop-2005',
+    b: 'paul-bennewitz',
+    type: 'investigative',
+    label: 'The principal documented account of the affair',
+    claimTier: 1,
+    dateStart: '2005-02-08',
+    dateEnd: null,
+    note: 'Tier 1 as a bibliographic record of a book about him. The participant-account caveat, Bishop\'s undisclosed friendship with Bill Moore as reported by a writer relying on Bishop, goes in this note and not in the tier: it bars the book from being the sole source for a claim about Moore\'s conduct, it does not degrade the record of the book\'s existence.',
+    sources: [
+      {
+        name: 'Open Library bibliographic record for Greg Bishop, \'Project Beta\', Paraview Pocket Books, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877',
+        url: 'https://openlibrary.org/books/OL7950835M/Project_Beta',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Stephen Fisher, The Trenchant Edges Newsletter, \'What Did They Do To Paul Bennewitz?\'',
+        url: 'https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz',
+        date: '2025-11-29'
+      }
+    ]
+  },
+  {
+    a: 'gabe-valdez',
+    b: 'l-dulce',
+    type: 'institutional',
+    label: 'New Mexico State Police officer stationed at Dulce from 1976',
+    claimTier: 2,
+    dateStart: '1976',
+    dateEnd: null,
+    note: 'The only official investigator in this story. The opened newspaper report carries no statement from Valdez that a base exists, although he is routinely cited in the Dulce literature as a supporting official voice.',
+    sources: [
+      {
+        name: 'Tom Sharpe, The Santa Fe New Mexican, \'Book claims government behind cattle mutilations\'',
+        url: 'https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html',
+        date: '2013-09-23'
+      }
+    ]
+  },
+  {
+    a: 'dulce-base',
+    b: 'l-dulce',
+    type: 'geographic',
+    label: 'The claim points at real ground',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Tier 3 because the siting is the claim\'s own assertion and nothing else. The place node is kept separate from the claim node deliberately, and no archuleta-mesa node should be created: the mesa is carried in the location node\'s label.',
+    sources: [
+      {
+        name: 'Norio Hayakawa, \'Enigmatic personalities behind the initial Dulce underground base rumors\'',
+        url: 'https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/',
+        date: '2016-08-29'
+      }
+    ]
+  },
+  {
+    a: 'dulce-base',
+    b: 'd-disinformation',
+    type: 'programmatic',
+    label: 'A cluster whose central witness has a confessed author',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'It belongs in this domain on its own evidence rather than by association with the Bennewitz operation, because the confession describes the deliberate manufacture of apparent independent corroboration.',
+    sources: [
+      {
+        name: 'Norio Hayakawa, Civilian Intelligence News Service, \'Startling final confession made in 2015 by the enigmatic Tal Levesque\'',
+        url: 'https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/',
+        date: '2024-04-02'
+      }
+    ]
+  },
+  {
+    a: 'dulce-base',
+    b: 'd-psyop',
+    type: 'programmatic',
+    label: 'Downstream of the Kirtland operation, which is this domain\'s best-known case',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The board already places the Bennewitz operation here. The Dulce hub is where that operation\'s output, and a great deal of material that has nothing to do with it, converged.',
+    sources: [
+      {
+        name: 'Alejandro Rojas, HuffPost Weird News, \'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies\'',
+        url: 'https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650',
+        date: '2014-05-13'
+      },
+      {
+        name: 'Norio Hayakawa, \'Enigmatic personalities behind the initial Dulce underground base rumors\'',
+        url: 'https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/',
+        date: '2016-08-29'
+      }
+    ]
+  },
+  {
+    a: 'l-dulce',
+    b: 'd-legacy',
+    type: 'institutional',
+    label: 'A contaminated Plowshare site under forty years of federal stewardship',
+    claimTier: 3,
+    dateStart: '1967-12-10',
+    dateEnd: null,
+    note: 'Stated inference and a domain-to-domain link, correctly capped at Tier 3: the legacy character of the ground holds whatever is or is not true about the mesa.',
+    sources: [
+      {
+        name: 'US Department of Energy Office of Legacy Management, \'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet\', 3pp, text extracted and read in full',
+        url: 'https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf',
+        date: '2026-09-19'
+      }
+    ]
+  },
+  {
     a: 'luis-elizondo',
     b: 'aatip',
     type: 'programmatic',
@@ -15949,38 +16565,6 @@ export const PROGRAM_EDGES = [
     note: 'Complaint form dated 9 September 1980, District File No. 8017D93-0/29, \'alleged sighting of unidentified aerial lights in restricted test range\'.',
     sources: [
       { name: 'NICAP - Kirtland AFB FOIA files', url: 'https://www.nicap.org/foia_003.htm', date: '2026-08-12' }
-    ]
-  },
-  {
-    a: 'richard-doty',
-    b: 'paul-bennewitz',
-    type: 'behavioral',
-    label: 'Ran fabricated material at Bennewitz out of the same AFOSI office',
-    claimTier: 2,
-    dateStart: '1980',
-    dateEnd: '1985',
-    note: 'Doty has acknowledged on the record passing fabricated documents to Bennewitz while an AFOSI agent; Bennewitz\'s psychiatric collapse is the documented outcome. This is the field\'s baseline case for government-authored disinformation.',
-    sources: [
-      {
-        name: 'HuffPost - Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Incident',
-        url: 'https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650',
-        date: '2014-05-13'
-      },
-      {
-        name: 'Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release',
-        url: 'https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/',
-        date: '2021-05-20'
-      },
-      {
-        name: 'AARO, \'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I\' (DOPSR-2024-0263)',
-        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF',
-        date: '2024-03-08'
-      },
-      {
-        name: 'NICAP - 1980 Kirtland AFB, NM FOIA document files',
-        url: 'https://www.nicap.org/foia_003.htm',
-        date: '2026-08-12'
-      }
     ]
   },
   {
@@ -42225,28 +42809,6 @@ export const PROGRAM_EDGES = [
   },
   {
     a: 'afosi',
-    b: 'richard-doty',
-    type: 'institutional',
-    label: 'Doty served as an AFOSI special agent at the Kirtland detachment',
-    claimTier: 1,
-    dateStart: '1979',
-    dateEnd: '1988',
-    note: 'The AFOSI Kirtland file and Doty\'s later New Mexico State Police personnel file, released in 321 pages, document his AFOSI service during the Manzano intrusion period.',
-    sources: [
-      {
-        name: 'Richard Doty Personnel File - New Mexico State Police [321 pages]',
-        url: 'https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/',
-        date: '2021-05-20'
-      },
-      {
-        name: 'NICAP - 1980 Kirtland AFB, NM FOIA document files',
-        url: 'https://www.nicap.org/foia_003.htm',
-        date: '2026-08-12'
-      }
-    ]
-  },
-  {
-    a: 'afosi',
     b: 'afosi-kirtland-file',
     type: 'custody',
     label: 'AFOSI is the originating agency of the released Kirtland UFO file',
@@ -51582,23 +52144,6 @@ export const PROGRAM_EDGES = [
         name: 'P.L. 118-31; P.L. 118-159; P.L. 119-60',
         url: 'https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm',
         date: '2025-12-18'
-      }
-    ]
-  },
-  {
-    a: 'william-l-moore',
-    b: 'paul-bennewitz',
-    type: 'behavioral',
-    label: 'Moore admitted in 1989 to feeding Bennewitz false information',
-    claimTier: 2,
-    dateStart: '1980',
-    dateEnd: '1989',
-    note: 'On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens.',
-    sources: [
-      {
-        name: 'Wikipedia - Paul Bennewitz',
-        url: 'https://en.wikipedia.org/wiki/Paul_Bennewitz',
-        date: '2026-08-12'
       }
     ]
   },

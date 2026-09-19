@@ -1089,14 +1089,6 @@
 },
 {
 "a": "afosi",
-"b": "richard-doty",
-"dateStart": "1979",
-"label": "Doty served as an AFOSI special agent at the Kirtland detachment",
-"t": "institutional",
-"tier": 1
-},
-{
-"a": "afosi",
 "b": "usaf",
 "dateStart": "1948",
 "label": "Air Force felony investigative and counterintelligence field agency",
@@ -2200,6 +2192,14 @@
 "tier": 1
 },
 {
+"a": "bennewitz-project-beta-1981",
+"b": "dulce-base",
+"dateStart": "1981",
+"label": "The claimant's own dated statement of his own claim, late 1981",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "bernard-norlain",
 "b": "cometa",
 "dateStart": "1995-03",
@@ -2254,6 +2254,22 @@
 "label": "An Air Force telescope deployment covering Air Force Western Test Range launches",
 "t": "programmatic",
 "tier": 1
+},
+{
+"a": "bill-cooper",
+"b": "cooper-secret-government-1989",
+"dateStart": "1989-05-23",
+"label": "Author of 'The Secret Government', 23 May 1989, updated 21 November 1990",
+"t": "research",
+"tier": 1
+},
+{
+"a": "bill-cooper",
+"b": "dulce-base",
+"dateStart": "1989-05-23",
+"label": "FRAME-PROPAGATION ONLY: his 1989 paper contains the word Dulce zero times",
+"t": "witness-chain",
+"tier": 3
 },
 {
 "a": "blackvault-pursue-archive",
@@ -6680,6 +6696,30 @@
 "tier": 1
 },
 {
+"a": "dulce-base",
+"b": "d-disinformation",
+"dateStart": null,
+"label": "A cluster whose central witness has a confessed author",
+"t": "programmatic",
+"tier": 2
+},
+{
+"a": "dulce-base",
+"b": "d-psyop",
+"dateStart": null,
+"label": "Downstream of the Kirtland operation, which is this domain's best-known case",
+"t": "programmatic",
+"tier": 2
+},
+{
+"a": "dulce-base",
+"b": "l-dulce",
+"dateStart": null,
+"label": "The claim points at real ground",
+"t": "geographic",
+"tier": 3
+},
+{
 "a": "dylan-borland",
 "b": "hearing-2025-09-09",
 "dateStart": "2025-09-09",
@@ -7752,6 +7792,14 @@
 "tier": 1
 },
 {
+"a": "gabe-valdez",
+"b": "l-dulce",
+"dateStart": "1976",
+"label": "New Mexico State Police officer stationed at Dulce from 1976",
+"t": "institutional",
+"tier": 2
+},
+{
 "a": "galileo-project",
 "b": "im1-pacific-expedition-2023",
 "dateStart": "2022",
@@ -8070,6 +8118,30 @@
 "label": "CEC/Aegis systems technician aboard USS Princeton, Nov 2004",
 "t": "institutional",
 "tier": 2
+},
+{
+"a": "gasbuggy-1967",
+"b": "doe",
+"dateStart": "1978",
+"label": "DOE Office of Legacy Management holds long-term stewardship",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "gasbuggy-1967",
+"b": "dulce-base",
+"dateStart": "1967-12-10",
+"label": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "gasbuggy-1967",
+"b": "l-dulce",
+"dateStart": "1967-12-10",
+"label": "640 acres in the Carson National Forest, twelve miles southwest of Dulce",
+"t": "geographic",
+"tier": 1
 },
 {
 "a": "geipan",
@@ -8629,6 +8701,14 @@
 "dateStart": "1949",
 "label": "Held at Los Alamos; LANL's National Security Research Center holds the minutes",
 "t": "custody",
+"tier": 1
+},
+{
+"a": "greg-bishop",
+"b": "project-beta-bishop-2005",
+"dateStart": "2005-02-08",
+"label": "Author of Project Beta (2005)",
+"t": "research",
 "tier": 1
 },
 {
@@ -10753,6 +10833,14 @@
 },
 {
 "a": "john-greenewald",
+"b": "dulce-base",
+"dateStart": "2016-04-01",
+"label": "Traced the cluster's best-known physical 'evidence' to a 2000 feature film",
+"t": "investigative",
+"tier": 2
+},
+{
+"a": "john-greenewald",
 "b": "enigma-labs",
 "dateStart": null,
 "label": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
@@ -10793,6 +10881,14 @@
 },
 {
 "a": "john-greenewald",
+"b": "thomas-castello",
+"dateStart": "2016-04-01",
+"label": "'There is no evidence that I have found, that shows that Thomas Costello even exists'",
+"t": "investigative",
+"tier": 2
+},
+{
+"a": "john-greenewald",
 "b": "yeates-affidavit",
 "dateStart": "2013",
 "label": "2013 Mandatory Declassification Review forced further release of the NSA UFO holdings",
@@ -10813,6 +10909,14 @@
 "dateStart": "1987-12-29",
 "label": "His dated 1987 statement reached the field through ParaNet in early 1988",
 "t": "behavioral",
+"tier": 2
+},
+{
+"a": "john-lear",
+"b": "dulce-base",
+"dateStart": "1988",
+"label": "Developed his Dulce hypothesis in 1988, from 'Ann West'",
+"t": "witness-chain",
 "tier": 2
 },
 {
@@ -11433,6 +11537,14 @@
 },
 {
 "a": "kirtland-manzano-1980",
+"b": "paul-bennewitz",
+"dateStart": "1980-08",
+"label": "AFOSI opened a file covering the observations Bennewitz was reporting",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "kirtland-manzano-1980",
 "b": "sandia",
 "dateStart": "1980",
 "label": "A Sandia security guard is a named reporting party in the AFOSI file",
@@ -11766,6 +11878,14 @@
 "label": "Detroit Arsenal is in Warren, thirteen miles north of Detroit",
 "t": "geographic",
 "tier": 1
+},
+{
+"a": "l-dulce",
+"b": "d-legacy",
+"dateStart": "1967-12-10",
+"label": "A contaminated Plowshare site under forty years of federal stewardship",
+"t": "institutional",
+"tier": 3
 },
 {
 "a": "l-edwards-afb",
@@ -14736,6 +14856,14 @@
 "tier": 1
 },
 {
+"a": "norio-hayakawa",
+"b": "dulce-base",
+"dateStart": "1988",
+"label": "Thirty-eight years on the question, concluding 'it does not seem to exist'",
+"t": "investigative",
+"tier": 2
+},
+{
 "a": "northrop-grumman",
 "b": "l-nevada-test-site",
 "dateStart": "2006",
@@ -15465,6 +15593,22 @@
 },
 {
 "a": "paul-bennewitz",
+"b": "bennewitz-project-beta-1981",
+"dateStart": "1981",
+"label": "Author of the late-1981 report",
+"t": "research",
+"tier": 2
+},
+{
+"a": "paul-bennewitz",
+"b": "dulce-base",
+"dateStart": "1979",
+"label": "Origin point of the Dulce claim, from about 1979",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "paul-bennewitz",
 "b": "l-kirtland",
 "dateStart": "1979",
 "label": "Bennewitz's 1979-1980 observations were of the Manzano area of Kirtland AFB",
@@ -15648,6 +15792,14 @@
 "tier": 2
 },
 {
+"a": "phil-schneider",
+"b": "dulce-base",
+"dateStart": "1995-05-08",
+"label": "Supplies every specific number in the modern claim, 8 May 1995",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "philip-corso",
 "b": "l-dc",
 "dateStart": "1954",
@@ -15784,6 +15936,14 @@
 "tier": 3
 },
 {
+"a": "project-aquarius",
+"b": "paul-bennewitz",
+"dateStart": "1983-04",
+"label": "Fabricated programme material in the Kirtland operation, corroborated as told by 1989",
+"t": "behavioral",
+"tier": 2
+},
+{
 "a": "project-azorian",
 "b": "cia",
 "dateStart": null,
@@ -15821,6 +15981,14 @@
 "dateStart": "1954",
 "label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
 "t": "denial",
+"tier": 1
+},
+{
+"a": "project-beta-bishop-2005",
+"b": "paul-bennewitz",
+"dateStart": "2005-02-08",
+"label": "The principal documented account of the affair",
+"t": "investigative",
 "tier": 1
 },
 {
@@ -16561,6 +16729,14 @@
 },
 {
 "a": "richard-doty",
+"b": "afosi",
+"dateStart": "1980",
+"label": "Documented AFOSI special agent at Kirtland, 1980",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "richard-doty",
 "b": "afosi-kirtland-file",
 "dateStart": "1980",
 "label": "Doty was the AFOSI special agent associated with the Kirtland UFO file",
@@ -16569,11 +16745,27 @@
 },
 {
 "a": "richard-doty",
+"b": "afosi-kirtland-file",
+"dateStart": "1980-09",
+"label": "Named on the complaint form as the special agent who filed it",
+"t": "research",
+"tier": 1
+},
+{
+"a": "richard-doty",
 "b": "doty-personnel-file",
 "dateStart": "2021",
 "label": "321-page New Mexico State Police personnel file released 2021",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "richard-doty",
+"b": "dulce-base",
+"dateStart": null,
+"label": "Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied",
+"t": "denial",
+"tier": 2
 },
 {
 "a": "richard-doty",
@@ -16602,8 +16794,8 @@
 {
 "a": "richard-doty",
 "b": "paul-bennewitz",
-"dateStart": "1980",
-"label": "Ran fabricated material at Bennewitz out of the same AFOSI office",
+"dateStart": null,
+"label": "Two-sided: the reported admission, and his own recorded denial of harm",
 "t": "behavioral",
 "tier": 2
 },
@@ -17486,6 +17678,22 @@
 "label": "SCU board member and co-author of the 2023 characteristics study",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "saucers-spooks-and-kooks-2021",
+"b": "dulce-base",
+"dateStart": "2021-02-03",
+"label": "The publication that obtained and printed the confession",
+"t": "investigative",
+"tier": 2
+},
+{
+"a": "saucers-spooks-and-kooks-2021",
+"b": "tal-levesque",
+"dateStart": "2015-11",
+"label": "Obtained Levesque's confession across a multi-year correspondence",
+"t": "investigative",
+"tier": 2
 },
 {
 "a": "schulgen-memo",
@@ -18496,6 +18704,22 @@
 "tier": 2
 },
 {
+"a": "tal-levesque",
+"b": "dulce-base",
+"dateStart": "2015-11",
+"label": "Says he wrote the two original Dulce Base articles and manufactured the corroboration",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "tal-levesque",
+"b": "thomas-castello",
+"dateStart": "2015-11",
+"label": "Confessed authorship: 'TEC ... is a creation. A MYTH'",
+"t": "denial",
+"tier": 2
+},
+{
 "a": "talbert-gravity-series-1955",
 "b": "general-dynamics",
 "dateStart": null,
@@ -18758,6 +18982,14 @@
 "label": "Scrutiny of To The Stars Academy's media apparatus and financing",
 "t": "investigative",
 "tier": 1
+},
+{
+"a": "thomas-castello",
+"b": "dulce-base",
+"dateStart": null,
+"label": "The claimed insider, whose author confessed the invention",
+"t": "witness-chain",
+"tier": 2
 },
 {
 "a": "thomas-crosson",
@@ -20874,8 +21106,8 @@
 {
 "a": "william-l-moore",
 "b": "paul-bennewitz",
-"dateStart": "1980",
-"label": "Moore admitted in 1989 to feeding Bennewitz false information",
+"dateStart": "1989-07-01",
+"label": "The 1 July 1989 MUFON admission, which outranks anything Doty has said",
 "t": "behavioral",
 "tier": 2
 },

@@ -5,6 +5,16 @@
 "band": null,
 "claims": [
 {
+"source": "Milton William Cooper, 'The Secret Government', 23 May 1989 updated 21 November 1990, https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , text extracted and read 2026-09-19",
+"text": "INDEPENDENT 1989 CORROBORATION OF THE HOWE EPISODE FROM A THIRD PARTY. Milton William Cooper's paper dated 23 May 1989 records: 'she confided to me that Sgt. Richard Doty of the Counterintelligence Division of the Air Force Office of Special Investigations had taken her into the Intelligence office at Kirtland Air Force Base in New Mexico and showed her the exact same documents that I had seen.' This corroborates that Howe was telling the story by 1989 and corroborates nothing about the documents' contents or authenticity.",
+"tier": 2
+},
+{
+"source": "Inference from the absence of any opened copy, recorded 2026-09-19",
+"text": "STATED INFERENCE FOR THE BUILD SESSION. No copy of any document given to Bennewitz, and no copy of any Aquarius paper, was opened by this session. The board should not create a separate aquarius-document node: this node already exists, and there is no document to anchor a second one to. Reasoning: duplicate nodes are this board's known failure mode and the temptation here is specific and predictable.",
+"tier": 3
+},
+{
 "source": "National Archives, Project BLUE BOOK / MJ-12 reference report",
 "text": "The National Archives searched NSC Policy Paper and Meeting Minute indexes under the subjects 'MJ-12, majestic, unidentified flying objects, UFO, flying saucers, extraterrestrial biological entities, and Aquarius' and reported all searches negative except for the July 1954 Cutler-Twining memorandum.",
 "tier": 1
@@ -69,15 +79,37 @@
 ],
 "tier": "B",
 "type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1983-04",
+"direction": "out",
+"edgeLabel": "Fabricated programme material in the Kirtland operation, corroborated as told by 1989",
+"id": "paul-bennewitz",
+"l0": false,
+"label": "Paul Frederick Bennewitz",
+"note": "Cooper's 1989 paper independently records Howe telling him that Doty showed her documents at Kirtland. That corroborates the telling by 1989 and nothing about the documents. No copy of any document given to Bennewitz was opened by this session, and no aquarius-document node should be created.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Milton William Cooper, 'The Secret Government', dated on its own first page 23 May 1989, updated 21 November 1990, 49pp, text extracted and searched in full",
+"url": "https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
 }
 ],
 "coords": null,
 "dateEnd": "1989",
 "dateStart": "1983",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "desc": "AQUARIUS is the name attached to a typed paper that AFOSI Special Agent Richard Doty showed the documentary producer Linda Moulton Howe at Kirtland AFB in April 1983, which she was permitted to read and take notes on but not to copy. The paper described a US government programme covering retrieved craft and biological entities, and Howe was told film footage would be released to her for an HBO documentary; it never was, and the project collapsed. A version of the AQUARIUS text later circulated as a teletype and became entangled with the MJ-12 corpus. No copy from any government archive has ever surfaced. The National Archives has stated that it searched the National Security Council's Policy Paper and Meeting Minute indexes under, among other subjects, 'Aquarius' - and found nothing. AQUARIUS should therefore be catalogued as what the evidence supports: not a documented programme, but a documented instrument. A serving US counterintelligence agent used a paper bearing that name to manage an American journalist, and that use is the fact of record. The name's function was to make a promise of access that was never kept, which is the same function the Bennewitz material served.",
 "domains": [
+"dulce-2026-09-19",
 "history-1970s-2000s"
 ],
 "dossier": null,
@@ -96,6 +128,11 @@
 "short": "Project AQUARIUS (alleged)",
 "sources": [
 {
+"date": "2026-09-19",
+"name": "Milton William Cooper, 'The Secret Government', dated on its own first page 23 May 1989, updated 21 November 1990, 49pp, text extracted and searched in full",
+"url": "https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf"
+},
+{
 "date": "2016-08-15",
 "name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
 "url": "https://www.archives.gov/research/military/air-force/ufos"
@@ -113,7 +150,7 @@
 ],
 "sub": "Purported USG UFO program named in AFOSI-sourced material, 1983",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 786 of 1111, score 21). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 666 of 1125, score 25). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
 "date": "1983-04-09",

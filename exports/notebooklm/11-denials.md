@@ -1,6 +1,6 @@
 # The denials
 
-This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 215 distinct denials here, from 132 deniers, grouped by who did the denying.
+This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 219 distinct denials here, from 135 deniers, grouped by who did the denying.
 
 ## 'Manhattan Project 2.0' (alleged secrecy architecture)
 
@@ -672,11 +672,23 @@ The Air Force's position has been fixed since 17 December 1969 and restated verb
 - **Denies: The public statistics are the residue of a filter, not the corpus** This is directed at JANAP 146 (CIRVIS/MERINT reporting), recorded as a association denial at Tier 3 stated inference. If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained. Sources: Bolender memorandum, 20 October 1969, https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf, dated 1969-10-20; USAF Fact Sheet: Project Blue Book, https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/, dated 2026-08-12.
 - **Denies: Blue Book declined to field-investigate an instrumented nuclear-site case** This is directed at Minot AFB B-52 incident, 24 October 1968, recorded as a directed denial at Tier 1 documented. The RADCAT directory records that Project Blue Book personnel did not send field investigators and the incident was written off despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols. Sources: NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968, https://www.nicap.org/681024minot_dir.htm, dated 2010-11-24.
 
+## Project Gasbuggy, 10 December 1967
+
+Project Gasbuggy, 10 December 1967 is recorded as the denying party in 1 denial on this board.
+
+- **Denies: ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier** This is directed at Dulce Base (alleged facility, Archuleta Mesa, New Mexico), recorded as a association denial at Tier 1 documented. The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour. Sources: US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf, dated 2026-09-19.
+
 ## Project MOGUL
 
 Project MOGUL is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Mogul is the Air Force's 1994 identification of the debris** This is directed at Roswell Incident, recorded as a directed denial at Tier 2 named person on the record. The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story. Sources: Wikipedia - Roswell incident, https://en.wikipedia.org/wiki/Roswell_incident, dated 2026-08-12.
+
+## Richard C. Doty
+
+Richard C. Doty is recorded as the denying party in 1 denial on this board.
+
+- **Denies: Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied** This is directed at Dulce Base (alleged facility, Archuleta Mesa, New Mexico), recorded as a directed denial at Tier 2 named person on the record. A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such. Sources: Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M, dated 2026-09-19.
 
 ## Richard M. Bissell Jr.
 
@@ -769,6 +781,13 @@ TR-3B 'Astra', claimed black triangular aircraft is recorded as the denying part
 TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955 is recorded as the denying party in 1 denial on this board.
 
 - **Denies: A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding** This is directed at Official Denial, recorded as a denial denial at Tier 1 documented. The Summary states that the project 'should in no way be associated with any science fiction or "Flying Saucer" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold. Sources: TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf, dated 1955-02-15.
+
+## Tal Levesque (Jason Bishop III)
+
+Tal Levesque (Jason Bishop III) is recorded as the denying party in 2 denials on this board.
+
+- **Denies: Says he wrote the two original Dulce Base articles and manufactured the corroboration** This is directed at Dulce Base (alleged facility, Archuleta Mesa, New Mexico), recorded as a directed denial at Tier 2 named person on the record. In the same message he describes composing the articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. This is the described manufacture of apparent independent corroboration. Sources: Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/, dated 2024-04-02.
+- **Denies: Confessed authorship: 'TEC ... is a creation. A MYTH'** This is directed at Thomas Edwin Castello (fabricated), recorded as a directed denial at Tier 2 named person on the record. The only confession of authorship in the cluster, made by email to Adam Gorightly in November 2015 after a long correspondence in which Levesque had maintained the opposite. Read as reproduced on Hayakawa's site quoting Gorightly's book, so Tier 2. Sources: Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/, dated 2024-04-02; Norio Hayakawa, 'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths', https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/, dated 2021-04-23.
 
 ## Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993
 

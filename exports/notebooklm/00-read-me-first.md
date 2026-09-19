@@ -4,9 +4,9 @@ This is a research board about an alleged legacy programme to recover and revers
 
 ## What the board holds
 
-The board carries 1111 nodes: 331 people and 780 entities, which are institutions, programmes, documents, events, locations, domains and pieces of legislation. Those nodes are joined by 2632 hand written links and carry 5755 tiered claims between them. 1026 dated events sit on the timeline, 149 nodes are placed on the programme map, 5 patents are tracked in full prosecution detail, 8 authored threads walk a reader through the strongest sequences, and 17 Freedom of Information Act requests are drafted and waiting to be filed.
+The board carries 1125 nodes: 338 people and 787 entities, which are institutions, programmes, documents, events, locations, domains and pieces of legislation. Those nodes are joined by 2661 hand written links and carry 5839 tiered claims between them. 1050 dated events sit on the timeline, 149 nodes are placed on the programme map, 5 patents are tracked in full prosecution detail, 8 authored threads walk a reader through the strongest sequences, and 17 Freedom of Information Act requests are drafted and waiting to be filed.
 
-Of the claims, 3620 are Tier 1, 1574 are Tier 2 and 561 are Tier 3. That split is the point of the board. It is built so that nobody can read it without knowing which parts rest on a primary record and which parts rest on testimony or on inference.
+Of the claims, 3648 are Tier 1, 1618 are Tier 2 and 573 are Tier 3. That split is the point of the board. It is built so that nobody can read it without knowing which parts rest on a primary record and which parts rest on testimony or on inference.
 
 ## The claim tiers, in plain words
 
@@ -77,7 +77,7 @@ The board offers six authored entry paths, each a different question to walk in 
 - **The custody chain**: Who is said to have held material, and who says so. Every link here is hand-written and individually sourced. 56 of its 204 nodes are on the programme map.
 - **The foreign counter-examples**: States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument. 11 of its 11 nodes are on the programme map.
 - **The legal mechanism**: The statutes and directives that let a programme exist without being reportable, and the twelve seats that get told. 10 of its 10 nodes are on the programme map.
-- **Who denied what**: A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers. 46 of its 153 nodes are on the programme map.
+- **Who denied what**: A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers. 46 of its 156 nodes are on the programme map.
 
 ## Names in full
 
@@ -132,4 +132,4 @@ If you are listening rather than reading: file 15 is the honest one. It is where
 
 Two mechanical notes about the text. Em dashes in the stored data have been rendered as commas, or as the word to when they sat between two numbers, and runs of spaces have been collapsed. No wording has been changed, added or removed.
 
-Generated from board build 2026-09-19 (board source f1120bd5a0fa).
+Generated from board build 2026-09-19 (board source a682f271cc4b).

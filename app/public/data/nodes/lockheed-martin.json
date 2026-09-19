@@ -550,7 +550,7 @@
 "url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "custody"
 },
 {
@@ -1117,7 +1117,7 @@
 "cls": "location",
 "id": "l-la",
 "label": "Los Angeles and Burbank, California",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "location",
@@ -1204,7 +1204,7 @@
 ],
 "sub": "Prime defense contractor; largest single recipient of DoD prime contract obligations",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 26 of 1111, score 100). 31 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 26 of 1125, score 100). 31 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "2009-01-01",

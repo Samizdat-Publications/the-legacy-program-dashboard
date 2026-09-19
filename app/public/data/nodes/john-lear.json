@@ -8,6 +8,11 @@
 "chronology": [],
 "claims": [
 {
+"source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
+"text": "Lear heard of Dulce from a woman named as 'Ann West' and developed his Dulce hypothesis in 1988, in the dated chronology of the cluster's originators. The same name appears in Tal Levesque's November 2015 confession as the raw material from which he composed the two original Dulce Base articles.",
+"tier": 2
+},
+{
 "source": "The Museum of Flight Archives, authority record for John Lear, https://archives.museumofflight.org/agents/people/4962 , opened 2026-09-18",
 "text": "The Museum of Flight Archives authority record states: 'John Olsen Lear was born December 3, 1942' and 'John Lear died on March 29, 2022.' His materials sit inside the William P. and Moya Olsen Lear Family Collection, spanning 1938 to 2001. The archive's own summary line for him is 'UFO conspiracy theorist, pilot, and a one-time candidate for Nevada State Senate.'",
 "tier": 1
@@ -29,7 +34,7 @@
 }
 ],
 "cls": "person",
-"cluster": "witness",
+"cluster": "other",
 "conflicts": [],
 "connections": [
 {
@@ -75,6 +80,27 @@
 "type": "behavioral"
 },
 {
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1988",
+"dateStart": "1988",
+"direction": "out",
+"edgeLabel": "Developed his Dulce hypothesis in 1988, from 'Ann West'",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "Hayakawa's chronology dates Lear's hypothesis to 1988 and names his source as Ann West, the same name Levesque gives as the raw material of the original articles. Two entry points into the literature appear to run back through one person.",
+"sources": [
+{
+"date": "2016-08-29",
+"name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
 "claimTier": 3,
 "cls": "location",
 "dateEnd": null,
@@ -99,9 +125,10 @@
 "date": "2022-03-29",
 "dateEnd": null,
 "dateStart": "2022-03-29",
-"deg": 3,
+"deg": 4,
 "denials": [],
 "domains": [
+"dulce-2026-09-19",
 "lazar-s4-2026-09-18"
 ],
 "dossier": null,
@@ -125,6 +152,11 @@
 "short": "John Olsen Lear",
 "sources": [
 {
+"date": "2016-08-29",
+"name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+},
+{
 "date": "2026-09-18",
 "name": "The Museum of Flight Archives, authority record for John Lear, within the William P. and Moya Olsen Lear Family Collection",
 "url": "https://archives.museumofflight.org/agents/people/4962"
@@ -140,10 +172,10 @@
 "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
 }
 ],
-"status": "dead",
+"status": "active",
 "sub": "Son of the Learjet founder and a documented pilot; from a dated statement of 29 December 1987 one of the field's most prolific claimants; present at two of the three 1989 desert viewings with Lazar",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 896 of 1111, score 17). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 811 of 1125, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "date": "1987-12-29",
@@ -152,6 +184,15 @@
 "precision": "day",
 "strand": "witness",
 "text": "A statement by John Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation and preserved in the BSRA/BSRF holdings at the Archives for the Unexplained, circulated on the ParaNet bulletin board in early 1988. It precedes Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. Only the archive item record was opened; the statement's text was not rendered and no content from it is asserted.",
+"tier": "C"
+},
+{
+"date": "1988",
+"id": "tl-1988-lear-dulce",
+"label": "Lear develops his Dulce hypothesis, sourced to 'Ann West'",
+"precision": "year",
+"strand": "witness",
+"text": "Hayakawa's chronology dates Lear's Dulce hypothesis to 1988 and names his source as a woman called Ann West, the same name Levesque later gives as the raw material of the two original Dulce Base articles.",
 "tier": "C"
 },
 {

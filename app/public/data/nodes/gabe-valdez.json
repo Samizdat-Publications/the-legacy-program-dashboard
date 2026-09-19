@@ -1,0 +1,106 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html , opened 2026-09-19",
+"text": "Gabe Valdez was a New Mexico State Police officer stationed in Dulce in 1976 when he began investigating the deaths of cattle and other animals found with soft tissue removed, and he led the criminal investigation into the unsolved New Mexico livestock mutilations of that decade.",
+"tier": 2
+},
+{
+"source": "Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html , opened 2026-09-19",
+"text": "The thesis of the 2013 book written from his case files by his son Greg Valdez, as reported by the newspaper, connects the animal deaths to testing for environmental contamination caused by nuclear work on Jicarilla Apache Nation land in the 1960s, and states that the reports began after Project Gasbuggy and ended around 1980 following an FBI report attributing the incidents to natural predators. This is the book's thesis, reported, and is not endorsed here.",
+"tier": 2
+},
+{
+"source": "Inference from Tom Sharpe, The Santa Fe New Mexican, 23 September 2013, opened 2026-09-19",
+"text": "STATED INFERENCE. The newspaper report carries no statement from Valdez that an underground facility exists at Dulce, although he is routinely cited in the Dulce literature as a supporting official voice. Reasoning: this is a statement about what the opened source does and does not contain, and a later pass should either find a dated statement from Valdez himself or the board should stop treating him as a source for the facility.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "oversight",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1976",
+"direction": "out",
+"edgeLabel": "New Mexico State Police officer stationed at Dulce from 1976",
+"id": "l-dulce",
+"l0": false,
+"label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
+"note": "The only official investigator in this story. The opened newspaper report carries no statement from Valdez that a base exists, although he is routinely cited in the Dulce literature as a supporting official voice.",
+"sources": [
+{
+"date": "2013-09-23",
+"name": "Tom Sharpe, The Santa Fe New Mexican, 'Book claims government behind cattle mutilations'",
+"url": "https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 1,
+"denials": [],
+"domains": [
+"dulce-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gabe-valdez",
+"instId": null,
+"l0": false,
+"label": "Gabriel L. \"Gabe\" Valdez",
+"loc": "Dulce, New Mexico",
+"locId": "l-dulce",
+"members": null,
+"narrative": "Gabe Valdez is the documented official presence in this story and the only person in the cluster who investigated anything in an official capacity. He was a New Mexico State Police officer stationed at Dulce in 1976 when he began investigating the deaths of cattle and other animals found with soft tissue removed, and he became the central figure in the New Mexico livestock-mutilation investigations of that decade. What he is used for in the Dulce literature and what the opened record supports are two different things: the Santa Fe New Mexican report of 23 September 2013, on a book written by his son Greg Valdez from his case files, carries no statement from Valdez that any base exists. The thesis reported there runs the other way, connecting the animal deaths to testing for environmental contamination arising from nuclear work on Jicarilla Apache Nation land in the 1960s, and noting that the reports began after Project Gasbuggy and ended around 1980 after an FBI report attributed them to predators. That thesis is his son's book's and is recorded as such rather than endorsed. The node exists because a real state police officer working a real caseload at Dulce in the 1970s is the closest thing this cluster has to an official record of activity at the place, and because the alternative is letting the literature keep citing him for a conclusion the opened record does not carry.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Gabriel L. \"Gabe\" Valdez",
+"sources": [
+{
+"date": "2013-09-23",
+"name": "Tom Sharpe, The Santa Fe New Mexican, 'Book claims government behind cattle mutilations'",
+"url": "https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html"
+}
+],
+"status": "deceased",
+"sub": "New Mexico State Police officer stationed at Dulce from 1976; the only official investigator of anything in this story",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1045 of 1125, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"timeline": [
+{
+"date": "1976",
+"id": "tl-1976-valdez-dulce",
+"label": "Gabe Valdez stationed at Dulce, begins the livestock investigations",
+"precision": "year",
+"strand": "witness",
+"text": "A New Mexico State Police officer stationed in Dulce in 1976 began investigating cattle and other animals found dead with soft tissue removed, and became the central official figure in the region's caseload. The only official investigator anywhere in this story.",
+"tier": "C"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"His dates of birth and death. Neither was taken from a record opened by this session and neither is carried on the node.",
+"The contents of his case files. Only a newspaper report about a book drawn from them was opened."
+]
+}

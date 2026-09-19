@@ -46,7 +46,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "legislative"
 },
 {
@@ -295,6 +295,6 @@
 ],
 "sub": "Legal domain - the provisions that actually became binding law (alias of d-legislative for enacted text)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 626 of 1111, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 628 of 1125, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": []
 }

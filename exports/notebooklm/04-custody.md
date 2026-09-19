@@ -55,7 +55,7 @@ Roles the board assigns it: concealment, custody, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 16 of 1111, score 113). 31 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 16 of 1125, score 113). 31 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -143,7 +143,7 @@ Roles the board assigns it: concealment, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 35 of 1111, score 91). 28 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.
+Re-graded A on a global pass (rank 35 of 1125, score 91). 28 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -174,10 +174,10 @@ Re-graded A on a global pass (rank 35 of 1111, score 91). 28 connections, 0 of t
 
 - The MITRE Corporation runs out to **Rep. Burlison records demand to MITRE, 22 May 2026** (document, board tier A), a denial link at Tier 1 documented. The link reads: MITRE routes the answer back through its sponsoring agencies. A MITRE spokesperson said that if any relevant material is found, 'we will coordinate with the federal agencies responsible for the work' - restating the FAR structure under which disclosure runs to the sponsor, not to Congress. Sources: DefenseScoop, https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/, dated 2026-05-27.
 - The MITRE Corporation comes in from **Rep. Burlison records demand to MITRE, 22 May 2026** (document, board tier A), a investigative link at Tier 1 documented. The link reads: Demands production of all MITRE UAP and reverse-engineering records back to 1930. MITRE confirmed it was reviewing its archives and said it would 'coordinate with the federal agencies responsible for the work to determine how to best provide any assets.' Sources: DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930, https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/, dated 2026-05-27; MeriTalk, https://www.meritalk.com/articles/rep-burlison-presses-mitre-to-produce-uap-records/, dated 2026-05-29.
-- The MITRE Corporation runs out to **MIT Lincoln Laboratory** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: MITRE was spun out of Lincoln Laboratory Division 6 in 1958. 485 Lincoln Laboratory employees moved to the new corporation on incorporation, 21 July 1958, to continue SAGE systems engineering under Air Force sponsorship. Sources: MITRE SAGE timeline, https://sage.mitre.org/timeline/, dated 2026-08-12; MIT Lincoln Laboratory SAGE history, https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-air-defense-system, dated 2026-08-12.
 - The MITRE Corporation runs out to **Federal Contracting Mechanics** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: the largest operator of the one acquisition form built to be non-competitive by design. MITRE operates multiple FFRDCs. FAR 35.017 permits an agency to meet special long-term research needs through a sponsoring agreement with a single operator outside full and open competition, and obliges the FFRDC to disclose its activities to its sponsor and to no one else. That is a contracting mechanism, and MITRE is its largest single instance. Sources: NSF NCSES, Master Government List of Federally Funded R&D Centers, https://ncses.nsf.gov/resource/master-gov-lists-ffrdc, dated 2026-08-12; MITRE, R&D Centers, https://www.mitre.org/our-impact/rd-centers, dated 2026-08-12; CRS Report R44629, 'Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress', https://www.everycrsreport.com/reports/R44629.html, dated 2026-05-15.
 - The MITRE Corporation runs out to **The FFRDC Seam** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: MITRE is the largest single operator of the FFRDC form. MITRE operates six of the 41 FFRDCs recorded by NSF, spanning defence/intelligence, aviation, tax, health, homeland security and cybersecurity sponsors - the widest sponsor spread of any operator. Sources: NSF NCSES Master Government List of FFRDCs, https://ncses.nsf.gov/resource/master-gov-lists-ffrdc, dated 2026-08-12.
 - The MITRE Corporation runs out to **Northrop Grumman Corporation** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Named among the primes whose MITRE-related work Congress demanded an accounting of. Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos. Sources: DefenseScoop, https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/, dated 2026-05-27.
+- The MITRE Corporation runs out to **MIT Lincoln Laboratory** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: MITRE was spun out of Lincoln Laboratory Division 6 in 1958. 485 Lincoln Laboratory employees moved to the new corporation on incorporation, 21 July 1958, to continue SAGE systems engineering under Air Force sponsorship. Sources: MITRE SAGE timeline, https://sage.mitre.org/timeline/, dated 2026-08-12; MIT Lincoln Laboratory SAGE history, https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-air-defense-system, dated 2026-08-12.
 - The MITRE Corporation runs out to **JASON** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: MITRE has administered JASON since 2002. MITRE provides management and logistics for the government's most sensitive standing scientific advisory panel; the contract was saved by an NNSA sole-source award in April 2019 after DoD declined renewal. Sources: Defense News, 25 April 2019, https://www.defensenews.com/smr/nuclear-arsenal/2019/04/25/nuclear-weapons-agency-moves-to-save-jason-advisory-group/, dated 2019-04-25; Bloomberg Government, https://about.bgov.com/insights/news/pentagons-advisory-group-jason-survives-another-competition/, dated 2020-12-01.
 - The MITRE Corporation comes in from **Donald M. Kerr** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Chairman of MITRE's Board of Trustees from November 2018. Former director of Los Alamos National Laboratory, former director of the National Reconnaissance Office, former PDDNI - elected chairman at the same meeting that made Mike Rogers vice chairman. Sources: WashingtonExec, https://washingtonexec.com/2018/11/mitre-board-of-trustees-members-elect-former-rep-mike-rogers-vice-chairman/, dated 2018-11-06.
 - The MITRE Corporation runs out to **National Security Engineering Center (NSEC)** (program, board tier B), a institutional link at Tier 1 documented. The link reads: MITRE operates NSEC for the Under Secretary of Defense for Research and Engineering. NSEC is MITRE's only DoD/IC-sponsored FFRDC, funded at roughly $1.43 billion in FY2024 and executed through Army task orders under IDIQ W56KGU18D0004. Sources: MITRE NSEC fact sheet, https://www.mitre.org/news-insights/fact-sheet/national-security-engineering-center, dated 2022-03-03; USAspending.gov award records, https://www.usaspending.gov/award/CONT_AWD_W56KGU24F0010_9700_W56KGU18D0004_9700, dated 2026-08-12.
@@ -238,7 +238,7 @@ Roles the board assigns it: research, concealment, disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 98 of 1111, score 63). 18 connections, 4 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 99 of 1125, score 63). 18 connections, 4 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -331,7 +331,7 @@ Roles the board assigns it: research, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 36 of 1111, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 36 of 1125, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -421,7 +421,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 104 of 1111, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 105 of 1125, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -496,7 +496,7 @@ Roles the board assigns it: custody, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 128 of 1111, score 55). 9 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 129 of 1125, score 55). 9 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -556,7 +556,7 @@ Roles the board assigns it: concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 185 of 1111, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded B on a global pass (rank 190 of 1125, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -614,7 +614,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 141 of 1111, score 53). 8 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 143 of 1125, score 53). 8 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -674,7 +674,7 @@ Roles the board assigns it: custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 158 of 1111, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 160 of 1125, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -748,7 +748,7 @@ Roles the board assigns it: custody, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 144 of 1111, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 146 of 1125, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -818,7 +818,7 @@ Roles the board assigns it: research, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 114 of 1111, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 114 of 1125, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -866,7 +866,7 @@ Roles the board assigns it: custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 352 of 1111, score 36). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
+Re-graded B on a global pass (rank 355 of 1125, score 36). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -919,7 +919,7 @@ Roles the board assigns it: research, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 238 of 1111, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 245 of 1125, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -989,7 +989,7 @@ Roles the board assigns it: concealment, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 50 of 1111, score 78). 20 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.
+Re-graded A on a global pass (rank 50 of 1125, score 78). 20 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -1077,7 +1077,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 75 of 1111, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 75 of 1125, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -1138,7 +1138,7 @@ Roles the board assigns it: disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 198 of 1111, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 202 of 1125, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1159,7 +1159,7 @@ Re-graded B on a global pass (rank 198 of 1111, score 45). 9 connections, 4 of t
 - The Black Vault comes in from **341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)** (document, board tier B), a custody link at Tier 1 documented. The link reads: Host of the released scan. The Black Vault is the host of the released scan. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
 - The Black Vault comes in from **Japan Air Lines flight 1628, Alaska, 17 November 1986** (event, board tier B), a research link at Tier 1 documented. The link reads: Federal file recovered after seventeen years and two destruction notices. The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667. Sources: The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/, dated 2026-09-19; The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/, dated 2026-09-19.
 - The Black Vault comes in from **Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976** (event, board tier B), a custody link at Tier 1 documented. The link reads: Host of the released report and its covering letter. The Black Vault hosts the released document and its covering letter. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
-- The Black Vault runs out to **Los Angeles and Burbank, California** (location, board tier C), a investigative link at Tier 1 documented. The link reads: The Black Vault runs the private FOIA archive from Los Angeles. John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record. Sources: The Black Vault - Army/TTSA CRADA and FOIA records, https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/, dated 2019-10-18; CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF), https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, dated 2026-08-25.
+- The Black Vault runs out to **Los Angeles and Burbank, California** (location, board tier B), a investigative link at Tier 1 documented. The link reads: The Black Vault runs the private FOIA archive from Los Angeles. John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record. Sources: The Black Vault - Army/TTSA CRADA and FOIA records, https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/, dated 2019-10-18; CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF), https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, dated 2026-08-25.
 - The Black Vault comes in from **Operação Prato (Operation Saucer)** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: The American reporter's Prato dossier sits in Greenewald's archive. A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - The Black Vault comes in from **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Hollanda's account to an American reporter is preserved in the Pratt file. Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain. Sources: Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 
@@ -1197,7 +1197,7 @@ Roles the board assigns it: disclosure, research, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 397 of 1111, score 34). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 400 of 1125, score 34). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1273,7 +1273,7 @@ Roles the board assigns it: concealment, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 160 of 1111, score 50). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 163 of 1125, score 50). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1357,7 +1357,7 @@ Roles the board assigns it: research, disclosure, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 130 of 1111, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 131 of 1125, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1419,7 +1419,7 @@ Roles the board assigns it: disclosure, custody, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 909 of 1111, score 17). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 915 of 1125, score 17). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -1473,7 +1473,7 @@ Roles the board assigns it: concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 271 of 1111, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 277 of 1125, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -1543,7 +1543,7 @@ Roles the board assigns it: concealment, disclosure, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 94 of 1111, score 64). 21 connections, 5 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 94 of 1125, score 64). 21 connections, 5 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1621,7 +1621,7 @@ Roles the board assigns it: disclosure, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 196 of 1111, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 200 of 1125, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1694,7 +1694,7 @@ Roles the board assigns it: custody, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 68 of 1111, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded A on a global pass (rank 68 of 1125, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1787,7 +1787,7 @@ Roles the board assigns it: concealment, custody, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 476 of 1111, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 478 of 1125, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1885,7 +1885,7 @@ Roles the board assigns it: concealment, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 195 of 1111, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 199 of 1125, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1945,7 +1945,7 @@ Roles the board assigns it: disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 236 of 1111, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 243 of 1125, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -2014,7 +2014,7 @@ Roles the board assigns it: concealment, oversight, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 3 of 1111, score 164). 64 connections, 6 of them custody/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 3 of 1125, score 164). 64 connections, 6 of them custody/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -2117,7 +2117,7 @@ Roles the board assigns it: disclosure, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 4 of 1111, score 161). 47 connections, 11 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 4 of 1125, score 161). 47 connections, 11 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -2220,7 +2220,7 @@ Roles the board assigns it: oversight, disclosure, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 9 of 1111, score 134). 26 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 9 of 1125, score 134). 26 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -2262,13 +2262,13 @@ A further 7 claims sit on this node on the board and are not reproduced here.
 - UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) runs out to **Unidentified Anomalous Phenomena Records Review Board** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: Secs. 9007-9009 create the Board as an independent agency. The Act's enforcement rests entirely on the Review Board: it orders disclosure absent clear and convincing evidence and examines recovered material under Sec. 9010(b). Sources: S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
 - UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) comes in from **FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: Statutory NDA-voiding precedent behind the Act's whistleblower posture. Sec. 1673(b)(1)(A) had already established that an authorized disclosure 'shall not be subject to a nondisclosure agreement'; the UAPDA extends that logic to records and material. Sources: P.L. 117-263, GPO, https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm, dated 2022-12-23; S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
 - UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) comes in from **Section 9010(a), Exercise of Eminent Domain** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: section of. Section 9010(a) of Division G is the eminent domain command; it is the only provision in the Act that reaches physical material rather than records. Sources: S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
+- UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) runs out to **Legislative Process (proposed and pending)** (domain, board tier B), a legislative link at Tier 1 documented. The link reads: passed one chamber, stripped in conference - the domain's instructive defeat. The only text ever passed by a chamber of Congress legislating on the assumption that recovered non-human technology exists and is held in part by private entities. It rode to the Senate floor as an amendment, cleared the Senate as a division of S. 2226, and did not survive conference into P.L. 118-31 in that form. The mechanism of the defeat is the lesson, which is why it belongs to process rather than to statute. Sources: S. 2226, 118th Congress, Engrossed in Senate - Division G, UAP Disclosure Act of 2023 (GPO), https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27; Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13; Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) comes in from **S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)** (document, board tier B), a legislative link at Tier 1 documented. The link reads: The amendment became Division G of the engrossed bill. The text filed as S.Amdt. 797 travelled into S. 2226 as Division G, Secs. 9001-9015, which the Senate passed on 27 July 2023. Sources: S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27; Congressional Record, 13 July 2023, S.Amdt. 797, https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
 - UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) comes in from **Senate Armed Services Committee** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Never reported the Act; it existed only as a floor amendment. No standalone UAP disclosure bill exists in the Senate in the 118th or 119th Congress, and no committee has ever marked the text up. Sources: S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27; S. 4784 (Reported in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm, dated 2026-06-15.
 - UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) comes in from **Kirsten E. Gillibrand** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: cosponsor. Named in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
 - UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) comes in from **Marco Rubio** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: cosponsor. Named in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
 - UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) comes in from **Charles E. Schumer** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: sponsor of S.Amdt. 797. congress.gov lists Sen. Schumer as sponsor of S.Amdt.797, submitted 07/13/2023; the Congressional Record entry names him as the submitting senator. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13; congress.gov, S.Amdt.797 to S.2226 overview (Wayback capture 2024-12-18), https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2024-12-18.
 - UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) comes in from **Mike Rounds** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: lead cosponsor. First-listed cosponsor in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
-- UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) comes in from **UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)** (legislation, board tier B), a temporal link at Tier 1 documented. The link reads: Verbatim refiling of the 2023 text. The 2024 amendment reproduces the findings, definitions, Review Board, Controlled Disclosure Campaign Plan and eminent domain command without softening. Sources: Congressional Record, 11 July 2024, SA 2610, https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm, dated 2024-07-11; S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
 
 It carries 26 connections in total on the board.
 
@@ -2319,7 +2319,7 @@ Roles the board assigns it: disclosure, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 37 of 1111, score 90). 13 connections, 2 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 37 of 1125, score 90). 13 connections, 2 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2432,7 +2432,7 @@ Roles the board assigns it: custody, disclosure, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 80 of 1111, score 69). 9 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 80 of 1125, score 69). 9 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2525,7 +2525,7 @@ Roles the board assigns it: disclosure, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 253 of 1111, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 259 of 1125, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -2551,12 +2551,12 @@ Re-graded B on a global pass (rank 253 of 1111, score 41). 9 connections, 0 of t
 ### Its strongest connections
 
 - S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment) runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: The amendment became Division G of the engrossed bill. The text filed as S.Amdt. 797 travelled into S. 2226 as Division G, Secs. 9001-9015, which the Senate passed on 27 July 2023. Sources: S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27; Congressional Record, 13 July 2023, S.Amdt. 797, https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
+- S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment) runs out to **Legislative Process (proposed and pending)** (domain, board tier B), a legislative link at Tier 1 documented. The link reads: the filing instrument - where the process starts and where its text is fixed. Submitted 13 July 2023 by Senator Schumer for himself and Senators Rounds, Rubio, Gillibrand, Young and Heinrich, ordered to lie on the table, text printed in the Congressional Record at pages S2953-S2959. The amendment, not the bill, is the object that carries the disclosure text, which is the process fact this domain exists to record. Sources: Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13; S. 2226, 118th Congress, Engrossed in Senate - Division G, UAP Disclosure Act of 2023 (GPO), https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
 - S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment) comes in from **Kirsten E. Gillibrand** (person, board tier B), a legislative link at Tier 1 documented. The link reads: Original cosponsor, 13 July 2023. Gillibrand cosponsored Schumer's amendment while her own Sec. 1683 architecture was the statutory baseline it cross-referenced. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
 - S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment) comes in from **Marco Rubio** (person, board tier B), a legislative link at Tier 1 documented. The link reads: Original cosponsor while serving as SSCI Vice Chairman. Rubio cosponsored the eminent domain text while holding one of the eight most senior intelligence-access positions in Congress. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
 - S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment) comes in from **Charles E. Schumer** (person, board tier B), a legislative link at Tier 1 documented. The link reads: Sponsor of record; filed 13 July 2023. Congress.gov lists Schumer as the sole sponsor of S.Amdt. 797, submitted 13 July 2023, with the text printed at 169 Cong. Rec. S2953. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13; Congressional Record, 13 July 2023, S.Amdt. 797, https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
 - S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment) comes in from **Mike Rounds** (person, board tier B), a legislative link at Tier 1 documented. The link reads: Original cosponsor, 13 July 2023. Rounds is listed as an original cosponsor with sponsorship date 13 July 2023. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
 - S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment) comes in from **Martin T. Heinrich** (person, board tier B), a legislative link at Tier 1 documented. The link reads: Original cosponsor, 13 July 2023. Heinrich cosponsored while sitting on SSCI and representing the state containing Kirtland, Sandia, Los Alamos and Roswell. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
-- S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment) runs out to **Legislative Process (proposed and pending)** (domain, board tier C), a legislative link at Tier 1 documented. The link reads: the filing instrument - where the process starts and where its text is fixed. Submitted 13 July 2023 by Senator Schumer for himself and Senators Rounds, Rubio, Gillibrand, Young and Heinrich, ordered to lie on the table, text printed in the Congressional Record at pages S2953-S2959. The amendment, not the bill, is the object that carries the disclosure text, which is the process fact this domain exists to record. Sources: Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13; S. 2226, 118th Congress, Engrossed in Senate - Division G, UAP Disclosure Act of 2023 (GPO), https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
 - S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment) runs out to **S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act** (legislation, board tier C), a legislative link at Tier 1 documented. The link reads: amendment to. congress.gov: 'Amends Bill: S.2226 - National Defense Authorization Act for Fiscal Year 2024'. Sources: congress.gov, S.Amdt.797 to S.2226 overview (Wayback capture 2024-12-18), https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2024-12-18.
 - S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment) comes in from **Todd Young** (person, board tier C), a legislative link at Tier 1 documented. The link reads: Original cosponsor, 13 July 2023. Young's signature gave the amendment a three-to-three partisan balance that let it travel in the bipartisan package. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
 
@@ -2613,7 +2613,7 @@ Roles the board assigns it: disclosure, oversight, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 67 of 1111, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 67 of 1125, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -2704,7 +2704,7 @@ Roles the board assigns it: custody, concealment, oversight, disclosure, researc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 424 of 1111, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 427 of 1125, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2772,7 +2772,7 @@ Roles the board assigns it: disclosure, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 516 of 1111, score 30). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 517 of 1125, score 30). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2850,7 +2850,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 958 of 1111, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 965 of 1125, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

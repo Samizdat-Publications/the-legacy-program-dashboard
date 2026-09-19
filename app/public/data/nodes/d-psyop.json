@@ -5,6 +5,11 @@
 "band": null,
 "claims": [
 {
+"source": "Inference from Alejandro Rojas, HuffPost, 13 May 2014 and Mystery Wire YouTube 9TLfM5VKX3M, both opened 2026-09-19",
+"text": "STATED INFERENCE ABOUT THE DOMAIN'S BEST-KNOWN CASE. The Bennewitz operation is carried across this board on the strength of admissions, and the principal admitting officer has since denied on the record that the operation did the harm attributed to it, while the civilian who admitted the same conduct in 1989 has not retracted. Reasoning: where a domain rests on self-description by deceivers, its strongest claims should be the ones with a documentary spine, here the 1980 complaint form, and its weakest should be the ones resting only on what a deceiver later said about himself.",
+"tier": 3
+},
+{
 "source": "Robertson Panel report, declassified text",
 "text": "The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched.",
 "tier": 1
@@ -21,7 +26,7 @@
 }
 ],
 "cls": "domain",
-"cluster": "ic",
+"cluster": "other",
 "connections": [
 {
 "claimTier": 1,
@@ -108,6 +113,32 @@
 "type": "programmatic"
 },
 {
+"claimTier": 2,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Downstream of the Kirtland operation, which is this domain's best-known case",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged.",
+"sources": [
+{
+"date": "2014-05-13",
+"name": "Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies'",
+"url": "https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650"
+},
+{
+"date": "2016-08-29",
+"name": "Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors'",
+"url": "https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
 "claimTier": 1,
 "cls": "person",
 "dateEnd": "1952",
@@ -153,10 +184,11 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1953-01-17",
-"deg": 6,
+"deg": 7,
 "denials": [],
 "desc": "The use of the UFO subject as a vehicle for deception against a domestic audience is documented at the level of an official recommendation and at the level of a named case. The recommendation is the Robertson Panel's January 1953 proposal for a debunking campaign using mass media, psychiatrists and advertising specialists, explicitly aimed at reducing public susceptibility rather than at establishing what the objects were. The named case is Paul Bennewitz, an Albuquerque physicist living beside Kirtland AFB, who in the early 1980s was fed fabricated documents and staged material by Air Force Office of Special Investigations personnel - most prominently Richard C. Doty, whose later New Mexico State Police personnel file was released under public records law and runs to 321 pages - with the documented effect of destroying his mental health. The dual-use route is exact: a genuine sensitive programme adjacent to a witness generates a security problem, and the cheapest solution is not to silence the witness but to discredit him by feeding him something absurd and letting him repeat it. That mechanism cuts in both directions and must be applied honestly - it explains real disinformation injected into the field, and it is also the most common frame used to dismiss testimony that is not disinformation. Scoring high here means an entity ran, authored or knowingly transmitted deception material.",
 "domains": [
+"dulce-2026-09-19",
 "w2-taxonomy"
 ],
 "dossier": null,
@@ -174,6 +206,16 @@
 "members": null,
 "short": "Psychological Operations & Perception Management",
 "sources": [
+{
+"date": "2026-09-19",
+"name": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full",
+"url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
+},
+{
+"date": "2014-05-13",
+"name": "Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies'",
+"url": "https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650"
+},
 {
 "date": "1953-01-17",
 "name": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)",
@@ -197,7 +239,7 @@
 ],
 "sub": "Operational domain - deliberate manipulation of belief as a security measure",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 313 of 1111, score 38). 6 connections, 4 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 229 of 1125, score 43). 7 connections, 5 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
 "date": "1953-01-17",

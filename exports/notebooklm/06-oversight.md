@@ -55,7 +55,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 197 of 1111, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 201 of 1125, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -84,8 +84,8 @@ Re-graded B on a global pass (rank 197 of 1111, score 45). 18 connections, 1 of 
 - U.S. House Committee on Oversight and Government Reform comes in from **The misappropriation allegation: Grusch's ICIG complaint and sworn testimony** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Sworn testimony before the committee, 26 July 2023. Grusch testified with Ryan Graves and David Fravor at 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'. Attested by the committee's own hearing page. Sources: House Oversight hearing page, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26.
 - U.S. House Committee on Oversight and Government Reform comes in from **50 U.S.C. 3348, Reports Relating to Certain SAPs and Similar Programs** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: Gives House Oversight a statutory entitlement to SAP reports from every covered agency. 50 U.S.C. 3348(g)(1)(C) names the committee; 3348(g)(2)(B) excludes only DoD, NNSA and IC agencies from the reporting obligation. Sources: 50 U.S.C. 3348, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim, dated 2026-08-12.
 - U.S. House Committee on Oversight and Government Reform comes in from **United States House of Representatives** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Committee that took the 2023 and 2024 public UAP testimony. House Oversight held the 26 July 2023 hearing and the 13 November 2024 hearing, and its Task Force on the Declassification of Federal Secrets held the 9 September 2025 hearing. Sources: CHRG-118hhrg53022, House Oversight UAP hearing transcript, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- U.S. House Committee on Oversight and Government Reform runs out to **Legislative Process (proposed and pending)** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: the venue where the record is made under oath, and the only House committee with unilateral subpoena power in the chair's hands. Oversight held the 26 July 2023 hearing, the 13 November 2024 hearing and, through its declassification task force, the 9 September 2025 hearing. Sworn testimony taken in this committee is the mechanism by which allegations enter the legislative process at all, which is a different function from enacting text. Sources: House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - U.S. House Committee on Oversight and Government Reform comes in from **The HASC/HAC-D special access program read-in gate** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: The jurisdictional routing that keeps the subpoena committee uncleared. Documented by Luna on 9 September 2025; corroborated by Burlison's 2024 AARO briefing block and his 2025 non-germane amendment ruling. Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- U.S. House Committee on Oversight and Government Reform runs out to **Legislative Process (proposed and pending)** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: the venue where the record is made under oath, and the only House committee with unilateral subpoena power in the chair's hands. Oversight held the 26 July 2023 hearing, the 13 November 2024 hearing and, through its declassification task force, the 9 September 2025 hearing. Sworn testimony taken in this committee is the mechanism by which allegations enter the legislative process at all, which is a different function from enacting text. Sources: House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - U.S. House Committee on Oversight and Government Reform runs out to **Subcommittee on National Security, the Border, and Foreign Affairs** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Parent committee of the subcommittee that held the founding UAP hearing. The Subcommittee on National Security, the Border, and Foreign Affairs is a standing subcommittee of the Committee on Oversight and Accountability; the printed hearing record carries both rosters. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 - U.S. House Committee on Oversight and Government Reform runs out to **Subcommittee on Cybersecurity, Information Technology, and Government Innovation** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Parent committee of Mace's subcommittee. Mace's Cybersecurity, IT and Government Innovation subcommittee co-chaired the 13 Nov 2024 joint UAP hearing. Sources: U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 - U.S. House Committee on Oversight and Government Reform comes in from **Project On Government Oversight** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Outside watchdog seated as witness before Oversight's declassification task force. The hearing's own masthead gives the forum exactly: 'HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM'. POGO appeared through Joe Spielberger, its senior policy counsel, listed as the minority witness, and used the appearance to argue for statutory whistleblower protection rather than to make claims about the phenomenon. Sources: 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', hearing before the Task Force on the Declassification of Federal Secrets of the Committee on Oversight and Government Reform, 9 September 2025, Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; Testimony of Joe Spielberger, POGO, before the House Committee on Oversight and Government Reform, Task Force on the Declassification of Federal Secrets, September 9, 2025 -- https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf
@@ -133,7 +133,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 311 of 1111, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 315 of 1125, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -204,7 +204,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 251 of 1111, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 257 of 1125, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -277,7 +277,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 201 of 1111, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 205 of 1125, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -350,7 +350,7 @@ Roles the board assigns it: oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 592 of 1111, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.
+Re-graded C on a global pass (rank 593 of 1125, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -408,7 +408,7 @@ Roles the board assigns it: oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 422 of 1111, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 425 of 1125, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -454,7 +454,7 @@ Roles the board assigns it: concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 92 of 1111, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 92 of 1125, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -508,7 +508,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 347 of 1111, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 349 of 1125, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -563,7 +563,7 @@ Roles the board assigns it: concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 60 of 1111, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded A on a global pass (rank 60 of 1125, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -650,7 +650,7 @@ Roles the board assigns it: concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 6 of 1111, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 6 of 1125, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -688,8 +688,8 @@ A further 31 claims sit on this node on the board and are not reproduced here.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: publishing office. Volume I remains the last full narrative account the US Government has published on this subject; everything since is raw files with no assessment. Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; Department of War - PURSUE portal (war.gov/UFO), https://www.war.gov/UFO/, dated 2026-08-07.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I runs out to **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a denial link at Tier 1 documented. The link reads: official history confirms the money, closes the file. Confirms the $22M, the Reid direction, the contractor's UFO work and the ranch, then terminates the story with 'concerns about the project' and names no one. Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I runs out to **Lockheed Martin Corporation** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record. AARO states it met high-ranking officials of the companies named by interviewees and that all denied the existence of the programs and attested to the truthfulness of their statements. AARO does not name a single company, and describes no inspection of any facility or holding. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
-- AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **Sean M. Kirkpatrick** (person, board tier A), a institutional link at Tier 1 documented. The link reads: directed the production of the official history. The Volume I historical review was drafted under Kirkpatrick's directorship of AARO and released in early 2024 after his departure; he has publicly identified himself with its findings. Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; AARO Historical Record Report, Volume I, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf, dated 2024-02-01; All-domain Anomaly Resolution Office, https://www.aaro.mil/, dated 2026-08-12; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; The Debrief, 'Pentagon UAP Report Says No Evidence U.S. Has Collected Exotic Technology, Kept Programs Hidden from Congress', https://thedebrief.org/pentagon-uap-report-says-no-evidence-u-s-has-collected-exotic-technology-kept-programs-hidden-from-congress/, dated 2024-03-08.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **John Greenewald Jr.** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Hosts the working public mirror of Volume I. The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original. Sources: The Black Vault - AARO Historical Record Report Volume I (mirror), https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+- AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **Sean M. Kirkpatrick** (person, board tier A), a institutional link at Tier 1 documented. The link reads: directed the production of the official history. The Volume I historical review was drafted under Kirkpatrick's directorship of AARO and released in early 2024 after his departure; he has publicly identified himself with its findings. Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; AARO Historical Record Report, Volume I, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf, dated 2024-02-01; All-domain Anomaly Resolution Office, https://www.aaro.mil/, dated 2026-08-12; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; The Debrief, 'Pentagon UAP Report Says No Evidence U.S. Has Collected Exotic Technology, Kept Programs Hidden from Congress', https://thedebrief.org/pentagon-uap-report-says-no-evidence-u-s-has-collected-exotic-technology-kept-programs-hidden-from-congress/, dated 2024-03-08.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I runs out to **Roswell Incident** (event, board tier A), a denial link at Tier 1 documented. The link reads: AARO reaffirms MOGUL and finds no recovered extraterrestrial material. The February 2024 report concludes the Roswell materials were consistent with a then-classified Project Mogul balloon and that there is no evidence the USG recovered aliens or extraterrestrial material. Sources: AARO Historical Record Report, Volume I, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf, dated 2024-02-01.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I runs out to **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a denial link at Tier 1 documented. The link reads: March 2024: 'no evidence for the USG reverse-engineering narrative provided by interviewees'. AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263. Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: AARO: 'AATIP was never an official DoD program'. The report is where the Department's own account of AATIP sits. Volume I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the programme in 2012, then that supporters proposed KONA BLUE to DHS as a follow-on. That is the programmatic relation: the report covers the programme's lifecycle. The denial edge on this pair is separate and records the report's rejection of the reverse-engineering account. Sources: AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF, dated 2024-03-08; Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov), https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF, dated 2026-08-11.
@@ -746,7 +746,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 59 of 1111, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 59 of 1125, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -847,7 +847,7 @@ Roles the board assigns it: concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 27 of 1111, score 100). 19 connections, 5 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 27 of 1125, score 100). 19 connections, 5 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -945,7 +945,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 21 of 1111, score 107). 23 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 21 of 1125, score 107). 23 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1043,7 +1043,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 47 of 1111, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 48 of 1125, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1143,7 +1143,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 99 of 1111, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 100 of 1125, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1238,7 +1238,7 @@ Roles the board assigns it: disclosure, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 28 of 1111, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 28 of 1125, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1335,7 +1335,7 @@ Roles the board assigns it: disclosure, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 72 of 1111, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 72 of 1125, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1416,7 +1416,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 378 of 1111, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 381 of 1125, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1445,7 +1445,7 @@ Re-graded B on a global pass (rank 378 of 1111, score 35). 10 connections, 0 of 
 
 - Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA comes in from **Eric Burlison** (person, board tier A), a legislative link at Tier 1 documented. The link reads: author. The House adopted his Unidentified Anomalous Phenomena Disclosure Act amendment on 23 July 2026, creating a subpoena-empowered review board and contractor disclosure obligations. Sources: Burlison, House Adopts UAP Disclosure Framework, https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework, dated 2026-07-22; NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure, https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/, dated 2026-07-23.
 - Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA runs out to **National Archives Record Group 615 - UAP Records Collection** (institution, board tier A), a legislative link at Tier 1 documented. The link reads: would place the collection on a statutory timeline. The amendment requires agencies to identify, organise, preserve and transmit UAP records to the National Archives on a statutory timeline and creates a Senate-confirmed Records Review Board with subpoena authority. Sources: Burlison, House Adopts UAP Disclosure Framework, https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework, dated 2026-07-22.
-- Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA runs out to **Legislative Process (proposed and pending)** (domain, board tier C), a legislative link at Tier 1 documented. The link reads: the successor framework, and the first time such a text has cleared the House floor. Adopted by the House on 22 July 2026 as an amendment to the FY2027 NDAA, after a similar proposal failed to advance in the previous defence-bill cycle. As of this pass it is an adopted House amendment, not law, which is precisely the status distinction this domain is for. Sources: Rep. Eric Burlison, 'House Adopts Burlison Amendment Establishing UAP Disclosure Framework', https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework, dated 2026-07-22.
+- Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA runs out to **Legislative Process (proposed and pending)** (domain, board tier B), a legislative link at Tier 1 documented. The link reads: the successor framework, and the first time such a text has cleared the House floor. Adopted by the House on 22 July 2026 as an amendment to the FY2027 NDAA, after a similar proposal failed to advance in the previous defence-bill cycle. As of this pass it is an adopted House amendment, not law, which is precisely the status distinction this domain is for. Sources: Rep. Eric Burlison, 'House Adopts Burlison Amendment Establishing UAP Disclosure Framework', https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework, dated 2026-07-22.
 - Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA runs out to **PURSUE - Presidential Unsealing and Reporting System for UAP Encounters** (program, board tier A), a legislative link at Tier 2 named person on the record. The link reads: Statutory backstop for an executive release programme. Burlison's own release frames the amendment as supporting PURSUE; structurally it cures each of PURSUE's defects - no timeline, no subpoena power, no reach to contractors, no Senate-confirmed decision-maker. Sources: NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure, https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/, dated 2026-07-23; Burlison, House Adopts UAP Disclosure Framework, https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework, dated 2026-07-22.
 - Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA runs out to **National Archives UAP Records Collection (Record Group 615)** (program, board tier B), a legislative link at Tier 2 named person on the record. The link reads: Would impose statutory transfer timelines on the NARA collection. The amendment would require agencies to identify, preserve and transfer covered UAP records under a statutory timeline, supplying the enforcement the FY2024 NDAA sections omitted. Sources: NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure, https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/, dated 2026-07-23; National Archives - UAP Records Collection (archives.gov/uap), https://www.archives.gov/uap, dated 2026-08-12.
 - Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA runs out to **The MITRE Corporation** (institution, board tier A), a legislative link at Tier 3 stated inference. The link reads: would reach contractor holdings. The amendment extends disclosure requirements to covered government contractors - the only instrument that would reach the holdings Burlison sought from MITRE by letter in May 2026. Sources: Burlison, House Adopts UAP Disclosure Framework, https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework, dated 2026-07-22; DefenseScoop, MITRE complies with Burlison request, https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/, dated 2026-05-27.
@@ -1502,7 +1502,7 @@ Roles the board assigns it: oversight, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 83 of 1111, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.
+Re-graded A on a global pass (rank 83 of 1125, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -1595,7 +1595,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 637 of 1111, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 639 of 1125, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1620,7 +1620,7 @@ Re-graded C on a global pass (rank 637 of 1111, score 26). 8 connections, 1 of t
 ### Its strongest connections
 
 - Congressional UAP Caucus runs out to **Waived SAP Notification Group** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: caucus membership confers no statutory access. A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access. Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; The Hill: Classified UFO briefing, House members emerge with mixed feelings, https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/, dated 2024-01-12.
-- Congressional UAP Caucus runs out to **Legislative Process (proposed and pending)** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: the member bloc that forces briefings and carries amendments outside committee jurisdiction. Launched by Rep. Tim Burchett on 22 August 2023 alongside a caucus letter to the Intelligence Community Inspector General, with documented members including Burchett, Luna, Burlison, Moskowitz and Ogles. Its confirmed operational achievement is the 12 January 2024 closed briefing; Ogles is a member without an Oversight seat, which is how the caucus extends reach beyond the committee. Sources: Rep. Tim Burchett, 'Rep. Burchett Launches UAP Caucus, Leads Letter to Intelligence Community Inspector General', https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector, dated 2023-08-22; The Hill, 'Classified UFO briefing: House members emerge with mixed feelings', https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/, dated 2024-01-12.
+- Congressional UAP Caucus runs out to **Legislative Process (proposed and pending)** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: the member bloc that forces briefings and carries amendments outside committee jurisdiction. Launched by Rep. Tim Burchett on 22 August 2023 alongside a caucus letter to the Intelligence Community Inspector General, with documented members including Burchett, Luna, Burlison, Moskowitz and Ogles. Its confirmed operational achievement is the 12 January 2024 closed briefing; Ogles is a member without an Oversight seat, which is how the caucus extends reach beyond the committee. Sources: Rep. Tim Burchett, 'Rep. Burchett Launches UAP Caucus, Leads Letter to Intelligence Community Inspector General', https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector, dated 2023-08-22; The Hill, 'Classified UFO briefing: House members emerge with mixed feelings', https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/, dated 2024-01-12.
 - Congressional UAP Caucus comes in from **Eric Burlison** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Caucus member. Described as a member of the caucus in March 2024 and again in June 2026. Sources: The Hill: GOP lawmaker calls for House to form committee on UAPs, https://thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-committee-on-uaps/, dated 2024-03-12; The Hill: 'Invasion of Washington' UFO tape may surface as lawmakers push release, https://thehill.com/homenews/5944717-ufo-washington-invasion-evidence/, dated 2026-06-29.
 - Congressional UAP Caucus comes in from **Anna Paulina Luna** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Caucus member; later chairs the Task Force. Described in February 2025 as 'a member of the bipartisan UAP Caucus' when named to chair the Task Force. Sources: The Hill (opinion, Marik von Rennenkampff): House Republicans demand UFO transparency, https://thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-transparency/, dated 2025-02-18.
 - Congressional UAP Caucus comes in from **Timothy Floyd Burchett** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Founded the caucus in August 2023 and led its letter to the ICIG. Burchett press release of 22 August 2023; The Hill records the caucus as bipartisan and formed 'last fall.' Sources: The Hill: GOP lawmaker calls for House to form committee on UAPs, https://thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-committee-on-uaps/, dated 2024-03-12; The Hill: Classified UFO briefing, House members emerge with mixed feelings, https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/, dated 2024-01-12.
@@ -1683,7 +1683,7 @@ Roles the board assigns it: concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 519 of 1111, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 520 of 1125, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1764,7 +1764,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 718 of 1111, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 723 of 1125, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1828,7 +1828,7 @@ Roles the board assigns it: oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 25 of 1111, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.
+Re-graded A on a global pass (rank 25 of 1125, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.
 
 ### The claims on the record
 

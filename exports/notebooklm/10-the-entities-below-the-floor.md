@@ -14,7 +14,7 @@ Wright-Patterson Air Force Base sits immediately east and northeast of Dayton, O
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 52 of 1111, score 78). 20 connections, 8 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 52 of 1125, score 78). 20 connections, 8 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -46,7 +46,7 @@ THIS NODE RECORDS A CLAIM AND NOT A PLACE WHOSE CONTENTS ARE ESTABLISHED. Papoos
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 168 of 1111, score 49). 16 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 172 of 1125, score 49). 16 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -69,6 +69,41 @@ Re-graded B on a global pass (rank 168 of 1111, score 49). 16 connections, 2 of 
 
 It carries 16 connections in total on the board.
 
+## Dulce Base (alleged facility, Archuleta Mesa, New Mexico)
+
+Dulce Base (alleged facility, Archuleta Mesa, New Mexico) is a location on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1979; axes C0 A0 D3; 15 connections.
+
+In one line: THE HUB. A claimed multi-level joint human and alien facility under Archuleta Mesa, for which no documented facility exists and whose central witness was confessed as an invention.
+
+### What it is
+
+THIS NODE RECORDS A CLAIM. It does not record a facility, and nothing opened by this board places any facility under Archuleta Mesa. What attaches to the mesa is a set of assertions made by named people on datable occasions, and this node is the point at which they converge. Paul Bennewitz is the origin point from about 1979. Myrna Hansen's 1980 abduction account was connected to Dulce by Bennewitz after he had begun to suspect a facility. Tom Adams arrived in the early 1980s by way of cattle-mutilation work. John Lear developed his Dulce hypothesis in 1988, having heard of it from a woman named as Ann West. Tal Levesque wrote the two original Dulce Base articles. Phil Schneider arrived only in 1995 and supplied the specification the modern claim uses: seven levels, over two and a half miles deep, and an alleged 1979 firefight in which he says he shot two aliens and roughly seventy people died. Bill Cooper carried a related frame to a mass audience from 1989, and the precise limit of what he carried is recorded on his own node: his 1989 paper names alien bases under Indian reservations in the Four Corners area and the string 'Dulce' occurs in it zero times. What distinguishes this hub from every other claimant hub on the board is that its central witness has an author who confessed. In November 2015 Tal Levesque told Adam Gorightly by email that Thomas Edwin Castello was 'a creation. A MYTH', described composing the original articles from an account by Ann West mixed with his own research, and described mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. That last part is the manufacture of apparent corroboration, and it is why this cluster is the board's cleanest worked example of many sources agreeing because they share one origin. Against the claim sit four independent checks, none of them each other's method: Levesque's confession; Adam Gorightly, who obtained and published it; John Greenewald, who on 1 April 2016 traced the most-circulated photographic 'evidence' to the 2000 film The 6th Day and stated he had found no evidence Castello exists; Norio Hayakawa, who has worked the question since 1988 and concludes 'it does not seem to exist'; and Brian Dunning, whose 3 December 2013 episode calls the imagery case trivially checkable and classifies the base as fictional. And one documentary counterweight that is not scepticism at all but a fact about the ground: on 10 December 1967 the Atomic Energy Commission detonated a 29-kiloton device at 4,227 feet twelve miles southwest of Dulce, and the site remained under federal management, with liquid radioactive waste injected into the cavity and contaminated soil hauled away as late as 2004. A rumour of a secret federal installation in the ground near Dulce is, in the flattest sense, a rumour about something that happened. What the record does not support is the facility, the levels, the depth, the firefight, or the man.
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 134 of 1125, score 54). 15 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented, allegation shaped wording as stored.** THE DOCUMENTED FEDERAL HOLE IN THE GROUND NEXT TO DULCE, TWELVE YEARS BEFORE THE RUMOUR. On 10 December 1967 the US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, twelve miles southwest of Dulce in the Carson National Forest, on a 640-acre site now managed by the DOE Office of Legacy Management. This is a record of Project Gasbuggy. It is adjacency and precedence, and it is NOT a claim that Gasbuggy caused the rumour. Source: US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf, text extracted and read in full 2026-09-19
+- **Tier 1 documented.** THE MOST-CIRCULATED PHYSICAL 'EVIDENCE' IS A MOVIE FRAME. The photograph of bodies in a chamber, distributed for years as Castello's leaked proof, was traced by John Greenewald on 1 April 2016 to the 2000 feature film The 6th Day: it 'is, in fact, a verifiable hoax'. Tier 1 because the identification is checkable by anyone against the film. Source: The Black Vault case file, John Greenewald, 1 April 2016, https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/, opened 2026-09-19
+- **Tier 2 named person on the record.** THE CENTRAL FINDING. The claimed insider at the heart of the Dulce story was confessed as an invention by the man who says he invented him. Tal Levesque to Adam Gorightly, November 2015: 'You still do not get it. TEC (Thomas Edwin Castello) is a creation. A MYTH.' He described composing the two original Dulce Base articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large envelope packets of supporting material to authors and lecturers 'who then mixed it into their talks, articles and books'. Source: Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 3 February 2021, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/, opened 2026-09-19
+- **Tier 2 named person on the record.** THE IMAGERY NEGATIVE, DATED. Brian Dunning, Skeptoid episode 391 of 3 December 2013: 'It's trivial to study Google Earth images of Archuleta Mesa and see that there's nothing there at all, certainly nothing like Schneider's elaborate descriptions.' He classifies the base as fictional. Its own reference list for Dulce is a single blog post, which bounds how much weight the episode can carry. Source: Brian Dunning, Skeptoid 391, 3 December 2013, https://skeptoid.com/episodes/4391, opened 2026-09-19
+- **Tier 2 named person on the record.** THE NAMED LOCAL NEGATIVE. Norio Hayakawa, who has worked the Dulce question since 1988 and is a proponent of investigating the subject rather than a professional debunker, states on his own site: 'it does not seem to exist'. Source: Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, opened 2026-09-19
+- **Tier 2 named person on the record, allegation shaped wording as stored.** THE SPECIFICATION, AND WHERE IT COMES FROM. Every specific number in the modern claim comes from one lecture, at Post Falls, Idaho on 8 May 1995, in which Phil Schneider said the base 'goes down seven levels and over 2.5 miles deep' and described a firefight in which he shot two aliens and about seventy people were killed. He was not part of the initial rumours and arrived fifteen years after they began. Source: Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm, and Norio Hayakawa, 29 August 2016, both opened 2026-09-19
+- **Tier 3 stated inference.** STATED INFERENCE, AND THE REASON THIS CLUSTER MATTERS BEYOND ITSELF. The Levesque confession describes the deliberate seeding of a hundred identical packets into independent-looking authors and lecturers, which means the many later sources that agree about Dulce agree because they were supplied from one origin by one method. This is a documented real-world instance of the board's own rule that two agents agreeing is not corroboration when they share a method. Reasoning: the inference is about what the confession implies for every downstream citation in this literature, and it should govern how any future Dulce source is graded. Source: Inference from the November 2015 Levesque confession as reproduced by Norio Hayakawa, 2 April 2024, opened 2026-09-19
+
+### Its strongest connections
+
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) comes in from **Project Gasbuggy, 10 December 1967** (event, board tier C), a denial link at Tier 1 documented. The link reads: ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier. The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour. Sources: US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf, dated 2026-09-19.
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) comes in from **John Greenewald Jr.** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Traced the cluster's best-known physical 'evidence' to a 2000 feature film. The photograph circulated for years as leaked proof from inside the facility is a frame from The 6th Day. The identification is checkable by anyone against the film; the surrounding negative, that he found no evidence Castello exists, is Tier 2. Sources: The Black Vault case file, John Greenewald, 'Leaked Underground Dulce Base Alien Photo by Thomas Costello', https://www.theblackvault.com/casefiles/leaked-underground-dulce-base-alien-photo-thomas-costello/, dated 2016-04-01.
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) comes in from **Richard C. Doty** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: Attributes Bennewitz's beliefs to Bennewitz rather than to material he supplied. A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such. Sources: Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case, and national security concerns -- Part 4', YouTube 9TLfM5VKX3M, 3:51, English auto-generated captions pulled and read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M, dated 2026-09-19.
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) comes in from **Paul Frederick Bennewitz** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Origin point of the Dulce claim, from about 1979. Bennewitz is the first person to attach a facility claim to Dulce, from about 1979, in the dated chronology of the cluster's originators, and he connected Myrna Hansen's 1980 account to it after he had begun to suspect a site there. The edge records that he asserted it and nothing more. Sources: Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors', https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, dated 2016-08-29.
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) runs out to **Psychological Operations & Perception Management** (domain, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Downstream of the Kirtland operation, which is this domain's best-known case. The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged. Sources: Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies', https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650, dated 2014-05-13; Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors', https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, dated 2016-08-29.
+- Dulce Base (alleged facility, Archuleta Mesa, New Mexico) runs out to **Disinformation & Fabricated Documents** (domain, board tier C), a programmatic link at Tier 2 named person on the record. The link reads: A cluster whose central witness has a confessed author. It belongs in this domain on its own evidence rather than by association with the Bennewitz operation, because the confession describes the deliberate manufacture of apparent independent corroboration. Sources: Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/, dated 2024-04-02.
+
+It carries 15 connections in total on the board.
+
 ## Groom Lake, Nevada
 
 Groom Lake, Nevada is a location on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1955; axes C2 A3 D2; 14 connections.
@@ -85,7 +120,7 @@ Acknowledgement chronology, stated plainly because it is the board's benchmark: 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 134 of 1111, score 54). 14 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 136 of 1125, score 54). 14 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -120,7 +155,7 @@ Money is the most auditable thing a concealed programme touches, and this is whe
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 58 of 1111, score 75). 13 connections, 11 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 58 of 1125, score 75). 13 connections, 11 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -152,7 +187,7 @@ The custody domain tracks the documentary handoffs themselves rather than the ob
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 71 of 1111, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 71 of 1125, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -186,7 +221,7 @@ Custody chains catalogued in this domain, with the point at which each goes dark
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 163 of 1111, score 49). 12 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 166 of 1125, score 49). 12 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -218,7 +253,7 @@ The domain covering how the disclosure record is actually produced and distribut
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 789 of 1111, score 21). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 795 of 1125, score 21). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -248,7 +283,7 @@ Follow the contract vehicle and you find the programme, which is why acquisition
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 331 of 1111, score 37). 10 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 334 of 1125, score 37). 10 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -279,7 +314,7 @@ The research domain concerned not with whether a legacy programme exists but wit
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 910 of 1111, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 916 of 1125, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -312,10 +347,12 @@ The Bennewitz operation is the best-documented instance in the American record o
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 242 of 1111, score 42). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 175 of 1125, score 48). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
+- **Tier 1 documented.** Paul Frederick Bennewitz Jr, whose company sat where it overlooked the Manzano storage area, was born 30 September 1927 and died 23 June 2003, and is buried at Santa Fe National Cemetery, Section 12 Site 402, under a marker reading 'S1C US COAST GUARD WORLD WAR II'. Source: Find a Grave memorial 17482201, https://www.findagrave.com/memorial/17482201/paul_frederick-bennewitz, opened 2026-09-19
+- **Tier 1 documented.** The 1980 AFOSI complaint form for the Coyote Canyon and Manzano observations is reproduced in full and openable, with its file number, its agent and its named 1608 Security Police Squadron observers, which fixes the Kirtland end of the Bennewitz affair in a primary record rather than in anyone's recollection. Source: AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, opened 2026-09-19
 - **Tier 2 named person on the record.** Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980. Source: Wikipedia, Paul Bennewitz, citing contemporaneous correspondence and the Albuquerque Tribune, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
 - **Tier 2 named person on the record.** Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; KUMMSC was activated in 1992 with more than 300,000 square feet underground. Source: Wikipedia, Kirtland Air Force Base, citing USAF fact sheets, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
 - **Tier 2 named person on the record.** On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz. Source: Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room
@@ -326,10 +363,10 @@ Re-graded B on a global pass (rank 242 of 1111, score 42). 11 connections, 1 of 
 
 - Kirtland Air Force Base and Albuquerque, New Mexico comes in from **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: nuclear-adjacent installations named in AARO's own unresolved allegations. Volume I page 30 records interviews with five former Air Force officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977 and defers the unresolved allegations to Volume II. Sources: AARO Historical Record Report Volume I, p.30, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/30, dated 2024-03-08; AARO Historical Record Report Volume I (DOPSR-cleared PDF), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 - Kirtland Air Force Base and Albuquerque, New Mexico comes in from **AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959** (document, board tier A), a geographic link at Tier 1 documented. The link reads: Issued from Kirtland Air Force Base, New Mexico. Headquarters Air Force Special Weapons Center is named on the title page with Kirtland as its station. Sources: AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380, https://archive.org/details/DTIC_AD0425380, dated 1959-06-19.
-- Kirtland Air Force Base and Albuquerque, New Mexico comes in from **AFOSI Kirtland AFB UFO File (1980-1983)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: AFOSI District 17 file generated at Kirtland AFB. The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
 - Kirtland Air Force Base and Albuquerque, New Mexico comes in from **Kirtland AFB / Manzano Weapons Storage Area incident** (event, board tier B), a institutional link at Tier 1 documented. The link reads: Occurred at the Manzano Weapons Storage Area and Coyote Canyon. Manzano is a nuclear weapons storage area on the Kirtland footprint shared with Sandia National Laboratories. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Kirtland Air Force Base and Albuquerque, New Mexico comes in from **AFOSI Kirtland AFB UFO File (1980-1983)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: AFOSI District 17 file generated at Kirtland AFB. The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
 - Kirtland Air Force Base and Albuquerque, New Mexico comes in from **Eric H. Wang** (person, board tier B), a geographic link at Tier 1 documented. The link reads: Chief, Structures Division, Air Force Special Weapons Center, Kirtland AFB. A 1960 DTIC report names 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, AFSWC, Kirtland Air Force Base, New Mexico. His documented work there is blast effects on structures. Sources: Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283, https://archive.org/details/DTIC_AD0460283, dated 1960-05-06.
-- Kirtland Air Force Base and Albuquerque, New Mexico comes in from **Sandia National Laboratories** (institution, board tier A), a geographic link at Tier 2 named person on the record. The link reads: Sandia National Laboratories is adjacent to Kirtland AFB. Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966. Sources: Wikipedia - Kirtland Air Force Base, https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base, dated 2026-08-12; Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
+- Kirtland Air Force Base and Albuquerque, New Mexico comes in from **Richard C. Doty** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Doty's AFOSI detachment ran the Bennewitz deception from Kirtland. Richard C. Doty, an AFOSI special agent at Kirtland, has said publicly he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz. A 1992 article held in the CIA library names Doty and William Moore. Sources: Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
 
 It carries 11 connections in total on the board.
 
@@ -349,7 +386,7 @@ How the seam actually works, mechanism by mechanism. (1) RECORDS STATUS. Documen
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 177 of 1111, score 47). 9 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.
+Re-graded B on a global pass (rank 182 of 1125, score 47). 9 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -382,7 +419,7 @@ This domain isolates what is enacted from what was merely proposed, because the 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 626 of 1111, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 628 of 1125, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -396,14 +433,14 @@ Re-graded C on a global pass (rank 626 of 1111, score 27). 9 connections, 0 of t
 - Enacted Statute comes in from **FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: P.L. 118-31 Subtitle C, secs. 1841-1843 - the UAP Records Collection as enacted. What survived conference from the Senate-passed disclosure title was a records collection at NARA, a duty to transmit and a postponement regime, without the Review Board or the eminent domain provision. NARA's published guidance to federal agencies implementing the collection is the observable proof that this part is law and operating. Sources: Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22; National Archives, 'Guidance to Federal Agencies on Unidentified Anomalous Phenomena Records Collection', https://www.archives.gov/records-mgmt/uap-guidance, dated 2026-08-21.
 - Enacted Statute comes in from **FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: P.L. 119-60, Title XVI Subtitle E - the enacted corpus reduced to housekeeping. Approved 18 December 2025, with three UAP sections requiring that AARO briefings cover NORAD and NORTHCOM intercepts and accounting for UAP classification guides. Recording it in the enacted domain alongside the 2021-2023 provisions is what lets a reader see the trajectory of what Congress has actually been willing to enact. Sources: Public Law 119-60, National Defense Authorization Act for FY2026 (GPO), https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm, dated 2025-12-18.
 - Enacted Statute comes in from **Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: rewrote 50 U.S.C. 3373 to establish AARO and to mandate the Historical Record Report. Sec. 6802 of P.L. 117-263, enacted 23 December 2022, added subsection (j) requiring a Historical Record Report within 540 days and subsection (k) requiring joint DNI/SECDEF annual reports. This is the authority AARO itself cites for both report series, which makes it enacted law with directly observable output. Sources: Public Law 117-263, James M. Inhofe National Defense Authorization Act for FY2023, incl. Div. F (IAA FY2023) (GPO), https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm, dated 2022-12-23; AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+- Enacted Statute comes in from **Legislative Process (proposed and pending)** (domain, board tier B), a legislative link at Tier 1 documented. The link reads: Proposal versus enactment. Division I of the Senate-passed H.R. 2670 contained a Review Board and eminent domain; P.L. 118-31 as enacted did not. The gap between these two documents is the domain boundary. Sources: H.R. 2670 (EAS), Division I - UAP Disclosure Act of 2023, https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm, dated 2023-07-27; NDAA FY2024 (P.L. 118-31), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Enacted Statute comes in from **FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)** (legislation, board tier B), a legislative link at Tier 1 documented. The link reads: the statutory root of the modern apparatus, codified at 50 U.S.C. 3373. Sec. 1683 of P.L. 117-81, signed 27 December 2021, directed establishment within 180 days of an office to carry out the duties of the UAP Task Force, with enumerated duties reaching beyond analysis into governance. Everything later in the enacted corpus amends or builds on what this section created. Sources: Public Law 117-81, National Defense Authorization Act for FY2022 (GPO), https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm, dated 2021-12-27.
-- Enacted Statute comes in from **Legislative Process (proposed and pending)** (domain, board tier C), a legislative link at Tier 1 documented. The link reads: Proposal versus enactment. Division I of the Senate-passed H.R. 2670 contained a Review Board and eminent domain; P.L. 118-31 as enacted did not. The gap between these two documents is the domain boundary. Sources: H.R. 2670 (EAS), Division I - UAP Disclosure Act of 2023, https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm, dated 2023-07-27; NDAA FY2024 (P.L. 118-31), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 
 It carries 9 connections in total on the board.
 
 ## Legislative Process (proposed and pending)
 
-Legislative Process (proposed and pending) is a domain on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2021-12-27; axes C0 A1 D3; 9 connections.
+Legislative Process (proposed and pending) is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2021-12-27; axes C0 A1 D3; 9 connections.
 
 In one line: Bills, amendments and the actors that move them. Deliberately distinct from d-legislation (Enacted Statute): the gap between what passed the Senate and what survived conference is one of this board's central substantive findings, and collapsing the two would erase it.
 
@@ -413,7 +450,7 @@ Legislation is where the disclosure fight has produced its only binding outcomes
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 557 of 1111, score 29). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 558 of 1125, score 29). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -445,7 +482,7 @@ A denial is not the end of an inquiry on this board; it is an entry in it. The e
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 112 of 1111, score 58). 8 connections, 0 of them custody/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.
+Re-graded A on a global pass (rank 112 of 1125, score 58). 8 connections, 0 of them custody/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -480,7 +517,7 @@ The full text of the mechanism as stated by Chairwoman Luna on 9 September 2025:
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 345 of 1111, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 347 of 1125, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -512,7 +549,7 @@ The most tractable question in this whole field is not whether exotic physics is
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 275 of 1111, score 40). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 281 of 1125, score 40). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -546,7 +583,7 @@ Congressional oversight of the deepest access tiers is not a matter of will but 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 573 of 1111, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 574 of 1125, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -565,6 +602,38 @@ Re-graded C on a global pass (rank 573 of 1111, score 28). 7 connections, 0 of t
 
 It carries 7 connections in total on the board.
 
+## Psychological Operations & Perception Management
+
+Psychological Operations & Perception Management is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1953-01-17; axes C1 A2 D1; 7 connections.
+
+In one line: Operational domain - deliberate manipulation of belief as a security measure.
+
+### What it is
+
+The use of the UFO subject as a vehicle for deception against a domestic audience is documented at the level of an official recommendation and at the level of a named case. The recommendation is the Robertson Panel's January 1953 proposal for a debunking campaign using mass media, psychiatrists and advertising specialists, explicitly aimed at reducing public susceptibility rather than at establishing what the objects were. The named case is Paul Bennewitz, an Albuquerque physicist living beside Kirtland AFB, who in the early 1980s was fed fabricated documents and staged material by Air Force Office of Special Investigations personnel - most prominently Richard C. Doty, whose later New Mexico State Police personnel file was released under public records law and runs to 321 pages - with the documented effect of destroying his mental health. The dual-use route is exact: a genuine sensitive programme adjacent to a witness generates a security problem, and the cheapest solution is not to silence the witness but to discredit him by feeding him something absurd and letting him repeat it. That mechanism cuts in both directions and must be applied honestly - it explains real disinformation injected into the field, and it is also the most common frame used to dismiss testimony that is not disinformation. Scoring high here means an entity ran, authored or knowingly transmitted deception material.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 229 of 1125, score 43). 7 connections, 5 of them custody/funding/programmatic. Axes C1/A2/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request and is publicly archived. Source: The Black Vault, Richard Doty Personnel File - New Mexico State Police
+- **Tier 1 documented.** The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched. Source: Robertson Panel report, declassified text
+- **Tier 2 named person on the record.** Air Force OSI personnel supplied Paul Bennewitz with fabricated documents concerning alien activity in the early 1980s; the episode is the documented core of the 'Mirage Men' account of UFO-adjacent counterintelligence deception. Source: Named-source reporting summarised at Garber Files, 'From Mirage Men to Military Deception'
+- **Tier 3 stated inference.** STATED INFERENCE ABOUT THE DOMAIN'S BEST-KNOWN CASE. The Bennewitz operation is carried across this board on the strength of admissions, and the principal admitting officer has since denied on the record that the operation did the harm attributed to it, while the civilian who admitted the same conduct in 1989 has not retracted. Reasoning: where a domain rests on self-description by deceivers, its strongest claims should be the ones with a documentary spine, here the 1980 complaint form, and its weakest should be the ones resting only on what a deceiver later said about himself. Source: Inference from Alejandro Rojas, HuffPost, 13 May 2014 and Mystery Wire YouTube 9TLfM5VKX3M, both opened 2026-09-19
+
+### Its strongest connections
+
+- Psychological Operations & Perception Management comes in from **The Cover-Up** (domain, board tier A), a programmatic link at Tier 1 documented. The link reads: Debunking recommended as a security measure. The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation. Sources: Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0), https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf, dated 1953-01-17.
+- Psychological Operations & Perception Management comes in from **Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: Calls for a cover and deception plan executed to provoke a citable reaction. The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation. Sources: Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt, dated 1962-03-13.
+- Psychological Operations & Perception Management comes in from **Gordon Gray** (person, board tier B), a institutional link at Tier 1 documented. The link reads: First Director of the Psychological Strategy Board, appointed 1951. Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it. Sources: FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3, https://history.state.gov/historicaldocuments/frus1951v01/d16, dated 1951-04-04.
+- Psychological Operations & Perception Management comes in from **CIA Office of Policy Coordination** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: Propaganda is the first named category in the charter. Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made. Sources: NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292), https://history.state.gov/historicaldocuments/frus1945-50Intel/d292, dated 1948-06-18.
+- Psychological Operations & Perception Management comes in from **Counterintelligence** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: Same service, both functions. AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
+- Psychological Operations & Perception Management comes in from **Dulce Base (alleged facility, Archuleta Mesa, New Mexico)** (location, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Downstream of the Kirtland operation, which is this domain's best-known case. The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged. Sources: Alejandro Rojas, HuffPost Weird News, 'Ex-Air Force Law Enforcement Agent Says He Hoaxed Major UFO Mythologies', https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650, dated 2014-05-13; Norio Hayakawa, 'Enigmatic personalities behind the initial Dulce underground base rumors', https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/, dated 2016-08-29.
+
+It carries 7 connections in total on the board.
+
 ## Skinwalker Ranch, Uintah Basin, Utah
 
 Skinwalker Ranch, Uintah Basin, Utah is a location on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1996; axes C3 A2 D2; 7 connections.
@@ -577,7 +646,7 @@ Skinwalker Ranch is a property of approximately 512 acres in Uintah County, Utah
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 90 of 1111, score 65). 9 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 90 of 1125, score 65). 9 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -615,7 +684,7 @@ This board treats concealment as a discipline with doctrine, staffing and a budg
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 148 of 1111, score 52). 6 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 150 of 1125, score 52). 6 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -627,8 +696,8 @@ Re-graded A on a global pass (rank 148 of 1111, score 52). 6 connections, 3 of t
 ### Its strongest connections
 
 - The Cover-Up runs out to **Official Denial** (domain, board tier A), a denial link at Tier 1 documented. The link reads: Denial is the public face of concealment. CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity. Sources: Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/, dated 1997-01-01.
-- The Cover-Up comes in from **Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962** (document, board tier B), a behavioral link at Tier 1 documented. The link reads: Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years. Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it. Sources: Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt, dated 1962-03-13.
 - The Cover-Up runs out to **Psychological Operations & Perception Management** (domain, board tier B), a programmatic link at Tier 1 documented. The link reads: Debunking recommended as a security measure. The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation. Sources: Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0), https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf, dated 1953-01-17.
+- The Cover-Up comes in from **Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962** (document, board tier B), a behavioral link at Tier 1 documented. The link reads: Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years. Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it. Sources: Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt, dated 1962-03-13.
 - The Cover-Up runs out to **Records & Archives** (domain, board tier B), a custody link at Tier 1 documented. The link reads: Record destruction as concealment. GAO found Roswell AAF outgoing messages for 1946-1949 destroyed with no disposition authority and no destruction certificate - concealment executed through the records system. Sources: GAO/NSIAD-95-187, https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm, dated 1995-07-28.
 - The Cover-Up comes in from **Aerospace Engineering & Advanced Projects** (domain, board tier B), a denial link at Tier 1 documented. The link reads: Black aircraft generated real cover stories. CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them. Sources: Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/, dated 1997-01-01.
 - The Cover-Up comes in from **Intelligence Community** (domain, board tier B), a programmatic link at Tier 1 documented. The link reads: CIA convened the panel that recommended debunking. The Robertson Panel was convened by CIA's Office of Scientific Intelligence, placing the recommendation inside the intelligence community rather than the Air Force. Sources: Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0), https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf, dated 1953-01-17.
@@ -645,7 +714,7 @@ The Freedom of Information Act is the only routine instrument by which a private
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 529 of 1111, score 30). 6 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 530 of 1125, score 30). 6 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -663,35 +732,6 @@ Re-graded B on a global pass (rank 529 of 1111, score 30). 6 connections, 0 of t
 - Freedom of Information Practice comes in from **John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file** (document, board tier C), a investigative link at Tier 1 documented. The link reads: A FOIA request that defeated a records-destruction order. The Senate's own framing is that one individual, through a Freedom of Information request, accomplished what two Senate committees could not. Sources: Opening statement, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
 - Freedom of Information Practice comes in from **Prime Contractor Custody** (domain, board tier B), a denial link at Tier 3 stated inference. The link reads: Contractor records are outside the statute. FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier. Sources: FAR 35.017, Federally Funded Research and Development Centers, https://www.acquisition.gov/far/35.017, dated 2026-08-12; GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
 
-## Psychological Operations & Perception Management
-
-Psychological Operations & Perception Management is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1953-01-17; axes C1 A2 D1; 6 connections.
-
-In one line: Operational domain - deliberate manipulation of belief as a security measure.
-
-### What it is
-
-The use of the UFO subject as a vehicle for deception against a domestic audience is documented at the level of an official recommendation and at the level of a named case. The recommendation is the Robertson Panel's January 1953 proposal for a debunking campaign using mass media, psychiatrists and advertising specialists, explicitly aimed at reducing public susceptibility rather than at establishing what the objects were. The named case is Paul Bennewitz, an Albuquerque physicist living beside Kirtland AFB, who in the early 1980s was fed fabricated documents and staged material by Air Force Office of Special Investigations personnel - most prominently Richard C. Doty, whose later New Mexico State Police personnel file was released under public records law and runs to 321 pages - with the documented effect of destroying his mental health. The dual-use route is exact: a genuine sensitive programme adjacent to a witness generates a security problem, and the cheapest solution is not to silence the witness but to discredit him by feeding him something absurd and letting him repeat it. That mechanism cuts in both directions and must be applied honestly - it explains real disinformation injected into the field, and it is also the most common frame used to dismiss testimony that is not disinformation. Scoring high here means an entity ran, authored or knowingly transmitted deception material.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 313 of 1111, score 38). 6 connections, 4 of them custody/funding/programmatic. Axes C1/A2/D1.
-
-### The claims on the record
-
-- **Tier 1 documented.** Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request and is publicly archived. Source: The Black Vault, Richard Doty Personnel File - New Mexico State Police
-- **Tier 1 documented.** The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched. Source: Robertson Panel report, declassified text
-- **Tier 2 named person on the record.** Air Force OSI personnel supplied Paul Bennewitz with fabricated documents concerning alien activity in the early 1980s; the episode is the documented core of the 'Mirage Men' account of UFO-adjacent counterintelligence deception. Source: Named-source reporting summarised at Garber Files, 'From Mirage Men to Military Deception'
-
-### Its strongest connections
-
-- Psychological Operations & Perception Management comes in from **The Cover-Up** (domain, board tier A), a programmatic link at Tier 1 documented. The link reads: Debunking recommended as a security measure. The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation. Sources: Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0), https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf, dated 1953-01-17.
-- Psychological Operations & Perception Management comes in from **Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: Calls for a cover and deception plan executed to provoke a citable reaction. The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation. Sources: Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt, dated 1962-03-13.
-- Psychological Operations & Perception Management comes in from **Gordon Gray** (person, board tier B), a institutional link at Tier 1 documented. The link reads: First Director of the Psychological Strategy Board, appointed 1951. Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it. Sources: FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3, https://history.state.gov/historicaldocuments/frus1951v01/d16, dated 1951-04-04.
-- Psychological Operations & Perception Management comes in from **CIA Office of Policy Coordination** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: Propaganda is the first named category in the charter. Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made. Sources: NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292), https://history.state.gov/historicaldocuments/frus1945-50Intel/d292, dated 1948-06-18.
-- Psychological Operations & Perception Management comes in from **Counterintelligence** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: Same service, both functions. AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
-- Psychological Operations & Perception Management runs out to **Disinformation & Fabricated Documents** (domain, board tier C), a programmatic link at Tier 2 named person on the record. The link reads: Fabricated material as the delivery vehicle. The Bennewitz episode, in which AFOSI personnel supplied fabricated documents, is the documented case linking perception management to forged records; Doty's own personnel file is public. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
-
 ## Records & Archives
 
 Records & Archives is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1992-10-26; axes C1 A1 D3; 6 connections.
@@ -704,7 +744,7 @@ Whoever controls the records controls the history, and this is the one front on 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 278 of 1111, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 284 of 1125, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -738,7 +778,7 @@ Where a program could sit, and what changes when it moves. There are five distin
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 194 of 1111, score 45). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 198 of 1125, score 45). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -771,7 +811,7 @@ The Nevada complex is where the classification regimes overlap. A Department of 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 481 of 1111, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 483 of 1125, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -804,7 +844,7 @@ Terms of art, precisely, and why each one matters to the allegations. ACKNOWLEDG
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 65 of 1111, score 73). 6 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 65 of 1125, score 73). 6 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -840,7 +880,7 @@ Aerospace is the FFRDC that owns the technical judgement on everything the Unite
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 200 of 1111, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 204 of 1125, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -875,7 +915,7 @@ The Armed Forces Special Weapons Project was established by joint directive of t
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 175 of 1111, score 47). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 180 of 1125, score 47). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -911,7 +951,7 @@ The Bolender memorandum is short, administrative, and the most quietly damaging 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 182 of 1111, score 46). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 187 of 1125, score 46). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -940,7 +980,7 @@ On 9 June 2026 lawmakers and UAP whistleblowers gathered at the US Capitol to re
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 639 of 1111, score 26). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded C on a global pass (rank 641 of 1125, score 26). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -969,7 +1009,7 @@ Conventional Prompt Global Strike is the family of American programmes intended 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 325 of 1111, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 328 of 1125, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -1000,7 +1040,7 @@ Moving a programme into a prime contractor does not merely add secrecy - it chan
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 245 of 1111, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
+Re-graded B on a global pass (rank 251 of 1125, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -1028,7 +1068,7 @@ A special access programme is the mechanism by which the executive branch create
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 252 of 1111, score 41). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 258 of 1125, score 41). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1056,7 +1096,7 @@ Everything this board describes is, on its face, legal - and that is the point. 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 441 of 1111, score 32). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 444 of 1125, score 32). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -1084,7 +1124,7 @@ The data that could resolve most of this exists, and it is classified for reason
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 404 of 1111, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 407 of 1125, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1112,7 +1152,7 @@ The funding instrument, and the reason the whole thing stayed invisible. AARO's 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 285 of 1111, score 39). 5 connections, 5 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 291 of 1125, score 39). 5 connections, 5 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1140,7 +1180,7 @@ DHS was established in 2002, 'combining 22 different federal departments and age
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 131 of 1111, score 54). 6 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 132 of 1125, score 54). 6 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1171,7 +1211,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 228 of 1111, score 42). 6 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 235 of 1125, score 42). 6 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1205,7 +1245,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 361 of 1111, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 364 of 1125, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1237,7 +1277,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 318 of 1111, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 321 of 1125, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1270,7 +1310,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 363 of 1111, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 366 of 1125, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1303,7 +1343,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-12-15
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 411 of 1111, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 414 of 1125, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1336,7 +1376,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 364 of 1111, score 35). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 367 of 1125, score 35). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1369,7 +1409,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 229 of 1111, score 42). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 236 of 1125, score 42). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1404,7 +1444,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 365 of 1111, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 368 of 1125, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1436,7 +1476,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2011-01-03
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 366 of 1111, score 35). 5 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 369 of 1125, score 35). 5 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1467,7 +1507,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 537 of 1111, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 538 of 1125, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1499,7 +1539,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 507 of 1111, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 508 of 1125, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1531,7 +1571,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 508 of 1111, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 509 of 1125, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1563,7 +1603,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 509 of 1111, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 510 of 1125, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1595,7 +1635,7 @@ THIS IS A SET NODE AND NOT AN ORGANISATION; NOTHING HERE EVER MET AS A BODY. It 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 289 of 1111, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 294 of 1125, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1630,7 +1670,7 @@ Excerpts from five quarterly histories of the 341st Strategic Missile Wing, Malm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 324 of 1111, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 327 of 1125, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1659,7 +1699,7 @@ An eight-page document on Ministério da Aeronáutica letterhead, stamped CONFID
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 312 of 1111, score 38). 5 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 316 of 1125, score 38). 5 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1687,7 +1727,7 @@ On 5 January 1994 the Deputy Secretary of Defense changed the Department's speci
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 235 of 1111, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 242 of 1125, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1718,7 +1758,7 @@ This is the version of DoD's SAP charter that governed for the entire period cov
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 61 of 1111, score 74). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 61 of 1125, score 74). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1754,7 +1794,7 @@ The current directive, effective 12 September 2024, cancels the 1 July 2010 vers
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 84 of 1111, score 68). 6 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 84 of 1125, score 68). 6 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1790,7 +1830,7 @@ The Inspector General's evaluation of how the Department handles UAP, completed 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 77 of 1111, score 69). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 77 of 1125, score 69). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1826,7 +1866,7 @@ The DoD SAP Security Manual is issued in four volumes under number 5205.07: Volu
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 64 of 1111, score 73). 5 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded A on a global pass (rank 64 of 1125, score 73). 5 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -1861,7 +1901,7 @@ Volume 1 of the four-volume DoD SAP Security Manual assigns responsibilities and
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 107 of 1111, score 60). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 108 of 1125, score 60). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1896,7 +1936,7 @@ In mid-1948 the Project SIGN staff at Wright Field completed a Top Secret docume
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 327 of 1111, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 330 of 1125, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1909,7 +1949,7 @@ Re-graded B on a global pass (rank 327 of 1111, score 37). 5 connections, 1 of t
 
 - Estimate of the Situation (1948) comes in from **University of Colorado UFO Project (Condon Committee)** (program, board tier A), a investigative link at Tier 1 documented. The link reads: The Condon Report is the primary documentary record of the Estimate's destruction. Section V Chapter 2 records the estimate's preparation, Vandenberg's rejection and the destruction of copies, the Air Force paying to put its own suppression on the record. Sources: Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01.
 - Estimate of the Situation (1948) comes in from **Project SIGN** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: SIGN staff produced the 1948 Estimate. Project SIGN personnel wrote a Top Secret estimate concluding the objects were interplanetary. The Condon Report, written under Air Force contract, records that it was prepared. Sources: Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01.
-- Estimate of the Situation (1948) comes in from **Hoyt S. Vandenberg** (person, board tier C), a denial link at Tier 1 documented. The link reads: Vandenberg rejected the Estimate and ordered copies destroyed. The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed, the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study. Sources: Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01; Ruppelt, The Report on Unidentified Flying Objects, https://www.gutenberg.org/ebooks/17346, dated 1956-01-01.
+- Estimate of the Situation (1948) comes in from **Hoyt S. Vandenberg** (person, board tier B), a denial link at Tier 1 documented. The link reads: Vandenberg rejected the Estimate and ordered copies destroyed. The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed, the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study. Sources: Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01; Ruppelt, The Report on Unidentified Flying Objects, https://www.gutenberg.org/ebooks/17346, dated 1956-01-01.
 - Estimate of the Situation (1948) runs out to **Project GRUDGE** (program, board tier C), a temporal link at Tier 1 documented. The link reads: Destruction of the Estimate preceded GRUDGE's dismissive posture by six months. SIGN became GRUDGE on 11 February 1949, months after the Estimate was destroyed, and GRUDGE's founding conclusions ran directly counter to it. Sources: Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01.
 - Estimate of the Situation (1948) comes in from **Edward J. Ruppelt** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Ruppelt is the origin of public knowledge of the Estimate. As a serving Blue Book director with access to the files, Ruppelt published the Estimate's existence and destruction in 1956; the Condon Report corroborated him twelve years later. Sources: Ruppelt, The Report on Unidentified Flying Objects, https://www.gutenberg.org/ebooks/17346, dated 1956-01-01; Condon Report Sec. V Ch. 2, https://files.ncas.org/condon/text/s5chap02.htm, dated 1968-11-01.
 
@@ -1925,7 +1965,7 @@ The Foreign Technology Division was the Air Force's foreign aerospace materiel e
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 256 of 1111, score 41). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 262 of 1125, score 41). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1955,7 +1995,7 @@ This is the one death inside a compartmented American programme that the governm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 208 of 1111, score 44). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 213 of 1125, score 44). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1991,7 +2031,7 @@ The recalled January 2015 US Fleet Forces Command message is the highest-value s
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 309 of 1111, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 313 of 1125, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -2020,7 +2060,7 @@ GAO is the audit arm of Congress and the only investigative body on this board t
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 883 of 1111, score 18). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 890 of 1125, score 18). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2051,7 +2091,7 @@ GAO explains the carve-out in its own words: special access contracts are 'carve
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 292 of 1111, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 297 of 1125, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -2083,7 +2123,7 @@ Gerb's first corporate investigation, published 18 February 2024, and the most p
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 549 of 1111, score 29). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 550 of 1125, score 29). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2112,7 +2152,7 @@ Published 20 March 2026, this is the corporate-breakaway argument. It moves past
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 293 of 1111, score 39). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 298 of 1125, score 39). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2141,7 +2181,7 @@ The first documented scientific conference convened by the United States governm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 414 of 1111, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 417 of 1125, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2173,7 +2213,7 @@ Chain of custody for the complaint, as established by sworn testimony and report
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 342 of 1111, score 36). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 344 of 1125, score 36). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2201,7 +2241,7 @@ The facility referred to in the Varginha literature as the Hospital Regional de 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 976 of 1111, score 14). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 984 of 1125, score 14). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2231,7 +2271,7 @@ HASC held the House side of the NDAA conference through the stripping and is the
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 720 of 1111, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 725 of 1125, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -2258,7 +2298,7 @@ Division G of Public Law 118-31. Sec. 7341 moves the annual UAP report obligatio
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 975 of 1111, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 983 of 1125, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2289,7 +2329,7 @@ Why the intelligence side is the harder problem and the softer target at the sam
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 48 of 1111, score 81). 7 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 49 of 1125, score 81). 7 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2327,7 +2367,7 @@ THIS IS THE NODE IN THIS CLUSTER WITH A REAL AGENCY RECORD, AND IT SHOULD CARRY 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 477 of 1111, score 31). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded B on a global pass (rank 479 of 1125, score 31). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -2362,7 +2402,7 @@ Published 19 January 2024, seven weeks after Kirkpatrick left AARO and seven wee
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 401 of 1111, score 34). 6 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 404 of 1125, score 34). 6 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2381,6 +2421,35 @@ Re-graded B on a global pass (rank 401 of 1111, score 34). 6 connections, 0 of t
 - Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American) runs out to **Robert T. Bigelow** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: names Bigelow as the seeding influence behind the modern belief system. The op-ed's causal account routes the entire disclosure record back through Bigelow's funding of the AAWSAP/AATIP orbit. Sources: Scientific American op-ed, https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/, dated 2024-01-19.
 - Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American) runs out to **YANKEE BLUE (alleged AFOSI indoctrination program)** (program, board tier B), a temporal link at Tier 3 stated inference. The link reads: the 'circular reporting from a small group' thesis, seventeen months before the Air Force was identified as the seeding group. Kirkpatrick's mechanism was correct in form and wrong in agent: belief was seeded and repeated from a small source, but the documented source is a US Air Force indoctrination practice, not a civilian believer network. Whether AARO knew this when the op-ed ran is unresolved, given that AARO discovered Yankee Blue during his tenure. Sources: Scientific American op-ed, https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/, dated 2024-01-19; Metabunk thread documenting the WSJ report, https://www.metabunk.org/threads/yankee-blue-the-hazing-ritual-responsible-for-some-military-belief-in-ufos.14260/, dated 2025-06-06.
 
+## Kirtland AFB / Manzano Weapons Storage Area incident
+
+Kirtland AFB / Manzano Weapons Storage Area incident is a event on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1980; axes C2 A2 D1; 5 connections.
+
+In one line: 8-9 August 1980, Coyote Canyon and Manzano, Kirtland AFB, New Mexico.
+
+### What it is
+
+On the night of 8 August 1980 three members of the 1608th Security Police Squadron at Kirtland Air Force Base - SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier - watched a very bright light approximately three miles north-north-east of their position perform stop-and-go manoeuvres inconsistent with a helicopter, descend into Coyote Canyon, and later depart straight up at high speed. Shortly after midnight a Sandia Laboratories security guard reported a round disc-shaped object near an alarmed structure, with his radio failing during the encounter. A further incident was recorded on 13 August. AFOSI Special Agent Richard C. Doty documented the reports on a complaint form dated 9 September 1980 under District File No. 8017D93-0/29, describing the 'alleged sighting of unidentified aerial lights in restricted test range'. Manzano is a nuclear weapons storage area. The case matters here because of who is in the file: an Air Force counterintelligence agent, a nuclear storage site security detachment, and a Department of Energy contractor laboratory's own guard force. Within a year the same AFOSI office was running material at Paul Bennewitz. The Kirtland file is where the anomalous-object record, the nuclear weapons complex and the disinformation apparatus visibly overlap.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 350 of 1125, score 36). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** A Sandia security guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980; his radio malfunctioned during the encounter. Source: AFOSI FOIA release archived by NICAP
+- **Tier 1 documented.** AFOSI documented sightings at Kirtland AFB between 8 August and 3 September 1980 on a complaint form dated 9 September 1980 filed by Special Agent Richard C. Doty, District File No. 8017D93-0/29. Source: AFOSI FOIA release archived by NICAP
+- **Tier 1 documented.** Independently confirmed this session from the NICAP reproduction of the AFOSI complaint form: the named 1608 Security Police Squadron observers, the Sandia security guard who requested anonymity, and the clock times of 8 to 9 August 1980, together with further observations on 22 August 1980 and a New Mexico State Patrolman on 10 August 1980. The form establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that AFOSI opened a file. IT ESTABLISHES NOTHING ABOUT WHAT THE OBJECTS WERE. Source: AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, opened 2026-09-19
+- **Tier 1 documented.** Named observers were SSgt Stephen Ferenz (area supervisor), ATC Martin W. Rist and AMN Anthony D. Frazier of the 1608 Security Police Squadron, reporting at approximately 23:50 on 8 August 1980. Source: AFOSI FOIA release archived by NICAP
+
+### Its strongest connections
+
+- Kirtland AFB / Manzano Weapons Storage Area incident comes in from **Richard C. Doty** (person, board tier A), a custody link at Tier 1 documented. The link reads: Filed the AFOSI complaint form documenting the incident. Complaint form dated 9 September 1980, District File No. 8017D93-0/29, 'alleged sighting of unidentified aerial lights in restricted test range'. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Kirtland AFB / Manzano Weapons Storage Area incident runs out to **Sandia National Laboratories** (institution, board tier A), a witness-chain link at Tier 1 documented. The link reads: A Sandia security guard is a named reporting party in the AFOSI file. A Sandia guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with radio malfunction. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Kirtland AFB / Manzano Weapons Storage Area incident comes in from **Air Force Office of Special Investigations** (institution, board tier A), a investigative link at Tier 1 documented. The link reads: AFOSI investigated the 1980 intrusions at the nuclear weapons storage area. The intrusions occurred at the Manzano Weapons Storage Area adjacent to Sandia National Laboratories; AFOSI ran the investigation and simultaneously ran the Bennewitz operation. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Kirtland AFB / Manzano Weapons Storage Area incident runs out to **Paul Frederick Bennewitz** (person, board tier B), a investigative link at Tier 1 documented. The link reads: AFOSI opened a file covering the observations Bennewitz was reporting. Confirmed independently this session from the NICAP reproduction. The record establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that a file was opened. It establishes nothing about what the objects were. Sources: AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, dated 2026-09-19.
+- Kirtland AFB / Manzano Weapons Storage Area incident runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a institutional link at Tier 1 documented. The link reads: Occurred at the Manzano Weapons Storage Area and Coyote Canyon. Manzano is a nuclear weapons storage area on the Kirtland footprint shared with Sandia National Laboratories. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+
 ## Brasilia, Federal District, Brazil
 
 Brasilia, Federal District, Brazil is a location on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates no dates recorded; axes C1 A1 D2; 5 connections.
@@ -2393,7 +2462,7 @@ Brasilia is the seat of the Brazilian federal government and the administrative 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 736 of 1111, score 23). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded C on a global pass (rank 741 of 1125, score 23). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2420,7 +2489,7 @@ The Air Force installation in Florida's first congressional district that produc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 447 of 1111, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 450 of 1125, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -2448,7 +2517,7 @@ Los Alamos sits on the Pajarito Plateau in Los Alamos County, New Mexico, and is
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 326 of 1111, score 37). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 329 of 1125, score 37). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -2477,7 +2546,7 @@ Vandenberg, on the Santa Barbara County coast near Lompoc, is the United States'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 373 of 1111, score 35). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 376 of 1125, score 35). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2509,7 +2578,7 @@ A fully documented case of a real programme carrying a second, classified progra
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 224 of 1111, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 230 of 1125, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -2529,7 +2598,7 @@ Re-graded B on a global pass (rank 224 of 1111, score 43). 5 connections, 2 of t
 
 ## MIT Lincoln Laboratory
 
-MIT Lincoln Laboratory is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1951; axes C2 A3 D2; 5 connections.
+MIT Lincoln Laboratory is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1951; axes C2 A3 D2; 5 connections.
 
 In one line: FFRDC, est. 1951; Air Force sponsored.
 
@@ -2539,7 +2608,7 @@ Lincoln Laboratory is MITRE's parent and the first FFRDC in this domain to have 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 166 of 1111, score 49). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 170 of 1125, score 49). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -2576,7 +2645,7 @@ Status as of 12 August 2026. Statutory basis: FY2024 NDAA, P.L. 118-31, sections
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 319 of 1111, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 322 of 1125, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2606,7 +2675,7 @@ Three unclassified U.S. Navy infrared targeting-pod recordings, one captured in 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 230 of 1111, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 237 of 1125, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -2634,7 +2703,7 @@ What Congress actually enacted is a records-transfer statute with the enforcemen
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 164 of 1111, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 168 of 1125, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2667,7 +2736,7 @@ The National Defense Authorization Act for Fiscal Year 2026 was approved on 18 D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 74 of 1111, score 70). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 74 of 1125, score 70). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2703,7 +2772,7 @@ The command responsible for detecting and defeating air threats to North America
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 538 of 1111, score 29). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 539 of 1125, score 29). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -2731,7 +2800,7 @@ Oak Ridge is where the modern government sent the material. In 2022 the All-doma
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 152 of 1111, score 51). 7 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 154 of 1125, score 51). 7 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -2765,7 +2834,7 @@ MOON DUST was the US Air Force codeword for the collection and exploitation of o
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 143 of 1111, score 53). 5 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 145 of 1125, score 53). 5 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -2794,7 +2863,7 @@ Project SIGN was the first official United States Air Force investigation of uni
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 171 of 1111, score 48). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 176 of 1125, score 48). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -2823,7 +2892,7 @@ The fifth and most recent tranche, published 7 August 2026: 41 files comprising 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 123 of 1111, score 55). 5 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 124 of 1125, score 55). 5 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2844,7 +2913,7 @@ Re-graded A on a global pass (rank 123 of 1111, score 55). 5 connections, 5 of t
 
 ## Reid Letter to DEPSECDEF Requesting Restricted SAP Status
 
-Reid Letter to DEPSECDEF Requesting Restricted SAP Status is a document on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2009; axes C2 A3 D3; 5 connections.
+Reid Letter to DEPSECDEF Requesting Restricted SAP Status is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2009; axes C2 A3 D3; 5 connections.
 
 In one line: Senator Harry Reid to William J. Lynn III, 24 June 2009.
 
@@ -2854,7 +2923,7 @@ Three pages on Senate letterhead that are, in the board's judgement, the most co
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 165 of 1111, score 49). 5 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 169 of 1125, score 49). 5 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2887,7 +2956,7 @@ Grade it honestly. This is a corporate research institute that studied gravitati
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 787 of 1111, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 793 of 1125, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -2920,7 +2989,7 @@ The single most valuable unreleased document on this board. It exists. It has ex
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 109 of 1111, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 109 of 1125, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -2955,7 +3024,7 @@ The SAPOC was established on 5 January 1994, not in 2010. A Deputy Secretary of 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 111 of 1111, score 58). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 111 of 1125, score 58). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -2990,7 +3059,7 @@ The Scientific Coalition for UAP Studies describes itself as 'a think tank of sc
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 728 of 1111, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 733 of 1125, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -3019,7 +3088,7 @@ Two Imperial Iranian Air Force F-4 Phantoms were scrambled from Shahrokhi AFB in
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 269 of 1111, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 275 of 1125, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3049,7 +3118,7 @@ The Intercept is an investigative news organisation founded in 2014 and built ar
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 999 of 1111, score 13). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 1007 of 1125, score 13). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -3078,7 +3147,7 @@ The second executive action of 2026 and the one that goes to witnesses rather th
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 239 of 1111, score 42). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 246 of 1125, score 42). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3110,7 +3179,7 @@ The Review Board is the JFK Records Act transplant at the centre of the UAPDA an
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 113 of 1111, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 113 of 1125, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -3139,7 +3208,7 @@ Section 1152 of the National Defense Authorization Act for Fiscal Year 1994, Pub
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 96 of 1111, score 64). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 96 of 1125, score 64). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3175,7 +3244,7 @@ On 15 February 2023 at approximately 1915 PST in Warning Area W-291 off Southern
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 696 of 1111, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded C on a global pass (rank 700 of 1125, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -3203,7 +3272,7 @@ AARO's public posture in the current cycle is defined by what its own homepage d
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 513 of 1111, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 514 of 1125, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3231,7 +3300,7 @@ The first statutory annual report, published 25 October 2023 covering 31 August 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 304 of 1111, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.
+Re-graded B on a global pass (rank 308 of 1125, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -3265,7 +3334,7 @@ This is the money. Contract HHM402-08-C-0072, awarded 22 September 2008 by the D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 154 of 1111, score 51). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 156 of 1125, score 51). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -3298,21 +3367,24 @@ The Bennewitz operation is the only place in this domain where the state's metho
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 286 of 1111, score 39). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 209 of 1125, score 44). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
 - **Tier 1 documented.** AARO's 'Report on the Historical Record of U.S. Government Involvement with UAP, Volume I' (March 2024) contains no mention of Kirtland AFB, AFOSI, Paul Bennewitz or Richard Doty anywhere in its text. Source: AARO Historical Record Report Volume I, DOPSR-2024-0263, 8 Mar 2024 - full-text review
 - **Tier 1 documented.** An AFOSI record dated 10 November 1980 documents Kirtland AFB security police observations of unexplained aerial objects in the Coyote Canyon / Manzano Weapons Storage Area and notes Paul Bennewitz's photographic and reporting activity. Source: AFOSI Kirtland AFB complaint-form record, 10 Nov 1980, released under FOIA
+- **Tier 1 documented.** The complaint form is reproduced in full by NICAP from the CUFON archive and carries on its face: AFOSI Det 1700, Kirtland AFB, New Mexico; District File No. 8017D93-0/29; and 'Richard C Doty, SA'. Named observers with units and clock times: SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier, all 1608 Security Police Squadron, at approximately 2350 hrs on 8 August 1980; an unnamed Sandia security guard at approximately 0020 hrs on 9 August 1980 who requested anonymity; three further security policemen on 22 August 1980; and a New Mexico State Patrolman on 10 August 1980. Source: AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, opened 2026-09-19
 - **Tier 2 named person on the record.** Richard Doty, the AFOSI agent associated with the Kirtland file, has publicly stated that he supplied false documents and information to Bennewitz as part of his official duties. Source: Richard Doty, on-record documentary and press interviews
+- **Tier 3 stated inference.** A DATE DISCREPANCY THAT SHOULD BE RESOLVED RATHER THAN SILENTLY PICKED. The board's existing Tier 1 claim gives the complaint form's date as 9 September 1980. The NICAP page as rendered to this session gives '2-9 Sept 80'. The file number, the agent and the observers match exactly in both. The original scan was not read. Reasoning: two dates for one artefact is a defect a later pass should close by reading the image, not by preferring one. Source: Comparison of the board's existing claim with the NICAP reproduction, https://www.nicap.org/foia_003.htm, checked 2026-09-19
 
 ### Its strongest connections
 
-- AFOSI Kirtland AFB UFO File (1980-1983) runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a institutional link at Tier 1 documented. The link reads: AFOSI District 17 file generated at Kirtland AFB. The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
-- AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Air Force Office of Special Investigations** (institution, board tier B), a custody link at Tier 1 documented. The link reads: AFOSI is the originating agency of the released Kirtland UFO file. The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Richard C. Doty** (person, board tier A), a research link at Tier 1 documented. The link reads: Named on the complaint form as the special agent who filed it. The form carries 'Richard C Doty, SA' under AFOSI Det 1700, Kirtland AFB, District File No. 8017D93-0/29. Typed research as the producer of a document, never custody. This is the Tier 1 source for his AFOSI service and should replace any interview-sourced claim of it. Sources: AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm, dated 2026-09-19.
+- AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Air Force Office of Special Investigations** (institution, board tier A), a custody link at Tier 1 documented. The link reads: AFOSI is the originating agency of the released Kirtland UFO file. The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; NICAP - 1980 Kirtland AFB, NM FOIA document files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
 - AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Paul Frederick Bennewitz** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Bennewitz's reporting generated the AFOSI Kirtland file. The 10 November 1980 AFOSI record documents Kirtland security police observations of unexplained objects over Coyote Canyon and notes Bennewitz's photography and reporting. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+- AFOSI Kirtland AFB UFO File (1980-1983) runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a institutional link at Tier 1 documented. The link reads: AFOSI District 17 file generated at Kirtland AFB. The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
+- AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Richard C. Doty** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Doty was the AFOSI special agent associated with the Kirtland UFO file. Doty served in AFOSI at Kirtland from 1979 and is the agent identified with the Kirtland UFO documents and with the subsequent contact with Bennewitz and Howe. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
 - AFOSI Kirtland AFB UFO File (1980-1983) runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a custody link at Tier 2 named person on the record. The link reads: The AFOSI Kirtland file is the documentary residue of the Bennewitz operation. The AFOSI documents concerning the 1980 Kirtland incidents are the only contemporaneous official records of the observations that triggered the campaign against Bennewitz. Sources: Wikipedia - Kirtland Air Force Base, https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base, dated 2026-08-12.
-- AFOSI Kirtland AFB UFO File (1980-1983) comes in from **Richard C. Doty** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Doty was the AFOSI special agent associated with the Kirtland UFO file. Doty served in AFOSI at Kirtland from 1979 and is the agent identified with the Kirtland UFO documents and with the subsequent contact with Bennewitz and Howe. Sources: Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/, dated 2021-05-20.
 
 ## Air Force Regulation 200-2
 
@@ -3326,7 +3398,7 @@ AFR 200-2, 'Unidentified Flying Objects Reporting', is the internal Air Force re
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 210 of 1111, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.
+Re-graded B on a global pass (rank 215 of 1125, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -3360,7 +3432,7 @@ The Age of Disclosure premiered at SXSW in Austin on 9 March 2025 and is the hig
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 847 of 1111, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 853 of 1125, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3387,7 +3459,7 @@ THE PAPER STATES A REQUIREMENT AND NOT A CAPABILITY, AND IT SAYS SO IN ITS OWN A
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 820 of 1111, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 826 of 1125, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -3417,7 +3489,7 @@ The custody node for two of the three primary documents in this thread, in the s
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 444 of 1111, score 32). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 447 of 1125, score 32). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -3447,7 +3519,7 @@ The Atomic Energy Act of 1946 is where classification by category enters United 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 212 of 1111, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 217 of 1125, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3477,7 +3549,7 @@ In March 1990 the Belgian Air Force scrambled F-16 fighters against objects repo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 234 of 1111, score 42). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 241 of 1125, score 42). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3507,7 +3579,7 @@ THE RAREST EVIDENTIARY SHAPE IN THIS CLUSTER: TWO PARTICIPANTS, BOTH PUBLISHED U
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 310 of 1111, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 314 of 1125, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3541,7 +3613,7 @@ Bigelow Aerospace Advanced Space Studies was the prime contractor executing the 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 119 of 1111, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 120 of 1125, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -3574,7 +3646,7 @@ Boeing enters this record through two doors. The first is testimonial: at the 26
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 486 of 1111, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 488 of 1125, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -3601,7 +3673,7 @@ CENTER LANE was the Army Intelligence and Security Command's designation for the
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 272 of 1111, score 40). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D1.
+Re-graded B on a global pass (rank 278 of 1125, score 40). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D1.
 
 ### The claims on the record
 
@@ -3630,7 +3702,7 @@ The NISPOM ceased to be a DoD manual and became a federal regulation with the co
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 66 of 1111, score 73). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 66 of 1125, score 73). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -3666,7 +3738,7 @@ The most direct answer to how money reaches a programme that does not appear as 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 115 of 1111, score 58). 4 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 115 of 1125, score 58). 4 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -3697,7 +3769,7 @@ The Task Force's opening move. On establishing the Task Force on the Declassific
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 1002 of 1111, score 13). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 1010 of 1125, score 13). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3722,7 +3794,7 @@ Advanced projects organisations are the industrial layer at which secrecy and en
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 314 of 1111, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 317 of 1125, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3736,58 +3808,3 @@ Re-graded B on a global pass (rank 314 of 1111, score 38). 4 connections, 1 of t
 - Aerospace Engineering & Advanced Projects comes in from **Conventional Prompt Global Strike** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: Hypersonic boost-glide development across three services on appropriated funding. Hypersonic boost-glide development across three services, with named prime contractors and appropriated funding. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
 - Aerospace Engineering & Advanced Projects comes in from **Cockpits in the Era of Breakthrough Flight** (document, board tier B), a research link at Tier 1 documented. The link reads: subject domain: crew-station design for breakthrough flight regimes. The paper asks what a cockpit must look like once a vehicle has inertial control, a hover-to-superluminal speed range and no separation between near-ground, orbital and interstellar operating regimes, including the loss of the pilot's own inertia and visual motion cues. It is the only DIRD that reasons from observed flight behaviour back to onboard design constraints rather than to physics. Sources: Released DIRD, 'Cockpits in the Era of Breakthrough Flight', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/, dated 2026-08-22; http://www.jbis.org.uk/paper.php?p=2013.66.278, http://www.jbis.org.uk/paper.php?p=2013.66.278
 - Aerospace Engineering & Advanced Projects runs out to **Prime Contractor Custody** (domain, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Advanced projects shops are the industrial home. The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme. Sources: GAO-04-332, Industrial Security, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-04-332/html/GAOREPORTS-GAO-04-332.htm, dated 2004-03-03.
-
-## Military Aviators & Operators
-
-Military Aviators & Operators is a domain on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2004-11-14; axes C1 A1 D3; 4 connections.
-
-In one line: Witness domain - the trained observers whose accounts came with sensor corroboration.
-
-### What it is
-
-Aviators are the highest-value witness class in this field for one reason: their observations arrive with instrumentation attached. A fighter pilot's account of an object is accompanied by radar tracks, targeting-pod video, wingman corroboration and, in the Navy's case, an entire carrier strike group's sensor picture - which converts a subjective report into a multi-sensor event that can be argued about technically. That is why the 2004 Nimitz encounter and the 2014-2015 Roosevelt encounters became the fulcrum of the modern disclosure period, and why the Department of Defense's formal release of the FLIR1, GIMBAL and GOFAST videos on 27 April 2020 mattered so much: the government authenticated the imagery while declining to explain it. Ryan Graves's testimony added the operational dimension that outlasts any single case - that objects were being encountered routinely off the eastern seaboard, that there was no functioning reporting mechanism, and that the stigma attached to reporting was itself a flight safety hazard. Knuth, Powell and Reali's peer-reviewed analysis of the Nimitz kinematics turned the accounts into numbers. Scoring high on this domain means an entity flew, controlled or commanded during such an event.
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 575 of 1111, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** David Fravor and Ryan Graves submitted written statements to the House Oversight Committee for the 26 July 2023 hearing and testified under oath. Source: House Oversight Committee witness statements
-- **Tier 1 documented.** Knuth, Powell and Reali published an estimate of the flight characteristics of the 2004 Nimitz object in the MaxEnt 2019 proceedings. Source: Proceedings 2019, doi:10.3390/proceedings2019033026
-- **Tier 1 documented.** The Department of Defense formally released the FLIR1, GIMBAL and GOFAST videos on 27 April 2020, stating that the aerial phenomena in them remain characterised as unidentified. Source: DoD statement on release of historical Navy videos
-- **Tier 2 named person on the record.** Alex Dietrich and David Fravor described the 2004 Nimitz encounter on the record to CBS 60 Minutes on 16 May 2021. Source: CBS 60 Minutes, 16 May 2021
-
-### Its strongest connections
-
-- Military Aviators & Operators comes in from **Japan Air Lines flight 1628, Alaska, 17 November 1986** (event, board tier B), a institutional link at Tier 1 documented. The link reads: A civil-aviation case with a crew, an ATC transcript and a radar record. The file contains crew statements, air traffic control transcripts with flight-path charts, and radar data and computer plots. Sources: The Black Vault document archive, 'Japanese Airlines JAL 1628 UFO Encounter, November 17, 1986', https://www.theblackvault.com/documentarchive/ufo-case-japanese-airlines-jal1628-november-17-1986/, dated 2026-09-19.
-- Military Aviators & Operators runs out to **San Diego, California** (location, board tier C), a geographic link at Tier 2 named person on the record. The link reads: Homeport of the Nimitz strike group. The 2004 encounters occurred in the Southern California Operating Area worked by San Diego-based fleet units. Sources: DoD statement on release of historical Navy videos, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/, dated 2020-04-27.
-- Military Aviators & Operators comes in from **Signals & Sensor Intelligence** (domain, board tier B), a research link at Tier 3 stated inference. The link reads: Sensor corroboration is what makes the accounts arguable. Radar tracks and targeting-pod video convert a pilot's account into a multi-sensor event; DoD authenticated the imagery in April 2020 while declining to explain it. Sources: DoD statement on release of historical Navy videos, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/, dated 2020-04-27.
-- Military Aviators & Operators comes in from **Propulsion & Field Physics** (domain, board tier B), a research link at Tier 3 stated inference. The link reads: Reported kinematics set the physics requirement. Aviator accounts with sensor corroboration generate the acceleration and power figures that any propulsion hypothesis must satisfy. Sources: DoD statement on release of historical Navy videos, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/, dated 2020-04-27.
-
-## Propulsion & Field Physics
-
-Propulsion & Field Physics is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1956-02-01; axes C1 A2 D2; 4 connections.
-
-In one line: Technical domain - gravitic, inertial-mass and metric-engineering approaches to flight.
-
-### What it is
-
-The observed flight characteristics reported by aviators - hypersonic velocity without a thermal signature, instantaneous acceleration without a control surface, transmedium travel - are incompatible with reaction propulsion, which is why every serious technical treatment of the subject ends in field physics. That is not a fringe observation but a funded one: DIA's AAWSAP reference documents include commissioned studies on vacuum spacetime metric engineering, on warp drive and negative energy, and on antigravity for aerospace applications. The independent-analysis strand is equally real - Knuth, Powell and Reali published estimates of the flight characteristics of the 2004 Nimitz object in the MaxEnt 2019 proceedings, deriving accelerations and power requirements from the reported kinematics and finding them orders of magnitude beyond known aerospace capability. The documented dual-use route runs through patents: the US Navy has prosecuted and been granted patents in the names of Salvatore Cezar Pais covering high-frequency gravitational wave generators and inertial mass reduction devices, with the Naval Air Warfare Center as assignee, and those filings are public in the USPTO record regardless of what one concludes about them. Scoring high on this domain means an entity worked, funded or filed in this space.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 492 of 1111, score 31). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** DIA commissioned DIRD 15 on advanced space propulsion based on vacuum (spacetime metric) engineering and DIRD 19 on antigravity for aerospace applications. Source: DIA AAWSAP DIRD releases
-- **Tier 1 documented.** Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter' in the MaxEnt 2019 proceedings. Source: Proceedings 2019, 33(1):26, doi:10.3390/proceedings2019033026
-- **Tier 1 documented.** US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', names Salvatore Cezar Pais as inventor and the US Department of the Navy as assignee; filed 28 April 2016, granted 4 December 2018. Source: US Patent 10,144,532 B2 (Google Patents record)
-
-### Its strongest connections
-
-- Propulsion & Field Physics comes in from **Institute of Field Physics (UNC Chapel Hill)** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Standing written disclaimer of any connection to anti-gravity research. On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called "anti-gravity research" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute. Sources: History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/, dated 2026-09-02.
-- Propulsion & Field Physics comes in from **Exotic Technology & Physics** (domain, board tier B), a research link at Tier 1 documented. The link reads: Field physics is the propulsion answer. DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem. Sources: AAWSAP Statement of Work, https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf, dated 2008-08-22.
-- Propulsion & Field Physics comes in from **Conventional Prompt Global Strike** (program, board tier B), a research link at Tier 1 documented. The link reads: Every booster traced to Trident II, Peacekeeper or Polaris derived stages. The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
-- Propulsion & Field Physics runs out to **Military Aviators & Operators** (domain, board tier C), a research link at Tier 3 stated inference. The link reads: Reported kinematics set the physics requirement. Aviator accounts with sensor corroboration generate the acceleration and power figures that any propulsion hypothesis must satisfy. Sources: DoD statement on release of historical Navy videos, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/, dated 2020-04-27.

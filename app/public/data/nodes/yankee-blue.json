@@ -251,7 +251,7 @@
 "url": "https://www.nicap.org/foia_003.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 },
 {
@@ -407,7 +407,7 @@
 "url": "https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "behavioral"
 },
 {
@@ -757,7 +757,7 @@
 "cls": "person",
 "id": "richard-doty",
 "label": "Richard C. Doty",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "person",
@@ -841,7 +841,7 @@
 ],
 "sub": "Alleged USAF/AFOSI program",
 "tier": "B",
-"tierRationale": "Re-graded A on a global pass (rank 38 of 1111, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 38 of 1125, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "date": "2025-06-06",

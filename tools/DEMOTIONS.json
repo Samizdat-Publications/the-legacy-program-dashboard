@@ -745,6 +745,16 @@
   "claim": "THAT CLAIM IS DISPUTED IN THE PUBLISHED LITERATURE BY HIS OWN CO-AUTHOR AND HIS OWN PUBLISHER. Peter Robbins p"
  },
  {
+  "id": "l-kirtland",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; K"
+ },
+ {
+  "id": "l-kirtland",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 a"
+ },
+ {
   "id": "nyt-2017-12-16",
   "why": "node carries no primary-record URL",
   "claim": "Bylined Helene Cooper, Ralph Blumenthal and Leslie Kean and published 16 December 2017; reported AATIP's rough"
@@ -1123,16 +1133,6 @@
   "id": "l-wright-patterson",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "The National Air and Space Intelligence Center, the direct institutional successor to ATIC and the Foreign Tec"
- },
- {
-  "id": "l-kirtland",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; K"
- },
- {
-  "id": "l-kirtland",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 a"
  },
  {
   "id": "l-albuquerque",

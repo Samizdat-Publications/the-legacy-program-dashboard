@@ -1,0 +1,198 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
+"text": "On 10 December 1967 the US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, in an attempt to stimulate production of natural gas from the overlying gas-bearing Pictured Cliffs Formation. The site is 12 miles southwest of Dulce, New Mexico, in the Carson National Forest, totalling 640 acres.",
+"tier": 1
+},
+{
+"source": "DOE Office of Legacy Management Gasbuggy fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , read in full 2026-09-19",
+"text": "The detonation created a cavity and, as the overlying fractured rock collapsed into it, a rubble-filled collapse chimney. This was the first natural gas reservoir stimulation experiment in the Plowshare Program, jointly sponsored by the AEC, the US Department of the Interior and the El Paso Natural Gas Company.",
+"tier": 1
+},
+{
+"source": "DOE Office of Legacy Management Gasbuggy fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , read in full 2026-09-19",
+"text": "Production testing through a reentry well, GB-ER, ran from July 1968 to October 1969 across five tests, producing 213 million cubic feet of natural gas that retained measurable radioactive constituents and had a significantly lower heat value than expected. In 1976 it was decided that no further testing would be conducted.",
+"tier": 1
+},
+{
+"source": "DOE Office of Legacy Management Gasbuggy fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , read in full 2026-09-19",
+"text": "THE FORTY-YEAR FEDERAL RETURN TO THE GROUND. AEC decommissioned and demobilised the site in 1978, injecting liquid radioactive waste into the former cavity and transporting solid radioactive waste to the Nevada Test Site. Soil sampling followed in 1978, 1986, 2000 and 2002; final surface remediation removed 5,562 cubic yards of contaminated soil and was completed in September 2004. A permanent monument, a brass plaque in a concrete base, was placed at the site.",
+"tier": 1
+},
+{
+"source": "Inference from the DOE Office of Legacy Management Gasbuggy fact sheet, opened 2026-09-19",
+"text": "STATED INFERENCE, AND ITS LIMIT. Gasbuggy is adjacent in space to the alleged Dulce facility and prior to it in time by twelve years, and it involved exactly the activities the rumour describes in outline: federal secrecy, deep drilling, explosives underground and decades of unexplained official presence. NOTHING OPENED DEMONSTRATES THAT GASBUGGY CAUSED THE RUMOUR, and the inference stops at adjacency and precedence. Reasoning: a plausible mechanism is not a demonstrated one, and the board has been burned before by upgrading the former into the latter.",
+"tier": 3
+}
+],
+"cls": "event",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1978",
+"direction": "out",
+"edgeLabel": "DOE Office of Legacy Management holds long-term stewardship",
+"id": "doe",
+"l0": true,
+"label": "United States Department of Energy",
+"note": "Decommissioned by the AEC in 1978 with liquid radioactive waste injected into the former cavity; soil sampling in 1978, 1986, 2000 and 2002; final surface remediation completed September 2004.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full",
+"url": "https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "2004-09",
+"dateStart": "1967-12-10",
+"direction": "out",
+"edgeLabel": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full",
+"url": "https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1967-12-10",
+"direction": "out",
+"edgeLabel": "640 acres in the Carson National Forest, twelve miles southwest of Dulce",
+"id": "l-dulce",
+"l0": false,
+"label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
+"note": "From the DOE fact sheet: Rio Arriba County, approximately 55 miles east of Farmington, just west of the Jicarilla Apache Reservation.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full",
+"url": "https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf"
+}
+],
+"tier": "C",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": "2004-09",
+"dateStart": "1967-12-10",
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "gasbuggy-1967",
+"label": "Project Gasbuggy, 10 December 1967"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
+"note": "The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour.",
+"of": {
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"sources": [
+{
+"date": "2026-09-19",
+"name": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full",
+"url": "https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf"
+}
+]
+}
+],
+"desc": "Project Gasbuggy is the best counter-explanation artefact in the Dulce cluster, and it is a government fact sheet rather than an argument. On 10 December 1967 the US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, in an attempt to stimulate natural gas production from the overlying Pictured Cliffs Formation. It was the first natural-gas reservoir stimulation experiment in the Plowshare programme, jointly sponsored by the AEC, the Department of the Interior and the El Paso Natural Gas Company. The detonation vaporised rock, produced a cavity, and left a rubble-filled collapse chimney as the overlying rock fell into the void. A reentry well, GB-ER, was drilled into the chimney and contaminated gas was produced and flared through five production tests between July 1968 and October 1969, yielding 213 million cubic feet of natural gas that still carried measurable radioactive constituents and a significantly lower heat value than expected. In 1976 it was decided that no further testing would be conducted. The AEC decommissioned and demobilised the site in 1978, injecting liquid radioactive waste into the former cavity and shipping solid radioactive waste to the Nevada Test Site. Soil sampling followed in 1978, 1986, 2000 and 2002; final surface remediation removed 5,562 cubic yards of contaminated soil and was completed in September 2004. A permanent monument, a brass plaque mounted in a concrete base, marks the spot. THE NODE EXISTS TO STATE ADJACENCY AND PRECEDENCE, NOT CAUSATION. Nothing opened by this board demonstrates that Gasbuggy generated the Dulce rumour, and the dated chronology of the cluster's originators does not say so either. What it establishes is that the United States government did a large, secret, radioactive thing in the ground twelve miles from Dulce in the decade before the rumour began, and then returned to that ground for the next forty years.",
+"domains": [
+"dulce-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "gasbuggy-1967",
+"l0": false,
+"label": "Project Gasbuggy, 10 December 1967",
+"locLabel": null,
+"members": null,
+"short": "Project Gasbuggy, 10 December 1967",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full",
+"url": "https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf"
+},
+{
+"date": "2013-09-23",
+"name": "Tom Sharpe, The Santa Fe New Mexican, 'Book claims government behind cattle mutilations'",
+"url": "https://www.santafenewmexican.com/news/local_news/book-claims-government-behind-cattle-mutilations/article_5c78559b-39a3-5610-b49b-df0a8a327af8.html"
+}
+],
+"sub": "A 29-kiloton AEC detonation at 4,227 feet, twelve miles southwest of Dulce; the documented federal underground operation next to the rumour, twelve years before it",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 764 of 1125, score 22). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
+"timeline": [
+{
+"date": "1967-12-10",
+"id": "tl-1967-12-10-gasbuggy",
+"label": "AEC detonates 29 kilotons at 4,227 feet, twelve miles from Dulce",
+"precision": "day",
+"strand": "program",
+"text": "The US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, twelve miles southwest of Dulce in the Carson National Forest, to stimulate natural gas production from the Pictured Cliffs Formation. The first reservoir-stimulation experiment of the Plowshare programme, jointly sponsored by the AEC, the Department of the Interior and El Paso Natural Gas. THE EARLIEST DATED ARTEFACT IN THE CLUSTER, and it is a government record, twelve years before the rumour begins.",
+"tier": "B"
+},
+{
+"date": "1968-07",
+"id": "tl-1968-07-gasbuggy-testing",
+"label": "Production testing begins; the gas comes back radioactive",
+"precision": "month",
+"strand": "program",
+"text": "Testing through the reentry well GB-ER ran from July 1968 to October 1969 across five tests, producing 213 million cubic feet of natural gas that retained measurable radioactive constituents and a significantly lower heat value than expected.",
+"tier": "B"
+},
+{
+"date": "1978",
+"id": "tl-1978-gasbuggy-decommission",
+"label": "AEC decommissions the site and injects liquid radioactive waste into the cavity",
+"precision": "year",
+"strand": "program",
+"text": "Structures and equipment were decontaminated and removed, liquid radioactive waste was injected into the former cavity now forming the lower part of the collapse chimney, solid radioactive waste went to the Nevada Test Site, and test wells were plugged. Soil sampling followed in 1978, 1986, 2000 and 2002.",
+"tier": "B"
+},
+{
+"date": "2004-09",
+"id": "tl-2004-09-gasbuggy-remediation",
+"label": "Final surface remediation completed; 5,562 cubic yards of contaminated soil removed",
+"precision": "month",
+"strand": "program",
+"text": "Thirty-seven years after the detonation the federal government was still hauling contaminated soil off ground twelve miles from Dulce. A permanent monument, a brass plaque in a concrete base, marks the site.",
+"tier": "B"
+}
+]
+}

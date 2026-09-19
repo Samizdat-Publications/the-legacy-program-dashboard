@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3620,
-   "2": 1574,
-   "3": 561
+   "1": 3648,
+   "2": 1618,
+   "3": 573
   },
-  "edges": 2632,
-  "entities": 780,
+  "edges": 2661,
+  "entities": 787,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
   "l0": 149,
-  "nodes": 1111,
+  "nodes": 1125,
   "patents": 5,
-  "people": 331,
+  "people": 338,
   "sheets": 11,
   "threads": 8,
-  "timeline": 1026
+  "timeline": 1050
  },
  "eras": [
   {
@@ -1015,8 +1015,8 @@
    "D": 0,
    "band": "retrieval",
    "claims": [
+    4,
     3,
-    2,
     1
    ],
    "cls": "institution",
@@ -1031,7 +1031,7 @@
    "label": "Air Force Office of Special Investigations",
    "short": "AFOSI",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 2,
@@ -1039,9 +1039,9 @@
    "D": 3,
    "band": null,
    "claims": [
-    2,
+    3,
     1,
-    0
+    1
    ],
    "cls": "document",
    "cluster": "other",
@@ -2258,6 +2258,30 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    2,
+    0
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": "1981",
+   "dateStart": "1981",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "bennewitz-project-beta-1981",
+   "l0": false,
+   "label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
+   "short": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 2,
    "C": 0,
    "D": 2,
@@ -2424,6 +2448,30 @@
    "short": "Bigelow Aerospace",
    "status": null,
    "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    3,
+    2,
+    0
+   ],
+   "cls": "person",
+   "cluster": "media",
+   "dateEnd": null,
+   "dateStart": "2001-11-06",
+   "deg": 2,
+   "era": "2",
+   "hl": null,
+   "id": "bill-cooper",
+   "l0": false,
+   "label": "Milton William Cooper",
+   "short": "Milton William Cooper",
+   "status": "deceased",
+   "tier": "C"
   },
   {
    "A": 0,
@@ -4132,6 +4180,30 @@
   {
    "A": 0,
    "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    3,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "media",
+   "dateEnd": "1990-11-21",
+   "dateStart": "1989-05-23",
+   "deg": 1,
+   "era": "1",
+   "hl": null,
+   "id": "cooper-secret-government-1989",
+   "l0": false,
+   "label": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990",
+   "short": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
    "D": 2,
    "band": null,
    "claims": [
@@ -4640,14 +4712,14 @@
    "band": null,
    "claims": [
     1,
-    1,
+    2,
     1
    ],
    "cls": "domain",
-   "cluster": "ic",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1984-12-11",
-   "deg": 3,
+   "deg": 4,
    "era": "1",
    "hl": null,
    "id": "d-disinformation",
@@ -4879,7 +4951,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    2,
+    3,
     1,
     0
    ],
@@ -4887,7 +4959,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1947-07-01",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "d-legacy",
@@ -4895,7 +4967,7 @@
    "label": "Legacy Program",
    "short": "Legacy Program",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -4967,7 +5039,7 @@
    "label": "Legislative Process (proposed and pending)",
    "short": "Legislative Process (proposed and pending)",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -5289,13 +5361,13 @@
    "claims": [
     2,
     1,
-    0
+    1
    ],
    "cls": "domain",
-   "cluster": "ic",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1953-01-17",
-   "deg": 6,
+   "deg": 7,
    "era": "0",
    "hl": null,
    "id": "d-psyop",
@@ -7831,7 +7903,7 @@
    "D": 0,
    "band": "reverse-engineering",
    "claims": [
-    3,
+    4,
     1,
     1
    ],
@@ -7839,7 +7911,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1977-10-01",
-   "deg": 20,
+   "deg": 21,
    "era": "1",
    "hl": null,
    "id": "doe",
@@ -8112,6 +8184,30 @@
    "short": "Defense Threat Reduction Agency",
    "status": null,
    "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    2,
+    4,
+    1
+   ],
+   "cls": "location",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1979",
+   "deg": 15,
+   "era": "1",
+   "hl": null,
+   "id": "dulce-base",
+   "l0": false,
+   "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+   "short": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+   "status": null,
+   "tier": "A"
   },
   {
    "A": 2,
@@ -9362,6 +9458,30 @@
    "tier": "C"
   },
   {
+   "A": 1,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    0,
+    2,
+    1
+   ],
+   "cls": "person",
+   "cluster": "oversight",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 1,
+   "era": "nd",
+   "hl": null,
+   "id": "gabe-valdez",
+   "l0": false,
+   "label": "Gabriel L. \"Gabe\" Valdez",
+   "short": "Gabriel L. \"Gabe\" Valdez",
+   "status": "deceased",
+   "tier": "C"
+  },
+  {
    "A": 0,
    "C": 1,
    "D": 3,
@@ -9719,6 +9839,30 @@
    "label": "Gary Voorhis",
    "short": "Gary Voorhis",
    "status": "active",
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    4,
+    0,
+    1
+   ],
+   "cls": "event",
+   "cluster": "legacy",
+   "dateEnd": "2004-09",
+   "dateStart": "1967-12-10",
+   "deg": 3,
+   "era": "0",
+   "hl": null,
+   "id": "gasbuggy-1967",
+   "l0": false,
+   "label": "Project Gasbuggy, 10 December 1967",
+   "short": "Project Gasbuggy, 10 December 1967",
+   "status": null,
    "tier": "C"
   },
   {
@@ -10416,6 +10560,30 @@
    "short": "Los Alamos Green Fireballs Conference",
    "status": null,
    "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "media",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 1,
+   "era": "nd",
+   "hl": null,
+   "id": "greg-bishop",
+   "l0": false,
+   "label": "Greg Bishop",
+   "short": "Greg Bishop",
+   "status": "alive",
+   "tier": "C"
   },
   {
    "A": 3,
@@ -11303,7 +11471,7 @@
    "label": "Hoyt S. Vandenberg",
    "short": "Hoyt S. Vandenberg",
    "status": "dead",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -13352,14 +13520,14 @@
    "band": null,
    "claims": [
     11,
-    1,
+    2,
     0
    ],
    "cls": "person",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2022-08-17",
-   "deg": 15,
+   "deg": 17,
    "era": "3",
    "hl": null,
    "id": "john-greenewald",
@@ -13376,21 +13544,21 @@
    "band": null,
    "claims": [
     2,
-    2,
+    3,
     0
    ],
    "cls": "person",
-   "cluster": "witness",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "2022-03-29",
-   "deg": 3,
+   "deg": 4,
    "era": "3",
    "hl": null,
    "id": "john-lear",
    "l0": false,
    "label": "John Olsen Lear",
    "short": "John Olsen Lear",
-   "status": "dead",
+   "status": "active",
    "tier": "C"
   },
   {
@@ -13751,7 +13919,7 @@
    "label": "Kecksburg incident, 9 December 1965",
    "short": "Kecksburg incident, 9 December 1965",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -14119,15 +14287,15 @@
    "D": 1,
    "band": null,
    "claims": [
-    3,
+    4,
     0,
     0
    ],
    "cls": "event",
-   "cluster": "legacy",
+   "cluster": "other",
    "dateEnd": "1980",
    "dateStart": "1980",
-   "deg": 4,
+   "deg": 5,
    "era": "1",
    "hl": null,
    "id": "kirtland-manzano-1980",
@@ -14642,6 +14810,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    1,
+    2,
+    1
+   ],
+   "cls": "location",
+   "cluster": "legacy",
+   "dateEnd": null,
+   "dateStart": "1967",
+   "deg": 4,
+   "era": "0",
+   "hl": null,
+   "id": "l-dulce",
+   "l0": false,
+   "label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
+   "short": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 2,
    "C": 1,
    "D": 0,
@@ -14887,12 +15079,12 @@
    "D": 1,
    "band": null,
    "claims": [
-    0,
+    2,
     4,
     1
    ],
    "cls": "location",
-   "cluster": "legacy",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1941",
    "deg": 10,
@@ -14927,7 +15119,7 @@
    "label": "Los Angeles and Burbank, California",
    "short": "Los Angeles and Burbank, California",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -16352,11 +16544,11 @@
    "band": null,
    "claims": [
     0,
-    1,
+    2,
     1
    ],
    "cls": "person",
-   "cluster": "media",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1983-04-09",
    "deg": 2,
@@ -17183,7 +17375,7 @@
    "label": "Michael Powers",
    "short": "Michael Powers",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -17519,7 +17711,7 @@
    "label": "MIT Lincoln Laboratory",
    "short": "MIT Lincoln Laboratory",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -18962,6 +19154,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    3,
+    0
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 1,
+   "era": "nd",
+   "hl": null,
+   "id": "norio-hayakawa",
+   "l0": false,
+   "label": "Norio Hayakawa",
+   "short": "Norio Hayakawa",
+   "status": "alive",
+   "tier": "C"
+  },
+  {
    "A": 3,
    "C": 2,
    "D": 0,
@@ -19927,15 +20143,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    1,
     3,
+    5,
     1
    ],
    "cls": "person",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1980-11-10",
-   "deg": 6,
+   "deg": 11,
    "era": "1",
    "hl": null,
    "id": "paul-bennewitz",
@@ -20210,6 +20426,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    1,
+    6,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1996-01-11",
+   "deg": 1,
+   "era": "1",
+   "hl": null,
+   "id": "phil-schneider",
+   "l0": false,
+   "label": "Philip Schneider",
+   "short": "Philip Schneider",
+   "status": "deceased",
+   "tier": "C"
+  },
+  {
    "A": 2,
    "C": 2,
    "D": 2,
@@ -20456,14 +20696,14 @@
    "band": null,
    "claims": [
     1,
-    1,
-    0
+    2,
+    1
    ],
    "cls": "program",
    "cluster": "other",
    "dateEnd": "1989",
    "dateStart": "1983",
-   "deg": 2,
+   "deg": 3,
    "era": "1",
    "hl": null,
    "id": "project-aquarius",
@@ -20518,6 +20758,30 @@
    "l0": false,
    "label": "Project BEAR (Battelle contract to Project GRUDGE)",
    "short": "Project BEAR (Battelle contract to Project GRUDGE)",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "media",
+   "dateEnd": "2005-02-08",
+   "dateStart": "2005-02-08",
+   "deg": 2,
+   "era": "2",
+   "hl": null,
+   "id": "project-beta-bishop-2005",
+   "l0": false,
+   "label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
+   "short": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
    "status": null,
    "tier": "C"
   },
@@ -21263,7 +21527,7 @@
    "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "short": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -21487,15 +21751,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    1,
     3,
-    0
+    7,
+    1
    ],
    "cls": "person",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1983-04-01",
-   "deg": 10,
+   "deg": 11,
    "era": "1",
    "hl": null,
    "id": "richard-doty",
@@ -21503,7 +21767,7 @@
    "label": "Richard C. Doty",
    "short": "Richard C. Doty",
    "status": "active",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 2,
@@ -22631,6 +22895,30 @@
    "label": "Sarah Little",
    "short": "Sarah Little",
    "status": "active",
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    0,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "media",
+   "dateEnd": "2021-02-03",
+   "dateStart": "2021-02-03",
+   "deg": 2,
+   "era": "3",
+   "hl": null,
+   "id": "saucers-spooks-and-kooks-2021",
+   "l0": false,
+   "label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
+   "short": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
+   "status": null,
    "tier": "C"
   },
   {
@@ -23933,6 +24221,30 @@
    "A": 0,
    "C": 0,
    "D": 3,
+   "band": null,
+   "claims": [
+    0,
+    3,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 3,
+   "era": "nd",
+   "hl": null,
+   "id": "tal-levesque",
+   "l0": false,
+   "label": "Tal Levesque (Jason Bishop III)",
+   "short": "Tal Levesque (Jason Bishop III)",
+   "status": "deceased",
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
    "band": "research",
    "claims": [
     5,
@@ -24266,6 +24578,30 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    1,
+    3,
+    2
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 3,
+   "era": "nd",
+   "hl": null,
+   "id": "thomas-castello",
+   "l0": false,
+   "label": "Thomas Edwin Castello (fabricated)",
+   "short": "Thomas Edwin Castello (fabricated)",
+   "status": "fabricated",
+   "tier": "C"
+  },
+  {
    "A": 1,
    "C": 0,
    "D": 0,
@@ -24503,7 +24839,7 @@
    "label": "Timothy A. Phillips",
    "short": "Timothy A. Phillips",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -26624,7 +26960,7 @@
    "band": null,
    "claims": [
     2,
-    3,
+    5,
     1
    ],
    "cls": "person",
@@ -26834,5 +27170,5 @@
    "tier": "C"
   }
  ],
- "source": "f1120bd5a0fa"
+ "source": "a682f271cc4b"
 }

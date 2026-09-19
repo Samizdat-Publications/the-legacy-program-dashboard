@@ -56,7 +56,7 @@ Roles the board assigns it: funding, custody, reverse-engineering, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 7 of 1111, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 7 of 1125, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -153,7 +153,7 @@ Roles the board assigns it: reverse-engineering, concealment, funding, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 87 of 1111, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 87 of 1125, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -233,7 +233,7 @@ Roles the board assigns it: custody, reverse-engineering, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 26 of 1111, score 100). 31 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 26 of 1125, score 100). 31 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -278,7 +278,7 @@ It carries 31 connections in total on the board.
 
 ## United States Department of Energy
 
-United States Department of Energy is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1977-10-01; axes C3 A3 D0; 20 connections; in the reverse-engineering band.
+United States Department of Energy is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1977-10-01; axes C3 A3 D0; 21 connections; in the reverse-engineering band.
 
 In one line: Successor to the Atomic Energy Commission; holder of Restricted Data authority independent of the executive classification system.
 
@@ -324,7 +324,7 @@ Roles the board assigns it: custody, concealment, reverse-engineering.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 49 of 1111, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 44 of 1125, score 84). 22 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -341,6 +341,7 @@ Re-graded A on a global pass (rank 49 of 1111, score 80). 21 connections, 6 of t
 - **Tier 1 documented.** Of those 50 incidents, 47 occurred between 1700 and 0500 local time, five persisted for at least one hour and the longest was recorded at approximately three hours. Source: AARO FY2025 Consolidated Annual Report on UAP, Section IV.F; https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf
 - **Tier 1 documented.** Restricted Data is classified under the Atomic Energy Act of 1954 rather than under an executive order, is not subject to automatic declassification, and requires affirmative review before declassification; the Act grants DOE government-wide authority over Restricted Data and its control. Source: 42 U.S.C. 2162, Classification and declassification of Restricted Data; https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title42-section2162&num=0&edition=prelim
 - **Tier 1 documented.** Section 3373(k) of title 50, United States Code, requires AARO's annual report to include the results of consultation with the Administrator for Nuclear Security regarding reported incidents of UAP associated with facilities or assets involved in the production, transportation or storage of nuclear weapons or components. Source: AARO FY2025 Consolidated Annual Report on UAP, Section II, quoting 50 U.S.C. 3373(k)(1)(B); https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf
+- **Tier 1 documented.** The DOE Office of Legacy Management holds long-term stewardship of the Gasbuggy site in Rio Arriba County, New Mexico, 640 acres in the Carson National Forest twelve miles southwest of Dulce, where the AEC detonated a 29-kiloton device at 4,227 feet on 10 December 1967. Liquid radioactive waste was injected into the former cavity on decommissioning in 1978 and final surface remediation removing 5,562 cubic yards of contaminated soil was completed in September 2004. Source: US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf, text extracted and read in full 2026-09-19
 - **Tier 1 documented.** The Department of Energy does not appear among the organisations with a records transmittal listed in the National Archives UAP Records Collection, Record Group 615, as of the collection page's 22 May 2026 review date. Source: https://www.archives.gov/research/topics/uaps/rg-615
 - **Tier 2 named person on the record.** A Department of Energy report describes security personnel at the Pantex nuclear weapons assembly and disassembly plant near Amarillo, Texas observing a diamond-shaped object in early September 2015; the object was tracked by ground radar, photographed from a nearby radar tower, and the imagery was analysed by DOE's Sandia National Laboratories. The report was released in fuller form during the 2026 executive-branch UAP disclosure tranches after earlier heavily redacted releases. Source: https://www.newschannel10.com/2026/07/15/declassified-documents-detail-2015-silent-ufo-sighting-near-pantex-nuclear-facility/ and https://www.foxnews.com/politics/trump-ufo-file-dump-includes-military-footage-mysterious-star-shaped-object
 - **Tier 2 named person on the record.** A conference on the green fireball phenomenon was held at Los Alamos Scientific Laboratory on 16 February 1949, attended by laboratory director Norris Bradbury, Edward Teller and Frederick Reines together with representatives of the FBI, the Atomic Energy Commission and the military, and by Lincoln LaPaz of the University of New Mexico Institute of Meteoritics. Source: https://www.history.com/articles/ufos-green-fireballs-nuclear-facilities-new-mexico and reporting on released Los Alamos records at https://www.8newsnow.com/mystery-wire/los-alamos-green-fireballs/
@@ -362,9 +363,9 @@ Re-graded A on a global pass (rank 49 of 1111, score 80). 21 connections, 6 of t
 - United States Department of Energy comes in from **National Nuclear Security Administration** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Semi-autonomous agency within DOE established by Congress in 2000. NNSA describes itself as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
 - United States Department of Energy comes in from **Lawrence Livermore National Laboratory** (institution, board tier B), a funding link at Tier 1 documented. The link reads: DOE weapons laboratory operating under Atomic Energy Act classification authority. Restricted Data classification is statutory rather than executive-order-derived, and is therefore untouched by presidential declassification directives of the kind driving the 2026 PURSUE releases. Sources: CRS Report R44629, https://www.everycrsreport.com/reports/R44629.html, dated 2026-05-15.
 - United States Department of Energy runs out to **Lawrence Livermore National Laboratory** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: DOE/NNSA management and operating contract; Lawrence Livermore. Livermore is an NNSA weapons laboratory operating under DOE classification authority rather than DoD SAP authority. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
-- United States Department of Energy comes in from **Stony Brook University** (institution, board tier C), a funding link at Tier 1 documented. The link reads: DOE is the contracting agency for both Brookhaven management-and-operating contracts. The Department of Energy is the contracting agency for both Brookhaven management-and-operating contracts, DEAC0298CH10886 and DESC0012704. Sources: USAspending.gov award search API, contracts DEAC0298CH10886 and DESC0012704, https://api.usaspending.gov/api/v2/search/spending_by_award/, dated 2026-09-02.
+- United States Department of Energy comes in from **Project Gasbuggy, 10 December 1967** (event, board tier C), a institutional link at Tier 1 documented. The link reads: DOE Office of Legacy Management holds long-term stewardship. Decommissioned by the AEC in 1978 with liquid radioactive waste injected into the former cavity; soil sampling in 1978, 1986, 2000 and 2002; final surface remediation completed September 2004. Sources: US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf, dated 2026-09-19.
 
-It carries 21 connections in total on the board.
+It carries 22 connections in total on the board.
 
 ## EarthTech International / Institute for Advanced Studies at Austin
 
@@ -413,7 +414,7 @@ Roles the board assigns it: reverse-engineering, research, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 85 of 1111, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 85 of 1125, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -491,7 +492,7 @@ Roles the board assigns it: reverse-engineering, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 129 of 1111, score 55). 12 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 130 of 1125, score 55). 12 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -551,7 +552,7 @@ Roles the board assigns it: reverse-engineering, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 132 of 1111, score 54). 8 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 133 of 1125, score 54). 8 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -632,7 +633,7 @@ Roles the board assigns it: funding, reverse-engineering, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 2 of 1111, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 2 of 1125, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -729,7 +730,7 @@ Roles the board assigns it: research, reverse-engineering, funding, custody, con
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 15 of 1111, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 15 of 1125, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -826,7 +827,7 @@ Roles the board assigns it: research, funding, reverse-engineering, concealment,
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 20 of 1111, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 20 of 1125, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -927,7 +928,7 @@ Roles the board assigns it: reverse-engineering, custody, concealment, funding, 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 10 of 1111, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 10 of 1125, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1025,7 +1026,7 @@ Roles the board assigns it: reverse-engineering, concealment, oversight, custody
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 69 of 1111, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 69 of 1125, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1113,7 +1114,7 @@ Roles the board assigns it: disclosure, custody, reverse-engineering.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 51 of 1111, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 51 of 1125, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1212,7 +1213,7 @@ Roles the board assigns it: reverse-engineering, custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 93 of 1111, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.
+Re-graded A on a global pass (rank 93 of 1125, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.
 
 ### The claims on the record
 
@@ -1301,7 +1302,7 @@ Roles the board assigns it: oversight, disclosure, research, reverse-engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 222 of 1111, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 227 of 1125, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1386,7 +1387,7 @@ Roles the board assigns it: custody, reverse-engineering, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 78 of 1111, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 78 of 1125, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -1472,7 +1473,7 @@ Roles the board assigns it: reverse-engineering, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 8 of 1111, score 135). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 8 of 1125, score 135). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

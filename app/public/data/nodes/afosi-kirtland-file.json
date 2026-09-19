@@ -5,6 +5,16 @@
 "band": null,
 "claims": [
 {
+"source": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
+"text": "The complaint form is reproduced in full by NICAP from the CUFON archive and carries on its face: AFOSI Det 1700, Kirtland AFB, New Mexico; District File No. 8017D93-0/29; and 'Richard C Doty, SA'. Named observers with units and clock times: SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier, all 1608 Security Police Squadron, at approximately 2350 hrs on 8 August 1980; an unnamed Sandia security guard at approximately 0020 hrs on 9 August 1980 who requested anonymity; three further security policemen on 22 August 1980; and a New Mexico State Patrolman on 10 August 1980.",
+"tier": 1
+},
+{
+"source": "Comparison of the board's existing claim with the NICAP reproduction, https://www.nicap.org/foia_003.htm , checked 2026-09-19",
+"text": "A DATE DISCREPANCY THAT SHOULD BE RESOLVED RATHER THAN SILENTLY PICKED. The board's existing Tier 1 claim gives the complaint form's date as 9 September 1980. The NICAP page as rendered to this session gives '2-9 Sept 80'. The file number, the agent and the observers match exactly in both. The original scan was not read. Reasoning: two dates for one artefact is a defect a later pass should close by reading the image, not by preferring one.",
+"tier": 3
+},
+{
 "source": "AFOSI Kirtland AFB complaint-form record, 10 Nov 1980, released under FOIA",
 "text": "An AFOSI record dated 10 November 1980 documents Kirtland AFB security police observations of unexplained aerial objects in the Coyote Canyon / Manzano Weapons Storage Area and notes Paul Bennewitz's photographic and reporting activity.",
 "tier": 1
@@ -46,7 +56,7 @@
 "url": "https://www.nicap.org/foia_003.htm"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "custody"
 },
 {
@@ -135,8 +145,29 @@
 "url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1980-09",
+"direction": "in",
+"edgeLabel": "Named on the complaint form as the special agent who filed it",
+"id": "richard-doty",
+"l0": false,
+"label": "Richard C. Doty",
+"note": "The form carries 'Richard C Doty, SA' under AFOSI Det 1700, Kirtland AFB, District File No. 8017D93-0/29. Typed research as the producer of a document, never custody. This is the Tier 1 source for his AFOSI service and should replace any interview-sourced claim of it.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive",
+"url": "https://www.nicap.org/foia_003.htm"
+}
+],
+"tier": "A",
+"type": "research"
 }
 ],
 "coords": null,
@@ -147,6 +178,7 @@
 "desc": "The AFOSI file generated at Kirtland Air Force Base beginning in 1980 is the documentary spine of the Bennewitz affair. Its central record - a complaint-form entry dated 10 November 1980 - documents that Kirtland security police observed unexplained aerial objects over the Coyote Canyon and Manzano Weapons Storage Area, the nuclear-weapons storage complex on the base's eastern edge, and notes the reporting and photographic activity of the Albuquerque physicist Paul Bennewitz. The file matters for two independent reasons. First, it is an official Air Force counterintelligence concession that unidentified objects were seen over a nuclear weapons storage site in 1980, eleven years after the Air Force publicly stopped investigating such things. Second, it is the entry point of an operation: the agent associated with the file, Richard Doty, subsequently supplied Bennewitz with fabricated material, showed a purported classified briefing paper to the documentary producer Linda Moulton Howe, and was linked to the channel through which the MJ-12 material reached Bill Moore and Jaime Shandera. The file has never been the subject of any published official review. AARO's 2024 Historical Record Report Volume I does not mention Kirtland, AFOSI, Bennewitz or Doty.",
 "domains": [
 "_rs-archive-mirror",
+"dulce-2026-09-19",
 "history-1970s-2000s"
 ],
 "dossier": null,
@@ -194,6 +226,11 @@
 "url": "https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
 },
 {
+"date": "2026-09-19",
+"name": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive",
+"url": "https://www.nicap.org/foia_003.htm"
+},
+{
 "date": "2021-05-20",
 "name": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release",
 "url": "https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/"
@@ -211,8 +248,17 @@
 ],
 "sub": "Air Force Office of Special Investigations records, District 17",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 286 of 1111, score 39). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 209 of 1125, score 44). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
+{
+"date": "1980-09",
+"id": "tl-1980-09-afosi-form",
+"label": "AFOSI complaint form filed, District File No. 8017D93-0/29, SA Richard C Doty",
+"precision": "month",
+"strand": "witness",
+"text": "The form carries AFOSI Det 1700, Kirtland AFB, New Mexico, the district file number and 'Richard C Doty, SA' on its face. THIS IS THE TIER 1 SOURCE FOR DOTY'S AFOSI SERVICE and needs no interview to support it. The board's existing claim dates the form 9 September 1980; the NICAP page as rendered gives '2-9 Sept 80'; the discrepancy is unresolved.",
+"tier": "B"
+},
 {
 "date": "1980-11-10",
 "id": "t-1980-kirtland",

@@ -1,6 +1,6 @@
 # The strongest connections on the board
 
-The board holds 2632 hand written links between its nodes. These are the hundred that combine the best evidenced link tier with the two best placed and most connected nodes at either end, each told as a short paragraph with the note somebody wrote when they made the link and the sources it rests on.
+The board holds 2661 hand written links between its nodes. These are the hundred that combine the best evidenced link tier with the two best placed and most connected nodes at either end, each told as a short paragraph with the note somebody wrote when they made the link and the sources it rests on.
 
 ## 1. All-domain Anomaly Resolution Office (AARO) and David Charles Grusch
 
@@ -674,7 +674,15 @@ No AARO report describes an inspection, audit or subpoena of any contractor faci
 
 Sources: The Black Vault, 'AARO Releases FY2025 UAP Report Months After Statutory Deadline, Citing 319 New Cases and Expanded Satellite Analysis', https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/, dated 2026-07-21; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
 
-## 85. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and Sean M. Kirkpatrick
+## 85. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and John Greenewald Jr.
+
+AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (document, board tier A, 32 connections) is joined to John Greenewald Jr. (person, board tier A, 17 connections) by a investigative link recorded at Tier 1 documented. The link is labelled: Hosts the working public mirror of Volume I. It is dated 2024.
+
+The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original.
+
+Sources: The Black Vault - AARO Historical Record Report Volume I (mirror), https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+
+## 86. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and Sean M. Kirkpatrick
 
 AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (document, board tier A, 32 connections) is joined to Sean M. Kirkpatrick (person, board tier A, 17 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: directed the production of the official history. It is dated 2023 to 2024.
 
@@ -682,7 +690,7 @@ The Volume I historical review was drafted under Kirkpatrick's directorship of A
 
 Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; AARO Historical Record Report, Volume I, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf, dated 2024-02-01; All-domain Anomaly Resolution Office, https://www.aaro.mil/, dated 2026-08-12; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; The Debrief, 'Pentagon UAP Report Says No Evidence U.S. Has Collected Exotic Technology, Kept Programs Hidden from Congress', https://thedebrief.org/pentagon-uap-report-says-no-evidence-u-s-has-collected-exotic-technology-kept-programs-hidden-from-congress/, dated 2024-03-08.
 
-## 86. Anna Paulina Luna and House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'
+## 87. Anna Paulina Luna and House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'
 
 Anna Paulina Luna (person, board tier A, 26 connections) is joined to House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (event, board tier A, 23 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Luna chaired the hearing at which the contractor allegation acquired names. It is dated 2025.
 
@@ -690,7 +698,7 @@ Luna chaired the Task Force on the Declassification of Federal Secrets hearing a
 
 Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; House Oversight - Hearing Wrap Up: Government Must Be More Transparent About UAPs, https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/, dated 2025-09-09.
 
-## 87. Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999 and United States Department of Defense (secondary designation: Department of War)
+## 88. Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999 and United States Department of Defense (secondary designation: Department of War)
 
 Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999 (document, board tier A, 4 connections) is joined to United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) by a funding link recorded at Tier 1 documented. The link is labelled: The Department is the account holder for every published classified line. It is dated 2025-12-18.
 
@@ -698,7 +706,7 @@ All 25 'CLASSIFIED PROGRAMS' rows in the FY2026 funding tables sit in Department
 
 Sources: NDAA FY2026, Division D, https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm, dated 2025-12-18.
 
-## 88. DoD Special Access Program Central Office (DoD SAPCO) and Waived SAP Notification Group
+## 89. DoD Special Access Program Central Office (DoD SAPCO) and Waived SAP Notification Group
 
 DoD Special Access Program Central Office (DoD SAPCO) (institution, board tier A, 18 connections) is joined to Waived SAP Notification Group (institution, board tier A, 31 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: DoDI 5205.11 para. 7.2.a(3) - waived-SAP access limited to chair, ranking member, staff directors and one security manager. It is dated 2024-09-12.
 
@@ -706,7 +714,7 @@ DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Speci
 
 Sources: https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf, https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf; 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18), https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf, dated 2026-05-18; https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf, https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf
 
-## 89. Luis D. Elizondo and Nancy Ruth Mace
+## 90. Luis D. Elizondo and Nancy Ruth Mace
 
 Luis D. Elizondo (person, board tier A, 38 connections) is joined to Nancy Ruth Mace (person, board tier A, 11 connections) by a investigative link recorded at Tier 1 documented. The link is labelled: Mace elicited the only public description of a distributed contractor custody model. It is dated 2024.
 
@@ -714,7 +722,7 @@ The exchange converts the allegation from a claim about one company into a descr
 
 Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 
-## 90. Defense Intelligence Agency and National Archives Unidentified Anomalous Phenomena Records Collection
+## 91. Defense Intelligence Agency and National Archives Unidentified Anomalous Phenomena Records Collection
 
 Defense Intelligence Agency (institution, board tier A, 35 connections) is joined to National Archives Unidentified Anomalous Phenomena Records Collection (institution, board tier A, 13 connections) by a denial link recorded at Tier 1 documented. The link is labelled: Produced no records for the first statutory UAP transfer. It is dated 2025-04-24.
 
@@ -722,7 +730,7 @@ NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regul
 
 Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
 
-## 91. Antigravity for Aerospace Applications and The 38 Defense Intelligence Reference Documents (DIRDs)
+## 92. Antigravity for Aerospace Applications and The 38 Defense Intelligence Reference Documents (DIRDs)
 
 Antigravity for Aerospace Applications (document, board tier A, 7 connections) is joined to The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: DIRD.
 
@@ -730,7 +738,7 @@ Membership of the DIRD series is established by the released document itself: it
 
 Sources: Released DIRD, 'Antigravity for Aerospace Applications' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22.
 
-## 92. Harry M. Reid and Waived SAP Notification Group
+## 93. Harry M. Reid and Waived SAP Notification Group
 
 Harry M. Reid (person, board tier A, 17 connections) is joined to Waived SAP Notification Group (institution, board tier A, 31 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group.
 
@@ -738,21 +746,13 @@ This is the cleanest demonstration that the two small groups are different sets.
 
 Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; 50 U.S.C. 3093(c)(2), the Gang of Eight construct, for contrast with the section 119 group, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/, dated 2009-06-24; https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm, https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm
 
-## 93. Luis D. Elizondo and CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy
+## 94. Luis D. Elizondo and CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy
 
 Luis D. Elizondo (person, board tier A, 38 connections) is joined to CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy (document, board tier A, 10 connections) by a custody link recorded at Tier 1 documented. The link is labelled: Named as TTSA's principal investigator on the Army agreement. It is dated 2019 to 2020.
 
 Two years after resigning from OUSD(I), Elizondo is the named private-sector counterpart to an Army laboratory on an exotic-materials instrument.
 
 Sources: The War Zone, https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims, dated 2019-10-18.
-
-## 94. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and John Greenewald Jr.
-
-AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (document, board tier A, 32 connections) is joined to John Greenewald Jr. (person, board tier A, 15 connections) by a investigative link recorded at Tier 1 documented. The link is labelled: Hosts the working public mirror of Volume I. It is dated 2024.
-
-The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original.
-
-Sources: The Black Vault - AARO Historical Record Report Volume I (mirror), https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 
 ## 95. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and Roswell Incident
 

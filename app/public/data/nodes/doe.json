@@ -5,6 +5,11 @@
 "band": "reverse-engineering",
 "claims": [
 {
+"source": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
+"text": "The DOE Office of Legacy Management holds long-term stewardship of the Gasbuggy site in Rio Arriba County, New Mexico, 640 acres in the Carson National Forest twelve miles southwest of Dulce, where the AEC detonated a 29-kiloton device at 4,227 feet on 10 December 1967. Liquid radioactive waste was injected into the former cavity on decommissioning in 1978 and final surface remediation removing 5,562 cubic yards of contaminated soil was completed in September 2004.",
+"tier": 1
+},
+{
 "source": "NNSA, About NNSA",
 "text": "DOE's National Nuclear Security Administration was 'Established by Congress in 2000' as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'.",
 "tier": 1
@@ -125,6 +130,27 @@
 }
 ],
 "tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "1978",
+"direction": "in",
+"edgeLabel": "DOE Office of Legacy Management holds long-term stewardship",
+"id": "gasbuggy-1967",
+"l0": false,
+"label": "Project Gasbuggy, 10 December 1967",
+"note": "Decommissioned by the AEC in 1978 with liquid radioactive waste injected into the former cavity; soil sampling in 1978, 1986, 2000 and 2002; final surface remediation completed September 2004.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full",
+"url": "https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf"
+}
+],
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -513,7 +539,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1977-10-01",
-"deg": 20,
+"deg": 21,
 "denials": [
 {
 "by": {
@@ -566,6 +592,7 @@
 "desc": "DOE is the single most important agency on this board that has never testified about UAP, because DOE holds a classification authority that no executive order can reach. Created by the Department of Energy Organization Act of 1977 as successor to the Atomic Energy Commission and the Energy Research and Development Administration, DOE administers the Restricted Data and Formerly Restricted Data categories created by the Atomic Energy Act of 1954 - information that is 'born classified' by statute, outside the Executive Order 13526 framework, and therefore outside any presidential declassification directive that operates only on national security information. A president can order the release of UAP files under EO 13526; he cannot, by executive order alone, release Restricted Data. DOE's semi-autonomous National Nuclear Security Administration, established by Congress in 2000, runs the weapons complex: Los Alamos, Sandia and Lawrence Livermore national laboratories, the Nevada National Security Site, the Pantex Plant, Y-12 at Oak Ridge and the Savannah River Site - a distributed archipelago of guarded, instrumented, contractor-operated facilities with independent security regimes, its own police force, its own clearance system (the Q clearance) and a demonstrated capability to store and analyse anomalous material under a cover story. DOE's documented UAP footprint is old and specific: the 1948-1951 green fireball flap centred on Los Alamos and Sandia, prompting the February 1949 Los Alamos conference attended by Edward Teller, Lincoln LaPaz and AEC and Air Force personnel and the subsequent Project TWINKLE instrumented observation effort; the 1980 Kirtland AFB/Manzano Weapons Storage Area intrusions adjacent to the nuclear stockpile; and the modern materials-analysis work performed for AARO at Oak Ridge National Laboratory. AARO's Historical Record Report records only that 'AARO sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP' - a records request, not an inspection. No DOE official has ever testified at a UAP hearing.",
 "domains": [
 "_rs-archive-mirror",
+"dulce-2026-09-19",
 "w2-agencies"
 ],
 "dossier": {
@@ -701,6 +728,12 @@
 },
 {
 "cls": "event",
+"id": "gasbuggy-1967",
+"label": "Project Gasbuggy, 10 December 1967",
+"tier": "C"
+},
+{
+"cls": "event",
 "id": "green-fireballs-conference-1949",
 "label": "Los Alamos Green Fireballs Conference",
 "tier": "B"
@@ -767,6 +800,11 @@
 "url": "https://web.archive.org/web/20260806084012/https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf"
 },
 {
+"date": "2026-09-19",
+"name": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site: A Nevada Offsite Fact Sheet', 3pp, text extracted and read in full",
+"url": "https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf"
+},
+{
 "date": "2026-08-12",
 "name": "National Nuclear Security Administration - About NNSA",
 "url": "https://www.energy.gov/nnsa/about-nnsa"
@@ -794,7 +832,7 @@
 ],
 "sub": "Successor to the Atomic Energy Commission; holder of Restricted Data authority independent of the executive classification system",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 49 of 1111, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 44 of 1125, score 84). 22 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "1949-02-16",

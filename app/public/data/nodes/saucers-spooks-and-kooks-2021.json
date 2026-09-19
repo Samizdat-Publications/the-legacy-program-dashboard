@@ -1,0 +1,118 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Norio Hayakawa, 23 April 2021 and 2 April 2024, both reproducing the confession and attributing it to this book, https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
+"text": "The book printed Tal Levesque's November 2015 email admitting that Thomas Edwin Castello was his own creation, obtained after a correspondence in which Levesque had repeatedly maintained that Castello was real and the Dulce material authentic. Published by Daily Grail Publishing, 3 February 2021, ISBN 978-0994617682.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2021-02-03",
+"dateStart": "2021-02-03",
+"direction": "out",
+"edgeLabel": "The publication that obtained and printed the confession",
+"id": "dulce-base",
+"l0": false,
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"note": "A document about the cluster with no authorship relation to any node in it, typed investigative. The book itself was not opened; the confession was read as reproduced by a third party quoting it, which caps every dependent claim at Tier 2.",
+"sources": [
+{
+"date": "2021-04-23",
+"name": "Norio Hayakawa, 'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths'",
+"url": "https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/"
+},
+{
+"date": "2024-04-02",
+"name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2021-02-03",
+"dateStart": "2015-11",
+"direction": "out",
+"edgeLabel": "Obtained Levesque's confession across a multi-year correspondence",
+"id": "tal-levesque",
+"l0": false,
+"label": "Tal Levesque (Jason Bishop III)",
+"note": "Gorightly pressed him repeatedly, in different forms, after Levesque had maintained that Castello was real; the November 2015 message is the result.",
+"sources": [
+{
+"date": "2021-04-23",
+"name": "Norio Hayakawa, 'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths'",
+"url": "https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/"
+},
+{
+"date": "2024-04-02",
+"name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2021-02-03",
+"dateStart": "2021-02-03",
+"deg": 2,
+"denials": [],
+"desc": "Published by Daily Grail Publishing on 3 February 2021, ISBN 978-0994617682. Its significance to this board is narrow and large: it is the publication in which Adam Gorightly printed Tal Levesque's November 2015 email confessing that Thomas Edwin Castello was his own creation, obtained after a long correspondence in which Levesque had repeatedly maintained the opposite. That confession is the anchor of the thomas-castello node and the reason the Dulce cluster is the board's cleanest example of manufactured corroboration. THE BOOK WAS NOT OPENED BY THIS SESSION. The confession was read as reproduced on Norio Hayakawa's site, quoting the book, which is why every claim depending on it is capped at Tier 2 and why opening the book, or the email, is the single highest-value upgrade available to a later pass in this cluster.",
+"domains": [
+"dulce-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "saucers-spooks-and-kooks-2021",
+"l0": false,
+"label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
+"locLabel": null,
+"members": null,
+"short": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
+"sources": [
+{
+"date": "2021-04-23",
+"name": "Norio Hayakawa, 'Thomas E. Castello never existed, admitted the late Tal Levesque, originator of the Dulce Base myths'",
+"url": "https://noriohayakawa.wordpress.com/2021/04/23/thomas-e-castello-never-existed-admitted-the-late-tal-levesque-originator-of-the-dulce-base-myths/"
+},
+{
+"date": "2024-04-02",
+"name": "Norio Hayakawa, Civilian Intelligence News Service, 'Startling final confession made in 2015 by the enigmatic Tal Levesque'",
+"url": "https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/"
+}
+],
+"sub": "The publication of record for Tal Levesque's confession that Thomas Edwin Castello was an invention",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 1110 of 1125, score 8). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2021-02-03",
+"id": "tl-2021-02-03-gorightly-book",
+"label": "Gorightly publishes the confession in Saucers, Spooks and Kooks",
+"precision": "day",
+"strand": "witness",
+"text": "Daily Grail Publishing, ISBN 978-0994617682. The book was NOT opened by this session; the confession was read as reproduced by Hayakawa quoting it, which is why every dependent claim is capped at Tier 2 and why opening the book is this cluster's highest-value upgrade.",
+"tier": "C"
+}
+]
+}

@@ -3038,7 +3038,7 @@
    ],
    "label": "Who denied what",
    "onMap": 46,
-   "total": 153
+   "total": 156
   },
   {
    "blurb": "States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument.",
@@ -3284,7 +3284,7 @@
    "id": "afosi",
    "label": "Air Force Office of Special Investigations",
    "short": "AFOSI",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -5387,7 +5387,7 @@
    "tier": "B"
   }
  ],
- "source": "f1120bd5a0fa",
+ "source": "a682f271cc4b",
  "summarised": [
   {
    "a": "aaro",

@@ -56,7 +56,7 @@ Roles the board assigns it: concealment, funding, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 106 of 1111, score 60). 13 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 107 of 1125, score 60). 13 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -140,7 +140,7 @@ Roles the board assigns it: oversight, disclosure, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 276 of 1111, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 282 of 1125, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -168,9 +168,9 @@ Re-graded B on a global pass (rank 276 of 1111, score 40). 12 connections, 0 of 
 - United States House of Representatives runs out to **United States Department of Defense (secondary designation: Department of War)** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Committee finding of non-cooperation by DoD and the IC. Chairwoman Luna: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.' Sources: CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - United States House of Representatives comes in from **DoD Special Access Program Central Office (DoD SAPCO)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Single point of congressional liaison for every DoD special access program. DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval. The office being overseen is notified before the overseer is briefed. Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12; DoD Directive 5205.07, 12 September 2024, https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf, dated 2024-09-12.
 - United States House of Representatives runs out to **U.S. House Committee on Oversight and Government Reform** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Committee that took the 2023 and 2024 public UAP testimony. House Oversight held the 26 July 2023 hearing and the 13 November 2024 hearing, and its Task Force on the Declassification of Federal Secrets held the 9 September 2025 hearing. Sources: CHRG-118hhrg53022, House Oversight UAP hearing transcript, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- United States House of Representatives runs out to **Legislative Process (proposed and pending)** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: the chamber where the text was stripped in 2023 and where a successor passed in 2026. The House is where UAP oversight became public through the July 2023 Oversight hearing, where House leadership's role in the conference removal of the disclosure title became a contested question, and where the Burlison amendment was adopted on 22 July 2026. Both the defeat and the advance ran through the same chamber. Sources: House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; The Hill, 'House lawmakers demand transparency from leaders on UAP amendment's inclusion in Defense bill', https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/, dated 2023-11-30; Rep. Eric Burlison, 'House Adopts Burlison Amendment Establishing UAP Disclosure Framework', https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework, dated 2026-07-22.
 - United States House of Representatives runs out to **The HASC/HAC-D special access program read-in gate** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: HASC and HAC-D leadership control member access to program material. The gate is described on the record by the chair of the investigating task force; the two committees controlling it are not the committee conducting the inquiry. Sources: CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - United States House of Representatives comes in from **Tom Cole** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Representative, Oklahoma 4th district; Chairman of Appropriations from April 2024. The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert. Sources: https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations, https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations; cole.house.gov, https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee; 10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22.
-- United States House of Representatives runs out to **Legislative Process (proposed and pending)** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: the chamber where the text was stripped in 2023 and where a successor passed in 2026. The House is where UAP oversight became public through the July 2023 Oversight hearing, where House leadership's role in the conference removal of the disclosure title became a contested question, and where the Burlison amendment was adopted on 22 July 2026. Both the defeat and the advance ran through the same chamber. Sources: House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; The Hill, 'House lawmakers demand transparency from leaders on UAP amendment's inclusion in Defense bill', https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/, dated 2023-11-30; Rep. Eric Burlison, 'House Adopts Burlison Amendment Establishing UAP Disclosure Framework', https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework, dated 2026-07-22.
 - United States House of Representatives runs out to **House Armed Services Committee** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: One half of the read-in gate described by Chairwoman Luna. HASC leadership approval is required, together with HAC-D leadership, for a non-committee member to view specific program material. Sources: CHRG-119hhrg61718, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; 10 U.S.C. 119, Special access programs: congressional oversight, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
 - United States House of Representatives comes in from **William B. Adkins** (person, board tier C), a institutional link at Tier 1 documented. The link reads: House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA. Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex. Sources: Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11), https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2026-08-11; National Reconnaissance Office - About NRO, https://www.nro.gov/About-NRO/, dated 2026-08-12; https://www.nro.gov/About-NRO/Leadership/leadership-adkins/, https://www.nro.gov/About-NRO/Leadership/leadership-adkins/
 - United States House of Representatives runs out to **509th Bomb Group** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: Congressionally requested GAO search of 509th and RAAF records. At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority. Sources: GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico' (report landing page), https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28; GAO/NSIAD-95-187, full report (PDF), https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28; GAO/NSIAD-95-187, report to the Honorable Steven H. Schiff, House of Representatives, July 28, 1995 -- https://sgp.fas.org/othergov/roswell.html
@@ -205,7 +205,7 @@ Roles the board assigns it: research, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 233 of 1111, score 42). 9 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+Re-graded B on a global pass (rank 240 of 1125, score 42). 9 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -277,7 +277,7 @@ Roles the board assigns it: oversight, funding, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 421 of 1111, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 424 of 1125, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -306,8 +306,8 @@ Re-graded B on a global pass (rank 421 of 1111, score 33). 9 connections, 0 of t
 - Senate Armed Services Committee comes in from **FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting** (legislation, board tier A), a behavioral link at Tier 1 documented. The link reads: Disposed of with seventeen amendments and no open process. The only Senate floor amendment proposed to S. 1071 was SA 3961 by Senator Thune 'to improve the bill'; there was no amendment process in which the UAPDA could have been offered. Sources: Congress.gov, S. 1071, https://www.congress.gov/bill/119th-congress/senate-bill/1071, dated 2025-12-18.
 - Senate Armed Services Committee comes in from **FY2024 Intelligence Authorization Act sec. 7343, Funding Limitations Relating to UAP** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: named as an appropriate committee. Sec. 7343(a)(1) defines 'appropriate committees of Congress' for this section as the Senate Select Committee on Intelligence, the Senate Armed Services Committee and Senate Appropriations, together with HPSCI, HASC and House Appropriations. SASC is therefore one of the six bodies to which a UAP-related programme must be reported before intelligence funds may be spent on it. Sources: Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Senate Armed Services Committee comes in from **Congressional oversight of special access programs** (institution, board tier B), a legislative link at Tier 1 documented. The link reads: Defense committee receiving waived-SAP notification. Same statutory provision; four committees, eight members. Sources: 10 U.S.C. 119, Special access programs: congressional oversight, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
+- Senate Armed Services Committee runs out to **Legislative Process (proposed and pending)** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: owns the only vehicle the disclosure text has ever ridden, and has never reported it. Every version of the Act - 2023, 2024 and the announced later attempts - has reached the floor as an amendment to a SASC bill rather than as a committee product, which means no committee report, no markup record and no members professionally invested in defending it in conference. A committee's non-action is a process fact and belongs in this domain. Sources: Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22; S. 4784, 119th Congress, reported in Senate (GPO), https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm, dated 2026-06-15; Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
 - Senate Armed Services Committee comes in from **John F. Reed** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Chairman 2021-2025. Reed chaired SASC through the only cycle in which a UAP disclosure regime reached an engrossed Senate bill. Sources: Congress.gov, S. 2226, https://www.congress.gov/bill/118th-congress/senate-bill/2226, dated 2023-07-11.
-- Senate Armed Services Committee runs out to **Legislative Process (proposed and pending)** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: owns the only vehicle the disclosure text has ever ridden, and has never reported it. Every version of the Act - 2023, 2024 and the announced later attempts - has reached the floor as an amendment to a SASC bill rather than as a committee product, which means no committee report, no markup record and no members professionally invested in defending it in conference. A committee's non-action is a process fact and belongs in this domain. Sources: Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO), https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22; S. 4784, 119th Congress, reported in Senate (GPO), https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm, dated 2026-06-15; Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
 - Senate Armed Services Committee comes in from **United States Senate** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Committee of jurisdiction for DoD special access program reporting. SASC is one of the four defense committees to which 10 U.S.C. 119 reporting runs, and one of the two whose chairman and ranking member receive waived-SAP notification. Sources: 10 U.S.C. 119, Special access programs: congressional oversight, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
 - Senate Armed Services Committee comes in from **Harry M. Reid** (person, board tier A), a behavioral link at Tier 3 stated inference. The link reads: Set the leadership-discretion precedent the domain still runs on. The legacy effort was funded by leadership discretion outside the ordinary committee record, and every attempt to reach it since has likewise been a leadership floor amendment rather than a committee product. Sources: S. 2226 (Engrossed in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm, dated 2023-07-27.
 
@@ -361,7 +361,7 @@ Roles the board assigns it: research, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 142 of 1111, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 144 of 1125, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -429,7 +429,7 @@ Roles the board assigns it: research, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 149 of 1111, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 151 of 1125, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.
 
 ### The claims on the record
 
@@ -488,7 +488,7 @@ Roles the board assigns it: research, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 376 of 1111, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 379 of 1125, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -556,7 +556,7 @@ Roles the board assigns it: oversight, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 32 of 1111, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
+Re-graded A on a global pass (rank 32 of 1125, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -655,7 +655,7 @@ Roles the board assigns it: research, custody, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 126 of 1111, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 127 of 1125, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -744,7 +744,7 @@ Roles the board assigns it: concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 91 of 1111, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 91 of 1125, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -830,7 +830,7 @@ Roles the board assigns it: concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 22 of 1111, score 104). 13 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 22 of 1125, score 104). 13 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -927,7 +927,7 @@ Roles the board assigns it: concealment, oversight, funding, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 39 of 1111, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 39 of 1125, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1016,7 +1016,7 @@ Roles the board assigns it: research, concealment, funding, oversight, disclosur
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 76 of 1111, score 70). 11 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 76 of 1125, score 70). 11 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1112,7 +1112,7 @@ Roles the board assigns it: funding, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 110 of 1111, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 110 of 1125, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1144,7 +1144,7 @@ Re-graded A on a global pass (rank 110 of 1111, score 59). 9 connections, 6 of t
 - The Classified Annex (NDAA and Defense Appropriations) comes in from **Section 8084 - NIP reprogramming notification against classified annex levels** (legislation, board tier C), a funding link at Tier 1 documented. The link reads: NIP reprogramming is measured against levels that exist only in the annex. Section 8084(b) conditions NIP reprogramming notice on cumulative change to 'the levels specified in the classified annex accompanying the Act' - a public statute making the unpublished annex the operative baseline. Attested by the enacted text. Sources: DoD Appropriations Act 2026, Sec. 8084, https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm, dated 2026-02-03.
 - The Classified Annex (NDAA and Defense Appropriations) comes in from **Waived SAP Notification Group** (institution, board tier A), a funding link at Tier 2 named person on the record. The link reads: four of the twelve seats are appropriations leadership. The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group's sight of a waived programme includes the money as well as the report. Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084, https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm, dated 2026-02-03; https://www.appropriations.senate.gov/subcommittees/defense, https://www.appropriations.senate.gov/subcommittees/defense
 - The Classified Annex (NDAA and Defense Appropriations) comes in from **SFFAS 56 - Classified Activities (FASAB, 4 October 2018)** (document, board tier B), a programmatic link at Tier 3 stated inference. The link reads: Accounting-side and appropriations-side concealment of the same activity. The classified annex conceals what was appropriated; SFFAS 56 permits the resulting spending to be reported in the wrong line of the public financial statement with no note. The inference is that the two together close the loop between authorisation and reporting; no document links them. Sources: SFFAS 56; DoD Appropriations Act 2026 Sec. 8006, https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf, dated 2018-10-04.
-- The Classified Annex (NDAA and Defense Appropriations) comes in from **Michael Powers** (person, board tier C), a institutional link at Tier 3 stated inference. The link reads: The Comptroller executes the annex. The Under Secretary (Comptroller)/CFO is the official responsible for execution of appropriated funds including those directed by the classified annex tables under section 8006(a). Reasoned inference from the office's statutory functions; no document names the incumbent in connection with the annex. Sources: Department of War Comptroller; DoD Appropriations Act 2026 Sec. 8006, https://comptroller.war.gov/, dated 2026-08-12.
+- The Classified Annex (NDAA and Defense Appropriations) comes in from **Michael Powers** (person, board tier B), a institutional link at Tier 3 stated inference. The link reads: The Comptroller executes the annex. The Under Secretary (Comptroller)/CFO is the official responsible for execution of appropriated funds including those directed by the classified annex tables under section 8006(a). Reasoned inference from the office's statutory functions; no document names the incumbent in connection with the annex. Sources: Department of War Comptroller; DoD Appropriations Act 2026 Sec. 8006, https://comptroller.war.gov/, dated 2026-08-12.
 
 ## Northrop Grumman Corporation
 
@@ -1173,7 +1173,7 @@ Roles the board assigns it: custody, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 398 of 1111, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 401 of 1125, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -1226,7 +1226,7 @@ Roles the board assigns it: research, concealment, custody, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 117 of 1111, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 118 of 1125, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1302,7 +1302,7 @@ Roles the board assigns it: concealment, funding, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 57 of 1111, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 57 of 1125, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1389,7 +1389,7 @@ Roles the board assigns it: funding, concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 180 of 1111, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 185 of 1125, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1473,7 +1473,7 @@ Roles the board assigns it: research, disclosure, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 490 of 1111, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 492 of 1125, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1557,7 +1557,7 @@ Roles the board assigns it: oversight, disclosure, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 24 of 1111, score 103). 25 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 24 of 1125, score 103). 25 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1663,7 +1663,7 @@ Roles the board assigns it: disclosure, oversight, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 41 of 1111, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 41 of 1125, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1760,7 +1760,7 @@ Roles the board assigns it: funding, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 287 of 1111, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 292 of 1125, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1833,7 +1833,7 @@ Roles the board assigns it: funding, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 44 of 1111, score 84). 11 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 45 of 1125, score 84). 11 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1915,7 +1915,7 @@ Roles the board assigns it: oversight, concealment, disclosure, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 89 of 1111, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
+Re-graded A on a global pass (rank 89 of 1125, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -2012,7 +2012,7 @@ Roles the board assigns it: disclosure, concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 156 of 1111, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 158 of 1125, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2082,7 +2082,7 @@ Roles the board assigns it: funding, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 153 of 1111, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 155 of 1125, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 

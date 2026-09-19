@@ -1008,6 +1008,102 @@
   }
  },
  {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-jicarilla-apache-position",
+   "text": "THE LARGEST GAP IN THE CLUSTER, AND AN ETHICAL ONE AS MUCH AS AN EVIDENTIARY ONE. The Jicarilla Apache Nation's position on the claim could not be established at all. Three 2009 Albuquerque Journal pieces reported to carry it, including 'Aliens? Underground? in Dulce?' of 18 January 2009, returned connection refused and HTTP 404 on 19 September 2026, and web.archive.org is unavailable to this session. The widely repeated formulation that the Nation has no official position, and remarks attributed to a public-relations staffer named Merlin Cassador, are NOT asserted anywhere in this build and no edge rests on them. The only tribal official whose words were opened is Legislative Council President Ty Vicenti, quoted in a May 2016 feature issuing a tourism welcome and neither asserting nor denying a base. A sovereign nation whose land is the subject of the claim has not, so far as this session could open, been asked on the record.",
+   "wouldClose": "Any of the three 2009 Albuquerque Journal pieces via a non-refusing host; the Chacon article of 8 May 2016, 'A town of true believers'; or a statement obtained directly from the Jicarilla Apache Nation."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-levesque-confession-first-hand",
+   "text": "THE LOAD-BEARING ITEM OF THE WHOLE CLUSTER IS READ AT SECOND HAND. Tal Levesque's November 2015 email confessing that Thomas Edwin Castello was his own creation was read as reproduced on Norio Hayakawa's site, quoting Adam Gorightly's book. NEITHER THE EMAIL NOR THE BOOK WAS OPENED. Every claim depending on the confession is therefore capped at Tier 2, including the claims on thomas-castello, tal-levesque, dulce-base and d-disinformation. This is the single highest-value upgrade available in this cluster and the board should not lean harder on the confession than Tier 2 until it is closed.",
+   "wouldClose": "A first-hand read of Adam Gorightly, 'Saucers, Spooks and Kooks', Daily Grail Publishing, 2021, ISBN 978-0994617682, or of the email itself."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-knapp-doty-article",
+   "text": "George Knapp's own written account of his own Doty interview was not opened: six separate Nexstar-family URLs, at mysterywire.com, 8newsnow.com, krqe.com, koin.com, kron4.com and yourcentralvalley.com, all returned HTTP 403 on 19 September 2026. The board has the video's auto-generated caption track and NOT ONE WORD of the article. The interview's reported date of February 2020 and its reported setting, the 2019 UFO Mega Con at Laughlin, Nevada, come only from search summaries and are not asserted. The denial edge from richard-doty therefore carries no date.",
+   "wouldClose": "A non-403 route to the Mystery Wire article, or a syndicated copy on a non-Nexstar host."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-doty-personnel-file-contents",
+   "text": "Doty's 321-page New Mexico State Police personnel file is Tier 1 as a release and entirely unread as a document. His AFOSI service dates, rank progression and reason for separation remain undocumented beyond the single 1980 complaint form. Given that this cluster turns on what a self-described disinformation officer did and when, the contents of the one official personnel record anyone has obtained is a conspicuous hole.",
+   "wouldClose": "Downloading and reading the 321-page PDF from The Black Vault's document archive."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-phil-schneider-employment",
+   "text": "NO EMPLOYMENT OF PHILIP SCHNEIDER BY ANY EMPLOYER WAS DOCUMENTED BY THIS BOARD: no employer record, no contract, no clearance record, no payroll. The attribution to Morrison Knudsen, the US Army Corps of Engineers and the US Navy rests on a contributor-written biography attached to a Find a Grave memorial and on his own lectures. This is stated on the phil-schneider node itself and not only here, because a node whose claims are all self-sourced must say so on its face.",
+   "wouldClose": "A Morrison Knudsen or Corps of Engineers personnel or contract record, a clearance record, or any payroll document naming him."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-phil-schneider-death-record",
+   "text": "Philip Schneider's death is used as an argument by the literature and is undocumented here. No death certificate, medical examiner's report or police report was opened. Two dates are in circulation, 11 January 1996 from the memorial record and 17 January 1996 tied to the discovery of the body, and the conflict is unresolved. The suicide ruling, the ligature and the letter attributed to Cynthia Drayer of 23 February 1996 contesting the finding are all in circulation and none of it is carried as a claim.",
+   "wouldClose": "The Clackamas County medical examiner's report or the Oregon death certificate."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-ufo-coverup-live-1988",
+   "text": "UFO COVER-UP? LIVE! IS DELIBERATELY NOT BUILT. The artefact was not opened in any form: not the broadcast, not a listing, not a contemporaneous review. Its reported date of 14 October 1988, its producer, its 'Falcon' segment and Doty's reported denial of having been Falcon all rest on search summaries. No node and no claim is proposed for it, and it should be built only after somebody opens the artefact. It belongs in the cluster as the moment the material reached a national audience, which is exactly why building it on summaries would be a mistake.",
+   "wouldClose": "A recording of the 14 October 1988 syndicated broadcast, a contemporaneous television listing, or a dated contemporaneous review."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-bennewitz-domenici-letter",
+   "text": "A letter from Bennewitz to Senator Pete Domenici dated 2 December 1981, reportedly referring to a 'Dulce War', would be the earliest dated artefact tying Bennewitz's own hand to the place name and would materially strengthen the origin edge into the hub. It is known only from a citation apparatus; the underlying source was not opened and it is not carried as a claim.",
+   "wouldClose": "The letter itself, or a contemporaneous source reproducing it."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-1988-santa-fe-new-mexican",
+   "text": "The earliest contemporaneous sceptical newspaper treatment identified, 'ETs living in NM? Not likely, investigators say' by Kay Bird and Steve Terrell in The Santa Fe New Mexican, is paywalled at newspapers.com and was not opened. It carries two different dates in the two places that cite it, 1 September and 11 September 1988. Opening it would give the cluster a contemporaneous local negative from 1988, which it currently lacks entirely: every sceptical source in this build is from 2013 or later.",
+   "wouldClose": "A newspapers.com subscription read, or a library copy of the Santa Fe New Mexican for September 1988."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-afosi-form-date",
+   "text": "The AFOSI complaint form carries two dates across the board's own sources: the existing Tier 1 claim gives 9 September 1980, the NICAP reproduction as rendered to this session gives '2-9 Sept 80'. The file number, the agent and the observers match exactly in both, so this is a transcription question and not a provenance one, but a primary document with two dates on this board is a defect a later pass should close by reading the image.",
+   "wouldClose": "Reading the original scanned complaint form image rather than a text rendering of the page."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-cia-durant-article",
+   "text": "R. J. Durant, 'Will The Real Scott Jones Please Stand Up?', cited on the board's own l-kirtland node as a 1992 article held in the CIA library, was not opened: both the reading-room document URL and its PDF returned the CIA FOIA landing page rather than the record. The board is currently citing a document nobody in these passes has read.",
+   "wouldClose": "A working route to CIA-RDP96-00792R000400300004-7 in the CIA Electronic Reading Room, or a copy held elsewhere."
+  }
+ },
+ {
+  "domain": "dulce-2026-09-19",
+  "gap": {
+   "id": "gap-gasbuggy-causation",
+   "text": "Whether Project Gasbuggy has anything causally to do with the Dulce rumour could not be established and is not asserted. It is adjacent in space and prior in time by twelve years, and that is the whole of the finding. The denial edge from gasbuggy-1967 into the hub is typed association for exactly this reason: a real hole in the ground is nobody's act of denial, and a plausible mechanism is not a demonstrated one.",
+   "wouldClose": "A dated source showing local knowledge of Gasbuggy feeding into the earliest Dulce reports, or a Bennewitz-era document referring to the detonation."
+  }
+ },
+ {
   "domain": "elizondo-ttsa",
   "gap": "The outcome of Elizondo's May 2021 DoD Inspector General complaint has never been published. FOIA releases have produced the IG's February 2023 interview transcript of Elizondo (103 pages), 126 pages of IG emails released February 2024, and 40 further pages in March 2025 — but no finding, no substantiation determination, and no corrective action. The DoD IG report released publicly on 7 January 2026 (case DODOIG-2025-000932, closed February 2025, not substantiated) concerns a different, heavily redacted complainant whose profile matches David Grusch, not Elizondo. Do not conflate them."
  },
