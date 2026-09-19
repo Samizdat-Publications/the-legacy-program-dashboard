@@ -1,12 +1,12 @@
 # The disclosure band
 
-The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the disclosure band: 6 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the disclosure band: 6 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 # THROUGH 1969: Estimate through Blue Book
 
 ## National Security Agency
 
-National Security Agency is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1952-11-04; axes C1 A3 D1; 9 connections; in the disclosure band.
+National Security Agency is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1952-11-04; axes C1 A3 D1; 10 connections; in the disclosure band.
 
 In one line: Signals intelligence and cybersecurity agency; established 4 November 1952 by classified presidential memorandum.
 
@@ -42,7 +42,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 265 of 1071, score 39). 9 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 249 of 1082, score 40). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -63,6 +63,7 @@ Re-graded B on a global pass (rank 265 of 1071, score 39). 9 connections, 0 of t
 - National Security Agency comes in from **GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés** (program, board tier C), a investigative link at Tier 1 documented. The link reads: US NSA holds a contemporaneous assessment of GEPAN's 1978 report. A document in the NSA's declassified UFO collection assesses the June 1978 GEPAN report and states that its methods make 'the bulk of the Condon Report seem very poor by comparison'. Sources: NSA declassified UFO collection, https://web.archive.org/web/20240224094347/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf, dated 2024-02-24.
 - National Security Agency comes in from **Eugene F. Yeates** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Chief of NSA's Office of Policy; executed the 1980 in camera affidavit. The Yeates affidavit is the operative document by which a US intelligence agency established in court that it held UFO material it could not describe publicly. Sources: Citizens Against UFO Secrecy v. NSA, D.C. Circuit (CourtListener), https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/, dated 1981-11-03.
 - National Security Agency comes in from **United States v. Ronald W. Pelton (D. Md. 1986)** (document, board tier C), a institutional link at Tier 1 documented. The link reads: Prosecution of a former NSA employee for compromising NSA operations. Pelton was a former NSA employee and the government's brief describes the compromise as concerning NSA operations. Sources: Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General, https://www.justice.gov/osg/media/218076/dl
+- National Security Agency comes in from **TR-3B 'Astra', claimed black triangular aircraft** (program, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: CLAIMED ONLY: named as a funder and tasker at slide 70. A claim about what Fouche said, from the same sentence as the NRO and CIA edges. No record connecting the NSA to this designation was opened. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
 - National Security Agency comes in from **British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946** (document, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Released by NSA with its declassification markings on the pages. The pages carry the NSA declassification exemption marking NSA25X6 with EO 1.4.(d), and the copy opened comes from a mirror of the National Security Agency's UKUSA release. NSA did not exist in 1946; STANCIB was the United States party. The claim that NSA and GCHQ released the file jointly in 2010 was not verified from any record opened by this pass. Sources: Outline of British-U.S. Communication Intelligence Agreement, page markings, https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf, dated 1946-03-05.
 
 ## Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962
@@ -92,7 +93,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 249 of 1071, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 254 of 1082, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -139,7 +140,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 179 of 1071, score 46). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 180 of 1082, score 46). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -215,7 +216,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 37 of 1071, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 37 of 1082, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -302,7 +303,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 225 of 1071, score 42). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.
+Re-graded B on a global pass (rank 229 of 1082, score 42). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -384,7 +385,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 127 of 1071, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 127 of 1082, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.
 
 ### The claims on the record
 

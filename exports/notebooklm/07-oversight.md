@@ -1,6 +1,6 @@
 # The oversight band
 
-The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the oversight band: 23 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the oversight band: 23 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -55,7 +55,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 187 of 1071, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 188 of 1082, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -133,7 +133,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 287 of 1071, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 291 of 1082, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -204,7 +204,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 230 of 1071, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 234 of 1082, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -237,9 +237,9 @@ Re-graded B on a global pass (rank 230 of 1071, score 41). 12 connections, 0 of 
 - Congressional oversight of special access programs runs out to **Senate Armed Services Committee** (institution, board tier B), a legislative link at Tier 1 documented. The link reads: Defense committee receiving waived-SAP notification. Same statutory provision; four committees, eight members. Sources: 10 U.S.C. 119, Special access programs: congressional oversight, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
 - Congressional oversight of special access programs comes in from **Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: The historical benchmark, and the source of the board's sharpest statement of the limit. The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own. Sources: S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf, dated 1976-04-26.
 - Congressional oversight of special access programs comes in from **Howard P. "Buck" McKeon** (person, board tier B), a institutional link at Tier 1 documented. The link reads: House Armed Services leadership, 2009-2015. Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group. Sources: https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member, https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member; 10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22.
-- Congressional oversight of special access programs comes in from **Thad Cochran** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Senate appropriations leadership in 2009, the year of the Reid SAP request. The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them. Sources: https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm, https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm; https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim; U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22.
 - Congressional oversight of special access programs runs out to **Program structure and organisational mapping** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: the statutory oversight scheme, and the exception written into it. Under 10 U.S.C. 119 the Secretary must report annually by 1 March to the four defense committees on every special access program, with a brief description, major milestones and costs - and under 119(e) may waive any of that on a case-by-case basis. The scheme and its exception are the same statute, which is why oversight belongs on the structural map rather than outside it. Sources: 10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-21; 10 U.S.C. 119 (U.S. Code 2023 Edition, GPO), https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm, dated 2024-01-05; Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18), https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf, dated 2026-05-18.
 - Congressional oversight of special access programs runs out to **House Armed Services Committee** (institution, board tier C), a legislative link at Tier 1 documented. The link reads: Defense committee receiving waived-SAP notification. Under 10 U.S.C. 119(e) the chairman and ranking minority member of each defense committee receive the waived program information and the waiver justification. Sources: 10 U.S.C. 119, Special access programs: congressional oversight, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
+- Congressional oversight of special access programs comes in from **Thad Cochran** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Senate appropriations leadership in 2009, the year of the Reid SAP request. The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them. Sources: https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm, https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm; https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim; U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22.
 
 ## Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)
 
@@ -277,7 +277,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 190 of 1071, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 191 of 1082, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -350,7 +350,7 @@ Roles the board assigns it: oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 559 of 1071, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.
+Re-graded C on a global pass (rank 567 of 1082, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -408,7 +408,7 @@ Roles the board assigns it: oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 395 of 1071, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 399 of 1082, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -454,7 +454,7 @@ Roles the board assigns it: concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 90 of 1071, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 90 of 1082, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -508,7 +508,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 325 of 1071, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 328 of 1082, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -563,7 +563,7 @@ Roles the board assigns it: concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 57 of 1071, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded A on a global pass (rank 57 of 1082, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -650,7 +650,7 @@ Roles the board assigns it: concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 6 of 1071, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 6 of 1082, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -746,7 +746,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 56 of 1071, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 56 of 1082, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -847,7 +847,7 @@ Roles the board assigns it: concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 26 of 1071, score 100). 19 connections, 5 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 26 of 1082, score 100). 19 connections, 5 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -945,7 +945,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 21 of 1071, score 107). 23 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 21 of 1082, score 107). 23 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1043,7 +1043,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 47 of 1071, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 47 of 1082, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1143,7 +1143,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 97 of 1071, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 97 of 1082, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1238,7 +1238,7 @@ Roles the board assigns it: disclosure, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 27 of 1071, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 27 of 1082, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1335,7 +1335,7 @@ Roles the board assigns it: disclosure, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 67 of 1071, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 67 of 1082, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1416,7 +1416,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 355 of 1071, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 358 of 1082, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1502,7 +1502,7 @@ Roles the board assigns it: oversight, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 78 of 1071, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.
+Re-graded A on a global pass (rank 78 of 1082, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -1595,7 +1595,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 605 of 1071, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 613 of 1082, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1683,7 +1683,7 @@ Roles the board assigns it: concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 489 of 1071, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 494 of 1082, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1764,7 +1764,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 692 of 1071, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 700 of 1082, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1828,7 +1828,7 @@ Roles the board assigns it: oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 25 of 1071, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.
+Re-graded A on a global pass (rank 25 of 1082, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.
 
 ### The claims on the record
 

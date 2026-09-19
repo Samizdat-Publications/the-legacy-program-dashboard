@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3407,
-   "2": 1470,
-   "3": 520
+   "1": 3450,
+   "2": 1484,
+   "3": 526
   },
-  "edges": 2498,
-  "entities": 754,
+  "edges": 2527,
+  "entities": 762,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
-  "l0": 139,
-  "nodes": 1071,
+  "l0": 140,
+  "nodes": 1082,
   "patents": 5,
-  "people": 317,
+  "people": 320,
   "sheets": 11,
   "threads": 8,
-  "timeline": 934
+  "timeline": 951
  },
  "eras": [
   {
@@ -1346,6 +1346,30 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    3,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "media",
+   "dateEnd": "1998",
+   "dateStart": "1998",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "alien-rapture-1998",
+   "l0": false,
+   "label": "Alien Rapture: The Chosen, Galde Press, 1998",
+   "short": "Alien Rapture: The Chosen, Galde Press, 1998",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 3,
    "C": 1,
    "D": 1,
@@ -1719,7 +1743,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2024",
-   "deg": 3,
+   "deg": 4,
    "era": "3",
    "hl": null,
    "id": "arvp-fluxliner-project",
@@ -2618,6 +2642,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    1,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "media",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 1,
+   "era": "nd",
+   "hl": null,
+   "id": "brad-steiger",
+   "l0": false,
+   "label": "Brad Steiger",
+   "short": "Brad Steiger",
+   "status": "unknown",
+   "tier": "C"
+  },
+  {
    "A": 2,
    "C": 0,
    "D": 3,
@@ -3290,6 +3338,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    4,
+    0,
+    0
+   ],
+   "cls": "institution",
+   "cluster": "media",
+   "dateEnd": null,
+   "dateStart": "2014-02-11",
+   "deg": 3,
+   "era": "2",
+   "hl": null,
+   "id": "checktheevidence",
+   "l0": false,
+   "label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+   "short": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+   "status": null,
+   "tier": "B"
+  },
+  {
    "A": 1,
    "C": 2,
    "D": 3,
@@ -3447,7 +3519,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 40,
+   "deg": 41,
    "era": "0",
    "hl": null,
    "id": "cia",
@@ -5487,7 +5559,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1958-02-07",
-   "deg": 7,
+   "deg": 9,
    "era": "0",
    "hl": null,
    "id": "darpa",
@@ -7946,6 +8018,30 @@
    "tier": "A"
   },
   {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    5,
+    4,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2017-05-11",
+   "deg": 8,
+   "era": "3",
+   "hl": null,
+   "id": "edgar-fouche",
+   "l0": false,
+   "label": "Edgar Fouche",
+   "short": "Edgar Fouche",
+   "status": "dead",
+   "tier": "B"
+  },
+  {
    "A": 0,
    "C": 0,
    "D": 3,
@@ -8854,6 +8950,78 @@
    "l0": false,
    "label": "Foreign Technology Division, Wright-Patterson AFB",
    "short": "Foreign Technology Division, Wright-Patterson AFB",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    4,
+    1,
+    1
+   ],
+   "cls": "document",
+   "cluster": "legacy",
+   "dateEnd": "1979-08-24",
+   "dateStart": "1979-06-01",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "fouche-afftc-det3-1979",
+   "l0": false,
+   "label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "short": "AF Form 77a, Letter of Evaluation, 24 August 1979",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    6,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": "1998-08",
+   "dateStart": "1998-08",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "fouche-iufoc-1998",
+   "l0": false,
+   "label": "Fouche's presentation transcript, August 1998",
+   "short": "Fouche's presentation transcript, August 1998",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    7,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": "2014-06-15",
+   "dateStart": "2014-06-15",
+   "deg": 4,
+   "era": "2",
+   "hl": null,
+   "id": "fouche-military-documents",
+   "l0": false,
+   "label": "Edgar Fouche's Military, and DOD contractors reference Documents",
+   "short": "Edgar Fouche's Military, and DOD contractors reference Documents",
    "status": null,
    "tier": "B"
   },
@@ -14103,7 +14271,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1933",
-   "deg": 2,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "l-edwards-afb",
@@ -14247,7 +14415,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1955",
-   "deg": 11,
+   "deg": 13,
    "era": "0",
    "hl": null,
    "id": "l-groom-lake",
@@ -14255,7 +14423,7 @@
    "label": "Groom Lake, Nevada",
    "short": "Groom Lake, Nevada",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 0,
@@ -18255,13 +18423,37 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1994",
-   "deg": 6,
+   "deg": 7,
    "era": "1",
    "hl": null,
    "id": "northrop-grumman",
    "l0": true,
    "label": "Northrop Grumman Corporation",
    "short": "Northrop Grumman Corporation",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    3,
+    0,
+    1
+   ],
+   "cls": "program",
+   "cluster": "legacy",
+   "dateEnd": "1985",
+   "dateStart": "1978",
+   "deg": 4,
+   "era": "1",
+   "hl": null,
+   "id": "northrop-tacit-blue",
+   "l0": false,
+   "label": "Northrop TACIT BLUE",
+   "short": "Northrop TACIT BLUE",
    "status": null,
    "tier": "B"
   },
@@ -18327,7 +18519,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1961",
-   "deg": 12,
+   "deg": 13,
    "era": "0",
    "hl": null,
    "id": "nro",
@@ -18351,7 +18543,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1952-11-04",
-   "deg": 9,
+   "deg": 10,
    "era": "0",
    "hl": null,
    "id": "nsa",
@@ -19392,6 +19584,30 @@
    "short": "Peter A. Gersten",
    "status": "active",
    "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    6,
+    0
+   ],
+   "cls": "person",
+   "cluster": "research",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 3,
+   "era": "nd",
+   "hl": null,
+   "id": "peter-merlin",
+   "l0": false,
+   "label": "Peter W. Merlin",
+   "short": "Peter W. Merlin",
+   "status": "alive",
+   "tier": "B"
   },
   {
    "A": 1,
@@ -21615,7 +21831,7 @@
    "cluster": "ffrdc",
    "dateEnd": null,
    "dateStart": "1949",
-   "deg": 7,
+   "deg": 8,
    "era": "0",
    "hl": null,
    "id": "sandia",
@@ -23210,6 +23426,30 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    3,
+    0,
+    1
+   ],
+   "cls": "document",
+   "cluster": "media",
+   "dateEnd": "1993-12-25",
+   "dateStart": "1993-12-25",
+   "deg": 1,
+   "era": "1",
+   "hl": null,
+   "id": "testors-sr-75-kit",
+   "l0": false,
+   "label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+   "short": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 1,
    "C": 0,
    "D": 3,
@@ -23255,7 +23495,7 @@
    "label": "Thad Cochran",
    "short": "Thad Cochran",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -23712,6 +23952,30 @@
    "short": "Thomas Matthew DeLonge",
    "status": "active",
    "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "reverse-engineering",
+   "claims": [
+    6,
+    0,
+    2
+   ],
+   "cls": "program",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1998-08",
+   "deg": 12,
+   "era": "1",
+   "hl": null,
+   "id": "tr-3b",
+   "l0": true,
+   "label": "TR-3B 'Astra', claimed black triangular aircraft",
+   "short": "TR-3B 'Astra' (claimed)",
+   "status": null,
+   "tier": "A"
   },
   {
    "A": 1,
@@ -24711,7 +24975,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 22,
+   "deg": 24,
    "era": "0",
    "hl": null,
    "id": "usaf",
@@ -25874,5 +26138,5 @@
    "tier": "C"
   }
  ],
- "source": "936949670c37"
+ "source": "d793d22cbf50"
 }

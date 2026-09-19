@@ -1,0 +1,168 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, page 1, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "The transcript's first four lines are: 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Both 'IUFOR' and 'Rothshild' are misspelled in the header of the document itself.",
+"tier": 1
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "It is written for live delivery and opens accordingly: 'GOOD AFTERNOON: My mother once told me that I was going to Hell if I didn't change my ways. Judging from the heat outside, I'd say I'm not too far from there.'",
+"tier": 1
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 5, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "It names the book as the occasion of the talk, at slide 5: 'I'm here to speak about Secret Government Technology, reverse engineering of Alien Artifacts, and the Top Secret MJ-12 committee, which I write about in my new book, Alien Rapture - The Chosen, with my co-author Brad Steiger.'",
+"tier": 1
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 61 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "It attaches the claim to Aurora and to the Strategic Defense Initiative in the claimant's own voice, from slide 61 onward: 'up to 35% of the SDI funding was siphoned off to provide primary expenditures for the Air Force's most secret Black Program, which started in 1982. It is called - The Aurora Program.'",
+"tier": 1
+},
+{
+"source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "It presents the 'SR-75' 'Penetrator' as inside knowledge, at slide 62 onward: 'The SR-75, the first operational Aurora Program vehicle, went operational after 2 years of flight testing and modifications in 89. The top secret SR-75 is a hypersonic strategic reconnaissance, or SR spy plane, and is called the Penetrator. It is also a mothership.' It refers elsewhere to an 'SR-74 Scramp'.",
+"tier": 1
+},
+{
+"source": "PDF metadata read directly from the file retrieved at https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , opened 2026-09-18",
+"text": "The PDF opened carries producer 'PDF-XChange 4.0.195.0 (Windows Seven Ultimate x64 Service Pack 1 (Build 7601))' and creation date D:20140113142726Z, with no title and no author recorded. It is 3,340,952 bytes over 62 pages and has a genuine text layer rather than being a scan.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "2014-01-13",
+"direction": "out",
+"edgeLabel": "Presentation transcript hosted by Check The Evidence",
+"id": "checktheevidence",
+"l0": false,
+"label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+"note": "Genuine custody: a hosting site holding a file. Direction and type mirror the board's existing scott-sorensen-notes-1990 to arvp-fluxliner-project edge, and the treatment of the-black-vault.",
+"sources": [
+{
+"date": "2014-02-11",
+"name": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', the index page linking the file",
+"url": "https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1998-08",
+"dateStart": "1998-08",
+"direction": "in",
+"edgeLabel": "Author and copyright holder of the presentation transcript",
+"id": "edgar-fouche",
+"l0": false,
+"label": "Edgar Fouche",
+"note": "INTENT: AUTHORSHIP. The board has no authorship edge type, and authorship is deliberately NOT built as custody here, because custody is weighted x3.0 as a program edge and giving a claimant a x3 edge to his own document would inflate him. Mapped to research. The document's first four lines are 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, page 1 header",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1998-08",
+"dateStart": "1998-08",
+"direction": "out",
+"edgeLabel": "The dated artefact that carries the claim; opened in full",
+"id": "tr-3b",
+"l0": true,
+"label": "TR-3B 'Astra', claimed black triangular aircraft",
+"note": "The dossier proposed this as a custody edge. Built as investigative to match the board's existing precedent for a document carrying a claim about a craft, scott-sorensen-notes-1990 to arv-fluxliner, which is investigative and not custody. A transcript has custody of the record of the claim, not of the craft, and the distinction is worth keeping since custody carries the x3.0 program weighting.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, 62 pages, slides 69 to 72",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "1998-08",
+"dateStart": "1998-08",
+"deg": 3,
+"denials": [],
+"desc": "This is the dated artefact of the claim and the anchor of the whole cluster, in the role that scott-sorensen-notes-1990 plays for arv-fluxliner. It is a 62 page speaking script, written for delivery, with slide cues in the form 'SLIDE 70: TR-3B prototype Top Secret Flying Triangle' and page rules running from -2- to -62-. Its first four lines are 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates', and both the abbreviation and the author's middle name are misspelled in that header. It opens as a live address: 'GOOD AFTERNOON: My mother once told me that I was going to Hell if I didn't change my ways. Judging from the heat outside, I'd say I'm not too far from there.' It states its own purpose at slide 5 and names the book it was given to promote: 'I'm here to speak about Secret Government Technology, reverse engineering of Alien Artifacts, and the Top Secret MJ-12 committee, which I write about in my new book, Alien Rapture - The Chosen, with my co-author Brad Steiger.' Everything the world believes about the TR-3B is downstream of slides 69 to 72 of this document, and the document contradicts itself about the craft's size between slide 69 and slide 70. The PDF opened was produced on 13 January 2014 with PDF-XChange and carries no title and no author in its metadata; it has a genuine text layer and was read in full.",
+"domains": [
+"tr3b-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "fouche-iufoc-1998",
+"l0": false,
+"label": "Fouche's presentation transcript, August 1998",
+"locLabel": null,
+"members": null,
+"short": "Fouche's presentation transcript, August 1998",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, Copyright Aug. 1998, Fouche Media Associates; 62 pages, text layer extracted with pdftotext -layout and read in full",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+},
+{
+"date": "2026-09-18",
+"name": "Independent second copy of the same text in the archive.org compilation item 'Top Secret TR-3B Astra Documents'",
+"url": "https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt"
+},
+{
+"date": "2024-12-05",
+"name": "archive.org video item 'Edgar Fouche - TR-3B presentation (1998)', creator 'Eyes On Cinema', uploader @RealEOC, 266.1 MB MPEG4; item page gives no venue and no date beyond the year, and the video itself was not watched",
+"url": "https://archive.org/details/edgar-fouche-tr-3-b-presentation-1998"
+}
+],
+"sub": "62 page slide-cued speaking script headed 'Copyright Aug. 1998, Fouche Media Associates'; the dated artefact of the TR-3B claim",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 502 of 1082, score 30). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "1998-02-01",
+"id": "tl-1998-02-01-iufoc-7th-convention",
+"label": "The 7th Annual International UFO Congress Convention runs at Laughlin, and Fouche is not on its programme",
+"precision": "day",
+"strand": "witness",
+"text": "A contemporaneous page for the '7th Annual International UFO Congress Convention Film Festival & EBE Awards' gives the dates 'February 1 thru 7, 1998' and the venue 'Gold River Resort, Laughlin, Nevada', and lists 24 speakers by name. Edgar Fouche is not among them. His own transcript is dated August 1998 and his own text says he spoke at Laughlin 'in August', which the Congress's separate summer sessions make consistent rather than contradictory, but no contemporaneous record placing him on any podium in 1998 was opened.",
+"tier": "C"
+},
+{
+"date": "1998-08",
+"id": "tl-1998-08-fouche-presentation",
+"label": "THE ANCHOR: the presentation transcript that originates the TR-3B",
+"precision": "month",
+"strand": "witness",
+"text": "A 62 page slide-cued speaking script headed 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Slide 5 names the book it was given to promote. Slides 69 to 72 give the TR-3B its designation and code name Astra, attribute it to 'the Top Secret, Aurora Program with SDI and black budget monies', name the NRO, NSA and CIA as funders and taskers, name Sandia and Livermore as developers of the propulsion, specify a mercury-based plasma 'at a temperature of 150 degrees Kelvin', and give the operational craft two different sizes two slides apart, 600 feet at slide 69 and 300 feet at slide 70.",
+"tier": "B"
+}
+]
+}

@@ -1,6 +1,6 @@
 # The reverse engineering band
 
-The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the reverse engineering band: 16 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the reverse engineering band: 17 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -56,7 +56,7 @@ Roles the board assigns it: funding, custody, reverse-engineering, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 7 of 1071, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 7 of 1082, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -153,7 +153,7 @@ Roles the board assigns it: reverse-engineering, concealment, funding, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 82 of 1071, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 82 of 1082, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -233,7 +233,7 @@ Roles the board assigns it: custody, reverse-engineering, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 28 of 1071, score 99). 30 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 28 of 1082, score 99). 30 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -324,7 +324,7 @@ Roles the board assigns it: custody, concealment, reverse-engineering.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 49 of 1071, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 49 of 1082, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -413,7 +413,7 @@ Roles the board assigns it: reverse-engineering, research, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 80 of 1071, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 80 of 1082, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -453,6 +453,76 @@ Re-graded A on a global pass (rank 80 of 1071, score 68). 14 connections, 2 of t
 - EarthTech International / Institute for Advanced Studies at Austin comes in from **Institute for Advanced Studies at Austin** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: IASA (1985) incorporated under EarthTech International (1991). EarthTech's own About page states the corporate relationship; the two names are used interchangeably across the DIRD covers and the TTSA reporting. Sources: EarthTech International / Institute for Advanced Studies at Austin, https://www.earthtech.org/about/, dated 2026-08-12.
 - EarthTech International / Institute for Advanced Studies at Austin comes in from **Austin, Texas - 11855 Research Blvd** (location, board tier C), a institutional link at Tier 1 documented. The link reads: 11855 Research Blvd - the address printed on a DIA reference document. The single street address connecting the DIA Defense Warning Office to the AAWSAP propulsion and medical documents and thence to the To The Stars metamaterials work. Sources: DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International), https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf, dated 2010-04-06; EarthTech International / Institute for Advanced Studies at Austin, https://www.earthtech.org/about/, dated 2026-08-12.
 
+## TR-3B 'Astra', claimed black triangular aircraft
+
+TR-3B 'Astra', claimed black triangular aircraft is a program on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1998-08; axes C0 A0 D3; 12 connections; in the reverse-engineering band.
+
+In one line: Claimed triangular craft described in one man's copyrighted August 1998 presentation; no record of its existence has been opened.
+
+### What it is
+
+A claimed triangular aircraft, called the TR-3B and often the TR-3B 'Astra', said to be a black-programme craft using a mercury-based plasma ring for propulsion. No record of its existence has been opened. The entire account descends from one named man, Edgar Fouche, in a copyrighted 62-page presentation transcript dated August 1998, given to promote a novel he had written with Brad Steiger. The Library of Congress catalogues that novel, Alien Rapture: The Chosen, under LCCN 98002961 with the genre heading 'Science fiction', the subject heading 'Alien abduction - Fiction' and the class PS3556, American fiction. The presentation is the artefact this node is built on, and it is why the node exists, not evidence that the craft does.
+
+### Why it is implicated
+
+It is on this map as the second worked example of the rule the board adopted on 18 September 2026: the thing claimed about is a node in its own right, and it is the hub every claimant runs into, the case against included. The TR-3B is one of the most repeated craft claims in the entire subject and the board carried nothing for it, while carrying the sceptical literature, the real black programmes of the period and the contractor estate it is attributed to. Its edges are deliberately mixed: the originating claimant, the documents that carry his account, the site that hosts them, the aerospace historian who took his documents apart, a 1993 commercial model kit whose designations reappear in his script as inside knowledge, and a real declassified stealth demonstrator of the right period whose actual shape is nothing like the claim. Its degree means a lot is claimed here. It does not mean any of it is true, and the tier on each edge says which is which.
+
+### The longer account
+
+The case for a node carrying a claim with no evidence behind it is the same case the ARV node made, and this cluster tests it harder. Before this build the board carried DARPA, Northrop, the USAF, Groom Lake and Edwards, and carried nothing for the aircraft those four names are most often attached to in public. A reader arriving with the TR-3B in mind found nothing, which reads as the board having no view. It has a view, and this node states it.
+
+The strongest single fact here is a cataloguing decision. The narrative enters the world attached to a book that the national library shelves as a novel. The second strongest is that the originating document contradicts itself two slides apart, giving the craft as '600 feet across' and then as 'the 300 feet Operational TR-3Bs'. The third is physical: the claimed mercury plasma is specified at 150 degrees Kelvin, and NIST gives mercury's melting point as 234.31 K, so the substance would be a solid at the stated temperature. The fourth is prior art: 'SR-75 Penetrator' is the designation of a Testor Corporation model kit marketed from 1993, about which the Air Force publicly said it was not modelled on anything that exists, and it reappears in the 1998 script as inside knowledge.
+
+The documents Fouche published as corroboration were opened in full, fifteen legible pages. They are decorations, training certificates, performance reports and one 1984 personnel letter. There is no DD-214, no clearance record and no programme document among them, and the page presented as a 'SAC/DARPA Classified Document' carries no classification marking and is signed by a technical sergeant in the Directorate of Assignments, Deputy Chief of Staff for Personnel. Fouche applied the redactions himself and says so in his own caption.
+
+One document genuinely earns its place on the other side, and the node carries it as such rather than burying it. An AF Form 77a of 24 August 1979 records Technical Sergeant Fouche assigned on temporary duty to AFFTC Detachment 3, Nellis AF Range, from 1 June to 14 August 1979, and it is the sceptic's own published reference work that identifies DET 3 AFFTC as Groom Lake. The same form then limits itself: it says his duties there were verified via a separate report, and that report is not in the file. That is the most interesting single page in the collection and it is the reason the man has a node at all.
+
+What this cluster does not settle is the craft. Nothing here is evidence that a TR-3B exists. Every node is a node about a claim, the hub says so in its first sentence, and the case against is wired in as edges like any other.
+
+Roles the board assigns it: reverse-engineering, disclosure, concealment.
+
+### Open questions on this node
+
+- Whether Edgar Fouche ever stood at an International UFO Congress podium. The contemporaneous February 1998 programme does not list him, and the August 1998 attribution rests on the header of his own document. The venue and date are softer than the literature assumes.
+- How the TR-3B actually appears in Alien Rapture: The Chosen. The book was not opened, so nothing here asserts its contents beyond the Library of Congress cataloguing of it.
+- The alleged recorded confession by Fouche. The forum thread said to hold it returned HTTP 522, and the one account that was opened says its own screenshot was unreadable. No confession is in evidence anywhere, and the board should stop repeating that one exists until someone produces it.
+- The FOIA return said to bear on his service record was not opened, so nothing is asserted about what it returned.
+- Any official record, of any kind, using the string 'TR-3B'. None was found.
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 129 of 1082, score 54). 12 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** THE CLAIMED PROPELLANT WOULD BE SOLID AT THE STATED TEMPERATURE. The 1998 presentation specifies a mercury-based plasma accelerated 'at 150 degrees Kelvin'. NIST gives the melting point of mercury as 234.31 K. At 150 K mercury is a solid, so the stated figure describes a condition in which the claimed mechanism cannot operate as described. Source: Fouche 1998 presentation transcript, slide 72, against the NIST value for mercury's melting point, both opened 2026-09-18
+- **Tier 1 documented.** THE CORROBORATING DOCUMENTS CONTAIN NO CLEARANCE RECORD AND NO PROGRAMME DOCUMENT. The fifteen-page compilation Fouche published as his military documents was opened in full and is legible throughout. It consists of decorations, training certificates, performance reports and one 1984 personnel letter. It contains no DD-214, no clearance record and no programme document. The page presented as a 'SAC/DARPA Classified Document' carries no classification marking and is signed by a technical sergeant in the Directorate of Assignments, Deputy Chief of Staff for Personnel. Source: Fouche military documents compilation, fifteen pages rendered at 190 dpi and read as images, hosted at checktheevidence.com, opened 2026-09-18
+- **Tier 1 documented.** THE NATIONAL LIBRARY SHELVES THE SOURCE BOOK AS FICTION. The Library of Congress record for Alien Rapture: The Chosen, by Edgar Fouche and Brad Steiger, Galde Press 1998, LCCN 98002961, carries the genre heading 'Science fiction.', the subject heading 'Alien abduction - Fiction', and the classification PS3556, which is American fiction. The presentation that originated the TR-3B account was given to promote this book, by the presentation's own words. Source: Library of Congress catalogue record LCCN 98002961, opened 2026-09-18
+- **Tier 1 documented.** THE ORIGINATING DOCUMENT CONTRADICTS ITSELF TWO SLIDES APART. The 62-page speaking script headed 'Copyright Aug. 1998, Fouche Media Associates' gives the craft's size as '600 feet across' and, two slides later, as 'the 300 feet Operational TR-3Bs'. Both figures are in the same copyrighted document, presented as specification rather than estimate. Where the ARV thread's sizes drifted across three documents over thirty-four years, this one disagrees with itself inside a single afternoon's script. Source: Fouche 1998 presentation transcript, slides 69-72, hosted at checktheevidence.com, opened 2026-09-18
+- **Tier 1 documented.** THE SELF-CONTRADICTION, AND IT IS THE MOST USEFUL SINGLE FACT ON THIS NODE. Slide 69 of the same document states 'The operational model is 600 feet across.' Slide 70 states 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra.' Both sentences are present in the same transcript, two slides apart, and they give the operational craft two different sizes. Source: Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 and 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, 1998-08
+- **Tier 1 documented.** THE TIER 1 PHYSICAL ANCHOR AGAINST THE PROPULSION CLAIM. The NIST Chemistry WebBook gives mercury, CAS 7439-97-6, a melting point of 234.31 K (Marsh, 1987, uncertainty assigned by TRC 0.005 K), a triple point of 234.3 K, and a boiling point of 629.81 K. Source: NIST Chemistry WebBook, phase change data for mercury, https://webbook.nist.gov/cgi/cbook.cgi?ID=C7439976&Mask=4, opened 2026-09-18
+- **Tier 1 documented.** The craft is attached to the existing sighting literature by the artefact itself, at slide 6: 'Before I'm through, you will know exactly what the Flying Triangle is. The one that has been sighted around the world... It could be stealthily hovering somewhere over Phoenix - Arizona, Gulf Breeze - Florida, the country of Belgium, or your city.' Source: Presentation to IUFOR by Edgar Rothshild Fouche, slide 6, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, 1998-08
+- **Tier 1 documented.** The originating artefact says, at slide 70: 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra. The tactical reconnaissance TR-3B first operational flight was in the early 90s. The triangular shaped nuclear powered aerospace platform was developed under the Top Secret, Aurora Program with SDI and black budget monies. At least 3 of the billion dollar plus TR-3Bs were flying by 1994... It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA. The TR-3B flying triangle is not fiction and was built with technology available in the mid 80s.' Source: Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, 1998-08
+- **Tier 1 documented.** The propulsion claim, at slide 72: 'A circular, plasma filled accelerator ring called the Magnetic Field Disrupter, surrounds the rotatable crew compartment and is far ahead of any imaginable technology. Sandia and Livermore laboratories developed the reverse engineered MFD technology... The plasma, mercury based, is pressurized at 250,000 atmospheres at a temperature of 150 degrees Kelvin and accelerated to 50,000 rpm to create a super-conductive plasma with the resulting gravity disruption. The MFD generates a magnetic vortex field, which disrupts or neutralizes the effects of gravity on mass within proximity, by 89 percent. Do not misunderstand. This is not antigravity.' Source: Presentation to IUFOR by Edgar Rothshild Fouche, slide 72, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, 1998-08
+- **Tier 1 documented.** The sighting at the core of the account is second hand within the artefact itself. Slide 69 opens: 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' The claimant does not claim to have seen the craft. Source: Presentation to IUFOR by Edgar Rothshild Fouche, slide 69, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, 1998-08
+- **Tier 2 named person on the record.** A DESIGNATION PRESENTED AS INSIDE KNOWLEDGE WAS A MODEL KIT NAME FIVE YEARS EARLIER. 'SR-75 Penetrator' is the designation of a speculative Testor Corporation model kit designed by John Andrews and marketed from 1993, about which the Air Force stated publicly that it was not modelled on anything that exists. The same designation appears in Fouche's 1998 script as privileged knowledge of a real aircraft. Source: Contemporaneous newspaper reporting of the Testor SR-75 Penetrator and XR-7 Thunderdart kits carrying the Air Force's statement, opened 2026-09-18
+- **Tier 2 named person on the record.** THE COUNTERWEIGHT, AND IT IS REAL. An AF Form 77a Letter of Evaluation dated 24 August 1979 records Technical Sergeant Fouche assigned on temporary duty to 'AFFTC-DET 3, Nellis AF Range' from 1 June to 14 August 1979. The identification of DET 3 AFFTC with Groom Lake comes from Peter Merlin's own published reference work, which is why this claim's tier is capped at 2 rather than 1: no primary Air Force record making that identification was opened. The form then limits itself, stating that his duties there were verified via a separate report that is not in the file. Source: AF Form 77a, 24 August 1979, page 3 of the Fouche military documents compilation, opened 2026-09-18; the DET 3 identification is Merlin's published statement
+
+### Its strongest connections
+
+- TR-3B 'Astra', claimed black triangular aircraft runs out to **Defense Advanced Research Projects Agency** (institution, board tier B), a denial link at Tier 1 documented. The link reads: The Fouche file's DARPA invocation rests on a letter from a personnel office. DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'. Sources: The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 1984-07-10; Peter Merlin's reading of the same letter, quoted verbatim, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19.
+- TR-3B 'Astra', claimed black triangular aircraft comes in from **ARVP (arvp.co.uk), the Flux Liner project site** (institution, board tier B), a research link at Tier 1 documented. The link reads: ARVP carries a TR-3B page and routes its readers to the Fouche file. Mirrors the board's existing arvp-fluxliner-project to arv-fluxliner research edge. The site is evidence of what the site says and of nothing else: its own characterisations are the anonymous owner's opinion, most of the page is its owner's visual-effects assessment of a video, and it mis-assigns the 'he lied' finding to Jeremy Rys when the only opened account attributes that video to David Hilton and says its screen could not be read. Sources: ARVP, 'Black Triangle (TR3b)', the page named in research/leads/CANDIDATES-2026-09-18-ARVP.md, https://www.arvp.co.uk/black-triangle-tr3b/, dated 2026-09-18.
+- TR-3B 'Astra', claimed black triangular aircraft comes in from **Northrop TACIT BLUE** (program, board tier B), a denial link at Tier 1 documented. The link reads: The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle. THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996. Sources: U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF, dated 2026-09-18.
+- TR-3B 'Astra', claimed black triangular aircraft comes in from **Fouche's presentation transcript, August 1998** (document, board tier B), a investigative link at Tier 1 documented. The link reads: The dated artefact that carries the claim; opened in full. The dossier proposed this as a custody edge. Built as investigative to match the board's existing precedent for a document carrying a claim about a craft, scott-sorensen-notes-1990 to arv-fluxliner, which is investigative and not custody. A transcript has custody of the record of the claim, not of the craft, and the distinction is worth keeping since custody carries the x3.0 program weighting. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, 62 pages, slides 69 to 72, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
+- TR-3B 'Astra', claimed black triangular aircraft runs out to **Central Intelligence Agency** (institution, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: CLAIMED ONLY: named as a funder and tasker at slide 70. A claim about what Fouche said, from the same sentence as the NRO and NSA edges. No record connecting the CIA to this designation was opened. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
+- TR-3B 'Astra', claimed black triangular aircraft runs out to **National Reconnaissance Office** (institution, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: CLAIMED ONLY: named as a funder and tasker at slide 70. A claim about what Fouche said, not about the agency. 'It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA.' No record of any kind connecting the NRO to this designation was opened. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
+- TR-3B 'Astra', claimed black triangular aircraft runs out to **Sandia National Laboratories** (institution, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72. A claim about what Fouche said. 'Sandia and Livermore laboratories developed the reverse engineered MFD technology.' No lawrence-livermore node exists on the board and none is proposed here, so only the Sandia half of the sentence is wired. No record connecting either laboratory to this claim was opened, and the propulsion specification the sentence introduces is refuted by the melting point of its own working fluid. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, slide 72, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
+- TR-3B 'Astra', claimed black triangular aircraft runs out to **National Security Agency** (institution, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: CLAIMED ONLY: named as a funder and tasker at slide 70. A claim about what Fouche said, from the same sentence as the NRO and CIA edges. No record connecting the NSA to this designation was opened. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
+- TR-3B 'Astra', claimed black triangular aircraft comes in from **Edgar Fouche** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Originating claimant of the TR-3B, August 1998. The claim exists in his copyrighted document and nowhere earlier that was opened. Tier 2 and not 1 because the edge asserts that he is the origin of the claim, which rests on the absence of an earlier source rather than on a positive record. Note that within the artefact itself the sighting is second hand: slide 69 opens 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' He does not claim to have seen it. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 to 72, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
+- TR-3B 'Astra', claimed black triangular aircraft comes in from **Peter W. Merlin** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: Named aerospace historian; four falsifiable specifics against the claimant's evidence. 'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record. Sources: Peter Merlin, quoted verbatim in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax', https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19.
+- TR-3B 'Astra', claimed black triangular aircraft comes in from **Alien Rapture: The Chosen, Galde Press, 1998** (document, board tier C), a investigative link at Tier 3 stated inference. The link reads: The book the presentation was given to promote; its TR-3B content was NOT opened. CAVEAT CARRIED ON THE EDGE, AND IT IS THE REASON FOR TIER 3. The presentation names the book as its occasion at slide 5, which is Tier 1. But no copy of the book's text was opened, so how or whether the TR-3B appears inside it is unestablished. The edge records the promotional relationship only, and must not be read as the book containing the claim. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, slide 5, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
+- TR-3B 'Astra', claimed black triangular aircraft comes in from **Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993** (document, board tier C), a denial link at Tier 3 stated inference. The link reads: Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993. A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session. Sources: Baltimore Sun, 'For latest spy plane look under your tree', https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/, dated 1993-12-25; Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
+
 ## Alien Reproduction Vehicle (ARV) / Flux Liner
 
 Alien Reproduction Vehicle (ARV) / Flux Liner is a program on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1988-11-12; axes C0 A0 D3; 7 connections; in the reverse-engineering band.
@@ -481,7 +551,7 @@ Roles the board assigns it: reverse-engineering, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 300 of 1071, score 37). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 304 of 1082, score 37). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -500,8 +570,8 @@ Re-graded B on a global pass (rank 300 of 1071, score 37). 7 connections, 0 of t
 
 ### Its strongest connections
 
-- Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **William B. Scott's interview notes on 'Brad', 3 December 1990** (document, board tier B), a investigative link at Tier 1 documented. The link reads: Earliest opened record of the claimed craft. It carries the nursery-rhyme naming, the witness's own disclaimed sizes, his judgement that the craft looked poorly built, and his partial disowning of the drawing. It is the record against which every later retelling can be measured. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 - Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **ARVP (arvp.co.uk), the Flux Liner project site** (institution, board tier B), a research link at Tier 1 documented. The link reads: Publishes a 3D reconstruction of the claimed craft and sells prints of it. The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated. Sources: arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18; arvp.co.uk, SHOP page, https://www.arvp.co.uk/shop/, dated 2026-09-18.
+- Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **William B. Scott's interview notes on 'Brad', 3 December 1990** (document, board tier B), a investigative link at Tier 1 documented. The link reads: Earliest opened record of the claimed craft. It carries the nursery-rhyme naming, the witness's own disclaimed sizes, his judgement that the craft looked poorly built, and his partial disowning of the drawing. It is the record against which every later retelling can be measured. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 - Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **Eric W. Davis** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: Says no such craft exists and none has ever been built. research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime. Sources: Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, dated 2024-12-12.
 - Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: The illustrator and relayer who drew the claimed craft and named it in print. He is not a witness to the craft. He drew it from a friend's verbal description a week after the claimed event, and his 2001 testimony is where it acquires the names Alien Reproduction Vehicle and Flux Liner in print. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04; William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 - Alien Reproduction Vehicle (ARV) / Flux Liner comes in from **Thomas Townsend Brown** (person, board tier A), a research link at Tier 2 named person on the record. The link reads: The account's claimed lift lineage, which the patents themselves do not support. THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. McCandlish attributes the claimed effect to 'a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown', which on the board's own record is one of those two. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
@@ -560,7 +630,7 @@ Roles the board assigns it: funding, reverse-engineering, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 2 of 1071, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 2 of 1082, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -657,7 +727,7 @@ Roles the board assigns it: research, reverse-engineering, funding, custody, con
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 15 of 1071, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 15 of 1082, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -754,7 +824,7 @@ Roles the board assigns it: research, funding, reverse-engineering, concealment,
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 20 of 1071, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 20 of 1082, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -855,7 +925,7 @@ Roles the board assigns it: reverse-engineering, custody, concealment, funding, 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 10 of 1071, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 10 of 1082, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -953,7 +1023,7 @@ Roles the board assigns it: reverse-engineering, concealment, oversight, custody
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 65 of 1071, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 65 of 1082, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1041,7 +1111,7 @@ Roles the board assigns it: disclosure, custody, reverse-engineering.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 51 of 1071, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 51 of 1082, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1140,7 +1210,7 @@ Roles the board assigns it: reverse-engineering, custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 92 of 1071, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.
+Re-graded A on a global pass (rank 92 of 1082, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.
 
 ### The claims on the record
 
@@ -1229,7 +1299,7 @@ Roles the board assigns it: oversight, disclosure, research, reverse-engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 207 of 1071, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 210 of 1082, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1314,7 +1384,7 @@ Roles the board assigns it: custody, reverse-engineering, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 73 of 1071, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 73 of 1082, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -1400,7 +1470,7 @@ Roles the board assigns it: reverse-engineering, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 9 of 1071, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 9 of 1082, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

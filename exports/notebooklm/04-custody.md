@@ -1,6 +1,6 @@
 # The custody band
 
-The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the custody band: 19 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the custody band: 19 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -55,7 +55,7 @@ Roles the board assigns it: concealment, custody, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 16 of 1071, score 113). 31 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 16 of 1082, score 113). 31 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -143,7 +143,7 @@ Roles the board assigns it: concealment, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 34 of 1071, score 91). 28 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.
+Re-graded A on a global pass (rank 34 of 1082, score 91). 28 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -226,7 +226,7 @@ Roles the board assigns it: custody, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 124 of 1071, score 55). 9 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 124 of 1082, score 55). 9 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -241,8 +241,8 @@ Re-graded A on a global pass (rank 124 of 1071, score 55). 9 connections, 3 of t
 ### Its strongest connections
 
 - Atomic Energy Commission runs out to **United States Department of Energy** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Abolished 1974; functions passed through ERDA to the Department of Energy. The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions. Sources: Energy Reorganization Act of 1974, sec. 104(a), https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf, dated 1974-10-11; Records of the Atomic Energy Commission, Record Group 326, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/326.html, dated 2026-09-02.
+- Atomic Energy Commission runs out to **Groom Lake, Nevada** (location, board tier A), a geographic link at Tier 1 documented. The link reads: Absorbed Groom Lake into its Nevada real estate at CIA request, 1955. The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Atomic Energy Commission runs out to **'Manhattan Project 2.0' (alleged secrecy architecture)** (program, board tier A), a custody link at Tier 1 documented. The link reads: Statutory transfer of the Manhattan Engineer District's holdings. Section 9(a) of the 1946 Act directs the President to transfer to the Commission all fissionable material, all atomic weapons and parts, all processes and technical information, and such other property in the custody or control of the Manhattan Engineer District as he may determine. Sources: Atomic Energy Act of 1946, sec. 9(a), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf, dated 1946-08-01.
-- Atomic Energy Commission runs out to **Groom Lake, Nevada** (location, board tier B), a geographic link at Tier 1 documented. The link reads: Absorbed Groom Lake into its Nevada real estate at CIA request, 1955. The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Atomic Energy Commission comes in from **Armed Forces Special Weapons Project** (institution, board tier B), a funding link at Tier 1 documented. The link reads: Funded by AEC working fund advances; Chief and Deputy sat on the Military Liaison Committee. The charter provides that AFSWP funds other than military pay come by working fund advances to the War Department from the Atomic Energy Commission out of money formerly available to the Manhattan Project, and the founding memorandum places the Chief and Deputy Chief on the Military Liaison Committee to the Commission. Sources: War Department Memorandum No. 850-25-8, para. 6, in Defense's Nuclear Agency 1947-1997, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt, dated 1947-03-18.
 - Atomic Energy Commission comes in from **Atomic Energy Act of 1946 (McMahon Act)** (legislation, board tier B), a legislative link at Tier 1 documented. The link reads: The instrument that created the Commission. Section 2(a) of this Act establishes the Atomic Energy Commission and section 10 gives it the born-secret regime the Commission then ran for twenty-eight years. Sources: Atomic Energy Act of 1946, secs. 2(a) and 10, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf, dated 1946-08-01.
 - Atomic Energy Commission comes in from **Glenn T. Seaborg** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Chairman of the Commission. Named 16 January 1961 and confirmed by the Senate on 24 February 1961 per the CIA's own chronology; in office on Commission letterhead in October 1961 and March 1963. No end date is attested by any record opened here. Sources: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5, dated 1970-06-01.
@@ -277,7 +277,7 @@ Roles the board assigns it: custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 329 of 1071, score 36). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
+Re-graded B on a global pass (rank 332 of 1082, score 36). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -345,7 +345,7 @@ Roles the board assigns it: concealment, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 50 of 1071, score 78). 20 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.
+Re-graded A on a global pass (rank 50 of 1082, score 78). 20 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -440,7 +440,7 @@ Roles the board assigns it: concealment, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 152 of 1071, score 50). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 153 of 1082, score 50). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -507,7 +507,7 @@ Roles the board assigns it: disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 634 of 1071, score 25). 7 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 642 of 1082, score 25). 7 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -561,7 +561,7 @@ Roles the board assigns it: concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 250 of 1071, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 255 of 1082, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -631,7 +631,7 @@ Roles the board assigns it: concealment, disclosure, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 93 of 1071, score 64). 21 connections, 5 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 93 of 1082, score 64). 21 connections, 5 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -723,7 +723,7 @@ Roles the board assigns it: concealment, custody, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 449 of 1071, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 453 of 1082, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -821,7 +821,7 @@ Roles the board assigns it: concealment, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 186 of 1071, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 187 of 1082, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -881,7 +881,7 @@ Roles the board assigns it: disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 220 of 1071, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 224 of 1082, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -950,7 +950,7 @@ Roles the board assigns it: concealment, oversight, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 3 of 1071, score 164). 64 connections, 6 of them custody/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 3 of 1082, score 164). 64 connections, 6 of them custody/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1053,7 +1053,7 @@ Roles the board assigns it: disclosure, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 4 of 1071, score 161). 47 connections, 11 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 4 of 1082, score 161). 47 connections, 11 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1156,7 +1156,7 @@ Roles the board assigns it: oversight, disclosure, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 8 of 1071, score 134). 26 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 8 of 1082, score 134). 26 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1255,7 +1255,7 @@ Roles the board assigns it: disclosure, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 36 of 1071, score 90). 13 connections, 2 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 36 of 1082, score 90). 13 connections, 2 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1292,8 +1292,8 @@ Re-graded A on a global pass (rank 36 of 1071, score 90). 13 connections, 2 of t
 - National Archives Unidentified Anomalous Phenomena Records Collection comes in from **United States Air Force** (institution, board tier A), a custody link at Tier 1 documented. The link reads: Project BLUE BOOK records are held at the National Archives. 94 rolls of 35mm microfilm, T-1206, permanently transferred to NARA - the Air Force is the one agency whose UFO records were fully accessioned, and they stop in 1969. Sources: National Archives - Unidentified Flying Objects / Project BLUE BOOK, https://www.archives.gov/research/military/air-force/ufos, dated 2026-08-12.
 - National Archives Unidentified Anomalous Phenomena Records Collection comes in from **United States Department of Energy** (institution, board tier A), a denial link at Tier 1 documented. The link reads: DOE produced nothing for the first statutory UAP records transfer. NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
 - National Archives Unidentified Anomalous Phenomena Records Collection comes in from **Office of the Director of National Intelligence** (institution, board tier A), a custody link at Tier 1 documented. The link reads: ODNI transferred UAP records into the statutory collection. NARA's press release nr25-07 names ODNI as one of four transferring agencies, alongside OSD, the FAA and the Nuclear Regulatory Commission. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
-- National Archives Unidentified Anomalous Phenomena Records Collection runs out to **FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: Collection created by sections 1841-1843 of the FY2024 NDAA. The surviving remnant of the Schumer-Rounds UAP Disclosure Act. The 24 April 2025 release drew records from ODNI, OSD, the FAA and the NRC, with rolling additions - the statutory machinery any executive declassification directive must eventually run through. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
 - National Archives Unidentified Anomalous Phenomena Records Collection comes in from **National Reconnaissance Office** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Produced no records for the first statutory UAP transfer. NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NRO, which holds documented UAP equity, transferred nothing. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
+- National Archives Unidentified Anomalous Phenomena Records Collection runs out to **FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: Collection created by sections 1841-1843 of the FY2024 NDAA. The surviving remnant of the Schumer-Rounds UAP Disclosure Act. The 24 April 2025 release drew records from ODNI, OSD, the FAA and the NRC, with rolling additions - the statutory machinery any executive declassification directive must eventually run through. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
 - National Archives Unidentified Anomalous Phenomena Records Collection comes in from **United States Department of Homeland Security** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Produced no records for the first statutory UAP transfer. NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
 - National Archives Unidentified Anomalous Phenomena Records Collection comes in from **National Security Agency** (institution, board tier B), a denial link at Tier 1 documented. The link reads: Produced no records for the first statutory UAP transfer. NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing. Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
 - National Archives Unidentified Anomalous Phenomena Records Collection runs out to **Information Security Oversight Office** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Both are components of the National Archives. NARA hosts both the statutory UAP collection and the Information Security Oversight Office, the body responsible to the President for the classification system. Sources: National Archives - Information Security Oversight Office, https://www.archives.gov/isoo, dated 2026-08-12; National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
@@ -1368,7 +1368,7 @@ Roles the board assigns it: custody, disclosure, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 75 of 1071, score 69). 9 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 75 of 1082, score 69). 9 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1461,7 +1461,7 @@ Roles the board assigns it: disclosure, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 233 of 1071, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 237 of 1082, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1549,7 +1549,7 @@ Roles the board assigns it: disclosure, oversight, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 63 of 1071, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 63 of 1082, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 

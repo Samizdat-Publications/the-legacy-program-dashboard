@@ -1724,6 +1724,158 @@
   "gap": "Whether The Aerospace Corporation had any institutional knowledge of or role in the retrievals Eric Davis described while employed there has never been addressed publicly by the corporation."
  },
  {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-fouche-iufoc-podium-1998",
+   "text": "HIGHEST-VALUE GAP ON THIS LEAD. It was NOT established that Edgar Fouche ever stood at an International UFO Congress podium. The contemporaneous programme for the 7th Annual International UFO Congress Convention gives 1 to 7 February 1998 at the Gold River Resort, Laughlin, Nevada, and lists 24 speakers, none of whom is Fouche. His own transcript is headed 'Copyright Aug. 1998' and his own text says he spoke at Laughlin 'in August'; the Congress ran summer sessions separately from its February convention, so August is consistent rather than contradictory. But no contemporaneous programme, report, ticket or press notice placing him on any podium in 1998 was opened. The venue attribution the entire literature repeats rests on his own document header and on later repetition of it. This is the same shape as the McCandlish National Press Club finding in the ARV dossier.",
+   "wouldClose": "A programme, flyer or convention report for the International UFO Congress summer sessions of August 1998; the International UFO Congress's own video archive at internationalufocongress.vhx.tv; or a contemporaneous newsletter from MUFON or a Laughlin-area paper."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-alien-rapture-text",
+   "text": "How the TR-3B appears in Alien Rapture: The Chosen was NOT established. No copy of the book's 275 pages was opened. The Library of Congress record establishes the genre assignment, the imprint, the pagination and the date, and nothing about the contents. The relationship between the novel's narrative and the technical passage at slides 69 to 72 of the presentation is therefore unknown, which is why the alien-rapture-1998 to tr-3b edge is graded Tier 3 and carries its caveat on the edge itself.",
+   "wouldClose": "A library copy, an Internet Archive lending copy, or the Kindle edition, read for the TR-3B passages and compared line by line against the presentation transcript."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-af-form-77a-authenticity",
+   "text": "The authenticity of the AF Form 77a of 24 August 1979 was NOT independently verified, and it is the load-bearing document of the whole cluster. It is legible and internally consistent with the rest of the compilation, but it comes from the subject of the record, its social security and service numbers are redacted, and it is not reported to be among the FOIA-released documents. No archival or FOIA-sourced copy was opened.",
+   "wouldClose": "A FOIA or Privacy Act request to the National Personnel Records Center in St. Louis for the Official Military Personnel File, or locating the copy David Hilton is said to have posted on 25 September 2014."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-hilton-foia-return",
+   "text": "The FOIA return on Fouche's military records was NOT opened. Everything about it in this build is Andrew Johnson's description in two posts of 12 and 13 January 2015. The documents David Hilton is said to have posted on 25 September 2014 were not located anywhere.",
+   "wouldClose": "Locating Hilton's original posting, or filing the request again at the National Personnel Records Center."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-det3-afftc-primary-record",
+   "text": "That Detachment 3 of the Air Force Flight Test Center is Groom Lake was NOT established from a primary record. It is sourced here to Peter Merlin's own published site, which is Tier 2, and every edge depending on it is capped at Tier 2 for that reason. No Air Force unit history, organisational chart, lineage and honours statement or FOIA release establishing it was opened.",
+   "wouldClose": "An Air Force Historical Research Agency unit lineage record for Detachment 3, AFFTC; the Air Force Flight Test Center's own histories; or a declassified organisational chart in the National Security Archive Area 51 briefing book NSAEBB443, whose other documents were not read."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-jeremy-rys-position-on-fouche",
+   "text": "Jeremy Rys's actual position on Fouche was NOT established, and NO NODE IS BUILT FOR HIM for that reason. No page or video authored by Rys about Fouche was opened. The arvp.co.uk TR-3B page asserts 'Jeremy Rys found him to have lied in his talk. He said he was pressured by people at iUFOC to mention S4'; no opened record supports either half of that sentence, and on the one account that was opened the relevant video is David Hilton's, not Rys's. Building a node for Rys from other people's descriptions of him would be laundering a claim through a describer.",
+   "wouldClose": "Reaching alienscientist.com or Rys's own video archive and finding what he actually published about Fouche, under his own byline."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-fouche-recorded-admission",
+   "text": "NO CONFESSION IS IN EVIDENCE ANYWHERE. The AboveTopSecret thread titled \"'Former Area 51 Employee' Ed Fouche - Recorded on video saying he is a liar\" returned HTTP 522 from its origin and was not read; it was the most promising candidate for the primary sceptical claim of a recorded admission. The Paracast thread titled 'Ed Fouche comes clean - He is a liar and fraud!' of 15 November 2013 contains no confession; its opening post is 'He is simply a faker. Not a disinfo agent imho.' The one description of the video that was opened, Andrew Johnson's of 2 July 2014, says he could not see the screen clearly enough to verify Hilton's claims. This cuts against the sceptics as well as for them: the case against Fouche that this build carries is documentary and technical, made by Peter Merlin, and it is not a recanting.",
+   "wouldClose": "Reaching abovetopsecret.com thread 984431 when the origin is up, or locating David Hilton's unlisted 'Edgar Fouche's Lie' video."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-tr3b-official-record",
+   "text": "NO OFFICIAL RECORD USING THE DESIGNATION 'TR-3B' WAS FOUND. No FOIA response, budget line, unit history, procurement document or fact sheet containing the string was located. This is a negative search result and is not offered as proof of absence, and it is recorded so that a later session does not spend the same effort twice without new search routes.",
+   "wouldClose": "A targeted search of the-black-vault's document archive and of FOIA reading rooms at the Air Force, NRO and DARPA, none of which was searched systematically here."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-mfd-physicist-critique",
+   "text": "No named, credentialed physicist publishing a critique of the Magnetic Field Disruptor specifically was found. What exists on the open web is forum argument. The physics finding on the tr-3b node is therefore graded Tier 3: it is an inference over NIST phase-change data for mercury and Fouche's own figures, not somebody else's published analysis. The Tier 1 anchor under it, NIST's melting point of 234.31 K, is solid, and the inference from it is short.",
+   "wouldClose": "A published analysis by a plasma physicist or aerospace engineer, or a treatment in the skeptical literature of record. Robert Sheaffer, already cited on the Petit-Rechain timeline row, is a plausible starting point."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-aurora-budget-line-origin",
+   "text": "NO NODE IS BUILT FOR 'AURORA' AND NOTHING ABOUT ITS REAL HISTORY IS ASSERTED ANYWHERE IN THIS FILE. Fouche's attribution of the TR-3B to 'the Top Secret, Aurora Program' is carried as a Tier 1 claim about what he said, and no further. The documented origin of the Aurora budget line, a February 1985 unclassified Pentagon procurement document, and Ben Rich's later statement that the name belonged to the B-2 competition, reached this research only through search-result summaries and was NOT verified from any primary source. Importing it from this file would breach CLAUDE.md section 2.",
+   "wouldClose": "The February 1985 FY1986 procurement submission; the Aviation Week & Space Technology reporting of 1990; and Ben Rich and Leo Janos, Skunk Works (1994), read directly. The board's existing ben-rich node is the hook for that pass."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-tacit-blue-conflation-not-supported",
+   "text": "RECORDED AGAINST THE BRIEF SO THE NEXT SESSION DOES NOT REDO IT. The brief asked for the widely reported analysis that the TR-3B narrative derives from or is confused with the real Northrop TACIT BLUE. That analysis was searched for and NOT FOUND, and the primary record argues against it: the USAF fact sheet's defining feature is curved surfaces, the aircraft is 48 ft 2 in across against a claimed 200 to 600 feet, and the programme concluded in 1985 against a craft claimed to have first flown in the early 1990s. There is no shape, size or date correspondence. The northrop-tacit-blue to tr-3b edge is therefore a denial edge and exists specifically to prevent the supportive version being drawn later. The conflation the record does support is with the F-117, which is Peter Merlin's identification of the airframe in Fouche's own misattributed photograph.",
+   "wouldClose": "Nothing needs closing unless a source actually making that argument is produced; if one is, it should be read against the fact sheet before any edge is changed."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-petit-rechain-no-node",
+   "text": "NO NODE IS BUILT FOR THE PETIT-RECHAIN PHOTOGRAPH, deliberately. It is genuinely documented, its maker's 2011 confession on RTL is well attested through Robert Sheaffer, and it is genuinely relevant to the black triangle corpus. But it is not connected to Fouche by anything except the word 'Belgium' at slide 6 of his presentation. Building it into this cluster would construct an association the record does not make. It is carried as a timeline row on tr-3b, flagged as deciding nothing about Fouche, and it is a candidate for a separate black-triangle pass.",
+   "wouldClose": "A black triangle sighting-wave pass of its own, which would also take in the 1989-90 Belgian wave, the Hudson Valley reports of the early 1980s and the F-16 radar episode of March 1990."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-hayakawa-no-node",
+   "text": "NO NODE IS BUILT FOR NORIO HAYAKAWA. He is the custody point for Peter Merlin's analysis and nothing else this research opened, so his URL belongs in the sources of the Merlin claims rather than in a node. His own argument, as distinct from the Merlin material he hosts, is an ad hominem and should not be cited as analysis: he reasons that because Fouche called Bob Lazar's accounts 'LIES' and Dan Burisch 'a total fraud', 'It is very likely that Fouche himself was also a fraud'.",
+   "wouldClose": "Nothing. This is a deliberate exclusion, recorded so it is not revisited."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-david-hilton-no-node",
+   "text": "NO NODE IS BUILT FOR DAVID HILTON. Everything about him reaches this research second-hand through Andrew Johnson's descriptions: the forgery allegation of 26 June 2014, the FOIA request, the posting of the return on 25 September 2014, and the unlisted 'Edgar Fouche's Lie' video. Neither his own words nor his own postings were opened. He is a real and substantive participant in this dispute and he should get a node when a session can open something he actually wrote or posted.",
+   "wouldClose": "Locating Hilton's YouTube channel postings or his own write-up of the FOIA request and its return."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-fouche-screen-credits",
+   "text": "Fouche's screen credits were NOT opened. IMDb returned HTTP 403 to this environment on both the mobile and desktop hosts. The Union Pictures documentary he names in the presentation and its broadcast date were not established, so his own claim that his documents were shown in it is uncorroborated. He also names Tim Shawcross and John Purdie of Union Pictures, and Ken Seddington of the International UFO Congress, and Jim Courrant, as people who inspected his 200 documents in 1998; none was contacted and no account by any of them was opened.",
+   "wouldClose": "The British Film Institute or Radio Times archive for the Union Pictures documentary; or an accessible IMDb mirror."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-fouche-obituary-full-text",
+   "text": "The full text of the funeral home obituary was NOT opened. masonfuneralhome.net returned HTTP 404 and legacy.com returned HTTP 403. The biographical details carried on the edgar-fouche node come from the Find a Grave memorial that cites that obituary, which is one remove from the source.",
+   "wouldClose": "An archived capture of the Mason Funeral Home obituary page, or the Mason County newspaper for the week of 15 May 2017."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-checktheevidence-file-integrity",
+   "text": "Whether the two checktheevidence PDFs have been altered since their stated 2014 creation dates was NOT established. Neither is signed or hashed anywhere, and both were retrieved live on 18 September 2026 with no earlier capture to compare against. The presentation PDF carries a creation date of 13 January 2014 and the military documents PDF 15 June 2014.",
+   "wouldClose": "Comparing against Wayback Machine captures of both file URLs, and against the archive.org text copy of the presentation, which was opened and agrees on the passages checked."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-aar-abbreviation",
+   "text": "What 'AAR' means on the 1984 Strategic Air Command letter was NOT resolved. Fouche's caption glosses it as 'After Action Request, refers to a classified program'; Peter Merlin reads it as 'After Action Review (or Report), a professional discussion of an event'. Neither reading was checked against any Air Force instruction, personnel manual or assignment-availability code list opened by this research, and the point matters because the handwritten marginal note on the same page glosses the adjacent '51' as Area 51.",
+   "wouldClose": "An Air Force Regulation or AFMPC personnel manual of the 1984 period defining assignment availability codes and the abbreviations used in Directorate of Assignments correspondence."
+  }
+ },
+ {
+  "domain": "tr3b-2026-09-18",
+  "gap": {
+   "id": "gap-lawrence-livermore-node",
+   "text": "Fouche's slide 72 names 'Sandia and Livermore laboratories' as developers of the Magnetic Field Disrupter. The board carries sandia and the edge is wired to it, but there is no lawrence-livermore node and none is proposed here, so only half the sentence is represented on the graph. This is a build gap rather than a research gap and it is recorded so the asymmetry is visible.",
+   "wouldClose": "A separate pass building lawrence-livermore from documented sources, after which the matching witness-chain edge from tr-3b should be added with the same Tier 2 grading and the same claimed-only framing."
+  }
+ },
+ {
   "domain": "uaptf-aaro",
   "gap": "Historical Record Report Volume II has never been published. It is the single largest documentary gap in the domain: it was promised in Volume I, deferred by the Pentagon in August 2024, promised 'within months' by Kosloski in November 2024, scheduled for late 2025 by a DoD spokeswoman in June 2025, and absent as of 12 August 2026. It is the volume the Department said would carry the official Yankee Blue findings."
  },

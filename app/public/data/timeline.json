@@ -253,6 +253,17 @@
 "tier": "A"
 },
 {
+"date": "1948-02-22",
+"era": "0",
+"id": "tl-1948-02-22-fouche-born",
+"label": "Edgar Albert Fouche born, Americus, Georgia",
+"node": "edgar-fouche",
+"precision": "day",
+"strand": "witness",
+"text": "Find a Grave memorial 180498305, citing an obituary from Mason Funeral Home, gives the birth date and birthplace. The Library of Congress name authority attached to LCCN 98002961 independently gives 'Fouche, Edgar Rothschild, 1948-'.",
+"tier": "C"
+},
+{
 "date": "1948-05-14",
 "era": "0",
 "id": "tl-ffrdc-1948-rand-inc",
@@ -1507,6 +1518,17 @@
 "tier": 2
 },
 {
+"date": "1979-06-01",
+"era": "1",
+"id": "tl-1979-06-01-fouche-tdy-det3",
+"label": "THE COUNTERWEIGHT: TSgt Fouche assigned temporary duty to AFFTC Detachment 3, Nellis AF Range",
+"node": "fouche-afftc-det3-1979",
+"precision": "day",
+"strand": "program",
+"text": "An AF Form 77a signed 24 August 1979 by MSgt Brewer of 57 CRS, Nellis AFB Nevada records: 'This out of cycle report is generated because TSgt Fouche was assigned TDY to the AFFTC-DET 3, Nellis AF Range from 1 June 79 to 14 August 79. His duties and responsibilities for this period have been verified via a separate report.' Peter Merlin's published reference work identifies Detachment 3 AFFTC as the unit operating the Groom Lake facility. The form does not say what he did there, and the separate report it refers to is not in the file.",
+"tier": "B"
+},
+{
 "date": "1979-07-01",
 "era": "1",
 "id": "tl-1979-bennewitz",
@@ -1683,6 +1705,17 @@
 "tier": "A"
 },
 {
+"date": "1982-02",
+"era": "1",
+"id": "tl-1982-02-tacit-blue-first-flight",
+"label": "Northrop TACIT BLUE first flight",
+"node": "northrop-tacit-blue",
+"precision": "month",
+"strand": "program",
+"text": "The U.S. Air Force fact sheet states 'The aircraft made its first flight in February 1982, and by the conclusion of the program in 1985, had flown 135 times.' This is what a real black aircraft programme of the era looks like in the primary record: 48 ft 2 in span, curved surfaces, two Garrett turbofans, no armament.",
+"tier": "B"
+},
+{
 "date": "1982-03-08",
 "era": "1",
 "id": "t-1982-cert",
@@ -1758,6 +1791,17 @@
 "strand": "oversight",
 "text": "Betty Cash, Vickie Landrum and Colby Landrum sue the United States in the Southern District of Texas under the Federal Tort Claims Act, Civil Action No. H-84-348. Peter A. Gersten is attorney in charge.",
 "tier": "A"
+},
+{
+"date": "1984-07-10",
+"era": "1",
+"id": "tl-1984-07-10-sac-letter",
+"label": "The letter Fouche later calls the 'SAC/DARPA Classified Document' is written",
+"node": "fouche-military-documents",
+"precision": "day",
+"strand": "program",
+"text": "A Headquarters Strategic Air Command letter of 10 July 1984, 'REPLY TO ATTN OF: DARPA', addressed to office code LGMQ, states 'HQ AFMPC has approved an AAR 51[redacted] on MSgt (32674) Fouche as requested. MSgt Fouche's date of availability is Aug 87.' It is signed by DALE E. HAGERMAN, TSgt, USAF, NCOIC, Amn Acft Maint Asgns Sec, Dir of Asgns, DCS/Pers. The page image carries no classification marking of any kind, and all redactions on it were applied by Fouche himself on his own caption's admission.",
+"tier": "B"
 },
 {
 "date": "1984-12",
@@ -1923,6 +1967,17 @@
 "strand": "coverup",
 "text": "Moore, Shandera and Friedman publish the material. NARA's subsequent searches produce nothing but a single problematic memorandum in Record Group 341.",
 "tier": "B"
+},
+{
+"date": "1987-08-31",
+"era": "1",
+"id": "tl-1987-08-31-fouche-sac-liaison-ends",
+"label": "End of Fouche's Strategic Air Command liaison post at Kelly AFB; active service concludes",
+"node": "edgar-fouche",
+"precision": "day",
+"strand": "witness",
+"text": "The Meritorious Service Medal citation with oak leaf cluster reads 'as the Strategic Air Command Liaison Officer, San Antonio Air Logistics Center, Kelly Air Force Base, Texas, from 17 July 1983 to 31 August 1987', and closes 'The singularly distinctive accomplishments of Sergeant Fouche culminate a distinguished career in the service of his country.' The certificate is signed by John T. Chain, Jr., General, USAF, Commander in Chief.",
+"tier": "C"
 },
 {
 "date": "1987-12-04",
@@ -2299,6 +2354,17 @@
 "tier": "A"
 },
 {
+"date": "1993-12-25",
+"era": "1",
+"id": "tl-1993-12-25-testors-sr75",
+"label": "Baltimore Sun reports the Testors SR-75 Penetrator and XR-7 Thunderdart on sale",
+"node": "testors-sr-75-kit",
+"precision": "day",
+"strand": "program",
+"text": "'Testor Corp. released the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models', designed by 'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19'. The Air Force spokeswoman Capt. Mary Dillon is quoted: 'We're not saying no comment, we're saying such a plane does not exist.' Fouche's presentation of August 1998 presents the same SR-75 Penetrator designation and the same mothership architecture as inside knowledge.",
+"tier": "C"
+},
+{
 "date": "1994-01-01",
 "era": "1",
 "id": "ms-cv-1994-sap",
@@ -2585,6 +2651,17 @@
 "tier": 2
 },
 {
+"date": "1996-05",
+"era": "1",
+"id": "tl-1996-05-tacit-blue-display",
+"label": "TACIT BLUE placed on public museum display",
+"node": "northrop-tacit-blue",
+"precision": "month",
+"strand": "program",
+"text": "'The aircraft was placed on display at the museum in May 1996.' A real compartmented aircraft programme of the Groom Lake era ends in a public exhibition hall with a published fact sheet and a cockpit plaque naming its five pilots.",
+"tier": "B"
+},
+{
 "date": "1997",
 "era": "1",
 "id": "bb-tl-1997-aftergood",
@@ -2706,6 +2783,17 @@
 "tier": "A"
 },
 {
+"date": "1998",
+"era": "1",
+"id": "tl-1998-alien-rapture-published",
+"label": "Alien Rapture: The Chosen published by Galde Press",
+"node": "alien-rapture-1998",
+"precision": "year",
+"strand": "witness",
+"text": "First edition, Lakeville, Minnesota, Galde Press, 1998, xii and 275 pages, 23 cm, ISBN 1880090503, by Edgar Rothschild Fouche and Brad Steiger. The Library of Congress record gives only the year; no primary record for the month was opened. No copy of the text was opened, so how the TR-3B appears inside it is unestablished.",
+"tier": "B"
+},
+{
 "date": "1998-01-01",
 "era": "1",
 "id": "tl-1998-a51",
@@ -2726,6 +2814,39 @@
 "strand": "coverup",
 "text": "Kasza v. Browner, 133 F.3d 1159, sustains dismissal on state secrets and statutory exemption grounds. The Supreme Court denies certiorari at 525 U.S. 967. The facility's contents remain legally unspeakable.",
 "tier": "A"
+},
+{
+"date": "1998-02-01",
+"era": "1",
+"id": "tl-1998-02-01-iufoc-7th-convention",
+"label": "The 7th Annual International UFO Congress Convention runs at Laughlin, and Fouche is not on its programme",
+"node": "fouche-iufoc-1998",
+"precision": "day",
+"strand": "witness",
+"text": "A contemporaneous page for the '7th Annual International UFO Congress Convention Film Festival & EBE Awards' gives the dates 'February 1 thru 7, 1998' and the venue 'Gold River Resort, Laughlin, Nevada', and lists 24 speakers by name. Edgar Fouche is not among them. His own transcript is dated August 1998 and his own text says he spoke at Laughlin 'in August', which the Congress's separate summer sessions make consistent rather than contradictory, but no contemporaneous record placing him on any podium in 1998 was opened.",
+"tier": "C"
+},
+{
+"date": "1998-02-04",
+"era": "1",
+"id": "tl-1998-02-04-loc-catalogues-alien-rapture",
+"label": "THE LIBRARY OF CONGRESS CATALOGUES ALIEN RAPTURE AS SCIENCE FICTION",
+"node": "alien-rapture-1998",
+"precision": "day",
+"strand": "witness",
+"text": "Library of Congress record LCCN 98002961, recordContentSource DLC, recordCreationDate 980204, carries the gsafd genre element 'Science fiction.', the subject heading 'Alien abduction - Fiction', the classification PS3556.O779 A79 1998, which is American literature, individual authors, 1961 onward, and the Dewey number 813/.54, American fiction. The cataloguing predates both the book's publication and the August presentation.",
+"tier": "B"
+},
+{
+"date": "1998-08",
+"era": "1",
+"id": "tl-1998-08-fouche-presentation",
+"label": "THE ANCHOR: the presentation transcript that originates the TR-3B",
+"node": "fouche-iufoc-1998",
+"precision": "month",
+"strand": "witness",
+"text": "A 62 page slide-cued speaking script headed 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Slide 5 names the book it was given to promote. Slides 69 to 72 give the TR-3B its designation and code name Astra, attribute it to 'the Top Secret, Aurora Program with SDI and black budget monies', name the NRO, NSA and CIA as funders and taskers, name Sandia and Livermore as developers of the propulsion, specify a mercury-based plasma 'at a temperature of 150 degrees Kelvin', and give the operational craft two different sizes two slides apart, 600 feet at slide 69 and 300 feet at slide 70.",
+"tier": "B"
 },
 {
 "date": "1998-08-10",
@@ -3960,6 +4081,17 @@
 "tier": "A"
 },
 {
+"date": "2011-07-26",
+"era": "2",
+"id": "tl-2011-07-26-petit-rechain-confession",
+"label": "The most-reproduced black triangle photograph is confessed as a hoax on Belgian television",
+"node": "tr-3b",
+"precision": "day",
+"strand": "witness",
+"text": "Robert Sheaffer records that on 26 July 2011 the Belgian broadcaster RTL carried the photographer's confession about the Petit-Rechain image of the 1989-90 Belgian wave: 'The UFO of Petit-Rechain is not a spaceship from a distant galaxy but a panel of painted styrofoam with three spots affixed', and, from the maker, 'One has managed to fool the whole world with a silly model made of styrofoam.' Fouche's 1998 presentation had attached his craft to 'the country of Belgium' at slide 6. This does not touch the eyewitness reports and it decides nothing about Fouche; it records that the visual corpus the claim borrows plausibility from has a confessed hoax at its centre.",
+"tier": "C"
+},
+{
 "date": "2011-12-30",
 "era": "2",
 "id": "sap-tl-2011-capco",
@@ -4090,6 +4222,39 @@
 "strand": "witness",
 "text": "After the fleet's APG-79 AESA radar upgrade, Ryan Graves's squadron begins witnessing UAP 'on a regular basis' off Virginia Beach during USS Theodore Roosevelt workups.",
 "tier": "A"
+},
+{
+"date": "2014-06-15",
+"era": "2",
+"id": "tl-2014-06-15-military-documents-published",
+"label": "The fifteen page military documents compilation is printed to PDF",
+"node": "fouche-military-documents",
+"precision": "day",
+"strand": "witness",
+"text": "The PDF opened carries producer 'PDF-XChange 4.0.195.0' and creation date D:20140615084520+01'00'. It is a print of an HTML page on checktheevidence.co.uk, 15 pages with 23 embedded images and a caption text layer in mixed voice. It contains no discharge certificate, no DD Form 214, no clearance record, no contract and no programme document.",
+"tier": "B"
+},
+{
+"date": "2014-06-26",
+"era": "2",
+"id": "tl-2014-06-26-hilton-forgery-allegation",
+"label": "David Hilton alleges Fouche faked one or more of his own military documents",
+"node": "fouche-military-documents",
+"precision": "day",
+"strand": "witness",
+"text": "Andrew Johnson records that Hilton made the allegation in a video dated 26 June 2014 and concluded that Fouche could not be trusted. The video itself was not opened; the allegation reaches this record only through Johnson's description of it.",
+"tier": "C"
+},
+{
+"date": "2014-09-25",
+"era": "2",
+"id": "tl-2014-09-25-foia-return-posted",
+"label": "Hilton posts the FOIA return on Fouche's military records",
+"node": "edgar-fouche",
+"precision": "day",
+"strand": "witness",
+"text": "Andrew Johnson records that Hilton filed a Freedom of Information Act request for Fouche's military records and posted the return on 25 September 2014, and reads it as corroborating what Fouche had already said: Lackland AFB 1967, Keesler and Cannon 1968, Nellis June 1976 to 16 July 1979, Kadena 5 September 1979 to 4 March 1982, and decorations including the Vietnam Service Medal and three Meritorious Service Medals. THE FOIA RETURN ITSELF WAS NOT OPENED by this research.",
+"tier": "C"
 },
 {
 "date": "2014-11",
@@ -4235,6 +4400,17 @@
 "tier": "B"
 },
 {
+"date": "2016-03-19",
+"era": "2",
+"id": "tl-2016-03-19-merlin-analysis-published",
+"label": "Peter Merlin's four-part analysis of Fouche is published",
+"node": "peter-merlin",
+"precision": "day",
+"strand": "witness",
+"text": "Quoted verbatim between (QUOTE) and (UNQUOTE) markers on Norio Hayakawa's blog: that the SAC letter is unclassified and carries no classification markings, control number or copy-of count and that 'REPLY TO: DARPA' is probably a five-letter office code; that the photograph Fouche captioned 'Have Blue' is 'the first YF-117A SENIOR TREND prototype'; that 'No such person as Steve Stenson was ever commander of AFFTC'; and that the KGB passport and badges are fakes 'widely available at many Army-Navy surplus stores'.",
+"tier": "C"
+},
+{
 "date": "2016-04-28",
 "era": "2",
 "id": "tl-pais-imrd-filed",
@@ -4288,6 +4464,17 @@
 "strand": "oversight",
 "text": "CEFAA publishes the Chilean Navy infrared video without an explanation - the first release of state military sensor footage of an unresolved object by a Latin American government, three years before the US Department of Defense authorised release of the three Navy videos.",
 "tier": 2
+},
+{
+"date": "2017-05-11",
+"era": "3",
+"id": "tl-2017-05-11-fouche-died",
+"label": "Edgar Albert Fouche dies, aged 69; buried Coffey Cemetery, Mason County, Texas",
+"node": "edgar-fouche",
+"precision": "day",
+"strand": "witness",
+"text": "Find a Grave memorial 180498305, created 18 June 2017 and citing an obituary from Mason Funeral Home, gives the death date and age and the burial at Coffey Cemetery, Streeter, Mason County, Texas, with the inscription 'Saved by the blood of Jesus Christ'. A death date of 6 May 2018 at age 82 also circulates and is wrong on both counts; no opened record supports it.",
+"tier": "C"
 },
 {
 "date": "2017-05-28",

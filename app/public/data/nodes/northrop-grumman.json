@@ -135,6 +135,27 @@
 },
 {
 "claimTier": 1,
+"cls": "program",
+"dateEnd": "1985",
+"dateStart": "1978",
+"direction": "in",
+"edgeLabel": "Northrop Corp. the airframe contractor",
+"id": "northrop-tacit-blue",
+"l0": false,
+"label": "Northrop TACIT BLUE",
+"note": "The fact sheet names 'the Northrop Corp.'; the board's existing node is northrop-grumman, the successor entity after the 1994 merger, and the edge is wired to it on that basis.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": "2002",
 "dateStart": "2002",
@@ -158,7 +179,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1994",
-"deg": 6,
+"deg": 7,
 "denials": [],
 "desc": "Northrop Grumman is one of the three companies Senate investigator Richard D'Amato is reported to have identified as the kind of private entity inside which a UFO cover-up could feasibly be held, alongside Lockheed Martin and EG&G. Its documented government relationship spans stealth bomber development at the deepest classification levels - the B-2 and now the B-21 Raider, built at Air Force Plant 42 - national security space, and, materially for this domain, the Nevada complex: from 2006 to 2017 the Nevada Test Site was managed and operated by National Security Technologies LLC, a Northrop Grumman-led consortium that succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory and Special Technologies Laboratory and the classified support infrastructure adjacent to the Groom Lake operating location. USAspending records tens of billions of dollars in prime contract obligations to Northrop Grumman Systems Corporation since FY2008. No sworn witness has named Northrop Grumman as a holder of material; it appears in this domain through D'Amato's reported assessment, through its stewardship of the Nevada infrastructure, and through the general allegation that material is distributed across primes by technical domain.",
 "domains": [
@@ -232,6 +253,12 @@
 "tier": "A"
 },
 {
+"cls": "program",
+"id": "northrop-tacit-blue",
+"label": "Northrop TACIT BLUE",
+"tier": "B"
+},
+{
 "cls": "institution",
 "id": "trw-inc",
 "label": "TRW Inc.",
@@ -258,7 +285,7 @@
 ],
 "sub": "Prime contractor; B-2/B-21; former Nevada Test Site management partner",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 399 of 1071, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 378 of 1082, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [
 {
 "date": "2006-01-01",

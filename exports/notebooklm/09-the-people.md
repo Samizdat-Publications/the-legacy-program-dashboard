@@ -1,6 +1,6 @@
 # The people below the programme map
 
-None of the 139 nodes on the programme map is a person, so every one of the board's 317 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
+None of the 140 nodes on the programme map is a person, so every one of the board's 320 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
 
 ## David Charles Grusch
 
@@ -39,7 +39,7 @@ Affiliations recorded: National Geospatial-Intelligence Agency, National Reconna
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 1 of 1071, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 1 of 1082, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -103,7 +103,7 @@ Affiliations recorded: US Army counterintelligence, Office of the Under Secretar
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 5 of 1071, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 5 of 1082, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -149,7 +149,7 @@ Affiliations recorded: U.S. House of Representatives, MO-7 (2023- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 30 of 1071, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 30 of 1082, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -199,7 +199,7 @@ Affiliations recorded: U.S. House of Representatives, FL-13 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 23 of 1071, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 23 of 1082, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -260,7 +260,7 @@ Affiliations recorded: National Institute for Discovery Science (1996-2004), Ear
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 19 of 1071, score 108). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 19 of 1082, score 108). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -304,7 +304,7 @@ Affiliations recorded: US Senate (1987-2017), Senate Majority Leader (2007-2015)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 39 of 1071, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 40 of 1082, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -363,7 +363,7 @@ Affiliations recorded: Defense Intelligence Agency, chief scientist for the Defe
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 11 of 1071, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 11 of 1082, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -435,7 +435,7 @@ Affiliations recorded: UAP Gerb (YouTube channel, ~135,000 subscribers), NewsNat
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 101 of 1071, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 101 of 1082, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -490,7 +490,7 @@ Affiliations recorded: KLAS-TV Las Vegas, I-Team (1980s-present), Mystery Wire (
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 85 of 1071, score 66). 18 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 85 of 1082, score 66). 18 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -543,7 +543,7 @@ Mark McCandlish is the origin point in print of a named craft, and he is not a w
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 143 of 1071, score 51). 16 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 144 of 1082, score 51). 16 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -561,8 +561,8 @@ A further 3 claims sit on this node on the board and are not reproduced here.
 ### Its strongest connections
 
 - Mark McCandlish runs out to **Steven M. Greer** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Witness to Greer's compilation; Greer writes the editorial notes around his testimony. Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Mark McCandlish runs out to **'Brad' Sorensen** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Painted the craft from Sorensen's verbal description; he was not at the air show. The 1990 primary document states the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. The same document records Sorensen disowning part of what McCandlish drew. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 - Mark McCandlish comes in from **ARVP (arvp.co.uk), the Flux Liner project site** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Hosts his coroner's file and publishes a reconstruction built from his talks. The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement. Sources: arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18; Shasta County Sheriff-Coroner, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view, dated 2021-06-21.
+- Mark McCandlish runs out to **'Brad' Sorensen** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Painted the craft from Sorensen's verbal description; he was not at the air show. The 1990 primary document states the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. The same document records Sorensen disowning part of what McCandlish drew. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 - Mark McCandlish runs out to **The Disclosure Project** (program, board tier C), a witness-chain link at Tier 1 documented. The link reads: Disclosure Project witness, testimony taken December 2000. His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
 - Mark McCandlish comes in from **Zero Point: The Story of Mark McCandlish and the Flux Liner** (document, board tier C), a investigative link at Tier 1 documented. The link reads: The film is about him and names him in its title. The dossier and the session ruling call this a media edge; 'media' is not one of this board's twelve edge types, so it is written as 'investigative', the type the board already uses for a media node covering a subject. IMDb credits him as 'Self - Guest', the only listed cast member. Sources: Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner', https://vimeo.com/channels/942663, dated 2026-09-18; IMDb tt6111304, user-maintained listing, https://www.imdb.com/title/tt6111304/, dated 2026-09-18.
 - Mark McCandlish runs out to **Eric W. Davis** (person, board tier A), a denial link at Tier 2 named person on the record. The link reads: Davis says the ARV claims are myth. On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel. Sources: Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ, dated 2024-12-12.
@@ -589,7 +589,7 @@ Affiliations recorded: U.S. House of Representatives, TN-2 (2019- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 77 of 1071, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 77 of 1082, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -641,7 +641,7 @@ Affiliations recorded: Stanford Research Institute, remote viewing programs (197
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 18 of 1071, score 109). 17 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 18 of 1082, score 109). 17 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -685,7 +685,7 @@ Affiliations recorded: The Black Vault, founder (1996-present), The Black Vault 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 137 of 1071, score 52). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 139 of 1082, score 52). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -744,7 +744,7 @@ Affiliations recorded: Central Intelligence Agency, Office of Scientific Intelli
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 44 of 1071, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 44 of 1082, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -794,7 +794,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 29 of 1071, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
+Re-graded A on a global pass (rank 29 of 1082, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -840,7 +840,7 @@ Affiliations recorded: Senate Select Committee on Intelligence, Minority Staff D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 76 of 1071, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 76 of 1082, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -888,7 +888,7 @@ Affiliations recorded: U.S. House of Representatives, SC-1 (2021- ), House Overs
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 103 of 1071, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded A on a global pass (rank 103 of 1082, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -940,7 +940,7 @@ Affiliations recorded: Budget Suites of America (1988-present), National Institu
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 53 of 1071, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 53 of 1082, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -984,7 +984,7 @@ Affiliations recorded: Defense Intelligence Agency, Defense Warning Office (1990
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 99 of 1071, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 99 of 1082, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1026,7 +1026,7 @@ Affiliations recorded: American Alchemy (2021-present), Thiel Capital (investor)
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 570 of 1071, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 578 of 1082, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1079,7 +1079,7 @@ Affiliations recorded: National Security Agency (physicist / technical director)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 42 of 1071, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 42 of 1082, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1128,7 +1128,7 @@ Affiliations recorded: The Debrief (2023), The New York Times (2017-2019, contri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 204 of 1071, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 207 of 1082, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1180,7 +1180,7 @@ Affiliations recorded: US Air Force Office of Special Investigations (c.1979-198
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 310 of 1071, score 36). 10 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 314 of 1082, score 36). 10 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1230,7 +1230,7 @@ Affiliations recorded: Stanford University School of Medicine, Professor of Path
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 115 of 1071, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 115 of 1082, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -1279,7 +1279,7 @@ Affiliations recorded: Stanford Research Institute, Augmentation Research Center
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 261 of 1071, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 266 of 1082, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -1327,7 +1327,7 @@ Affiliations recorded: National Institute for Discovery Science, project manager
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 181 of 1071, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 182 of 1082, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1348,6 +1348,56 @@ Re-graded B on a global pass (rank 181 of 1071, score 45). 8 connections, 1 of t
 - Colm A. Kelleher runs out to **George Knapp** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: 'Hunt for the Skinwalker' (2005), the book that triggered the contract. Lacatski read it and wrote to Bigelow in June 2007; a trade paperback is the documented first cause of a $22 million federal program. Sources: KLAS Mystery Wire, https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/, dated 2021-08-01.
 - Colm A. Kelleher runs out to **National Institute for Discovery Science (NIDS)** (program, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Kelleher was NIDS deputy administrator and ran field operations. Kelleher managed the ranch instrumentation, the necropsy response programme and the hotline casework for the institute's whole life. Sources: Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News, https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn, dated 1998-08-10; Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131, https://journalofscientificexploration.org/index.php/jse/article/view/2857, dated 2023-05-02.
 - Colm A. Kelleher runs out to **Robert T. Bigelow** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Continuous employment across NIDS and BAASS under the same principal. Kelleher's move from NIDS project manager to BAASS deputy administrator meant the DIA-funded programme inherited a pre-existing private case and sample archive rather than building one. Sources: Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics, https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/, dated 2020-02-14.
+
+It carries 8 connections in total on the board.
+
+## Edgar Fouche
+
+Edgar Fouche is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2017-05-11; axes C0 A1 D3; 8 connections.
+
+In one line: USAF master sergeant and avionics maintenance NCO, later a DoD contractor engineering manager; originating claimant of the TR-3B in an August 1998 presentation.
+
+### The longer account
+
+Edgar Albert Fouche is the single named origin of the TR-3B account, and what makes him a node is that origin and not any documented authority. The ordinary facts of his life are settled at Tier 1: born 22 February 1948 in Americus, Georgia, died 11 May 2017 aged 69, buried at Coffey Cemetery in Mason County, Texas, and independently fixed at 1948 by the Library of Congress name authority attached to his own book. The career the opened records document is a twenty year enlisted avionics maintenance career: F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bay, a Strategic Air Command liaison post at Kelly AFB, a Community College of the Air Force associate degree in avionics systems technology, and three Meritorious Service Medals whose citations describe exactly that work. It is an honourable record and an entirely ordinary one, and nothing in it touches aerospace design, propulsion or physics. Everything extraordinary rests on his own word in documents he wrote and copyrighted himself: the Top Secret and 'Q' clearances, the descent from Napoleon's minister of police, the helicopter flights to Groom Lake, and the TR-3B. One document is a real counterweight and the node must carry it: an AF Form 77a of 24 August 1979 records him assigned temporary duty to AFFTC Detachment 3 on the Nellis range for ten weeks, and Peter Merlin, the historian whose analysis demolishes most of the rest of the account, is the source that identifies Detachment 3 AFFTC as the unit operating Groom Lake. That form also says its own limit out loud: his duties there 'have been verified via a separate report', and that separate report is not in the file. In July 1998 he published a novel with Brad Steiger; the Library of Congress catalogues it as science fiction. In August 1998 he gave the presentation that put the TR-3B into the world.
+
+### Where the record conflicts
+
+- Three different figures for the length of his career circulate and are not the same figure. His own 1998 presentation says 'My Career Background Spans 30 Years' and, separately, 'As a civilian, from 1987 to 1995, I performed as Engineering Program Manager, Site Manager, and Director of Engineering for several DoD Contractors'. The Find a Grave summary of the funeral home obituary says twenty years in the USAF plus DoD project management to a 2001 retirement. The three are reconcilable but none was reconciled from an opened record.
+- The temporary duty dates on the AF Form 77a, 1 June to 14 August 1979, extend past 16 July 1979, which is the date Andrew Johnson gives as the close of the Nellis assignment in the FOIA return. Temporary duty running concurrently with, and past the nominal end of, a permanent assignment is normal, but the overlap is recorded here rather than smoothed over, because the FOIA return itself was not opened and the two records were therefore never compared directly.
+
+### Recorded as unverified
+
+- That he ever stood at an International UFO Congress podium. The contemporaneous programme for the 7th Annual International UFO Congress Convention gives dates of 1 to 7 February 1998 at the Gold River Resort, Laughlin, Nevada, and its speaker list of 24 names does not include him. His own transcript is headed 'Copyright Aug. 1998' and his own text says he spoke at Laughlin 'in August'. The International UFO Congress ran summer sessions separately from its February convention, so August is consistent rather than contradictory, but no contemporaneous programme, report, ticket or press notice placing him on any podium in 1998 was opened. The venue attribution rests on his own document and on later repetition of it.
+- Any recorded admission by him that he lied. The arvp.co.uk TR-3B page asserts 'Jeremy Rys found him to have lied in his talk. He said he was pressured by people at iUFOC to mention S4'. No page or video authored by Jeremy Rys about Fouche was opened. The video said to record an admission is David Hilton's, and the only account of it that was opened says its screen could not be read: 'The video is about an alleged Skype conversation with Edgar Fouche, but I could not see the screen clearly enough in Hilton's video to verify the claims he was making'. The Paracast thread titled 'Ed Fouche comes clean - He is a liar and fraud!' contains no confession; its opening post is 'He is simply a faker.' No confession is in evidence anywhere in the opened record.
+- His screen credits. IMDb returned HTTP 403 to this environment on both the mobile and desktop hosts. The Union Pictures documentary he names in the presentation, and its broadcast date, were not opened, so his own claim that his documents were shown in it is uncorroborated.
+- A death date of 6 May 2018 at age 82 surfaced in a search result during this research and is wrong on both counts. No opened record supports it. It is recorded here so that a later session does not re-import it.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 195 of 1082, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** A Meritorious Service Medal citation in his own published document collection reads: 'Master Sergeant Edgar A. Fouche distinguished himself in the performance of outstanding service to the United States as Noncommissioned Officer in Charge, F-16 Manual Test Station and Assistant Integrated Avionics Superintendent, 6100th Logistics Support Squadron, Kadena Air Base, Japan, from 5 September 1979 to 1 March 1982'. Source: Edgar Fouche's Military, and DOD contractors reference Documents, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, opened 2026-09-18
+- **Tier 1 documented.** A second Meritorious Service Medal citation, oak leaf cluster, signed by John T. Chain, Jr., General, USAF, Commander in Chief, reads: 'as the Strategic Air Command Liaison Officer, San Antonio Air Logistics Center, Kelly Air Force Base, Texas, from 17 July 1983 to 31 August 1987', and closes 'The singularly distinctive accomplishments of Sergeant Fouche culminate a distinguished career in the service of his country'. Source: Edgar Fouche's Military, and DOD contractors reference Documents, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, opened 2026-09-18
+- **Tier 1 documented.** Find a Grave memorial 180498305, created 18 June 2017 and citing an obituary from Mason Funeral Home, records Edgar Albert Fouche, born 22 February 1948 in Americus, Georgia, died 11 May 2017 aged 69, buried at Coffey Cemetery, Streeter, Mason County, Texas, with the inscription 'Saved by the blood of Jesus Christ'. It states he 'served 20 years in the USAF and worked as a Project Manager in the DOD until his 2001 retirement'. Source: Find a Grave memorial 180498305, https://www.findagrave.com/memorial/180498305/edgar-albert-fouch%C3%A9, opened 2026-09-18
+- **Tier 1 documented.** The Library of Congress name authority attached to LCCN 98002961 gives the author as 'Fouche, Edgar Rothschild, 1948-', independently fixing the birth year against a national bibliographic authority rather than against his own account. Source: Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, http://lx2.loc.gov:210/lcdb, opened 2026-09-18
+- **Tier 1 documented.** The same collection carries an Air Training Command Associate in Applied Science degree in Avionics Systems Technology conferred July 1983 through the Community College of the Air Force, a 1970 Field Training Detachment certificate in Solid State Devices, and a February 1974 McDonnell Aircraft Corporation certificate for the F-15 Eagle Integrated Avionics Component Technicians Course. Every item in the collection is a decoration, a training certificate, a performance report, a degree, or one personnel assignment letter. There is no discharge certificate, no DD Form 214, no clearance record and no programme document. Source: Edgar Fouche's Military, and DOD contractors reference Documents, 15 pages read in full, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, opened 2026-09-18
+- **Tier 2 named person on the record.** Andrew Johnson reports that a FOIA return obtained by David Hilton and posted on 25 September 2014 lists Lackland AFB (1967), Keesler AFB and Cannon AFB (1968), 'F-15 Manual Test Station Shift Chief, 57th Component Repair Squadron, Nellis Air Force Base, Nevada, from June 1976 to 16 July 1979', the Kadena assignment, and decorations including the Vietnam Service Medal and Republic of Vietnam Gallantry Cross with Palm Device. The FOIA return itself was not opened by this research. Source: Andrew Johnson, checktheevidence.com, 13 January 2015, https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/, opened 2026-09-18
+- **Tier 2 named person on the record.** He states the documents were vetted before the talk: 'Before I gave a presentation to the International UFO Congress in Laughlin, Nevada in August, I brought over 200 documents as an offer of proof to substantiate my credibility... These documents were viewed by Ken Seddington of the International UFO Congress, Jim Courrant, a UFO investigator, and Tim Shawcross and John Purdie of Union Pictures in London England.' None of these four people was contacted and no account by any of them was opened, so the claim that the documents were vetted is itself unvetted. Source: Fouche 1998 presentation text as carried at https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt, opened 2026-09-18
+- **Tier 2 named person on the record.** In his own 1998 presentation he claims clearances no opened record corroborates: 'I've held positions within the USAF that required me to have Top Secret and Q Clearances and Top Secret - Crypto access clearances.' No clearance record of any kind was opened. Source: Presentation to IUFOR by Edgar Rothshild Fouche, Copyright Aug. 1998, Fouche Media Associates, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, 1998-08
+
+A further 2 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- Edgar Fouche runs out to **United States Air Force** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: USAF master sergeant; twenty year avionics maintenance career, three Meritorious Service Medals. Tier 1 and entirely ordinary. The citations describe F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bed-down, and a Strategic Air Command liaison post at Kelly AFB. The second Meritorious Service Medal citation closes 'culminate a distinguished career', which dates the end of active service to 1987. Sources: Decoration certificates and citations, performance reports and education certificates in the self-published compilation, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 2014-06-15.
+- Edgar Fouche comes in from **Edgar Fouche's Military, and DOD contractors reference Documents** (document, board tier B), a research link at Tier 1 documented. The link reads: Self-published compilation about and by its own subject. INTENT: AUTHORSHIP AND SELF-PUBLICATION, mapped to research rather than custody so that the subject of a file is not given a x3.0 program edge to his own compilation. The compilation is about him, published by him, redacted by him on its own caption's admission, and one passage in it is signed 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'. Sources: Edgar Fouche's Military, and DOD contractors reference Documents, caption text layer, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 2014-06-15.
+- Edgar Fouche comes in from **Check The Evidence (checktheevidence.com), Andrew Johnson** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Custodian of the Fouche file, under a named operator. Mirrors the board's existing arvp-fluxliner-project to mark-mccandlish custody edge. The distinction worth recording is that this custodian signs and dates his posts by name, where arvp.co.uk is anonymous. Sources: Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/, dated 2014-02-11.
+- Edgar Fouche runs out to **Fouche's presentation transcript, August 1998** (document, board tier B), a research link at Tier 1 documented. The link reads: Author and copyright holder of the presentation transcript. INTENT: AUTHORSHIP. The board has no authorship edge type, and authorship is deliberately NOT built as custody here, because custody is weighted x3.0 as a program edge and giving a claimant a x3 edge to his own document would inflate him. Mapped to research. The document's first four lines are 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, page 1 header, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
+- Edgar Fouche runs out to **Alien Rapture: The Chosen, Galde Press, 1998** (document, board tier C), a research link at Tier 1 documented. The link reads: Primary author of Alien Rapture: The Chosen. INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives 'Fouche, Edgar Rothschild, 1948-' with usage primary and a statement of responsibility reading 'Edgar Rothschild Fouche and Brad Steiger.' Sources: Library of Congress catalogue record LCCN 98002961, MODS, name usage primary, http://lx2.loc.gov:210/lcdb, dated 1998-02-04.
+- Edgar Fouche runs out to **Groom Lake, Nevada** (location, board tier A), a geographic link at Tier 2 named person on the record. The link reads: Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation. The strongest documented connection between any TR-3B claimant and a real classified airfield, and it must be read with its own limit attached: the form does not say what he did there, referring that out to 'a separate report' that is not in the file, and everything else on the form describes F-15 avionics intermediate shop work. The extensive Groom Lake narration in the 1998 presentation, including helicopter flights and a mess hall conversation about an NSA system, is Tier 2 on his word alone. Sources: AF Form 77a, 24 August 1979, page 3 of the compilation, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 1979-08-24; Presentation to IUFOR by Edgar Rothshild Fouche, slide 42 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
 
 It carries 8 connections in total on the board.
 
@@ -1378,7 +1428,7 @@ Affiliations recorded: US Navy (2009-2019), VFA-11 Red Rippers, USS Theodore Roo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 163 of 1071, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 165 of 1082, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1427,7 +1477,7 @@ Affiliations recorded: Center for the Study of Extraterrestrial Intelligence (fo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 437 of 1071, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 442 of 1082, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1470,7 +1520,7 @@ Affiliations recorded: Fair-Witness Project, Co-author with Charles Berlitz, 'Th
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 280 of 1071, score 38). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 284 of 1082, score 38). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1504,7 +1554,7 @@ The president who signed the founding instruments of the structure this board ma
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 227 of 1071, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 231 of 1082, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1551,7 +1601,7 @@ Affiliations recorded: 509th Bomb Group, Roswell Army Air Field, S-2 Intelligenc
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 129 of 1071, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 130 of 1082, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1588,7 +1638,7 @@ Affiliations recorded: U.S. Senate, New York (2009- ), Senate Armed Services Com
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 202 of 1071, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 205 of 1082, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1655,7 +1705,7 @@ Affiliations recorded: Naval Air Warfare Center Aircraft Division (NAWCAD), NAS 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 45 of 1071, score 83). 7 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 45 of 1082, score 83). 7 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
 
 ### The claims on the record
 
@@ -1699,7 +1749,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 243 of 1071, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 247 of 1082, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -1744,7 +1794,7 @@ Affiliations recorded: Harvard University Department of Astronomy (1993- ; chair
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 205 of 1071, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 208 of 1082, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1786,7 +1836,7 @@ Affiliations recorded: Weaponized podcast (with George Knapp), Extraordinary Bel
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 681 of 1071, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 689 of 1082, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1822,7 +1872,7 @@ Affiliations recorded: U.S. Senate, Florida (2011-2025), SSCI Acting Chairman (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 406 of 1071, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 409 of 1082, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1866,7 +1916,7 @@ Affiliations recorded: Thunder Scientific Corporation, Albuquerque (founder/pres
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 464 of 1071, score 30). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 468 of 1082, score 30). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1901,7 +1951,7 @@ The structural point is the ordering. A former DCI publicly contradicting the Ai
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 154 of 1071, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 155 of 1082, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1947,7 +1997,7 @@ Affiliations recorded: US Navy (1989-2017), Rear Admiral, Commander, Naval Meteo
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 135 of 1071, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 137 of 1082, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1985,7 +2035,7 @@ A private correspondent of John Podesta's in the WikiLeaks Podesta Emails, writi
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 501 of 1071, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 508 of 1082, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2016,7 +2066,7 @@ The board already holds a document over Cabell's signature, cited as a source on
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 228 of 1071, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 232 of 1082, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -2052,7 +2102,7 @@ Affiliations recorded: U.S. Senate, New York (1999- ), Senate Majority Leader (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 241 of 1071, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 245 of 1082, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2089,7 +2139,7 @@ Affiliations recorded: New Paradigm Institute (founder), Christic Institute (co-
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 652 of 1071, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded C on a global pass (rank 660 of 1082, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -2129,7 +2179,7 @@ Affiliations recorded: US Navy (1989-2006), VFA-41 Black Aces, Commanding Office
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 149 of 1071, score 50). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 150 of 1082, score 50). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2170,7 +2220,7 @@ Keyhoe ran the civilian organisation the board already carries as nicap, and he 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 203 of 1071, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 206 of 1082, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2210,7 +2260,7 @@ Affiliations recorded: US Air Force veteran, U.S. Air Force (Langley AFB, c.2012
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 100 of 1071, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 100 of 1082, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2252,7 +2302,7 @@ Affiliations recorded: U.S. House of Representatives, FL-23 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 335 of 1071, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 338 of 1082, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2290,7 +2340,7 @@ Affiliations recorded: The White House (1993-2001; 2014-2015), Center for Americ
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 656 of 1071, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 664 of 1082, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2324,7 +2374,7 @@ Affiliations recorded: NASA Ames Research Center (2001-2005), University at Alba
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 862 of 1071, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 872 of 1082, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -2358,7 +2408,7 @@ Affiliations recorded: US Army, Vietnam (116th and 187th Assault Helicopter Comp
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 411 of 1071, score 32). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 414 of 1082, score 32). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2397,7 +2447,7 @@ Affiliations recorded: CRIFO (Civilian Research, Interplanetary Flying Objects),
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 749 of 1071, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 757 of 1082, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2432,7 +2482,7 @@ Affiliations recorded: University at Albany (SUNY), Department of Physics, LUX /
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 861 of 1071, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 871 of 1082, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2465,7 +2515,7 @@ Genik has no documented custody proximity and no documented special access. He i
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 130 of 1071, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 131 of 1082, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2504,7 +2554,7 @@ Richard Bissell is where the documented record of Area 51 begins, and the board'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 212 of 1071, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 215 of 1082, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -2518,7 +2568,7 @@ Re-graded B on a global pass (rank 212 of 1071, score 42). 5 connections, 1 of t
 
 - Richard M. Bissell Jr. runs out to **Central Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Special Assistant to the DCI for Planning and Coordination from January 1954. The Agency's own history names him in that post and records Dulles handing him the U-2 project in November 1954. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Richard M. Bissell Jr. runs out to **Project Blue Book** (program, board tier A), a denial link at Tier 1 documented. The link reads: His project staff resolved Blue Book's reports and withheld the reason. The CIA history states that Blue Book investigators checked reported sightings against U-2 flight logs held by the Agency's project staff and could not reveal the true cause to the people who had written in. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
-- Richard M. Bissell Jr. runs out to **Groom Lake, Nevada** (location, board tier B), a geographic link at Tier 1 documented. The link reads: Selected the site on 12 April 1955. He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
+- Richard M. Bissell Jr. runs out to **Groom Lake, Nevada** (location, board tier A), a geographic link at Tier 1 documented. The link reads: Selected the site on 12 April 1955. He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Richard M. Bissell Jr. runs out to **Lockheed Martin Advanced Development Programs (Skunk Works)** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: Ran the project Kelly Johnson built the aircraft for. Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Richard M. Bissell Jr. runs out to **Area 51 (Homey Airport / Groom Lake operating location)** (location, board tier B), a institutional link at Tier 1 documented. The link reads: Asked the AEC to absorb the land that became Area 51. On finding the site lay outside the proving ground he and Miller asked the Commission to add it to its Nevada holdings; Strauss agreed and Eisenhower approved the addition of the strip known by its map designation as Area 51. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 
@@ -2544,7 +2594,7 @@ Affiliations recorded: ufohastings.com, UFOs and Nukes (book and documentary).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 475 of 1071, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 480 of 1082, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2585,7 +2635,7 @@ Affiliations recorded: US House of Representatives, NM-01 (1989-1998), House Jud
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 276 of 1071, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 280 of 1082, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2625,7 +2675,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 382 of 1071, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 386 of 1082, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -2654,7 +2704,7 @@ The correspondent named throughout the Wilson-Davis notes as the man who first r
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 680 of 1071, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 688 of 1082, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2686,7 +2736,7 @@ Affiliations recorded: US Navy (2001-2019), VFA-41 Black Aces (2004), Naval Post
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 469 of 1071, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 473 of 1082, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2731,7 +2781,7 @@ Affiliations recorded: US Navy, Senior Chief Operations Specialist, USS Jackson 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 173 of 1071, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 174 of 1082, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -2773,7 +2823,7 @@ The documented officeholder who joins three institutions the board already carri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 229 of 1071, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 233 of 1082, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -2811,7 +2861,7 @@ Everything substantive on this thread traces to one man, and the earliest docume
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 468 of 1071, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 472 of 1082, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -2847,7 +2897,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 744 of 1071, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
+Re-graded C on a global pass (rank 752 of 1082, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
 
 ### The claims on the record
 
@@ -2879,7 +2929,7 @@ Affiliations recorded: Air Technical Intelligence Center, Wright-Patterson AFB (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 360 of 1071, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 363 of 1082, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -2917,7 +2967,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-2 (2023- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 334 of 1071, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 337 of 1082, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2948,7 +2998,7 @@ Affiliations recorded: U.S. House of Representatives, WI-6 (2015- ), Subcommitte
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 713 of 1071, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 721 of 1082, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2982,7 +3032,7 @@ Gordon Gray held, in sequence, four offices that between them cover the whole of
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 292 of 1071, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 296 of 1082, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -3014,7 +3064,7 @@ Affiliations recorded: CIA Office of Scientific Intelligence, Assistant Director
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 503 of 1071, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 510 of 1082, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3044,7 +3094,7 @@ Affiliations recorded: Ohio State University (1936-1956), Project SIGN / GRUDGE 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 471 of 1071, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 475 of 1082, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3074,7 +3124,7 @@ Affiliations recorded: U.S. House of Representatives, KY-1 (2016- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 798 of 1071, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 806 of 1082, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3104,7 +3154,7 @@ Affiliations recorded: University of Arizona, Institute of Atmospheric Physics (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 436 of 1071, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 441 of 1082, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3147,7 +3197,7 @@ Affiliations recorded: Defense Intelligence Agency (2000s-2021), AAWSAP/AATIP pa
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 136 of 1071, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 138 of 1082, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -3189,7 +3239,7 @@ Affiliations recorded: US Army, Colonel (ret.), UAP Task Force, Army liaison (20
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 502 of 1071, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 509 of 1082, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -3228,7 +3278,7 @@ Affiliations recorded: US Navy (retired Senior Chief Operations Specialist), USS
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 711 of 1071, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded C on a global pass (rank 719 of 1082, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -3588,7 +3638,7 @@ What is documented about his work is classical general relativity, not gravity c
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 600 of 1071, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 608 of 1082, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -3625,7 +3675,7 @@ Affiliations recorded: The Hill (opinion contributor), US Department of State (f
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 1021 of 1071, score 10). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 1031 of 1082, score 10). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -3652,7 +3702,7 @@ Affiliations recorded: Bigelow Aerospace (Washington DC operations, prior), NASA
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 466 of 1071, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 470 of 1082, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3689,7 +3739,7 @@ Michael Herrera is a claimant whose account has reached two official records wit
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 361 of 1071, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.
+Re-graded B on a global pass (rank 364 of 1082, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.
 
 ### The claims on the record
 
@@ -3728,7 +3778,7 @@ Affiliations recorded: Public (co-founder), University of Austin (faculty, 2026)
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 273 of 1071, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 277 of 1082, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -3766,7 +3816,7 @@ Affiliations recorded: U.S. Senate, South Dakota (2015- ), Senate Armed Services
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 405 of 1071, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 408 of 1082, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3805,7 +3855,7 @@ Affiliations recorded: U.S. House, Ohio (2003- ), Chairman, HPSCI (2023-2025), H
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 470 of 1071, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 474 of 1082, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -3839,7 +3889,7 @@ Affiliations recorded: US Army Air Forces / Air Materiel Command (1945-1947), US
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 291 of 1071, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 295 of 1082, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3873,7 +3923,7 @@ Affiliations recorded: OUSD(I), Director for Defense Intelligence (Collection & 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 407 of 1071, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 410 of 1082, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3907,7 +3957,7 @@ Affiliations recorded: uk-mod, uk-mod-ufo-desk.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 624 of 1071, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 632 of 1082, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3941,7 +3991,7 @@ Affiliations recorded: fab, Ministério da Aeronáutica.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 474 of 1071, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 479 of 1082, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3978,7 +4028,7 @@ Affiliations recorded: Secretary of Defense / Secretary of War (2025-), Fox News
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 164 of 1071, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 166 of 1082, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -4016,7 +4066,7 @@ Affiliations recorded: U.S. House of Representatives, CA-42 (2023- ), Subcommitt
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 712 of 1071, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 720 of 1082, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4044,7 +4094,7 @@ Sidney Gottlieb is the officer at the centre of the destruction event the board'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 312 of 1071, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 316 of 1082, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -4078,7 +4128,7 @@ Souers held, in sequence, the two offices through which the postwar national sec
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 274 of 1071, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 278 of 1082, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -4444,7 +4494,7 @@ The provenance that matters most is the one the enthusiast literature omits. Bro
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 91 of 1071, score 64). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded A on a global pass (rank 91 of 1082, score 64). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -4489,7 +4539,7 @@ Affiliations recorded: fab, Serviço Nacional de Informações (SNI).
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 535 of 1071, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded C on a global pass (rank 542 of 1082, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -4528,7 +4578,7 @@ Affiliations recorded: 509th Bomb Group, Roswell Army Air Field (1946-1948), Int
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 293 of 1071, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 297 of 1082, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -4565,7 +4615,7 @@ Affiliations recorded: nro, odni.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 565 of 1071, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded C on a global pass (rank 573 of 1082, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -4595,7 +4645,7 @@ The released aneutronic paper attributed to him reads like a nuclear engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 206 of 1071, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 209 of 1082, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -4628,7 +4678,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-5 (2017- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 996 of 1071, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
+Re-graded C on a global pass (rank 1006 of 1082, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -4654,7 +4704,7 @@ Affiliations recorded: U.S. House of Representatives, TN-5 (2023- ), Congression
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 828 of 1071, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 836 of 1082, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4686,7 +4736,7 @@ Arthur G. Trudeau held the Army post that sat directly above the office Philip C
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 438 of 1071, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 443 of 1082, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -4714,7 +4764,7 @@ Cecilia Levy is the third University at Albany physicist on the only peer-review
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 891 of 1071, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.
+Re-graded C on a global pass (rank 901 of 1082, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.
 
 ### The claims on the record
 
@@ -4749,7 +4799,7 @@ Affiliations recorded: Princeton University, Department of Astrophysical Science
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 499 of 1071, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 506 of 1082, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4785,7 +4835,7 @@ Donald Howard Menzel, 1901-1976, was the director of the Harvard College Observa
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 311 of 1071, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 315 of 1082, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -4815,7 +4865,7 @@ Affiliations recorded: President of the United States (2017-2021, 2025-).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 404 of 1071, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 407 of 1082, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -4852,7 +4902,7 @@ Affiliations recorded: National Bureau of Standards, director (1945-1951), Unive
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 403 of 1071, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
+Re-graded B on a global pass (rank 406 of 1082, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
 
 ### The claims on the record
 
@@ -4889,7 +4939,7 @@ His geographic placement matters to the shape of the programme. AAWSAP funding w
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 383 of 1071, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 387 of 1082, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -4928,7 +4978,7 @@ Affiliations recorded: U.S. Special Operations Command / OSD SO-LIC, OUSD(I&S), 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 563 of 1071, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 571 of 1082, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -4966,7 +5016,7 @@ Affiliations recorded: US Navy, USS Princeton (CG-59), Carrier Strike Group 11 (
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 679 of 1071, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded C on a global pass (rank 687 of 1082, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -5300,7 +5350,7 @@ The industrial and academic halves were deliberately kept apart, and the source 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 569 of 1071, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 577 of 1082, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -5337,7 +5387,7 @@ Gerald Anderson came forward in 1990, after a television broadcast, claiming tha
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 748 of 1071, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.
+Re-graded C on a global pass (rank 756 of 1082, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.
 
 ### The claims on the record
 
@@ -5368,7 +5418,7 @@ The board's own framing calls the programme's security apparatus one taken from 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 314 of 1071, score 36). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 318 of 1082, score 36). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -5407,7 +5457,7 @@ Affiliations recorded: US Air Force, Commander, NORAD and USNORTHCOM (Feb 2024- 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 650 of 1071, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded C on a global pass (rank 658 of 1082, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -5436,7 +5486,7 @@ Affiliations recorded: U.S. Senate, Rhode Island (1997- ), Chairman, Senate Arme
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 211 of 1071, score 42). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded B on a global pass (rank 214 of 1082, score 42). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -5470,7 +5520,7 @@ Affiliations recorded: Director, DIA (1992-1995), Under Secretary of Defense for
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 435 of 1071, score 31). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 440 of 1082, score 31). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -5500,7 +5550,7 @@ Angleton was Chief of the CIA's Counterintelligence Staff from 1954 to 1974 and,
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 259 of 1071, score 39). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 264 of 1082, score 39). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -5533,7 +5583,7 @@ James V. Forrestal was Secretary of the Navy until September 1947 and then the f
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 257 of 1071, score 39). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
+Re-graded B on a global pass (rank 262 of 1082, score 39). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -5571,7 +5621,7 @@ Affiliations recorded: US Air Force security forces / military police, Vandenber
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 180 of 1071, score 45). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 181 of 1082, score 45). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -5615,7 +5665,7 @@ Affiliations recorded: U.S. Army Combat Capabilities Development Command, Ground
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 381 of 1071, score 33). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D0.
+Re-graded B on a global pass (rank 385 of 1082, score 33). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D0.
 
 ### The claims on the record
 
@@ -5647,7 +5697,7 @@ Affiliations recorded: Deputy Secretary of Defense (2021-2025), Center for Strat
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 647 of 1071, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded C on a global pass (rank 655 of 1082, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -5673,7 +5723,7 @@ Groves is the hinge the board has been carrying in prose. The Armed Forces Speci
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 380 of 1071, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 384 of 1082, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -5710,7 +5760,7 @@ Affiliations recorded: michigan-state, skidmore-fitts-report.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 917 of 1071, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 927 of 1082, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -5723,30 +5773,3 @@ Re-graded C on a global pass (rank 917 of 1071, score 15). 3 connections, 0 of t
 - Mark Skidmore runs out to **Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)** (document, board tier C), a research link at Tier 2 named person on the record. The link reads: Co-author and compiler. Skidmore compiled the OIG and GAO unsupported-adjustment figures for FY1998-FY2015 and co-authored the September 2017 summary report. Attested by the report and by his own publication list. Sources: Skidmore-Fitts summary report, https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf, dated 2017-09-01.
 - Mark Skidmore comes in from **Laurence J. Kotlikoff** (person, board tier C), a research link at Tier 2 named person on the record. The link reads: Co-authored three Forbes columns carrying the figure into the financial press. Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list. Sources: Mark Skidmore, publications, https://mark-skidmore.com/research/research-in-finance-public-finance/, dated 2026-08-12.
 - Mark Skidmore runs out to **Michigan State University** (institution, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Morris Chair in State and Local Government Finance and Policy. Skidmore holds the Morris Chair and is Professor of Economics at Michigan State University. Attested by his own site. Sources: Mark Skidmore, About, https://mark-skidmore.com/about/, dated 2026-08-12.
-
-## Maxwell Alejandro Frost
-
-Maxwell Alejandro Frost is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2023-07-26; axes C0 A1 D1; 3 connections.
-
-In one line: U.S. Rep. (D-FL-10); questioned Graves and Fravor on the reporting gap.
-
-### The longer account
-
-Frost sat on the National Security subcommittee for the 2023 hearing and is now a member of the Task Force on the Declassification of Federal Secrets. His questioning at the 2023 hearing concentrated on Graves and Fravor and on the practical failure of reporting - the same gap Ranking Member Garcia converted into H.R. 6967 six months later. He is one of the Democratic members whose continued presence keeps the House UAP inquiry from collapsing into a single-party exercise, and his membership on the Task Force means the minority is represented on the body with the declassification remit rather than only on the parent committee.
-
-Affiliations recorded: U.S. House of Representatives, FL-10 (2023- ), Committee on Oversight and Accountability / Government Reform (2023- ), Task Force on the Declassification of Federal Secrets.
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 930 of 1071, score 14). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
-
-### The claims on the record
-
-- **Tier 1 documented.** Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets. Source: oversight.house.gov Task Force membership page
-- **Tier 1 documented.** Member of the Subcommittee on National Security, the Border, and Foreign Affairs at the 26 July 2023 hearing and a questioner of Graves and Fravor. Source: GPO CHRG-118hhrg53022
-
-### Its strongest connections
-
-- Maxwell Alejandro Frost runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a legislative link at Tier 1 documented. The link reads: questioned witnesses at the 26 July 2023 UAP hearing. Frost used his round on the scientific and stigma dimension: NASA's independent study team, the Galileo Project, whether military pilots feeling empowered to speak had shifted scientific research goals, and how Congress might connect scientists to the government's UAP work. He closed: 'I think it is important that we keep our top scientific minds focused on this issue and look for ways to increase collaboration.' Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; https://www.congress.gov/event/118th-congress/house-event/116282/text, https://www.congress.gov/event/118th-congress/house-event/116282/text
-- Maxwell Alejandro Frost runs out to **National Aeronautics and Space Administration** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: questioned Administrator Nelson on UAP; pressed NASA's role at hearing. Frost told the hearing: 'In fact, I sit on the Science, Space and Technology Committee and when we were doing a hearing with the NASA Administrator, Bill Nelson, I asked, you know, why NASA needed to be fully funded. And there were many great reasons, but one of them was actually--had to do with UAPs.' He tied it forward to the NASA independent study team and to Harvard standing up the Galileo Project in 2021. Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-- Maxwell Alejandro Frost runs out to **Ryan Graves** (person, board tier B), a investigative link at Tier 1 documented. The link reads: questioned Graves on scientific advisory board and NASA reporting. Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee. Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.

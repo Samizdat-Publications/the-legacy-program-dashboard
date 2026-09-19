@@ -1352,6 +1352,14 @@
 "tier": 3
 },
 {
+"a": "alien-rapture-1998",
+"b": "tr-3b",
+"dateStart": "1998",
+"label": "The book the presentation was given to promote; its TR-3B content was NOT opened",
+"t": "investigative",
+"tier": 3
+},
+{
 "a": "allen-w-dulles",
 "b": "cia",
 "dateStart": "1953",
@@ -1765,6 +1773,14 @@
 "dateStart": "2024",
 "label": "Hosts his coroner's file and publishes a reconstruction built from his talks",
 "t": "custody",
+"tier": 1
+},
+{
+"a": "arvp-fluxliner-project",
+"b": "tr-3b",
+"dateStart": "2026-09-18",
+"label": "ARVP carries a TR-3B page and routes its readers to the Fouche file",
+"t": "research",
 "tier": 1
 },
 {
@@ -2424,6 +2440,14 @@
 "tier": 1
 },
 {
+"a": "brad-steiger",
+"b": "alien-rapture-1998",
+"dateStart": "1998",
+"label": "Co-author of Alien Rapture: The Chosen",
+"t": "research",
+"tier": 1
+},
+{
 "a": "brett-mansfield",
 "b": "dod-agencywide-audit",
 "dateStart": "2026-05-13",
@@ -2797,6 +2821,14 @@
 "dateStart": null,
 "label": "Director of Intelligence, Office of the Deputy Chief of Staff, USAF",
 "t": "institutional",
+"tier": 1
+},
+{
+"a": "checktheevidence",
+"b": "edgar-fouche",
+"dateStart": "2014-02-11",
+"label": "Custodian of the Fouche file, under a named operator",
+"t": "custody",
 "tier": 1
 },
 {
@@ -6464,6 +6496,54 @@
 "tier": 1
 },
 {
+"a": "edgar-fouche",
+"b": "alien-rapture-1998",
+"dateStart": "1998",
+"label": "Primary author of Alien Rapture: The Chosen",
+"t": "research",
+"tier": 1
+},
+{
+"a": "edgar-fouche",
+"b": "fouche-iufoc-1998",
+"dateStart": "1998-08",
+"label": "Author and copyright holder of the presentation transcript",
+"t": "research",
+"tier": 1
+},
+{
+"a": "edgar-fouche",
+"b": "l-edwards-afb",
+"dateStart": "1974",
+"label": "Claims assignment to 6515 TSS, AFFTC, Edwards AFB on the F-15 R&D and FOT&E programme",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "edgar-fouche",
+"b": "l-groom-lake",
+"dateStart": "1979-06-01",
+"label": "Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "edgar-fouche",
+"b": "tr-3b",
+"dateStart": "1998-08",
+"label": "Originating claimant of the TR-3B, August 1998",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "edgar-fouche",
+"b": "usaf",
+"dateStart": "1967",
+"label": "USAF master sergeant; twenty year avionics maintenance career, three Meritorious Service Medals",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "eduardo-girao",
 "b": "ev-varginha-capitol-2026",
 "dateStart": "2026-01-20",
@@ -7269,6 +7349,54 @@
 "dateStart": null,
 "label": "Air Force Systems Command organisation under the DCS/Research and Development for the UFO programme",
 "t": "institutional",
+"tier": 1
+},
+{
+"a": "fouche-afftc-det3-1979",
+"b": "fouche-military-documents",
+"dateStart": "2014-06-15",
+"label": "The AF Form 77a is page 3 of the compilation",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "fouche-afftc-det3-1979",
+"b": "l-groom-lake",
+"dateStart": "1979-06-01",
+"label": "Records temporary duty to AFFTC Detachment 3, the unit operating Groom Lake, 1 June to 14 August 1979",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "fouche-iufoc-1998",
+"b": "checktheevidence",
+"dateStart": "2014-01-13",
+"label": "Presentation transcript hosted by Check The Evidence",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "fouche-iufoc-1998",
+"b": "tr-3b",
+"dateStart": "1998-08",
+"label": "The dated artefact that carries the claim; opened in full",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "fouche-military-documents",
+"b": "checktheevidence",
+"dateStart": "2014-06-15",
+"label": "Military documents compilation hosted by Check The Evidence",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "fouche-military-documents",
+"b": "edgar-fouche",
+"dateStart": "2014-06-15",
+"label": "Self-published compilation about and by its own subject",
+"t": "research",
 "tier": 1
 },
 {
@@ -14000,6 +14128,38 @@
 "tier": 1
 },
 {
+"a": "northrop-tacit-blue",
+"b": "darpa",
+"dateStart": "1978",
+"label": "DARPA a named partner in the programme, 1978 to 1985",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "northrop-tacit-blue",
+"b": "northrop-grumman",
+"dateStart": "1978",
+"label": "Northrop Corp. the airframe contractor",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "northrop-tacit-blue",
+"b": "tr-3b",
+"dateStart": "1982-02",
+"label": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "northrop-tacit-blue",
+"b": "usaf",
+"dateStart": "1978",
+"label": "USAF a named partner and the publisher of the fact sheet",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "norton-afb-airshow-1988",
 "b": "l-norton-afb",
 "dateStart": "1988-11-12",
@@ -14813,6 +14973,30 @@
 "dateStart": "1977",
 "label": "Gersten directed CAUS and brought its FOIA litigation",
 "t": "institutional",
+"tier": 2
+},
+{
+"a": "peter-merlin",
+"b": "fouche-afftc-det3-1979",
+"dateStart": "2026-09-18",
+"label": "His own published work is what establishes what AFFTC Detachment 3 is",
+"t": "research",
+"tier": 2
+},
+{
+"a": "peter-merlin",
+"b": "fouche-military-documents",
+"dateStart": "2016-03-19",
+"label": "Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "peter-merlin",
+"b": "tr-3b",
+"dateStart": "2016-03-19",
+"label": "Named aerospace historian; four falsifiable specifics against the claimant's evidence",
+"t": "denial",
 "tier": 2
 },
 {
@@ -17680,6 +17864,14 @@
 "tier": 1
 },
 {
+"a": "testors-sr-75-kit",
+"b": "tr-3b",
+"dateStart": "1993-12-25",
+"label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
+"t": "denial",
+"tier": 3
+},
+{
 "a": "tf-declassification-federal-secrets",
 "b": "hearing-2025-09-09",
 "dateStart": "2025-09-09",
@@ -18126,6 +18318,46 @@
 "label": "Co-founder, President, interim CEO and controlling shareholder",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "tr-3b",
+"b": "cia",
+"dateStart": "1998-08",
+"label": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "tr-3b",
+"b": "darpa",
+"dateStart": "1984-07-10",
+"label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "tr-3b",
+"b": "nro",
+"dateStart": "1998-08",
+"label": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "tr-3b",
+"b": "nsa",
+"dateStart": "1998-08",
+"label": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "tr-3b",
+"b": "sandia",
+"dateStart": "1998-08",
+"label": "CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72",
+"t": "witness-chain",
+"tier": 2
 },
 {
 "a": "tr-ac-47-silver-bug",

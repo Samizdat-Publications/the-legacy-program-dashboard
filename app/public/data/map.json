@@ -209,7 +209,8 @@
    "arv-fluxliner",
    "doe",
    "earthtech-international",
-   "lockheed-martin"
+   "lockheed-martin",
+   "tr-3b"
   ],
   "reverse-engineering.2": [
    "aatip",
@@ -408,6 +409,12 @@
    "kind": "directed",
    "label": "The Condon report was the stated basis for terminating Blue Book",
    "of": "project-blue-book"
+  },
+  {
+   "by": "darpa",
+   "kind": "undirected",
+   "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
+   "of": "tr-3b"
   },
   {
    "by": "dia",
@@ -1445,6 +1452,14 @@
    ]
   },
   {
+   "a": "cia",
+   "b": "tr-3b",
+   "tier": 2,
+   "types": [
+    "witness-chain"
+   ]
+  },
+  {
    "a": "classified-annex",
    "b": "dod-sapco",
    "tier": 1,
@@ -1523,6 +1538,14 @@
    "tier": 1,
    "types": [
     "institutional"
+   ]
+  },
+  {
+   "a": "darpa",
+   "b": "tr-3b",
+   "tier": 1,
+   "types": [
+    "denial"
    ]
   },
   {
@@ -2479,6 +2502,14 @@
   },
   {
    "a": "nro",
+   "b": "tr-3b",
+   "tier": 2,
+   "types": [
+    "witness-chain"
+   ]
+  },
+  {
+   "a": "nro",
    "b": "uap-task-force",
    "tier": 1,
    "types": [
@@ -2491,6 +2522,14 @@
    "tier": 1,
    "types": [
     "institutional"
+   ]
+  },
+  {
+   "a": "nsa",
+   "b": "tr-3b",
+   "tier": 2,
+   "types": [
+    "witness-chain"
    ]
   },
   {
@@ -2656,6 +2695,14 @@
    ]
   },
   {
+   "a": "sandia",
+   "b": "tr-3b",
+   "tier": 2,
+   "types": [
+    "witness-chain"
+   ]
+  },
+  {
    "a": "senate-armed-services",
    "b": "uapda-2023",
    "tier": 1,
@@ -2790,7 +2837,7 @@
    ],
    "label": "The custody chain",
    "onMap": 52,
-   "total": 192
+   "total": 197
   },
   {
    "blurb": "A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers.",
@@ -2825,6 +2872,7 @@
     "hearing-2025-09-09",
     "aaro-fy2024-annual-report",
     "immaculate-constellation-12-page-report",
+    "tr-3b",
     "aaro-historical-record-vol2",
     "dod-sapco",
     "aztec-1948",
@@ -2840,8 +2888,8 @@
     "waived-usap-mechanism"
    ],
    "label": "Who denied what",
-   "onMap": 42,
-   "total": 138
+   "onMap": 43,
+   "total": 142
   },
   {
    "blurb": "States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument.",
@@ -4785,6 +4833,21 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "reverse-engineering",
+   "cls": "program",
+   "cluster": "witness",
+   "dateStart": "1998-08",
+   "era": "1",
+   "hl": null,
+   "id": "tr-3b",
+   "label": "TR-3B 'Astra', claimed black triangular aircraft",
+   "short": "TR-3B 'Astra' (claimed)",
+   "tier": "A"
+  },
+  {
    "A": 2,
    "C": 3,
    "D": 3,
@@ -5040,7 +5103,7 @@
    "tier": "B"
   }
  ],
- "source": "936949670c37",
+ "source": "d793d22cbf50",
  "summarised": [
   {
    "a": "aaro",
@@ -5494,6 +5557,14 @@
     "conventional-prompt-global-strike",
     "harry-s-truman",
     "neil-h-mcelroy"
+   ]
+  },
+  {
+   "a": "darpa",
+   "b": "usaf",
+   "via": [
+    "harry-s-truman",
+    "northrop-tacit-blue"
    ]
   },
   {
@@ -6084,6 +6155,14 @@
    "via": [
     "harold-puthoff",
     "kit-green"
+   ]
+  },
+  {
+   "a": "tr-3b",
+   "b": "usaf",
+   "via": [
+    "edgar-fouche",
+    "northrop-tacit-blue"
    ]
   },
   {

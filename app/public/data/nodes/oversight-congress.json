@@ -260,7 +260,7 @@
 "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -495,7 +495,7 @@
 "cls": "person",
 "id": "thad-cochran",
 "label": "Thad Cochran",
-"tier": "B"
+"tier": "C"
 }
 ],
 "short": "Congressional oversight of SAPs",
@@ -528,7 +528,7 @@
 ],
 "sub": "The statutory oversight mechanism, and the hole in it",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 230 of 1071, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 234 of 1082, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
 "timeline": [
 {
 "date": "2025-09-09",

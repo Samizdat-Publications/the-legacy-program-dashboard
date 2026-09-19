@@ -1,6 +1,6 @@
 # The funding band
 
-The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the funding band: 26 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the funding band: 26 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -12,7 +12,7 @@ Names in full, for this file:
 
 ## National Reconnaissance Office
 
-National Reconnaissance Office is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1961; axes C2 A3 D2; 12 connections; in the funding band.
+National Reconnaissance Office is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1961; axes C2 A3 D2; 13 connections; in the funding band.
 
 In one line: Overhead reconnaissance agency whose existence was itself classified for 31 years.
 
@@ -56,7 +56,7 @@ Roles the board assigns it: concealment, funding, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 105 of 1071, score 59). 12 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 104 of 1082, score 60). 13 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -89,6 +89,7 @@ Re-graded A on a global pass (rank 105 of 1071, score 59). 12 connections, 2 of 
 - National Reconnaissance Office comes in from **Federation of American Scientists** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: 2006 FOIA suit forced release of unclassified NRO budget records. Aftergood, for FAS, won a FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. Attested by the FAS expert page. Sources: FAS, Steven Aftergood, https://fas.org/expert/steven-aftergood/, dated 2026-08-12.
 - National Reconnaissance Office comes in from **William B. Adkins** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Principal Deputy Director, then Acting Director, NRO. NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.' Sources: National Reconnaissance Office, leadership biography of William B. Adkins, https://www.nro.gov/About-NRO/Leadership/leadership-adkins/, dated 2026-08-25; https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf, https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf
 - National Reconnaissance Office comes in from **Betty J. Sapp** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Director of the National Reconnaissance Office, sworn in 6 July 2012. Director of the National Reconnaissance Office, sworn in 6 July 2012, per the CRS intelligence-community leadership roster of 19 March 2019. Sources: CRS IF10538 version 6, Table 1, https://www.congress.gov/crs_external_products/IF/PDF/IF10538/IF10538.6.pdf, dated 2019-03-19.
+- National Reconnaissance Office comes in from **TR-3B 'Astra', claimed black triangular aircraft** (program, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: CLAIMED ONLY: named as a funder and tasker at slide 70. A claim about what Fouche said, not about the agency. 'It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA.' No record of any kind connecting the NRO to this designation was opened. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
 - National Reconnaissance Office comes in from **UAP Gerb - National Reconnaissance Office investigation** (document, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Alleges NRO mission support to crash retrieval teams and a NTTR-based team. Gerb alleges direct NRO mission support to legacy crash-retrieval teams and that in the 21st century the NRO spearheaded a retrieval team stationed out of the Nevada Test and Training Range. Sources: UAP Gerb - NRO investigation, https://www.youtube.com/watch?v=GM1Qx9vuo2c, dated 2025-12-13.
 - National Reconnaissance Office comes in from **Charlottesville and the Commonwealth of Virginia** (location, board tier C), a geographic link at Tier 2 named person on the record. The link reads: NRO headquarters, Westfields, Chantilly. Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for. Sources: National Reconnaissance Office, Contact Us (14675 Lee Road, Chantilly, VA 20151-1715), https://www.nro.gov/Contact-Us/, dated 2026-08-25; https://en.wikipedia.org/wiki/National_Reconnaissance_Office, https://en.wikipedia.org/wiki/National_Reconnaissance_Office
 - National Reconnaissance Office comes in from **ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver** (document, board tier A), a denial link at Tier 3 stated inference. The link reads: directed to release; absent from the statutory archive. The Director of the National Reconnaissance Office is an addressee of ES 2026-00818; NRO has no RG 615 series, and NRO launches are the setting of Nuccetelli's Vandenberg testimony. Sources: ODNI Memorandum ES 2026-00818, https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf, dated 2026-08-01; National Archives, Record Group 615, https://www.archives.gov/research/topics/uaps/rg-615, dated 2026-08-12.
@@ -139,7 +140,7 @@ Roles the board assigns it: oversight, disclosure, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 254 of 1071, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 259 of 1082, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -176,6 +177,55 @@ Re-graded B on a global pass (rank 254 of 1071, score 40). 12 connections, 0 of 
 - United States House of Representatives comes in from **SAF/AAZ, Air Force Declassification & Special Programs** (institution, board tier C), a behavioral link at Tier 1 documented. The link reads: Air Force SAP directive bars congressional briefings without SAPCO approval. Air Force Policy Directive 16-7, 'Special Access Programs,' 29 December 2010, states: 'It is strictly forbidden for any employee of the Air Force or any appropriately accessed organization or company to brief or provide SAP material to any Congressional Member or staff without DoD SAPCO approval. Additionally, the Director, SAF/AAZ will be kept informed of any interaction with Congress.' This is the documented mechanism behind the recurring complaint that SAP-compartmented material cannot reach non-HASC/HAC-D members. Sources: Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive, https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf, dated 2014-02-18; Air Force Policy Directive 16-7, 'Special Access Programs,' December 29, 2010 -- https://irp.fas.org/doddir/usaf/afpd16-7.pdf; Steven Aftergood, 'Air Force SAP Policy Limits Congressional Contacts,' Federation of American Scientists, January 4, 2011 -- https://fas.org/publication/usaf_sap/
 - United States House of Representatives runs out to **House Permanent Select Committee on Intelligence** (institution, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Committee of jurisdiction for IC controlled access programs. Programs carried in the IC SAP control enterprise are reported, if at all, to the intelligence committees rather than to the defense committees. Sources: 10 U.S.C. 119, Special access programs: congressional oversight, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
 - United States House of Representatives comes in from **John M. McHugh** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Representative, New York 23rd district, until 21 September 2009. McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member. Sources: https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army, https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army; https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army, https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army; U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22.
+
+## Defense Advanced Research Projects Agency
+
+Defense Advanced Research Projects Agency is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1958-02-07; axes C0 A2 D1; 9 connections; in the funding band.
+
+In one line: Independent R&D agency created in response to Sputnik; contributor to the 2021 UAP assessment.
+
+### What it is
+
+The Advanced Research Projects Agency, established in the Office of the Secretary of Defense by DoD Directive 5105.15 of 7 February 1958 under the authority of the National Security Act of 1947 as amended and Reorganization Plan No. 6 of 1953, with its Director reporting to the Secretary of Defense. Its first Director was Roy W. Johnson.
+
+### Why it is implicated
+
+DARPA is the institutional counterfactual against which the legacy programme allegation is measured: it is what an American breakthrough-technology effort looks like when it is run in the open, with named programme managers on fixed terms, published solicitations and a public budget. Until this pass the node argued that counterfactual while carrying no founding record at all.
+
+### The longer account
+
+The comparison only works if the agency's own paper is on the board, and now it is. The founding instrument is reproduced in full inside the agency's own commissioned history, and two things in it matter. The establishment clause puts ARPA inside the Office of the Secretary of Defense rather than inside a service, and the mandate is written open-ended by design: the Agency is responsible for such advanced projects in the field of research and development as the Secretary of Defense shall from time to time designate, by individual project or by category. That is a charter that can absorb anything the Secretary points at, which is exactly the shape the legacy allegation describes, and it was published. The second correction is to the officer. The CIA's own chronology, an independent record, states that on 7 February 1958 ARPA was established in DoD with Roy W. Johnson of General Electric named director; Herbert York was the first Chief Scientist and was later elevated to first Director of Defense Research and Engineering. The podcast corpus reverses those two, and no York node is built: the correction belongs here, on the agency.
+
+Roles the board assigns it: research, funding.
+
+### Open questions on this node
+
+- The issuing office's own copy of DoD Directive 5105.15 was not opened; esd.whs.mil returned HTTP 403 on every path tried, and the directive's text here comes from the ARPA-commissioned history's reproduction of it.
+- Whether DARPA's role among the contributing elements to ODNI's June 2021 Preliminary Assessment extended beyond the developmental-programs explanatory category.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 221 of 1082, score 42). 9 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** DARPA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP. Source: ODNI Preliminary Assessment, 25 June 2021
+- **Tier 1 documented.** DARPA states it was 'Created in response to the launch of Sputnik in 1957' and is 'an independent research and development agency within the U.S. Department of War (DOW)', with six technical offices. Source: DARPA, About, retrieved 12 August 2026
+- **Tier 1 documented.** DARPA's published budget figures as of 2026 are a President's FY2027 request of $5.039 billion and an FY2026 enacted level of $4.322 billion. Source: DARPA, About, retrieved 12 August 2026
+- **Tier 1 documented.** The agency has a founding instrument and a first Director, and this node has carried neither. DoD Directive 5105.15 of 7 February 1958, reproduced in full in the agency's own commissioned history, reads: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' Its mandate is open-ended by design: the Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.' Source: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt
+- **Tier 1 documented.** The first Director was Roy W. Johnson, not Herbert York. A second agency's record dates the founding and names the officer independently: the CIA Historical Staff Chronology under Jan-Apr 58 reads '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering. Source: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5
+
+### Its strongest connections
+
+- Defense Advanced Research Projects Agency runs out to **Office of the Director of National Intelligence** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named contributor to the 2021 ODNI Preliminary Assessment on UAP. ODNI's 25 June 2021 assessment names DARPA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
+- Defense Advanced Research Projects Agency comes in from **TR-3B 'Astra', claimed black triangular aircraft** (program, board tier A), a denial link at Tier 1 documented. The link reads: The Fouche file's DARPA invocation rests on a letter from a personnel office. DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'. Sources: The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 1984-07-10; Peter Merlin's reading of the same letter, quoted verbatim, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19.
+- Defense Advanced Research Projects Agency comes in from **AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959** (document, board tier A), a custody link at Tier 1 documented. The link reads: A copy went to the Director of ARPA at the Pentagon. The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'. Sources: AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380, https://archive.org/details/DTIC_AD0425380, dated 1959-06-19.
+- Defense Advanced Research Projects Agency runs out to **Harry S. Truman** (person, board tier B), a legislative link at Tier 1 documented. The link reads: Founded under the authority of the 1947 Act. The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
+- Defense Advanced Research Projects Agency comes in from **Conventional Prompt Global Strike** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: DARPA and the Air Force initiated FALCON in 2003. DARPA and the Air Force initiated the FALCON programme in 2003, which produced the HTV-2 glide vehicle. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
+- Defense Advanced Research Projects Agency comes in from **Northrop TACIT BLUE** (program, board tier B), a institutional link at Tier 1 documented. The link reads: DARPA a named partner in the programme, 1978 to 1985. 'The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985.' This is what a documented DARPA black-programme involvement actually looks like in a primary record, and it is worth having on the board next to the Fouche file's use of the same four letters. Sources: U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF, dated 2026-09-18.
+- Defense Advanced Research Projects Agency comes in from **Neil H. McElroy** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Issued the directive that established ARPA. DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
+- Defense Advanced Research Projects Agency comes in from **Lawrence P. Gise** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Held the ARPA post of Assistant Director, Administration. The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson. Sources: Official Register of the United States 1959, US Civil Service Commission, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf, dated 1959-05-01.
+- Defense Advanced Research Projects Agency runs out to **Waived unacknowledged special access program (waived USAP)** (program, board tier A), a research link at Tier 3 stated inference. The link reads: The open counterfactual to a concealed breakthrough-technology effort. DARPA runs breakthrough research with named program managers, published solicitations and a public budget of $4.322 billion enacted for FY2026. Reasoning: a concealed eighty-year exploitation effort producing no transitions is either failing or structured specifically to avoid DARPA-style visibility. Sources: DARPA - About, https://www.darpa.mil/about, dated 2026-08-12.
 
 ## Senate Armed Services Committee
 
@@ -227,7 +277,7 @@ Roles the board assigns it: oversight, funding, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 394 of 1071, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 398 of 1082, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -311,7 +361,7 @@ Roles the board assigns it: research, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 132 of 1071, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 134 of 1082, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -352,53 +402,6 @@ Re-graded A on a global pass (rank 132 of 1071, score 53). 8 connections, 0 of t
 - RAND Corporation comes in from **The MITRE Corporation** (institution, board tier A), a institutional link at Tier 2 named person on the record. The link reads: MITRE was created on the RAND model as the Air Force's systems engineering counterpart. RAND, incorporated 1948 out of Project RAND, established the permanent contractor-operated analytical partner form; the Air Force replicated it for systems engineering in 1958. Sources: OTA - A History of DoD FFRDCs, https://www.princeton.edu/~ota/disk1/1995/9501/950110.PDF, dated 1995-06-01; UAP Gerb MITRE investigation, https://www.youtube.com/watch?v=107BtDYhTkA, dated 2026-08-07.
 - RAND Corporation comes in from **UAP Gerb - The MITRE Corporation investigation** (document, board tier B), a institutional link at Tier 2 named person on the record. The link reads: MITRE founded as the Air Force's successor to RAND. The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spiritual successor to RAND, tasked with systems engineering for SAGE. Sources: UAP Gerb - The MITRE Corporation investigation, https://www.youtube.com/watch?v=107BtDYhTkA, dated 2026-08-07.
 
-## Defense Advanced Research Projects Agency
-
-Defense Advanced Research Projects Agency is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1958-02-07; axes C0 A2 D1; 7 connections; in the funding band.
-
-In one line: Independent R&D agency created in response to Sputnik; contributor to the 2021 UAP assessment.
-
-### What it is
-
-The Advanced Research Projects Agency, established in the Office of the Secretary of Defense by DoD Directive 5105.15 of 7 February 1958 under the authority of the National Security Act of 1947 as amended and Reorganization Plan No. 6 of 1953, with its Director reporting to the Secretary of Defense. Its first Director was Roy W. Johnson.
-
-### Why it is implicated
-
-DARPA is the institutional counterfactual against which the legacy programme allegation is measured: it is what an American breakthrough-technology effort looks like when it is run in the open, with named programme managers on fixed terms, published solicitations and a public budget. Until this pass the node argued that counterfactual while carrying no founding record at all.
-
-### The longer account
-
-The comparison only works if the agency's own paper is on the board, and now it is. The founding instrument is reproduced in full inside the agency's own commissioned history, and two things in it matter. The establishment clause puts ARPA inside the Office of the Secretary of Defense rather than inside a service, and the mandate is written open-ended by design: the Agency is responsible for such advanced projects in the field of research and development as the Secretary of Defense shall from time to time designate, by individual project or by category. That is a charter that can absorb anything the Secretary points at, which is exactly the shape the legacy allegation describes, and it was published. The second correction is to the officer. The CIA's own chronology, an independent record, states that on 7 February 1958 ARPA was established in DoD with Roy W. Johnson of General Electric named director; Herbert York was the first Chief Scientist and was later elevated to first Director of Defense Research and Engineering. The podcast corpus reverses those two, and no York node is built: the correction belongs here, on the agency.
-
-Roles the board assigns it: research, funding.
-
-### Open questions on this node
-
-- The issuing office's own copy of DoD Directive 5105.15 was not opened; esd.whs.mil returned HTTP 403 on every path tried, and the directive's text here comes from the ARPA-commissioned history's reproduction of it.
-- Whether DARPA's role among the contributing elements to ODNI's June 2021 Preliminary Assessment extended beyond the developmental-programs explanatory category.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 320 of 1071, score 36). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D1.
-
-### The claims on the record
-
-- **Tier 1 documented.** DARPA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP. Source: ODNI Preliminary Assessment, 25 June 2021
-- **Tier 1 documented.** DARPA states it was 'Created in response to the launch of Sputnik in 1957' and is 'an independent research and development agency within the U.S. Department of War (DOW)', with six technical offices. Source: DARPA, About, retrieved 12 August 2026
-- **Tier 1 documented.** DARPA's published budget figures as of 2026 are a President's FY2027 request of $5.039 billion and an FY2026 enacted level of $4.322 billion. Source: DARPA, About, retrieved 12 August 2026
-- **Tier 1 documented.** The agency has a founding instrument and a first Director, and this node has carried neither. DoD Directive 5105.15 of 7 February 1958, reproduced in full in the agency's own commissioned history, reads: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' Its mandate is open-ended by design: the Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.' Source: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt
-- **Tier 1 documented.** The first Director was Roy W. Johnson, not Herbert York. A second agency's record dates the founding and names the officer independently: the CIA Historical Staff Chronology under Jan-Apr 58 reads '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering. Source: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5
-
-### Its strongest connections
-
-- Defense Advanced Research Projects Agency runs out to **Office of the Director of National Intelligence** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named contributor to the 2021 ODNI Preliminary Assessment on UAP. ODNI's 25 June 2021 assessment names DARPA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
-- Defense Advanced Research Projects Agency comes in from **AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959** (document, board tier A), a custody link at Tier 1 documented. The link reads: A copy went to the Director of ARPA at the Pentagon. The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'. Sources: AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380, https://archive.org/details/DTIC_AD0425380, dated 1959-06-19.
-- Defense Advanced Research Projects Agency runs out to **Harry S. Truman** (person, board tier B), a legislative link at Tier 1 documented. The link reads: Founded under the authority of the 1947 Act. The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
-- Defense Advanced Research Projects Agency comes in from **Conventional Prompt Global Strike** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: DARPA and the Air Force initiated FALCON in 2003. DARPA and the Air Force initiated the FALCON programme in 2003, which produced the HTV-2 glide vehicle. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
-- Defense Advanced Research Projects Agency comes in from **Neil H. McElroy** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Issued the directive that established ARPA. DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now. Sources: The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt, dated 1975-12-01.
-- Defense Advanced Research Projects Agency comes in from **Lawrence P. Gise** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Held the ARPA post of Assistant Director, Administration. The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson. Sources: Official Register of the United States 1959, US Civil Service Commission, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf, dated 1959-05-01.
-- Defense Advanced Research Projects Agency runs out to **Waived unacknowledged special access program (waived USAP)** (program, board tier A), a research link at Tier 3 stated inference. The link reads: The open counterfactual to a concealed breakthrough-technology effort. DARPA runs breakthrough research with named program managers, published solicitations and a public budget of $4.322 billion enacted for FY2026. Reasoning: a concealed eighty-year exploitation effort producing no transitions is either failing or structured specifically to avoid DARPA-style visibility. Sources: DARPA - About, https://www.darpa.mil/about, dated 2026-08-12.
-
 ## Institute of Field Physics (UNC Chapel Hill)
 
 Institute of Field Physics (UNC Chapel Hill) is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1955-09-07; axes C2 A1 D1; 7 connections; in the funding band.
@@ -426,7 +429,7 @@ Roles the board assigns it: research, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 141 of 1071, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 142 of 1082, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.
 
 ### The claims on the record
 
@@ -485,7 +488,7 @@ Roles the board assigns it: research, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 353 of 1071, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 356 of 1082, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -553,7 +556,7 @@ Roles the board assigns it: oversight, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 32 of 1071, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
+Re-graded A on a global pass (rank 32 of 1082, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -652,7 +655,7 @@ Roles the board assigns it: research, custody, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 122 of 1071, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 122 of 1082, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -741,7 +744,7 @@ Roles the board assigns it: concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 89 of 1071, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 89 of 1082, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -827,7 +830,7 @@ Roles the board assigns it: concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 22 of 1071, score 104). 13 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 22 of 1082, score 104). 13 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -924,7 +927,7 @@ Roles the board assigns it: concealment, oversight, funding, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 38 of 1071, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 38 of 1082, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1013,7 +1016,7 @@ Roles the board assigns it: research, concealment, funding, oversight, disclosur
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 71 of 1071, score 70). 11 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 71 of 1082, score 70). 11 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1057,7 +1060,7 @@ A further 3 claims sit on this node on the board and are not reproduced here.
 - STAR GATE and predecessor remote viewing programs, 1970-1995 comes in from **Russell Targ** (person, board tier C), a research link at Tier 2 named person on the record. The link reads: Targ co-founded the SRI remote viewing research. Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price. Sources: Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12.
 - STAR GATE and predecessor remote viewing programs, 1970-1995 runs out to **SRI International, Menlo Park, California** (location, board tier C), a geographic link at Tier 2 named person on the record. The link reads: The research was conducted at Menlo Park, California. SRI International, founded 1946 by Stanford trustees and separated from the university in 1970, hosted the work at Menlo Park. Sources: Wikipedia - SRI International, https://en.wikipedia.org/wiki/SRI_International, dated 2026-08-12.
 - STAR GATE and predecessor remote viewing programs, 1970-1995 runs out to **Christopher C. 'Kit' Green** (person, board tier A), a institutional link at Tier 3 stated inference. The link reads: Green ran the CIA analytic side of the anomalous-phenomena portfolio. Green's CIA Life Sciences work on anomalous phenomena is the analytic counterpart to the SRI research, and his later Wayne State position carried the biomedical line into NIDS/BAASS and the modern Stanford circle. Reasoning: continuity of documented affiliations, not of a single programme. Sources: Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12.
-- STAR GATE and predecessor remote viewing programs, 1970-1995 comes in from **Groom Lake, Nevada** (location, board tier B), a temporal link at Tier 3 stated inference. The link reads: Both are demonstrations of decades-long concealment ending in bulk declassification. Groom Lake ran 58 years to specific acknowledgement via FOIA; STAR GATE ran 25 years to bulk CREST publication in 2017. Reasoning: structural comparison of two documented concealment lifecycles. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12; Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12.
+- STAR GATE and predecessor remote viewing programs, 1970-1995 comes in from **Groom Lake, Nevada** (location, board tier A), a temporal link at Tier 3 stated inference. The link reads: Both are demonstrations of decades-long concealment ending in bulk declassification. Groom Lake ran 58 years to specific acknowledgement via FOIA; STAR GATE ran 25 years to bulk CREST publication in 2017. Reasoning: structural comparison of two documented concealment lifecycles. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12; Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12.
 
 ## The Classified Annex (NDAA and Defense Appropriations)
 
@@ -1109,7 +1112,7 @@ Roles the board assigns it: funding, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 107 of 1071, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 107 of 1082, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1142,6 +1145,50 @@ Re-graded A on a global pass (rank 107 of 1071, score 59). 9 connections, 6 of t
 - The Classified Annex (NDAA and Defense Appropriations) comes in from **Waived SAP Notification Group** (institution, board tier A), a funding link at Tier 2 named person on the record. The link reads: four of the twelve seats are appropriations leadership. The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group's sight of a waived programme includes the money as well as the report. Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084, https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm, dated 2026-02-03; https://www.appropriations.senate.gov/subcommittees/defense, https://www.appropriations.senate.gov/subcommittees/defense
 - The Classified Annex (NDAA and Defense Appropriations) comes in from **SFFAS 56 - Classified Activities (FASAB, 4 October 2018)** (document, board tier B), a programmatic link at Tier 3 stated inference. The link reads: Accounting-side and appropriations-side concealment of the same activity. The classified annex conceals what was appropriated; SFFAS 56 permits the resulting spending to be reported in the wrong line of the public financial statement with no note. The inference is that the two together close the loop between authorisation and reporting; no document links them. Sources: SFFAS 56; DoD Appropriations Act 2026 Sec. 8006, https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf, dated 2018-10-04.
 - The Classified Annex (NDAA and Defense Appropriations) comes in from **Michael Powers** (person, board tier B), a institutional link at Tier 3 stated inference. The link reads: The Comptroller executes the annex. The Under Secretary (Comptroller)/CFO is the official responsible for execution of appropriated funds including those directed by the classified annex tables under section 8006(a). Reasoned inference from the office's statutory functions; no document names the incumbent in connection with the annex. Sources: Department of War Comptroller; DoD Appropriations Act 2026 Sec. 8006, https://comptroller.war.gov/, dated 2026-08-12.
+
+## Northrop Grumman Corporation
+
+Northrop Grumman Corporation is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1994; axes C2 A3 D0; 7 connections; in the funding band.
+
+In one line: Prime contractor; B-2/B-21; former Nevada Test Site management partner.
+
+### What it is
+
+One of the United States' prime defense contractors, builder of the B-2 and the B-21 Raider at Air Force Plant 42, and, from 2006 to 2017, the leader of National Security Technologies LLC, the consortium that held the management and operating contract for the Nevada Test Site after Bechtel Nevada.
+
+### Why it is implicated
+
+It sits at the intersection of the two things this board tracks: work at the deepest classification levels, and custody of the Nevada complex. The stealth bomber programmes put it inside compartmented aircraft development at Plant 42; the NSTec contract put it in operational control of the ground the retrieval and reverse-engineering claims are attached to. Senate Appropriations investigator Richard D'Amato is reported to have named it, with Lockheed Martin and EG&G, as the kind of private entity inside which a cover-up could feasibly sit. That last is a Tier 3 report and is carried as one.
+
+### The longer account
+
+Northrop Grumman crossed this map's floor on the build of 18 September 2026, which is ordinary churn and not a finding: the board's practice, recorded in data/l0-shorts.json, is that a corpus build pushing a node over the L0 floor gets its dossier authored. What is worth stating is that its case for the map does not rest on the edge that moved it. That edge is a Tier 2 self-stated client list, an illustrator saying he did conceptual work for the company, with no personnel record and no contract record opened, and it proves nothing about the company at all. The case rests instead on two Tier 1 claims already on its record: the DOE listing that makes it the Nevada Test Site's management and operating contractor for eleven years, and USAspending's record of prime contract obligations in the tens of billions since FY2008. A board about who holds the programme's money and the programme's ground has to carry the company that held both. The D'Amato report is the weakest thing here and the most quoted, and it is graded Tier 3 for that reason.
+
+Roles the board assigns it: custody, concealment, funding.
+
+### Open questions on this node
+
+- Whether any NSTec contract document names the scope of the management and operating role at the Nevada Test Site beyond the DOE research-organization listing.
+- What the USAspending prime contract obligations break down to by programme, which the recipient search does not itself show.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 378 of 1082, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
+
+### The claims on the record
+
+- **Tier 1 documented.** National Security Technologies LLC, a Northrop Grumman-led consortium, succeeded Bechtel Nevada as management and operating contractor for the Nevada Test Site from 2006. Source: DOE/OSTI records listing Bechtel Nevada and National Security Technologies, LLC as successive Nevada Test Site research organisations
+- **Tier 1 documented.** USAspending records prime contract obligations to Northrop Grumman Systems Corporation in the tens of billions of dollars since FY2008. Source: USAspending.gov recipient search, retrieved 12 August 2026
+
+### Its strongest connections
+
+- Northrop Grumman Corporation comes in from **The MITRE Corporation** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named among the primes whose MITRE-related work Congress demanded an accounting of. Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos. Sources: DefenseScoop, https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/, dated 2026-05-27.
+- Northrop Grumman Corporation comes in from **Northrop TACIT BLUE** (program, board tier B), a institutional link at Tier 1 documented. The link reads: Northrop Corp. the airframe contractor. The fact sheet names 'the Northrop Corp.'; the board's existing node is northrop-grumman, the successor entity after the 1994 merger, and the edge is wired to it on that basis. Sources: U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF, dated 2026-09-18.
+- Northrop Grumman Corporation comes in from **TRW Inc.** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Merged into a Northrop Grumman subsidiary, 11 December 2002. Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology. Sources: Northrop Grumman Corporation, Form 8-K, event 11 December 2002, https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm, dated 2002-12-20.
+- Northrop Grumman Corporation runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier C), a institutional link at Tier 1 documented. The link reads: A Northrop Grumman-led consortium took over Nevada Test Site management in 2006. National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; USAspending.gov federal award search (prime contract obligations by recipient), https://www.usaspending.gov/search, dated 2026-08-12.
+- Northrop Grumman Corporation comes in from **Eric Burlison** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Named as a target of his records investigation. Same statement of 14-16 May 2026. Sources: The Hill: House Republican requests UFO talk from private contractor, https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/, dated 2026-05-16.
+- Northrop Grumman Corporation comes in from **Mark McCandlish** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Named in his own self-stated client list, 2000. Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
+- Northrop Grumman Corporation comes in from **UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)** (document, board tier B), a funding link at Tier 2 named person on the record. The link reads: Alleges IRAD self-funding of a breakaway programme after 9/11. The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
 
 ## US Army Intelligence and Security Command (INSCOM)
 
@@ -1179,7 +1226,7 @@ Roles the board assigns it: research, concealment, custody, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 114 of 1071, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 114 of 1082, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1200,49 +1247,6 @@ Re-graded A on a global pass (rank 114 of 1071, score 57). 6 connections, 5 of t
 - US Army Intelligence and Security Command (INSCOM) runs out to **GRILL FLAME** (program, board tier B), a programmatic link at Tier 1 documented. The link reads: GRILL FLAME was INSCOM's entry into the field in 1977. The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME). Sources: CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt, dated 1984-04-04.
 - US Army Intelligence and Security Command (INSCOM) comes in from **902d Military Intelligence Group, USAINSCOM** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Subordinate group of USAINSCOM at Fort George G. Meade. The group's own letterhead reads USAINSCOM, 902D MILITARY INTELLIGENCE GROUP, Fort George G. Meade, Maryland 20755, and its memorandum is addressed through the INSCOM staff to the Commanding General. Sources: CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt, dated 1984-04-04.
 - US Army Intelligence and Security Command (INSCOM) runs out to **Waived unacknowledged special access program (waived USAP)** (program, board tier A), a programmatic link at Tier 3 stated inference. The link reads: A ridiculed subject held inside service-secretary-level access controls. Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme. Sources: Deactivation letter of 2 March 1985 read against the waived-usap node, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt, dated 1985-03-02.
-
-## Northrop Grumman Corporation
-
-Northrop Grumman Corporation is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1994; axes C2 A3 D0; 6 connections; in the funding band.
-
-In one line: Prime contractor; B-2/B-21; former Nevada Test Site management partner.
-
-### What it is
-
-One of the United States' prime defense contractors, builder of the B-2 and the B-21 Raider at Air Force Plant 42, and, from 2006 to 2017, the leader of National Security Technologies LLC, the consortium that held the management and operating contract for the Nevada Test Site after Bechtel Nevada.
-
-### Why it is implicated
-
-It sits at the intersection of the two things this board tracks: work at the deepest classification levels, and custody of the Nevada complex. The stealth bomber programmes put it inside compartmented aircraft development at Plant 42; the NSTec contract put it in operational control of the ground the retrieval and reverse-engineering claims are attached to. Senate Appropriations investigator Richard D'Amato is reported to have named it, with Lockheed Martin and EG&G, as the kind of private entity inside which a cover-up could feasibly sit. That last is a Tier 3 report and is carried as one.
-
-### The longer account
-
-Northrop Grumman crossed this map's floor on the build of 18 September 2026, which is ordinary churn and not a finding: the board's practice, recorded in data/l0-shorts.json, is that a corpus build pushing a node over the L0 floor gets its dossier authored. What is worth stating is that its case for the map does not rest on the edge that moved it. That edge is a Tier 2 self-stated client list, an illustrator saying he did conceptual work for the company, with no personnel record and no contract record opened, and it proves nothing about the company at all. The case rests instead on two Tier 1 claims already on its record: the DOE listing that makes it the Nevada Test Site's management and operating contractor for eleven years, and USAspending's record of prime contract obligations in the tens of billions since FY2008. A board about who holds the programme's money and the programme's ground has to carry the company that held both. The D'Amato report is the weakest thing here and the most quoted, and it is graded Tier 3 for that reason.
-
-Roles the board assigns it: custody, concealment, funding.
-
-### Open questions on this node
-
-- Whether any NSTec contract document names the scope of the management and operating role at the Nevada Test Site beyond the DOE research-organization listing.
-- What the USAspending prime contract obligations break down to by programme, which the recipient search does not itself show.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 399 of 1071, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** National Security Technologies LLC, a Northrop Grumman-led consortium, succeeded Bechtel Nevada as management and operating contractor for the Nevada Test Site from 2006. Source: DOE/OSTI records listing Bechtel Nevada and National Security Technologies, LLC as successive Nevada Test Site research organisations
-- **Tier 1 documented.** USAspending records prime contract obligations to Northrop Grumman Systems Corporation in the tens of billions of dollars since FY2008. Source: USAspending.gov recipient search, retrieved 12 August 2026
-
-### Its strongest connections
-
-- Northrop Grumman Corporation comes in from **The MITRE Corporation** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named among the primes whose MITRE-related work Congress demanded an accounting of. Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos. Sources: DefenseScoop, https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/, dated 2026-05-27.
-- Northrop Grumman Corporation comes in from **TRW Inc.** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Merged into a Northrop Grumman subsidiary, 11 December 2002. Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology. Sources: Northrop Grumman Corporation, Form 8-K, event 11 December 2002, https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm, dated 2002-12-20.
-- Northrop Grumman Corporation runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier C), a institutional link at Tier 1 documented. The link reads: A Northrop Grumman-led consortium took over Nevada Test Site management in 2006. National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; USAspending.gov federal award search (prime contract obligations by recipient), https://www.usaspending.gov/search, dated 2026-08-12.
-- Northrop Grumman Corporation comes in from **Eric Burlison** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Named as a target of his records investigation. Same statement of 14-16 May 2026. Sources: The Hill: House Republican requests UFO talk from private contractor, https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/, dated 2026-05-16.
-- Northrop Grumman Corporation comes in from **Mark McCandlish** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Named in his own self-stated client list, 2000. Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Northrop Grumman Corporation comes in from **UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)** (document, board tier B), a funding link at Tier 2 named person on the record. The link reads: Alleges IRAD self-funding of a breakaway programme after 9/11. The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
 
 # 2000-2016: AAWSAP / AATIP
 
@@ -1298,7 +1302,7 @@ Roles the board assigns it: concealment, funding, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 54 of 1071, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 54 of 1082, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1385,7 +1389,7 @@ Roles the board assigns it: funding, concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 171 of 1071, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 173 of 1082, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1469,7 +1473,7 @@ Roles the board assigns it: research, disclosure, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 461 of 1071, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 465 of 1082, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1553,7 +1557,7 @@ Roles the board assigns it: oversight, disclosure, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 24 of 1071, score 103). 25 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 24 of 1082, score 103). 25 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1659,7 +1663,7 @@ Roles the board assigns it: disclosure, oversight, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 40 of 1071, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 41 of 1082, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1756,7 +1760,7 @@ Roles the board assigns it: funding, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 266 of 1071, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 270 of 1082, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1829,7 +1833,7 @@ Roles the board assigns it: funding, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 43 of 1071, score 84). 11 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 43 of 1082, score 84). 11 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1911,7 +1915,7 @@ Roles the board assigns it: oversight, concealment, disclosure, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 86 of 1071, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
+Re-graded A on a global pass (rank 86 of 1082, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -2008,7 +2012,7 @@ Roles the board assigns it: disclosure, concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 148 of 1071, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 149 of 1082, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2078,7 +2082,7 @@ Roles the board assigns it: funding, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 145 of 1071, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 146 of 1082, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 

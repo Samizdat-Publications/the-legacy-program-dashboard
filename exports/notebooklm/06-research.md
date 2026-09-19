@@ -1,6 +1,6 @@
 # The research band
 
-The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the research band: 38 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the research band: 38 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -56,7 +56,7 @@ Roles the board assigns it: research, concealment, disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 192 of 1071, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 193 of 1082, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -143,7 +143,7 @@ Roles the board assigns it: research, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 35 of 1071, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 35 of 1082, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -237,7 +237,7 @@ Roles the board assigns it: concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 98 of 1071, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
+Re-graded A on a global pass (rank 98 of 1082, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -325,7 +325,7 @@ Roles the board assigns it: concealment, oversight, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 131 of 1071, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+Re-graded A on a global pass (rank 132 of 1082, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -409,7 +409,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 102 of 1071, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 102 of 1082, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -484,7 +484,7 @@ Roles the board assigns it: concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 177 of 1071, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded B on a global pass (rank 178 of 1082, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -503,7 +503,7 @@ Re-graded B on a global pass (rank 177 of 1071, score 46). 9 connections, 3 of t
 - Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Air Force Plant 42, Palmdale, California** (location, board tier C), a institutional link at Tier 1 documented. The link reads: Skunk Works operates at the government-owned contractor-operated Palmdale facility. Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Same relayed unnamed informant locates the Skunk Works catty-corner from Plant 42. Same passage, same caveat: relayed, unnamed and uncorroborated, and no record was opened. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **KONA BLUE** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: Alleges Lockheed-held material was to be transferred. The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence. Sources: NewsNation Reality Check - 'Inside Kona Blue', https://www.youtube.com/watch?v=F2NfXgv8x1E, dated 2026-08-04.
-- Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Groom Lake, Nevada** (location, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards. The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12.
+- Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Groom Lake, Nevada** (location, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards. The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Dana (Keoki) Jackson** (person, board tier C), a behavioral link at Tier 2 named person on the record. The link reads: Arrived at MITRE from Lockheed Martin's chief technology office. The traverse from the prime contractor most often named in crash-retrieval testimony into the FFRDC that arbitrates what such contractors are told is the pipeline in one career. Sources: MITRE - Our Leadership, https://www.mitre.org/who-we-are/our-people/our-leadership, dated 2026-08-12.
 
 ## Project MKULTRA
@@ -533,7 +533,7 @@ Roles the board assigns it: concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 147 of 1071, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 148 of 1082, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -555,6 +555,66 @@ Re-graded A on a global pass (rank 147 of 1071, score 51). 9 connections, 4 of t
 - Project MKULTRA comes in from **Sidney Gottlieb** (person, board tier B), a programmatic link at Tier 1 documented. The link reads: Certified subproject invoices 1955; Chief of TSD at the 1973 destruction. His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973. Sources: CIA Reading Room 00017441 and the Project MKULTRA joint hearing, 3 August 1977, https://archive.org/details/cia-readingroom-document-00017441, dated 1955-06-28.
 - Project MKULTRA comes in from **House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026** (event, board tier C), a investigative link at Tier 1 documented. The link reads: The 2026 House Oversight task force hearing takes MKULTRA as its subject. The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print. Sources: Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-08-03.
 - Project MKULTRA comes in from **John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file** (document, board tier C), a investigative link at Tier 1 documented. The link reads: The FOIA request that caused the recovery of the surviving MKULTRA file. The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found. Sources: Memorandum for the DDCI, 22 June 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf, dated 1977-06-22.
+
+## Sandia National Laboratories
+
+Sandia National Laboratories is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1949; axes C3 A3 D1; 8 connections; in the research band.
+
+In one line: DOE national laboratory, Albuquerque, NM.
+
+### What it is
+
+Sandia National Laboratories, a Department of Energy federally funded research and development centre in Albuquerque, administered by National Technology and Engineering Solutions of Sandia, LLC since 1 May 2017. It is the largest FFRDC in the United States by funding, at approximately 4,584.0 million dollars in FY2024, and it sits adjacent to Kirtland Air Force Base, the installation that contains the Manzano Weapons Storage Area and Coyote Canyon.
+
+### Why it is implicated
+
+The geography does most of the work, and it puts Sandia on this board twice over. In 1948 and 1949 the green fireballs that triggered the Los Alamos conference and Project Twinkle were concentrated over the atomic weapons installations, Los Alamos and Sandia among them. In August 1980 the best-documented American military UFO incident of the Cold War occurred on the adjoining base, and a Sandia security guard is a reporting party in the resulting Air Force Office of Special Investigations file. Thirty years later, three Sandia staff members were among the five outside reviewers of the FY09 AAWSAP technical reports, which is a DOE weapons laboratory peer-reviewing the physics portfolio of a Defense Intelligence Agency programme. The laboratory also appears in the custody record of an earlier document: the distribution list of AFSWC TR-59-39 sends a copy to the President of Sandia Corporation, attention Document Control Division.
+
+### The longer account
+
+The 1980 file is the one to read. AFOSI Special Agent Richard C. Doty's complaint form of 9 September 1980, District File No. 8017D93-0/29, records that three members of the 1608 Security Police Squadron, SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier, observed a bright light near the Manzano restricted test range on the night of 8 August 1980 that made stop-and-go manoeuvres, landed in Coyote Canyon and departed vertically at high speed. The same file records a Sandia security guard observing a round disc-shaped object near an alarmed structure at about 00:20 on 9 August, his radio malfunctioning during the encounter.
+
+What makes the file structurally interesting rather than merely anecdotal is that a contractor-operated national laboratory, an Air Force counterintelligence office and a nuclear weapons storage site all appear in one anomalous-object document. What makes it uncomfortable is what the same office and the same agent did next. Doty was the conduit for fabricated material supplied to Paul Bennewitz, the Albuquerque physicist whose company Thunder Scientific operated adjacent to Kirtland and who had licensed sensor technology from Sandia in 1966; the operation ended in Bennewitz's psychiatric collapse. The board grades that Tier 2 and attributes it to AFOSI, not to the laboratory.
+
+The 2009 material is a different register and is worth keeping separate from the 1980 material. DIA memo U-429-09-DWO-IM of 30 October 2009 records the outside review of the AAWSAP deliverables, with three of the five reviewers from Sandia, and DIA recorded the reviews as positive. The board's reading of the timing is that DIA sought institutional cover for a portfolio it expected to have to defend, which it did five weeks later, and that reading is graded Tier 3 because it is an inference from sequence rather than anything the memo says.
+
+### What it has denied
+
+The board records no denial issued by Sandia and none directed at it. That absence should be read carefully rather than charitably: the laboratory appears in the 1980 file as a reporting party, not as a respondent, and nothing here shows it was ever asked to account for what its guard saw. The deception in this story belongs to the Air Force counterintelligence office on the adjoining base, and the board keeps the attribution where the documents put it. What Sandia has not done, on any record held here, is say anything at all about August 1980.
+
+Roles the board assigns it: research, custody, concealment.
+
+### Open questions on this node
+
+- The Sandia security guard of 9 August 1980 is described in the AFOSI file but the board does not hold his name, and no Sandia-side incident record from that night has been located.
+- The AEC-lineage custody link is the weakest thing attached to this node. It rests on a November 2025 video investigation citing Edgar Fouche and a former New Mexico state representative, and is graded Tier 2 on that basis. No primary document supports it here.
+- The identities of the three Sandia reviewers of the FY09 AAWSAP deliverables are not in the DIA memo as held, and nothing on this board establishes which reports they reviewed.
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 133 of 1082, score 53). 8 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** AFOSI Complaint Form dated 9 September 1980, filed by Special Agent Richard C. Doty (District File No. 8017D93-0/29), records the 8 August 1980 observation by SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier of 1608 SPS of a bright light making stop-and-go manoeuvres near the Manzano restricted test range, which landed in Coyote Canyon and departed vertically at high speed. Source: AFOSI documents released under FOIA and archived by NICAP
+- **Tier 1 documented.** AFOSI Complaint Form dated 9 September 1980, filed by Special Agent Richard C. Doty under District File No. 8017D93-0/29, records the 8 August 1980 observation by SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier of 1608 SPS of a bright light making stop-and-go manoeuvres near the Manzano restricted test range, which landed in Coyote Canyon and departed vertically at high speed. Source: AFOSI documents released under FOIA and archived by NICAP, https://www.nicap.org/foia_003.htm
+- **Tier 1 documented.** Sandia National Laboratories is a DOE FFRDC administered by National Technology & Engineering Solutions of Sandia, LLC since 1 May 2017, and received approximately $4,584.0 million in FY2024 - the largest FFRDC funding figure in the United States. Source: NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table
+- **Tier 1 documented.** Sandia National Laboratories is a DOE FFRDC administered by National Technology and Engineering Solutions of Sandia, LLC since 1 May 2017, and received approximately 4,584.0 million dollars in FY2024, the largest FFRDC funding figure in the United States. Source: NSF NCSES Master Government List of FFRDCs, https://ncses.nsf.gov/resource/master-gov-lists-ffrdc; CRS Report R44629 funding table
+- **Tier 1 documented.** The distribution list of AFSWC TR-59-39 Vol I sends a copy to 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'. Source: AFSWC TR-59-39 Vol I, DISTRIBUTION list, DDC AD 425380, https://archive.org/details/DTIC_AD0425380
+- **Tier 1 documented.** The same AFOSI file records a Sandia security guard observing a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with his radio malfunctioning during the encounter. Source: AFOSI documents released under FOIA and archived by NICAP
+- **Tier 1 documented.** Three staff members of Sandia National Laboratories were among the five outside reviewers of the FY09 AAWSAP technical reports. Source: DIA memo U-429-09-DWO-IM, 30 October 2009
+- **Tier 2 named person on the record.** AFOSI Special Agent Richard Doty was the conduit for fabricated documents supplied to Albuquerque physicist Paul Bennewitz, whose company Thunder Scientific operated adjacent to Kirtland AFB, in an operation that culminated in Bennewitz's psychiatric collapse. Source: Greg Bishop, Project Beta; Doty's own subsequent public statements, including his 2014 acknowledgements reported by HuffPost
+
+### Its strongest connections
+
+- Sandia National Laboratories comes in from **United States Department of Energy** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: DOE/NNSA management and operating contract; Sandia. Sandia is an NNSA laboratory adjacent to Kirtland AFB and the Manzano Weapons Storage Area, the site of the 1980 intrusions investigated by AFOSI. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
+- Sandia National Laboratories comes in from **AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959** (document, board tier A), a custody link at Tier 1 documented. The link reads: A numbered copy went to Sandia's document control division. The distribution list reads 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; the board's sandia node is the same site under its later name. Sources: AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380, https://archive.org/details/DTIC_AD0425380, dated 1959-06-19.
+- Sandia National Laboratories comes in from **Armed Forces Special Weapons Project** (institution, board tier B), a geographic link at Tier 1 documented. The link reads: Sandia Base operations and the 1947 split of security and intelligence duties with the AEC. The agency history places AFSWP's training and assembly work at Sandia Base alongside AEC-controlled Z Division, and records that in March 1947 the AEC Santa Fe Office and AFSWP at Sandia Base divided security and intelligence responsibilities. Sources: Defense's Nuclear Agency 1947-1997, ch. 'The Post-War Transition' and Appendix C chronology, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt, dated 2002-01-01.
+- Sandia National Laboratories comes in from **Kirtland AFB / Manzano Weapons Storage Area incident** (event, board tier B), a witness-chain link at Tier 1 documented. The link reads: A Sandia security guard is a named reporting party in the AFOSI file. A Sandia guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with radio malfunction. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
+- Sandia National Laboratories runs out to **DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)** (document, board tier C), a institutional link at Tier 1 documented. The link reads: three Sandia staff among the five outside reviewers. A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so. Sources: DIA memo U-429-09-DWO-IM, https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf, dated 2009-10-30.
+- Sandia National Laboratories comes in from **TR-3B 'Astra', claimed black triangular aircraft** (program, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72. A claim about what Fouche said. 'Sandia and Livermore laboratories developed the reverse engineered MFD technology.' No lawrence-livermore node exists on the board and none is proposed here, so only the Sandia half of the sentence is wired. No record connecting either laboratory to this claim was opened, and the propulsion specification the sentence introduces is refuted by the melting point of its own working fluid. Sources: Presentation to IUFOR by Edgar Rothshild Fouche, slide 72, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
+- Sandia National Laboratories comes in from **'Manhattan Project 2.0' (alleged secrecy architecture)** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: Sandia named as an AEC-lineage custodial laboratory. Gerb's Sandia investigation of 1 November 2025 supplies the named-institution case for the AEC-custody thesis, citing Edgar Fouche and former New Mexico State Representative J. Andrew Kissner. Sources: UAP Gerb - Sandia investigation, https://www.youtube.com/watch?v=mHkPHd_eOXI, dated 2025-11-01.
+- Sandia National Laboratories runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a geographic link at Tier 2 named person on the record. The link reads: Sandia National Laboratories is adjacent to Kirtland AFB. Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966. Sources: Wikipedia - Kirtland Air Force Base, https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base, dated 2026-08-12; Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
 
 ## Air Technical Intelligence Center
 
@@ -592,7 +652,7 @@ Roles the board assigns it: custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 150 of 1071, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 151 of 1082, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -666,7 +726,7 @@ Roles the board assigns it: custody, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 134 of 1071, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 136 of 1082, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -693,70 +753,11 @@ Re-graded A on a global pass (rank 134 of 1071, score 53). 7 connections, 1 of t
 
 - EG&G (Edgerton, Germeshausen and Grier) runs out to **Federal Contracting Mechanics** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: contracting at a site whose existence was itself classified. EG&G instrumented and fired US nuclear tests from the Manhattan Project onward and became the classified services contractor for the Nevada complex, including the Air Force operating location near Groom Lake - a facility whose existence required a Presidential Determination published at 60 FR 52823 to exempt it from disclosure. It is the historical template for how contracting works where the place of performance cannot be named. Sources: Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **Presidential Determinations on the Air Force's Operating Location Near Groom Lake** (document, board tier B), a denial link at Tier 1 documented. The link reads: The state secrets defence shielded the contractor-operated facility from the workers' suit. Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied. Sources: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08; Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
-- EG&G (Edgerton, Germeshausen and Grier) runs out to **Groom Lake, Nevada** (location, board tier B), a institutional link at Tier 2 named person on the record. The link reads: EG&G provided the classified site services and personnel transport for the Groom Lake operating location. The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility. Sources: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08; Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
+- EG&G (Edgerton, Germeshausen and Grier) runs out to **Groom Lake, Nevada** (location, board tier A), a institutional link at Tier 2 named person on the record. The link reads: EG&G provided the classified site services and personnel transport for the Groom Lake operating location. The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility. Sources: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08; Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **Alfred 'Al' O'Donnell** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada. His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation. Sources: Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times, https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs, dated 2023-02-28; House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - EG&G (Edgerton, Germeshausen and Grier) runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier C), a institutional link at Tier 2 named person on the record. The link reads: EG&G was the classified services contractor for the Nevada complex in the testing era. Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08.
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **Richard D'Amato** (person, board tier C), a investigative link at Tier 2 named person on the record. The link reads: D'Amato's Senate inquiry reached EG&G and stopped there. Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation. Sources: Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times, https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs, dated 2023-02-28.
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **The Wilson-Davis Notes (16 October 2002)** (document, board tier A), a custody link at Tier 3 stated inference. The link reads: The meeting is reported to have taken place at an EG&G facility in Las Vegas. EG&G held the Groom Lake support and personnel-transport contracts; the reported venue matters because it places the conversation inside the contractor perimeter it describes. Sources: The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing), https://thedebrief.org/summer-of-the-saucers/, dated 2022-08-01.
-
-## Sandia National Laboratories
-
-Sandia National Laboratories is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1949; axes C3 A3 D1; 7 connections; in the research band.
-
-In one line: DOE national laboratory, Albuquerque, NM.
-
-### What it is
-
-Sandia National Laboratories, a Department of Energy federally funded research and development centre in Albuquerque, administered by National Technology and Engineering Solutions of Sandia, LLC since 1 May 2017. It is the largest FFRDC in the United States by funding, at approximately 4,584.0 million dollars in FY2024, and it sits adjacent to Kirtland Air Force Base, the installation that contains the Manzano Weapons Storage Area and Coyote Canyon.
-
-### Why it is implicated
-
-The geography does most of the work, and it puts Sandia on this board twice over. In 1948 and 1949 the green fireballs that triggered the Los Alamos conference and Project Twinkle were concentrated over the atomic weapons installations, Los Alamos and Sandia among them. In August 1980 the best-documented American military UFO incident of the Cold War occurred on the adjoining base, and a Sandia security guard is a reporting party in the resulting Air Force Office of Special Investigations file. Thirty years later, three Sandia staff members were among the five outside reviewers of the FY09 AAWSAP technical reports, which is a DOE weapons laboratory peer-reviewing the physics portfolio of a Defense Intelligence Agency programme. The laboratory also appears in the custody record of an earlier document: the distribution list of AFSWC TR-59-39 sends a copy to the President of Sandia Corporation, attention Document Control Division.
-
-### The longer account
-
-The 1980 file is the one to read. AFOSI Special Agent Richard C. Doty's complaint form of 9 September 1980, District File No. 8017D93-0/29, records that three members of the 1608 Security Police Squadron, SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier, observed a bright light near the Manzano restricted test range on the night of 8 August 1980 that made stop-and-go manoeuvres, landed in Coyote Canyon and departed vertically at high speed. The same file records a Sandia security guard observing a round disc-shaped object near an alarmed structure at about 00:20 on 9 August, his radio malfunctioning during the encounter.
-
-What makes the file structurally interesting rather than merely anecdotal is that a contractor-operated national laboratory, an Air Force counterintelligence office and a nuclear weapons storage site all appear in one anomalous-object document. What makes it uncomfortable is what the same office and the same agent did next. Doty was the conduit for fabricated material supplied to Paul Bennewitz, the Albuquerque physicist whose company Thunder Scientific operated adjacent to Kirtland and who had licensed sensor technology from Sandia in 1966; the operation ended in Bennewitz's psychiatric collapse. The board grades that Tier 2 and attributes it to AFOSI, not to the laboratory.
-
-The 2009 material is a different register and is worth keeping separate from the 1980 material. DIA memo U-429-09-DWO-IM of 30 October 2009 records the outside review of the AAWSAP deliverables, with three of the five reviewers from Sandia, and DIA recorded the reviews as positive. The board's reading of the timing is that DIA sought institutional cover for a portfolio it expected to have to defend, which it did five weeks later, and that reading is graded Tier 3 because it is an inference from sequence rather than anything the memo says.
-
-### What it has denied
-
-The board records no denial issued by Sandia and none directed at it. That absence should be read carefully rather than charitably: the laboratory appears in the 1980 file as a reporting party, not as a respondent, and nothing here shows it was ever asked to account for what its guard saw. The deception in this story belongs to the Air Force counterintelligence office on the adjoining base, and the board keeps the attribution where the documents put it. What Sandia has not done, on any record held here, is say anything at all about August 1980.
-
-Roles the board assigns it: research, custody, concealment.
-
-### Open questions on this node
-
-- The Sandia security guard of 9 August 1980 is described in the AFOSI file but the board does not hold his name, and no Sandia-side incident record from that night has been located.
-- The AEC-lineage custody link is the weakest thing attached to this node. It rests on a November 2025 video investigation citing Edgar Fouche and a former New Mexico state representative, and is graded Tier 2 on that basis. No primary document supports it here.
-- The identities of the three Sandia reviewers of the FY09 AAWSAP deliverables are not in the DIA memo as held, and nothing on this board establishes which reports they reviewed.
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 140 of 1071, score 52). 7 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
-
-### The claims on the record
-
-- **Tier 1 documented.** AFOSI Complaint Form dated 9 September 1980, filed by Special Agent Richard C. Doty (District File No. 8017D93-0/29), records the 8 August 1980 observation by SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier of 1608 SPS of a bright light making stop-and-go manoeuvres near the Manzano restricted test range, which landed in Coyote Canyon and departed vertically at high speed. Source: AFOSI documents released under FOIA and archived by NICAP
-- **Tier 1 documented.** AFOSI Complaint Form dated 9 September 1980, filed by Special Agent Richard C. Doty under District File No. 8017D93-0/29, records the 8 August 1980 observation by SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier of 1608 SPS of a bright light making stop-and-go manoeuvres near the Manzano restricted test range, which landed in Coyote Canyon and departed vertically at high speed. Source: AFOSI documents released under FOIA and archived by NICAP, https://www.nicap.org/foia_003.htm
-- **Tier 1 documented.** Sandia National Laboratories is a DOE FFRDC administered by National Technology & Engineering Solutions of Sandia, LLC since 1 May 2017, and received approximately $4,584.0 million in FY2024 - the largest FFRDC funding figure in the United States. Source: NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table
-- **Tier 1 documented.** Sandia National Laboratories is a DOE FFRDC administered by National Technology and Engineering Solutions of Sandia, LLC since 1 May 2017, and received approximately 4,584.0 million dollars in FY2024, the largest FFRDC funding figure in the United States. Source: NSF NCSES Master Government List of FFRDCs, https://ncses.nsf.gov/resource/master-gov-lists-ffrdc; CRS Report R44629 funding table
-- **Tier 1 documented.** The distribution list of AFSWC TR-59-39 Vol I sends a copy to 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'. Source: AFSWC TR-59-39 Vol I, DISTRIBUTION list, DDC AD 425380, https://archive.org/details/DTIC_AD0425380
-- **Tier 1 documented.** The same AFOSI file records a Sandia security guard observing a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with his radio malfunctioning during the encounter. Source: AFOSI documents released under FOIA and archived by NICAP
-- **Tier 1 documented.** Three staff members of Sandia National Laboratories were among the five outside reviewers of the FY09 AAWSAP technical reports. Source: DIA memo U-429-09-DWO-IM, 30 October 2009
-- **Tier 2 named person on the record.** AFOSI Special Agent Richard Doty was the conduit for fabricated documents supplied to Albuquerque physicist Paul Bennewitz, whose company Thunder Scientific operated adjacent to Kirtland AFB, in an operation that culminated in Bennewitz's psychiatric collapse. Source: Greg Bishop, Project Beta; Doty's own subsequent public statements, including his 2014 acknowledgements reported by HuffPost
-
-### Its strongest connections
-
-- Sandia National Laboratories comes in from **United States Department of Energy** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: DOE/NNSA management and operating contract; Sandia. Sandia is an NNSA laboratory adjacent to Kirtland AFB and the Manzano Weapons Storage Area, the site of the 1980 intrusions investigated by AFOSI. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
-- Sandia National Laboratories comes in from **AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959** (document, board tier A), a custody link at Tier 1 documented. The link reads: A numbered copy went to Sandia's document control division. The distribution list reads 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; the board's sandia node is the same site under its later name. Sources: AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380, https://archive.org/details/DTIC_AD0425380, dated 1959-06-19.
-- Sandia National Laboratories comes in from **Armed Forces Special Weapons Project** (institution, board tier B), a geographic link at Tier 1 documented. The link reads: Sandia Base operations and the 1947 split of security and intelligence duties with the AEC. The agency history places AFSWP's training and assembly work at Sandia Base alongside AEC-controlled Z Division, and records that in March 1947 the AEC Santa Fe Office and AFSWP at Sandia Base divided security and intelligence responsibilities. Sources: Defense's Nuclear Agency 1947-1997, ch. 'The Post-War Transition' and Appendix C chronology, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt, dated 2002-01-01.
-- Sandia National Laboratories comes in from **Kirtland AFB / Manzano Weapons Storage Area incident** (event, board tier B), a witness-chain link at Tier 1 documented. The link reads: A Sandia security guard is a named reporting party in the AFOSI file. A Sandia guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with radio malfunction. Sources: NICAP - Kirtland AFB FOIA files, https://www.nicap.org/foia_003.htm, dated 2026-08-12.
-- Sandia National Laboratories runs out to **DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)** (document, board tier C), a institutional link at Tier 1 documented. The link reads: three Sandia staff among the five outside reviewers. A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so. Sources: DIA memo U-429-09-DWO-IM, https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf, dated 2009-10-30.
-- Sandia National Laboratories comes in from **'Manhattan Project 2.0' (alleged secrecy architecture)** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: Sandia named as an AEC-lineage custodial laboratory. Gerb's Sandia investigation of 1 November 2025 supplies the named-institution case for the AEC-custody thesis, citing Edgar Fouche and former New Mexico State Representative J. Andrew Kissner. Sources: UAP Gerb - Sandia investigation, https://www.youtube.com/watch?v=mHkPHd_eOXI, dated 2025-11-01.
-- Sandia National Laboratories runs out to **Kirtland Air Force Base and Albuquerque, New Mexico** (location, board tier B), a geographic link at Tier 2 named person on the record. The link reads: Sandia National Laboratories is adjacent to Kirtland AFB. Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966. Sources: Wikipedia - Kirtland Air Force Base, https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base, dated 2026-08-12; Wikipedia - Paul Bennewitz, https://en.wikipedia.org/wiki/Paul_Bennewitz, dated 2026-08-12.
 
 ## AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959
 
@@ -795,7 +796,7 @@ Roles the board assigns it: research, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 111 of 1071, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 111 of 1082, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -863,7 +864,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 138 of 1071, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 140 of 1082, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -927,7 +928,7 @@ Roles the board assigns it: disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 516 of 1071, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 523 of 1082, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -983,7 +984,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 117 of 1071, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 117 of 1082, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1065,7 +1066,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 193 of 1071, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 194 of 1082, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1138,7 +1139,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 84 of 1071, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 84 of 1082, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1218,7 +1219,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 70 of 1071, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 70 of 1082, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -1296,7 +1297,7 @@ Roles the board assigns it: research, disclosure, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 125 of 1071, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 125 of 1082, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1377,7 +1378,7 @@ Roles the board assigns it: oversight, concealment, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 120 of 1071, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 120 of 1082, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1456,7 +1457,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 81 of 1071, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 81 of 1082, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1539,7 +1540,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 96 of 1071, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 96 of 1082, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1621,7 +1622,7 @@ Roles the board assigns it: custody, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 64 of 1071, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded A on a global pass (rank 64 of 1082, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1712,7 +1713,7 @@ Roles the board assigns it: research, concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 178 of 1071, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 179 of 1082, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1785,7 +1786,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 87 of 1071, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
+Re-graded A on a global pass (rank 87 of 1082, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
 
 ### The claims on the record
 
@@ -1871,7 +1872,7 @@ Roles the board assigns it: disclosure, concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 17 of 1071, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 17 of 1082, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1968,7 +1969,7 @@ Roles the board assigns it: oversight, concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 74 of 1071, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 74 of 1082, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1994,9 +1995,9 @@ Re-graded A on a global pass (rank 74 of 1071, score 69). 19 connections, 6 of t
 ### Its strongest connections
 
 - Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **David Charles Grusch** (person, board tier A), a programmatic link at Tier 1 documented. The link reads: NRO representative to the UAP Task Force, 2019-2021. Grusch swore he was a member of the UAP Task Force from 2019 to 2021 in his Air Force NRO reservist capacity; his published biography and The Debrief both record the same billet. This is the seat from which he was tasked to inventory SAPs and CAPs. Sources: House Oversight hearing transcript, Serial No. 118-53, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
+- Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **National Reconnaissance Office** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: NRO seconded a representative to the UAP Task Force. David Grusch's official House Oversight witness title was 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'. Sources: House Oversight Committee hearing notice, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26.
 - Unidentified Aerial Phenomena Task Force (UAPTF) runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a institutional link at Tier 1 documented. The Task Force was the body, the assessment was its output. The UAPTF was approved 4 August 2020 by Deputy Secretary Norquist under the Department of the Navy; the 144 incidents in the June 2021 assessment came from its holdings, with ODNI transmitting the product. The programmatic edge on this pair records the data provenance; this one records the institutional relationship. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021 (dni.gov), https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; Wayback snapshot of ODNI Preliminary Assessment PDF (now served from archive.dni.gov), https://web.archive.org/web/20260811010946id_/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2026-08-11.
 - Unidentified Aerial Phenomena Task Force (UAPTF) runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: UAPTF dataset is the substrate of the 2021 Preliminary Assessment. The assessment's 144 incidents came from the Task Force's holdings; ODNI transmitted the product but the Task Force built the data. Sources: ODNI Preliminary Assessment, https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
-- Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **National Reconnaissance Office** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: NRO seconded a representative to the UAP Task Force. David Grusch's official House Oversight witness title was 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'. Sources: House Oversight Committee hearing notice, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26.
 - Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **Navy Range Fouler Reports (72 reports, 2004-2021)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: Reporting volume tracks the existence of a channel, not the phenomenon. The set contains no reports from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent from 2021 alone - the year after the Task Force was stood up. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)** (document, board tier B), a custody link at Tier 1 documented. The link reads: ordered the UAPTF disestablished and its data and materials transferred to AARO. This is the custody event of the domain: everything the Task Force held passed to an office inside OSD. The memorandum's word is 'materials', not merely records. Sources: AARO establishment memorandum, https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF, dated 2022-07-15.
 - Unidentified Aerial Phenomena Task Force (UAPTF) runs out to **Office of Naval Intelligence** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: sited in the Department of the Navy with ONI involvement. The Deputy Secretary of Defense established the UAPTF under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit. Sources: US Navy press release, https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/, dated 2020-08-14; ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; Office of Naval Intelligence - official website, https://www.oni.navy.mil/, dated 2026-08-12.
@@ -2058,7 +2059,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 400 of 1071, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 403 of 1082, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -2135,7 +2136,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 520 of 1071, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
+Re-graded B on a global pass (rank 527 of 1082, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
 
 ### The claims on the record
 
@@ -2219,7 +2220,7 @@ Roles the board assigns it: disclosure, oversight, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 523 of 1071, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 530 of 1082, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2303,7 +2304,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 737 of 1071, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 745 of 1082, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2379,7 +2380,7 @@ Roles the board assigns it: research, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 349 of 1071, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 352 of 1082, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2459,7 +2460,7 @@ Roles the board assigns it: concealment, oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 46 of 1071, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 46 of 1082, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2550,7 +2551,7 @@ Roles the board assigns it: disclosure, research, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 448 of 1071, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 452 of 1082, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2627,7 +2628,7 @@ Roles the board assigns it: custody, concealment, oversight, disclosure, researc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 398 of 1071, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 402 of 1082, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2695,7 +2696,7 @@ Roles the board assigns it: disclosure, custody, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 785 of 1071, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 793 of 1082, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2777,7 +2778,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 68 of 1071, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 68 of 1082, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2867,7 +2868,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 923 of 1071, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 933 of 1082, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2941,7 +2942,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 725 of 1071, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 733 of 1082, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

@@ -27790,6 +27790,524 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'edgar-fouche',
+    b: 'tr-3b',
+    type: 'witness-chain',
+    label: 'Originating claimant of the TR-3B, August 1998',
+    claimTier: 2,
+    dateStart: '1998-08',
+    dateEnd: null,
+    note: 'The claim exists in his copyrighted document and nowhere earlier that was opened. Tier 2 and not 1 because the edge asserts that he is the origin of the claim, which rests on the absence of an earlier source rather than on a positive record. Note that within the artefact itself the sighting is second hand: slide 69 opens \'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.\' He does not claim to have seen it.',
+    sources: [
+      {
+        name: 'Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 to 72',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf',
+        date: '1998-08'
+      }
+    ]
+  },
+  {
+    a: 'fouche-iufoc-1998',
+    b: 'tr-3b',
+    type: 'investigative',
+    label: 'The dated artefact that carries the claim; opened in full',
+    claimTier: 1,
+    dateStart: '1998-08',
+    dateEnd: '1998-08',
+    note: 'The dossier proposed this as a custody edge. Built as investigative to match the board\'s existing precedent for a document carrying a claim about a craft, scott-sorensen-notes-1990 to arv-fluxliner, which is investigative and not custody. A transcript has custody of the record of the claim, not of the craft, and the distinction is worth keeping since custody carries the x3.0 program weighting.',
+    sources: [
+      {
+        name: 'Presentation to IUFOR by Edgar Rothshild Fouche, 62 pages, slides 69 to 72',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf',
+        date: '1998-08'
+      }
+    ]
+  },
+  {
+    a: 'edgar-fouche',
+    b: 'fouche-iufoc-1998',
+    type: 'research',
+    label: 'Author and copyright holder of the presentation transcript',
+    claimTier: 1,
+    dateStart: '1998-08',
+    dateEnd: '1998-08',
+    note: 'INTENT: AUTHORSHIP. The board has no authorship edge type, and authorship is deliberately NOT built as custody here, because custody is weighted x3.0 as a program edge and giving a claimant a x3 edge to his own document would inflate him. Mapped to research. The document\'s first four lines are \'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates\'.',
+    sources: [
+      {
+        name: 'Presentation to IUFOR by Edgar Rothshild Fouche, page 1 header',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf',
+        date: '1998-08'
+      }
+    ]
+  },
+  {
+    a: 'edgar-fouche',
+    b: 'alien-rapture-1998',
+    type: 'research',
+    label: 'Primary author of Alien Rapture: The Chosen',
+    claimTier: 1,
+    dateStart: '1998',
+    dateEnd: '1998',
+    note: 'INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives \'Fouche, Edgar Rothschild, 1948-\' with usage primary and a statement of responsibility reading \'Edgar Rothschild Fouche and Brad Steiger.\'',
+    sources: [
+      {
+        name: 'Library of Congress catalogue record LCCN 98002961, MODS, name usage primary',
+        url: 'http://lx2.loc.gov:210/lcdb',
+        date: '1998-02-04'
+      }
+    ]
+  },
+  {
+    a: 'brad-steiger',
+    b: 'alien-rapture-1998',
+    type: 'research',
+    label: 'Co-author of Alien Rapture: The Chosen',
+    claimTier: 1,
+    dateStart: '1998',
+    dateEnd: '1998',
+    note: 'INTENT: AUTHORSHIP, mapped to research. This is the single documented fact behind the brad-steiger node, which is built deliberately thin. Nothing is asserted about the extent or nature of his contribution, and in particular nothing about whether he had any hand in the TR-3B material.',
+    sources: [
+      {
+        name: 'Library of Congress catalogue record LCCN 98002961, MODS, second personal name',
+        url: 'http://lx2.loc.gov:210/lcdb',
+        date: '1998-02-04'
+      }
+    ]
+  },
+  {
+    a: 'alien-rapture-1998',
+    b: 'tr-3b',
+    type: 'investigative',
+    label: 'The book the presentation was given to promote; its TR-3B content was NOT opened',
+    claimTier: 3,
+    dateStart: '1998',
+    dateEnd: '1998-08',
+    note: 'CAVEAT CARRIED ON THE EDGE, AND IT IS THE REASON FOR TIER 3. The presentation names the book as its occasion at slide 5, which is Tier 1. But no copy of the book\'s text was opened, so how or whether the TR-3B appears inside it is unestablished. The edge records the promotional relationship only, and must not be read as the book containing the claim.',
+    sources: [
+      {
+        name: 'Presentation to IUFOR by Edgar Rothshild Fouche, slide 5',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf',
+        date: '1998-08'
+      }
+    ]
+  },
+  {
+    a: 'fouche-iufoc-1998',
+    b: 'checktheevidence',
+    type: 'custody',
+    label: 'Presentation transcript hosted by Check The Evidence',
+    claimTier: 1,
+    dateStart: '2014-01-13',
+    dateEnd: null,
+    note: 'Genuine custody: a hosting site holding a file. Direction and type mirror the board\'s existing scott-sorensen-notes-1990 to arvp-fluxliner-project edge, and the treatment of the-black-vault.',
+    sources: [
+      {
+        name: 'Andrew Johnson, \'Edgar Fouche - Disclosing Secret Technologies\', the index page linking the file',
+        url: 'https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/',
+        date: '2014-02-11'
+      }
+    ]
+  },
+  {
+    a: 'fouche-military-documents',
+    b: 'checktheevidence',
+    type: 'custody',
+    label: 'Military documents compilation hosted by Check The Evidence',
+    claimTier: 1,
+    dateStart: '2014-06-15',
+    dateEnd: null,
+    note: 'Genuine custody. The site holds both the HTML original and the printed PDF, which is how the compilation\'s provenance was established.',
+    sources: [
+      {
+        name: 'Andrew Johnson, \'Edgar Fouche - Disclosing Secret Technologies\', the index page linking the file; and the HTML original the PDF was printed from',
+        url: 'http://www.checktheevidence.co.uk/articles/edgar%20fouche%20documents.htm',
+        date: '2014-06-15'
+      }
+    ]
+  },
+  {
+    a: 'checktheevidence',
+    b: 'edgar-fouche',
+    type: 'custody',
+    label: 'Custodian of the Fouche file, under a named operator',
+    claimTier: 1,
+    dateStart: '2014-02-11',
+    dateEnd: null,
+    note: 'Mirrors the board\'s existing arvp-fluxliner-project to mark-mccandlish custody edge. The distinction worth recording is that this custodian signs and dates his posts by name, where arvp.co.uk is anonymous.',
+    sources: [
+      {
+        name: 'Andrew Johnson, \'Edgar Fouche - Disclosing Secret Technologies\'',
+        url: 'https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/',
+        date: '2014-02-11'
+      }
+    ]
+  },
+  {
+    a: 'arvp-fluxliner-project',
+    b: 'tr-3b',
+    type: 'research',
+    label: 'ARVP carries a TR-3B page and routes its readers to the Fouche file',
+    claimTier: 1,
+    dateStart: '2026-09-18',
+    dateEnd: null,
+    note: 'Mirrors the board\'s existing arvp-fluxliner-project to arv-fluxliner research edge. The site is evidence of what the site says and of nothing else: its own characterisations are the anonymous owner\'s opinion, most of the page is its owner\'s visual-effects assessment of a video, and it mis-assigns the \'he lied\' finding to Jeremy Rys when the only opened account attributes that video to David Hilton and says its screen could not be read.',
+    sources: [
+      {
+        name: 'ARVP, \'Black Triangle (TR3b)\', the page named in research/leads/CANDIDATES-2026-09-18-ARVP.md',
+        url: 'https://www.arvp.co.uk/black-triangle-tr3b/',
+        date: '2026-09-18'
+      }
+    ]
+  },
+  {
+    a: 'fouche-military-documents',
+    b: 'edgar-fouche',
+    type: 'research',
+    label: 'Self-published compilation about and by its own subject',
+    claimTier: 1,
+    dateStart: '2014-06-15',
+    dateEnd: '2014-06-15',
+    note: 'INTENT: AUTHORSHIP AND SELF-PUBLICATION, mapped to research rather than custody so that the subject of a file is not given a x3.0 program edge to his own compilation. The compilation is about him, published by him, redacted by him on its own caption\'s admission, and one passage in it is signed \'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche\'.',
+    sources: [
+      {
+        name: 'Edgar Fouche\'s Military, and DOD contractors reference Documents, caption text layer',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf',
+        date: '2014-06-15'
+      }
+    ]
+  },
+  {
+    a: 'fouche-afftc-det3-1979',
+    b: 'fouche-military-documents',
+    type: 'custody',
+    label: 'The AF Form 77a is page 3 of the compilation',
+    claimTier: 1,
+    dateStart: '2014-06-15',
+    dateEnd: '2014-06-15',
+    note: 'INTENT: CONTAINMENT. The board has no contains edge type, so this is built as custody, document to document, which is genuine containment custody and does not inflate any person.',
+    sources: [
+      {
+        name: 'Edgar Fouche\'s Military, and DOD contractors reference Documents, page 3',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf',
+        date: '2014-06-15'
+      }
+    ]
+  },
+  {
+    a: 'fouche-afftc-det3-1979',
+    b: 'l-groom-lake',
+    type: 'geographic',
+    label: 'Records temporary duty to AFFTC Detachment 3, the unit operating Groom Lake, 1 June to 14 August 1979',
+    claimTier: 2,
+    dateStart: '1979-06-01',
+    dateEnd: '1979-08-14',
+    note: 'TIER 2 IS THE CEILING AND HERE IS WHY. The form itself says \'AFFTC-DET 3, Nellis AF Range\', which is Tier 1. The identification of DET 3 AFFTC with Groom Lake rests on Peter Merlin\'s own published site and not on any primary Air Force unit history, organisational chart or FOIA release opened by this research. The weaker link sets the tier.',
+    sources: [
+      {
+        name: 'AF Form 77a, 24 August 1979, page 3 of the compilation, rendered and read as an image',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf',
+        date: '1979-08-24'
+      },
+      {
+        name: 'Peter W. Merlin, \'Black Projects at Groom Lake\', for the identification of DET 3 AFFTC',
+        url: 'https://www.dreamlandresort.com/black_projects/black_projects_history.html',
+        date: '2026-09-18'
+      }
+    ]
+  },
+  {
+    a: 'edgar-fouche',
+    b: 'l-groom-lake',
+    type: 'geographic',
+    label: 'Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation',
+    claimTier: 2,
+    dateStart: '1979-06-01',
+    dateEnd: '1979-08-14',
+    note: 'The strongest documented connection between any TR-3B claimant and a real classified airfield, and it must be read with its own limit attached: the form does not say what he did there, referring that out to \'a separate report\' that is not in the file, and everything else on the form describes F-15 avionics intermediate shop work. The extensive Groom Lake narration in the 1998 presentation, including helicopter flights and a mess hall conversation about an NSA system, is Tier 2 on his word alone.',
+    sources: [
+      {
+        name: 'AF Form 77a, 24 August 1979, page 3 of the compilation',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf',
+        date: '1979-08-24'
+      },
+      {
+        name: 'Presentation to IUFOR by Edgar Rothshild Fouche, slide 42 onward',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf',
+        date: '1998-08'
+      }
+    ]
+  },
+  {
+    a: 'edgar-fouche',
+    b: 'usaf',
+    type: 'institutional',
+    label: 'USAF master sergeant; twenty year avionics maintenance career, three Meritorious Service Medals',
+    claimTier: 1,
+    dateStart: '1967',
+    dateEnd: '1987-08-31',
+    note: 'Tier 1 and entirely ordinary. The citations describe F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bed-down, and a Strategic Air Command liaison post at Kelly AFB. The second Meritorious Service Medal citation closes \'culminate a distinguished career\', which dates the end of active service to 1987.',
+    sources: [
+      {
+        name: 'Decoration certificates and citations, performance reports and education certificates in the self-published compilation',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf',
+        date: '2014-06-15'
+      }
+    ]
+  },
+  {
+    a: 'edgar-fouche',
+    b: 'l-edwards-afb',
+    type: 'institutional',
+    label: 'Claims assignment to 6515 TSS, AFFTC, Edwards AFB on the F-15 R&D and FOT&E programme',
+    claimTier: 2,
+    dateStart: '1974',
+    dateEnd: null,
+    note: 'His own statement in the caption layer: \'When I arrived at Edwards AFB - 6515 TSS - AFFTC, I was assigned to the F-15 R&D and FOT&E Program.\' No form in the collection carries an Edwards assignment, and Andrew Johnson\'s account of the FOIA return does not list one. Tier 2 on his word.',
+    sources: [
+      {
+        name: 'Edgar Fouche\'s Military, and DOD contractors reference Documents, caption text layer in his own voice',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf',
+        date: '2014-06-15'
+      }
+    ]
+  },
+  {
+    a: 'peter-merlin',
+    b: 'tr-3b',
+    type: 'denial',
+    label: 'Named aerospace historian; four falsifiable specifics against the claimant\'s evidence',
+    claimTier: 2,
+    dateStart: '2016-03-19',
+    dateEnd: null,
+    note: '\'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.\' The four specifics are on the peter-merlin node in full: the letter is unclassified; the \'Have Blue\' photo is the first YF-117A SENIOR TREND prototype; \'No such person as Steve Stenson was ever commander of AFFTC\'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant\'s own testimony, and none has been checked and found wrong in any opened record.',
+    sources: [
+      {
+        name: 'Peter Merlin, quoted verbatim in Norio Hayakawa, \'Edgar Fouche\'s TR-3B is most likely a hoax\'',
+        url: 'https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/',
+        date: '2016-03-19'
+      }
+    ]
+  },
+  {
+    a: 'peter-merlin',
+    b: 'fouche-military-documents',
+    type: 'denial',
+    label: 'Reads the \'SAC/DARPA Classified Document\' as an unclassified personnel letter from a personnel office',
+    claimTier: 2,
+    dateStart: '2016-03-19',
+    dateEnd: null,
+    note: 'Two parts of Merlin\'s reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of \'REPLY TO: DARPA\' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction.',
+    sources: [
+      {
+        name: 'Peter Merlin, quoted verbatim in Norio Hayakawa, 19 March 2016',
+        url: 'https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/',
+        date: '2016-03-19'
+      },
+      {
+        name: 'The page 1 image of the compilation, rendered at 190 dpi and read, which corroborates the absence of classification markings and the signature block',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf',
+        date: '1984-07-10'
+      }
+    ]
+  },
+  {
+    a: 'peter-merlin',
+    b: 'fouche-afftc-det3-1979',
+    type: 'research',
+    label: 'His own published work is what establishes what AFFTC Detachment 3 is',
+    claimTier: 2,
+    dateStart: '2026-09-18',
+    dateEnd: null,
+    note: 'THIS EDGE IS THE INVERSE OF THE TWO ABOVE AND IS BUILT SEPARATELY ON PURPOSE. The same historian whose analysis demolishes most of Fouche\'s account is the reference source that makes Fouche\'s single best document mean something: \'Since the late 1970s, the Groom Lake facility has been operated by Detachment 3 of the Air Force Flight Test Center.\' He is on both sides of this file and the graph should show it.',
+    sources: [
+      {
+        name: 'Peter W. Merlin, \'Black Projects at Groom Lake\'',
+        url: 'https://www.dreamlandresort.com/black_projects/black_projects_history.html',
+        date: '2026-09-18'
+      }
+    ]
+  },
+  {
+    a: 'testors-sr-75-kit',
+    b: 'tr-3b',
+    type: 'denial',
+    label: 'Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993',
+    claimTier: 3,
+    dateStart: '1993-12-25',
+    dateEnd: '1998-08',
+    note: 'A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper \'such a plane does not exist\'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.',
+    sources: [
+      {
+        name: 'Baltimore Sun, \'For latest spy plane look under your tree\'',
+        url: 'https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/',
+        date: '1993-12-25'
+      },
+      {
+        name: 'Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf',
+        date: '1998-08'
+      }
+    ]
+  },
+  {
+    a: 'northrop-tacit-blue',
+    b: 'tr-3b',
+    type: 'denial',
+    label: 'The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle',
+    claimTier: 1,
+    dateStart: '1982-02',
+    dateEnd: '1996-05',
+    note: 'THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF\'s own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.',
+    sources: [
+      {
+        name: 'U.S. Air Force Fact Sheet \'NORTHROP TACIT BLUE\'',
+        url: 'https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF',
+        date: '2026-09-18'
+      }
+    ]
+  },
+  {
+    a: 'northrop-tacit-blue',
+    b: 'darpa',
+    type: 'institutional',
+    label: 'DARPA a named partner in the programme, 1978 to 1985',
+    claimTier: 1,
+    dateStart: '1978',
+    dateEnd: '1985',
+    note: '\'The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985.\' This is what a documented DARPA black-programme involvement actually looks like in a primary record, and it is worth having on the board next to the Fouche file\'s use of the same four letters.',
+    sources: [
+      {
+        name: 'U.S. Air Force Fact Sheet \'NORTHROP TACIT BLUE\'',
+        url: 'https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF',
+        date: '2026-09-18'
+      }
+    ]
+  },
+  {
+    a: 'northrop-tacit-blue',
+    b: 'northrop-grumman',
+    type: 'institutional',
+    label: 'Northrop Corp. the airframe contractor',
+    claimTier: 1,
+    dateStart: '1978',
+    dateEnd: '1985',
+    note: 'The fact sheet names \'the Northrop Corp.\'; the board\'s existing node is northrop-grumman, the successor entity after the 1994 merger, and the edge is wired to it on that basis.',
+    sources: [
+      {
+        name: 'U.S. Air Force Fact Sheet \'NORTHROP TACIT BLUE\'',
+        url: 'https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF',
+        date: '2026-09-18'
+      }
+    ]
+  },
+  {
+    a: 'northrop-tacit-blue',
+    b: 'usaf',
+    type: 'institutional',
+    label: 'USAF a named partner and the publisher of the fact sheet',
+    claimTier: 1,
+    dateStart: '1978',
+    dateEnd: '1996-05',
+    note: 'The Air Force is both a programme partner and the author of the primary record, and the fact sheet is a claim about its own programme, which is exactly the case CLAUDE.md section 2 says is a primary record rather than an interested-party inference.',
+    sources: [
+      {
+        name: 'U.S. Air Force Fact Sheet \'NORTHROP TACIT BLUE\'',
+        url: 'https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF',
+        date: '2026-09-18'
+      }
+    ]
+  },
+  {
+    a: 'tr-3b',
+    b: 'darpa',
+    type: 'denial',
+    label: 'The Fouche file\'s DARPA invocation rests on a letter from a personnel office',
+    claimTier: 1,
+    dateStart: '1984-07-10',
+    dateEnd: null,
+    note: 'DARPA is the single most reused word in the Fouche corpus and the board\'s existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency\'s name wrong, as \'Defense Advanced Research Agency\'.',
+    sources: [
+      {
+        name: 'The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf',
+        date: '1984-07-10'
+      },
+      {
+        name: 'Peter Merlin\'s reading of the same letter, quoted verbatim',
+        url: 'https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/',
+        date: '2016-03-19'
+      }
+    ]
+  },
+  {
+    a: 'tr-3b',
+    b: 'nro',
+    type: 'witness-chain',
+    label: 'CLAIMED ONLY: named as a funder and tasker at slide 70',
+    claimTier: 2,
+    dateStart: '1998-08',
+    dateEnd: null,
+    note: 'A claim about what Fouche said, not about the agency. \'It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA.\' No record of any kind connecting the NRO to this designation was opened.',
+    sources: [
+      {
+        name: 'Presentation to IUFOR by Edgar Rothshild Fouche, slide 70',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf',
+        date: '1998-08'
+      }
+    ]
+  },
+  {
+    a: 'tr-3b',
+    b: 'nsa',
+    type: 'witness-chain',
+    label: 'CLAIMED ONLY: named as a funder and tasker at slide 70',
+    claimTier: 2,
+    dateStart: '1998-08',
+    dateEnd: null,
+    note: 'A claim about what Fouche said, from the same sentence as the NRO and CIA edges. No record connecting the NSA to this designation was opened.',
+    sources: [
+      {
+        name: 'Presentation to IUFOR by Edgar Rothshild Fouche, slide 70',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf',
+        date: '1998-08'
+      }
+    ]
+  },
+  {
+    a: 'tr-3b',
+    b: 'cia',
+    type: 'witness-chain',
+    label: 'CLAIMED ONLY: named as a funder and tasker at slide 70',
+    claimTier: 2,
+    dateStart: '1998-08',
+    dateEnd: null,
+    note: 'A claim about what Fouche said, from the same sentence as the NRO and NSA edges. No record connecting the CIA to this designation was opened.',
+    sources: [
+      {
+        name: 'Presentation to IUFOR by Edgar Rothshild Fouche, slide 70',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf',
+        date: '1998-08'
+      }
+    ]
+  },
+  {
+    a: 'tr-3b',
+    b: 'sandia',
+    type: 'witness-chain',
+    label: 'CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72',
+    claimTier: 2,
+    dateStart: '1998-08',
+    dateEnd: null,
+    note: 'A claim about what Fouche said. \'Sandia and Livermore laboratories developed the reverse engineered MFD technology.\' No lawrence-livermore node exists on the board and none is proposed here, so only the Sandia half of the sentence is wired. No record connecting either laboratory to this claim was opened, and the propulsion specification the sentence introduces is refuted by the melting point of its own working fluid.',
+    sources: [
+      {
+        name: 'Presentation to IUFOR by Edgar Rothshild Fouche, slide 72',
+        url: 'https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf',
+        date: '1998-08'
+      }
+    ]
+  },
+  {
     a: 'david-norquist',
     b: 'uap-task-force',
     type: 'institutional',

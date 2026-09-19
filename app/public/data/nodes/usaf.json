@@ -282,6 +282,27 @@
 },
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": "1987-08-31",
+"dateStart": "1967",
+"direction": "in",
+"edgeLabel": "USAF master sergeant; twenty year avionics maintenance career, three Meritorious Service Medals",
+"id": "edgar-fouche",
+"l0": false,
+"label": "Edgar Fouche",
+"note": "Tier 1 and entirely ordinary. The citations describe F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bed-down, and a Strategic Air Command liaison post at Kelly AFB. The second Meritorious Service Medal citation closes 'culminate a distinguished career', which dates the end of active service to 1987.",
+"sources": [
+{
+"date": "2014-06-15",
+"name": "Decoration certificates and citations, performance reports and education certificates in the self-published compilation",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": null,
@@ -407,6 +428,27 @@
 "type": "denial"
 },
 {
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1996-05",
+"dateStart": "1978",
+"direction": "in",
+"edgeLabel": "USAF a named partner and the publisher of the fact sheet",
+"id": "northrop-tacit-blue",
+"l0": false,
+"label": "Northrop TACIT BLUE",
+"note": "The Air Force is both a programme partner and the author of the primary record, and the fact sheet is a claim about its own programme, which is exactly the case CLAUDE.md section 2 says is a primary record rather than an interested-party inference.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE'",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
 "claimTier": 2,
 "cls": "event",
 "dateEnd": "1988-11-12",
@@ -520,7 +562,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-09-18",
-"deg": 22,
+"deg": 24,
 "denials": [
 {
 "by": {
@@ -701,6 +743,12 @@
 "tier": "B"
 },
 {
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche",
+"tier": "B"
+},
+{
 "cls": "institution",
 "id": "foreign-technology-division",
 "label": "Foreign Technology Division, Wright-Patterson AFB",
@@ -723,6 +771,12 @@
 "id": "mdang-flare-statement-1997",
 "label": "Maryland Air National Guard flare statement, 26 July 1997",
 "tier": "C"
+},
+{
+"cls": "program",
+"id": "northrop-tacit-blue",
+"label": "Northrop TACIT BLUE",
+"tier": "B"
 },
 {
 "cls": "event",
@@ -753,7 +807,7 @@
 ],
 "sub": "Military department; original custodian of the UFO record and of the Roswell material",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 41 of 1071, score 86). 23 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 39 of 1082, score 88). 25 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [
 {
 "date": "1947-09-18",

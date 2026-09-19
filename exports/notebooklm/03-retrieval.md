@@ -1,6 +1,6 @@
 # The retrieval band
 
-The programme map splits the 139 nodes closest to the alleged programme into seven bands, and this file is the retrieval band: 11 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the retrieval band: 11 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 # THROUGH 1969: Estimate through Blue Book
 
@@ -52,7 +52,7 @@ Roles the board assigns it: retrieval, reverse-engineering, concealment, funding
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 14 of 1071, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 14 of 1082, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -96,7 +96,7 @@ It carries 48 connections in total on the board.
 
 ## Central Intelligence Agency
 
-Central Intelligence Agency is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947-09-18; axes C2 A3 D1; 40 connections; in the retrieval band.
+Central Intelligence Agency is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947-09-18; axes C2 A3 D1; 41 connections; in the retrieval band.
 
 In one line: Independent civilian foreign intelligence service; convener of the Robertson Panel.
 
@@ -140,7 +140,7 @@ Roles the board assigns it: concealment, retrieval, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 12 of 1071, score 118). 42 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 12 of 1082, score 118). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -178,11 +178,11 @@ Re-graded A on a global pass (rank 12 of 1071, score 118). 42 connections, 7 of 
 - Central Intelligence Agency comes in from **Gen. Charles P. Cabell** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Deputy Director of Central Intelligence. FRUS gives 1953 to 1962; the CIA's own chronology gives the resignation as 27 December 1961, effective 31 January 1962. Sources: FRUS 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons, dated 2026-09-03.
 - Central Intelligence Agency comes in from **Maj. Donald E. Keyhoe, USMC (Ret.)** (person, board tier B), a denial link at Tier 1 documented. The link reads: CIA routed his UFO inquiries to the Air Force and made it a precedent. A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs. Sources: CIA reading room document 0005516043, https://archive.org/details/cia-readingroom-document-0005516043, dated 1958-04-04.
 
-It carries 42 connections in total on the board.
+It carries 43 connections in total on the board.
 
 ## United States Air Force
 
-United States Air Force is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947-09-18; axes C3 A3 D1; 22 connections; in the retrieval band.
+United States Air Force is a institution on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1947-09-18; axes C3 A3 D1; 24 connections; in the retrieval band.
 
 In one line: Military department; original custodian of the UFO record and of the Roswell material.
 
@@ -219,7 +219,7 @@ Roles the board assigns it: concealment, custody, retrieval, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 41 of 1071, score 86). 23 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 39 of 1082, score 88). 25 connections, 6 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -239,6 +239,7 @@ Re-graded A on a global pass (rank 41 of 1071, score 86). 23 connections, 6 of t
 - United States Air Force runs out to **University of Colorado UFO Project (Condon Committee)** (program, board tier A), a funding link at Tier 1 documented. The link reads: Air Force funded the University of Colorado study used to close BLUE BOOK. The termination decision rested on 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it. Sources: National Archives - Unidentified Flying Objects / Project BLUE BOOK, https://www.archives.gov/research/military/air-force/ufos, dated 2026-08-12.
 - United States Air Force comes in from **AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: Commissioned and published by the Air Force Special Weapons Center under Air Research and Development Command. The title page names the command and the station, and the publication review is signed by the Center's Deputy Commander. Sources: AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380, https://archive.org/details/DTIC_AD0425380, dated 1959-06-19.
 - United States Air Force comes in from **1127th USAF Field Activities Group** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: an Air Force unit reporting to the Assistant Chief of Staff, Intelligence. The ACS/I's own semiannual history for July-December 1967 covers the 1127th as a subordinate and records Colonel Rudolph C. Koller, Jr. as its commander throughout, with authorised strength rising from 220 to 249. Sources: History of the Assistant Chief of Staff, Intelligence, July - December 1967, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf, dated 1967-12-31.
+- United States Air Force comes in from **Edgar Fouche** (person, board tier B), a institutional link at Tier 1 documented. The link reads: USAF master sergeant; twenty year avionics maintenance career, three Meritorious Service Medals. Tier 1 and entirely ordinary. The citations describe F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bed-down, and a Strategic Air Command liaison post at Kelly AFB. The second Meritorious Service Medal citation closes 'culminate a distinguished career', which dates the end of active service to 1987. Sources: Decoration certificates and citations, performance reports and education certificates in the self-published compilation, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 2014-06-15.
 - United States Air Force comes in from **Air Force Office of Special Investigations** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Air Force felony investigative and counterintelligence field agency. AFOSI is the Air Force's independent investigative agency with units 'located at most Air Force bases worldwide', covering espionage, terrorism and counterintelligence. Sources: AFOSI - About Us, https://www.osi.af.mil/About-Us/, dated 2026-08-12.
 - United States Air Force comes in from **Harry S. Truman** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Signed the statute that created the Department of the Air Force. Section 2's declaration of policy provides three military departments including the Air Force, and section 101(a) names a Secretary of the Air Force appointed under section 207. Sources: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71), https://history.state.gov/historicaldocuments/frus1945-50Intel/d71, dated 1946-01-22.
 - United States Air Force comes in from **National Investigations Committee on Aerial Phenomena (NICAP)** (institution, board tier B), a denial link at Tier 1 documented. The link reads: Charged the Air Force with an intolerable degree of secrecy, in print, to Congress. The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress. Sources: The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0, dated 1964-05-01.
@@ -247,9 +248,8 @@ Re-graded A on a global pass (rank 41 of 1071, score 86). 23 connections, 6 of t
 - United States Air Force comes in from **341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: An Air Force wing history, released by an Air Force FOIA office. The history is an Air Force wing history and the release is an Air Force FOIA response. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
 - United States Air Force comes in from **Maj. Donald E. Keyhoe, USMC (Ret.)** (person, board tier B), a denial link at Tier 1 documented. The link reads: The Air Force insisted on being the single channel for his inquiries. The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer. Sources: CIA reading room document 0005516043, https://archive.org/details/cia-readingroom-document-0005516043, dated 1958-04-04.
 - United States Air Force comes in from **Foreign Technology Division, Wright-Patterson AFB** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Air Force Systems Command organisation under the DCS/Research and Development for the UFO programme. AFR 80-17 makes the Deputy Chief of Staff, Research and Development responsible for the overall programme and Air Force Systems Command responsible for supporting it through FTD. Sources: AFR 80-17, 19 September 1966, https://nicap.org/afr80-17.htm, dated 1966-09-19.
-- United States Air Force comes in from **Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload** (program, board tier B), a institutional link at Tier 1 documented. The link reads: MOL was the Air Force's public programme. MOL was the Air Force's public programme and the service that selected and trained the seventeen officers. Sources: Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf, dated 2019-05-01.
 
-It carries 23 connections in total on the board.
+It carries 25 connections in total on the board.
 
 ## Roswell Incident
 
@@ -302,7 +302,7 @@ Roles the board assigns it: retrieval, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 31 of 1071, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 31 of 1082, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -395,7 +395,7 @@ Roles the board assigns it: concealment, custody, oversight, retrieval.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 184 of 1071, score 45). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 185 of 1082, score 45). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -463,7 +463,7 @@ Roles the board assigns it: retrieval.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 59 of 1071, score 74). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.
+Re-graded A on a global pass (rank 59 of 1082, score 74). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.
 
 ### The claims on the record
 
@@ -549,7 +549,7 @@ Roles the board assigns it: retrieval, concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 239 of 1071, score 41). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 243 of 1082, score 41). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -633,7 +633,7 @@ Roles the board assigns it: concealment, custody, oversight, retrieval.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 159 of 1071, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 160 of 1082, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -715,7 +715,7 @@ Roles the board assigns it: retrieval, custody, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 739 of 1071, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 747 of 1082, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -798,7 +798,7 @@ Roles the board assigns it: oversight, disclosure, custody, concealment, retriev
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 13 of 1071, score 117). 33 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 13 of 1082, score 117). 33 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -899,7 +899,7 @@ Roles the board assigns it: custody, retrieval, reverse-engineering, oversight, 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 33 of 1071, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 33 of 1082, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.
 
 ### The claims on the record
 

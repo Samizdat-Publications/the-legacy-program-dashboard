@@ -919,6 +919,27 @@
 "type": "institutional"
 },
 {
+"claimTier": 2,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1998-08",
+"direction": "in",
+"edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"id": "tr-3b",
+"l0": true,
+"label": "TR-3B 'Astra', claimed black triangular aircraft",
+"note": "A claim about what Fouche said, from the same sentence as the NRO and NSA edges. No record connecting the CIA to this designation was opened.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 70",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
 "claimTier": 1,
 "cls": "person",
 "dateEnd": "1953",
@@ -964,7 +985,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-09-18",
-"deg": 40,
+"deg": 41,
 "denials": [
 {
 "by": {
@@ -1439,7 +1460,7 @@
 ],
 "sub": "Independent civilian foreign intelligence service; convener of the Robertson Panel",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 12 of 1071, score 118). 42 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 12 of 1082, score 118). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1947-07-26",

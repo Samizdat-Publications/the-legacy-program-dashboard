@@ -125,7 +125,7 @@
 "url": "https://en.wikipedia.org/wiki/Area_51"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "programmatic"
 },
 {
@@ -299,7 +299,7 @@
 "cls": "location",
 "id": "l-groom-lake",
 "label": "Groom Lake, Nevada",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "location",
@@ -335,6 +335,6 @@
 ],
 "sub": "Unacknowledged-program aeronautics organisation, Burbank then Palmdale",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 177 of 1071, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 178 of 1082, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": []
 }

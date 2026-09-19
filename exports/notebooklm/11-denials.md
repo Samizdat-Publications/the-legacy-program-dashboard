@@ -1,6 +1,6 @@
 # The denials
 
-This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 194 distinct denials here, from 117 deniers, grouped by who did the denying.
+This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 199 distinct denials here, from 121 deniers, grouped by who did the denying.
 
 ## 'Manhattan Project 2.0' (alleged secrecy architecture)
 
@@ -544,6 +544,12 @@ Nicola J. Fox is recorded as the denying party in 1 denial on this board.
 
 - **Denies: NASA announced the UAP research director but withheld the name at the briefing** This is directed at Mark McInerney, recorded as a directed denial at Tier 1 documented. The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney. Sources: The Debrief - NASA IST publishes findings, agency appoints UAP research director, https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/, dated 2023-09-14.
 
+## Northrop TACIT BLUE
+
+Northrop TACIT BLUE is recorded as the denying party in 1 denial on this board.
+
+- **Denies: The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle** This is directed at TR-3B 'Astra', claimed black triangular aircraft, recorded as a denial denial at Tier 1 documented. THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996. Sources: U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF, dated 2026-09-18.
+
 ## ODNI Controlled Access Program Coordination Office (CAPCO)
 
 ODNI Controlled Access Program Coordination Office (CAPCO) is recorded as the denying party in 1 denial on this board.
@@ -579,6 +585,13 @@ The Department of War declines to characterise its own releases: a War Departmen
 Patrick S. Ryder is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Released and framed the report as 'the widest possible aperture'** This is directed at AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I, recorded as a association denial at Tier 1 documented. Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released. Sources: Roll Call - No evidence of extraterrestrial technology, report finds, https://rollcall.com/2024/03/08/no-evidence-of-extraterrestrial-technology-report-finds/, dated 2024-03-08.
+
+## Peter W. Merlin
+
+Peter W. Merlin is recorded as the denying party in 2 denials on this board.
+
+- **Denies: Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office** This is directed at Edgar Fouche's Military, and DOD contractors reference Documents, recorded as a denial denial at Tier 2 named person on the record. Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction. Sources: Peter Merlin, quoted verbatim in Norio Hayakawa, 19 March 2016, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19; The page 1 image of the compilation, rendered at 190 dpi and read, which corroborates the absence of classification markings and the signature block, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 1984-07-10.
+- **Denies: Named aerospace historian; four falsifiable specifics against the claimant's evidence** This is directed at TR-3B 'Astra', claimed black triangular aircraft, recorded as a denial denial at Tier 2 named person on the record. 'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record. Sources: Peter Merlin, quoted verbatim in Norio Hayakawa, 'Edgar Fouche's TR-3B is most likely a hoax', https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19.
 
 ## Presidential Determinations on the Air Force's Operating Location Near Groom Lake
 
@@ -694,11 +707,23 @@ Susan Gough is recorded as the denying party in 9 denials on this board.
 - **Denies: authenticated the letter, denied its significance** This is directed at Reid Letter to DEPSECDEF Requesting Restricted SAP Status, recorded as a directed denial at Tier 1 documented. 'It makes no change to previous statements.' DoD confirmed the document's authenticity in the same breath as dismissing it. Sources: The Black Vault, https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/, dated 2019-06-13.
 - **Denies: named DoD spokeswoman who confirmed the fake-programme findings would be deferred to Volume II** This is directed at YANKEE BLUE (alleged AFOSI indoctrination program), recorded as a directed denial at Tier 2 named person on the record. Gough's confirmation is the Department conceding on the record that the Air Force ran a fictitious alien-technology indoctrination practice, while deferring the official account indefinitely. Sources: Wikipedia - Yankee Blue, https://en.wikipedia.org/wiki/Yankee_Blue, dated 2026-08-12.
 
+## TR-3B 'Astra', claimed black triangular aircraft
+
+TR-3B 'Astra', claimed black triangular aircraft is recorded as the denying party in 1 denial on this board.
+
+- **Denies: The Fouche file's DARPA invocation rests on a letter from a personnel office** This is directed at Defense Advanced Research Projects Agency, recorded as a denial denial at Tier 1 documented. DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'. Sources: The page 1 image of the compilation, rendered at 190 dpi and read: no classification marking, signed by a TSgt in the Directorate of Assignments, DCS/Personnel, https://www.checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, dated 1984-07-10; Peter Merlin's reading of the same letter, quoted verbatim, https://noriohayakawa.wordpress.com/2016/03/19/edgar-fouches-tr-3b-is-most-likely-a-hoax/, dated 2016-03-19.
+
 ## TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955
 
 TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955 is recorded as the denying party in 1 denial on this board.
 
 - **Denies: A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding** This is directed at Official Denial, recorded as a denial denial at Tier 1 documented. The Summary states that the project 'should in no way be associated with any science fiction or "Flying Saucer" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold. Sources: TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf, dated 1955-02-15.
+
+## Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993
+
+Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993 is recorded as the denying party in 1 denial on this board.
+
+- **Denies: Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993** This is directed at TR-3B 'Astra', claimed black triangular aircraft, recorded as a denial denial at Tier 3 stated inference. A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session. Sources: Baltimore Sun, 'For latest spy plane look under your tree', https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/, dated 1993-12-25; Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, dated 1998-08.
 
 ## The Cover-Up
 

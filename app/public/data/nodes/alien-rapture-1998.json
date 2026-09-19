@@ -1,0 +1,158 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, LCCN 98002961, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+"text": "THE CATALOGUING, AND IT IS THE POINT OF THIS NODE. Library of Congress record LCCN 98002961 carries, under the gsafd genre authority, the genre element 'Science fiction.' Its Library of Congress subject heading is 'Alien abduction - Fiction'. Its LC classification is PS3556.O779 A79 1998, American literature, individual authors, 1961 onward, and its Dewey 21 classification is 813/.54, American fiction. The Library of Congress catalogues Alien Rapture: The Chosen as a novel.",
+"tier": 1
+},
+{
+"source": "Library of Congress catalogue, SRU query bath.isbn=1880090503, MODS record, LCCN 98002961, http://lx2.loc.gov:210/lcdb , opened 2026-09-18",
+"text": "The same record gives the full imprint: title 'Alien rapture', subtitle 'the chosen'; names 'Fouche, Edgar Rothschild, 1948-' (usage primary) and 'Steiger, Brad.'; place 'Lakeville, Minn'; agent 'Galde Press'; dateIssued 1998; edition '1st ed.'; extent 'xii, 275 p. ; 23 cm.'; ISBN 1880090503 and 9781880090503. Its recordContentSource is DLC and its recordCreationDate is 980204, that is 4 February 1998, which precedes both the book's publication and the August 1998 presentation.",
+"tier": 1
+},
+{
+"source": "Open Library work record OL1803180W, https://openlibrary.org/works/OL1803180W.json , opened 2026-09-18",
+"text": "Open Library independently records the same work as Galde Press, 1998, 275 pages, ISBN 1880090503 and 9781880090503, with subjects 'Alien abduction' and 'Fiction', and LC classification PS3556.O779 A79 1998.",
+"tier": 1
+},
+{
+"source": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', checktheevidence.com, 11 February 2014, https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/ , opened 2026-09-18",
+"text": "Andrew Johnson, who hosts the whole Fouche file and is sympathetic to it, describes the book as one that 'presented his experiences using fictional framing while describing real events'. Even the friendly custodian's characterisation concedes the fictional framing.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "media",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1998",
+"dateStart": "1998",
+"direction": "in",
+"edgeLabel": "Co-author of Alien Rapture: The Chosen",
+"id": "brad-steiger",
+"l0": false,
+"label": "Brad Steiger",
+"note": "INTENT: AUTHORSHIP, mapped to research. This is the single documented fact behind the brad-steiger node, which is built deliberately thin. Nothing is asserted about the extent or nature of his contribution, and in particular nothing about whether he had any hand in the TR-3B material.",
+"sources": [
+{
+"date": "1998-02-04",
+"name": "Library of Congress catalogue record LCCN 98002961, MODS, second personal name",
+"url": "http://lx2.loc.gov:210/lcdb"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1998",
+"dateStart": "1998",
+"direction": "in",
+"edgeLabel": "Primary author of Alien Rapture: The Chosen",
+"id": "edgar-fouche",
+"l0": false,
+"label": "Edgar Fouche",
+"note": "INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives 'Fouche, Edgar Rothschild, 1948-' with usage primary and a statement of responsibility reading 'Edgar Rothschild Fouche and Brad Steiger.'",
+"sources": [
+{
+"date": "1998-02-04",
+"name": "Library of Congress catalogue record LCCN 98002961, MODS, name usage primary",
+"url": "http://lx2.loc.gov:210/lcdb"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": "1998-08",
+"dateStart": "1998",
+"direction": "out",
+"edgeLabel": "The book the presentation was given to promote; its TR-3B content was NOT opened",
+"id": "tr-3b",
+"l0": true,
+"label": "TR-3B 'Astra', claimed black triangular aircraft",
+"note": "CAVEAT CARRIED ON THE EDGE, AND IT IS THE REASON FOR TIER 3. The presentation names the book as its occasion at slide 5, which is Tier 1. But no copy of the book's text was opened, so how or whether the TR-3B appears inside it is unestablished. The edge records the promotional relationship only, and must not be read as the book containing the claim.",
+"sources": [
+{
+"date": "1998-08",
+"name": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 5",
+"url": "https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "1998",
+"dateStart": "1998",
+"deg": 3,
+"denials": [],
+"desc": "This is the book the TR-3B arrived attached to, and its cataloguing is the single most load-bearing Tier 1 fact in the whole cluster. The Library of Congress holds it as LCCN 98002961: Alien rapture, subtitle the chosen, by Fouche, Edgar Rothschild, 1948-, and Steiger, Brad; Lakeville, Minnesota, Galde Press, 1998, first edition, xii and 275 pages, 23 cm; ISBN 1880090503. Under the gsafd genre authority the record's genre element reads, in full, 'Science fiction.' Its Library of Congress subject heading is 'Alien abduction - Fiction'. Its class number PS3556.O779 A79 1998 places it in American literature, individual authors, 1961 onward, and its Dewey number 813/.54 is American fiction. The record was created by the Library of Congress itself, recordContentSource DLC, on 4 February 1998, which is before the book's publication and before the presentation. Open Library independently records the same publisher, year, pagination and the subjects 'Alien abduction' and 'Fiction'. Fouche's presentation of the following August names the book as its occasion and asserts, of the craft, 'The TR-3B flying triangle is not fiction'. WHAT THIS NODE DOES NOT SAY: no copy of the book's text was opened, so how the TR-3B appears inside it, and whether Steiger had any hand in that material, are unestablished. The catalogue record establishes the genre assignment, the imprint, the pagination and the date, and nothing about the contents.",
+"domains": [
+"tr3b-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "alien-rapture-1998",
+"l0": false,
+"label": "Alien Rapture: The Chosen, Galde Press, 1998",
+"locLabel": null,
+"members": null,
+"short": "Alien Rapture: The Chosen, Galde Press, 1998",
+"sources": [
+{
+"date": "1998-02-04",
+"name": "Library of Congress catalogue record LCCN 98002961, retrieved through the SRU endpoint with query bath.isbn=1880090503 in MODS schema",
+"url": "http://lx2.loc.gov:210/lcdb"
+},
+{
+"date": "2026-09-18",
+"name": "Open Library work record OL1803180W for Alien rapture",
+"url": "https://openlibrary.org/works/OL1803180W.json"
+},
+{
+"date": "2014-02-11",
+"name": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', checktheevidence.com",
+"url": "https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/"
+}
+],
+"sub": "The Fouche and Steiger book the 1998 presentation was given to promote, catalogued by the Library of Congress under the genre heading 'Science fiction'",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 857 of 1082, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "1998",
+"id": "tl-1998-alien-rapture-published",
+"label": "Alien Rapture: The Chosen published by Galde Press",
+"precision": "year",
+"strand": "witness",
+"text": "First edition, Lakeville, Minnesota, Galde Press, 1998, xii and 275 pages, 23 cm, ISBN 1880090503, by Edgar Rothschild Fouche and Brad Steiger. The Library of Congress record gives only the year; no primary record for the month was opened. No copy of the text was opened, so how the TR-3B appears inside it is unestablished.",
+"tier": "B"
+},
+{
+"date": "1998-02-04",
+"id": "tl-1998-02-04-loc-catalogues-alien-rapture",
+"label": "THE LIBRARY OF CONGRESS CATALOGUES ALIEN RAPTURE AS SCIENCE FICTION",
+"precision": "day",
+"strand": "witness",
+"text": "Library of Congress record LCCN 98002961, recordContentSource DLC, recordCreationDate 980204, carries the gsafd genre element 'Science fiction.', the subject heading 'Alien abduction - Fiction', the classification PS3556.O779 A79 1998, which is American literature, individual authors, 1961 onward, and the Dewey number 813/.54, American fiction. The cataloguing predates both the book's publication and the August presentation.",
+"tier": "B"
+}
+]
+}
