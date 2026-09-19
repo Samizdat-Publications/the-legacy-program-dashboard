@@ -17,12 +17,12 @@
    "label": "funding"
   },
   {
-   "id": "research",
-   "label": "research"
-  },
-  {
    "id": "oversight",
    "label": "oversight"
+  },
+  {
+   "id": "research",
+   "label": "research"
   },
   {
    "id": "disclosure",
@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3550,
-   "2": 1571,
-   "3": 551
+   "1": 3620,
+   "2": 1574,
+   "3": 561
   },
-  "edges": 2609,
-  "entities": 774,
+  "edges": 2632,
+  "entities": 780,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
-  "l0": 145,
-  "nodes": 1105,
+  "l0": 149,
+  "nodes": 1111,
   "patents": 5,
   "people": 331,
   "sheets": 11,
   "threads": 8,
-  "timeline": 1002
+  "timeline": 1026
  },
  "eras": [
   {
@@ -1109,7 +1109,7 @@
    "A": 1,
    "C": 3,
    "D": 2,
-   "band": "research",
+   "band": "custody",
    "claims": [
     6,
     0,
@@ -1198,6 +1198,30 @@
    "l0": false,
    "label": "'The Age of Disclosure' (2025 documentary, dir. Dan Farah)",
    "short": "'The Age of Disclosure' (2025 documentary, dir. Dan Farah)",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    1
+   ],
+   "cls": "document",
+   "cluster": "research",
+   "dateEnd": "1994",
+   "dateStart": "1994",
+   "deg": 4,
+   "era": "1",
+   "hl": null,
+   "id": "alcubierre-1994",
+   "l0": false,
+   "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+   "short": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
    "status": null,
    "tier": "C"
   },
@@ -1637,7 +1661,7 @@
    "A": 0,
    "C": 1,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "claims": [
     9,
     4,
@@ -1711,15 +1735,15 @@
    "D": 3,
    "band": "reverse-engineering",
    "claims": [
-    0,
-    10,
-    0
+    5,
+    8,
+    1
    ],
    "cls": "program",
    "cluster": "witness",
    "dateEnd": null,
    "dateStart": "1988-11-12",
-   "deg": 7,
+   "deg": 8,
    "era": "1",
    "hl": null,
    "id": "arv-fluxliner",
@@ -1727,7 +1751,7 @@
    "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
    "short": "ARV / Flux Liner",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 0,
@@ -1757,7 +1781,7 @@
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "claims": [
     5,
     1,
@@ -2021,7 +2045,7 @@
    "A": 2,
    "C": 3,
    "D": 1,
-   "band": "research",
+   "band": "custody",
    "claims": [
     8,
     4,
@@ -2926,6 +2950,30 @@
    "l0": false,
    "label": "Canada Department of Transport",
    "short": "Canada Department of Transport",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    4,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "research",
+   "dateEnd": "2004-10",
+   "dateStart": "2004-10",
+   "deg": 3,
+   "era": "2",
+   "hl": null,
+   "id": "canning-nasa-cr-2004-213312",
+   "l0": false,
+   "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+   "short": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
    "status": null,
    "tier": "C"
   },
@@ -4615,15 +4663,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    4,
+    5,
     0,
-    0
+    1
    ],
    "cls": "domain",
-   "cluster": "research",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "2008-08-18",
-   "deg": 3,
+   "deg": 7,
    "era": "2",
    "hl": null,
    "id": "d-exotic",
@@ -6509,9 +6557,9 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": null,
+   "band": "research",
    "claims": [
-    7,
+    11,
     1,
     0
    ],
@@ -6519,15 +6567,15 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 5,
+   "deg": 7,
    "era": "nd",
    "hl": null,
    "id": "dird-antigravity-for-aerospace-applications",
-   "l0": false,
+   "l0": true,
    "label": "Antigravity for Aerospace Applications",
-   "short": "Antigravity for Aerospace Applications",
+   "short": "DIA: Antigravity for Aerospace",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 0,
@@ -6797,25 +6845,25 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": null,
+   "band": "research",
    "claims": [
-    6,
+    9,
     0,
-    0
+    1
    ],
    "cls": "document",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 4,
+   "deg": 6,
    "era": "nd",
    "hl": null,
    "id": "dird-mhd-air-breathing-propulsion-and-power",
-   "l0": false,
+   "l0": true,
    "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
-   "short": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+   "short": "DIA: MHD Air Breathing Propulsion",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -6943,9 +6991,9 @@
    "D": 0,
    "band": "reverse-engineering",
    "claims": [
-    7,
+    11,
     0,
-    1
+    2
    ],
    "cls": "document",
    "cluster": "other",
@@ -7157,9 +7205,9 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": null,
+   "band": "research",
    "claims": [
-    5,
+    8,
     2,
     0
    ],
@@ -7167,13 +7215,13 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 5,
+   "deg": 6,
    "era": "nd",
    "hl": null,
    "id": "dird-warp-drive-dark-energy-and-the",
-   "l0": false,
+   "l0": true,
    "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
-   "short": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "short": "DIA: Warp Drive and Dark Energy",
    "status": null,
    "tier": "B"
   },
@@ -7181,7 +7229,7 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "claims": [
     3,
     3,
@@ -7205,7 +7253,7 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "claims": [
     7,
     1,
@@ -8261,7 +8309,7 @@
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "claims": [
     3,
     4,
@@ -8527,7 +8575,7 @@
    "D": 3,
    "band": null,
    "claims": [
-    7,
+    9,
     9,
     3
    ],
@@ -8669,7 +8717,7 @@
    "A": 2,
    "C": 1,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "claims": [
     3,
     7,
@@ -8837,7 +8885,7 @@
    "A": 2,
    "C": 2,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "claims": [
     4,
     3,
@@ -9527,7 +9575,7 @@
    "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
    "short": "GAO/NSIAD-95-187",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -9775,15 +9823,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    2,
-    5,
+    3,
+    6,
     0
    ],
    "cls": "person",
-   "cluster": "research",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "2010-01-01",
-   "deg": 2,
+   "deg": 3,
    "era": "2",
    "hl": null,
    "id": "george-hathaway",
@@ -9791,7 +9839,7 @@
    "label": "George D. Hathaway",
    "short": "George D. Hathaway",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -10061,7 +10109,7 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "claims": [
     0,
     5,
@@ -10687,7 +10735,7 @@
    "D": 3,
    "band": null,
    "claims": [
-    12,
+    13,
     4,
     3
    ],
@@ -10695,7 +10743,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2010-01-01",
-   "deg": 15,
+   "deg": 16,
    "era": "2",
    "hl": null,
    "id": "harold-puthoff",
@@ -13898,6 +13946,30 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    4,
+    0,
+    1
+   ],
+   "cls": "document",
+   "cluster": "research",
+   "dateEnd": "1967-05-30",
+   "dateStart": "1964-09-30",
+   "deg": 4,
+   "era": "0",
+   "hl": null,
+   "id": "king-patent-mhd",
+   "l0": false,
+   "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+   "short": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 1,
    "C": 2,
    "D": 1,
@@ -14117,7 +14189,7 @@
    "A": 0,
    "C": 0,
    "D": 2,
-   "band": "research",
+   "band": "custody",
    "claims": [
     0,
     2,
@@ -14855,7 +14927,7 @@
    "label": "Los Angeles and Burbank, California",
    "short": "Los Angeles and Burbank, California",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -15917,7 +15989,7 @@
    "A": 3,
    "C": 2,
    "D": 1,
-   "band": "research",
+   "band": "custody",
    "claims": [
     3,
     2,
@@ -16349,7 +16421,7 @@
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "claims": [
     2,
     0,
@@ -16615,15 +16687,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    4,
+    6,
     1,
     0
    ],
    "cls": "person",
-   "cluster": "research",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "2010-11-01",
-   "deg": 1,
+   "deg": 3,
    "era": "2",
    "hl": null,
    "id": "marc-millis",
@@ -17306,6 +17378,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 1,
+   "band": "research",
+   "claims": [
+    7,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "research",
+   "dateEnd": "2004",
+   "dateStart": "2004-06",
+   "deg": 7,
+   "era": "2",
+   "hl": null,
+   "id": "millis-tm-2004-213082",
+   "l0": true,
+   "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "short": "NASA/TM-2004-213082, Millis",
+   "status": null,
+   "tier": "B"
+  },
+  {
    "A": 1,
    "C": 0,
    "D": 2,
@@ -17813,9 +17909,9 @@
    "A": 1,
    "C": 0,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "claims": [
-    6,
+    8,
     0,
     0
    ],
@@ -17823,7 +17919,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1958-07-29",
-   "deg": 16,
+   "deg": 18,
    "era": "0",
    "hl": null,
    "id": "nasa",
@@ -17832,6 +17928,30 @@
    "short": "NASA",
    "status": null,
    "tier": "A"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    4,
+    0,
+    1
+   ],
+   "cls": "program",
+   "cluster": "research",
+   "dateEnd": "2002",
+   "dateStart": "1996",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "nasa-bpp",
+   "l0": false,
+   "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+   "short": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+   "status": null,
+   "tier": "C"
   },
   {
    "A": 1,
@@ -19301,7 +19421,7 @@
    "A": 2,
    "C": 2,
    "D": 2,
-   "band": "research",
+   "band": "custody",
    "claims": [
     7,
     3,
@@ -19568,14 +19688,14 @@
    "band": null,
    "claims": [
     7,
-    1,
-    0
+    2,
+    1
    ],
    "cls": "document",
    "cluster": "research",
    "dateEnd": "2022-12-26",
    "dateStart": "2015-07-24",
-   "deg": 1,
+   "deg": 2,
    "era": "2",
    "hl": null,
    "id": "pais-patent-emfg",
@@ -19599,7 +19719,7 @@
    "cluster": "research",
    "dateEnd": "2019-06-18",
    "dateStart": "2017-02-14",
-   "deg": 2,
+   "deg": 3,
    "era": "3",
    "hl": null,
    "id": "pais-patent-hfgw",
@@ -19615,7 +19735,7 @@
    "D": 0,
    "band": "research",
    "claims": [
-    11,
+    15,
     2,
     0
    ],
@@ -22279,15 +22399,15 @@
    "D": 1,
    "band": null,
    "claims": [
-    30,
-    4,
+    34,
+    5,
     6
    ],
    "cls": "person",
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "2015-07-24",
-   "deg": 7,
+   "deg": 8,
    "era": "2",
    "hl": null,
    "id": "salvatore-pais",
@@ -22349,7 +22469,7 @@
    "A": 3,
    "C": 3,
    "D": 1,
-   "band": "research",
+   "band": "custody",
    "claims": [
     4,
     1,
@@ -24199,7 +24319,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    13,
+    20,
     7,
     1
    ],
@@ -24207,7 +24327,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1953-03-25",
-   "deg": 4,
+   "deg": 7,
    "era": "0",
    "hl": null,
    "id": "thomas-townsend-brown",
@@ -24513,10 +24633,10 @@
    "claims": [
     6,
     0,
-    2
+    3
    ],
    "cls": "program",
-   "cluster": "witness",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1998-08",
    "deg": 12,
@@ -25445,17 +25565,17 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "claims": [
-    2,
-    0,
+    3,
+    1,
     2
    ],
    "cls": "institution",
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 12,
+   "deg": 13,
    "era": "nd",
    "hl": null,
    "id": "us-navy",
@@ -25463,7 +25583,7 @@
    "label": "United States Navy",
    "short": "United States Navy",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 2,
@@ -26309,7 +26429,7 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "claims": [
     2,
     0,
@@ -26594,6 +26714,30 @@
    "tier": "A"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    2,
+    0,
+    1
+   ],
+   "cls": "program",
+   "cluster": "research",
+   "dateEnd": "1992-06",
+   "dateStart": "1985",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "yamato-1",
+   "l0": false,
+   "label": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+   "short": "Yamato-1, the world's first superconducting MHD-propelled ship (1992)",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 3,
    "C": 1,
    "D": 3,
@@ -26690,5 +26834,5 @@
    "tier": "C"
   }
  ],
- "source": "0e80372c95cd"
+ "source": "f1120bd5a0fa"
 }

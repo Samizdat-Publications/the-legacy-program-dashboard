@@ -24887,12 +24887,17 @@ export const PROGRAM_EDGES = [
     b: 'pais-patent-imrd',
     type: 'institutional',
     label: 'Assignee of record',
-    claimTier: 2,
+    claimTier: 1,
     dateStart: '2016-04-28',
     dateEnd: null,
-    note: 'Assigned to \'The United States of America as represented by the Secretary of the Navy\'.',
+    note: 'THE SPONSORSHIP IS PRINTED, NOT INFERRED, AND IT IS THE TEST THAT KEEPS KING OUT OF THE PATENTS VIEW. The front page carries \'(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)\', \'(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD\' and \'Primary Examiner - Philip J Bonzell\'. US 3,322,374 by contrast carries no assignee line at all.',
     sources: [
-      { name: 'US Patent 10,144,532', url: 'https://www.freepatentsonline.com/10144532.html', date: null }
+      { name: 'US Patent 10,144,532', url: 'https://www.freepatentsonline.com/10144532.html', date: null },
+      {
+        name: 'US Patent 10,144,532 B2, \'Craft using an inertial mass reduction device\', printed front page',
+        url: 'https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf',
+        date: '2018-12-04'
+      }
     ]
   },
   {
@@ -26261,6 +26266,438 @@ export const PROGRAM_EDGES = [
         name: 'USAspending.gov federal award search (prime contract obligations by recipient)',
         url: 'https://www.usaspending.gov/search',
         date: '2026-08-12'
+      }
+    ]
+  },
+  {
+    a: 'marc-millis',
+    b: 'nasa-bpp',
+    type: 'institutional',
+    label: 'Managed NASA\'s Breakthrough Propulsion Physics Project, 1996 to 2002',
+    claimTier: 1,
+    dateStart: '1996',
+    dateEnd: '2002',
+    note: 'NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and is the project\'s own summary of its methods and findings. This is an earlier and stronger institutional fact about him than the AAWSAP DIRD authorship the board already carries.',
+    sources: [
+      {
+        name: 'NASA/TM-2004-213082, Marc G. Millis, \'Prospects for Breakthrough Propulsion from Physics\', NASA Glenn Research Center, 19 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf',
+        date: '2004'
+      }
+    ]
+  },
+  {
+    a: 'nasa-bpp',
+    b: 'nasa',
+    type: 'institutional',
+    label: 'A NASA project, supported 1996 to 2002 and run out of Glenn Research Center',
+    claimTier: 1,
+    dateStart: '1996',
+    dateEnd: '2002',
+    note: 'From the project\'s own summary document: \'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002.\'',
+    sources: [
+      {
+        name: 'NASA/TM-2004-213082, Marc G. Millis, \'Prospects for Breakthrough Propulsion from Physics\', NASA Glenn Research Center, 19 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf',
+        date: '2004'
+      }
+    ]
+  },
+  {
+    a: 'marc-millis',
+    b: 'millis-tm-2004-213082',
+    type: 'research',
+    label: 'Sole author of the project\'s summary technical memorandum',
+    claimTier: 1,
+    dateStart: '2004',
+    dateEnd: '2004',
+    note: 'AUTHORSHIP IS research AND NOT custody on this board: custody carries a x3.0 programme weighting and an author is not a custodian. He wrote the document; he did not hold it.',
+    sources: [
+      {
+        name: 'NASA/TM-2004-213082, Marc G. Millis, \'Prospects for Breakthrough Propulsion from Physics\', NASA Glenn Research Center, 19 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf',
+        date: '2004'
+      }
+    ]
+  },
+  {
+    a: 'millis-tm-2004-213082',
+    b: 'nasa-bpp',
+    type: 'investigative',
+    label: 'The published summary of the project\'s methods and findings',
+    claimTier: 1,
+    dateStart: '2004',
+    dateEnd: '2004',
+    note: 'A document about a programme. Its abstract states the three grand challenges and the outcome of sixteen incremental research tasks.',
+    sources: [
+      {
+        name: 'NASA/TM-2004-213082, Marc G. Millis, \'Prospects for Breakthrough Propulsion from Physics\', NASA Glenn Research Center, 19 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf',
+        date: '2004'
+      }
+    ]
+  },
+  {
+    a: 'millis-tm-2004-213082',
+    b: 'thomas-townsend-brown',
+    type: 'denial',
+    label: 'NASA: the observed thrust is ion wind, and these devices are not viable candidates',
+    claimTier: 1,
+    dateStart: '2004',
+    dateEnd: '2004',
+    note: 'EXPLICIT DENIAL EDGE, AND ITS SCOPE MUST NOT BE OVERSTATED. Section 3.2.7: \'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These "Biefeld-Brown," "Lifter" and "Asymmetrical Capacitor Thrusters" are not viable candidates for breakthrough physics propulsion.\' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES BUILT ON IT. It is NOT a finding about what Brown\'s patents claim, because neither patent ever claimed anti-gravity: the word \'gravity\' appears zero times in both. The denial lands on the electrogravitic reading of the effect, not on the inventor\'s own text.',
+    sources: [
+      {
+        name: 'NASA/TM-2004-213082, Marc G. Millis, \'Prospects for Breakthrough Propulsion from Physics\', NASA Glenn Research Center, 19 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf',
+        date: '2004'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'millis-tm-2004-213082'
+  },
+  {
+    a: 'millis-tm-2004-213082',
+    b: 'alcubierre-1994',
+    type: 'research',
+    label: 'NASA\'s assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered',
+    claimTier: 1,
+    dateStart: '2004',
+    dateEnd: '2004',
+    note: 'DELIBERATELY NOT A DENIAL EDGE. NASA does not contradict the paper; it agrees with it and restates its requirement in engineering terms. Section 3.3.1: these concepts \'require enormous quantities of "negative energy" (equivalent mass of planets or suns)\' and are \'extremely unlikely to be engineered\'. Alcubierre\'s own abstract says exotic matter will be needed. Writing this as a denial would misrepresent both documents.',
+    sources: [
+      {
+        name: 'NASA/TM-2004-213082, Marc G. Millis, \'Prospects for Breakthrough Propulsion from Physics\', NASA Glenn Research Center, 19 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf',
+        date: '2004'
+      }
+    ]
+  },
+  {
+    a: 'millis-tm-2004-213082',
+    b: 'd-exotic',
+    type: 'research',
+    label: 'The domain\'s best single published adjudication',
+    claimTier: 1,
+    dateStart: '2004',
+    dateEnd: '2004',
+    note: 'One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves.',
+    sources: [
+      {
+        name: 'NASA/TM-2004-213082, Marc G. Millis, \'Prospects for Breakthrough Propulsion from Physics\', NASA Glenn Research Center, 19 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf',
+        date: '2004'
+      }
+    ]
+  },
+  {
+    a: 'millis-tm-2004-213082',
+    b: 'pais-patent-hfgw',
+    type: 'research',
+    label: 'NASA treated high frequency gravitational waves as a detection problem in 2004',
+    claimTier: 3,
+    dateStart: '2004',
+    dateEnd: '2019-06-18',
+    note: 'STATED INFERENCE ABOUT THE DISTANCE BETWEEN TWO DOCUMENTS AND NOT A REFUTATION. Section 3.3.2 opens \'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses\' and proceeds to interferometry and LIGO. Fifteen years later US 10,322,827 was granted for a generator. Both statements are Tier 1 for what their own documents say and nothing opened joins them.',
+    sources: [
+      {
+        name: 'NASA/TM-2004-213082, Marc G. Millis, \'Prospects for Breakthrough Propulsion from Physics\', NASA Glenn Research Center, 19 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf',
+        date: '2004'
+      }
+    ]
+  },
+  {
+    a: 'canning-nasa-cr-2004-213312',
+    b: 'thomas-townsend-brown',
+    type: 'research',
+    label: 'Cites both Brown patents and GB 300,311 by number, and models the thrust as ion drift',
+    claimTier: 1,
+    dateStart: '2004-10',
+    dateEnd: '2004-10',
+    note: 'THE JOIN IS DOCUMENTARY AND NOT TOPICAL. The report\'s reference list opens with \'Brown, T.T., US Patent 2,949,550\', \'Brown, T.T., US Patent 3,187,206\' and \'Brown, T.T., GB Patent 300,311\', which are exactly the three Brown documents this board already carries. Its conclusion is that the operation of such devices \'is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions\'.',
+    sources: [
+      {
+        name: 'NASA/CR-2004-213312, Canning, Melcher and Winet, \'Asymmetrical Capacitors for Propulsion\', 23 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf',
+        date: '2004-10'
+      }
+    ]
+  },
+  {
+    a: 'canning-nasa-cr-2004-213312',
+    b: 'millis-tm-2004-213082',
+    type: 'research',
+    label: 'The experiment behind the survey\'s ion-wind finding',
+    claimTier: 1,
+    dateStart: '2004',
+    dateEnd: '2004-10',
+    note: 'Reference 55 of NASA/TM-2004-213082 names the same Institute for Scientific Research work, planned for the 40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference in July 2004. The contractor report is the measurement; the technical memorandum is the ruling.',
+    sources: [
+      {
+        name: 'NASA/TM-2004-213082, Marc G. Millis, \'Prospects for Breakthrough Propulsion from Physics\', NASA Glenn Research Center, 19 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf',
+        date: '2004'
+      },
+      {
+        name: 'NASA/CR-2004-213312, Canning, Melcher and Winet, \'Asymmetrical Capacitors for Propulsion\', 23 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf',
+        date: '2004-10'
+      }
+    ]
+  },
+  {
+    a: 'canning-nasa-cr-2004-213312',
+    b: 'nasa',
+    type: 'funding',
+    label: 'A NASA contractor report, published under a NASA/CR number',
+    claimTier: 1,
+    dateStart: '2004-10',
+    dateEnd: '2004-10',
+    note: 'NASA/CR-2004-213312. The board\'s funding edge type is used because a contractor report records who paid for the work; the performing organisation was the Institute for Scientific Research of Fairmont, West Virginia, for which no node is proposed because nothing about the organisation itself was opened.',
+    sources: [
+      {
+        name: 'NASA/CR-2004-213312, Canning, Melcher and Winet, \'Asymmetrical Capacitors for Propulsion\', 23 pages',
+        url: 'https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf',
+        date: '2004-10'
+      }
+    ]
+  },
+  {
+    a: 'alcubierre-1994',
+    b: 'dird-warp-drive-dark-energy-and-the',
+    type: 'research',
+    label: 'Reference 1 of the DIRD, and the source of the idea it builds on',
+    claimTier: 1,
+    dateStart: '1994',
+    dateEnd: '2010-04-02',
+    note: 'The DIRD prints the citation as \'Alcubierre, M., "The warp drive: hyper-fast travel within general relativity." Classical and Quantum Gravity, vol. 11, 1994, pp. L73-L77\' and states in its introduction that the 1994 paper \'placed the idea on a more solid theoretical footing\'.',
+    sources: [
+      {
+        name: 'Miguel Alcubierre, \'The warp drive: hyper-fast travel within general relativity\', Class. Quantum Grav. 11-5, L73-L77',
+        url: 'https://arxiv.org/abs/gr-qc/0009013',
+        date: '1994'
+      },
+      {
+        name: 'Defense Intelligence Reference Document DIA-08-1004-001, 34 pages as released',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf',
+        date: '2010-04-02'
+      }
+    ]
+  },
+  {
+    a: 'alcubierre-1994',
+    b: 'dird-antigravity-for-aerospace-applications',
+    type: 'research',
+    label: 'Reference [43] of the antigravity DIRD, and its only appearance in that document',
+    claimTier: 1,
+    dateStart: '1994',
+    dateEnd: '2010-03-30',
+    note: 'Cited once, in the reference list. Recorded because the count matters to this board: in a 45-page government survey of antigravity, the warp paper appears once and Thomas Townsend Brown does not appear at all.',
+    sources: [
+      {
+        name: 'Miguel Alcubierre, \'The warp drive: hyper-fast travel within general relativity\', Class. Quantum Grav. 11-5, L73-L77',
+        url: 'https://arxiv.org/abs/gr-qc/0009013',
+        date: '1994'
+      },
+      {
+        name: 'Defense Intelligence Reference Document DIA-08-1003-018, \'Antigravity for Aerospace Applications\', 45 pages as released',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf',
+        date: '2010-03-30'
+      }
+    ]
+  },
+  {
+    a: 'alcubierre-1994',
+    b: 'd-exotic',
+    type: 'research',
+    label: 'The origin document of the field\'s metric-engineering claims',
+    claimTier: 2,
+    dateStart: '1994',
+    dateEnd: '1994',
+    note: 'THE NOTE IS THE POINT. The paper itself is mainstream general relativity in a mainstream journal and nothing about it is exotic or disputed. It sits in this domain because of what is claimed FOR it, not because of what is in it: the word \'device\' appears zero times in ten pages.',
+    sources: [
+      {
+        name: 'Miguel Alcubierre, \'The warp drive: hyper-fast travel within general relativity\', Class. Quantum Grav. 11-5, L73-L77',
+        url: 'https://arxiv.org/abs/gr-qc/0009013',
+        date: '1994'
+      }
+    ]
+  },
+  {
+    a: 'king-patent-mhd',
+    b: 'arv-fluxliner',
+    type: 'denial',
+    label: 'Cited FOR the ARV account\'s \'Scalar Physics\' callout and does not support it',
+    claimTier: 1,
+    dateStart: '1967-05-30',
+    dateEnd: '1967-05-30',
+    note: 'THE STRAND\'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as \'ample evidence\' that the \'Scalar Physics\' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed.',
+    sources: [
+      {
+        name: 'US Patent 3,322,374, \'Magnetohydrodynamic Propulsion Apparatus\', James F. King Jr., 7 pages',
+        url: 'https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf',
+        date: '1967-05-30'
+      }
+    ],
+    denialKind: 'association'
+  },
+  {
+    a: 'king-patent-mhd',
+    b: 'dird-mhd-air-breathing-propulsion-and-power',
+    type: 'research',
+    label: 'Same mechanism, two documents, forty-three years apart, neither exotic',
+    claimTier: 3,
+    dateStart: '1967-05-30',
+    dateEnd: '2010-11-21',
+    note: 'STATED INFERENCE OF SIMILARITY AND NOTHING MORE. Nothing joins these two documents to each other: the DIRD does not cite the patent and the patent predates it by forty-three years. The edge exists so the strand\'s comparison is visible, and its note must be read before the line is: a private 1964 filing and a 2010 Lockheed Martin survey describe the same physics and neither contains the word antigravity.',
+    sources: [
+      {
+        name: 'US Patent 3,322,374, \'Magnetohydrodynamic Propulsion Apparatus\', James F. King Jr., 7 pages',
+        url: 'https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf',
+        date: '1967-05-30'
+      },
+      {
+        name: 'Defense Intelligence Reference Document DIA-08-1011-006, 33 pages as released',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf',
+        date: '2010-11-21'
+      }
+    ]
+  },
+  {
+    a: 'king-patent-mhd',
+    b: 'd-exotic',
+    type: 'research',
+    label: 'In the strand because of what was claimed for it, not because of what is in it',
+    claimTier: 3,
+    dateStart: '1967-05-30',
+    dateEnd: '1967-05-30',
+    note: 'THE PATENT ITSELF IS NOT EXOTIC. It is a linear induction motor using ionised air as its armature, which is classical electromagnetism. It sits in this domain solely because it was cited as evidence for scalar physics, and the strand\'s product is the gap between the citation and the document.',
+    sources: [
+      {
+        name: 'US Patent 3,322,374, \'Magnetohydrodynamic Propulsion Apparatus\', James F. King Jr., 7 pages',
+        url: 'https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf',
+        date: '1967-05-30'
+      }
+    ]
+  },
+  {
+    a: 'yamato-1',
+    b: 'king-patent-mhd',
+    type: 'research',
+    label: 'The same mechanism, independently built and taken to sea in June 1992',
+    claimTier: 3,
+    dateStart: '1992-06',
+    dateEnd: '1992-06',
+    note: 'STATED INFERENCE. NO DOCUMENT JOINS THESE TWO and neither cites the other. The edge records that the propulsion mechanism US 3,322,374 claims was demonstrated at sea by a civil maritime foundation in public in 1992, which is the strand\'s control case: the mechanism does not require a secret to exist.',
+    sources: [
+      {
+        name: 'OSTI record and abstract, Sasakawa, Takezawa, Sugawara and Kyotani, \'The superconducting MHD-propelled ship YAMATO-1\'',
+        url: 'https://www.osti.gov/biblio/135352',
+        date: '1995-04'
+      },
+      {
+        name: 'US Patent 3,322,374, \'Magnetohydrodynamic Propulsion Apparatus\', James F. King Jr., 7 pages',
+        url: 'https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf',
+        date: '1967-05-30'
+      }
+    ]
+  },
+  {
+    a: 'yamato-1',
+    b: 'dird-mhd-air-breathing-propulsion-and-power',
+    type: 'research',
+    label: 'The built vessel and the government survey describe the same physics',
+    claimTier: 3,
+    dateStart: '1992-06',
+    dateEnd: '2010-11-21',
+    note: 'STATED INFERENCE OF SUBJECT SIMILARITY. The DIRD does not mention Yamato-1 and nothing joins them. Both concern a magnetic field acting on a conducting fluid with the fluid as the reaction mass, one in seawater and one in ionised air.',
+    sources: [
+      {
+        name: 'OSTI record and abstract for the YAMATO-1 paper',
+        url: 'https://www.osti.gov/biblio/135352',
+        date: '1995-04'
+      },
+      {
+        name: 'Defense Intelligence Reference Document DIA-08-1011-006, 33 pages as released',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf',
+        date: '2010-11-21'
+      }
+    ]
+  },
+  {
+    a: 'salvatore-pais',
+    b: 'harold-puthoff',
+    type: 'research',
+    label: 'US 10,144,532 cites Puthoff\'s Polarizable-Vacuum paper on its printed front page',
+    claimTier: 1,
+    dateStart: '2018-12-04',
+    dateEnd: '2018-12-04',
+    note: 'A DOCUMENTARY JOIN PRINTED ON A GRANTED US NAVY PATENT, which is better evidence of a connection than any later statement about the same relationship. The \'Other Publications\' list includes \'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6\'. The edge asserts the citation and nothing about any personal or professional contact, for which nothing was opened.',
+    sources: [
+      {
+        name: 'US Patent 10,144,532 B2, \'Craft using an inertial mass reduction device\', printed front page',
+        url: 'https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf',
+        date: '2018-12-04'
+      }
+    ]
+  },
+  {
+    a: 'us-navy',
+    b: 'pais-patent-emfg',
+    type: 'denial',
+    label: 'NAWCAD: after three years and $508,000 the Pais Effect could not be proven',
+    claimTier: 1,
+    dateStart: '2016-10',
+    dateEnd: '2019-09',
+    note: 'EXPLICIT DENIAL EDGE AND THE DENIER IS THE SPONSOR. Timothy Boulay, Communications Director at NAWCAD, on the record: \'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019\'; \'The cost was $508,000 over the course of three years\'; \'When NAWCAD concluded testing in September 2019, the "Pais Effect" could not be proven.\' The same institution that filed, funded and prosecuted the patent family tested this device and reported the negative result itself.',
+    sources: [
+      {
+        name: 'Brett Tingley, The War Zone, quoting Timothy Boulay, Communications Director, NAWCAD',
+        url: 'https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments',
+        date: '2021-02-01'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'us-navy'
+  },
+  {
+    a: 'dird-antigravity-for-aerospace-applications',
+    b: 'thomas-townsend-brown',
+    type: 'denial',
+    label: 'The government\'s own 45-page antigravity survey does not mention Brown at all',
+    claimTier: 1,
+    dateStart: '2010-03-30',
+    dateEnd: '2010-03-30',
+    note: 'THE ABSENCE EDGE, AND THIS NOTE IS WHAT KEEPS IT HONEST. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0; \'Brown\' occurs three times and all three are other authors\' surnames in the reference list (L. S. Brown and Maclay 1969, H. R. Brown as co-editor of \'The Philosophy of Vacuum\', J. H. Brownell 2008). WHAT THIS IS: a Tier 1 fact about a named, dated, openable document, checkable in 45 pages. WHAT THIS IS NOT: a finding that DIA considered Brown and rejected him, because the document shows no sign of having considered him. NOBODY DENIED ANYTHING, which is why the verdict is association and not directed, and the edge must never be rendered or summarised as \'DIA rejected Brown\'.',
+    sources: [
+      {
+        name: 'Defense Intelligence Reference Document DIA-08-1003-018, \'Antigravity for Aerospace Applications\', 45 pages as released',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf',
+        date: '2010-03-30'
+      }
+    ],
+    denialKind: 'association'
+  },
+  {
+    a: 'george-hathaway',
+    b: 'd-exotic',
+    type: 'research',
+    label: 'Registered engineer consulting on exotic materials, energy and propulsion; author of \'Mindbending: The Hutchison Files\'',
+    claimTier: 2,
+    dateStart: '1974',
+    dateEnd: null,
+    note: 'THE BOARD\'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm\'s own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times.',
+    sources: [
+      {
+        name: 'Hathaway Research International, principal staff page',
+        url: 'https://www.hathawayresearch.com/principal-staff/',
+        date: '2026-09-19'
+      },
+      {
+        name: 'Defense Intelligence Reference Document DIA-08-1003-017, 20 pages as released',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf',
+        date: '2010-03-30'
       }
     ]
   },

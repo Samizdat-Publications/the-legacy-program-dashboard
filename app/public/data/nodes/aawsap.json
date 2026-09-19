@@ -522,7 +522,7 @@
 "direction": "out",
 "edgeLabel": "deliverable under AAWSAP",
 "id": "dird-antigravity-for-aerospace-applications",
-"l0": false,
+"l0": true,
 "label": "Antigravity for Aerospace Applications",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "sources": [
@@ -537,7 +537,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "programmatic"
 },
 {
@@ -863,7 +863,7 @@
 "direction": "out",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
-"l0": false,
+"l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "sources": [
@@ -878,7 +878,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -1257,7 +1257,7 @@
 "direction": "out",
 "edgeLabel": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
 "id": "dird-warp-drive-dark-energy-and-the",
-"l0": false,
+"l0": true,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "sources": [
@@ -2041,12 +2041,6 @@
 },
 {
 "cls": "document",
-"id": "dird-antigravity-for-aerospace-applications",
-"label": "Antigravity for Aerospace Applications",
-"tier": "B"
-},
-{
-"cls": "document",
 "id": "dird-biosensors-and-biomems-a-survey-of",
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "tier": "B"
@@ -2104,12 +2098,6 @@
 "id": "dird-maverick-inventor-versus-corporate-inventor-where",
 "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
 "tier": "B"
-},
-{
-"cls": "document",
-"id": "dird-mhd-air-breathing-propulsion-and-power",
-"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
-"tier": "C"
 },
 {
 "cls": "document",
@@ -2181,12 +2169,6 @@
 "cls": "document",
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "dird-warp-drive-dark-energy-and-the",
-"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "tier": "B"
 },
 {
@@ -2372,7 +2354,7 @@
 ],
 "sub": "dia-program",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 2 of 1105, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 2 of 1111, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "date": "2012-01-01",

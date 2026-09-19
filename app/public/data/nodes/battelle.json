@@ -2,7 +2,7 @@
 "A": 2,
 "C": 3,
 "D": 1,
-"band": "research",
+"band": "custody",
 "claims": [
 {
 "source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
@@ -763,6 +763,6 @@
 ],
 "sub": "Private nonprofit applied science institute, Columbus, Ohio, est. 1929; operator or co-operator of PNNL, ORNL, INL, NREL, Brookhaven and NBACC",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 36 of 1105, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 36 of 1111, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
 "timeline": []
 }

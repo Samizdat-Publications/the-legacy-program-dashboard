@@ -333,7 +333,7 @@
 "direction": "out",
 "edgeLabel": "published and holds; DIA-08-1003-018",
 "id": "dird-antigravity-for-aerospace-applications",
-"l0": false,
+"l0": true,
 "label": "Antigravity for Aerospace Applications",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "sources": [
@@ -348,7 +348,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "custody"
 },
 {
@@ -603,7 +603,7 @@
 "direction": "out",
 "edgeLabel": "published by DIA as DIA-08-1004-001, Acquisition Threat Support series",
 "id": "dird-warp-drive-dark-energy-and-the",
-"l0": false,
+"l0": true,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "sources": [
@@ -1242,12 +1242,6 @@
 },
 {
 "cls": "document",
-"id": "dird-antigravity-for-aerospace-applications",
-"label": "Antigravity for Aerospace Applications",
-"tier": "B"
-},
-{
-"cls": "document",
 "id": "dird-laser-lightcraft-nanosatellites",
 "label": "Laser Lightcraft Nanosatellites",
 "tier": "B"
@@ -1298,12 +1292,6 @@
 "cls": "document",
 "id": "dird-traversable-wormholes-stargates-and-negative-energy",
 "label": "Traversable Wormholes, Stargates, and Negative Energy",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "dird-warp-drive-dark-energy-and-the",
-"label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "tier": "B"
 },
 {
@@ -1379,7 +1367,7 @@
 ],
 "sub": "Combat support agency; AAWSAP/AATIP executive agent",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 7 of 1105, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 7 of 1111, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [
 {
 "date": "2008-12-16",

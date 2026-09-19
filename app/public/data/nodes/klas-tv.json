@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": "research",
+"band": "custody",
 "claims": [
 {
 "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
@@ -259,6 +259,6 @@
 ],
 "sub": "CBS affiliate, Channel 8",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 903 of 1105, score 17). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 909 of 1111, score 17). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": []
 }

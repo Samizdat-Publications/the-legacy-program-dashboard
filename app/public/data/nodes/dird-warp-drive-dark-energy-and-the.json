@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
+"band": "research",
 "claims": [
 {
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
@@ -17,6 +17,21 @@
 {
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"source": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19",
+"text": "IT PRINTS THE REQUIREMENT AS A NUMBER, IN TWO TABLES. Table 2, 'Negative Energy Required for Warp Bubble (Larger Negative Energy)', and Table 3 after the reduction the paper argues for. At 0.01c: -3.03 x 10^46 J and -1.00 x 10^38 J. At 0.5c: -7.59 x 10^49 J and -2.50 x 10^41 J. AT LIGHT SPEED: -3.03 x 10^50 J and -1.00 x 10^42 J. At twice light speed: -1.21 x 10^51 J and -4.00 x 10^42 J. The document states that on its model 'energy requirements are reduced immensely when compared to the calculations of Lobo and Visser' and that 'All calculations are order-of-magnitude'.",
+"tier": 1
+},
+{
+"source": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19",
+"text": "ITS OWN SUMMARY, VERBATIM, and what it claims is a possibility and not a result: 'The idea that a sufficiently advanced technology may interact with, and acquire direct control over, the higher dimensions is a tantalizing possibility, and one that is most certainly worthy of deeper investigation. Control of this higher dimensional space may be a source of technological control over the dark energy density and could ultimately play a role in the development of exotic propulsion technologies; specifically, a warp drive. Of course, this may not be actualized until many years in the future...' Its closing sentence: '...if we may make predictions based on the innovative history of scientific pioneers of the past, then it seems entirely possible that the creative minds of the future may indeed find ways to accomplish what, to us, may seem like magic.'",
+"tier": 1
+},
+{
+"source": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19",
+"text": "Its reference 1 is the source document of the entire idea, printed as: 'Alcubierre, M., \"The warp drive: hyper-fast travel within general relativity.\" Classical and Quantum Gravity, vol. 11, 1994, pp. L73-L77.' Its introduction states that 'a 1994 paper by Miguel Alcubierre placed the idea on a more solid theoretical footing'. THE DOCUMENT CLAIMS NO EXPERIMENT, NO APPARATUS AND NO OBSERVATION, and a DIA cover page and document number do not change that.",
 "tier": 1
 },
 {
@@ -73,6 +88,32 @@
 ],
 "tier": "A",
 "type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010-04-02",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "Reference 1 of the DIRD, and the source of the idea it builds on",
+"id": "alcubierre-1994",
+"l0": false,
+"label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+"note": "The DIRD prints the citation as 'Alcubierre, M., \"The warp drive: hyper-fast travel within general relativity.\" Classical and Quantum Gravity, vol. 11, 1994, pp. L73-L77' and states in its introduction that the 1994 paper 'placed the idea on a more solid theoretical footing'.",
+"sources": [
+{
+"date": "1994",
+"name": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77",
+"url": "https://arxiv.org/abs/gr-qc/0009013"
+},
+{
+"date": "2010-04-02",
+"name": "Defense Intelligence Reference Document DIA-08-1004-001, 34 pages as released",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+}
+],
+"tier": "C",
+"type": "research"
 },
 {
 "claimTier": 1,
@@ -212,15 +253,44 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": null,
-"deg": 5,
+"deg": 6,
 "denials": [],
 "desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-04-02, DIA-08-1004-001, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
 "domains": [
 "_rs-aawsap-dirds",
 "_rs-archive-mirror",
+"propulsion-2026-09-19",
 "w7-dirds-4"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "DIA warp-drive DIRD, Tables 2 and 3, opened 2026-09-19",
+"text": "IT PRINTS THE REQUIREMENT AS A NUMBER, IN TWO TABLES. Table 2, 'Negative Energy Required for Warp Bubble (Larger Negative Energy)', and Table 3 after the reduction the paper argues for. The board prefers the document that gives a figure to the account that gives an adjective.",
+"tier": 1
+},
+{
+"source": "DIA warp-drive DIRD, its own summary, opened 2026-09-19",
+"text": "ITS OWN SUMMARY FRAMES THE SUBJECT AS A POSSIBILITY AND NOT A RESULT: 'The idea that a sufficiently advanced technology may interact with, and acquire direct control over, the higher dimensions...' is explored, not demonstrated.",
+"tier": 1
+},
+{
+"source": "Alcubierre 1994, Classical and Quantum Gravity vol. 11, opened and word-counted 2026-09-19",
+"text": "ITS SOURCE DOCUMENT IS PEER-REVIEWED AND SAYS LESS THAN IS CLAIMED FOR IT. Reference 1 is Alcubierre, M., 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity vol. 11, 1994. That paper states the requirement violates all three energy conditions, that energy density is everywhere negative, and that one needs exotic matter. Across the whole paper 'device' occurs 0 times and 'propulsion' once.",
+"tier": 1
+}
+],
+"narrative": "The warp drive occupies an unusual position in this subject. Unlike most claimed mechanisms it has a real, citable, peer-reviewed origin: Alcubierre's 1994 paper, which this document's reference 1 prints in full. So the question is never whether the physics exists in the literature. It is what the literature actually says.\n\nAlcubierre says it requires matter that violates all three energy conditions, with energy density everywhere negative, and states in terms that one needs exotic matter. Over the whole paper the word 'device' appears zero times and 'propulsion' appears once. It is a general relativity result about what a metric would have to look like, not an engineering proposal.\n\nThis DIA document takes the next step and quantifies it, tabulating the negative energy required for a warp bubble at light speed on the order of -10^42 joules before the reduction it argues for. Its own summary is careful in the same way, describing the idea that a sufficiently advanced technology may acquire direct control over higher dimensions as a possibility being explored rather than a result obtained.\n\nThe board carries all of this so that the gap is visible in one place: the peer-reviewed source, the government's quantification of what it would cost, and the popular claim that it is being done. The first two agree with each other and neither supports the third.",
+"openQuestions": [
+"The author, withheld under the same exemptions as the rest of the series.",
+"Whether the reduction this paper argues for has been assessed anywhere in the open literature."
+],
+"roles": [
+"research"
+],
+"whatItIs": "A Defense Intelligence Reference Document titled 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', series 'Acquisition Threat Support', published 2 April 2010, from the same FY2009 DIA series, author withheld under the same two exemptions. Its reference 1 is Alcubierre's 1994 paper in Classical and Quantum Gravity, printed in full.",
+"whyImplicated": "It is the government's own treatment of metric engineering, and unlike almost everything else in this subject it **prints the requirement as a number**. Two tables give the negative energy required for a warp bubble, before and after the reduction the paper argues for. A number is checkable, and a board built on grading evidence should prefer the document that gives one."
+},
 "entityInfo": null,
 "era": "nd",
 "foia": {
@@ -229,11 +299,30 @@
 },
 "hl": null,
 "id": "dird-warp-drive-dark-energy-and-the",
-"l0": false,
+"l0": true,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "locLabel": null,
-"members": null,
-"short": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+"members": [
+{
+"cls": "document",
+"id": "alcubierre-1994",
+"label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "richard-obousy",
+"label": "Richard K. Obousy",
+"tier": "C"
+}
+],
+"short": "DIA: Warp Drive and Dark Energy",
 "sources": [
 {
 "date": "2010-04-02",
@@ -257,7 +346,7 @@
 },
 {
 "date": "2010-04-02",
-"name": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)",
+"name": "Defense Intelligence Reference Document DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 34 pages as released",
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
 },
 {
@@ -283,6 +372,16 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 506 of 1105, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 264 of 1111, score 40). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [
+{
+"date": "2010-04-02",
+"id": "tl-2010-04-02-dird-warp-drive",
+"label": "DIA's warp DIRD is issued, tabulating the requirement at -10^42 J for light speed",
+"precision": "day",
+"strand": "program",
+"text": "DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', ICOD 1 December 2009, 34 pages as released. Its Table 3, after the reduction it argues for, gives -1.00 x 10^42 J at light speed and -4.00 x 10^42 J at twice light speed; its Table 2 gives -3.03 x 10^50 J at light speed. Its reference 1 is Alcubierre 1994.",
+"tier": "B"
+}
+]
 }

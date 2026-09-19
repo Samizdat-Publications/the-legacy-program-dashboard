@@ -1,0 +1,163 @@
+{
+"A": 0,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+"text": "THE CONCLUSION, verbatim in the passage that matters: 'A simple model was developed of ions drifting from one electrode to the other under electrostatic forces, and imparting momentum to air as they underwent multiple collisions. This model was found to be consistent with all of our observations. It predicted the magnitude of the force (thrust) that was measured. It also predicted how the direction of the thrust changed when the location of the ground wire changed. Furthermore, it also predicted that the direction of the thrust was independent of the polarity of the applied voltage... In spite of decades of speculation about possible new physical principles being responsible for the thrust produced by ACTs and lifters, we find no evidence to support such a conclusion. On the contrary, we find that their operation is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions.'",
+"tier": 1
+},
+{
+"source": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+"text": "THE VACUUM RESULT, which is what answers the question US 3,187,206 raises in its own text about behaviour in a vacuum. The report quotes Robert Talley's Air Force-contract measurement directly: 'Talley wrote, \"Direct experimental results show that under high vacuum conditions... no detectable propulsive force was electrostatically induced by applying a static potential difference... between test device electrodes...\" Talley concluded (page 91 of his report), \"If such a force still exists and lies below the threshold of measurements in this program, then the force may be too small to be attractive for many, if not most, space propulsion applications.\"' The report adds of Talley's work: 'His report is the only written report we have found from the last half-century that describes a measurement of a force while in a vacuum chamber.' THE TALLEY REPORT ITSELF WAS NOT OPENED BY THIS SESSION.",
+"tier": 1
+},
+{
+"source": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+"text": "The report's own reference list opens with the three Brown documents by number: '1 Brown, T.T., US Patent 2,949,550, \"Electrokinetic Apparatus,\" 1960. 2 Brown, T.T., US Patent 3,187,206, \"Electrokinetic Apparatus,\" 1965. 3 Brown, T.T., GB Patent 300,311, \"A Method of and an Apparatus or Machine for Producing Force or Motion,\" 1928.' NASA cites exactly the three Brown documents this board carries and concludes that what they describe is ions pushing on air.",
+"tier": 1
+},
+{
+"source": "NASA/CR-2004-213312, Francis X. Canning, Cory Melcher and Edwin Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, Fairmont, West Virginia, October 2004, 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+"text": "The report's own framing of the question, from its introduction: 'While it is generally accepted that such an asymmetrical capacitor produces a thrust, there is not a similar agreement on the mechanism responsible for the force produced. The purpose of this paper is to provide new test results and an analysis of those results to resolve this question.' It also records that 'This effect is called the Biefeld-Brown Effect; it was discovered while T. T. Brown was in graduate school, working under his advisor, Dr. Paul Alfred Biefeld.'",
+"tier": 1
+},
+{
+"source": "Thomas B. Bahder and Chris Fazi, 'Force on an Asymmetric Capacitor', arXiv preprint of the Army Research Laboratory report, submitted 31 October 2002, revised 12 March 2003, https://arxiv.org/abs/physics/0211001 , opened 2026-09-19; report number and NTIS order number as printed in reference 8 of NASA/CR-2004-213312",
+"text": "THE DISSENT, RECORDED SO THE BOARD DOES NOT OVERSTATE THE RECORD. The Army Research Laboratory's own study of the same effect, by Thomas B. Bahder and Chris Fazi, concluded from its calculations that 'ionic wind is at least three orders of magnitude too small to explain the magnitude of the observed force on the capacitor'. That rejects BALLISTIC ionic wind and prefers ionic drift, which is the mechanism NASA then modelled, so the two findings are not in flat contradiction and NEITHER INVOKES NEW PHYSICS. Tier 2 because the published report, ARL-TR-3005 / NTIS ADA416740, was NOT opened: apps.dtic.mil returned HTTP 403 and what was read was the authors' arXiv preprint.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2004-10",
+"dateStart": "2004",
+"direction": "out",
+"edgeLabel": "The experiment behind the survey's ion-wind finding",
+"id": "millis-tm-2004-213082",
+"l0": true,
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+"note": "Reference 55 of NASA/TM-2004-213082 names the same Institute for Scientific Research work, planned for the 40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference in July 2004. The contractor report is the measurement; the technical memorandum is the ruling.",
+"sources": [
+{
+"date": "2004",
+"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
+"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+},
+{
+"date": "2004-10",
+"name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages",
+"url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2004-10",
+"dateStart": "2004-10",
+"direction": "out",
+"edgeLabel": "A NASA contractor report, published under a NASA/CR number",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "NASA/CR-2004-213312. The board's funding edge type is used because a contractor report records who paid for the work; the performing organisation was the Institute for Scientific Research of Fairmont, West Virginia, for which no node is proposed because nothing about the organisation itself was opened.",
+"sources": [
+{
+"date": "2004-10",
+"name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages",
+"url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2004-10",
+"dateStart": "2004-10",
+"direction": "out",
+"edgeLabel": "Cites both Brown patents and GB 300,311 by number, and models the thrust as ion drift",
+"id": "thomas-townsend-brown",
+"l0": false,
+"label": "Thomas Townsend Brown",
+"note": "THE JOIN IS DOCUMENTARY AND NOT TOPICAL. The report's reference list opens with 'Brown, T.T., US Patent 2,949,550', 'Brown, T.T., US Patent 3,187,206' and 'Brown, T.T., GB Patent 300,311', which are exactly the three Brown documents this board already carries. Its conclusion is that the operation of such devices 'is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions'.",
+"sources": [
+{
+"date": "2004-10",
+"name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages",
+"url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+}
+],
+"tier": "A",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "2004-10",
+"dateStart": "2004-10",
+"deg": 3,
+"denials": [],
+"desc": "THE EXPERIMENT BEHIND THE FINDING, AS DISTINCT FROM THE SURVEY THAT REPORTS IT. Francis X. Canning, Cory Melcher and Edwin Winet of the Institute for Scientific Research in Fairmont, West Virginia, measured the thrust of several Asymmetrical Capacitor Thrusters at various voltages, polarities and ground configurations, at atmospheric pressure and at reduced pressures, and in nitrogen and argon as well as air. They built a model of ions drifting between electrodes under electrostatic forces and imparting momentum to air through multiple collisions, and reported that it predicted the measured magnitude of the thrust, the way the direction changed when the ground wire moved, and the independence of the thrust direction from the polarity of the applied voltage. THE NODE IS ON THIS BOARD BECAUSE ITS REFERENCE LIST CITES THOMAS TOWNSEND BROWN'S PATENTS BY NUMBER: US 2,949,550, US 3,187,206 and GB 300,311, which are exactly the three Brown documents the board already carries. That makes the join documentary rather than topical. The report also preserves the only vacuum measurement its authors could find from the previous half-century, Robert Talley's Air Force-contract test, which it quotes directly.",
+"domains": [
+"propulsion-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "canning-nasa-cr-2004-213312",
+"l0": false,
+"label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+"locLabel": null,
+"members": null,
+"short": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+"sources": [
+{
+"date": "2004-10",
+"name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', Institute for Scientific Research Inc, 23 pages",
+"url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+},
+{
+"date": "2002-10-31",
+"name": "Bahder and Fazi, 'Force on an Asymmetric Capacitor', arXiv preprint of ARL-TR-3005",
+"url": "https://arxiv.org/abs/physics/0211001"
+}
+],
+"sub": "The NASA contractor report that tested asymmetrical capacitor thrusters at atmospheric and reduced pressures and concluded their operation is fully explained by electrostatic forces and momentum transfer",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 821 of 1111, score 20). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [
+{
+"date": "1991",
+"id": "tl-1991-talley-vacuum-null",
+"label": "Air Force contractor reports no detectable propulsive force in high vacuum",
+"precision": "year",
+"strand": "program",
+"text": "Robert L. Talley, 'Twenty First Century Propulsion Concept', PL-TR-91-3009, final report for February 1989 to July 1990 on contract FO4611-89-C-0023, Phillips Laboratory, Air Force Systems Command, Edwards AFB. Quoted in NASA/CR-2004-213312: 'Direct experimental results show that under high vacuum conditions... no detectable propulsive force was electrostatically induced by applying a static potential difference... between test device electrodes.' THE TALLEY REPORT ITSELF HAS NOT BEEN OPENED BY THIS BOARD.",
+"tier": "C"
+},
+{
+"date": "2004-10",
+"id": "tl-2004-10-canning-asymmetrical-capacitors",
+"label": "NASA contractor report models asymmetrical capacitor thrust as ion drift",
+"precision": "month",
+"strand": "program",
+"text": "NASA/CR-2004-213312. 'In spite of decades of speculation about possible new physical principles being responsible for the thrust produced by ACTs and lifters, we find no evidence to support such a conclusion. On the contrary, we find that their operation is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions.' Its reference list cites both Brown patents and GB 300,311 by number.",
+"tier": "C"
+}
+]
+}

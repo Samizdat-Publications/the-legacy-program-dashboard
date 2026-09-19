@@ -1,6 +1,6 @@
 # The retrieval band
 
-The programme map splits the 145 nodes closest to the alleged programme into seven bands, and this file is the retrieval band: 11 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 149 nodes closest to the alleged programme into seven bands, and this file is the retrieval band: 11 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 # THROUGH 1969: Estimate through Blue Book
 
@@ -52,7 +52,7 @@ Roles the board assigns it: retrieval, reverse-engineering, concealment, funding
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 14 of 1105, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 14 of 1111, score 115). 48 connections, 1 of them custody/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -140,7 +140,7 @@ Roles the board assigns it: concealment, retrieval, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 12 of 1105, score 118). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 12 of 1111, score 118). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -219,7 +219,7 @@ Roles the board assigns it: concealment, custody, retrieval, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 33 of 1105, score 92). 26 connections, 7 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 33 of 1111, score 92). 26 connections, 7 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -302,7 +302,7 @@ Roles the board assigns it: retrieval, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 31 of 1105, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 31 of 1111, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -335,7 +335,7 @@ Re-graded A on a global pass (rank 31 of 1105, score 93). 17 connections, 3 of t
 - Roswell Incident comes in from **AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I** (document, board tier A), a denial link at Tier 1 documented. The link reads: AARO reaffirms MOGUL and finds no recovered extraterrestrial material. The February 2024 report concludes the Roswell materials were consistent with a then-classified Project Mogul balloon and that there is no evidence the USG recovered aliens or extraterrestrial material. Sources: AARO Historical Record Report, Volume I, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf, dated 2024-02-01.
 - Roswell Incident comes in from **COMETA - Comité d'Études Approfondies** (institution, board tier A), a research link at Tier 1 documented. The link reads: dedicated appendix on Roswell and disinformation. COMETA's Appendix 5 is titled 'The Roswell Affair - Disinformation'. A committee of retired French flag officers treating Roswell as a subject requiring an appendix in a defence study is itself part of what this edge records; the report's own framing places it under disinformation rather than under evidence. Sources: COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, Appendix 5, https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf, dated 1999-07-01.
 - Roswell Incident comes in from **Jesse A. Marcel Sr.** (person, board tier A), a custody link at Tier 1 documented. The link reads: Marcel physically handled the recovered debris. The 509th's staff intelligence officer collected the Foster ranch material with CIC Capt. Sheridan Cavitt and carried it to Fort Worth. His custody role is documented in the Air Force's own 1995 report. Sources: USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01.
-- Roswell Incident comes in from **GAO/NSIAD-95-187, Results of a Search for Records Concerning the 1947 Crash Near Roswell** (document, board tier A), a investigative link at Tier 1 documented. The link reads: GAO found the base's records for the event period destroyed. RAAF outgoing messages Oct 1946 - Dec 1949 and administrative records Mar 1945 - Dec 1949 were destroyed, and the disposition form does not record who destroyed them, when, or under what authority. Sources: GAO/NSIAD-95-187 (full PDF), https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28; GAO/NSIAD-95-187, https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28.
+- Roswell Incident comes in from **GAO/NSIAD-95-187, Results of a Search for Records Concerning the 1947 Crash Near Roswell** (document, board tier B), a investigative link at Tier 1 documented. The link reads: GAO found the base's records for the event period destroyed. RAAF outgoing messages Oct 1946 - Dec 1949 and administrative records Mar 1945 - Dec 1949 were destroyed, and the disposition form does not record who destroyed them, when, or under what authority. Sources: GAO/NSIAD-95-187 (full PDF), https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28; GAO/NSIAD-95-187, https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28.
 - Roswell Incident comes in from **RAAF Press Release, 8 July 1947** (document, board tier B), a temporal link at Tier 1 documented. The link reads: The press release is the event's only uncontested artifact. Every subsequent official position, weather balloon, MOGUL, dummies, is a response to this single document issued by an atomic bomb group's own information office. Sources: USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01; GAO/NSIAD-95-187, https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
 - Roswell Incident runs out to **Roswell, New Mexico and the Foster Ranch, Lincoln County** (location, board tier B), a institutional link at Tier 1 documented. The link reads: The 509th Bomb Group at Roswell AAF was the only atomic-armed unit in the world. The recovery, the announcement and the destroyed records all belong to a single installation with the most restrictive information discipline in the US military. Sources: USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01; GAO/NSIAD-95-187, https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
 - Roswell Incident comes in from **Government Accountability Office** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: Found Roswell AAF outgoing messages 1945-1949 destroyed without authorisation. GAO reported that the outgoing message traffic for March 1945 to December 1949 had been destroyed and that no destruction certificate authorising it could be located. Sources: GAO/NSIAD-95-187, https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
@@ -395,7 +395,7 @@ Roles the board assigns it: concealment, custody, oversight, retrieval.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 190 of 1105, score 45). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 192 of 1111, score 45). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -463,7 +463,7 @@ Roles the board assigns it: retrieval.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 61 of 1105, score 74). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.
+Re-graded A on a global pass (rank 63 of 1111, score 74). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.
 
 ### The claims on the record
 
@@ -549,7 +549,7 @@ Roles the board assigns it: retrieval, concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 148 of 1105, score 52). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 150 of 1111, score 52). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -590,7 +590,7 @@ Re-graded A on a global pass (rank 148 of 1105, score 52). 12 connections, 1 of 
 
 ## GAO/NSIAD-95-187, Results of a Search for Records Concerning the 1947 Crash Near Roswell
 
-GAO/NSIAD-95-187, Results of a Search for Records Concerning the 1947 Crash Near Roswell is a document on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1995; axes C2 A1 D3; 6 connections; in the retrieval band.
+GAO/NSIAD-95-187, Results of a Search for Records Concerning the 1947 Crash Near Roswell is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1995; axes C2 A1 D3; 6 connections; in the retrieval band.
 
 In one line: General Accounting Office report, 28 July 1995.
 
@@ -639,7 +639,7 @@ Roles the board assigns it: concealment, custody, oversight, retrieval.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 165 of 1105, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 167 of 1111, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -721,7 +721,7 @@ Roles the board assigns it: retrieval, custody, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 763 of 1105, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 766 of 1111, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -804,7 +804,7 @@ Roles the board assigns it: oversight, disclosure, custody, concealment, retriev
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 13 of 1105, score 117). 33 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 13 of 1111, score 117). 33 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -905,7 +905,7 @@ Roles the board assigns it: custody, retrieval, reverse-engineering, oversight, 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 34 of 1105, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 34 of 1111, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.
 
 ### The claims on the record
 

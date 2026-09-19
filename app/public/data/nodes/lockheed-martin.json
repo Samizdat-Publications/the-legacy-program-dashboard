@@ -280,7 +280,7 @@
 "direction": "in",
 "edgeLabel": "author's employer at time of writing (Skunk Works)",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
-"l0": false,
+"l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list.",
 "sources": [
@@ -315,7 +315,7 @@
 "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -550,7 +550,7 @@
 "url": "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "custody"
 },
 {
@@ -1067,12 +1067,6 @@
 },
 {
 "cls": "document",
-"id": "dird-mhd-air-breathing-propulsion-and-power",
-"label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
-"tier": "C"
-},
-{
-"cls": "document",
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "tier": "B"
@@ -1123,7 +1117,7 @@
 "cls": "location",
 "id": "l-la",
 "label": "Los Angeles and Burbank, California",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "location",
@@ -1210,7 +1204,7 @@
 ],
 "sub": "Prime defense contractor; largest single recipient of DoD prime contract obligations",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 26 of 1105, score 100). 31 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 26 of 1111, score 100). 31 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "2009-01-01",

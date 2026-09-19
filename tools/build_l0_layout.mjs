@@ -97,10 +97,30 @@ const BAND_VOCAB = ['retrieval', 'reverse-engineering', 'funding', 'research',
      funding 27 · reverse-engineering 17 · retrieval 10
    Three adjacent pairs were within 10% at pin time (research/custody,
    oversight/disclosure, disclosure/concealment) and are the ones to watch.
-   Re-pin deliberately; do not edit this to silence a warning. */
-const RARITY_PIN = ['retrieval', 'reverse-engineering', 'funding', 'research',
-  'custody', 'oversight', 'disclosure', 'concealment'];
-const RARITY_PIN_DATE = '2026-08-24';
+   Re-pin deliberately; do not edit this to silence a warning.
+
+   RE-PINNED 19 September 2026, and this is the decision the mechanism asked for.
+   research and custody swapped, exactly the pair flagged above. Counts now:
+     concealment 100 · disclosure 94 · oversight 75 · research 66 · custody 64
+     funding 34 · reverse-engineering 19 · retrieval 11
+   The cause is editorial and not jitter: four research passes landed on 18-19
+   September (ARV/TR-3B, the congressional witnesses, Lazar/S-4, the Disclosure
+   Project) plus the propulsion strand, which brought NASA and DIA reference
+   documents and two patents onto the board. The board genuinely holds more
+   research-tagged material than custody-tagged material now, and it did not
+   before. That is a real change in what the board is, so the map should show it.
+   The diff was reviewed before re-pinning: 28 nodes carry BOTH custody and
+   research and are the ones that can move band on this swap.
+
+   CAUTION FOR THE NEXT SESSION. research 66 against custody 64 is a 3% gap, well
+   inside the zone this pin exists to stabilise. A single further pass could swap
+   them back. If that happens, do NOT re-pin again on another 2-count margin:
+   two tags this close carry no real ordering, and the honest answer at that point
+   is to ask Design whether they should share a band rather than to keep flipping
+   28 nodes between rows. */
+const RARITY_PIN = ['retrieval', 'reverse-engineering', 'funding', 'custody',
+  'research', 'oversight', 'disclosure', 'concealment'];
+const RARITY_PIN_DATE = '2026-09-19';
 
 const GEO = {
   /* headRow was 46 and that was too short by exactly the height of the map's own

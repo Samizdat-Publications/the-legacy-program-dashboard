@@ -14,7 +14,7 @@ Wright-Patterson Air Force Base sits immediately east and northeast of Dayton, O
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 52 of 1105, score 78). 20 connections, 8 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 52 of 1111, score 78). 20 connections, 8 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -46,7 +46,7 @@ THIS NODE RECORDS A CLAIM AND NOT A PLACE WHOSE CONTENTS ARE ESTABLISHED. Papoos
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 166 of 1105, score 49). 16 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 168 of 1111, score 49). 16 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -85,7 +85,7 @@ Acknowledgement chronology, stated plainly because it is the board's benchmark: 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 130 of 1105, score 54). 14 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 134 of 1111, score 54). 14 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -120,7 +120,7 @@ Money is the most auditable thing a concealed programme touches, and this is whe
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 57 of 1105, score 75). 13 connections, 11 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 58 of 1111, score 75). 13 connections, 11 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -152,7 +152,7 @@ The custody domain tracks the documentary handoffs themselves rather than the ob
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 69 of 1105, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 71 of 1111, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -186,7 +186,7 @@ Custody chains catalogued in this domain, with the point at which each goes dark
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 161 of 1105, score 49). 12 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 163 of 1111, score 49). 12 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -218,7 +218,7 @@ The domain covering how the disclosure record is actually produced and distribut
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 786 of 1105, score 21). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 789 of 1111, score 21). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -248,7 +248,7 @@ Follow the contract vehicle and you find the programme, which is why acquisition
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 326 of 1105, score 37). 10 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 331 of 1111, score 37). 10 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -279,7 +279,7 @@ The research domain concerned not with whether a legacy programme exists but wit
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 904 of 1105, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 910 of 1111, score 17). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -312,7 +312,7 @@ The Bennewitz operation is the best-documented instance in the American record o
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 239 of 1105, score 42). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 242 of 1111, score 42). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -349,7 +349,7 @@ How the seam actually works, mechanism by mechanism. (1) RECORDS STATUS. Documen
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 175 of 1105, score 47). 9 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.
+Re-graded B on a global pass (rank 177 of 1111, score 47). 9 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -382,7 +382,7 @@ This domain isolates what is enacted from what was merely proposed, because the 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 623 of 1105, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 626 of 1111, score 27). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -413,7 +413,7 @@ Legislation is where the disclosure fight has produced its only binding outcomes
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 553 of 1105, score 29). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 557 of 1111, score 29). 9 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -445,7 +445,7 @@ A denial is not the end of an inquiry on this board; it is an entry in it. The e
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 111 of 1105, score 58). 8 connections, 0 of them custody/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.
+Re-graded A on a global pass (rank 112 of 1111, score 58). 8 connections, 0 of them custody/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -480,7 +480,7 @@ The full text of the mechanism as stated by Chairwoman Luna on 9 September 2025:
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 340 of 1105, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 345 of 1111, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -500,6 +500,40 @@ Re-graded B on a global pass (rank 340 of 1105, score 36). 8 connections, 1 of t
 
 It carries 8 connections in total on the board.
 
+## Exotic Technology & Physics
+
+Exotic Technology & Physics is a domain on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2008-08-18; axes C1 A2 D2; 7 connections.
+
+In one line: Technical domain - the physics that would be required, and who was paid to study it.
+
+### What it is
+
+The most tractable question in this whole field is not whether exotic physics is real but who was paid to study it, and that question has a documented answer. Between 2008 and 2010 the Defense Intelligence Agency commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, released under FOIA, on subjects including 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 'Traversable Wormholes, Stargates, and Negative Energy' by Eric W. Davis of EarthTech International, and 'Antigravity for Aerospace Applications'. Those are real government contract deliverables on precisely the physics a recovered craft would require, written by named authors, with document control numbers. Two readings are available and this board records both: either the topics were selected because someone had a reason to believe they were relevant, or a sympathetic programme manager funded a literature survey of fringe physics. The strength of the domain is that it does not depend on resolving that - the tasking itself is the tier-1 fact. Scoring high here means an entity authored, commissioned or reviewed this body of work.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 275 of 1111, score 40). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** DIA commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, subsequently released under FOIA. Source: DIA FOIA Electronic Reading Room, AAWSAP/AATIP collection
+- **Tier 1 documented.** DIRD 15 is 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering'. Source: DIRD 15, DIA release via The Black Vault
+- **Tier 1 documented.** DIRD 19 is 'Antigravity for Aerospace Applications'. Source: DIRD 19, DIA release via The Black Vault
+- **Tier 1 documented.** DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', was authored by Eric W. Davis of EarthTech International and dated 6 April 2010. Source: DIRD 18 / DIA-08-1004-004
+- **Tier 1 documented.** The domain's best single published adjudication, and it is openable by anyone: NASA/TM-2004-213082, by the manager of NASA's Breakthrough Propulsion Physics Project, which rules on Biefeld-Brown and its variants in section 3.2.7, on metric engineering in section 3.3.1, and on high frequency gravitational waves in section 3.3.2. Source: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, opened 2026-09-19
+- **Tier 3 stated inference.** THE DOMAIN'S ORGANISING FINDING AFTER THE PROPULSION STRAND OF 19 SEPTEMBER 2026, and it is a stated inference over documents rather than a claim about physics. For each propulsion mechanism the literature invokes, a document is named; when the document is opened it says less than is claimed for it, and usually something else entirely. Brown's two patents contain the word 'gravity' zero times. Alcubierre's 1994 paper contains the word 'device' zero times and states in its own abstract that exotic matter will be needed. King's 1967 patent contains 'scalar' zero times and has no assignee and no government interest. DIA's own antigravity survey does not mention Brown. THE STRAND RECORDS THE GAP BETWEEN CITATIONS AND DOCUMENTS AND TAKES NO POSITION ON WHETHER EXOTIC PROPULSION IS POSSIBLE. Source: research/leads/verified-propulsion-2026-09-19.md, strand table, built over documents opened 2026-09-19
+
+### Its strongest connections
+
+- Exotic Technology & Physics comes in from **NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)** (document, board tier B), a research link at Tier 1 documented. The link reads: The domain's best single published adjudication. One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves. Sources: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, dated 2004.
+- Exotic Technology & Physics comes in from **Concepts for Extracting Energy From the Quantum Vacuum** (document, board tier B), a research link at Tier 1 documented. The link reads: subject domain: zero-point/vacuum energy extraction. Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network. Sources: Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/, dated 2026-08-22; https://earthtech.org/pubs/davis/, https://earthtech.org/pubs/davis/
+- Exotic Technology & Physics runs out to **Propulsion & Field Physics** (domain, board tier B), a research link at Tier 1 documented. The link reads: Field physics is the propulsion answer. DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem. Sources: AAWSAP Statement of Work, https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf, dated 2008-08-22.
+- Exotic Technology & Physics comes in from **Program Structure & Management** (domain, board tier B), a programmatic link at Tier 1 documented. The link reads: Tasking reveals expectation. The AAWSAP statement of work and the thirty-eight DIRDs are the tier-1 evidence that a government agency paid for study of the physics a recovered craft would require. Sources: AAWSAP Statement of Work, https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf, dated 2008-08-22.
+- Exotic Technology & Physics comes in from **George D. Hathaway** (person, board tier B), a research link at Tier 2 named person on the record. The link reads: Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'. THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times. Sources: Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/, dated 2026-09-19; Defense Intelligence Reference Document DIA-08-1003-017, 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, dated 2010-03-30.
+- Exotic Technology & Physics comes in from **Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)** (document, board tier C), a research link at Tier 2 named person on the record. The link reads: The origin document of the field's metric-engineering claims. THE NOTE IS THE POINT. The paper itself is mainstream general relativity in a mainstream journal and nothing about it is exotic or disputed. It sits in this domain because of what is claimed FOR it, not because of what is in it: the word 'device' appears zero times in ten pages. Sources: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77, https://arxiv.org/abs/gr-qc/0009013, dated 1994.
+
+It carries 7 connections in total on the board.
+
 ## Congressional Oversight
 
 Congressional Oversight is a domain on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1966-04-05; axes C0 A2 D3; 7 connections.
@@ -512,7 +546,7 @@ Congressional oversight of the deepest access tiers is not a matter of will but 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 570 of 1105, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 573 of 1111, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -543,7 +577,7 @@ Skinwalker Ranch is a property of approximately 512 acres in Uintah County, Utah
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 89 of 1105, score 65). 9 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 90 of 1111, score 65). 9 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -581,7 +615,7 @@ This board treats concealment as a discipline with doctrine, staffing and a budg
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 145 of 1105, score 52). 6 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 148 of 1111, score 52). 6 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -611,7 +645,7 @@ The Freedom of Information Act is the only routine instrument by which a private
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 525 of 1105, score 30). 6 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 529 of 1111, score 30). 6 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -641,7 +675,7 @@ The use of the UFO subject as a vehicle for deception against a domestic audienc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 306 of 1105, score 38). 6 connections, 4 of them custody/funding/programmatic. Axes C1/A2/D1.
+Re-graded B on a global pass (rank 313 of 1111, score 38). 6 connections, 4 of them custody/funding/programmatic. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -670,7 +704,7 @@ Whoever controls the records controls the history, and this is the one front on 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 272 of 1105, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 278 of 1111, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -704,7 +738,7 @@ Where a program could sit, and what changes when it moves. There are five distin
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 192 of 1105, score 45). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 194 of 1111, score 45). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -737,7 +771,7 @@ The Nevada complex is where the classification regimes overlap. A Department of 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 477 of 1105, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 481 of 1111, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -770,7 +804,7 @@ Terms of art, precisely, and why each one matters to the allegations. ACKNOWLEDG
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 63 of 1105, score 73). 6 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 65 of 1111, score 73). 6 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -806,7 +840,7 @@ Aerospace is the FFRDC that owns the technical judgement on everything the Unite
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 198 of 1105, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 200 of 1111, score 45). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -841,7 +875,7 @@ The Armed Forces Special Weapons Project was established by joint directive of t
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 173 of 1105, score 47). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 175 of 1111, score 47). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -877,7 +911,7 @@ The Bolender memorandum is short, administrative, and the most quietly damaging 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 180 of 1105, score 46). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 182 of 1111, score 46). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -906,7 +940,7 @@ On 9 June 2026 lawmakers and UAP whistleblowers gathered at the US Capitol to re
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 636 of 1105, score 26). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded C on a global pass (rank 639 of 1111, score 26). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -935,7 +969,7 @@ Conventional Prompt Global Strike is the family of American programmes intended 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 320 of 1105, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 325 of 1111, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -966,7 +1000,7 @@ Moving a programme into a prime contractor does not merely add secrecy - it chan
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 242 of 1105, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
+Re-graded B on a global pass (rank 245 of 1111, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -994,7 +1028,7 @@ A special access programme is the mechanism by which the executive branch create
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 249 of 1105, score 41). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 252 of 1111, score 41). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1022,7 +1056,7 @@ Everything this board describes is, on its face, legal - and that is the point. 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 436 of 1105, score 32). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 441 of 1111, score 32). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -1050,7 +1084,7 @@ The data that could resolve most of this exists, and it is classified for reason
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 399 of 1105, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 404 of 1111, score 34). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1078,7 +1112,7 @@ The funding instrument, and the reason the whole thing stayed invisible. AARO's 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 278 of 1105, score 39). 5 connections, 5 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 285 of 1111, score 39). 5 connections, 5 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1106,7 +1140,7 @@ DHS was established in 2002, 'combining 22 different federal departments and age
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 128 of 1105, score 54). 6 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 131 of 1111, score 54). 6 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1137,7 +1171,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 226 of 1105, score 42). 6 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 228 of 1111, score 42). 6 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1171,7 +1205,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 356 of 1105, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 361 of 1111, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1203,7 +1237,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 311 of 1105, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 318 of 1111, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1236,7 +1270,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 358 of 1105, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 363 of 1111, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1257,39 +1291,6 @@ Re-graded B on a global pass (rank 358 of 1105, score 35). 5 connections, 3 of t
 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues comes in from **Christopher C. 'Kit' Green** (person, board tier A), a research link at Tier 1 documented. The link reads: authored. DIA list item 12 names "Dr Kit Green, Wayne State Univ", under the shorter title "Field Effects on Biological Tissues". The released document's printed title is longer and more specific. Sources: Released DIRD, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 - Anomalous Acute and Subacute Field Effects on Human Biological Tissues runs out to **Wayne State University** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: authored at Wayne State University. The DIA list gives Green's affiliation of record for this deliverable as Wayne State University. Wayne State is second only to EarthTech on the DIRD author list, supplying Green plus R. Genik's three human-interface papers. Sources: Released DIRD, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 
-## Antigravity for Aerospace Applications
-
-Antigravity for Aerospace Applications is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D0; 5 connections.
-
-In one line: defense-intelligence-reference-document.
-
-### What it is
-
-DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-30, DIA-08-1003-018, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 312 of 1105, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/
-- **Tier 1 documented.** Authored by Dr Eric Davis of EarthTech International, per the 9 January 2018 DIA list (item 11). Source: https://irp.fas.org/dia/aatip-list.pdf
-- **Tier 1 documented.** Cover page reads "30 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-018", series "Acquisition Threat Support". Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf
-- **Tier 1 documented.** Davis is credited with six of the 38 DIRDs on the DIA list, more than any other author: antigravity, traversable wormholes, quantum vacuum energy extraction, laser lightcraft nanosatellites, quantum tomography of negative energy states, and (with R. Obousy) warp drive and extra dimensions. Source: https://irp.fas.org/dia/aatip-list.pdf
-- **Tier 1 documented.** Defense Intelligence Reference Document titled "Antigravity for Aerospace Applications", series "Acquisition Threat Support", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-018. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/
-- **Tier 1 documented.** Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100". Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/
-- **Tier 1 documented.** Released PDF is 44 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/
-- **Tier 2 named person on the record.** EarthTech International's own publication list independently records the document as: Davis, E. W. (2010), "Antigravity for Aerospace Applications", Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1003-018, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC. This is the author's own attribution and matches the DIA list and the cover page exactly. Source: https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-
-### Its strongest connections
-
-- Antigravity for Aerospace Applications comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: deliverable under AAWSAP. The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf; DIA FOIA Reading Room, Antigravity for Aerospace Applications (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2010-03-30.
-- Antigravity for Aerospace Applications comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-018. Publication date 30 March 2010 on the cover. 45 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'Antigravity for Aerospace Applications' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22.
-- Antigravity for Aerospace Applications comes in from **Defense Intelligence Agency** (institution, board tier A), a custody link at Tier 1 documented. The link reads: published and holds; DIA-08-1003-018. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf; DIA FOIA Reading Room, Antigravity for Aerospace Applications (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2010-03-30.
-- Antigravity for Aerospace Applications comes in from **Eric W. Davis** (person, board tier A), a research link at Tier 1 documented. The link reads: authored. DIA list item 11 names "Dr Eric Davis, EarthTech International". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office. Sources: Released DIRD, 'Antigravity for Aerospace Applications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
-- Antigravity for Aerospace Applications runs out to **EarthTech International / Institute for Advanced Studies at Austin** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: authored at EarthTech International. EarthTech International supplied six of the 38 DIRDs through Eric Davis plus one through Hal Puthoff, making it the single most represented institution on the author list. Sources: Released DIRD, 'Antigravity for Aerospace Applications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
-
 ## Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft
 
 Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D0; 5 connections.
@@ -1302,7 +1303,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-12-15
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 406 of 1105, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 411 of 1111, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1335,7 +1336,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 359 of 1105, score 35). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 364 of 1111, score 35). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1368,7 +1369,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 227 of 1105, score 42). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 229 of 1111, score 42). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1403,7 +1404,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 360 of 1105, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 365 of 1111, score 35). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1435,7 +1436,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2011-01-03
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 361 of 1105, score 35). 5 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 366 of 1111, score 35). 5 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1466,7 +1467,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 533 of 1105, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 537 of 1111, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1498,7 +1499,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 503 of 1105, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 507 of 1111, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1516,7 +1517,7 @@ Re-graded B on a global pass (rank 503 of 1105, score 30). 5 connections, 2 of t
 - The Role of Superconductors in Gravity Research comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 23 March 2010 on the cover. 17 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22.
 - The Role of Superconductors in Gravity Research comes in from **Defense Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: published by DIA as DIA-08-1003-013, Acquisition Threat Support series. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: Defense Intelligence Reference Document, "The Role of Superconductors in Gravity Research" (The Black Vault FOIA release), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2010-03-23; DIA FOIA Reading Room, The Role of Superconductors in Gravity Research (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2010-03-23.
 - The Role of Superconductors in Gravity Research runs out to **Materials and custody analysis** (domain, board tier A), a research link at Tier 1 documented. The link reads: subject domain: superconducting materials and claimed gravitational coupling. The paper's subject is a materials question posed as a physics question: whether a rotating high-temperature superconductor can produce a measurable gravitational anomaly. It sits with the materials strand of the DIRD set rather than with the metric-engineering strand. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22.
-- The Role of Superconductors in Gravity Research comes in from **George D. Hathaway** (person, board tier C), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 10: "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
+- The Role of Superconductors in Gravity Research comes in from **George D. Hathaway** (person, board tier B), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 10: "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 
 ## Traversable Wormholes, Stargates, and Negative Energy
 
@@ -1530,7 +1531,7 @@ DIA Defense Intelligence Reference Document (Acquisition Threat Support series),
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 504 of 1105, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 508 of 1111, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1562,7 +1563,7 @@ DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 505 of 1105, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 509 of 1111, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1582,38 +1583,6 @@ Re-graded B on a global pass (rank 505 of 1105, score 30). 5 connections, 2 of t
 - Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications runs out to **Materials and custody analysis** (domain, board tier A), a research link at Tier 1 documented. The link reads: subject domain: energy-storage materials for commercial and military applications. Electrode and electrolyte materials science applied to high-power energy storage. One of the DIRDs with immediate conventional military application and no anomalous content. Sources: Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2026-08-22.
 - Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications comes in from **J. Golightly** (person, board tier C), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 35: "Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin." The given name behind the initial was not established by any source consulted, and the node is labelled accordingly rather than guessed. Sources: Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
 
-## Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions
-
-Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates no dates recorded; axes C0 A0 D0; 5 connections.
-
-In one line: defense-intelligence-reference-document.
-
-### What it is
-
-DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-04-02, DIA-08-1004-001, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 506 of 1105, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/
-- **Tier 1 documented.** Defense Intelligence Reference Document titled "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions", series "Acquisition Threat Support", published 2010-04-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room. Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/
-- **Tier 1 documented.** EarthTech International's citation list gives the paper as "Obousy, R. K. and Davis, E. W. (2010), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-001, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC." It is co-authored, with Obousy first named, which reconciles the DIA list with the popular attribution. Source: http://earthtech.org/pubs/davis/
-- **Tier 1 documented.** Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100". Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/
-- **Tier 1 documented.** The released cover page reads "2 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-001." The author line is redacted under (b)(6). Source: https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf
-- **Tier 2 named person on the record.** One of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017. Davis confirmed by email to the researcher Isaac Koi that the circulating copy was genuine. Source: https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html
-- **Tier 2 named person on the record.** The DIA letter of 9 January 2018 lists item 19 as "Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants." The government's own list names Obousy, not Eric Davis, as the author of record. The widespread press attribution of this paper to Davis alone is not supported by the DIA list. Source: https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
-
-### Its strongest connections
-
-- Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions comes in from **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: AAWSAP deliverable, Acquisition Support Division (DWO-3). The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering. Sources: Defense Intelligence Reference Document, "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions" (The Black Vault FOIA release), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2010-04-02; DIA FOIA Reading Room, Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2010-04-02; https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html, https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html
-- Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions comes in from **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: DIRD. Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 April 2010 on the cover. 34 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously. Sources: Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2026-08-22.
-- Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions comes in from **Defense Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: published by DIA as DIA-08-1004-001, Acquisition Threat Support series. DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026. Sources: Defense Intelligence Reference Document, "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions" (The Black Vault FOIA release), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2010-04-02; DIA FOIA Reading Room, Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2010-04-02; http://earthtech.org/pubs/davis/, http://earthtech.org/pubs/davis/
-- Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions comes in from **Eric W. Davis** (person, board tier A), a research link at Tier 1 documented. The link reads: co-author per EarthTech International's own citation. EarthTech International's publications page cites the paper as "Obousy, R. K. and Davis, E. W. (2010)." Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them. Sources: Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2026-08-22; http://earthtech.org/pubs/davis/, http://earthtech.org/pubs/davis/
-- Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions comes in from **Richard K. Obousy** (person, board tier C), a research link at Tier 1 documented. The link reads: author of record on the DIA list; lead author. CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names "Dr R Obousy, Obousy Consultants" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author. Sources: Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; http://earthtech.org/pubs/davis/, http://earthtech.org/pubs/davis/; https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/, https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/
-
 ## Disclosure Project witness cohort (68 testimonies, 2000 to 2001)
 
 Disclosure Project witness cohort (68 testimonies, 2000 to 2001) is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2000-07 to 2001-05-09; axes C0 A0 D3; 5 connections.
@@ -1626,7 +1595,7 @@ THIS IS A SET NODE AND NOT AN ORGANISATION; NOTHING HERE EVER MET AS A BODY. It 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 282 of 1105, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 289 of 1111, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1661,7 +1630,7 @@ Excerpts from five quarterly histories of the 341st Strategic Missile Wing, Malm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 319 of 1105, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 324 of 1111, score 37). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1690,7 +1659,7 @@ An eight-page document on Ministério da Aeronáutica letterhead, stamped CONFID
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 305 of 1105, score 38). 5 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 312 of 1111, score 38). 5 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1718,7 +1687,7 @@ On 5 January 1994 the Deputy Secretary of Defense changed the Department's speci
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 233 of 1105, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 235 of 1111, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1749,7 +1718,7 @@ This is the version of DoD's SAP charter that governed for the entire period cov
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 60 of 1105, score 74). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 61 of 1111, score 74). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1785,7 +1754,7 @@ The current directive, effective 12 September 2024, cancels the 1 July 2010 vers
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 82 of 1105, score 68). 6 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 84 of 1111, score 68). 6 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1821,7 +1790,7 @@ The Inspector General's evaluation of how the Department handles UAP, completed 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 75 of 1105, score 69). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 77 of 1111, score 69). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1857,7 +1826,7 @@ The DoD SAP Security Manual is issued in four volumes under number 5205.07: Volu
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 62 of 1105, score 73). 5 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded A on a global pass (rank 64 of 1111, score 73). 5 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -1892,7 +1861,7 @@ Volume 1 of the four-volume DoD SAP Security Manual assigns responsibilities and
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 106 of 1105, score 60). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 107 of 1111, score 60). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1927,7 +1896,7 @@ In mid-1948 the Project SIGN staff at Wright Field completed a Top Secret docume
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 322 of 1105, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 327 of 1111, score 37). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1956,7 +1925,7 @@ The Foreign Technology Division was the Air Force's foreign aerospace materiel e
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 253 of 1105, score 41). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 256 of 1111, score 41). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1986,7 +1955,7 @@ This is the one death inside a compartmented American programme that the governm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 206 of 1105, score 44). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 208 of 1111, score 44). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2022,7 +1991,7 @@ The recalled January 2015 US Fleet Forces Command message is the highest-value s
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 302 of 1105, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 309 of 1111, score 38). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -2051,7 +2020,7 @@ GAO is the audit arm of Congress and the only investigative body on this board t
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 877 of 1105, score 18). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 883 of 1111, score 18). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2082,7 +2051,7 @@ GAO explains the carve-out in its own words: special access contracts are 'carve
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 285 of 1105, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 292 of 1111, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -2114,7 +2083,7 @@ Gerb's first corporate investigation, published 18 February 2024, and the most p
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 545 of 1105, score 29). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 549 of 1111, score 29). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2143,7 +2112,7 @@ Published 20 March 2026, this is the corporate-breakaway argument. It moves past
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 286 of 1105, score 39). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 293 of 1111, score 39). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2172,7 +2141,7 @@ The first documented scientific conference convened by the United States governm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 409 of 1105, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 414 of 1111, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2204,7 +2173,7 @@ Chain of custody for the complaint, as established by sworn testimony and report
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 337 of 1105, score 36). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded B on a global pass (rank 342 of 1111, score 36). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2232,7 +2201,7 @@ The facility referred to in the Varginha literature as the Hospital Regional de 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 971 of 1105, score 14). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 976 of 1111, score 14). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2262,7 +2231,7 @@ HASC held the House side of the NDAA conference through the stripping and is the
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 718 of 1105, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 720 of 1111, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -2289,7 +2258,7 @@ Division G of Public Law 118-31. Sec. 7341 moves the annual UAP report obligatio
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 970 of 1105, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 975 of 1111, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2320,7 +2289,7 @@ Why the intelligence side is the harder problem and the softer target at the sam
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 48 of 1105, score 81). 7 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 48 of 1111, score 81). 7 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2358,7 +2327,7 @@ THIS IS THE NODE IN THIS CLUSTER WITH A REAL AGENCY RECORD, AND IT SHOULD CARRY 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 473 of 1105, score 31). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded B on a global pass (rank 477 of 1111, score 31). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -2393,7 +2362,7 @@ Published 19 January 2024, seven weeks after Kirkpatrick left AARO and seven wee
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 396 of 1105, score 34). 6 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 401 of 1111, score 34). 6 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2424,7 +2393,7 @@ Brasilia is the seat of the Brazilian federal government and the administrative 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 733 of 1105, score 23). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded C on a global pass (rank 736 of 1111, score 23). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2451,7 +2420,7 @@ The Air Force installation in Florida's first congressional district that produc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 442 of 1105, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 447 of 1111, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -2479,7 +2448,7 @@ Los Alamos sits on the Pajarito Plateau in Los Alamos County, New Mexico, and is
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 321 of 1105, score 37). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 326 of 1111, score 37). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -2508,7 +2477,7 @@ Vandenberg, on the Santa Barbara County coast near Lompoc, is the United States'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 368 of 1105, score 35). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 373 of 1111, score 35). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2540,7 +2509,7 @@ A fully documented case of a real programme carrying a second, classified progra
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 222 of 1105, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 224 of 1111, score 43). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -2570,7 +2539,7 @@ Lincoln Laboratory is MITRE's parent and the first FFRDC in this domain to have 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 164 of 1105, score 49). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 166 of 1111, score 49). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -2607,7 +2576,7 @@ Status as of 12 August 2026. Statutory basis: FY2024 NDAA, P.L. 118-31, sections
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 313 of 1105, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 319 of 1111, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2637,7 +2606,7 @@ Three unclassified U.S. Navy infrared targeting-pod recordings, one captured in 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 228 of 1105, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 230 of 1111, score 42). 5 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -2665,7 +2634,7 @@ What Congress actually enacted is a records-transfer statute with the enforcemen
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 162 of 1105, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 164 of 1111, score 49). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -2698,7 +2667,7 @@ The National Defense Authorization Act for Fiscal Year 2026 was approved on 18 D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 72 of 1105, score 70). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 74 of 1111, score 70). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2734,7 +2703,7 @@ The command responsible for detecting and defeating air threats to North America
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 534 of 1105, score 29). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 538 of 1111, score 29). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -2762,7 +2731,7 @@ Oak Ridge is where the modern government sent the material. In 2022 the All-doma
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 150 of 1105, score 51). 7 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 152 of 1111, score 51). 7 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -2796,7 +2765,7 @@ MOON DUST was the US Air Force codeword for the collection and exploitation of o
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 140 of 1105, score 53). 5 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 143 of 1111, score 53). 5 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -2825,7 +2794,7 @@ Project SIGN was the first official United States Air Force investigation of uni
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 169 of 1105, score 48). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 171 of 1111, score 48). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -2854,7 +2823,7 @@ The fifth and most recent tranche, published 7 August 2026: 41 files comprising 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 121 of 1105, score 55). 5 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 123 of 1111, score 55). 5 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2885,7 +2854,7 @@ Three pages on Senate letterhead that are, in the board's judgement, the most co
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 163 of 1105, score 49). 5 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 165 of 1111, score 49). 5 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2918,7 +2887,7 @@ Grade it honestly. This is a corporate research institute that studied gravitati
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 784 of 1105, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 787 of 1111, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -2951,7 +2920,7 @@ The single most valuable unreleased document on this board. It exists. It has ex
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 108 of 1105, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 109 of 1111, score 59). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -2986,7 +2955,7 @@ The SAPOC was established on 5 January 1994, not in 2010. A Deputy Secretary of 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 110 of 1105, score 58). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 111 of 1111, score 58). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3021,7 +2990,7 @@ The Scientific Coalition for UAP Studies describes itself as 'a think tank of sc
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 725 of 1105, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 728 of 1111, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -3050,7 +3019,7 @@ Two Imperial Iranian Air Force F-4 Phantoms were scrambled from Shahrokhi AFB in
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 264 of 1105, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 269 of 1111, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3080,7 +3049,7 @@ The Intercept is an investigative news organisation founded in 2014 and built ar
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 994 of 1105, score 13). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 999 of 1111, score 13). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -3109,7 +3078,7 @@ The second executive action of 2026 and the one that goes to witnesses rather th
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 237 of 1105, score 42). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 239 of 1111, score 42). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3141,7 +3110,7 @@ The Review Board is the JFK Records Act transplant at the centre of the UAPDA an
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 112 of 1105, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 113 of 1111, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -3170,7 +3139,7 @@ Section 1152 of the National Defense Authorization Act for Fiscal Year 1994, Pub
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 96 of 1105, score 64). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 96 of 1111, score 64). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3206,7 +3175,7 @@ On 15 February 2023 at approximately 1915 PST in Warning Area W-291 off Southern
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 694 of 1105, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded C on a global pass (rank 696 of 1111, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -3234,7 +3203,7 @@ AARO's public posture in the current cycle is defined by what its own homepage d
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 510 of 1105, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 513 of 1111, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3262,7 +3231,7 @@ The first statutory annual report, published 25 October 2023 covering 31 August 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 297 of 1105, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.
+Re-graded B on a global pass (rank 304 of 1111, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -3296,7 +3265,7 @@ This is the money. Contract HHM402-08-C-0072, awarded 22 September 2008 by the D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 152 of 1105, score 51). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 154 of 1111, score 51). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -3329,7 +3298,7 @@ The Bennewitz operation is the only place in this domain where the state's metho
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 279 of 1105, score 39). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 286 of 1111, score 39). 5 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -3357,7 +3326,7 @@ AFR 200-2, 'Unidentified Flying Objects Reporting', is the internal Air Force re
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 208 of 1105, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.
+Re-graded B on a global pass (rank 210 of 1111, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -3391,7 +3360,7 @@ The Age of Disclosure premiered at SXSW in Austin on 9 March 2025 and is the hig
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 842 of 1105, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 847 of 1111, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3406,6 +3375,36 @@ Re-graded C on a global pass (rank 842 of 1105, score 19). 4 connections, 0 of t
 - The Age of Disclosure (documentary, 2025) comes in from **UAP Gerb - 'The Hidden Wing' (USAF structure)** (document, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Gerb cites the film's characterisation of the Air Force. The Hidden Wing description notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure', using the film as a corroborating reference. Sources: UAP Gerb - 'The Hidden Wing', https://www.youtube.com/watch?v=-IXSZe4xVv4, dated 2026-01-30.
 - The Age of Disclosure (documentary, 2025) comes in from **Dan Farah** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Director and producer. Farah directed and produced the film that premiered at SXSW on 9 March 2025. Sources: The Age of Disclosure - trailer, https://www.youtube.com/watch?v=DkU7ZqbADRs, dated 2025-03-09.
 
+## Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)
+
+Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994) is a document on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1994; axes C0 A0 D0; 4 connections.
+
+In one line: The five-page Classical and Quantum Gravity letter that is the origin of every warp-drive claim in the field, and which states in its own abstract that exotic matter will be needed.
+
+### What it is
+
+THE PAPER STATES A REQUIREMENT AND NOT A CAPABILITY, AND IT SAYS SO IN ITS OWN ABSTRACT. Miguel Alcubierre, then at the Department of Physics and Astronomy, University of Wales, College of Cardiff, showed that a spacetime metric can be written which expands space behind a spaceship and contracts it in front, allowing arbitrarily large apparent speed to outside observers while the ship stays on a timelike trajectory inside its own light cone. He then computed what would be required to source that metric and reported the answer against himself: the metric 'violates all three energy conditions (weak, dominant and strong)', the energy density seen by Eulerian observers 'is everywhere negative', and 'one needs exotic matter to travel faster than the speed of light'. THE WORD 'DEVICE' APPEARS ZERO TIMES IN THE PAPER. The word 'propulsion' appears once, in the sentence naming the idea after science fiction. There is no apparatus, no engine, no method of construction and no experiment. The node exists because the paper is cited throughout the UAP literature as though it described an engineering programme, and because DIA paid for a Defense Intelligence Reference Document built on it. Citing this paper as evidence that a craft could do this is citing a requirement as though it were a capability, which is this strand's pattern in its purest form: unlike the other instances, it is not even a misreading, because the abstract says plainly that exotic matter will be needed.
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 820 of 1111, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+
+### The claims on the record
+
+- **Tier 1 documented.** His closing paragraph, verbatim: 'As a final comment, I will just mention the fact that even though the spacetime described by the metric (8) is globally hyperbolic, and hence contains no closed causal curves, it is probably not very difficult to construct a spacetime that does contain such curves using a similar idea to the one presented here.' Source: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013, opened 2026-09-19
+- **Tier 1 documented.** His own conclusion, verbatim: 'We see then that, just as it happens with wormholes, one needs exotic matter to travel faster than the speed of light. However, even if one believes that exotic matter is forbidden classically, it is well known that quantum field theory permits the existence of regions with negative energy densities in some special circumstances (as, for example, in the Casimir effect). The need of exotic matter therefore doesn't necessarily eliminate the possibility of using a spacetime distortion like the one described above for hyper-fast interstellar travel.' Source: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013, opened 2026-09-19
+- **Tier 1 documented.** THE ABSTRACT, VERBATIM AND IN FULL: 'It is shown how, within the framework of general relativity and without the introduction of wormholes, it is possible to modify a spacetime in a way that allows a spaceship to travel with an arbitrarily large speed. By a purely local expansion of spacetime behind the spaceship and an opposite contraction in front of it, motion faster than the speed of light as seen by observers outside the disturbed region is possible. The resulting distortion is reminiscent of the "warp drive" of science fiction. However, just as it happens with wormholes, exotic matter will be needed in order to generate a distortion of spacetime like the one discussed here.' Source: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013, opened 2026-09-19
+- **Tier 1 documented.** THE REQUIREMENT, IN ALCUBIERRE'S OWN WORDS: 'The metric I have just described has one important drawback, however: it violates all three energy conditions (weak, dominant and strong). Both the weak and the dominant energy conditions require the energy density to be positive for all observers.' Having given the expression for the energy density the Eulerian observers see, he writes: 'The fact that this expression is everywhere negative implies that the weak and dominant energy conditions are violated. In a similar way one can show that the strong energy condition is also violated.' Source: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013, opened 2026-09-19
+- **Tier 1 documented.** THE ZERO-COUNT, WHICH IS WHAT THIS NODE EXISTS TO CARRY. Word counts over the complete 10-page text: 'device' 0, 'how to' 0, 'propulsion' 1. The single occurrence of 'propulsion' is the sentence 'A propulsion mechanism based on such a local distortion of spacetime just begs to be given the familiar name of the "warp drive" of science fiction.' The paper contains no apparatus, no engine and no method of construction. THIS IS EVIDENCE ABOUT WHAT THE PAPER SAYS AND IS NOT EVIDENCE THAT THE EFFECT IS IMPOSSIBLE. Source: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013, opened 2026-09-19
+- **Tier 3 stated inference.** THE BOARD OWNER'S OWN RULING, RECORDED AS HIS AND AS NOTHING ELSE. Stewart, 18 September 2026, rules Alcubierre-style metric engineering out on his own reasoning: locally bending spacetime above a building would have effects nobody could conceal. This is not a finding of any research session and no document opened for this node supports or contradicts it. It is carried at Tier 3, stated inference, attributed to him by name and date. Source: Board owner's framing of 18 September 2026, recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 3
+
+### Its strongest connections
+
+- Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994) runs out to **Antigravity for Aerospace Applications** (document, board tier A), a research link at Tier 1 documented. The link reads: Reference [43] of the antigravity DIRD, and its only appearance in that document. Cited once, in the reference list. Recorded because the count matters to this board: in a 45-page government survey of antigravity, the warp paper appears once and Thomas Townsend Brown does not appear at all. Sources: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77, https://arxiv.org/abs/gr-qc/0009013, dated 1994; Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2010-03-30.
+- Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994) comes in from **NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)** (document, board tier B), a research link at Tier 1 documented. The link reads: NASA's assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered. DELIBERATELY NOT A DENIAL EDGE. NASA does not contradict the paper; it agrees with it and restates its requirement in engineering terms. Section 3.3.1: these concepts 'require enormous quantities of "negative energy" (equivalent mass of planets or suns)' and are 'extremely unlikely to be engineered'. Alcubierre's own abstract says exotic matter will be needed. Writing this as a denial would misrepresent both documents. Sources: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, dated 2004.
+- Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994) runs out to **Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions** (document, board tier B), a research link at Tier 1 documented. The link reads: Reference 1 of the DIRD, and the source of the idea it builds on. The DIRD prints the citation as 'Alcubierre, M., "The warp drive: hyper-fast travel within general relativity." Classical and Quantum Gravity, vol. 11, 1994, pp. L73-L77' and states in its introduction that the 1994 paper 'placed the idea on a more solid theoretical footing'. Sources: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77, https://arxiv.org/abs/gr-qc/0009013, dated 1994; Defense Intelligence Reference Document DIA-08-1004-001, 34 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2010-04-02.
+- Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994) runs out to **Exotic Technology & Physics** (domain, board tier B), a research link at Tier 2 named person on the record. The link reads: The origin document of the field's metric-engineering claims. THE NOTE IS THE POINT. The paper itself is mainstream general relativity in a mainstream journal and nothing about it is exotic or disputed. It sits in this domain because of what is claimed FOR it, not because of what is in it: the word 'device' appears zero times in ten pages. Sources: Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77, https://arxiv.org/abs/gr-qc/0009013, dated 1994.
+
 ## ARVP (arvp.co.uk), the Flux Liner project site
 
 ARVP (arvp.co.uk), the Flux Liner project site is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2024; axes C0 A0 D3; 4 connections.
@@ -3418,7 +3417,7 @@ The custody node for two of the three primary documents in this thread, in the s
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 439 of 1105, score 32). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 444 of 1111, score 32). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -3433,7 +3432,7 @@ Re-graded B on a global pass (rank 439 of 1105, score 32). 4 connections, 2 of t
 
 - ARVP (arvp.co.uk), the Flux Liner project site runs out to **Mark McCandlish** (person, board tier A), a custody link at Tier 1 documented. The link reads: Hosts his coroner's file and publishes a reconstruction built from his talks. The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement. Sources: arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18; Shasta County Sheriff-Coroner, case C21-0324, https://drive.google.com/file/d/1UNSHXesvWduXFduto_Cqh4LDOCG4gIkX/view, dated 2021-06-21.
 - ARVP (arvp.co.uk), the Flux Liner project site runs out to **TR-3B 'Astra', claimed black triangular aircraft** (program, board tier A), a research link at Tier 1 documented. The link reads: ARVP carries a TR-3B page and routes its readers to the Fouche file. Mirrors the board's existing arvp-fluxliner-project to arv-fluxliner research edge. The site is evidence of what the site says and of nothing else: its own characterisations are the anonymous owner's opinion, most of the page is its owner's visual-effects assessment of a video, and it mis-assigns the 'he lied' finding to Jeremy Rys when the only opened account attributes that video to David Hilton and says its screen could not be read. Sources: ARVP, 'Black Triangle (TR3b)', the page named in research/leads/CANDIDATES-2026-09-18-ARVP.md, https://www.arvp.co.uk/black-triangle-tr3b/, dated 2026-09-18.
-- ARVP (arvp.co.uk), the Flux Liner project site runs out to **Alien Reproduction Vehicle (ARV) / Flux Liner** (program, board tier B), a research link at Tier 1 documented. The link reads: Publishes a 3D reconstruction of the claimed craft and sells prints of it. The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated. Sources: arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18; arvp.co.uk, SHOP page, https://www.arvp.co.uk/shop/, dated 2026-09-18.
+- ARVP (arvp.co.uk), the Flux Liner project site runs out to **Alien Reproduction Vehicle (ARV) / Flux Liner** (program, board tier A), a research link at Tier 1 documented. The link reads: Publishes a 3D reconstruction of the claimed craft and sells prints of it. The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated. Sources: arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18; arvp.co.uk, SHOP page, https://www.arvp.co.uk/shop/, dated 2026-09-18.
 - ARVP (arvp.co.uk), the Flux Liner project site comes in from **William B. Scott's interview notes on 'Brad', 3 December 1990** (document, board tier B), a custody link at Tier 1 documented. The link reads: The only opened copy of the notes is the scan that site hosts. The PDF sits under /wp-content/uploads/2024/12/ on arvp.co.uk with /CreationDate 'D:20241017132510'. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11; arvp.co.uk, FLUX 1988 page, https://www.arvp.co.uk/flux-01/, dated 2026-09-18.
 
 ## Atomic Energy Act of 1946 (McMahon Act)
@@ -3448,7 +3447,7 @@ The Atomic Energy Act of 1946 is where classification by category enters United 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 210 of 1105, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 212 of 1111, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3478,7 +3477,7 @@ In March 1990 the Belgian Air Force scrambled F-16 fighters against objects repo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 232 of 1105, score 42). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 234 of 1111, score 42). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3508,7 +3507,7 @@ THE RAREST EVIDENTIARY SHAPE IN THIS CLUSTER: TWO PARTICIPANTS, BOTH PUBLISHED U
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 303 of 1105, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 310 of 1111, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3542,7 +3541,7 @@ Bigelow Aerospace Advanced Space Studies was the prime contractor executing the 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 118 of 1105, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 119 of 1111, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -3575,7 +3574,7 @@ Boeing enters this record through two doors. The first is testimonial: at the 26
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 482 of 1105, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 486 of 1111, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -3602,7 +3601,7 @@ CENTER LANE was the Army Intelligence and Security Command's designation for the
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 267 of 1105, score 40). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D1.
+Re-graded B on a global pass (rank 272 of 1111, score 40). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D1.
 
 ### The claims on the record
 
@@ -3631,7 +3630,7 @@ The NISPOM ceased to be a DoD manual and became a federal regulation with the co
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 64 of 1105, score 73). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 66 of 1111, score 73). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -3667,7 +3666,7 @@ The most direct answer to how money reaches a programme that does not appear as 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 114 of 1105, score 58). 4 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 115 of 1111, score 58). 4 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -3698,7 +3697,7 @@ The Task Force's opening move. On establishing the Task Force on the Declassific
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 997 of 1105, score 13). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 1002 of 1111, score 13). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3723,7 +3722,7 @@ Advanced projects organisations are the industrial layer at which secrecy and en
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 307 of 1105, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 314 of 1111, score 38). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -3750,7 +3749,7 @@ Aviators are the highest-value witness class in this field for one reason: their
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 572 of 1105, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded C on a global pass (rank 575 of 1111, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -3778,7 +3777,7 @@ The observed flight characteristics reported by aviators - hypersonic velocity w
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 488 of 1105, score 31). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 492 of 1111, score 31). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -3789,6 +3788,6 @@ Re-graded B on a global pass (rank 488 of 1105, score 31). 4 connections, 0 of t
 ### Its strongest connections
 
 - Propulsion & Field Physics comes in from **Institute of Field Physics (UNC Chapel Hill)** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Standing written disclaimer of any connection to anti-gravity research. On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called "anti-gravity research" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute. Sources: History of the Institute of Field Physics (1955-1959), Section II, https://physics.unc.edu/department-history/section-ii/, dated 2026-09-02.
-- Propulsion & Field Physics comes in from **Conventional Prompt Global Strike** (program, board tier B), a research link at Tier 1 documented. The link reads: Every booster traced to Trident II, Peacekeeper or Polaris derived stages. The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
 - Propulsion & Field Physics comes in from **Exotic Technology & Physics** (domain, board tier B), a research link at Tier 1 documented. The link reads: Field physics is the propulsion answer. DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem. Sources: AAWSAP Statement of Work, https://documents2.theblackvault.com/documents/dia/AAWSAP/SOW_Aerospace.pdf, dated 2008-08-22.
+- Propulsion & Field Physics comes in from **Conventional Prompt Global Strike** (program, board tier B), a research link at Tier 1 documented. The link reads: Every booster traced to Trident II, Peacekeeper or Polaris derived stages. The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body. Sources: CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, https://www.everycrsreport.com/reports/R41464.html, dated 2021-07-16.
 - Propulsion & Field Physics runs out to **Military Aviators & Operators** (domain, board tier C), a research link at Tier 3 stated inference. The link reads: Reported kinematics set the physics requirement. Aviator accounts with sensor corroboration generate the acceleration and power figures that any propulsion hypothesis must satisfy. Sources: DoD statement on release of historical Navy videos, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/, dated 2020-04-27.

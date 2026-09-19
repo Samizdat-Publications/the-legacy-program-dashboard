@@ -307,6 +307,31 @@
 "source": "USPTO file wrappers for applications 14/807,943 and 15/141,270, compared, read 28 August 2026",
 "text": "The two applications were treated very differently by the Office, and the comparison is the strongest thing this cluster now has. The electromagnetic field generator, filed 24 July 2015, drew one non-final rejection and was allowed by Thomas M. Dougherty in Art Unit 2837 because 'the prior art fails to show' the claimed generator, with enablement never raised. The craft, filed nine months later on 28 April 2016 and expressly incorporating that generator by reference, was rejected twice by Philip J. Bonzell in Art Units 3644 and 3642 as not enabled and impossible, and reached allowance only after a Notice of Appeal and an Appeal Brief. The same physics, the same inventor and the same office of counsel produced opposite results depending on whether the claim was to the component or to the craft.",
 "tier": 1
+},
+{
+"source": "Brett Tingley, 'The Navy Finally Speaks Up About Its Bizarre \"UFO Patent\" Experiments', The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
+"text": "THE NAVY'S OWN TEST RESULT, FROM A NAMED NAVY OFFICIAL, REPLACING THE BOARD'S PREVIOUS ENCYCLOPEDIA CITATION FOR THE SAME FACT. Timothy Boulay, Communications Director at NAWCAD, quoted by Brett Tingley of The War Zone: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019.' 'The cost was $508,000 over the course of three years. Around ninety percent of the total - $462,000 - was for salaries, while the rest was used for equipment, test preparation, testing and assessment.' And: 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' Tier 2 because this is a named person on the record and not a document this board has opened; the underlying FOIA release is still not in the board's hands.",
+"tier": 2
+},
+{
+"source": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"text": "THE NAVY'S SPONSORSHIP IS PRINTED ON THE FACE OF THE PATENT AND NOT INFERRED. US 10,144,532's front page carries, verbatim: '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'; '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD'; and 'Primary Examiner - Philip J Bonzell'. The government did not merely take an assignment: it paid a NAWCAD attorney to prosecute the application, before the same examiner the board's existing Tier 1 claim names as the addressee of the Sheehy letter of 15 December 2017.",
+"tier": 1
+},
+{
+"source": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"text": "US 10,144,532 CITES HAROLD PUTHOFF ON ITS PRINTED FRONT PAGE. Its 'Other Publications' list includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6', alongside 'Froning, H. David, Quantum Vacuum Engineering for Power and Propulsion from the Energetics of Space, Third International Conference on Future Energy, Oct. 9-10, 2009, Washington, DC', 'Prigogine, Ilya, Time, Structure and Fluctuations, Nobel Lecture, Dec. 8, 1977', 'Hayasaka, Hideo and Takeuchi, Sakae, Anomalous Weight Reduction on a Gyroscope's Right Rotations around the Vertical Axis on the Earth, Physical Review Letters, Dec. 18, 1989, vol. 63, No. 25', and two of Pais's own papers in the International Journal of Space Science and Engineering, 2015.",
+"tier": 1
+},
+{
+"source": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"text": "A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS, and what US 10,144,532 claims, in its own abstract: 'A craft using an inertial mass reduction device comprises of an inner resonant cavity wall, an outer resonant cavity, and microwave emitters. The electrically charged outer resonant cavity wall and the electrically insulated inner resonant cavity wall form a resonant cavity. The microwave emitters create high frequency electromagnetic waves throughout the resonant cavity causing the resonant cavity to vibrate in an accelerated mode and create a local polarized vacuum outside the outer resonant cavity wall.' The mechanism the specification gives is 'negative pressure (hence repulsive gravity) exhibited by the polarized local vacuum energy state'.",
+"tier": 1
+},
+{
+"source": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"text": "THE PATENT AND THE INVENTION-DISCLOSURE BRIEFING CORROBORATE EACH OTHER, which is rare and worth recording. The specification of US 10,144,532 states that the hybrid craft 'would move with great ease through the air / space / water mediums, by being enclosed in a vacuum plasma bubble / sheath, due to the coupled effects of EM field-induced air / water particles repulsion and vacuum energy polarization'. The board already carries that same sentence at Tier 1 from the Navy Case PAX 205 invention-disclosure briefing, which was obtained by a different route.",
+"tier": 1
 }
 ],
 "cls": "person",
@@ -320,6 +345,27 @@
 }
 ],
 "connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2018-12-04",
+"dateStart": "2018-12-04",
+"direction": "out",
+"edgeLabel": "US 10,144,532 cites Puthoff's Polarizable-Vacuum paper on its printed front page",
+"id": "harold-puthoff",
+"l0": false,
+"label": "Harold E. Puthoff",
+"note": "A DOCUMENTARY JOIN PRINTED ON A GRANTED US NAVY PATENT, which is better evidence of a connection than any later statement about the same relationship. The 'Other Publications' list includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. The edge asserts the citation and nothing about any personal or professional contact, for which nothing was opened.",
+"sources": [
+{
+"date": "2018-12-04",
+"name": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page",
+"url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+}
+],
+"tier": "A",
+"type": "research"
+},
 {
 "claimTier": 1,
 "cls": "location",
@@ -471,10 +517,11 @@
 "date": "2015-07-24",
 "dateEnd": null,
 "dateStart": "2015-07-24",
-"deg": 7,
+"deg": 8,
 "denials": [],
 "domains": [
-"pais-patents"
+"pais-patents",
+"propulsion-2026-09-19"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -532,6 +579,16 @@
 "url": "https://www.freepatentsonline.com/20190295733.html"
 },
 {
+"date": "2018-12-04",
+"name": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification",
+"url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
+},
+{
+"date": "2021-02-01",
+"name": "Brett Tingley, 'The Navy Finally Speaks Up About Its Bizarre \"UFO Patent\" Experiments', The War Zone, quoting Timothy Boulay, Communications Director, NAWCAD",
+"url": "https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments"
+},
+{
 "date": null,
 "name": "Secondary reporting summarised at citing FOIA-released NAWCAD records; the underlying release has not been obtained for this board",
 "url": "https://en.wikipedia.org/wiki/Salvatore_Pais"
@@ -545,7 +602,7 @@
 "status": "active",
 "sub": "Aerospace engineer, NAWCAD, NAS Patuxent River (to 2019); named inventor on five Navy-assigned patent filings 2015-2019; later US Navy Strategic Systems Programs, then US Air Force",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 45 of 1105, score 83). 7 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 43 of 1111, score 84). 8 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.",
 "timeline": [
 {
 "date": "2017-12-15",

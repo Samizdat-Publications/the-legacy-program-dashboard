@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": "research",
+"band": "custody",
 "claims": [
 {
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
@@ -381,7 +381,7 @@
 ],
 "sub": "Video investigation, 7 Aug 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 419 of 1105, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 424 of 1111, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "2011-01-01",

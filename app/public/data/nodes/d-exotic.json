@@ -5,6 +5,16 @@
 "band": null,
 "claims": [
 {
+"source": "research/leads/verified-propulsion-2026-09-19.md, strand table, built over documents opened 2026-09-19",
+"text": "THE DOMAIN'S ORGANISING FINDING AFTER THE PROPULSION STRAND OF 19 SEPTEMBER 2026, and it is a stated inference over documents rather than a claim about physics. For each propulsion mechanism the literature invokes, a document is named; when the document is opened it says less than is claimed for it, and usually something else entirely. Brown's two patents contain the word 'gravity' zero times. Alcubierre's 1994 paper contains the word 'device' zero times and states in its own abstract that exotic matter will be needed. King's 1967 patent contains 'scalar' zero times and has no assignee and no government interest. DIA's own antigravity survey does not mention Brown. THE STRAND RECORDS THE GAP BETWEEN CITATIONS AND DOCUMENTS AND TAKES NO POSITION ON WHETHER EXOTIC PROPULSION IS POSSIBLE.",
+"tier": 3
+},
+{
+"source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "The domain's best single published adjudication, and it is openable by anyone: NASA/TM-2004-213082, by the manager of NASA's Breakthrough Propulsion Physics Project, which rules on Biefeld-Brown and its variants in section 3.2.7, on metric engineering in section 3.3.1, and on high frequency gravitational waves in section 3.3.2.",
+"tier": 1
+},
+{
 "source": "DIA FOIA Electronic Reading Room, AAWSAP/AATIP collection",
 "text": "DIA commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, subsequently released under FOIA.",
 "tier": 1
@@ -26,8 +36,29 @@
 }
 ],
 "cls": "domain",
-"cluster": "research",
+"cluster": "other",
 "connections": [
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": "1994",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "The origin document of the field's metric-engineering claims",
+"id": "alcubierre-1994",
+"l0": false,
+"label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+"note": "THE NOTE IS THE POINT. The paper itself is mainstream general relativity in a mainstream journal and nothing about it is exotic or disputed. It sits in this domain because of what is claimed FOR it, not because of what is in it: the word 'device' appears zero times in ten pages.",
+"sources": [
+{
+"date": "1994",
+"name": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77",
+"url": "https://arxiv.org/abs/gr-qc/0009013"
+}
+],
+"tier": "C",
+"type": "research"
+},
 {
 "claimTier": 1,
 "cls": "domain",
@@ -100,15 +131,84 @@
 ],
 "tier": "B",
 "type": "research"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1974",
+"direction": "in",
+"edgeLabel": "Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'",
+"id": "george-hathaway",
+"l0": false,
+"label": "George D. Hathaway",
+"note": "THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Hathaway Research International, principal staff page",
+"url": "https://www.hathawayresearch.com/principal-staff/"
+},
+{
+"date": "2010-03-30",
+"name": "Defense Intelligence Reference Document DIA-08-1003-017, 20 pages as released",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 3,
+"cls": "document",
+"dateEnd": "1967-05-30",
+"dateStart": "1967-05-30",
+"direction": "in",
+"edgeLabel": "In the strand because of what was claimed for it, not because of what is in it",
+"id": "king-patent-mhd",
+"l0": false,
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"note": "THE PATENT ITSELF IS NOT EXOTIC. It is a linear induction motor using ionised air as its armature, which is classical electromagnetism. It sits in this domain solely because it was cited as evidence for scalar physics, and the strand's product is the gap between the citation and the document.",
+"sources": [
+{
+"date": "1967-05-30",
+"name": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', James F. King Jr., 7 pages",
+"url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2004",
+"dateStart": "2004",
+"direction": "in",
+"edgeLabel": "The domain's best single published adjudication",
+"id": "millis-tm-2004-213082",
+"l0": true,
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+"note": "One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves.",
+"sources": [
+{
+"date": "2004",
+"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
+"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+}
+],
+"tier": "B",
+"type": "research"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "2008-08-18",
-"deg": 3,
+"deg": 7,
 "denials": [],
 "desc": "The most tractable question in this whole field is not whether exotic physics is real but who was paid to study it, and that question has a documented answer. Between 2008 and 2010 the Defense Intelligence Agency commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, released under FOIA, on subjects including 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 'Traversable Wormholes, Stargates, and Negative Energy' by Eric W. Davis of EarthTech International, and 'Antigravity for Aerospace Applications'. Those are real government contract deliverables on precisely the physics a recovered craft would require, written by named authors, with document control numbers. Two readings are available and this board records both: either the topics were selected because someone had a reason to believe they were relevant, or a sympathetic programme manager funded a literature survey of fringe physics. The strength of the domain is that it does not depend on resolving that - the tasking itself is the tier-1 fact. Scoring high here means an entity authored, commissioned or reviewed this body of work.",
 "domains": [
+"propulsion-2026-09-19",
 "w2-taxonomy"
 ],
 "dossier": null,
@@ -126,6 +226,11 @@
 "members": null,
 "short": "Exotic Technology & Physics",
 "sources": [
+{
+"date": "2004",
+"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics'",
+"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+},
 {
 "date": "2010-01-01",
 "name": "DIRD 15 - Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
@@ -149,7 +254,7 @@
 ],
 "sub": "Technical domain - the physics that would be required, and who was paid to study it",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 452 of 1105, score 32). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 275 of 1111, score 40). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "date": "2008-08-18",

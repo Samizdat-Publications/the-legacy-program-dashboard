@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": "research",
+"band": "custody",
 "claims": [
 {
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04",
@@ -429,7 +429,7 @@
 ],
 "sub": "Roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 194 of 1105, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 196 of 1111, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "2000-09",

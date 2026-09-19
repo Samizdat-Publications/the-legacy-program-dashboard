@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
+"band": "research",
 "claims": [
 {
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/",
@@ -22,6 +22,26 @@
 {
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/",
 "text": "Released PDF is 44 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
+"tier": 1
+},
+{
+"source": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+"text": "THE ZERO-COUNTS, taken over the whole released 45-page PDF on 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and THOMAS TOWNSEND BROWN ABSENT. The three occurrences of 'Brown' are other authors' surnames in the reference list. Alcubierre occurs once, as reference [43], the 1994 Classical and Quantum Gravity citation, and that is its only appearance in this document. A count is checkable and an adjective is not, which is why the node carries numbers.",
+"tier": 1
+},
+{
+"source": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+"text": "Its contents page, as released: 'Concepts for Antigravity Within Newtonian Physics', 'Negating Newtonian Gravity', 'Energy Estimate for Newtonian Levitation', 'Concepts for Antigravity Within General Relativity', 'Antigravity via Gravitomagnetic Forces', 'Forward's Dipole Gravitational Field Generator', 'Felber's Relativistic Antigravity Effect', 'Negative Energy-Induced Antigravity', 'Cosmological Antigravity', 'Pressure as a Source of Gravity', 'Vacuum Energy of Einstein's Cosmological Constant', 'Dark Energy', 'Antigravity Propulsion Application of Dark/Vacuum Energy', 'Quantum Antigravity Propulsion Concepts', 'Antigravity via Quantum Vacuum Zero-Point Fluctuation Force', 'Antigravity via Nonretarded Quantum Interatomic Dispersion Force', 'Conclusion: The Way Forward', with appendices on static radial fields, squeezed quantum vacuum, gravitationally squeezed electromagnetic zero-point fluctuations and the dynamical Casimir effect.",
+"tier": 1
+},
+{
+"source": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+"text": "Its conclusion, 'The Way Forward', verbatim in part: 'This report has reviewed and analyzed a number of antigravity concepts that are found within Newtonian gravity theory, General Relativity Theory, semi-classical quantum gravity theory, quantum field theory, and nonretarded quantum interatomic dispersion force theory. One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments.'",
+"tier": 1
+},
+{
+"source": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
+"text": "And: 'Antigravity forces produced by quantum electromagnetic vacuum ZPF or by nonretarded quantum interatomic dispersion forces in a curved spacetime (that is, gravitational field) are very feeble, but there are proposals based on other theoretical and empirical studies which suggest that these forces can be amplified to macroscopic level. However, there are a number of difficult technical challenges to overcome in order to achieve success.' Its first named next step is that 'Presently, the technology does not exist to achieve the astronomical mass densities, extreme velocities or accelerations of mass motion, and the large device dimensions required to produce large enough antigravity forces for useful propulsion'.",
 "tier": 1
 },
 {
@@ -73,6 +93,32 @@
 ],
 "tier": "A",
 "type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2010-03-30",
+"dateStart": "1994",
+"direction": "in",
+"edgeLabel": "Reference [43] of the antigravity DIRD, and its only appearance in that document",
+"id": "alcubierre-1994",
+"l0": false,
+"label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+"note": "Cited once, in the reference list. Recorded because the count matters to this board: in a 45-page government survey of antigravity, the warp paper appears once and Thomas Townsend Brown does not appear at all.",
+"sources": [
+{
+"date": "1994",
+"name": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77",
+"url": "https://arxiv.org/abs/gr-qc/0009013"
+},
+{
+"date": "2010-03-30",
+"name": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+}
+],
+"tier": "C",
+"type": "research"
 },
 {
 "claimTier": 1,
@@ -197,20 +243,94 @@
 ],
 "tier": "A",
 "type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2010-03-30",
+"dateStart": "2010-03-30",
+"direction": "out",
+"edgeLabel": "The government's own 45-page antigravity survey does not mention Brown at all",
+"id": "thomas-townsend-brown",
+"l0": false,
+"label": "Thomas Townsend Brown",
+"note": "THE ABSENCE EDGE, AND THIS NOTE IS WHAT KEEPS IT HONEST. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0; 'Brown' occurs three times and all three are other authors' surnames in the reference list (L. S. Brown and Maclay 1969, H. R. Brown as co-editor of 'The Philosophy of Vacuum', J. H. Brownell 2008). WHAT THIS IS: a Tier 1 fact about a named, dated, openable document, checkable in 45 pages. WHAT THIS IS NOT: a finding that DIA considered Brown and rejected him, because the document shows no sign of having considered him. NOBODY DENIED ANYTHING, which is why the verdict is association and not directed, and the edge must never be rendered or summarised as 'DIA rejected Brown'.",
+"sources": [
+{
+"date": "2010-03-30",
+"name": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": null,
-"deg": 5,
-"denials": [],
+"deg": 7,
+"denials": [
+{
+"by": {
+"id": "dird-antigravity-for-aerospace-applications",
+"label": "Antigravity for Aerospace Applications"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "The government's own 45-page antigravity survey does not mention Brown at all",
+"note": "THE ABSENCE EDGE, AND THIS NOTE IS WHAT KEEPS IT HONEST. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0; 'Brown' occurs three times and all three are other authors' surnames in the reference list (L. S. Brown and Maclay 1969, H. R. Brown as co-editor of 'The Philosophy of Vacuum', J. H. Brownell 2008). WHAT THIS IS: a Tier 1 fact about a named, dated, openable document, checkable in 45 pages. WHAT THIS IS NOT: a finding that DIA considered Brown and rejected him, because the document shows no sign of having considered him. NOBODY DENIED ANYTHING, which is why the verdict is association and not directed, and the edge must never be rendered or summarised as 'DIA rejected Brown'.",
+"of": {
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+},
+"sources": [
+{
+"date": "2010-03-30",
+"name": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+}
+]
+}
+],
 "desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-30, DIA-08-1003-018, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
 "domains": [
 "_rs-aawsap-dirds",
 "_rs-archive-mirror",
+"propulsion-2026-09-19",
 "w7-dirds-1"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "DIA-08-1003-018, complete released PDF, word-counted 2026-09-19",
+"text": "THE ZERO-COUNTS, over the complete released 45-page PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and THOMAS TOWNSEND BROWN ABSENT ENTIRELY. The three occurrences of 'Brown' are other authors' surnames in the reference list. The government's own antigravity survey never reaches for the man the lore treats as its origin.",
+"tier": 1
+},
+{
+"source": "stated inference, recorded so the zero-count is not over-read",
+"text": "WHAT THE ZERO-COUNT IS AND IS NOT EVIDENCE FOR. It is evidence about how a funded 2009 literature review of antigravity regarded Thomas Townsend Brown, which is: not worth a sentence. It is NOT evidence that Brown's patents say nothing, which the board establishes separately from the patents themselves, nor proof that the subject is empty.",
+"tier": 3
+},
+{
+"source": "DIA-08-1003-018, released cover and inside cover, opened 2026-09-19",
+"text": "THE PAPER IS ATTRIBUTED TO NOBODY IN THE RELEASED COPY. The author's name is withheld under FOIA exemption (b)(6) and the 'Prepared by:' line under (b)(3) 10 USC 424. Any attribution of this document to a named author rests on something other than the released cover.",
+"tier": 1
+}
+],
+"narrative": "The popular account of antigravity research has a founding figure. Thomas Townsend Brown, his two patents, and the electrogravitics literature of the 1950s are treated as the origin of the whole subject, and this board carries them because the account carries them.\n\nThis document is what happens when the government surveys the same field. Over the complete released 45-page PDF, taken on 19 September 2026: **Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and Thomas Townsend Brown absent entirely.** The three occurrences of the string 'Brown' are other authors' surnames in the reference list.\n\nWhat is in it instead is its own contents page: 'Concepts for Antigravity Within Newtonian Physics', 'Negating Newtonian Gravity', 'Energy Estimate for Newtonian Levitation', and the corresponding treatment within general relativity. It is a physics review, and it reaches for the physics rather than for the lore.\n\nThe careful statement of what this proves, and it is narrower than it first looks: a survey's silence is evidence about the survey, not proof that a subject is empty. What it establishes is that when a defence intelligence agency paid for a literature review of antigravity in 2009, the reviewer did not consider Brown worth a sentence. That is a fact about how the documented research community regards the man the lore treats as its founder, and the board carries it as exactly that and no more.",
+"openQuestions": [
+"The author. The released copy attributes the paper to nobody, and the board asserts no attribution.",
+"Whether an unredacted copy exists in any openable form.",
+"The other reports in the FY2009 series that this board does not yet carry."
+],
+"roles": [
+"research",
+"concealment"
+],
+"whatItIs": "A Defense Intelligence Reference Document titled 'Antigravity for Aerospace Applications', series 'Acquisition Threat Support', published 30 March 2010, produced in FY2009 under the Defense Intelligence Agency's Advanced Aerospace Weapon System Applications programme. The released copy is 44 pages, UNCLASSIFIED//FOR OFFICIAL USE ONLY, with the author's name withheld under FOIA exemption (b)(6) and the 'Prepared by:' line withheld under (b)(3) 10 USC 424, so the released cover attributes the paper to nobody.",
+"whyImplicated": "It is the United States government's own survey of antigravity, commissioned by a defence intelligence agency, and it is the single best control document this board carries for the propulsion strand. What a government study of a subject contains is evidence. What it does not contain is evidence too, and this one does not contain the thing the lore says is at its centre."
+},
 "entityInfo": null,
 "era": "nd",
 "foia": {
@@ -219,11 +339,30 @@
 },
 "hl": null,
 "id": "dird-antigravity-for-aerospace-applications",
-"l0": false,
+"l0": true,
 "label": "Antigravity for Aerospace Applications",
 "locLabel": null,
-"members": null,
-"short": "Antigravity for Aerospace Applications",
+"members": [
+{
+"cls": "document",
+"id": "alcubierre-1994",
+"label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown",
+"tier": "A"
+}
+],
+"short": "DIA: Antigravity for Aerospace",
 "sources": [
 {
 "date": "2010-03-30",
@@ -246,14 +385,14 @@
 "url": "https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
 },
 {
-"date": null,
-"name": "https://irp.fas.org/dia/aatip-list.pdf",
-"url": "https://irp.fas.org/dia/aatip-list.pdf"
+"date": "2010-03-30",
+"name": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released",
+"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
 },
 {
 "date": null,
-"name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf",
-"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+"name": "https://irp.fas.org/dia/aatip-list.pdf",
+"url": "https://irp.fas.org/dia/aatip-list.pdf"
 },
 {
 "date": null,
@@ -262,7 +401,17 @@
 }
 ],
 "sub": "defense-intelligence-reference-document",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 312 of 1105, score 37). 5 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 121 of 1111, score 55). 7 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
+"timeline": [
+{
+"date": "2010-03-30",
+"id": "tl-2010-03-30-dird-antigravity",
+"label": "DIA's own antigravity survey is issued, and it does not mention Thomas Townsend Brown",
+"precision": "day",
+"strand": "program",
+"text": "DIA-08-1003-018, 'Antigravity for Aerospace Applications', ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis. Word counts over the released PDF: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and Brown absent except as three other authors' surnames in the reference list. THIS IS EVIDENCE ABOUT WHAT THE DOCUMENT CONTAINS AND IS NOT A FINDING THAT DIA CONSIDERED AND REJECTED BROWN.",
+"tier": "B"
+}
+]
 }

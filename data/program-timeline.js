@@ -497,6 +497,17 @@ export const TIMELINE = [
     node: 'project-second-storey'
   },
   {
+    id: 'tl-1952-06-13-brown-abandoned-application',
+    strand: 'program',
+    date: '1952-06-13',
+    precision: 'day',
+    tier: 'A',
+    node: 'thomas-townsend-brown',
+    label: 'Brown files the application that later becomes US 2,949,550, and abandons it',
+    text: 'US 2,949,550 states on its face: \'This invention was disclosed and described in my application Serial No. 293,465, filed June 13, 1952, which application has become abandoned.\' This dates the electrokinetic disclosure five years earlier than the filing the board previously recorded as its start.',
+    source: 'US Patent 2,949,550, complete 6-page text, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf , opened 2026-09-19'
+  },
+  {
     id: 'tl-1952-07-19',
     strand: 'witness',
     date: '1952-07-19',
@@ -740,6 +751,17 @@ export const TIMELINE = [
     node: 'rias-inc'
   },
   {
+    id: 'tl-1957-07-03-brown-2949550-filed',
+    strand: 'program',
+    date: '1957-07-03',
+    precision: 'day',
+    tier: 'A',
+    node: 'thomas-townsend-brown',
+    label: 'US 2,949,550 filed, Serial No. 669,830, assigned to Whitehall-Rand Inc',
+    text: 'Thomas Townsend Brown of Umatilla, Florida files \'Electrokinetic Apparatus\', assignor to Whitehall-Rand, Inc. of Washington D.C., a Delaware corporation. 12 claims, Class 310-5. A private corporate assignee and no government interest statement.',
+    source: 'US Patent 2,949,550, printed header block, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf , opened 2026-09-19'
+  },
+  {
     id: 'tl-1958-04-04-keyhoe-precedent',
     strand: 'coverup',
     date: '1958-04-04',
@@ -749,6 +771,17 @@ export const TIMELINE = [
     label: 'CIA resolves to route Keyhoe\'s UFO inquiries to the Air Force, and to make it a precedent',
     text: 'A CIA memorandum for record on \'Comments on Letters Dealing with Unidentified Flying Objects\' notes that the Air Force was \'most insistent\' on answering his letters itself, that \'the Air Force is endeavoring to impress upon Major Keyhoe and others in a similar position, that his office is the proper place to come for such information\', and concludes: \'I think we can use this procedure as a precedent henceforth in all inquiries regarding UFO\'s.\'',
     source: 'CIA memorandum for record, \'Comments on Letters Dealing with Unidentified Flying Objects\', CIA reading room document 0005516043, reading-room date 4 April 1958, https://archive.org/details/cia-readingroom-document-0005516043'
+  },
+  {
+    id: 'tl-1958-05-09-brown-3187206-filed',
+    strand: 'program',
+    date: '1958-05-09',
+    precision: 'day',
+    tier: 'A',
+    node: 'thomas-townsend-brown',
+    label: 'US 3,187,206 filed, Serial No. 734,342, assigned to Electrokinetics Inc',
+    text: 'Thomas Townsend Brown of Walkertown, North Carolina files the second \'Electrokinetic Apparatus\', assignor by mesne assignments to Electrokinetics, Inc., a Pennsylvania corporation. 23 claims, Class 310-5.',
+    source: 'US Patent 3,187,206, printed header block, https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf , opened 2026-09-19'
   },
   {
     id: 'tl-ffrdc-1958-mitre',
@@ -810,6 +843,17 @@ export const TIMELINE = [
     text: 'Announced by Lt. Gen. Bernard Schriever, Aerospace is created to provide dedicated technical planning for military space and ballistic missile programmes, with charter restrictions the Air Force had not imposed on earlier FFRDCs.',
     tier: 'B',
     node: 'aerospace-corporation'
+  },
+  {
+    id: 'tl-1960-08-16-brown-2949550-granted',
+    strand: 'program',
+    date: '1960-08-16',
+    precision: 'day',
+    tier: 'A',
+    node: 'thomas-townsend-brown',
+    label: 'US 2,949,550 granted. The word \'gravity\' appears zero times in it',
+    text: 'Claim 1 as granted: \'Thrust producing apparatus comprising an electroconductive body having a relatively large, substantially smooth area thereof exposed to the surrounding medium, an electrode supported on said body, insulated therefrom and shaped to produce a concentrated electrostatic field when electrically charged with respect to said body, and power means connected between said body and electrode to impress high voltage thereon whereby to cause relative movement of an ionizable dielectric medium surrounding said electrodes.\' Word counts over all six pages: gravity 0, anti-gravity 0, levitation 0, electrogravitics 0.',
+    source: 'US Patent 2,949,550, complete 6-page text, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf , opened 2026-09-19'
   },
   {
     id: 't-1961-moondust',
@@ -896,6 +940,17 @@ export const TIMELINE = [
     source: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf'
   },
   {
+    id: 'tl-1964-09-30-king-patent-filed',
+    strand: 'program',
+    date: '1964-09-30',
+    precision: 'day',
+    tier: 'C',
+    node: 'king-patent-mhd',
+    label: 'James F. King Jr. files US 3,322,374 from a home address, with no assignee',
+    text: 'Serial No. 400,456, filed from 925 Goodwood Road, Winston-Salem, North Carolina. No assignee, no government interest statement and no secrecy order appear anywhere in the document.',
+    source: 'US Patent 3,322,374, https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md'
+  },
+  {
     id: 'tl-1964-10-13-george-staff-study',
     strand: 'program',
     date: '1964-10-13',
@@ -905,6 +960,17 @@ export const TIMELINE = [
     label: 'Contemporaneous Air Force staff study on the Big Sur imagery',
     text: '\'Preliminary Report on Image Orthicon Photography from Big Sur\', Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, 13 October 1964, by Kingston A. George. Cited by title and date in his 1993 article. NOT OPENED. It is the best unopened lead this cluster produced: a contemporaneous Air Force document about the filming, written three weeks afterwards.',
     source: 'Kingston A. George, \'The Big Sur UFO: An Identified Flying Object\', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf'
+  },
+  {
+    id: 'tl-1965-06-01-brown-3187206-granted',
+    strand: 'program',
+    date: '1965-06-01',
+    precision: 'day',
+    tier: 'A',
+    node: 'thomas-townsend-brown',
+    label: 'US 3,187,206 granted. It opens by describing itself as an electrical thrust device',
+    text: 'First sentence of the specification: \'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields.\' It states that in a dielectric fluid medium \'the forces of reaction appear to be present in that medium\', and in vacuum \'on the solid environmental bodies, such as the walls of the vacuum chamber\'. Word counts over all six pages: gravity 0, anti-gravity 0, scalar 0, electrogravitics 0.',
+    source: 'US Patent 3,187,206, complete 6-page text, https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf , opened 2026-09-19'
   },
   {
     id: 'tl-1965-1209-kecksburg',
@@ -1007,6 +1073,17 @@ export const TIMELINE = [
     text: 'All ten Minuteman missiles of Echo Flight, 341st Strategic Missile Wing, go off alert status. An Air Force teletype the following day concerns loss of strategic alert. Robert Salas would later attribute the cause to an object over the front gate.',
     tier: 'A',
     node: 'malmstrom-echo-flight-1967'
+  },
+  {
+    id: 'tl-1967-05-30-king-patent-granted',
+    strand: 'program',
+    date: '1967-05-30',
+    precision: 'day',
+    tier: 'C',
+    node: 'king-patent-mhd',
+    label: 'US 3,322,374 granted: magnetohydrodynamic propulsion, 9 claims, Class 244-62',
+    text: 'What it claims is a linear induction motor using the surrounding ionised atmosphere as its armature. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. Fifty-nine years later it was offered as evidence that the \'Scalar Physics\' callout on the McCandlish ARV drawing refers to spin-zero scalar particles.',
+    source: 'US Patent 3,322,374, https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md'
   },
   {
     id: 'tl-1967-1127th',
@@ -2312,6 +2389,17 @@ export const TIMELINE = [
     source: 'Internet Archive item \'antigravity\', https://archive.org/details/antigravity ; captions via YouTube video kc10m6HFbDE'
   },
   {
+    id: 'tl-1991-talley-vacuum-null',
+    strand: 'program',
+    date: '1991',
+    precision: 'year',
+    tier: 'C',
+    node: 'canning-nasa-cr-2004-213312',
+    label: 'Air Force contractor reports no detectable propulsive force in high vacuum',
+    text: 'Robert L. Talley, \'Twenty First Century Propulsion Concept\', PL-TR-91-3009, final report for February 1989 to July 1990 on contract FO4611-89-C-0023, Phillips Laboratory, Air Force Systems Command, Edwards AFB. Quoted in NASA/CR-2004-213312: \'Direct experimental results show that under high vacuum conditions... no detectable propulsive force was electrostatically induced by applying a static potential difference... between test device electrodes.\' THE TALLEY REPORT ITSELF HAS NOT BEEN OPENED BY THIS BOARD.',
+    source: 'NASA/CR-2004-213312, quoting Talley PL-TR-91-3009, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19'
+  },
+  {
     id: 'tl-1991-ufo-crash',
     strand: 'program',
     date: '1991',
@@ -2356,6 +2444,17 @@ export const TIMELINE = [
     text: 'Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research publish an investigation concluding against Gerald Anderson, the only claimed first-hand witness to the second 1947 crash site. The field audits its own star witness and publishes against interest.',
     tier: 'A',
     node: 'gerald-anderson'
+  },
+  {
+    id: 'tl-1992-06-yamato-1-sea-trials',
+    strand: 'program',
+    date: '1992-06',
+    precision: 'month',
+    tier: 'C',
+    node: 'yamato-1',
+    label: 'Yamato-1 becomes the world\'s first superconducting MHD-propelled ship',
+    text: 'Trial runs of the Ship and Ocean Foundation\'s experimental vessel, begun as a committee in 1985 under the chairmanship of Yohei Sasakawa and laid down in 1989. THE CONTROL CASE FOR THE WHOLE STRAND: the mechanism the ARV literature offers as evidence of recovered technology was built in public by a civil maritime foundation and reported at an international conference two years later.',
+    source: 'OSTI record and abstract, Sasakawa, Takezawa, Sugawara and Kyotani, World Congress on Superconductivity vol. 1, https://www.osti.gov/biblio/135352 , opened 2026-09-19'
   },
   {
     id: 'ag-tl-1992-nro',
@@ -2491,6 +2590,17 @@ export const TIMELINE = [
     label: 'Baltimore Sun reports the Testors SR-75 Penetrator and XR-7 Thunderdart on sale',
     text: '\'Testor Corp. released the SR-75 Penetrator and XR-7 Thunderdart, the latest in a series of highly speculative military miniature models\', designed by \'John Andrews, an aviation historian in San Diego who designed the new models, as well as the F-19\'. The Air Force spokeswoman Capt. Mary Dillon is quoted: \'We\'re not saying no comment, we\'re saying such a plane does not exist.\' Fouche\'s presentation of August 1998 presents the same SR-75 Penetrator designation and the same mothership architecture as inside knowledge.',
     source: 'Baltimore Sun, https://www.baltimoresun.com/1993/12/25/for-latest-spy-plane-look-under-your-tree-2/'
+  },
+  {
+    id: 'tl-1994-alcubierre-warp-paper',
+    strand: 'program',
+    date: '1994',
+    precision: 'year',
+    tier: 'B',
+    node: 'alcubierre-1994',
+    label: 'Alcubierre publishes the warp-drive metric, and states that exotic matter will be needed',
+    text: 'Classical and Quantum Gravity 11-5, L73-L77. Its abstract closes: \'just as it happens with wormholes, exotic matter will be needed in order to generate a distortion of spacetime like the one discussed here.\' The body states that the metric \'violates all three energy conditions\' and that the energy density seen by Eulerian observers \'is everywhere negative\'. The word \'device\' appears zero times in the paper.',
+    source: 'Miguel Alcubierre, \'The warp drive: hyper-fast travel within general relativity\', read from the author\'s arXiv posting, https://arxiv.org/abs/gr-qc/0009013 , opened 2026-09-19'
   },
   {
     id: 't-1994-schiff',
@@ -2694,6 +2804,17 @@ export const TIMELINE = [
     label: 'Petition to withdraw the 1990 guilty plea is refused',
     text: 'Lazar petitioned to withdraw the plea, citing post-traumatic stress, hidden federal records and inadequate legal representation. The District Attorney opposed, arguing \'that Lazar\'s new claims were irrelevant to his admitted and documented criminal activity\'. The judge denied the petition and the conviction stands.',
     source: 'Douglas Dean Johnson, 31 January 2021, https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/'
+  },
+  {
+    id: 'tl-1996-nasa-bpp-established',
+    strand: 'program',
+    date: '1996',
+    precision: 'year',
+    tier: 'B',
+    node: 'nasa-bpp',
+    label: 'NASA establishes the Breakthrough Propulsion Physics Project',
+    text: 'From its own summary document: \'This emerging science, combined with the realization that rockets are fundamentally inadequate for interstellar exploration, led NASA to establish the "Breakthrough Propulsion Physics (BPP)" Project in 1996.\' Three grand challenges: propellantless propulsion, hyper-fast travel, and breakthrough spacecraft power.',
+    source: 'NASA/TM-2004-213082, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19'
   },
   {
     id: 'tl-1996-ranch',
@@ -3201,6 +3322,17 @@ export const TIMELINE = [
     node: 'caus'
   },
   {
+    id: 'tl-2002-nasa-bpp-ended',
+    strand: 'program',
+    date: '2002',
+    precision: 'year',
+    tier: 'B',
+    node: 'nasa-bpp',
+    label: 'NASA support for the project ends after six years and sixteen research tasks',
+    text: '\'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002... Of 16 incremental research tasks completed by the project and from other sponsors, about a third were found not to be viable, a quarter have clear opportunities for sequels, and the rest remain unresolved.\' The circumstances of the closure were not opened and are not asserted.',
+    source: 'NASA/TM-2004-213082, abstract, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19'
+  },
+  {
     id: 'tl-2002-dolan',
     strand: 'program',
     date: '2002',
@@ -3362,6 +3494,28 @@ export const TIMELINE = [
     text: 'GAO-04-332 finds that DoD \'cannot provide adequate assurances that its oversight ensures the protection of classified information\' at more than 11,000 cleared contractor facilities. Footnote 2 records that, by agreement with committee staff, the review \'did not include DSS\'s oversight of special access programs at contractor facilities.\'',
     tier: 'A',
     node: 'gao-04-332'
+  },
+  {
+    id: 'tl-2004-06-millis-breakthrough-tm',
+    strand: 'program',
+    date: '2004-06',
+    precision: 'month',
+    tier: 'B',
+    node: 'millis-tm-2004-213082',
+    label: 'NASA publishes the finding that Biefeld-Brown devices are ion wind',
+    text: 'NASA/TM-2004-213082, prepared for a NASA/DoD-cosponsored conference in Seattle, 24 to 26 June 2004. Section 3.2.7: \'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These "Biefeld-Brown," "Lifter" and "Asymmetrical Capacitor Thrusters" are not viable candidates for breakthrough physics propulsion.\' Section 3.3.1 records that \'metric engineering\' had emerged at aerospace conferences and that \'The origin of this term is unknown\'.',
+    source: 'NASA/TM-2004-213082, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19'
+  },
+  {
+    id: 'tl-2004-10-canning-asymmetrical-capacitors',
+    strand: 'program',
+    date: '2004-10',
+    precision: 'month',
+    tier: 'C',
+    node: 'canning-nasa-cr-2004-213312',
+    label: 'NASA contractor report models asymmetrical capacitor thrust as ion drift',
+    text: 'NASA/CR-2004-213312. \'In spite of decades of speculation about possible new physical principles being responsible for the thrust produced by ACTs and lifters, we find no evidence to support such a conclusion. On the contrary, we find that their operation is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions.\' Its reference list cites both Brown patents and GB 300,311 by number.',
+    source: 'NASA/CR-2004-213312, Conclusions, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19'
   },
   {
     id: 'av-2004-11-10',
@@ -4081,6 +4235,39 @@ export const TIMELINE = [
     node: 'cia'
   },
   {
+    id: 'tl-2010-03-30-dird-antigravity',
+    strand: 'program',
+    date: '2010-03-30',
+    precision: 'day',
+    tier: 'B',
+    node: 'dird-antigravity-for-aerospace-applications',
+    label: 'DIA\'s own antigravity survey is issued, and it does not mention Thomas Townsend Brown',
+    text: 'DIA-08-1003-018, \'Antigravity for Aerospace Applications\', ICOD 1 December 2009, \'Acquisition Threat Support\', 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis. Word counts over the released PDF: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and Brown absent except as three other authors\' surnames in the reference list. THIS IS EVIDENCE ABOUT WHAT THE DOCUMENT CONTAINS AND IS NOT A FINDING THAT DIA CONSIDERED AND REJECTED BROWN.',
+    source: 'DIA-08-1003-018, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19'
+  },
+  {
+    id: 'tl-2010-03-30-dird-maverick-inventor',
+    strand: 'program',
+    date: '2010-03-30',
+    precision: 'day',
+    tier: 'A',
+    node: 'dird-series',
+    label: 'Hathaway\'s DIRD on maverick inventors is issued, naming Hutchison zero times',
+    text: 'DIA-08-1003-017, \'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?\', ICOD 1 December 2009, 20 pages as released, attributed on the DIA list to Dr George Hathaway of Hathaway Consulting, who is the author of the book \'Mindbending: The Hutchison Files\'. Word counts: Hutchison 0, Pharos 0, levitation 0.',
+    source: 'DIA-08-1003-017, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf , opened 2026-09-19'
+  },
+  {
+    id: 'tl-2010-04-02-dird-warp-drive',
+    strand: 'program',
+    date: '2010-04-02',
+    precision: 'day',
+    tier: 'B',
+    node: 'dird-warp-drive-dark-energy-and-the',
+    label: 'DIA\'s warp DIRD is issued, tabulating the requirement at -10^42 J for light speed',
+    text: 'DIA-08-1004-001, \'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\', ICOD 1 December 2009, 34 pages as released. Its Table 3, after the reduction it argues for, gives -1.00 x 10^42 J at light speed and -4.00 x 10^42 J at twice light speed; its Table 2 gives -3.03 x 10^50 J at light speed. Its reference 1 is Alcubierre 1994.',
+    source: 'DIA-08-1004-001, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf , opened 2026-09-19'
+  },
+  {
     id: 'st-2010-04-06',
     strand: 'program',
     date: '2010-04-06',
@@ -4135,6 +4322,17 @@ export const TIMELINE = [
     text: 'Robert Hastings convenes seven named USAF veterans at the National Press Club. CNN streams it live. Signed affidavits from Salas, Halt, McDonough, Jamison, Arneson, Fenstermacher and Nelson are on file and published in facsimile. Anonymous testimony becomes on-the-record testimony.',
     tier: 'A',
     node: 'npc-2010-ufos-nukes'
+  },
+  {
+    id: 'tl-2010-11-21-dird-mhd',
+    strand: 'program',
+    date: '2010-11-21',
+    precision: 'day',
+    tier: 'C',
+    node: 'dird-mhd-air-breathing-propulsion-and-power',
+    label: 'DIA\'s MHD DIRD is issued, and it is about hypersonic aerodynamics',
+    text: 'DIA-08-1011-006, \'MHD Air Breathing Propulsion and Power for Aerospace Applications\', ICOD 20 July 2010, \'Defense Futures\', 33 pages as released, attributed on the DIA list to Dr S Macheret of Lockheed Martin. Its Summary reports \'significant difficulties... weight, complexity, higher power\' and that the Ajax energy bypass concept \'has been shown to be meaningless below at least Mach 12\'. Word counts: UFO 0, antigravity 0, scalar 0, zero point 0.',
+    source: 'DIA-08-1011-006, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf , opened 2026-09-19'
   },
   {
     id: 'tl-2010-transfer',
@@ -4486,6 +4684,17 @@ export const TIMELINE = [
     node: 'dodm-5205-07-v1'
   },
   {
+    id: 'tl-2015-07-24-pais-emfg-filed',
+    strand: 'program',
+    date: '2015-07-24',
+    precision: 'day',
+    tier: 'B',
+    node: 'pais-patent-emfg',
+    label: 'Application 14/807,943 filed for the Electromagnetic Field Generator',
+    text: 'The first of the five Pais filings, assigned to the United States as represented by the Secretary of the Navy. It is the device NAWCAD would later test.',
+    source: 'Google Patents record for US 10,135,366 B2, https://patents.google.com/patent/US10135366B2/en , opened 2026-09-19'
+  },
+  {
     id: 'bb-tl-2015-fmr',
     strand: 'oversight',
     date: '2015-09',
@@ -4597,6 +4806,17 @@ export const TIMELINE = [
     node: 'pais-patent-imrd'
   },
   {
+    id: 'tl-2016-04-28-pais-imrd-filed',
+    strand: 'program',
+    date: '2016-04-28',
+    precision: 'day',
+    tier: 'A',
+    node: 'pais-patent-imrd',
+    label: 'Application 15/141,270 filed: \'Craft using an inertial mass reduction device\'',
+    text: 'Assignee on the granted patent: \'The United States of America as represented by the Secretary of the Navy, Washington, DC (US)\'. Attorney of record: \'Mark O Glut; NAWCAD\'. Prior publication US 2017/0313446 A1 of 2 November 2017.',
+    source: 'US Patent 10,144,532 B2, printed front page, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19'
+  },
+  {
     id: 'tl-pais-security-review',
     strand: 'program',
     date: '2016-05-02',
@@ -4625,6 +4845,17 @@ export const TIMELINE = [
     text: 'Two months after the Army adjustments report, the Department of Defense identifies to the Federal Accounting Standards Advisory Board the need for a standard reconciling generally accepted accounting principles with classification obligations under Executive Order 13526. That request becomes SFFAS 56.',
     tier: 'A',
     node: 'sffas-56'
+  },
+  {
+    id: 'tl-2016-10-nawcad-pais-testing-begins',
+    strand: 'program',
+    date: '2016-10',
+    precision: 'month',
+    tier: 'B',
+    node: 'pais-patent-emfg',
+    label: 'NAWCAD begins testing the High Energy Electromagnetic Field Generator',
+    text: 'Timothy Boulay, Communications Director at NAWCAD, on the record: \'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019.\' The $508,000 spent corresponds closely to the two $250,000 lines the PAX 205 invention-disclosure briefing proposed.',
+    source: 'Brett Tingley, The War Zone, quoting Timothy Boulay of NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19'
   },
   {
     id: 'tl-2016-11-28-moscovium-named',
@@ -5055,6 +5286,17 @@ export const TIMELINE = [
     node: 'pais-patent-imrd'
   },
   {
+    id: 'tl-2018-12-04-pais-imrd-granted',
+    strand: 'program',
+    date: '2018-12-04',
+    precision: 'day',
+    tier: 'A',
+    node: 'pais-patent-imrd',
+    label: 'US 10,144,532 granted, with Philip J Bonzell named as primary examiner',
+    text: 'The printed front page gives \'Primary Examiner - Philip J Bonzell\', the same person the board\'s existing Tier 1 claim names as the addressee of the Sheehy letter of 15 December 2017. 4 claims, 1 drawing sheet, term extended 153 days under 35 U.S.C. 154(b). A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS.',
+    source: 'US Patent 10,144,532 B2, printed front page, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19'
+  },
+  {
     id: 'sap-tl-2018-115390',
     date: '2018-12-21',
     label: 'House Oversight and Senate HSGAC written into the SAP reporting statute',
@@ -5321,6 +5563,17 @@ export const TIMELINE = [
     node: 'dd-form-1910-2017'
   },
   {
+    id: 'tl-2019-09-nawcad-pais-testing-concludes',
+    strand: 'program',
+    date: '2019-09',
+    precision: 'month',
+    tier: 'B',
+    node: 'pais-patent-emfg',
+    label: 'NAWCAD concludes testing: the Pais Effect could not be proven',
+    text: 'Timothy Boulay, Communications Director at NAWCAD: \'When NAWCAD concluded testing in September 2019, the "Pais Effect" could not be proven.\' Three years, $508,000, of which $462,000 was salaries. The sponsor tested its own patent and reported the negative result.',
+    source: 'Brett Tingley, The War Zone, quoting Timothy Boulay of NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19'
+  },
+  {
     id: 'tl-2019-09-10-gradisher',
     strand: 'program',
     date: '2019-09-10',
@@ -5576,6 +5829,17 @@ export const TIMELINE = [
     text: 'AARO confirms that one intelligence community CAP was \'unnecessarily expanded in 2021 to include a UAP reverse-engineering mission\' without evidence or mission need, and was later disestablished.',
     tier: 'A',
     node: 'aaro-historical-record-vol1'
+  },
+  {
+    id: 'tl-2021-02-01-nawcad-statement',
+    strand: 'program',
+    date: '2021-02-01',
+    precision: 'day',
+    tier: 'B',
+    node: 'pais-patent-emfg',
+    label: 'The Navy says so publicly, through a named spokesman',
+    text: 'Brett Tingley, \'The Navy Finally Speaks Up About Its Bizarre "UFO Patent" Experiments\', The War Zone, updated 1 February 2021. This is the citation that replaces the board\'s previous encyclopedia sourcing for the same fact: a named NAWCAD official quoted by a named reporter, giving the window, the sum, the salary share and the result.',
+    source: 'Brett Tingley, The War Zone, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19'
   },
   {
     id: 'tl-2021-02-10-stone-dies',

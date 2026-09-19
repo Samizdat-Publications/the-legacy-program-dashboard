@@ -176,7 +176,7 @@
 "url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "investigative"
 },
 {
@@ -339,7 +339,7 @@
 "cls": "location",
 "id": "l-la",
 "label": "Los Angeles and Burbank, California",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "event",
@@ -389,6 +389,6 @@
 ],
 "sub": "FOIA document archive founded by John Greenewald Jr., 1996",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 196 of 1105, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 198 of 1111, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": []
 }

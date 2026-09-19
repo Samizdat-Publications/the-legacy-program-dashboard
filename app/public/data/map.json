@@ -17,12 +17,12 @@
    "label": "funding"
   },
   {
-   "id": "research",
-   "label": "research"
-  },
-  {
    "id": "oversight",
    "label": "oversight"
+  },
+  {
+   "id": "research",
+   "label": "research"
   },
   {
    "id": "disclosure",
@@ -31,18 +31,33 @@
  ],
  "cells": {
   "custody.0": [
+   "afswc-tr-59-39",
+   "atic",
    "atomic-energy-commission",
+   "battelle",
    "defense-support-program",
+   "eg-and-g",
+   "fab",
+   "lanl",
+   "lockheed-skunk-works",
    "mitre-corporation",
-   "project-blue-book"
+   "nasa",
+   "project-blue-book",
+   "sandia"
   ],
   "custody.1": [
+   "disclosure-project",
    "dod-sapco",
+   "ev-noite-ovnis-1986",
+   "klas-tv",
    "mj-12-documents",
+   "operacao-prato",
    "sac-overflights-1975",
    "the-black-vault"
   ],
   "custody.2": [
+   "arquivo-nacional-ufo",
+   "disclosure-project-briefing-2001",
    "nimitz-2004",
    "ousdi",
    "podesta-delonge-mccasland-email-2016",
@@ -51,11 +66,16 @@
   "custody.3": [
    "aaro",
    "burlison-mitre-letter-2026",
+   "gerb-mitre-investigation",
    "nara-rg615",
    "nara-uap-collection",
    "pursue-releases",
    "samdt-797",
    "uapda-2023"
+  ],
+  "custody.nd": [
+   "us-navy",
+   "wayne-state-university"
   ],
   "disclosure.0": [
    "malmstrom-echo-flight-1967",
@@ -140,36 +160,22 @@
    "waived-sap-notification-group"
   ],
   "research.0": [
-   "afswc-tr-59-39",
-   "atic",
-   "battelle",
    "blue-book-special-report-14",
    "condon-committee",
-   "eg-and-g",
-   "fab",
-   "lanl",
-   "lockheed-skunk-works",
    "mkultra",
-   "nasa",
    "robertson-panel",
-   "sandia",
    "talbert-gravity-series-1955"
   ],
   "research.1": [
    "cefaa",
    "cometa",
-   "disclosure-project",
-   "ev-noite-ovnis-1986",
-   "klas-tv",
-   "operacao-prato",
    "setka-program"
   ],
   "research.2": [
-   "arquivo-nacional-ufo",
-   "disclosure-project-briefing-2001",
    "doc-condign-report",
    "doc-condign-vol3",
    "geipan",
+   "millis-tm-2004-213082",
    "odni",
    "pais-patent-imrd"
   ],
@@ -178,7 +184,6 @@
    "aaro-historical-record-vol2",
    "americans-for-safe-aerospace",
    "galileo-project",
-   "gerb-mitre-investigation",
    "michels-gerb-structural-episode",
    "nasa-uap-ist",
    "paper-nolan-vallee-2022",
@@ -186,10 +191,11 @@
    "uap-task-force"
   ],
   "research.nd": [
+   "dird-antigravity-for-aerospace-applications",
+   "dird-mhd-air-breathing-propulsion-and-power",
+   "dird-warp-drive-dark-energy-and-the",
    "ndaa-fy2023-sec-6802",
-   "senado-brasil",
-   "us-navy",
-   "wayne-state-university"
+   "senado-brasil"
   ],
   "retrieval.0": [
    "afosi",
@@ -989,7 +995,31 @@
   },
   {
    "a": "aawsap",
+   "b": "dird-antigravity-for-aerospace-applications",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "dird-mhd-air-breathing-propulsion-and-power",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aawsap",
    "b": "dird-series",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "dird-warp-drive-dark-energy-and-the",
    "tier": 1,
    "types": [
     "programmatic"
@@ -1597,6 +1627,22 @@
   },
   {
    "a": "dia",
+   "b": "dird-antigravity-for-aerospace-applications",
+   "tier": 1,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "dia",
+   "b": "dird-warp-drive-dark-energy-and-the",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dia",
    "b": "inscom",
    "tier": 1,
    "types": [
@@ -1633,6 +1679,46 @@
    "tier": 2,
    "types": [
     "institutional"
+   ]
+  },
+  {
+   "a": "dird-antigravity-for-aerospace-applications",
+   "b": "dird-series",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "dird-antigravity-for-aerospace-applications",
+   "b": "earthtech-international",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dird-mhd-air-breathing-propulsion-and-power",
+   "b": "dird-series",
+   "tier": 1,
+   "types": [
+    "programmatic"
+   ]
+  },
+  {
+   "a": "dird-mhd-air-breathing-propulsion-and-power",
+   "b": "lockheed-martin",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "dird-series",
+   "b": "dird-warp-drive-dark-energy-and-the",
+   "tier": 1,
+   "types": [
+    "programmatic"
    ]
   },
   {
@@ -2672,7 +2758,7 @@
   {
    "a": "pais-patent-imrd",
    "b": "us-navy",
-   "tier": 2,
+   "tier": 1,
    "types": [
     "institutional"
    ]
@@ -2877,6 +2963,7 @@
     "uap-task-force",
     "arquivo-nacional-ufo",
     "operacao-prato",
+    "dird-antigravity-for-aerospace-applications",
     "klas-tv",
     "aawsap",
     "rendlesham-1980",
@@ -2895,7 +2982,7 @@
     "carve-out"
    ],
    "label": "The custody chain",
-   "onMap": 55,
+   "onMap": 56,
    "total": 204
   },
   {
@@ -2928,6 +3015,9 @@
     "nicap",
     "cia",
     "aaro-fy2025-annual-report",
+    "millis-tm-2004-213082",
+    "us-navy",
+    "dird-antigravity-for-aerospace-applications",
     "hearing-2025-09-09",
     "aaro-fy2024-annual-report",
     "immaculate-constellation-12-page-report",
@@ -2947,8 +3037,8 @@
     "waived-usap-mechanism"
    ],
    "label": "Who denied what",
-   "onMap": 43,
-   "total": 149
+   "onMap": 46,
+   "total": 153
   },
   {
    "blurb": "States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument.",
@@ -3200,7 +3290,7 @@
    "A": 1,
    "C": 3,
    "D": 2,
-   "band": "research",
+   "band": "custody",
    "cls": "document",
    "cluster": "research",
    "dateStart": "1959-06-19",
@@ -3230,7 +3320,7 @@
    "A": 0,
    "C": 1,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "other",
    "dateStart": "2009",
@@ -3254,13 +3344,13 @@
    "id": "arv-fluxliner",
    "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
    "short": "ARV / Flux Liner",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "other",
    "dateStart": "1951",
@@ -3320,7 +3410,7 @@
    "A": 2,
    "C": 3,
    "D": 1,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "other",
    "dateStart": "1929",
@@ -3530,6 +3620,36 @@
    "A": 0,
    "C": 0,
    "D": 0,
+   "band": "research",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "dird-antigravity-for-aerospace-applications",
+   "label": "Antigravity for Aerospace Applications",
+   "short": "DIA: Antigravity for Aerospace",
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": "research",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "dird-mhd-air-breathing-propulsion-and-power",
+   "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
+   "short": "DIA: MHD Air Breathing Propulsion",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 0,
    "band": "reverse-engineering",
    "cls": "document",
    "cluster": "other",
@@ -3544,8 +3664,23 @@
   {
    "A": 0,
    "C": 0,
-   "D": 3,
+   "D": 0,
    "band": "research",
+   "cls": "document",
+   "cluster": "other",
+   "dateStart": null,
+   "era": "nd",
+   "hl": null,
+   "id": "dird-warp-drive-dark-energy-and-the",
+   "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
+   "short": "DIA: Warp Drive and Dark Energy",
+   "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "custody",
    "cls": "program",
    "cluster": "other",
    "dateStart": "1993",
@@ -3560,7 +3695,7 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "document",
    "cluster": "witness",
    "dateStart": "2001-04",
@@ -3695,7 +3830,7 @@
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "contractor",
    "dateStart": "1947",
@@ -3725,7 +3860,7 @@
    "A": 2,
    "C": 1,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "event",
    "cluster": "other",
    "dateStart": "1986-05-19",
@@ -3740,7 +3875,7 @@
    "A": 2,
    "C": 2,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "other",
    "dateStart": "1941",
@@ -3794,7 +3929,7 @@
    "id": "gao-nsiad-95-187",
    "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
    "short": "GAO/NSIAD-95-187",
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -3815,7 +3950,7 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "document",
    "cluster": "research",
    "dateStart": "2026",
@@ -4025,7 +4160,7 @@
    "A": 0,
    "C": 0,
    "D": 2,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "other",
    "dateStart": "1981",
@@ -4070,7 +4205,7 @@
    "A": 3,
    "C": 2,
    "D": 1,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "ffrdc",
    "dateStart": "1943",
@@ -4100,7 +4235,7 @@
    "A": 3,
    "C": 3,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "contractor",
    "dateStart": "1943",
@@ -4155,6 +4290,21 @@
    "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
    "short": "'The Pentagon's UFO Program Is Real'",
    "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 1,
+   "band": "research",
+   "cls": "document",
+   "cluster": "research",
+   "dateStart": "2004-06",
+   "era": "2",
+   "hl": null,
+   "id": "millis-tm-2004-213082",
+   "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+   "short": "NASA/TM-2004-213082, Millis",
+   "tier": "B"
   },
   {
    "A": 3,
@@ -4235,7 +4385,7 @@
    "A": 1,
    "C": 0,
    "D": 3,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "other",
    "dateStart": "1958-07-29",
@@ -4520,7 +4670,7 @@
    "A": 2,
    "C": 2,
    "D": 2,
-   "band": "research",
+   "band": "custody",
    "cls": "program",
    "cluster": "other",
    "dateStart": "1977-10-20",
@@ -4775,7 +4925,7 @@
    "A": 3,
    "C": 3,
    "D": 1,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "ffrdc",
    "dateStart": "1949",
@@ -4972,7 +5122,7 @@
    "D": 3,
    "band": "reverse-engineering",
    "cls": "program",
-   "cluster": "witness",
+   "cluster": "other",
    "dateStart": "1998-08",
    "era": "1",
    "hl": null,
@@ -5105,7 +5255,7 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "ic",
    "dateStart": null,
@@ -5114,7 +5264,7 @@
    "id": "us-navy",
    "label": "United States Navy",
    "short": "United States Navy",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -5195,7 +5345,7 @@
    "A": 0,
    "C": 0,
    "D": 0,
-   "band": "research",
+   "band": "custody",
    "cls": "institution",
    "cluster": "research",
    "dateStart": null,
@@ -5237,7 +5387,7 @@
    "tier": "B"
   }
  ],
- "source": "0e80372c95cd",
+ "source": "f1120bd5a0fa",
  "summarised": [
   {
    "a": "aaro",
@@ -5452,7 +5602,6 @@
    "b": "earthtech-international",
    "via": [
     "dird-advanced-space-propulsion-based-on-vacuum",
-    "dird-antigravity-for-aerospace-applications",
     "dird-concepts-for-extracting-energy-from-the",
     "dird-laser-lightcraft-nanosatellites",
     "dird-quantum-tomography-of-negative-energy-states",
@@ -5464,7 +5613,6 @@
    "b": "lockheed-martin",
    "via": [
     "dird-aneutronic-fusion-propulsion-2",
-    "dird-mhd-air-breathing-propulsion-and-power",
     "dird-ultracapacitors-as-energy-and-power-storage",
     "vincent-teofilo"
    ]
@@ -5485,6 +5633,14 @@
    "via": [
     "ryan-graves",
     "tim-gallaudet"
+   ]
+  },
+  {
+   "a": "arv-fluxliner",
+   "b": "dird-antigravity-for-aerospace-applications",
+   "via": [
+    "eric-davis",
+    "thomas-townsend-brown"
    ]
   },
   {
@@ -5712,7 +5868,6 @@
     "dird-aneutronic-fusion-propulsion",
     "dird-aneutronic-fusion-propulsion-2",
     "dird-anomalous-acute-and-subacute-field-effects",
-    "dird-antigravity-for-aerospace-applications",
     "dird-laser-lightcraft-nanosatellites",
     "dird-negative-mass-propulsion",
     "dird-pulsed-high-power-microwave-source-technology",
@@ -5721,8 +5876,7 @@
     "dird-technological-approaches-to-controlling-external-devices",
     "dird-the-role-of-superconductors-in-gravity",
     "dird-the-space-communication-implications-of-quantum",
-    "dird-traversable-wormholes-stargates-and-negative-energy",
-    "dird-warp-drive-dark-energy-and-the"
+    "dird-traversable-wormholes-stargates-and-negative-energy"
    ]
   },
   {
@@ -5738,7 +5892,6 @@
    "b": "earthtech-international",
    "via": [
     "dird-advanced-space-propulsion-based-on-vacuum",
-    "dird-antigravity-for-aerospace-applications",
     "dird-laser-lightcraft-nanosatellites",
     "dird-traversable-wormholes-stargates-and-negative-energy"
    ]
@@ -5760,11 +5913,26 @@
    ]
   },
   {
+   "a": "dird-antigravity-for-aerospace-applications",
+   "b": "dird-warp-drive-dark-energy-and-the",
+   "via": [
+    "alcubierre-1994",
+    "eric-davis"
+   ]
+  },
+  {
+   "a": "dird-antigravity-for-aerospace-applications",
+   "b": "millis-tm-2004-213082",
+   "via": [
+    "alcubierre-1994",
+    "thomas-townsend-brown"
+   ]
+  },
+  {
    "a": "dird-series",
    "b": "lockheed-martin",
    "via": [
     "dird-aneutronic-fusion-propulsion-2",
-    "dird-mhd-air-breathing-propulsion-and-power",
     "dird-ultracapacitors-as-energy-and-power-storage"
    ]
   },
@@ -6112,6 +6280,14 @@
    "via": [
     "d-contracting",
     "luis-elizondo"
+   ]
+  },
+  {
+   "a": "millis-tm-2004-213082",
+   "b": "nasa",
+   "via": [
+    "canning-nasa-cr-2004-213312",
+    "nasa-bpp"
    ]
   },
   {

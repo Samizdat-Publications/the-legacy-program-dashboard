@@ -2,42 +2,42 @@
  "note": "Deliberately accepted counts. Every change here should be explainable in the commit message.",
  "counts": {
   "people": 331,
-  "entities": 774,
-  "edges": 2609,
-  "timeline": 1002,
+  "entities": 780,
+  "edges": 2632,
+  "timeline": 1026,
   "entity_classes": {
-   "document": 226,
+   "document": 230,
    "domain": 59,
    "event": 86,
    "institution": 195,
    "legislation": 57,
    "location": 71,
-   "program": 80
+   "program": 82
   },
   "entity_tiers": {
-   "A": 164,
-   "B": 387,
-   "C": 554
+   "A": 165,
+   "B": 389,
+   "C": 557
   },
   "claim_tiers": {
-   "1": 3550,
-   "2": 1571,
-   "3": 551
+   "1": 3620,
+   "2": 1574,
+   "3": 561
   },
   "edge_tiers": {
-   "1": 1703,
-   "2": 680,
-   "3": 226
+   "1": 1720,
+   "2": 681,
+   "3": 231
   },
-  "unique_source_urls": 1626,
-  "l0_nodes": 145,
-  "l0_edges_direct": 279,
-  "l0_edges_summarised": 132,
-  "ledger": 942,
+  "unique_source_urls": 1636,
+  "l0_nodes": 149,
+  "l0_edges_direct": 289,
+  "l0_edges_summarised": 136,
+  "ledger": 944,
   "path_only": 17,
   "unattached": 1,
-  "l0_with_dossier": 145,
-  "l0_dossier_claims": 1730,
+  "l0_with_dossier": 149,
+  "l0_dossier_claims": 1742,
   "people_with_date": 316,
   "locations_with_coords": 45
  }

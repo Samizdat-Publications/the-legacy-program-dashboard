@@ -15,14 +15,14 @@
 "tier": 2
 },
 {
-"source": "Scott interview notes transcript p 10, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , 1990-12-03; Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12; arvp.co.uk FLUX 1988 page, https://www.arvp.co.uk/flux-01/ , read 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"source": "Scott interview notes transcript p 10, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , 1990-12-03; Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12; arvp.co.uk FLUX 1988 page, https://www.arvp.co.uk/flux-01/ , read 2026-09-18",
 "text": "THE SIZES HAVE DRIFTED, AND THE DRIFT RUNS ONE WAY, across three opened documents. The 1990 interview notes give 'The small one was like 20 ft, the next 60 ft. diameter and the next one,...maybe 120 ft. diam. Just a guess; don't hold me to that.' The April 2001 Briefing Document gives the smallest as 'about 24 feet in diameter at its widest part, right at the base', the next as '60 feet in diameter at the base', and 'the largest of these vehicles was about 120 to 130 feet in diameter'. The arvp.co.uk FLUX 1988 page, read 18 September 2026, gives 'one with a 130-foot diameter, another with a 60-foot diameter, and a smaller one measuring 24 feet in diameter', with no disclaimer. Each retelling is more precise than the last about a figure the witness explicitly refused to stand behind.",
-"tier": 2
+"tier": 1
 },
 {
-"source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03",
 "text": "THE WITNESS DISOWNS PART OF THE DRAWING. Shown McCandlish's sketches in December 1990, Sorensen says of the manned vehicle: 'this is probably the farthest from what I saw, and no, I didn't see anything with an intake up above the windows like this', and 'mark extrapolates a bit too much'. Of the saucer drawing he says the opposite: 'you've got a drawing, as accurate as I could get [the round, saucer-looking thing]. This dwg is so GD..accurate that I can't be much more specific than this.'",
-"tier": 2
+"tier": 1
 },
 {
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
@@ -53,6 +53,26 @@
 "source": "Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ , published 2024-12-12, opened 18 September 2026; content recorded at research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00",
 "text": "The case against, from inside the classification line. On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said that no ARV exists and none has ever been built, that the Northrop Grumman and Area 51 ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The episode is identified here by video id and not by title: research/leads/michels-corpus-03.md file 04 recorded it as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on the channel 'American Alchemy', and as opened on 18 September 2026 the same video id carries the title 'Eric Davis: A US President Was Briefed on UFOs!' on the channel 'Jesse Michels'. The corpus timestamp 0:36:24 to 0:38:00 falls inside the video's 52:45 runtime.",
 "tier": 2
+},
+{
+"source": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "A DOCUMENT OFFERED AS EVIDENCE FOR THIS ACCOUNT DOES NOT CONTAIN THE WORD IT IS OFFERED FOR. US 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', King, 1967, was put forward as 'ample evidence' that the 'Scalar Physics' callout in section D of Mark McCandlish's ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages of the patent: SCALAR 0, SPIN 0, gravity 0, anti-gravity 0, zero point 0. The patent is real, openable and mundane, and the assertion made about it is checkable and wrong.",
+"tier": 1
+},
+{
+"source": "US Patents 2,949,550 and 3,187,206, complete texts, https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf and https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf , both opened 2026-09-19",
+"text": "THE CAPACITOR-STACK READING, MEASURED AGAINST THE SAME STANDARD. The board already records that the account attributes the claimed lift effect to a Brown patent 'filed back in the late 1950s/early 1960s' and that neither candidate patent claims anti-gravity. Both patents have now been opened and word-counted: across all six pages of US 2,949,550 and all six pages of US 3,187,206, the word 'gravity' appears 0 times, anti-gravity 0, levitation 0, electrogravitics 0. US 3,187,206 opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields.' IT IS THE ACCOUNT THAT REINTERPRETS ELECTROKINETIC THRUST AS LEVITATION, and the patents do not support the reinterpretation.",
+"tier": 1
+},
+{
+"source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "NASA'S OWN ASSESSMENT OF THE MECHANISM THE ACCOUNT INVOKES, from NASA/TM-2004-213082 section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' THE NASA DOCUMENT SAYS NOTHING ABOUT THE ARV, HAS NEVER HEARD OF IT, AND NO EDGE JOINS THEM. It is recorded here because it is the published finding on the mechanism the account names, and for no other reason.",
+"tier": 1
+},
+{
+"source": "Reasoning over the opened texts of US 3,322,374, US 2,949,550 and US 3,187,206 against the board's existing claims on arv-fluxliner, opened 2026-09-19",
+"text": "Stated inference, and it is the strand's classification of this cluster. The ARV account and the TR-3B account make the same move in two different directions: the ARV account takes a real document that claims one thing and reads it as claiming another, and the King citation takes a real document that mentions neither scalar physics nor gravity and offers it as proof of both. Neither is a dispute about evidence. Both are citations that have never been placed beside the documents they name.",
+"tier": 3
 }
 ],
 "cls": "program",
@@ -124,6 +144,27 @@
 }
 ],
 "tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1967-05-30",
+"dateStart": "1967-05-30",
+"direction": "in",
+"edgeLabel": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
+"id": "king-patent-mhd",
+"l0": false,
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"note": "THE STRAND'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed.",
+"sources": [
+{
+"date": "1967-05-30",
+"name": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', James F. King Jr., 7 pages",
+"url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+}
+],
+"tier": "C",
 "type": "denial"
 },
 {
@@ -224,7 +265,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1988-11-12",
-"deg": 7,
+"deg": 8,
 "denials": [
 {
 "by": {
@@ -246,11 +287,33 @@
 "url": "https://www.youtube.com/watch?v=LnAiNChnuEQ"
 }
 ]
+},
+{
+"by": {
+"id": "king-patent-mhd",
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
+"note": "THE STRAND'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed.",
+"of": {
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"sources": [
+{
+"date": "1967-05-30",
+"name": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', James F. King Jr., 7 pages",
+"url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+}
+]
 }
 ],
 "desc": "The Alien Reproduction Vehicle, also called the Flux Liner, is a CLAIMED craft for whose existence no record has been opened, and the board carries it as a claim and not as an object: the entire account descends from one second-hand relay, in which a single man said he saw three such craft in a hangar and an illustrator who was not there drew what that man described. Everything on this node is therefore a description of a claim. Two primary documents carry that description, and they are why the node exists, not evidence that the craft does. The first is William B. Scott's unpublished 1990 interview notes, in which the witness gives the three craft nursery-rhyme names, guesses their diameters and expressly refuses to stand behind the figures, judges the build quality poor, and disowns part of the drawing made from his account. The second is the Disclosure Project's April 2001 Briefing Document, in which the illustrator gives the craft its two names in print and describes a capacitor stack, a central column carrying a secondary coil and a flywheel, forty-eight pie-slice capacitor sections, a Tesla-coil architecture running from two marine batteries at between half a million and a million volts, and a synthetic vision system in place of windows. The claimed lift mechanism is attributed to a Thomas Townsend Brown patent of the late 1950s or early 1960s; the board's own record of both Brown patents is that neither claims anti-gravity. Eric Davis, from inside the classification line, says no such craft exists. Every claimant on this thread runs into this node, which is the point of it.",
 "domains": [
-"arv-2026-09-18"
+"arv-2026-09-18",
+"propulsion-2026-09-19"
 ],
 "dossier": {
 "claims": [
@@ -320,6 +383,12 @@
 "tier": "A"
 },
 {
+"cls": "document",
+"id": "king-patent-mhd",
+"label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"tier": "C"
+},
+{
 "cls": "person",
 "id": "mark-mccandlish",
 "label": "Mark McCandlish",
@@ -365,11 +434,31 @@
 "date": "2024-12-12",
 "name": "Jesse Michels, video id LnAiNChnuEQ",
 "url": "https://www.youtube.com/watch?v=LnAiNChnuEQ"
+},
+{
+"date": "1967-05-30",
+"name": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus'",
+"url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+},
+{
+"date": "2004",
+"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics'",
+"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+},
+{
+"date": "1965-06-01",
+"name": "US Patent 3,187,206, 'Electrokinetic Apparatus', complete 6-page text",
+"url": "https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf"
+},
+{
+"date": null,
+"name": "US Patents 2,949,550 and 3,187,206, complete texts, and , both opened 2026-09-19",
+"url": "https://patentimages.storage.googleapis.com/20/38/0f/252396dd3aadcb/US2949550.pdf"
 }
 ],
 "sub": "Claimed saucer-shaped craft said to have been exhibited at Norton AFB on 12 November 1988; no record of its existence has been opened",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 317 of 1105, score 37). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 132 of 1111, score 54). 8 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "1988-11-12",

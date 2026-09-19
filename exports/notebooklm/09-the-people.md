@@ -1,6 +1,6 @@
 # The people below the programme map
 
-None of the 145 nodes on the programme map is a person, so every one of the board's 331 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
+None of the 149 nodes on the programme map is a person, so every one of the board's 331 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
 
 ## David Charles Grusch
 
@@ -39,7 +39,7 @@ Affiliations recorded: National Geospatial-Intelligence Agency, National Reconna
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 1 of 1105, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 1 of 1111, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -103,7 +103,7 @@ Affiliations recorded: US Army counterintelligence, Office of the Under Secretar
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 5 of 1105, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 5 of 1111, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -149,7 +149,7 @@ Affiliations recorded: U.S. House of Representatives, MO-7 (2023- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 30 of 1105, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 30 of 1111, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -199,7 +199,7 @@ Affiliations recorded: U.S. House of Representatives, FL-13 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 23 of 1105, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 23 of 1111, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -260,7 +260,7 @@ Affiliations recorded: National Institute for Discovery Science (1996-2004), Ear
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 19 of 1105, score 108). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 17 of 1111, score 111). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -271,18 +271,18 @@ Re-graded A on a global pass (rank 19 of 1105, score 108). 23 connections, 4 of 
 - **Tier 1 documented.** DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', Acquisition Threat Support series, 6 April 2010, ICOD 1 December 2009, exists in the DIA FOIA release with the author withheld under (b)(6). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/
 - **Tier 1 documented.** Davis authored Defense Intelligence Reference Documents delivered under DIA's AAWSAP contract, the government-funded research line executed by BAASS. Source: AARO, Historical Record Report Volume I, March 2024, Section IV on AAWSAP/AATIP deliverables
 - **Tier 1 documented.** Davis authored five of the 38 AAWSAP Defense Intelligence Reference Documents, more than any other individual. Source: DIA letter to Senate Armed Services Committee, 9 January 2018, items 8, 11, 14, 31, 34
-- **Tier 2 named person on the record.** Davis briefed Senate Armed Services Committee staff in March 2019 on retrievals of 'off-world vehicles not made on this earth'. Source: Leslie Kean and Ralph Blumenthal, New York Times, 23 July 2020
+- **Tier 1 documented.** HIS OWN CONCLUSION, verbatim: 'One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments. Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.' Source: Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, opened 2026-09-19
 
-A further 11 claims sit on this node on the board and are not reproduced here.
+A further 13 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
 - Eric W. Davis runs out to **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: authored five of the 38 DIRDs. Items 8, 11, 14, 31 and 34, wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography. Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
 - Eric W. Davis comes in from **The Sol Foundation** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Eric Davis sits on Sol's Natural Sciences Advisory Board. Named on the Sol Foundation People page - placing a figure central to the AAWSAP and Wilson-Davis memo record inside the movement's institutional apex. Sources: The Sol Foundation - People, https://thesolfoundation.org/people/, dated 2026-08-12.
 - Eric W. Davis runs out to **EarthTech International / Institute for Advanced Studies at Austin** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: staff scientist. Davis wrote all five of his DIRDs under the EarthTech banner. Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
-- Eric W. Davis runs out to **Antigravity for Aerospace Applications** (document, board tier B), a research link at Tier 1 documented. The link reads: authored. DIA list item 11 names "Dr Eric Davis, EarthTech International". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office. Sources: Released DIRD, 'Antigravity for Aerospace Applications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
+- Eric W. Davis runs out to **Antigravity for Aerospace Applications** (document, board tier A), a research link at Tier 1 documented. The link reads: authored. DIA list item 11 names "Dr Eric Davis, EarthTech International". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office. Sources: Released DIRD, 'Antigravity for Aerospace Applications', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
+- Eric W. Davis runs out to **Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions** (document, board tier B), a research link at Tier 1 documented. The link reads: co-author per EarthTech International's own citation. EarthTech International's publications page cites the paper as "Obousy, R. K. and Davis, E. W. (2010)." Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them. Sources: Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/, dated 2026-08-22; http://earthtech.org/pubs/davis/, http://earthtech.org/pubs/davis/
 - Eric W. Davis comes in from **Concepts for Extracting Energy From the Quantum Vacuum** (document, board tier B), a research link at Tier 1 documented. The link reads: authored by Eric W. Davis. Doubly sourced. The DIA list of 9 January 2018 gives entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'. EarthTech's own bibliography for Davis cites the same document with the matching DIA number DIA-08-1004-007, confirming the attribution against the redacted cover page independently of the DIA list. Sources: Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://earthtech.org/pubs/davis/, https://earthtech.org/pubs/davis/
-- Eric W. Davis comes in from **Laser Lightcraft Nanosatellites** (document, board tier B), a research link at Tier 1 documented. The link reads: authored by. The DIA list of all 38 AATIP/AAWSAP products, transmitted to the Senate Armed Services Committee in January 2018 and released under FOIA in January 2019, credits 'Laser Lightcraft Nanosatellites' to 'Dr E Davis, EarthTech'. The author line on the released PDF cover page is redacted, so this attribution rests on the congressional list rather than the document. Sources: Released DIRD, 'Laser Lightcraft Nanosatellites', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
 
 It carries 23 connections in total on the board.
 
@@ -315,7 +315,7 @@ Affiliations recorded: KLAS-TV Las Vegas, I-Team (1980s-present), Mystery Wire (
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 54 of 1105, score 76). 21 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 54 of 1111, score 76). 21 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -359,7 +359,7 @@ Affiliations recorded: US Senate (1987-2017), Senate Majority Leader (2007-2015)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 40 of 1105, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 40 of 1111, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -412,7 +412,7 @@ Mark McCandlish is the origin point in print of a named craft, and he is not a w
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 133 of 1105, score 53). 17 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 136 of 1111, score 53). 17 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -471,7 +471,7 @@ Affiliations recorded: Defense Intelligence Agency, chief scientist for the Defe
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 11 of 1105, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 11 of 1111, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -543,7 +543,7 @@ Affiliations recorded: UAP Gerb (YouTube channel, ~135,000 subscribers), NewsNat
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 102 of 1105, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 103 of 1111, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -569,6 +569,58 @@ A further 10 claims sit on this node on the board and are not reproduced here.
 
 It carries 18 connections in total on the board.
 
+## Harold E. Puthoff
+
+Harold E. Puthoff is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2010-01-01; axes C2 A3 D3; 16 connections.
+
+In one line: President, EarthTech International; AAWSAP DIRD author; former SRI remote-viewing program director.
+
+### The longer account
+
+Puthoff is the hinge on which the whole technical layer turns. He is a Stanford electrical-engineering PhD (1967, under Richard Pantell) who spent the 1970s and early 1980s running SRI International's classified psychoenergetics work with Russell Targ - the SRI half of what became the Stargate Project - which is the formative fact about him: he has been the government's outsourced handler for phenomena the government does not want on its own org chart for more than fifty years. In 1985 he founded the Institute for Advanced Studies at Austin, incorporated under EarthTech International in 1991, at 11855 Research Blvd, Austin - the address that appears on the cover of at least one Defense Intelligence Reference Document. Under the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) programme in FY2009 he authored 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', one of the 38 reference products the DIA listed to the Federation of American Scientists on 16 January 2019. He was not merely an author: the cover page of Christopher 'Kit' Green's DIRD on human injuries carries the imprint 'Institute for Advanced Studies at Austin' and its preface quotes a 'November 2007 Proposal to Analyze Probable ET Generated Specific Near-field Electromagnetic Emissions: to Puthoff/Hathaway' - meaning Puthoff was being solicited to organise medical reverse-engineering of putative extraterrestrial field effects nine months before the AAWSAP contract was awarded. In 2017 he co-founded To The Stars Academy with Tom DeLonge, Jim Semivan and Steve Justice, and his laboratories became the analytical destination for the ADAM Research Project's metamaterial samples. That is the custody problem in one man: the same physicist who tested Linda Moulton Howe's bismuth-magnesium laminate privately in the 1990s and 2000s, wrote a 2012 letter reporting no 'interesting/anomalous outcome', and then in 2019 sat inside the corporate entity that bought those same samples for $35,000 and put them under a five-year Army CRADA. He appeared as an interviewee in Dan Farah's 2025 documentary 'The Age of Disclosure'.
+
+### Where the record conflicts
+
+- CIA's own contracted evaluation (AIR, 1995) concluded the operational value of remote viewing was not established; the programme was terminated the same year.
+- Puthoff's SRI remote-viewing results were challenged by Marks and Kammann, who found sensory cueing in session transcripts; his 1989 zero-point-energy inertia paper was found by Steve Carlip to contain a computational error. Neither bears on his documented AAWSAP authorship or his custody of samples, but both are used to discredit him wholesale.
+
+### Recorded as unverified
+
+- The scope of any classified companion work Puthoff performed alongside the unclassified DIRD.
+- Puthoff's role, if any, in any crash-retrieval-adjacent compartment before 2008 is not documented in any released record.
+- The full list of samples Puthoff's laboratories have received, from whom, and under what documentation. TTSA's own COO conceded the materials came 'from sources with varying levels of chain-of-custody documentation'.
+- Whether EarthTech or IASA has held any classified contract or SAP read-on beyond the unclassified//FOUO DIRD work.
+
+Affiliations recorded: Stanford Research Institute, remote viewing programs (1972-1985), EarthTech International / Institute for Advanced Studies at Austin (1985-present), AAWSAP/AATIP DIRD author (2008-2010), To The Stars Academy, vice president science and technology (2017-2020), Sol Foundation (2023-present), SRI International, Stargate/remote viewing (1972-1985), EarthTech International, President/CEO (1985-present), Institute for Advanced Studies at Austin, AAWSAP/AATIP-era contractor, To The Stars Academy of Arts & Science, VP Science & Technology (2017-present), The Sol Foundation, Stanford Research Institute / SRI International (1971-1985), Institute for Advanced Studies at Austin (1985-present), National Institute for Discovery Science (consultant, 1995-2004), EarthTech International, To The Stars Academy (2017-), Sol Foundation, Stanford University (PhD 1967), SRI International (c.1972-1985), Institute for Advanced Studies at Austin (1985- ), EarthTech International Inc. (1991- ), National Institute for Discovery Science - advisory (1990s), DIA AAWSAP/AATIP DIRD author (2008-2010), To The Stars Academy of Arts & Science (2017-2020s).
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 18 of 1111, score 110). 18 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** A GRANTED US NAVY PATENT CITES HIM BY NAME ON ITS PRINTED FRONT PAGE. The 'Other Publications' list of US 10,144,532, 'Craft using an inertial mass reduction device', assigned to the Secretary of the Navy, includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. This is a documentary join between the Navy filing and Puthoff, printed on the patent, and it is better evidence of the connection than any later statement about the same relationship. Source: US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
+- **Tier 1 documented.** DIA singled this report out as its showcase deliverable: Info Memo U-10-2552 to USD(AT&L) states 'One of the 26 reports, titled Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering was published in March, 2010. It is included as enclosure 2 and is provided as an example of the reports.' Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/
+- **Tier 1 documented.** DIRD DIA-08-1003-015, 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 29 March 2010, ICOD 1 December 2009, 17 pages, exists in the DIA FOIA release with the author line withheld under (b)(6). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/
+- **Tier 1 documented.** EarthTech International Inc., Austin, was founded by Puthoff in 1991 as the corporate vehicle for the Institute for Advanced Studies at Austin (est. 1985). Source: EarthTech International, About page
+- **Tier 1 documented.** His name appears in the 24 July 2009 Harry Reid memorandum to Deputy Secretary of Defense William Lynn III requesting Special Access Program status for AATIP; the name was originally redacted and later released. Source: The Black Vault, reporting on the re-released Reid memorandum, 13 June 2019
+- **Tier 1 documented.** Listed in TTSA's Form 1-K as Vice President Science and Technology, age 81, a director, and President and CEO of EarthTech International since 1985 with a 1967 Stanford PhD. Source: SEC EDGAR, TTSA Form 1-K Part II, filed April 2018
+- **Tier 1 documented.** Puthoff and Targ published remote-viewing results in Nature (vol. 251, pp. 602-607) on 18 October 1974. Source: Nature 251, 602-607 (1974)
+- **Tier 1 documented.** Puthoff and Targ's November 1978 SRI paper 'Standard Remote Viewing Protocol (Local Targets)' is part of the declassified CIA STARGATE corpus. Source: CIA STARGATE declassified collection
+
+A further 12 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- Harold E. Puthoff runs out to **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: authored DIRD on vacuum/spacetime metric engineering. Item 5 on DIA's transmittal list; the closest thing in the released set to a theory of how the reported craft operate. Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
+- Harold E. Puthoff runs out to **To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Co-founder, VP Science and Technology, director. Puthoff co-founded TTSA with Tom DeLonge and Jim Semivan in 2017; the company's materials work was routed to laboratories he founded. Sources: SEC EDGAR, TTSA Form 1-K, https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm, dated 2018-04-30; Wikipedia: To The Stars Inc., https://en.wikipedia.org/wiki/To_the_Stars_(company)., dated 2026-08-12.
+- Harold E. Puthoff runs out to **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: Named in the 2009 Reid SAP-request memorandum. Puthoff's name appears in the memorandum requesting Special Access Program status, originally redacted, later released, placing him inside the program's founding paperwork. Sources: The Black Vault, Reid memo, https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/, dated 2019-06-13.
+- Harold E. Puthoff runs out to **EarthTech International / Institute for Advanced Studies at Austin** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: founder and president. EarthTech is the vehicle through which Puthoff's four-decade federally funded research line continued into AAWSAP. Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09; SEC EDGAR, TTSA Form 1-K, https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm, dated 2018-04-30.
+- Harold E. Puthoff runs out to **National Institute for Discovery Science (NIDS)** (program, board tier A), a institutional link at Tier 1 documented. The link reads: Puthoff was among the consultants Bigelow hired at NIDS in 1995. The New Yorker records that among the consultants Bigelow hired was Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.' Sources: Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker, https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously, dated 2021-05-10; Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News, https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn, dated 1998-08-10.
+- Harold E. Puthoff runs out to **STAR GATE and predecessor remote viewing programs, 1970-1995** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: Ran the SRI International half of the government's psychoenergetics effort. The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme. Sources: Wikipedia: Advanced Aerospace Threat Identification Program, https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program, dated 2026-08-12; Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12; The Black Vault - Army/TTSA CRADA and FOIA records, https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/, dated 2019-10-18; CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF), https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, dated 2026-08-25.
+
+It carries 18 connections in total on the board.
+
 ## Timothy Floyd Burchett
 
 Timothy Floyd Burchett is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2023-07-26; axes C0 A1 D3; 16 connections.
@@ -589,7 +641,7 @@ Affiliations recorded: U.S. House of Representatives, TN-2 (2019- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 80 of 1105, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 82 of 1111, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -615,58 +667,6 @@ A further 7 claims sit on this node on the board and are not reproduced here.
 
 It carries 16 connections in total on the board.
 
-## Harold E. Puthoff
-
-Harold E. Puthoff is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2010-01-01; axes C2 A3 D3; 15 connections.
-
-In one line: President, EarthTech International; AAWSAP DIRD author; former SRI remote-viewing program director.
-
-### The longer account
-
-Puthoff is the hinge on which the whole technical layer turns. He is a Stanford electrical-engineering PhD (1967, under Richard Pantell) who spent the 1970s and early 1980s running SRI International's classified psychoenergetics work with Russell Targ - the SRI half of what became the Stargate Project - which is the formative fact about him: he has been the government's outsourced handler for phenomena the government does not want on its own org chart for more than fifty years. In 1985 he founded the Institute for Advanced Studies at Austin, incorporated under EarthTech International in 1991, at 11855 Research Blvd, Austin - the address that appears on the cover of at least one Defense Intelligence Reference Document. Under the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) programme in FY2009 he authored 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', one of the 38 reference products the DIA listed to the Federation of American Scientists on 16 January 2019. He was not merely an author: the cover page of Christopher 'Kit' Green's DIRD on human injuries carries the imprint 'Institute for Advanced Studies at Austin' and its preface quotes a 'November 2007 Proposal to Analyze Probable ET Generated Specific Near-field Electromagnetic Emissions: to Puthoff/Hathaway' - meaning Puthoff was being solicited to organise medical reverse-engineering of putative extraterrestrial field effects nine months before the AAWSAP contract was awarded. In 2017 he co-founded To The Stars Academy with Tom DeLonge, Jim Semivan and Steve Justice, and his laboratories became the analytical destination for the ADAM Research Project's metamaterial samples. That is the custody problem in one man: the same physicist who tested Linda Moulton Howe's bismuth-magnesium laminate privately in the 1990s and 2000s, wrote a 2012 letter reporting no 'interesting/anomalous outcome', and then in 2019 sat inside the corporate entity that bought those same samples for $35,000 and put them under a five-year Army CRADA. He appeared as an interviewee in Dan Farah's 2025 documentary 'The Age of Disclosure'.
-
-### Where the record conflicts
-
-- CIA's own contracted evaluation (AIR, 1995) concluded the operational value of remote viewing was not established; the programme was terminated the same year.
-- Puthoff's SRI remote-viewing results were challenged by Marks and Kammann, who found sensory cueing in session transcripts; his 1989 zero-point-energy inertia paper was found by Steve Carlip to contain a computational error. Neither bears on his documented AAWSAP authorship or his custody of samples, but both are used to discredit him wholesale.
-
-### Recorded as unverified
-
-- The scope of any classified companion work Puthoff performed alongside the unclassified DIRD.
-- Puthoff's role, if any, in any crash-retrieval-adjacent compartment before 2008 is not documented in any released record.
-- The full list of samples Puthoff's laboratories have received, from whom, and under what documentation. TTSA's own COO conceded the materials came 'from sources with varying levels of chain-of-custody documentation'.
-- Whether EarthTech or IASA has held any classified contract or SAP read-on beyond the unclassified//FOUO DIRD work.
-
-Affiliations recorded: Stanford Research Institute, remote viewing programs (1972-1985), EarthTech International / Institute for Advanced Studies at Austin (1985-present), AAWSAP/AATIP DIRD author (2008-2010), To The Stars Academy, vice president science and technology (2017-2020), Sol Foundation (2023-present), SRI International, Stargate/remote viewing (1972-1985), EarthTech International, President/CEO (1985-present), Institute for Advanced Studies at Austin, AAWSAP/AATIP-era contractor, To The Stars Academy of Arts & Science, VP Science & Technology (2017-present), The Sol Foundation, Stanford Research Institute / SRI International (1971-1985), Institute for Advanced Studies at Austin (1985-present), National Institute for Discovery Science (consultant, 1995-2004), EarthTech International, To The Stars Academy (2017-), Sol Foundation, Stanford University (PhD 1967), SRI International (c.1972-1985), Institute for Advanced Studies at Austin (1985- ), EarthTech International Inc. (1991- ), National Institute for Discovery Science - advisory (1990s), DIA AAWSAP/AATIP DIRD author (2008-2010), To The Stars Academy of Arts & Science (2017-2020s).
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 18 of 1105, score 109). 17 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** DIA singled this report out as its showcase deliverable: Info Memo U-10-2552 to USD(AT&L) states 'One of the 26 reports, titled Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering was published in March, 2010. It is included as enclosure 2 and is provided as an example of the reports.' Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/
-- **Tier 1 documented.** DIRD DIA-08-1003-015, 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 29 March 2010, ICOD 1 December 2009, 17 pages, exists in the DIA FOIA release with the author line withheld under (b)(6). Source: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/
-- **Tier 1 documented.** EarthTech International Inc., Austin, was founded by Puthoff in 1991 as the corporate vehicle for the Institute for Advanced Studies at Austin (est. 1985). Source: EarthTech International, About page
-- **Tier 1 documented.** His name appears in the 24 July 2009 Harry Reid memorandum to Deputy Secretary of Defense William Lynn III requesting Special Access Program status for AATIP; the name was originally redacted and later released. Source: The Black Vault, reporting on the re-released Reid memorandum, 13 June 2019
-- **Tier 1 documented.** Listed in TTSA's Form 1-K as Vice President Science and Technology, age 81, a director, and President and CEO of EarthTech International since 1985 with a 1967 Stanford PhD. Source: SEC EDGAR, TTSA Form 1-K Part II, filed April 2018
-- **Tier 1 documented.** Puthoff and Targ published remote-viewing results in Nature (vol. 251, pp. 602-607) on 18 October 1974. Source: Nature 251, 602-607 (1974)
-- **Tier 1 documented.** Puthoff and Targ's November 1978 SRI paper 'Standard Remote Viewing Protocol (Local Targets)' is part of the declassified CIA STARGATE corpus. Source: CIA STARGATE declassified collection
-- **Tier 1 documented.** Puthoff authored the AAWSAP Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' for EarthTech International. Source: DIA letter to Senate Armed Services Committee listing 38 AATIP products, 9 January 2018, item 5
-
-A further 11 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Harold E. Puthoff runs out to **The 38 Defense Intelligence Reference Documents (DIRDs)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: authored DIRD on vacuum/spacetime metric engineering. Item 5 on DIA's transmittal list; the closest thing in the released set to a theory of how the reported craft operate. Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
-- Harold E. Puthoff runs out to **To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Co-founder, VP Science and Technology, director. Puthoff co-founded TTSA with Tom DeLonge and Jim Semivan in 2017; the company's materials work was routed to laboratories he founded. Sources: SEC EDGAR, TTSA Form 1-K, https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm, dated 2018-04-30; Wikipedia: To The Stars Inc., https://en.wikipedia.org/wiki/To_the_Stars_(company)., dated 2026-08-12.
-- Harold E. Puthoff runs out to **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: Named in the 2009 Reid SAP-request memorandum. Puthoff's name appears in the memorandum requesting Special Access Program status, originally redacted, later released, placing him inside the program's founding paperwork. Sources: The Black Vault, Reid memo, https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/, dated 2019-06-13.
-- Harold E. Puthoff runs out to **EarthTech International / Institute for Advanced Studies at Austin** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: founder and president. EarthTech is the vehicle through which Puthoff's four-decade federally funded research line continued into AAWSAP. Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09; SEC EDGAR, TTSA Form 1-K, https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm, dated 2018-04-30.
-- Harold E. Puthoff runs out to **National Institute for Discovery Science (NIDS)** (program, board tier A), a institutional link at Tier 1 documented. The link reads: Puthoff was among the consultants Bigelow hired at NIDS in 1995. The New Yorker records that among the consultants Bigelow hired was Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.' Sources: Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker, https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously, dated 2021-05-10; Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News, https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn, dated 1998-08-10.
-- Harold E. Puthoff runs out to **STAR GATE and predecessor remote viewing programs, 1970-1995** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: Ran the SRI International half of the government's psychoenergetics effort. The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme. Sources: Wikipedia: Advanced Aerospace Threat Identification Program, https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program, dated 2026-08-12; Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12; The Black Vault - Army/TTSA CRADA and FOIA records, https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/, dated 2019-10-18; CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF), https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, dated 2026-08-25.
-
-It carries 17 connections in total on the board.
-
 ## John Greenewald Jr.
 
 John Greenewald Jr. is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2022-08-17; axes C0 A0 D3; 15 connections.
@@ -685,7 +685,7 @@ Affiliations recorded: The Black Vault, founder (1996-present), The Black Vault 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 107 of 1105, score 59). 15 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 108 of 1111, score 59). 15 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -737,7 +737,7 @@ Bob Lazar is the origin point of the best-known claim in the field and, on the o
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 53 of 1105, score 77). 14 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 53 of 1111, score 77). 14 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -796,7 +796,7 @@ Affiliations recorded: Central Intelligence Agency, Office of Scientific Intelli
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 44 of 1105, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 45 of 1111, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -846,7 +846,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 29 of 1105, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
+Re-graded A on a global pass (rank 29 of 1111, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -892,7 +892,7 @@ Affiliations recorded: Senate Select Committee on Intelligence, Minority Staff D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 79 of 1105, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 81 of 1111, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -940,7 +940,7 @@ Affiliations recorded: U.S. House of Representatives, SC-1 (2021- ), House Overs
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 104 of 1105, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded A on a global pass (rank 105 of 1111, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -992,7 +992,7 @@ Affiliations recorded: Budget Suites of America (1988-present), National Institu
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 55 of 1105, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 55 of 1111, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -1036,7 +1036,7 @@ Affiliations recorded: Defense Intelligence Agency, Defense Warning Office (1990
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 100 of 1105, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 101 of 1111, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1078,7 +1078,7 @@ Affiliations recorded: American Alchemy (2021-present), Thiel Capital (investor)
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 601 of 1105, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 604 of 1111, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1131,7 +1131,7 @@ Affiliations recorded: National Security Agency (physicist / technical director)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 42 of 1105, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 42 of 1111, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1180,7 +1180,7 @@ Affiliations recorded: The Debrief (2023), The New York Times (2017-2019, contri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 217 of 1105, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 219 of 1111, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1232,7 +1232,7 @@ Affiliations recorded: US Air Force Office of Special Investigations (c.1979-198
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 328 of 1105, score 36). 10 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 333 of 1111, score 36). 10 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1282,7 +1282,7 @@ Affiliations recorded: Stanford University School of Medicine, Professor of Path
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 117 of 1105, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 118 of 1111, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -1331,7 +1331,7 @@ Affiliations recorded: Stanford Research Institute, Augmentation Research Center
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 277 of 1105, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 283 of 1111, score 39). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -1377,7 +1377,7 @@ Affiliations recorded: Center for the Study of Extraterrestrial Intelligence (fo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 215 of 1105, score 43). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 217 of 1111, score 43). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1428,7 +1428,7 @@ Affiliations recorded: National Institute for Discovery Science, project manager
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 187 of 1105, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 189 of 1111, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1476,7 +1476,7 @@ Edgar Albert Fouche is the single named origin of the TR-3B account, and what ma
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 202 of 1105, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 204 of 1111, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1529,7 +1529,7 @@ Affiliations recorded: US Navy (2009-2019), VFA-11 Red Rippers, USS Theodore Roo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 170 of 1105, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 172 of 1111, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1549,11 +1549,80 @@ A further 1 claims sit on this node on the board and are not reproduced here.
 - Ryan Graves comes in from **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Co-witness, 26 July 2023 hearing panel. Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
 - Ryan Graves runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26.
 - Ryan Graves runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Lead witness at the July 2023 House Oversight hearing. Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record. Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
+- Ryan Graves comes in from **United States Navy** (institution, board tier B), a witness-chain link at Tier 1 documented. The link reads: Navy F/A-18F pilot turned first active-duty-era witness before Congress. In his own words: 'My name is Ryan "FOBS" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation. Sources: Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023, https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf
 - Ryan Graves runs out to **USS Theodore Roosevelt Encounters (2014-2015)** (event, board tier B), a witness-chain link at Tier 1 documented. The link reads: VFA-11 aircrew during the 2014-2015 encounter series. Graves testified in writing that his squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis' after the AESA radar upgrade. Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
 - Ryan Graves runs out to **Americans for Safe Aerospace** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Founder and Executive Director. Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023. Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26.
-- Ryan Graves comes in from **United States Navy** (institution, board tier C), a witness-chain link at Tier 1 documented. The link reads: Navy F/A-18F pilot turned first active-duty-era witness before Congress. In his own words: 'My name is Ryan "FOBS" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation. Sources: Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023, https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf
 
 It carries 10 connections in total on the board.
+
+## Salvatore Cezar Pais
+
+Salvatore Cezar Pais is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2015-07-24; axes C2 A1 D1; 8 connections.
+
+In one line: Aerospace engineer, NAWCAD, NAS Patuxent River (to 2019); named inventor on five Navy-assigned patent filings 2015-2019; later US Navy Strategic Systems Programs, then US Air Force.
+
+### The longer account
+
+Pais is the only person in the open record who has put a description of a craft with the reported UAP flight characteristics into the United States patent system, with the United States Navy as assignee and his own name on the front. That is the entire reason he belongs on this board, and it is a documentary fact independent of whether anything he described works.
+
+Between July 2015 and March 2018 he filed five applications from NAWCAD at NAS Patuxent River, every one of them assigned to 'The United States of America as represented by the Secretary of the Navy': an electromagnetic field generator, a craft using an inertial mass reduction device, a high frequency gravitational wave generator, a piezoelectricity-induced room temperature superconductor, and a plasma compression fusion device. Three were granted. Two published as applications.
+
+The Navy's own invention-disclosure briefing for the inertial mass reduction device, Navy Case PAX 205, was released under FOIA and is the most useful document in the set because Pais wrote it for an internal audience rather than for an examiner. It describes a 'hybrid aerospace / undersea craft (HAUC)' that would 'move with great ease through the air / space / water mediums' enclosed in a 'Vacuum plasma bubble/sheath', achieving 'extreme aerial and underwater speeds (lack of air/water-skin friction) and enhanced stealth capabilities (non-linear scattering of RF and sonar signals)'. Set that description beside the flight characteristics the Navy's own aviators reported in the same decade and the overlap is not subtle: transmedium travel, extreme acceleration, and low observability, itemised in a Navy invention disclosure.
+
+The same briefing is equally explicit about what did not exist. Pais states, twice, that this 'is a theoretical concept - no prototype in existence, as yet', gives the invention original date as 6 March 2015, and proposes Section 219 NISE funding of 250,000 dollars in labour and 250,000 dollars in NAWCAD facility cost to investigate it experimentally. A slide header reads 'EXPERIMENT TRUMPS THEORY EVERYTIME!'. Whatever else the documents are, on their face they are a proposal to test an idea, written by someone asking for money to test it.
+
+That is where the record turns against the strong reading. NAWCAD did fund the work, and reporting based on documents released under FOIA says it spent roughly half a million dollars between 2016 and 2019 and concluded that the effect could not be demonstrated, with no further research conducted. The figure matches the two 250,000 dollar lines Pais proposed. A board that leaves that out is not making the case stronger, it is making it dismissible.
+
+What remains genuinely unusual, and is not disposed of by the negative test result, is the institutional behaviour around the filings. A patent examiner's job is to reject a claim that is not enabled, and the record as reported is that one was rejected on exactly that ground and then granted after the Naval Aviation Enterprise's chief technology officer wrote to the USPTO asserting operability and warning that China was pursuing the same capability. Agencies do not usually spend senior technical credibility forcing through a patent they believe describes nothing. Either the Navy believed the physics, or it wanted the priority date on the public record for reasons it has not stated. Both readings are live, and neither is established.
+
+### What is left unexplained
+
+Why the Navy pressed for grant of a filing an examiner had rejected for lack of enablement, and then funded a test that it concluded had failed, without withdrawing or disclaiming the granted patents.
+
+### Where the record conflicts
+
+- The strong reading of these filings, that they describe technology already understood from a recovered object, is in direct tension with the author's own written statement that no prototype existed and with NAWCAD's reported conclusion that the effect could not be demonstrated. Both the statement and the test result are part of the record and are recorded here.
+- Two different questions are routinely collapsed into one when this record is discussed: whether a working article existed, and where the concept came from. The PAX 205 briefing speaks directly to the first and is silent on the second. Treating its answer to the first as an answer to the second is the most common error made about this cluster in both directions.
+- {'source': 'USPTO file wrapper document image JCTFAFUKPXXIFW1.pdf against secondary summaries of the episode', 'text': "The widely repeated account that Sheehy wrote to the patent office 'asserting the invention was operable' is contradicted by the letter itself, which opens by agreeing with the examiner that the concept is beyond present possibility. The board carried that version as Tier 2 until the primary document was read on 28 August 2026. Anyone citing the secondary version to a sceptical reader is handing them the rebuttal."}
+
+### Recorded as unverified
+
+- Whether Pais had any access to, or knowledge of, material from any recovery programme. Nothing in the released record connects him to AATIP, AAWSAP, KONA BLUE, any DIRD, or any material-custody chain on this board.
+- His current office and title. Secondary reporting places him at US Navy Strategic Systems Programs from 2019, the US Air Force from 2021 and the Space Force more recently; no primary personnel record has been obtained.
+- Whether Pais has stated in public interviews that the filings were speculative concepts, and whether any such statement is constrained by an active clearance. No transcript has been obtained for this board; long-form interview material exists and is unindexed here.
+- Whether patents assigned to a United States government agency owe maintenance fees on the ordinary 37 CFR 1.362 schedule, or are treated differently. Until that is settled, the lapse of US 10,144,532 cannot be read confidently as a decision rather than a bookkeeping outcome. This is the first thing to check before the expiry is used as an argument.
+- The Reasons for Allowance dated 24 October 2018 is still unread, and it is now known WHY: the file wrapper uploaded to this project stops at the Appeal Brief of 20-21 August 2018. Nothing after that date is present for application 15/141,270. It remains the most informative unobtained document on this node, because it is the examiner's own account of what reversed a rejection he had sustained twice. See research/patents/wrapper/MISSING.md.
+- No demonstration of the effect appears anywhere in the file wrapper as uploaded, yet the examiner had made one an explicit condition in July 2018 and allowed the case in October 2018. Whether something was filed in between, or whether the examiner simply yielded on the burden-of-proof argument, cannot be determined without the papers listed in MISSING.md. Do not assert either.
+
+Affiliations recorded: Naval Air Warfare Center Aircraft Division (NAWCAD), NAS Patuxent River, Maryland, Naval Air Systems Command (NAVAIR), US Navy Strategic Systems Programs (from 2019), United States Air Force (from 2021).
+
+### Why it holds its tier
+
+Re-graded A on a global pass (rank 43 of 1111, score 84). 8 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS, and what US 10,144,532 claims, in its own abstract: 'A craft using an inertial mass reduction device comprises of an inner resonant cavity wall, an outer resonant cavity, and microwave emitters. The electrically charged outer resonant cavity wall and the electrically insulated inner resonant cavity wall form a resonant cavity. The microwave emitters create high frequency electromagnetic waves throughout the resonant cavity causing the resonant cavity to vibrate in an accelerated mode and create a local polarized vacuum outside the outer resonant cavity wall.' The mechanism the specification gives is 'negative pressure (hence repulsive gravity) exhibited by the polarized local vacuum energy state'. Source: US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
+- **Tier 1 documented.** A patent assigned to a federal agency owes maintenance fees on the ordinary schedule, which closes the question the expiry finding rested on. 37 CFR 1.362(a) requires them 'in all patents based on applications filed on or after December 12, 1980, except as noted in paragraph (b) of this section, to maintain a patent in force beyond 4, 8 and 12 years after the date of grant', and paragraph (b) gives the exemptions in full: 'Maintenance fees are not required for any plant patents or for any design patents.' Both Pais grants are utility patents from applications filed long after 1980. Neither was in an exempt class, and both owed the fee. Source: 37 CFR 1.362, Time for payment of maintenance fees (CFR 2024, title 37, vol. 1) || https://www.govinfo.gov/content/pkg/CFR-2024-title37-vol1/xml/CFR-2024-title37-vol1-sec1-362.xml
+- **Tier 1 documented.** Both granted Pais patents lapsed at the first maintenance fee, five weeks apart. US 10,135,366, granted 20 November 2018, is recorded expired for non-payment on 26 December 2022; US 10,144,532, granted 4 December 2018, is recorded expired for non-payment on 9 January 2023. USPTO mailed a maintenance fee reminder for each in the preceding July. Source: USPTO application data for 14/807943 and 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrappers 28 August 2026
+- **Tier 1 documented.** Paragraph [0020] of the application as filed credits the mechanism to a named figure already on this board: 'it is feasible to remove energy-mass from the system by enabling vacuum polarization, as discussed by Harold Puthoff; in that diminution of inertial (and thus gravitational) mass can be achieved via manipulation of quantum field fluctuations in the vacuum.' Source: Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205
+- **Tier 1 documented.** Paragraph [0037] of the application as filed states that the preferred electromagnetic generator for the craft is the one described in US application 14/807,943, 'incorporated by reference, and has the same inventor'. The inertial mass reduction craft and the electromagnetic field generator are therefore linked as components of one design by the filings themselves rather than by inference. Source: Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205
+- **Tier 1 documented.** Sheehy's declaration of 11 May 2018 states his credentials: a PhD in physiological optics from Pennsylvania State University, a master's in Human Factors Engineering from Rensselaer, a bachelor's from Kean University; a civilian Navy employee since 1985; formerly Chief Scientist of the Naval Air Systems Command; Chief Technology Officer of the Naval Aviation Enterprise for the preceding eleven years; promoted to the Senior Executive Service in November 2001; awarded the Presidential Rank Award in 2007. It is sworn under 18 U.S.C. 1001. Source: USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt
+- **Tier 1 documented.** THE NAVY'S SPONSORSHIP IS PRINTED ON THE FACE OF THE PATENT AND NOT INFERRED. US 10,144,532's front page carries, verbatim: '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'; '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD'; and 'Primary Examiner - Philip J Bonzell'. The government did not merely take an assignment: it paid a NAWCAD attorney to prosecute the application, before the same examiner the board's existing Tier 1 claim names as the addressee of the Sheehy letter of 15 December 2017. Source: US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
+- **Tier 1 documented.** THE PATENT AND THE INVENTION-DISCLOSURE BRIEFING CORROBORATE EACH OTHER, which is rare and worth recording. The specification of US 10,144,532 states that the hybrid craft 'would move with great ease through the air / space / water mediums, by being enclosed in a vacuum plasma bubble / sheath, due to the coupled effects of EM field-induced air / water particles repulsion and vacuum energy polarization'. The board already carries that same sentence at Tier 1 from the Navy Case PAX 205 invention-disclosure briefing, which was obtained by a different route. Source: US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
+
+A further 37 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- Salvatore Cezar Pais runs out to **Harold E. Puthoff** (person, board tier A), a research link at Tier 1 documented. The link reads: US 10,144,532 cites Puthoff's Polarizable-Vacuum paper on its printed front page. A DOCUMENTARY JOIN PRINTED ON A GRANTED US NAVY PATENT, which is better evidence of a connection than any later statement about the same relationship. The 'Other Publications' list includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. The edge asserts the citation and nothing about any personal or professional contact, for which nothing was opened. Sources: US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, dated 2018-12-04.
+- Salvatore Cezar Pais runs out to **Naval Air Station Patuxent River, Maryland** (location, board tier B), a institutional link at Tier 1 documented. The link reads: NAWCAD, NAS Patuxent River, at the time of filing. The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670. Sources: NAVAIR FOIA release 2021-003244, p. 1, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
+- Salvatore Cezar Pais runs out to **NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: Author of the Navy invention disclosure. The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page. Sources: NAVAIR FOIA release 2021-003244, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
+- Salvatore Cezar Pais runs out to **US Patent 10,144,532 - Craft using an inertial mass reduction device** (document, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 15/141270, assigned to the Secretary of the Navy. Sources: US Patent 10,144,532, https://www.freepatentsonline.com/10144532.html
+- Salvatore Cezar Pais runs out to **US Patent 10,135,366 - Electromagnetic field generator** (document, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 14/807943, assigned to the Secretary of the Navy. Sources: US Patent 10,135,366, https://www.freepatentsonline.com/10135366.html
+- Salvatore Cezar Pais runs out to **US Patent 10,322,827 - High frequency gravitational wave generator** (document, board tier C), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 15/431823, assigned to the Secretary of the Navy. Sources: US Patent 10,322,827, https://www.freepatentsonline.com/10322827.html
+
+It carries 8 connections in total on the board.
 
 ## William L. Moore
 
@@ -1577,7 +1646,7 @@ Affiliations recorded: Fair-Witness Project, Co-author with Charles Berlitz, 'Th
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 296 of 1105, score 38). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 303 of 1111, score 38). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1611,7 +1680,7 @@ The president who signed the founding instruments of the structure this board ma
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 243 of 1105, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 246 of 1111, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1650,7 +1719,7 @@ Affiliations recorded: Weaponized podcast (with George Knapp), Extraordinary Bel
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 599 of 1105, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 602 of 1111, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1697,7 +1766,7 @@ Affiliations recorded: 509th Bomb Group, Roswell Army Air Field, S-2 Intelligenc
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 134 of 1105, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 137 of 1111, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1734,7 +1803,7 @@ Affiliations recorded: U.S. Senate, New York (2009- ), Senate Armed Services Com
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 213 of 1105, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 215 of 1111, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1758,72 +1827,378 @@ Re-graded B on a global pass (rank 213 of 1105, score 43). 7 connections, 1 of t
 
 It carries 7 connections in total on the board.
 
-## Salvatore Cezar Pais
+## Thomas Townsend Brown
 
-Salvatore Cezar Pais is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2015-07-24; axes C2 A1 D1; 7 connections.
+Thomas Townsend Brown is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1953-03-25; axes C2 A1 D2; 7 connections.
 
-In one line: Aerospace engineer, NAWCAD, NAS Patuxent River (to 2019); named inventor on five Navy-assigned patent filings 2015-2019; later US Navy Strategic Systems Programs, then US Air Force.
+In one line: Electrostatic-propulsion inventor; five patents; subject of a 1953 FBI fraud inquiry.
 
 ### The longer account
 
-Pais is the only person in the open record who has put a description of a craft with the reported UAP flight characteristics into the United States patent system, with the United States Navy as assignee and his own name on the front. That is the entire reason he belongs on this board, and it is a documentary fact independent of whether anything he described works.
+Thomas Townsend Brown is the technical origin point on which the entire electrogravitics thread hangs, and the useful thing this board can do with him is separate what he patented from what was later written about him. The patents are real and were read off the USPTO's own image server: US 1,974,483 ELECTROSTATIC MOTOR (1934), US 2,207,576 (1940), US 2,417,347 VIBRATION DAMPER (1947, assigned by mesne assignments to Lockheed Aircraft Corporation), US 2,949,550 ELECTROKINETIC APPARATUS (1960) and US 3,187,206 ELECTROKINETIC APPARATUS (1965). None of them claims gravity control. The 1934 patent claims 'a method of producing force or motion by applying and maintaining high potential electro-static charges'; the 1965 patent opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields' and is explicit that the reaction appears in the surrounding medium and, in vacuum, on the walls of the chamber. That is an electrostatic-thrust claim. The word 'electrogravitics' appears in none of them.
 
-Between July 2015 and March 2018 he filed five applications from NAWCAD at NAS Patuxent River, every one of them assigned to 'The United States of America as represented by the Secretary of the Navy': an electromagnetic field generator, a craft using an inertial mass reduction device, a high frequency gravitational wave generator, a piezoelectricity-induced room temperature superconductor, and a plasma compression fusion device. Three were granted. Two published as applications.
+Project Winterhaven is real and does not say what the secondary literature says it says. The 66-page proposal, 'A PROPOSAL FOR JOINT SERVICES RESEARCH AND DEVELOPMENT CONTRACT, THE TOWNSEND BROWN FOUNDATION', does propose research on 'the control of gravitation' and lists 'electrified disc airfoils' among results to date. But the words 'saucer', 'interceptor', 'Mach' and 'Air Force' appear in it zero times. The saucer-as-USAF-interceptor framing belongs to the 1956 Aviation Studies (International) report 'Electrogravitics Systems', not to Winterhaven, and that report has no catalogue record anywhere WorldCat indexes.
 
-The Navy's own invention-disclosure briefing for the inertial mass reduction device, Navy Case PAX 205, was released under FOIA and is the most useful document in the set because Pais wrote it for an internal audience rather than for an examiner. It describes a 'hybrid aerospace / undersea craft (HAUC)' that would 'move with great ease through the air / space / water mediums' enclosed in a 'Vacuum plasma bubble/sheath', achieving 'extreme aerial and underwater speeds (lack of air/water-skin friction) and enhanced stealth capabilities (non-linear scattering of RF and sonar signals)'. Set that description beside the flight characteristics the Navy's own aviators reported in the same decade and the overlap is not subtle: transmedium travel, extreme acceleration, and low observability, itemised in a Navy invention disclosure.
-
-The same briefing is equally explicit about what did not exist. Pais states, twice, that this 'is a theoretical concept - no prototype in existence, as yet', gives the invention original date as 6 March 2015, and proposes Section 219 NISE funding of 250,000 dollars in labour and 250,000 dollars in NAWCAD facility cost to investigate it experimentally. A slide header reads 'EXPERIMENT TRUMPS THEORY EVERYTIME!'. Whatever else the documents are, on their face they are a proposal to test an idea, written by someone asking for money to test it.
-
-That is where the record turns against the strong reading. NAWCAD did fund the work, and reporting based on documents released under FOIA says it spent roughly half a million dollars between 2016 and 2019 and concluded that the effect could not be demonstrated, with no further research conducted. The figure matches the two 250,000 dollar lines Pais proposed. A board that leaves that out is not making the case stronger, it is making it dismissible.
-
-What remains genuinely unusual, and is not disposed of by the negative test result, is the institutional behaviour around the filings. A patent examiner's job is to reject a claim that is not enabled, and the record as reported is that one was rejected on exactly that ground and then granted after the Naval Aviation Enterprise's chief technology officer wrote to the USPTO asserting operability and warning that China was pursuing the same capability. Agencies do not usually spend senior technical credibility forcing through a patent they believe describes nothing. Either the Navy believed the physics, or it wanted the priority date on the public record for reasons it has not stated. Both readings are live, and neither is established.
-
-### What is left unexplained
-
-Why the Navy pressed for grant of a filing an examiner had rejected for lack of enablement, and then funded a test that it concluded had failed, without withdrawing or disclaiming the granted patents.
-
-### Where the record conflicts
-
-- The strong reading of these filings, that they describe technology already understood from a recovered object, is in direct tension with the author's own written statement that no prototype existed and with NAWCAD's reported conclusion that the effect could not be demonstrated. Both the statement and the test result are part of the record and are recorded here.
-- Two different questions are routinely collapsed into one when this record is discussed: whether a working article existed, and where the concept came from. The PAX 205 briefing speaks directly to the first and is silent on the second. Treating its answer to the first as an answer to the second is the most common error made about this cluster in both directions.
-- {'source': 'USPTO file wrapper document image JCTFAFUKPXXIFW1.pdf against secondary summaries of the episode', 'text': "The widely repeated account that Sheehy wrote to the patent office 'asserting the invention was operable' is contradicted by the letter itself, which opens by agreeing with the examiner that the concept is beyond present possibility. The board carried that version as Tier 2 until the primary document was read on 28 August 2026. Anyone citing the secondary version to a sceptical reader is handing them the rebuttal."}
+The provenance that matters most is the one the enthusiast literature omits. Brown's own FBI file records the Winterhaven pitch inside a Fraud Against the Government inquiry: the LEADS section directs the Washington Field Office to 'ascertain from appropriate defense agencies the nature of any overtures made by BROWN' and to 'determine any possible violation of the [F]AG Statute'. The same file carries named informants describing the apparatus as a relabelled stock-market predicting machine, one of them 'confident this flying saucer thing is a phony'. A node on Brown that carries the patents without that is not an honest node.
 
 ### Recorded as unverified
 
-- Whether Pais had any access to, or knowledge of, material from any recovery programme. Nothing in the released record connects him to AATIP, AAWSAP, KONA BLUE, any DIRD, or any material-custody chain on this board.
-- His current office and title. Secondary reporting places him at US Navy Strategic Systems Programs from 2019, the US Air Force from 2021 and the Space Force more recently; no primary personnel record has been obtained.
-- Whether Pais has stated in public interviews that the filings were speculative concepts, and whether any such statement is constrained by an active clearance. No transcript has been obtained for this board; long-form interview material exists and is unindexed here.
-- Whether patents assigned to a United States government agency owe maintenance fees on the ordinary 37 CFR 1.362 schedule, or are treated differently. Until that is settled, the lapse of US 10,144,532 cannot be read confidently as a decision rather than a bookkeeping outcome. This is the first thing to check before the expiry is used as an argument.
-- The Reasons for Allowance dated 24 October 2018 is still unread, and it is now known WHY: the file wrapper uploaded to this project stops at the Appeal Brief of 20-21 August 2018. Nothing after that date is present for application 15/141,270. It remains the most informative unobtained document on this node, because it is the examiner's own account of what reversed a rejection he had sustained twice. See research/patents/wrapper/MISSING.md.
-- No demonstration of the effect appears anywhere in the file wrapper as uploaded, yet the examiner had made one an explicit condition in July 2018 and allowed the case in October 2018. Whether something was filed in between, or whether the examiner simply yielded on the burden-of-proof argument, cannot be determined without the papers listed in MISSING.md. Do not assert either.
-
-Affiliations recorded: Naval Air Warfare Center Aircraft Division (NAWCAD), NAS Patuxent River, Maryland, Naval Air Systems Command (NAVAIR), US Navy Strategic Systems Programs (from 2019), United States Air Force (from 2021).
+- T
+- h
+- e
+- 
+- P
+- r
+- o
+- j
+- e
+- c
+- t
+- 
+- W
+- i
+- n
+- t
+- e
+- r
+- h
+- a
+- v
+- e
+- n
+- 
+- s
+- c
+- a
+- n
+- 
+- i
+- s
+- 
+- a
+- 
+- p
+- r
+- i
+- v
+- a
+- t
+- e
+- 
+- u
+- p
+- l
+- o
+- a
+- d
+- 
+- t
+- o
+- 
+- a
+- r
+- c
+- h
+- i
+- v
+- e
+- .
+- o
+- r
+- g
+- 
+- w
+- i
+- t
+- h
+- 
+- n
+- o
+- 
+- i
+- n
+- s
+- t
+- i
+- t
+- u
+- t
+- i
+- o
+- n
+- a
+- l
+- 
+- c
+- u
+- s
+- t
+- o
+- d
+- y
+- 
+- n
+- a
+- m
+- e
+- d
+- ,
+- 
+- s
+- o
+- 
+- i
+- t
+- s
+- 
+- c
+- o
+- n
+- t
+- e
+- n
+- t
+- s
+- 
+- a
+- r
+- e
+- 
+- d
+- o
+- c
+- u
+- m
+- e
+- n
+- t
+- e
+- d
+- 
+- b
+- u
+- t
+- 
+- i
+- t
+- s
+- 
+- a
+- u
+- t
+- h
+- e
+- n
+- t
+- i
+- c
+- i
+- t
+- y
+- 
+- a
+- s
+- 
+- a
+- 
+- 1
+- 9
+- 5
+- 2
+- -
+- 5
+- 3
+- 
+- a
+- r
+- t
+- i
+- f
+- a
+- c
+- t
+- 
+- r
+- e
+- s
+- t
+- s
+- 
+- o
+- n
+- 
+- t
+- h
+- e
+- 
+- u
+- p
+- l
+- o
+- a
+- d
+- e
+- r
+- .
+- 
+- B
+- r
+- i
+- t
+- i
+- s
+- h
+- 
+- P
+- a
+- t
+- e
+- n
+- t
+- 
+- 3
+- 0
+- 0
+- ,
+- 3
+- 1
+- 1
+- 
+- w
+- a
+- s
+- 
+- n
+- o
+- t
+- 
+- o
+- p
+- e
+- n
+- e
+- d
+- .
+- 
+- T
+- h
+- e
+- 
+- 1
+- 9
+- 5
+- 6
+- 
+- '
+- E
+- l
+- e
+- c
+- t
+- r
+- o
+- g
+- r
+- a
+- v
+- i
+- t
+- i
+- c
+- s
+- 
+- S
+- y
+- s
+- t
+- e
+- m
+- s
+- '
+- 
+- r
+- e
+- p
+- o
+- r
+- t
+- 
+- h
+- a
+- s
+- 
+- n
+- o
+- 
+- c
+- a
+- t
+- a
+- l
+- o
+- g
+- u
+- e
+- 
+- r
+- e
+- c
+- o
+- r
+- d
+- 
+- a
+- n
+- y
+- w
+- h
+- e
+- r
+- e
+- 
+- W
+- o
+- r
+- l
+- d
+- C
+- a
+- t
+- 
+- i
+- n
+- d
+- e
+- x
+- e
+- s
+- .
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 45 of 1105, score 83). 7 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 56 of 1111, score 75). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A1/D2.
 
 ### The claims on the record
 
-- **Tier 1 documented.** A patent assigned to a federal agency owes maintenance fees on the ordinary schedule, which closes the question the expiry finding rested on. 37 CFR 1.362(a) requires them 'in all patents based on applications filed on or after December 12, 1980, except as noted in paragraph (b) of this section, to maintain a patent in force beyond 4, 8 and 12 years after the date of grant', and paragraph (b) gives the exemptions in full: 'Maintenance fees are not required for any plant patents or for any design patents.' Both Pais grants are utility patents from applications filed long after 1980. Neither was in an exempt class, and both owed the fee. Source: 37 CFR 1.362, Time for payment of maintenance fees (CFR 2024, title 37, vol. 1) || https://www.govinfo.gov/content/pkg/CFR-2024-title37-vol1/xml/CFR-2024-title37-vol1-sec1-362.xml
-- **Tier 1 documented.** Both granted Pais patents lapsed at the first maintenance fee, five weeks apart. US 10,135,366, granted 20 November 2018, is recorded expired for non-payment on 26 December 2022; US 10,144,532, granted 4 December 2018, is recorded expired for non-payment on 9 January 2023. USPTO mailed a maintenance fee reminder for each in the preceding July. Source: USPTO application data for 14/807943 and 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrappers 28 August 2026
-- **Tier 1 documented.** Paragraph [0020] of the application as filed credits the mechanism to a named figure already on this board: 'it is feasible to remove energy-mass from the system by enabling vacuum polarization, as discussed by Harold Puthoff; in that diminution of inertial (and thus gravitational) mass can be achieved via manipulation of quantum field fluctuations in the vacuum.' Source: Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205
-- **Tier 1 documented.** Paragraph [0037] of the application as filed states that the preferred electromagnetic generator for the craft is the one described in US application 14/807,943, 'incorporated by reference, and has the same inventor'. The inertial mass reduction craft and the electromagnetic field generator are therefore linked as components of one design by the filings themselves rather than by inference. Source: Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205
-- **Tier 1 documented.** Sheehy's declaration of 11 May 2018 states his credentials: a PhD in physiological optics from Pennsylvania State University, a master's in Human Factors Engineering from Rensselaer, a bachelor's from Kean University; a civilian Navy employee since 1985; formerly Chief Scientist of the Naval Air Systems Command; Chief Technology Officer of the Naval Aviation Enterprise for the preceding eleven years; promoted to the Senior Executive Service in November 2001; awarded the Presidential Rank Award in 2007. It is sworn under 18 U.S.C. 1001. Source: USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt
-- **Tier 1 documented.** The 17 January 2018 examiner interview was telephonic, attended by examiner Philip J. Bonzell, attorney Mark Glut and Salvatore Pais personally. The summary records that no exhibit was shown and no demonstration conducted, and that 'The Examiner pointed out that he still felt that there were enablement issues. The Applicant to submit arguments to the contrary. No agreement was reached.' Source: USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCKKXW5GRXEAPX4.pdf, Applicant-Initiated Interview Summary mailed 22 January 2018; transcript at research/patents/wrapper/interview-summary-2018-01-17.txt
-- **Tier 1 documented.** The Appeal Brief states the ownership position without qualification: 'The real party in interested is the United States Government represented by the Secretary of the Navy (The Department of the Navy). The inventor is a U.S.government employee who invented the invention during the course of his employment. As a result, Federal law provides all rights to this invention belong to the United States of America under 37 C.F.R. 501.6.' This is the Navy's own characterisation, in a filing signed by its Office of Counsel. Source: USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt
-- **Tier 1 documented.** The December 2017 letter places the NAWCAD experimental programme on the record and dates it. Sheehy wrote that 'Dr. Pais is currently funded by NAWCAD to design a test article and instrumentation to demonstrate the experimental feasibility of achieving high electromagnetic (EM) field-energy and flux values', and that 'He is currently one year into the project and has already begun a series of experiments'. That places the start of funded experimental work in about December 2016 and corroborates, from a primary document, the secondary reporting that NAWCAD funded testing from 2016. Source: USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt
+- **Tier 1 documented.** A memorandum of 6 December 1950 from J. Edgar Hoover to the Chief, Investigations Division, U.S. Civil Service Commission records Brown as an appointee to the Industrial Relations Department, Pearl Harbor Naval Shipyard, notes a 1943 Navy resignation 'accepted for the good of the service', and reports 'no information of disloyal nature.' Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, Hoover memorandum of 6 December 1950
+- **Tier 1 documented.** A named former president of Lake States Securities Corporation told the FBI that Brown's 'flying saucers' apparatus 'was identical to the old stock market predicting machine except that it operated in the atmosphere rather than in an oil bath and it was much larger', and that he was 'confident this flying saucer thing is a phony'. Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, informant statement
+- **Tier 1 documented.** Brown's FBI file directs the Washington Field Office that Brown 'is apparently in Washington attempting to obtain a research and development contract for his so-called Project Winterhaven', anticipates 'a contract of approximately a million dollars', and instructs the office to 'determine any possible violation of the [F]AG Statute in this matter' -- the Fraud Against the Government statute. Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section, referring to the report of 25 March 1953, Cincinnati
+- **Tier 1 documented.** NEITHER PATENT WAS FILED BY OR FOR A GOVERNMENT. US 2,949,550 was assigned to Whitehall-Rand, Inc. of Washington D.C., a Delaware corporation; US 3,187,206 to Electrokinetics, Inc., a Pennsylvania corporation, by mesne assignments. Both are private corporations, and neither patent carries a government interest statement. On the sponsorship test the board applies to the Pais filings, Brown sits with the private inventors and not with the Navy; he is board material for other reasons, including his FBI file, and not because a government filed his patents. Source: US Patent 3,187,206, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf, opened 2026-09-19
+- **Tier 1 documented.** THE ABSENCE IN THE GOVERNMENT'S OWN ANTIGRAVITY SURVEY. DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis of EarthTech International, does not mention Thomas Townsend Brown. Word counts over the whole released PDF: Biefeld 0, electrogravitics 0, Podkletnov 0. 'Brown' occurs three times and all three are reference-list surnames of other authors: L. S. Brown and Maclay in Physical Review 184 (1969), H. R. Brown as co-editor of 'The Philosophy of Vacuum', and J. H. Brownell on Casimir photons. THIS IS A FACT ABOUT THE DOCUMENT. IT IS NOT EVIDENCE THAT DIA CONSIDERED AND REJECTED BROWN, because the document shows no sign of having considered him at all. Source: Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, opened 2026-09-19
+- **Tier 1 documented.** THE MODERN COUNTER-EXPLANATION IS NASA'S OWN AND IT NAMES THE EFFECT. NASA/TM-2004-213082, section 3.2.7, by the manager of NASA's Breakthrough Propulsion Physics Project: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These "Biefeld-Brown," "Lifter" and "Asymmetrical Capacitor Thrusters" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES AND NOT ABOUT WHAT BROWN'S PATENTS CLAIM, since the patents never claimed anti-gravity in the first place. Source: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, opened 2026-09-19
+- **Tier 1 documented.** THE ZERO-COUNT, TAKEN OVER BOTH COMPLETE PATENT TEXTS, because a count is checkable and an adjective is not. Across all six pages of US 2,949,550 and all six pages of US 3,187,206: gravity 0, anti-gravity 0, antigravity 0, levitation 0, scalar 0, electrogravitics 0, zero point 0. THE WORD 'GRAVITY' DOES NOT APPEAR IN EITHER PATENT, in either direction, not once. The board has recorded since 30 August 2026 that neither patent claims anti-gravity; this is that record verified against the printed documents rather than against a prior reading of them. Source: US Patent 3,187,206, 'Electrokinetic Apparatus', complete 6-page text, https://patentimages.storage.googleapis.com/fd/fa/17/a3da8c41817315/US3187206.pdf, opened 2026-09-19
+- **Tier 1 documented.** The 1934 patent claims 'a method of producing force or motion by applying and maintaining high potential electro-static charges in a system of chargeable masses and associated electrodes', and describes the motor as useful in observatory recording instruments. It does not claim gravity control. Source: US Patent 1,974,483, specification
 
-A further 32 claims sit on this node on the board and are not reproduced here.
+A further 20 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
-- Salvatore Cezar Pais runs out to **Naval Air Station Patuxent River, Maryland** (location, board tier B), a institutional link at Tier 1 documented. The link reads: NAWCAD, NAS Patuxent River, at the time of filing. The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670. Sources: NAVAIR FOIA release 2021-003244, p. 1, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
-- Salvatore Cezar Pais runs out to **NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: Author of the Navy invention disclosure. The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page. Sources: NAVAIR FOIA release 2021-003244, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
-- Salvatore Cezar Pais runs out to **US Patent 10,144,532 - Craft using an inertial mass reduction device** (document, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 15/141270, assigned to the Secretary of the Navy. Sources: US Patent 10,144,532, https://www.freepatentsonline.com/10144532.html
-- Salvatore Cezar Pais runs out to **US Patent 10,135,366 - Electromagnetic field generator** (document, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 14/807943, assigned to the Secretary of the Navy. Sources: US Patent 10,135,366, https://www.freepatentsonline.com/10135366.html
-- Salvatore Cezar Pais runs out to **US Patent 10,322,827 - High frequency gravitational wave generator** (document, board tier C), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 15/431823, assigned to the Secretary of the Navy. Sources: US Patent 10,322,827, https://www.freepatentsonline.com/10322827.html
-- Salvatore Cezar Pais runs out to **US Application 2019/0295733 - Plasma Compression Fusion Device** (document, board tier C), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 15/928703, assigned to the Secretary of the Navy. Sources: US Application 2019/0295733, https://www.freepatentsonline.com/20190295733.html
+- Thomas Townsend Brown runs out to **Lockheed Martin Corporation** (institution, board tier A), a research link at Tier 1 documented. The link reads: US 2,417,347 assigned by mesne assignments to Lockheed Aircraft Corporation. The patent's own inventor line reads 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'. This is the one item in Brown's self-authored biography that a second document corroborates. Sources: US Patent 2,417,347, Vibration Damper, assignment line, https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2417347, dated 1947-03-11.
+- Thomas Townsend Brown comes in from **Antigravity for Aerospace Applications** (document, board tier A), a denial link at Tier 1 documented. The link reads: The government's own 45-page antigravity survey does not mention Brown at all. THE ABSENCE EDGE, AND THIS NOTE IS WHAT KEEPS IT HONEST. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0; 'Brown' occurs three times and all three are other authors' surnames in the reference list (L. S. Brown and Maclay 1969, H. R. Brown as co-editor of 'The Philosophy of Vacuum', J. H. Brownell 2008). WHAT THIS IS: a Tier 1 fact about a named, dated, openable document, checkable in 45 pages. WHAT THIS IS NOT: a finding that DIA considered Brown and rejected him, because the document shows no sign of having considered him. NOBODY DENIED ANYTHING, which is why the verdict is association and not directed, and the edge must never be rendered or summarised as 'DIA rejected Brown'. Sources: Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2010-03-30.
+- Thomas Townsend Brown comes in from **NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)** (document, board tier B), a denial link at Tier 1 documented. The link reads: NASA: the observed thrust is ion wind, and these devices are not viable candidates. EXPLICIT DENIAL EDGE, AND ITS SCOPE MUST NOT BE OVERSTATED. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These "Biefeld-Brown," "Lifter" and "Asymmetrical Capacitor Thrusters" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES BUILT ON IT. It is NOT a finding about what Brown's patents claim, because neither patent ever claimed anti-gravity: the word 'gravity' appears zero times in both. The denial lands on the electrogravitic reading of the effect, not on the inventor's own text. Sources: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, dated 2004.
+- Thomas Townsend Brown runs out to **National Investigations Committee on Aerial Phenomena (NICAP)** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Ran NICAP at its formation, October 1956, as executive vice chairman pro tempore. A Washington Daily News report of 23 October 1956, in the FBI's own NICAP file, names T. Townsend Brown of Leesburg, Virginia as the man who runs it and gives his title, with the board of governors still to be elected on 1 November. Sources: FBI file 100-35992, part 1, Washington Daily News clipping, 23 October 1956, https://archive.org/details/NICAP, dated 1956-10-23.
+- Thomas Townsend Brown comes in from **NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)** (document, board tier C), a research link at Tier 1 documented. The link reads: Cites both Brown patents and GB 300,311 by number, and models the thrust as ion drift. THE JOIN IS DOCUMENTARY AND NOT TOPICAL. The report's reference list opens with 'Brown, T.T., US Patent 2,949,550', 'Brown, T.T., US Patent 3,187,206' and 'Brown, T.T., GB Patent 300,311', which are exactly the three Brown documents this board already carries. Its conclusion is that the operation of such devices 'is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions'. Sources: NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf, dated 2004-10.
+- Thomas Townsend Brown comes in from **Mark McCandlish** (person, board tier A), a research link at Tier 2 named person on the record. The link reads: Attributes the claimed lift effect to a Brown patent of the late 1950s or early 1960s. THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. His testimony describes a plate capacitor floated at about a million volts 'in accordance with principles that had been described in a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
 
 It carries 7 connections in total on the board.
 
@@ -1845,7 +2220,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 259 of 1105, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 262 of 1111, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -1890,7 +2265,7 @@ Affiliations recorded: Harvard University Department of Astronomy (1993- ; chair
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 218 of 1105, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 220 of 1111, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1932,7 +2307,7 @@ Affiliations recorded: New Paradigm Institute (founder), Christic Institute (co-
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 457 of 1105, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 461 of 1111, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1972,7 +2347,7 @@ Affiliations recorded: US Army, Vietnam (116th and 187th Assault Helicopter Comp
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 216 of 1105, score 43). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 218 of 1111, score 43). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2010,7 +2385,7 @@ Affiliations recorded: U.S. Senate, Florida (2011-2025), SSCI Acting Chairman (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 426 of 1105, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 431 of 1111, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -2054,7 +2429,7 @@ Affiliations recorded: Thunder Scientific Corporation, Albuquerque (founder/pres
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 489 of 1105, score 30). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 493 of 1111, score 30). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -2089,7 +2464,7 @@ The structural point is the ordering. A former DCI publicly contradicting the Ai
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 160 of 1105, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 162 of 1111, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -2135,7 +2510,7 @@ Affiliations recorded: US Navy (1989-2017), Rear Admiral, Commander, Naval Meteo
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 142 of 1105, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 145 of 1111, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2173,7 +2548,7 @@ A private correspondent of John Podesta's in the WikiLeaks Podesta Emails, writi
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 529 of 1105, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 533 of 1111, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2204,7 +2579,7 @@ The board already holds a document over Cabell's signature, cited as a source on
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 244 of 1105, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 247 of 1111, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -2240,7 +2615,7 @@ Affiliations recorded: U.S. Senate, New York (1999- ), Senate Majority Leader (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 256 of 1105, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 259 of 1111, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2282,7 +2657,7 @@ Clifford Stone is on this board because the evidence against his extraordinary a
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 333 of 1105, score 36). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 338 of 1111, score 36). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2327,7 +2702,7 @@ Affiliations recorded: US Navy (1989-2006), VFA-41 Black Aces, Commanding Office
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 155 of 1105, score 50). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 157 of 1111, score 50). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2368,7 +2743,7 @@ Keyhoe ran the civilian organisation the board already carries as nicap, and he 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 214 of 1105, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 216 of 1111, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2408,7 +2783,7 @@ Affiliations recorded: US Air Force veteran, U.S. Air Force (Langley AFB, c.2012
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 101 of 1105, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 102 of 1111, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2450,7 +2825,7 @@ Affiliations recorded: U.S. House of Representatives, FL-23 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 352 of 1105, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 357 of 1111, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2488,7 +2863,7 @@ Affiliations recorded: The White House (1993-2001; 2014-2015), Center for Americ
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 684 of 1105, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 686 of 1111, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2522,7 +2897,7 @@ Affiliations recorded: NASA Ames Research Center (2001-2005), University at Alba
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 892 of 1105, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 898 of 1111, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -2561,7 +2936,7 @@ Affiliations recorded: CRIFO (Civilian Research, Interplanetary Flying Objects),
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 774 of 1105, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 777 of 1111, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2596,7 +2971,7 @@ Affiliations recorded: University at Albany (SUNY), Department of Physics, LUX /
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 891 of 1105, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 897 of 1111, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2629,7 +3004,7 @@ Genik has no documented custody proximity and no documented special access. He i
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 136 of 1105, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 139 of 1111, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2668,7 +3043,7 @@ Richard Bissell is where the documented record of Area 51 begins, and the board'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 225 of 1105, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 227 of 1111, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -2708,7 +3083,7 @@ Affiliations recorded: ufohastings.com, UFOs and Nukes (book and documentary).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 501 of 1105, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 505 of 1111, score 30). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2749,7 +3124,7 @@ Affiliations recorded: General Electric (1956-1959), Aerojet General Nucleonics 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 135 of 1105, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 138 of 1111, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2794,7 +3169,7 @@ Affiliations recorded: US House of Representatives, NM-01 (1989-1998), House Jud
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 291 of 1105, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 298 of 1111, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2809,7 +3184,7 @@ Re-graded B on a global pass (rank 291 of 1105, score 38). 5 connections, 0 of t
 
 ### Its strongest connections
 
-- Steven H. Schiff runs out to **GAO/NSIAD-95-187, Results of a Search for Records Concerning the 1947 Crash Near Roswell** (document, board tier A), a legislative link at Tier 1 documented. The link reads: Schiff tasked GAO after DoD refused to answer him. A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed. Sources: GAO/NSIAD-95-187 (landing page), https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28; GAO/NSIAD-95-187 (full PDF), https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
+- Steven H. Schiff runs out to **GAO/NSIAD-95-187, Results of a Search for Records Concerning the 1947 Crash Near Roswell** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Schiff tasked GAO after DoD refused to answer him. A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed. Sources: GAO/NSIAD-95-187 (landing page), https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28; GAO/NSIAD-95-187 (full PDF), https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
 - Steven H. Schiff runs out to **The Roswell Reports (USAF, 1994-1997)** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Schiff's inquiry forced the Air Force to abandon the weather balloon story. Both Roswell Reports state they were produced in response to Rep. Schiff's inquiry. The 1994-1995 volume conceded that the 1947 weather balloon explanation was false. Sources: USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01; GAO/NSIAD-95-187, https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
 - Steven H. Schiff runs out to **Albuquerque, New Mexico** (location, board tier B), a investigative link at Tier 1 documented. The link reads: Schiff's New Mexico district inquiry produced the GAO Roswell audit. Rep. Steven H. Schiff of New Mexico asked GAO to search federal records after the Defense Department declined to answer his Roswell inquiries, producing GAO/NSIAD-95-187. Sources: GAO/NSIAD-95-187, https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28.
 - Steven H. Schiff comes in from **Government Accountability Office** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: GAO conducted the Roswell records search at Rep. Schiff's request. Schiff turned to GAO after the Air Force declined to answer him directly; GAO/NSIAD-95-187 is the result. Sources: GAO/NSIAD-95-187, https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
@@ -2831,7 +3206,7 @@ Tom Mahood is the custody and analysis point for most of the documentary record 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 292 of 1105, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.
+Re-graded B on a global pass (rank 299 of 1111, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -2868,7 +3243,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 403 of 1105, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 408 of 1111, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -2897,7 +3272,7 @@ The correspondent named throughout the Wilson-Davis notes as the man who first r
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 706 of 1105, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 708 of 1111, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2911,7 +3286,7 @@ Re-graded C on a global pass (rank 706 of 1105, score 23). 5 connections, 0 of t
 
 - Will Miller runs out to **Eric W. Davis** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: His letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics. Miller's letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics and offers him paid research assistance. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 - Will Miller runs out to **The Wilson-Davis Notes (16 October 2002)** (document, board tier A), a witness-chain link at Tier 1 documented. The link reads: Named on six of the fifteen pages; his own signed letter is two of them. Miller is named on six of the notes' fifteen pages and his own signed letter is bound in as two of them. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
-- Will Miller runs out to **United States Navy** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: His letter of 25 April 2002 is on United States Navy letterhead. Miller's letter is on United States Navy letterhead and Wilson's complaint in the notes is framed in terms of trust among Navy officers, though no rank is stated anywhere in the document. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
+- Will Miller runs out to **United States Navy** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: His letter of 25 April 2002 is on United States Navy letterhead. Miller's letter is on United States Navy letterhead and Wilson's complaint in the notes is framed in terms of trust among Navy officers, though no rank is stated anywhere in the document. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 - Will Miller runs out to **Steven M. Greer** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Placed with Greer and Mitchell at the April 1997 Pentagon talk. The notes place Miller with Greer and Mitchell at the April 1997 Pentagon talk and record that Miller told Greer what Wilson had said. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 - Will Miller runs out to **Thomas R. Wilson** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: The private two hour conversation of April 1997, as the notes record it. The notes record a private two hour conversation between Miller and Wilson in April 1997 and Wilson's later anger that Miller repeated it. Sources: The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf, dated 2002-10-16.
 
@@ -2929,7 +3304,7 @@ Affiliations recorded: US Navy (2001-2019), VFA-41 Black Aces (2004), Naval Post
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 494 of 1105, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 498 of 1111, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2974,7 +3349,7 @@ Affiliations recorded: US Navy, Senior Chief Operations Specialist, USS Jackson 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 179 of 1105, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 181 of 1111, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -3016,7 +3391,7 @@ The documented officeholder who joins three institutions the board already carri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 245 of 1105, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 248 of 1111, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -3054,7 +3429,7 @@ Everything substantive on this thread traces to one man, and the earliest docume
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 493 of 1105, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 497 of 1111, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -3069,7 +3444,7 @@ Re-graded B on a global pass (rank 493 of 1105, score 30). 4 connections, 0 of t
 
 - 'Brad' Sorensen comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Painted the craft from Sorensen's verbal description; he was not at the air show. The 1990 primary document states the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. The same document records Sorensen disowning part of what McCandlish drew. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 - 'Brad' Sorensen runs out to **William B. Scott's interview notes on 'Brad', 3 December 1990** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: Interviewee; the notes are his account in his own words. The document's own header: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD', 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. He gave one paid hour in his Pasadena office and had refused an approach the previous summer. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
-- 'Brad' Sorensen runs out to **Alien Reproduction Vehicle (ARV) / Flux Liner** (program, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Sole claimed eyewitness to the three craft. Every substantive claim about the craft traces to him and to nobody else. His own 1990 words limit it: the sizes are 'Just a guess; don't hold me to that', and of the manned vehicle in McCandlish's drawing, 'this is probably the farthest from what I saw'. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
+- 'Brad' Sorensen runs out to **Alien Reproduction Vehicle (ARV) / Flux Liner** (program, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Sole claimed eyewitness to the three craft. Every substantive claim about the craft traces to him and to nobody else. His own 1990 words limit it: the sizes are 'Just a guess; don't hold me to that', and of the manned vehicle in McCandlish's drawing, 'this is probably the farthest from what I saw'. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 - 'Brad' Sorensen runs out to **Norton AFB air show, 12 November 1988, and the alleged classified exhibit** (event, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Sole claimed eyewitness to the alleged hangar exhibit. He is the only person who claims to have been inside. The 1990 notes place his account only 'in early Nov. 88'; the exact date comes from McCandlish in 2001. Sources: William B. Scott, interview notes on 'Brad', 3 December 1990, scanned PDF hosted by arvp.co.uk, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf, dated 1990-12-11.
 
 ## Christopher Sherwood
@@ -3090,7 +3465,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 768 of 1105, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
+Re-graded C on a global pass (rank 771 of 1111, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
 
 ### The claims on the record
 
@@ -3122,7 +3497,7 @@ Affiliations recorded: Air Technical Intelligence Center, Wright-Patterson AFB (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 378 of 1105, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 383 of 1111, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -3160,7 +3535,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-2 (2023- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 351 of 1105, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 356 of 1111, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3191,7 +3566,7 @@ Affiliations recorded: U.S. House of Representatives, WI-6 (2015- ), Subcommitte
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 737 of 1105, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 740 of 1111, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3225,7 +3600,7 @@ Gordon Gray held, in sequence, four offices that between them cover the whole of
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 309 of 1105, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 316 of 1111, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -3257,7 +3632,7 @@ Affiliations recorded: CIA Office of Scientific Intelligence, Assistant Director
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 531 of 1105, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 535 of 1111, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3287,7 +3662,7 @@ Affiliations recorded: Ohio State University (1936-1956), Project SIGN / GRUDGE 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 496 of 1105, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 500 of 1111, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3317,7 +3692,7 @@ Affiliations recorded: U.S. House of Representatives, KY-1 (2016- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 825 of 1105, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 830 of 1111, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3347,7 +3722,7 @@ Affiliations recorded: University of Arizona, Institute of Atmospheric Physics (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 461 of 1105, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 465 of 1111, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3390,7 +3765,7 @@ Affiliations recorded: Defense Intelligence Agency (2000s-2021), AAWSAP/AATIP pa
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 143 of 1105, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 146 of 1111, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -3438,7 +3813,7 @@ John Callahan is the most useful witness the Disclosure Project produced and the
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 458 of 1105, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 462 of 1111, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -3478,7 +3853,7 @@ Affiliations recorded: US Army, Colonel (ret.), UAP Task Force, Army liaison (20
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 530 of 1105, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 534 of 1111, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -3517,7 +3892,7 @@ Affiliations recorded: US Navy (retired Senior Chief Operations Specialist), USS
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 735 of 1105, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded C on a global pass (rank 738 of 1111, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -3555,7 +3930,7 @@ Larry Warren is carried here for the dispute rather than for the claim, because 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 459 of 1105, score 31). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 463 of 1111, score 31). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -3920,7 +4295,7 @@ What is documented about his work is classical general relativity, not gravity c
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 629 of 1105, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 632 of 1111, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -3957,7 +4332,7 @@ Affiliations recorded: The Hill (opinion contributor), US Department of State (f
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 1054 of 1105, score 10). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 1059 of 1111, score 10). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -3984,7 +4359,7 @@ Affiliations recorded: Bigelow Aerospace (Washington DC operations, prior), NASA
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 491 of 1105, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 495 of 1111, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4021,7 +4396,7 @@ Michael Herrera is a claimant whose account has reached two official records wit
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 379 of 1105, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.
+Re-graded B on a global pass (rank 384 of 1111, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.
 
 ### The claims on the record
 
@@ -4060,7 +4435,7 @@ Affiliations recorded: Public (co-founder), University of Austin (faculty, 2026)
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 288 of 1105, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 295 of 1111, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -4098,7 +4473,7 @@ Affiliations recorded: U.S. Senate, South Dakota (2015- ), Senate Armed Services
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 425 of 1105, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 430 of 1111, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -4137,7 +4512,7 @@ Affiliations recorded: U.S. House, Ohio (2003- ), Chairman, HPSCI (2023-2025), H
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 495 of 1105, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 499 of 1111, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -4171,7 +4546,7 @@ Affiliations recorded: US Army Air Forces / Air Materiel Command (1945-1947), US
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 308 of 1105, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 315 of 1111, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -4205,7 +4580,7 @@ Affiliations recorded: OUSD(I), Director for Defense Intelligence (Collection & 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 428 of 1105, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 433 of 1111, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -4239,7 +4614,7 @@ Affiliations recorded: uk-mod, uk-mod-ufo-desk.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 653 of 1105, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 656 of 1111, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -4273,7 +4648,7 @@ Affiliations recorded: fab, Ministério da Aeronáutica.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 500 of 1105, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 504 of 1111, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -4310,7 +4685,7 @@ Affiliations recorded: Secretary of Defense / Secretary of War (2025-), Fox News
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 171 of 1105, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 173 of 1111, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -4348,7 +4723,7 @@ Affiliations recorded: U.S. House of Representatives, CA-42 (2023- ), Subcommitt
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 736 of 1105, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 739 of 1111, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4387,7 +4762,7 @@ Robert Jacobs is the one witness in this cluster whose claimed role is confirmed
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 258 of 1105, score 40). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 261 of 1111, score 40). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -4421,7 +4796,7 @@ Sidney Gottlieb is the officer at the centre of the destruction event the board'
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 330 of 1105, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 335 of 1111, score 36). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -4455,7 +4830,7 @@ Souers held, in sequence, the two offices through which the postwar national sec
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 289 of 1105, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 296 of 1111, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -4471,377 +4846,6 @@ Re-graded B on a global pass (rank 289 of 1105, score 38). 4 connections, 0 of t
 - Rear Adm. Sidney W. Souers runs out to **Roscoe H. Hillenkoetter** (person, board tier A), a institutional link at Tier 1 documented. The link reads: Successive holders of the DCI post; in the same room at the NSC's first meeting. Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council's first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present. Sources: FRUS 1945-50 Intel, Doc. 225 and List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/d225, dated 1947-09-26.
 - Rear Adm. Sidney W. Souers comes in from **Harry S. Truman** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Designated the first Director of Central Intelligence. The directive reserves the designation to the President: 'The Director of Central Intelligence shall be designated by me'. The board's Souers node already carries the office and its dates. Sources: Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71), https://history.state.gov/historicaldocuments/frus1945-50Intel/d71, dated 1946-01-22.
 - Rear Adm. Sidney W. Souers runs out to **MJ-12 / Operation Majestic-12 Documents** (document, board tier B), a investigative link at Tier 3 stated inference. The link reads: Named as a panel member inside the disputed document. Souers is named as an MJ-12 panel member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED, corpus map 02 file 02. No record opened for this node connects him to unidentified objects, recovered material or any such panel; the offices are the reason he is on the board. Sources: Area 52 DEBRIEFED, ep. 22, the MJ-12 document read by Chris Ramsay (lead map research/leads/area52-corpus-02.md, file 02), https://history.state.gov/historicaldocuments/frus1945-50Intel/persons, dated 2026-09-02.
-
-## Thomas Townsend Brown
-
-Thomas Townsend Brown is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1953-03-25; axes C2 A1 D2; 4 connections.
-
-In one line: Electrostatic-propulsion inventor; five patents; subject of a 1953 FBI fraud inquiry.
-
-### The longer account
-
-Thomas Townsend Brown is the technical origin point on which the entire electrogravitics thread hangs, and the useful thing this board can do with him is separate what he patented from what was later written about him. The patents are real and were read off the USPTO's own image server: US 1,974,483 ELECTROSTATIC MOTOR (1934), US 2,207,576 (1940), US 2,417,347 VIBRATION DAMPER (1947, assigned by mesne assignments to Lockheed Aircraft Corporation), US 2,949,550 ELECTROKINETIC APPARATUS (1960) and US 3,187,206 ELECTROKINETIC APPARATUS (1965). None of them claims gravity control. The 1934 patent claims 'a method of producing force or motion by applying and maintaining high potential electro-static charges'; the 1965 patent opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields' and is explicit that the reaction appears in the surrounding medium and, in vacuum, on the walls of the chamber. That is an electrostatic-thrust claim. The word 'electrogravitics' appears in none of them.
-
-Project Winterhaven is real and does not say what the secondary literature says it says. The 66-page proposal, 'A PROPOSAL FOR JOINT SERVICES RESEARCH AND DEVELOPMENT CONTRACT, THE TOWNSEND BROWN FOUNDATION', does propose research on 'the control of gravitation' and lists 'electrified disc airfoils' among results to date. But the words 'saucer', 'interceptor', 'Mach' and 'Air Force' appear in it zero times. The saucer-as-USAF-interceptor framing belongs to the 1956 Aviation Studies (International) report 'Electrogravitics Systems', not to Winterhaven, and that report has no catalogue record anywhere WorldCat indexes.
-
-The provenance that matters most is the one the enthusiast literature omits. Brown's own FBI file records the Winterhaven pitch inside a Fraud Against the Government inquiry: the LEADS section directs the Washington Field Office to 'ascertain from appropriate defense agencies the nature of any overtures made by BROWN' and to 'determine any possible violation of the [F]AG Statute'. The same file carries named informants describing the apparatus as a relabelled stock-market predicting machine, one of them 'confident this flying saucer thing is a phony'. A node on Brown that carries the patents without that is not an honest node.
-
-### Recorded as unverified
-
-- T
-- h
-- e
-- 
-- P
-- r
-- o
-- j
-- e
-- c
-- t
-- 
-- W
-- i
-- n
-- t
-- e
-- r
-- h
-- a
-- v
-- e
-- n
-- 
-- s
-- c
-- a
-- n
-- 
-- i
-- s
-- 
-- a
-- 
-- p
-- r
-- i
-- v
-- a
-- t
-- e
-- 
-- u
-- p
-- l
-- o
-- a
-- d
-- 
-- t
-- o
-- 
-- a
-- r
-- c
-- h
-- i
-- v
-- e
-- .
-- o
-- r
-- g
-- 
-- w
-- i
-- t
-- h
-- 
-- n
-- o
-- 
-- i
-- n
-- s
-- t
-- i
-- t
-- u
-- t
-- i
-- o
-- n
-- a
-- l
-- 
-- c
-- u
-- s
-- t
-- o
-- d
-- y
-- 
-- n
-- a
-- m
-- e
-- d
-- ,
-- 
-- s
-- o
-- 
-- i
-- t
-- s
-- 
-- c
-- o
-- n
-- t
-- e
-- n
-- t
-- s
-- 
-- a
-- r
-- e
-- 
-- d
-- o
-- c
-- u
-- m
-- e
-- n
-- t
-- e
-- d
-- 
-- b
-- u
-- t
-- 
-- i
-- t
-- s
-- 
-- a
-- u
-- t
-- h
-- e
-- n
-- t
-- i
-- c
-- i
-- t
-- y
-- 
-- a
-- s
-- 
-- a
-- 
-- 1
-- 9
-- 5
-- 2
-- -
-- 5
-- 3
-- 
-- a
-- r
-- t
-- i
-- f
-- a
-- c
-- t
-- 
-- r
-- e
-- s
-- t
-- s
-- 
-- o
-- n
-- 
-- t
-- h
-- e
-- 
-- u
-- p
-- l
-- o
-- a
-- d
-- e
-- r
-- .
-- 
-- B
-- r
-- i
-- t
-- i
-- s
-- h
-- 
-- P
-- a
-- t
-- e
-- n
-- t
-- 
-- 3
-- 0
-- 0
-- ,
-- 3
-- 1
-- 1
-- 
-- w
-- a
-- s
-- 
-- n
-- o
-- t
-- 
-- o
-- p
-- e
-- n
-- e
-- d
-- .
-- 
-- T
-- h
-- e
-- 
-- 1
-- 9
-- 5
-- 6
-- 
-- '
-- E
-- l
-- e
-- c
-- t
-- r
-- o
-- g
-- r
-- a
-- v
-- i
-- t
-- i
-- c
-- s
-- 
-- S
-- y
-- s
-- t
-- e
-- m
-- s
-- '
-- 
-- r
-- e
-- p
-- o
-- r
-- t
-- 
-- h
-- a
-- s
-- 
-- n
-- o
-- 
-- c
-- a
-- t
-- a
-- l
-- o
-- g
-- u
-- e
-- 
-- r
-- e
-- c
-- o
-- r
-- d
-- 
-- a
-- n
-- y
-- w
-- h
-- e
-- r
-- e
-- 
-- W
-- o
-- r
-- l
-- d
-- C
-- a
-- t
-- 
-- i
-- n
-- d
-- e
-- x
-- e
-- s
-- .
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 92 of 1105, score 64). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** A memorandum of 6 December 1950 from J. Edgar Hoover to the Chief, Investigations Division, U.S. Civil Service Commission records Brown as an appointee to the Industrial Relations Department, Pearl Harbor Naval Shipyard, notes a 1943 Navy resignation 'accepted for the good of the service', and reports 'no information of disloyal nature.' Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, Hoover memorandum of 6 December 1950
-- **Tier 1 documented.** A named former president of Lake States Securities Corporation told the FBI that Brown's 'flying saucers' apparatus 'was identical to the old stock market predicting machine except that it operated in the atmosphere rather than in an oil bath and it was much larger', and that he was 'confident this flying saucer thing is a phony'. Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, informant statement
-- **Tier 1 documented.** Brown's FBI file directs the Washington Field Office that Brown 'is apparently in Washington attempting to obtain a research and development contract for his so-called Project Winterhaven', anticipates 'a contract of approximately a million dollars', and instructs the office to 'determine any possible violation of the [F]AG Statute in this matter' -- the Fraud Against the Government statute. Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section, referring to the report of 25 March 1953, Cincinnati
-- **Tier 1 documented.** The 1934 patent claims 'a method of producing force or motion by applying and maintaining high potential electro-static charges in a system of chargeable masses and associated electrodes', and describes the motor as useful in observatory recording instruments. It does not claim gravity control. Source: US Patent 1,974,483, specification
-- **Tier 1 documented.** The FBI file reproduces a letter of 23 December 1948 from the head of the Photometry Section, Optics Division, Naval Research Laboratory, stating that 'The radiation recorder of THOMAS TOWNSEND BROWN. . . was installed in this laboratory about 1931', adding 'I did not attend it or attempt to analyze the results.' Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, enclosure
-- **Tier 1 documented.** The released FBI file on Brown, FOI/PA# 1496195-000, contains no statement that Brown knew more about radar detection than any individual in the US Navy. Its only two references to radar are a Los Angeles Times article of 4 July 1948 reporting that 'During World War II he headed the U. S. Navy's Atlantic Fleet Radar School', and an informant's account that 'BROWN claims to have been a lieutenant commander in the Navy during the war, one of his principal jobs being the administration of the Atlantic Fleet Radar School.' Three American Alchemy episodes attribute the radar superlative to a 1942 or 1943 FBI file; it is not in the file this board cites. Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full-text search https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt
-- **Tier 1 documented.** The same FBI referral instructs a review 'at the Patent Office' of 'patents No. 1,974,483 (U. S. Electrostatic motor) and No. 2,207,576' to determine what Brown had patented that was pertinent to the inquiry. Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section
-- **Tier 1 documented.** The same file summarises the 1942 Navy separation as follows: 'The current investigation has developed much information on BROWN, including that he was dismissed from the U. S. Navy Reserve in 1942 "for the good of the Service and to escape general court martial".' Source: FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, investigative summary https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt
-
-A further 13 claims sit on this node on the board and are not reproduced here.
-
-### Its strongest connections
-
-- Thomas Townsend Brown runs out to **Lockheed Martin Corporation** (institution, board tier A), a research link at Tier 1 documented. The link reads: US 2,417,347 assigned by mesne assignments to Lockheed Aircraft Corporation. The patent's own inventor line reads 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'. This is the one item in Brown's self-authored biography that a second document corroborates. Sources: US Patent 2,417,347, Vibration Damper, assignment line, https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2417347, dated 1947-03-11.
-- Thomas Townsend Brown runs out to **National Investigations Committee on Aerial Phenomena (NICAP)** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Ran NICAP at its formation, October 1956, as executive vice chairman pro tempore. A Washington Daily News report of 23 October 1956, in the FBI's own NICAP file, names T. Townsend Brown of Leesburg, Virginia as the man who runs it and gives his title, with the board of governors still to be elected on 1 November. Sources: FBI file 100-35992, part 1, Washington Daily News clipping, 23 October 1956, https://archive.org/details/NICAP, dated 1956-10-23.
-- Thomas Townsend Brown comes in from **Mark McCandlish** (person, board tier A), a research link at Tier 2 named person on the record. The link reads: Attributes the claimed lift effect to a Brown patent of the late 1950s or early 1960s. THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. His testimony describes a plate capacitor floated at about a million volts 'in accordance with principles that had been described in a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown'. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Thomas Townsend Brown runs out to **Alien Reproduction Vehicle (ARV) / Flux Liner** (program, board tier B), a research link at Tier 2 named person on the record. The link reads: The account's claimed lift lineage, which the patents themselves do not support. THE EDGE MUST NOT BE READ AS ANTI-GRAVITY. The board's own record is that NEITHER Brown patent claims anti-gravity: US 3,187,206, filed 9 May 1958, and US 2,949,550, filed 3 July 1957, both claim thrust by electrical fields in a dielectric medium. It is the ACCOUNT that reinterprets electrokinetic thrust as levitation. McCandlish attributes the claimed effect to 'a patent that was filed back in the late 1950s/early 1960s by a gentleman called Thomas Townsend Brown', which on the board's own record is one of those two. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
 
 ## Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima
 
@@ -4866,7 +4870,7 @@ Affiliations recorded: fab, Serviço Nacional de Informações (SNI).
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 562 of 1105, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded C on a global pass (rank 566 of 1111, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -4905,7 +4909,7 @@ Affiliations recorded: 509th Bomb Group, Roswell Army Air Field (1946-1948), Int
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 310 of 1105, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 317 of 1111, score 37). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -4942,7 +4946,7 @@ Affiliations recorded: nro, odni.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 595 of 1105, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded C on a global pass (rank 598 of 1111, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -4972,7 +4976,7 @@ The released aneutronic paper attributed to him reads like a nuclear engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 219 of 1105, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 221 of 1111, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -5005,7 +5009,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-5 (2017- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 1029 of 1105, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
+Re-graded C on a global pass (rank 1034 of 1111, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -5031,7 +5035,7 @@ Affiliations recorded: U.S. House of Representatives, TN-5 (2023- ), Congression
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 853 of 1105, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 858 of 1111, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -5063,7 +5067,7 @@ Arthur G. Trudeau held the Army post that sat directly above the office Philip C
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 462 of 1105, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 466 of 1111, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -5091,7 +5095,7 @@ Cecilia Levy is the third University at Albany physicist on the only peer-review
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 921 of 1105, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.
+Re-graded C on a global pass (rank 926 of 1111, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.
 
 ### The claims on the record
 
@@ -5132,7 +5136,7 @@ Affiliations recorded: United States Air Force (1965-1991), 81st Combat Support 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 427 of 1105, score 32). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 432 of 1111, score 32). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -5167,7 +5171,7 @@ Affiliations recorded: Princeton University, Department of Astrophysical Science
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 527 of 1105, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 531 of 1111, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -5203,7 +5207,7 @@ Donald Howard Menzel, 1901-1976, was the director of the Harvard College Observa
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 329 of 1105, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.
+Re-graded B on a global pass (rank 334 of 1111, score 36). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -5233,7 +5237,7 @@ Affiliations recorded: President of the United States (2017-2021, 2025-).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 424 of 1105, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 429 of 1111, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -5270,7 +5274,7 @@ Affiliations recorded: National Bureau of Standards, director (1945-1951), Unive
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 423 of 1105, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
+Re-graded B on a global pass (rank 428 of 1111, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
 
 ### The claims on the record
 
@@ -5309,7 +5313,7 @@ Affiliations recorded: Los Alamos Scientific Laboratory (1943-1951), Lawrence Li
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 770 of 1105, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 773 of 1111, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -5339,7 +5343,7 @@ His geographic placement matters to the shape of the programme. AAWSAP funding w
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 404 of 1105, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 409 of 1111, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -5378,7 +5382,7 @@ Affiliations recorded: U.S. Special Operations Command / OSD SO-LIC, OUSD(I&S), 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 593 of 1105, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 596 of 1111, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -5416,7 +5420,7 @@ Affiliations recorded: US Navy, USS Princeton (CG-59), Carrier Strike Group 11 (
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 705 of 1105, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded C on a global pass (rank 707 of 1111, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -5429,6 +5433,45 @@ Re-graded C on a global pass (rank 705 of 1105, score 23). 4 connections, 2 of t
 - Gary Voorhis runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a custody link at Tier 3 stated inference. The link reads: Voorhis describes removal or wiping of Princeton recording media. Voorhis, a CEC/Aegis technician, has said in public interviews since 2018 that he was directed to hand over or wipe recording media and that unrecognised personnel were aboard collecting. Reasoning: no primary record naming those personnel has been located. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-13.
 - Gary Voorhis runs out to **USS Princeton (CG-59)** (institution, board tier B), a custody link at Tier 3 stated inference. The link reads: Says recording media were surrendered or wiped after 14 Nov 2004. The confiscation account rests on Voorhis and Day, in different billets, describing the same 48-hour window. No document, log entry or chain-of-custody form corroborating it has been located. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - Gary Voorhis comes in from **Kevin Day** (person, board tier C), a witness-chain link at Tier 3 stated inference. The link reads: Independent shipmate corroboration of the post-encounter data collection. Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
+
+## George D. Hathaway
+
+George D. Hathaway is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2010-01-01; axes C0 A1 D2; 3 connections.
+
+In one line: Professional engineer, Hathaway Consulting Services (Toronto); author of two AAWSAP DIRDs.
+
+### The longer account
+
+George Hathaway is the author the DIA list names for "Role of Superconductors in Gravity Research," and separately for "Maverick Inventor Versus Corporate Inventor" (item 16). Two DIRDs, and they are an odd pair: one a technical review of the most contested claim in gravity-modification research, the other an essay on where breakthrough invention actually comes from. Both are consistent with what Hathaway has done for fifty years.
+
+Hathaway graduated in electrical engineering from the University of Toronto in 1974 and is a registered professional engineer. He runs a private laboratory near Toronto International Airport, first as Hathaway Consulting Services, the affiliation the DIA letter records, and latterly as Hathaway Research International. The laboratory's stated function is to test claims of anomalous energy production and unconventional propulsion and gravity modification, which in practice means being the person who replicates other people's extraordinary claims and reports honestly when they fail. Between 1996 and 2003 he ran the Podkletnov rotating-superconductor gravity-shielding experiment for a prospective investor and obtained null results. He co-authored with Reiss a 2005 paper on correct laboratory practice in experiments designed to detect gravity-like forces.
+
+That record is why his DIRD is more interesting than its title suggests. The superconductor paper, DIA-08-1003-013, dated 23 March 2010 in the Acquisition Threat Support series, reviews the Soviet-lineage gravity claims of Evgeny Podkletnov and the work of Ning Li. DIA commissioned a review of gravity modification from the one person in the field with a documented history of failing to replicate it. That is not the commissioning behaviour of a programme buying a predetermined conclusion, and it is a fact that cuts against the standard reading of the DIRD set in both directions.
+
+Hathaway's disclosure role is scored above the other subject-matter authors because his laboratory is a standing independent node in the anomalous-physics network, referenced alongside EarthTech International as one of the few places where such claims get instrumented rather than argued.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 467 of 1111, score 31). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** HIS OWN DIA-FUNDED REFERENCE DOCUMENT DOES NOT MENTION THE HUTCHISON EFFECT. DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', cover-dated 30 March 2010, ICOD 1 December 2009, 20 pages as released, attributed on the DIA list of 9 January 2018 to Dr George Hathaway of Hathaway Consulting. Word counts over the whole released document: HUTCHISON 0, Pharos 0, levitation 0. Gravity occurs 12 times and antigravity 3. THE MAN WHO WROTE THE BOOK ON THE HUTCHISON EFFECT WROTE A DIA REFERENCE DOCUMENT ABOUT MAVERICK INVENTORS AND DID NOT MENTION IT. This is a fact about the document and is not a statement by him about the claim. Source: Defense Intelligence Reference Document DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, opened 2026-09-19
+- **Tier 1 documented.** Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of item 16, 'Maverick Inventor Versus Corporate Inventor', affiliation Hathaway Consulting. Source: https://irp.fas.org/dia/aatip-list.pdf
+- **Tier 1 documented.** Named on the same DIA list as author of item 10, 'Role of Superconductors in Gravity Research', affiliation Hathaway Consulting, making him a two-deliverable AAWSAP contributor. Source: https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/
+- **Tier 2 named person on the record.** Between 1996 and 2003 Hathaway conducted the Podkletnov spinning-superconductor gravity experiment for a prospective investor and reported null results. Source: https://www.altpropulsion.com/gravity-control-experiments/
+- **Tier 2 named person on the record.** Graduated from the Department of Electrical Engineering, University of Toronto, 1974; Registered Professional Engineer; founder and principal of his consulting firm; consultant on 'novel and exotic materials, energy production and propulsion concepts'; author of 'Mindbending: The Hutchison Files'. Source: https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/
+- **Tier 2 named person on the record.** HE IS THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND THE LINK RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own staff page states that he 'graduated from the Dep't of Electrical Engineering at the University of Toronto in 1974 and is a Registered Professional Engineer', that he consults on 'novel and exotic materials, energy production and propulsion concepts', and that he is 'author of the book "Mindbending: The Hutchison Files"'. HIS HUTCHISON PUBLICATION IS A BOOK AND NOT A PAPER, and this board carries no peer-reviewed publication and no primary record of a controlled Hutchison demonstration, because none was found. Source: Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/, opened 2026-09-19
+- **Tier 2 named person on the record.** Hathaway graduated in electrical engineering from the University of Toronto in 1974, is a registered professional engineer, and founded Hathaway Consulting Services and later Hathaway Research International, a laboratory near Toronto International Airport dedicated to testing claims of anomalous energy production and unconventional propulsion and gravity modification. Source: https://www.hathawayresearch.com/principal-staff/
+- **Tier 2 named person on the record.** The DIA letter of 9 January 2018 lists item 10 as "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." Source: https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+
+A further 1 claims sit on this node on the board and are not reproduced here.
+
+### Its strongest connections
+
+- George D. Hathaway runs out to **The Role of Superconductors in Gravity Research** (document, board tier B), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 10: "Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting." This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results. Sources: Released DIRD, 'The Role of Superconductors in Gravity Research', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
+- George D. Hathaway comes in from **Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?** (document, board tier B), a research link at Tier 1 documented. The link reads: authored by. The DIA congressional list credits 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' to 'Dr George Hathaway, Hathaway Consulting'. Hathaway is also credited on the same list with 'Role of Superconductors in Gravity Research'. The author line on the released PDF is redacted under (b)(6). Sources: Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/, https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/
+- George D. Hathaway runs out to **Exotic Technology & Physics** (domain, board tier B), a research link at Tier 2 named person on the record. The link reads: Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'. THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times. Sources: Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/, dated 2026-09-19; Defense Intelligence Reference Document DIA-08-1003-017, 20 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf, dated 2010-03-30.
 
 ## George S. Trimble
 
@@ -5750,7 +5793,7 @@ The industrial and academic halves were deliberately kept apart, and the source 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 600 of 1105, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 603 of 1111, score 27). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -5787,7 +5830,7 @@ Gerald Anderson came forward in 1990, after a television broadcast, claiming tha
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 773 of 1105, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.
+Re-graded C on a global pass (rank 776 of 1111, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.
 
 ### The claims on the record
 
@@ -5818,7 +5861,7 @@ The board's own framing calls the programme's security apparatus one taken from 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 332 of 1105, score 36). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 337 of 1111, score 36). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -5833,41 +5876,3 @@ Re-graded B on a global pass (rank 332 of 1105, score 36). 3 connections, 0 of t
 - Glenn T. Seaborg runs out to **Central Intelligence Agency** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Transmitted the Commission's annual report to the Director of Central Intelligence. The 20 March 1963 letter forwards the Annual Report to Congress for 1962 to DCI John A. McCone and directs his attention to the appendix on environmental contamination from nuclear explosives. Sources: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5, dated 1970-06-01.
 - Glenn T. Seaborg runs out to **Atomic Energy Commission** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Chairman of the Commission. Named 16 January 1961 and confirmed by the Senate on 24 February 1961 per the CIA's own chronology; in office on Commission letterhead in October 1961 and March 1963. No end date is attested by any record opened here. Sources: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5, dated 1970-06-01.
 - Glenn T. Seaborg runs out to **Allen W. Dulles** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Corresponded with the Director of Central Intelligence. Dulles thanks him for a report on a Vienna conference and says he is circulating it inside the Agency. The edge records a documented channel between the AEC chair and the DCI, which is the board's own structural claim in miniature. Sources: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5, dated 1970-06-01.
-
-## Gregory M. Guillot
-
-Gregory M. Guillot is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2024-10-30; axes C0 A3 D2; 3 connections.
-
-In one line: General, USAF; Commander, NORAD and US Northern Command (Feb 2024- ).
-
-### The longer account
-
-Guillot is the four-star who had to say out loud that the United States cannot identify what is flying over its own nuclear-capable bases. He took command of NORAD and US Northern Command in February 2024 and immediately made counter-unmanned-systems the centrepiece of his 90-day assessment, with the December 2023 Langley Air Force Base incursions as the driving case. Speaking to The War Zone on 30 October 2024 he conceded the limits of what he could say - 'The only thing I can tell you about the Langley drones is roughly the number and roughly the altitude' - and, on the question everyone wanted answered, 'I have not seen [and] I do not know of any organized or unorganized foreign nexus.' NORAD's own figure at that point was more than 600 drone reports over US military installations since 2022. By March 2026, after waves of incursions over Barksdale Air Force Base and other strategic installations following the launch of Operation Epic Fury, Guillot told reporters 'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter of detected drones now defeated versus almost none previously. Read from the board's premise, Guillot is the honest institutional face of a real gap: the command responsible for homeland air defence is describing an unattributed, persistent, sensor-resistant intrusion campaign against the continental United States and cannot name the actor.
-
-### Where the record conflicts
-
-- Guillot's 'no foreign nexus' finding sits against the DHS/FBI/DoD/FAA joint conclusion of 17 December 2024 that the New Jersey sightings were 'commercial drones, hobbyist drones, and law enforcement drones' - an explanation that does not account for objects roughly 20 feet long at 100 mph over a fighter base for seventeen nights.
-
-### Recorded as unverified
-
-- The classified annexes of Guillot's 90-day counter-UAS assessment.
-- NORAD's per-installation incursion counts for 2025 and 2026.
-
-Affiliations recorded: US Air Force, Commander, NORAD and USNORTHCOM (Feb 2024- ), Deputy Commander, US Central Command (prior).
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 679 of 1105, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
-
-### The claims on the record
-
-- **Tier 2 named person on the record.** 'I have not seen [and] I do not know of any organized or unorganized foreign nexus.' Source: Gen. Gregory Guillot to The War Zone, 30 October 2024
-- **Tier 2 named person on the record.** 'The only thing I can tell you about the Langley drones is roughly the number and roughly the altitude.' Source: Gen. Gregory Guillot to The War Zone, 30 October 2024
-- **Tier 2 named person on the record.** 'We've seen an increase from last year in the number of detections over military installations'; roughly one quarter of detected drones are now defeated, versus almost none previously. Source: Gen. Gregory Guillot, reported by The War Zone, 25 March 2026
-- **Tier 2 named person on the record.** NORAD counted more than 600 drone reports above US military installations since 2022. Source: NORAD, via The War Zone, 30 October 2024
-
-### Its strongest connections
-
-- Gregory M. Guillot runs out to **Langley AFB Drone Incursions (December 2023)** (event, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Public non-attribution finding by the homeland air defence commander. 'I have not seen [and] I do not know of any organized or unorganized foreign nexus' - a four-star conceding that seventeen nights of intrusions over an F-22 base cannot be attributed. Sources: The War Zone - NORAD commander on the Langley incursions, https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions, dated 2024-10-30.
-- Gregory M. Guillot runs out to **NORAD and US Northern Command** (institution, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Commander, NORAD and USNORTHCOM from February 2024. Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position. Sources: The War Zone - NORAD commander on the Langley incursions, https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions, dated 2024-10-30; The War Zone - US battled drone incursions over key bases after Epic Fury, https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury, dated 2026-03-25.
-- Gregory M. Guillot runs out to **Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)** (event, board tier C), a investigative link at Tier 2 named person on the record. The link reads: Confirmed year-on-year increase in detections over installations. 'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously. Sources: The War Zone - US battled drone incursions over key bases after Epic Fury, https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury, dated 2026-03-25.

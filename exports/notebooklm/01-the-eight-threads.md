@@ -178,9 +178,9 @@ The join from Salvatore Cezar Pais to NAVAIR Invention Disclosure Briefing, Navy
 
 The join from NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device) to US Patent 10,144,532 - Craft using an inertial mass reduction device is a programmatic link, recorded as direct, at Tier 1 documented.
 
-**Step 4, United States Navy** (a institution, board tier C). Assignee of record: 'The United States of America as represented by the Secretary of the Navy'.
+**Step 4, United States Navy** (a institution, board tier B). Assignee of record, printed on the patent's own front page at field (73): 'The United States of America as represented by the Secretary of the Navy'. Printed, not inferred, which is why this step is Tier 1.
 
-The join from US Patent 10,144,532 - Craft using an inertial mass reduction device to United States Navy is a institutional link, recorded as direct, at Tier 2 named person on the record.
+The join from US Patent 10,144,532 - Craft using an inertial mass reduction device to United States Navy is a institutional link, recorded as direct, at Tier 1 documented.
 
 **Step 5, Unidentified Aerial Phenomena Task Force (UAPTF)** (year 2020, a program, board tier A). Deputy Secretary of Defense David L. Norquist approved the establishment of the UAP Task Force on 4 August 2020, with the Department of the Navy leading it.
 

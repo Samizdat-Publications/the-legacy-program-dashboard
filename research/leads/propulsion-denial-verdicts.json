@@ -1,0 +1,20 @@
+{
+ "millis-tm-2004-213082|thomas-townsend-brown": {
+  "denialKind": "directed",
+  "denier": "millis-tm-2004-213082",
+  "label": "NASA: the thrust is ion wind, and these devices are not viable candidates"
+ },
+ "us-navy|pais-patent-emfg": {
+  "denialKind": "directed",
+  "denier": "us-navy",
+  "label": "NAWCAD: after three years and $508,000 the Pais Effect could not be proven"
+ },
+ "dird-antigravity-for-aerospace-applications|thomas-townsend-brown": {
+  "denialKind": "association",
+  "label": "The government's own antigravity survey does not mention Brown at all"
+ },
+ "king-patent-mhd|arv-fluxliner": {
+  "denialKind": "association",
+  "label": "Cited FOR the ARV 'Scalar Physics' callout; the patent says scalar zero times"
+ }
+}

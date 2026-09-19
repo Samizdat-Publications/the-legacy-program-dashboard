@@ -35,7 +35,7 @@
 "direction": "in",
 "edgeLabel": "authored by",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
-"l0": false,
+"l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "The DIA congressional list credits 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications' to 'Dr S Macheret, Lockheed Martin'. Macheret is a plasma physicist (Ph.D., Kurchatov Institute) with a substantial peer-reviewed record in MHD flow control, and this DIRD is among the most conventionally grounded on the list.",
 "sources": [
@@ -65,7 +65,7 @@
 "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "research"
 },
 {
@@ -162,7 +162,7 @@
 "status": "active",
 "sub": "Plasma physicist; senior staff engineer, Lockheed Martin Skunk Works 2006-2014; author, MHD Air Breathing Propulsion DIRD",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 927 of 1105, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 932 of 1111, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

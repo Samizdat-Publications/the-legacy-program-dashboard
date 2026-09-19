@@ -1844,6 +1844,102 @@
   "gap": "No UAP-labelled contract action appears anywhere in USAspending or FPDS. Either the work is entirely classified out of the public procurement record, is funded through IR&D and overhead as Grusch alleged, or does not exist."
  },
  {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-king-not-in-patents-view",
+   "text": "A RULING TO BE RESTATED AND NOT REOPENED, FROM notes/PROPULSION-CLAIMS-2026-09-18.md SECTION 4. US 3,322,374 does NOT go into the board's patents view. The five patents in that view are all Pais and they are there BECAUSE THE NAVY FILED AND PROSECUTED THEM: that is the connection to the programme, and it is what makes them board material rather than interesting reading. The sponsorship test is now checkable on two printed front pages read side by side. US 10,144,532 carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy', '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD' and 'Primary Examiner - Philip J Bonzell'. US 3,322,374 carries no assignee line at all, no government interest statement and no secrecy order, and its inventor is a private individual at a home address in Winston-Salem. King has no assignee, no contractor, no programme, no clearance and no government interest, and on the board's own test he connects to nothing. ADDING HIM TO THE PATENTS VIEW BECAUSE A PATENT ABOUT MHD TURNED UP IN A THREAD ABOUT THE ARV WOULD BE SOURCING BY TOPICAL RESEMBLANCE, WHICH IS THE THING THE BOARD EXISTS NOT TO DO. He belongs to the propulsion strand and only to the strand. A later session that finds king-patent-mhd looking orphaned beside the Pais five should read this record before 'fixing' it.",
+   "wouldClose": "Nothing. This is a decision and not a gap. It closes only if a document is opened showing a government interest, an assignee or a secrecy order on US 3,322,374, and the patent's own seven pages say there is none."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-talley-pl-tr-91-3009",
+   "text": "THE MOST VALUABLE UNOPENED DOCUMENT IN THIS STRAND. Robert L. Talley, 'Twenty First Century Propulsion Concept', PL-TR-91-3009, final report for the period February 1989 to July 1990 on contract FO4611-89-C-0023, Phillips Laboratory, Air Force Systems Command, Edwards AFB, California, 1991. It is the Air Force's own vacuum test of asymmetric capacitors and NASA's contractor report calls it 'the only written report we have found from the last half-century that describes a measurement of a force while in a vacuum chamber'. It matters because it answers the specific question US 3,187,206 raises in its own text about behaviour in a vacuum, and because opening it would raise the electrokinetic row from Tier 1 via NASA to Tier 1 direct. IT IS QUOTED ON THIS BOARD ONLY AS NASA/CR-2004-213312 QUOTES IT.",
+   "wouldClose": "DTIC, the archive.org/details/DTIC_* mirror, or irp.fas.org. The NASA reference gives the report number and the contract number, which is enough to search on."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-tajmar-2004-aiaa",
+   "text": "Tajmar, M., 'The Biefeld-Brown Effect: Misinterpretation of Corona Wind Phenomena', AIAA Journal of Propulsion and Power, 42 (2004), pp. 315-318. THE PAPER WAS NOT OPENED: arc.aiaa.org returned HTTP 403 on 19 September 2026. It is the peer-reviewed form of the corona-wind explanation and it is named on this board only as reference 54 of NASA/TM-2004-213082, exactly as NASA prints it. Nothing is asserted from its contents.",
+   "wouldClose": "A non-403 route to the AIAA archive, a preprint, or an institutional copy."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-arl-tr-3005-as-published",
+   "text": "ARL-TR-3005, Bahder and Fazi, 'Force on an Asymmetric Capacitor - Final Report, Aug.-Dec. 2002', NTIS order number ADA416740. apps.dtic.mil returned HTTP 403 on 19 September 2026 and what was read instead was the authors' arXiv preprint at physics/0211001. The preprint and the published report are PRESUMED to be the same work on the strength of NASA/CR-2004-213312's reference 8, which gives both numbers. THAT PRESUMPTION IS NOT VERIFIED, which is why the dissent is carried at Tier 2 rather than Tier 1.",
+   "wouldClose": "A non-403 route to DTIC, or an NTIS copy."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-nawcad-foia-release",
+   "text": "The NAWCAD FOIA release behind the Boulay statement is still not in the board's hands. The War Zone reporting is a named reporter quoting a named official, which is Tier 2 and an improvement on the encyclopedia citation the board carried before this pass, but it is not the record itself. The same applies to the documents The War Zone reported earlier showing the internal review of the Pais filings.",
+   "wouldClose": "A FOIA request to NAWCAD for the High Energy Electromagnetic Field Generator test records of October 2016 to September 2019, or a copy of the release The War Zone obtained."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-hathaway-superconductors-dird",
+   "text": "The second Hathaway DIRD, 'The Role of Superconductors in Gravity Research', item 10 on the DIA list, was NOT opened. The Hutchison finding on this board rests on a word count over one of his two DIA deliverables, DIA-08-1003-017, in which Hutchison appears zero times. Running the same count over the second would complete the finding either way.",
+   "wouldClose": "The blackvault AAWSAP-DIRDs directory, or the DIA FOIA Electronic Reading Room. Note that guessing blackvault DIRD filenames does not work: a guessed path for the Maverick Inventor DIRD returned 404 before the real one was located."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-hutchison-no-primary-record",
+   "text": "NO PEER-REVIEWED PUBLICATION AND NO PRIMARY RECORD OF A CONTROLLED HUTCHISON DEMONSTRATION WAS FOUND, AND THIS IS A FINDING RATHER THAN A RESEARCH TASK THAT FAILED. Every candidate source located was the claimant's own website, a slide deck uploaded by the claimant, a self-published compilation, a personal archive site, a podcast page, or the proceedings of a conference devoted to unconventional energy, and NONE OF THEM IS CITED ANYWHERE ON THIS BOARD. THE CLAIM RESTS ENTIRELY ON UNDOCUMENTED VIDEO DEMONSTRATIONS: objects said to rise, metals said to fuse and fracture, in footage whose apparatus, controls, camera orientation and instrumentation are documented nowhere that could be opened. There is no measurement to check and no protocol to fault. NO NODE IS PROPOSED FOR THE HUTCHISON EFFECT OR FOR JOHN HUTCHISON, per the brief of 18 September 2026 and the ruling of 19 September 2026: it gets a strand row and nothing more. Two checkable negatives are carried instead, on george-hathaway and dird-series: the one named professional engineer associated with the claim names Hutchison zero times in his own DIA-funded reference document, and NASA's breakthrough-propulsion survey, which names Biefeld-Brown, lifters, Podkletnov and Alcubierre, names Hutchison zero times.",
+   "wouldClose": "A peer-reviewed paper, an instrumented laboratory report, or a primary record of a controlled demonstration with its apparatus and controls described. Absent one of those, nothing closes it and a later session should not treat it as unfinished work."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-hutchison-1983-inscom-accounts",
+   "text": "The 1983 Los Alamos and INSCOM demonstrations said to have involved Hutchison name real people and real organisations, which is exactly what makes them tempting. EVERY SOURCE FOR THEM LOCATED ON 19 SEPTEMBER 2026 TRACES BACK TO THE CLAIMANT'S OWN CHRONOLOGY. They are asserted nowhere on this board and no node, edge or claim rests on them.",
+   "wouldClose": "A FOIA request to INSCOM, or a contemporaneous document from any of the organisations named. Not a better search."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-yamato-1-performance-figures",
+   "text": "NO PERFORMANCE FIGURE FOR YAMATO-1 IS ASSERTED ANYWHERE ON THIS BOARD: no speed, no thrust, no efficiency, no magnetic field strength, no displacement and no dimension. Figures for all of these circulate widely. What was opened is the OSTI bibliographic record and abstract, which states that the paper describes the outline of the vessel and her sea trial test results; THE PAPER ITSELF WAS NOT OPENED. A second paper on MHD ship models was opened in the hope that it would supply the figures and does not mention the vessel at all.",
+   "wouldClose": "The conference paper in Proceedings of the 4th International Conference and Exhibition: World Congress on Superconductivity, volume 1, or the CiNii record for the sea-trials paper."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-scalar-physics-callout-provenance",
+   "text": "THE STRAND REFUTES ONE PROPOSED READING OF THE 'SCALAR PHYSICS' CALLOUT WITHOUT SUPPLYING ANOTHER, and that limit should be visible. Section D of Mark McCandlish's ARV drawing carries the callout; US 3,322,374 was offered as evidence that it refers to spin-zero scalar particles; the patent contains the word scalar zero times and the word spin zero times. WHAT THE CALLOUT WAS ACTUALLY MEANT TO DENOTE HAS NOT BEEN ESTABLISHED BY ANYONE, and no claim on this board asserts a reading of it.",
+   "wouldClose": "A statement by McCandlish about his own annotation, or an earlier version of the drawing."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-isr-west-virginia-contractor",
+   "text": "The Institute for Scientific Research of Fairmont, West Virginia performed the asymmetrical-capacitor work under NASA/CR-2004-213312, and NASA/TM-2004-213082 records that its vacuum tests were 'sponsored through an additional Congressional earmark to the West Virginia Institute for Scientific Research'. A Congressional-earmark recipient performing exotic-propulsion work is the shape of thing this board usually wants. NOTHING ABOUT THE ORGANISATION ITSELF WAS OPENED, only two documents it produced, so NO CONTRACTOR NODE IS PROPOSED. A contractor node built from a byline is a guess about an organisation.",
+   "wouldClose": "The earmark itself in an appropriations record, USASpending, or the institute's own corporate record."
+  }
+ },
+ {
+  "domain": "propulsion-2026-09-19",
+  "gap": {
+   "id": "gap-brown-british-patent-300311",
+   "text": "GB 300,311, 'A Method of and an Apparatus or Machine for Producing Force or Motion', 1928, remains unopened by this board, and the propulsion pass did not change that. It is now cited on the board from a second independent direction: NASA/CR-2004-213312's reference list gives it as Brown's reference 3 alongside the two US patents. That corroborates the number and the year from a NASA document but IS NOT THE GRANT AND DOES NOT SUBSTITUTE FOR IT. Espacenet and the UK IPO both returned 403 to earlier sessions.",
+   "wouldClose": "Espacenet, the UK IPO, or a library copy of the 1928 grant."
+  }
+ },
+ {
   "domain": "releases-2023-2026",
   "gap": "No published executive order or written directive establishing PURSUE has surfaced. Hegseth referred to 'that executive order' on 25 February 2026 but the contemporaneous reporting describes a Truth Social post. Search the Federal Register, whitehouse.gov presidential actions and DoW policy memoranda for a signed instrument, its scope, and any named review authority."
  },

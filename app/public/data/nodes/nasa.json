@@ -2,7 +2,7 @@
 "A": 1,
 "C": 0,
 "D": 3,
-"band": "research",
+"band": "custody",
 "claims": [
 {
 "source": "NASA NSSDCA master catalogue, spacecraft record for Lunar Orbiter 1 (1966-073A), https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-073A , opened 2026-09-19",
@@ -12,6 +12,16 @@
 {
 "source": "Ford Motor Company corporate history, 'Ford, Philco and the Mission Control Center', https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html , opened 2026-09-19",
 "text": "Philco-Ford, the contractor named in the Donna Hare claim, is documented as a NASA Manned Spacecraft Center contractor by Ford Motor Company's own corporate history, which records that it won the Mission Control Center contract at Houston in 1963 against IBM, RCA, Lockheed, Hughes Aircraft and AT&T.",
+"tier": 1
+},
+{
+"source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "NASA RAN THE ONLY PUBLIC, FUNDED, FEDERAL ASSESSMENT OF EXOTIC PROPULSION THIS BOARD HAS FOUND. From its own summary document: 'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002. This project has three grand challenges: (1) Discover propulsion that eliminates the need for propellant; (2) Discover methods to achieve hyper-fast travel; and (3) Discover breakthrough methods to power spacecraft.' Of sixteen incremental research tasks completed, 'about a third were found not to be viable'.",
+"tier": 1
+},
+{
+"source": "NASA/CR-2004-213312, Conclusions, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf , opened 2026-09-19",
+"text": "NASA also paid for the experiment that settled the asymmetrical-capacitor question, published under its own report number as NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion', by Canning, Melcher and Winet of the Institute for Scientific Research, October 2004, which concluded that the operation of such devices 'is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions'.",
 "tier": 1
 },
 {
@@ -89,6 +99,27 @@
 ],
 "tier": "C",
 "type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2004-10",
+"dateStart": "2004-10",
+"direction": "in",
+"edgeLabel": "A NASA contractor report, published under a NASA/CR number",
+"id": "canning-nasa-cr-2004-213312",
+"l0": false,
+"label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+"note": "NASA/CR-2004-213312. The board's funding edge type is used because a contractor report records who paid for the work; the performing organisation was the Institute for Scientific Research of Fairmont, West Virginia, for which no node is proposed because nothing about the organisation itself was opened.",
+"sources": [
+{
+"date": "2004-10",
+"name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages",
+"url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+}
+],
+"tier": "C",
+"type": "funding"
 },
 {
 "claimTier": 1,
@@ -260,6 +291,27 @@
 {
 "claimTier": 1,
 "cls": "program",
+"dateEnd": "2002",
+"dateStart": "1996",
+"direction": "in",
+"edgeLabel": "A NASA project, supported 1996 to 2002 and run out of Glenn Research Center",
+"id": "nasa-bpp",
+"l0": false,
+"label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+"note": "From the project's own summary document: 'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002.'",
+"sources": [
+{
+"date": "2004",
+"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages",
+"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
 "dateEnd": "2023-09-14",
 "dateStart": "2022-06-09",
 "direction": "out",
@@ -423,11 +475,12 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1958-07-29",
-"deg": 16,
+"deg": 18,
 "denials": [],
 "desc": "NASA was created by the National Aeronautics and Space Act of 1958 as an explicitly civilian agency, and for six decades its institutional answer on UFOs was that the subject belonged to the Air Force. That changed on 9 June 2022, when NASA announced an independent study of unidentified anomalous phenomena, and on 14 September 2023, when it published the 'Unidentified Anomalous Phenomena Independent Study Team Report'. The 16-member panel was chaired by Dr David Spergel of the Simons Foundation and included Dr Anamaria Berea, Dr Federica Bianco, Dr David Grinspoon and the retired NASA astronaut Captain Scott Kelly. The report's findings are notable less for what they concluded about UAP than for what they conceded about the data problem: that 'much of the data collected by military sensors or intelligence satellites are classified', that structured data curation 'plays a pivotal role' and is largely absent, and that NASA's Earth-observing fleet and the U.S. commercial remote-sensing industry have 'the collective potential to directly resolve UAP events'. In the foreword, Associate Administrator for the Science Mission Directorate Dr Nicola Fox announced that 'NASA is appointing a Director of UAP Research to centralize communications'. NASA's leverage on this board is that it is the one agency with world-class sensing capability, a statutory public mission and no SAP equity in the alleged recovery enterprise - which makes it the most plausible venue for an unclassified evidentiary standard, and the agency most conspicuously kept at arm's length from the classified holdings.",
 "domains": [
 "disclosure-project-2026-09-19",
+"propulsion-2026-09-19",
 "w2-agencies"
 ],
 "dossier": {
@@ -567,6 +620,12 @@
 "tier": "C"
 },
 {
+"cls": "document",
+"id": "canning-nasa-cr-2004-213312",
+"label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
+"tier": "C"
+},
+{
 "cls": "person",
 "id": "david-spergel",
 "label": "David N. Spergel",
@@ -600,6 +659,12 @@
 "cls": "person",
 "id": "maxwell-frost",
 "label": "Maxwell Alejandro Frost",
+"tier": "C"
+},
+{
+"cls": "program",
+"id": "nasa-bpp",
+"label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
 "tier": "C"
 },
 {
@@ -652,6 +717,16 @@
 "url": "https://corporate.ford.com/articles/history/ford-philco-and-the-mission-control-center.html"
 },
 {
+"date": "2004",
+"name": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center",
+"url": "https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+},
+{
+"date": "2004-10",
+"name": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion'",
+"url": "https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf"
+},
+{
 "date": "2023-09-14",
 "name": "NASA Unidentified Anomalous Phenomena Independent Study Team Report",
 "url": "https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf"
@@ -659,7 +734,7 @@
 ],
 "sub": "Civil space agency; host of the 2023 UAP Independent Study Team",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 147 of 1105, score 52). 16 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 98 of 1111, score 63). 18 connections, 4 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "date": "1966-08-10",

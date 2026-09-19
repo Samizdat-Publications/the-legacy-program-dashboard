@@ -1256,6 +1256,30 @@
 "tier": 2
 },
 {
+"a": "alcubierre-1994",
+"b": "d-exotic",
+"dateStart": "1994",
+"label": "The origin document of the field's metric-engineering claims",
+"t": "research",
+"tier": 2
+},
+{
+"a": "alcubierre-1994",
+"b": "dird-antigravity-for-aerospace-applications",
+"dateStart": "1994",
+"label": "Reference [43] of the antigravity DIRD, and its only appearance in that document",
+"t": "research",
+"tier": 1
+},
+{
+"a": "alcubierre-1994",
+"b": "dird-warp-drive-dark-energy-and-the",
+"dateStart": "1994",
+"label": "Reference 1 of the DIRD, and the source of the idea it builds on",
+"t": "research",
+"tier": 1
+},
+{
 "a": "alejandro-rojas",
 "b": "pursue-releases",
 "dateStart": "2026",
@@ -2613,6 +2637,30 @@
 "dateStart": "2026",
 "label": "Framed as enforcement of the records identified for public release under the 2026 disclosure push",
 "t": "legislative",
+"tier": 1
+},
+{
+"a": "canning-nasa-cr-2004-213312",
+"b": "millis-tm-2004-213082",
+"dateStart": "2004",
+"label": "The experiment behind the survey's ion-wind finding",
+"t": "research",
+"tier": 1
+},
+{
+"a": "canning-nasa-cr-2004-213312",
+"b": "nasa",
+"dateStart": "2004-10",
+"label": "A NASA contractor report, published under a NASA/CR number",
+"t": "funding",
+"tier": 1
+},
+{
+"a": "canning-nasa-cr-2004-213312",
+"b": "thomas-townsend-brown",
+"dateStart": "2004-10",
+"label": "Cites both Brown patents and GB 300,311 by number, and models the thrust as ion drift",
+"t": "research",
 "tier": 1
 },
 {
@@ -5165,6 +5213,14 @@
 "dateStart": null,
 "label": "authored at EarthTech International",
 "t": "institutional",
+"tier": 1
+},
+{
+"a": "dird-antigravity-for-aerospace-applications",
+"b": "thomas-townsend-brown",
+"dateStart": "2010-03-30",
+"label": "The government's own 45-page antigravity survey does not mention Brown at all",
+"t": "denial",
 "tier": 1
 },
 {
@@ -8061,6 +8117,14 @@
 "dateStart": "1989-03-22",
 "label": "Witness to the 1989 desert lights, not to the claimed facility",
 "t": "witness-chain",
+"tier": 2
+},
+{
+"a": "george-hathaway",
+"b": "d-exotic",
+"dateStart": "1974",
+"label": "Registered engineer consulting on exotic materials, energy and propulsion; author of 'Mindbending: The Hutchison Files'",
+"t": "research",
 "tier": 2
 },
 {
@@ -11208,6 +11272,30 @@
 "tier": 3
 },
 {
+"a": "king-patent-mhd",
+"b": "arv-fluxliner",
+"dateStart": "1967-05-30",
+"label": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "king-patent-mhd",
+"b": "d-exotic",
+"dateStart": "1967-05-30",
+"label": "In the strand because of what was claimed for it, not because of what is in it",
+"t": "research",
+"tier": 3
+},
+{
+"a": "king-patent-mhd",
+"b": "dird-mhd-air-breathing-propulsion-and-power",
+"dateStart": "1967-05-30",
+"label": "Same mechanism, two documents, forty-three years apart, neither exotic",
+"t": "research",
+"tier": 3
+},
+{
 "a": "kingston-george",
 "b": "big-sur-1964",
 "dateStart": "1964-08",
@@ -12664,6 +12752,22 @@
 "tier": 1
 },
 {
+"a": "marc-millis",
+"b": "millis-tm-2004-213082",
+"dateStart": "2004",
+"label": "Sole author of the project's summary technical memorandum",
+"t": "research",
+"tier": 1
+},
+{
+"a": "marc-millis",
+"b": "nasa-bpp",
+"dateStart": "1996",
+"label": "Managed NASA's Breakthrough Propulsion Physics Project, 1996 to 2002",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "marco-rubio",
 "b": "samdt-797",
 "dateStart": "2023",
@@ -13288,6 +13392,46 @@
 "tier": 2
 },
 {
+"a": "millis-tm-2004-213082",
+"b": "alcubierre-1994",
+"dateStart": "2004",
+"label": "NASA's assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered",
+"t": "research",
+"tier": 1
+},
+{
+"a": "millis-tm-2004-213082",
+"b": "d-exotic",
+"dateStart": "2004",
+"label": "The domain's best single published adjudication",
+"t": "research",
+"tier": 1
+},
+{
+"a": "millis-tm-2004-213082",
+"b": "nasa-bpp",
+"dateStart": "2004",
+"label": "The published summary of the project's methods and findings",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "millis-tm-2004-213082",
+"b": "pais-patent-hfgw",
+"dateStart": "2004",
+"label": "NASA treated high frequency gravitational waves as a detection problem in 2004",
+"t": "research",
+"tier": 3
+},
+{
+"a": "millis-tm-2004-213082",
+"b": "thomas-townsend-brown",
+"dateStart": "2004",
+"label": "NASA: the observed thrust is ion wind, and these devices are not viable candidates",
+"t": "denial",
+"tier": 1
+},
+{
 "a": "minot-1966",
 "b": "malmstrom-echo-flight-1967",
 "dateStart": "1966-08-25",
@@ -13701,6 +13845,14 @@
 "dateStart": "2022-06-09",
 "label": "NASA chartered and published the Independent Study Team report",
 "t": "programmatic",
+"tier": 1
+},
+{
+"a": "nasa-bpp",
+"b": "nasa",
+"dateStart": "1996",
+"label": "A NASA project, supported 1996 to 2002 and run out of Glenn Research Center",
+"t": "institutional",
 "tier": 1
 },
 {
@@ -17153,6 +17305,14 @@
 },
 {
 "a": "salvatore-pais",
+"b": "harold-puthoff",
+"dateStart": "2018-12-04",
+"label": "US 10,144,532 cites Puthoff's Polarizable-Vacuum paper on its printed front page",
+"t": "research",
+"tier": 1
+},
+{
+"a": "salvatore-pais",
 "b": "l-pax-river",
 "dateStart": "2015-07-24",
 "label": "NAWCAD, NAS Patuxent River, at the time of filing",
@@ -19809,11 +19969,19 @@
 },
 {
 "a": "us-navy",
+"b": "pais-patent-emfg",
+"dateStart": "2016-10",
+"label": "NAWCAD: after three years and $508,000 the Pais Effect could not be proven",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "us-navy",
 "b": "pais-patent-imrd",
 "dateStart": "2016-04-28",
 "label": "Assignee of record",
 "t": "institutional",
-"tier": 2
+"tier": 1
 },
 {
 "a": "us-navy",
@@ -20781,6 +20949,22 @@
 "dateStart": "2002",
 "label": "The meeting is reported to have taken place at an EG&G facility in Las Vegas",
 "t": "custody",
+"tier": 3
+},
+{
+"a": "yamato-1",
+"b": "dird-mhd-air-breathing-propulsion-and-power",
+"dateStart": "1992-06",
+"label": "The built vessel and the government survey describe the same physics",
+"t": "research",
+"tier": 3
+},
+{
+"a": "yamato-1",
+"b": "king-patent-mhd",
+"dateStart": "1992-06",
+"label": "The same mechanism, independently built and taken to sea in June 1992",
+"t": "research",
 "tier": 3
 },
 {

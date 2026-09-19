@@ -68,6 +68,26 @@
 "source": "USPTO file wrapper, application 15/141,270, Response after Final Action received by central fax 24 May 2018, compared against research/patents/wrapper/sheehy-declaration-2018-05-11.txt",
 "text": "The after-final remarks of 24 May 2018 describe the accompanying Sheehy declaration as 'dated May 11, 2017' and are signed 'Date: 5/24/2017', a year out in both places; the declaration in the wrapper is dated 11 May 2018 and was refiled unchanged with the Appeal Brief in August. The 2017 dates are typing errors in the attorney's remarks, and no 2017 declaration exists in the file. Recorded so that the wrong year is not later read as evidence of a second, earlier declaration.",
 "tier": 1
+},
+{
+"source": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"text": "FRONT-PAGE FACTS READ OFF THE PRINTED PATENT, which is where the Navy's sponsorship is documented rather than inferred: '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'; '(21) Appl. No.: 15/141,270'; '(22) Filed: Apr. 28, 2016'; '(65) Prior Publication Data: US 2017/0313446 A1, Nov. 2, 2017'; '(51) Int. Cl. B64G 1/40 (2006.01)'; 'Subject to any disclaimer, the term of this patent is extended or adjusted under 35 U.S.C. 154(b) by 153 days'; 'Primary Examiner - Philip J Bonzell'; '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD'; and '4 Claims, 1 Drawing Sheet'.",
+"tier": 1
+},
+{
+"source": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"text": "THE EXAMINER NAMED ON THE GRANTED PATENT IS THE SAME PERSON THE SHEEHY LETTER ADDRESSES. The board already carries at Tier 1 that on 15 December 2017 the Chief Technology Officer of the Naval Aviation Enterprise wrote on NAVAIR letterhead to 'Mr. Philip J. Bonzell, Primary Patent Examiner'. The printed front page of US 10,144,532 gives 'Primary Examiner - Philip J Bonzell'. The correspondence between the letter and the grant is now checkable on the face of the patent itself.",
+"tier": 1
+},
+{
+"source": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"text": "A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS. Claim 1, as printed: 'A craft using an inertial mass reduction device comprising: an inner resonant cavity wall; an outer resonant cavity wall, the inner resonant cavity wall and the outer resonant cavity wall forming a resonant cavity; and, microwave emitters such that the microwave emitters create high frequency electromagnetic waves throughout the resonant cavity causing the outer resonant cavity wall to vibrate in an accelerated mode and create a local polarized vacuum outside the outer resonant cavity wall.' The Navy's own test of the related High Energy Electromagnetic Field Generator concluded in September 2019 that the effect could not be proven.",
+"tier": 1
+},
+{
+"source": "US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf , opened 2026-09-19",
+"text": "The 'Other Publications' cited on its printed front page, in full: Froning, H. David, 'Quantum Vacuum Engineering for Power and Propulsion from the Energetics of Space', Third International Conference on Future Energy, Oct. 9-10, 2009, Washington DC; Pais, Salvatore, 'Conditional Possibility of Spacecraft Propulsion at Superluminal Speeds', Intl. J. Space Science and Engineering, 2015, vol. 3 No. 1; PUTHOFF, H. E., 'Polarizable-Vacuum (PV) Approach to General Relativity', Foundations of Physics, Jun. 2002, vol. 32 No. 6; Prigogine, Ilya, 'Time, Structure and Fluctuations', Nobel Lecture, Dec. 8, 1977; Hayasaka, Hideo and Takeuchi, Sakae, 'Anomalous Weight Reduction on a Gyroscope's Right Rotations around the Vertical Axis on the Earth', Physical Review Letters, Dec. 18, 1989, vol. 63 No. 25; and Pais, Salvatore, 'The High Energy Electromagnetic Field Generator', Int. J. Space Science and Engineering, 2015, vol. 3 No. 4.",
+"tier": 1
 }
 ],
 "cls": "document",
@@ -179,7 +199,7 @@
 "type": "programmatic"
 },
 {
-"claimTier": 2,
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "2016-04-28",
@@ -188,15 +208,20 @@
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
-"note": "Assigned to 'The United States of America as represented by the Secretary of the Navy'.",
+"note": "THE SPONSORSHIP IS PRINTED, NOT INFERRED, AND IT IS THE TEST THAT KEEPS KING OUT OF THE PATENTS VIEW. The front page carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)', '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD' and 'Primary Examiner - Philip J Bonzell'. US 3,322,374 by contrast carries no assignee line at all.",
 "sources": [
 {
 "date": null,
 "name": "US Patent 10,144,532",
 "url": "https://www.freepatentsonline.com/10144532.html"
+},
+{
+"date": "2018-12-04",
+"name": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page",
+"url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 }
 ],
@@ -207,7 +232,8 @@
 "denials": [],
 "desc": "The central filing of the set and the one that produced the public controversy. Application 15/141270 was filed on 28 April 2016 from NAWCAD and granted on 4 December 2018, assigned to 'The United States of America as represented by the Secretary of the Navy'. Its abstract describes a craft comprising an inner resonant cavity wall, an outer resonant cavity and microwave emitters. The corresponding internal Navy briefing is Navy Case PAX 205. Reporting states the application was initially rejected and granted only after the Naval Aviation Enterprise's chief technology officer asserted operability to the USPTO and invoked Chinese development of comparable technology; the file wrapper has since been obtained and transcribed under research/patents/wrapper/, and the claims below record what it actually says: a formal appeal, not a letter, and an examiner who refused the China argument in writing.",
 "domains": [
-"pais-patents"
+"pais-patents",
+"propulsion-2026-09-19"
 ],
 "dossier": {
 "claims": [
@@ -323,12 +349,26 @@
 "date": null,
 "name": "US Patent 10,144,532",
 "url": "https://www.freepatentsonline.com/10144532.html"
+},
+{
+"date": "2018-12-04",
+"name": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page, abstract, specification and claims",
+"url": "https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf"
 }
 ],
 "sub": "Application 15/141270, filed 28 April 2016, granted 4 December 2018; assignee the Secretary of the Navy",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 88 of 1105, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 62 of 1111, score 74). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.",
 "timeline": [
+{
+"date": "2016-04-28",
+"id": "tl-2016-04-28-pais-imrd-filed",
+"label": "Application 15/141,270 filed: 'Craft using an inertial mass reduction device'",
+"precision": "day",
+"strand": "program",
+"text": "Assignee on the granted patent: 'The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'. Attorney of record: 'Mark O Glut; NAWCAD'. Prior publication US 2017/0313446 A1 of 2 November 2017.",
+"tier": "A"
+},
 {
 "date": "2016-04-28",
 "id": "tl-pais-imrd-filed",
@@ -364,6 +404,15 @@
 "strand": "program",
 "text": "The Advisory Action on application 15/141,270 recorded that the examiner agreed 'the math and physics are sound in this application' while holding the claims not enabled, and asked the applicant to demonstrate the effect. The application was allowed three months later without any demonstration appearing in the file.",
 "tier": "1"
+},
+{
+"date": "2018-12-04",
+"id": "tl-2018-12-04-pais-imrd-granted",
+"label": "US 10,144,532 granted, with Philip J Bonzell named as primary examiner",
+"precision": "day",
+"strand": "program",
+"text": "The printed front page gives 'Primary Examiner - Philip J Bonzell', the same person the board's existing Tier 1 claim names as the addressee of the Sheehy letter of 15 December 2017. 4 claims, 1 drawing sheet, term extended 153 days under 35 U.S.C. 154(b). A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS.",
+"tier": "A"
 },
 {
 "date": "2018-12-04",
