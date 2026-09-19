@@ -505,6 +505,69 @@ def apply(s, must_replace, model=None):
     s, o = must_replace(s, "</style>", NETWORK_CSS + "</style>",
                         "network: bridge styles", s.count("</style>")); ok &= o
 
+    # --------------------------------------------------------------- change 12
+    # AT REST MUST BE A STATE, NOT AN ASYMPTOTE, AND A FADE MUST TAKE THE SAME
+    # TIME ON EVERY MACHINE.
+    #
+    # The inherited renderer eases the camera and every node alpha with a plain
+    # exponential lerp, `v += (target - v) * 0.12`, once per FRAME, and nothing ever
+    # snaps. Two defects ride in that one expression.
+    #
+    # 1. IT NEVER ARRIVES. The gap shrinks by 12 per cent a frame and reaches zero
+    #    at no frame at all, so the map is still moving arbitrarily long after the
+    #    reader stops touching it. It only LOOKS at rest once the residual falls
+    #    below one quantisation step of the canvas.
+    # 2. ITS DURATION IS FRAME RATE. 0.12 per frame is about half a second at 60fps,
+    #    which is the fade Design specified. The gate's swiftshader browser draws
+    #    this 18MB page at about 11fps, where the same constant takes FOUR SECONDS.
+    #    Nobody chose a four-second fade; it is the 60fps one, observed on a slow
+    #    machine.
+    #
+    # Together they are also the "intermittent flake" in runtime_check's stillness
+    # assertion that three sessions have now recorded and none has explained. The
+    # check asks whether the map is at rest; the honest answer was that it never is,
+    # and whether it LOOKED at rest depended on how fast the frames happened to be.
+    # Measured 19 September 2026: after a select-then-clear the node alphas were
+    # still moving 4.8 seconds later, decaying by ever smaller amounts and never
+    # arriving, while the check samples at about 2.1s. Master passed and an
+    # otherwise correct data change failed, only because the data change gave more
+    # nodes a new target and so left a larger residual when the check looked.
+    #
+    # THE FIX IS THE TWO THINGS THAT WERE MISSING, and neither is a tuning knob.
+    # The rate is rescaled by elapsed time against the 60fps frame the constant was
+    # written for, so the fade lasts what it always meant to last and a slow machine
+    # matches a fast one instead of crawling. dt is capped at 100ms so returning to
+    # a backgrounded tab resolves in one step rather than leaping mid-animation.
+    #
+    # THE EPSILONS ARE CHOSEN SO THE SNAP CANNOT BE SEEN, not for convenience:
+    #   alpha   1/255  one step of the 8-bit alpha channel; a smaller difference
+    #                  cannot change a rendered pixel, by construction
+    #   cam.k   1e-4   under 0.14px of travel at the far edge of this 1368px canvas
+    #   cam.x/y 0.02   a fiftieth of a CSS pixel
+    # So this changes when the motion stops, and nothing about how it looks.
+    s, o = must_replace(s,
+        """    cam.k += (camTo.k - cam.k) * 0.12;
+    cam.x += (camTo.x - cam.x) * 0.12;
+    cam.y += (camTo.y - cam.y) * 0.12;""",
+        """    /* Time-based and snapped: tools/network_patches.py change 12,
+       'at rest must be a state, not an asymptote'. EASE is the inherited 0.12
+       per frame, rescaled to however long this frame actually took. */
+    const __now = (typeof performance !== 'undefined' ? performance.now() : Date.now());
+    const __dt = Math.min(100, Math.max(0, __now - (window.__netEaseT == null ? __now - 16.67 : window.__netEaseT)));
+    window.__netEaseT = __now;
+    const EASE = 1 - Math.pow(1 - 0.12, __dt / (1000 / 60));
+    cam.k = Math.abs(camTo.k - cam.k) < 1e-4 ? camTo.k : cam.k + (camTo.k - cam.k) * EASE;
+    cam.x = Math.abs(camTo.x - cam.x) < 0.02 ? camTo.x : cam.x + (camTo.x - cam.x) * EASE;
+    cam.y = Math.abs(camTo.y - cam.y) < 0.02 ? camTo.y : cam.y + (camTo.y - cam.y) * EASE;""",
+        "network: the camera ease terminates and is time-based", 1); ok &= o
+
+    s, o = must_replace(s,
+        """      n.alpha = n.alpha == null ? want : n.alpha + (want - n.alpha) * 0.12;""",
+        """      n.alpha = n.alpha == null ? want
+              : Math.abs(want - n.alpha) < 1 / 255 ? want
+              : n.alpha + (want - n.alpha) * EASE;""",
+        "network: the node fade terminates and is time-based", 1); ok &= o
+
     return s, ok
 
 

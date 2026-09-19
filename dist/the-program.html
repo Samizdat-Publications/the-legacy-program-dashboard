@@ -148564,15 +148564,24 @@ function mountNetwork(host){
 
     // Ease the camera. Nodes never jump; a reframe interpolates like any other
     // layout change, so the reader keeps track of what moved where.
-    cam.k += (camTo.k - cam.k) * 0.12;
-    cam.x += (camTo.x - cam.x) * 0.12;
-    cam.y += (camTo.y - cam.y) * 0.12;
+    /* Time-based and snapped: tools/network_patches.py change 12,
+       'at rest must be a state, not an asymptote'. EASE is the inherited 0.12
+       per frame, rescaled to however long this frame actually took. */
+    const __now = (typeof performance !== 'undefined' ? performance.now() : Date.now());
+    const __dt = Math.min(100, Math.max(0, __now - (window.__netEaseT == null ? __now - 16.67 : window.__netEaseT)));
+    window.__netEaseT = __now;
+    const EASE = 1 - Math.pow(1 - 0.12, __dt / (1000 / 60));
+    cam.k = Math.abs(camTo.k - cam.k) < 1e-4 ? camTo.k : cam.k + (camTo.k - cam.k) * EASE;
+    cam.x = Math.abs(camTo.x - cam.x) < 0.02 ? camTo.x : cam.x + (camTo.x - cam.x) * EASE;
+    cam.y = Math.abs(camTo.y - cam.y) < 0.02 ? camTo.y : cam.y + (camTo.y - cam.y) * EASE;
 
     // filtered-out nodes animate to alpha 0 over --t-layout, then stop being hit tested
     const vis = visibleSet();
     for (const n of nodes){
       const want = vis.has(n.id) ? 1 : 0;
-      n.alpha = n.alpha == null ? want : n.alpha + (want - n.alpha) * 0.12;
+      n.alpha = n.alpha == null ? want
+              : Math.abs(want - n.alpha) < 1 / 255 ? want
+              : n.alpha + (want - n.alpha) * EASE;
     }
 
     const active = activeSet();
