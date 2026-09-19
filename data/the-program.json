@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18",
+ "generated": "2026-09-19",
  "people": [
   {
    "id": "harry-reid",
@@ -113384,7 +113384,9 @@
    ],
    "_domains": [
     "lazar-s4-2026-09-18"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "tom-mahood"
   },
   {
    "a": "stanton-friedman",
@@ -113404,7 +113406,9 @@
    ],
    "_domains": [
     "lazar-s4-2026-09-18"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "stanton-friedman"
   },
   {
    "a": "s-4-papoose-lake",
@@ -113864,7 +113868,8 @@
    ],
    "_domains": [
     "lazar-s4-2026-09-18"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "stanton-friedman",
@@ -113884,7 +113889,9 @@
    ],
    "_domains": [
     "lazar-s4-2026-09-18"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "stanton-friedman"
   },
   {
    "a": "tom-mahood",
@@ -113909,7 +113916,9 @@
    ],
    "_domains": [
     "lazar-s4-2026-09-18"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "tom-mahood"
   },
   {
    "a": "tom-mahood",
@@ -113929,7 +113938,9 @@
    ],
    "_domains": [
     "lazar-s4-2026-09-18"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "tom-mahood"
   },
   {
    "a": "tom-mahood",
@@ -123894,7 +123905,9 @@
    ],
    "_domains": [
     "tr3b-2026-09-18"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "peter-merlin"
   },
   {
    "a": "peter-merlin",
@@ -123919,7 +123932,9 @@
    ],
    "_domains": [
     "tr3b-2026-09-18"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "peter-merlin"
   },
   {
    "a": "peter-merlin",
@@ -123964,7 +123979,8 @@
    ],
    "_domains": [
     "tr3b-2026-09-18"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "northrop-tacit-blue",
@@ -123984,7 +124000,8 @@
    ],
    "_domains": [
     "tr3b-2026-09-18"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "northrop-tacit-blue",
@@ -124069,7 +124086,8 @@
    ],
    "_domains": [
     "tr3b-2026-09-18"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "tr-3b",

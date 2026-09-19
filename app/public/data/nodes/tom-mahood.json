@@ -159,7 +159,7 @@
 "label": "Tom Mahood"
 },
 "claimTier": 2,
-"denialKind": null,
+"denialKind": "directed",
 "label": "The most detailed documentary examination of the account, 1990s and 2018",
 "note": "'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one.",
 "of": {
@@ -185,7 +185,7 @@
 "label": "Tom Mahood"
 },
 "claimTier": 2,
-"denialKind": null,
+"denialKind": "directed",
 "label": "The island of stability near element 114 was published popular physics from 1969",
 "note": "This denial cuts against the credulous reading without endorsing the hostile one: the finding is 'available prior art, used', not 'fabricated from nothing'. The Seaborg article itself was not opened.",
 "of": {
@@ -206,7 +206,7 @@
 "label": "Tom Mahood"
 },
 "claimTier": 2,
-"denialKind": null,
+"denialKind": "directed",
 "label": "Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility",
 "note": "EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible.",
 "of": {

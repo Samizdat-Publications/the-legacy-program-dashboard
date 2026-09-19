@@ -149,7 +149,7 @@
 "label": "Peter W. Merlin"
 },
 "claimTier": 2,
-"denialKind": null,
+"denialKind": "directed",
 "label": "Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office",
 "note": "Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction.",
 "of": {

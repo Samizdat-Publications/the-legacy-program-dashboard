@@ -1,834 +1,885 @@
 {
- "_what": "Adjudication of every denial edge on the board: which of the three denial states it is, and where the record names an issuer, which end issued it. Keyed by \"a|b\", the edge's own two ends in the order the record stores them. Read by tools/merge.py, which stamps denialKind and denier onto the edge records.",
- "_why": "Until this file existed the renderer inferred direction from [a,b].sort() -- alphabetical order -- and drew an arrowhead on every denial edge. 22 of the 47 on the map pointed the wrong way. build_l0.py recorded the convention as \"CONFIRMED against the merged board\" on the strength of ONE agreeing sample. notes/DENIAL-DIRECTION-2026-08-26.md.",
- "_method": "All 174 read one at a time, label and note, against a rule fixed BEFORE reading any of them so the rule could not be bent to fit a case:\n  directed   - the label names, or unambiguously identifies, the party that issued the denial, AND that party is one of the two ends. `denier` is that end.\n  association - the edge is not a denial ACT: a transmission, a naming, a structural or definitional relation, a scholarly dispute, a criticism OF a denial.\n  undirected  - it is a denial act, but the issuer is not named or is not one of the two ends. This claims the least and is the correct default; where a reading was arguable it went here rather than to a guessed direction.",
- "_result": "174 adjudicated: 124 directed (90 issued by the `a` end, 34 by the `b` end), 36 association, 14 undirected. THE SHIPPED CONVENTION WAS WRONG ON 34 OF 124 -- 27 per cent. On the 47 edges drawn on the map: 22 `a`, 16 `b`, 5 undirected, 4 association.",
- "_not_a_sourcing_claim": "Nothing here adds a fact. Every verdict is a reading of the label and note already on the edge; no new party, date or document is named. Where the existing label was not enough to identify an issuer, the verdict is `undirected` rather than an inference.",
- "edges": {
-  "reid-sap-letter-2009|dia-sap-denial-memo-2009": {
-   "denialKind": "directed",
-   "denier": "dia-sap-denial-memo-2009",
-   "label": "DIA finds insufficient grounds to classify"
-  },
-  "james-clapper|depsecdef-sap-packet-2009": {
-   "denialKind": "directed",
-   "denier": "james-clapper",
-   "label": "USD(I) recommends against establishing a SAP"
-  },
-  "depsecdef-sap-packet-2009|william-lynn": {
-   "denialKind": "association",
-   "label": "decision packet presented 17 November 2009"
-  },
-  "william-lynn|harry-reid": {
-   "denialKind": "directed",
-   "denier": "william-lynn",
-   "label": "in-person refusal of the SAP request"
-  },
-  "susan-gough|luis-elizondo": {
-   "denialKind": "directed",
-   "denier": "susan-gough",
-   "label": "'no assigned responsibilities for AATIP'"
-  },
-  "susan-gough|reid-sap-letter-2009": {
-   "denialKind": "directed",
-   "denier": "susan-gough",
-   "label": "authenticated the letter, denied its significance"
-  },
-  "aaro-historical-record-vol1|aawsap": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "official history confirms the money, closes the file"
-  },
-  "dia|aawsap-contract": {
-   "denialKind": "directed",
-   "denier": "dia",
-   "label": "withheld the contract for eleven years"
-  },
-  "dia|skinwalkers-at-the-pentagon": {
-   "denialKind": "directed",
-   "denier": "dia",
-   "label": "no records located for the documents the book describes"
-  },
-  "immaculate-constellation|dod": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "DoD spokesperson Sue Gough: no record of any SAP by that name"
-  },
-  "shootdowns-feb-2023|sean-kirkpatrick": {
-   "denialKind": "directed",
-   "denier": "sean-kirkpatrick",
-   "label": "Retrospective 'they were balloons' characterisation contradicts the contemporaneous allied record"
-  },
-  "nj-drone-incursions-2024|dod": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "Four-agency joint statement of 17 December 2024"
-  },
-  "jon-kosloski|gofast-video": {
-   "denialKind": "directed",
-   "denier": "jon-kosloski",
-   "label": "AARO parallax reanalysis: no anomalous speed or flight characteristics"
-  },
-  "uss-reagan-2004|dod": {
-   "denialKind": "undirected",
-   "label": "Federal records destroyed at the point of creation"
-  },
-  "nicola-fox|mark-mcinerney": {
-   "denialKind": "directed",
-   "denier": "nicola-fox",
-   "label": "NASA announced the UAP research director but withheld the name at the briefing"
-  },
-  "pursue-releases|dod": {
-   "denialKind": "undirected",
-   "label": "Release volume without release quality"
-  },
-  "dod|tim-burchett": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "Denied members SCIF access to Grusch before the founding hearing"
-  },
-  "dod|house-oversight-committee": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs"
-  },
-  "dod|eric-burlison": {
-   "denialKind": "undirected",
-   "label": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025"
-  },
-  "dod|anna-paulina-luna": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "Missed the Task Force deadline for AARO UAP video files, prompting a subpoena threat"
-  },
-  "dod|eli-crane": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "Did not answer his 24 July 2025 letter on the reprisal against Grusch"
-  },
-  "dod|david-grusch": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "Clearance removal, denial of promotion and loss of medical retirement following his disclosure"
-  },
-  "aaro|anna-paulina-luna": {
-   "denialKind": "association",
-   "label": "Luna called former AARO director Kirkpatrick 'a documented liar' and AARO's channel a graveyard for testimony"
-  },
-  "sean-kirkpatrick|anna-paulina-luna": {
-   "denialKind": "association",
-   "label": "Kirkpatrick publicly attacked Task Force witnesses and members; Luna answered from the chair"
-  },
-  "dod|immaculate-constellation-12-page-report": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "Pentagon says it has no record of the program described in the document entered into the Congressional Record"
-  },
-  "mitre-corporation|house-oversight-committee": {
-   "denialKind": "directed",
-   "denier": "mitre-corporation",
-   "label": "Conditions any production on coordination with the sponsoring federal agencies"
-  },
-  "mike-turner|uapda-sec-9010-eminent-domain": {
-   "denialKind": "directed",
-   "denier": "mike-turner",
-   "label": "Named as demanding removal of the eminent domain provision"
-  },
-  "mike-turner|uap-records-review-board": {
-   "denialKind": "directed",
-   "denier": "mike-turner",
-   "label": "Named as demanding removal of the Board's subpoena power"
-  },
-  "mike-rogers-al|uapda-2023": {
-   "denialKind": "directed",
-   "denier": "mike-rogers-al",
-   "label": "Named as co-leading the effort to eliminate or alter the Act"
-  },
-  "mitch-mcconnell|uapda-2023": {
-   "denialKind": "directed",
-   "denier": "mitch-mcconnell",
-   "label": "Named as supporting the effort against the Act"
-  },
-  "chuck-schumer|ndaa-fy2024-subtitle-c": {
-   "denialKind": "association",
-   "label": "Publicly called the removal of the Review Board an outrage"
-  },
-  "uapda-2024-samdt-2610|iaa-fy2025-title-lxviii": {
-   "denialKind": "undirected",
-   "label": "Never called up; FY2025 enacted with no disclosure regime"
-  },
-  "ndaa-fy2024-subtitle-c|uap-records-review-board": {
-   "denialKind": "association",
-   "label": "Postponement authority returned to the original classifier"
-  },
-  "ndaa-fy2026|uapda-2023": {
-   "denialKind": "undirected",
-   "label": "Third consecutive Act enacted without the Senate's own passed text"
-  },
-  "house-intelligence|uap-records-review-board": {
-   "denialKind": "association",
-   "label": "The Board was designed to bypass the intelligence committees"
-  },
-  "uapda-sec-9010-eminent-domain|ndaa-fy2024": {
-   "denialKind": "undirected",
-   "label": "No enacted statute contains the eminent domain language"
-  },
-  "garry-reid-memo-2017|luis-elizondo": {
-   "denialKind": "directed",
-   "denier": "garry-reid-memo-2017",
-   "label": "'Aggrandized his role'; 'no job responsibilities related to the AATIP'"
-  },
-  "joseph-gradisher|dd-form-1910-2017": {
-   "denialKind": "directed",
-   "denier": "joseph-gradisher",
-   "label": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request"
-  },
-  "christopher-sherwood|luis-elizondo": {
-   "denialKind": "directed",
-   "denier": "christopher-sherwood",
-   "label": "1 June 2019: 'no responsibilities with regard to the AATIP program'"
-  },
-  "neill-tipton|luis-elizondo": {
-   "denialKind": "directed",
-   "denier": "neill-tipton",
-   "label": "7 May 2019 internal email: 'no assigned responsibilities for this program'"
-  },
-  "susan-gough|aatip": {
-   "denialKind": "directed",
-   "denier": "susan-gough",
-   "label": "6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'"
-  },
-  "susan-gough|christopher-sherwood": {
-   "denialKind": "directed",
-   "denier": "susan-gough",
-   "label": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'"
-  },
-  "ccdc-gvsc|joseph-cannon": {
-   "denialKind": "directed",
-   "denier": "ccdc-gvsc",
-   "label": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full"
-  },
-  "aaro-historical-record-vol1|aatip": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "March 2024: 'no evidence for the USG reverse-engineering narrative provided by interviewees'"
-  },
-  "aaro-historical-record-vol1|luis-elizondo": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "AARO's account of the 2008-2012 programs excludes his claimed role"
-  },
-  "mitre-corporation|burlison-mitre-letter-2026": {
-   "denialKind": "directed",
-   "denier": "mitre-corporation",
-   "label": "MITRE routes the answer back through its sponsoring agencies"
-  },
-  "pentacle-memorandum|robertson-panel": {
-   "denialKind": "association",
-   "label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals"
-  },
-  "ornl-metallic-specimen-report|aaro": {
-   "denialKind": "association",
-   "label": "The government's only published materials analysis, produced by a Battelle-operated laboratory"
-  },
-  "sean-kirkpatrick|david-grusch": {
-   "denialKind": "directed",
-   "denier": "sean-kirkpatrick",
-   "label": "'The central source of those allegations has refused to speak with AARO'"
-  },
-  "susan-gough|david-grusch": {
-   "denialKind": "directed",
-   "denier": "susan-gough",
-   "label": "Standing DoD denial: AARO has not discovered any verifiable information"
-  },
-  "susan-gough|hearing-2023-07-26": {
-   "denialKind": "directed",
-   "denier": "susan-gough",
-   "label": "Post-hearing statement rebutting the harm claims"
-  },
-  "aaro-historical-record-vol1|david-grusch": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "Formal DoD rebuttal: no firsthand knowledge, programs do not exist or were disestablished"
-  },
-  "pat-ryder|aaro-historical-record-vol1": {
-   "denialKind": "association",
-   "label": "Released and framed the report as 'the widest possible aperture'"
-  },
-  "icig|aaro": {
-   "denialKind": "association",
-   "label": "Irreconcilable executive-branch findings on the same allegations"
-  },
-  "mark-milley|david-grusch": {
-   "denialKind": "directed",
-   "denier": "mark-milley",
-   "label": "Chairman of the Joint Chiefs: no evidence of alien craft or coverup"
-  },
-  "nancy-mace|ken-klippenstein": {
-   "denialKind": "directed",
-   "denier": "nancy-mace",
-   "label": "Member of Congress characterizes the records leak as a discrediting operation"
-  },
-  "crane-dod-reprisal-letter|dod": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "No reply on the record as of 9 September 2025"
-  },
-  "christopher-mellon|aaro-historical-record-vol1": {
-   "denialKind": "association",
-   "label": "'The most error-ridden and unsatisfactory government report I can recall reading'"
-  },
-  "david-grusch|dia": {
-   "denialKind": "directed",
-   "denier": "dia",
-   "label": "Accuses DIA of obstructing congressional oversight by withholding documents"
-  },
-  "david-grusch|aaro": {
-   "denialKind": "directed",
-   "denier": "david-grusch",
-   "label": "Declined nine AARO interview approaches; missed the 14 November 2023 appointment"
-  },
-  "hoyt-vandenberg|estimate-of-the-situation": {
-   "denialKind": "directed",
-   "denier": "hoyt-vandenberg",
-   "label": "Vandenberg rejected the Estimate and ordered copies destroyed"
-  },
-  "roger-ramey|raaf-press-release-1947": {
-   "denialKind": "directed",
-   "denier": "roger-ramey",
-   "label": "Ramey retracted the disc announcement the same day"
-  },
-  "jesse-marcel|usaf-roswell-reports": {
-   "denialKind": "directed",
-   "denier": "usaf-roswell-reports",
-   "label": "The Air Force reports were produced to rebut Marcel's account"
-  },
-  "haines-cia-history|project-blue-book": {
-   "denialKind": "directed",
-   "denier": "project-blue-book",
-   "label": "CIA states the Air Force made misleading and deceptive public statements"
-  },
-  "aaro-historical-record-vol1|roswell-1947": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "AARO reaffirms MOGUL and finds no recovered extraterrestrial material"
-  },
-  "aaro-historical-record-vol1|gao-nsiad-95-187": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "AARO's legacy review does not address the documented records destruction"
-  },
-  "aaro-historical-record-vol1|project-sign": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "AARO finds SIGN, GRUDGE and Blue Book sightings were ordinary objects"
-  },
-  "project-blue-book|janap-146": {
-   "denialKind": "association",
-   "label": "The public statistics are the residue of a filter, not the corpus"
-  },
-  "nathan-twining|project-mogul": {
-   "denialKind": "association",
-   "label": "The AMC commander's 1947 assessment predates and undercuts the MOGUL account"
-  },
-  "rendlesham-1980|aaro-historical-record-vol1": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "AARO's 2024 historical review does not mention Rendlesham"
-  },
-  "sac-overflights-1975|aaro-historical-record-vol1": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "AARO's 2024 historical review does not address the 1975 nuclear-base overflights"
-  },
-  "project-moon-dust|aaro-historical-record-vol1": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "AARO's 2024 historical review does not mention MOON DUST or BLUE FLY"
-  },
-  "paul-bennewitz|aaro-historical-record-vol1": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "AARO's 2024 historical review makes no mention of Bennewitz, Doty, AFOSI or Kirtland"
-  },
-  "mj-12-documents|aaro-historical-record-vol1": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "AARO's 2024 review does not address MJ-12 or AQUARIUS"
-  },
-  "yeates-affidavit|caus-v-nsa": {
-   "denialKind": "directed",
-   "denier": "yeates-affidavit",
-   "label": "The affidavit is the instrument by which withholding was sustained"
-  },
-  "thomas-wilson|wilson-davis-memo": {
-   "denialKind": "directed",
-   "denier": "thomas-wilson",
-   "label": "Wilson denies the meeting and the substance attributed to him"
-  },
-  "wilson-davis-memo|aaro-historical-record-vol1": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson"
-  },
-  "cia-haines-1997|cia": {
-   "denialKind": "association",
-   "label": "CIA's own published history concedes the Air Force made deceptive public statements"
-  },
-  "cia-haines-1997|robertson-panel": {
-   "denialKind": "undirected",
-   "label": "CIA refused declassification and issued a sanitised version of the Robertson Panel report"
-  },
-  "yankee-blue|afosi": {
-   "denialKind": "directed",
-   "denier": "afosi",
-   "label": "AFOSI states it holds no records of any YANKEE BLUE investigation"
-  },
-  "yankee-blue|aaro": {
-   "denialKind": "undirected",
-   "label": "Pentagon spokesperson could not confirm the existence of the memo"
-  },
-  "kona-blue|cia": {
-   "denialKind": "directed",
-   "denier": "cia",
-   "label": "CIA alleged to have terminated the programme"
-  },
-  "pursue-releases|aaro": {
-   "denialKind": "association",
-   "label": "Release programme runs parallel to, not in place of, AARO reporting"
-  },
-  "nyt-2017-12-16|david-grusch": {
-   "denialKind": "directed",
-   "denier": "nyt-2017-12-16",
-   "label": "The New York Times did not publish the 2023 Grusch story"
-  },
-  "gerb-mitre-investigation|mitre-corporation": {
-   "denialKind": "directed",
-   "denier": "mitre-corporation",
-   "label": "Alleged 2011 restriction on historical briefings about program incumbents"
-  },
-  "uap-science-advisory-council|sol-foundation": {
-   "denialKind": "undirected",
-   "label": "Advisory seat conditioned on unclassified-only access"
-  },
-  "manhattan-project-2|ousdi": {
-   "denialKind": "undirected",
-   "label": "Non-Covert Action Programs alleged to carry waived reporting requirements"
-  },
-  "cia|lockheed-martin": {
-   "denialKind": "directed",
-   "denier": "cia",
-   "label": "CIA is alleged to have blocked the divestment of material from the contractor to BAASS"
-  },
-  "groom-lake-presidential-determination|eg-and-g": {
-   "denialKind": "directed",
-   "denier": "groom-lake-presidential-determination",
-   "label": "The state secrets defence shielded the contractor-operated facility from the workers' suit"
-  },
-  "project-bear|battelle": {
-   "denialKind": "undirected",
-   "label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover"
-  },
-  "aaro-historical-record-vol1|lockheed-martin": {
-   "denialKind": "directed",
-   "denier": "lockheed-martin",
-   "label": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record"
-  },
-  "aaro-fy2025-annual-report|lockheed-martin": {
-   "denialKind": "directed",
-   "denier": "aaro-fy2025-annual-report",
-   "label": "The 2026 official denial is maintained without any inspection of contractor holdings"
-  },
-  "aaro-metallic-specimen-analysis|ttsa": {
-   "denialKind": "directed",
-   "denier": "aaro-metallic-specimen-analysis",
-   "label": "ORNL assessed the privately held 'crash' specimen as terrestrial"
-  },
-  "hearing-2025-09-09|aaro": {
-   "denialKind": "association",
-   "label": "Witnesses testified AARO holds unreleased UAP video"
-  },
-  "nara-uap-records-collection|dod": {
-   "denialKind": "undirected",
-   "label": "No agency-by-agency compliance accounting is published"
-  },
-  "jon-kosloski|aaro-historical-record-vol2": {
-   "denialKind": "directed",
-   "denier": "jon-kosloski",
-   "label": "Promised publication 'within months' in November 2024"
-  },
-  "aaro-fy2025-annual-report|pursue-releases": {
-   "denialKind": "directed",
-   "denier": "aaro-fy2025-annual-report",
-   "label": "The statutory report never mentions the department's own release programme"
-  },
-  "aaro-fy2024-annual-report|pursue-release-02": {
-   "denialKind": "directed",
-   "denier": "aaro-fy2024-annual-report",
-   "label": "'Lack of timely and actionable sensor data' against 51 released sensor videos"
-  },
-  "aaro-declassification-info-paper-2025|pursue-releases": {
-   "denialKind": "association",
-   "label": "Process described as immovable was moved by cabinet direction in weeks"
-  },
-  "aaro-historical-record-vol1|hearing-2024-11-13": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "Volume I's 'no NDAs' finding against Elizondo's sworn SCIF testimony"
-  },
-  "dodig-2023-109|dod": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "The full IG report on DoD's UAP handling remains classified"
-  },
-  "immaculate-constellation-12-page-report|aaro-fy2025-annual-report": {
-   "denialKind": "directed",
-   "denier": "aaro-fy2025-annual-report",
-   "label": "No AARO product has ever addressed the name in the Record"
-  },
-  "sue-gough|immaculate-constellation-12-page-report": {
-   "denialKind": "directed",
-   "denier": "sue-gough",
-   "label": "Department says it has no record of the programme"
-  },
-  "sean-kirkpatrick|immaculate-constellation-12-page-report": {
-   "denialKind": "directed",
-   "denier": "sean-kirkpatrick",
-   "label": "Former AARO director denied the programme's existence"
-  },
-  "gulf-of-oman-ac130j-2021|aaro-fy2024-annual-report": {
-   "denialKind": "directed",
-   "denier": "aaro-fy2024-annual-report",
-   "label": "A 2021 gunship engagement absent from the reporting periods that cover it"
-  },
-  "uap-science-advisory-council|d-custody": {
-   "denialKind": "association",
-   "label": "No budget, no classified access - constitutionally unable to reach the material"
-  },
-  "nasa-uapist|d-custody": {
-   "denialKind": "directed",
-   "denier": "nasa-uapist",
-   "label": "Concluded data was insufficient - having been given only the unclassified record"
-  },
-  "aaro-historical-record-vol1|yankee-blue": {
-   "denialKind": "directed",
-   "denier": "aaro-historical-record-vol1",
-   "label": "Volume I found 'no NDAs that contain information related to UAP' - contradicted by the Yankee Blue record"
-  },
-  "susan-gough|yankee-blue": {
-   "denialKind": "directed",
-   "denier": "susan-gough",
-   "label": "named DoD spokeswoman who confirmed the fake-programme findings would be deferred to Volume II"
-  },
-  "aaro-grusch-interview-memo-2024|david-grusch": {
-   "denialKind": "directed",
-   "denier": "aaro-grusch-interview-memo-2024",
-   "label": "AARO concluded Grusch 'had no intention of providing AARO with information'"
-  },
-  "kirkpatrick-sciam-oped-2024|luis-elizondo": {
-   "denialKind": "directed",
-   "denier": "kirkpatrick-sciam-oped-2024",
-   "label": "attributes the crash-retrieval narrative to AATIP and the Bigelow circle"
-  },
-  "kirkpatrick-sciam-oped-2024|robert-bigelow": {
-   "denialKind": "directed",
-   "denier": "kirkpatrick-sciam-oped-2024",
-   "label": "names Bigelow as the seeding influence behind the modern belief system"
-  },
-  "hearing-2024-11-19|immaculate-constellation": {
-   "denialKind": "directed",
-   "denier": "hearing-2024-11-19",
-   "label": "Kosloski's statement for the record does not mention Immaculate Constellation"
-  },
-  "aaro|immaculate-constellation": {
-   "denialKind": "directed",
-   "denier": "aaro",
-   "label": "AARO has never publicly addressed the alleged programme entered into the congressional record"
-  },
-  "aaro-historical-record-vol2|aaro": {
-   "denialKind": "directed",
-   "denier": "aaro",
-   "label": "the office has not published the volume it committed to for over two years"
-  },
-  "ev-varginha-1996|roswell-report-case-closed": {
-   "denialKind": "association",
-   "label": "Two official inquiries that explained the recovery activity without producing the logs"
-  },
-  "dod-sapco|oversight-congress": {
-   "denialKind": "association",
-   "label": "Contractor disclosure to Congress requires the approval of the office being disclosed about"
-  },
-  "david-grusch|dod-sapco": {
-   "denialKind": "association",
-   "label": "The office that must approve any contractor's provision of SAP material to Congress"
-  },
-  "dird-high-frequency-gravitational-wave-communications|jason-advisory-group": {
-   "denialKind": "directed",
-   "denier": "jason-advisory-group",
-   "label": "JASON found the underlying physics wrong two years before DIA published the DIRD"
-  },
-  "aztec-1948|dod": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "Air Force denials of Hangar 18 bodies"
-  },
-  "hegseth-uap-statements-2026|trump-truth-social-post-2026-02-20": {
-   "denialKind": "association",
-   "label": "characterises a social-media post as an executive order"
-  },
-  "odni-memo-es-2026-00818|cia": {
-   "denialKind": "directed",
-   "denier": "cia",
-   "label": "directed to release; absent from the statutory archive"
-  },
-  "odni-memo-es-2026-00818|dia": {
-   "denialKind": "directed",
-   "denier": "dia",
-   "label": "directed to release; absent from the statutory archive"
-  },
-  "odni-memo-es-2026-00818|nro": {
-   "denialKind": "directed",
-   "denier": "nro",
-   "label": "directed to release; absent from the statutory archive"
-  },
-  "odni-memo-es-2026-00818|doe": {
-   "denialKind": "directed",
-   "denier": "doe",
-   "label": "directed to release; absent from the statutory archive"
-  },
-  "james-clapper|waived-usap": {
-   "denialKind": "directed",
-   "denier": "james-clapper",
-   "label": "USD(I) recommendation against SAP status for the AAWSAP effort, November 2009"
-  },
-  "dhs|kona-blue": {
-   "denialKind": "directed",
-   "denier": "dhs",
-   "label": "DHS Deputy Secretary disapproved and terminated KONA BLUE approximately six months later"
-  },
-  "doe|nara-uap-collection": {
-   "denialKind": "directed",
-   "denier": "doe",
-   "label": "DOE produced nothing for the first statutory UAP records transfer"
-  },
-  "nsa|caus-v-nsa": {
-   "denialKind": "directed",
-   "denier": "nsa",
-   "label": "NSA withheld its UFO holdings in full and won on an in camera affidavit"
-  },
-  "us-house|dod": {
-   "denialKind": "directed",
-   "denier": "dod",
-   "label": "Committee finding of non-cooperation by DoD and the IC"
-  },
-  "nga|nara-uap-collection": {
-   "denialKind": "directed",
-   "denier": "nga",
-   "label": "Named 2021 UAP contributor that produced nothing for the statutory collection"
-  },
-  "dia|nara-uap-collection": {
-   "denialKind": "directed",
-   "denier": "dia",
-   "label": "Produced no records for the first statutory UAP transfer"
-  },
-  "cia|nara-uap-collection": {
-   "denialKind": "directed",
-   "denier": "cia",
-   "label": "Produced no records for the first statutory UAP transfer"
-  },
-  "nsa|nara-uap-collection": {
-   "denialKind": "directed",
-   "denier": "nsa",
-   "label": "Produced no records for the first statutory UAP transfer"
-  },
-  "nro|nara-uap-collection": {
-   "denialKind": "directed",
-   "denier": "nro",
-   "label": "Produced no records for the first statutory UAP transfer"
-  },
-  "dhs|nara-uap-collection": {
-   "denialKind": "directed",
-   "denier": "dhs",
-   "label": "Produced no records for the first statutory UAP transfer"
-  },
-  "aaro|grusch-misappropriation-allegation": {
-   "denialKind": "directed",
-   "denier": "aaro",
-   "label": "AARO's reports address the retrieval claims and say nothing about the funding claims"
-  },
-  "nick-pope|ev-uk-ufo-desk-closure": {
-   "denialKind": "association",
-   "label": "principal public critic of the 2009 closure"
-  },
-  "doc-condign-vol3|uk-mod": {
-   "denialKind": "directed",
-   "denier": "uk-mod",
-   "label": "records a flat denial of any US/Canada exchange, then redacts four lines"
-  },
-  "otavio-moreira-lima|ev-noite-ovnis-1986": {
-   "denialKind": "directed",
-   "denier": "otavio-moreira-lima",
-   "label": "held the 23 May 1986 press conference stating the Air Force had no explanation"
-  },
-  "ev-varginha-capitol-2026|aaro": {
-   "denialKind": "directed",
-   "denier": "aaro",
-   "label": "AARO's 2024 negative finding is the standing counter-position"
-  },
-  "bolender-memo|l-wright-patterson": {
-   "denialKind": "directed",
-   "denier": "bolender-memo",
-   "label": "The Bolender memo closed the base's public reporting channel while conceding another existed"
-  },
-  "roger-ramey|roswell-1947": {
-   "denialKind": "directed",
-   "denier": "roger-ramey",
-   "label": "Ramey retracted the RAAF statement the same day at Fort Worth"
-  },
-  "project-mogul|roswell-1947": {
-   "denialKind": "directed",
-   "denier": "project-mogul",
-   "label": "Mogul is the Air Force's 1994 identification of the debris"
-  },
-  "luis-elizondo|immaculate-constellation": {
-   "denialKind": "directed",
-   "denier": "luis-elizondo",
-   "label": "Elizondo declined to confirm or deny the programme by name or trigraph"
-  },
-  "susan-gough|immaculate-constellation": {
-   "denialKind": "directed",
-   "denier": "susan-gough",
-   "label": "The Department's response is a records assertion, not a denial of existence"
-  },
-  "sean-kirkpatrick|immaculate-constellation": {
-   "denialKind": "directed",
-   "denier": "sean-kirkpatrick",
-   "label": "The former AARO director denied the programme exists"
-  },
-  "low-memo|l-boulder-co": {
-   "denialKind": "directed",
-   "denier": "low-memo",
-   "label": "The Low memo shows the conclusion was framed before the study began"
-  },
-  "condon-committee|project-blue-book": {
-   "denialKind": "directed",
-   "denier": "condon-committee",
-   "label": "The Condon report was the stated basis for terminating Blue Book"
-  },
-  "glenn-dennis|roswell-report-case-closed": {
-   "denialKind": "directed",
-   "denier": "roswell-report-case-closed",
-   "label": "The 1997 report dismantled the 'missing nurse' account by name"
-  },
-  "jim-ragsdale|roswell-report-case-closed": {
-   "denialKind": "directed",
-   "denier": "roswell-report-case-closed",
-   "label": "Ragsdale's own words were used to support the dummy explanation"
-  },
-  "richard-weaver-usaf|kevin-randle": {
-   "denialKind": "directed",
-   "denier": "richard-weaver-usaf",
-   "label": "The Air Force reports were the institutional response to the Randle-Schmitt books"
-  },
-  "roswell-report-case-closed|plains-san-agustin-1947": {
-   "denialKind": "directed",
-   "denier": "roswell-report-case-closed",
-   "label": "Air Force proposes San Agustin Pass confusion and dummy recoveries"
-  },
-  "cash-v-united-states|betty-cash": {
-   "denialKind": "undirected",
-   "label": "The United States denied ownership of the object and the aircraft"
-  },
-  "minot-1968|project-blue-book": {
-   "denialKind": "directed",
-   "denier": "project-blue-book",
-   "label": "Blue Book declined to field-investigate an instrumented nuclear-site case"
-  },
-  "william-l-moore|kevin-randle": {
-   "denialKind": "association",
-   "label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12"
-  },
-  "stanton-friedman|kevin-randle": {
-   "denialKind": "association",
-   "label": "Unresolved dispute over MJ-12 authenticity"
-  },
-  "carve-out|dodd-5205-07-2024": {
-   "denialKind": "association",
-   "label": "Still cited by regulation, no longer defined by the directive it cites"
-  },
-  "dodd-5205-07-2024|sap-taxonomy": {
-   "denialKind": "directed",
-   "denier": "dodd-5205-07-2024",
-   "label": "The 2024 reissue deletes acknowledged, unacknowledged, waived and carve-out from the definitions"
-  },
-  "waived-usap-mechanism|sap-annual-report": {
-   "denialKind": "association",
-   "label": "A waived program is precisely a program removed from the annual report"
-  },
-  "accm|usc-10-119": {
-   "denialKind": "association",
-   "label": "ACCM sits below the definitional trigger of every SAP reporting statute"
-  },
-  "odni-capco|isoo": {
-   "denialKind": "association",
-   "label": "ISOO requests about IC controlled access programs are routed through CAPCO"
-  },
-  "dod-oig|dodm-5205-07-v1": {
-   "denialKind": "association",
-   "label": "SAP fraud and abuse complaints must not use collateral reporting channels"
-  },
-  "d-coverup|d-denial": {
-   "denialKind": "association",
-   "label": "Denial is the public face of concealment"
-  },
-  "d-contractor|d-foia": {
-   "denialKind": "association",
-   "label": "Contractor records are outside the statute"
-  },
-  "d-aerospace|d-coverup": {
-   "denialKind": "association",
-   "label": "Black aircraft generated real cover stories"
-  },
-  "d-signals|d-foia": {
-   "denialKind": "association",
-   "label": "Exemption 3 and the Glomar posture"
-  },
-  "d-roswell|d-denial": {
-   "denialKind": "association",
-   "label": "Four official explanations for one event"
-  },
-  "aaro-fy2025-annual-report|dod": {
-   "denialKind": "directed",
-   "denier": "aaro-fy2025-annual-report",
-   "label": "'No evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials'"
-  },
-  "aaro-fy2025-annual-report|americans-for-safe-aerospace": {
-   "denialKind": "directed",
-   "denier": "aaro-fy2025-annual-report",
-   "label": "'AARO did not receive reports indicating flight safety concerns during this reporting period'"
-  },
-  "sean-kirkpatrick|kirkpatrick-sciam-oped-2024": {
-   "denialKind": "directed",
-   "denier": "sean-kirkpatrick",
-   "label": "Bylined attribution of the allegations to circular reporting and unsupported belief"
-  },
-  "aaro-fy2025-annual-report|aaro-2026-posture": {
-   "denialKind": "directed",
-   "denier": "aaro-fy2025-annual-report",
-   "label": "no evidence of captured or exploited UAP materials, while writing custody procedures for them"
-  },
-  "dodig-2021-000806-foia|pursue-releases": {
-   "denialKind": "undirected",
-   "label": "imagery released, methodology withheld"
-  },
-  "pursue-releases|aaro-historical-record-vol2": {
-   "denialKind": "association",
-   "label": "sixteen gigabytes released, one promised report unpublished"
-  },
-  "aurora-budget-line|usaf": {
-   "denialKind": "directed",
-   "denier": "usaf",
-   "label": "an Air Force spokesman calls Aurora classified after the Pentagon published its figures"
+  "_what": "Adjudication of every denial edge on the board: which of the three denial states it is, and where the record names an issuer, which end issued it. Keyed by \"a|b\", the edge's own two ends in the order the record stores them. Read by tools/merge.py, which stamps denialKind and denier onto the edge records.",
+  "_why": "Until this file existed the renderer inferred direction from [a,b].sort() -- alphabetical order -- and drew an arrowhead on every denial edge. 22 of the 47 on the map pointed the wrong way. build_l0.py recorded the convention as \"CONFIRMED against the merged board\" on the strength of ONE agreeing sample. notes/DENIAL-DIRECTION-2026-08-26.md.",
+  "_method": "All 174 read one at a time, label and note, against a rule fixed BEFORE reading any of them so the rule could not be bent to fit a case:\n  directed   - the label names, or unambiguously identifies, the party that issued the denial, AND that party is one of the two ends. `denier` is that end.\n  association - the edge is not a denial ACT: a transmission, a naming, a structural or definitional relation, a scholarly dispute, a criticism OF a denial.\n  undirected  - it is a denial act, but the issuer is not named or is not one of the two ends. This claims the least and is the correct default; where a reading was arguable it went here rather than to a guessed direction.",
+  "_result": "174 adjudicated: 124 directed (90 issued by the `a` end, 34 by the `b` end), 36 association, 14 undirected. THE SHIPPED CONVENTION WAS WRONG ON 34 OF 124 -- 27 per cent. On the 47 edges drawn on the map: 22 `a`, 16 `b`, 5 undirected, 4 association.",
+  "_not_a_sourcing_claim": "Nothing here adds a fact. Every verdict is a reading of the label and note already on the edge; no new party, date or document is named. Where the existing label was not enough to identify an issuer, the verdict is `undirected` rather than an inference.",
+  "edges": {
+    "reid-sap-letter-2009|dia-sap-denial-memo-2009": {
+      "denialKind": "directed",
+      "denier": "dia-sap-denial-memo-2009",
+      "label": "DIA finds insufficient grounds to classify"
+    },
+    "james-clapper|depsecdef-sap-packet-2009": {
+      "denialKind": "directed",
+      "denier": "james-clapper",
+      "label": "USD(I) recommends against establishing a SAP"
+    },
+    "depsecdef-sap-packet-2009|william-lynn": {
+      "denialKind": "association",
+      "label": "decision packet presented 17 November 2009"
+    },
+    "william-lynn|harry-reid": {
+      "denialKind": "directed",
+      "denier": "william-lynn",
+      "label": "in-person refusal of the SAP request"
+    },
+    "susan-gough|luis-elizondo": {
+      "denialKind": "directed",
+      "denier": "susan-gough",
+      "label": "'no assigned responsibilities for AATIP'"
+    },
+    "susan-gough|reid-sap-letter-2009": {
+      "denialKind": "directed",
+      "denier": "susan-gough",
+      "label": "authenticated the letter, denied its significance"
+    },
+    "aaro-historical-record-vol1|aawsap": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "official history confirms the money, closes the file"
+    },
+    "dia|aawsap-contract": {
+      "denialKind": "directed",
+      "denier": "dia",
+      "label": "withheld the contract for eleven years"
+    },
+    "dia|skinwalkers-at-the-pentagon": {
+      "denialKind": "directed",
+      "denier": "dia",
+      "label": "no records located for the documents the book describes"
+    },
+    "immaculate-constellation|dod": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "DoD spokesperson Sue Gough: no record of any SAP by that name"
+    },
+    "shootdowns-feb-2023|sean-kirkpatrick": {
+      "denialKind": "directed",
+      "denier": "sean-kirkpatrick",
+      "label": "Retrospective 'they were balloons' characterisation contradicts the contemporaneous allied record"
+    },
+    "nj-drone-incursions-2024|dod": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "Four-agency joint statement of 17 December 2024"
+    },
+    "jon-kosloski|gofast-video": {
+      "denialKind": "directed",
+      "denier": "jon-kosloski",
+      "label": "AARO parallax reanalysis: no anomalous speed or flight characteristics"
+    },
+    "uss-reagan-2004|dod": {
+      "denialKind": "undirected",
+      "label": "Federal records destroyed at the point of creation"
+    },
+    "nicola-fox|mark-mcinerney": {
+      "denialKind": "directed",
+      "denier": "nicola-fox",
+      "label": "NASA announced the UAP research director but withheld the name at the briefing"
+    },
+    "pursue-releases|dod": {
+      "denialKind": "undirected",
+      "label": "Release volume without release quality"
+    },
+    "dod|tim-burchett": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "Denied members SCIF access to Grusch before the founding hearing"
+    },
+    "dod|house-oversight-committee": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs"
+    },
+    "dod|eric-burlison": {
+      "denialKind": "undirected",
+      "label": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025"
+    },
+    "dod|anna-paulina-luna": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "Missed the Task Force deadline for AARO UAP video files, prompting a subpoena threat"
+    },
+    "dod|eli-crane": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "Did not answer his 24 July 2025 letter on the reprisal against Grusch"
+    },
+    "dod|david-grusch": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "Clearance removal, denial of promotion and loss of medical retirement following his disclosure"
+    },
+    "aaro|anna-paulina-luna": {
+      "denialKind": "association",
+      "label": "Luna called former AARO director Kirkpatrick 'a documented liar' and AARO's channel a graveyard for testimony"
+    },
+    "sean-kirkpatrick|anna-paulina-luna": {
+      "denialKind": "association",
+      "label": "Kirkpatrick publicly attacked Task Force witnesses and members; Luna answered from the chair"
+    },
+    "dod|immaculate-constellation-12-page-report": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "Pentagon says it has no record of the program described in the document entered into the Congressional Record"
+    },
+    "mitre-corporation|house-oversight-committee": {
+      "denialKind": "directed",
+      "denier": "mitre-corporation",
+      "label": "Conditions any production on coordination with the sponsoring federal agencies"
+    },
+    "mike-turner|uapda-sec-9010-eminent-domain": {
+      "denialKind": "directed",
+      "denier": "mike-turner",
+      "label": "Named as demanding removal of the eminent domain provision"
+    },
+    "mike-turner|uap-records-review-board": {
+      "denialKind": "directed",
+      "denier": "mike-turner",
+      "label": "Named as demanding removal of the Board's subpoena power"
+    },
+    "mike-rogers-al|uapda-2023": {
+      "denialKind": "directed",
+      "denier": "mike-rogers-al",
+      "label": "Named as co-leading the effort to eliminate or alter the Act"
+    },
+    "mitch-mcconnell|uapda-2023": {
+      "denialKind": "directed",
+      "denier": "mitch-mcconnell",
+      "label": "Named as supporting the effort against the Act"
+    },
+    "chuck-schumer|ndaa-fy2024-subtitle-c": {
+      "denialKind": "association",
+      "label": "Publicly called the removal of the Review Board an outrage"
+    },
+    "uapda-2024-samdt-2610|iaa-fy2025-title-lxviii": {
+      "denialKind": "undirected",
+      "label": "Never called up; FY2025 enacted with no disclosure regime"
+    },
+    "ndaa-fy2024-subtitle-c|uap-records-review-board": {
+      "denialKind": "association",
+      "label": "Postponement authority returned to the original classifier"
+    },
+    "ndaa-fy2026|uapda-2023": {
+      "denialKind": "undirected",
+      "label": "Third consecutive Act enacted without the Senate's own passed text"
+    },
+    "house-intelligence|uap-records-review-board": {
+      "denialKind": "association",
+      "label": "The Board was designed to bypass the intelligence committees"
+    },
+    "uapda-sec-9010-eminent-domain|ndaa-fy2024": {
+      "denialKind": "undirected",
+      "label": "No enacted statute contains the eminent domain language"
+    },
+    "garry-reid-memo-2017|luis-elizondo": {
+      "denialKind": "directed",
+      "denier": "garry-reid-memo-2017",
+      "label": "'Aggrandized his role'; 'no job responsibilities related to the AATIP'"
+    },
+    "joseph-gradisher|dd-form-1910-2017": {
+      "denialKind": "directed",
+      "denier": "joseph-gradisher",
+      "label": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request"
+    },
+    "christopher-sherwood|luis-elizondo": {
+      "denialKind": "directed",
+      "denier": "christopher-sherwood",
+      "label": "1 June 2019: 'no responsibilities with regard to the AATIP program'"
+    },
+    "neill-tipton|luis-elizondo": {
+      "denialKind": "directed",
+      "denier": "neill-tipton",
+      "label": "7 May 2019 internal email: 'no assigned responsibilities for this program'"
+    },
+    "susan-gough|aatip": {
+      "denialKind": "directed",
+      "denier": "susan-gough",
+      "label": "6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'"
+    },
+    "susan-gough|christopher-sherwood": {
+      "denialKind": "directed",
+      "denier": "susan-gough",
+      "label": "Repudiated Sherwood's acknowledgement as 'not entirely fact-based'"
+    },
+    "ccdc-gvsc|joseph-cannon": {
+      "denialKind": "directed",
+      "denier": "ccdc-gvsc",
+      "label": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full"
+    },
+    "aaro-historical-record-vol1|aatip": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "March 2024: 'no evidence for the USG reverse-engineering narrative provided by interviewees'"
+    },
+    "aaro-historical-record-vol1|luis-elizondo": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "AARO's account of the 2008-2012 programs excludes his claimed role"
+    },
+    "mitre-corporation|burlison-mitre-letter-2026": {
+      "denialKind": "directed",
+      "denier": "mitre-corporation",
+      "label": "MITRE routes the answer back through its sponsoring agencies"
+    },
+    "pentacle-memorandum|robertson-panel": {
+      "denialKind": "association",
+      "label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals"
+    },
+    "ornl-metallic-specimen-report|aaro": {
+      "denialKind": "association",
+      "label": "The government's only published materials analysis, produced by a Battelle-operated laboratory"
+    },
+    "sean-kirkpatrick|david-grusch": {
+      "denialKind": "directed",
+      "denier": "sean-kirkpatrick",
+      "label": "'The central source of those allegations has refused to speak with AARO'"
+    },
+    "susan-gough|david-grusch": {
+      "denialKind": "directed",
+      "denier": "susan-gough",
+      "label": "Standing DoD denial: AARO has not discovered any verifiable information"
+    },
+    "susan-gough|hearing-2023-07-26": {
+      "denialKind": "directed",
+      "denier": "susan-gough",
+      "label": "Post-hearing statement rebutting the harm claims"
+    },
+    "aaro-historical-record-vol1|david-grusch": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "Formal DoD rebuttal: no firsthand knowledge, programs do not exist or were disestablished"
+    },
+    "pat-ryder|aaro-historical-record-vol1": {
+      "denialKind": "association",
+      "label": "Released and framed the report as 'the widest possible aperture'"
+    },
+    "icig|aaro": {
+      "denialKind": "association",
+      "label": "Irreconcilable executive-branch findings on the same allegations"
+    },
+    "mark-milley|david-grusch": {
+      "denialKind": "directed",
+      "denier": "mark-milley",
+      "label": "Chairman of the Joint Chiefs: no evidence of alien craft or coverup"
+    },
+    "nancy-mace|ken-klippenstein": {
+      "denialKind": "directed",
+      "denier": "nancy-mace",
+      "label": "Member of Congress characterizes the records leak as a discrediting operation"
+    },
+    "crane-dod-reprisal-letter|dod": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "No reply on the record as of 9 September 2025"
+    },
+    "christopher-mellon|aaro-historical-record-vol1": {
+      "denialKind": "association",
+      "label": "'The most error-ridden and unsatisfactory government report I can recall reading'"
+    },
+    "david-grusch|dia": {
+      "denialKind": "directed",
+      "denier": "dia",
+      "label": "Accuses DIA of obstructing congressional oversight by withholding documents"
+    },
+    "david-grusch|aaro": {
+      "denialKind": "directed",
+      "denier": "david-grusch",
+      "label": "Declined nine AARO interview approaches; missed the 14 November 2023 appointment"
+    },
+    "hoyt-vandenberg|estimate-of-the-situation": {
+      "denialKind": "directed",
+      "denier": "hoyt-vandenberg",
+      "label": "Vandenberg rejected the Estimate and ordered copies destroyed"
+    },
+    "roger-ramey|raaf-press-release-1947": {
+      "denialKind": "directed",
+      "denier": "roger-ramey",
+      "label": "Ramey retracted the disc announcement the same day"
+    },
+    "jesse-marcel|usaf-roswell-reports": {
+      "denialKind": "directed",
+      "denier": "usaf-roswell-reports",
+      "label": "The Air Force reports were produced to rebut Marcel's account"
+    },
+    "haines-cia-history|project-blue-book": {
+      "denialKind": "directed",
+      "denier": "project-blue-book",
+      "label": "CIA states the Air Force made misleading and deceptive public statements"
+    },
+    "aaro-historical-record-vol1|roswell-1947": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "AARO reaffirms MOGUL and finds no recovered extraterrestrial material"
+    },
+    "aaro-historical-record-vol1|gao-nsiad-95-187": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "AARO's legacy review does not address the documented records destruction"
+    },
+    "aaro-historical-record-vol1|project-sign": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "AARO finds SIGN, GRUDGE and Blue Book sightings were ordinary objects"
+    },
+    "project-blue-book|janap-146": {
+      "denialKind": "association",
+      "label": "The public statistics are the residue of a filter, not the corpus"
+    },
+    "nathan-twining|project-mogul": {
+      "denialKind": "association",
+      "label": "The AMC commander's 1947 assessment predates and undercuts the MOGUL account"
+    },
+    "rendlesham-1980|aaro-historical-record-vol1": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "AARO's 2024 historical review does not mention Rendlesham"
+    },
+    "sac-overflights-1975|aaro-historical-record-vol1": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "AARO's 2024 historical review does not address the 1975 nuclear-base overflights"
+    },
+    "project-moon-dust|aaro-historical-record-vol1": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "AARO's 2024 historical review does not mention MOON DUST or BLUE FLY"
+    },
+    "paul-bennewitz|aaro-historical-record-vol1": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "AARO's 2024 historical review makes no mention of Bennewitz, Doty, AFOSI or Kirtland"
+    },
+    "mj-12-documents|aaro-historical-record-vol1": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "AARO's 2024 review does not address MJ-12 or AQUARIUS"
+    },
+    "yeates-affidavit|caus-v-nsa": {
+      "denialKind": "directed",
+      "denier": "yeates-affidavit",
+      "label": "The affidavit is the instrument by which withholding was sustained"
+    },
+    "thomas-wilson|wilson-davis-memo": {
+      "denialKind": "directed",
+      "denier": "thomas-wilson",
+      "label": "Wilson denies the meeting and the substance attributed to him"
+    },
+    "wilson-davis-memo|aaro-historical-record-vol1": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson"
+    },
+    "cia-haines-1997|cia": {
+      "denialKind": "association",
+      "label": "CIA's own published history concedes the Air Force made deceptive public statements"
+    },
+    "cia-haines-1997|robertson-panel": {
+      "denialKind": "undirected",
+      "label": "CIA refused declassification and issued a sanitised version of the Robertson Panel report"
+    },
+    "yankee-blue|afosi": {
+      "denialKind": "directed",
+      "denier": "afosi",
+      "label": "AFOSI states it holds no records of any YANKEE BLUE investigation"
+    },
+    "yankee-blue|aaro": {
+      "denialKind": "undirected",
+      "label": "Pentagon spokesperson could not confirm the existence of the memo"
+    },
+    "kona-blue|cia": {
+      "denialKind": "directed",
+      "denier": "cia",
+      "label": "CIA alleged to have terminated the programme"
+    },
+    "pursue-releases|aaro": {
+      "denialKind": "association",
+      "label": "Release programme runs parallel to, not in place of, AARO reporting"
+    },
+    "nyt-2017-12-16|david-grusch": {
+      "denialKind": "directed",
+      "denier": "nyt-2017-12-16",
+      "label": "The New York Times did not publish the 2023 Grusch story"
+    },
+    "gerb-mitre-investigation|mitre-corporation": {
+      "denialKind": "directed",
+      "denier": "mitre-corporation",
+      "label": "Alleged 2011 restriction on historical briefings about program incumbents"
+    },
+    "uap-science-advisory-council|sol-foundation": {
+      "denialKind": "undirected",
+      "label": "Advisory seat conditioned on unclassified-only access"
+    },
+    "manhattan-project-2|ousdi": {
+      "denialKind": "undirected",
+      "label": "Non-Covert Action Programs alleged to carry waived reporting requirements"
+    },
+    "cia|lockheed-martin": {
+      "denialKind": "directed",
+      "denier": "cia",
+      "label": "CIA is alleged to have blocked the divestment of material from the contractor to BAASS"
+    },
+    "groom-lake-presidential-determination|eg-and-g": {
+      "denialKind": "directed",
+      "denier": "groom-lake-presidential-determination",
+      "label": "The state secrets defence shielded the contractor-operated facility from the workers' suit"
+    },
+    "project-bear|battelle": {
+      "denialKind": "undirected",
+      "label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover"
+    },
+    "aaro-historical-record-vol1|lockheed-martin": {
+      "denialKind": "directed",
+      "denier": "lockheed-martin",
+      "label": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record"
+    },
+    "aaro-fy2025-annual-report|lockheed-martin": {
+      "denialKind": "directed",
+      "denier": "aaro-fy2025-annual-report",
+      "label": "The 2026 official denial is maintained without any inspection of contractor holdings"
+    },
+    "aaro-metallic-specimen-analysis|ttsa": {
+      "denialKind": "directed",
+      "denier": "aaro-metallic-specimen-analysis",
+      "label": "ORNL assessed the privately held 'crash' specimen as terrestrial"
+    },
+    "hearing-2025-09-09|aaro": {
+      "denialKind": "association",
+      "label": "Witnesses testified AARO holds unreleased UAP video"
+    },
+    "nara-uap-records-collection|dod": {
+      "denialKind": "undirected",
+      "label": "No agency-by-agency compliance accounting is published"
+    },
+    "jon-kosloski|aaro-historical-record-vol2": {
+      "denialKind": "directed",
+      "denier": "jon-kosloski",
+      "label": "Promised publication 'within months' in November 2024"
+    },
+    "aaro-fy2025-annual-report|pursue-releases": {
+      "denialKind": "directed",
+      "denier": "aaro-fy2025-annual-report",
+      "label": "The statutory report never mentions the department's own release programme"
+    },
+    "aaro-fy2024-annual-report|pursue-release-02": {
+      "denialKind": "directed",
+      "denier": "aaro-fy2024-annual-report",
+      "label": "'Lack of timely and actionable sensor data' against 51 released sensor videos"
+    },
+    "aaro-declassification-info-paper-2025|pursue-releases": {
+      "denialKind": "association",
+      "label": "Process described as immovable was moved by cabinet direction in weeks"
+    },
+    "aaro-historical-record-vol1|hearing-2024-11-13": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "Volume I's 'no NDAs' finding against Elizondo's sworn SCIF testimony"
+    },
+    "dodig-2023-109|dod": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "The full IG report on DoD's UAP handling remains classified"
+    },
+    "immaculate-constellation-12-page-report|aaro-fy2025-annual-report": {
+      "denialKind": "directed",
+      "denier": "aaro-fy2025-annual-report",
+      "label": "No AARO product has ever addressed the name in the Record"
+    },
+    "sue-gough|immaculate-constellation-12-page-report": {
+      "denialKind": "directed",
+      "denier": "sue-gough",
+      "label": "Department says it has no record of the programme"
+    },
+    "sean-kirkpatrick|immaculate-constellation-12-page-report": {
+      "denialKind": "directed",
+      "denier": "sean-kirkpatrick",
+      "label": "Former AARO director denied the programme's existence"
+    },
+    "gulf-of-oman-ac130j-2021|aaro-fy2024-annual-report": {
+      "denialKind": "directed",
+      "denier": "aaro-fy2024-annual-report",
+      "label": "A 2021 gunship engagement absent from the reporting periods that cover it"
+    },
+    "uap-science-advisory-council|d-custody": {
+      "denialKind": "association",
+      "label": "No budget, no classified access - constitutionally unable to reach the material"
+    },
+    "nasa-uapist|d-custody": {
+      "denialKind": "directed",
+      "denier": "nasa-uapist",
+      "label": "Concluded data was insufficient - having been given only the unclassified record"
+    },
+    "aaro-historical-record-vol1|yankee-blue": {
+      "denialKind": "directed",
+      "denier": "aaro-historical-record-vol1",
+      "label": "Volume I found 'no NDAs that contain information related to UAP' - contradicted by the Yankee Blue record"
+    },
+    "susan-gough|yankee-blue": {
+      "denialKind": "directed",
+      "denier": "susan-gough",
+      "label": "named DoD spokeswoman who confirmed the fake-programme findings would be deferred to Volume II"
+    },
+    "aaro-grusch-interview-memo-2024|david-grusch": {
+      "denialKind": "directed",
+      "denier": "aaro-grusch-interview-memo-2024",
+      "label": "AARO concluded Grusch 'had no intention of providing AARO with information'"
+    },
+    "kirkpatrick-sciam-oped-2024|luis-elizondo": {
+      "denialKind": "directed",
+      "denier": "kirkpatrick-sciam-oped-2024",
+      "label": "attributes the crash-retrieval narrative to AATIP and the Bigelow circle"
+    },
+    "kirkpatrick-sciam-oped-2024|robert-bigelow": {
+      "denialKind": "directed",
+      "denier": "kirkpatrick-sciam-oped-2024",
+      "label": "names Bigelow as the seeding influence behind the modern belief system"
+    },
+    "hearing-2024-11-19|immaculate-constellation": {
+      "denialKind": "directed",
+      "denier": "hearing-2024-11-19",
+      "label": "Kosloski's statement for the record does not mention Immaculate Constellation"
+    },
+    "aaro|immaculate-constellation": {
+      "denialKind": "directed",
+      "denier": "aaro",
+      "label": "AARO has never publicly addressed the alleged programme entered into the congressional record"
+    },
+    "aaro-historical-record-vol2|aaro": {
+      "denialKind": "directed",
+      "denier": "aaro",
+      "label": "the office has not published the volume it committed to for over two years"
+    },
+    "ev-varginha-1996|roswell-report-case-closed": {
+      "denialKind": "association",
+      "label": "Two official inquiries that explained the recovery activity without producing the logs"
+    },
+    "dod-sapco|oversight-congress": {
+      "denialKind": "association",
+      "label": "Contractor disclosure to Congress requires the approval of the office being disclosed about"
+    },
+    "david-grusch|dod-sapco": {
+      "denialKind": "association",
+      "label": "The office that must approve any contractor's provision of SAP material to Congress"
+    },
+    "dird-high-frequency-gravitational-wave-communications|jason-advisory-group": {
+      "denialKind": "directed",
+      "denier": "jason-advisory-group",
+      "label": "JASON found the underlying physics wrong two years before DIA published the DIRD"
+    },
+    "aztec-1948|dod": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "Air Force denials of Hangar 18 bodies"
+    },
+    "hegseth-uap-statements-2026|trump-truth-social-post-2026-02-20": {
+      "denialKind": "association",
+      "label": "characterises a social-media post as an executive order"
+    },
+    "odni-memo-es-2026-00818|cia": {
+      "denialKind": "directed",
+      "denier": "cia",
+      "label": "directed to release; absent from the statutory archive"
+    },
+    "odni-memo-es-2026-00818|dia": {
+      "denialKind": "directed",
+      "denier": "dia",
+      "label": "directed to release; absent from the statutory archive"
+    },
+    "odni-memo-es-2026-00818|nro": {
+      "denialKind": "directed",
+      "denier": "nro",
+      "label": "directed to release; absent from the statutory archive"
+    },
+    "odni-memo-es-2026-00818|doe": {
+      "denialKind": "directed",
+      "denier": "doe",
+      "label": "directed to release; absent from the statutory archive"
+    },
+    "james-clapper|waived-usap": {
+      "denialKind": "directed",
+      "denier": "james-clapper",
+      "label": "USD(I) recommendation against SAP status for the AAWSAP effort, November 2009"
+    },
+    "dhs|kona-blue": {
+      "denialKind": "directed",
+      "denier": "dhs",
+      "label": "DHS Deputy Secretary disapproved and terminated KONA BLUE approximately six months later"
+    },
+    "doe|nara-uap-collection": {
+      "denialKind": "directed",
+      "denier": "doe",
+      "label": "DOE produced nothing for the first statutory UAP records transfer"
+    },
+    "nsa|caus-v-nsa": {
+      "denialKind": "directed",
+      "denier": "nsa",
+      "label": "NSA withheld its UFO holdings in full and won on an in camera affidavit"
+    },
+    "us-house|dod": {
+      "denialKind": "directed",
+      "denier": "dod",
+      "label": "Committee finding of non-cooperation by DoD and the IC"
+    },
+    "nga|nara-uap-collection": {
+      "denialKind": "directed",
+      "denier": "nga",
+      "label": "Named 2021 UAP contributor that produced nothing for the statutory collection"
+    },
+    "dia|nara-uap-collection": {
+      "denialKind": "directed",
+      "denier": "dia",
+      "label": "Produced no records for the first statutory UAP transfer"
+    },
+    "cia|nara-uap-collection": {
+      "denialKind": "directed",
+      "denier": "cia",
+      "label": "Produced no records for the first statutory UAP transfer"
+    },
+    "nsa|nara-uap-collection": {
+      "denialKind": "directed",
+      "denier": "nsa",
+      "label": "Produced no records for the first statutory UAP transfer"
+    },
+    "nro|nara-uap-collection": {
+      "denialKind": "directed",
+      "denier": "nro",
+      "label": "Produced no records for the first statutory UAP transfer"
+    },
+    "dhs|nara-uap-collection": {
+      "denialKind": "directed",
+      "denier": "dhs",
+      "label": "Produced no records for the first statutory UAP transfer"
+    },
+    "aaro|grusch-misappropriation-allegation": {
+      "denialKind": "directed",
+      "denier": "aaro",
+      "label": "AARO's reports address the retrieval claims and say nothing about the funding claims"
+    },
+    "nick-pope|ev-uk-ufo-desk-closure": {
+      "denialKind": "association",
+      "label": "principal public critic of the 2009 closure"
+    },
+    "doc-condign-vol3|uk-mod": {
+      "denialKind": "directed",
+      "denier": "uk-mod",
+      "label": "records a flat denial of any US/Canada exchange, then redacts four lines"
+    },
+    "otavio-moreira-lima|ev-noite-ovnis-1986": {
+      "denialKind": "directed",
+      "denier": "otavio-moreira-lima",
+      "label": "held the 23 May 1986 press conference stating the Air Force had no explanation"
+    },
+    "ev-varginha-capitol-2026|aaro": {
+      "denialKind": "directed",
+      "denier": "aaro",
+      "label": "AARO's 2024 negative finding is the standing counter-position"
+    },
+    "bolender-memo|l-wright-patterson": {
+      "denialKind": "directed",
+      "denier": "bolender-memo",
+      "label": "The Bolender memo closed the base's public reporting channel while conceding another existed"
+    },
+    "roger-ramey|roswell-1947": {
+      "denialKind": "directed",
+      "denier": "roger-ramey",
+      "label": "Ramey retracted the RAAF statement the same day at Fort Worth"
+    },
+    "project-mogul|roswell-1947": {
+      "denialKind": "directed",
+      "denier": "project-mogul",
+      "label": "Mogul is the Air Force's 1994 identification of the debris"
+    },
+    "luis-elizondo|immaculate-constellation": {
+      "denialKind": "directed",
+      "denier": "luis-elizondo",
+      "label": "Elizondo declined to confirm or deny the programme by name or trigraph"
+    },
+    "susan-gough|immaculate-constellation": {
+      "denialKind": "directed",
+      "denier": "susan-gough",
+      "label": "The Department's response is a records assertion, not a denial of existence"
+    },
+    "sean-kirkpatrick|immaculate-constellation": {
+      "denialKind": "directed",
+      "denier": "sean-kirkpatrick",
+      "label": "The former AARO director denied the programme exists"
+    },
+    "low-memo|l-boulder-co": {
+      "denialKind": "directed",
+      "denier": "low-memo",
+      "label": "The Low memo shows the conclusion was framed before the study began"
+    },
+    "condon-committee|project-blue-book": {
+      "denialKind": "directed",
+      "denier": "condon-committee",
+      "label": "The Condon report was the stated basis for terminating Blue Book"
+    },
+    "glenn-dennis|roswell-report-case-closed": {
+      "denialKind": "directed",
+      "denier": "roswell-report-case-closed",
+      "label": "The 1997 report dismantled the 'missing nurse' account by name"
+    },
+    "jim-ragsdale|roswell-report-case-closed": {
+      "denialKind": "directed",
+      "denier": "roswell-report-case-closed",
+      "label": "Ragsdale's own words were used to support the dummy explanation"
+    },
+    "richard-weaver-usaf|kevin-randle": {
+      "denialKind": "directed",
+      "denier": "richard-weaver-usaf",
+      "label": "The Air Force reports were the institutional response to the Randle-Schmitt books"
+    },
+    "roswell-report-case-closed|plains-san-agustin-1947": {
+      "denialKind": "directed",
+      "denier": "roswell-report-case-closed",
+      "label": "Air Force proposes San Agustin Pass confusion and dummy recoveries"
+    },
+    "cash-v-united-states|betty-cash": {
+      "denialKind": "undirected",
+      "label": "The United States denied ownership of the object and the aircraft"
+    },
+    "minot-1968|project-blue-book": {
+      "denialKind": "directed",
+      "denier": "project-blue-book",
+      "label": "Blue Book declined to field-investigate an instrumented nuclear-site case"
+    },
+    "william-l-moore|kevin-randle": {
+      "denialKind": "association",
+      "label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12"
+    },
+    "stanton-friedman|kevin-randle": {
+      "denialKind": "association",
+      "label": "Unresolved dispute over MJ-12 authenticity"
+    },
+    "carve-out|dodd-5205-07-2024": {
+      "denialKind": "association",
+      "label": "Still cited by regulation, no longer defined by the directive it cites"
+    },
+    "dodd-5205-07-2024|sap-taxonomy": {
+      "denialKind": "directed",
+      "denier": "dodd-5205-07-2024",
+      "label": "The 2024 reissue deletes acknowledged, unacknowledged, waived and carve-out from the definitions"
+    },
+    "waived-usap-mechanism|sap-annual-report": {
+      "denialKind": "association",
+      "label": "A waived program is precisely a program removed from the annual report"
+    },
+    "accm|usc-10-119": {
+      "denialKind": "association",
+      "label": "ACCM sits below the definitional trigger of every SAP reporting statute"
+    },
+    "odni-capco|isoo": {
+      "denialKind": "association",
+      "label": "ISOO requests about IC controlled access programs are routed through CAPCO"
+    },
+    "dod-oig|dodm-5205-07-v1": {
+      "denialKind": "association",
+      "label": "SAP fraud and abuse complaints must not use collateral reporting channels"
+    },
+    "d-coverup|d-denial": {
+      "denialKind": "association",
+      "label": "Denial is the public face of concealment"
+    },
+    "d-contractor|d-foia": {
+      "denialKind": "association",
+      "label": "Contractor records are outside the statute"
+    },
+    "d-aerospace|d-coverup": {
+      "denialKind": "association",
+      "label": "Black aircraft generated real cover stories"
+    },
+    "d-signals|d-foia": {
+      "denialKind": "association",
+      "label": "Exemption 3 and the Glomar posture"
+    },
+    "d-roswell|d-denial": {
+      "denialKind": "association",
+      "label": "Four official explanations for one event"
+    },
+    "aaro-fy2025-annual-report|dod": {
+      "denialKind": "directed",
+      "denier": "aaro-fy2025-annual-report",
+      "label": "'No evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials'"
+    },
+    "aaro-fy2025-annual-report|americans-for-safe-aerospace": {
+      "denialKind": "directed",
+      "denier": "aaro-fy2025-annual-report",
+      "label": "'AARO did not receive reports indicating flight safety concerns during this reporting period'"
+    },
+    "sean-kirkpatrick|kirkpatrick-sciam-oped-2024": {
+      "denialKind": "directed",
+      "denier": "sean-kirkpatrick",
+      "label": "Bylined attribution of the allegations to circular reporting and unsupported belief"
+    },
+    "aaro-fy2025-annual-report|aaro-2026-posture": {
+      "denialKind": "directed",
+      "denier": "aaro-fy2025-annual-report",
+      "label": "no evidence of captured or exploited UAP materials, while writing custody procedures for them"
+    },
+    "dodig-2021-000806-foia|pursue-releases": {
+      "denialKind": "undirected",
+      "label": "imagery released, methodology withheld"
+    },
+    "pursue-releases|aaro-historical-record-vol2": {
+      "denialKind": "association",
+      "label": "sixteen gigabytes released, one promised report unpublished"
+    },
+    "aurora-budget-line|usaf": {
+      "denialKind": "directed",
+      "denier": "usaf",
+      "label": "an Air Force spokesman calls Aurora classified after the Pentagon published its figures"
+    },
+    "peter-merlin|tr-3b": {
+      "denialKind": "directed",
+      "denier": "peter-merlin",
+      "label": "published refutation of the Fouche account and its documents"
+    },
+    "peter-merlin|fouche-military-documents": {
+      "denialKind": "directed",
+      "denier": "peter-merlin",
+      "label": "reads the 1984 letter as an unclassified personnel document"
+    },
+    "testors-sr-75-kit|tr-3b": {
+      "denialKind": "association",
+      "label": "prior art: the designation is a 1993 model kit's, five years earlier"
+    },
+    "northrop-tacit-blue|tr-3b": {
+      "denialKind": "association",
+      "label": "control case: the documented black programme of the period is a different shape"
+    },
+    "tr-3b|darpa": {
+      "denialKind": "association",
+      "label": "the DARPA attribution rests on a letter from a personnel directorate"
+    },
+    "tom-mahood|s-4-papoose-lake": {
+      "denialKind": "directed",
+      "denier": "tom-mahood",
+      "label": "the counter-explanation that the real S-4 is a radar site"
+    },
+    "stanton-friedman|s-4-papoose-lake": {
+      "denialKind": "directed",
+      "denier": "stanton-friedman",
+      "label": "investigated and rejected the S-4 account"
+    },
+    "stanton-friedman|bob-lazar": {
+      "denialKind": "directed",
+      "denier": "stanton-friedman",
+      "label": "checked the claimed credentials and found no record"
+    },
+    "tom-mahood|bob-lazar": {
+      "denialKind": "directed",
+      "denier": "tom-mahood",
+      "label": "published credential and site research against the account"
+    },
+    "tom-mahood|element-115-claim": {
+      "denialKind": "directed",
+      "denier": "tom-mahood",
+      "label": "against the element 115 claim specifically"
+    },
+    "lazar-clark-county-1990|bob-lazar": {
+      "denialKind": "association",
+      "label": "a court record whose existence tells against the self-account; nobody's act of denial"
+    }
   }
- }
 }

@@ -239,7 +239,7 @@
 "label": "TR-3B 'Astra', claimed black triangular aircraft"
 },
 "claimTier": 1,
-"denialKind": null,
+"denialKind": "association",
 "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
 "note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
 "of": {

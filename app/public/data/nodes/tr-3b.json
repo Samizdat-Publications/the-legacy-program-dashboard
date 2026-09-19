@@ -322,7 +322,7 @@
 "label": "Northrop TACIT BLUE"
 },
 "claimTier": 1,
-"denialKind": null,
+"denialKind": "association",
 "label": "The real black-programme aircraft of the period is 48 feet across and curved, not a 200 to 600 foot triangle",
 "note": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
 "of": {
@@ -343,7 +343,7 @@
 "label": "Peter W. Merlin"
 },
 "claimTier": 2,
-"denialKind": null,
+"denialKind": "directed",
 "label": "Named aerospace historian; four falsifiable specifics against the claimant's evidence",
 "note": "'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record.",
 "of": {
@@ -364,7 +364,7 @@
 "label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993"
 },
 "claimTier": 3,
-"denialKind": null,
+"denialKind": "association",
 "label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
 "note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
 "of": {
@@ -390,7 +390,7 @@
 "label": "TR-3B 'Astra', claimed black triangular aircraft"
 },
 "claimTier": 1,
-"denialKind": null,
+"denialKind": "association",
 "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
 "note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
 "of": {

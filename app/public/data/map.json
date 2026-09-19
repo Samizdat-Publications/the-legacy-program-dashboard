@@ -414,7 +414,7 @@
   },
   {
    "by": "darpa",
-   "kind": "undirected",
+   "kind": "association",
    "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
    "of": "tr-3b"
   },
@@ -5161,7 +5161,7 @@
    "tier": "B"
   }
  ],
- "source": "a6b9f1659658",
+ "source": "4aaef0272336",
  "summarised": [
   {
    "a": "aaro",

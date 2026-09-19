@@ -412,7 +412,7 @@
 "label": "Clark County, Nevada felony pandering file, 1990 and 1996"
 },
 "claimTier": 1,
-"denialKind": null,
+"denialKind": "association",
 "label": "The court file contradicts his own credential account, in his own reported words",
 "note": "THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour.",
 "of": {
@@ -433,7 +433,7 @@
 "label": "Stanton T. Friedman"
 },
 "claimTier": 2,
-"denialKind": null,
+"denialKind": "directed",
 "label": "Credential investigation: located Duxler at Pierce, found no institutional record",
 "note": "'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s.",
 "of": {
@@ -454,7 +454,7 @@
 "label": "Tom Mahood"
 },
 "claimTier": 2,
-"denialKind": null,
+"denialKind": "directed",
 "label": "The most detailed documentary examination of the account, 1990s and 2018",
 "note": "'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one.",
 "of": {
