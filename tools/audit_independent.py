@@ -52,11 +52,39 @@ def main():
     ck("no dangling edges", dangling, 0)
 
     STRUCT = {"institution", "program", "event", "legislation", "document"}
-    l0 = {n["id"] for n in nodes if n["cls"] in STRUCT and len(adj[n["id"]]) >= 6}
+
+    # The floor ALONE stopped describing L0 on 19 September 2026, when membership
+    # became a BUDGET as well: the floor grew monotonically as research added edges
+    # and the top-level map fell out of label mode at 1920. See build_l0.py.
+    #
+    # These two constants are RESTATED here on purpose and are NOT imported. This
+    # file's whole value is that it re-derives the specification from scratch, so
+    # that a bug in the builder cannot hide by being agreed with. Restating a rule
+    # is the cost of that, and it is the point: when these disagree, one of the two
+    # is wrong and the reader sees the model.
+    FLOOR_A, BUDGET_A = 6, 135
+
+    eligible = [n["id"] for n in nodes
+                if n["cls"] in STRUCT and len(adj[n["id"]]) >= FLOOR_A]
+    hl_path = os.path.join(ROOT, "data", "l0-highlights.json")
+    hl_a = []
+    if os.path.exists(hl_path):
+        hl_a = [f.get("id") for f in
+                (json.load(open(hl_path, encoding="utf-8")) or {}).get("flags") or []
+                if isinstance(f, dict) and f.get("id")]
+    if len(eligible) <= BUDGET_A:
+        l0 = set(eligible)
+    else:
+        # Compete on degree; ties break on file order, as the builder does.
+        pos = {nid: k for k, nid in enumerate(eligible)}
+        ranked = sorted(eligible, key=lambda i: (-len(adj[i]), pos[i]))
+        # Highlights are admitted by right, so C11 cannot be broken by growth.
+        l0 = set(ranked[:BUDGET_A]) | (set(hl_a) & set(eligible))
 
     model = json.load(open(os.path.join(ROOT, "data", "l0-model.json"), encoding="utf-8"))
     c = model["counts"]
-    ck("L0 node count", c["l0"], len(l0), "floor = distinct neighbours >= 6")
+    ck("L0 node count", c["l0"], len(l0),
+       f"floor = distinct neighbours >= {FLOOR_A}, budget = {BUDGET_A}, highlights by right")
     ck("L0 set identity", sorted(n["id"] for n in model["l0"]), sorted(l0),
        "the exact membership, not just the count")
 
