@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": "retrieval",
+"band": null,
 "claims": [
 {
 "source": "Title and copyright pages of the original printings, scanned at the Internet Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
@@ -41,7 +41,7 @@
 "direction": "out",
 "edgeLabel": "Stringfield revived Aztec as a real retrieval in the late 1970s",
 "id": "aztec-1948",
-"l0": true,
+"l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "After two decades in which ufologists treated Aztec as dead, Stringfield argued the incident was real and that the craft was one of many held by the US military; Status Report V lists Aztec alongside Roswell, Kingman, El Yunque and Brown County.",
 "sources": [
@@ -292,41 +292,10 @@
 },
 "hl": null,
 "id": "stringfield-status-reports",
-"l0": true,
+"l0": false,
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "clear-intent-1984",
-"label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
-"tier": "C"
-},
-{
-"cls": "event",
-"id": "del-rio-1950",
-"label": "Del Rio / Mexican border claim, 1948 or 1950",
-"tier": "C"
-},
-{
-"cls": "event",
-"id": "kingman-1953",
-"label": "Kingman, Arizona claim, 1953",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "leonard-stringfield",
-"label": "Leonard H. Stringfield",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "majic-eyes-only",
-"label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
-"tier": "C"
-}
-],
+"members": null,
 "short": "UFO Crash/Retrieval Reports I-VII",
 "sources": [
 {

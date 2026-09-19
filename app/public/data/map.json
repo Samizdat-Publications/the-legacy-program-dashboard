@@ -1,12 +1,12 @@
 {
  "bands": [
   {
-   "id": "reverse-engineering",
-   "label": "reverse engineering"
-  },
-  {
    "id": "retrieval",
    "label": "retrieval"
+  },
+  {
+   "id": "reverse-engineering",
+   "label": "reverse engineering"
   },
   {
    "id": "custody",
@@ -21,21 +21,19 @@
    "label": "oversight"
   },
   {
-   "id": "research",
-   "label": "research"
-  },
-  {
    "id": "disclosure",
    "label": "disclosure"
+  },
+  {
+   "id": "research",
+   "label": "research"
   }
  ],
  "cells": {
   "custody.0": [
-   "afswc-tr-59-39",
    "atic",
    "atomic-energy-commission",
    "battelle",
-   "defense-support-program",
    "eg-and-g",
    "fab",
    "lanl",
@@ -48,8 +46,6 @@
   "custody.1": [
    "disclosure-project",
    "dod-sapco",
-   "ev-noite-ovnis-1986",
-   "klas-tv",
    "mj-12-documents",
    "operacao-prato",
    "sac-overflights-1975",
@@ -66,7 +62,6 @@
   "custody.3": [
    "aaro",
    "burlison-mitre-letter-2026",
-   "gerb-mitre-investigation",
    "nara-rg615",
    "nara-uap-collection",
    "pursue-releases",
@@ -78,12 +73,10 @@
    "wayne-state-university"
   ],
   "disclosure.0": [
-   "malmstrom-echo-flight-1967",
    "nsa",
    "operation-northwoods"
   ],
   "disclosure.1": [
-   "roswell-report-case-closed",
    "yankee-blue"
   ],
   "disclosure.2": [
@@ -98,7 +91,6 @@
    "nro",
    "rand-corporation",
    "senate-armed-services",
-   "sri-international",
    "us-house"
   ],
   "funding.1": [
@@ -113,13 +105,10 @@
    "waived-usap-mechanism"
   ],
   "funding.2": [
-   "dodi-5205-11",
-   "nip",
-   "university-at-albany"
+   "dodi-5205-11"
   ],
   "funding.3": [
    "dod-agencywide-audit",
-   "grusch-misappropriation-allegation",
    "hearing-2023-07-26",
    "iaa-fy2024-7343",
    "ndaa-fy2024",
@@ -176,8 +165,7 @@
    "doc-condign-vol3",
    "geipan",
    "millis-tm-2004-213082",
-   "odni",
-   "pais-patent-imrd"
+   "odni"
   ],
   "research.3": [
    "aaro-fy2025-annual-report",
@@ -199,7 +187,6 @@
   ],
   "retrieval.0": [
    "afosi",
-   "aztec-1948",
    "cia",
    "dod",
    "roswell-1947",
@@ -207,8 +194,7 @@
   ],
   "retrieval.1": [
    "gao-nsiad-95-187",
-   "rendlesham-1980",
-   "stringfield-status-reports"
+   "rendlesham-1980"
   ],
   "retrieval.3": [
    "hearing-2025-09-09",
@@ -248,12 +234,6 @@
    "kind": "directed",
    "label": "the office has not published the volume it committed to for over two years",
    "of": "aaro-historical-record-vol2"
-  },
-  {
-   "by": "aaro",
-   "kind": "directed",
-   "label": "AARO's reports address the retrieval claims and say nothing about the funding claims",
-   "of": "grusch-misappropriation-allegation"
   },
   {
    "by": "aaro",
@@ -444,12 +424,6 @@
   {
    "by": "dod",
    "kind": "directed",
-   "label": "Air Force denials of Hangar 18 bodies",
-   "of": "aztec-1948"
-  },
-  {
-   "by": "dod",
-   "kind": "directed",
    "label": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
    "of": "house-oversight-committee"
   },
@@ -518,12 +492,6 @@
    "kind": "directed",
    "label": "MITRE routes the answer back through its sponsoring agencies",
    "of": "burlison-mitre-letter-2026"
-  },
-  {
-   "by": "mitre-corporation",
-   "kind": "directed",
-   "label": "Alleged 2011 restriction on historical briefings about program incumbents",
-   "of": "gerb-mitre-investigation"
   },
   {
    "by": "mitre-corporation",
@@ -614,14 +582,6 @@
    "tier": 1,
    "types": [
     "investigative"
-   ]
-  },
-  {
-   "a": "aaro",
-   "b": "grusch-misappropriation-allegation",
-   "tier": 1,
-   "types": [
-    "denial"
    ]
   },
   {
@@ -1027,14 +987,6 @@
   },
   {
    "a": "aawsap",
-   "b": "klas-tv",
-   "tier": 2,
-   "types": [
-    "custody"
-   ]
-  },
-  {
-   "a": "aawsap",
    "b": "kona-blue",
    "tier": 1,
    "types": [
@@ -1104,30 +1056,6 @@
    "tier": 1,
    "types": [
     "denial"
-   ]
-  },
-  {
-   "a": "afswc-tr-59-39",
-   "b": "darpa",
-   "tier": 1,
-   "types": [
-    "custody"
-   ]
-  },
-  {
-   "a": "afswc-tr-59-39",
-   "b": "sandia",
-   "tier": 1,
-   "types": [
-    "custody"
-   ]
-  },
-  {
-   "a": "afswc-tr-59-39",
-   "b": "usaf",
-   "tier": 1,
-   "types": [
-    "programmatic"
    ]
   },
   {
@@ -1226,30 +1154,6 @@
    "tier": 1,
    "types": [
     "custody"
-   ]
-  },
-  {
-   "a": "aztec-1948",
-   "b": "dod",
-   "tier": 2,
-   "types": [
-    "denial"
-   ]
-  },
-  {
-   "a": "aztec-1948",
-   "b": "roswell-1947",
-   "tier": 2,
-   "types": [
-    "behavioral"
-   ]
-  },
-  {
-   "a": "aztec-1948",
-   "b": "stringfield-status-reports",
-   "tier": 2,
-   "types": [
-    "research"
    ]
   },
   {
@@ -1602,30 +1506,6 @@
    ]
   },
   {
-   "a": "defense-support-program",
-   "b": "eo-13526",
-   "tier": 1,
-   "types": [
-    "legislative"
-   ]
-  },
-  {
-   "a": "defense-support-program",
-   "b": "the-black-vault",
-   "tier": 1,
-   "types": [
-    "investigative"
-   ]
-  },
-  {
-   "a": "defense-support-program",
-   "b": "usaf",
-   "tier": 1,
-   "types": [
-    "institutional"
-   ]
-  },
-  {
    "a": "dia",
    "b": "dird-antigravity-for-aerospace-applications",
    "tier": 1,
@@ -1868,14 +1748,6 @@
    ]
   },
   {
-   "a": "dod-agencywide-audit",
-   "b": "grusch-misappropriation-allegation",
-   "tier": 3,
-   "types": [
-    "research"
-   ]
-  },
-  {
    "a": "dod-sapco",
    "b": "ousdi",
    "tier": 2,
@@ -2006,22 +1878,6 @@
    ]
   },
   {
-   "a": "ev-noite-ovnis-1986",
-   "b": "fab",
-   "tier": 1,
-   "types": [
-    "programmatic"
-   ]
-  },
-  {
-   "a": "ev-noite-ovnis-1986",
-   "b": "senado-brasil",
-   "tier": 1,
-   "types": [
-    "legislative"
-   ]
-  },
-  {
    "a": "fab",
    "b": "operacao-prato",
    "tier": 1,
@@ -2059,31 +1915,6 @@
    "tier": 1,
    "types": [
     "research"
-   ]
-  },
-  {
-   "a": "gerb-mitre-investigation",
-   "b": "mitre-corporation",
-   "tier": 2,
-   "types": [
-    "denial",
-    "institutional"
-   ]
-  },
-  {
-   "a": "gerb-mitre-investigation",
-   "b": "rand-corporation",
-   "tier": 2,
-   "types": [
-    "institutional"
-   ]
-  },
-  {
-   "a": "grusch-misappropriation-allegation",
-   "b": "house-oversight-committee",
-   "tier": 1,
-   "types": [
-    "witness-chain"
    ]
   },
   {
@@ -2142,14 +1973,6 @@
    "tier": 1,
    "types": [
     "institutional"
-   ]
-  },
-  {
-   "a": "hearing-2025-09-09",
-   "b": "klas-tv",
-   "tier": 1,
-   "types": [
-    "witness-chain"
    ]
   },
   {
@@ -2267,14 +2090,6 @@
   },
   {
    "a": "inscom",
-   "b": "sri-international",
-   "tier": 1,
-   "types": [
-    "funding"
-   ]
-  },
-  {
-   "a": "inscom",
    "b": "waived-usap",
    "tier": 3,
    "types": [
@@ -2359,14 +2174,6 @@
    "tier": 1,
    "types": [
     "institutional"
-   ]
-  },
-  {
-   "a": "malmstrom-echo-flight-1967",
-   "b": "sac-overflights-1975",
-   "tier": 1,
-   "types": [
-    "temporal"
    ]
   },
   {
@@ -2756,14 +2563,6 @@
    ]
   },
   {
-   "a": "pais-patent-imrd",
-   "b": "us-navy",
-   "tier": 1,
-   "types": [
-    "institutional"
-   ]
-  },
-  {
    "a": "paper-nolan-vallee-2022",
    "b": "sol-foundation",
    "tier": 1,
@@ -2870,14 +2669,6 @@
    ]
   },
   {
-   "a": "sri-international",
-   "b": "stargate-program",
-   "tier": 2,
-   "types": [
-    "research"
-   ]
-  },
-  {
    "a": "ttsa",
    "b": "ttsa-army-crada",
    "tier": 1,
@@ -2955,7 +2746,6 @@
     "sandia",
     "kona-blue",
     "lockheed-skunk-works",
-    "afswc-tr-59-39",
     "darpa",
     "lockheed-martin",
     "nasa",
@@ -2964,7 +2754,6 @@
     "arquivo-nacional-ufo",
     "operacao-prato",
     "dird-antigravity-for-aerospace-applications",
-    "klas-tv",
     "aawsap",
     "rendlesham-1980",
     "odni-memo-es-2026-00818",
@@ -2977,12 +2766,10 @@
     "fab",
     "immaculate-constellation",
     "immaculate-constellation-12-page-report",
-    "malmstrom-echo-flight-1967",
-    "aztec-1948",
     "carve-out"
    ],
    "label": "The custody chain",
-   "onMap": 56,
+   "onMap": 52,
    "total": 204
   },
   {
@@ -3007,10 +2794,8 @@
     "yankee-blue",
     "kona-blue",
     "nyt-2017-12-16",
-    "gerb-mitre-investigation",
     "uap-science-advisory-council",
     "manhattan-project-2",
-    "defense-support-program",
     "church-committee",
     "nicap",
     "cia",
@@ -3024,7 +2809,6 @@
     "tr-3b",
     "aaro-historical-record-vol2",
     "dod-sapco",
-    "aztec-1948",
     "odni-memo-es-2026-00818",
     "doe",
     "nsa",
@@ -3032,12 +2816,11 @@
     "nro",
     "doc-condign-vol3",
     "condon-committee",
-    "roswell-report-case-closed",
     "carve-out",
     "waived-usap-mechanism"
    ],
    "label": "Who denied what",
-   "onMap": 46,
+   "onMap": 42,
    "total": 156
   },
   {
@@ -3053,11 +2836,10 @@
     "operacao-prato",
     "arquivo-nacional-ufo",
     "doc-condign-report",
-    "ev-noite-ovnis-1986",
     "senado-brasil"
    ],
    "label": "The foreign counter-examples",
-   "onMap": 11,
+   "onMap": 10,
    "total": 11
   },
   {
@@ -3084,7 +2866,6 @@
    "id": "money",
    "ids": [
     "aawsap",
-    "nip",
     "dod-agencywide-audit",
     "classified-annex",
     "aatip",
@@ -3092,7 +2873,7 @@
     "earthtech-international"
    ],
    "label": "Follow the money",
-   "onMap": 7,
+   "onMap": 6,
    "total": 11
   },
   {
@@ -3287,21 +3068,6 @@
    "tier": "A"
   },
   {
-   "A": 1,
-   "C": 3,
-   "D": 2,
-   "band": "custody",
-   "cls": "document",
-   "cluster": "research",
-   "dateStart": "1959-06-19",
-   "era": "0",
-   "hl": null,
-   "id": "afswc-tr-59-39",
-   "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
-   "short": "AFSWC TR-59-39 Lunar Research Flights",
-   "tier": "A"
-  },
-  {
    "A": 0,
    "C": 0,
    "D": 3,
@@ -3374,21 +3140,6 @@
    "id": "atomic-energy-commission",
    "label": "Atomic Energy Commission",
    "short": "Atomic Energy Commission",
-   "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 3,
-   "D": 2,
-   "band": "retrieval",
-   "cls": "event",
-   "cluster": "other",
-   "dateStart": "1948-03",
-   "era": "0",
-   "hl": null,
-   "id": "aztec-1948",
-   "label": "Aztec, New Mexico claim, March 1948",
-   "short": "Aztec, New Mexico claim, March 1948",
    "tier": "A"
   },
   {
@@ -3584,21 +3335,6 @@
    "id": "darpa",
    "label": "Defense Advanced Research Projects Agency",
    "short": "DARPA",
-   "tier": "B"
-  },
-  {
-   "A": 2,
-   "C": 1,
-   "D": 1,
-   "band": "custody",
-   "cls": "program",
-   "cluster": "ic",
-   "dateStart": "1967",
-   "era": "0",
-   "hl": null,
-   "id": "defense-support-program",
-   "label": "Defense Support Program (DSP) missile early warning satellites",
-   "short": "Defense Support Program (DSP)",
    "tier": "B"
   },
   {
@@ -3858,21 +3594,6 @@
   },
   {
    "A": 2,
-   "C": 1,
-   "D": 3,
-   "band": "custody",
-   "cls": "event",
-   "cluster": "other",
-   "dateStart": "1986-05-19",
-   "era": "1",
-   "hl": null,
-   "id": "ev-noite-ovnis-1986",
-   "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
-   "short": "Noite Oficial dos OVNIs",
-   "tier": "A"
-  },
-  {
-   "A": 2,
    "C": 2,
    "D": 3,
    "band": "custody",
@@ -3944,36 +3665,6 @@
    "id": "geipan",
    "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
    "short": "GEIPAN",
-   "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": "custody",
-   "cls": "document",
-   "cluster": "research",
-   "dateStart": "2026",
-   "era": "3",
-   "hl": null,
-   "id": "gerb-mitre-investigation",
-   "label": "UAP Gerb - The MITRE Corporation investigation",
-   "short": "UAP Gerb",
-   "tier": "B"
-  },
-  {
-   "A": 3,
-   "C": 2,
-   "D": 3,
-   "band": "funding",
-   "cls": "event",
-   "cluster": "witness",
-   "dateStart": "2022-05",
-   "era": "3",
-   "hl": null,
-   "id": "grusch-misappropriation-allegation",
-   "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
-   "short": "The misappropriation allegation",
    "tier": "A"
   },
   {
@@ -4157,21 +3848,6 @@
    "tier": "C"
   },
   {
-   "A": 0,
-   "C": 0,
-   "D": 2,
-   "band": "custody",
-   "cls": "institution",
-   "cluster": "media",
-   "dateStart": "1981",
-   "era": "1",
-   "hl": null,
-   "id": "klas-tv",
-   "label": "KLAS-TV (Las Vegas)",
-   "short": "KLAS-TV",
-   "tier": "C"
-  },
-  {
    "A": 3,
    "C": 3,
    "D": 3,
@@ -4244,21 +3920,6 @@
    "id": "lockheed-skunk-works",
    "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
    "short": "Lockheed Skunk Works",
-   "tier": "B"
-  },
-  {
-   "A": 2,
-   "C": 0,
-   "D": 3,
-   "band": "disclosure",
-   "cls": "event",
-   "cluster": "witness",
-   "dateStart": "1967-03-16",
-   "era": "0",
-   "hl": null,
-   "id": "malmstrom-echo-flight-1967",
-   "label": "Malmstrom AFB missile shutdowns, March 1967",
-   "short": "Malmstrom Echo Flight, Mar 1967",
    "tier": "B"
   },
   {
@@ -4548,21 +4209,6 @@
   },
   {
    "A": 3,
-   "C": 1,
-   "D": 2,
-   "band": "funding",
-   "cls": "program",
-   "cluster": "ic",
-   "dateStart": "2004-12-17",
-   "era": "2",
-   "hl": null,
-   "id": "nip",
-   "label": "National Intelligence Program (NIP)",
-   "short": "National Intelligence Program",
-   "tier": "B"
-  },
-  {
-   "A": 3,
    "C": 2,
    "D": 0,
    "band": "funding",
@@ -4727,21 +4373,6 @@
    "tier": "B"
   },
   {
-   "A": 1,
-   "C": 2,
-   "D": 0,
-   "band": "research",
-   "cls": "document",
-   "cluster": "research",
-   "dateStart": "2016-04-28",
-   "era": "2",
-   "hl": null,
-   "id": "pais-patent-imrd",
-   "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
-   "short": "US Patent 10,144,532",
-   "tier": "A"
-  },
-  {
    "A": 0,
    "C": 2,
    "D": 2,
@@ -4875,21 +4506,6 @@
    "label": "Roswell Incident",
    "short": "Roswell Incident",
    "tier": "A"
-  },
-  {
-   "A": 2,
-   "C": 0,
-   "D": 1,
-   "band": "disclosure",
-   "cls": "document",
-   "cluster": "oversight",
-   "dateStart": "1997",
-   "era": "1",
-   "hl": null,
-   "id": "roswell-report-case-closed",
-   "label": "The Roswell Report: Case Closed (1997)",
-   "short": "The Roswell Report",
-   "tier": "B"
   },
   {
    "A": 2,
@@ -5028,21 +4644,6 @@
   },
   {
    "A": 3,
-   "C": 1,
-   "D": 2,
-   "band": "funding",
-   "cls": "institution",
-   "cluster": "ffrdc",
-   "dateStart": "1946",
-   "era": "0",
-   "hl": null,
-   "id": "sri-international",
-   "label": "SRI International (Stanford Research Institute)",
-   "short": "SRI International",
-   "tier": "B"
-  },
-  {
-   "A": 3,
    "C": 0,
    "D": 2,
    "band": "funding",
@@ -5055,21 +4656,6 @@
    "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
    "short": "STAR GATE and predecessors",
    "tier": "A"
-  },
-  {
-   "A": 0,
-   "C": 0,
-   "D": 3,
-   "band": "retrieval",
-   "cls": "document",
-   "cluster": "research",
-   "dateStart": "1978-07-29",
-   "era": "1",
-   "hl": null,
-   "id": "stringfield-status-reports",
-   "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
-   "short": "UFO Crash/Retrieval Reports I-VII",
-   "tier": "C"
   },
   {
    "A": 0,
@@ -5219,21 +4805,6 @@
    "id": "uapda-fy2027-house-adopted",
    "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
    "short": "UAPDA, FY2027 House-adopted",
-   "tier": "B"
-  },
-  {
-   "A": 1,
-   "C": 0,
-   "D": 2,
-   "band": "funding",
-   "cls": "institution",
-   "cluster": "research",
-   "dateStart": "2005",
-   "era": "2",
-   "hl": null,
-   "id": "university-at-albany",
-   "label": "University at Albany (SUNY), Department of Physics",
-   "short": "University at Albany, Physics",
    "tier": "B"
   },
   {
@@ -5387,7 +4958,7 @@
    "tier": "B"
   }
  ],
- "source": "a6674d2616e7",
+ "source": "cc2cd2991e89",
  "summarised": [
   {
    "a": "aaro",
@@ -5853,6 +5424,7 @@
    "a": "darpa",
    "b": "usaf",
    "via": [
+    "afswc-tr-59-39",
     "harry-s-truman",
     "northrop-tacit-blue"
    ]
@@ -5941,14 +5513,6 @@
    "b": "nids",
    "via": [
     "eric-davis",
-    "harold-puthoff",
-    "kit-green"
-   ]
-  },
-  {
-   "a": "dird-series",
-   "b": "sri-international",
-   "via": [
     "harold-puthoff",
     "kit-green"
    ]
@@ -6082,14 +5646,6 @@
    "via": [
     "avi-loeb",
     "richard-cloete"
-   ]
-  },
-  {
-   "a": "gerb-mitre-investigation",
-   "b": "manhattan-project-2",
-   "via": [
-    "ffrdc-mechanism",
-    "uap-gerb"
    ]
   },
   {
@@ -6242,14 +5798,6 @@
    ]
   },
   {
-   "a": "klas-tv",
-   "b": "nyt-2017-12-16",
-   "via": [
-    "d-media",
-    "harry-reid"
-   ]
-  },
-  {
    "a": "lockheed-martin",
    "b": "lockheed-skunk-works",
    "via": [
@@ -6336,14 +5884,6 @@
    "via": [
     "eric-davis",
     "jacques-vallee"
-   ]
-  },
-  {
-   "a": "nids",
-   "b": "sri-international",
-   "via": [
-    "harold-puthoff",
-    "kit-green"
    ]
   },
   {
@@ -6468,7 +6008,7 @@
    ]
   },
   {
-   "a": "sri-international",
+   "a": "stargate-program",
    "b": "ttsa",
    "via": [
     "harold-puthoff",
@@ -6476,11 +6016,11 @@
    ]
   },
   {
-   "a": "stargate-program",
-   "b": "ttsa",
+   "a": "the-black-vault",
+   "b": "usaf",
    "via": [
-    "harold-puthoff",
-    "kit-green"
+    "defense-support-program",
+    "doc-341-smw-history-1967"
    ]
   },
   {

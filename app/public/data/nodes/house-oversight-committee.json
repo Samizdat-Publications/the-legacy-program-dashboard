@@ -109,7 +109,7 @@
 "direction": "in",
 "edgeLabel": "Sworn testimony before the committee, 26 July 2023",
 "id": "grusch-misappropriation-allegation",
-"l0": true,
+"l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "Grusch testified with Ryan Graves and David Fravor at 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'. Attested by the committee's own hearing page.",
 "sources": [
@@ -641,6 +641,12 @@
 "id": "dow-financial-mgmt-hearing-2026",
 "label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
 "tier": "C"
+},
+{
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"tier": "A"
 },
 {
 "cls": "institution",

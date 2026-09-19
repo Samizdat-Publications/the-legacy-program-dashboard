@@ -141,7 +141,7 @@
 "direction": "in",
 "edgeLabel": "Air Force denials of Hangar 18 bodies",
 "id": "aztec-1948",
-"l0": true,
+"l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
 "sources": [
@@ -1698,6 +1698,12 @@
 "id": "armed-forces-institute-of-pathology",
 "label": "Armed Forces Institute of Pathology",
 "tier": "B"
+},
+{
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948",
+"tier": "A"
 },
 {
 "cls": "document",

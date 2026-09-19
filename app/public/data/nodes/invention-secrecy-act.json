@@ -88,7 +88,7 @@
 "direction": "out",
 "edgeLabel": "The control case for the patents tab: a propulsion patent that did issue",
 "id": "pais-patent-imrd",
-"l0": true,
+"l0": false,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "A Navy-assigned propulsion patent that did issue is the control case for the tab: the Act is why an absence in the patent record is a legal artefact rather than evidence of nothing.",
 "sources": [

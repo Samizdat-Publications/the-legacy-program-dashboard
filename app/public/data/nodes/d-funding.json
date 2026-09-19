@@ -290,7 +290,7 @@
 "direction": "in",
 "edgeLabel": "one of the two named channels through which US intelligence money is appropriated",
 "id": "nip",
-"l0": true,
+"l0": false,
 "label": "National Intelligence Program (NIP)",
 "note": "The National Intelligence Program is the DNI-controlled channel. Since FY2007, sec. 601 of the Implementing Recommendations of the 9/11 Commission Act (P.L. 110-53) has required disclosure of the aggregate appropriated amount, and ODNI publishes request and appropriated toplines annually. Aggregate-only disclosure is precisely what makes it a channel this board can name but not itemise.",
 "sources": [

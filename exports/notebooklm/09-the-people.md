@@ -1,6 +1,6 @@
 # The people below the programme map
 
-None of the 149 nodes on the programme map is a person, so every one of the board's 338 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
+None of the 135 nodes on the programme map is a person, so every one of the board's 338 people sits below it: witnesses, officials, legislators, contractors, scientists and journalists. This file takes the 120 with the most connections, most connected first, and gives what the board records about each of them and up to eight of their claims.
 
 ## David Charles Grusch
 

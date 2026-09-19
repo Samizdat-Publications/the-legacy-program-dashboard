@@ -30,14 +30,14 @@
    "3": 234
   },
   "unique_source_urls": 1655,
-  "l0_nodes": 149,
-  "l0_edges_direct": 289,
-  "l0_edges_summarised": 136,
-  "ledger": 957,
-  "path_only": 18,
+  "l0_nodes": 135,
+  "l0_edges_direct": 267,
+  "l0_edges_summarised": 132,
+  "ledger": 963,
+  "path_only": 26,
   "unattached": 1,
-  "l0_with_dossier": 149,
-  "l0_dossier_claims": 1742,
+  "l0_with_dossier": 135,
+  "l0_dossier_claims": 1603,
   "people_with_date": 318,
   "locations_with_coords": 45
  }

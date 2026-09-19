@@ -67,7 +67,7 @@
 "direction": "in",
 "edgeLabel": "Both refusals on this designation are public only because of The Black Vault",
 "id": "defense-support-program",
-"l0": true,
+"l0": false,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
 "sources": [
@@ -316,6 +316,12 @@
 "id": "bob-lazar",
 "label": "Robert \"Bob\" Lazar",
 "tier": "A"
+},
+{
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites",
+"tier": "B"
 },
 {
 "cls": "document",

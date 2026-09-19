@@ -2,7 +2,7 @@
 "A": 1,
 "C": 2,
 "D": 0,
-"band": "research",
+"band": null,
 "claims": [
 {
 "source": "https://www.freepatentsonline.com/10144532.html",
@@ -308,42 +308,11 @@
 },
 "hl": null,
 "id": "pais-patent-imrd",
-"l0": true,
+"l0": false,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "five-observables",
-"label": "The five observables (UAP performance taxonomy)",
-"tier": "B"
-},
-{
-"cls": "legislation",
-"id": "invention-secrecy-act",
-"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "pais-patent-hfgw",
-"label": "US Patent 10,322,827 - High frequency gravitational wave generator",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "pax-205-disclosure",
-"label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "salvatore-pais",
-"label": "Salvatore Cezar Pais",
-"tier": "A"
-}
-],
-"short": "US Patent 10,144,532",
+"members": null,
+"short": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "sources": [
 {
 "date": null,

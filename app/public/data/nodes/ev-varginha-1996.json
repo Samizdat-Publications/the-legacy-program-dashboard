@@ -88,7 +88,7 @@
 "direction": "out",
 "edgeLabel": "Two official inquiries that explained the recovery activity without producing the logs",
 "id": "roswell-report-case-closed",
-"l0": true,
+"l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
 "sources": [

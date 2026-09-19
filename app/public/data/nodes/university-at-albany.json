@@ -2,7 +2,7 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": "funding",
+"band": null,
 "claims": [
 {
 "source": "Published biography",
@@ -309,47 +309,10 @@
 },
 "hl": null,
 "id": "university-at-albany",
-"l0": true,
+"l0": false,
 "label": "University at Albany (SUNY), Department of Physics",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "cecilia-levy",
-"label": "Cecilia Levy",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "kevin-knuth",
-"label": "Kevin H. Knuth",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "matthew-szydagis",
-"label": "Matthew Szydagis",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "paper-knuth-2025-new-science",
-"label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "paper-uapx-2025",
-"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "uapx",
-"label": "UAPx",
-"tier": "C"
-}
-],
+"members": null,
 "short": "University at Albany, Physics",
 "sources": [
 {

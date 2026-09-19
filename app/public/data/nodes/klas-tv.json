@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": "custody",
+"band": null,
 "claims": [
 {
 "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
@@ -215,36 +215,11 @@
 },
 "hl": null,
 "id": "klas-tv",
-"l0": true,
+"l0": false,
 "label": "KLAS-TV (Las Vegas)",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "d-media",
-"label": "Independent media as the disclosure substrate",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "harry-reid",
-"label": "Harry M. Reid",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "james-lacatski",
-"label": "James T. Lacatski",
-"tier": "A"
-},
-{
-"cls": "document",
-"id": "klas-lazar-broadcasts-1989",
-"label": "The KLAS-TV Lazar broadcasts, 1989",
-"tier": "C"
-}
-],
-"short": "KLAS-TV",
+"members": null,
+"short": "KLAS-TV (Las Vegas)",
 "sources": [
 {
 "date": "1990-06-19",

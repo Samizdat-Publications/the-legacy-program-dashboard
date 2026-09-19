@@ -123,7 +123,7 @@
 "direction": "in",
 "edgeLabel": "detail donor to later Roswell accounts",
 "id": "aztec-1948",
-"l0": true,
+"l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
 "sources": [
@@ -643,6 +643,12 @@
 "id": "509th-bomb-group",
 "label": "509th Bomb Group",
 "tier": "C"
+},
+{
+"cls": "event",
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948",
+"tier": "A"
 },
 {
 "cls": "institution",

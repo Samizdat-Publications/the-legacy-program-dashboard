@@ -139,7 +139,7 @@
 "direction": "in",
 "edgeLabel": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
 "id": "gerb-mitre-investigation",
-"l0": true,
+"l0": false,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Gerb's FFRDC thesis treats MITRE and the Aerospace Corporation as parallel instances of the same mechanism; the Aerospace link is reinforced by Stephanie O'Sullivan's board membership there after ODNI. The specific allegation against Aerospace is inference from the model rather than a separately documented claim.",
 "sources": [

@@ -669,7 +669,7 @@
 "direction": "out",
 "edgeLabel": "AARO's reports address the retrieval claims and say nothing about the funding claims",
 "id": "grusch-misappropriation-allegation",
-"l0": true,
+"l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "The AARO Historical Record Report Volume I (March 2024) and the FY2025 Consolidated Annual Report contain no discussion of misappropriated funds, illegal contracting, IR&D or contractor financial arrangements. The absence is attested by the reports themselves.",
 "sources": [
@@ -2206,6 +2206,12 @@
 "id": "gremlin-program",
 "label": "GREMLIN",
 "tier": "C"
+},
+{
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"tier": "A"
 },
 {
 "cls": "institution",

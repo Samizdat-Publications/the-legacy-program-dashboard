@@ -774,7 +774,7 @@
 "direction": "in",
 "edgeLabel": "Knapp testified as KLAS-TV chief investigative reporter",
 "id": "klas-tv",
-"l0": true,
+"l0": false,
 "label": "KLAS-TV (Las Vegas)",
 "note": "Knapp opened his sworn statement: 'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.' The witness list gives him as 'Mr. George Knapp, UAP Journalist'; Chairwoman Luna's introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995.",
 "sources": [
@@ -1260,6 +1260,12 @@
 "cls": "person",
 "id": "joe-spielberger",
 "label": "Joe Spielberger",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)",
 "tier": "C"
 },
 {

@@ -57,6 +57,39 @@ OUT = os.path.join(ROOT, "data", "l0-model.json")
 
 # ---------------------------------------------------------------- configuration
 FLOOR = 6                      # degree floor, in DISTINCT NEIGHBOURS (see above)
+
+# L0 IS A BUDGET, NOT JUST A FLOOR (19 September 2026).
+#
+# The floor alone made L0 grow monotonically: every research pass adds edges, more
+# nodes cross six distinct neighbours, and the map gets denser for ever. On 18-19
+# September five passes took it 137 -> 149 and the top-level map fell out of label
+# mode at 1920, because 54 rows need 1008px of the 938px available. CI caught it as
+# C11: in cell mode the fourteen start-here highlights cannot each draw their own
+# numbered chip, and only nine did. CLAUDE.md had warned there was about 7px of
+# clearance and that CI's fallback font wraps two more rows than Windows does.
+#
+# A higher floor only slows the treadmill, and it overshoots: degree is integral, so
+# FLOOR 7 would cut L0 to about 115, twenty nodes below what actually fits. So the
+# map gets an explicit size budget instead, calibrated to the last known-good size.
+#
+# The map's job is orientation, not completeness. It shows about 135 of 1,125 nodes
+# today and will show about 135 of whatever the board becomes. Saying that as a
+# budget is honest; letting a threshold decide it is not.
+#
+# Membership competes on degree. Ties break on file order so the result is
+# reproducible. The start-here highlights are admitted BY RIGHT regardless of rank,
+# which makes C11 true by construction rather than by luck. Nodes cut by the budget
+# are REPORTED on every build, the way the rarity pin reports drift, because a node
+# leaving the map silently is exactly what this repo keeps being bitten by.
+#
+# Stewart, 19 September, on approving this: the map "is mostly a cool visual at this
+# point but with how dense this will eventually get I feel like we'll have to rethink
+# it at some point anyways. Perhaps there is a better way to display or group it."
+# So this is a STOPGAP that keeps the map honest while the board grows. The real
+# answer is a different top-level surface, and that is a Design question, not a
+# constant.
+BUDGET = 135                   # max L0 members, highlights admitted on top if needed
+BUDGET_DATE = '2026-09-19'
 PROMOTE_DOCUMENTS = True       # documents join L0 at the same floor
 ROUTE_CAP = 3                  # beyond this an entity is 'path only', not a member
 SHARED_GATE = 2                # minimum shared members for a summarised edge
@@ -133,7 +166,42 @@ def partition(nodes, adj, pair):
     deg = {n["id"]: len(adj[n["id"]]) for n in nodes}
 
     # File order, not set order. BFS attachment must be reproducible.
-    l0ids = [n["id"] for n in nodes if is_l0_class(n) and deg[n["id"]] >= FLOOR]
+    eligible = [n["id"] for n in nodes if is_l0_class(n) and deg[n["id"]] >= FLOOR]
+
+    # ---- the budget (see BUDGET above) --------------------------------------
+    # Highlights are admitted by right: C11 asserts every start-here node draws its
+    # own numbered chip, and a node cannot draw a chip it is not on the map to draw.
+    hl_ids, hl_missing = [], []
+    hl_path = os.path.join(ROOT, "data", "l0-highlights.json")
+    if os.path.exists(hl_path):
+        with open(hl_path, encoding="utf-8") as fh:
+            hl_ids = [f.get("id") for f in (json.load(fh) or {}).get("flags") or []
+                      if isinstance(f, dict) and f.get("id")]
+    elig_set = set(eligible)
+    hl_missing = [i for i in hl_ids if i not in elig_set]
+
+    budget_cut = []
+    if len(eligible) <= BUDGET:
+        l0ids = eligible
+    else:
+        # Compete on degree; break ties on file order so the build is reproducible.
+        pos = {nid: i for i, nid in enumerate(eligible)}
+        ranked = sorted(eligible, key=lambda i: (-deg[i], pos[i]))
+        keep = set(ranked[:BUDGET]) | (set(hl_ids) & elig_set)
+        l0ids = [i for i in eligible if i in keep]          # file order preserved
+        budget_cut = [i for i in ranked[BUDGET:] if i not in keep]
+
+    # A node leaving the map is a finding, not a no-op. Report it, every build.
+    if budget_cut:
+        print(f"  L0 budget {BUDGET}: {len(eligible)} eligible, {len(l0ids)} kept, "
+              f"{len(budget_cut)} cut (lowest degree first): "
+              + ", ".join(f"{i}({deg[i]})" for i in budget_cut[-8:][::-1]),
+              file=sys.stderr)
+    if hl_missing:
+        print(f"  !! {len(hl_missing)} start-here highlight(s) are not L0-eligible at all "
+              f"and CANNOT be drawn: {hl_missing} — C11 will fail. Fix the highlight or "
+              f"the node's class/degree; the budget cannot help here.", file=sys.stderr)
+
     L0 = set(l0ids)
 
     depth, prev = {}, {}

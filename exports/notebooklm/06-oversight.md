@@ -1,6 +1,6 @@
 # The oversight band
 
-The programme map splits the 149 nodes closest to the alleged programme into seven bands, and this file is the oversight band: 23 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 135 nodes closest to the alleged programme into seven bands, and this file is the oversight band: 23 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 

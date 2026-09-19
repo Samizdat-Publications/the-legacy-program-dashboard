@@ -238,7 +238,7 @@
 "direction": "in",
 "edgeLabel": "Alleged 2011 restriction on historical briefings about program incumbents",
 "id": "gerb-mitre-investigation",
-"l0": true,
+"l0": false,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "A policy act alleged to prevent even cleared personnel from being briefed on the programme's own history - concealment directed inward at the programme's own workforce rather than outward at the public.",
 "sources": [
@@ -259,7 +259,7 @@
 "direction": "in",
 "edgeLabel": "Names MITRE as the central FFRDC node of the legacy portfolio",
 "id": "gerb-mitre-investigation",
-"l0": true,
+"l0": false,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The investigation alleges MITRE's founding in 1958 carried a hidden second impetus beyond SAGE systems engineering: constructing a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering of recovered craft.",
 "sources": [
@@ -949,6 +949,12 @@
 "cls": "domain",
 "id": "ffrdc-mechanism",
 "label": "The FFRDC / UARC / GOCO mechanism",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation",
 "tier": "B"
 },
 {

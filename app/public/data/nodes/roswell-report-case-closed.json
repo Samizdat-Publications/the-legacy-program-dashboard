@@ -2,7 +2,7 @@
 "A": 2,
 "C": 0,
 "D": 1,
-"band": "disclosure",
+"band": null,
 "claims": [
 {
 "source": "The Roswell Report: Case Closed (1997), Introduction",
@@ -359,48 +359,11 @@
 },
 "hl": null,
 "id": "roswell-report-case-closed",
-"l0": true,
+"l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "locLabel": null,
-"members": [
-{
-"cls": "event",
-"id": "ev-varginha-1996",
-"label": "Varginha incident, Minas Gerais, January 1996",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "glenn-dennis",
-"label": "W. Glenn Dennis",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "james-mcandrew",
-"label": "Capt. James McAndrew",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "jim-ragsdale",
-"label": "James Ragsdale",
-"tier": "C"
-},
-{
-"cls": "event",
-"id": "plains-san-agustin-1947",
-"label": "Plains of San Agustin claim, July 1947",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "roswell-report-1995",
-"label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
-"tier": "C"
-}
-],
-"short": "The Roswell Report",
+"members": null,
+"short": "The Roswell Report: Case Closed (1997)",
 "sources": [
 {
 "date": "1997-01-01",

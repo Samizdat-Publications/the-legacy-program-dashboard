@@ -1,12 +1,12 @@
 {
  "bands": [
   {
-   "id": "reverse-engineering",
-   "label": "reverse engineering"
-  },
-  {
    "id": "retrieval",
    "label": "retrieval"
+  },
+  {
+   "id": "reverse-engineering",
+   "label": "reverse engineering"
   },
   {
    "id": "custody",
@@ -21,12 +21,12 @@
    "label": "oversight"
   },
   {
-   "id": "research",
-   "label": "research"
-  },
-  {
    "id": "disclosure",
    "label": "disclosure"
+  },
+  {
+   "id": "research",
+   "label": "research"
   }
  ],
  "classes": [
@@ -122,7 +122,7 @@
    "questions": 121,
    "requests": 17
   },
-  "l0": 149,
+  "l0": 135,
   "nodes": 1125,
   "patents": 5,
   "people": 338,
@@ -1109,7 +1109,7 @@
    "A": 1,
    "C": 3,
    "D": 2,
-   "band": "custody",
+   "band": null,
    "claims": [
     6,
     0,
@@ -1123,7 +1123,7 @@
    "era": "0",
    "hl": null,
    "id": "afswc-tr-59-39",
-   "l0": true,
+   "l0": false,
    "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
    "short": "AFSWC TR-59-39 Lunar Research Flights",
    "status": null,
@@ -1925,7 +1925,7 @@
    "A": 0,
    "C": 3,
    "D": 2,
-   "band": "retrieval",
+   "band": null,
    "claims": [
     12,
     5,
@@ -1939,7 +1939,7 @@
    "era": "0",
    "hl": null,
    "id": "aztec-1948",
-   "l0": true,
+   "l0": false,
    "label": "Aztec, New Mexico claim, March 1948",
    "short": "Aztec, New Mexico claim, March 1948",
    "status": null,
@@ -6125,7 +6125,7 @@
    "A": 2,
    "C": 1,
    "D": 1,
-   "band": "custody",
+   "band": null,
    "claims": [
     4,
     1,
@@ -6139,7 +6139,7 @@
    "era": "0",
    "hl": null,
    "id": "defense-support-program",
-   "l0": true,
+   "l0": false,
    "label": "Defense Support Program (DSP) missile early warning satellites",
    "short": "Defense Support Program (DSP)",
    "status": null,
@@ -8813,7 +8813,7 @@
    "A": 2,
    "C": 1,
    "D": 3,
-   "band": "custody",
+   "band": null,
    "claims": [
     3,
     7,
@@ -8827,9 +8827,9 @@
    "era": "1",
    "hl": null,
    "id": "ev-noite-ovnis-1986",
-   "l0": true,
+   "l0": false,
    "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
-   "short": "Noite Oficial dos OVNIs",
+   "short": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
    "status": null,
    "tier": "A"
   },
@@ -10253,7 +10253,7 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": "custody",
+   "band": null,
    "claims": [
     0,
     5,
@@ -10267,9 +10267,9 @@
    "era": "3",
    "hl": null,
    "id": "gerb-mitre-investigation",
-   "l0": true,
+   "l0": false,
    "label": "UAP Gerb - The MITRE Corporation investigation",
-   "short": "UAP Gerb",
+   "short": "UAP Gerb - The MITRE Corporation investigation",
    "status": null,
    "tier": "B"
   },
@@ -10733,7 +10733,7 @@
    "A": 3,
    "C": 2,
    "D": 3,
-   "band": "funding",
+   "band": null,
    "claims": [
     2,
     4,
@@ -10747,9 +10747,9 @@
    "era": "3",
    "hl": null,
    "id": "grusch-misappropriation-allegation",
-   "l0": true,
+   "l0": false,
    "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
-   "short": "The misappropriation allegation",
+   "short": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
    "status": null,
    "tier": "A"
   },
@@ -14357,7 +14357,7 @@
    "A": 0,
    "C": 0,
    "D": 2,
-   "band": "custody",
+   "band": null,
    "claims": [
     0,
     2,
@@ -14371,9 +14371,9 @@
    "era": "1",
    "hl": null,
    "id": "klas-tv",
-   "l0": true,
+   "l0": false,
    "label": "KLAS-TV (Las Vegas)",
-   "short": "KLAS-TV",
+   "short": "KLAS-TV (Las Vegas)",
    "status": null,
    "tier": "C"
   },
@@ -16805,7 +16805,7 @@
    "A": 2,
    "C": 0,
    "D": 3,
-   "band": "disclosure",
+   "band": null,
    "claims": [
     4,
     6,
@@ -16819,7 +16819,7 @@
    "era": "0",
    "hl": null,
    "id": "malmstrom-echo-flight-1967",
-   "l0": true,
+   "l0": false,
    "label": "Malmstrom AFB missile shutdowns, March 1967",
    "short": "Malmstrom Echo Flight, Mar 1967",
    "status": null,
@@ -19037,7 +19037,7 @@
    "A": 3,
    "C": 1,
    "D": 2,
-   "band": "funding",
+   "band": null,
    "claims": [
     5,
     0,
@@ -19051,9 +19051,9 @@
    "era": "2",
    "hl": null,
    "id": "nip",
-   "l0": true,
+   "l0": false,
    "label": "National Intelligence Program (NIP)",
-   "short": "National Intelligence Program",
+   "short": "National Intelligence Program (NIP)",
    "status": null,
    "tier": "B"
   },
@@ -19949,7 +19949,7 @@
    "A": 1,
    "C": 2,
    "D": 0,
-   "band": "research",
+   "band": null,
    "claims": [
     15,
     2,
@@ -19963,9 +19963,9 @@
    "era": "2",
    "hl": null,
    "id": "pais-patent-imrd",
-   "l0": true,
+   "l0": false,
    "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
-   "short": "US Patent 10,144,532",
+   "short": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
    "status": null,
    "tier": "A"
   },
@@ -22445,7 +22445,7 @@
    "A": 2,
    "C": 0,
    "D": 1,
-   "band": "disclosure",
+   "band": null,
    "claims": [
     4,
     0,
@@ -22459,9 +22459,9 @@
    "era": "1",
    "hl": null,
    "id": "roswell-report-case-closed",
-   "l0": true,
+   "l0": false,
    "label": "The Roswell Report: Case Closed (1997)",
-   "short": "The Roswell Report",
+   "short": "The Roswell Report: Case Closed (1997)",
    "status": null,
    "tier": "B"
   },
@@ -23765,7 +23765,7 @@
    "A": 3,
    "C": 1,
    "D": 2,
-   "band": "funding",
+   "band": null,
    "claims": [
     2,
     0,
@@ -23779,9 +23779,9 @@
    "era": "0",
    "hl": null,
    "id": "sri-international",
-   "l0": true,
+   "l0": false,
    "label": "SRI International (Stanford Research Institute)",
-   "short": "SRI International",
+   "short": "SRI International (Stanford Research Institute)",
    "status": null,
    "tier": "B"
   },
@@ -24101,7 +24101,7 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": "retrieval",
+   "band": null,
    "claims": [
     0,
     5,
@@ -24115,7 +24115,7 @@
    "era": "1",
    "hl": null,
    "id": "stringfield-status-reports",
-   "l0": true,
+   "l0": false,
    "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
    "short": "UFO Crash/Retrieval Reports I-VII",
    "status": null,
@@ -25853,7 +25853,7 @@
    "A": 1,
    "C": 0,
    "D": 2,
-   "band": "funding",
+   "band": null,
    "claims": [
     6,
     0,
@@ -25867,7 +25867,7 @@
    "era": "2",
    "hl": null,
    "id": "university-at-albany",
-   "l0": true,
+   "l0": false,
    "label": "University at Albany (SUNY), Department of Physics",
    "short": "University at Albany, Physics",
    "status": null,
@@ -27170,5 +27170,5 @@
    "tier": "C"
   }
  ],
- "source": "a6674d2616e7"
+ "source": "cc2cd2991e89"
 }

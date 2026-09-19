@@ -2,7 +2,7 @@
 "A": 1,
 "C": 3,
 "D": 2,
-"band": "custody",
+"band": null,
 "claims": [
 {
 "source": "AFSWC TR-59-39 Vol I, title page and report page, DDC AD 425380, https://archive.org/details/DTIC_AD0425380",
@@ -238,29 +238,10 @@
 },
 "hl": null,
 "id": "afswc-tr-59-39",
-"l0": true,
+"l0": false,
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "locLabel": null,
-"members": [
-{
-"cls": "location",
-"id": "l-kirtland",
-"label": "Kirtland Air Force Base and Albuquerque, New Mexico",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-los-alamos",
-"label": "Los Alamos, New Mexico",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-wright-patterson",
-"label": "Wright-Patterson Air Force Base, Ohio",
-"tier": "A"
-}
-],
+"members": null,
 "short": "AFSWC TR-59-39 Lunar Research Flights",
 "sources": [
 {

@@ -182,7 +182,7 @@
 "direction": "out",
 "edgeLabel": "An unauditable ledger cannot disprove the allegation",
 "id": "grusch-misappropriation-allegation",
-"l0": true,
+"l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "The Department's standing 'Universe of Transactions' material weakness means the complete population of its transactions is not established; no search of that population can therefore establish that funds did not flow to an undisclosed activity. Reasoned inference from the auditor's own definition of the weakness.",
 "sources": [
@@ -407,6 +407,12 @@
 "id": "gao-high-risk-dod-fm",
 "label": "GAO High-Risk List: DOD Financial Management",
 "tier": "C"
+},
+{
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"tier": "A"
 },
 {
 "cls": "document",

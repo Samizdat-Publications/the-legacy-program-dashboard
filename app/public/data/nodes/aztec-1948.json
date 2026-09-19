@@ -2,7 +2,7 @@
 "A": 0,
 "C": 3,
 "D": 2,
-"band": "retrieval",
+"band": null,
 "claims": [
 {
 "source": "Court record as reported by J. P. Cahn, True magazine, 1952 and 1956",
@@ -236,7 +236,7 @@
 "direction": "in",
 "edgeLabel": "Stringfield revived Aztec as a real retrieval in the late 1970s",
 "id": "stringfield-status-reports",
-"l0": true,
+"l0": false,
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "note": "After two decades in which ufologists treated Aztec as dead, Stringfield argued the incident was real and that the craft was one of many held by the US military; Status Report V lists Aztec alongside Roswell, Kingman, El Yunque and Brown County.",
 "sources": [
@@ -389,29 +389,10 @@
 },
 "hl": null,
 "id": "aztec-1948",
-"l0": true,
+"l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "behind-the-flying-saucers",
-"label": "Behind the Flying Saucers (Scully, 1950)",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "hottel-memo",
-"label": "Guy Hottel memorandum, 22 March 1950",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-aztec",
-"label": "Aztec, New Mexico",
-"tier": "C"
-}
-],
+"members": null,
 "short": "Aztec, New Mexico claim, March 1948",
 "sources": [
 {

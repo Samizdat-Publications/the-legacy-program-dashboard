@@ -1408,7 +1408,7 @@
 "direction": "in",
 "edgeLabel": "Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis",
 "id": "klas-tv",
-"l0": true,
+"l0": false,
 "label": "KLAS-TV (Las Vegas)",
 "note": "Knapp's custody allegation, made under oath: 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' On the Russia files he testified that he obtained documents and interviews from Soviet defence officials in the early 1990s and has 'now shared with this Task Force' - the printed hearing carries no statement that he shared them with BAASS or the DIA, which is why this is tier 2. It is an allegation by a named witness, not a documented transfer.",
 "sources": [
@@ -2199,6 +2199,12 @@
 "cls": "person",
 "id": "jesse-michels",
 "label": "Jesse Michels",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "klas-tv",
+"label": "KLAS-TV (Las Vegas)",
 "tier": "C"
 },
 {

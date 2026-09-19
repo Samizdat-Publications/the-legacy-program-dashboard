@@ -300,7 +300,7 @@
 "direction": "out",
 "edgeLabel": "SRI held the science half of the remote viewing effort from 1972",
 "id": "sri-international",
-"l0": true,
+"l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "note": "Puthoff and Targ began CIA-sponsored work at SRI's Artificial Intelligence Center in 1972 and continued with intelligence community funding until they left in the mid-1980s.",
 "sources": [
@@ -510,6 +510,12 @@
 "id": "russell-targ",
 "label": "Russell Targ",
 "tier": "C"
+},
+{
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)",
+"tier": "B"
 },
 {
 "cls": "program",

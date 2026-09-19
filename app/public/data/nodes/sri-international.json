@@ -2,7 +2,7 @@
 "A": 3,
 "C": 1,
 "D": 2,
-"band": "funding",
+"band": null,
 "claims": [
 {
 "source": "Nature 251, 602-607; CIA STARGATE collection",
@@ -232,36 +232,11 @@
 },
 "hl": null,
 "id": "sri-international",
-"l0": true,
+"l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "locLabel": null,
-"members": [
-{
-"cls": "program",
-"id": "grill-flame",
-"label": "GRILL FLAME",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "harold-puthoff",
-"label": "Harold E. Puthoff",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "kit-green",
-"label": "Christopher C. 'Kit' Green",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "russell-targ",
-"label": "Russell Targ",
-"tier": "C"
-}
-],
-"short": "SRI International",
+"members": null,
+"short": "SRI International (Stanford Research Institute)",
 "sources": [
 {
 "date": "1974-10-18",

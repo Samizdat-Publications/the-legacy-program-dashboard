@@ -78,7 +78,7 @@
 "direction": "in",
 "edgeLabel": "Commissioned and published by the Air Force Special Weapons Center under Air Research and Development Command",
 "id": "afswc-tr-59-39",
-"l0": true,
+"l0": false,
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "The title page names the command and the station, and the publication review is signed by the Center's Deputy Commander.",
 "sources": [
@@ -246,7 +246,7 @@
 "direction": "in",
 "edgeLabel": "Flown by the Air Force before the constellation passed to the Space Force",
 "id": "defense-support-program",
-"l0": true,
+"l0": false,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "DSP is described by GAO as a Department of Defense strategic surveillance system flown by the Air Force before the constellation passed to the Space Force.",
 "sources": [
@@ -722,6 +722,12 @@
 "tier": "B"
 },
 {
+"cls": "document",
+"id": "afswc-tr-59-39",
+"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+"tier": "A"
+},
+{
 "cls": "person",
 "id": "arthur-e-exon",
 "label": "Arthur E. Exon",
@@ -755,6 +761,12 @@
 "cls": "person",
 "id": "charles-p-cabell",
 "label": "Gen. Charles P. Cabell",
+"tier": "B"
+},
+{
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites",
 "tier": "B"
 },
 {

@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": "custody",
+"band": null,
 "claims": [
 {
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
@@ -337,36 +337,11 @@
 },
 "hl": null,
 "id": "gerb-mitre-investigation",
-"l0": true,
+"l0": false,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "locLabel": null,
-"members": [
-{
-"cls": "institution",
-"id": "aerospace-corporation",
-"label": "The Aerospace Corporation",
-"tier": "B"
-},
-{
-"cls": "domain",
-"id": "ffrdc-mechanism",
-"label": "The FFRDC / UARC / GOCO mechanism",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "oni",
-"label": "Office of Naval Intelligence",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "uap-gerb",
-"label": "'UAP Gerb' (Sam)",
-"tier": "A"
-}
-],
-"short": "UAP Gerb",
+"members": null,
+"short": "UAP Gerb - The MITRE Corporation investigation",
 "sources": [
 {
 "date": "2026-08-07",

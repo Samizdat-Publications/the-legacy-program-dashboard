@@ -2,7 +2,7 @@
 "A": 3,
 "C": 2,
 "D": 3,
-"band": "funding",
+"band": null,
 "claims": [
 {
 "source": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
@@ -310,30 +310,11 @@
 },
 "hl": null,
 "id": "grusch-misappropriation-allegation",
-"l0": true,
+"l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "charles-mccullough-iii",
-"label": "Irvin Charles McCullough III",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "david-grusch",
-"label": "David Charles Grusch",
-"tier": "A"
-},
-{
-"cls": "program",
-"id": "irad-mechanism",
-"label": "Independent Research and Development (IR&D) as a funding channel",
-"tier": "B"
-}
-],
-"short": "The misappropriation allegation",
+"members": null,
+"short": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "sources": [
 {
 "date": "2023-06-05",

@@ -134,7 +134,7 @@
 "direction": "in",
 "edgeLabel": "MITRE founded as the Air Force's successor to RAND",
 "id": "gerb-mitre-investigation",
-"l0": true,
+"l0": false,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spiritual successor to RAND, tasked with systems engineering for SAGE.",
 "sources": [
@@ -407,6 +407,12 @@
 "id": "george-kocher",
 "label": "George Kocher",
 "tier": "C"
+},
+{
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation",
+"tier": "B"
 },
 {
 "cls": "person",

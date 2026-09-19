@@ -41,7 +41,7 @@
 "direction": "in",
 "edgeLabel": "A copy went to the Director of ARPA at the Pentagon",
 "id": "afswc-tr-59-39",
-"l0": true,
+"l0": false,
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'.",
 "sources": [
@@ -302,6 +302,12 @@
 "label": "Defense Advanced Research Projects Agency",
 "locLabel": null,
 "members": [
+{
+"cls": "document",
+"id": "afswc-tr-59-39",
+"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+"tier": "A"
+},
 {
 "cls": "program",
 "id": "conventional-prompt-global-strike",

@@ -224,7 +224,7 @@
 "direction": "out",
 "edgeLabel": "Assignee of record",
 "id": "pais-patent-imrd",
-"l0": true,
+"l0": false,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "THE SPONSORSHIP IS PRINTED, NOT INFERRED, AND IT IS THE TEST THAT KEEPS KING OUT OF THE PATENTS VIEW. The front page carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)', '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD' and 'Primary Examiner - Philip J Bonzell'. US 3,322,374 by contrast carries no assignee line at all.",
 "sources": [
@@ -490,6 +490,12 @@
 "id": "pais-patent-emfg",
 "label": "US Patent 10,135,366 - Electromagnetic field generator",
 "tier": "B"
+},
+{
+"cls": "document",
+"id": "pais-patent-imrd",
+"label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+"tier": "A"
 },
 {
 "cls": "person",

@@ -41,7 +41,7 @@
 "direction": "out",
 "edgeLabel": "The Schedule is the instrument by which the entire NIP is authorised",
 "id": "nip",
-"l0": true,
+"l0": false,
 "label": "National Intelligence Program (NIP)",
 "note": "Section 6102(a) of the FY2026 Intelligence Authorization Act provides that the amounts authorised for intelligence activities 'are those specified in the classified Schedule of Authorizations prepared to accompany this division'. Attested by the statute itself.",
 "sources": [

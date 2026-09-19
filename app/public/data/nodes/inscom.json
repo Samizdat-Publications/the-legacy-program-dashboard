@@ -125,7 +125,7 @@
 "direction": "out",
 "edgeLabel": "Army Intelligence obligated $75K for SRI selection and training of INSCOM personnel",
 "id": "sri-international",
-"l0": true,
+"l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "note": "The 1978 talking paper records the ACSI and the commanding general agreeing that Army Intelligence would obligate seventy-five thousand dollars to support an SRI subject selection and training programme for INSCOM personnel, with initial orientation at SRI International on 15 to 17 November 1978.",
 "sources": [
@@ -248,6 +248,12 @@
 "cls": "program",
 "id": "grill-flame",
 "label": "GRILL FLAME",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "sri-international",
+"label": "SRI International (Stanford Research Institute)",
 "tier": "B"
 }
 ],
