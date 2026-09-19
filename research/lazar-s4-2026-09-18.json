@@ -1,0 +1,2414 @@
+{
+  "domain": "lazar-s4-2026-09-18",
+  "people": [
+    {
+      "id": "bob-lazar",
+      "label": "Robert \"Bob\" Lazar",
+      "cls": "person",
+      "status": "alive",
+      "date": null,
+      "age": null,
+      "loc": "Laingsburg, Michigan",
+      "locId": null,
+      "instId": null,
+      "sub": "Los Alamos contract technician, 1982; claimant from 1989 of work on alien propulsion at a facility he calls S-4 near Papoose Lake; convicted Nevada felon, 1990",
+      "cluster": "witness",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 3,
+      "domains": [],
+      "narrative": "Bob Lazar is the origin point of the best-known claim in the field and, on the opened record, he is a contract electronics technician rather than the physicist the claim requires. In 1982 he worked at Los Alamos, and the Los Alamos Monitor of 27 June 1982 described him on its front page as 'a physicist at the Los Alamos Meson Physics Facility'. That description is the strongest documentary thread in his favour and it carries its own qualification: the Los Alamos telephone directory page that also lists his name states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and a Los Alamos colleague interviewed on tape in 1996 said Lazar 'was a contractor' under Kirk Mayer. In 1989 he told KLAS-TV in Las Vegas, first silhouetted under the pseudonym 'Dennis' and then under his own name, that between December 1988 and April 1989 he had worked at a facility called S-4, about fifteen miles south of Groom Lake, back-engineering the propulsion of nine disc-shaped craft fuelled by a stable isotope of element 115. In 1991 he fixed that account in datable form by narrating it himself on a forty-minute videotape produced with his friend Gene Huff. The credential half of his account has been checked by named people and does not survive: no institutional record of the MIT or Caltech degrees exists, and the professor he named as a Caltech instructor turned out to teach at Pierce Junior College, where Lazar had taken at least one of his classes. The credential question is Tier 1 rather than gossip because Lazar's own reported education, listing a 1978 Pacifica University BS alongside the MIT and Caltech degrees, is printed in his Pre-Sentence Report of 27 July 1990, a Clark County court document produced after he pleaded guilty to felony pandering. What makes him a node is proximity to the claim, not credibility: no clearance is documented anywhere in the opened record, no office, and no physical trace of anything he describes.",
+      "tierRationale": "Node tier C: proximity to the programme, not credibility, on the same discipline the board applies to mark-mccandlish. Custody proximity 0 because no opened record places him in contact with any material; access 0 because his claimed S-4 access is a claim and not documented access, and the board does not score A on a claim; disclosure role 3 because his entire documented function since 1989 has been publication of a claim, and the 1989 broadcasts are the single event that put Area 51 into worldwide public consciousness. Status 'alive' with no date: no death record exists and no birth record was opened, so the node carries no birth year and no age.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The Los Alamos Monitor of Sunday 27 June 1982, pages A1 and A8, in a front-page story by staff writer Terry England about a jet-powered Honda Lazar had built, describes him in the newspaper's own voice: 'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.'",
+          "source": "Los Alamos Monitor, 27 June 1982, A1 and A8, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "Stanton T. Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records what the page says about its own scope: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' The listing is real and it is not a laboratory staff listing. This qualification is routinely dropped when the directory is cited.",
+          "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "A Los Alamos colleague of Lazar's, interviewed on tape by Mark Farmer on 25 May 1996 and anonymised at his own request, said Lazar did work at the laboratory but 'was a contractor' under 'Kirk Mayer', and that Lazar 'claimed to be' a physicist with a degree from 'either Cal Tech or MIT or something like that, but I don't think that that was ever substantiated that he had a degree'.",
+          "source": "Mark Farmer, recorded telephone interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "Gene Huff records that Kirk-Mayer issued Lazar a 'Z number' of 094729 on 18 May 1982, and that both the laboratory and Kirk-Mayer later said they held no employment records for him.",
+          "source": "Gene Huff, synopsis posted to alt.conspiracy.area51, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "In his own narration on the 1991 videotape he states the shape of the claim: that he held 'secret and Above Top Secret security clearances of which the most easily verifiable is my early 1980s job here at the Los Alamos Ma[e]son physics facility'; that 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; that 'for the duration of my employment at S4 I was paid by the United States Navy'; that 'the S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; and that he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
+          "source": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions read via YouTube video kc10m6HFbDE at 1:41, 1:54, 2:19, 24:24 and 28:01, opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "THE CREDENTIAL CLAIM IS A COURT DOCUMENT, WHICH IS WHY IT IS TIER 1 RATHER THAN GOSSIP. Lazar's Pre-Sentence Report of 27 July 1990, produced for the Clark County court after his guilty plea, lists his reported education as '1978, Bachelor of Science Degree in Physics and Electronic Technology, Pacifica University'; '1982, Masters of Science in Physics, MIT'; '1985, Masters of Science in Electronic Technology, Cal Tech'. This is not a television boast that can be blamed on paraphrase; it is what he reported about himself to a court under sentence.",
+          "source": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood in a post of 14 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "Gene Huff's response the following day, 15 May 1995, is that the probation officer misunderstood: that Lazar claimed only to have 'took an English course and a history course' from Pacifica University by correspondence, not a degree, and that he 'had to petition for his diplomas because he had hodgepodged all of his classes from various institutions'. The board carries this rebuttal beside the report and does not adopt it.",
+          "source": "Gene Huff, reply posted 15 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "A Las Vegas Review-Journal report of Tuesday 19 June 1990, page 8B, by Warren Bates, headed 'Source in Channel 8's UFO series pleads guilty to pandering charge', records the plea and records contemporaneously that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. It also records, from police records, that 'Lazar told her he had master's degrees from two universities'.",
+          "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "A Las Vegas Review-Journal report of Tuesday 21 August 1990, page 2C, by Warren Bates, headed 'Judge gives UFO witness Lazar probation on pandering charge', records District Judge Jack Lehman sentencing him to probation with 150 hours of community service, an order to 'stay away from brothels and undergo psychotherapy', and one year of psychotherapy, the judge saying he 'could not make a determination regarding his claims'.",
+          "source": "Las Vegas Review-Journal, 21 August 1990, p 2C, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The same 21 August 1990 report describes Lazar's claim, as of that date, as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a different named place from Papoose Lake and from the Nellis range, and the board records the discrepancy rather than smoothing it.",
+          "source": "Las Vegas Review-Journal, 21 August 1990, p 2C, reprinted at otherhand.org, opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "Douglas Dean Johnson, who obtained the court file, establishes that Lazar received a three-year suspended sentence with probation which he completed; that in 1996 he petitioned to withdraw the guilty plea citing post-traumatic stress, hidden federal records and inadequate representation; that the District Attorney opposed on the ground that 'Lazar's new claims were irrelevant to his admitted and documented criminal activity'; and that the judge denied the petition, so the conviction stands.",
+          "source": "Douglas Dean Johnson, 'Bob Lazar and his Nevada felony: Some key documents', 31 January 2021, https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/ , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "THE STANDARD FRAMING OF THE FEDERAL MATTER IS WRONG AND THE PRIMARY RELEASE CORRECTS IT. It is widely repeated, including in Vice's 2019 reporting, that 'in 2006, Lazar pleaded guilty to violating the Federal Hazardous Substances Act'. The U.S. Consumer Product Safety Commission's own release of 20 July 2007 says something materially different: the COMPANY pled guilty, to three criminal counts, and the sentence was reported in 2007. 'United Nuclear Scientific Supplies LLC, of Edgewood, N.M., founded and operated by Robert Lazar, was fined $7,500 and received three years probation', after United Nuclear 'pled guilty to three criminal counts' before U.S. Chief Magistrate Lorenzo F. Garcia of the District of New Mexico. Robert Lazar and accountant Joy White appear in the separate civil consent decree, which permanently limited future sales of fireworks-related chemicals, prohibited sales of fuses, tubes and end caps, and required destruction of remaining inventory.",
+          "source": "U.S. Consumer Product Safety Commission, Release 07-249, 20 July 2007, https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "THE 2017 RAID IS A HOMICIDE FILE, NOT A UFO FILE. A two-page Laingsburg, Michigan police report, obtained under a state open-records request by Tim McMillan, records an 'Agency Assist' on 19 July 2017 supporting an FBI search of United Nuclear Scientific in aid of 'a homicide investigation out of Houghton, MI involving poison', and records that Lazar 'evidently waived his Fourth Amendment Rights and gave law enforcement permission to search the premise'.",
+          "source": "Laingsburg Police Department report, 19 July 2017, published by The Black Vault 1 July 2019, updated 11 June 2020, https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "The underlying homicide is the death of Janel Sturzl, 31, of thallium toxicity on 22 December 2015 in Houghton, Michigan. Lazar is not recorded as a suspect. Michigan State Police reporting quoted by McMillan reads: 'efforts will be made to contact/interview Bob Lazar (United Nuclear) in person regarding any Thallium sales.'",
+          "source": "Tim McMillan, 'Bob Lazar Says the FBI Raided Him to Seize Area 51's Alien Fuel. The Truth Is Weirder', Vice, 13 November 2019, https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/ , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "A negative FOIA result worth carrying: The Black Vault, which pursued FBI records on United Nuclear from November 2018 and received three releases totalling 315 pages, states that 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', and comments that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'.",
+          "source": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', releases of 55, 130 and 130 pages, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ , opened 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Los Alamos Monitor, 27 June 1982, A1 and A8, 'LA Man Joins The Jet Set - At 200 Miles An Hour', by Terry England, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/",
+          "date": "1982-06-27"
+        },
+        {
+          "name": "The Lazar Tape and Excerpts from the Government Bible, Gene Huff and Bob Lazar, Tri-Dot Productions, 1991, 40 minutes; captions read in full via YouTube video kc10m6HFbDE",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        },
+        {
+          "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/",
+          "date": "1990-06-19"
+        },
+        {
+          "name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/",
+          "date": "1990-08-21"
+        },
+        {
+          "name": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood, with Gene Huff's reply of 15 May 1995",
+          "url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm",
+          "date": "1990-07-27"
+        },
+        {
+          "name": "Douglas Dean Johnson, 'Bob Lazar and his Nevada felony: Some key documents'",
+          "url": "https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/",
+          "date": "2021-01-31"
+        },
+        {
+          "name": "U.S. Consumer Product Safety Commission, Release 07-249",
+          "url": "https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components",
+          "date": "2007-07-20"
+        },
+        {
+          "name": "Laingsburg Police Department report on the 19 July 2017 FBI search of United Nuclear Scientific, obtained by Tim McMillan, published by The Black Vault",
+          "url": "https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/",
+          "date": "2019-07-01"
+        },
+        {
+          "name": "Tim McMillan, Vice, on the 2017 raid and the Sturzl homicide",
+          "url": "https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/",
+          "date": "2019-11-13"
+        },
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, in the Stanton Friedman Collection on The Black Vault",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        },
+        {
+          "name": "Mark Farmer, recorded telephone interview with an anonymised Los Alamos colleague",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/",
+          "date": "1996-05-25"
+        },
+        {
+          "name": "Gene Huff, synopsis posted to alt.conspiracy.area51",
+          "url": "https://www.dreamlandresort.com/area51/lazar/synopsis.htm",
+          "date": "1995-03-12"
+        },
+        {
+          "name": "The Black Vault, FBI file on United Nuclear Scientific Supplies LLC",
+          "url": "https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/",
+          "date": "2023-11"
+        }
+      ],
+      "conflicts": [
+        "His own 1991 narration says 'for the duration of my employment at S4 I was paid by the United States Navy'. The W-2 form as others describe it names a 'Department of Naval Intelligence', which is not an entity that exists; the Office of Naval Intelligence sits inside the Department of the Navy. The two statements are not the same statement, and the board carries the discrepancy rather than resolving it, because the form itself was not opened.",
+        "The Teller anecdote has a date problem. His 1991 narration puts the Los Alamos Monitor jet-car story and Edward Teller's Los Alamos speech on the same day. Tom Mahood's 2018 retrospective puts the Monitor article on 27 June 1982 and Teller's lecture on the following day. The newspaper's own date is fixed, so both cannot be right. The anecdote survives as 'within a day' and is carried as such.",
+        "The sentence is described differently by two reliable routes. The Las Vegas Review-Journal of 21 August 1990 reports probation with 150 hours of community service and psychotherapy. Douglas Dean Johnson, working from the court file, describes a three-year suspended sentence with probation, completed. These are compatible readings of one disposition but they are not the same wording, and no session has reconciled them against the judgment of conviction itself."
+      ],
+      "unverified": [
+        "The W-2 form. It was NOT OPENED by this session in any form. The figure of $958.11 in general circulation is Gene Huff's recollection of a cheque he says he saw, in his own 1995 synopsis; Friedman, who had seen the form, describes it only as 'from the Department of Naval Intelligence', totalling 'under $1000.00'. NO EIN, NO ZIP CODE AND NO BOX CONTENTS ARE ASSERTED ANYWHERE ON THIS BOARD, including the 'E-6722MAJ' string and the employer identification number that circulate in the literature.",
+        "His polygraph examinations. Referred to constantly in the literature. No source for them was opened and nothing about them is carried on this node.",
+        "The EG&G recruitment route into the claimed job. It is the standard form of the account in the literature and no source for it was opened, so no edge to eg-and-g is proposed and the node makes no statement about it.",
+        "His birth date and age. No birth record was opened, so the node carries neither.",
+        "The Clark County docket number. Douglas Dean Johnson reproduces documents from the file but no case number came through, so none is asserted."
+      ]
+    },
+    {
+      "id": "john-lear",
+      "label": "John Olsen Lear",
+      "cls": "person",
+      "status": "dead",
+      "date": "2022-03-29",
+      "age": 79,
+      "loc": "Las Vegas, Nevada",
+      "locId": null,
+      "instId": null,
+      "sub": "Son of the Learjet founder and a documented pilot; from a dated statement of 29 December 1987 one of the field's most prolific claimants; present at two of the three 1989 desert viewings with Lazar",
+      "cluster": "witness",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 2,
+      "domains": [],
+      "narrative": "John Lear is the rare figure in this cluster whose ordinary career is fully documented and whose extraordinary claims are not. He was born on 3 December 1942, the son of William Powell Lear, founder of Lear Jet, and Moya Olsen Lear, and his papers sit inside the William P. and Moya Olsen Lear Family Collection at The Museum of Flight Archives. In May 1966 he was one of the pilots on a Learjet 24 flight around the world that set a large number of international records. His place in this cluster is chronological as much as evidentiary: his own public claim document is dated 29 December 1987, roughly eighteen months before Lazar reached KLAS-TV, and it circulated through the ParaNet bulletin board in early 1988, setting the frame that Lazar's 1989 account then fitted into. He and Lazar had met by 1988, and he was present at the first and third of the three Wednesday-night desert viewings in the spring of 1989, on 22 March and 5 April, the second of which ended with the group detained by the Lincoln County Sheriff. He is carried here as an early promoter and a viewing participant, not as an eyewitness to any facility. He died on 29 March 2022.",
+      "tierRationale": "Node tier C: proximity to the claim rather than to any programme. Custody proximity 0 and access 0 because nothing in the opened record gives him a clearance, an office or contact with material; his aviation career is documented and is not programme access. Disclosure role 2 because his 29 December 1987 statement is a dated, preserved artefact that shaped the field's frame before Lazar entered it, which is a real publication role short of the 3 carried by the originating claimant.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The Museum of Flight Archives authority record states: 'John Olsen Lear was born December 3, 1942' and 'John Lear died on March 29, 2022.' His materials sit inside the William P. and Moya Olsen Lear Family Collection, spanning 1938 to 2001. The archive's own summary line for him is 'UFO conspiracy theorist, pilot, and a one-time candidate for Nevada State Senate.'",
+          "source": "The Museum of Flight Archives, authority record for John Lear, https://archives.museumofflight.org/agents/people/4962 , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "In May 1966 he was one of the pilots on a Learjet 24 flight around the world that set a large number of international aviation records. The FAI record files were not opened and the count of records and the exact crew roles are not asserted here.",
+          "source": "The Museum of Flight Archives collection description, https://archives.museumofflight.org/agents/people/4962 , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "HIS OWN CLAIM DOCUMENT IS DATED AND PRECEDES LAZAR. A statement by Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation, survives in the BSRA/BSRF holdings at the Archives for the Unexplained and was, on the uploader's account, circulated on the ParaNet bulletin board in early 1988. This is roughly eighteen months before Lazar reached KLAS-TV. The item record was opened; the statement's text was not rendered by the fetch and no content from it is asserted.",
+          "source": "John Lear's Dec. 29, 1987 Statement, Internet Archive item uploaded by Rich Geldreich 10 June 2023, https://archive.org/details/john-lear-statement-1987 , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "Lear and Lazar had met by 1988. Lear was present at the first and third of the three Wednesday-night desert viewings, on 22 March 1989 and 5 April 1989, and Mahood's timeline records that at the first of those 'only Lear saw the elliptical shape through a telescope'. On 5 April 1989 the group, including Lear, was detained by the Lincoln County Sheriff after guards discovered them.",
+          "source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Museum of Flight Archives, authority record for John Lear, within the William P. and Moya Olsen Lear Family Collection",
+          "url": "https://archives.museumofflight.org/agents/people/4962",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "John Lear's Dec. 29, 1987 Statement, Internet Archive item record and provenance note",
+          "url": "https://archive.org/details/john-lear-statement-1987",
+          "date": "1987-12-29"
+        },
+        {
+          "name": "Tom Mahood, 'The Robert Lazar Timeline'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/",
+          "date": "2026-09-18"
+        }
+      ],
+      "unverified": [
+        "That John Lear was the route by which Lazar reached George Knapp. This is universally repeated and it is in nothing opened by this session. Mahood's timeline has Knapp beginning interviews with Lazar in March 1989 and has Lear at the viewings in the same weeks, but no opened source states the introduction. No edge on this board asserts it.",
+        "His FAA certificates. The Museum of Flight record gives his dates and his collection but no certificate detail. The frequently repeated claim that he held every FAA certificate issued was not checked against any FAA record and is not carried.",
+        "The text of his 29 December 1987 statement. Only the archive item record was read; the document itself was not rendered, so no content from it is on this node."
+      ]
+    },
+    {
+      "id": "gene-huff",
+      "label": "Gene Huff",
+      "cls": "person",
+      "status": "alive",
+      "date": null,
+      "age": null,
+      "loc": "Las Vegas, Nevada",
+      "locId": null,
+      "instId": null,
+      "sub": "Las Vegas real-estate appraiser; Lazar's friend from 1985; witness at all three 1989 desert viewings; writer and co-producer of the 1991 videotape",
+      "cluster": "witness",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 2,
+      "domains": [],
+      "narrative": "Gene Huff has two distinct roles in this cluster and the board should carry both, because the second is the structural one. He is a Las Vegas real-estate appraiser who met Lazar in 1985 and was socialising with him by 1988, and he is the named witness to the three Wednesday-night desert viewings of March and April 1989, the third of which ended with the group detained by the Lincoln County Sheriff. His first-hand claim is about lights seen from Tikaboo Valley and nothing more: he does not claim to have been inside any facility. His second role is that he wrote and co-produced the 1991 videotape, The Lazar Tape and Excerpts from the Government Bible, which is the artefact in which Lazar's whole account is fixed in datable form and which is the strongest opened source in this cluster. That makes him the publisher of the cluster's primary document, and the board treats publication as a structural fact. He is also the source of the $958.11 figure that circulates as the amount on Lazar's W-2: it is his recollection, in his own 1995 synopsis, of a cheque he says he saw.",
+      "tierRationale": "Node tier C: proximity to the claim, not credibility. Custody proximity 0 and access 0 because he has never claimed to have been inside anything or to have handled any material, and no record gives him any clearance. Disclosure role 2 because he authored and produced the videotape that carries the account, which is a genuine publication role but downstream of the claimant himself.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "His own self-description, in his synopsis posted to alt.conspiracy.area51 on 12 March 1995: 'I was working as a real estate appraiser in Las Vegas, and still am for that matter.' He and Lazar met in 1985 and 'by 1988 we had become friends and began to socialize together'.",
+          "source": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "HIS FIRST-HAND CLAIM IS ABOUT LIGHTS, NOT ABOUT A FACILITY. He places three desert viewings on 22 March, 29 March and 5 April 1989, the last of which ended when guards discovered the group and the Lincoln County Sheriff detained them. He makes no claim to have entered or seen any installation.",
+          "source": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "The $958.11 figure that circulates as the amount on Lazar's W-2 originates with him, as a recollection rather than a document: 'The check was for $958.11', and he states that he later verified 'Bob's W-2 reflected the money actually received'. The form itself was not opened by this session.",
+          "source": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "He wrote and co-produced the 1991 videotape The Lazar Tape and Excerpts from the Government Bible for Tri-Dot Productions, credited alongside Bob Lazar. This makes him the publisher of the primary artefact of the entire cluster.",
+          "source": "The Lazar tape and excerpts from the Government Bible, Internet Archive item, creator Gene Huff and Bob Lazar, publisher Tri-Dot Productions, 1991, https://archive.org/details/antigravity , opened 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gene Huff, synopsis posted to alt.conspiracy.area51, hosted on Glenn Campbell's Dreamland Resort site",
+          "url": "https://www.dreamlandresort.com/area51/lazar/synopsis.htm",
+          "date": "1995-03-12"
+        },
+        {
+          "name": "Gene Huff, reply to Tom Mahood on Lazar's academic background",
+          "url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm",
+          "date": "1995-05-15"
+        },
+        {
+          "name": "The Lazar tape and excerpts from the Government Bible, Internet Archive item record",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "unverified": [
+        "Whether the W-2 says what he recalls the cheque saying. He recalls a cheque for $958.11 and states that the W-2 matched it. The form was not opened by this session and the board asserts nothing about its contents."
+      ]
+    },
+    {
+      "id": "tom-mahood",
+      "label": "Tom Mahood",
+      "cls": "person",
+      "status": "alive",
+      "date": null,
+      "age": null,
+      "loc": "Orange County, California",
+      "locId": null,
+      "instId": null,
+      "sub": "Retired civil and traffic engineer with an MS in physics; author of the otherhand.org Lazar investigation, the most detailed documentary examination of the account in existence",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 2,
+      "domains": [],
+      "narrative": "Tom Mahood is the custody and analysis point for most of the documentary record in this cluster, and without a node for him the board's case-against edges have nothing to originate from. He describes himself on his own site as a former civil engineer and traffic engineer for Orange County, California, with a Master's degree in physics from Cal State Fullerton. His otherhand.org investigation reprints the Los Alamos Monitor front page of 27 June 1982, both Las Vegas Review-Journal reports of 1990, Mark Farmer's 1996 taped interview with an anonymised Los Alamos colleague, and David L. Morgan's physics critique, and it quotes Lazar's 1990 Pre-Sentence Report. His conclusion on the credentials is flat: 'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' His 2018 retrospective is the single best case-against document in the cluster precisely because it concedes what is true, granting that Lazar is 'amazingly believable', that Mahood himself initially found the story plausible, and that Lazar showed genuine technical cleverness. His counter-explanation is that there is nothing at Papoose Lake, that S-4 is a designator attaching to a Tonopah Test Range radar facility, and that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989.",
+      "tierRationale": "Node tier C: he is adjacent to the claim as an investigator, with no programme proximity of any kind. Custody proximity 0 and access 0. Disclosure role 2 because he forced a documentary record into the open and hosts the only openable copies of several primary items, which is the same function the board already credits to the-black-vault and john-greenewald, one step below the originating claimant.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "His own identification and background, on his site's about page: he is Tom Mahood, he worked as a civil engineer and traffic engineer for Orange County, California, later City Traffic Engineer for Orange, and he holds a Master's degree in physics from Cal State Fullerton.",
+          "source": "otherhand.org, 'About me', https://otherhand.org/about-me/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "His conclusion on the credentials: 'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' His investigation records that 'Standard inquiries have been made by George Knapp and Stanton Friedman and turned up nothing'; that Glenn Campbell in 1993 found no Lazar 'in any MIT student directory between 1978 and 1990'; and that Natalie Gilmore of Caltech Graduate Studies stated that Caltech 'does not currently have, nor has it ever had any sort of graduate degree in electronics or electronic technology'.",
+          "source": "Tom Mahood, 'Lazar Flaws - Education', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "His 2018 retrospective concludes that there is 'nothing at Papoose Lake', that S-4 actually refers to a radar facility at the Tonopah Test Range, and that Lazar constructed the alien-craft narrative as a cover after security caught him bringing friends to watch classified tests in April 1989. It concedes in the same document that Lazar is 'amazingly believable', that Mahood initially found the story plausible before investigating the details, and that Lazar demonstrated real technical cleverness as a troubleshooter.",
+          "source": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "On the Los Alamos question he concludes that Lazar worked as an electronic technician for the contractor Kirk-Mayer rather than as a staff physicist, that the phone-directory listing reflects that contractor relationship, and that the Monitor article's description followed what Lazar told the reporter. He also accepts that the W-2 could be legitimate, representing a brief stint at Groom, while insisting 'it doesn't mean saucers exist at Papoose'.",
+          "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "On element 115 his page assembles the prior art: Glenn Seaborg's article in Scientific American of April 1969, pages 57 to 67, with graphics of expected half-lives for superheavy elements, and a 1970 textbook describing element 114, with 114 protons and 184 neutrons, as 'an island of stability in a sea of instability'. The island of stability was published popular physics long before 1989.",
+          "source": "Tom Mahood, 'Element 115 tidbits', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/ , opened 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "otherhand.org, 'About me', identifying the author",
+          "url": "https://otherhand.org/about-me/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "Tom Mahood, 'Lazar Flaws - Education'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/",
+          "date": "2018"
+        },
+        {
+          "name": "Tom Mahood, 'Element 115 tidbits'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "Tom Mahood, 'The Robert Lazar Timeline'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/",
+          "date": "2026-09-18"
+        }
+      ],
+      "unverified": [
+        "The exact dates of composition of most of the otherhand.org Lazar pages. The site's own index warns 'You should be aware this is all very old stuff!' and the investigation began in the early 1990s, but only the physicist's critique and the 2018 retrospective carry explicit dates."
+      ]
+    },
+    {
+      "id": "george-knapp",
+      "sources": [
+        {
+          "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/",
+          "date": "1990-06-19"
+        },
+        {
+          "name": "Tom Mahood, 'The Robert Lazar Timeline'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+          "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/",
+          "date": "2018"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 1,
+          "text": "CONTEMPORANEOUS CONFIRMATION OF THE 1989 REPORTING. A Las Vegas Review-Journal report of 19 June 1990, page 8B, by Warren Bates, records that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. This is the only contemporaneous documentary confirmation opened by this session that the 1989 Lazar broadcasts happened at all.",
+          "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18"
+        },
+        {
+          "tier": 3,
+          "text": "Tom Mahood's timeline records that Knapp began interviewing Lazar in March 1989, that the silhouetted interviews under the pseudonym 'Dennis' aired in May 1989, that KLAS-TV identified and interviewed him publicly on 10 November 1989, and that Lazar appeared on Knapp's KLAS programme 'On The Record' on 9 December 1989. No 1989-dated artefact was opened by this session and these dates are carried at Tier 3.",
+          "source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "He appears in and is credited on Jeremy Corbell's 2018 documentary Bob Lazar: Area 51 and Flying Saucers, alongside Lazar himself and Joy White.",
+          "source": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "edward-teller",
+      "sources": [
+        {
+          "name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE at 35:48 to 36:32",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        },
+        {
+          "name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/",
+          "date": "2018"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 3,
+          "text": "Bob Lazar claims Teller as his route into the classified work, in his own 1991 narration: 'while working at Los Alamos National Lab in 1982 the local newspaper did a front page story on a jet car [I'd] built coincidentally Dr Teller was giving a speech in Los Alamos that same day we met and had a short chat'. He says he later wrote to Teller and 'inquired about a job', and that 'Dr Teller responded by telephone and told me that it was no longer active but' referred him on. He adds that he never asked Teller whether he remembered him. The claim is uncorroborated by any opened record and its internal dating conflicts with the newspaper's own date of 27 June 1982, Teller's Los Alamos lecture falling on the following day per Mahood. Carried at Tier 3 and asserting only what Lazar said.",
+          "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 35:48 to 36:32 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "stanton-friedman",
+      "sources": [
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, in the Stanton Friedman Collection on The Black Vault",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 2,
+          "text": "THE CREDENTIAL CASE AGAINST LAZAR WAS MADE BY A UFO PROPONENT, NOT A DEBUNKER, AND THAT IS THE PART THE LITERATURE LOSES. Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, wrote 'The Bob Lazar Fraud' in December 1997, updated January 2011: 'No diplomas, no resumes, no transcripts, no memberships in professional organizations, no papers, no pages from MIT or Caltech yearbooks.' On the schools: 'Pierce said he had taken electronics courses in the late 1970s. The other three schools never heard of him.' On the professor Lazar named as a Caltech instructor: 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman that Lazar had taken at least one of his Pierce classes in the late 1970s.",
+          "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', December 1997, updated January 2011, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "On the two documents most often cited in Lazar's favour, Friedman, who had seen both, records what they actually show. On the W-2: 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' On the Los Alamos directory: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' On element 115: 'It has a very short half life so there is no way to accumulate pounds of it.'",
+          "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "jeremy-corbell",
+      "sources": [
+        {
+          "name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+          "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/",
+          "date": "2018"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 1,
+          "text": "He directed Bob Lazar: Area 51 and Flying Saucers, 2018, 97 minutes, narrated by Mickey Rourke and featuring Bob Lazar, George Knapp and Joy White. It is the artefact that returned the S-4 claim to mass circulation thirty years after the 1989 broadcasts, and it is how the July 2017 search of United Nuclear entered the UFO literature.",
+          "source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "tim-mcmillan",
+      "sources": [
+        {
+          "name": "Laingsburg Police Department report on the 19 July 2017 FBI search, obtained by Tim McMillan and published by The Black Vault",
+          "url": "https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/",
+          "date": "2019-07-01"
+        },
+        {
+          "name": "Tim McMillan, 'Bob Lazar Says the FBI Raided Him to Seize Area 51's Alien Fuel. The Truth Is Weirder', Vice",
+          "url": "https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/",
+          "date": "2019-11-13"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 1,
+          "text": "He obtained, under a local open-records request, the two-page Laingsburg, Michigan police report documenting the 19 July 2017 FBI search of Bob Lazar's business United Nuclear Scientific, and established through his Vice reporting of 13 November 2019 that the search supported a homicide investigation out of Houghton, Michigan into the thallium death of Janel Sturzl, 31, on 22 December 2015, in which Lazar is not recorded as a suspect. This is the documentary correction to the claim that the raid was about recovering element 115.",
+          "source": "Tim McMillan, Vice, 13 November 2019, and the Laingsburg Police Department report published by The Black Vault 1 July 2019, https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "id": "s-4-papoose-lake",
+      "cls": "location",
+      "label": "S-4 / Papoose Lake, Nevada",
+      "cluster": "witness",
+      "sub": "THE HUB. A claimed nine-hangar facility said to be built into a mountain about fifteen miles south of Groom Lake, at a real dry lake on which aerial photography shows no installation",
+      "tier": "B",
+      "C": 0,
+      "A": 0,
+      "D": 3,
+      "dateStart": "1988-12",
+      "dateEnd": "1989-04",
+      "desc": "THIS NODE RECORDS A CLAIM AND NOT A PLACE WHOSE CONTENTS ARE ESTABLISHED. Papoose Lake is a real dry lake bed in Lincoln County, Nevada, a few miles southwest of the Groom Lake facility and adjacent to the Papoose Range. Nothing documented attaches any facility to it. What attaches to it is an assertion: from 1989 Bob Lazar has said that between December 1988 and April 1989 he worked at a site he calls S-4, about fifteen miles south of Groom Lake on the Nellis range, built into a mountainside behind nine hangar doors angled at about sixty degrees, holding nine disc-shaped craft whose propulsion he was hired to back-engineer. The node exists because that assertion is the convergence point of an entire cluster: Lazar, John Lear, Gene Huff, George Knapp, the 1989 KLAS broadcasts, the 1991 videotape and the 2018 Corbell documentary all run into it, and so do the people who say it is wrong. The documented half of the surrounding geography is real and should not be blurred into the claim: the Groom Lake facility was officially acknowledged when the CIA history of the U-2 and OXCART programmes by Gregory Pedlow and Donald Welzenbach was declassified in summer 2013. That is a statement about Groom Lake. It is not a statement about Papoose Lake. The node is named s-4-papoose-lake rather than s-4 deliberately, because the two strongest sceptical accounts both say the designator S-4 is real and attaches to a radar facility elsewhere on the range; a node called s-4 would silently adopt the claimant's referent as the board's own.",
+      "tierRationale": "Node tier B is proximity, not credibility. B rather than A because nothing documented attaches a facility to this place, and B rather than C because the claim is structurally central to the field rather than adjacent to it. C0 and A0 on the same principle the board applies to arv-fluxliner: no custody of material is documented and claimed access is not documented access, so no A is scored on a claim. D3 because the 1989 broadcasts about this claimed site are the single event that put Area 51 into worldwide public consciousness. A NOTE ON DEGREE: this node will accumulate a high degree because every claimant and every sceptic in the cluster edges into it. High degree here means 'a lot is claimed about this place' and it never means 'this is true'. witness-chain is deliberately excluded from PROGRAM_EDGES for exactly this reason.",
+      "claims": [
+        {
+          "tier": 2,
+          "text": "THE CLAIM, in the claimant's own narration on the 1991 videotape: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; 'The S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; he was bussed there from near 'the gro[o]m mountains in the groom[ ]dry lake bed from Area 51... to an even more highly secure' site; and he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
+          "source": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions at 1:54, 24:24, 27:16 and 28:01 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "THE PLACE IS REAL AND THE FACILITY IS NOT DOCUMENTED. Papoose Lake is a dry lake bed in Lincoln County, Nevada, a few miles southwest of the Groom Lake facility and adjacent to the Papoose Range. The only source cited for it is the USGS Geographic Names Information System, which this session did not open, so no feature identifier and no coordinates are asserted anywhere on this node.",
+          "source": "Wikipedia article on Papoose Lake, opened only to read its citation, https://en.wikipedia.org/wiki/Papoose_Lake , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "THE DOCUMENTED HALF OF THE GEOGRAPHY, WHICH IS ABOUT GROOM LAKE AND NOT ABOUT PAPOOSE LAKE. The Groom Lake facility's existence was officially acknowledged by the declassification, in summer 2013, of the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, posted as National Security Archive Electronic Briefing Book 443, edited by Jeffrey T. Richelson on 29 October 2013.",
+          "source": "National Security Archive Electronic Briefing Book 443, ed. Jeffrey T. Richelson, 29 October 2013, https://nsarchive.gwu.edu/node/3324 , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "THE LAKEBED HAS BEEN PHOTOGRAPHED FROM THE AIR, LEGALLY, AND THERE IS NOTHING ON IT. Tyler Rogoway of The War Zone published aerial images taken on a pilot's authorised flight directly over Papoose Lake: 'nothing appears to be there, just as satellite images show. There isn't even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.' Rogoway states his own position in the same piece: 'No, I don't believe Bob's story, but I do think that it is one of the most entertaining tales ever told.'",
+          "source": "Tyler Rogoway, The War Zone, updated 13 April 2020, https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "THE SECOND-BEST FINDING IN THIS CLUSTER: TWO PEOPLE REACH THE SAME COUNTER-EXPLANATION BY UNRELATED ROUTES. Tom Mahood, a physics graduate who spent years on the documentary record, concludes in his 2018 retrospective that there is 'nothing at Papoose Lake' and that S-4 actually refers to a radar facility at the Tonopah Test Range. Separately, T.D. Barnes, a former CIA and NASA engineer who worked at Groom Lake, says the real Site 4 is a remote radar site north of the main facility that held captured Soviet equipment, that this and not an underground base is what Lazar referred to, and that a named retired Area 51 security chief confirmed to him that Lazar appears on no manifest. Neither route depends on the other: one is documentary and civilian, the other is recollection by a former range engineer. Shared conclusions from a shared method are not corroboration; these two do not share a method.",
+          "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 0:57:13 and 1:01:21 to 1:02:58, recorded 2026-07-20"
+        },
+        {
+          "tier": 1,
+          "text": "THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990 describes Lazar's claim, as of that date, as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a different named place from Papoose Lake and from the Nellis range. The board carries the discrepancy on the hub rather than smoothing it into the later settled version.",
+          "source": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18"
+        },
+        {
+          "tier": 3,
+          "text": "NEGATIVE FINDING, STATED AS ONE. No opened government record of any kind names a facility called S-4 at Papoose Lake. That is a statement about the searching done on 18 September 2026 and it is not a proof of absence.",
+          "source": "research/leads/verified-lazar-s4-2026-09-18.md, this board's own research pass, 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions read in full via YouTube video kc10m6HFbDE",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        },
+        {
+          "name": "National Security Archive Electronic Briefing Book 443, ed. Jeffrey T. Richelson, on the declassified CIA U-2 and OXCART history",
+          "url": "https://nsarchive.gwu.edu/node/3324",
+          "date": "2013-10-29"
+        },
+        {
+          "name": "Tyler Rogoway, The War Zone, aerial photographs of Papoose Lake taken on an authorised overflight",
+          "url": "https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends",
+          "date": "2020-04-13"
+        },
+        {
+          "name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/",
+          "date": "2018"
+        },
+        {
+          "name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/",
+          "date": "1990-08-21"
+        },
+        {
+          "name": "Wikipedia article on Papoose Lake, opened only to read its underlying citation to the USGS Geographic Names Information System",
+          "url": "https://en.wikipedia.org/wiki/Papoose_Lake",
+          "date": "2026-09-18"
+        }
+      ],
+      "conflicts": [
+        "The designator itself is disputed. Lazar uses S-4 for a claimed hangar complex at Papoose Lake. Tom Mahood and T.D. Barnes both say S-4 is a real designator attaching to a radar facility on the Tonopah side of the range. The board's geographic edge to l-tonopah records that dispute and must not be read as linking the claimed site to Tonopah.",
+        "The place named by the claim changed. In August 1990 it was reported in open court coverage as the Nevada Test Site; the settled later version is Papoose Lake on the Nellis range. These are different jurisdictions as well as different places, the first being a Department of Energy site and the second lying within the Air Force range."
+      ],
+      "unverified": [
+        "The USGS Geographic Names Information System record for Papoose Lake. The GNIS application programming interface returned HTTP 404 and the gazetteer is a JavaScript application, so the record was NOT OPENED. No feature identifier, class or coordinates are asserted.",
+        "Any government document using the designator S-4, for Papoose Lake or anywhere else. DOE/NV-715, the Nevada Test Site Guide, which would show the Department of Energy's own area numbering, returned HTTP 404 at the URL tried and was NOT OPENED. The radar-site counter-explanation therefore rests on Mahood and Barnes rather than on a government document.",
+        "Whether anything was ever built at Papoose Lake at any date. The overflight photography establishes the present state of the lakebed and no more."
+      ]
+    },
+    {
+      "id": "element-115-claim",
+      "cls": "program",
+      "label": "Element 115: the Lazar claim and moscovium",
+      "cluster": "witness",
+      "sub": "The claimed stable, machinable superheavy fuel of the S-4 propulsion account, set beside the real element 115 synthesised in 2003, assigned in 2015 and named moscovium in 2016",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 2,
+      "dateStart": "1989",
+      "dateEnd": "2016-11-28",
+      "desc": "THIS NODE RECORDS A CLAIM AND A SEPARATE PHYSICAL FACT THAT HAPPEN TO SHARE A NUMBER, AND IT IS NOT AN ASSERTION THAT THEY ARE THE SAME THING. The claim is Lazar's: that a stable isotope of element 115 was the fuel of the reactor he says he worked on, that it could be machined into triangular wedges and stored, that 223 grams would run for twenty to thirty years, and that its nuclear binding field, which he calls gravity A and identifies with the strong nuclear force, extends past the perimeter of the atom so that it can be accessed and amplified. The fact is that element 115 was synthesised in a Dubna and Lawrence Livermore experiment published in Physical Review C on 2 February 2004, that the International Union of Pure and Applied Chemistry assigned discovery priority on 30 December 2015, and that the name moscovium was approved on 28 November 2016. The two do not meet. Lazar's claim is not that element 115 exists, which was never controversial and was predicted popular physics from 1969; it is that a stable isotope of it exists and that he handled half a pound of it. Nothing in the 2004 paper, the 2015 priority decision or the 2016 naming touches that. Equally, the hostile version, that he invented a number and got lucky, is also wrong: the island of stability near element 114 was in Scientific American in April 1969 and in undergraduate textbooks by 1970. The correct finding is neither prescient nor fabricated from nothing. It is available prior art, used. The board carries the claim as a claim and the element as an element, on one node so that the collision is visible in one place.",
+      "tierRationale": "Node tier C: this is a claim object, adjacent to the programme rather than inside it. C0 and A0 because no opened record places anyone in contact with any such material. D2 because the element-115 line is one of the two or three things that keeps the S-4 claim in public circulation, a real publication effect one step below the claim as a whole. A NOTE ON CLASS: the board has no class for a material or a substance, and this entry uses cls 'program' on the precedent of arv-fluxliner, which carries a claimed object under the same class. That is a shape compromise and not a statement that any programme existed.",
+      "claims": [
+        {
+          "tier": 2,
+          "text": "WHAT LAZAR CLAIMED, in his own 1991 narration. That stable superheavy elements exist 'in the 114 115 range which don't appear on a periodic chart' and that 'Beyond Element 115 the elements become unstable again and in fact element 116 decays in fractions of a second'. That 'the power source is a reactor which uses this element 115 as its fuel', with 115 'used as a Target and is bombarded with protons', a proton entering a 115 nucleus producing 'an atom of element 116 which remember decays instantly', radiating antimatter which is then annihilated for power. That 'only 223 grams of 115 which is just under half a pound can be utilized for a period of 20 to 30 years', that 'element 115's melting point is 1740 degrees Celsius', and that 'the element 115 is machined into triangles like this and is then inserted into the reactor'. Auto-generated captions at 18:42, 19:01, 23:31 and 25:34, so wording is approximate.",
+          "source": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "THE LOAD-BEARING PHYSICAL CLAIM, which is the one the physics objections attack: 'The most important attribute of these heavier stable elements is that the gravity a wave is so abundant that it actually extends past the perimeter of the atom', and separately 'gravity a is what is currently being labeled as the strong nuclear force in mainstream physics'.",
+          "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 10:43 and 14:14 to 14:26, https://archive.org/details/antigravity , opened 2026-09-18"
+        },
+        {
+          "tier": 3,
+          "text": "WHAT THE CLAIM WOULD REQUIRE, STATED PRECISELY. An isotope of atomic number 115 with a half-life long enough to be produced in bulk, turned on a lathe into triangular wedges, stored, and consumed at a few grams a year across twenty to thirty years, which is a half-life of years at an absolute minimum and in practice geological. And a strong nuclear force whose range grows with nuclear mass until it reaches outside the atom. This is a stated inference from the claim's own terms and is marked Tier 3 as such.",
+          "source": "research/leads/verified-lazar-s4-2026-09-18.md section 3.1, reasoning from the 1991 tape's own content, 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "WHAT WAS ACTUALLY SYNTHESISED. Element 115 was first reported in Oganessian et al., 'Experiments on the synthesis of element 115 in the reaction 243Am(48Ca,xn)291-x115', Physical Review C volume 69, article 021601(R), published 2 February 2004, a Dubna and Lawrence Livermore collaboration. The abstract reads: 'With a beam dose of 4.3x10^18 248-MeV Ca48 projectiles, we observed three similar decay chains consisting of five consecutive alpha decays, all detected in time intervals of about 20s and terminated at a later time by a spontaneous fission with a high-energy release (total kinetic energy ~220MeV). At a higher bombarding energy of 253MeV, with an equal Ca48 beam dose, we registered a different decay chain of four consecutive alpha decays detected in a time interval of about 0.5s, also terminated by spontaneous fission.' The isotopes are 288 and 287, at cross sections of roughly 3 picobarn and 1 picobarn.",
+          "source": "Oganessian et al., Physical Review C 69, 021601(R), 2 February 2004, https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601 , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "A PRECISION POINT USUALLY GOT WRONG IN BOTH DIRECTIONS. The International Union of Pure and Applied Chemistry assigned discovery priority for element 115 on 30 December 2015 to 'the Dubna-Livermore-Oak Ridge collaborations', and the basis given is work 'starting in 2010, and subsequently confirmed in 2012 and 2013, have met the criteria for discovery'. The priority statement therefore rests on the 2010 to 2013 work and not on the 2003 experiment. The Joint Working Party report is Karol, Barber, Sherrill, Vardaci and Yamazaki, Pure and Applied Chemistry 88 (2016) 155.",
+          "source": "IUPAC, 'Discovery and assignment of elements with atomic numbers 113, 115, 117 and 118', 30 December 2015, https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/ , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "The name moscovium, symbol Mc, was formally approved on 28 November 2016 and announced on 30 November 2016: 'Moscovium with the symbol Mc for element 115... proposed by the discoverers at the Joint Institute for Nuclear Research, Dubna (Russia), Oak Ridge National Laboratory (USA), Vanderbilt University (USA) and Lawrence Livermore National Laboratory (USA)', in recognition of the Moscow region.",
+          "source": "IUPAC, 'IUPAC announces the names of the elements 113, 115, 117 and 118', 30 November 2016, https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/ , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "THE COLLISION, STATED WITHOUT OVERSTATEMENT AND WITHOUT SOFTENING. Nothing about moscovium is stable, machinable, storable or available in gram quantities: it is produced one atom at a time at cross sections of about one picobarn and its decay chains run to completion within seconds. That is a direct contradiction of the claim's central requirement. It is NOT a refutation of the existence of element 115, which was never in dispute and was predicted long before 1989. Skeptic magazine's April 2026 treatment states the position correctly: IUPAC recognition 'does not validate Lazar's specific claims about a stable isotope or gravity propulsion'.",
+          "source": "Physical Review C 69, 021601(R), 2 February 2004; and Emile Kinley-Gauthier, 'The Strange Case of Bob Lazar', Skeptic, 23 April 2026, https://www.skeptic.com/article/the-strange-case-of-bob-lazar/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "THE PRIOR ART, WHICH CUTS AGAINST THE HOSTILE READING AS WELL AS THE CREDULOUS ONE. The island of stability near element 114 was mainstream, popularised physics well before 1989. Glenn Seaborg's article in Scientific American of April 1969, pages 57 to 67, carried graphics of expected half-lives for superheavy elements, and a 1970 chemistry textbook described element 114, with 114 protons and 184 neutrons, as 'an island of stability in a sea of instability'. A reader of popular science in the 1970s and 1980s had 114 and 115 available. The Seaborg article itself was not opened and is cited here only as Mahood cites it.",
+          "source": "Tom Mahood, 'Element 115 tidbits', citing Seaborg, Scientific American, April 1969, pp 57-67, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "THE PHYSICS OBJECTIONS, NAMED AND DATED. Dr David L. Morgan, a particle physicist, in 'A Physicist's Critique' of 26 August 1996, revised April 2001, makes three. First, on identifying gravity with the strong force: 'The strong nuclear force has NOTHING TO DO WITH GRAVITY... The equations and coupling strengths which describe the two forces are totally different and unrelated.' Second, on the force reaching outside the atom: 'The nuclear force extends out to about the same distance away from a nucleus NO MATTER HOW MASSIVE THE NUCLEUS IS. This fact is fundamental to the science of nuclear physics.' Third, and the one that does not depend on any model of gravity, an energy-conservation objection: if the antimatter must be manufactured on board by bombarding 115 with protons, the energy required equals the energy released on annihilation, so 'If you have to MAKE your own antimatter on board, your system produces NO NET ENERGY AT ALL!!'",
+          "source": "Dr David L. Morgan, 'A Physicist's Critique', 26 August 1996, revised April 2001, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/a-physicists-critique/ , opened 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Oganessian et al., 'Experiments on the synthesis of element 115 in the reaction 243Am(48Ca,xn)291-x115', Physical Review C 69, 021601(R)",
+          "url": "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601",
+          "date": "2004-02-02"
+        },
+        {
+          "name": "IUPAC, discovery and assignment of elements 113, 115, 117 and 118",
+          "url": "https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/",
+          "date": "2015-12-30"
+        },
+        {
+          "name": "IUPAC announces the names of the elements 113, 115, 117 and 118; names approved 28 November 2016",
+          "url": "https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/",
+          "date": "2016-11-30"
+        },
+        {
+          "name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        },
+        {
+          "name": "Dr David L. Morgan, 'A Physicist's Critique', hosted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/a-physicists-critique/",
+          "date": "1996-08-26"
+        },
+        {
+          "name": "Tom Mahood, 'Element 115 tidbits', on the pre-1989 prior art",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "Emile Kinley-Gauthier, 'The Strange Case of Bob Lazar', Skeptic",
+          "url": "https://www.skeptic.com/article/the-strange-case-of-bob-lazar/",
+          "date": "2026-04-23"
+        }
+      ],
+      "unverified": [
+        "The half-lives of the moscovium isotopes. The primary 2004 paper gives decay-chain durations, not isotope half-lives. The figures in general circulation, about 38 milliseconds for moscovium-287 and about 193 milliseconds for moscovium-288, come from a Wikipedia isotope table that this session did not follow through to the underlying nuclear data compilation, and THEY ARE NOT ASSERTED. What the paper itself supports is that five-step decay chains ran to completion inside about twenty seconds and a four-step chain inside about half a second, from single atoms produced at picobarn cross sections.",
+        "Glenn Seaborg's Scientific American article of April 1969 was NOT OPENED. It is cited here only as Tom Mahood cites it, and the page range of 57 to 67 is his."
+      ]
+    },
+    {
+      "id": "lazar-tape-1991",
+      "cls": "document",
+      "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
+      "cluster": "witness",
+      "sub": "Forty-minute videotape written and produced by Gene Huff with Bob Lazar for Tri-Dot Productions, in which Lazar narrates the S-4, element 115 and gravity-wave account in his own words",
+      "tier": "B",
+      "C": 0,
+      "A": 0,
+      "D": 2,
+      "dateStart": "1991",
+      "dateEnd": null,
+      "desc": "This is the strongest artefact in the Lazar cluster and it is the one that was actually opened. It is a forty-minute videotape published by Tri-Dot Productions in 1991, created by Gene Huff and Bob Lazar, archived on the Internet Archive since 6 April 2007 and mirrored on YouTube, whose English auto-generated captions run to 38:39 and were read in full by this board's research pass on 18 September 2026. Its value is that it fixes the entire claim in datable, complete, citable form in the claimant's own voice, two years after the 1989 broadcasts and long before the modern podcast circuit. Every element-115 claim, every S-4 description and the Edward Teller anecdote carry timestamps in it. The board should anchor the cluster's claims here rather than on any later interview, because a 1991 videotape cannot be revised in response to later objections and a 2019 interview can. Two cautions belong on the node. The captions are machine-generated, so all quotation from it is approximate and is marked as such wherever it is used. And a videotape in which a claimant narrates his own claim is evidence of the claim, never of its content.",
+      "tierRationale": "Node tier B: a dated, complete primary artefact carrying the claim in the claimant's own words, on the same footing the board gives scott-sorensen-notes-1990 in the ARV cluster. C0 and A0 because a document holds no custody of material and no access. D2 because the tape is a genuine publication event in the claim's propagation, downstream of the 1989 broadcasts.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The artefact: 'The Lazar tape and excerpts from the Government Bible', creator Gene Huff and Bob Lazar, publisher Tri-Dot Productions, 1991, forty minutes, 449.6 MB, uploaded to the Internet Archive by 'NewAge2001' on 6 April 2007 and marked public domain. The Archive item offers video formats only and carries no transcript or text layer.",
+          "source": "Internet Archive item 'antigravity', https://archive.org/details/antigravity , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "Its English auto-generated captions were retrieved in full on 18 September 2026 through the YouTube mirror at video identifier kc10m6HFbDE: 1,046 caption segments running to 38:39, which matches the forty-minute runtime given by the Internet Archive item.",
+          "source": "YouTube video kc10m6HFbDE, captions retrieved via the TubeAlfred connector, 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "It is the anchor for the following claims elsewhere on this board, each with a timestamp: the S-4 siting and employment dates at 1:54 to 2:22; payment 'by the United States Navy' at 2:19; the bussing from Groom at 27:16; the nine hangar doors at 28:01; the badge description at 28:13; the blue-folder briefings at 31:50; the nine discs at 24:24; the gravity A and gravity B distinction at 9:54 to 11:07; the identification of gravity A with the strong nuclear force at 10:43; the claim that the field extends past the perimeter of the atom at 14:14; the element 115 reactor and antimatter account at 18:42 to 23:22; the 223 grams and 1740 degrees Celsius figures at 23:31; the machining into triangles at 25:34; and the Edward Teller anecdote at 35:48 to 36:32.",
+          "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "The Lazar tape and excerpts from the Government Bible, Internet Archive item record: creator, publisher, year, runtime, uploader and upload date",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "unverified": [
+        "The accuracy of individual words in every quotation drawn from this tape. The captions are machine-generated. Where a quotation matters, a later session should confirm it against the audio. Known caption corruptions already identified include 'Maison' for 'Meson', 'grew' for 'Groom' and 'Dr Taylor' for 'Dr Teller'.",
+        "Whether the Internet Archive copy is complete or identical to the 1991 release. Only the item record and the YouTube mirror's captions were examined."
+      ]
+    },
+    {
+      "id": "klas-lazar-broadcasts-1989",
+      "cls": "document",
+      "label": "The KLAS-TV Lazar broadcasts, 1989",
+      "cluster": "witness",
+      "sub": "George Knapp's KLAS-TV reports of 1989, first with Lazar silhouetted under the pseudonym 'Dennis' and then under his own name",
+      "tier": "B",
+      "C": 0,
+      "A": 0,
+      "D": 3,
+      "dateStart": "1989-05",
+      "dateEnd": "1989-12-09",
+      "desc": "THIS NODE IS DELIBERATELY INCOMPLETE AND SAYS SO, on the precedent already set on this board by ronald-moultrie, scott-bray and brad-steiger, which were built the same way on 18 September 2026. The broadcasts are the custody point for the entire S-4 claim and the most consequential media artefact in the cluster: they are what put Area 51 into worldwide public consciousness. Not one of them was opened by this board's research pass. KLAS's own site at 8newsnow.com, which carries George Knapp's retrospectives on the story, returned HTTP 403 to three separate requests on 18 September 2026, and no 1989-dated listing, recording or transcript was reached by any other route. What the node therefore rests on is one contemporaneous newspaper line: the Las Vegas Review-Journal of 19 June 1990 recording that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. That is a Tier 1 anchor for the existence and consequence of the broadcasts. The air dates are not: the May 1989 'Dennis' interview and the 10 or 11 November 1989 named interview are carried at Tier 3 from Tom Mahood's timeline. The node is built thin and honest rather than padded, and a later session should replace the Tier 3 dates with an opened artefact.",
+      "tierRationale": "Node tier B: the originating publication of the claim, structurally central to the cluster, which is proximity and not credibility. C0 and A0: a broadcast holds no custody of material and no access. D3 because the disclosure effect of these broadcasts is the largest in the cluster by a wide margin and arguably among the largest on the board. The node's own evidence is thin and that is recorded in its unverified list rather than hidden behind its tier.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "THE ANCHOR. A Las Vegas Review-Journal report of Tuesday 19 June 1990, page 8B, by Warren Bates, records contemporaneously that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. This establishes that the 1989 broadcasts existed, that Lazar was their centre, and that they had already won recognition by mid-1990.",
+          "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18"
+        },
+        {
+          "tier": 3,
+          "text": "THE AIR DATES ARE TIER 3 AND MUST STAY THERE UNTIL AN ARTEFACT IS OPENED. Tom Mahood's timeline records that George Knapp began interviewing Lazar in March 1989 'for safekeeping purposes'; that in May 1989 'his silhouetted interviews with Knapp aired on KLAS-TV using the pseudonym Dennis'; that on 10 November 1989 'KLAS-TV identified and interviewed RL publicly'; and that on 9 December 1989 Lazar appeared on 'On The Record', hosted by Knapp on KLAS-TV. Some accounts give 11 November rather than 10 November for the named interview. No 1989-dated artefact was opened by this board.",
+          "source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18"
+        },
+        {
+          "tier": 3,
+          "text": "Two further dated 1989 appearances are recorded by the same timeline and are useful chiefly as artefacts a later session could try to open: 'Billy Goodman Happening' radio with Lazar and Gene Huff on 21 November 1989, and the same programme again on 20 December 1989.",
+          "source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18"
+        },
+        {
+          "tier": 3,
+          "text": "Knapp's 1990 UFO reporting is said to have won a United Press International 'Individual Achievement by a Journalist' award. The underlying citation is a Simon and Schuster author profile which this board did not open, and the claim is carried at Tier 3 accordingly. The contemporaneous Review-Journal reference to an 'award winning series' in June 1990 is consistent with it but does not name the award.",
+          "source": "Wikipedia article on George Knapp, opened only to read its underlying citation to a Simon and Schuster author profile, https://en.wikipedia.org/wiki/George_Knapp_(television_journalist) , opened 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/",
+          "date": "1990-06-19"
+        },
+        {
+          "name": "Tom Mahood, 'The Robert Lazar Timeline'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/",
+          "date": "2026-09-18"
+        }
+      ],
+      "unverified": [
+        "NO 1989 ARTEFACT WAS OPENED. Not a broadcast, not a recording, not a transcript, not a television listing, not a 1989-dated newspaper notice. This node is built deliberately incomplete on the precedent of ronald-moultrie, scott-bray and brad-steiger, and it should not be tidied up by a later session filling the dates in from memory.",
+        "The exact air dates. May 1989 for the silhouetted 'Dennis' interview and 10 or 11 November 1989 for the named interview both rest on secondary chronologies. The discrepancy between 10 and 11 November is itself unresolved.",
+        "KLAS-TV's own account of what verification it performed before broadcast. Three separate 8newsnow.com retrospectives returned HTTP 403 on 18 September 2026, so not one word of the originating institution's own version of this story is on this board."
+      ]
+    },
+    {
+      "id": "los-alamos-monitor-1982",
+      "cls": "document",
+      "label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+      "cluster": "witness",
+      "sub": "Terry England's front-page story on Lazar's jet-powered Honda, which describes him in the newspaper's own voice as a physicist at the Los Alamos Meson Physics Facility",
+      "tier": "B",
+      "C": 0,
+      "A": 0,
+      "D": 1,
+      "dateStart": "1982-06-27",
+      "dateEnd": null,
+      "desc": "This is the strongest documentary thread in Bob Lazar's favour and the node must carry its qualification in the same breath, or it will misrepresent the record in the direction the credulous literature already pulls. The artefact is real: a front-page story with a byline, a date and page numbers, in a daily newspaper published in Los Alamos on Sunday 27 June 1982, about a jet-powered Honda Lazar had built, which describes him in the paper's own voice as 'a physicist at the Los Alamos Meson Physics Facility'. It was printed seven years before the UFO claim and cannot have been manufactured for it. What it is not is an employment record. The description is what Lazar told the reporter, and two independent strands of the opened record place him as a contract electronics technician instead: the Los Alamos telephone directory page that also lists his name states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and an anonymised Los Alamos colleague interviewed on tape in 1996 said that Lazar 'was a contractor' under Kirk Mayer. The article also matters as a date peg for the Edward Teller anecdote, and there it creates a problem rather than solving one, because Lazar's own 1991 narration places the newspaper story and Teller's Los Alamos speech on the same day while the article's date is fixed at 27 June and Teller's lecture falls on the following day.",
+      "tierRationale": "Node tier B: a dated, openable contemporary primary publication seven years ahead of the claim, which is the same footing the board gives other contemporaneous press artefacts. C0 and A0 as a document. D1 because its disclosure role is incidental rather than intended: it is a story about a car that only became evidentiary later.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The artefact and its load-bearing sentence. Headline 'LA Man Joins The Jet Set - At 200 Miles An Hour', by Terry England, Monitor Staff Writer, Sunday 27 June 1982, Los Alamos Monitor, pages A1 and A8. The sentence, verbatim: 'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.'",
+          "source": "Los Alamos Monitor, 27 June 1982, A1 and A8, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "THE QUALIFICATION, WHICH TRAVELS WITH THE ARTICLE AND IS ROUTINELY DROPPED. The description is what Lazar told the reporter, not an employment record. Stanton Friedman, who obtained the Los Alamos telephone directory page carrying Lazar's name, records that the page 'clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer'. A Los Alamos colleague interviewed on tape by Mark Farmer on 25 May 1996 said Lazar 'was a contractor' under 'Kirk Mayer' and that he 'claimed to be' a physicist. Tom Mahood's 2018 conclusion is that Lazar worked as an electronic technician for Kirk-Mayer and that the Monitor article misrepresented his position on the basis of what he told the reporter.",
+          "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ ; Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , all opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "It is also the date peg for the Edward Teller anecdote, and it creates a discrepancy rather than resolving one. Tom Mahood's 2018 retrospective puts the article on 27 June 1982 with Teller lecturing at Los Alamos the following day, and calls the timing an 'amazing display of totally fucked synchronicity'. Lazar's own 1991 narration places the newspaper story and the Teller speech on the same day. The newspaper's date is fixed, so both cannot be right.",
+          "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and The Lazar Tape, 1991, captions at 35:48"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Los Alamos Monitor, 27 June 1982, pages A1 and A8, by Terry England, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/",
+          "date": "1982-06-27"
+        },
+        {
+          "name": "Mark Farmer, recorded telephone interview with an anonymised Los Alamos colleague",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/",
+          "date": "1996-05-25"
+        },
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud', on the scope statement printed on the directory page",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        }
+      ],
+      "unverified": [
+        "The original newspaper page as a scan or microfilm image. Only Tom Mahood's reprint of the text was opened. The citation to pages A1 and A8 comes from the reprint and from Wikipedia's underlying citation to England, Los Alamos Monitor, 27 June 1982.",
+        "The Los Alamos internal telephone directory page itself. It was NOT OPENED as an image or scan by this board. Its existence and its scope statement rest entirely on Friedman's description of it, which is why the qualification above is Tier 2 and not Tier 1.",
+        "Whether Edward Teller lectured at Los Alamos on 28 June 1982. That date comes from Mahood's retrospective and no newspaper notice of the lecture was opened."
+      ]
+    },
+    {
+      "id": "lazar-clark-county-1990",
+      "cls": "document",
+      "label": "Clark County, Nevada felony pandering file, 1990 and 1996",
+      "cluster": "witness",
+      "sub": "The 1990 complaint and police affidavit, the 27 July 1990 Pre-Sentence Report listing Pacifica, MIT and Caltech, the 20 August 1990 sentence, and the 1996 refusal of the petition to withdraw the plea",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 1,
+      "dateStart": "1990-06-05",
+      "dateEnd": "1996",
+      "desc": "THE COURT RECORD IS THE SPINE OF THE LAZAR QUESTION AND IT SHOWS TWO SEPARATE THINGS, THE SECOND MORE USEFUL THAN THE FIRST. The first is a conviction: Lazar was arrested on 5 June 1990, pleaded guilty to felony pandering on 18 June 1990, and was sentenced on 20 August 1990 by District Judge Jack Lehman to probation with 150 hours of community service, an order to stay away from brothels and a year of psychotherapy, the judge remarking that he 'could not make a determination regarding his claims'. In 1996 Lazar petitioned to withdraw the plea, the District Attorney opposed on the ground that his new claims were irrelevant to admitted and documented criminal activity, and the court refused, so the conviction stands. The second thing the file shows is what makes the credential question Tier 1 rather than gossip. Lazar's Pre-Sentence Report of 27 July 1990 records his own reported education: a 1978 Bachelor of Science in Physics and Electronic Technology from Pacifica University, a 1982 Master of Science in Physics from MIT, and a 1985 Master of Science in Electronic Technology from Caltech. That is not a television claim that can be blamed on a paraphrasing journalist. It is what he told a court under sentence, in writing, through a probation officer. Every institutional check since has failed to confirm any of the three. Gene Huff's rebuttal of 15 May 1995, that the probation officer misunderstood a pair of correspondence courses, is carried beside it and is not adopted.",
+      "tierRationale": "Node tier C: a court file about the claimant, adjacent to the programme rather than inside it. C0 and A0 as a document. D1 because its effect on the public record is real but incidental to its purpose. Its claims are Tier 1 for what the documents themselves show, which is what court records are always Tier 1 for on this board, and nothing here is Tier 1 for the truth of anything Lazar told the court.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "THE CREDENTIAL LIST AS A COURT DOCUMENT. Lazar's Pre-Sentence Report of 27 July 1990 records his reported education as '1978, Bachelor of Science Degree in Physics and Electronic Technology, Pacifica University'; '1982, Masters of Science in Physics, MIT'; '1985, Masters of Science in Electronic Technology, Cal Tech'. The document is Tier 1 for what it shows, which is what he reported about himself to a court, and it is the reason the credential question is evidence rather than rumour.",
+          "source": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood in a post of 14 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "The conviction and its dates. Arrested for pandering in Las Vegas on 5 June 1990; pleaded guilty to felony pandering on 18 June 1990; sentenced on 20 August 1990 by District Judge Jack Lehman to probation, 150 hours of community service, an order to 'stay away from brothels and undergo psychotherapy', with one year of psychotherapy specified, the judge saying he 'could not make a determination regarding his claims'.",
+          "source": "Las Vegas Review-Journal, 19 June 1990, p 8B and 21 August 1990, p 2C, by Warren Bates, reprinted at otherhand.org; and Tom Mahood's timeline, opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "The 19 June 1990 report records the police account of the offence: that Lazar recruited a prostitute, operated her business from the Newport Cove apartments, maintained computer records of customers and their licence plate numbers, and took at least half her earnings. It records the sentencing exposure as 'one to six years, with a possible fine of $5,000'. It also records, from police records, that 'Lazar told her he had master's degrees from two universities', which is the same credential claim appearing in a police file rather than a broadcast.",
+          "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "The 1996 proceedings. Douglas Dean Johnson, who obtained the file, establishes that Lazar received a three-year suspended sentence with probation which he completed; that in 1996 he petitioned to withdraw the guilty plea citing post-traumatic stress, hidden federal records and inadequate legal representation; that the District Attorney urged the court to deny the petition, arguing 'that Lazar's new claims were irrelevant to his admitted and documented criminal activity'; and that the judge denied it. Lazar remains a convicted felon.",
+          "source": "Douglas Dean Johnson, 'Bob Lazar and his Nevada felony: Some key documents', 31 January 2021, https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "The rebuttal, carried and not adopted. Gene Huff, replying on 15 May 1995 to Tom Mahood's post quoting the report, says the Pacifica entry is the probation officer's misinterpretation: that Lazar claimed only to have 'took an English course and a history course' from Pacifica University by correspondence, and that he 'had to petition for his diplomas because he had hodgepodged all of his classes from various institutions'.",
+          "source": "Gene Huff, reply posted 15 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood, with Gene Huff's reply of 15 May 1995",
+          "url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm",
+          "date": "1990-07-27"
+        },
+        {
+          "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/",
+          "date": "1990-06-19"
+        },
+        {
+          "name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/",
+          "date": "1990-08-21"
+        },
+        {
+          "name": "Douglas Dean Johnson, 'Bob Lazar and his Nevada felony: Some key documents', reproducing the 1990 complaint and affidavit, the 1996 District Attorney memorandum and the 1996 order",
+          "url": "https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/",
+          "date": "2021-01-31"
+        }
+      ],
+      "conflicts": [
+        "The disposition is described differently by two reliable routes. The Las Vegas Review-Journal of 21 August 1990 reports probation with 150 hours of community service and psychotherapy. Douglas Dean Johnson, working from the court file, describes a three-year suspended sentence with probation, completed. These are compatible readings of a single disposition but they are not the same wording, and no session has reconciled them against the judgment of conviction itself."
+      ],
+      "unverified": [
+        "The Clark County docket number. Douglas Dean Johnson reproduces documents from the file but no case number came through, and none is asserted anywhere on this board.",
+        "The Pre-Sentence Report as an image or a certified copy. It is quoted at one remove, by Tom Mahood in 1995, and Gene Huff disputed the interpretation rather than the existence of the passage the next day, which is the strongest corroboration available from what was opened.",
+        "The name of the woman named in the 1990 police record is deliberately not carried on this board. She is a private individual with no relation to the programme and no node, claim or edge here names her."
+      ]
+    },
+    {
+      "id": "corbell-lazar-2018",
+      "cls": "document",
+      "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+      "cluster": "witness",
+      "sub": "Jeremy Corbell's 97-minute documentary, narrated by Mickey Rourke, featuring Lazar and George Knapp, released across formats between November and December 2018",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 2,
+      "dateStart": "2018-11-01",
+      "dateEnd": "2018-12-08",
+      "desc": "A later carrier rather than a source, and the board builds it as one. The film is directed by Jeremy Kenyon Lockyer Corbell, runs 97 minutes, is narrated by Mickey Rourke, and features Bob Lazar, George Knapp and Joy White. Its significance to this cluster is twofold and both parts are about propagation rather than evidence: it returned the S-4 claim to mass circulation thirty years after the 1989 broadcasts, and it is the route by which the July 2017 search of United Nuclear Scientific entered the UFO literature, framed there as a raid to recover element 115 rather than as an agency assist in a Michigan homicide investigation. A correction the board should carry in print: the date in general circulation for this film, 4 December 2018, is the United Kingdom physical release. Letterboxd lists the United States digital release as 1 November 2018 and the United States physical release as 8 December 2018. IMDb returned HTTP 403 and was not opened, so no distributor record confirms a single date and the node states a range.",
+      "tierRationale": "Node tier C: a downstream carrier, adjacent to the claim. C0 and A0 as a document. D2 because its disclosure effect is real and large in the modern period, while being derivative of the 1989 broadcasts which carry the 3.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The artefact: 'Bob Lazar: Area 51 and Flying Saucers', 2018, 97 minutes, directed by Jeremy Kenyon Lockyer Corbell, narrated by Mickey Rourke, featuring Bob Lazar, George Knapp and Joy White.",
+          "source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "A CORRECTION TO THE DATE IN GENERAL CIRCULATION. Letterboxd lists three release dates across two territories and two formats: United States digital, 1 November 2018; United Kingdom physical, 4 December 2018; United States physical, 8 December 2018. The widely repeated '4 December 2018' is the United Kingdom physical date, not the release. IMDb returned HTTP 403 to this board on 18 September 2026 and no distributor record was opened, so the node asserts a range and not a single date.",
+          "source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "It is the route by which the 19 July 2017 search of United Nuclear Scientific entered the UFO literature. Tim McMillan's 2019 reporting, which established that the search was an agency assist to a homicide investigation into a thallium death, describes the motivation for the records request as the discussion of the raid in this documentary.",
+          "source": "Tim McMillan, Vice, 13 November 2019, https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/ , opened 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers, giving director, runtime, narrator, cast and release dates",
+          "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/",
+          "date": "2018"
+        },
+        {
+          "name": "Tim McMillan, Vice, on the 2017 raid and how it reached the literature",
+          "url": "https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/",
+          "date": "2019-11-13"
+        }
+      ],
+      "unverified": [
+        "The film itself was NOT VIEWED by this board. Every statement on this node is about its credits, its release and its downstream effect, and none is about its contents.",
+        "A single authoritative release date. IMDb returned HTTP 403 and no distributor or festival record was opened."
+      ]
+    },
+    {
+      "id": "kirk-mayer",
+      "cls": "institution",
+      "label": "Kirk-Mayer, Inc.",
+      "cluster": "contractor",
+      "sub": "Los Alamos support-services contractor under which Bob Lazar actually worked in 1982, and whose name appears on the telephone-directory page that also carries his",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 0,
+      "dateStart": "1982",
+      "dateEnd": null,
+      "desc": "The smallest node in this cluster and possibly the most useful, because it converts a disputed sentence into a precise one. 'Lazar worked at Los Alamos' has been argued about for thirty-five years. 'Lazar worked at Los Alamos as a contract technician for Kirk-Mayer' is what the opened record actually supports, and it is supported from three directions that do not share a source: the telephone directory page carrying his name states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer; a Los Alamos colleague interviewed on tape in 1996 said Lazar 'was a contractor' under Kirk Mayer; and Gene Huff, writing in Lazar's defence, records a Kirk-Mayer employee number issued on 18 May 1982. The node also does work the board needs beyond this cluster: it is a named support contractor at a national laboratory, which is the contractor spine the board's own gap list has been asking for, and it joins lanl, l-los-alamos, doe and d-contractor.",
+      "tierRationale": "Node tier C: a support-services contractor adjacent to a national laboratory, with no proximity to any alleged programme. C0, A0 and D0: it holds no custody of any alleged material, no relevant access, and has no disclosure role of any kind. It exists to make one factual relationship precise.",
+      "claims": [
+        {
+          "tier": 2,
+          "text": "The directory page bearing Lazar's name states its own scope, per Stanton Friedman, who obtained it: 'The page from the Los Alamos National Lab phone book with Lazar's name on it clearly states that it includes employees of the DOE and outside contractor, Kirk Meyer.' The company name is rendered 'Kirk Meyer' by Friedman and 'Kirk Mayer' or 'Kirk-Mayer' elsewhere; this node uses the kebab-case id kirk-mayer and records the spelling variance.",
+          "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "A Los Alamos colleague of Lazar's, interviewed on tape by Mark Farmer on 25 May 1996 and anonymised at his own request, confirmed Lazar worked at the laboratory and said he 'was a contractor' under someone named Kirk Mayer.",
+          "source": "Mark Farmer, recorded telephone interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "Gene Huff, writing in Lazar's defence rather than against him, records that Kirk-Mayer issued Lazar a 'Z number' of 094729 on 18 May 1982, and that both Los Alamos National Laboratory and Kirk-Mayer subsequently said they held no employment records for him.",
+          "source": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "Tom Mahood's 2018 conclusion on the same question: that Lazar worked as an electronic technician for Kirk-Mayer, a contractor supplying support staff, rather than as a physicist, and that his presence in the telephone directory reflected that contractor relationship and was marked with a 'K/M' notation.",
+          "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud', on the scope statement printed on the Los Alamos directory page",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        },
+        {
+          "name": "Mark Farmer, recorded telephone interview with an anonymised Los Alamos colleague",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/",
+          "date": "1996-05-25"
+        },
+        {
+          "name": "Gene Huff, synopsis posted to alt.conspiracy.area51",
+          "url": "https://www.dreamlandresort.com/area51/lazar/synopsis.htm",
+          "date": "1995-03-12"
+        },
+        {
+          "name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/",
+          "date": "2018"
+        }
+      ],
+      "unverified": [
+        "The company's full corporate identity, incorporation, contract vehicle and scope of work at Los Alamos. NOTHING was opened about Kirk-Mayer as a company. Everything here is what three people writing about Lazar say about his relationship to it. A later session should look for the laboratory's support-services contract records.",
+        "The spelling of the name. 'Kirk Meyer' in Friedman, 'Kirk Mayer' in the 1996 interview transcript, 'Kirk-Mayer' in Huff and Mahood. No corporate record was opened to settle it."
+      ]
+    },
+    {
+      "id": "klas-tv",
+      "sources": [
+        {
+          "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/",
+          "date": "1990-06-19"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 1,
+          "text": "KLAS-TV is the originating institution of the Bob Lazar claim. A Las Vegas Review-Journal report of 19 June 1990 records contemporaneously that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. The station's own retrospectives on the story, at 8newsnow.com, returned HTTP 403 to three separate requests on 18 September 2026, so not one word of the originating institution's own account of its 1989 reporting is currently on this board.",
+          "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18"
+        }
+      ],
+      "cls": "institution"
+    },
+    {
+      "id": "lanl",
+      "sources": [
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud', on the scope statement printed on the Los Alamos directory page",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        },
+        {
+          "name": "Mark Farmer, recorded telephone interview with an anonymised Los Alamos colleague",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/",
+          "date": "1996-05-25"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 3,
+          "text": "Bob Lazar's connection to the laboratory must be stated as 'named in a directory', never as 'employed by'. He appears in a 1982 Los Alamos telephone directory whose own text states that it covers Department of Energy employees and the outside contractor Kirk-Mayer; a colleague interviewed on tape in 1996 said Lazar 'was a contractor' under Kirk Mayer; and the laboratory later said it held no records for him. The Los Alamos Monitor of 27 June 1982 described him in the newspaper's own voice as 'a physicist at the Los Alamos Meson Physics Facility', which is what he told the reporter.",
+          "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; Mark Farmer interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , both opened 2026-09-18"
+        }
+      ],
+      "cls": "institution"
+    },
+    {
+      "id": "l-groom-lake",
+      "sources": [
+        {
+          "name": "National Security Archive Electronic Briefing Book 443, ed. Jeffrey T. Richelson, on the declassified CIA U-2 and OXCART history by Gregory Pedlow and Donald E. Welzenbach",
+          "url": "https://nsarchive.gwu.edu/node/3324",
+          "date": "2013-10-29"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The facility's existence was officially acknowledged by the declassification, in summer 2013, of the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, posted as National Security Archive Electronic Briefing Book 443 by Jeffrey T. Richelson on 29 October 2013. This is a statement about Groom Lake. It is NOT a statement about Papoose Lake, and the board's s-4-papoose-lake node exists partly to keep the two from being blurred.",
+          "source": "National Security Archive Electronic Briefing Book 443, 29 October 2013, https://nsarchive.gwu.edu/node/3324 , opened 2026-09-18"
+        },
+        {
+          "tier": 2,
+          "text": "Bob Lazar's 1991 narration sites his claimed S-4 facility by reference to this place, 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake', and says he was bussed from there to the claimed site. The claim is anchored geographically to a documented facility; that anchoring does not transfer the facility's documentation to the claim.",
+          "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18"
+        }
+      ],
+      "cls": "location"
+    },
+    {
+      "id": "l-area51",
+      "sources": [
+        {
+          "name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        },
+        {
+          "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/",
+          "date": "1990-06-19"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 2,
+          "text": "The 1989 KLAS-TV Lazar broadcasts are the single event most responsible for this place entering worldwide public consciousness under this name. Lazar's own 1991 narration refers to 'the infamous Area 51 installation at Groom Lake' and places his claimed S-4 site about fifteen miles south of it. A contemporaneous newspaper of 19 June 1990 confirms the broadcasts existed and that Lazar was their focal point.",
+          "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07, https://archive.org/details/antigravity ; and Las Vegas Review-Journal, 19 June 1990, p 8B, opened 2026-09-18"
+        }
+      ],
+      "cls": "location"
+    },
+    {
+      "id": "l-nellis",
+      "sources": [
+        {
+          "name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 2,
+          "text": "Bob Lazar places his claimed S-4 facility on this range: 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. No government record naming any such facility on the range was opened by this board.",
+          "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:02 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18"
+        }
+      ],
+      "cls": "location"
+    },
+    {
+      "id": "l-nevada-test-site",
+      "sources": [
+        {
+          "name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/",
+          "date": "1990-08-21"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 1,
+          "text": "THE EARLIER GEOGRAPHY OF THE LAZAR CLAIM, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990, reporting his sentencing, describes his claim as of that date as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a Department of Energy site, and it is a different named place from Papoose Lake on the Air Force range, where the claim later settled.",
+          "source": "Las Vegas Review-Journal, 21 August 1990, p 2C, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18"
+        }
+      ],
+      "cls": "location"
+    },
+    {
+      "id": "l-tonopah",
+      "sources": [
+        {
+          "name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/",
+          "date": "2018"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 2,
+          "text": "THE COUNTER-DESIGNATOR, AND THIS IS A DISPUTE RATHER THAN A LINK. Tom Mahood's 2018 retrospective states that there is nothing at Papoose Lake and that the designator 'S-4' actually refers to a radar facility at the Tonopah Test Range. T.D. Barnes, a former CIA and NASA engineer at Groom Lake, reaches the same conclusion by an unrelated route, describing the real Site 4 as a remote radar site holding captured Soviet equipment. Neither is claiming that Lazar's described facility is at Tonopah; both are claiming that the designator he used belongs somewhere else entirely.",
+          "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 1:01:21 to 1:02:58, recorded 2026-07-20"
+        }
+      ],
+      "cls": "location"
+    },
+    {
+      "id": "l-los-alamos",
+      "sources": [
+        {
+          "name": "Los Alamos Monitor, 27 June 1982, pages A1 and A8, by Terry England, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/",
+          "date": "1982-06-27"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 1,
+          "text": "The Los Alamos Monitor of Sunday 27 June 1982 carried a front-page story by staff writer Terry England, 'LA Man Joins The Jet Set - At 200 Miles An Hour', pages A1 and A8, about a jet-powered Honda built by Bob Lazar, describing him in the paper's own voice as 'a physicist at the Los Alamos Meson Physics Facility'. This is the earliest dated artefact in the Lazar cluster and it predates the UFO claim by seven years.",
+          "source": "Los Alamos Monitor, 27 June 1982, A1 and A8, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18"
+        }
+      ],
+      "cls": "location"
+    },
+    {
+      "id": "nnsa",
+      "sources": [
+        {
+          "name": "Oganessian et al., Physical Review C 69, 021601(R)",
+          "url": "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601",
+          "date": "2004-02-02"
+        },
+        {
+          "name": "IUPAC, discovery and assignment of elements 113, 115, 117 and 118",
+          "url": "https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/",
+          "date": "2015-12-30"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 1,
+          "text": "Element 115 was synthesised by a collaboration including Lawrence Livermore National Laboratory, a laboratory in the NNSA complex, working with the Joint Institute for Nuclear Research at Dubna, and reported in Physical Review C 69, 021601(R) on 2 February 2004. IUPAC assigned discovery priority to the Dubna-Livermore-Oak Ridge collaborations on 30 December 2015, on the basis of work starting in 2010 and confirmed in 2012 and 2013, and the name moscovium was approved on 28 November 2016. NOTHING ABOUT THE SYNTHESISED ELEMENT IS STABLE, MACHINABLE OR STORABLE: the isotopes are 287 and 288, produced one atom at a time at cross sections of roughly one and three picobarn. This claim is recorded here because Bob Lazar's element-115 account is regularly presented as having been vindicated by these events, and the record of the complex's own laboratories is what shows that it was not.",
+          "source": "Oganessian et al., Physical Review C 69, 021601(R), 2 February 2004, https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601 ; IUPAC, 30 December 2015, https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/ , both opened 2026-09-18"
+        }
+      ],
+      "cls": "institution"
+    },
+    {
+      "id": "oni",
+      "sources": [
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud', on the W-2 form he had seen",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        },
+        {
+          "name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 3,
+          "text": "A DISCREPANCY, NOT A RELATIONSHIP. The W-2 form in the Lazar literature is described as naming a 'Department of Naval Intelligence', which is not an entity that exists: the Office of Naval Intelligence sits inside the Department of the Navy. Stanton Friedman, who had seen the form, describes it only as 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' Lazar's own 1991 narration says something different again: 'for the duration of my employment at S4 I was paid by the United States Navy'. THE FORM ITSELF WAS NOT OPENED BY THIS BOARD AND NO EMPLOYER IDENTIFICATION NUMBER, ZIP CODE OR BOX CONTENT IS ASSERTED ANYWHERE.",
+          "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ ; and The Lazar Tape, 1991, captions at 2:19, https://archive.org/details/antigravity , both opened 2026-09-18"
+        }
+      ],
+      "cls": "institution"
+    },
+    {
+      "id": "the-black-vault",
+      "sources": [
+        {
+          "name": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', three releases of 55, 130 and 130 pages",
+          "url": "https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/",
+          "date": "2023-11"
+        },
+        {
+          "name": "The Black Vault, 'Documents on 2017 Bob Lazar / United Nuclear Raid - Laingsburg Police Department'",
+          "url": "https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/",
+          "date": "2019-07-01"
+        },
+        {
+          "name": "The Black Vault, Stanton Friedman Collection, 'The Bob Lazar Fraud'",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        }
+      ],
+      "claims": [
+        {
+          "tier": 1,
+          "text": "It is the custody point for three separate parts of the Lazar record: the FBI FOIA releases on United Nuclear Scientific Supplies, pursued from November 2018 and delivered in three releases of 55, 130 and 130 pages; the Laingsburg, Michigan police report on the 19 July 2017 search, obtained by Tim McMillan under a local open-records request; and Stanton Friedman's own 1997 article on Lazar, in the Stanton Friedman Collection.",
+          "source": "The Black Vault document archive and case files, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ and https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18"
+        },
+        {
+          "tier": 1,
+          "text": "A negative FOIA result it records and flags: 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', with the site's own observation that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'.",
+          "source": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ , opened 2026-09-18"
+        }
+      ],
+      "cls": "institution"
+    }
+  ],
+  "edges": [
+    {
+      "a": "bob-lazar",
+      "b": "s-4-papoose-lake",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "Originating claimant: says he worked at S-4, December 1988 to April 1989",
+      "dateStart": "1988-12",
+      "dateEnd": "1989-04",
+      "sources": [
+        {
+          "name": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions at 1:54 to 2:13",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "The originating claim of the whole cluster, in his own narration: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. The edge records that he says this and nothing more."
+    },
+    {
+      "a": "john-lear",
+      "b": "s-4-papoose-lake",
+      "type": "witness-chain",
+      "claimTier": 3,
+      "label": "Carrier of the claim, not an eyewitness to the claimed site",
+      "dateStart": "1989",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Tom Mahood, 'The Robert Lazar Timeline'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/",
+          "date": "2026-09-18"
+        }
+      ],
+      "note": "CARRIER, NOT EYEWITNESS TO THE SITE. Lear promoted the account and was present at two of the three 1989 desert viewings, on 22 March and 5 April. No opened record has him claiming to have seen the facility itself. Tier 3 accordingly."
+    },
+    {
+      "a": "gene-huff",
+      "b": "s-4-papoose-lake",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "Witness to the 1989 desert lights, not to the claimed facility",
+      "dateStart": "1989-03-22",
+      "dateEnd": "1989-04-05",
+      "sources": [
+        {
+          "name": "Gene Huff, synopsis posted to alt.conspiracy.area51",
+          "url": "https://www.dreamlandresort.com/area51/lazar/synopsis.htm",
+          "date": "1995-03-12"
+        }
+      ],
+      "note": "THE LABEL MUST STAY PRECISE. Huff's first-hand claim is about lights seen from Tikaboo Valley on three Wednesdays in 1989, on 22 March, 29 March and 5 April, the last ending in the group's detention by the Lincoln County Sheriff. He never claims to have been inside anything."
+    },
+    {
+      "a": "george-knapp",
+      "b": "s-4-papoose-lake",
+      "type": "investigative",
+      "claimTier": 2,
+      "label": "Journalist who brought the claim to air in 1989 and has carried it since",
+      "dateStart": "1989-03",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/",
+          "date": "1990-06-19"
+        }
+      ],
+      "note": "Confirmed contemporaneously in print: 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. Mahood's timeline puts his first interviews with Lazar in March 1989."
+    },
+    {
+      "a": "klas-lazar-broadcasts-1989",
+      "b": "s-4-papoose-lake",
+      "type": "investigative",
+      "claimTier": 3,
+      "label": "The original broadcast artefact of the claim",
+      "dateStart": "1989-05",
+      "dateEnd": "1989-12-09",
+      "sources": [
+        {
+          "name": "Tom Mahood, 'The Robert Lazar Timeline'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/",
+          "date": "2026-09-18"
+        }
+      ],
+      "note": "Tier 3 on this board for one reason only: NOT ONE OF THESE BROADCASTS WAS OPENED. The dates on this edge are from a secondary chronology and should be replaced when an artefact is reached."
+    },
+    {
+      "a": "lazar-tape-1991",
+      "b": "s-4-papoose-lake",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "The dated, opened, complete statement of the claim in the claimant's own voice",
+      "dateStart": "1991",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar tape and excerpts from the Government Bible, Internet Archive item; captions via YouTube video kc10m6HFbDE",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "The strongest artefact in the cluster and the one actually opened. A videotape of a claimant narrating his own claim is evidence of the claim and never of its content."
+    },
+    {
+      "a": "corbell-lazar-2018",
+      "b": "s-4-papoose-lake",
+      "type": "investigative",
+      "claimTier": 2,
+      "label": "2018 documentary that returned the claim to mass circulation",
+      "dateStart": "2018-11-01",
+      "dateEnd": "2018-12-08",
+      "sources": [
+        {
+          "name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+          "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/",
+          "date": "2018"
+        }
+      ],
+      "note": "A downstream carrier, not a source. The film was not viewed by this board; the edge rests on its credits, its subject and its documented downstream effect."
+    },
+    {
+      "a": "tom-mahood",
+      "b": "s-4-papoose-lake",
+      "type": "denial",
+      "claimTier": 2,
+      "label": "Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility",
+      "dateStart": "2018",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/",
+          "date": "2018"
+        }
+      ],
+      "note": "EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible."
+    },
+    {
+      "a": "stanton-friedman",
+      "b": "s-4-papoose-lake",
+      "type": "denial",
+      "claimTier": 2,
+      "label": "Denial from a UFO proponent: the claimant's credentials do not survive checking",
+      "dateStart": "1997-12",
+      "dateEnd": "2011-01",
+      "sources": [
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        }
+      ],
+      "note": "The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does."
+    },
+    {
+      "a": "s-4-papoose-lake",
+      "b": "l-groom-lake",
+      "type": "geographic",
+      "claimTier": 2,
+      "label": "Claimed site sited by reference to Groom Lake, about fifteen miles north of it",
+      "dateStart": "1989",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "The claim anchors itself to a documented facility. That anchoring does not transfer the facility's documentation to the claim."
+    },
+    {
+      "a": "s-4-papoose-lake",
+      "b": "l-area51",
+      "type": "geographic",
+      "claimTier": 2,
+      "label": "Claimed site sited about fifteen miles south of Area 51",
+      "dateStart": "1989",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "Uses the board's existing l-area51 id. No node called area-51 was created."
+    },
+    {
+      "a": "s-4-papoose-lake",
+      "b": "l-nellis",
+      "type": "geographic",
+      "claimTier": 2,
+      "label": "Claimed site placed on the Nellis range by the claimant",
+      "dateStart": "1989",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:02",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "Uses the board's existing l-nellis id, whose label already carries the Nevada Test and Training Range. No node called nttr was created."
+    },
+    {
+      "a": "s-4-papoose-lake",
+      "b": "l-tonopah",
+      "type": "geographic",
+      "claimTier": 2,
+      "label": "DISPUTE over the designator: two sources say S-4 belongs to a Tonopah radar facility",
+      "dateStart": "2018",
+      "dateEnd": "2026-07-20",
+      "sources": [
+        {
+          "name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/",
+          "date": "2018"
+        }
+      ],
+      "note": "THIS EDGE IS A DISAGREEMENT AND MUST NOT RENDER AS A LINK BETWEEN THE CLAIMED SITE AND TONOPAH. Mahood and T.D. Barnes, by unrelated routes, both say the designator S-4 attaches to a radar facility on the Tonopah side of the range rather than to anything at Papoose Lake."
+    },
+    {
+      "a": "s-4-papoose-lake",
+      "b": "l-nevada-test-site",
+      "type": "geographic",
+      "claimTier": 1,
+      "label": "The claim's earlier geography, as reported contemporaneously in August 1990",
+      "dateStart": "1990-08-21",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/",
+          "date": "1990-08-21"
+        }
+      ],
+      "note": "Tier 1 for what the newspaper shows. In August 1990 Lazar's claim was reported as being about 'the Nevada Test Site, 65 miles northwest of Las Vegas', a Department of Energy site, not the Air Force range. The claim's geography moved and the edge records that."
+    },
+    {
+      "a": "s-4-papoose-lake",
+      "b": "d-legacy",
+      "type": "programmatic",
+      "claimTier": 3,
+      "label": "The hub's claimed content is a legacy reverse-engineering programme",
+      "dateStart": "1989",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar Tape, Tri-Dot Productions, 1991",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "Tier 3 because it is what is claimed, not what is shown."
+    },
+    {
+      "a": "s-4-papoose-lake",
+      "b": "d-custody",
+      "type": "custody",
+      "claimTier": 3,
+      "label": "Claimed custody of non-human craft at the claimed site",
+      "dateStart": "1989",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 24:24",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "Tier 3, same caveat. The claim is that nine discs were held there; nothing documented supports it."
+    },
+    {
+      "a": "kirk-mayer",
+      "b": "d-contractor",
+      "type": "institutional",
+      "claimTier": 1,
+      "label": "Named support-services contractor at a national laboratory",
+      "dateStart": "1982",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud', quoting the directory page's own scope statement",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        }
+      ],
+      "note": "The contractor spine this pass was asked to begin. The directory page itself names Kirk-Mayer as the outside contractor whose staff it covers."
+    },
+    {
+      "a": "john-lear",
+      "b": "d-media",
+      "type": "behavioral",
+      "claimTier": 2,
+      "label": "His dated 1987 statement reached the field through ParaNet in early 1988",
+      "dateStart": "1987-12-29",
+      "dateEnd": "1988",
+      "sources": [
+        {
+          "name": "John Lear's Dec. 29, 1987 Statement, Internet Archive item record and provenance note",
+          "url": "https://archive.org/details/john-lear-statement-1987",
+          "date": "1987-12-29"
+        }
+      ],
+      "note": "Chronologically important: his public claim document predates Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. The statement's text was not rendered by the fetch and no content from it is asserted."
+    },
+    {
+      "a": "bob-lazar",
+      "b": "lazar-tape-1991",
+      "type": "research",
+      "claimTier": 1,
+      "label": "Co-author and narrator of the 1991 videotape",
+      "dateStart": "1991",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar tape and excerpts from the Government Bible, Internet Archive item record",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. The relation is authorship of a document, which the board's ruling of 18 September 2026 types as research, because custody is weighted x3.0 as a programme edge and giving a claimant a triple-weighted edge to his own artefact would inflate him."
+    },
+    {
+      "a": "gene-huff",
+      "b": "lazar-tape-1991",
+      "type": "research",
+      "claimTier": 1,
+      "label": "Writer and co-producer of the 1991 videotape for Tri-Dot Productions",
+      "dateStart": "1991",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar tape and excerpts from the Government Bible, Internet Archive item record, creator Gene Huff and Bob Lazar",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling. This is the edge that makes Huff structurally important rather than merely a witness: he is the publisher of the cluster's primary artefact."
+    },
+    {
+      "a": "bob-lazar",
+      "b": "element-115-claim",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "The element 115 fuel claim is his",
+      "dateStart": "1989",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 18:42 to 25:47",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "Timestamped in the 1991 tape: the reactor account, the 223 grams, the 1740 degrees Celsius melting point and the machining into triangles."
+    },
+    {
+      "a": "element-115-claim",
+      "b": "lazar-tape-1991",
+      "type": "custody",
+      "claimTier": 1,
+      "label": "The tape is the artefact in which the element 115 claim is fixed in datable form",
+      "dateStart": "1991",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "GENUINE CUSTODY: a document containing the claim, in the same sense the ruling allows for a document containing another document. Neither endpoint is a claimant, so the x3.0 weighting falls on two artefact nodes and not on a person."
+    },
+    {
+      "a": "element-115-claim",
+      "b": "nnsa",
+      "type": "research",
+      "claimTier": 1,
+      "label": "The real element: synthesised 2003, published 2004, assigned 2015, named moscovium 2016",
+      "dateStart": "2004-02-02",
+      "dateEnd": "2016-11-28",
+      "sources": [
+        {
+          "name": "Oganessian et al., Physical Review C 69, 021601(R)",
+          "url": "https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601",
+          "date": "2004-02-02"
+        },
+        {
+          "name": "IUPAC, discovery and assignment of elements 113, 115, 117 and 118",
+          "url": "https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/",
+          "date": "2015-12-30"
+        },
+        {
+          "name": "IUPAC announces the names of the elements 113, 115, 117 and 118",
+          "url": "https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/",
+          "date": "2016-11-30"
+        }
+      ],
+      "note": "THE FIRST CLAUSE OF THIS EDGE IS THE CONTRADICTION, NOT THE CONNECTION: nothing about the synthesised element is stable, machinable or storable, and the isotopes 287 and 288 are produced one atom at a time at picobarn cross sections. Lawrence Livermore, an NNSA laboratory, was in the discovering collaboration with Dubna and Oak Ridge. The edge exists because the element-115 claim is routinely presented as vindicated by these events, and this is the record that shows it was not."
+    },
+    {
+      "a": "los-alamos-monitor-1982",
+      "b": "bob-lazar",
+      "type": "investigative",
+      "claimTier": 1,
+      "label": "Front-page newspaper story about him, seven years before the claim",
+      "dateStart": "1982-06-27",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Los Alamos Monitor, 27 June 1982, A1 and A8, by Terry England, reprinted by Tom Mahood",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/",
+          "date": "1982-06-27"
+        }
+      ],
+      "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', which was wrong: he is the subject of the article, not its author or its holder. Journalism about a person is typed investigative here. The article's description of him as a physicist is what he told the reporter, and the qualification travels with the edge."
+    },
+    {
+      "a": "los-alamos-monitor-1982",
+      "b": "l-los-alamos",
+      "type": "geographic",
+      "claimTier": 1,
+      "label": "The newspaper, the facility and the event are all in Los Alamos",
+      "dateStart": "1982-06-27",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Los Alamos Monitor, 27 June 1982, A1 and A8",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/",
+          "date": "1982-06-27"
+        }
+      ],
+      "note": "A local daily, naming the Los Alamos Meson Physics Facility."
+    },
+    {
+      "a": "bob-lazar",
+      "b": "kirk-mayer",
+      "type": "institutional",
+      "claimTier": 2,
+      "label": "The contractor he actually worked for at Los Alamos in 1982",
+      "dateStart": "1982-05-18",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Mark Farmer, recorded telephone interview with an anonymised Los Alamos colleague",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/",
+          "date": "1996-05-25"
+        },
+        {
+          "name": "Gene Huff, synopsis, recording the Kirk-Mayer employee number 094729 issued 18 May 1982",
+          "url": "https://www.dreamlandresort.com/area51/lazar/synopsis.htm",
+          "date": "1995-03-12"
+        }
+      ],
+      "note": "Supported from three directions that do not share a source: the directory page's own scope statement, the 1996 taped colleague interview, and Gene Huff writing in Lazar's defence."
+    },
+    {
+      "a": "kirk-mayer",
+      "b": "lanl",
+      "type": "institutional",
+      "claimTier": 2,
+      "label": "Support-services contractor at the laboratory",
+      "dateStart": "1982",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud', quoting the directory page's own scope statement",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        }
+      ],
+      "note": "The whole purpose of the kirk-mayer node. Nothing was opened about the company itself beyond this relationship."
+    },
+    {
+      "a": "bob-lazar",
+      "b": "lanl",
+      "type": "institutional",
+      "claimTier": 3,
+      "label": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
+      "dateStart": "1982",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        }
+      ],
+      "note": "THE LABEL IS THE WHOLE POINT OF THIS EDGE AND MUST NOT BE SHORTENED TO 'employed by'. The directory page states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and the laboratory later said it held no records for him."
+    },
+    {
+      "a": "bob-lazar",
+      "b": "edward-teller",
+      "type": "witness-chain",
+      "claimTier": 3,
+      "label": "Claimed 1982 meeting and later job referral, uncorroborated and internally misdated",
+      "dateStart": "1982-06",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 35:48 to 36:32",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "Tier 3. His own narration puts the Monitor jet-car story and Teller's Los Alamos speech on the same day; the article is dated 27 June 1982 and Mahood puts the lecture on the following day, so both cannot be right. The edge asserts only that Lazar says this."
+    },
+    {
+      "a": "bob-lazar",
+      "b": "oni",
+      "type": "funding",
+      "claimTier": 3,
+      "label": "Claimed payment: 'the United States Navy' in his narration, 'Department of Naval Intelligence' on the W-2 as others describe it",
+      "dateStart": "1988-12",
+      "dateEnd": "1989-04",
+      "sources": [
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud', on the W-2 he had seen",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        },
+        {
+          "name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:19",
+          "url": "https://archive.org/details/antigravity",
+          "date": "1991"
+        }
+      ],
+      "note": "THE EDGE CARRIES A DISCREPANCY AND NOTHING MORE. There is no 'Department of Naval Intelligence'; the Office of Naval Intelligence sits inside the Department of the Navy. THE W-2 WAS NOT OPENED BY THIS BOARD and no employer identification number, zip code or box content is asserted anywhere."
+    },
+    {
+      "a": "lazar-clark-county-1990",
+      "b": "bob-lazar",
+      "type": "denial",
+      "claimTier": 1,
+      "label": "The court file contradicts his own credential account, in his own reported words",
+      "dateStart": "1990-07-27",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood",
+          "url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm",
+          "date": "1990-07-27"
+        }
+      ],
+      "note": "THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour."
+    },
+    {
+      "a": "stanton-friedman",
+      "b": "bob-lazar",
+      "type": "denial",
+      "claimTier": 2,
+      "label": "Credential investigation: located Duxler at Pierce, found no institutional record",
+      "dateStart": "1997-12",
+      "dateEnd": "2011-01",
+      "sources": [
+        {
+          "name": "Stanton T. Friedman, 'The Bob Lazar Fraud'",
+          "url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/",
+          "date": "1997-12"
+        }
+      ],
+      "note": "'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s."
+    },
+    {
+      "a": "tom-mahood",
+      "b": "bob-lazar",
+      "type": "denial",
+      "claimTier": 2,
+      "label": "The most detailed documentary examination of the account, 1990s and 2018",
+      "dateStart": "1993",
+      "dateEnd": "2018",
+      "sources": [
+        {
+          "name": "Tom Mahood, 'Lazar Flaws - Education'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/",
+          "date": "2018"
+        }
+      ],
+      "note": "'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one."
+    },
+    {
+      "a": "tom-mahood",
+      "b": "element-115-claim",
+      "type": "denial",
+      "claimTier": 2,
+      "label": "The island of stability near element 114 was published popular physics from 1969",
+      "dateStart": "1969-04",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Tom Mahood, 'Element 115 tidbits', citing Seaborg, Scientific American, April 1969, pp 57-67",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/",
+          "date": "2026-09-18"
+        }
+      ],
+      "note": "This denial cuts against the credulous reading without endorsing the hostile one: the finding is 'available prior art, used', not 'fabricated from nothing'. The Seaborg article itself was not opened."
+    },
+    {
+      "a": "tom-mahood",
+      "b": "los-alamos-monitor-1982",
+      "type": "custody",
+      "claimTier": 1,
+      "label": "Holds the only openable copy of the article's text",
+      "dateStart": "1993",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Tom Mahood's reprint of the Los Alamos Monitor front page",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/",
+          "date": "1982-06-27"
+        }
+      ],
+      "note": "GENUINE CUSTODY: a hosting site holding a file, in the same role the board already gives the-black-vault."
+    },
+    {
+      "a": "tom-mahood",
+      "b": "lazar-clark-county-1990",
+      "type": "custody",
+      "claimTier": 1,
+      "label": "Holds the reprints of both 1990 newspaper reports and quotes the Pre-Sentence Report",
+      "dateStart": "1995-05-14",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Tom Mahood's post of 14 May 1995 quoting the Pre-Sentence Report, hosted on Dreamland Resort",
+          "url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm",
+          "date": "1995-05-14"
+        }
+      ],
+      "note": "GENUINE CUSTODY. He is the route by which the court material is openable at all from this environment."
+    },
+    {
+      "a": "the-black-vault",
+      "b": "bob-lazar",
+      "type": "custody",
+      "claimTier": 1,
+      "label": "Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article",
+      "dateStart": "2018-11",
+      "dateEnd": "2023-11",
+      "sources": [
+        {
+          "name": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear'",
+          "url": "https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/",
+          "date": "2023-11"
+        }
+      ],
+      "note": "GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file."
+    },
+    {
+      "a": "tim-mcmillan",
+      "b": "bob-lazar",
+      "type": "investigative",
+      "claimTier": 1,
+      "label": "Obtained the Laingsburg police report and traced the 2017 raid to a homicide investigation",
+      "dateStart": "2019-07-01",
+      "dateEnd": "2019-11-13",
+      "sources": [
+        {
+          "name": "Tim McMillan, Vice",
+          "url": "https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/",
+          "date": "2019-11-13"
+        }
+      ],
+      "note": "The documentary correction to the claim that the July 2017 search was about recovering element 115."
+    },
+    {
+      "a": "klas-tv",
+      "b": "klas-lazar-broadcasts-1989",
+      "type": "institutional",
+      "claimTier": 1,
+      "label": "Its own broadcasts",
+      "dateStart": "1989-05",
+      "dateEnd": "1989-12-09",
+      "sources": [
+        {
+          "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/",
+          "date": "1990-06-19"
+        }
+      ],
+      "note": "The station is the publisher. Its own retrospectives returned HTTP 403 to this board, so nothing here comes from KLAS itself."
+    },
+    {
+      "a": "george-knapp",
+      "b": "klas-lazar-broadcasts-1989",
+      "type": "research",
+      "claimTier": 1,
+      "label": "Reporter and author of the broadcasts",
+      "dateStart": "1989-03",
+      "dateEnd": "1989-12-09",
+      "sources": [
+        {
+          "name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/",
+          "date": "1990-06-19"
+        }
+      ],
+      "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. Authorship of a document is typed research under the board's ruling of 18 September 2026."
+    },
+    {
+      "a": "jeremy-corbell",
+      "b": "corbell-lazar-2018",
+      "type": "research",
+      "claimTier": 1,
+      "label": "Director of the 2018 documentary",
+      "dateStart": "2018",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+          "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/",
+          "date": "2018"
+        }
+      ],
+      "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling."
+    },
+    {
+      "a": "george-knapp",
+      "b": "corbell-lazar-2018",
+      "type": "witness-chain",
+      "claimTier": 1,
+      "label": "Appears in and is credited on the 2018 documentary",
+      "dateStart": "2018",
+      "dateEnd": null,
+      "sources": [
+        {
+          "name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+          "url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/",
+          "date": "2018"
+        }
+      ],
+      "note": "He is a participant rather than an author of this film, which is why it is witness-chain and not research."
+    },
+    {
+      "a": "john-lear",
+      "b": "bob-lazar",
+      "type": "witness-chain",
+      "claimTier": 2,
+      "label": "Met by 1988; present at two of the three 1989 desert viewings",
+      "dateStart": "1988",
+      "dateEnd": "1989-04-05",
+      "sources": [
+        {
+          "name": "Tom Mahood, 'The Robert Lazar Timeline'",
+          "url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/",
+          "date": "2026-09-18"
+        }
+      ],
+      "note": "THIS EDGE DOES NOT SAY LEAR INTRODUCED LAZAR TO KNAPP. That is universally repeated and it is in nothing this board opened."
+    }
+  ],
+  "timeline": [
+    {
+      "id": "tl-1982-06-27-la-monitor-jetcar",
+      "strand": "witness",
+      "date": "1982-06-27",
+      "precision": "day",
+      "tier": "B",
+      "node": "los-alamos-monitor-1982",
+      "label": "Los Alamos Monitor front page calls Lazar a physicist at LAMPF",
+      "text": "The Los Alamos Monitor of Sunday 27 June 1982, pages A1 and A8, carries 'LA Man Joins The Jet Set - At 200 Miles An Hour' by staff writer Terry England, about a jet-powered Honda Lazar had built, and says in the paper's own voice: 'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.' The earliest dated artefact in the cluster, seven years before the UFO claim.",
+      "source": "Los Alamos Monitor, 27 June 1982, A1 and A8, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/"
+    },
+    {
+      "id": "tl-1982-06-28-teller-lecture",
+      "strand": "witness",
+      "date": "1982-06-28",
+      "precision": "day",
+      "tier": "C",
+      "node": "bob-lazar",
+      "label": "Edward Teller lectures at Los Alamos the day after the jet-car story",
+      "text": "Tom Mahood's 2018 retrospective places Teller's Los Alamos lecture on the day after the Monitor article, calling the timing an 'amazing display of totally fucked synchronicity'. Lazar's own 1991 narration instead places the newspaper story and the Teller speech on the same day. The newspaper's date is fixed, so both cannot be right, and the board carries the anecdote as 'within a day'. No newspaper notice of the lecture was opened.",
+      "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ ; and The Lazar Tape, 1991, captions at 35:48"
+    },
+    {
+      "id": "tl-1987-12-29-lear-statement",
+      "strand": "witness",
+      "date": "1987-12-29",
+      "precision": "day",
+      "tier": "C",
+      "node": "john-lear",
+      "label": "John Lear's statement is dated, eighteen months before Lazar reaches KLAS",
+      "text": "A statement by John Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation and preserved in the BSRA/BSRF holdings at the Archives for the Unexplained, circulated on the ParaNet bulletin board in early 1988. It precedes Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. Only the archive item record was opened; the statement's text was not rendered and no content from it is asserted.",
+      "source": "John Lear's Dec. 29, 1987 Statement, Internet Archive item, https://archive.org/details/john-lear-statement-1987"
+    },
+    {
+      "id": "tl-1988-12-lazar-claimed-hire",
+      "strand": "witness",
+      "date": "1988-12",
+      "precision": "month",
+      "tier": "B",
+      "node": "s-4-papoose-lake",
+      "label": "Lazar's claimed employment at S-4 begins",
+      "text": "In his 1991 narration Lazar says that 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', and that 'I was hired in December of 1988 to replace one of these men'. This row records the claim and its date, not any employment.",
+      "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 1:54 and 34:44, https://archive.org/details/antigravity"
+    },
+    {
+      "id": "tl-1989-03-knapp-first-interviews",
+      "strand": "witness",
+      "date": "1989-03",
+      "precision": "month",
+      "tier": "C",
+      "node": "george-knapp",
+      "label": "George Knapp begins interviewing Lazar",
+      "text": "Tom Mahood's timeline records that Knapp began conducting initial interviews with Lazar in March 1989 'for safekeeping purposes'. No 1989-dated artefact was opened and this row is Tier 3 evidence carried on a Tier C node.",
+      "source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+    },
+    {
+      "id": "tl-1989-03-22-first-viewing",
+      "strand": "witness",
+      "date": "1989-03-22",
+      "precision": "day",
+      "tier": "C",
+      "node": "gene-huff",
+      "label": "First Wednesday desert viewing in Tikaboo Valley",
+      "text": "Lazar, his wife, Gene Huff and John Lear watched lights in Tikaboo Valley. Mahood's timeline records that only Lear saw an elliptical shape through a telescope. Huff's own synopsis of 12 March 1995 gives the same date.",
+      "source": "Tom Mahood's timeline and Gene Huff's synopsis, https://www.dreamlandresort.com/area51/lazar/synopsis.htm"
+    },
+    {
+      "id": "tl-1989-04-05-detained",
+      "strand": "witness",
+      "date": "1989-04-05",
+      "precision": "day",
+      "tier": "C",
+      "node": "gene-huff",
+      "label": "Third viewing ends with the group detained by the Lincoln County Sheriff",
+      "text": "On the third Wednesday viewing the group, which included Lazar, Gene Huff and John Lear, was discovered by guards and detained by the Lincoln County Sheriff. Both the claimants' own accounts and the principal sceptical account agree this happened; they disagree about what the group was watching. Tom Mahood's counter-explanation is that the whole alien-craft narrative began as a cover story after this detention.",
+      "source": "Gene Huff's synopsis, 12 March 1995, and Tom Mahood's timeline and 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+    },
+    {
+      "id": "tl-1989-05-klas-dennis",
+      "strand": "witness",
+      "date": "1989-05",
+      "precision": "month",
+      "tier": "B",
+      "node": "klas-lazar-broadcasts-1989",
+      "label": "KLAS-TV airs the silhouetted interviews under the pseudonym 'Dennis'",
+      "text": "TIER 3 DATE, CARRIED HONESTLY. Tom Mahood's timeline records that in May 1989 Lazar's silhouetted interviews with George Knapp aired on KLAS-TV using the pseudonym 'Dennis'. NO 1989-DATED ARTEFACT WAS OPENED BY THIS BOARD, and KLAS's own retrospectives returned HTTP 403 three times on 18 September 2026.",
+      "source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+    },
+    {
+      "id": "tl-1989-11-10-klas-named",
+      "strand": "witness",
+      "date": "1989-11-10",
+      "precision": "day",
+      "tier": "B",
+      "node": "klas-lazar-broadcasts-1989",
+      "label": "KLAS-TV identifies and interviews Lazar under his own name",
+      "text": "TIER 3 DATE, CARRIED HONESTLY. Mahood's timeline gives 10 November 1989; some accounts give 11 November. This is the broadcast that put Area 51 into worldwide public consciousness and no artefact of it was opened by this board. The only contemporaneous documentary confirmation opened is the Las Vegas Review-Journal of 19 June 1990 recording that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'.",
+      "source": "Tom Mahood's timeline; and Las Vegas Review-Journal, 19 June 1990, p 8B, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+    },
+    {
+      "id": "tl-1990-06-05-lazar-arrested",
+      "strand": "witness",
+      "date": "1990-06-05",
+      "precision": "day",
+      "tier": "C",
+      "node": "lazar-clark-county-1990",
+      "label": "Lazar arrested for pandering in Las Vegas",
+      "text": "Mahood's timeline records the arrest on 5 June 1990. The offence, per the police account printed in the Review-Journal a fortnight later, was recruiting a prostitute, operating her business from an apartment complex, maintaining computer records of customers and their licence plate numbers, and taking at least half her earnings.",
+      "source": "Tom Mahood's timeline; and Las Vegas Review-Journal, 19 June 1990, p 8B"
+    },
+    {
+      "id": "tl-1990-06-18-guilty-plea",
+      "strand": "witness",
+      "date": "1990-06-18",
+      "precision": "day",
+      "tier": "C",
+      "node": "lazar-clark-county-1990",
+      "label": "Guilty plea to felony pandering",
+      "text": "Lazar pleaded guilty to felony pandering in District Court. The Las Vegas Review-Journal reported it the next day under the headline 'Source in Channel 8's UFO series pleads guilty to pandering charge', by Warren Bates, page 8B, noting the exposure as 'one to six years, with a possible fine of $5,000'.",
+      "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+    },
+    {
+      "id": "tl-1990-07-27-presentence-report",
+      "strand": "witness",
+      "date": "1990-07-27",
+      "precision": "day",
+      "tier": "C",
+      "node": "lazar-clark-county-1990",
+      "label": "Pre-Sentence Report records the Pacifica, MIT and Caltech credential list",
+      "text": "THE SPINE OF THE CREDENTIAL QUESTION. Lazar's Pre-Sentence Report of 27 July 1990 lists his own reported education: '1978, Bachelor of Science Degree in Physics and Electronic Technology, Pacifica University'; '1982, Masters of Science in Physics, MIT'; '1985, Masters of Science in Electronic Technology, Cal Tech'. Because this is a court document rather than a television statement, the credential question is Tier 1 evidence and not gossip. No institution has confirmed any of the three. Gene Huff's rebuttal of 15 May 1995, that the probation officer misread two Pacifica correspondence courses, is carried beside it and is not adopted.",
+      "source": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm"
+    },
+    {
+      "id": "tl-1990-08-20-sentenced",
+      "strand": "witness",
+      "date": "1990-08-20",
+      "precision": "day",
+      "tier": "C",
+      "node": "lazar-clark-county-1990",
+      "label": "Sentenced by Judge Jack Lehman to probation, community service and psychotherapy",
+      "text": "District Judge Jack Lehman sentenced Lazar to probation rather than prison, with 150 hours of community service, an order to 'stay away from brothels and undergo psychotherapy', and a year of psychotherapy, saying he 'could not make a determination regarding his claims'. The same report describes Lazar's claim as of that date as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas', which is a different named place from the one the claim later settled on.",
+      "source": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
+    },
+    {
+      "id": "tl-1991-lazar-tape",
+      "strand": "witness",
+      "date": "1991",
+      "precision": "year",
+      "tier": "B",
+      "node": "lazar-tape-1991",
+      "label": "The Lazar Tape fixes the whole claim in datable form",
+      "text": "Tri-Dot Productions publishes 'The Lazar Tape and Excerpts from the Government Bible', forty minutes, created by Gene Huff and Bob Lazar. It is the strongest artefact in the cluster and the one opened by this board: its English auto-generated captions, 1,046 segments to 38:39, were read in full on 18 September 2026. Every element-115 claim, every S-4 description and the Teller anecdote carry timestamps in it.",
+      "source": "Internet Archive item 'antigravity', https://archive.org/details/antigravity ; captions via YouTube video kc10m6HFbDE"
+    },
+    {
+      "id": "tl-1996-plea-withdrawal-denied",
+      "strand": "witness",
+      "date": "1996",
+      "precision": "year",
+      "tier": "C",
+      "node": "lazar-clark-county-1990",
+      "label": "Petition to withdraw the 1990 guilty plea is refused",
+      "text": "Lazar petitioned to withdraw the plea, citing post-traumatic stress, hidden federal records and inadequate legal representation. The District Attorney opposed, arguing 'that Lazar's new claims were irrelevant to his admitted and documented criminal activity'. The judge denied the petition and the conviction stands.",
+      "source": "Douglas Dean Johnson, 31 January 2021, https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/"
+    },
+    {
+      "id": "tl-1996-08-26-morgan-critique",
+      "strand": "witness",
+      "date": "1996-08-26",
+      "precision": "day",
+      "tier": "C",
+      "node": "element-115-claim",
+      "label": "Physicist David L. Morgan publishes the physics critique",
+      "text": "Dr David L. Morgan, a particle physicist, publishes 'A Physicist's Critique', revised April 2001. Three objections: that the strong nuclear force 'has NOTHING TO DO WITH GRAVITY'; that the nuclear force 'extends out to about the same distance away from a nucleus NO MATTER HOW MASSIVE THE NUCLEUS IS'; and, crucially without needing any model of gravity, that if the antimatter must be made on board then 'your system produces NO NET ENERGY AT ALL!!'",
+      "source": "Dr David L. Morgan, 'A Physicist's Critique', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/a-physicists-critique/"
+    },
+    {
+      "id": "tl-1997-12-friedman-fraud",
+      "strand": "witness",
+      "date": "1997-12",
+      "precision": "month",
+      "tier": "B",
+      "node": "bob-lazar",
+      "label": "Stanton Friedman publishes 'The Bob Lazar Fraud'",
+      "text": "Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, publishes the credential investigation, updated January 2011. He located the professor Lazar named as a Caltech instructor: 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' He records the directory page's own scope statement and describes the W-2 as totalling 'under $1000.00'. The heaviest denial in the cluster comes from a proponent, not a debunker.",
+      "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
+    },
+    {
+      "id": "tl-2004-02-02-element-115-synthesised",
+      "strand": "program",
+      "date": "2004-02-02",
+      "precision": "day",
+      "tier": "A",
+      "node": "element-115-claim",
+      "label": "Element 115 synthesis published in Physical Review C",
+      "text": "Oganessian et al., 'Experiments on the synthesis of element 115 in the reaction 243Am(48Ca,xn)291-x115', Physical Review C 69, 021601(R), a Dubna and Lawrence Livermore collaboration. The isotopes are 287 and 288, at cross sections of roughly 1 and 3 picobarn, observed as chains of consecutive alpha decays running to completion within about twenty seconds and about half a second. Nothing about them is stable, machinable or storable.",
+      "source": "Physical Review C 69, 021601(R), https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601"
+    },
+    {
+      "id": "tl-2007-07-20-cpsc-united-nuclear",
+      "strand": "program",
+      "date": "2007-07-20",
+      "precision": "day",
+      "tier": "A",
+      "node": "bob-lazar",
+      "label": "CPSC: United Nuclear, the company, fined $7,500 after pleading guilty to three counts",
+      "text": "CORRECTS THE STANDARD FRAMING. It is widely repeated that 'in 2006, Lazar pleaded guilty' to a Federal Hazardous Substances Act violation. The CPSC's own release of 20 July 2007 says the COMPANY pled guilty, to three criminal counts, before U.S. Chief Magistrate Lorenzo F. Garcia: 'United Nuclear Scientific Supplies LLC, of Edgewood, N.M., founded and operated by Robert Lazar, was fined $7,500 and received three years probation.' Robert Lazar and accountant Joy White appear in the separate civil consent decree.",
+      "source": "U.S. Consumer Product Safety Commission, Release 07-249, https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components"
+    },
+    {
+      "id": "tl-2013-10-29-groom-lake-acknowledged",
+      "strand": "program",
+      "date": "2013-10-29",
+      "precision": "day",
+      "tier": "A",
+      "node": "s-4-papoose-lake",
+      "label": "The CIA's U-2 and OXCART history, declassified, acknowledges Groom Lake",
+      "text": "The National Security Archive posts Electronic Briefing Book 443, edited by Jeffrey T. Richelson, on the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, declassified that summer. This is the documented half of the hub's geography and it is a statement about Groom Lake, NOT about Papoose Lake.",
+      "source": "National Security Archive EBB 443, https://nsarchive.gwu.edu/node/3324"
+    },
+    {
+      "id": "tl-2015-12-30-iupac-priority",
+      "strand": "program",
+      "date": "2015-12-30",
+      "precision": "day",
+      "tier": "A",
+      "node": "element-115-claim",
+      "label": "IUPAC assigns discovery priority for element 115",
+      "text": "Priority went to 'the Dubna-Livermore-Oak Ridge collaborations', on the basis of work 'starting in 2010, and subsequently confirmed in 2012 and 2013'. A precision point usually got wrong in both directions: the priority statement rests on the 2010 to 2013 work, not on the 2003 experiment. The Joint Working Party report is Karol, Barber, Sherrill, Vardaci and Yamazaki, Pure and Applied Chemistry 88 (2016) 155.",
+      "source": "IUPAC, 30 December 2015, https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/"
+    },
+    {
+      "id": "tl-2016-11-28-moscovium-named",
+      "strand": "program",
+      "date": "2016-11-28",
+      "precision": "day",
+      "tier": "A",
+      "node": "element-115-claim",
+      "label": "Element 115 formally named moscovium",
+      "text": "The name moscovium, symbol Mc, was formally approved on 28 November 2016 and announced on 30 November 2016, proposed by the discoverers at Dubna, Oak Ridge, Vanderbilt and Lawrence Livermore, in recognition of the Moscow region. This event is regularly presented as vindicating the Lazar claim. It does not: his claim requires a STABLE isotope that can be machined and stored, and no such isotope exists.",
+      "source": "IUPAC, 30 November 2016, https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/"
+    },
+    {
+      "id": "tl-2017-07-19-united-nuclear-search",
+      "strand": "program",
+      "date": "2017-07-19",
+      "precision": "day",
+      "tier": "A",
+      "node": "bob-lazar",
+      "label": "FBI searches United Nuclear Scientific in a Michigan homicide investigation",
+      "text": "A two-page Laingsburg, Michigan police report records an 'Agency Assist' supporting an FBI search of United Nuclear Scientific in aid of 'a homicide investigation out of Houghton, MI involving poison', and records that Lazar consented to the search. The underlying case is the thallium death of Janel Sturzl, 31, on 22 December 2015. Lazar is not recorded as a suspect. The report was obtained by Tim McMillan under a local open-records request.",
+      "source": "Laingsburg Police Department report, published by The Black Vault, https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/"
+    },
+    {
+      "id": "tl-2018-11-01-corbell-documentary",
+      "strand": "witness",
+      "date": "2018-11-01",
+      "precision": "day",
+      "tier": "C",
+      "node": "corbell-lazar-2018",
+      "label": "Bob Lazar: Area 51 and Flying Saucers released digitally in the United States",
+      "text": "Jeremy Corbell's 97-minute documentary, narrated by Mickey Rourke, featuring Lazar, George Knapp and Joy White. Letterboxd lists United States digital release on 1 November 2018, United Kingdom physical on 4 December 2018 and United States physical on 8 December 2018. The widely cited '4 December 2018' is the UK physical date; IMDb returned HTTP 403 and no distributor record was opened.",
+      "source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+    },
+    {
+      "id": "tl-2018-mahood-retrospective",
+      "strand": "witness",
+      "date": "2018",
+      "precision": "year",
+      "tier": "C",
+      "node": "s-4-papoose-lake",
+      "label": "Mahood's retrospective: nothing at Papoose Lake, S-4 is a Tonopah radar facility",
+      "text": "Tom Mahood publishes his mature assessment: there is 'nothing at Papoose Lake', S-4 refers to a radar facility at the Tonopah Test Range, and the alien-craft narrative began as a cover story after the April 1989 detention. It concedes in the same document that Lazar is 'amazingly believable' and that Mahood initially found the story plausible. T.D. Barnes reaches the same radar-site conclusion by an unrelated route in 2026.",
+      "source": "Tom Mahood, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+    },
+    {
+      "id": "tl-2020-04-13-papoose-overflight",
+      "strand": "program",
+      "date": "2020-04-13",
+      "precision": "day",
+      "tier": "B",
+      "node": "s-4-papoose-lake",
+      "label": "Papoose Lake photographed from the air on a legal overflight: nothing there",
+      "text": "Tyler Rogoway of The War Zone publishes aerial images taken on a pilot's authorised flight directly over Papoose Lake: 'nothing appears to be there, just as satellite images show. There isn't even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.'",
+      "source": "Tyler Rogoway, The War Zone, https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends"
+    },
+    {
+      "id": "tl-2022-03-29-lear-dies",
+      "strand": "witness",
+      "date": "2022-03-29",
+      "precision": "day",
+      "tier": "C",
+      "node": "john-lear",
+      "label": "John Lear dies",
+      "text": "The Museum of Flight Archives authority record states: 'John Lear died on March 29, 2022.' He was born 3 December 1942, the son of William Powell Lear and Moya Olsen Lear, and his materials sit within the William P. and Moya Olsen Lear Family Collection.",
+      "source": "The Museum of Flight Archives, https://archives.museumofflight.org/agents/people/4962"
+    }
+  ],
+  "entityInfo": {},
+  "gaps": [
+    {
+      "id": "gap-klas-1989-air-dates",
+      "text": "HIGHEST-PROFILE GAP IN THE CLUSTER. The 1989 KLAS-TV air dates are the most-cited pair of dates in this entire subject and NO 1989-DATED ARTEFACT WAS OPENED: not a broadcast, not a recording, not a transcript, not a television listing, not a 1989 newspaper notice. KLAS's own site at 8newsnow.com, which carries George Knapp's retrospectives, returned HTTP 403 to three separate requests on 18 September 2026. The May 1989 'Dennis' interview and the 10 or 11 November 1989 named interview rest on Tom Mahood's timeline and on a Wikipedia summary of a 2023 NewsNation segment, and the 10-versus-11 November discrepancy is itself unresolved. klas-lazar-broadcasts-1989 is built deliberately incomplete for this reason.",
+      "wouldClose": "A 1989 Las Vegas television listing or newspaper TV page; an archived KLAS page via the Wayback Machine; the Mystery Wire archive; or a non-403 route to 8newsnow.com."
+    },
+    {
+      "id": "gap-lazar-w2",
+      "text": "THE W-2 WAS NEVER SEEN. It was NOT OPENED by this board in any form. The $958.11 figure in general circulation is Gene Huff's recollection of a cheque, in his own 1995 synopsis; Stanton Friedman, who had seen the form, describes it only as 'from the Department of Naval Intelligence', totalling 'under $1000.00'. NO EMPLOYER IDENTIFICATION NUMBER, NO ZIP CODE AND NO BOX CONTENTS ARE ASSERTED ANYWHERE ON THIS BOARD, including the employer identification number and the 'E-6722MAJ' string that circulate in the literature. The one page promising a box-by-box reading returned HTTP 403.",
+      "wouldClose": "A scan of the form itself; the John Andrews investigation and correspondence file; or an IRS FOIA response naming the employer identification number, none of which this session could open."
+    },
+    {
+      "id": "gap-lanl-phone-directory-page",
+      "text": "The Los Alamos internal telephone directory page bearing Lazar's name was NOT OPENED as an image or scan. Its existence and, more importantly, its printed scope statement covering Department of Energy employees and the outside contractor Kirk-Mayer rest entirely on Stanton Friedman's description of it. That scope statement is the hinge of the whole Los Alamos question, which is why the qualification on los-alamos-monitor-1982 is Tier 2 and not Tier 1.",
+      "wouldClose": "A scan of the directory page; the laboratory's own historical directories; or the Friedman papers."
+    },
+    {
+      "id": "gap-clark-county-docket-number",
+      "text": "The Clark County, Nevada docket number for the 1990 pandering case was NOT OBTAINED. Douglas Dean Johnson reproduces documents from the file but no case number came through the fetch, and none is asserted anywhere on this board. The conviction, the plea date, the sentence date and the 1996 denial are all sourced; the identifier is not.",
+      "wouldClose": "The Clark County District Court records portal, or a full-page image of the Johnson documents showing the caption."
+    },
+    {
+      "id": "gap-united-nuclear-court-file",
+      "text": "The court file of the United Nuclear prosecution was NOT OPENED. The Department of Justice case page for US v. United Nuclear Scientific Supplies rendered an entirely different case, an unrelated odometer-fraud prosecution in the District of Colorado, and the linked civil complaint PDF returned as unparsed binary. The criminal matter is therefore established solely from CPSC Release 07-249 of 20 July 2007, which is a primary government record but is not the court file, and NO CRIMINAL OR CIVIL CASE NUMBER IS ASSERTED.",
+      "wouldClose": "PACER for the District of New Mexico; a working Department of Justice Consumer Protection Branch case page; or the consent decree as filed."
+    },
+    {
+      "id": "gap-gnis-papoose-lake",
+      "text": "The USGS Geographic Names Information System record for Papoose Lake was NOT OPENED. The names application programming interface returned HTTP 404 and the gazetteer is a JavaScript application. The county and position on the hub node come from Wikipedia citing GNIS, which under CLAUDE.md section 2 is a pointer and not a citation. NO FEATURE IDENTIFIER, CLASS OR COORDINATES ARE ASSERTED.",
+      "wouldClose": "A working GNIS query endpoint, the USGS gazetteer download file, or the Papoose Lake USGS topographic quadrangle."
+    },
+    {
+      "id": "gap-moscovium-half-lives",
+      "text": "The half-lives of the moscovium isotopes are NOT ASSERTED. The primary 2004 Physical Review C paper gives decay-chain durations, not isotope half-lives. The figures in general circulation, about 38 milliseconds for moscovium-287 and about 193 milliseconds for moscovium-288, come from a Wikipedia isotope table which this session did not follow through to the underlying nuclear data compilation. What the paper itself supports, and all that the board claims, is that the isotopes are short-lived alpha emitters produced one atom at a time at picobarn cross sections.",
+      "wouldClose": "The NUBASE or Atomic Mass Evaluation compilations, or the Oganessian 2015 Reports on Progress in Physics review."
+    },
+    {
+      "id": "gap-doe-area-numbering",
+      "text": "HIGHEST-VALUE SINGLE FETCH FOR A FOLLOW-UP SESSION. DOE/NV-715, the Nevada Test Site Guide, which would show the Department of Energy's own numbering of its areas, returned HTTP 404 at the URL tried and was NOT OPENED. Nothing on this board therefore asserts what DOE calls its numbered areas, which means the 'S-4 is really a radar site' counter-explanation rests on Tom Mahood and T.D. Barnes rather than on a government document. Opening it would materially strengthen the hub node in the direction of the documented record.",
+      "wouldClose": "A working copy of DOE/NV-715 at nnss.gov or in the DOE OSTI collection; or the NNSS site description documents."
+    },
+    {
+      "id": "gap-lear-introduced-lazar-to-knapp",
+      "text": "Whether John Lear was the route by which Lazar reached George Knapp is NOT ESTABLISHED. It is universally repeated and it is in nothing this session opened. Mahood's timeline has Knapp beginning interviews in March 1989 and has Lear present at the desert viewings in the same weeks, but no opened source states the introduction. No edge on this board asserts it, and a build session should not add one from memory.",
+      "wouldClose": "Knapp's own account, which is behind the 8newsnow HTTP 403 wall; or Lear's own interviews."
+    },
+    {
+      "id": "gap-lear-faa-certificates",
+      "text": "John Lear's FAA certificates and the count of his aviation records were NOT CHECKED against any FAA or FAI record. The Museum of Flight authority record gives his dates and his collection but no certificate detail. The May 1966 Learjet 24 round-the-world flight is real, but the frequently repeated claim that he held every FAA certificate ever issued is not asserted here.",
+      "wouldClose": "The FAA airmen registry; the Fédération Aéronautique Internationale record database for the May 1966 flight."
+    },
+    {
+      "id": "gap-knapp-upi-award",
+      "text": "George Knapp's United Press International 'Individual Achievement by a Journalist' award for his 1990 UFO reporting is carried at Tier 3. Wikipedia sources it to a Simon and Schuster author profile which this session did not open. The contemporaneous Review-Journal reference to an 'award winning series' in June 1990 is consistent with it but does not name the award.",
+      "wouldClose": "The UPI awards record for 1990, or the Simon and Schuster author profile."
+    },
+    {
+      "id": "gap-corbell-release-date",
+      "text": "The Corbell documentary has no single confirmed release date on this board. Letterboxd gives three dates across two territories and two formats, and IMDb returned HTTP 403. The widely repeated '4 December 2018' is the United Kingdom physical date rather than the release, and the node states a range rather than a date.",
+      "wouldClose": "A distributor or festival record; a non-403 route to IMDb; or the Netflix acquisition announcement."
+    },
+    {
+      "id": "gap-eg-and-g-recruitment-route",
+      "text": "The EG&G recruitment route into the claimed job is the standard form of the account in the literature and NO SOURCE FOR IT WAS OPENED. On the coordinator's ruling of 18 September 2026 the proposed bob-lazar to eg-and-g edge has been DROPPED from this file rather than carried unsourced. A build session should not restore it without opening a source.",
+      "wouldClose": "The 1989 broadcasts themselves, or a dated Lazar interview in which he describes the EG&G interview, neither of which was opened."
+    },
+    {
+      "id": "gap-lazar-polygraphs",
+      "text": "Lazar's polygraph examinations are referred to constantly in the literature and NO SOURCE FOR THEM WAS OPENED. Nothing about them appears on any node, claim or edge in this file.",
+      "wouldClose": "The examiner's report if one exists; Knapp's own account; or the 1989 broadcasts."
+    },
+    {
+      "id": "gap-td-barnes-own-record",
+      "text": "T.D. Barnes is NOT PROPOSED AS A NODE in this file, on the coordinator's ruling, and his denial rides as a claim on s-4-papoose-lake instead. His is the sharpest denial in the board's corpus and everything the board has about him comes from a podcast transcript rather than from a record. Proposing him from a triage row would repeat the failure mode CLAUDE.md section 5 describes.",
+      "wouldClose": "A verification pass against Roadrunners Internationale, the CIA's released OXCART histories, and any personnel or programme record naming him."
+    },
+    {
+      "id": "gap-physical-trace",
+      "text": "THE GAP THAT FRAMES ALL THE OTHERS. There is no physical trace of the claim: no sample of any material, no photograph of any craft, no document bearing an 'S-4' designator, no manifest, no badge, and no personnel record of any kind. After thirty-seven years this cluster rests on one man's testimony, one friend's corroboration of lights in the desert, one videotape, one newspaper article about a jet-powered Honda, and a court file. The board should carry that plainly and the hub's high edge degree should never be mistaken for it.",
+      "wouldClose": "Nothing opened in thirty-seven years has closed it. Recorded so that no later session mistakes accumulated edges for accumulated evidence."
+    }
+  ]
+}

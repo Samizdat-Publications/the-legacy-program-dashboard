@@ -8,11 +8,42 @@
 "source": "The Black Vault document archive and case files",
 "text": "Obtained and published OSD/JS FOIA case 18-F-0324, the DD Form 1910 release, the OUSD(I) messaging emails, and the CCDC FOIA denial regarding the TTSA CRADA correspondence.",
 "tier": 1
+},
+{
+"source": "The Black Vault document archive and case files, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ and https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/ , opened 2026-09-18",
+"text": "It is the custody point for three separate parts of the Lazar record: the FBI FOIA releases on United Nuclear Scientific Supplies, pursued from November 2018 and delivered in three releases of 55, 130 and 130 pages; the Laingsburg, Michigan police report on the 19 July 2017 search, obtained by Tim McMillan under a local open-records request; and Stanton Friedman's own 1997 article on Lazar, in the Stanton Friedman Collection.",
+"tier": 1
+},
+{
+"source": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ , opened 2026-09-18",
+"text": "A negative FOIA result it records and flags: 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', with the site's own observation that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'.",
+"tier": 1
 }
 ],
 "cls": "institution",
 "cluster": "media",
 "connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2023-11",
+"dateStart": "2018-11",
+"direction": "out",
+"edgeLabel": "Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article",
+"id": "bob-lazar",
+"l0": false,
+"label": "Robert \"Bob\" Lazar",
+"note": "GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file.",
+"sources": [
+{
+"date": "2023-11",
+"name": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear'",
+"url": "https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/"
+}
+],
+"tier": "A",
+"type": "custody"
+},
 {
 "claimTier": 1,
 "cls": "program",
@@ -189,11 +220,12 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1996",
-"deg": 7,
+"deg": 8,
 "denials": [],
 "desc": "The Black Vault is the private FOIA archive through which the overwhelming majority of primary documents in this domain reached the public: the Elizondo resignation letters, the Garry Reid memoranda, the DD Form 1910, the Neill Tipton messaging emails, the Elizondo-Gough correspondence, the Army's denial of the TTSA CRADA correspondence, and the DoD Inspector General files. It is not aligned with the disclosure movement's conclusions and has publicly contested several of them, which is what gives its releases their evidentiary force — these are documents extracted by an adversarial requester, not supplied by an interested party.",
 "domains": [
-"elizondo-ttsa"
+"elizondo-ttsa",
+"lazar-s4-2026-09-18"
 ],
 "dossier": {
 "claims": [
@@ -238,6 +270,12 @@
 "locLabel": null,
 "members": [
 {
+"cls": "person",
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar",
+"tier": "A"
+},
+{
 "cls": "document",
 "id": "doc-341-smw-history-1967",
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
@@ -274,10 +312,25 @@
 "date": "2026-08-12",
 "name": "The Black Vault — AATIP, Tom DeLonge, Luis Elizondo and the Claims of To The Stars Academy (case file)",
 "url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+},
+{
+"date": "2023-11",
+"name": "The Black Vault, 'FBI File: Bob Lazar's United Nuclear', three releases of 55, 130 and 130 pages",
+"url": "https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/"
+},
+{
+"date": "2019-07-01",
+"name": "The Black Vault, 'Documents on 2017 Bob Lazar / United Nuclear Raid - Laingsburg Police Department'",
+"url": "https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/"
+},
+{
+"date": "1997-12",
+"name": "The Black Vault, Stanton Friedman Collection, 'The Bob Lazar Fraud'",
+"url": "https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/"
 }
 ],
 "sub": "FOIA document archive founded by John Greenewald Jr., 1996",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 642 of 1082, score 25). 7 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 359 of 1094, score 35). 8 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": []
 }

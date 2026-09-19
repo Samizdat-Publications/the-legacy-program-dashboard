@@ -190,7 +190,7 @@
 "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -211,7 +211,7 @@
 "url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -552,7 +552,7 @@
 "cls": "institution",
 "id": "dcsa-nisp",
 "label": "DCSA as DoD Cognizant Security Office under the NISP",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -629,6 +629,6 @@
 ],
 "sub": "mechanism",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 38 of 1082, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 38 of 1094, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
 "timeline": []
 }

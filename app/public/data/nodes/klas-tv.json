@@ -2,8 +2,13 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
+"band": "research",
 "claims": [
+{
+"source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "KLAS-TV is the originating institution of the Bob Lazar claim. A Las Vegas Review-Journal report of 19 June 1990 records contemporaneously that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. The station's own retrospectives on the story, at 8newsnow.com, returned HTTP 403 to three separate requests on 18 September 2026, so not one word of the originating institution's own account of its 1989 reporting is currently on this board.",
+"tier": 2
+},
 {
 "source": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Knapp joined KLAS-TV as reporter and news anchor in 1981, left in 1991 and was rehired in 1995; the Bob Lazar programmes aired on KLAS in May and November 1989.",
@@ -11,7 +16,7 @@
 }
 ],
 "cls": "institution",
-"cluster": "media",
+"cluster": "other",
 "connections": [
 {
 "claimTier": 2,
@@ -142,18 +147,66 @@
 ],
 "tier": "A",
 "type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1989-12-09",
+"dateStart": "1989-05",
+"direction": "out",
+"edgeLabel": "Its own broadcasts",
+"id": "klas-lazar-broadcasts-1989",
+"l0": false,
+"label": "The KLAS-TV Lazar broadcasts, 1989",
+"note": "The station is the publisher. Its own retrospectives returned HTTP 403 to this board, so nothing here comes from KLAS itself.",
+"sources": [
+{
+"date": "1990-06-19",
+"name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+}
+],
+"tier": "C",
+"type": "institutional"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1981",
-"deg": 5,
+"deg": 6,
 "denials": [],
 "desc": "KLAS-TV is the Las Vegas station where George Knapp has worked as anchor and I-Team investigative reporter since 1981, apart from a break from 1991 to 1995. It is where the Bob Lazar interviews aired in May and November 1989, putting Area 51 into global consciousness, and it remains the institutional base from which Knapp has run four decades of UAP reporting. A local CBS affiliate in a desert market being the originating venue for the most durable claims in this field is itself a structural fact about where this story has been allowed to live.",
 "domains": [
+"lazar-s4-2026-09-18",
 "media-structure"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "Las Vegas Review-Journal, 19 June 1990, opened 2026-09-18; the 1989 air dates are carried at Tier 3 on klas-lazar-broadcasts-1989",
+"text": "THIS IS THE ORIGINATING INSTITUTION OF THE LAZAR CLAIM, AND THE DATING IS INDIRECT. The Bob Lazar programmes aired on KLAS in May and November 1989, and a Las Vegas Review-Journal report of 19 June 1990 records contemporaneously that Lazar was the focal point of that reporting. The broadcasts themselves were not opened by any session on this board.",
+"tier": 2
+},
+{
+"source": "Already on the board before this cluster",
+"text": "THE REPORTER IS DOCUMENTED AND THE TENURE IS DATED. George Knapp joined KLAS-TV as reporter and news anchor in 1981, left in 1991, and was rehired in 1995.",
+"tier": 2
+}
+],
+"narrative": "The reason this node matters more than its size suggests is that the board can date the 1989 broadcasts only indirectly. The broadcasts themselves were not opened. What was opened is a Las Vegas Review-Journal report of 19 June 1990 which records, contemporaneously and for its own unrelated reasons, that Lazar had been the focal point of KLAS reporting. That is why `klas-lazar-broadcasts-1989` is built as a deliberately thin node anchored on a 1990 newspaper line with its air dates carried at Tier 3, rather than as a confident record of what aired and when.\n\nThat thinness is the honest state of the evidence and it should not be quietly improved. The station's own archive was not reached, and three attempts to open the successor site returned HTTP 403. A session that opens a 1989 artefact will be able to move several Tier 3 claims in this cluster to Tier 1 in a single stroke, and that is the highest-value gap in it.\n\nThe station's later role is separate and better documented. Knapp's reporting is one of the routes by which the AAWSAP contract and the Reid correspondence reached the public record, which is why this node carries edges to `aawsap`, `harry-reid` and `james-lacatski` alongside the Lazar ones. It is a newsroom that has been the first public custodian of this subject twice, thirty years apart.",
+"openQuestions": [
+"ANY 1989 ARTEFACT OF THE BROADCASTS THEMSELVES. None has been opened by any session. The station's successor site returned HTTP 403 on three attempts. This is the highest-value single gap in the Lazar cluster: one opened 1989 recording or transcript would move several Tier 3 claims to Tier 1 at once.",
+"Whether the station retains an archive of the May and November 1989 broadcasts, and whether it is reachable.",
+"Whether John Lear was the route by which the story reached Knapp, which is widely asserted and was not established."
+],
+"roles": [
+"disclosure",
+"custody",
+"research"
+],
+"whatItIs": "KLAS-TV, the CBS affiliate on Channel 8 in Las Vegas, and the originating institution of the Bob Lazar claim. Its reporter and news anchor George Knapp, who joined in 1981, broadcast the programmes in May and November 1989 that put Lazar and the name S-4 into public circulation. A Las Vegas Review-Journal report of 19 June 1990 records contemporaneously that Lazar was the focal point of those broadcasts, which is how the board dates them without having opened the broadcasts themselves.",
+"whyImplicated": "A local television newsroom is on this map because the modern subject has a traceable point of origin and this is it. Almost everything the board carries downstream of 1989 about S-4, about element 115 and about a reverse-engineering programme at a Nevada site descends from a sequence of reports on one CBS affiliate. The station is not a commentator on this story. It is the custody point for the story's first public form, and the board treats it the way it treats any custodian: the institution that held and released a claim, distinct from the claim's truth."
+},
 "entityInfo": null,
 "era": "1",
 "foia": {
@@ -162,12 +215,42 @@
 },
 "hl": null,
 "id": "klas-tv",
-"l0": false,
+"l0": true,
 "label": "KLAS-TV (Las Vegas)",
 "locLabel": null,
-"members": null,
-"short": "KLAS-TV (Las Vegas)",
+"members": [
+{
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "james-lacatski",
+"label": "James T. Lacatski",
+"tier": "A"
+},
+{
+"cls": "document",
+"id": "klas-lazar-broadcasts-1989",
+"label": "The KLAS-TV Lazar broadcasts, 1989",
+"tier": "C"
+}
+],
+"short": "KLAS-TV",
 "sources": [
+{
+"date": "1990-06-19",
+"name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+},
 {
 "date": "2026-08-12",
 "name": "Wikipedia - George Knapp (television journalist)",
@@ -176,6 +259,6 @@
 ],
 "sub": "CBS affiliate, Channel 8",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 951 of 1082, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 892 of 1094, score 17). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": []
 }

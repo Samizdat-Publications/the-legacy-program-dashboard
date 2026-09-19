@@ -1,6 +1,6 @@
 # The research band
 
-The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the research band: 38 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 142 nodes closest to the alleged programme into seven bands, and this file is the research band: 40 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -56,7 +56,7 @@ Roles the board assigns it: research, concealment, disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 193 of 1082, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 197 of 1094, score 45). 15 connections, 3 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -143,7 +143,7 @@ Roles the board assigns it: research, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 35 of 1082, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
+Re-graded A on a global pass (rank 35 of 1094, score 90). 15 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.
 
 ### The claims on the record
 
@@ -237,7 +237,7 @@ Roles the board assigns it: concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 98 of 1082, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
+Re-graded A on a global pass (rank 99 of 1094, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -325,7 +325,7 @@ Roles the board assigns it: concealment, oversight, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 132 of 1082, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+Re-graded A on a global pass (rank 135 of 1094, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -409,7 +409,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 102 of 1082, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 103 of 1094, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -484,7 +484,7 @@ Roles the board assigns it: concealment, custody, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 178 of 1082, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded B on a global pass (rank 181 of 1094, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -502,8 +502,8 @@ Re-graded B on a global pass (rank 178 of 1082, score 46). 9 connections, 3 of t
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Ben R. Rich** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage. His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation. Sources: Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive), https://archive.org/details/skunkworks00benr, dated 1994-01-01.
 - Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Air Force Plant 42, Palmdale, California** (location, board tier C), a institutional link at Tier 1 documented. The link reads: Skunk Works operates at the government-owned contractor-operated Palmdale facility. Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Mark McCandlish** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Same relayed unnamed informant locates the Skunk Works catty-corner from Plant 42. Same passage, same caveat: relayed, unnamed and uncorroborated, and no record was opened. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
-- Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **KONA BLUE** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: Alleges Lockheed-held material was to be transferred. The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence. Sources: NewsNation Reality Check - 'Inside Kona Blue', https://www.youtube.com/watch?v=F2NfXgv8x1E, dated 2026-08-04.
 - Lockheed Martin Advanced Development Programs (Skunk Works) runs out to **Groom Lake, Nevada** (location, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards. The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12.
+- Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **KONA BLUE** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: Alleges Lockheed-held material was to be transferred. The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence. Sources: NewsNation Reality Check - 'Inside Kona Blue', https://www.youtube.com/watch?v=F2NfXgv8x1E, dated 2026-08-04.
 - Lockheed Martin Advanced Development Programs (Skunk Works) comes in from **Dana (Keoki) Jackson** (person, board tier C), a behavioral link at Tier 2 named person on the record. The link reads: Arrived at MITRE from Lockheed Martin's chief technology office. The traverse from the prime contractor most often named in crash-retrieval testimony into the FFRDC that arbitrates what such contractors are told is the pipeline in one career. Sources: MITRE - Our Leadership, https://www.mitre.org/who-we-are/our-people/our-leadership, dated 2026-08-12.
 
 ## Project MKULTRA
@@ -533,7 +533,7 @@ Roles the board assigns it: concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 148 of 1082, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 151 of 1094, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -592,7 +592,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 133 of 1082, score 53). 8 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 136 of 1094, score 53). 8 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -652,7 +652,7 @@ Roles the board assigns it: custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 151 of 1082, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 154 of 1094, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -726,7 +726,7 @@ Roles the board assigns it: custody, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 136 of 1082, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 139 of 1094, score 53). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -754,8 +754,8 @@ Re-graded A on a global pass (rank 136 of 1082, score 53). 7 connections, 1 of t
 - EG&G (Edgerton, Germeshausen and Grier) runs out to **Federal Contracting Mechanics** (domain, board tier B), a institutional link at Tier 1 documented. The link reads: contracting at a site whose existence was itself classified. EG&G instrumented and fired US nuclear tests from the Manhattan Project onward and became the classified services contractor for the Nevada complex, including the Air Force operating location near Groom Lake - a facility whose existence required a Presidential Determination published at 60 FR 52823 to exempt it from disclosure. It is the historical template for how contracting works where the place of performance cannot be named. Sources: Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **Presidential Determinations on the Air Force's Operating Location Near Groom Lake** (document, board tier B), a denial link at Tier 1 documented. The link reads: The state secrets defence shielded the contractor-operated facility from the workers' suit. Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied. Sources: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08; Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
 - EG&G (Edgerton, Germeshausen and Grier) runs out to **Groom Lake, Nevada** (location, board tier A), a institutional link at Tier 2 named person on the record. The link reads: EG&G provided the classified site services and personnel transport for the Groom Lake operating location. The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility. Sources: Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08; Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823, https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location, dated 1995-10-10.
+- EG&G (Edgerton, Germeshausen and Grier) runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier B), a institutional link at Tier 2 named person on the record. The link reads: EG&G was the classified services contractor for the Nevada complex in the testing era. Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08.
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **Alfred 'Al' O'Donnell** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada. His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation. Sources: Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times, https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs, dated 2023-02-28; House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- EG&G (Edgerton, Germeshausen and Grier) runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier C), a institutional link at Tier 2 named person on the record. The link reads: EG&G was the classified services contractor for the Nevada complex in the testing era. Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998) (CourtListener), https://www.courtlistener.com/opinion/7058198/kasza-v-browner/, dated 1998-01-08.
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **Richard D'Amato** (person, board tier C), a investigative link at Tier 2 named person on the record. The link reads: D'Amato's Senate inquiry reached EG&G and stopped there. Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation. Sources: Christopher Sharp, 'Former Chief For Defense Contractor That Ran Area 51 Claimed Knowledge Of Recovered Flying Saucer And Live Being,' Liberation Times, https://www.liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-51-claimed-knowledge-of-recovered-flying-saucer-and-live-being-as-congress-looks-to-uncover-details-of-alleged-illegal-ufo-programs, dated 2023-02-28.
 - EG&G (Edgerton, Germeshausen and Grier) comes in from **The Wilson-Davis Notes (16 October 2002)** (document, board tier A), a custody link at Tier 3 stated inference. The link reads: The meeting is reported to have taken place at an EG&G facility in Las Vegas. EG&G held the Groom Lake support and personnel-transport contracts; the reported venue matters because it places the conversation inside the contractor perimeter it describes. Sources: The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing), https://thedebrief.org/summer-of-the-saucers/, dated 2022-08-01.
 
@@ -796,7 +796,7 @@ Roles the board assigns it: research, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 111 of 1082, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 112 of 1094, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -864,7 +864,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 140 of 1082, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 143 of 1094, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -901,6 +901,61 @@ Re-graded A on a global pass (rank 140 of 1082, score 52). 6 connections, 2 of t
 - Project Blue Book Special Report No. 14 comes in from **Battelle Memorial Institute** (institution, board tier A), a funding link at Tier 2 named person on the record. The link reads: Battelle performed the statistical analysis under contract. Battelle Memorial Institute of Columbus is the contractor identified throughout the literature; the report's own front matter does not name a contractor, which is why this is graded tier 2. Sources: Project Blue Book Special Report No. 14, http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf, dated 1955-05-05.
 - Project Blue Book Special Report No. 14 runs out to **University of Colorado UFO Project (Condon Committee)** (program, board tier A), a investigative link at Tier 3 stated inference. The link reads: Both official studies buried an unexplained residue under dismissive conclusions. SR14 left 19.7 per cent unknown with quality correlating positively with unexplainedness; the Colorado project left roughly a third of its cases unexplained. Both summaries declared the subject unrewarding. Sources: Project Blue Book Special Report No. 14, http://www.nicap.org/docs/pbbsr/BBA-PBSR14.pdf, dated 1955-05-05; Scientific Study of Unidentified Flying Objects (Condon Report), https://files.ncas.org/condon/, dated 1968-11-01.
 
+## Los Alamos National Laboratory
+
+Los Alamos National Laboratory is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1943; axes C2 A3 D1; 6 connections; in the research band.
+
+In one line: DOE FFRDC administered by Triad National Security, LLC since 9 June 2018; Los Alamos, NM.
+
+### What it is
+
+Los Alamos National Laboratory, the Department of Energy federally funded research and development centre at Los Alamos, New Mexico, administered by Triad National Security, LLC since 9 June 2018 and receiving approximately $3,918.3 million in FY2024. It is the laboratory that built the first nuclear weapons, and on this board it appears in three unrelated capacities: as the host of a documented 1949 conference on the green fireballs, as an institution whose own archivist says it fields several UFO-related FOIA requests a year, and as the workplace named in the single most contested credential claim in the subject.
+
+### Why it is implicated
+
+It joined this map with the Lazar cluster of 18 September 2026, and it is the node where that cluster's central factual question actually lives. Bob Lazar's account requires a documented scientific career, and the one contemporaneous document that appears to supply it is a Los Alamos artefact: the 27 June 1982 front page of the Los Alamos Monitor, which reports on him as a laboratory-connected physicist, and a 1982 internal telephone directory that lists his name. Both are real, both were opened, and both are narrower than the use made of them. The laboratory is therefore not a bystander here. It is the place where the strongest evidence for the claimant and the strongest qualification of that evidence sit on the same pair of pages.
+
+### The longer account
+
+The board carries this laboratory for the ordinary reasons first. It hosted a conference on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury and Frederick Reines among others, which is documented by the laboratory itself rather than by the literature about it. Its senior archivist has said on the record that the institution receives several FOIA requests a year on unidentified aerial phenomena, which is a rare thing for an institution to say about itself and is the reason a `custody` reading of this node is defensible at all.
+
+What brought it onto the top-level map is narrower and sharper. The Lazar account stands or falls on whether he was what he said he was, and the only contemporaneous documentary thread in his favour runs through here. On 27 June 1982 the Los Alamos Monitor put him on its front page. A 1982 internal telephone directory lists his name. Taken together they are routinely presented as proof of employment at the laboratory.
+
+They are not that, and this node exists partly to say so precisely. The directory's own terms state that it covers outside contractors as well as staff, and a 1996 taped interview with a former colleague places him under Kirk-Mayer, a contractor, which is why `kirk-mayer` is now a node in its own right with an edge to this one. The board's rule, written as a claim on this node rather than left to a reader to work out, is that his connection is to be stated as named in a directory and never as employed by. That is a smaller claim than either his supporters or his critics usually make, and it is the one the documents support.
+
+The laboratory has made no statement about him in anything opened here, and none is asserted. The edge from this node to `bob-lazar` is Tier 3 for exactly that reason.
+
+Roles the board assigns it: research, custody, disclosure.
+
+### Open questions on this node
+
+- The 1982 Los Alamos telephone directory page itself, as an image. It is described and quoted in the secondary literature but was not opened as a scan, so its exact wording and the placement of his entry are not established here.
+- Any laboratory or Kirk-Mayer personnel record for Bob Lazar. None was opened, and the board asserts no employment either way.
+- Whether the laboratory has ever made any statement about him. Nothing opened here contains one.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 230 of 1094, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.
+
+### The claims on the record
+
+- **Tier 1 documented.** LANL is administered by Triad National Security, LLC (new administrator 9 June 2018) and received approximately $3,918.3 million in FY2024. Source: NSF NCSES Master Government List of FFRDCs; CRS Report R44629
+- **Tier 1 documented.** LANL states that a conference was organised at Los Alamos on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and military representatives, and that the National Security Research Center holds the conference minutes. Source: Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024
+- **Tier 1 documented.** LANL states that its senior archivist receives several FOIA requests every year related to unidentified flying objects and other unexplained aerial phenomena, and that the NSRC does not appear to hold materials on Project Twinkle. Source: Los Alamos National Laboratory, 18 November 2024
+- **Tier 1 documented.** THE CONTEMPORANEOUS ARTEFACT IS REAL AND IS NARROWER THAN ITS USE. The Los Alamos Monitor of 27 June 1982 carries him on its front page. It is a dated, openable, contemporaneous newspaper record and it is the strongest single thread in his favour. It is a local newspaper's account, not a personnel record, and it carries the same qualification as the directory. Source: Los Alamos Monitor front page, 27 June 1982, opened 2026-09-18
+- **Tier 1 documented.** THE LABORATORY DOCUMENTS ITS OWN UAP HISTORY. LANL states that a conference was organised at Los Alamos on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury and Frederick Reines among others, and that its senior archivist receives several FOIA requests every year related to unidentified flying objects and other unexplained aerial phenomena. Source: LANL's own published statements, already on the board before this cluster
+- **Tier 2 named person on the record.** Jeremy Corbell states he received a trove of documents from the son of a deceased former Los Alamos National Laboratory cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory; these form the basis of the documentary 'Sleeping Dog'. Source: New York Post, 25 April 2026; NDTV, 26 April 2026; NewsNation reporting, 24 April 2026
+- **Tier 2 named person on the record.** Newly declassified records detailing the 1949 Los Alamos green fireballs conference were released and reported in July 2026. Source: Newsweek, 10 July 2026; KLAS/Mystery Wire, 13 July 2026
+
+### Its strongest connections
+
+- Los Alamos National Laboratory comes in from **United States Department of Energy** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: DOE/NNSA management and operating contract; Los Alamos. Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material. Sources: Los Alamos National Laboratory - FOIA requests at the National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18; NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
+- Los Alamos National Laboratory comes in from **Los Alamos Green Fireballs Conference** (event, board tier B), a custody link at Tier 1 documented. The link reads: Held at Los Alamos; LANL's National Security Research Center holds the minutes. LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account. Sources: LANL National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18.
+- Los Alamos National Laboratory comes in from **Donald M. Kerr** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Directed Los Alamos before the NRO and ODNI. The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand. Sources: WashingtonExec, https://washingtonexec.com/2018/11/mitre-board-of-trustees-members-elect-former-rep-mike-rogers-vice-chairman/, dated 2018-11-06.
+- Los Alamos National Laboratory runs out to **Jeremy Kenyon Lockyer Corbell** (person, board tier C), a investigative link at Tier 2 named person on the record. The link reads: 'Sleeping Dog' document trove said to originate with a deceased LANL cybersecurity chief. Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them. Sources: New York Post, https://nypost.com/2026/04/25/us-news/trove-of-leaked-documents-show-us-lab-where-two-missing-scientists-worked-studied-ufos-film/, dated 2026-04-25.
+- Los Alamos National Laboratory comes in from **Kirk-Mayer, Inc.** (institution, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Support-services contractor at the laboratory. The whole purpose of the kirk-mayer node. Nothing was opened about the company itself beyond this relationship. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', quoting the directory page's own scope statement, https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
+- Los Alamos National Laboratory comes in from **Robert "Bob" Lazar** (person, board tier A), a institutional link at Tier 3 stated inference. The link reads: Named in a 1982 laboratory telephone directory, NOT documented as employed by it. THE LABEL IS THE WHOLE POINT OF THIS EDGE AND MUST NOT BE SHORTENED TO 'employed by'. The directory page states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and the laboratory later said it held no records for him. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
+
 ## Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955
 
 Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955 is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1955-11-20 to 1955-11-22; axes C0 A0 D3; 6 connections; in the research band.
@@ -928,7 +983,7 @@ Roles the board assigns it: disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 523 of 1082, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 529 of 1094, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -984,7 +1039,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 117 of 1082, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 118 of 1094, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1066,7 +1121,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 194 of 1082, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 198 of 1094, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1139,7 +1194,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 84 of 1082, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 86 of 1094, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1219,7 +1274,7 @@ Roles the board assigns it: research, custody, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 70 of 1082, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 73 of 1094, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -1249,7 +1304,7 @@ Re-graded A on a global pass (rank 70 of 1082, score 70). 10 connections, 5 of t
 - Operação Prato (Operation Saucer) runs out to **Arquivo Nacional (Brazil) - UFO/UAP collection** (institution, board tier A), a custody link at Tier 2 named person on the record. The link reads: official documents held by the National Archives. The operation's files were released and are served through the Arquivo Nacional's information system. Sources: Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Operação Prato (Operation Saucer) runs out to **SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme** (program, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: COMPARISON: two military UAP field-collection programmes that ended in publication rather than burial. COMPARISON EDGE, no contact between the Brazilian and Soviet programmes is claimed or evidenced, and none is likely. The pairing is structural: Operação Prato was a small dedicated Air Force and SNI field detachment run under a military dictatorship that closed with an official negative finding and whose files later went to a civil national archive; SETKA was a thirteen-year standing collection tasking laid on the whole Soviet armed forces, written up afterwards by the men who ran it and published in the Academy of Sciences' own journal. Both are counter-examples to the US pattern in the same way and by opposite routes, one through an archive law, one through its own operators publishing. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] Sources: Senado Federal, Dados Abertos, official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022, dated 2026-08-23; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01; Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe, sessão especial para os 75 anos do Dia Mundial da Ufologia, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline
 - Operação Prato (Operation Saucer) runs out to **Jacques F. Vallee** (person, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Vallee was shown the Prato military file at First Air Force headquarters in 1988. From Vallee's Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, 'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: "...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato."' Tier 2, diary testimony quoted at one remove, with no FAB document confirming the meeting. Sources: Jacques Vallee, 'Forbidden Science Volume Three' (diary of the July 1988 Brazil trip), quoted in Basterfield, 'Investigative adventures in Brazil'; Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
-- Operação Prato (Operation Saucer) runs out to **The Black Vault** (institution, board tier C), a custody link at Tier 2 named person on the record. The link reads: The American reporter's Prato dossier sits in Greenewald's archive. A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
+- Operação Prato (Operation Saucer) runs out to **The Black Vault** (institution, board tier B), a custody link at Tier 2 named person on the record. The link reads: The American reporter's Prato dossier sits in Greenewald's archive. A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Operação Prato (Operation Saucer) comes in from **Brazil** (location, board tier C), a geographic link at Tier 2 named person on the record. The link reads: Operação Prato was run on Colares, Pará, in northern Brazil. Pratt's file: intelligence agents 'from the Air Force base in Belém in northern Brazil interviewed hundreds of witnesses in Colares and about thirty other villages north of Belém'. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 - Operação Prato (Operation Saucer) comes in from **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: commanded the operation. Named as commanding officer in Brazilian press accounts of the released Arquivo Nacional file. Sources: Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 
@@ -1297,7 +1352,7 @@ Roles the board assigns it: research, disclosure, concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 125 of 1082, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 126 of 1094, score 55). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1326,6 +1381,56 @@ Re-graded A on a global pass (rank 125 of 1082, score 55). 6 connections, 2 of t
 - Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986 comes in from **Senado Federal do Brasil** (institution, board tier C), a legislative link at Tier 1 documented. The link reads: The 1986 night is named in the Senate instrument that produced the 2022 special session. RQS 193/2022 names the event: 'em 1986, quando ocorreu a hoje conhecida como "Noite Oficial dos UFOs no Brasil", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' The special session was held on 24 June 2022. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] Sources: Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe, sessão especial para os 75 anos do Dia Mundial da Ufologia, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline; Senado Federal, Notas Taquigráficas da sessão especial de 24/06/2022, https://legis.senado.leg.br/escriba-servicosweb/sessao/pdf/25017; Senado Federal, Dados Abertos, official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022, dated 2026-08-23; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02; Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members), https://legis.senado.leg.br/dadosabertos/senador/lista/atual, dated 2026-08-12.
 - Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986 comes in from **Brazil** (location, board tier C), a geographic link at Tier 1 documented. The link reads: The 1986 engagement ranged across four Brazilian states. São Paulo, Rio de Janeiro, Minas Gerais and Goiás. A national-scale event, which is why it reads as a state posture rather than a local incident. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] Sources: Correio Braziliense, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html; Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe, sessão especial para os 75 anos do Dia Mundial da Ufologia, https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline; Senado Federal, Dados Abertos, official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022, dated 2026-08-23; Relatório de Ocorrências (Arquivo Nacional PDF), http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf, dated 1986-06-02.
 - Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986 comes in from **Brigadeiro Octávio Júlio Moreira Lima** (person, board tier B), a denial link at Tier 2 named person on the record. The link reads: held the 23 May 1986 press conference stating the Air Force had no explanation. The minister produced the five pilots and the controllers in person and promised a full dossier within 30 days that never appeared. Sources: BBC Brasil, https://www.bbc.com/portuguese/brasil-59953278, dated 2022-01-14.
+
+## KLAS-TV (Las Vegas)
+
+KLAS-TV (Las Vegas) is a institution on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1981; axes C0 A0 D2; 6 connections; in the research band.
+
+In one line: CBS affiliate, Channel 8.
+
+### What it is
+
+KLAS-TV, the CBS affiliate on Channel 8 in Las Vegas, and the originating institution of the Bob Lazar claim. Its reporter and news anchor George Knapp, who joined in 1981, broadcast the programmes in May and November 1989 that put Lazar and the name S-4 into public circulation. A Las Vegas Review-Journal report of 19 June 1990 records contemporaneously that Lazar was the focal point of those broadcasts, which is how the board dates them without having opened the broadcasts themselves.
+
+### Why it is implicated
+
+A local television newsroom is on this map because the modern subject has a traceable point of origin and this is it. Almost everything the board carries downstream of 1989 about S-4, about element 115 and about a reverse-engineering programme at a Nevada site descends from a sequence of reports on one CBS affiliate. The station is not a commentator on this story. It is the custody point for the story's first public form, and the board treats it the way it treats any custodian: the institution that held and released a claim, distinct from the claim's truth.
+
+### The longer account
+
+The reason this node matters more than its size suggests is that the board can date the 1989 broadcasts only indirectly. The broadcasts themselves were not opened. What was opened is a Las Vegas Review-Journal report of 19 June 1990 which records, contemporaneously and for its own unrelated reasons, that Lazar had been the focal point of KLAS reporting. That is why `klas-lazar-broadcasts-1989` is built as a deliberately thin node anchored on a 1990 newspaper line with its air dates carried at Tier 3, rather than as a confident record of what aired and when.
+
+That thinness is the honest state of the evidence and it should not be quietly improved. The station's own archive was not reached, and three attempts to open the successor site returned HTTP 403. A session that opens a 1989 artefact will be able to move several Tier 3 claims in this cluster to Tier 1 in a single stroke, and that is the highest-value gap in it.
+
+The station's later role is separate and better documented. Knapp's reporting is one of the routes by which the AAWSAP contract and the Reid correspondence reached the public record, which is why this node carries edges to `aawsap`, `harry-reid` and `james-lacatski` alongside the Lazar ones. It is a newsroom that has been the first public custodian of this subject twice, thirty years apart.
+
+Roles the board assigns it: disclosure, custody, research.
+
+### Open questions on this node
+
+- ANY 1989 ARTEFACT OF THE BROADCASTS THEMSELVES. None has been opened by any session. The station's successor site returned HTTP 403 on three attempts. This is the highest-value single gap in the Lazar cluster: one opened 1989 recording or transcript would move several Tier 3 claims to Tier 1 at once.
+- Whether the station retains an archive of the May and November 1989 broadcasts, and whether it is reachable.
+- Whether John Lear was the route by which the story reached Knapp, which is widely asserted and was not established.
+
+### Why it holds its tier
+
+Re-graded C on a global pass (rank 892 of 1094, score 17). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.
+
+### The claims on the record
+
+- **Tier 2 named person on the record.** KLAS-TV is the originating institution of the Bob Lazar claim. A Las Vegas Review-Journal report of 19 June 1990 records contemporaneously that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. The station's own retrospectives on the story, at 8newsnow.com, returned HTTP 403 to three separate requests on 18 September 2026, so not one word of the originating institution's own account of its 1989 reporting is currently on this board. Source: Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/, opened 2026-09-18, DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement
+- **Tier 2 named person on the record.** Knapp joined KLAS-TV as reporter and news anchor in 1981, left in 1991 and was rehired in 1995; the Bob Lazar programmes aired on KLAS in May and November 1989. Source: Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026, DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement
+- **Tier 2 named person on the record.** THE REPORTER IS DOCUMENTED AND THE TENURE IS DATED. George Knapp joined KLAS-TV as reporter and news anchor in 1981, left in 1991, and was rehired in 1995. Source: Already on the board before this cluster
+- **Tier 2 named person on the record.** THIS IS THE ORIGINATING INSTITUTION OF THE LAZAR CLAIM, AND THE DATING IS INDIRECT. The Bob Lazar programmes aired on KLAS in May and November 1989, and a Las Vegas Review-Journal report of 19 June 1990 records contemporaneously that Lazar was the focal point of that reporting. The broadcasts themselves were not opened by any session on this board. Source: Las Vegas Review-Journal, 19 June 1990, opened 2026-09-18; the 1989 air dates are carried at Tier 3 on klas-lazar-broadcasts-1989
+
+### Its strongest connections
+
+- KLAS-TV (Las Vegas) runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Knapp testified as KLAS-TV chief investigative reporter. Knapp opened his sworn statement: 'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.' The witness list gives him as 'Mr. George Knapp, UAP Journalist'; Chairwoman Luna's introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', 9 September 2025 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
+- KLAS-TV (Las Vegas) runs out to **Harry M. Reid** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Knapp's Lazar/S-4 reporting opened a private channel to Reid. Knapp told the Task Force that after reporting the Bob Lazar / S-4 story in 1989 he 'interviewed dozens of other people' over the years, and named the list: 'They include Senator Harry Reid; Senator Howard Cannon, also of Nevada; a guy named Al O'Donnell, who was the first general manager of EG&G in Nevada... There is a guy named Dr. James Lacatski.' The printed hearing reproduces oral statements only, so the sequence in which Knapp first approached Reid sits in his written statement at docs.house.gov and is not asserted here. Sources: House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
+- KLAS-TV (Las Vegas) runs out to **James T. Lacatski** (person, board tier A), a research link at Tier 1 documented. The link reads: Knapp co-authored two books with the AAWSAP originator. Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.' Sources: House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
+- KLAS-TV (Las Vegas) runs out to **Independent media as the disclosure substrate** (domain, board tier C), a investigative link at Tier 1 documented. The link reads: four decades of the record produced from a single local affiliate. KLAS-TV is where George Knapp has anchored and reported since 1981, where the Bob Lazar interviews aired in 1989, and the institutional capacity in which he testified before the House Oversight Task Force on 9 September 2025. A local CBS affiliate in a desert market holding a national investigative record for forty years is a structural fact about the substrate, not a curiosity. Sources: House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; Wikipedia, George Knapp (television journalist), https://en.wikipedia.org/wiki/George_Knapp_(television_journalist), dated 2026-08-21.
+- KLAS-TV (Las Vegas) runs out to **The KLAS-TV Lazar broadcasts, 1989** (document, board tier C), a institutional link at Tier 1 documented. The link reads: Its own broadcasts. The station is the publisher. Its own retrospectives returned HTTP 403 to this board, so nothing here comes from KLAS itself. Sources: Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/, dated 1990-06-19.
+- KLAS-TV (Las Vegas) runs out to **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis. Knapp's custody allegation, made under oath: 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' On the Russia files he testified that he obtained documents and interviews from Soviet defence officials in the early 1990s and has 'now shared with this Task Force' - the printed hearing carries no statement that he shared them with BAASS or the DIA, which is why this is tier 2. It is an allegation by a named witness, not a documented transfer. Sources: House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
 
 # 2000-2016: AAWSAP / AATIP
 
@@ -1378,7 +1483,7 @@ Roles the board assigns it: oversight, concealment, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 120 of 1082, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 121 of 1094, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1457,7 +1562,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 81 of 1082, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 84 of 1094, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -1540,7 +1645,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 96 of 1082, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 97 of 1094, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1622,7 +1727,7 @@ Roles the board assigns it: custody, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 64 of 1082, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded A on a global pass (rank 66 of 1094, score 73). 10 connections, 6 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1713,7 +1818,7 @@ Roles the board assigns it: research, concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 179 of 1082, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 182 of 1094, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1786,7 +1891,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 87 of 1082, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
+Re-graded A on a global pass (rank 88 of 1094, score 66). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
 
 ### The claims on the record
 
@@ -1872,7 +1977,7 @@ Roles the board assigns it: disclosure, concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 17 of 1082, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 17 of 1094, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1969,7 +2074,7 @@ Roles the board assigns it: oversight, concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 74 of 1082, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 77 of 1094, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1999,8 +2104,8 @@ Re-graded A on a global pass (rank 74 of 1082, score 69). 19 connections, 6 of t
 - Unidentified Aerial Phenomena Task Force (UAPTF) runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a institutional link at Tier 1 documented. The Task Force was the body, the assessment was its output. The UAPTF was approved 4 August 2020 by Deputy Secretary Norquist under the Department of the Navy; the 144 incidents in the June 2021 assessment came from its holdings, with ODNI transmitting the product. The programmatic edge on this pair records the data provenance; this one records the institutional relationship. Sources: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021 (dni.gov), https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; Wayback snapshot of ODNI Preliminary Assessment PDF (now served from archive.dni.gov), https://web.archive.org/web/20260811010946id_/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2026-08-11.
 - Unidentified Aerial Phenomena Task Force (UAPTF) runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a programmatic link at Tier 1 documented. The link reads: UAPTF dataset is the substrate of the 2021 Preliminary Assessment. The assessment's 144 incidents came from the Task Force's holdings; ODNI transmitted the product but the Task Force built the data. Sources: ODNI Preliminary Assessment, https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
 - Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **Navy Range Fouler Reports (72 reports, 2004-2021)** (document, board tier B), a institutional link at Tier 1 documented. The link reads: Reporting volume tracks the existence of a channel, not the phenomenon. The set contains no reports from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent from 2021 alone - the year after the Task Force was stood up. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
-- Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)** (document, board tier B), a custody link at Tier 1 documented. The link reads: ordered the UAPTF disestablished and its data and materials transferred to AARO. This is the custody event of the domain: everything the Task Force held passed to an office inside OSD. The memorandum's word is 'materials', not merely records. Sources: AARO establishment memorandum, https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF, dated 2022-07-15.
 - Unidentified Aerial Phenomena Task Force (UAPTF) runs out to **Office of Naval Intelligence** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: sited in the Department of the Navy with ONI involvement. The Deputy Secretary of Defense established the UAPTF under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit. Sources: US Navy press release, https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/, dated 2020-08-14; ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25; Office of Naval Intelligence - official website, https://www.oni.navy.mil/, dated 2026-08-12.
+- Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)** (document, board tier B), a custody link at Tier 1 documented. The link reads: ordered the UAPTF disestablished and its data and materials transferred to AARO. This is the custody event of the domain: everything the Task Force held passed to an office inside OSD. The memorandum's word is 'materials', not merely records. Sources: AARO establishment memorandum, https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF, dated 2022-07-15.
 - Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **United States Navy** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Navy designated lead service for the UAP Task Force. 'Deputy Secretary of Defense David L. Norquist approved the establishment of an Unidentified Aerial Phenomena (UAP) Task Force (UAPTF)' on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security. Its stated mission was 'to detect, analyze and catalog UAPs that could potentially pose a threat to U.S. national security'. The task force was disestablished two years later on the Deputy Secretary's direction when AARO stood up. Sources: U.S. Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force', 14 August 2020, https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/, dated 2020-08-14; U.S. Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force,' August 14, 2020 -- https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/
 - Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office** (legislation, board tier C), a legislative link at Tier 1 documented. The link reads: directed disestablishment of the UAPTF. 'Consistent with section 1683 of the NDAA for FY 2022, I also direct the Secretary of the Navy to disestablish the Unidentified Aerial Phenomena Task Force (UAPTF) no later than the date the AARO is established, and to support the orderly transition of the UAPTF, including the transfer of any data, analysis, or other relevant material, to the AARO.' The statute did not abolish the task force directly; it required an office whose establishment the Deputy Secretary made the trigger for disestablishment. Sources: Deputy Secretary of Defense memorandum, 'Establishment of the All-domain Anomaly Resolution Office', 15 July 2022, https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF, dated 2022-07-15.
 - Unidentified Aerial Phenomena Task Force (UAPTF) comes in from **Andy Biggs** (person, board tier C), a investigative link at Tier 1 documented. The link reads: elicited Grusch's authorship of the UAPTF 2019 classification guide. Asked by Biggs whether the 2019 classification guidelines interfere with the government's ability to be transparent, Grusch answered: 'Yes, I am familiar with the UAP Task Force 2019 Security Classification guide. I think it is fair. I did actually help author that with the Director.' Biggs: 'Uh-oh. You got a bias then.' Grusch then characterised the practice rather than the guide - 'I will call it a lazy attitude about declassifying videos'. The witness co-authored the instrument he was being asked to criticise, and said so unprompted. Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
@@ -2059,7 +2164,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 403 of 1082, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 409 of 1094, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -2136,7 +2241,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 527 of 1082, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
+Re-graded B on a global pass (rank 533 of 1094, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
 
 ### The claims on the record
 
@@ -2220,7 +2325,7 @@ Roles the board assigns it: disclosure, oversight, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 530 of 1082, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 536 of 1094, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2304,7 +2409,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 745 of 1082, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 750 of 1094, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2380,7 +2485,7 @@ Roles the board assigns it: research, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 352 of 1082, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 357 of 1094, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2460,7 +2565,7 @@ Roles the board assigns it: concealment, oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 46 of 1082, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 46 of 1094, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2551,7 +2656,7 @@ Roles the board assigns it: disclosure, research, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 452 of 1082, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 458 of 1094, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2628,7 +2733,7 @@ Roles the board assigns it: custody, concealment, oversight, disclosure, researc
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 402 of 1082, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 408 of 1094, score 33). 7 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -2696,7 +2801,7 @@ Roles the board assigns it: disclosure, custody, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 793 of 1082, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 799 of 1094, score 20). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2778,7 +2883,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 68 of 1082, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 71 of 1094, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2868,7 +2973,7 @@ Roles the board assigns it: research, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 933 of 1082, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 942 of 1094, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2942,7 +3047,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 733 of 1082, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 738 of 1094, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

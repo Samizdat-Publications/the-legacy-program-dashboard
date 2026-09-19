@@ -88,7 +88,7 @@
 "url": "https://www.usaspending.gov/search"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -244,7 +244,7 @@
 "cls": "location",
 "id": "l-nevada-test-site",
 "label": "Nevada Test Site / Nevada National Security Site",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -285,7 +285,7 @@
 ],
 "sub": "Prime contractor; B-2/B-21; former Nevada Test Site management partner",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 378 of 1082, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 384 of 1094, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [
 {
 "date": "2006-01-01",

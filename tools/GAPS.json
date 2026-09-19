@@ -1160,6 +1160,134 @@
   "gap": "The Yankee Blue FOIA remand of 15 December 2025 is live. The outcome of the Department of War's renewed search is the single most consequential pending records action in this domain and should be tracked to resolution."
  },
  {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-klas-1989-air-dates",
+   "text": "HIGHEST-PROFILE GAP IN THE CLUSTER. The 1989 KLAS-TV air dates are the most-cited pair of dates in this entire subject and NO 1989-DATED ARTEFACT WAS OPENED: not a broadcast, not a recording, not a transcript, not a television listing, not a 1989 newspaper notice. KLAS's own site at 8newsnow.com, which carries George Knapp's retrospectives, returned HTTP 403 to three separate requests on 18 September 2026. The May 1989 'Dennis' interview and the 10 or 11 November 1989 named interview rest on Tom Mahood's timeline and on a Wikipedia summary of a 2023 NewsNation segment, and the 10-versus-11 November discrepancy is itself unresolved. klas-lazar-broadcasts-1989 is built deliberately incomplete for this reason.",
+   "wouldClose": "A 1989 Las Vegas television listing or newspaper TV page; an archived KLAS page via the Wayback Machine; the Mystery Wire archive; or a non-403 route to 8newsnow.com."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-lazar-w2",
+   "text": "THE W-2 WAS NEVER SEEN. It was NOT OPENED by this board in any form. The $958.11 figure in general circulation is Gene Huff's recollection of a cheque, in his own 1995 synopsis; Stanton Friedman, who had seen the form, describes it only as 'from the Department of Naval Intelligence', totalling 'under $1000.00'. NO EMPLOYER IDENTIFICATION NUMBER, NO ZIP CODE AND NO BOX CONTENTS ARE ASSERTED ANYWHERE ON THIS BOARD, including the employer identification number and the 'E-6722MAJ' string that circulate in the literature. The one page promising a box-by-box reading returned HTTP 403.",
+   "wouldClose": "A scan of the form itself; the John Andrews investigation and correspondence file; or an IRS FOIA response naming the employer identification number, none of which this session could open."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-lanl-phone-directory-page",
+   "text": "The Los Alamos internal telephone directory page bearing Lazar's name was NOT OPENED as an image or scan. Its existence and, more importantly, its printed scope statement covering Department of Energy employees and the outside contractor Kirk-Mayer rest entirely on Stanton Friedman's description of it. That scope statement is the hinge of the whole Los Alamos question, which is why the qualification on los-alamos-monitor-1982 is Tier 2 and not Tier 1.",
+   "wouldClose": "A scan of the directory page; the laboratory's own historical directories; or the Friedman papers."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-clark-county-docket-number",
+   "text": "The Clark County, Nevada docket number for the 1990 pandering case was NOT OBTAINED. Douglas Dean Johnson reproduces documents from the file but no case number came through the fetch, and none is asserted anywhere on this board. The conviction, the plea date, the sentence date and the 1996 denial are all sourced; the identifier is not.",
+   "wouldClose": "The Clark County District Court records portal, or a full-page image of the Johnson documents showing the caption."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-united-nuclear-court-file",
+   "text": "The court file of the United Nuclear prosecution was NOT OPENED. The Department of Justice case page for US v. United Nuclear Scientific Supplies rendered an entirely different case, an unrelated odometer-fraud prosecution in the District of Colorado, and the linked civil complaint PDF returned as unparsed binary. The criminal matter is therefore established solely from CPSC Release 07-249 of 20 July 2007, which is a primary government record but is not the court file, and NO CRIMINAL OR CIVIL CASE NUMBER IS ASSERTED.",
+   "wouldClose": "PACER for the District of New Mexico; a working Department of Justice Consumer Protection Branch case page; or the consent decree as filed."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-gnis-papoose-lake",
+   "text": "The USGS Geographic Names Information System record for Papoose Lake was NOT OPENED. The names application programming interface returned HTTP 404 and the gazetteer is a JavaScript application. The county and position on the hub node come from Wikipedia citing GNIS, which under CLAUDE.md section 2 is a pointer and not a citation. NO FEATURE IDENTIFIER, CLASS OR COORDINATES ARE ASSERTED.",
+   "wouldClose": "A working GNIS query endpoint, the USGS gazetteer download file, or the Papoose Lake USGS topographic quadrangle."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-moscovium-half-lives",
+   "text": "The half-lives of the moscovium isotopes are NOT ASSERTED. The primary 2004 Physical Review C paper gives decay-chain durations, not isotope half-lives. The figures in general circulation, about 38 milliseconds for moscovium-287 and about 193 milliseconds for moscovium-288, come from a Wikipedia isotope table which this session did not follow through to the underlying nuclear data compilation. What the paper itself supports, and all that the board claims, is that the isotopes are short-lived alpha emitters produced one atom at a time at picobarn cross sections.",
+   "wouldClose": "The NUBASE or Atomic Mass Evaluation compilations, or the Oganessian 2015 Reports on Progress in Physics review."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-doe-area-numbering",
+   "text": "HIGHEST-VALUE SINGLE FETCH FOR A FOLLOW-UP SESSION. DOE/NV-715, the Nevada Test Site Guide, which would show the Department of Energy's own numbering of its areas, returned HTTP 404 at the URL tried and was NOT OPENED. Nothing on this board therefore asserts what DOE calls its numbered areas, which means the 'S-4 is really a radar site' counter-explanation rests on Tom Mahood and T.D. Barnes rather than on a government document. Opening it would materially strengthen the hub node in the direction of the documented record.",
+   "wouldClose": "A working copy of DOE/NV-715 at nnss.gov or in the DOE OSTI collection; or the NNSS site description documents."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-lear-introduced-lazar-to-knapp",
+   "text": "Whether John Lear was the route by which Lazar reached George Knapp is NOT ESTABLISHED. It is universally repeated and it is in nothing this session opened. Mahood's timeline has Knapp beginning interviews in March 1989 and has Lear present at the desert viewings in the same weeks, but no opened source states the introduction. No edge on this board asserts it, and a build session should not add one from memory.",
+   "wouldClose": "Knapp's own account, which is behind the 8newsnow HTTP 403 wall; or Lear's own interviews."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-lear-faa-certificates",
+   "text": "John Lear's FAA certificates and the count of his aviation records were NOT CHECKED against any FAA or FAI record. The Museum of Flight authority record gives his dates and his collection but no certificate detail. The May 1966 Learjet 24 round-the-world flight is real, but the frequently repeated claim that he held every FAA certificate ever issued is not asserted here.",
+   "wouldClose": "The FAA airmen registry; the Fédération Aéronautique Internationale record database for the May 1966 flight."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-knapp-upi-award",
+   "text": "George Knapp's United Press International 'Individual Achievement by a Journalist' award for his 1990 UFO reporting is carried at Tier 3. Wikipedia sources it to a Simon and Schuster author profile which this session did not open. The contemporaneous Review-Journal reference to an 'award winning series' in June 1990 is consistent with it but does not name the award.",
+   "wouldClose": "The UPI awards record for 1990, or the Simon and Schuster author profile."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-corbell-release-date",
+   "text": "The Corbell documentary has no single confirmed release date on this board. Letterboxd gives three dates across two territories and two formats, and IMDb returned HTTP 403. The widely repeated '4 December 2018' is the United Kingdom physical date rather than the release, and the node states a range rather than a date.",
+   "wouldClose": "A distributor or festival record; a non-403 route to IMDb; or the Netflix acquisition announcement."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-eg-and-g-recruitment-route",
+   "text": "The EG&G recruitment route into the claimed job is the standard form of the account in the literature and NO SOURCE FOR IT WAS OPENED. On the coordinator's ruling of 18 September 2026 the proposed bob-lazar to eg-and-g edge has been DROPPED from this file rather than carried unsourced. A build session should not restore it without opening a source.",
+   "wouldClose": "The 1989 broadcasts themselves, or a dated Lazar interview in which he describes the EG&G interview, neither of which was opened."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-lazar-polygraphs",
+   "text": "Lazar's polygraph examinations are referred to constantly in the literature and NO SOURCE FOR THEM WAS OPENED. Nothing about them appears on any node, claim or edge in this file.",
+   "wouldClose": "The examiner's report if one exists; Knapp's own account; or the 1989 broadcasts."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-td-barnes-own-record",
+   "text": "T.D. Barnes is NOT PROPOSED AS A NODE in this file, on the coordinator's ruling, and his denial rides as a claim on s-4-papoose-lake instead. His is the sharpest denial in the board's corpus and everything the board has about him comes from a podcast transcript rather than from a record. Proposing him from a triage row would repeat the failure mode CLAUDE.md section 5 describes.",
+   "wouldClose": "A verification pass against Roadrunners Internationale, the CIA's released OXCART histories, and any personnel or programme record naming him."
+  }
+ },
+ {
+  "domain": "lazar-s4-2026-09-18",
+  "gap": {
+   "id": "gap-physical-trace",
+   "text": "THE GAP THAT FRAMES ALL THE OTHERS. There is no physical trace of the claim: no sample of any material, no photograph of any craft, no document bearing an 'S-4' designator, no manifest, no badge, and no personnel record of any kind. After thirty-seven years this cluster rests on one man's testimony, one friend's corroboration of lights in the desert, one videotape, one newspaper article about a jet-powered Honda, and a court file. The board should carry that plainly and the hub's high edge degree should never be mistaken for it.",
+   "wouldClose": "Nothing opened in thirty-seven years has closed it. Recorded so that no later session mistakes accumulated edges for accumulated evidence."
+  }
+ },
+ {
   "domain": "legacy-1947-86",
   "gap": {
    "id": "gap-sarbacher-rdb",

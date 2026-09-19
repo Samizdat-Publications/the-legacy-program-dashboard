@@ -1,0 +1,158 @@
+{
+"A": 0,
+"C": 0,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "THE ANCHOR. A Las Vegas Review-Journal report of Tuesday 19 June 1990, page 8B, by Warren Bates, records contemporaneously that 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. This establishes that the 1989 broadcasts existed, that Lazar was their centre, and that they had already won recognition by mid-1990.",
+"tier": 2
+},
+{
+"source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+"text": "THE AIR DATES ARE TIER 3 AND MUST STAY THERE UNTIL AN ARTEFACT IS OPENED. Tom Mahood's timeline records that George Knapp began interviewing Lazar in March 1989 'for safekeeping purposes'; that in May 1989 'his silhouetted interviews with Knapp aired on KLAS-TV using the pseudonym Dennis'; that on 10 November 1989 'KLAS-TV identified and interviewed RL publicly'; and that on 9 December 1989 Lazar appeared on 'On The Record', hosted by Knapp on KLAS-TV. Some accounts give 11 November rather than 10 November for the named interview. No 1989-dated artefact was opened by this board.",
+"tier": 3
+},
+{
+"source": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+"text": "Two further dated 1989 appearances are recorded by the same timeline and are useful chiefly as artefacts a later session could try to open: 'Billy Goodman Happening' radio with Lazar and Gene Huff on 21 November 1989, and the same programme again on 20 December 1989.",
+"tier": 3
+},
+{
+"source": "Wikipedia article on George Knapp, opened only to read its underlying citation to a Simon and Schuster author profile, https://en.wikipedia.org/wiki/George_Knapp_(television_journalist) , opened 2026-09-18",
+"text": "Knapp's 1990 UFO reporting is said to have won a United Press International 'Individual Achievement by a Journalist' award. The underlying citation is a Simon and Schuster author profile which this board did not open, and the claim is carried at Tier 3 accordingly. The contemporaneous Review-Journal reference to an 'award winning series' in June 1990 is consistent with it but does not name the award.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1989-12-09",
+"dateStart": "1989-03",
+"direction": "in",
+"edgeLabel": "Reporter and author of the broadcasts",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. Authorship of a document is typed research under the board's ruling of 18 September 2026.",
+"sources": [
+{
+"date": "1990-06-19",
+"name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+}
+],
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1989-12-09",
+"dateStart": "1989-05",
+"direction": "in",
+"edgeLabel": "Its own broadcasts",
+"id": "klas-tv",
+"l0": true,
+"label": "KLAS-TV (Las Vegas)",
+"note": "The station is the publisher. Its own retrospectives returned HTTP 403 to this board, so nothing here comes from KLAS itself.",
+"sources": [
+{
+"date": "1990-06-19",
+"name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": "1989-12-09",
+"dateStart": "1989-05",
+"direction": "out",
+"edgeLabel": "The original broadcast artefact of the claim",
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"note": "Tier 3 on this board for one reason only: NOT ONE OF THESE BROADCASTS WAS OPENED. The dates on this edge are from a secondary chronology and should be replaced when an artefact is reached.",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "Tom Mahood, 'The Robert Lazar Timeline'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "1989-12-09",
+"dateStart": "1989-05",
+"deg": 3,
+"denials": [],
+"desc": "THIS NODE IS DELIBERATELY INCOMPLETE AND SAYS SO, on the precedent already set on this board by ronald-moultrie, scott-bray and brad-steiger, which were built the same way on 18 September 2026. The broadcasts are the custody point for the entire S-4 claim and the most consequential media artefact in the cluster: they are what put Area 51 into worldwide public consciousness. Not one of them was opened by this board's research pass. KLAS's own site at 8newsnow.com, which carries George Knapp's retrospectives on the story, returned HTTP 403 to three separate requests on 18 September 2026, and no 1989-dated listing, recording or transcript was reached by any other route. What the node therefore rests on is one contemporaneous newspaper line: the Las Vegas Review-Journal of 19 June 1990 recording that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. That is a Tier 1 anchor for the existence and consequence of the broadcasts. The air dates are not: the May 1989 'Dennis' interview and the 10 or 11 November 1989 named interview are carried at Tier 3 from Tom Mahood's timeline. The node is built thin and honest rather than padded, and a later session should replace the Tier 3 dates with an opened artefact.",
+"domains": [
+"lazar-s4-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "klas-lazar-broadcasts-1989",
+"l0": false,
+"label": "The KLAS-TV Lazar broadcasts, 1989",
+"locLabel": null,
+"members": null,
+"short": "The KLAS-TV Lazar broadcasts, 1989",
+"sources": [
+{
+"date": "1990-06-19",
+"name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+},
+{
+"date": "2026-09-18",
+"name": "Tom Mahood, 'The Robert Lazar Timeline'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+},
+{
+"date": null,
+"name": "Wikipedia article on George Knapp, opened only to read its underlying citation to a Simon and Schuster author profile, ) , opened 2026-09-18",
+"url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist"
+}
+],
+"sub": "George Knapp's KLAS-TV reports of 1989, first with Lazar silhouetted under the pseudonym 'Dennis' and then under his own name",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 963 of 1094, score 14). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [
+{
+"date": "1989-05",
+"id": "tl-1989-05-klas-dennis",
+"label": "KLAS-TV airs the silhouetted interviews under the pseudonym 'Dennis'",
+"precision": "month",
+"strand": "witness",
+"text": "TIER 3 DATE, CARRIED HONESTLY. Tom Mahood's timeline records that in May 1989 Lazar's silhouetted interviews with George Knapp aired on KLAS-TV using the pseudonym 'Dennis'. NO 1989-DATED ARTEFACT WAS OPENED BY THIS BOARD, and KLAS's own retrospectives returned HTTP 403 three times on 18 September 2026.",
+"tier": "B"
+},
+{
+"date": "1989-11-10",
+"id": "tl-1989-11-10-klas-named",
+"label": "KLAS-TV identifies and interviews Lazar under his own name",
+"precision": "day",
+"strand": "witness",
+"text": "TIER 3 DATE, CARRIED HONESTLY. Mahood's timeline gives 10 November 1989; some accounts give 11 November. This is the broadcast that put Area 51 into worldwide public consciousness and no artefact of it was opened by this board. The only contemporaneous documentary confirmation opened is the Las Vegas Review-Journal of 19 June 1990 recording that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'.",
+"tier": "B"
+}
+]
+}

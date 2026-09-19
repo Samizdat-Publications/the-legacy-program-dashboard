@@ -192,7 +192,7 @@
 "url": "https://www.energy.gov/nnsa/about-nnsa"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -203,7 +203,7 @@
 "direction": "out",
 "edgeLabel": "DOE/NNSA management and operating contract; Los Alamos",
 "id": "lanl",
-"l0": false,
+"l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
 "sources": [
@@ -715,12 +715,6 @@
 "cls": "location",
 "id": "l-nevada-test-site",
 "label": "Nevada Test Site / Nevada National Security Site",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "lanl",
-"label": "Los Alamos National Laboratory",
 "tier": "B"
 },
 {
@@ -800,7 +794,7 @@
 ],
 "sub": "Successor to the Atomic Energy Commission; holder of Restricted Data authority independent of the executive classification system",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 49 of 1082, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 49 of 1094, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "1949-02-16",

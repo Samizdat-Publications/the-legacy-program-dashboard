@@ -1,0 +1,196 @@
+{
+"A": 0,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood in a post of 14 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18",
+"text": "THE CREDENTIAL LIST AS A COURT DOCUMENT. Lazar's Pre-Sentence Report of 27 July 1990 records his reported education as '1978, Bachelor of Science Degree in Physics and Electronic Technology, Pacifica University'; '1982, Masters of Science in Physics, MIT'; '1985, Masters of Science in Electronic Technology, Cal Tech'. The document is Tier 1 for what it shows, which is what he reported about himself to a court, and it is the reason the credential question is evidence rather than rumour.",
+"tier": 1
+},
+{
+"source": "Las Vegas Review-Journal, 19 June 1990, p 8B and 21 August 1990, p 2C, by Warren Bates, reprinted at otherhand.org; and Tom Mahood's timeline, opened 2026-09-18",
+"text": "The conviction and its dates. Arrested for pandering in Las Vegas on 5 June 1990; pleaded guilty to felony pandering on 18 June 1990; sentenced on 20 August 1990 by District Judge Jack Lehman to probation, 150 hours of community service, an order to 'stay away from brothels and undergo psychotherapy', with one year of psychotherapy specified, the judge saying he 'could not make a determination regarding his claims'.",
+"tier": 1
+},
+{
+"source": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18",
+"text": "The 19 June 1990 report records the police account of the offence: that Lazar recruited a prostitute, operated her business from the Newport Cove apartments, maintained computer records of customers and their licence plate numbers, and took at least half her earnings. It records the sentencing exposure as 'one to six years, with a possible fine of $5,000'. It also records, from police records, that 'Lazar told her he had master's degrees from two universities', which is the same credential claim appearing in a police file rather than a broadcast.",
+"tier": 1
+},
+{
+"source": "Douglas Dean Johnson, 'Bob Lazar and his Nevada felony: Some key documents', 31 January 2021, https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/ , opened 2026-09-18",
+"text": "The 1996 proceedings. Douglas Dean Johnson, who obtained the file, establishes that Lazar received a three-year suspended sentence with probation which he completed; that in 1996 he petitioned to withdraw the guilty plea citing post-traumatic stress, hidden federal records and inadequate legal representation; that the District Attorney urged the court to deny the petition, arguing 'that Lazar's new claims were irrelevant to his admitted and documented criminal activity'; and that the judge denied it. Lazar remains a convicted felon.",
+"tier": 1
+},
+{
+"source": "Gene Huff, reply posted 15 May 1995, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm , opened 2026-09-18",
+"text": "The rebuttal, carried and not adopted. Gene Huff, replying on 15 May 1995 to Tom Mahood's post quoting the report, says the Pacifica entry is the probation officer's misinterpretation: that Lazar claimed only to have 'took an English course and a history course' from Pacifica University by correspondence, and that he 'had to petition for his diplomas because he had hodgepodged all of his classes from various institutions'.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1990-07-27",
+"direction": "out",
+"edgeLabel": "The court file contradicts his own credential account, in his own reported words",
+"id": "bob-lazar",
+"l0": false,
+"label": "Robert \"Bob\" Lazar",
+"note": "THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour.",
+"sources": [
+{
+"date": "1990-07-27",
+"name": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood",
+"url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1995-05-14",
+"direction": "in",
+"edgeLabel": "Holds the reprints of both 1990 newspaper reports and quotes the Pre-Sentence Report",
+"id": "tom-mahood",
+"l0": false,
+"label": "Tom Mahood",
+"note": "GENUINE CUSTODY. He is the route by which the court material is openable at all from this environment.",
+"sources": [
+{
+"date": "1995-05-14",
+"name": "Tom Mahood's post of 14 May 1995 quoting the Pre-Sentence Report, hosted on Dreamland Resort",
+"url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm"
+}
+],
+"tier": "B",
+"type": "custody"
+}
+],
+"coords": null,
+"dateEnd": "1996",
+"dateStart": "1990-06-05",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "lazar-clark-county-1990",
+"label": "Clark County, Nevada felony pandering file, 1990 and 1996"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "The court file contradicts his own credential account, in his own reported words",
+"note": "THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour.",
+"of": {
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"sources": [
+{
+"date": "1990-07-27",
+"name": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood",
+"url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm"
+}
+]
+}
+],
+"desc": "THE COURT RECORD IS THE SPINE OF THE LAZAR QUESTION AND IT SHOWS TWO SEPARATE THINGS, THE SECOND MORE USEFUL THAN THE FIRST. The first is a conviction: Lazar was arrested on 5 June 1990, pleaded guilty to felony pandering on 18 June 1990, and was sentenced on 20 August 1990 by District Judge Jack Lehman to probation with 150 hours of community service, an order to stay away from brothels and a year of psychotherapy, the judge remarking that he 'could not make a determination regarding his claims'. In 1996 Lazar petitioned to withdraw the plea, the District Attorney opposed on the ground that his new claims were irrelevant to admitted and documented criminal activity, and the court refused, so the conviction stands. The second thing the file shows is what makes the credential question Tier 1 rather than gossip. Lazar's Pre-Sentence Report of 27 July 1990 records his own reported education: a 1978 Bachelor of Science in Physics and Electronic Technology from Pacifica University, a 1982 Master of Science in Physics from MIT, and a 1985 Master of Science in Electronic Technology from Caltech. That is not a television claim that can be blamed on a paraphrasing journalist. It is what he told a court under sentence, in writing, through a probation officer. Every institutional check since has failed to confirm any of the three. Gene Huff's rebuttal of 15 May 1995, that the probation officer misunderstood a pair of correspondence courses, is carried beside it and is not adopted.",
+"domains": [
+"lazar-s4-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "lazar-clark-county-1990",
+"l0": false,
+"label": "Clark County, Nevada felony pandering file, 1990 and 1996",
+"locLabel": null,
+"members": null,
+"short": "Clark County, Nevada felony pandering file, 1990 and 1996",
+"sources": [
+{
+"date": "1990-07-27",
+"name": "Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood, with Gene Huff's reply of 15 May 1995",
+"url": "https://www.dreamlandresort.com/area51/lazar/hf-acad.htm"
+},
+{
+"date": "1990-06-19",
+"name": "Las Vegas Review-Journal, 19 June 1990, p 8B, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/"
+},
+{
+"date": "1990-08-21",
+"name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
+},
+{
+"date": "2021-01-31",
+"name": "Douglas Dean Johnson, 'Bob Lazar and his Nevada felony: Some key documents', reproducing the 1990 complaint and affidavit, the 1996 District Attorney memorandum and the 1996 order",
+"url": "https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/"
+}
+],
+"sub": "The 1990 complaint and police affidavit, the 27 July 1990 Pre-Sentence Report listing Pacifica, MIT and Caltech, the 20 August 1990 sentence, and the 1996 refusal of the petition to withdraw the plea",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 652 of 1094, score 25). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
+"timeline": [
+{
+"date": "1990-06-05",
+"id": "tl-1990-06-05-lazar-arrested",
+"label": "Lazar arrested for pandering in Las Vegas",
+"precision": "day",
+"strand": "witness",
+"text": "Mahood's timeline records the arrest on 5 June 1990. The offence, per the police account printed in the Review-Journal a fortnight later, was recruiting a prostitute, operating her business from an apartment complex, maintaining computer records of customers and their licence plate numbers, and taking at least half her earnings.",
+"tier": "C"
+},
+{
+"date": "1990-06-18",
+"id": "tl-1990-06-18-guilty-plea",
+"label": "Guilty plea to felony pandering",
+"precision": "day",
+"strand": "witness",
+"text": "Lazar pleaded guilty to felony pandering in District Court. The Las Vegas Review-Journal reported it the next day under the headline 'Source in Channel 8's UFO series pleads guilty to pandering charge', by Warren Bates, page 8B, noting the exposure as 'one to six years, with a possible fine of $5,000'.",
+"tier": "C"
+},
+{
+"date": "1990-07-27",
+"id": "tl-1990-07-27-presentence-report",
+"label": "Pre-Sentence Report records the Pacifica, MIT and Caltech credential list",
+"precision": "day",
+"strand": "witness",
+"text": "THE SPINE OF THE CREDENTIAL QUESTION. Lazar's Pre-Sentence Report of 27 July 1990 lists his own reported education: '1978, Bachelor of Science Degree in Physics and Electronic Technology, Pacifica University'; '1982, Masters of Science in Physics, MIT'; '1985, Masters of Science in Electronic Technology, Cal Tech'. Because this is a court document rather than a television statement, the credential question is Tier 1 evidence and not gossip. No institution has confirmed any of the three. Gene Huff's rebuttal of 15 May 1995, that the probation officer misread two Pacifica correspondence courses, is carried beside it and is not adopted.",
+"tier": "C"
+},
+{
+"date": "1990-08-20",
+"id": "tl-1990-08-20-sentenced",
+"label": "Sentenced by Judge Jack Lehman to probation, community service and psychotherapy",
+"precision": "day",
+"strand": "witness",
+"text": "District Judge Jack Lehman sentenced Lazar to probation rather than prison, with 150 hours of community service, an order to 'stay away from brothels and undergo psychotherapy', and a year of psychotherapy, saying he 'could not make a determination regarding his claims'. The same report describes Lazar's claim as of that date as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas', which is a different named place from the one the claim later settled on.",
+"tier": "C"
+},
+{
+"date": "1996",
+"id": "tl-1996-plea-withdrawal-denied",
+"label": "Petition to withdraw the 1990 guilty plea is refused",
+"precision": "year",
+"strand": "witness",
+"text": "Lazar petitioned to withdraw the plea, citing post-traumatic stress, hidden federal records and inadequate legal representation. The District Attorney opposed, arguing 'that Lazar's new claims were irrelevant to his admitted and documented criminal activity'. The judge denied the petition and the conviction stands.",
+"tier": "C"
+}
+]
+}

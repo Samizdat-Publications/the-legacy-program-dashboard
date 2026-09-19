@@ -234,6 +234,27 @@
 },
 {
 "claimTier": 3,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "in",
+"edgeLabel": "Claimed custody of non-human craft at the claimed site",
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"note": "Tier 3, same caveat. The claim is that nine discs were held there; nothing documented supports it.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 24:24",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 3,
 "cls": "document",
 "dateEnd": "2026",
 "dateStart": "2019",
@@ -283,7 +304,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947",
-"deg": 11,
+"deg": 12,
 "denials": [
 {
 "by": {
@@ -375,6 +396,6 @@
 ],
 "sub": "Cross-cutting domain: who held what, when, and under what documentation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 83 of 1082, score 67). 11 connections, 7 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 69 of 1094, score 71). 12 connections, 8 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.",
 "timeline": []
 }

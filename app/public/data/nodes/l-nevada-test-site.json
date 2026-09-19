@@ -5,6 +5,11 @@
 "band": null,
 "claims": [
 {
+"source": "Las Vegas Review-Journal, 21 August 1990, p 2C, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18",
+"text": "THE EARLIER GEOGRAPHY OF THE LAZAR CLAIM, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990, reporting his sentencing, describes his claim as of that date as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a Department of Energy site, and it is a different named place from Papoose Lake on the Air Force range, where the claim later settled.",
+"tier": 1
+},
+{
 "source": "OSTI.GOV, Nevada Test Site Environmental Report 2005",
 "text": "Bechtel Nevada and subsequently National Security Technologies, LLC appear as the management and operating research organisations of record on DOE Nevada Test Site technical reports.",
 "tier": 1
@@ -16,7 +21,7 @@
 }
 ],
 "cls": "location",
-"cluster": "contractor",
+"cluster": "other",
 "connections": [
 {
 "claimTier": 1,
@@ -132,15 +137,37 @@
 ],
 "tier": "B",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1990-08-21",
+"direction": "in",
+"edgeLabel": "The claim's earlier geography, as reported contemporaneously in August 1990",
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"note": "Tier 1 for what the newspaper shows. In August 1990 Lazar's claim was reported as being about 'the Nevada Test Site, 65 miles northwest of Las Vegas', a Department of Energy site, not the Air Force range. The claim's geography moved and the edge records that.",
+"sources": [
+{
+"date": "1990-08-21",
+"name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
+}
+],
+"tier": "A",
+"type": "geographic"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1951",
-"deg": 5,
+"deg": 6,
 "denials": [],
 "desc": "The Nevada complex is where the classification regimes overlap. A Department of Energy site operated under Atomic Energy Act authorities by a succession of private management and operating contractors - EG&G in the nuclear testing era, Bechtel Nevada from 1996 to 2006, the Northrop Grumman-led National Security Technologies LLC from 2006 - it sits adjacent to the Air Force operating location near Groom Lake, whose environmental disclosure obligations the President waives annually. Its contractor-operated laboratories, the Remote Sensing Laboratory and the Special Technologies Laboratory, hold the national capability for characterising anomalous radiological and material signatures. Al O'Donnell, the EG&G manager who told George Knapp that a recovered saucer and a live being existed, was the first general manager of EG&G's operations here. Material held under DOE Restricted Data authority at a contractor-operated site sits outside the 10 U.S.C. Sec. 119 special access program reporting regime entirely.",
 "domains": [
+"lazar-s4-2026-09-18",
 "primes-custody"
 ],
 "dossier": null,
@@ -159,6 +186,11 @@
 "short": "Nevada Test Site / Nevada National Security Site",
 "sources": [
 {
+"date": "1990-08-21",
+"name": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
+},
+{
 "date": "2006-10-01",
 "name": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada",
 "url": "https://www.osti.gov/biblio/892135"
@@ -175,7 +207,7 @@
 }
 ],
 "sub": "DOE site complex; successive contractor management EG&G, Bechtel Nevada, NSTec",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 594 of 1082, score 27). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 463 of 1094, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": []
 }

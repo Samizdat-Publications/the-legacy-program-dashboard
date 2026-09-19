@@ -10,6 +10,11 @@
 "tier": 1
 },
 {
+"source": "Los Alamos Monitor, 27 June 1982, A1 and A8, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/ , opened 2026-09-18",
+"text": "The Los Alamos Monitor of Sunday 27 June 1982 carried a front-page story by staff writer Terry England, 'LA Man Joins The Jet Set - At 200 Miles An Hour', pages A1 and A8, about a jet-powered Honda built by Bob Lazar, describing him in the paper's own voice as 'a physicist at the Los Alamos Meson Physics Facility'. This is the earliest dated artefact in the Lazar cluster and it predates the UFO claim by seven years.",
+"tier": 1
+},
+{
 "source": "Los Alamos National Laboratory historical account",
 "text": "A conference on the green fireballs was convened at Los Alamos on 16 February 1949; Edward Teller was among the attendees.",
 "tier": 1
@@ -111,6 +116,27 @@
 ],
 "tier": "C",
 "type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1982-06-27",
+"direction": "in",
+"edgeLabel": "The newspaper, the facility and the event are all in Los Alamos",
+"id": "los-alamos-monitor-1982",
+"l0": false,
+"label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+"note": "A local daily, naming the Los Alamos Meson Physics Facility.",
+"sources": [
+{
+"date": "1982-06-27",
+"name": "Los Alamos Monitor, 27 June 1982, A1 and A8",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/"
+}
+],
+"tier": "C",
+"type": "geographic"
 }
 ],
 "coords": [
@@ -119,11 +145,12 @@
 ],
 "dateEnd": null,
 "dateStart": "1943",
-"deg": 4,
+"deg": 5,
 "denials": [],
 "desc": "Los Alamos sits on the Pajarito Plateau in Los Alamos County, New Mexico, and is the site of the laboratory established in 1943 as Project Y of the Manhattan Project, now Los Alamos National Laboratory. Its place on this board rests on two things. First, it is one of the two nuclear design laboratories and therefore one of the small number of American institutions with both the compartmentation architecture and the materials-science capability that a concealed exploitation programme would require; whistleblower accounts collected by AAWSAP and by David Grusch describe materials work distributed across the Department of Energy laboratory complex and its industrial partners, and no document has been produced placing any specific laboratory inside such a programme. Second, and documented, Los Alamos hosted the conference of 16 February 1949 on the green fireballs - the anomalous luminous objects observed repeatedly over northern New Mexico's nuclear installations from December 1948 - attended by Edward Teller and by the University of New Mexico meteoriticist Lincoln LaPaz, whom the Air Force had retained to investigate. LANL's own published account records that the phenomenon was ultimately dismissed as a national security threat, a conclusion that did not prevent the Air Force from standing up Project Twinkle ten months later to instrument it. Los Alamos is thus the first place where American nuclear scientists formally met to discuss unexplained objects over their own facilities, and the meeting is on the laboratory's own record.",
 "domains": [
 "ffrdcs",
+"lazar-s4-2026-09-18",
 "w2-places-events"
 ],
 "dossier": null,
@@ -147,6 +174,11 @@
 "url": "https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center"
 },
 {
+"date": "1982-06-27",
+"name": "Los Alamos Monitor, 27 June 1982, pages A1 and A8, by Terry England, reprinted by Tom Mahood",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/"
+},
+{
 "date": "2026-08-12",
 "name": "Wikipedia - White Sands Missile Range",
 "url": "https://en.wikipedia.org/wiki/White_Sands_Missile_Range"
@@ -154,7 +186,7 @@
 ],
 "sub": "Los Alamos National Laboratory; site of the 16 February 1949 green fireballs conference",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 400 of 1082, score 33). 4 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 313 of 1094, score 37). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1949-02-16",

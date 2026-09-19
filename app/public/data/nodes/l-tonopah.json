@@ -5,6 +5,11 @@
 "band": null,
 "claims": [
 {
+"source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 1:01:21 to 1:02:58, recorded 2026-07-20",
+"text": "THE COUNTER-DESIGNATOR, AND THIS IS A DISPUTE RATHER THAN A LINK. Tom Mahood's 2018 retrospective states that there is nothing at Papoose Lake and that the designator 'S-4' actually refers to a radar facility at the Tonopah Test Range. T.D. Barnes, a former CIA and NASA engineer at Groom Lake, reaches the same conclusion by an unrelated route, describing the real Site 4 as a remote radar site holding captured Soviet equipment. Neither is claiming that Lazar's described facility is at Tonopah; both are claiming that the designator he used belongs somewhere else entirely.",
+"tier": 2
+},
+{
 "source": "Wikipedia, Area 51, citing USAF unit histories — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The 4450th Tactical Group was activated 15 October 1979 while physically located at Area 51; its move to Tonopah Test Range began 17 May 1982; Maj. Alton C. Whitley Jr. became the first USAF pilot to fly the F-117A on 15 October 1982.",
 "tier": 2
@@ -21,7 +26,7 @@
 }
 ],
 "cls": "location",
-"cluster": "legacy",
+"cluster": "other",
 "connections": [
 {
 "claimTier": 2,
@@ -43,6 +48,27 @@
 ],
 "tier": "A",
 "type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2026-07-20",
+"dateStart": "2018",
+"direction": "in",
+"edgeLabel": "DISPUTE over the designator: two sources say S-4 belongs to a Tonopah radar facility",
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"note": "THIS EDGE IS A DISAGREEMENT AND MUST NOT RENDER AS A LINK BETWEEN THE CLAIMED SITE AND TONOPAH. Mahood and T.D. Barnes, by unrelated routes, both say the designator S-4 attaches to a radar facility on the Tonopah side of the range rather than to anything at Papoose Lake.",
+"sources": [
+{
+"date": "2018",
+"name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+}
+],
+"tier": "A",
+"type": "geographic"
 }
 ],
 "coords": [
@@ -51,10 +77,11 @@
 ],
 "dateEnd": null,
 "dateStart": "1957",
-"deg": 1,
+"deg": 2,
 "denials": [],
 "desc": "The Tonopah Test Range occupies the northwest corner of the Nevada Test and Training Range in Nye County, is operated for the Department of Energy by Sandia National Laboratories for weapons ballistics and delivery testing, and hosts a USAF airfield that served as the operational base of the F-117A programme. Tonopah is the board's worked example of the second stage of black-programme concealment: not the prototype phase at Groom Lake, but the operational phase - a real combat squadron, real pilots, real sorties, real logistics, hidden in plain sight for a decade. The 4450th Tactical Group was activated on 15 October 1979 while physically at Groom Lake; the move to Tonopah began on 17 May 1982; Maj. Alton C. Whitley Jr. became the first USAF pilot to fly the F-117A on 15 October 1982. HAVE IDEA, the exploited-foreign-aircraft programme, transitioned from Groom to Tonopah in May 1973. The F-117 was not acknowledged until November 1988. What Tonopah proves is that the United States has demonstrably concealed not merely a technology but an entire manned operational flying unit, with its own base, its own night-only flying schedule and its own commuter airline out of Las Vegas, for six years after it entered service - which is the correct scale reference for evaluating claims about a concealed materiel exploitation programme with a contractor workforce.",
 "domains": [
+"lazar-s4-2026-09-18",
 "w2-places-events"
 ],
 "dossier": null,
@@ -73,6 +100,11 @@
 "short": "Tonopah Test Range, Nevada",
 "sources": [
 {
+"date": "2018",
+"name": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018'",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+},
+{
 "date": "2026-08-12",
 "name": "Wikipedia - Area 51",
 "url": "https://en.wikipedia.org/wiki/Area_51"
@@ -80,7 +112,7 @@
 ],
 "sub": "Sandia-operated test range and USAF airfield, Nye County, Nevada; F-117 operational basing 1982-1992",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 682 of 1082, score 24). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 600 of 1094, score 27). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [
 {
 "date": "1982-05-17",

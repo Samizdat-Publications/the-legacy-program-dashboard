@@ -1,6 +1,6 @@
 # The denials
 
-This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 199 distinct denials here, from 121 deniers, grouped by who did the denying.
+This board records official denials in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it, because a denial is a dated, signed, attributable statement and that makes it evidence about the denier. There are 205 distinct denials here, from 123 deniers, grouped by who did the denying.
 
 ## 'Manhattan Project 2.0' (alleged secrecy architecture)
 
@@ -199,6 +199,12 @@ Christopher K. Mellon is recorded as the denying party in 1 denial on this board
 Christopher Sherwood is recorded as the denying party in 1 denial on this board.
 
 - **Denies: 1 June 2019: 'no responsibilities with regard to the AATIP program'** This is directed at Luis D. Elizondo, recorded as a directed denial at Tier 1 documented. Obtained by Keith Kloor for The Intercept in response to the History Channel series. This sentence has anchored every subsequent Departmental statement about Elizondo. Sources: The Intercept, https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/, dated 2019-06-01.
+
+## Clark County, Nevada felony pandering file, 1990 and 1996
+
+Clark County, Nevada felony pandering file, 1990 and 1996 is recorded as the denying party in 1 denial on this board.
+
+- **Denies: The court file contradicts his own credential account, in his own reported words** This is directed at Robert "Bob" Lazar, recorded as a denial denial at Tier 1 documented. THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour. Sources: Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm, dated 1990-07-27.
 
 ## Col. Richard L. Weaver
 
@@ -689,9 +695,11 @@ Signals & Sensor Intelligence is recorded as the denying party in 1 denial on th
 
 ## Stanton T. Friedman
 
-Stanton T. Friedman is recorded as the denying party in 1 denial on this board.
+Stanton T. Friedman is recorded as the denying party in 3 denials on this board.
 
+- **Denies: Credential investigation: located Duxler at Pierce, found no institutional record** This is directed at Robert "Bob" Lazar, recorded as a denial denial at Tier 2 named person on the record. 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
 - **Denies: Unresolved dispute over MJ-12 authenticity** This is directed at Kevin D. Randle, recorded as a association denial at Tier 2 named person on the record. Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record. Sources: Stanton T. Friedman - Wikipedia, https://en.wikipedia.org/wiki/Stanton_T._Friedman, dated 2026-08-12.
+- **Denies: Denial from a UFO proponent: the claimant's credentials do not survive checking** This is directed at S-4 / Papoose Lake, Nevada, recorded as a denial denial at Tier 2 named person on the record. The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does. Sources: Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/, dated 1997-12.
 
 ## Susan Gough
 
@@ -772,6 +780,14 @@ The Roswell Reports (USAF, 1994-1997) is recorded as the denying party in 1 deni
 Thomas R. Wilson is recorded as the denying party in 1 denial on this board.
 
 - **Denies: Wilson denies the meeting and the substance attributed to him** This is directed at The Wilson-Davis Notes (16 October 2002), recorded as a directed denial at Tier 2 named person on the record. Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it. Sources: The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing), https://thedebrief.org/summer-of-the-saucers/, dated 2022-08-01.
+
+## Tom Mahood
+
+Tom Mahood is recorded as the denying party in 3 denials on this board.
+
+- **Denies: The most detailed documentary examination of the account, 1990s and 2018** This is directed at Robert "Bob" Lazar, recorded as a denial denial at Tier 2 named person on the record. 'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one. Sources: Tom Mahood, 'Lazar Flaws - Education', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/, dated 2026-09-18; Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/, dated 2018.
+- **Denies: The island of stability near element 114 was published popular physics from 1969** This is directed at Element 115: the Lazar claim and moscovium, recorded as a denial denial at Tier 2 named person on the record. This denial cuts against the credulous reading without endorsing the hostile one: the finding is 'available prior art, used', not 'fabricated from nothing'. The Seaborg article itself was not opened. Sources: Tom Mahood, 'Element 115 tidbits', citing Seaborg, Scientific American, April 1969, pp 57-67, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/, dated 2026-09-18.
+- **Denies: Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility** This is directed at S-4 / Papoose Lake, Nevada, recorded as a denial denial at Tier 2 named person on the record. EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible. Sources: Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/, dated 2018.
 
 ## U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center
 

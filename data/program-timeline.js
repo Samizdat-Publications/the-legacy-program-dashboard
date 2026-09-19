@@ -1610,6 +1610,28 @@ export const TIMELINE = [
     node: 'l-tonopah'
   },
   {
+    id: 'tl-1982-06-27-la-monitor-jetcar',
+    strand: 'witness',
+    date: '1982-06-27',
+    precision: 'day',
+    tier: 'B',
+    node: 'los-alamos-monitor-1982',
+    label: 'Los Alamos Monitor front page calls Lazar a physicist at LAMPF',
+    text: 'The Los Alamos Monitor of Sunday 27 June 1982, pages A1 and A8, carries \'LA Man Joins The Jet Set - At 200 Miles An Hour\' by staff writer Terry England, about a jet-powered Honda Lazar had built, and says in the paper\'s own voice: \'To Lazar, a physicist at the Los Alamos Meson Physics Facility, the important thing is the jet engine.\' The earliest dated artefact in the cluster, seven years before the UFO claim.',
+    source: 'Los Alamos Monitor, 27 June 1982, A1 and A8, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/'
+  },
+  {
+    id: 'tl-1982-06-28-teller-lecture',
+    strand: 'witness',
+    date: '1982-06-28',
+    precision: 'day',
+    tier: 'C',
+    node: 'bob-lazar',
+    label: 'Edward Teller lectures at Los Alamos the day after the jet-car story',
+    text: 'Tom Mahood\'s 2018 retrospective places Teller\'s Los Alamos lecture on the day after the Monitor article, calling the timing an \'amazing display of totally fucked synchronicity\'. Lazar\'s own 1991 narration instead places the newspaper story and the Teller speech on the same day. The newspaper\'s date is fixed, so both cannot be right, and the board carries the anecdote as \'within a day\'. No newspaper notice of the lecture was opened.',
+    source: 'Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ ; and The Lazar Tape, 1991, captions at 35:48'
+  },
+  {
     id: 't-1983-cufon',
     strand: 'oversight',
     date: '1983-01-01',
@@ -1860,6 +1882,17 @@ export const TIMELINE = [
     node: 'usc-10-119'
   },
   {
+    id: 'tl-1987-12-29-lear-statement',
+    strand: 'witness',
+    date: '1987-12-29',
+    precision: 'day',
+    tier: 'C',
+    node: 'john-lear',
+    label: 'John Lear\'s statement is dated, eighteen months before Lazar reaches KLAS',
+    text: 'A statement by John Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation and preserved in the BSRA/BSRF holdings at the Archives for the Unexplained, circulated on the ParaNet bulletin board in early 1988. It precedes Lazar\'s KLAS appearance by roughly eighteen months and set the frame the later account fitted into. Only the archive item record was opened; the statement\'s text was not rendered and no content from it is asserted.',
+    source: 'John Lear\'s Dec. 29, 1987 Statement, Internet Archive item, https://archive.org/details/john-lear-statement-1987'
+  },
+  {
     id: 't-1988-bennewitz',
     strand: 'coverup',
     date: '1988-01-01',
@@ -1902,6 +1935,17 @@ export const TIMELINE = [
     source: 'Disclosure Project Briefing Document section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt ; Scott interview notes transcript p 1, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf'
   },
   {
+    id: 'tl-1988-12-lazar-claimed-hire',
+    strand: 'witness',
+    date: '1988-12',
+    precision: 'month',
+    tier: 'B',
+    node: 's-4-papoose-lake',
+    label: 'Lazar\'s claimed employment at S-4 begins',
+    text: 'In his 1991 narration Lazar says that \'between December of 88 and April of 89\' he worked at \'a facility at an area known as S4 on the Nellis Air Force range in central Nevada\', and that \'I was hired in December of 1988 to replace one of these men\'. This row records the claim and its date, not any employment.',
+    source: 'The Lazar Tape, Tri-Dot Productions, 1991, captions at 1:54 and 34:44, https://archive.org/details/antigravity'
+  },
+  {
     id: 'tl-1989-01-sr5',
     strand: 'program',
     date: '1989-01',
@@ -1910,6 +1954,50 @@ export const TIMELINE = [
     text: '\'Is the Coverup Lid Lifting?\' surveys Roswell, Aztec, Kingman, El Yunque and Brown County, Ohio, and argues that confirming a single retrieval would compel eventual sharing of alien propulsion and materials technology.',
     tier: 'A',
     node: 'stringfield-status-reports'
+  },
+  {
+    id: 'tl-1989-03-knapp-first-interviews',
+    strand: 'witness',
+    date: '1989-03',
+    precision: 'month',
+    tier: 'C',
+    node: 'george-knapp',
+    label: 'George Knapp begins interviewing Lazar',
+    text: 'Tom Mahood\'s timeline records that Knapp began conducting initial interviews with Lazar in March 1989 \'for safekeeping purposes\'. No 1989-dated artefact was opened and this row is Tier 3 evidence carried on a Tier C node.',
+    source: 'Tom Mahood, \'The Robert Lazar Timeline\', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/'
+  },
+  {
+    id: 'tl-1989-03-22-first-viewing',
+    strand: 'witness',
+    date: '1989-03-22',
+    precision: 'day',
+    tier: 'C',
+    node: 'gene-huff',
+    label: 'First Wednesday desert viewing in Tikaboo Valley',
+    text: 'Lazar, his wife, Gene Huff and John Lear watched lights in Tikaboo Valley. Mahood\'s timeline records that only Lear saw an elliptical shape through a telescope. Huff\'s own synopsis of 12 March 1995 gives the same date.',
+    source: 'Tom Mahood\'s timeline and Gene Huff\'s synopsis, https://www.dreamlandresort.com/area51/lazar/synopsis.htm'
+  },
+  {
+    id: 'tl-1989-04-05-detained',
+    strand: 'witness',
+    date: '1989-04-05',
+    precision: 'day',
+    tier: 'C',
+    node: 'gene-huff',
+    label: 'Third viewing ends with the group detained by the Lincoln County Sheriff',
+    text: 'On the third Wednesday viewing the group, which included Lazar, Gene Huff and John Lear, was discovered by guards and detained by the Lincoln County Sheriff. Both the claimants\' own accounts and the principal sceptical account agree this happened; they disagree about what the group was watching. Tom Mahood\'s counter-explanation is that the whole alien-craft narrative began as a cover story after this detention.',
+    source: 'Gene Huff\'s synopsis, 12 March 1995, and Tom Mahood\'s timeline and 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/'
+  },
+  {
+    id: 'tl-1989-05-klas-dennis',
+    strand: 'witness',
+    date: '1989-05',
+    precision: 'month',
+    tier: 'B',
+    node: 'klas-lazar-broadcasts-1989',
+    label: 'KLAS-TV airs the silhouetted interviews under the pseudonym \'Dennis\'',
+    text: 'TIER 3 DATE, CARRIED HONESTLY. Tom Mahood\'s timeline records that in May 1989 Lazar\'s silhouetted interviews with George Knapp aired on KLAS-TV using the pseudonym \'Dennis\'. NO 1989-DATED ARTEFACT WAS OPENED BY THIS BOARD, and KLAS\'s own retrospectives returned HTTP 403 three times on 18 September 2026.',
+    source: 'Tom Mahood, \'The Robert Lazar Timeline\', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/'
   },
   {
     id: 'tl-1989-lazar',
@@ -1972,6 +2060,17 @@ export const TIMELINE = [
     node: 'eg-and-g'
   },
   {
+    id: 'tl-1989-11-10-klas-named',
+    strand: 'witness',
+    date: '1989-11-10',
+    precision: 'day',
+    tier: 'B',
+    node: 'klas-lazar-broadcasts-1989',
+    label: 'KLAS-TV identifies and interviews Lazar under his own name',
+    text: 'TIER 3 DATE, CARRIED HONESTLY. Mahood\'s timeline gives 10 November 1989; some accounts give 11 November. This is the broadcast that put Area 51 into worldwide public consciousness and no artefact of it was opened by this board. The only contemporaneous documentary confirmation opened is the Las Vegas Review-Journal of 19 June 1990 recording that Lazar \'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp\'s award winning series\'.',
+    source: 'Tom Mahood\'s timeline; and Las Vegas Review-Journal, 19 June 1990, p 8B, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/'
+  },
+  {
     id: 'tl-1990-03-31-belgian-f16-scramble',
     strand: 'witness',
     date: '1990-03-31',
@@ -1983,6 +2082,39 @@ export const TIMELINE = [
     source: 'The National Archives, Highlights Guide to the MoD UFO files opened 17 August 2009, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf'
   },
   {
+    id: 'tl-1990-06-05-lazar-arrested',
+    strand: 'witness',
+    date: '1990-06-05',
+    precision: 'day',
+    tier: 'C',
+    node: 'lazar-clark-county-1990',
+    label: 'Lazar arrested for pandering in Las Vegas',
+    text: 'Mahood\'s timeline records the arrest on 5 June 1990. The offence, per the police account printed in the Review-Journal a fortnight later, was recruiting a prostitute, operating her business from an apartment complex, maintaining computer records of customers and their licence plate numbers, and taking at least half her earnings.',
+    source: 'Tom Mahood\'s timeline; and Las Vegas Review-Journal, 19 June 1990, p 8B'
+  },
+  {
+    id: 'tl-1990-06-18-guilty-plea',
+    strand: 'witness',
+    date: '1990-06-18',
+    precision: 'day',
+    tier: 'C',
+    node: 'lazar-clark-county-1990',
+    label: 'Guilty plea to felony pandering',
+    text: 'Lazar pleaded guilty to felony pandering in District Court. The Las Vegas Review-Journal reported it the next day under the headline \'Source in Channel 8\'s UFO series pleads guilty to pandering charge\', by Warren Bates, page 8B, noting the exposure as \'one to six years, with a possible fine of $5,000\'.',
+    source: 'Las Vegas Review-Journal, 19 June 1990, p 8B, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/'
+  },
+  {
+    id: 'tl-1990-07-27-presentence-report',
+    strand: 'witness',
+    date: '1990-07-27',
+    precision: 'day',
+    tier: 'C',
+    node: 'lazar-clark-county-1990',
+    label: 'Pre-Sentence Report records the Pacifica, MIT and Caltech credential list',
+    text: 'THE SPINE OF THE CREDENTIAL QUESTION. Lazar\'s Pre-Sentence Report of 27 July 1990 lists his own reported education: \'1978, Bachelor of Science Degree in Physics and Electronic Technology, Pacifica University\'; \'1982, Masters of Science in Physics, MIT\'; \'1985, Masters of Science in Electronic Technology, Cal Tech\'. Because this is a court document rather than a television statement, the credential question is Tier 1 evidence and not gossip. No institution has confirmed any of the three. Gene Huff\'s rebuttal of 15 May 1995, that the probation officer misread two Pacifica correspondence courses, is carried beside it and is not adopted.',
+    source: 'Pre-Sentence Report, Clark County, Nevada, 27 July 1990, quoted by Tom Mahood, https://www.dreamlandresort.com/area51/lazar/hf-acad.htm'
+  },
+  {
     id: 'tl-1990-08-13-scott-mark-notes',
     strand: 'witness',
     date: '1990-08-13',
@@ -1992,6 +2124,17 @@ export const TIMELINE = [
     label: 'Scott\'s handwritten sheet headed \'Mark - 8/13/90\'',
     text: 'One of the handwritten sheets on Aviation Week & Space Technology letterhead in the 31 page scan is headed, circled, \'Mark - 8/13/90\'. It is the earliest dated page in the document.',
     source: 'Scott interview notes, pages 1 to 2 of the scan, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf'
+  },
+  {
+    id: 'tl-1990-08-20-sentenced',
+    strand: 'witness',
+    date: '1990-08-20',
+    precision: 'day',
+    tier: 'C',
+    node: 'lazar-clark-county-1990',
+    label: 'Sentenced by Judge Jack Lehman to probation, community service and psychotherapy',
+    text: 'District Judge Jack Lehman sentenced Lazar to probation rather than prison, with 150 hours of community service, an order to \'stay away from brothels and undergo psychotherapy\', and a year of psychotherapy, saying he \'could not make a determination regarding his claims\'. The same report describes Lazar\'s claim as of that date as being that \'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas\', which is a different named place from the one the claim later settled on.',
+    source: 'Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/'
   },
   {
     id: 'bb-tl-1990-cfoact',
@@ -2046,6 +2189,17 @@ export const TIMELINE = [
     label: 'The 16 page transcript is compiled: \'COMPILED 12-11-90; SCOTT/AVWK LANCASTER\'',
     text: 'The typed transcript is hand-numbered 1 to 16 and headed \'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD\' and \'COMPILED 12-11-90; SCOTT/AVWK LANCASTER\'. Nothing in the 31 pages is a published article; Aviation Week printed the artwork, not the interview.',
     source: 'Scott interview notes transcript p 1, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf'
+  },
+  {
+    id: 'tl-1991-lazar-tape',
+    strand: 'witness',
+    date: '1991',
+    precision: 'year',
+    tier: 'B',
+    node: 'lazar-tape-1991',
+    label: 'The Lazar Tape fixes the whole claim in datable form',
+    text: 'Tri-Dot Productions publishes \'The Lazar Tape and Excerpts from the Government Bible\', forty minutes, created by Gene Huff and Bob Lazar. It is the strongest artefact in the cluster and the one opened by this board: its English auto-generated captions, 1,046 segments to 38:39, were read in full on 18 September 2026. Every element-115 claim, every S-4 description and the Teller anecdote carry timestamps in it.',
+    source: 'Internet Archive item \'antigravity\', https://archive.org/details/antigravity ; captions via YouTube video kc10m6HFbDE'
   },
   {
     id: 'tl-1991-ufo-crash',
@@ -2410,6 +2564,17 @@ export const TIMELINE = [
     node: 'groom-lake-presidential-determination'
   },
   {
+    id: 'tl-1996-plea-withdrawal-denied',
+    strand: 'witness',
+    date: '1996',
+    precision: 'year',
+    tier: 'C',
+    node: 'lazar-clark-county-1990',
+    label: 'Petition to withdraw the 1990 guilty plea is refused',
+    text: 'Lazar petitioned to withdraw the plea, citing post-traumatic stress, hidden federal records and inadequate legal representation. The District Attorney opposed, arguing \'that Lazar\'s new claims were irrelevant to his admitted and documented criminal activity\'. The judge denied the petition and the conviction stands.',
+    source: 'Douglas Dean Johnson, 31 January 2021, https://douglasjohnson.ghost.io/bob-lazar-and-his-nevada-felony-conviction/'
+  },
+  {
     id: 'tl-1996-ranch',
     strand: 'program',
     date: '1996-01-01',
@@ -2489,6 +2654,17 @@ export const TIMELINE = [
     label: 'TACIT BLUE placed on public museum display',
     text: '\'The aircraft was placed on display at the museum in May 1996.\' A real compartmented aircraft programme of the Groom Lake era ends in a public exhibition hall with a published fact sheet and a cockpit plaque naming its five pilots.',
     source: 'U.S. Air Force Fact Sheet \'NORTHROP TACIT BLUE\', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF'
+  },
+  {
+    id: 'tl-1996-08-26-morgan-critique',
+    strand: 'witness',
+    date: '1996-08-26',
+    precision: 'day',
+    tier: 'C',
+    node: 'element-115-claim',
+    label: 'Physicist David L. Morgan publishes the physics critique',
+    text: 'Dr David L. Morgan, a particle physicist, publishes \'A Physicist\'s Critique\', revised April 2001. Three objections: that the strong nuclear force \'has NOTHING TO DO WITH GRAVITY\'; that the nuclear force \'extends out to about the same distance away from a nucleus NO MATTER HOW MASSIVE THE NUCLEUS IS\'; and, crucially without needing any model of gravity, that if the antimatter must be made on board then \'your system produces NO NET ENERGY AT ALL!!\'',
+    source: 'Dr David L. Morgan, \'A Physicist\'s Critique\', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/a-physicists-critique/'
   },
   {
     id: 'bb-tl-1997-aftergood',
@@ -2589,6 +2765,17 @@ export const TIMELINE = [
     text: 'Gonzalo Miranda Aguirre, Director of Chile\'s Dirección General de Aeronáutica Civil, creates the Comité de Estudios de Fenómenos Aéreos Anómalos after a sighting wave over Arica and the expressed interest of the former Air Force Commander-in-Chief. Ricardo Bermúdez takes the directorship and holds it until 2016.',
     tier: 1,
     node: 'cefaa'
+  },
+  {
+    id: 'tl-1997-12-friedman-fraud',
+    strand: 'witness',
+    date: '1997-12',
+    precision: 'month',
+    tier: 'B',
+    node: 'bob-lazar',
+    label: 'Stanton Friedman publishes \'The Bob Lazar Fraud\'',
+    text: 'Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, publishes the credential investigation, updated January 2011. He located the professor Lazar named as a Caltech instructor: \'I located Dr. Duxler. He\'s a Pierce Junior College physics prof, and never taught at Caltech.\' He records the directory page\'s own scope statement and describes the W-2 as totalling \'under $1000.00\'. The heaviest denial in the cluster comes from a proponent, not a debunker.',
+    source: 'Stanton T. Friedman, \'The Bob Lazar Fraud\', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/'
   },
   {
     id: 'tl-1998-alien-rapture-published',
@@ -2935,6 +3122,17 @@ export const TIMELINE = [
     node: 'nids'
   },
   {
+    id: 'tl-2004-02-02-element-115-synthesised',
+    strand: 'program',
+    date: '2004-02-02',
+    precision: 'day',
+    tier: 'A',
+    node: 'element-115-claim',
+    label: 'Element 115 synthesis published in Physical Review C',
+    text: 'Oganessian et al., \'Experiments on the synthesis of element 115 in the reaction 243Am(48Ca,xn)291-x115\', Physical Review C 69, 021601(R), a Dubna and Lawrence Livermore collaboration. The isotopes are 287 and 288, at cross sections of roughly 1 and 3 picobarn, observed as chains of consecutive alpha decays running to completion within about twenty seconds and about half a second. Nothing about them is stable, machinable or storable.',
+    source: 'Physical Review C 69, 021601(R), https://journals.aps.org/prc/abstract/10.1103/PhysRevC.69.021601'
+  },
+  {
     id: 'sap-tl-2004-gao',
     date: '2004-03-03',
     label: 'GAO reports it cannot vouch for DoD contractor security oversight',
@@ -3145,6 +3343,17 @@ export const TIMELINE = [
     text: 'Per \'Skinwalkers at the Pentagon\', Lacatski writes to Robert Bigelow on DIA letterhead, the act that originates the contract. DIA later reports no records of the letter.',
     tier: 'B',
     node: 'james-lacatski'
+  },
+  {
+    id: 'tl-2007-07-20-cpsc-united-nuclear',
+    strand: 'program',
+    date: '2007-07-20',
+    precision: 'day',
+    tier: 'A',
+    node: 'bob-lazar',
+    label: 'CPSC: United Nuclear, the company, fined $7,500 after pleading guilty to three counts',
+    text: 'CORRECTS THE STANDARD FRAMING. It is widely repeated that \'in 2006, Lazar pleaded guilty\' to a Federal Hazardous Substances Act violation. The CPSC\'s own release of 20 July 2007 says the COMPANY pled guilty, to three criminal counts, before U.S. Chief Magistrate Lorenzo F. Garcia: \'United Nuclear Scientific Supplies LLC, of Edgewood, N.M., founded and operated by Robert Lazar, was fined $7,500 and received three years probation.\' Robert Lazar and accountant Joy White appear in the separate civil consent decree.',
+    source: 'U.S. Consumer Product Safety Commission, Release 07-249, https://www.cpsc.gov/Newsroom/News-Releases/2007/New-Mexico-Company-Fined-Ordered-To-Stop-Selling-Illegal-Fireworks-Components'
   },
   {
     id: 'bb-tl-2007-601',
@@ -3938,6 +4147,17 @@ export const TIMELINE = [
     node: 'nip-fy2013-summary-disclosure'
   },
   {
+    id: 'tl-2013-10-29-groom-lake-acknowledged',
+    strand: 'program',
+    date: '2013-10-29',
+    precision: 'day',
+    tier: 'A',
+    node: 's-4-papoose-lake',
+    label: 'The CIA\'s U-2 and OXCART history, declassified, acknowledges Groom Lake',
+    text: 'The National Security Archive posts Electronic Briefing Book 443, edited by Jeffrey T. Richelson, on the CIA history \'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974\' by Gregory Pedlow and Donald E. Welzenbach, declassified that summer. This is the documented half of the hub\'s geography and it is a statement about Groom Lake, NOT about Papoose Lake.',
+    source: 'National Security Archive EBB 443, https://nsarchive.gwu.edu/node/3324'
+  },
+  {
     id: 'av-2014-vfa11',
     strand: 'witness',
     date: '2014-01-01',
@@ -4104,6 +4324,17 @@ export const TIMELINE = [
     source: 'Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, NRO CSNR, May 2019, foreword, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf'
   },
   {
+    id: 'tl-2015-12-30-iupac-priority',
+    strand: 'program',
+    date: '2015-12-30',
+    precision: 'day',
+    tier: 'A',
+    node: 'element-115-claim',
+    label: 'IUPAC assigns discovery priority for element 115',
+    text: 'Priority went to \'the Dubna-Livermore-Oak Ridge collaborations\', on the basis of work \'starting in 2010, and subsequently confirmed in 2012 and 2013\'. A precision point usually got wrong in both directions: the priority statement rests on the 2010 to 2013 work, not on the 2003 experiment. The Joint Working Party report is Karol, Barber, Sherrill, Vardaci and Yamazaki, Pure and Applied Chemistry 88 (2016) 155.',
+    source: 'IUPAC, 30 December 2015, https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/'
+  },
+  {
     id: 'tl-2016-eval',
     strand: 'witness',
     date: '2016-01-01',
@@ -4176,6 +4407,17 @@ export const TIMELINE = [
     node: 'sffas-56'
   },
   {
+    id: 'tl-2016-11-28-moscovium-named',
+    strand: 'program',
+    date: '2016-11-28',
+    precision: 'day',
+    tier: 'A',
+    node: 'element-115-claim',
+    label: 'Element 115 formally named moscovium',
+    text: 'The name moscovium, symbol Mc, was formally approved on 28 November 2016 and announced on 30 November 2016, proposed by the discoverers at Dubna, Oak Ridge, Vanderbilt and Lawrence Livermore, in recognition of the Moscow region. This event is regularly presented as vindicating the Lazar claim. It does not: his claim requires a STABLE isotope that can be machined and stored, and no such isotope exists.',
+    source: 'IUPAC, 30 November 2016, https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/'
+  },
+  {
     id: 'tl-intl-2017-chile-release',
     strand: 'oversight',
     date: '2017-01',
@@ -4205,6 +4447,17 @@ export const TIMELINE = [
     text: 'Robert Bigelow tells CBS he is \'absolutely convinced\' of an extraterrestrial presence on Earth, seven months before the program he was paid to run becomes public.',
     tier: 'B',
     node: 'robert-bigelow'
+  },
+  {
+    id: 'tl-2017-07-19-united-nuclear-search',
+    strand: 'program',
+    date: '2017-07-19',
+    precision: 'day',
+    tier: 'A',
+    node: 'bob-lazar',
+    label: 'FBI searches United Nuclear Scientific in a Michigan homicide investigation',
+    text: 'A two-page Laingsburg, Michigan police report records an \'Agency Assist\' supporting an FBI search of United Nuclear Scientific in aid of \'a homicide investigation out of Houghton, MI involving poison\', and records that Lazar consented to the search. The underlying case is the thallium death of Janel Sturzl, 31, on 22 December 2015. Lazar is not recorded as a suspect. The report was obtained by Tim McMillan under a local open-records request.',
+    source: 'Laingsburg Police Department report, published by The Black Vault, https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/'
   },
   {
     id: 'tl-2017-08-09-dd1910',
@@ -4397,6 +4650,17 @@ export const TIMELINE = [
     node: 'garry-reid-memo-2017'
   },
   {
+    id: 'tl-2018-mahood-retrospective',
+    strand: 'witness',
+    date: '2018',
+    precision: 'year',
+    tier: 'C',
+    node: 's-4-papoose-lake',
+    label: 'Mahood\'s retrospective: nothing at Papoose Lake, S-4 is a Tonopah radar facility',
+    text: 'Tom Mahood publishes his mature assessment: there is \'nothing at Papoose Lake\', S-4 refers to a radar facility at the Tonopah Test Range, and the alien-craft narrative began as a cover story after the April 1989 detention. It concedes in the same document that Lazar is \'amazingly believable\' and that Mahood initially found the story plausible. T.D. Barnes reaches the same radar-site conclusion by an unrelated route in 2026.',
+    source: 'Tom Mahood, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/'
+  },
+  {
     id: 'tl-2018-sasc',
     strand: 'oversight',
     date: '2018-01-09',
@@ -4505,6 +4769,17 @@ export const TIMELINE = [
     text: 'David L. Norquist, Under Secretary of Defense (Comptroller) and Chief Financial Officer, writes in the FY2018 Agency Financial Report: \'In FY 2018, the Department underwent its first full-scope financial statement audit. As anticipated, our independent auditor, the Department of Defense Office of Inspector General, issued a Disclaimer of Opinion as the result of the audit.\' It will be the first of eight.',
     tier: 'A',
     node: 'david-norquist'
+  },
+  {
+    id: 'tl-2018-11-01-corbell-documentary',
+    strand: 'witness',
+    date: '2018-11-01',
+    precision: 'day',
+    tier: 'C',
+    node: 'corbell-lazar-2018',
+    label: 'Bob Lazar: Area 51 and Flying Saucers released digitally in the United States',
+    text: 'Jeremy Corbell\'s 97-minute documentary, narrated by Mickey Rourke, featuring Lazar, George Knapp and Joy White. Letterboxd lists United States digital release on 1 November 2018, United Kingdom physical on 4 December 2018 and United States physical on 8 December 2018. The widely cited \'4 December 2018\' is the UK physical date; IMDb returned HTTP 403 and no distributor record was opened.',
+    source: 'Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/'
   },
   {
     id: 'tl-ffrdc-2018-kerr',
@@ -4921,6 +5196,17 @@ export const TIMELINE = [
     text: 'Davis gives a classified briefing to a Defense Department agency about retrievals from \'off-world vehicles not made on this earth\'. The agency has never been identified.',
     tier: 'A',
     node: 'davis-sasc-briefing-2019'
+  },
+  {
+    id: 'tl-2020-04-13-papoose-overflight',
+    strand: 'program',
+    date: '2020-04-13',
+    precision: 'day',
+    tier: 'B',
+    node: 's-4-papoose-lake',
+    label: 'Papoose Lake photographed from the air on a legal overflight: nothing there',
+    text: 'Tyler Rogoway of The War Zone publishes aerial images taken on a pilot\'s authorised flight directly over Papoose Lake: \'nothing appears to be there, just as satellite images show. There isn\'t even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.\'',
+    source: 'Tyler Rogoway, The War Zone, https://www.twz.com/32951/pilots-rare-trip-around-area-51-includes-pics-of-range-targets-drone-bases-ufo-legends'
   },
   {
     id: 'av-2020-04-27',
@@ -5410,6 +5696,17 @@ export const TIMELINE = [
     text: 'Section 504 of the FY2022 Intelligence Authorization Act, Public Law 117-103, adds section 501A to the National Security Act: semiannual briefings on every CAP, a prohibition on establishing a CAP or compartment before notification, and annual reports listing every active and terminated compartment with a DNI certification for each.',
     tier: 'A',
     node: 'usc-50-3091a'
+  },
+  {
+    id: 'tl-2022-03-29-lear-dies',
+    strand: 'witness',
+    date: '2022-03-29',
+    precision: 'day',
+    tier: 'C',
+    node: 'john-lear',
+    label: 'John Lear dies',
+    text: 'The Museum of Flight Archives authority record states: \'John Lear died on March 29, 2022.\' He was born 3 December 1942, the son of William Powell Lear and Moya Olsen Lear, and his materials sit within the William P. and Moya Olsen Lear Family Collection.',
+    source: 'The Museum of Flight Archives, https://archives.museumofflight.org/agents/people/4962'
   },
   {
     id: 'tl-2022-04-reid-ousted',

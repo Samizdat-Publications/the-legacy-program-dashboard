@@ -2328,6 +2328,62 @@
 "tier": 1
 },
 {
+"a": "bob-lazar",
+"b": "edward-teller",
+"dateStart": "1982-06",
+"label": "Claimed 1982 meeting and later job referral, uncorroborated and internally misdated",
+"t": "witness-chain",
+"tier": 3
+},
+{
+"a": "bob-lazar",
+"b": "element-115-claim",
+"dateStart": "1989",
+"label": "The element 115 fuel claim is his",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "bob-lazar",
+"b": "kirk-mayer",
+"dateStart": "1982-05-18",
+"label": "The contractor he actually worked for at Los Alamos in 1982",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "bob-lazar",
+"b": "lanl",
+"dateStart": "1982",
+"label": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
+"t": "institutional",
+"tier": 3
+},
+{
+"a": "bob-lazar",
+"b": "lazar-tape-1991",
+"dateStart": "1991",
+"label": "Co-author and narrator of the 1991 videotape",
+"t": "research",
+"tier": 1
+},
+{
+"a": "bob-lazar",
+"b": "oni",
+"dateStart": "1988-12",
+"label": "Claimed payment: 'the United States Navy' in his narration, 'Department of Naval Intelligence' on the W-2 as others describe it",
+"t": "funding",
+"tier": 3
+},
+{
+"a": "bob-lazar",
+"b": "s-4-papoose-lake",
+"dateStart": "1988-12",
+"label": "Originating claimant: says he worked at S-4, December 1988 to April 1989",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "bobby-ray-inman",
 "b": "cia",
 "dateStart": "1981",
@@ -3534,6 +3590,14 @@
 "label": "Air Force, Navy and Army components of one effort, renamed prompt strike in 2012",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "corbell-lazar-2018",
+"b": "s-4-papoose-lake",
+"dateStart": "2018-11-01",
+"label": "2018 documentary that returned the claim to mass circulation",
+"t": "investigative",
+"tier": 2
 },
 {
 "a": "cosford-incident-1993",
@@ -6632,6 +6696,22 @@
 "tier": 2
 },
 {
+"a": "element-115-claim",
+"b": "lazar-tape-1991",
+"dateStart": "1991",
+"label": "The tape is the artefact in which the element 115 claim is fixed in datable form",
+"t": "custody",
+"tier": 2
+},
+{
+"a": "element-115-claim",
+"b": "nnsa",
+"dateStart": "2004-02-02",
+"label": "The real element: synthesised 2003, published 2004, assigned 2015, named moscovium 2016",
+"t": "research",
+"tier": 1
+},
+{
 "a": "eli-crane",
 "b": "crane-dod-reprisal-letter",
 "dateStart": "2025",
@@ -7856,6 +7936,22 @@
 "tier": 1
 },
 {
+"a": "gene-huff",
+"b": "lazar-tape-1991",
+"dateStart": "1991",
+"label": "Writer and co-producer of the 1991 videotape for Tri-Dot Productions",
+"t": "research",
+"tier": 1
+},
+{
+"a": "gene-huff",
+"b": "s-4-papoose-lake",
+"dateStart": "1989-03-22",
+"label": "Witness to the 1989 desert lights, not to the claimed facility",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "george-hathaway",
 "b": "dird-the-role-of-superconductors-in-gravity",
 "dateStart": null,
@@ -7869,6 +7965,14 @@
 "dateStart": "2017",
 "label": "published the contract documentation",
 "t": "investigative",
+"tier": 1
+},
+{
+"a": "george-knapp",
+"b": "corbell-lazar-2018",
+"dateStart": "2018",
+"label": "Appears in and is credited on the 2018 documentary",
+"t": "witness-chain",
 "tier": 1
 },
 {
@@ -7945,6 +8049,14 @@
 },
 {
 "a": "george-knapp",
+"b": "klas-lazar-broadcasts-1989",
+"dateStart": "1989-03",
+"label": "Reporter and author of the broadcasts",
+"t": "research",
+"tier": 1
+},
+{
+"a": "george-knapp",
 "b": "l-las-vegas",
 "dateStart": "1989-05",
 "label": "Knapp broadcast the Lazar interviews from KLAS-TV Las Vegas in 1989",
@@ -7973,6 +8085,14 @@
 "dateStart": "1996",
 "label": "Knapp introduced Harry Reid to Robert Bigelow",
 "t": "behavioral",
+"tier": 2
+},
+{
+"a": "george-knapp",
+"b": "s-4-papoose-lake",
+"dateStart": "1989-03",
+"label": "Journalist who brought the claim to air in 1989 and has carried it since",
+"t": "investigative",
 "tier": 2
 },
 {
@@ -10089,6 +10209,14 @@
 },
 {
 "a": "jeremy-corbell",
+"b": "corbell-lazar-2018",
+"dateStart": "2018",
+"label": "Director of the 2018 documentary",
+"t": "research",
+"tier": 1
+},
+{
+"a": "jeremy-corbell",
 "b": "hearing-2023-07-26",
 "dateStart": "2023",
 "label": "His report 'The UAP Puzzle' was submitted into the record by Rep. Burchett",
@@ -10430,6 +10558,30 @@
 "label": "2013 Mandatory Declassification Review forced further release of the NSA UFO holdings",
 "t": "investigative",
 "tier": 1
+},
+{
+"a": "john-lear",
+"b": "bob-lazar",
+"dateStart": "1988",
+"label": "Met by 1988; present at two of the three 1989 desert viewings",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "john-lear",
+"b": "d-media",
+"dateStart": "1987-12-29",
+"label": "His dated 1987 statement reached the field through ParaNet in early 1988",
+"t": "behavioral",
+"tier": 2
+},
+{
+"a": "john-lear",
+"b": "s-4-papoose-lake",
+"dateStart": "1989",
+"label": "Carrier of the claim, not an eyewitness to the claimed site",
+"t": "witness-chain",
+"tier": 3
 },
 {
 "a": "john-marks-foia-f-76-374",
@@ -10872,6 +11024,22 @@
 "tier": 3
 },
 {
+"a": "kirk-mayer",
+"b": "d-contractor",
+"dateStart": "1982",
+"label": "Named support-services contractor at a national laboratory",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "kirk-mayer",
+"b": "lanl",
+"dateStart": "1982",
+"label": "Support-services contractor at the laboratory",
+"t": "institutional",
+"tier": 2
+},
+{
 "a": "kirk-mcconnell",
 "b": "sol-foundation",
 "dateStart": "2024",
@@ -11048,6 +11216,14 @@
 "tier": 2
 },
 {
+"a": "klas-lazar-broadcasts-1989",
+"b": "s-4-papoose-lake",
+"dateStart": "1989-05",
+"label": "The original broadcast artefact of the claim",
+"t": "investigative",
+"tier": 3
+},
+{
 "a": "klas-tv",
 "b": "aawsap",
 "dateStart": null,
@@ -11085,6 +11261,14 @@
 "dateStart": null,
 "label": "Knapp co-authored two books with the AAWSAP originator",
 "t": "research",
+"tier": 1
+},
+{
+"a": "klas-tv",
+"b": "klas-lazar-broadcasts-1989",
+"dateStart": "1989-05",
+"label": "Its own broadcasts",
+"t": "institutional",
 "tier": 1
 },
 {
@@ -11672,6 +11856,22 @@
 "tier": 2
 },
 {
+"a": "lazar-clark-county-1990",
+"b": "bob-lazar",
+"dateStart": "1990-07-27",
+"label": "The court file contradicts his own credential account, in his own reported words",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "lazar-tape-1991",
+"b": "s-4-papoose-lake",
+"dateStart": "1991",
+"label": "The dated, opened, complete statement of the claim in the claimant's own voice",
+"t": "witness-chain",
+"tier": 2
+},
+{
 "a": "leidos",
 "b": "saic",
 "dateStart": "2013",
@@ -11885,6 +12085,22 @@
 "dateStart": "1990",
 "label": "Skunk Works operates at the government-owned contractor-operated Palmdale facility",
 "t": "institutional",
+"tier": 1
+},
+{
+"a": "los-alamos-monitor-1982",
+"b": "bob-lazar",
+"dateStart": "1982-06-27",
+"label": "Front-page newspaper story about him, seven years before the claim",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "los-alamos-monitor-1982",
+"b": "l-los-alamos",
+"dateStart": "1982-06-27",
+"label": "The newspaper, the facility and the event are all in Los Alamos",
+"t": "geographic",
 "tier": 1
 },
 {
@@ -16504,6 +16720,62 @@
 "tier": 2
 },
 {
+"a": "s-4-papoose-lake",
+"b": "d-custody",
+"dateStart": "1989",
+"label": "Claimed custody of non-human craft at the claimed site",
+"t": "custody",
+"tier": 3
+},
+{
+"a": "s-4-papoose-lake",
+"b": "d-legacy",
+"dateStart": "1989",
+"label": "The hub's claimed content is a legacy reverse-engineering programme",
+"t": "programmatic",
+"tier": 3
+},
+{
+"a": "s-4-papoose-lake",
+"b": "l-area51",
+"dateStart": "1989",
+"label": "Claimed site sited about fifteen miles south of Area 51",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "s-4-papoose-lake",
+"b": "l-groom-lake",
+"dateStart": "1989",
+"label": "Claimed site sited by reference to Groom Lake, about fifteen miles north of it",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "s-4-papoose-lake",
+"b": "l-nellis",
+"dateStart": "1989",
+"label": "Claimed site placed on the Nellis range by the claimant",
+"t": "geographic",
+"tier": 2
+},
+{
+"a": "s-4-papoose-lake",
+"b": "l-nevada-test-site",
+"dateStart": "1990-08-21",
+"label": "The claim's earlier geography, as reported contemporaneously in August 1990",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "s-4-papoose-lake",
+"b": "l-tonopah",
+"dateStart": "2018",
+"label": "DISPUTE over the designator: two sources say S-4 belongs to a Tonopah radar facility",
+"t": "geographic",
+"tier": 2
+},
+{
 "a": "sac-overflights-1975",
 "b": "aaro-historical-record-vol1",
 "dateStart": "2024",
@@ -17425,6 +17697,14 @@
 },
 {
 "a": "stanton-friedman",
+"b": "bob-lazar",
+"dateStart": "1997-12",
+"label": "Credential investigation: located Duxler at Pierce, found no institutional record",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "stanton-friedman",
 "b": "jesse-marcel",
 "dateStart": "1978-02",
 "label": "Friedman's February 1978 interview reopened Roswell",
@@ -17436,6 +17716,14 @@
 "b": "kevin-randle",
 "dateStart": "1987",
 "label": "Unresolved dispute over MJ-12 authenticity",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "stanton-friedman",
+"b": "s-4-papoose-lake",
+"dateStart": "1997-12",
+"label": "Denial from a UFO proponent: the claimant's credentials do not survive checking",
 "t": "denial",
 "tier": 2
 },
@@ -17905,6 +18193,14 @@
 },
 {
 "a": "the-black-vault",
+"b": "bob-lazar",
+"dateStart": "2018-11",
+"label": "Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "the-black-vault",
 "b": "l-la",
 "dateStart": "1996",
 "label": "The Black Vault runs the private FOIA archive from Los Angeles",
@@ -18233,6 +18529,14 @@
 },
 {
 "a": "tim-mcmillan",
+"b": "bob-lazar",
+"dateStart": "2019-07-01",
+"label": "Obtained the Laingsburg police report and traced the 2017 raid to a homicide investigation",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "tim-mcmillan",
 "b": "the-debrief",
 "dateStart": "2020",
 "label": "Co-founder and Executive Director",
@@ -18318,6 +18622,46 @@
 "label": "Co-founder, President, interim CEO and controlling shareholder",
 "t": "institutional",
 "tier": 1
+},
+{
+"a": "tom-mahood",
+"b": "bob-lazar",
+"dateStart": "1993",
+"label": "The most detailed documentary examination of the account, 1990s and 2018",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "tom-mahood",
+"b": "element-115-claim",
+"dateStart": "1969-04",
+"label": "The island of stability near element 114 was published popular physics from 1969",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "tom-mahood",
+"b": "lazar-clark-county-1990",
+"dateStart": "1995-05-14",
+"label": "Holds the reprints of both 1990 newspaper reports and quotes the Pre-Sentence Report",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "tom-mahood",
+"b": "los-alamos-monitor-1982",
+"dateStart": "1993",
+"label": "Holds the only openable copy of the article's text",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "tom-mahood",
+"b": "s-4-papoose-lake",
+"dateStart": "2018",
+"label": "Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility",
+"t": "denial",
+"tier": 2
 },
 {
 "a": "tr-3b",

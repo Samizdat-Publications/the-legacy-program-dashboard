@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3450,
-   "2": 1484,
-   "3": 526
+   "1": 3485,
+   "2": 1527,
+   "3": 535
   },
-  "edges": 2527,
-  "entities": 762,
+  "edges": 2570,
+  "entities": 770,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
-  "l0": 140,
-  "nodes": 1082,
+  "l0": 142,
+  "nodes": 1094,
   "patents": 5,
-  "people": 320,
+  "people": 324,
   "sheets": 11,
   "threads": 8,
-  "timeline": 951
+  "timeline": 978
  },
  "eras": [
   {
@@ -2498,6 +2498,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    9,
+    6,
+    0
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 14,
+   "era": "nd",
+   "hl": null,
+   "id": "bob-lazar",
+   "l0": false,
+   "label": "Robert \"Bob\" Lazar",
+   "short": "Robert \"Bob\" Lazar",
+   "status": "alive",
+   "tier": "A"
+  },
+  {
    "A": 3,
    "C": 1,
    "D": 1,
@@ -4010,6 +4034,30 @@
    "tier": "B"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    2,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": "2018-12-08",
+   "dateStart": "2018-11-01",
+   "deg": 3,
+   "era": "3",
+   "hl": null,
+   "id": "corbell-lazar-2018",
+   "l0": false,
+   "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+   "short": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 2,
    "C": 1,
    "D": 2,
@@ -4359,7 +4407,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1947-01-01",
-   "deg": 4,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "d-contractor",
@@ -4431,7 +4479,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1947",
-   "deg": 11,
+   "deg": 12,
    "era": "0",
    "hl": null,
    "id": "d-custody",
@@ -4743,7 +4791,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1947-07-01",
-   "deg": 2,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "d-legacy",
@@ -4887,7 +4935,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2017",
-   "deg": 10,
+   "deg": 11,
    "era": "3",
    "hl": null,
    "id": "d-media",
@@ -5759,7 +5807,7 @@
    "label": "DCSA as DoD Cognizant Security Office under the NISP",
    "short": "DCSA as DoD Cognizant Security Office under the NISP",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -8121,13 +8169,13 @@
    "claims": [
     1,
     0,
-    1
+    2
    ],
    "cls": "person",
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1949-02-16",
-   "deg": 2,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "edward-teller",
@@ -8160,6 +8208,30 @@
    "short": "EG&G",
    "status": null,
    "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    4,
+    4,
+    1
+   ],
+   "cls": "program",
+   "cluster": "witness",
+   "dateEnd": "2016-11-28",
+   "dateStart": "1989",
+   "deg": 4,
+   "era": "1",
+   "hl": null,
+   "id": "element-115-claim",
+   "l0": false,
+   "label": "Element 115: the Lazar claim and moscovium",
+   "short": "Element 115: the Lazar claim and moscovium",
+   "status": null,
+   "tier": "B"
   },
   {
    "A": 1,
@@ -9554,6 +9626,30 @@
    "tier": "A"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    2,
+    2,
+    0
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 2,
+   "era": "nd",
+   "hl": null,
+   "id": "gene-huff",
+   "l0": false,
+   "label": "Gene Huff",
+   "short": "Gene Huff",
+   "status": "alive",
+   "tier": "C"
+  },
+  {
    "A": 3,
    "C": 1,
    "D": 0,
@@ -9631,15 +9727,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    4,
+    6,
     10,
-    0
+    1
    ],
    "cls": "person",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2021-08-01",
-   "deg": 16,
+   "deg": 19,
    "era": "3",
    "hl": null,
    "id": "george-knapp",
@@ -12703,15 +12799,15 @@
    "D": 2,
    "band": null,
    "claims": [
-    2,
+    3,
     2,
     0
    ],
    "cls": "person",
-   "cluster": "media",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "2021-05-14",
-   "deg": 6,
+   "deg": 7,
    "era": "3",
    "hl": null,
    "id": "jeremy-corbell",
@@ -13104,6 +13200,30 @@
    "short": "John Greenewald Jr.",
    "status": "active",
    "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    2,
+    2,
+    0
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2022-03-29",
+   "deg": 3,
+   "era": "3",
+   "hl": null,
+   "id": "john-lear",
+   "l0": false,
+   "label": "John Olsen Lear",
+   "short": "John Olsen Lear",
+   "status": "dead",
+   "tier": "C"
   },
   {
    "A": 0,
@@ -13682,6 +13802,30 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    0,
+    4,
+    0
+   ],
+   "cls": "institution",
+   "cluster": "contractor",
+   "dateEnd": null,
+   "dateStart": "1982",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "kirk-mayer",
+   "l0": false,
+   "label": "Kirk-Mayer, Inc.",
+   "short": "Kirk-Mayer, Inc.",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 3,
    "C": 1,
    "D": 3,
@@ -13804,24 +13948,48 @@
   {
    "A": 0,
    "C": 0,
-   "D": 2,
+   "D": 3,
    "band": null,
    "claims": [
     0,
     1,
+    3
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": "1989-12-09",
+   "dateStart": "1989-05",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "klas-lazar-broadcasts-1989",
+   "l0": false,
+   "label": "The KLAS-TV Lazar broadcasts, 1989",
+   "short": "The KLAS-TV Lazar broadcasts, 1989",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": "research",
+   "claims": [
+    0,
+    2,
     0
    ],
    "cls": "institution",
-   "cluster": "media",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1981",
-   "deg": 5,
+   "deg": 6,
    "era": "1",
    "hl": null,
    "id": "klas-tv",
-   "l0": false,
+   "l0": true,
    "label": "KLAS-TV (Las Vegas)",
-   "short": "KLAS-TV (Las Vegas)",
+   "short": "KLAS-TV",
    "status": null,
    "tier": "C"
   },
@@ -13904,14 +14072,14 @@
    "band": null,
    "claims": [
     0,
-    2,
+    3,
     1
    ],
    "cls": "location",
-   "cluster": "legacy",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1955",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "l-area51",
@@ -14408,14 +14576,14 @@
    "band": null,
    "claims": [
     0,
-    4,
+    6,
     1
    ],
    "cls": "location",
-   "cluster": "legacy",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1955",
-   "deg": 13,
+   "deg": 14,
    "era": "0",
    "hl": null,
    "id": "l-groom-lake",
@@ -14671,7 +14839,7 @@
    "D": 1,
    "band": null,
    "claims": [
-    2,
+    3,
     0,
     1
    ],
@@ -14679,7 +14847,7 @@
    "cluster": "ffrdc",
    "dateEnd": null,
    "dateStart": "1943",
-   "deg": 4,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "l-los-alamos",
@@ -14792,14 +14960,14 @@
    "band": null,
    "claims": [
     0,
-    2,
+    3,
     0
    ],
    "cls": "location",
-   "cluster": "legacy",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1941",
-   "deg": 1,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "l-nellis",
@@ -14815,15 +14983,15 @@
    "D": 0,
    "band": null,
    "claims": [
-    1,
+    2,
     1,
     0
    ],
    "cls": "location",
-   "cluster": "contractor",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1951",
-   "deg": 5,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "l-nevada-test-site",
@@ -14831,7 +14999,7 @@
    "label": "Nevada Test Site / Nevada National Security Site",
    "short": "Nevada Test Site / Nevada National Security Site",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -15272,14 +15440,14 @@
    "band": null,
    "claims": [
     0,
-    2,
+    3,
     1
    ],
    "cls": "location",
-   "cluster": "legacy",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "1957",
-   "deg": 1,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "l-tonopah",
@@ -15605,21 +15773,21 @@
    "A": 3,
    "C": 2,
    "D": 1,
-   "band": null,
+   "band": "research",
    "claims": [
     3,
     2,
-    0
+    1
    ],
    "cls": "institution",
    "cluster": "ffrdc",
    "dateEnd": null,
    "dateStart": "1943",
-   "deg": 4,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "lanl",
-   "l0": false,
+   "l0": true,
    "label": "Los Alamos National Laboratory",
    "short": "Los Alamos National Laboratory",
    "status": null,
@@ -15744,6 +15912,54 @@
    "short": "Lawrence P. Gise",
    "status": "former",
    "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    4,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": "1996",
+   "dateStart": "1990-06-05",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "lazar-clark-county-1990",
+   "l0": false,
+   "label": "Clark County, Nevada felony pandering file, 1990 and 1996",
+   "short": "Clark County, Nevada felony pandering file, 1990 and 1996",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    2,
+    0
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1991",
+   "deg": 4,
+   "era": "1",
+   "hl": null,
+   "id": "lazar-tape-1991",
+   "l0": false,
+   "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
+   "short": "The Lazar Tape and Excerpts from the Government Bible (1991)",
+   "status": null,
+   "tier": "C"
   },
   {
    "A": 3,
@@ -15984,6 +16200,30 @@
    "short": "Lockheed Skunk Works",
    "status": null,
    "tier": "B"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    1,
+    2,
+    0
+   ],
+   "cls": "document",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "1982-06-27",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "los-alamos-monitor-1982",
+   "l0": false,
+   "label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+   "short": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+   "status": null,
+   "tier": "C"
   },
   {
    "A": 1,
@@ -18367,7 +18607,7 @@
    "D": 0,
    "band": null,
    "claims": [
-    1,
+    2,
     1,
     1
    ],
@@ -18375,7 +18615,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2000-03-01",
-   "deg": 2,
+   "deg": 3,
    "era": "2",
    "hl": null,
    "id": "nnsa",
@@ -18849,13 +19089,13 @@
    "claims": [
     2,
     2,
-    1
+    2
    ],
    "cls": "institution",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1882-03-23",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "oni",
@@ -21652,6 +21892,30 @@
   {
    "A": 0,
    "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    0,
+    6,
+    1
+   ],
+   "cls": "location",
+   "cluster": "witness",
+   "dateEnd": "1989-04",
+   "dateStart": "1988-12",
+   "deg": 16,
+   "era": "1",
+   "hl": null,
+   "id": "s-4-papoose-lake",
+   "l0": false,
+   "label": "S-4 / Papoose Lake, Nevada",
+   "short": "S-4 / Papoose Lake, Nevada",
+   "status": null,
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
    "D": 0,
    "band": null,
    "claims": [
@@ -22928,14 +23192,14 @@
    "band": null,
    "claims": [
     2,
-    7,
+    9,
     0
    ],
    "cls": "person",
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2019-05-13",
-   "deg": 3,
+   "deg": 5,
    "era": "3",
    "hl": null,
    "id": "stanton-friedman",
@@ -22943,7 +23207,7 @@
    "label": "Stanton T. Friedman",
    "short": "Stanton T. Friedman",
    "status": "active",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
@@ -23503,7 +23767,7 @@
    "D": 3,
    "band": "custody",
    "claims": [
-    1,
+    3,
     0,
     0
    ],
@@ -23511,7 +23775,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "1996",
-   "deg": 7,
+   "deg": 8,
    "era": "1",
    "hl": null,
    "id": "the-black-vault",
@@ -23519,7 +23783,7 @@
    "label": "The Black Vault",
    "short": "The Black Vault",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -23815,15 +24079,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    1,
+    2,
     0,
     0
    ],
    "cls": "person",
-   "cluster": "media",
+   "cluster": "other",
    "dateEnd": null,
    "dateStart": "2023-06-05",
-   "deg": 1,
+   "deg": 2,
    "era": "3",
    "hl": null,
    "id": "tim-mcmillan",
@@ -23952,6 +24216,30 @@
    "short": "Thomas Matthew DeLonge",
    "status": "active",
    "tier": "C"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    4,
+    0
+   ],
+   "cls": "person",
+   "cluster": "research",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 5,
+   "era": "nd",
+   "hl": null,
+   "id": "tom-mahood",
+   "l0": false,
+   "label": "Tom Mahood",
+   "short": "Tom Mahood",
+   "status": "alive",
+   "tier": "B"
   },
   {
    "A": 0,
@@ -26138,5 +26426,5 @@
    "tier": "C"
   }
  ],
- "source": "d793d22cbf50"
+ "source": "a6b9f1659658"
 }

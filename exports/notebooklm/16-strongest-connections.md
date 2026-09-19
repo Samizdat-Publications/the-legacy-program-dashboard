@@ -1,6 +1,6 @@
 # The strongest connections on the board
 
-The board holds 2527 hand written links between its nodes. These are the hundred that combine the best evidenced link tier with the two best placed and most connected nodes at either end, each told as a short paragraph with the note somebody wrote when they made the link and the sources it rests on.
+The board holds 2570 hand written links between its nodes. These are the hundred that combine the best evidenced link tier with the two best placed and most connected nodes at either end, each told as a short paragraph with the note somebody wrote when they made the link and the sources it rests on.
 
 ## 1. All-domain Anomaly Resolution Office (AARO) and David Charles Grusch
 
@@ -106,7 +106,15 @@ The committee deliberately seated two aviator witnesses beside a whistleblower a
 
 Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; David Grusch, written statement to the House Committee on Oversight and Accountability, https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf, dated 2023-07-26.
 
-## 14. David Charles Grusch and The Sol Foundation
+## 14. David Charles Grusch and George Knapp
+
+David Charles Grusch (person, board tier A, 67 connections) is joined to George Knapp (person, board tier A, 19 connections) by a witness-chain link recorded at Tier 1 documented. The link is labelled: Sworn statement that extra-legal reprisal against Grusch was ongoing in September 2025. It is dated 2025.
+
+From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up.
+
+Sources: Task Force hearing record, Serial No. 119-44, https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf, dated 2025-09-09.
+
+## 15. David Charles Grusch and The Sol Foundation
 
 David Charles Grusch (person, board tier A, 67 connections) is joined to The Sol Foundation (institution, board tier A, 19 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Chief Operating Officer from May 2023. It is dated 2023.
 
@@ -114,7 +122,7 @@ Listed as his current position in the biography the House Oversight Committee pu
 
 Sources: House Oversight witness biography, https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf, dated 2023-07-26.
 
-## 15. David Charles Grusch and DoD Special Access Program Central Office (DoD SAPCO)
+## 16. David Charles Grusch and DoD Special Access Program Central Office (DoD SAPCO)
 
 David Charles Grusch (person, board tier A, 67 connections) is joined to DoD Special Access Program Central Office (DoD SAPCO) (institution, board tier A, 18 connections) by a denial link recorded at Tier 1 documented. The link is labelled: The office that must approve any contractor's provision of SAP material to Congress. It is dated 2010-07-01.
 
@@ -122,7 +130,7 @@ DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor p
 
 Sources: DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018, https://web.archive.org/web/20190922210932/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf, dated 2018-08-31.
 
-## 16. United States Department of Defense (secondary designation: Department of War) and PURSUE - Presidential Unsealing and Reporting System for UAP Encounters
+## 17. United States Department of Defense (secondary designation: Department of War) and PURSUE - Presidential Unsealing and Reporting System for UAP Encounters
 
 United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) is joined to PURSUE - Presidential Unsealing and Reporting System for UAP Encounters (program, board tier A, 40 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Run by the Department of War with ODNI support. It is dated 2026.
 
@@ -130,21 +138,13 @@ Created by presidential directive of 19 February 2026; five releases published b
 
 Sources: US Department of War - PURSUE, https://www.war.gov/UFO/, dated 2026-08-12.
 
-## 17. David Charles Grusch and Sean M. Kirkpatrick
+## 18. David Charles Grusch and Sean M. Kirkpatrick
 
 David Charles Grusch (person, board tier A, 67 connections) is joined to Sean M. Kirkpatrick (person, board tier A, 17 connections) by a denial link recorded at Tier 1 documented. The link is labelled: 'The central source of those allegations has refused to speak with AARO'. It is dated 2023.
 
 Posted by Kirkpatrick after the 26 July 2023 hearing and authenticated by the Pentagon, calling the hearing insulting to DoD and IC officers. Signatory: Sean M. Kirkpatrick, then AARO director. It contradicts nothing Grusch swore to; it substitutes a procedural complaint for a substantive rebuttal.
 
 Sources: DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses, https://defensescoop.com/2023/07/31/uap-hearing-sparks-clash-between-pentagon-officials-witnesses/, dated 2023-07-31; House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
-
-## 18. David Charles Grusch and George Knapp
-
-David Charles Grusch (person, board tier A, 67 connections) is joined to George Knapp (person, board tier A, 16 connections) by a witness-chain link recorded at Tier 1 documented. The link is labelled: Sworn statement that extra-legal reprisal against Grusch was ongoing in September 2025. It is dated 2025.
-
-From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up.
-
-Sources: Task Force hearing record, Serial No. 119-44, https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf, dated 2025-09-09.
 
 ## 19. David Charles Grusch and Timothy Floyd Burchett
 

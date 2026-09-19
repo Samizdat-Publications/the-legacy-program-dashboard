@@ -144,6 +144,7 @@
    "condon-committee",
    "eg-and-g",
    "fab",
+   "lanl",
    "lockheed-skunk-works",
    "mkultra",
    "nasa",
@@ -155,6 +156,7 @@
    "cefaa",
    "cometa",
    "ev-noite-ovnis-1986",
+   "klas-tv",
    "operacao-prato",
    "setka-program"
   ],
@@ -990,6 +992,14 @@
   },
   {
    "a": "aawsap",
+   "b": "klas-tv",
+   "tier": 2,
+   "types": [
+    "custody"
+   ]
+  },
+  {
+   "a": "aawsap",
    "b": "kona-blue",
    "tier": 1,
    "types": [
@@ -1800,6 +1810,14 @@
   },
   {
    "a": "doe",
+   "b": "lanl",
+   "tier": 1,
+   "types": [
+    "institutional"
+   ]
+  },
+  {
+   "a": "doe",
    "b": "manhattan-project-2",
    "tier": 2,
    "types": [
@@ -2008,6 +2026,14 @@
    "tier": 1,
    "types": [
     "institutional"
+   ]
+  },
+  {
+   "a": "hearing-2025-09-09",
+   "b": "klas-tv",
+   "tier": 1,
+   "types": [
+    "witness-chain"
    ]
   },
   {
@@ -2800,6 +2826,7 @@
     "ttsa-army-crada",
     "battelle",
     "roswell-1947",
+    "lanl",
     "atic",
     "project-blue-book",
     "gao-nsiad-95-187",
@@ -2819,6 +2846,7 @@
     "uap-task-force",
     "arquivo-nacional-ufo",
     "operacao-prato",
+    "klas-tv",
     "aawsap",
     "rendlesham-1980",
     "odni-memo-es-2026-00818",
@@ -2836,8 +2864,8 @@
     "carve-out"
    ],
    "label": "The custody chain",
-   "onMap": 52,
-   "total": 197
+   "onMap": 54,
+   "total": 204
   },
   {
    "blurb": "A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers.",
@@ -2889,7 +2917,7 @@
    ],
    "label": "Who denied what",
    "onMap": 43,
-   "total": 142
+   "total": 144
   },
   {
    "blurb": "States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument.",
@@ -3933,6 +3961,21 @@
    "tier": "C"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 2,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "other",
+   "dateStart": "1981",
+   "era": "1",
+   "hl": null,
+   "id": "klas-tv",
+   "label": "KLAS-TV (Las Vegas)",
+   "short": "KLAS-TV",
+   "tier": "C"
+  },
+  {
    "A": 3,
    "C": 3,
    "D": 3,
@@ -3960,6 +4003,21 @@
    "id": "langley-2023-incursions",
    "label": "Langley AFB Drone Incursions (December 2023)",
    "short": "Langley AFB Drone Incursions",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 1,
+   "band": "research",
+   "cls": "institution",
+   "cluster": "ffrdc",
+   "dateStart": "1943",
+   "era": "0",
+   "hl": null,
+   "id": "lanl",
+   "label": "Los Alamos National Laboratory",
+   "short": "Los Alamos National Laboratory",
    "tier": "B"
   },
   {
@@ -4830,7 +4888,7 @@
    "id": "the-black-vault",
    "label": "The Black Vault",
    "short": "The Black Vault",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -5103,7 +5161,7 @@
    "tier": "B"
   }
  ],
- "source": "d793d22cbf50",
+ "source": "a6b9f1659658",
  "summarised": [
   {
    "a": "aaro",
@@ -5929,6 +5987,14 @@
    "via": [
     "d-funding",
     "david-grusch"
+   ]
+  },
+  {
+   "a": "klas-tv",
+   "b": "nyt-2017-12-16",
+   "via": [
+    "d-media",
+    "harry-reid"
    ]
   },
   {

@@ -64,12 +64,33 @@
 ],
 "tier": "B",
 "type": "programmatic"
+},
+{
+"claimTier": 3,
+"cls": "location",
+"dateEnd": null,
+"dateStart": "1989",
+"direction": "in",
+"edgeLabel": "The hub's claimed content is a legacy reverse-engineering programme",
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"note": "Tier 3 because it is what is claimed, not what is shown.",
+"sources": [
+{
+"date": "1991",
+"name": "The Lazar Tape, Tri-Dot Productions, 1991",
+"url": "https://archive.org/details/antigravity"
+}
+],
+"tier": "A",
+"type": "programmatic"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-07-01",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "desc": "This is the board's central claim expressed as a research domain: that a recovery, exploitation and reverse-engineering effort was stood up in the late 1940s, was subsequently moved outside ordinary acquisition and oversight channels, and has run continuously since - the word 'legacy' being the term used by the witnesses themselves for a programme that predates every currently serving official. The claim's highest-grade attestation is sworn: on 26 July 2023 David Grusch told the House Oversight Committee, under oath and after having filed a protected disclosure with the Intelligence Community Inspector General, that he was informed by named individuals of a multi-decade crash retrieval and reverse-engineering programme, and that he provided that information with witnesses to the ICIG and to Congress. The government's own answer is on the record too: AARO's February 2024 Volume I report found 'no empirical evidence' for the reverse-engineering claim, having interviewed approximately thirty individuals and investigated named programmes. Both documents belong on this board, and the disagreement between them is the research problem rather than its resolution. Scoring high on this domain means an entity is placed inside that continuity by testimony or by document - and the C axis, custody proximity, is the axis that most directly tests it.",
 "domains": [
@@ -119,7 +140,7 @@
 ],
 "sub": "Core domain - the alleged continuous recovery and reverse-engineering effort, 1940s to present",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 236 of 1082, score 41). 2 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 189 of 1094, score 45). 3 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D2.",
 "timeline": [
 {
 "date": "1950-11-21",

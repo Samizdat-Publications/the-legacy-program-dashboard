@@ -150,6 +150,11 @@
   "claim": "The Atacama skeleton presented in Sirius was shown by genetic evidence to be human."
  },
  {
+  "id": "stanton-friedman",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westi"
+ },
+ {
   "id": "jeremy-corbell",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "Corbell has released leaked footage from US Navy aircraft associated with the USS Omaha and video of apparentl"
@@ -178,11 +183,6 @@
   "id": "jake-barber",
   "why": "node carries no primary-record URL",
   "claim": "Barber was a named speaker at the 2025 Sol Foundation Symposium, 24-27 October 2025."
- },
- {
-  "id": "stanton-friedman",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westi"
  },
  {
   "id": "richard-genik",
@@ -750,6 +750,96 @@
   "claim": "It states that MITRE, its 15 MITRE Labs and 6 operational FFRDCs have served as a long-term strategic partner "
  },
  {
+  "id": "s-4-papoose-lake",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "THE PLACE IS REAL AND THE FACILITY IS NOT DOCUMENTED. Papoose Lake is a dry lake bed in Lincoln County, Nevada"
+ },
+ {
+  "id": "s-4-papoose-lake",
+  "why": "node carries no primary-record URL",
+  "claim": "THE DOCUMENTED HALF OF THE GEOGRAPHY, WHICH IS ABOUT GROOM LAKE AND NOT ABOUT PAPOOSE LAKE. The Groom Lake fac"
+ },
+ {
+  "id": "s-4-papoose-lake",
+  "why": "node carries no primary-record URL",
+  "claim": "THE LAKEBED HAS BEEN PHOTOGRAPHED FROM THE AIR, LEGALLY, AND THERE IS NOTHING ON IT. Tyler Rogoway of The War "
+ },
+ {
+  "id": "s-4-papoose-lake",
+  "why": "node carries no primary-record URL",
+  "claim": "THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990 des"
+ },
+ {
+  "id": "lazar-tape-1991",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Its English auto-generated captions were retrieved in full on 18 September 2026 through the YouTube mirror at "
+ },
+ {
+  "id": "klas-lazar-broadcasts-1989",
+  "why": "node carries no primary-record URL",
+  "claim": "THE ANCHOR. A Las Vegas Review-Journal report of Tuesday 19 June 1990, page 8B, by Warren Bates, records conte"
+ },
+ {
+  "id": "klas-tv",
+  "why": "node carries no primary-record URL",
+  "claim": "KLAS-TV is the originating institution of the Bob Lazar claim. A Las Vegas Review-Journal report of 19 June 19"
+ },
+ {
+  "id": "klas-tv",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Knapp joined KLAS-TV as reporter and news anchor in 1981, left in 1991 and was rehired in 1995; the Bob Lazar "
+ },
+ {
+  "id": "l-groom-lake",
+  "why": "node carries no primary-record URL",
+  "claim": "The facility's existence was officially acknowledged by the declassification, in summer 2013, of the CIA histo"
+ },
+ {
+  "id": "l-groom-lake",
+  "why": "node carries no primary-record URL",
+  "claim": "On 25 June 2013 the CIA released an official history of the U-2 and OXCART projects acknowledging testing at A"
+ },
+ {
+  "id": "l-groom-lake",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "In 1995 President Clinton issued a presidential determination exempting the Air Force's operating location nea"
+ },
+ {
+  "id": "l-groom-lake",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Kasza v. Browner and Frost v. Perry (filed 1994) alleged exposure to hazardous waste burned in open pits at Gr"
+ },
+ {
+  "id": "l-groom-lake",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Project AQUATONE was established in April 1955 with the first U-2 arriving 24 July 1955; Project OXCART was es"
+ },
+ {
+  "id": "l-area51",
+  "why": "node carries no primary-record URL",
+  "claim": "The CIA's 25 June 2013 release was the first official acknowledgement of specific activity at the site named A"
+ },
+ {
+  "id": "l-nellis",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Until the 1995 presidential determination, the government's position was that Groom Lake was simply another pa"
+ },
+ {
+  "id": "l-nellis",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Groom Lake, Tonopah Test Range airfield and R-4808N all sit within the Nevada Test and Training Range administ"
+ },
+ {
+  "id": "l-tonopah",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The 4450th Tactical Group was activated 15 October 1979 while physically located at Area 51; its move to Tonop"
+ },
+ {
+  "id": "l-tonopah",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "HAVE IDEA, the exploited foreign aircraft programme, transitioned to the Tonopah Test Range in May 1973."
+ },
+ {
   "id": "american-alchemy",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "The 30 January 2025 Jake Barber episode has 1,010,989 views; the 11 January 2026 UAP Gerb episode 514,729; the"
@@ -803,11 +893,6 @@
   "id": "public-substack",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "Shellenberger is co-founder of Public, a newsletter covering censorship, cities, mental health, addiction, ene"
- },
- {
-  "id": "klas-tv",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Knapp joined KLAS-TV as reporter and news anchor in 1981, left in 1991 and was rehired in 1995; the Bob Lazar "
  },
  {
   "id": "cseti",
@@ -1018,51 +1103,6 @@
   "id": "l-albuquerque",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "Bennewitz founded Thunder Scientific in 1966 after acquiring humidity sensor rights from Sandia National Labor"
- },
- {
-  "id": "l-groom-lake",
-  "why": "node carries no primary-record URL",
-  "claim": "On 25 June 2013 the CIA released an official history of the U-2 and OXCART projects acknowledging testing at A"
- },
- {
-  "id": "l-groom-lake",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "In 1995 President Clinton issued a presidential determination exempting the Air Force's operating location nea"
- },
- {
-  "id": "l-groom-lake",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Kasza v. Browner and Frost v. Perry (filed 1994) alleged exposure to hazardous waste burned in open pits at Gr"
- },
- {
-  "id": "l-groom-lake",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Project AQUATONE was established in April 1955 with the first U-2 arriving 24 July 1955; Project OXCART was es"
- },
- {
-  "id": "l-area51",
-  "why": "node carries no primary-record URL",
-  "claim": "The CIA's 25 June 2013 release was the first official acknowledgement of specific activity at the site named A"
- },
- {
-  "id": "l-nellis",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Until the 1995 presidential determination, the government's position was that Groom Lake was simply another pa"
- },
- {
-  "id": "l-nellis",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Groom Lake, Tonopah Test Range airfield and R-4808N all sit within the Nevada Test and Training Range administ"
- },
- {
-  "id": "l-tonopah",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "The 4450th Tactical Group was activated 15 October 1979 while physically located at Area 51; its move to Tonop"
- },
- {
-  "id": "l-tonopah",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "HAVE IDEA, the exploited foreign aircraft programme, transitioned to the Tonopah Test Range in May 1973."
  },
  {
   "id": "l-white-sands",

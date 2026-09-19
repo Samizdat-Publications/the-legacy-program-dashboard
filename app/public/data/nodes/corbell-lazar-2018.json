@@ -1,0 +1,139 @@
+{
+"A": 0,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"text": "The artefact: 'Bob Lazar: Area 51 and Flying Saucers', 2018, 97 minutes, directed by Jeremy Kenyon Lockyer Corbell, narrated by Mickey Rourke, featuring Bob Lazar, George Knapp and Joy White.",
+"tier": 1
+},
+{
+"source": "Letterboxd record, https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/ , opened 2026-09-18",
+"text": "A CORRECTION TO THE DATE IN GENERAL CIRCULATION. Letterboxd lists three release dates across two territories and two formats: United States digital, 1 November 2018; United Kingdom physical, 4 December 2018; United States physical, 8 December 2018. The widely repeated '4 December 2018' is the United Kingdom physical date, not the release. IMDb returned HTTP 403 to this board on 18 September 2026 and no distributor record was opened, so the node asserts a range and not a single date.",
+"tier": 1
+},
+{
+"source": "Tim McMillan, Vice, 13 November 2019, https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/ , opened 2026-09-18",
+"text": "It is the route by which the 19 July 2017 search of United Nuclear Scientific entered the UFO literature. Tim McMillan's 2019 reporting, which established that the search was an agency assist to a homicide investigation into a thallium death, describes the motivation for the records request as the discussion of the raid in this documentary.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "in",
+"edgeLabel": "Appears in and is credited on the 2018 documentary",
+"id": "george-knapp",
+"l0": false,
+"label": "George Knapp",
+"note": "He is a participant rather than an author of this film, which is why it is witness-chain and not research.",
+"sources": [
+{
+"date": "2018",
+"name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+"url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "2018",
+"direction": "in",
+"edgeLabel": "Director of the 2018 documentary",
+"id": "jeremy-corbell",
+"l0": false,
+"label": "Jeremy Kenyon Lockyer Corbell",
+"note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling.",
+"sources": [
+{
+"date": "2018",
+"name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+"url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "2018-12-08",
+"dateStart": "2018-11-01",
+"direction": "out",
+"edgeLabel": "2018 documentary that returned the claim to mass circulation",
+"id": "s-4-papoose-lake",
+"l0": false,
+"label": "S-4 / Papoose Lake, Nevada",
+"note": "A downstream carrier, not a source. The film was not viewed by this board; the edge rests on its credits, its subject and its documented downstream effect.",
+"sources": [
+{
+"date": "2018",
+"name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers",
+"url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+}
+],
+"tier": "A",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "2018-12-08",
+"dateStart": "2018-11-01",
+"deg": 3,
+"denials": [],
+"desc": "A later carrier rather than a source, and the board builds it as one. The film is directed by Jeremy Kenyon Lockyer Corbell, runs 97 minutes, is narrated by Mickey Rourke, and features Bob Lazar, George Knapp and Joy White. Its significance to this cluster is twofold and both parts are about propagation rather than evidence: it returned the S-4 claim to mass circulation thirty years after the 1989 broadcasts, and it is the route by which the July 2017 search of United Nuclear Scientific entered the UFO literature, framed there as a raid to recover element 115 rather than as an agency assist in a Michigan homicide investigation. A correction the board should carry in print: the date in general circulation for this film, 4 December 2018, is the United Kingdom physical release. Letterboxd lists the United States digital release as 1 November 2018 and the United States physical release as 8 December 2018. IMDb returned HTTP 403 and was not opened, so no distributor record confirms a single date and the node states a range.",
+"domains": [
+"lazar-s4-2026-09-18"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "3",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "corbell-lazar-2018",
+"l0": false,
+"label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+"locLabel": null,
+"members": null,
+"short": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+"sources": [
+{
+"date": "2018",
+"name": "Letterboxd record for Bob Lazar: Area 51 and Flying Saucers, giving director, runtime, narrator, cast and release dates",
+"url": "https://letterboxd.com/film/bob-lazar-area-51-and-flying-saucers/"
+},
+{
+"date": "2019-11-13",
+"name": "Tim McMillan, Vice, on the 2017 raid and how it reached the literature",
+"url": "https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/"
+}
+],
+"sub": "Jeremy Corbell's 97-minute documentary, narrated by Mickey Rourke, featuring Lazar and George Knapp, released across formats between November and December 2018",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 947 of 1094, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [
+{
+"date": "2018-11-01",
+"id": "tl-2018-11-01-corbell-documentary",
+"label": "Bob Lazar: Area 51 and Flying Saucers released digitally in the United States",
+"precision": "day",
+"strand": "witness",
+"text": "Jeremy Corbell's 97-minute documentary, narrated by Mickey Rourke, featuring Lazar, George Knapp and Joy White. Letterboxd lists United States digital release on 1 November 2018, United Kingdom physical on 4 December 2018 and United States physical on 8 December 2018. The widely cited '4 December 2018' is the UK physical date; IMDb returned HTTP 403 and no distributor record was opened.",
+"tier": "C"
+}
+]
+}

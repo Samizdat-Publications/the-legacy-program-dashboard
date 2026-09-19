@@ -1,6 +1,6 @@
 # The reverse engineering band
 
-The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the reverse engineering band: 17 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 142 nodes closest to the alleged programme into seven bands, and this file is the reverse engineering band: 17 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -56,7 +56,7 @@ Roles the board assigns it: funding, custody, reverse-engineering, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 7 of 1082, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.
+Re-graded A on a global pass (rank 7 of 1094, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.
 
 ### The claims on the record
 
@@ -153,7 +153,7 @@ Roles the board assigns it: reverse-engineering, concealment, funding, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 82 of 1082, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 85 of 1094, score 67). 10 connections, 7 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -233,7 +233,7 @@ Roles the board assigns it: custody, reverse-engineering, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 28 of 1082, score 99). 30 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 28 of 1094, score 99). 30 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -324,7 +324,7 @@ Roles the board assigns it: custody, concealment, reverse-engineering.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 49 of 1082, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.
+Re-graded A on a global pass (rank 49 of 1094, score 80). 21 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.
 
 ### The claims on the record
 
@@ -353,15 +353,15 @@ Re-graded A on a global pass (rank 49 of 1082, score 80). 21 connections, 6 of t
 - United States Department of Energy comes in from **Atomic Energy Commission** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Abolished 1974; functions passed through ERDA to the Department of Energy. The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions. Sources: Energy Reorganization Act of 1974, sec. 104(a), https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf, dated 1974-10-11; Records of the Atomic Energy Commission, Record Group 326, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/326.html, dated 2026-09-02.
 - United States Department of Energy runs out to **Sandia National Laboratories** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: DOE/NNSA management and operating contract; Sandia. Sandia is an NNSA laboratory adjacent to Kirtland AFB and the Manzano Weapons Storage Area, the site of the 1980 intrusions investigated by AFOSI. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
 - United States Department of Energy runs out to **Oak Ridge National Laboratory (UT-Battelle, LLC)** (institution, board tier A), a research link at Tier 1 documented. The link reads: DOE laboratory performed AARO's metallic specimen analysis. AARO's published materials analysis synopsis was produced with Oak Ridge National Laboratory, a DOE laboratory - meaning DOE analytical capability was the government's chosen instrument for testing alleged recovered material. Sources: AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
+- United States Department of Energy runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier B), a institutional link at Tier 1 documented. The link reads: DOE operating authority over the Nevada National Security Site. The Nevada test complex is DOE/NNSA property operated by contract, with its own protective force and clearance regime, and is named repeatedly in retrieval testimony. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
+- United States Department of Energy runs out to **Los Alamos National Laboratory** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: DOE/NNSA management and operating contract; Los Alamos. Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material. Sources: Los Alamos National Laboratory - FOIA requests at the National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18; NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
 - United States Department of Energy runs out to **Los Alamos Green Fireballs Conference** (event, board tier B), a programmatic link at Tier 1 documented. The link reads: AEC laboratories convened the February 1949 green fireball conference. The green fireball events centred on the Los Alamos and Sandia complexes and produced a conference and the subsequent Project TWINKLE instrumented observation effort. Attested by the FBI and Air Force file material released through the 2026 PURSUE tranches. Sources: Los Alamos National Laboratory - FOIA requests at the National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18.
 - United States Department of Energy comes in from **JASON** (institution, board tier B), a funding link at Tier 1 documented. The link reads: NNSA rescued and now sponsors JASON after DoD declined renewal. On 25-26 April 2019 NNSA issued a notice of intent to award a short-term sole source contract to MITRE for JASON management and logistics support, two weeks after OUSD(R&E) confirmed it was ending the contract. Sources: Defense News, 11 April 2019, https://www.defensenews.com/pentagon/2019/04/11/pentagon-confirms-it-is-ending-the-jason-advisory-contract-but-groups-work-may-continue/, dated 2019-04-11; Science (AAAS), https://www.science.org/content/article/jason-advisory-group-prepares-shut-down-us-contract-extension-seems-unlikely, dated 2019-04-24.
-- United States Department of Energy runs out to **Los Alamos National Laboratory** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: DOE/NNSA management and operating contract; Los Alamos. Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material. Sources: Los Alamos National Laboratory - FOIA requests at the National Security Research Center, https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center, dated 2024-11-18; NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
 - United States Department of Energy comes in from **50 U.S.C. 2426, Congressional Oversight of DOE/NNSA Special Access Programs** (legislation, board tier B), a legislative link at Tier 1 documented. The link reads: Governs special access programs of the nuclear weapons complex. 50 U.S.C. 2426 imposes SAP reporting on the Administrator of the National Nuclear Security Administration, a semi-autonomous DOE agency. Sources: 50 U.S.C. 2426, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2426&num=0&edition=prelim, dated 2026-08-12.
 - United States Department of Energy comes in from **Bluegill Triple Prime** (event, board tier B), a custody link at Tier 1 documented. The link reads: The detonation list is a Department of Energy publication. DNA 6040F sources its own table of DOMINIC detonations to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Office of Public Affairs, Department of Energy, Nevada Operations Office, January 1980, so the authoritative date and yield description for this shot are held by DOE rather than by DoD. Sources: DNA 6040F, Table 1 source note, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt, dated 1983-02-01.
+- United States Department of Energy comes in from **National Nuclear Security Administration** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Semi-autonomous agency within DOE established by Congress in 2000. NNSA describes itself as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
 - United States Department of Energy comes in from **Lawrence Livermore National Laboratory** (institution, board tier B), a funding link at Tier 1 documented. The link reads: DOE weapons laboratory operating under Atomic Energy Act classification authority. Restricted Data classification is statutory rather than executive-order-derived, and is therefore untouched by presidential declassification directives of the kind driving the 2026 PURSUE releases. Sources: CRS Report R44629, https://www.everycrsreport.com/reports/R44629.html, dated 2026-05-15.
 - United States Department of Energy runs out to **Lawrence Livermore National Laboratory** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: DOE/NNSA management and operating contract; Lawrence Livermore. Livermore is an NNSA weapons laboratory operating under DOE classification authority rather than DoD SAP authority. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
-- United States Department of Energy comes in from **National Nuclear Security Administration** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Semi-autonomous agency within DOE established by Congress in 2000. NNSA describes itself as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
-- United States Department of Energy runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier C), a institutional link at Tier 1 documented. The link reads: DOE operating authority over the Nevada National Security Site. The Nevada test complex is DOE/NNSA property operated by contract, with its own protective force and clearance regime, and is named repeatedly in retrieval testimony. Sources: NNSA - About NNSA, https://www.energy.gov/nnsa/about-nnsa, dated 2026-08-12.
 - United States Department of Energy comes in from **Stony Brook University** (institution, board tier C), a funding link at Tier 1 documented. The link reads: DOE is the contracting agency for both Brookhaven management-and-operating contracts. The Department of Energy is the contracting agency for both Brookhaven management-and-operating contracts, DEAC0298CH10886 and DESC0012704. Sources: USAspending.gov award search API, contracts DEAC0298CH10886 and DESC0012704, https://api.usaspending.gov/api/v2/search/spending_by_award/, dated 2026-09-02.
 
 It carries 21 connections in total on the board.
@@ -413,7 +413,7 @@ Roles the board assigns it: reverse-engineering, research, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 80 of 1082, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 83 of 1094, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -491,7 +491,7 @@ Roles the board assigns it: reverse-engineering, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 129 of 1082, score 54). 12 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 131 of 1094, score 54). 12 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -551,7 +551,7 @@ Roles the board assigns it: reverse-engineering, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 304 of 1082, score 37). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 309 of 1094, score 37). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -630,7 +630,7 @@ Roles the board assigns it: funding, reverse-engineering, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 2 of 1082, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 2 of 1094, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -727,7 +727,7 @@ Roles the board assigns it: research, reverse-engineering, funding, custody, con
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 15 of 1082, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 15 of 1094, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -824,7 +824,7 @@ Roles the board assigns it: research, funding, reverse-engineering, concealment,
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 20 of 1082, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 20 of 1094, score 108). 16 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -925,7 +925,7 @@ Roles the board assigns it: reverse-engineering, custody, concealment, funding, 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 10 of 1082, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 10 of 1094, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1023,7 +1023,7 @@ Roles the board assigns it: reverse-engineering, concealment, oversight, custody
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 65 of 1082, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 67 of 1094, score 72). 10 connections, 3 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1111,7 +1111,7 @@ Roles the board assigns it: disclosure, custody, reverse-engineering.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 51 of 1082, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 51 of 1094, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1210,7 +1210,7 @@ Roles the board assigns it: reverse-engineering, custody, research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 92 of 1082, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.
+Re-graded A on a global pass (rank 93 of 1094, score 64). 11 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D3.
 
 ### The claims on the record
 
@@ -1299,7 +1299,7 @@ Roles the board assigns it: oversight, disclosure, research, reverse-engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 210 of 1082, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 214 of 1094, score 43). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1384,7 +1384,7 @@ Roles the board assigns it: custody, reverse-engineering, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 73 of 1082, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.
+Re-graded A on a global pass (rank 76 of 1094, score 69). 8 connections, 7 of them custody/funding/programmatic. Axes C3/A1/D2.
 
 ### The claims on the record
 
@@ -1470,7 +1470,7 @@ Roles the board assigns it: reverse-engineering, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 9 of 1082, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 9 of 1094, score 122). 41 connections, 38 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

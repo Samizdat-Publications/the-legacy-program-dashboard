@@ -1,6 +1,6 @@
 # The disclosure band
 
-The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the disclosure band: 6 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 142 nodes closest to the alleged programme into seven bands, and this file is the disclosure band: 6 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 # THROUGH 1969: Estimate through Blue Book
 
@@ -42,7 +42,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 249 of 1082, score 40). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 254 of 1094, score 40). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -93,7 +93,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 254 of 1082, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 259 of 1094, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -140,7 +140,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 180 of 1082, score 46). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 183 of 1094, score 46). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -216,7 +216,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 37 of 1082, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 37 of 1094, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -303,7 +303,7 @@ Roles the board assigns it: concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 229 of 1082, score 42). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.
+Re-graded B on a global pass (rank 234 of 1094, score 42). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -385,7 +385,7 @@ Roles the board assigns it: disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 127 of 1082, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 128 of 1094, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.
 
 ### The claims on the record
 

@@ -1,6 +1,6 @@
 # The funding band
 
-The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the funding band: 26 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 142 nodes closest to the alleged programme into seven bands, and this file is the funding band: 26 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -56,7 +56,7 @@ Roles the board assigns it: concealment, funding, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 104 of 1082, score 60). 13 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 105 of 1094, score 60). 13 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -140,7 +140,7 @@ Roles the board assigns it: oversight, disclosure, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 259 of 1082, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 264 of 1094, score 40). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -205,7 +205,7 @@ Roles the board assigns it: research, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 221 of 1082, score 42). 9 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+Re-graded B on a global pass (rank 225 of 1094, score 42). 9 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -277,7 +277,7 @@ Roles the board assigns it: oversight, funding, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 398 of 1082, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 405 of 1094, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -361,7 +361,7 @@ Roles the board assigns it: research, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 134 of 1082, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 137 of 1094, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -429,7 +429,7 @@ Roles the board assigns it: research, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 142 of 1082, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 145 of 1094, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.
 
 ### The claims on the record
 
@@ -488,7 +488,7 @@ Roles the board assigns it: research, funding, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 356 of 1082, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 362 of 1094, score 35). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -556,7 +556,7 @@ Roles the board assigns it: oversight, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 32 of 1082, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
+Re-graded A on a global pass (rank 32 of 1094, score 92). 19 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -655,7 +655,7 @@ Roles the board assigns it: research, custody, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 122 of 1082, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded A on a global pass (rank 123 of 1094, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -744,7 +744,7 @@ Roles the board assigns it: concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 89 of 1082, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 90 of 1094, score 65). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -830,7 +830,7 @@ Roles the board assigns it: concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 22 of 1082, score 104). 13 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 22 of 1094, score 104). 13 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -927,7 +927,7 @@ Roles the board assigns it: concealment, oversight, funding, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 38 of 1082, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 38 of 1094, score 88). 12 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -963,9 +963,9 @@ Re-graded A on a global pass (rank 38 of 1082, score 88). 12 connections, 5 of t
 - Carve-Out Provision (DCSA relief from NISP oversight) runs out to **DoDM 5205.07 Volume 1, DoD SAP Security Manual: General Procedures** (document, board tier A), a custody link at Tier 1 documented. The link reads: Defined verbatim in the SAP Security Manual glossary. 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.' Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 - Carve-Out Provision (DCSA relief from NISP oversight) runs out to **32 CFR Part 117, NISPOM Rule** (legislation, board tier A), a institutional link at Tier 1 documented. The link reads: The carve-out is codified in the NISPOM rule itself. 32 CFR 117.6(b)(3) is the operative regulatory text relieving the Director, DCSA of NISP oversight for a carved-out DoD SAP. Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
 - Carve-Out Provision (DCSA relief from NISP oversight) comes in from **32 CFR Part 117, NISPOM Rule** (legislation, board tier A), a programmatic link at Tier 1 documented. The link reads: 32 CFR 117.6(b) writes the carve-out into regulation. The carve-out is in the codified federal regulation, not only in a DoD manual. 32 CFR 117.6(b)(3), 'Responsibilities': "The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'." The NISPOM Rule was published at 85 FR 83312 on 21 December 2020, so the provision relieving the oversight body has the force of a legislative rule rather than of internal DoD policy. Read from the eCFR renderer API on 22 August 2026. Sources: 32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117, dated 2026-08-22; National Industrial Security Program Operating Manual (NISPOM) final rule, 85 FR 83312, 21 December 2020, https://www.federalregister.gov/documents/2020/12/21/2020-27698/national-industrial-security-program-operating-manual-nispom, dated 2020-12-21.
-- Carve-Out Provision (DCSA relief from NISP oversight) runs out to **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Switches off the only external inspector of a contractor SAP facility. DoDM 5205.07-V1 Enclosure 2 para 2.c enumerates what DSS/DCSA does 'Unless a carve-out provision is approved' - inspections, IS authorisation and CI cross-sharing. Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12; 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
-- Carve-Out Provision (DCSA relief from NISP oversight) runs out to **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier A), a programmatic link at Tier 1 documented. The link reads: relieves DCSA of NISP industrial security oversight for a DoD SAP. The regulation names the office the carve-out acts on. 32 CFR 117.6(b) makes the Director, DCSA responsible for 'security oversight of the NISP as the DoD CSO', and then (b)(3) removes it: "The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'." So the effect is not that oversight passes to another body but that the cognizant security office's oversight function ceases for that programme, on the written approval of one of two named officials. Sources: 32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117, dated 2026-08-22.
 - Carve-Out Provision (DCSA relief from NISP oversight) comes in from **50 U.S.C. 3091a, Congressional Oversight of Controlled Access Programs** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: Congress prohibited moving a capability out of a CAP into a SAP without notice. 50 U.S.C. 3091a(b)(2)(A), added by section 6603 of Public Law 118-159, bars transfer of a capability from a CAP to a special access program until notice is submitted to the appropriate committees and leadership. Sources: 50 U.S.C. 3091a, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim, dated 2026-08-12; Public Law 118-159, FY2025 NDAA incl. Intelligence Authorization Act (govinfo enrolled text), https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm, dated 2024-12-23.
+- Carve-Out Provision (DCSA relief from NISP oversight) runs out to **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Switches off the only external inspector of a contractor SAP facility. DoDM 5205.07-V1 Enclosure 2 para 2.c enumerates what DSS/DCSA does 'Unless a carve-out provision is approved' - inspections, IS authorisation and CI cross-sharing. Sources: DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12; 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12.
+- Carve-Out Provision (DCSA relief from NISP oversight) runs out to **DCSA as DoD Cognizant Security Office under the NISP** (institution, board tier B), a programmatic link at Tier 1 documented. The link reads: relieves DCSA of NISP industrial security oversight for a DoD SAP. The regulation names the office the carve-out acts on. 32 CFR 117.6(b) makes the Director, DCSA responsible for 'security oversight of the NISP as the DoD CSO', and then (b)(3) removes it: "The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'." So the effect is not that oversight passes to another body but that the cognizant security office's oversight function ceases for that programme, on the written approval of one of two named officials. Sources: 32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117, dated 2026-08-22.
 - Carve-Out Provision (DCSA relief from NISP oversight) runs out to **Program structure and organisational mapping** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: the provision that removes a contractor facility from the government's own industrial security oversight. Defined in DoD Directive 5205.07 and DoD Manual 5205.07 Volume 1 as a provision approved by the Secretary or Deputy Secretary of Defense relieving the defence security agency of its National Industrial Security Program oversight responsibilities at a contractor facility. It is the structural seam at which a programme held at a company stops being visible to any government security official outside the programme. Sources: Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18), https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf, dated 2026-05-18; Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09), https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf, dated 2025-08-09.
 - Carve-Out Provision (DCSA relief from NISP oversight) comes in from **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 3 stated inference. The link reads: Contractor custody without government inspection is the carve-out configuration. Grusch has alleged material held at defence contractors; the carve-out is the documented mechanism by which a contractor SAP facility ceases to receive DCSA inspection, IS accreditation and CI cross-sharing. Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12; DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018, https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf, dated 2018-02-12.
 - Carve-Out Provision (DCSA relief from NISP oversight) runs out to **DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)** (document, board tier A), a denial link at Tier 3 stated inference. The link reads: Still cited by regulation, no longer defined by the directive it cites. 32 CFR 117.6(b)(3) conditions the carve-out on approval 'in accordance with DoDD 5205.07', but the 12 September 2024 reissue of that directive contains no definition of carve-out. Sources: 32 CFR 117.6 (eCFR, current), https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6, dated 2026-08-12; DoD Directive 5205.07, 12 September 2024, https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf, dated 2024-09-12.
@@ -1016,7 +1016,7 @@ Roles the board assigns it: research, concealment, funding, oversight, disclosur
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 71 of 1082, score 70). 11 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 74 of 1094, score 70). 11 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -1059,8 +1059,8 @@ A further 3 claims sit on this node on the board and are not reproduced here.
 - STAR GATE and predecessor remote viewing programs, 1970-1995 comes in from **James R. Clapper Jr.** (person, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Clapper led the programme in the 1990s before becoming DNI. Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence. Sources: Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12.
 - STAR GATE and predecessor remote viewing programs, 1970-1995 comes in from **Russell Targ** (person, board tier C), a research link at Tier 2 named person on the record. The link reads: Targ co-founded the SRI remote viewing research. Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price. Sources: Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12.
 - STAR GATE and predecessor remote viewing programs, 1970-1995 runs out to **SRI International, Menlo Park, California** (location, board tier C), a geographic link at Tier 2 named person on the record. The link reads: The research was conducted at Menlo Park, California. SRI International, founded 1946 by Stanford trustees and separated from the university in 1970, hosted the work at Menlo Park. Sources: Wikipedia - SRI International, https://en.wikipedia.org/wiki/SRI_International, dated 2026-08-12.
-- STAR GATE and predecessor remote viewing programs, 1970-1995 runs out to **Christopher C. 'Kit' Green** (person, board tier A), a institutional link at Tier 3 stated inference. The link reads: Green ran the CIA analytic side of the anomalous-phenomena portfolio. Green's CIA Life Sciences work on anomalous phenomena is the analytic counterpart to the SRI research, and his later Wayne State position carried the biomedical line into NIDS/BAASS and the modern Stanford circle. Reasoning: continuity of documented affiliations, not of a single programme. Sources: Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12.
 - STAR GATE and predecessor remote viewing programs, 1970-1995 comes in from **Groom Lake, Nevada** (location, board tier A), a temporal link at Tier 3 stated inference. The link reads: Both are demonstrations of decades-long concealment ending in bulk declassification. Groom Lake ran 58 years to specific acknowledgement via FOIA; STAR GATE ran 25 years to bulk CREST publication in 2017. Reasoning: structural comparison of two documented concealment lifecycles. Sources: Wikipedia - Area 51, https://en.wikipedia.org/wiki/Area_51, dated 2026-08-12; Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12.
+- STAR GATE and predecessor remote viewing programs, 1970-1995 runs out to **Christopher C. 'Kit' Green** (person, board tier A), a institutional link at Tier 3 stated inference. The link reads: Green ran the CIA analytic side of the anomalous-phenomena portfolio. Green's CIA Life Sciences work on anomalous phenomena is the analytic counterpart to the SRI research, and his later Wayne State position carried the biomedical line into NIDS/BAASS and the modern Stanford circle. Reasoning: continuity of documented affiliations, not of a single programme. Sources: Wikipedia - Stargate Project (U.S. Army unit), https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit), dated 2026-08-12.
 
 ## The Classified Annex (NDAA and Defense Appropriations)
 
@@ -1112,7 +1112,7 @@ Roles the board assigns it: funding, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 107 of 1082, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 108 of 1094, score 59). 9 connections, 6 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1173,7 +1173,7 @@ Roles the board assigns it: custody, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 378 of 1082, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded B on a global pass (rank 384 of 1094, score 34). 7 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -1183,9 +1183,9 @@ Re-graded B on a global pass (rank 378 of 1082, score 34). 7 connections, 1 of t
 ### Its strongest connections
 
 - Northrop Grumman Corporation comes in from **The MITRE Corporation** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Named among the primes whose MITRE-related work Congress demanded an accounting of. Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos. Sources: DefenseScoop, https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/, dated 2026-05-27.
+- Northrop Grumman Corporation runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier B), a institutional link at Tier 1 documented. The link reads: A Northrop Grumman-led consortium took over Nevada Test Site management in 2006. National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; USAspending.gov federal award search (prime contract obligations by recipient), https://www.usaspending.gov/search, dated 2026-08-12.
 - Northrop Grumman Corporation comes in from **Northrop TACIT BLUE** (program, board tier B), a institutional link at Tier 1 documented. The link reads: Northrop Corp. the airframe contractor. The fact sheet names 'the Northrop Corp.'; the board's existing node is northrop-grumman, the successor entity after the 1994 merger, and the edge is wired to it on that basis. Sources: U.S. Air Force Fact Sheet 'NORTHROP TACIT BLUE', https://nsarchive2.gwu.edu/NSAEBB/NSAEBB443/docs/area51_58.PDF, dated 2026-09-18.
 - Northrop Grumman Corporation comes in from **TRW Inc.** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Merged into a Northrop Grumman subsidiary, 11 December 2002. Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology. Sources: Northrop Grumman Corporation, Form 8-K, event 11 December 2002, https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm, dated 2002-12-20.
-- Northrop Grumman Corporation runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier C), a institutional link at Tier 1 documented. The link reads: A Northrop Grumman-led consortium took over Nevada Test Site management in 2006. National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake. Sources: OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada, https://www.osti.gov/biblio/892135, dated 2006-10-01; USAspending.gov federal award search (prime contract obligations by recipient), https://www.usaspending.gov/search, dated 2026-08-12.
 - Northrop Grumman Corporation comes in from **Eric Burlison** (person, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Named as a target of his records investigation. Same statement of 14-16 May 2026. Sources: The Hill: House Republican requests UFO talk from private contractor, https://thehill.com/homenews/house/5880943-house-gop-ufo-programs-pentagon-private-contractors/, dated 2026-05-16.
 - Northrop Grumman Corporation comes in from **Mark McCandlish** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Named in his own self-stated client list, 2000. Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more. Sources: Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt, dated 2001-04.
 - Northrop Grumman Corporation comes in from **UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)** (document, board tier B), a funding link at Tier 2 named person on the record. The link reads: Alleges IRAD self-funding of a breakaway programme after 9/11. The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this. Sources: UAP Gerb - Northrop Grumman & TRW Vol.2, https://www.youtube.com/watch?v=0kLSp0lH-JQ, dated 2026-03-20.
@@ -1226,7 +1226,7 @@ Roles the board assigns it: research, concealment, custody, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 114 of 1082, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 115 of 1094, score 57). 6 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1302,7 +1302,7 @@ Roles the board assigns it: concealment, funding, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 54 of 1082, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded A on a global pass (rank 56 of 1094, score 75). 7 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1389,7 +1389,7 @@ Roles the board assigns it: funding, concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 173 of 1082, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.
+Re-graded B on a global pass (rank 176 of 1094, score 47). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D2.
 
 ### The claims on the record
 
@@ -1473,7 +1473,7 @@ Roles the board assigns it: research, disclosure, funding.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 465 of 1082, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 472 of 1094, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1557,7 +1557,7 @@ Roles the board assigns it: oversight, disclosure, concealment, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 24 of 1082, score 103). 25 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 24 of 1094, score 103). 25 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1663,7 +1663,7 @@ Roles the board assigns it: disclosure, oversight, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 41 of 1082, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 41 of 1094, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1760,7 +1760,7 @@ Roles the board assigns it: funding, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 270 of 1082, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 274 of 1094, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1833,7 +1833,7 @@ Roles the board assigns it: funding, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 43 of 1082, score 84). 11 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 43 of 1094, score 84). 11 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1915,7 +1915,7 @@ Roles the board assigns it: oversight, concealment, disclosure, funding.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 86 of 1082, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
+Re-graded A on a global pass (rank 87 of 1094, score 66). 9 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -2012,7 +2012,7 @@ Roles the board assigns it: disclosure, concealment, funding, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 149 of 1082, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 152 of 1094, score 51). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -2082,7 +2082,7 @@ Roles the board assigns it: funding, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 146 of 1082, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 149 of 1094, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 

@@ -1,6 +1,6 @@
 # The custody band
 
-The programme map splits the 140 nodes closest to the alleged programme into seven bands, and this file is the custody band: 19 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 142 nodes closest to the alleged programme into seven bands, and this file is the custody band: 19 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -55,7 +55,7 @@ Roles the board assigns it: concealment, custody, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 16 of 1082, score 113). 31 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 16 of 1094, score 113). 31 connections, 11 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -143,7 +143,7 @@ Roles the board assigns it: concealment, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 34 of 1082, score 91). 28 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.
+Re-graded A on a global pass (rank 34 of 1094, score 91). 28 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -226,7 +226,7 @@ Roles the board assigns it: custody, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 124 of 1082, score 55). 9 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 125 of 1094, score 55). 9 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -243,12 +243,12 @@ Re-graded A on a global pass (rank 124 of 1082, score 55). 9 connections, 3 of t
 - Atomic Energy Commission runs out to **United States Department of Energy** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Abolished 1974; functions passed through ERDA to the Department of Energy. The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions. Sources: Energy Reorganization Act of 1974, sec. 104(a), https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf, dated 1974-10-11; Records of the Atomic Energy Commission, Record Group 326, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/326.html, dated 2026-09-02.
 - Atomic Energy Commission runs out to **Groom Lake, Nevada** (location, board tier A), a geographic link at Tier 1 documented. The link reads: Absorbed Groom Lake into its Nevada real estate at CIA request, 1955. The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Atomic Energy Commission runs out to **'Manhattan Project 2.0' (alleged secrecy architecture)** (program, board tier A), a custody link at Tier 1 documented. The link reads: Statutory transfer of the Manhattan Engineer District's holdings. Section 9(a) of the 1946 Act directs the President to transfer to the Commission all fissionable material, all atomic weapons and parts, all processes and technical information, and such other property in the custody or control of the Manhattan Engineer District as he may determine. Sources: Atomic Energy Act of 1946, sec. 9(a), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf, dated 1946-08-01.
+- Atomic Energy Commission runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier B), a geographic link at Tier 1 documented. The link reads: Area 51 was added to the Nevada Test Site by the Commission. The same CIA history states that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site, and DNA 6040F separately locates Groom Lake at the northeast corner of the AEC's Nevada Proving Ground. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 - Atomic Energy Commission comes in from **Armed Forces Special Weapons Project** (institution, board tier B), a funding link at Tier 1 documented. The link reads: Funded by AEC working fund advances; Chief and Deputy sat on the Military Liaison Committee. The charter provides that AFSWP funds other than military pay come by working fund advances to the War Department from the Atomic Energy Commission out of money formerly available to the Manhattan Project, and the founding memorandum places the Chief and Deputy Chief on the Military Liaison Committee to the Commission. Sources: War Department Memorandum No. 850-25-8, para. 6, in Defense's Nuclear Agency 1947-1997, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt, dated 1947-03-18.
 - Atomic Energy Commission comes in from **Atomic Energy Act of 1946 (McMahon Act)** (legislation, board tier B), a legislative link at Tier 1 documented. The link reads: The instrument that created the Commission. Section 2(a) of this Act establishes the Atomic Energy Commission and section 10 gives it the born-secret regime the Commission then ran for twenty-eight years. Sources: Atomic Energy Act of 1946, secs. 2(a) and 10, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf, dated 1946-08-01.
 - Atomic Energy Commission comes in from **Glenn T. Seaborg** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Chairman of the Commission. Named 16 January 1961 and confirmed by the Senate on 24 February 1961 per the CIA's own chronology; in office on Commission letterhead in October 1961 and March 1963. No end date is attested by any record opened here. Sources: CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5, dated 1970-06-01.
 - Atomic Energy Commission comes in from **Lt. Gen. Leslie R. Groves** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Member, Military Liaison Committee to the AEC. He joined the Military Liaison Committee on 31 January 1947, four weeks before taking AFSWP, so the same officer sat on both sides of the military-civil split of the atomic programme. Sources: Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt, dated 2002-01-01.
 - Atomic Energy Commission comes in from **Defense Threat Reduction Agency** (institution, board tier B), a custody link at Tier 1 documented. The link reads: Holds nuclear test participation and radiation exposure records from the Commission's era, under Atomic Energy Act authority. DTRA's published Privacy Act inventory states it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944, with the Atomic Energy Act of 1954 among its authorities. The Commission's own records are held separately by the National Archives as RG 326. Sources: 63 FR 68736, systems HDTRA 010 and HDTRA 020, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records, dated 1998-12-14.
-- Atomic Energy Commission runs out to **Nevada Test Site / Nevada National Security Site** (location, board tier C), a geographic link at Tier 1 documented. The link reads: Area 51 was added to the Nevada Test Site by the Commission. The same CIA history states that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site, and DNA 6040F separately locates Groom Lake at the northeast corner of the AEC's Nevada Proving Ground. Sources: Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt, dated 2013-06-25.
 
 ## Defense Support Program (DSP) missile early warning satellites
 
@@ -277,7 +277,7 @@ Roles the board assigns it: custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 332 of 1082, score 36). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
+Re-graded B on a global pass (rank 338 of 1094, score 36). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.
 
 ### The claims on the record
 
@@ -291,9 +291,9 @@ Re-graded B on a global pass (rank 332 of 1082, score 36). 6 connections, 0 of t
 
 - Defense Support Program (DSP) missile early warning satellites runs out to **United States Air Force** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Flown by the Air Force before the constellation passed to the Space Force. DSP is described by GAO as a Department of Defense strategic surveillance system flown by the Air Force before the constellation passed to the Space Force. Sources: GAO-03-825R, Military Space Operations, 2 June 2003, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm, dated 2003-06-02.
 - Defense Support Program (DSP) missile early warning satellites runs out to **Executive Order 13526, Classified National Security Information** (legislation, board tier A), a legislative link at Tier 1 documented. The link reads: Both refusals rest on the same executive order. Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023. Sources: USNORTHCOM FOIA response letter, case FY14-19NOV2013-07, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf, dated 2013-12-06; Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/, dated 2023-12-22.
+- Defense Support Program (DSP) missile early warning satellites runs out to **The Black Vault** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: Both refusals on this designation are public only because of The Black Vault. Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it. Sources: USNORTHCOM FOIA response letter, case FY14-19NOV2013-07, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf, dated 2013-12-06; Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/, dated 2023-12-22.
 - Defense Support Program (DSP) missile early warning satellites comes in from **Bob Fish** (person, board tier B), a research link at Tier 1 documented. The link reads: Named DSP as a programme collecting hard data on unidentified flying objects. Fish's DSP claim is the source of the popular equation of DSP with UFO tracking, and the same email undercuts it by saying he was never fully briefed into the programme. Sources: WikiLeaks, The Podesta Emails, email id 30433, https://wikileaks.org/podesta-emails/emailid/30433, dated 2015-03-06.
 - Defense Support Program (DSP) missile early warning satellites runs out to **NORAD and US Northern Command** (institution, board tier B), a denial link at Tier 1 documented. The link reads: USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD. USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA. Sources: USNORTHCOM FOIA response letter, case FY14-19NOV2013-07, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf, dated 2013-12-06.
-- Defense Support Program (DSP) missile early warning satellites runs out to **The Black Vault** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: Both refusals on this designation are public only because of The Black Vault. Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it. Sources: USNORTHCOM FOIA response letter, case FY14-19NOV2013-07, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf, dated 2013-12-06; Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/, dated 2023-12-22.
 - Defense Support Program (DSP) missile early warning satellites runs out to **AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors** (document, board tier C), a research link at Tier 2 named person on the record. The link reads: The thesis points at DSP without naming it. The thesis's cited Osedacz database is drawn from ballistic missile early warning satellites in geosynchronous orbit, which is what DSP is; the thesis does not name DSP and no opened government document names it either, so the identification is attributed and not asserted. Sources: GAO-03-825R, Military Space Operations, 2 June 2003, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm, dated 2003-06-02.
 
 # 1970-1999: Post-Blue Book
@@ -345,7 +345,7 @@ Roles the board assigns it: concealment, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 50 of 1082, score 78). 20 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.
+Re-graded A on a global pass (rank 50 of 1094, score 78). 20 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.
 
 ### The claims on the record
 
@@ -387,6 +387,54 @@ Re-graded A on a global pass (rank 50 of 1082, score 78). 20 connections, 4 of t
 - DoD Special Access Program Central Office (DoD SAPCO) comes in from **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Grusch alleges programs were withheld from the reporting mechanism SAPCO administers. Grusch's sworn testimony to House Oversight on 26 July 2023 alleges a multi-decade materials acquisition and exploitation activity concealed from Congress. In statutory terms the allegation is that programs were not reported under 10 U.S.C. 119 or were reported only under the waiver. Sources: CHRG-118hhrg53022, House Oversight UAP hearing transcript, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; 10 U.S.C. 119, Special access programs: congressional oversight, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
 
 It carries 20 connections in total on the board.
+
+## The Black Vault
+
+The Black Vault is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1996; axes C0 A0 D3; 8 connections; in the custody band.
+
+In one line: FOIA document archive founded by John Greenewald Jr., 1996.
+
+### What it is
+
+The private Freedom of Information Act archive run by John Greenewald Jr, through which the large majority of the primary documents in this domain reached the public.
+
+### Why it is implicated
+
+It is an adversarial requester rather than an interested party, which is what gives its releases their evidentiary force, and several of this board's decisive negative findings exist only because it filed and published.
+
+### The longer account
+
+The archive's place on this board is structural: it is the mechanism, not the argument. Two of the records opened in this corpus show why it earns a node rather than a footnote. The first is the 341st Strategic Missile Wing release of 14 June 2001, eighty-seven pages of excerpts from five quarterly wing histories, sent to Greenewald by HQ 341st Space Wing in answer to a request of 9 May 2001. That release is the document the board's Malmstrom node has always named as decisive, and it is the one that states the Air Force's own conclusion and withholds the engineering report behind it. The second is the Defense Intelligence Agency release of 22 August 1996, IR 6 846 0139 76 on the Tehran F-4 intercepts, with DIA's covering letter stating that a search of its systems of records located one document responsive to the subject of the request. Both are cases where what the government holds, and how little of it, is knowable only because somebody outside asked in writing and published the answer with its covering letter attached.
+
+Roles the board assigns it: disclosure, custody.
+
+### Open questions on this node
+
+- Whether the 181-page NARA Operation Northwoods file the archive indexes carries material beyond the fifteen-page JCS memorandum.
+- Which of the archive's outstanding requests in this domain are still pending.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 359 of 1094, score 35). 8 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.
+
+### The claims on the record
+
+- **Tier 1 documented.** A negative FOIA result it records and flags: 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', with the site's own observation that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'. Source: The Black Vault, 'FBI File: Bob Lazar's United Nuclear', https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/, opened 2026-09-18
+- **Tier 1 documented.** DIA's covering letter of 22 August 1996 to John Greenewald, FOIA case U-80,597/PO/FOIA, states that 'A search of DIA's systems of records located one document responsive to the subject of your request', released with only administrative markings withheld. Source: DIA FOIA response U-80,597/PO/FOIA, signed Robert P. Richardson, Chief, FOIA Staff, 22 August 1996, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf
+- **Tier 1 documented.** It is the custody point for three separate parts of the Lazar record: the FBI FOIA releases on United Nuclear Scientific Supplies, pursued from November 2018 and delivered in three releases of 55, 130 and 130 pages; the Laingsburg, Michigan police report on the 19 July 2017 search, obtained by Tim McMillan under a local open-records request; and Stanton Friedman's own 1997 article on Lazar, in the Stanton Friedman Collection. Source: The Black Vault document archive and case files, https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/ and https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/, opened 2026-09-18
+- **Tier 1 documented.** Obtained and published OSD/JS FOIA case 18-F-0324, the DD Form 1910 release, the OUSD(I) messaging emails, and the CCDC FOIA denial regarding the TTSA CRADA correspondence. Source: The Black Vault document archive and case files
+- **Tier 1 documented.** The 14 June 2001 release to John Greenewald Jr by HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), covers excerpts of the 341st Strategic Missile Wing histories for five quarters and runs to eighty-seven pages. Source: Department of the Air Force, HQ 341st Space Wing, FOIA response to John Greenewald Jr, 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf
+
+### Its strongest connections
+
+- The Black Vault runs out to **Robert "Bob" Lazar** (person, board tier A), a custody link at Tier 1 documented. The link reads: Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article. GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file. Sources: The Black Vault, 'FBI File: Bob Lazar's United Nuclear', https://www.theblackvault.com/documentarchive/fbi-file-bob-lazars-united-nuclear/, dated 2023-11.
+- The Black Vault comes in from **John Greenewald Jr.** (person, board tier A), a institutional link at Tier 1 documented. The link reads: Founder and operator of the archive that produced the primary record. Nearly every document in this domain arrived through his requests. Sources: The Black Vault case file, https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/, dated 2026-08-12.
+- The Black Vault comes in from **Defense Support Program (DSP) missile early warning satellites** (program, board tier B), a investigative link at Tier 1 documented. The link reads: Both refusals on this designation are public only because of The Black Vault. Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it. Sources: USNORTHCOM FOIA response letter, case FY14-19NOV2013-07, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf, dated 2013-12-06; Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/, dated 2023-12-22.
+- The Black Vault comes in from **341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)** (document, board tier B), a custody link at Tier 1 documented. The link reads: Host of the released scan. The Black Vault is the host of the released scan. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
+- The Black Vault comes in from **Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976** (event, board tier B), a custody link at Tier 1 documented. The link reads: Host of the released report and its covering letter. The Black Vault hosts the released document and its covering letter. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
+- The Black Vault runs out to **Los Angeles and Burbank, California** (location, board tier B), a investigative link at Tier 1 documented. The link reads: The Black Vault runs the private FOIA archive from Los Angeles. John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record. Sources: The Black Vault - Army/TTSA CRADA and FOIA records, https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/, dated 2019-10-18; CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF), https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, dated 2026-08-25.
+- The Black Vault comes in from **Operação Prato (Operation Saucer)** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: The American reporter's Prato dossier sits in Greenewald's archive. A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
+- The Black Vault comes in from **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Hollanda's account to an American reporter is preserved in the Pratt file. Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain. Sources: Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
 
 ## 1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)
 
@@ -440,7 +488,7 @@ Roles the board assigns it: concealment, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 153 of 1082, score 50). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 156 of 1094, score 50). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -480,51 +528,6 @@ Re-graded A on a global pass (rank 153 of 1082, score 50). 7 connections, 0 of t
 - 1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot) runs out to **Malmstrom AFB and Minuteman Missile Fields, Montana** (location, board tier C), a institutional link at Tier 1 documented. The link reads: Malmstrom AFB and its Minuteman fields were among the installations overflown. DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom in November 1975. Sources: Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677), https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/, dated 2021-11-08.
 - 1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot) runs out to **Computer UFO Network (CUFON)** (institution, board tier C), a investigative link at Tier 2 named person on the record. The link reads: 1975 NORAD and command-post message traffic circulated by CUFON. CUFON published the FOIA-released NORAD and SAC command-post records that transformed the 1975 incidents from anecdote into documents. Sources: Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677), https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/, dated 2021-11-08; UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records, https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/, dated 2016-09-10.
 
-## The Black Vault
-
-The Black Vault is a institution on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 1996; axes C0 A0 D3; 7 connections; in the custody band.
-
-In one line: FOIA document archive founded by John Greenewald Jr., 1996.
-
-### What it is
-
-The private Freedom of Information Act archive run by John Greenewald Jr, through which the large majority of the primary documents in this domain reached the public.
-
-### Why it is implicated
-
-It is an adversarial requester rather than an interested party, which is what gives its releases their evidentiary force, and several of this board's decisive negative findings exist only because it filed and published.
-
-### The longer account
-
-The archive's place on this board is structural: it is the mechanism, not the argument. Two of the records opened in this corpus show why it earns a node rather than a footnote. The first is the 341st Strategic Missile Wing release of 14 June 2001, eighty-seven pages of excerpts from five quarterly wing histories, sent to Greenewald by HQ 341st Space Wing in answer to a request of 9 May 2001. That release is the document the board's Malmstrom node has always named as decisive, and it is the one that states the Air Force's own conclusion and withholds the engineering report behind it. The second is the Defense Intelligence Agency release of 22 August 1996, IR 6 846 0139 76 on the Tehran F-4 intercepts, with DIA's covering letter stating that a search of its systems of records located one document responsive to the subject of the request. Both are cases where what the government holds, and how little of it, is knowable only because somebody outside asked in writing and published the answer with its covering letter attached.
-
-Roles the board assigns it: disclosure, custody.
-
-### Open questions on this node
-
-- Whether the 181-page NARA Operation Northwoods file the archive indexes carries material beyond the fifteen-page JCS memorandum.
-- Which of the archive's outstanding requests in this domain are still pending.
-
-### Why it holds its tier
-
-Re-graded C on a global pass (rank 642 of 1082, score 25). 7 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
-
-### The claims on the record
-
-- **Tier 1 documented.** DIA's covering letter of 22 August 1996 to John Greenewald, FOIA case U-80,597/PO/FOIA, states that 'A search of DIA's systems of records located one document responsive to the subject of your request', released with only administrative markings withheld. Source: DIA FOIA response U-80,597/PO/FOIA, signed Robert P. Richardson, Chief, FOIA Staff, 22 August 1996, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf
-- **Tier 1 documented.** Obtained and published OSD/JS FOIA case 18-F-0324, the DD Form 1910 release, the OUSD(I) messaging emails, and the CCDC FOIA denial regarding the TTSA CRADA correspondence. Source: The Black Vault document archive and case files
-- **Tier 1 documented.** The 14 June 2001 release to John Greenewald Jr by HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), covers excerpts of the 341st Strategic Missile Wing histories for five quarters and runs to eighty-seven pages. Source: Department of the Air Force, HQ 341st Space Wing, FOIA response to John Greenewald Jr, 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf
-
-### Its strongest connections
-
-- The Black Vault comes in from **John Greenewald Jr.** (person, board tier A), a institutional link at Tier 1 documented. The link reads: Founder and operator of the archive that produced the primary record. Nearly every document in this domain arrived through his requests. Sources: The Black Vault case file, https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/, dated 2026-08-12.
-- The Black Vault comes in from **Defense Support Program (DSP) missile early warning satellites** (program, board tier B), a investigative link at Tier 1 documented. The link reads: Both refusals on this designation are public only because of The Black Vault. Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it. Sources: USNORTHCOM FOIA response letter, case FY14-19NOV2013-07, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf, dated 2013-12-06; Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/, dated 2023-12-22.
-- The Black Vault comes in from **341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)** (document, board tier B), a custody link at Tier 1 documented. The link reads: Host of the released scan. The Black Vault is the host of the released scan. Sources: Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf, dated 2001-06-14.
-- The Black Vault comes in from **Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976** (event, board tier B), a custody link at Tier 1 documented. The link reads: Host of the released report and its covering letter. The Black Vault hosts the released document and its covering letter. Sources: DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf, dated 1976-09-23.
-- The Black Vault runs out to **Los Angeles and Burbank, California** (location, board tier B), a investigative link at Tier 1 documented. The link reads: The Black Vault runs the private FOIA archive from Los Angeles. John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record. Sources: The Black Vault - Army/TTSA CRADA and FOIA records, https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/, dated 2019-10-18; CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF), https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf, dated 2026-08-25.
-- The Black Vault comes in from **Operação Prato (Operation Saucer)** (program, board tier A), a custody link at Tier 2 named person on the record. The link reads: The American reporter's Prato dossier sits in Greenewald's archive. A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper. Sources: Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
-- The Black Vault comes in from **Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Hollanda's account to an American reporter is preserved in the Pratt file. Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain. Sources: Keith Basterfield, 'Investigative adventures in Brazil', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025, https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html; Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault, https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf; Operação Prato - Wikipedia, https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato, dated 2026-01-01.
-
 ## MJ-12 / Operation Majestic-12 Documents
 
 MJ-12 / Operation Majestic-12 Documents is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1984 to 1990; axes C1 A1 D2; 6 connections; in the custody band.
@@ -561,7 +564,7 @@ Roles the board assigns it: concealment, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 255 of 1082, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 260 of 1094, score 40). 6 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -631,7 +634,7 @@ Roles the board assigns it: concealment, disclosure, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 93 of 1082, score 64). 21 connections, 5 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 94 of 1094, score 64). 21 connections, 5 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -723,7 +726,7 @@ Roles the board assigns it: concealment, custody, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 453 of 1082, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 459 of 1094, score 31). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -821,7 +824,7 @@ Roles the board assigns it: concealment, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 187 of 1082, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 191 of 1094, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -881,7 +884,7 @@ Roles the board assigns it: disclosure, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 224 of 1082, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
+Re-graded B on a global pass (rank 228 of 1094, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.
 
 ### The claims on the record
 
@@ -950,7 +953,7 @@ Roles the board assigns it: concealment, oversight, custody, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 3 of 1082, score 164). 64 connections, 6 of them custody/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 3 of 1094, score 164). 64 connections, 6 of them custody/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1053,7 +1056,7 @@ Roles the board assigns it: disclosure, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 4 of 1082, score 161). 47 connections, 11 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 4 of 1094, score 161). 47 connections, 11 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1156,7 +1159,7 @@ Roles the board assigns it: oversight, disclosure, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 8 of 1082, score 134). 26 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 8 of 1094, score 134). 26 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1255,7 +1258,7 @@ Roles the board assigns it: disclosure, custody, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 36 of 1082, score 90). 13 connections, 2 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 36 of 1094, score 90). 13 connections, 2 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1368,7 +1371,7 @@ Roles the board assigns it: custody, disclosure, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 75 of 1082, score 69). 9 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 78 of 1094, score 69). 9 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1461,7 +1464,7 @@ Roles the board assigns it: disclosure, oversight, custody.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 237 of 1082, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 243 of 1094, score 41). 9 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1549,7 +1552,7 @@ Roles the board assigns it: disclosure, oversight, custody, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 63 of 1082, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 65 of 1094, score 73). 10 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 

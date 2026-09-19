@@ -94,7 +94,7 @@
 "direction": "out",
 "edgeLabel": "Held at Los Alamos; LANL's National Security Research Center holds the minutes",
 "id": "lanl",
-"l0": false,
+"l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account.",
 "sources": [
@@ -177,7 +177,7 @@
 ],
 "sub": "16 February 1949, Los Alamos Scientific Laboratory, New Mexico",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 392 of 1082, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 398 of 1094, score 33). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "date": "1949-02-16",
