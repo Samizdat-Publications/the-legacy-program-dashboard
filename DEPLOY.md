@@ -66,7 +66,7 @@ build gets looked at before production.
 ## 0. Get the latest
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program"
 git checkout master
 git pull origin master
 ```
@@ -78,7 +78,7 @@ repo's `dist/`.** First, in PowerShell, confirm the app's data is in step with t
 research it is derived from:
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program"
 python tools\build_app_data.py --check
 ```
 
@@ -190,7 +190,7 @@ what makes the whole scheme possible.
 worker that does not exist yet.
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program\worker"
+cd "C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program\worker"
 npm install
 npx wrangler deploy
 npx wrangler secret put ANTHROPIC_API_KEY
@@ -208,7 +208,7 @@ the-program -> Settings -> Functions, or simply add a route on the worker for
 Check it:
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program"
 curl https://<your-domain>/api/analyst/health
 ```
 

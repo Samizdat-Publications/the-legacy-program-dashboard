@@ -14,7 +14,7 @@
  * indistinguishable from a broken one. So every case here that must be ACCEPTED
  * is paired with one that must be REFUSED, and the refusals are the point.
  *
- *   cd "C:\\Users\\stewa\\OneDrive\\Documents\\Claude\\Projects\\Missing individuals connected to defense contractors\\the-program\\worker"
+ *   cd "C:\\Users\\stewa\\ClaudeProjects\\Missing individuals connected to defense contractors\\the-program\\worker"
  *   node test/validate.mjs
  *
  * It runs the TypeScript through esbuild, which wrangler already depends on, so

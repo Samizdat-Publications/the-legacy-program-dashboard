@@ -14,8 +14,32 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-09-18.md` first. **It is the
-current one.** It records three things: Stewart's widened mandate (research and tier
+> **24 SEPTEMBER 2026: THE REDESIGN. READ THIS BLOCK FIRST.**
+>
+> The board is being rebuilt from a graph into an **atlas of topics**, in which every link explains
+> itself. Read these three files first:
+>
+> - the decision and its reasons: `notes/REDESIGN-2026-09-24.md`;
+> - the work, phase by phase, with the model and effort to use: `notes/PLAN-2026-09-24.md`;
+> - where the repo stands now: **`notes/STATE.md`**.
+>
+> **Do the next phase that `notes/STATE.md` names, and only that phase.** Follow the protocol in the
+> plan's "How to run a phase".
+>
+> Everything below this block predates the redesign. It is still the authority on:
+>
+> - the rules: sections 2, 2a, 5 and 6;
+> - the build and the checks: section 3;
+> - the working agreements: section 4.
+>
+> Its handoff pointers are history. Phase 2 of the plan cuts this file to 20 KB or less and moves the
+> history into `notes/HISTORY-TO-2026-09-24.md`.
+>
+> The working copy is `C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense
+> contractors\the-program`. The OneDrive copy is dead cloud placeholders; never work there.
+
+**Starting a fresh session before the redesign?** (History; superseded by the block above.) Read
+`notes/HANDOFF-2026-09-18.md` first. **It was the current one.** It records three things: Stewart's widened mandate (research and tier
 decisions are the session's to make); the tier-scope decision, built on branch
 `tier-scope-b` and waiting only on his yes for the push; and **the canon pass**, his
 priority: 149 figures, places and events an informed reader would expect are not on the
@@ -385,7 +409,7 @@ This section applies only to commands written **for Stewart to paste**. He runs
   cost a session: `npx wrangler secret put` run from `C:\Users\stewa`, no config in
   scope, nothing to attach a secret to, and the error message named none of that.
   ```
-  cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+  cd "C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program"
   python tools\verify.py
   ```
 - The interpreter may be `python`, not `python3`. Check once, then be consistent.
@@ -651,7 +675,7 @@ surface" includes markup, not just copy.
 >
 > **Stewart still has to run this**, or the analyst answers nothing:
 > ```
-> cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program\worker"
+> cd "C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program\worker"
 > npx wrangler deploy
 > ```
 

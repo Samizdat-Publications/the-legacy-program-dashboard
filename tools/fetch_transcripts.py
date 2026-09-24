@@ -27,10 +27,10 @@ quote to cite. CLAUDE.md section 2 has no exception for "the transcript said so"
 
 USAGE (PowerShell 5.1, one command per line, `&&` is a syntax error):
 
-    cd "C:\\Users\\stewa\\OneDrive\\Documents\\Claude\\Projects\\Missing individuals connected to defense contractors\\the-program"
+    cd "C:\\Users\\stewa\\ClaudeProjects\\Missing individuals connected to defense contractors\\the-program"
     pip install youtube-transcript-api
 
-    cd "C:\\Users\\stewa\\OneDrive\\Documents\\Claude\\Projects\\Missing individuals connected to defense contractors\\the-program"
+    cd "C:\\Users\\stewa\\ClaudeProjects\\Missing individuals connected to defense contractors\\the-program"
     python tools\\fetch_transcripts.py --feed https://feeds.megaphone.fm/jessemichels
 
 Then commit nothing and tell the session it is done; the cache is read from disk.

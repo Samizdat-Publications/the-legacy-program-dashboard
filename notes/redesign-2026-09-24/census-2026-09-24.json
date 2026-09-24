@@ -1,0 +1,8650 @@
+{
+ "_what": "Census of the-program data model, measured 2026-09-24 against master 838c134 (board generated 2026-09-19). headline = census.py; detail = census.py tables; latent = latent.py; extras = extras.py. Keys ending _INFERRED or marked heuristic are heuristics, everything else is a direct count. Em dashes quoted from repo data are replaced by ' - ' in these outputs.",
+ "headline": {
+  "generated": "2026-09-19",
+  "counts": {
+   "people": 338,
+   "entities": 798,
+   "nodes": 1136,
+   "edges": 2685,
+   "timeline": 1059,
+   "entityInfo": 88
+  },
+  "nodes_by_cls": {
+   "person": 338,
+   "document": 237,
+   "institution": 196,
+   "event": 87,
+   "program": 82,
+   "location": 73,
+   "legislation": 64,
+   "domain": 59
+  },
+  "tier_by_cls": {
+   "person": {
+    "A": 34,
+    "B": 104,
+    "C": 200
+   },
+   "document": {
+    "A": 30,
+    "C": 93,
+    "B": 114
+   },
+   "institution": {
+    "A": 41,
+    "B": 60,
+    "C": 95
+   },
+   "program": {
+    "B": 32,
+    "A": 22,
+    "C": 28
+   },
+   "legislation": {
+    "A": 16,
+    "B": 19,
+    "C": 29
+   },
+   "event": {
+    "C": 44,
+    "A": 14,
+    "B": 29
+   },
+   "domain": {
+    "A": 8,
+    "B": 27,
+    "C": 24
+   },
+   "location": {
+    "A": 4,
+    "C": 56,
+    "B": 13
+   }
+  },
+  "tier_total": {
+   "A": 169,
+   "B": 398,
+   "C": 569
+  },
+  "cluster_by_cls": {
+   "person": {
+    "research": 98,
+    "oversight": 75,
+    "witness": 51,
+    "ic": 42,
+    "media": 27,
+    "legacy": 21,
+    "other": 9,
+    "ffrdc": 8,
+    "contractor": 7
+   },
+   "document": {
+    "other": 57,
+    "oversight": 53,
+    "research": 33,
+    "ic": 30,
+    "legacy": 25,
+    "witness": 21,
+    "media": 15,
+    "contractor": 3
+   },
+   "institution": {
+    "oversight": 46,
+    "research": 35,
+    "ic": 34,
+    "contractor": 26,
+    "legacy": 17,
+    "media": 16,
+    "ffrdc": 13,
+    "witness": 6,
+    "other": 3
+   },
+   "program": {
+    "legacy": 22,
+    "ic": 20,
+    "oversight": 13,
+    "research": 11,
+    "witness": 4,
+    "contractor": 3,
+    "other": 3,
+    "ffrdc": 3,
+    "media": 3
+   },
+   "legislation": {
+    "oversight": 48,
+    "other": 8,
+    "ic": 7,
+    "contractor": 1
+   },
+   "event": {
+    "oversight": 32,
+    "witness": 26,
+    "legacy": 11,
+    "other": 9,
+    "research": 4,
+    "ic": 2,
+    "media": 2,
+    "contractor": 1
+   },
+   "domain": {
+    "research": 16,
+    "ic": 12,
+    "oversight": 9,
+    "legacy": 7,
+    "contractor": 7,
+    "media": 3,
+    "witness": 2,
+    "ffrdc": 2,
+    "other": 1
+   },
+   "location": {
+    "legacy": 18,
+    "other": 13,
+    "contractor": 10,
+    "research": 9,
+    "witness": 8,
+    "ic": 5,
+    "ffrdc": 5,
+    "media": 3,
+    "oversight": 2
+   }
+  },
+  "cluster_total": {
+   "oversight": 278,
+   "research": 206,
+   "ic": 152,
+   "legacy": 121,
+   "witness": 118,
+   "other": 103,
+   "media": 69,
+   "contractor": 58,
+   "ffrdc": 31
+  },
+  "person_status": {
+   "active": 198,
+   "dead": 70,
+   "former": 46,
+   "alive": 10,
+   "unknown": 7,
+   "deceased": 4,
+   "missing": 1,
+   "fabricated": 1,
+   "resolved": 1
+  },
+  "axes": {
+   "C": {
+    "person": {
+     "0": 176,
+     "1": 88,
+     "2": 57,
+     "3": 17
+    },
+    "document": {
+     "0": 116,
+     "1": 80,
+     "2": 33,
+     "3": 8
+    },
+    "institution": {
+     "0": 83,
+     "1": 50,
+     "2": 41,
+     "3": 22
+    },
+    "program": {
+     "0": 29,
+     "1": 25,
+     "2": 15,
+     "3": 13
+    },
+    "legislation": {
+     "0": 39,
+     "1": 13,
+     "2": 10,
+     "3": 2
+    },
+    "event": {
+     "0": 36,
+     "1": 29,
+     "2": 18,
+     "3": 4
+    },
+    "domain": {
+     "0": 17,
+     "1": 17,
+     "2": 16,
+     "3": 9
+    },
+    "location": {
+     "0": 17,
+     "1": 29,
+     "2": 21,
+     "3": 6
+    }
+   },
+   "A": {
+    "person": {
+     "0": 80,
+     "1": 115,
+     "2": 64,
+     "3": 79
+    },
+    "document": {
+     "0": 85,
+     "1": 45,
+     "2": 56,
+     "3": 51
+    },
+    "institution": {
+     "0": 49,
+     "1": 43,
+     "2": 34,
+     "3": 70
+    },
+    "program": {
+     "0": 14,
+     "1": 14,
+     "2": 26,
+     "3": 28
+    },
+    "legislation": {
+     "0": 16,
+     "1": 7,
+     "2": 19,
+     "3": 22
+    },
+    "event": {
+     "0": 22,
+     "1": 27,
+     "2": 27,
+     "3": 11
+    },
+    "domain": {
+     "0": 7,
+     "1": 10,
+     "2": 20,
+     "3": 22
+    },
+    "location": {
+     "0": 17,
+     "1": 19,
+     "2": 23,
+     "3": 14
+    }
+   },
+   "D": {
+    "person": {
+     "0": 50,
+     "1": 69,
+     "2": 108,
+     "3": 111
+    },
+    "document": {
+     "0": 50,
+     "1": 20,
+     "2": 67,
+     "3": 100
+    },
+    "institution": {
+     "0": 42,
+     "1": 52,
+     "2": 47,
+     "3": 55
+    },
+    "program": {
+     "0": 6,
+     "1": 16,
+     "2": 30,
+     "3": 30
+    },
+    "legislation": {
+     "0": 9,
+     "1": 8,
+     "2": 20,
+     "3": 27
+    },
+    "event": {
+     "0": 3,
+     "1": 8,
+     "2": 29,
+     "3": 47
+    },
+    "domain": {
+     "1": 16,
+     "2": 25,
+     "3": 18
+    },
+    "location": {
+     "0": 7,
+     "1": 20,
+     "2": 32,
+     "3": 14
+    }
+   }
+  },
+  "axes_all_zero": 72,
+  "sub": {
+   "people_distinct": 338,
+   "people_null_or_empty": 0,
+   "people_shared_by_2plus": 0,
+   "entities_distinct": 718,
+   "entities_null_or_empty": 0,
+   "entities_shared_by_2plus_values": 19,
+   "entities_nodes_in_shared_values": 99,
+   "entities_slug_like_nodes": 98,
+   "entities_slug_like_distinct": 25,
+   "people_slug_like_nodes": 0,
+   "sub_len_entities": {
+    "n": 798,
+    "min": 6,
+    "p25": 44,
+    "median": 69.0,
+    "mean": 74.07,
+    "p75": 95,
+    "p90": 125,
+    "max": 286,
+    "zeros": 0
+   },
+   "sub_len_people": {
+    "n": 338,
+    "min": 24,
+    "p25": 68,
+    "median": 87.0,
+    "mean": 97.36,
+    "p75": 119,
+    "p90": 167,
+    "max": 240,
+    "zeros": 0
+   }
+  },
+  "dates": {
+   "people_date_precision": {
+    "day": 307,
+    "year": 9,
+    "month": 1,
+    "null": 20,
+    "other:1990s": 1
+   },
+   "entities_dateStart_precision": {
+    "year": 429,
+    "null": 100,
+    "day": 240,
+    "month": 27,
+    "other:1960s": 1,
+    "other:1950s": 1
+   },
+   "entities_dateEnd_precision": {
+    "year": 185,
+    "null": 508,
+    "day": 88,
+    "month": 17
+   },
+   "nodes_with_any_date": 1017,
+   "entities_with_range": 289,
+   "entities_by_cls_with_dateStart": {
+    "document": [
+     198,
+     237
+    ],
+    "institution": [
+     171,
+     196
+    ],
+    "program": [
+     82,
+     82
+    ],
+    "legislation": [
+     55,
+     64
+    ],
+    "event": [
+     86,
+     87
+    ],
+    "domain": [
+     59,
+     59
+    ],
+    "location": [
+     47,
+     73
+    ]
+   },
+   "people_with_chronology": 243,
+   "chronology_entries": 1316,
+   "people_with_sequenceChain": 10,
+   "sequenceChain_entries": 48,
+   "sequenceChain_keys": {
+    "date": 48,
+    "event": 48,
+    "isAnomalous": 48,
+    "source": 48
+   },
+   "sequenceChain_nondict": 0,
+   "sequenceChain_isAnomalous_true": 7
+  },
+  "era_nodes": {
+   "nd": 120,
+   "1": 208,
+   "3": 385,
+   "2": 160,
+   "0": 263
+  },
+  "era_nodes_by_cls": {
+   "person": {
+    "3": 166,
+    "0": 54,
+    "1": 38,
+    "2": 60,
+    "nd": 20
+   },
+   "document": {
+    "3": 87,
+    "2": 45,
+    "nd": 39,
+    "0": 23,
+    "1": 43
+   },
+   "institution": {
+    "nd": 25,
+    "1": 47,
+    "3": 31,
+    "0": 70,
+    "2": 23
+   },
+   "program": {
+    "3": 21,
+    "2": 11,
+    "1": 28,
+    "0": 22
+   },
+   "legislation": {
+    "0": 6,
+    "3": 29,
+    "2": 4,
+    "1": 16,
+    "nd": 9
+   },
+   "event": {
+    "3": 41,
+    "0": 17,
+    "1": 18,
+    "2": 10,
+    "nd": 1
+   },
+   "domain": {
+    "0": 39,
+    "2": 5,
+    "1": 10,
+    "3": 5
+   },
+   "location": {
+    "1": 8,
+    "0": 32,
+    "nd": 26,
+    "3": 5,
+    "2": 2
+   }
+  },
+  "decade_nodes": {
+   "1780": 2,
+   "1830": 1,
+   "1850": 1,
+   "1880": 1,
+   "1910": 3,
+   "1920": 5,
+   "1930": 5,
+   "1940": 99,
+   "1950": 86,
+   "1960": 60,
+   "1970": 48,
+   "1980": 72,
+   "1990": 88,
+   "2000": 90,
+   "2010": 130,
+   "2020": 325,
+   "nd": 120
+  },
+  "places": {
+   "people_loc_string": 271,
+   "people_locId": 207,
+   "people_locId_resolves_to_location_cls": 207,
+   "people_locId_distinct": 56,
+   "people_loc_distinct_strings": 125,
+   "people_instId": 227,
+   "people_instId_distinct": 102,
+   "people_instId_cls": {
+    "institution": 211,
+    "program": 15,
+    "document": 1
+   },
+   "entities_coords": 45,
+   "entities_coords_by_cls": {
+    "location": 45
+   },
+   "entities_locLabel": 45,
+   "location_cls_nodes": 73,
+   "location_nodes_with_coords": 45,
+   "nodes_adjacent_to_a_location_node": 150,
+   "nodes_with_any_place_signal": 452
+  },
+  "people_domains_field": {
+   "people_with_domains": 264,
+   "refs": 694,
+   "distinct": 46,
+   "resolve_to_domain_cls": 694,
+   "resolve_to_other_cls": 0,
+   "dangling": 0
+  },
+  "text": {
+   "people_narrative_len": {
+    "n": 338,
+    "min": 462,
+    "p25": 1066,
+    "median": 1293.5,
+    "mean": 1339.36,
+    "p75": 1588,
+    "p90": 1892,
+    "max": 3430,
+    "zeros": 0
+   },
+   "entities_desc_len": {
+    "n": 798,
+    "min": 96,
+    "p25": 972,
+    "median": 1248.0,
+    "mean": 1282.74,
+    "p75": 1513,
+    "p90": 1895,
+    "max": 6709,
+    "zeros": 0
+   },
+   "entities_desc_under_200": 5,
+   "tierRationale_machine_regraded": 1136,
+   "tierRationale_other": 0,
+   "people_affiliations": 243,
+   "affiliation_entries": 875,
+   "people_conflicts": 102,
+   "conflict_entries": 136,
+   "people_unverified": 213,
+   "unverified_entries": 745,
+   "people_unverified_as_string": 4,
+   "people_unexplainedResidual": 33,
+   "people_photoCredit": 0,
+   "people_age": 17
+  },
+  "dossiers": {
+   "count": 153,
+   "on_board": 149,
+   "by_cls": {
+    "institution": 57,
+    "document": 36,
+    "program": 28,
+    "event": 17,
+    "legislation": 11
+   },
+   "dossier_claims": 1797,
+   "dossier_claim_tiers": {
+    "1": 1319,
+    "2": 398,
+    "3": 80
+   },
+   "openQuestions": 805,
+   "with_denialPosture": 119,
+   "with_connections_prose": 98,
+   "roles": {
+    "concealment": 104,
+    "disclosure": 96,
+    "oversight": 78,
+    "research": 68,
+    "custody": 66,
+    "funding": 36,
+    "reverse-engineering": 20,
+    "retrieval": 11
+   },
+   "roles_per_node": {
+    "3": 59,
+    "4": 45,
+    "2": 35,
+    "1": 5,
+    "6": 2,
+    "5": 7
+   },
+   "dossier_nodes_on_L0": 135
+  },
+  "entityInfo": {
+   "keys": 88,
+   "keys_on_board": 68,
+   "keys_not_nodes": [
+    "_note",
+    "_rs-sap-docs",
+    "_taxonomy_scope",
+    "cia-haines-1997",
+    "counts",
+    "dird-collection",
+    "dod-sapco-arch",
+    "domain",
+    "how-money-reaches-an-invisible-program",
+    "methodNote",
+    "ndaa-fy2024-sec1687",
+    "scope",
+    "sffas-56-what-it-actually-permits",
+    "the-21-trillion-stated-precisely",
+    "the-classified-programs-arithmetic",
+    "the-named-mechanism",
+    "thesis",
+    "throughLine",
+    "title",
+    "why-the-failed-audit-is-evidence"
+   ]
+  },
+  "provenance_files_per_node": {
+   "n": 1136,
+   "min": 1,
+   "p25": 1,
+   "median": 1.0,
+   "mean": 1.63,
+   "p75": 2,
+   "p90": 3,
+   "max": 10,
+   "zeros": 0
+  },
+  "edges_by_type": {
+   "institutional": 720,
+   "programmatic": 324,
+   "investigative": 302,
+   "denial": 219,
+   "legislative": 215,
+   "witness-chain": 204,
+   "research": 198,
+   "custody": 162,
+   "temporal": 91,
+   "geographic": 91,
+   "behavioral": 84,
+   "funding": 75
+  },
+  "edge_tier_by_type": {
+   "temporal": {
+    "1": 52,
+    "2": 14,
+    "3": 25
+   },
+   "investigative": {
+    "1": 184,
+    "2": 95,
+    "3": 23
+   },
+   "behavioral": {
+    "1": 19,
+    "2": 39,
+    "3": 26
+   },
+   "institutional": {
+    "1": 533,
+    "2": 162,
+    "3": 25
+   },
+   "legislative": {
+    "1": 179,
+    "2": 24,
+    "3": 12
+   },
+   "research": {
+    "1": 130,
+    "2": 40,
+    "3": 28
+   },
+   "geographic": {
+    "1": 56,
+    "2": 30,
+    "3": 5
+   },
+   "programmatic": {
+    "1": 240,
+    "2": 59,
+    "3": 25
+   },
+   "funding": {
+    "1": 48,
+    "2": 20,
+    "3": 7
+   },
+   "custody": {
+    "1": 106,
+    "2": 42,
+    "3": 14
+   },
+   "witness-chain": {
+    "1": 75,
+    "2": 111,
+    "3": 18
+   },
+   "denial": {
+    "1": 130,
+    "2": 63,
+    "3": 26
+   }
+  },
+  "edge_tier_total": {
+   "1": 1752,
+   "2": 699,
+   "3": 234
+  },
+  "edge_note": {
+   "with_note": 2685,
+   "note_len": {
+    "n": 2685,
+    "min": 27,
+    "p25": 142,
+    "median": 182,
+    "mean": 222.8,
+    "p75": 258,
+    "p90": 391,
+    "max": 1313,
+    "zeros": 0
+   },
+   "note_len_by_type_median": {
+    "temporal": 186,
+    "investigative": 173.0,
+    "behavioral": 191.5,
+    "institutional": 164.0,
+    "legislative": 172,
+    "research": 250.0,
+    "geographic": 234,
+    "programmatic": 204.5,
+    "funding": 234,
+    "custody": 175.5,
+    "witness-chain": 173.5,
+    "denial": 199
+   },
+   "with_label": 2676,
+   "label_len": {
+    "n": 2685,
+    "min": 0,
+    "p25": 47,
+    "median": 60,
+    "mean": 59.46,
+    "p75": 73,
+    "p90": 86,
+    "max": 141,
+    "zeros": 9
+   },
+   "label_distinct": 2539,
+   "with_dateStart": 2164,
+   "with_dateEnd": 1325,
+   "sources_per_edge": {
+    "n": 2685,
+    "min": 1,
+    "p25": 1,
+    "median": 1,
+    "mean": 1.57,
+    "p75": 2,
+    "p90": 3,
+    "max": 6,
+    "zeros": 0
+   },
+   "edge_sources_with_url": 4122,
+   "edge_sources_total": 4221,
+   "edge_sources_with_date": 3717,
+   "edges_with_2plus_files": 489
+  },
+  "edge_structure": {
+   "distinct_pairs": 2568,
+   "pairs_with_2plus_edges": 110,
+   "max_edges_per_pair": 3,
+   "self_loops": 0,
+   "dangling": 0
+  },
+  "degree_edge_instances": {
+   "n": 1136,
+   "min": 0,
+   "p25": 2,
+   "median": 3.0,
+   "mean": 4.73,
+   "p75": 5,
+   "p90": 9,
+   "max": 80,
+   "zeros": 1
+  },
+  "degree_distinct_neighbours": {
+   "n": 1136,
+   "min": 0,
+   "p25": 2,
+   "median": 3.0,
+   "mean": 4.52,
+   "p75": 5,
+   "p90": 9,
+   "max": 67,
+   "zeros": 1
+  },
+  "degree_by_cls_median": {
+   "person": 2.0,
+   "document": 4,
+   "institution": 4.0,
+   "program": 4.0,
+   "legislation": 3.0,
+   "event": 3,
+   "domain": 4,
+   "location": 2
+  },
+  "denial": {
+   "denialKind": {
+    "directed": 142,
+    "association": 42,
+    "null": 22,
+    "undirected": 13
+   },
+   "with_denier": 142,
+   "nodes_touched_by_denial": 238
+  },
+  "research": {
+   "json_files": 104,
+   "edge_records": 3236,
+   "edge_offvocab_types_records": 89,
+   "edge_offvocab_types_distinct": 35,
+   "entity_fields_dropped_by_merge": {
+    "_replacement": 3,
+    "conflicts": 31,
+    "unverified": 49,
+    "short": 1,
+    "domains": 1,
+    "openQuestions": 5
+   },
+   "entity_conflicts_dropped_ids": [
+    "afit-townsend-2008",
+    "alcubierre-1994",
+    "alien-rapture-1998",
+    "arv-fluxliner",
+    "bennewitz-project-beta-1981",
+    "big-sur-1964",
+    "canning-nasa-cr-2004-213312",
+    "checktheevidence",
+    "cooper-secret-government-1989",
+    "disclosure-project-witness-set",
+    "dulce-base",
+    "fouche-afftc-det3-1979",
+    "fouche-iufoc-1998",
+    "fouche-military-documents",
+    "gasbuggy-1967",
+    "hearing-2022-05-17",
+    "jal-1628-1986",
+    "king-patent-mhd",
+    "l-dulce",
+    "lazar-clark-county-1990",
+    "millis-tm-2004-213082",
+    "nasa-bpp",
+    "national-press-club-2001",
+    "northrop-tacit-blue",
+    "project-beta-bishop-2005",
+    "s-4-papoose-lake",
+    "saucers-spooks-and-kooks-2021",
+    "testors-sr-75-kit",
+    "tr-3b",
+    "yamato-1",
+    "zero-point-documentary"
+   ],
+   "entity_unverified_dropped_ids": [
+    "afit-townsend-2008",
+    "alcubierre-1994",
+    "alien-rapture-1998",
+    "arv-fluxliner",
+    "arvp-fluxliner-project",
+    "aurora-budget-line",
+    "bdm-international",
+    "bennewitz-project-beta-1981",
+    "big-sur-1964",
+    "canning-nasa-cr-2004-213312",
+    "checktheevidence",
+    "cooper-secret-government-1989",
+    "corbell-lazar-2018",
+    "defense-investigative-service",
+    "disclosure-project-briefing-2001",
+    "disclosure-project-witness-set",
+    "dulce-base",
+    "element-115-claim",
+    "fouche-afftc-det3-1979",
+    "fouche-iufoc-1998",
+    "fouche-military-documents",
+    "gasbuggy-1967",
+    "hearing-2022-05-17",
+    "immaculate-constellation",
+    "jal-1628-1986",
+    "king-patent-mhd",
+    "kirk-mayer",
+    "klas-lazar-broadcasts-1989",
+    "l-dulce",
+    "lazar-clark-county-1990",
+    "lazar-tape-1991",
+    "los-alamos-monitor-1982",
+    "millis-tm-2004-213082",
+    "nasa-bpp",
+    "national-press-club-2001",
+    "northrop-tacit-blue",
+    "norton-afb-airshow-1988",
+    "project-beta-bishop-2005",
+    "research-development-board",
+    "rias-inc",
+    "s-4-papoose-lake",
+    "saucers-spooks-and-kooks-2021",
+    "scott-sorensen-notes-1990",
+    "sperry-rand",
+    "testors-sr-75-kit",
+    "tr-3b",
+    "usaf-1127th-field-activities-group",
+    "yamato-1",
+    "zero-point-documentary"
+   ],
+   "cluster_offvocab_values": {
+    "aaro": 4,
+    "science": 1,
+    "legislation": 12,
+    "aawsap-dird": 42,
+    "hearings": 4,
+    "legal-architecture": 38,
+    "coverup": 29,
+    "custody": 1,
+    "program": 1
+   },
+   "cluster_offvocab_distinct_nodes": 125,
+   "sub_conflicting_ids": 247,
+   "sub_conflicting_ids_entities": 190,
+   "sub_conflicting_ids_people": 57,
+   "cls_conflicting_ids": 8,
+   "cluster_conflicting_ids": 120,
+   "status_conflicting_ids": 2
+  },
+  "claims": {
+   "total": 5897,
+   "by_tier": {
+    "1": 3701,
+    "2": 1618,
+    "3": 578
+   },
+   "by_cls": {
+    "person": {
+     "1": 925,
+     "2": 713,
+     "3": 131
+    },
+    "document": {
+     "1": 964,
+     "2": 252,
+     "3": 115
+    },
+    "institution": {
+     "1": 665,
+     "2": 197,
+     "3": 118
+    },
+    "program": {
+     "1": 286,
+     "2": 107,
+     "3": 59
+    },
+    "legislation": {
+     "1": 403,
+     "2": 22,
+     "3": 48
+    },
+    "event": {
+     "1": 240,
+     "2": 209,
+     "3": 37
+    },
+    "domain": {
+     "1": 154,
+     "2": 35,
+     "3": 22
+    },
+    "location": {
+     "1": 64,
+     "2": 83,
+     "3": 48
+    }
+   },
+   "per_node": {
+    "n": 1136,
+    "min": 0,
+    "p25": 3,
+    "median": 4.0,
+    "mean": 5.19,
+    "p75": 6,
+    "p90": 9,
+    "max": 48,
+    "zeros": 2
+   },
+   "per_node_people": {
+    "n": 338,
+    "min": 1,
+    "p25": 3,
+    "median": 4.0,
+    "mean": 5.23,
+    "p75": 6,
+    "p90": 10,
+    "max": 45,
+    "zeros": 0
+   },
+   "per_node_entities": {
+    "n": 798,
+    "min": 0,
+    "p25": 3,
+    "median": 4.0,
+    "mean": 5.17,
+    "p75": 6,
+    "p90": 9,
+    "max": 48,
+    "zeros": 2
+   },
+   "nodes_zero_claims": 2,
+   "nodes_only_T3": 14,
+   "nodes_with_T1": 933,
+   "claim_text_len": {
+    "n": 5897,
+    "min": 37,
+    "p25": 163,
+    "median": 231,
+    "mean": 273.64,
+    "p75": 347,
+    "p90": 479,
+    "max": 1876,
+    "zeros": 0
+   },
+   "app_claims_json_rows": 5897,
+   "source_with_url": 2254,
+   "source_no_url": 3643,
+   "source_distinct_strings": 3865,
+   "source_no_attributed": 2,
+   "source_demoted_marker": 264,
+   "source_board_bookkeeping_by_tier": {
+    "3": 39
+   },
+   "text_placeholder_no_dossier_by_tier": {
+    "3": 39
+   },
+   "text_mentions_board_or_node_self_by_tier": {
+    "3": 85,
+    "2": 68,
+    "1": 88
+   },
+   "source_inference_marker_by_tier": {
+    "3": 323,
+    "2": 1
+   },
+   "source_internal_repo_path_by_tier": {
+    "2": 28,
+    "1": 39,
+    "3": 16
+   },
+   "source_class_heuristic": {
+    "named publication/other (no url)": 2080,
+    "url:government/military": 1011,
+    "identifier (no url)": 795,
+    "url:news/other web": 610,
+    "url:archive/FOIA mirror": 582,
+    "inference/analysis": 336,
+    "speaker/testimony/interview (no url)": 324,
+    "book/report title (no url)": 67,
+    "bookkeeping": 39,
+    "url:encyclopedia": 19,
+    "url:scholarly": 11,
+    "url:patent office/db": 10,
+    "url:video/podcast": 8,
+    "url:social/newsletter": 3,
+    "none": 2
+   },
+   "source_class_by_tier_heuristic": {
+    "1": {
+     "named publication/other (no url)": 1252,
+     "url:government/military": 881,
+     "identifier (no url)": 708,
+     "url:archive/FOIA mirror": 477,
+     "url:news/other web": 249,
+     "speaker/testimony/interview (no url)": 56,
+     "book/report title (no url)": 55,
+     "inference/analysis": 10,
+     "url:scholarly": 8,
+     "url:patent office/db": 4,
+     "url:video/podcast": 1
+    },
+    "2": {
+     "named publication/other (no url)": 784,
+     "url:news/other web": 327,
+     "speaker/testimony/interview (no url)": 264,
+     "url:archive/FOIA mirror": 79,
+     "url:government/military": 61,
+     "identifier (no url)": 52,
+     "url:encyclopedia": 17,
+     "book/report title (no url)": 12,
+     "url:video/podcast": 7,
+     "url:patent office/db": 6,
+     "url:scholarly": 3,
+     "url:social/newsletter": 3,
+     "inference/analysis": 2,
+     "none": 1
+    },
+    "3": {
+     "inference/analysis": 324,
+     "url:government/military": 69,
+     "named publication/other (no url)": 44,
+     "bookkeeping": 39,
+     "identifier (no url)": 35,
+     "url:news/other web": 34,
+     "url:archive/FOIA mirror": 26,
+     "speaker/testimony/interview (no url)": 4,
+     "url:encyclopedia": 2,
+     "none": 1
+    }
+   },
+   "text_has_speech_verb_by_tier": {
+    "1": [
+     1018,
+     3701
+    ],
+    "2": [
+     651,
+     1618
+    ],
+    "3": [
+     191,
+     578
+    ]
+   },
+   "text_has_year": 3093,
+   "text_has_full_date": 1526,
+   "have_id_field": false,
+   "have_date_field": false,
+   "text_mentions_another_node": 1400,
+   "mention_pairs_distinct": 1389,
+   "mention_pairs_not_joined_by_edge": 939
+  },
+  "sources_as_objects": {
+   "claim_source_strings_distinct": 3865,
+   "claims_by_normalisation_method": {
+    "head": 2523,
+    "url": 1771,
+    "id": 788,
+    "url+id": 483,
+    "inference": 291,
+    "none": 41
+   },
+   "claims_resolved_to_canonical_doc_url_or_id": 3042,
+   "claims_resolved_by_identifier_without_url": 788,
+   "canonical_docs_distinct_url_or_id": 724,
+   "title_heads_distinct": 1034,
+   "claims_title_head_only": 2523,
+   "id_family_counts_in_claims": {
+    "PL": 229,
+    "CHRG": 198,
+    "USC": 177,
+    "DODI/D": 164,
+    "CIA-RDP": 90,
+    "GAO": 76,
+    "S": 71,
+    "DOI": 63,
+    "FOIA-case": 56,
+    "PATENT": 50,
+    "EO": 42,
+    "ICD": 31,
+    "DIA-DIRD": 24,
+    "HHRG": 20,
+    "NARA-RG": 20,
+    "HR": 20,
+    "CFR": 19,
+    "SAMDT": 18,
+    "AFR": 13,
+    "UK-TNA": 6
+   },
+   "top40_docs_matched_strict_label_or_id": 19,
+   "top40_docs_matched_strict_or_first_source": 33,
+   "top40_docs_matched_incl_event_nodes": 34,
+   "all_canonical_docs": 724,
+   "all_docs_matched_strict": 52,
+   "all_docs_matched_strict_or_first_source": 180,
+   "all_docs_matched_incl_event_nodes": 207,
+   "claims_citing_a_matched_doc": 1692,
+   "document_legislation_nodes": 301,
+   "singleton_docs_cited_once": 249,
+   "edges": {
+    "edge_source_objects": 4221,
+    "with_url": 4122,
+    "with_name": 4221,
+    "with_date": 3717,
+    "distinct_urls": 1054,
+    "edges_all_sources_have_url": 2620,
+    "canonical_docs_distinct": 1057
+   },
+   "docs_cited_by_both_claims_and_edges": 494,
+   "node_level_sources": {
+    "objects": 4552,
+    "with_url": 4515,
+    "with_date": 4117,
+    "distinct_urls": 1562
+   },
+   "distinct_urls_anywhere_normalised": 1669
+  },
+  "timeline": {
+   "total": 1059,
+   "by_strand": {
+    "program": 433,
+    "oversight": 245,
+    "witness": 207,
+    "coverup": 174
+   },
+   "by_precision": {
+    "day": 799,
+    "month": 140,
+    "year": 115,
+    "ranged": 5
+   },
+   "tier_values_raw": {
+    "'A'": 568,
+    "'B'": 232,
+    "1": 90,
+    "'C'": 81,
+    "'2'": 28,
+    "'1'": 27,
+    "2": 18,
+    "None": 13,
+    "'3'": 2
+   },
+   "with_node": 1004,
+   "node_resolves": 1004,
+   "with_text": 1026,
+   "with_label": 1046,
+   "with_source_string": 185,
+   "with_sources_list": 34,
+   "with_any_source": 219,
+   "with_entities_list": 20,
+   "entities_refs": 28,
+   "with_event_field": 13,
+   "with_ref_field": 13,
+   "distinct_nodes_linked": 576,
+   "events_per_linked_node": {
+    "n": 576,
+    "min": 1,
+    "p25": 1,
+    "median": 1.0,
+    "mean": 1.74,
+    "p75": 2,
+    "p90": 3,
+    "max": 13,
+    "zeros": 0
+   },
+   "per_decade": {
+    "1940": 34,
+    "1950": 49,
+    "1960": 44,
+    "1970": 36,
+    "1980": 75,
+    "1990": 86,
+    "2000": 106,
+    "2010": 148,
+    "2020": 481
+   },
+   "strand_by_decade": {
+    "1940": {
+     "program": 24,
+     "oversight": 3,
+     "witness": 3,
+     "coverup": 4
+    },
+    "1950": {
+     "coverup": 18,
+     "program": 29,
+     "witness": 1,
+     "oversight": 1
+    },
+    "1960": {
+     "program": 23,
+     "coverup": 9,
+     "witness": 8,
+     "oversight": 4
+    },
+    "1970": {
+     "program": 20,
+     "oversight": 7,
+     "witness": 8,
+     "coverup": 1
+    },
+    "1980": {
+     "program": 17,
+     "oversight": 11,
+     "witness": 26,
+     "coverup": 21
+    },
+    "1990": {
+     "witness": 27,
+     "oversight": 24,
+     "program": 24,
+     "coverup": 11
+    },
+    "2000": {
+     "program": 54,
+     "witness": 22,
+     "coverup": 13,
+     "oversight": 17
+    },
+    "2010": {
+     "oversight": 17,
+     "coverup": 19,
+     "program": 74,
+     "witness": 38
+    },
+    "2020": {
+     "program": 168,
+     "coverup": 78,
+     "witness": 74,
+     "oversight": 161
+    }
+   },
+   "linked_node_cls": {
+    "program": 111,
+    "location": 28,
+    "person": 200,
+    "institution": 140,
+    "document": 281,
+    "legislation": 58,
+    "event": 160,
+    "domain": 26
+   },
+   "nodes_with_timeline_event_pct": 50.7,
+   "event_cls_nodes_with_timeline_event": 78,
+   "event_cls_nodes": 87,
+   "timeline_labels_matching_event_node_label": 7
+  },
+  "threads": {
+   "count": 8,
+   "steps": 55,
+   "distinct_nodes": 44,
+   "nodes_covered_pct": 3.9,
+   "edge_types_used": {
+    "programmatic": 7,
+    "funding": 3,
+    "investigative": 8,
+    "witness-chain": 3,
+    "legislative": 5,
+    "behavioral": 1,
+    "custody": 4,
+    "geographic": 1,
+    "institutional": 6,
+    "denial": 8,
+    "temporal": 1
+   },
+   "edge_kind": {
+    "direct": 47
+   },
+   "per_thread_steps": {
+    "lineage": 6,
+    "custody": 8,
+    "money": 7,
+    "denials": 8,
+    "wilson-davis": 6,
+    "patents": 7,
+    "scientists": 6,
+    "oversight": 7
+   }
+  },
+  "L0": {
+   "l0_nodes": 135,
+   "counts": {
+    "total": 1136,
+    "l0": 135,
+    "ledger": 974,
+    "pathOnly": 26,
+    "unattached": 1,
+    "directEdges": 267,
+    "summarisedEdges": 132,
+    "gatedOut": 586,
+    "primitives": 534,
+    "wallClampPct": 2.2,
+    "labelOverlaps": 0,
+    "membersMin": 1,
+    "membersMedian": 8,
+    "membersMax": 76,
+    "inert": 2,
+    "unclusteredL0": 9,
+    "withDossier": 135,
+    "dossierClaims": 1603,
+    "nodesWithConnections": 1135,
+    "connectionRows": 5370,
+    "entryPaths": 6,
+    "authorityNodes": 23,
+    "authorityThinRecord": 7,
+    "extent": {
+     "w": 1708,
+     "h": 1075
+    }
+   },
+   "l0_by_cls": {
+    "document": 31,
+    "institution": 54,
+    "program": 26,
+    "legislation": 11,
+    "event": 13
+   },
+   "band_distribution": {
+    "oversight": 23,
+    "research": 27,
+    "custody": 32,
+    "disclosure": 5,
+    "reverse-engineering": 17,
+    "funding": 22,
+    "retrieval": 9
+   },
+   "bands_declared": [
+    "retrieval",
+    "reverse-engineering",
+    "custody",
+    "funding",
+    "oversight",
+    "disclosure",
+    "research"
+   ],
+   "era_distribution": {
+    "3": 42,
+    "1": 32,
+    "None": 9,
+    "2": 19,
+    "0": 33
+   },
+   "cells_nonempty": 31,
+   "direct_edges": 267,
+   "summarised_edges": 132,
+   "entryPaths": [
+    {
+     "id": "custody",
+     "label": "The custody chain",
+     "total": 204,
+     "onMap": 52
+    },
+    {
+     "id": "denial",
+     "label": "Who denied what",
+     "total": 156,
+     "onMap": 42
+    },
+    {
+     "id": "foreign",
+     "label": "The foreign counter-examples",
+     "total": 11,
+     "onMap": 10
+    },
+    {
+     "id": "mechanism",
+     "label": "The legal mechanism",
+     "total": 10,
+     "onMap": 10
+    },
+    {
+     "id": "money",
+     "label": "Follow the money",
+     "total": 11,
+     "onMap": 6
+    },
+    {
+     "id": "witness",
+     "label": "Start from a witness",
+     "total": 7,
+     "onMap": 0
+    }
+   ],
+   "entryPath_union_ids": 100,
+   "members_covered_by_l0": 974,
+   "authority_nodes": 23
+  },
+  "foia": {
+   "requests": 17,
+   "nodes": 42,
+   "questions_links": 121,
+   "status": {
+    "not filed": 17
+   },
+   "agencies": {
+    "NARA": 1,
+    "DIA": 3,
+    "OSD": 2,
+    "NASA": 1,
+    "Army": 1,
+    "DHS": 1,
+    "Air Force": 1,
+    "OSD / AARO": 1,
+    "ODNI": 1,
+    "Navy": 2,
+    "Air Force and AFOSI": 1,
+    "FBI": 1,
+    "Air Force and CIA": 1
+   }
+  },
+  "patents": {
+   "filings": 5,
+   "with_node": 5,
+   "sheets": 10,
+   "openQuestions": 6,
+   "observables": 5
+  },
+  "highlights": {
+   "flags": 14,
+   "ids": [
+    "aawsap",
+    "waived-sap-notification-group",
+    "usc-10-119",
+    "aaro-historical-record-vol1",
+    "aaro",
+    "mitre-corporation",
+    "carve-out",
+    "dod-agencywide-audit",
+    "immaculate-constellation",
+    "kona-blue",
+    "wilson-davis-memo",
+    "uapda-2023",
+    "geipan",
+    "operacao-prato"
+   ]
+  },
+  "gaps": {
+   "records": 618,
+   "free_string": 440,
+   "structured": 178,
+   "structured_with_wouldClose": 169,
+   "have_node_field": 0,
+   "text_mentions_a_node_label_or_id": 247,
+   "distinct_nodes_mentioned": 233,
+   "by_file_top": [
+    [
+     "_stubs",
+     65
+    ],
+    [
+     "dannyjones-2026-09-03",
+     29
+    ],
+    [
+     "w2-2025-2026",
+     21
+    ],
+    [
+     "area52-2026-09-02",
+     20
+    ],
+    [
+     "tr3b-2026-09-18",
+     19
+    ],
+    [
+     "michels-2026-09-02-c",
+     17
+    ],
+    [
+     "lazar-s4-2026-09-18",
+     16
+    ],
+    [
+     "scientists-technical",
+     16
+    ],
+    [
+     "w2-international",
+     16
+    ],
+    [
+     "aviators-incidents",
+     15
+    ],
+    [
+     "primes-custody",
+     15
+    ],
+    [
+     "w2-black-budget",
+     15
+    ],
+    [
+     "disclosure-project-2026-09-19",
+     14
+    ],
+    [
+     "history-1970s-2000s",
+     14
+    ],
+    [
+     "media-structure",
+     14
+    ]
+   ]
+  },
+  "ids": {
+   "location_ids_with_l_prefix": 71,
+   "location_ids_total": 73,
+   "nonlocation_ids_with_l_prefix": 0,
+   "domain_ids_with_d_prefix": 53,
+   "domain_ids_total": 59,
+   "event_ids_with_ev_prefix": 8,
+   "event_ids_total": 87,
+   "document_ids_with_doc_prefix": 5,
+   "document_ids_total": 237,
+   "ids_with_year_token": 185,
+   "removed_list": 53,
+   "alias_map": 21,
+   "probable_duplicates_integrity": 5
+  },
+  "stub_only_nodes": 13,
+  "stub_only_by_cls": {
+   "institution": 13
+  },
+  "bookkeeping_nodes": 39
+ },
+ "detail": {
+  "sub_top_entities": [
+   [
+    "defense-intelligence-reference-document",
+    32
+   ],
+   [
+    "statute",
+    12
+   ],
+   [
+    "authorizing-statutes",
+    8
+   ],
+   [
+    "report",
+    6
+   ],
+   [
+    "dod-issuance",
+    5
+   ],
+   [
+    "congressional-hearings",
+    4
+   ],
+   [
+    "oversight-body",
+    4
+   ],
+   [
+    "mechanism",
+    3
+   ],
+   [
+    "disclosure-legislation",
+    3
+   ],
+   [
+    "Foreign government agency",
+    3
+   ],
+   [
+    "Academic",
+    3
+   ],
+   [
+    "dia-program",
+    2
+   ],
+   [
+    "contractor",
+    2
+   ],
+   [
+    "correspondence",
+    2
+   ],
+   [
+    "Officially released DoD UAP video",
+    2
+   ],
+   [
+    "executive-order",
+    2
+   ],
+   [
+    "congressional",
+    2
+   ],
+   [
+    "House Oversight subcommittee",
+    2
+   ],
+   [
+    "Research domain",
+    2
+   ],
+   [
+    "DoD office established 2022; author of the official AAWSAP history",
+    1
+   ],
+   [
+    "Published 25 October 2023; 291 new reports; 801 total holdings",
+    1
+   ],
+   [
+    "Published 14 November 2024; 757 new reports; 1,652 total",
+    1
+   ],
+   [
+    "Released 21 July 2026, months after the statutory cycle",
+    1
+   ],
+   [
+    "Classified report 15 Aug 2023; unclassified summary released 25 Jan 2024",
+    1
+   ],
+   [
+    "Alleged USAF/AFOSI program",
+    1
+   ],
+   [
+    "AAWSAP contract deliverable set, 2008-2010. A DOCUMENT SERIES, not a programme  -  the individual papers are wired to their authors and to AAWSAP, and this node is the shelf they sit on. Absorbed the duplicate node dird-collection on 14 Aug 2026.",
+    1
+   ],
+   [
+    "contract",
+    1
+   ],
+   [
+    "meeting",
+    1
+   ],
+   [
+    "taxonomy",
+    1
+   ],
+   [
+    "tradecraft",
+    1
+   ],
+   [
+    "agency",
+    1
+   ],
+   [
+    "Combat support agency; AAWSAP/AATIP executive agent",
+    1
+   ],
+   [
+    "DIA Defense Warning Office memorandum, 30 October 2009",
+    1
+   ],
+   [
+    "512-acre property; NIDS 1996-2004 and AAWSAP field site 2008-2012",
+    1
+   ],
+   [
+    "Classified annex appropriation directed by Senate leadership",
+    1
+   ],
+   [
+    "Proposed DHS special access program, circa 2011",
+    1
+   ],
+   [
+    "Officially released DoD UAP video; subject of AARO parallax rebuttal",
+    1
+   ],
+   [
+    "Homeland air defence combatant command",
+    1
+   ],
+   [
+    "Executive disclosure channel announced Feb 2026; first drop 8 May 2026",
+    1
+   ],
+   [
+    "Announced 8 May 2026",
+    1
+   ]
+  ],
+  "sub_slug_like_entities": [
+   [
+    "defense-intelligence-reference-document",
+    32
+   ],
+   [
+    "statute",
+    12
+   ],
+   [
+    "authorizing-statutes",
+    8
+   ],
+   [
+    "report",
+    6
+   ],
+   [
+    "dod-issuance",
+    5
+   ],
+   [
+    "congressional-hearings",
+    4
+   ],
+   [
+    "oversight-body",
+    4
+   ],
+   [
+    "mechanism",
+    3
+   ],
+   [
+    "disclosure-legislation",
+    3
+   ],
+   [
+    "dia-program",
+    2
+   ],
+   [
+    "contractor",
+    2
+   ],
+   [
+    "correspondence",
+    2
+   ],
+   [
+    "executive-order",
+    2
+   ],
+   [
+    "congressional",
+    2
+   ],
+   [
+    "contract",
+    1
+   ],
+   [
+    "meeting",
+    1
+   ],
+   [
+    "taxonomy",
+    1
+   ],
+   [
+    "tradecraft",
+    1
+   ],
+   [
+    "agency",
+    1
+   ],
+   [
+    "statute-subsection",
+    1
+   ],
+   [
+    "regulation",
+    1
+   ],
+   [
+    "ic-directive",
+    1
+   ],
+   [
+    "registry",
+    1
+   ],
+   [
+    "gao-report",
+    1
+   ],
+   [
+    "analysis",
+    1
+   ]
+  ],
+  "sub_top_people": [
+   [
+    "US Senator (D-NV); Senate Majority Leader 2007-2015",
+    1
+   ],
+   [
+    "DIA rocket scientist; AAWSAP government program manager",
+    1
+   ],
+   [
+    "President, EarthTech International; AAWSAP DIRD author; former SRI remote-viewing program director",
+    1
+   ],
+   [
+    "Astrophysicist, EarthTech International; five-time AAWSAP DIRD author",
+    1
+   ],
+   [
+    "Neuroradiologist; former CIA analyst; AAWSAP DIRD author on field effects on biological tissue",
+    1
+   ],
+   [
+    "Former NGA/NRO officer; ICIG complainant; the proximate cause of the UAPDA",
+    1
+   ],
+   [
+    "Lt, USN (Ret.), VFA-11 Red Rippers; Executive Director, Americans for Safe Aerospace",
+    1
+   ],
+   [
+    "Former OUSD(I) counterintelligence officer; states he ran AATIP 2010-2017",
+    1
+   ],
+   [
+    "Rear Admiral, USN (Ret.); former Oceanographer of the Navy; former acting NOAA Administrator",
+    1
+   ],
+   [
+    "U.S. Rep. (R-FL-13); Chairwoman, Task Force on the Declassification of Federal Secrets",
+    1
+   ],
+   [
+    "Founding Director, All-domain Anomaly Resolution Office, 2022-2023",
+    1
+   ],
+   [
+    "Founder, Budget Suites / Bigelow Aerospace / NIDS / BAASS",
+    1
+   ],
+   [
+    "US Senator (D-HI); Chairman, Senate Appropriations Committee",
+    1
+   ],
+   [
+    "DIA intelligence officer; AAWSAP participant; later Director, UAP Task Force",
+    1
+   ],
+   [
+    "DoD spokesperson for UAP matters, Office of the Assistant to the Secretary of Defense for Public Affairs",
+    1
+   ]
+  ],
+  "sub_slug_by_cls": {
+   "document": [
+    [
+     "defense-intelligence-reference-document",
+     32
+    ],
+    [
+     "report",
+     6
+    ],
+    [
+     "dod-issuance",
+     5
+    ],
+    [
+     "correspondence",
+     2
+    ],
+    [
+     "contract",
+     1
+    ],
+    [
+     "disclosure-legislation",
+     1
+    ],
+    [
+     "ic-directive",
+     1
+    ],
+    [
+     "registry",
+     1
+    ],
+    [
+     "gao-report",
+     1
+    ]
+   ],
+   "institution": [
+    [
+     "oversight-body",
+     4
+    ],
+    [
+     "contractor",
+     2
+    ],
+    [
+     "congressional",
+     2
+    ],
+    [
+     "agency",
+     1
+    ]
+   ],
+   "program": [
+    [
+     "mechanism",
+     3
+    ],
+    [
+     "dia-program",
+     2
+    ]
+   ],
+   "legislation": [
+    [
+     "statute",
+     12
+    ],
+    [
+     "authorizing-statutes",
+     8
+    ],
+    [
+     "disclosure-legislation",
+     2
+    ],
+    [
+     "executive-order",
+     2
+    ],
+    [
+     "statute-subsection",
+     1
+    ],
+    [
+     "regulation",
+     1
+    ]
+   ],
+   "event": [
+    [
+     "congressional-hearings",
+     4
+    ],
+    [
+     "meeting",
+     1
+    ]
+   ],
+   "domain": [
+    [
+     "taxonomy",
+     1
+    ],
+    [
+     "tradecraft",
+     1
+    ],
+    [
+     "analysis",
+     1
+    ]
+   ],
+   "location": []
+  },
+  "people_locId_top": [
+   [
+    "l-dc",
+    78
+   ],
+   [
+    "l-pentagon",
+    16
+   ],
+   [
+    "l-socal-oparea",
+    7
+   ],
+   [
+    "l-nyc",
+    6
+   ],
+   [
+    "l-la",
+    6
+   ],
+   [
+    "l-kirtland",
+    5
+   ],
+   [
+    "l-wright-patterson",
+    5
+   ],
+   [
+    "l-mclean",
+    5
+   ],
+   [
+    "l-roswell",
+    5
+   ],
+   [
+    "l-austin",
+    4
+   ],
+   [
+    "l-encinitas",
+    4
+   ],
+   [
+    "l-las-vegas",
+    3
+   ],
+   [
+    "l-raf-woodbridge",
+    3
+   ],
+   [
+    "l-cambridge",
+    3
+   ],
+   [
+    "l-brasilia",
+    3
+   ],
+   [
+    "l-boulder-co",
+    2
+   ],
+   [
+    "l-langley",
+    2
+   ],
+   [
+    "l-detroit-arsenal",
+    2
+   ],
+   [
+    "l-santa-monica",
+    2
+   ],
+   [
+    "l-stanford",
+    2
+   ]
+  ],
+  "people_instId_top": [
+   [
+    "dod",
+    24
+   ],
+   [
+    "house-oversight-committee",
+    20
+   ],
+   [
+    "us-senate",
+    13
+   ],
+   [
+    "cia",
+    8
+   ],
+   [
+    "mitre-corporation",
+    7
+   ],
+   [
+    "ousdi",
+    5
+   ],
+   [
+    "ttsa",
+    5
+   ],
+   [
+    "dia",
+    4
+   ],
+   [
+    "atic",
+    4
+   ],
+   [
+    "the-debrief",
+    4
+   ],
+   [
+    "aaro",
+    3
+   ],
+   [
+    "vfa-41",
+    3
+   ],
+   [
+    "oversight-congress",
+    3
+   ],
+   [
+    "odni",
+    3
+   ],
+   [
+    "usaf",
+    3
+   ],
+   [
+    "uss-princeton",
+    3
+   ],
+   [
+    "nasa",
+    3
+   ],
+   [
+    "sol-foundation",
+    3
+   ],
+   [
+    "galileo-project",
+    3
+   ],
+   [
+    "cnes",
+    3
+   ]
+  ],
+  "people_domains_top": [
+   [
+    "d-coverup",
+    100
+   ],
+   [
+    "d-oversight",
+    91
+   ],
+   [
+    "d-witness",
+    50
+   ],
+   [
+    "d-disclosure",
+    41
+   ],
+   [
+    "d-research",
+    34
+   ],
+   [
+    "d-records",
+    33
+   ],
+   [
+    "d-custody",
+    32
+   ],
+   [
+    "d-funding",
+    30
+   ],
+   [
+    "d-legacy",
+    25
+   ],
+   [
+    "d-recovery",
+    24
+   ],
+   [
+    "d-media",
+    23
+   ],
+   [
+    "d-international",
+    19
+   ],
+   [
+    "d-aviators",
+    18
+   ],
+   [
+    "d-legislative",
+    16
+   ],
+   [
+    "d-materials",
+    16
+   ],
+   [
+    "d-ic",
+    15
+   ],
+   [
+    "d-ffrdc",
+    14
+   ],
+   [
+    "d-exotic",
+    13
+   ],
+   [
+    "d-structure",
+    13
+   ],
+   [
+    "d-prop",
+    9
+   ],
+   [
+    "d-astro",
+    7
+   ],
+   [
+    "d-nuclear",
+    6
+   ],
+   [
+    "d-intel",
+    6
+   ],
+   [
+    "d-psyop",
+    5
+   ],
+   [
+    "d-denial",
+    5
+   ]
+  ],
+  "provenance_nodes_per_file": [
+   [
+    "_rs-archive-mirror",
+    227
+   ],
+   [
+    "w2-taxonomy",
+    75
+   ],
+   [
+    "w2-international",
+    58
+   ],
+   [
+    "primes-custody",
+    56
+   ],
+   [
+    "scientists-technical",
+    55
+   ],
+   [
+    "congress-house",
+    55
+   ],
+   [
+    "history-1970s-2000s",
+    53
+   ],
+   [
+    "w2-retrieval-literature",
+    51
+   ],
+   [
+    "_rs-legislation",
+    50
+   ],
+   [
+    "_stubs",
+    50
+   ],
+   [
+    "grusch",
+    49
+   ],
+   [
+    "media-structure",
+    48
+   ],
+   [
+    "_rs-aawsap-dirds",
+    47
+   ],
+   [
+    "ffrdcs",
+    47
+   ],
+   [
+    "aviators-incidents",
+    46
+   ],
+   [
+    "releases-2023-2026",
+    46
+   ],
+   [
+    "elizondo-ttsa",
+    45
+   ],
+   [
+    "aawsap-aatip",
+    43
+   ],
+   [
+    "history-1940s-1960s",
+    43
+   ],
+   [
+    "uaptf-aaro",
+    41
+   ],
+   [
+    "w2-2025-2026",
+    40
+   ],
+   [
+    "w2-black-budget",
+    40
+   ],
+   [
+    "congress-senate-legislation",
+    39
+   ],
+   [
+    "_rs-sap-docs",
+    37
+   ],
+   [
+    "w2-sap-architecture",
+    36
+   ],
+   [
+    "w2-places-events",
+    35
+   ],
+   [
+    "area52-2026-09-02",
+    30
+   ],
+   [
+    "dannyjones-2026-09-03",
+    30
+   ],
+   [
+    "dulce-2026-09-19",
+    29
+   ],
+   [
+    "w2-agencies",
+    29
+   ],
+   [
+    "lazar-s4-2026-09-18",
+    28
+   ],
+   [
+    "disclosure-project-2026-09-19",
+    24
+   ],
+   [
+    "propulsion-2026-09-19",
+    23
+   ],
+   [
+    "legacy-1947-86",
+    23
+   ],
+   [
+    "michels-2026-09-02",
+    20
+   ],
+   [
+    "_rs-stubs-known",
+    17
+   ],
+   [
+    "w7-dirds-2",
+    15
+   ],
+   [
+    "w7-dirds-4",
+    15
+   ],
+   [
+    "w16-thin-people",
+    14
+   ],
+   [
+    "w7-dirds-3",
+    14
+   ],
+   [
+    "w9-waived-sap-group",
+    13
+   ],
+   [
+    "w7-dirds-1",
+    13
+   ],
+   [
+    "_rs-aaro-reports",
+    12
+   ],
+   [
+    "tr3b-2026-09-18",
+    11
+   ],
+   [
+    "nsc-eo-spine-2026-09-19",
+    11
+   ],
+   [
+    "arv-2026-09-18",
+    9
+   ],
+   [
+    "w12-duplicate-collapse",
+    9
+   ],
+   [
+    "w15-live-originals",
+    8
+   ],
+   [
+    "witnesses-2026-09-18",
+    7
+   ],
+   [
+    "pais-patents",
+    7
+   ],
+   [
+    "w10-notification-gaps",
+    4
+   ],
+   [
+    "w11-final-unattached",
+    4
+   ],
+   [
+    "w11-statutory",
+    4
+   ],
+   [
+    "w11-brazil-harden",
+    4
+   ],
+   [
+    "w6-international",
+    4
+   ],
+   [
+    "w12-sap-statutory-edges",
+    3
+   ],
+   [
+    "w17-wayne-etrd",
+    2
+   ],
+   [
+    "w12-nispom-carveout",
+    2
+   ],
+   [
+    "w10-brazil",
+    2
+   ],
+   [
+    "w13-thin-people",
+    1
+   ],
+   [
+    "w12-sec6802-edges",
+    1
+   ],
+   [
+    "w12-eo13526",
+    1
+   ],
+   [
+    "w12-brazil-edges",
+    1
+   ],
+   [
+    "five-observables",
+    1
+   ]
+  ],
+  "edge_note_caps_prefixes": [
+   [
+    "INTENT",
+    5
+   ],
+   [
+    "GENUINE CUSTODY",
+    3
+   ],
+   [
+    "INDEX OF DOCUMENTS",
+    1
+   ],
+   [
+    "ODNI",
+    1
+   ],
+   [
+    "MITRE",
+    1
+   ],
+   [
+    "AARO",
+    1
+   ]
+  ],
+  "edge_cls_pairs": {
+   "temporal": [
+    [
+     "document>document",
+     16
+    ],
+    [
+     "event>event",
+     12
+    ],
+    [
+     "document>event",
+     6
+    ],
+    [
+     "document>program",
+     6
+    ],
+    [
+     "program>document",
+     5
+    ],
+    [
+     "person>event",
+     5
+    ],
+    [
+     "event>program",
+     4
+    ],
+    [
+     "program>program",
+     4
+    ]
+   ],
+   "investigative": [
+    [
+     "person>document",
+     50
+    ],
+    [
+     "person>person",
+     31
+    ],
+    [
+     "person>event",
+     18
+    ],
+    [
+     "person>institution",
+     17
+    ],
+    [
+     "document>program",
+     15
+    ],
+    [
+     "document>institution",
+     14
+    ],
+    [
+     "institution>institution",
+     14
+    ],
+    [
+     "document>person",
+     12
+    ]
+   ],
+   "behavioral": [
+    [
+     "person>person",
+     16
+    ],
+    [
+     "person>event",
+     10
+    ],
+    [
+     "person>program",
+     8
+    ],
+    [
+     "person>document",
+     6
+    ],
+    [
+     "person>institution",
+     4
+    ],
+    [
+     "document>program",
+     4
+    ],
+    [
+     "institution>institution",
+     3
+    ],
+    [
+     "document>person",
+     3
+    ]
+   ],
+   "institutional": [
+    [
+     "person>institution",
+     192
+    ],
+    [
+     "institution>institution",
+     91
+    ],
+    [
+     "document>institution",
+     58
+    ],
+    [
+     "person>program",
+     50
+    ],
+    [
+     "person>document",
+     32
+    ],
+    [
+     "institution>document",
+     30
+    ],
+    [
+     "person>person",
+     28
+    ],
+    [
+     "program>institution",
+     28
+    ]
+   ],
+   "legislative": [
+    [
+     "legislation>legislation",
+     36
+    ],
+    [
+     "legislation>institution",
+     30
+    ],
+    [
+     "person>legislation",
+     23
+    ],
+    [
+     "legislation>domain",
+     17
+    ],
+    [
+     "person>document",
+     14
+    ],
+    [
+     "person>event",
+     12
+    ],
+    [
+     "document>legislation",
+     10
+    ],
+    [
+     "institution>institution",
+     9
+    ]
+   ],
+   "research": [
+    [
+     "person>document",
+     40
+    ],
+    [
+     "document>person",
+     22
+    ],
+    [
+     "document>domain",
+     14
+    ],
+    [
+     "domain>domain",
+     12
+    ],
+    [
+     "document>document",
+     12
+    ],
+    [
+     "institution>institution",
+     12
+    ],
+    [
+     "person>person",
+     11
+    ],
+    [
+     "person>program",
+     8
+    ]
+   ],
+   "geographic": [
+    [
+     "location>location",
+     13
+    ],
+    [
+     "location>institution",
+     13
+    ],
+    [
+     "event>location",
+     10
+    ],
+    [
+     "institution>location",
+     9
+    ],
+    [
+     "document>location",
+     7
+    ],
+    [
+     "person>location",
+     7
+    ],
+    [
+     "domain>location",
+     6
+    ],
+    [
+     "location>program",
+     6
+    ]
+   ],
+   "programmatic": [
+    [
+     "program>document",
+     46
+    ],
+    [
+     "document>document",
+     43
+    ],
+    [
+     "institution>program",
+     21
+    ],
+    [
+     "person>document",
+     19
+    ],
+    [
+     "person>event",
+     16
+    ],
+    [
+     "program>institution",
+     15
+    ],
+    [
+     "person>program",
+     14
+    ],
+    [
+     "document>program",
+     14
+    ]
+   ],
+   "funding": [
+    [
+     "person>program",
+     9
+    ],
+    [
+     "document>institution",
+     7
+    ],
+    [
+     "institution>document",
+     7
+    ],
+    [
+     "institution>institution",
+     6
+    ],
+    [
+     "program>domain",
+     6
+    ],
+    [
+     "institution>program",
+     4
+    ],
+    [
+     "person>legislation",
+     3
+    ],
+    [
+     "person>institution",
+     3
+    ]
+   ],
+   "custody": [
+    [
+     "institution>document",
+     20
+    ],
+    [
+     "institution>institution",
+     14
+    ],
+    [
+     "person>document",
+     13
+    ],
+    [
+     "document>institution",
+     11
+    ],
+    [
+     "event>document",
+     9
+    ],
+    [
+     "document>document",
+     7
+    ],
+    [
+     "event>institution",
+     7
+    ],
+    [
+     "document>location",
+     6
+    ]
+   ],
+   "witness-chain": [
+    [
+     "person>event",
+     53
+    ],
+    [
+     "person>person",
+     42
+    ],
+    [
+     "person>document",
+     29
+    ],
+    [
+     "person>location",
+     15
+    ],
+    [
+     "document>person",
+     14
+    ],
+    [
+     "person>program",
+     13
+    ],
+    [
+     "person>institution",
+     8
+    ],
+    [
+     "institution>person",
+     5
+    ]
+   ],
+   "denial": [
+    [
+     "person>person",
+     24
+    ],
+    [
+     "person>document",
+     19
+    ],
+    [
+     "document>institution",
+     19
+    ],
+    [
+     "institution>institution",
+     17
+    ],
+    [
+     "document>program",
+     12
+    ],
+    [
+     "person>program",
+     11
+    ],
+    [
+     "program>institution",
+     11
+    ],
+    [
+     "document>person",
+     10
+    ]
+   ]
+  },
+  "label_first_word": {
+   "temporal": [
+    [
+     "the",
+     20
+    ],
+    [
+     "",
+     4
+    ],
+    [
+     "two",
+     4
+    ],
+    [
+     "same",
+     3
+    ],
+    [
+     "aaro's",
+     3
+    ],
+    [
+     "his",
+     2
+    ],
+    [
+     "named",
+     2
+    ],
+    [
+     "renamed",
+     2
+    ],
+    [
+     "both",
+     2
+    ],
+    [
+     "minot",
+     2
+    ],
+    [
+     "aaro",
+     1
+    ],
+    [
+     "'lack",
+     1
+    ]
+   ],
+   "investigative": [
+    [
+     "the",
+     41
+    ],
+    [
+     "co",
+     20
+    ],
+    [
+     "named",
+     12
+    ],
+    [
+     "gerb",
+     8
+    ],
+    [
+     "author",
+     6
+    ],
+    [
+     "a",
+     5
+    ],
+    [
+     "foia",
+     5
+    ],
+    [
+     "obtained",
+     4
+    ],
+    [
+     "gao",
+     4
+    ],
+    [
+     "michels",
+     4
+    ],
+    [
+     "lead",
+     4
+    ],
+    [
+     "aaro's",
+     4
+    ]
+   ],
+   "behavioral": [
+    [
+     "the",
+     7
+    ],
+    [
+     "a",
+     3
+    ],
+    [
+     "aaro's",
+     2
+    ],
+    [
+     "condon",
+     2
+    ],
+    [
+     "direct",
+     2
+    ],
+    [
+     "two",
+     2
+    ],
+    [
+     "emerged",
+     2
+    ],
+    [
+     "said",
+     2
+    ],
+    [
+     "knapp",
+     2
+    ],
+    [
+     "ndas",
+     1
+    ],
+    [
+     "releasing",
+     1
+    ],
+    [
+     "redacted",
+     1
+    ]
+   ],
+   "institutional": [
+    [
+     "the",
+     52
+    ],
+    [
+     "named",
+     18
+    ],
+    [
+     "director",
+     14
+    ],
+    [
+     "co",
+     13
+    ],
+    [
+     "a",
+     12
+    ],
+    [
+     "first",
+     11
+    ],
+    [
+     "seat",
+     11
+    ],
+    [
+     "mitre",
+     10
+    ],
+    [
+     "signed",
+     9
+    ],
+    [
+     "chief",
+     9
+    ],
+    [
+     "chairman",
+     9
+    ],
+    [
+     "published",
+     9
+    ]
+   ],
+   "legislative": [
+    [
+     "the",
+     33
+    ],
+    [
+     "sponsor",
+     8
+    ],
+    [
+     "author",
+     6
+    ],
+    [
+     "cosponsor",
+     5
+    ],
+    [
+     "original",
+     5
+    ],
+    [
+     "statutory",
+     5
+    ],
+    [
+     "would",
+     5
+    ],
+    [
+     "chaired",
+     4
+    ],
+    [
+     "sec",
+     4
+    ],
+    [
+     "elicited",
+     4
+    ],
+    [
+     "created",
+     4
+    ],
+    [
+     "recommended",
+     4
+    ]
+   ],
+   "research": [
+    [
+     "the",
+     28
+    ],
+    [
+     "authored",
+     26
+    ],
+    [
+     "author",
+     13
+    ],
+    [
+     "co",
+     11
+    ],
+    [
+     "subject",
+     11
+    ],
+    [
+     "a",
+     4
+    ],
+    [
+     "both",
+     3
+    ],
+    [
+     "identifies",
+     3
+    ],
+    [
+     "named",
+     2
+    ],
+    [
+     "nasa",
+     2
+    ],
+    [
+     "names",
+     2
+    ],
+    [
+     "us",
+     2
+    ]
+   ],
+   "geographic": [
+    [
+     "the",
+     19
+    ],
+    [
+     "claimed",
+     3
+    ],
+    [
+     "sandia",
+     2
+    ],
+    [
+     "written",
+     2
+    ],
+    [
+     "area",
+     2
+    ],
+    [
+     "site",
+     2
+    ],
+    [
+     "mitre",
+     2
+    ],
+    [
+     "french",
+     2
+    ],
+    [
+     "alleged",
+     2
+    ],
+    [
+     "homeport",
+     1
+    ],
+    [
+     "stationed",
+     1
+    ],
+    [
+     "th",
+     1
+    ]
+   ],
+   "programmatic": [
+    [
+     "the",
+     34
+    ],
+    [
+     "dird",
+     32
+    ],
+    [
+     "sworn",
+     11
+    ],
+    [
+     "produced",
+     10
+    ],
+    [
+     "named",
+     9
+    ],
+    [
+     "commissioned",
+     8
+    ],
+    [
+     "deliverable",
+     8
+    ],
+    [
+     "a",
+     7
+    ],
+    [
+     "ran",
+     6
+    ],
+    [
+     "fy",
+     5
+    ],
+    [
+     "aawsap",
+     5
+    ],
+    [
+     "cia",
+     5
+    ]
+   ],
+   "funding": [
+    [
+     "the",
+     14
+    ],
+    [
+     "commissioned",
+     8
+    ],
+    [
+     "m",
+     3
+    ],
+    [
+     "funded",
+     2
+    ],
+    [
+     "doe",
+     2
+    ],
+    [
+     "sec",
+     2
+    ],
+    [
+     "dia",
+     2
+    ],
+    [
+     "directed",
+     1
+    ],
+    [
+     "appropriations",
+     1
+    ],
+    [
+     "provided",
+     1
+    ],
+    [
+     "founded",
+     1
+    ],
+    [
+     "trimble",
+     1
+    ]
+   ],
+   "custody": [
+    [
+     "the",
+     22
+    ],
+    [
+     "published",
+     15
+    ],
+    [
+     "released",
+     7
+    ],
+    [
+     "holds",
+     5
+    ],
+    [
+     "a",
+     4
+    ],
+    [
+     "named",
+     3
+    ],
+    [
+     "project",
+     3
+    ],
+    [
+     "raytheon",
+     2
+    ],
+    [
+     "names",
+     2
+    ],
+    [
+     "january",
+     2
+    ],
+    [
+     "nara",
+     2
+    ],
+    [
+     "ordered",
+     2
+    ]
+   ],
+   "witness-chain": [
+    [
+     "the",
+     16
+    ],
+    [
+     "testified",
+     6
+    ],
+    [
+     "co",
+     5
+    ],
+    [
+     "author",
+     5
+    ],
+    [
+     "witness",
+     5
+    ],
+    [
+     "first",
+     5
+    ],
+    [
+     "sworn",
+     5
+    ],
+    [
+     "testimony",
+     5
+    ],
+    [
+     "claimed",
+     5
+    ],
+    [
+     "knapp",
+     4
+    ],
+    [
+     "sole",
+     3
+    ],
+    [
+     "named",
+     3
+    ]
+   ],
+   "denial": [
+    [
+     "the",
+     32
+    ],
+    [
+     "aaro's",
+     10
+    ],
+    [
+     "named",
+     8
+    ],
+    [
+     "no",
+     7
+    ],
+    [
+     "cia",
+     5
+    ],
+    [
+     "aaro",
+     5
+    ],
+    [
+     "produced",
+     5
+    ],
+    [
+     "a",
+     4
+    ],
+    [
+     "directed",
+     4
+    ],
+    [
+     "denial",
+     3
+    ],
+    [
+     "usd",
+     2
+    ],
+    [
+     "'no",
+     2
+    ]
+   ]
+  },
+  "top_degree": [
+   [
+    "david-grusch",
+    67,
+    "person"
+   ],
+   [
+    "aaro",
+    61,
+    "institution"
+   ],
+   [
+    "aawsap",
+    59,
+    "program"
+   ],
+   [
+    "dod",
+    45,
+    "institution"
+   ],
+   [
+    "cia",
+    43,
+    "institution"
+   ],
+   [
+    "dird-series",
+    41,
+    "document"
+   ],
+   [
+    "pursue-releases",
+    40,
+    "program"
+   ],
+   [
+    "luis-elizondo",
+    38,
+    "person"
+   ],
+   [
+    "dia",
+    35,
+    "institution"
+   ],
+   [
+    "aaro-historical-record-vol1",
+    32,
+    "document"
+   ],
+   [
+    "lockheed-martin",
+    31,
+    "institution"
+   ],
+   [
+    "waived-sap-notification-group",
+    31,
+    "institution"
+   ],
+   [
+    "eric-burlison",
+    28,
+    "person"
+   ],
+   [
+    "project-blue-book",
+    27,
+    "program"
+   ],
+   [
+    "uapda-2023",
+    26,
+    "legislation"
+   ],
+   [
+    "anna-paulina-luna",
+    26,
+    "person"
+   ],
+   [
+    "mitre-corporation",
+    26,
+    "institution"
+   ],
+   [
+    "usaf",
+    25,
+    "institution"
+   ],
+   [
+    "hearing-2025-09-09",
+    23,
+    "event"
+   ],
+   [
+    "eric-davis",
+    22,
+    "person"
+   ],
+   [
+    "doe",
+    21,
+    "institution"
+   ],
+   [
+    "hearing-2023-07-26",
+    20,
+    "event"
+   ],
+   [
+    "nimitz-2004",
+    20,
+    "event"
+   ],
+   [
+    "baass",
+    19,
+    "institution"
+   ],
+   [
+    "george-knapp",
+    19,
+    "person"
+   ]
+  ],
+  "edge_offvocab_types": [
+   [
+    "contains",
+    32
+   ],
+   [
+    "testimony",
+    13
+   ],
+   [
+    "authorship",
+    7
+   ],
+   [
+    "oversight",
+    4
+   ],
+   [
+    "implements",
+    2
+   ],
+   [
+    "excludes",
+    2
+   ],
+   [
+    "sponsored",
+    1
+   ],
+   [
+    "authored",
+    1
+   ],
+   [
+    "prompted",
+    1
+   ],
+   [
+    "contracted",
+    1
+   ],
+   [
+    "subsidiary-of",
+    1
+   ],
+   [
+    "produced",
+    1
+   ],
+   [
+    "same-as",
+    1
+   ],
+   [
+    "managed",
+    1
+   ],
+   [
+    "instrument",
+    1
+   ],
+   [
+    "denied-by",
+    1
+   ],
+   [
+    "structural",
+    1
+   ],
+   [
+    "creates",
+    1
+   ],
+   [
+    "defines-audience",
+    1
+   ],
+   [
+    "subordinate-to",
+    1
+   ],
+   [
+    "codifies",
+    1
+   ],
+   [
+    "removes-oversight-by",
+    1
+   ],
+   [
+    "defines",
+    1
+   ],
+   [
+    "reissues-and-cancels",
+    1
+   ],
+   [
+    "incorporates-by-reference",
+    1
+   ],
+   [
+    "establishes-role-of",
+    1
+   ],
+   [
+    "maintains",
+    1
+   ],
+   [
+    "amends",
+    1
+   ],
+   [
+    "regulates-transfer-into",
+    1
+   ],
+   [
+    "conditions-funding-on",
+    1
+   ],
+   [
+    "produces",
+    1
+   ],
+   [
+    "authorizes",
+    1
+   ],
+   [
+    "falls-outside",
+    1
+   ],
+   [
+    "transfers-records-to",
+    1
+   ],
+   [
+    "held-by",
+    1
+   ]
+  ],
+  "edge_offvocab_files": [
+   [
+    "_rs-aawsap-dirds",
+    42
+   ],
+   [
+    "_rs-legislation",
+    22
+   ],
+   [
+    "_rs-sap-docs",
+    20
+   ],
+   [
+    "aawsap-aatip",
+    2
+   ],
+   [
+    "w11-brazil-harden",
+    2
+   ],
+   [
+    "five-observables",
+    1
+   ]
+  ],
+  "research_files": {
+   "_authority": {
+    "domain": "STRUCTURAL AUTHORITY. The board grades nodes on connections, which means it grades people on what they SAID and what documents they generated. That net catches witnesses, whistleblowers, journalists and FOIA requesters. It systematically un",
+    "people": 0,
+    "entities": 0,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "_corrections": {
+    "domain": "_corrections",
+    "people": 86,
+    "entities": 46,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 2
+   },
+   "_dird-verification": {
+    "domain": "Verification record for the 32 released Defense Intelligence Reference Documents, produced by downloading every PDF and reading it. It is kept in the repo because the verification is expensive to redo and the downloads themselves are epheme",
+    "people": 0,
+    "entities": 0,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "_edge_tiers": {
+    "domain": "",
+    "people": 0,
+    "entities": 0,
+    "edges": 16,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "_remediation": {
+    "domain": "_remediation",
+    "people": 338,
+    "entities": 798,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 1
+   },
+   "_removed": {
+    "domain": "Locations removed 14 Aug 2026 on Stewart's approval. Each failed the test 'does something that matters to THIS SUBJECT demonstrably happen here'. They were congressional home towns, researcher home bases and similar incidental biography, ca",
+    "people": 0,
+    "entities": 0,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "_rs-aaro-reports": {
+    "domain": "_rs-aaro-reports",
+    "people": 0,
+    "entities": 12,
+    "edges": 19,
+    "timeline": 13,
+    "gaps": 10
+   },
+   "_rs-aawsap-dirds": {
+    "domain": "_rs-aawsap-dirds",
+    "people": 5,
+    "entities": 42,
+    "edges": 42,
+    "timeline": 20,
+    "gaps": 11
+   },
+   "_rs-archive-mirror": {
+    "domain": "_rs-archive-mirror",
+    "people": 43,
+    "entities": 190,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 6
+   },
+   "_rs-legislation": {
+    "domain": "_rs-legislation",
+    "people": 23,
+    "entities": 31,
+    "edges": 28,
+    "timeline": 12,
+    "gaps": 9
+   },
+   "_rs-sap-docs": {
+    "domain": "_rs-sap-docs",
+    "people": 0,
+    "entities": 38,
+    "edges": 20,
+    "timeline": 22,
+    "gaps": 11
+   },
+   "_rs-stubs-known": {
+    "domain": "_rs-stubs-known",
+    "people": 0,
+    "entities": 17,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 11
+   },
+   "_stubs": {
+    "domain": "_stubs",
+    "people": 0,
+    "entities": 77,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 65
+   },
+   "aawsap-aatip": {
+    "domain": "aawsap-aatip",
+    "people": 17,
+    "entities": 27,
+    "edges": 68,
+    "timeline": 34,
+    "gaps": 13
+   },
+   "area52-2026-09-02": {
+    "domain": "area52-2026-09-02",
+    "people": 8,
+    "entities": 22,
+    "edges": 79,
+    "timeline": 20,
+    "gaps": 20
+   },
+   "arv-2026-09-18": {
+    "domain": "arv-2026-09-18",
+    "people": 2,
+    "entities": 7,
+    "edges": 31,
+    "timeline": 18,
+    "gaps": 9
+   },
+   "aviators-incidents": {
+    "domain": "aviators-incidents",
+    "people": 18,
+    "entities": 29,
+    "edges": 98,
+    "timeline": 50,
+    "gaps": 15
+   },
+   "congress-house": {
+    "domain": "congress-house",
+    "people": 27,
+    "entities": 29,
+    "edges": 128,
+    "timeline": 40,
+    "gaps": 13
+   },
+   "congress-senate-legislation": {
+    "domain": "congress-senate-legislation",
+    "people": 15,
+    "entities": 24,
+    "edges": 67,
+    "timeline": 25,
+    "gaps": 9
+   },
+   "dannyjones-2026-09-03": {
+    "domain": "dannyjones-2026-09-03",
+    "people": 11,
+    "entities": 19,
+    "edges": 112,
+    "timeline": 1,
+    "gaps": 29
+   },
+   "disclosure-project-2026-09-19": {
+    "domain": "disclosure-project-2026-09-19",
+    "people": 13,
+    "entities": 11,
+    "edges": 39,
+    "timeline": 24,
+    "gaps": 14
+   },
+   "dulce-2026-09-19": {
+    "domain": "dulce-2026-09-19",
+    "people": 13,
+    "entities": 16,
+    "edges": 32,
+    "timeline": 24,
+    "gaps": 12
+   },
+   "elizondo-ttsa": {
+    "domain": "elizondo-ttsa",
+    "people": 19,
+    "entities": 26,
+    "edges": 87,
+    "timeline": 48,
+    "gaps": 12
+   },
+   "ffrdcs": {
+    "domain": "ffrdcs",
+    "people": 14,
+    "entities": 33,
+    "edges": 79,
+    "timeline": 38,
+    "gaps": 12
+   },
+   "five-observables": {
+    "domain": "five-observables",
+    "people": 0,
+    "entities": 1,
+    "edges": 3,
+    "timeline": 1,
+    "gaps": 4
+   },
+   "grusch": {
+    "domain": "grusch",
+    "people": 28,
+    "entities": 22,
+    "edges": 79,
+    "timeline": 31,
+    "gaps": 13
+   },
+   "history-1940s-1960s": {
+    "domain": "history-1940s-1960s",
+    "people": 19,
+    "entities": 24,
+    "edges": 79,
+    "timeline": 35,
+    "gaps": 11
+   },
+   "history-1970s-2000s": {
+    "domain": "history-1970s-2000s",
+    "people": 25,
+    "entities": 30,
+    "edges": 79,
+    "timeline": 49,
+    "gaps": 14
+   },
+   "lazar-s4-2026-09-18": {
+    "domain": "lazar-s4-2026-09-18",
+    "people": 9,
+    "entities": 19,
+    "edges": 43,
+    "timeline": 27,
+    "gaps": 16
+   },
+   "legacy-1947-86": {
+    "domain": "legacy-1947-86",
+    "people": 7,
+    "entities": 16,
+    "edges": 23,
+    "timeline": 13,
+    "gaps": 13
+   },
+   "media-structure": {
+    "domain": "media-structure",
+    "people": 20,
+    "entities": 28,
+    "edges": 100,
+    "timeline": 39,
+    "gaps": 14
+   },
+   "michels-2026-09-02-c": {
+    "domain": "michels-2026-09-02-c",
+    "people": 0,
+    "entities": 0,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 17
+   },
+   "michels-2026-09-02": {
+    "domain": "michels-2026-09-02",
+    "people": 8,
+    "entities": 12,
+    "edges": 76,
+    "timeline": 7,
+    "gaps": 8
+   },
+   "nsc-eo-spine-2026-09-19": {
+    "domain": "The National Security Council and the classification / covert-action spine, 1947 to 1985",
+    "people": 0,
+    "entities": 11,
+    "edges": 24,
+    "timeline": 9,
+    "gaps": 6
+   },
+   "observables-view": {
+    "domain": "The five observables, as an authored editorial surface. SEPARATE FROM research/five-observables.json ON PURPOSE: that file is board research and produces a node, its claims and its edges. This file is what a VIEW draws, and it exists as its",
+    "people": 0,
+    "entities": 0,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "pais-patents": {
+    "domain": "pais-patents",
+    "people": 1,
+    "entities": 6,
+    "edges": 10,
+    "timeline": 12,
+    "gaps": 6
+   },
+   "patents-view": {
+    "domain": "The PATENTS tab, as authored editorial data. Built to the mockup signed off by Stewart on 29 August 2026 (notes/PATENTS-TAB-MOCKUP-2026-08-29.md), on the data/l0-highlights.json precedent: the content lives here and is gate-checked, and too",
+    "people": 0,
+    "entities": 0,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "primes-custody": {
+    "domain": "primes-custody",
+    "people": 19,
+    "entities": 38,
+    "edges": 80,
+    "timeline": 33,
+    "gaps": 15
+   },
+   "propulsion-2026-09-19": {
+    "domain": "propulsion-2026-09-19",
+    "people": 6,
+    "entities": 17,
+    "edges": 24,
+    "timeline": 24,
+    "gaps": 12
+   },
+   "releases-2023-2026": {
+    "domain": "releases-2023-2026",
+    "people": 14,
+    "entities": 34,
+    "edges": 81,
+    "timeline": 35,
+    "gaps": 14
+   },
+   "scientists-technical": {
+    "domain": "scientists-technical",
+    "people": 23,
+    "entities": 33,
+    "edges": 93,
+    "timeline": 46,
+    "gaps": 16
+   },
+   "threads": {
+    "domain": "The eight threads of the THREADS page (#/t/<id>), authored. Design's order and titles are notes/DESIGN-RESPONSE-SHELL-2026-09-02.md section 1.6; the steps are re-derived here against the full board rather than against the extract.",
+    "people": 0,
+    "entities": 0,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "tr3b-2026-09-18": {
+    "domain": "tr3b-2026-09-18",
+    "people": 3,
+    "entities": 8,
+    "edges": 29,
+    "timeline": 17,
+    "gaps": 19
+   },
+   "uaptf-aaro": {
+    "domain": "uaptf-aaro",
+    "people": 18,
+    "entities": 24,
+    "edges": 87,
+    "timeline": 44,
+    "gaps": 12
+   },
+   "w10-brazil": {
+    "domain": "",
+    "people": 0,
+    "entities": 2,
+    "edges": 33,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w10-collapse": {
+    "domain": "Collapse pass 14 Aug 2026. varginha-1996/ev-varginha-1996 and dod-sapco/dod-sapco-arch were the same object entered twice. d-money was a FACET of d-funding, not a peer: its own description opens by saying it narrows d-funding to a single qu",
+    "people": 0,
+    "entities": 0,
+    "edges": 7,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w10-domains": {
+    "domain": "",
+    "people": 0,
+    "entities": 0,
+    "edges": 55,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w10-notification-gaps": {
+    "domain": "",
+    "people": 4,
+    "entities": 0,
+    "edges": 11,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w11-brazil-harden": {
+    "domain": "",
+    "people": 0,
+    "entities": 4,
+    "edges": 2,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w11-final-unattached": {
+    "domain": "",
+    "people": 1,
+    "entities": 3,
+    "edges": 14,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w11-setka-collapse": {
+    "domain": "setka and setka-program were the same USSR programme entered twice. setka-program survives: 'program' is the correct class for a research programme and setka was mis-classed as an institution. Its dossier is carried across.",
+    "people": 0,
+    "entities": 0,
+    "edges": 5,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w11-statutory": {
+    "domain": "",
+    "people": 0,
+    "entities": 4,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-brazil-edges": {
+    "domain": "w12-brazil-edges",
+    "people": 0,
+    "entities": 1,
+    "edges": 36,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-dird-author-edges": {
+    "domain": "w12-dird-author-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 61,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-dird-programme-edges": {
+    "domain": "w12-dird-programme-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 50,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-dird-series-edges": {
+    "domain": "w12-dird-series-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 32,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-dod-house-sources": {
+    "domain": "w12-dod-house-sources",
+    "people": 0,
+    "entities": 0,
+    "edges": 18,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-duplicate-collapse": {
+    "domain": "w12-duplicate-collapse",
+    "people": 1,
+    "entities": 8,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-eo13526": {
+    "domain": "w12-eo13526",
+    "people": 0,
+    "entities": 1,
+    "edges": 1,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-narrative-edges": {
+    "domain": "w12-narrative-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 14,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-nispom-carveout": {
+    "domain": "w12-nispom-carveout",
+    "people": 0,
+    "entities": 2,
+    "edges": 3,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-notification-group-sources": {
+    "domain": "w12-notification-group-sources",
+    "people": 0,
+    "entities": 0,
+    "edges": 29,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-sap-statutory-edges": {
+    "domain": "w12-sap-statutory-edges",
+    "people": 0,
+    "entities": 3,
+    "edges": 7,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-sec6802-edges": {
+    "domain": "w12-sec6802-edges",
+    "people": 0,
+    "entities": 1,
+    "edges": 6,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-tiera-wiring": {
+    "domain": "w12-tiera-wiring",
+    "people": 0,
+    "entities": 0,
+    "edges": 7,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w12-twin-edges": {
+    "domain": "w12-twin-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 15,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w13-aawsap-legislative-edges": {
+    "domain": "w13-aawsap-legislative-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 12,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w13-geographic-edges": {
+    "domain": "w13-geographic-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 20,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w13-research-edges": {
+    "domain": "w13-research-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 9,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w13-thin-people": {
+    "domain": "w13-thin-people",
+    "people": 1,
+    "entities": 0,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-aztec-enigma-edges": {
+    "domain": "w14-aztec-enigma-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 3,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-harvard-raytheon-edges": {
+    "domain": "w14-harvard-raytheon-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 3,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-hearing-edges": {
+    "domain": "w14-hearing-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 15,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-iaa-edges": {
+    "domain": "w14-iaa-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 3,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-institutional-edges": {
+    "domain": "w14-institutional-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 7,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-intercept-edges": {
+    "domain": "w14-intercept-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 4,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-lasvegas-wayne-edges": {
+    "domain": "w14-lasvegas-wayne-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 5,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-misc-edges": {
+    "domain": "w14-misc-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 3,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-navy-edges": {
+    "domain": "w14-navy-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 5,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-odni-peru-edges": {
+    "domain": "w14-odni-peru-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 3,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w14-roswell-clarke-edges": {
+    "domain": "w14-roswell-clarke-edges",
+    "people": 0,
+    "entities": 0,
+    "edges": 2,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w15-live-originals": {
+    "domain": "w15-live-originals",
+    "people": 0,
+    "entities": 8,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w16-thin-people": {
+    "domain": "w16-thin-people",
+    "people": 14,
+    "entities": 0,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w17-wayne-etrd": {
+    "domain": "w17-wayne-etrd",
+    "people": 2,
+    "entities": 0,
+    "edges": 0,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w2-2025-2026": {
+    "domain": "w2-2025-2026",
+    "people": 17,
+    "entities": 28,
+    "edges": 80,
+    "timeline": 44,
+    "gaps": 21
+   },
+   "w2-agencies": {
+    "domain": "w2-agencies",
+    "people": 2,
+    "entities": 27,
+    "edges": 93,
+    "timeline": 33,
+    "gaps": 14
+   },
+   "w2-black-budget": {
+    "domain": "w2-black-budget",
+    "people": 9,
+    "entities": 32,
+    "edges": 56,
+    "timeline": 31,
+    "gaps": 15
+   },
+   "w2-international": {
+    "domain": "w2-international",
+    "people": 19,
+    "entities": 39,
+    "edges": 65,
+    "timeline": 35,
+    "gaps": 16
+   },
+   "w2-places-events": {
+    "domain": "w2-places-events",
+    "people": 0,
+    "entities": 39,
+    "edges": 93,
+    "timeline": 35,
+    "gaps": 12
+   },
+   "w2-retrieval-literature": {
+    "domain": "w2-retrieval-literature",
+    "people": 25,
+    "entities": 28,
+    "edges": 68,
+    "timeline": 46,
+    "gaps": 11
+   },
+   "w2-sap-architecture": {
+    "domain": "w2-sap-architecture",
+    "people": 0,
+    "entities": 37,
+    "edges": 77,
+    "timeline": 19,
+    "gaps": 13
+   },
+   "w2-taxonomy": {
+    "domain": "w2-taxonomy",
+    "people": 0,
+    "entities": 104,
+    "edges": 61,
+    "timeline": 23,
+    "gaps": 13
+   },
+   "w6-edges-inst-a": {
+    "domain": "",
+    "people": 0,
+    "entities": 0,
+    "edges": 28,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w6-edges-inst-b": {
+    "domain": "",
+    "people": 0,
+    "entities": 0,
+    "edges": 24,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w6-edges-locations": {
+    "domain": "",
+    "people": 0,
+    "entities": 0,
+    "edges": 25,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w6-edges-people": {
+    "domain": "",
+    "people": 0,
+    "entities": 0,
+    "edges": 30,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w6-international": {
+    "domain": "w6-international",
+    "people": 0,
+    "entities": 5,
+    "edges": 18,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w7-dirds-1": {
+    "domain": "",
+    "people": 5,
+    "entities": 8,
+    "edges": 36,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w7-dirds-2": {
+    "domain": "",
+    "people": 7,
+    "entities": 8,
+    "edges": 27,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w7-dirds-3": {
+    "domain": "",
+    "people": 6,
+    "entities": 8,
+    "edges": 29,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w7-dirds-4": {
+    "domain": "AAWSAP/AATIP Defense Intelligence Reference Documents (DIRDs)  -  batch 4 of 4. Authorship, affiliation, DIA document number, publication date and Intelligence Cut-Off Date established for eight DIRDs, and edges written to connect each docume",
+    "people": 7,
+    "entities": 8,
+    "edges": 29,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w8-collapse": {
+    "domain": "",
+    "people": 0,
+    "entities": 0,
+    "edges": 7,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "w9-waived-sap-group": {
+    "domain": "",
+    "people": 12,
+    "entities": 1,
+    "edges": 28,
+    "timeline": 0,
+    "gaps": 0
+   },
+   "witnesses-2026-09-18": {
+    "domain": "witnesses-2026-09-18",
+    "people": 6,
+    "entities": 1,
+    "edges": 7,
+    "timeline": 3,
+    "gaps": 9
+   }
+  },
+  "sub_conflict_examples": [
+   [
+    "aaro-historical-record-vol1",
+    {
+     "report": [
+      "_rs-aaro-reports"
+     ],
+     "official-report": [
+      "_rs-aawsap-dirds"
+     ],
+     "DoD official history of USG UAP programs, DOPSR-2024-0263": [
+      "aawsap-aatip"
+     ],
+     "DOPSR-2024-0263, released 8 March 2024": [
+      "grusch",
+      "history-1970s-2000s"
+     ],
+     "All-domain Anomaly Resolution Office, February 2024": [
+      "history-1940s-1960s"
+     ],
+     "Published 8 March 2024; the official denial and the fullest official catalogue of the allegation": [
+      "primes-custody"
+     ],
+     "DOPSR-2024-0263; released 8 March 2024": [
+      "releases-2023-2026"
+     ],
+     "63-page congressionally directed report, Feb 2024 / released 8 Mar 2024": [
+      "uaptf-aaro"
+     ]
+    }
+   ],
+   [
+    "aaro-historical-record-vol2",
+    {
+     "report": [
+      "_rs-aaro-reports"
+     ],
+     "Promised 2024, then late 2025; unpublished as of 12 August 2026": [
+      "releases-2023-2026"
+     ],
+     "Congressionally directed second volume; promised 2024, then late 2025; unpublished as of Aug 2026": [
+      "uaptf-aaro"
+     ]
+    }
+   ],
+   [
+    "odni-preliminary-assessment-2021",
+    {
+     "report": [
+      "_rs-aaro-reports"
+     ],
+     "9-page unclassified assessment; 144 incidents, 143 unexplained": [
+      "releases-2023-2026",
+      "uaptf-aaro"
+     ]
+    }
+   ],
+   [
+    "aawsap",
+    {
+     "dia-program": [
+      "_rs-aawsap-dirds"
+     ],
+     "DIA contracted study program, 2008-2012": [
+      "aawsap-aatip"
+     ]
+    }
+   ],
+   [
+    "aatip",
+    {
+     "dia-program": [
+      "_rs-aawsap-dirds"
+     ],
+     "Program designation used by Congress, DIA and DoD, 2009-2017": [
+      "aawsap-aatip"
+     ],
+     "OSD/DIA program, c.2008-2012 per DoD; continued informally to 2017 per Elizondo": [
+      "elizondo-ttsa"
+     ]
+    }
+   ],
+   [
+    "baass",
+    {
+     "contractor": [
+      "_rs-aawsap-dirds"
+     ],
+     "Prime contractor, DIA contract HHM402-08-C-0072": [
+      "aawsap-aatip"
+     ]
+    }
+   ],
+   [
+    "bigelow-aerospace",
+    {
+     "contractor": [
+      "_rs-aawsap-dirds"
+     ],
+     "Private aerospace firm, North Las Vegas, NV": [
+      "aawsap-aatip"
+     ],
+     "DIA AAWSAP prime contractor, 2008-2012; private intended recipient of transferred material": [
+      "primes-custody"
+     ]
+    }
+   ],
+   [
+    "dird-advanced-nuclear-propulsion-for-manned-deep",
+    {
+     "defense-intelligence-reference-document": [
+      "_rs-aawsap-dirds"
+     ],
+     "Dr F. Winterberg, University of Nevada-Reno | DIA-08-1003-007 | Acquisition Threat Support | published 11 March 2010 | ICOD 1 December 2009": [
+      "w7-dirds-1"
+     ]
+    }
+   ],
+   [
+    "dird-advanced-space-propulsion-based-on-vacuum",
+    {
+     "defense-intelligence-reference-document": [
+      "_rs-aawsap-dirds"
+     ],
+     "Dr Hal Puthoff, EarthTech International | DIA-08-1003-015 | Acquisition Threat Support | published 29 March 2010 | ICOD 1 December 2009": [
+      "w7-dirds-1"
+     ]
+    }
+   ],
+   [
+    "dird-aerospace-applications-of-programmable-matter",
+    {
+     "defense-intelligence-reference-document": [
+      "_rs-aawsap-dirds"
+     ],
+     "Dr W. McCarthy, Programmable Matter Corporation | DIA-08-0911-016 | Acquisition Threat Support | published 14 December 2009 | ICOD 1 December 2009": [
+      "w7-dirds-1"
+     ]
+    }
+   ],
+   [
+    "dird-an-introduction-to-the-statistical-drake",
+    {
+     "defense-intelligence-reference-document": [
+      "_rs-aawsap-dirds"
+     ],
+     "Dr Claudio Maccone, International Academy of Astronautics | DIA document number not recoverable from released scan | Acquisition Threat Support | published 11 March 2010 | ICOD 1 December 2009": [
+      "w7-dirds-1"
+     ]
+    }
+   ],
+   [
+    "dird-aneutronic-fusion-propulsion",
+    {
+     "defense-intelligence-reference-document": [
+      "_rs-aawsap-dirds"
+     ],
+     "Attributed to Dr W. Culbreth, University of Nevada-Las Vegas (see note) | DIA-08-1011-003 | Defense Futures | published 1 November 2010 | ICOD 20 July 2010": [
+      "w7-dirds-1"
+     ]
+    }
+   ]
+  ],
+  "status_conflict_examples": [
+   [
+    "luis-elizondo",
+    [
+     "active",
+     "former"
+    ]
+   ],
+   [
+    "kirk-mcconnell",
+    [
+     "active",
+     "former"
+    ]
+   ]
+  ],
+  "cls_conflict_examples": [
+   [
+    "sap-taxonomy",
+    [
+     "domain",
+     "program"
+    ]
+   ],
+   [
+    "sap-cover-mechanisms",
+    [
+     "domain",
+     "program"
+    ]
+   ],
+   [
+    "uap-science-advisory-council",
+    [
+     "institution",
+     "program"
+    ]
+   ],
+   [
+    "eo-13526",
+    [
+     "document",
+     "legislation"
+    ]
+   ],
+   [
+    "eo-12829",
+    [
+     "document",
+     "legislation"
+    ]
+   ],
+   [
+    "four-regime-map",
+    [
+     "domain",
+     "program"
+    ]
+   ],
+   [
+    "nids",
+    [
+     "institution",
+     "program"
+    ]
+   ],
+   [
+    "cometa",
+    [
+     "document",
+     "institution"
+    ]
+   ]
+  ],
+  "claim_source_domains_top30": [
+   [
+    "govinfo.gov",
+    227
+   ],
+   [
+    "archive.org",
+    207
+   ],
+   [
+    "dia.mil",
+    181
+   ],
+   [
+    "documents2.theblackvault.com",
+    101
+   ],
+   [
+    "irp.fas.org",
+    80
+   ],
+   [
+    "media.defense.gov",
+    58
+   ],
+   [
+    "theblackvault.com",
+    55
+   ],
+   [
+    "defensescoop.com",
+    53
+   ],
+   [
+    "web.archive.org",
+    52
+   ],
+   [
+    "cdn.centerforinquiry.org",
+    50
+   ],
+   [
+    "mgln.ai",
+    48
+   ],
+   [
+    "esd.whs.mil",
+    44
+   ],
+   [
+    "aaro.mil",
+    43
+   ],
+   [
+    "uscode.house.gov",
+    39
+   ],
+   [
+    "ufos-scientificresearch.blogspot.com",
+    37
+   ],
+   [
+    "ntrs.nasa.gov",
+    34
+   ],
+   [
+    "history.state.gov",
+    33
+   ],
+   [
+    "catalog.archives.gov",
+    32
+   ],
+   [
+    "arvp.co.uk",
+    32
+   ],
+   [
+    "checktheevidence.com",
+    30
+   ],
+   [
+    "otherhand.org",
+    28
+   ],
+   [
+    "intelligence.senate.gov",
+    26
+   ],
+   [
+    "burlison.house.gov",
+    23
+   ],
+   [
+    "patentimages.storage.googleapis.com",
+    22
+   ],
+   [
+    "documents.theblackvault.com",
+    22
+   ],
+   [
+    "noriohayakawa.wordpress.com",
+    21
+   ],
+   [
+    "oversight.house.gov",
+    20
+   ],
+   [
+    "en.wikipedia.org",
+    19
+   ],
+   [
+    "nicap.org",
+    19
+   ],
+   [
+    "archives.gov",
+    18
+   ]
+  ],
+  "all_structured_source_domains_top30": [
+   [
+    "govinfo.gov",
+    748
+   ],
+   [
+    "web.archive.org",
+    629
+   ],
+   [
+    "archive.org",
+    436
+   ],
+   [
+    "documents2.theblackvault.com",
+    384
+   ],
+   [
+    "en.wikipedia.org",
+    350
+   ],
+   [
+    "theblackvault.com",
+    332
+   ],
+   [
+    "dia.mil",
+    309
+   ],
+   [
+    "oversight.house.gov",
+    260
+   ],
+   [
+    "media.defense.gov",
+    159
+   ],
+   [
+    "uscode.house.gov",
+    158
+   ],
+   [
+    "youtube.com",
+    153
+   ],
+   [
+    "thedebrief.org",
+    150
+   ],
+   [
+    "congress.gov",
+    146
+   ],
+   [
+    "defensescoop.com",
+    143
+   ],
+   [
+    "aaro.mil",
+    141
+   ],
+   [
+    "irp.fas.org",
+    140
+   ],
+   [
+    "archives.gov",
+    123
+   ],
+   [
+    "twz.com",
+    118
+   ],
+   [
+    "doi.org",
+    115
+   ],
+   [
+    "war.gov",
+    112
+   ],
+   [
+    "nicap.org",
+    110
+   ],
+   [
+    "thehill.com",
+    100
+   ],
+   [
+    "thesolfoundation.org",
+    98
+   ],
+   [
+    "esd.whs.mil",
+    79
+   ],
+   [
+    "ufos-scientificresearch.blogspot.com",
+    75
+   ],
+   [
+    "mgln.ai",
+    67
+   ],
+   [
+    "documents.theblackvault.com",
+    67
+   ],
+   [
+    "gao.gov",
+    65
+   ],
+   [
+    "sec.gov",
+    62
+   ],
+   [
+    "fas.org",
+    60
+   ]
+  ],
+  "top40_canonical_docs": [
+   {
+    "doc": "PL 118-31",
+    "claims": 94,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "iaa-2024",
+     "ndaa-fy2024",
+     "ndaa-fy2024-subtitle-c",
+     "pl118-31-sec-1687"
+    ],
+    "doc_or_leg_node_first_source": [
+     "iaa-2024",
+     "iaa-fy2024-7343",
+     "iaa24-sec7343",
+     "ndaa-fy2024"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 14
+   },
+   {
+    "doc": "10 USC 119",
+    "claims": 73,
+    "method": "url+id",
+    "doc_or_leg_node_strict": [
+     "usc-10-119",
+     "usc-10-119e"
+    ],
+    "doc_or_leg_node_first_source": [
+     "pl-100-180",
+     "sap-annual-report",
+     "usc-10-119",
+     "usc-10-119e"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 5
+   },
+   {
+    "doc": "CHRG-119hhrg61718",
+    "claims": 67,
+    "method": "id",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "crane-dod-reprisal-letter",
+     "crane-secdef-grusch-reprisal-letter-2025"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 3
+   },
+   {
+    "doc": "DODI 5205.11",
+    "claims": 61,
+    "method": "url+id",
+    "doc_or_leg_node_strict": [
+     "dodi-5205-11"
+    ],
+    "doc_or_leg_node_first_source": [
+     "dodi-5205-11"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "CHRG-118hhrg53022",
+    "claims": 57,
+    "method": "id",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [],
+    "event_node": [
+     "hearing-2023-07-26"
+    ],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "DODD 5205.07",
+    "claims": 57,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "dodd-5205-07-2010",
+     "dodd-5205-07-2024"
+    ],
+    "doc_or_leg_node_first_source": [
+     "dodd-5205-07-2010",
+     "dodd-5205-07-2024"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 3
+   },
+   {
+    "doc": "CHRG-118hhrg57440",
+    "claims": 55,
+    "method": "id",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 1
+   },
+   {
+    "doc": "GAO-NSIAD-95-187",
+    "claims": 50,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "gao-nsiad-95-187",
+     "gao-roswell-report-1995"
+    ],
+    "doc_or_leg_node_first_source": [
+     "gao-nsiad-95-187",
+     "gao-roswell-report-1995"
+    ],
+    "event_node": [
+     "roswell-1947"
+    ],
+    "cited_by_doc_nodes_any_source": 5
+   },
+   {
+    "doc": "archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+    "claims": 47,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "disclosure-project-briefing-2001"
+    ],
+    "event_node": [
+     "rendlesham-1980"
+    ],
+    "cited_by_doc_nodes_any_source": 1
+   },
+   {
+    "doc": "S 2226",
+    "claims": 45,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "s2226-118",
+     "samdt-797",
+     "uapda-2023"
+    ],
+    "doc_or_leg_node_first_source": [
+     "controlled-disclosure-campaign-plan",
+     "iaa-fy2024-sec-1102",
+     "s2226-118",
+     "uapda-2023"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 11
+   },
+   {
+    "doc": "irp.fas.org/dia/aatip-list.pdf",
+    "claims": 44,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 26
+   },
+   {
+    "doc": "PL 119-60",
+    "claims": 34,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "ndaa-fy2026"
+    ],
+    "doc_or_leg_node_first_source": [
+     "classified-programs-line",
+     "classified-schedule-authorizations",
+     "ndaa-fy2026",
+     "ndaa26-uap-provisions"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 9
+   },
+   {
+    "doc": "ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+    "claims": 34,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 17
+   },
+   {
+    "doc": "DODM 5205.07",
+    "claims": 34,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "dodm-5205-07-series",
+     "dodm-5205-07-v1"
+    ],
+    "doc_or_leg_node_first_source": [
+     "dodm-5205-07-series",
+     "dodm-5205-07-v1"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "PL 117-263",
+    "claims": 33,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "iaa-2023",
+     "ndaa-fy2023",
+     "ndaa-fy2023-sec-1673",
+     "ndaa-fy2023-sec-6802"
+    ],
+    "doc_or_leg_node_first_source": [
+     "iaa-2023",
+     "ndaa-fy2023",
+     "ndaa-fy2023-sec-1673",
+     "ndaa-fy2023-sec-6802"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 8
+   },
+   {
+    "doc": "ICD 906",
+    "claims": 31,
+    "method": "url+id",
+    "doc_or_leg_node_strict": [
+     "icd-906"
+    ],
+    "doc_or_leg_node_first_source": [
+     "capco-register",
+     "icd-906"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 3
+   },
+   {
+    "doc": "cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf",
+    "claims": 30,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 0
+   },
+   {
+    "doc": "arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+    "claims": 25,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "scott-sorensen-notes-1990"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 1
+   },
+   {
+    "doc": "cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf",
+    "claims": 20,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 0
+   },
+   {
+    "doc": "50 USC 3091a",
+    "claims": 20,
+    "method": "url+id",
+    "doc_or_leg_node_strict": [
+     "usc-50-3091a"
+    ],
+    "doc_or_leg_node_first_source": [
+     "usc-50-3091a"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 1
+   },
+   {
+    "doc": "ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf",
+    "claims": 19,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "millis-tm-2004-213082"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+    "claims": 18,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "aaro-fy2025-annual-report"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 1
+   },
+   {
+    "doc": "media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+    "claims": 17,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "aaro-historical-record-vol2"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 3
+   },
+   {
+    "doc": "PL 118-159",
+    "claims": 16,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "iaa-fy2025-title-lxviii",
+     "ndaa-fy2025",
+     "usc-50-3091a-2024amend"
+    ],
+    "doc_or_leg_node_first_source": [
+     "iaa-fy2025-title-lxviii",
+     "ndaa-fy2025",
+     "usc-50-3091a-2024amend"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 11
+   },
+   {
+    "doc": "50 USC 3348",
+    "claims": 16,
+    "method": "url+id",
+    "doc_or_leg_node_strict": [
+     "usc-50-3348"
+    ],
+    "doc_or_leg_node_first_source": [
+     "usc-50-3348"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "50 USC 3093",
+    "claims": 15,
+    "method": "url+id",
+    "doc_or_leg_node_strict": [
+     "usc-50-3093"
+    ],
+    "doc_or_leg_node_first_source": [
+     "usc-50-3093"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "FOIA 18-F-0324",
+    "claims": 14,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "foia-18-f-0324"
+    ],
+    "doc_or_leg_node_first_source": [
+     "elizondo-resignation-letter-1",
+     "elizondo-resignation-letter-2",
+     "foia-18-f-0324",
+     "garry-reid-memo-2017"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 4
+   },
+   {
+    "doc": "checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf",
+    "claims": 14,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "fouche-iufoc-1998"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "irp.fas.org/budget/index.html",
+    "claims": 14,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "intel-budget-disclosure-record",
+     "nip-fy2013-summary-disclosure"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+    "claims": 13,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 1
+   },
+   {
+    "doc": "intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "claims": 13,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "john-marks-foia-f-76-374"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 1
+   },
+   {
+    "doc": "checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf",
+    "claims": 13,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "fouche-afftc-det3-1979",
+     "fouche-military-documents"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+    "claims": 12,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "odni-memo-es-2026-00818"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "EO 13526",
+    "claims": 12,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "eo-13526"
+    ],
+    "doc_or_leg_node_first_source": [
+     "eo-13526"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   },
+   {
+    "doc": "PL 119-75",
+    "claims": 12,
+    "method": "id",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "classified-annex",
+     "sec-8005-transfer",
+     "sec-8009-sap-notice",
+     "sec-8084-nip-reprogramming"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 4
+   },
+   {
+    "doc": "ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+    "claims": 12,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "doc-cometa-report"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 1
+   },
+   {
+    "doc": "US-PAT 10144532",
+    "claims": 11,
+    "method": "url+id",
+    "doc_or_leg_node_strict": [
+     "pais-patent-imrd"
+    ],
+    "doc_or_leg_node_first_source": [
+     "pais-patent-imrd"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 1
+   },
+   {
+    "doc": "SAMDT 797",
+    "claims": 11,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "samdt-797",
+     "uapda-2023"
+    ],
+    "doc_or_leg_node_first_source": [],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 3
+   },
+   {
+    "doc": "files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+    "claims": 11,
+    "method": "url",
+    "doc_or_leg_node_strict": [],
+    "doc_or_leg_node_first_source": [
+     "sffas-56"
+    ],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 1
+   },
+   {
+    "doc": "50 USC 3373",
+    "claims": 11,
+    "method": "id",
+    "doc_or_leg_node_strict": [
+     "iaa-2022",
+     "ndaa-fy2022",
+     "ndaa-fy2022-sec-1683",
+     "ndaa-fy2023"
+    ],
+    "doc_or_leg_node_first_source": [],
+    "event_node": [],
+    "cited_by_doc_nodes_any_source": 2
+   }
+  ],
+  "top30_title_heads_no_url_no_id": [
+   [
+    "wikipedia",
+    62
+   ],
+   [
+    "defensescoop",
+    43
+   ],
+   [
+    "uap gerb",
+    43
+   ],
+   [
+    "aaro historical record report volume i",
+    43
+   ],
+   [
+    "american alchemy with jesse michels",
+    37
+   ],
+   [
+    "the debrief",
+    37
+   ],
+   [
+    "uspto file wrapper",
+    24
+   ],
+   [
+    "aaro historical record report volume 1",
+    21
+   ],
+   [
+    "house oversight hearing transcript",
+    21
+   ],
+   [
+    "national archives",
+    21
+   ],
+   [
+    "the roswell report",
+    21
+   ],
+   [
+    "danny jones podcast",
+    20
+   ],
+   [
+    "cometa report",
+    20
+   ],
+   [
+    "aaro fy2025 consolidated annual report on uap",
+    19
+   ],
+   [
+    "condon report",
+    18
+   ],
+   [
+    "the hill",
+    18
+   ],
+   [
+    "project condign",
+    18
+   ],
+   [
+    "aaro",
+    17
+   ],
+   [
+    "odni preliminary assessment",
+    16
+   ],
+   [
+    "fox news",
+    15
+   ],
+   [
+    "the sol foundation",
+    15
+   ],
+   [
+    "stringfield",
+    15
+   ],
+   [
+    "sec edgar",
+    14
+   ],
+   [
+    "the black vault",
+    14
+   ],
+   [
+    "ryan graves",
+    12
+   ],
+   [
+    "george knapp",
+    12
+   ],
+   [
+    "usaspending.gov recipient search",
+    12
+   ],
+   [
+    "usaf",
+    12
+   ],
+   [
+    "robertson panel report",
+    12
+   ],
+   [
+    "nsf ncses master government list of ffrdcs",
+    12
+   ]
+  ],
+  "timeline_id_prefixes": [
+   [
+    "tl",
+    550
+   ],
+   [
+    "av",
+    50
+   ],
+   [
+    "t",
+    47
+   ],
+   [
+    "st",
+    46
+   ],
+   [
+    "sap",
+    41
+   ],
+   [
+    "ch",
+    40
+   ],
+   [
+    "ms",
+    39
+   ],
+   [
+    "",
+    33
+   ],
+   [
+    "rel",
+    33
+   ],
+   [
+    "ag",
+    32
+   ],
+   [
+    "pc",
+    32
+   ],
+   [
+    "bb",
+    31
+   ],
+   [
+    "g",
+    31
+   ],
+   [
+    "cl",
+    23
+   ],
+   [
+    "tx",
+    22
+   ],
+   [
+    "spine",
+    9
+   ]
+  ],
+  "id_prefix_by_cls": [
+   [
+    "person:(none)",
+    230
+   ],
+   [
+    "institution:(none)",
+    134
+   ],
+   [
+    "document:(none)",
+    100
+   ],
+   [
+    "location:l",
+    71
+   ],
+   [
+    "program:(none)",
+    58
+   ],
+   [
+    "event:(none)",
+    56
+   ],
+   [
+    "domain:d",
+    53
+   ],
+   [
+    "document:dird",
+    35
+   ],
+   [
+    "document:aaro",
+    14
+   ],
+   [
+    "legislation:ndaa",
+    13
+   ],
+   [
+    "legislation:(none)",
+    13
+   ],
+   [
+    "person:john",
+    11
+   ],
+   [
+    "legislation:usc",
+    10
+   ],
+   [
+    "event:ev",
+    8
+   ],
+   [
+    "legislation:iaa",
+    7
+   ],
+   [
+    "legislation:eo",
+    7
+   ],
+   [
+    "legislation:hr",
+    7
+   ],
+   [
+    "person:mark",
+    6
+   ],
+   [
+    "document:gerb",
+    6
+   ],
+   [
+    "person:mike",
+    5
+   ],
+   [
+    "document:dia",
+    5
+   ],
+   [
+    "document:gao",
+    5
+   ],
+   [
+    "document:doc",
+    5
+   ],
+   [
+    "document:pais",
+    5
+   ],
+   [
+    "person:tim",
+    4
+   ],
+   [
+    "document:odni",
+    4
+   ],
+   [
+    "institution:the",
+    4
+   ],
+   [
+    "legislation:sec",
+    4
+   ],
+   [
+    "person:eric",
+    3
+   ],
+   [
+    "person:tom",
+    3
+   ],
+   [
+    "person:jim",
+    3
+   ],
+   [
+    "domain:sap",
+    3
+   ],
+   [
+    "document:navy",
+    3
+   ],
+   [
+    "institution:uap",
+    3
+   ],
+   [
+    "program:uap",
+    3
+   ],
+   [
+    "institution:us",
+    3
+   ],
+   [
+    "program:nasa",
+    3
+   ],
+   [
+    "institution:uk",
+    3
+   ],
+   [
+    "person:ryan",
+    2
+   ],
+   [
+    "person:sean",
+    2
+   ]
+  ],
+  "probable_duplicates": [
+   {
+    "a": "earthtech-international",
+    "b": "institute-advanced-studies-austin",
+    "cls": "institution",
+    "overlap": 0.71,
+    "shared_url": "https://www.earthtech.org/about/"
+   },
+   {
+    "a": "dodm-5205-07-series",
+    "b": "dodm-5205-07-v1",
+    "cls": "document",
+    "overlap": 0.62,
+    "shared_url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+   },
+   {
+    "a": "gimbal-video",
+    "b": "gofast-video",
+    "cls": "document",
+    "overlap": 0.62,
+    "shared_url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+   },
+   {
+    "a": "house-armed-services",
+    "b": "senate-armed-services",
+    "cls": "institution",
+    "overlap": 0.6,
+    "shared_url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+   },
+   {
+    "a": "l-skinwalker",
+    "b": "l-utah",
+    "cls": "location",
+    "overlap": 0.6,
+    "shared_url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+   }
+  ]
+ },
+ "latent": {
+  "topic_files": {
+   "rule": "research/*.json minus overlays (_corrections, _remediation, _stubs, _edge_tiers, _removed, _authority, _dird-verification, _rs-stubs-known, _rs-archive-mirror) minus wiring/maintenance passes (w6-edges-*, w8, w10-collapse/domains/notification, w11-final/setka/statutory, most w12, w13-w17)",
+   "topic_files_contributing_nodes": 49,
+   "nodes_with_1plus_topic_file": 1116,
+   "nodes_with_exactly_1": 863,
+   "nodes_with_2plus": 253,
+   "nodes_with_0": 20,
+   "files_per_node_hist": {
+    "0": 20,
+    "1": 863,
+    "2": 183,
+    "3": 40,
+    "4": 10,
+    "5": 8,
+    "6": 7,
+    "7": 3,
+    "9": 2
+   },
+   "nodes_per_topic_file": [
+    [
+     "w2-taxonomy",
+     75
+    ],
+    [
+     "w2-international",
+     58
+    ],
+    [
+     "primes-custody",
+     56
+    ],
+    [
+     "scientists-technical",
+     55
+    ],
+    [
+     "congress-house",
+     55
+    ],
+    [
+     "history-1970s-2000s",
+     53
+    ],
+    [
+     "w2-retrieval-literature",
+     51
+    ],
+    [
+     "_rs-legislation",
+     50
+    ],
+    [
+     "grusch",
+     49
+    ],
+    [
+     "media-structure",
+     48
+    ],
+    [
+     "_rs-aawsap-dirds",
+     47
+    ],
+    [
+     "ffrdcs",
+     47
+    ],
+    [
+     "aviators-incidents",
+     46
+    ],
+    [
+     "releases-2023-2026",
+     46
+    ],
+    [
+     "elizondo-ttsa",
+     45
+    ],
+    [
+     "aawsap-aatip",
+     43
+    ],
+    [
+     "history-1940s-1960s",
+     43
+    ],
+    [
+     "uaptf-aaro",
+     41
+    ],
+    [
+     "w2-2025-2026",
+     40
+    ],
+    [
+     "w2-black-budget",
+     40
+    ],
+    [
+     "congress-senate-legislation",
+     39
+    ],
+    [
+     "_rs-sap-docs",
+     37
+    ],
+    [
+     "w2-sap-architecture",
+     36
+    ],
+    [
+     "w2-places-events",
+     35
+    ],
+    [
+     "area52-2026-09-02",
+     30
+    ],
+    [
+     "dannyjones-2026-09-03",
+     30
+    ],
+    [
+     "dulce-2026-09-19",
+     29
+    ],
+    [
+     "w2-agencies",
+     29
+    ],
+    [
+     "lazar-s4-2026-09-18",
+     28
+    ],
+    [
+     "disclosure-project-2026-09-19",
+     24
+    ],
+    [
+     "propulsion-2026-09-19",
+     23
+    ],
+    [
+     "legacy-1947-86",
+     23
+    ],
+    [
+     "michels-2026-09-02",
+     20
+    ],
+    [
+     "w7-dirds-2",
+     15
+    ],
+    [
+     "w7-dirds-4",
+     15
+    ],
+    [
+     "w7-dirds-3",
+     14
+    ],
+    [
+     "w9-waived-sap-group",
+     13
+    ],
+    [
+     "w7-dirds-1",
+     13
+    ],
+    [
+     "_rs-aaro-reports",
+     12
+    ],
+    [
+     "tr3b-2026-09-18",
+     11
+    ],
+    [
+     "nsc-eo-spine-2026-09-19",
+     11
+    ],
+    [
+     "arv-2026-09-18",
+     9
+    ],
+    [
+     "witnesses-2026-09-18",
+     7
+    ],
+    [
+     "pais-patents",
+     7
+    ],
+    [
+     "w11-brazil-harden",
+     4
+    ],
+    [
+     "w6-international",
+     4
+    ],
+    [
+     "w10-brazil",
+     2
+    ],
+    [
+     "w12-brazil-edges",
+     1
+    ],
+    [
+     "five-observables",
+     1
+    ]
+   ],
+   "zero_topic_nodes_by_provenance": [
+    [
+     "_rs-stubs-known+_stubs",
+     13
+    ],
+    [
+     "w10-notification-gaps",
+     3
+    ],
+    [
+     "w11-final-unattached",
+     2
+    ],
+    [
+     "_rs-stubs-known+_stubs+w15-live-originals",
+     1
+    ],
+    [
+     "_stubs+w11-final-unattached",
+     1
+    ]
+   ],
+   "edges_with_1plus_topic_file": 2500,
+   "edges_per_topic_file_top": [
+    [
+     "congress-house",
+     128
+    ],
+    [
+     "dannyjones-2026-09-03",
+     112
+    ],
+    [
+     "media-structure",
+     100
+    ],
+    [
+     "aviators-incidents",
+     95
+    ],
+    [
+     "scientists-technical",
+     93
+    ],
+    [
+     "w2-places-events",
+     92
+    ],
+    [
+     "w2-agencies",
+     92
+    ],
+    [
+     "uaptf-aaro",
+     86
+    ],
+    [
+     "elizondo-ttsa",
+     86
+    ],
+    [
+     "releases-2023-2026",
+     81
+    ],
+    [
+     "primes-custody",
+     80
+    ],
+    [
+     "w2-2025-2026",
+     80
+    ],
+    [
+     "ffrdcs",
+     79
+    ],
+    [
+     "history-1970s-2000s",
+     79
+    ],
+    [
+     "history-1940s-1960s",
+     79
+    ],
+    [
+     "area52-2026-09-02",
+     79
+    ],
+    [
+     "grusch",
+     77
+    ],
+    [
+     "w2-sap-architecture",
+     76
+    ],
+    [
+     "michels-2026-09-02",
+     76
+    ],
+    [
+     "aawsap-aatip",
+     68
+    ]
+   ],
+   "edge_endpoint_cohesion": {
+    "_rs-aawsap-dirds": 1.0,
+    "_rs-legislation": 1.0,
+    "dulce-2026-09-19": 1.0,
+    "w2-taxonomy": 0.98,
+    "propulsion-2026-09-19": 0.96,
+    "congress-senate-legislation": 0.95,
+    "_rs-sap-docs": 0.95,
+    "w2-international": 0.94,
+    "history-1940s-1960s": 0.91,
+    "lazar-s4-2026-09-18": 0.91,
+    "w2-retrieval-literature": 0.9,
+    "_rs-aaro-reports": 0.89,
+    "aawsap-aatip": 0.85,
+    "disclosure-project-2026-09-19": 0.85,
+    "elizondo-ttsa": 0.83,
+    "primes-custody": 0.82,
+    "releases-2023-2026": 0.8,
+    "history-1970s-2000s": 0.76,
+    "uaptf-aaro": 0.76,
+    "w2-black-budget": 0.75,
+    "grusch": 0.74,
+    "scientists-technical": 0.73,
+    "w2-sap-architecture": 0.67,
+    "ffrdcs": 0.62,
+    "congress-house": 0.61,
+    "tr3b-2026-09-18": 0.55,
+    "nsc-eo-spine-2026-09-19": 0.54,
+    "aviators-incidents": 0.52,
+    "media-structure": 0.46,
+    "arv-2026-09-18": 0.45,
+    "w9-waived-sap-group": 0.43,
+    "w2-agencies": 0.35,
+    "w2-2025-2026": 0.33,
+    "legacy-1947-86": 0.26,
+    "w7-dirds-2": 0.26,
+    "w2-places-events": 0.25,
+    "w7-dirds-4": 0.24,
+    "w7-dirds-3": 0.21,
+    "w7-dirds-1": 0.14,
+    "w6-international": 0.11,
+    "dannyjones-2026-09-03": 0.05,
+    "michels-2026-09-02": 0.03,
+    "area52-2026-09-02": 0.01,
+    "w12-brazil-edges": 0.0,
+    "w10-brazil": 0.0
+   }
+  },
+  "domain_topics": {
+   "domain_nodes": 59,
+   "people_tagged_via_domains_field": 264,
+   "entities_linked_by_edge_to_a_domain_node": 134,
+   "people_linked_by_edge_to_a_domain_node": 15,
+   "nodes_with_any_domain_topic": 404,
+   "domain_nodes_used_by_people_field": 46,
+   "domain_nodes_with_edges": 43,
+   "per_domain": [
+    [
+     "d-coverup",
+     "The Cover-Up",
+     100,
+     1
+    ],
+    [
+     "d-oversight",
+     "Congressional Oversight",
+     91,
+     2
+    ],
+    [
+     "d-witness",
+     "Witness Chain",
+     50,
+     1
+    ],
+    [
+     "d-custody",
+     "Chain of custody",
+     32,
+     11
+    ],
+    [
+     "d-funding",
+     "Funding Channels",
+     30,
+     12
+    ],
+    [
+     "d-disclosure",
+     "Disclosure Movement",
+     41,
+     0
+    ],
+    [
+     "d-records",
+     "Records & Archives",
+     33,
+     2
+    ],
+    [
+     "d-research",
+     "Scientific Research",
+     34,
+     0
+    ],
+    [
+     "d-media",
+     "Independent media as the disclosure subs",
+     23,
+     11
+    ],
+    [
+     "d-legacy",
+     "Legacy Program",
+     25,
+     2
+    ],
+    [
+     "d-materials",
+     "Materials and custody analysis",
+     16,
+     9
+    ],
+    [
+     "d-legislative",
+     "Legislative Process (proposed and pendin",
+     16,
+     8
+    ],
+    [
+     "d-recovery",
+     "Retrieval & Recovery Operations",
+     24,
+     0
+    ],
+    [
+     "d-ffrdc",
+     "The FFRDC Seam",
+     14,
+     8
+    ],
+    [
+     "d-structure",
+     "Program structure and organisational map",
+     13,
+     9
+    ],
+    [
+     "d-international",
+     "International & Allied Programs",
+     19,
+     2
+    ],
+    [
+     "d-aviators",
+     "Military Aviators & Operators",
+     18,
+     2
+    ],
+    [
+     "d-exotic",
+     "Exotic Technology & Physics",
+     13,
+     5
+    ],
+    [
+     "d-ic",
+     "Intelligence Community",
+     15,
+     0
+    ],
+    [
+     "d-denial",
+     "Official Denial",
+     5,
+     6
+    ],
+    [
+     "d-prop",
+     "Propulsion & Field Physics",
+     9,
+     2
+    ],
+    [
+     "d-legislation",
+     "Enacted Statute",
+     3,
+     8
+    ],
+    [
+     "d-psyop",
+     "Psychological Operations & Perception Ma",
+     5,
+     4
+    ],
+    [
+     "d-secrecy",
+     "Secrecy Law & Classification",
+     4,
+     5
+    ],
+    [
+     "d-contracting",
+     "Federal Contracting Mechanics",
+     1,
+     8
+    ],
+    [
+     "d-astro",
+     "Astronomy & Astrophysics",
+     7,
+     1
+    ],
+    [
+     "sap-readin-gate",
+     "The HASC/HAC-D special access program re",
+     0,
+     8
+    ],
+    [
+     "d-nuclear",
+     "Nuclear Security & Restricted Data",
+     6,
+     2
+    ],
+    [
+     "four-regime-map",
+     "The four SAP reporting regimes and the s",
+     0,
+     6
+    ],
+    [
+     "d-intel",
+     "Intelligence Tradecraft & Analysis",
+     6,
+     0
+    ],
+    [
+     "sap-taxonomy",
+     "Acknowledged, unacknowledged and waived ",
+     0,
+     6
+    ],
+    [
+     "d-bio",
+     "Biology & Non-Human Biologics",
+     3,
+     2
+    ],
+    [
+     "d-roswell",
+     "Roswell",
+     4,
+     1
+    ],
+    [
+     "d-foia",
+     "Freedom of Information Practice",
+     3,
+     2
+    ],
+    [
+     "d-mj12",
+     "Majestic-12 Corpus",
+     4,
+     1
+    ],
+    [
+     "d-medical",
+     "Medical & Injury Effects",
+     3,
+     1
+    ],
+    [
+     "d-paranormal",
+     "Anomalous Phenomena Adjacent to UAP",
+     4,
+     0
+    ],
+    [
+     "d-contractor",
+     "Prime Contractor Custody",
+     3,
+     1
+    ],
+    [
+     "ffrdc-mechanism",
+     "The FFRDC / UARC / GOCO mechanism",
+     0,
+     4
+    ],
+    [
+     "d-policy",
+     "Executive Policy & Directives",
+     3,
+     0
+    ],
+    [
+     "intl-uap-office-model",
+     "The three-office model: GEIPAN, SEFAA, A",
+     0,
+     3
+    ],
+    [
+     "d-sap",
+     "Special Access Programs",
+     1,
+     2
+    ],
+    [
+     "d-signals",
+     "Signals & Sensor Intelligence",
+     0,
+     3
+    ],
+    [
+     "sap-cover-mechanisms",
+     "Cover mechanisms  -  HVSACO, nicknames, un",
+     0,
+     3
+    ],
+    [
+     "d-program",
+     "Program Structure & Management",
+     3,
+     0
+    ],
+    [
+     "d-disinformation",
+     "Disinformation & Fabricated Documents",
+     1,
+     2
+    ],
+    [
+     "d-secrecy-architecture",
+     "Secrecy Architecture",
+     2,
+     1
+    ],
+    [
+     "d-consciousness",
+     "Consciousness & Observer Effects",
+     1,
+     1
+    ],
+    [
+     "d-litigation",
+     "Litigation",
+     1,
+     1
+    ],
+    [
+     "d-reverse-engineering",
+     "Reverse Engineering",
+     2,
+     0
+    ],
+    [
+     "d-aerospace",
+     "Aerospace Engineering & Advanced Project",
+     0,
+     2
+    ],
+    [
+     "d-ffrdc-mechanism",
+     "The FFRDC Mechanism",
+     1,
+     0
+    ],
+    [
+     "d-history",
+     "Historiography",
+     1,
+     0
+    ],
+    [
+     "d-legal",
+     "Legal Doctrine & Liability",
+     1,
+     0
+    ],
+    [
+     "d-plasma",
+     "Plasma Physics & Atmospheric Electricity",
+     0,
+     1
+    ],
+    [
+     "d-nuc",
+     "Nuclear Weapons Complex Nexus",
+     0,
+     0
+    ],
+    [
+     "d-remote-viewing",
+     "Remote Viewing & Anomalous Cognition",
+     0,
+     0
+    ],
+    [
+     "d-chem",
+     "Chemistry & Isotopics",
+     0,
+     0
+    ],
+    [
+     "d-counterintel",
+     "Counterintelligence",
+     0,
+     0
+    ]
+   ],
+   "tags_per_tagged_person": 2.0
+  },
+  "hub_cover": {
+   "event": {
+    "hubs": 87,
+    "union_1hop": 252,
+    "union_1hop_people": 93,
+    "nbhd_size_median": 3,
+    "nbhd_size_max": 23,
+    "hubs_with_ge5_neighbours": 26
+   },
+   "program": {
+    "hubs": 82,
+    "union_1hop": 359,
+    "union_1hop_people": 108,
+    "nbhd_size_median": 4.0,
+    "nbhd_size_max": 59,
+    "hubs_with_ge5_neighbours": 34
+   },
+   "location": {
+    "hubs": 73,
+    "union_1hop": 150,
+    "union_1hop_people": 46,
+    "nbhd_size_median": 2,
+    "nbhd_size_max": 19,
+    "hubs_with_ge5_neighbours": 11
+   },
+   "institution": {
+    "hubs": 196,
+    "union_1hop": 497,
+    "union_1hop_people": 177,
+    "nbhd_size_median": 4.0,
+    "nbhd_size_max": 61,
+    "hubs_with_ge5_neighbours": 74
+   },
+   "document": {
+    "hubs": 237,
+    "union_1hop": 387,
+    "union_1hop_people": 161,
+    "nbhd_size_median": 4,
+    "nbhd_size_max": 41,
+    "hubs_with_ge5_neighbours": 69
+   },
+   "legislation": {
+    "hubs": 64,
+    "union_1hop": 104,
+    "union_1hop_people": 26,
+    "nbhd_size_median": 3.0,
+    "nbhd_size_max": 26,
+    "hubs_with_ge5_neighbours": 17
+   },
+   "people_adjacent_to_an_event": 93,
+   "people_adjacent_to_a_program": 108,
+   "people_adjacent_to_event_or_program": 164
+  },
+  "event_nodes_by_label_keyword_INFERRED": {
+   "incident/sighting": 43,
+   "other": 21,
+   "hearing": 13,
+   "release/publication": 7,
+   "meeting/conference": 3
+  },
+  "l0_containment": {
+   "l0": 135,
+   "direct_members_distinct": 670,
+   "direct_members_with_exactly_1_parent": 367,
+   "direct_members_with_2plus_parents": 303,
+   "direct_parent_count_hist": {
+    "1": 367,
+    "2": 179,
+    "3": 77,
+    "4": 21,
+    "5": 12,
+    "6": 4,
+    "7": 2,
+    "8": 4,
+    "9": 1,
+    "10": 1,
+    "11": 1,
+    "19": 1
+   },
+   "routed_members": 304,
+   "pathOnly": 26,
+   "unattached": 1,
+   "people_direct_members": 226,
+   "member_count_per_l0": 8
+  },
+  "slug_sub_taxonomy": [
+   [
+    "defense-intelligence-reference-document",
+    32
+   ],
+   [
+    "statute",
+    12
+   ],
+   [
+    "authorizing-statutes",
+    8
+   ],
+   [
+    "report",
+    6
+   ],
+   [
+    "dod-issuance",
+    5
+   ],
+   [
+    "congressional-hearings",
+    4
+   ],
+   [
+    "oversight-body",
+    4
+   ],
+   [
+    "mechanism",
+    3
+   ],
+   [
+    "disclosure-legislation",
+    3
+   ],
+   [
+    "dia-program",
+    2
+   ],
+   [
+    "contractor",
+    2
+   ],
+   [
+    "correspondence",
+    2
+   ],
+   [
+    "executive-order",
+    2
+   ],
+   [
+    "congressional",
+    2
+   ],
+   [
+    "contract",
+    1
+   ],
+   [
+    "meeting",
+    1
+   ],
+   [
+    "taxonomy",
+    1
+   ],
+   [
+    "tradecraft",
+    1
+   ],
+   [
+    "agency",
+    1
+   ],
+   [
+    "statute-subsection",
+    1
+   ],
+   [
+    "regulation",
+    1
+   ],
+   [
+    "ic-directive",
+    1
+   ],
+   [
+    "registry",
+    1
+   ],
+   [
+    "gao-report",
+    1
+   ],
+   [
+    "analysis",
+    1
+   ]
+  ],
+  "id_families": [
+   [
+    "dird",
+    35
+   ],
+   [
+    "aaro",
+    15
+   ],
+   [
+    "ndaa",
+    14
+   ],
+   [
+    "usc",
+    10
+   ],
+   [
+    "hearing",
+    8
+   ],
+   [
+    "ev",
+    8
+   ],
+   [
+    "iaa",
+    8
+   ],
+   [
+    "pursue",
+    7
+   ],
+   [
+    "eo",
+    7
+   ],
+   [
+    "hr",
+    7
+   ],
+   [
+    "gerb",
+    6
+   ],
+   [
+    "dia",
+    5
+   ],
+   [
+    "gao",
+    5
+   ],
+   [
+    "doc",
+    5
+   ],
+   [
+    "pais",
+    5
+   ],
+   [
+    "paper",
+    5
+   ],
+   [
+    "odni",
+    4
+   ],
+   [
+    "grusch",
+    4
+   ],
+   [
+    "uapda",
+    4
+   ],
+   [
+    "sec",
+    4
+   ],
+   [
+    "dodig",
+    3
+   ],
+   [
+    "aawsap",
+    3
+   ],
+   [
+    "reid",
+    3
+   ],
+   [
+    "ttsa",
+    3
+   ],
+   [
+    "navy",
+    3
+   ]
+  ],
+  "label_families": {
+   "note": "keyword lexicon over edge LABELS; one label can hit several families (INFERRED, heuristic)",
+   "labels_hitting_2plus_families": 691,
+   "labels_hitting_none": 838,
+   "by_type_top": {
+    "temporal": [
+     [
+      "succession/sequence",
+      28,
+      31
+     ],
+     [
+      "investigation/review",
+      8,
+      9
+     ],
+     [
+      "part-of/structure",
+      6,
+      7
+     ],
+     [
+      "founding/ownership",
+      5,
+      5
+     ],
+     [
+      "testimony/statement",
+      5,
+      5
+     ]
+    ],
+    "investigative": [
+     [
+      "investigation/review",
+      72,
+      24
+     ],
+     [
+      "authorship/publication",
+      52,
+      17
+     ],
+     [
+      "testimony/statement",
+      47,
+      16
+     ],
+     [
+      "communication/briefing",
+      25,
+      8
+     ],
+     [
+      "funding/contract",
+      23,
+      8
+     ]
+    ],
+    "behavioral": [
+     [
+      "testimony/statement",
+      12,
+      14
+     ],
+     [
+      "succession/sequence",
+      10,
+      12
+     ],
+     [
+      "investigation/review",
+      9,
+      11
+     ],
+     [
+      "custody/material",
+      8,
+      10
+     ],
+     [
+      "funding/contract",
+      8,
+      10
+     ]
+    ],
+    "institutional": [
+     [
+      "role/employment",
+      228,
+      32
+     ],
+     [
+      "part-of/structure",
+      78,
+      11
+     ],
+     [
+      "founding/ownership",
+      77,
+      11
+     ],
+     [
+      "authorship/publication",
+      66,
+      9
+     ],
+     [
+      "place/located",
+      61,
+      8
+     ]
+    ],
+    "legislative": [
+     [
+      "legislative act",
+      75,
+      35
+     ],
+     [
+      "part-of/structure",
+      20,
+      9
+     ],
+     [
+      "funding/contract",
+      17,
+      8
+     ],
+     [
+      "founding/ownership",
+      16,
+      7
+     ],
+     [
+      "authorship/publication",
+      11,
+      5
+     ]
+    ],
+    "research": [
+     [
+      "authorship/publication",
+      72,
+      36
+     ],
+     [
+      "investigation/review",
+      21,
+      11
+     ],
+     [
+      "testimony/statement",
+      14,
+      7
+     ],
+     [
+      "founding/ownership",
+      11,
+      6
+     ],
+     [
+      "place/located",
+      10,
+      5
+     ]
+    ],
+    "geographic": [
+     [
+      "place/located",
+      40,
+      44
+     ],
+     [
+      "testimony/statement",
+      8,
+      9
+     ],
+     [
+      "part-of/structure",
+      6,
+      7
+     ],
+     [
+      "investigation/review",
+      5,
+      5
+     ],
+     [
+      "custody/material",
+      5,
+      5
+     ]
+    ],
+    "programmatic": [
+     [
+      "part-of/structure",
+      43,
+      13
+     ],
+     [
+      "funding/contract",
+      32,
+      10
+     ],
+     [
+      "testimony/statement",
+      29,
+      9
+     ],
+     [
+      "authorship/publication",
+      25,
+      8
+     ],
+     [
+      "legislative act",
+      19,
+      6
+     ]
+    ],
+    "funding": [
+     [
+      "funding/contract",
+      40,
+      53
+     ],
+     [
+      "authorship/publication",
+      9,
+      12
+     ],
+     [
+      "place/located",
+      8,
+      11
+     ],
+     [
+      "legislative act",
+      8,
+      11
+     ],
+     [
+      "succession/sequence",
+      8,
+      11
+     ]
+    ],
+    "custody": [
+     [
+      "custody/material",
+      55,
+      34
+     ],
+     [
+      "authorship/publication",
+      32,
+      20
+     ],
+     [
+      "testimony/statement",
+      23,
+      14
+     ],
+     [
+      "investigation/review",
+      15,
+      9
+     ],
+     [
+      "place/located",
+      15,
+      9
+     ]
+    ],
+    "witness-chain": [
+     [
+      "testimony/statement",
+      93,
+      46
+     ],
+     [
+      "place/located",
+      27,
+      13
+     ],
+     [
+      "authorship/publication",
+      26,
+      13
+     ],
+     [
+      "role/employment",
+      22,
+      11
+     ],
+     [
+      "custody/material",
+      17,
+      8
+     ]
+    ],
+    "denial": [
+     [
+      "denial/refusal",
+      40,
+      18
+     ],
+     [
+      "testimony/statement",
+      31,
+      14
+     ],
+     [
+      "custody/material",
+      23,
+      11
+     ],
+     [
+      "authorship/publication",
+      22,
+      10
+     ],
+     [
+      "investigation/review",
+      21,
+      10
+     ]
+    ]
+   },
+   "family_spread_across_types": {
+    "role/employment": 9,
+    "founding/ownership": 10,
+    "authorship/publication": 10,
+    "testimony/statement": 11,
+    "funding/contract": 10,
+    "custody/material": 10,
+    "denial/refusal": 5,
+    "legislative act": 7,
+    "investigation/review": 10,
+    "communication/briefing": 8,
+    "place/located": 10,
+    "succession/sequence": 10,
+    "part-of/structure": 11
+   },
+   "no_family_by_type": {
+    "temporal": 37,
+    "institutional": 205,
+    "research": 68,
+    "geographic": 31,
+    "programmatic": 143,
+    "investigative": 82,
+    "legislative": 74,
+    "funding": 11,
+    "witness-chain": 47,
+    "denial": 65,
+    "custody": 47,
+    "behavioral": 28
+   }
+  },
+  "testimony_family_edge_types": {
+   "witness-chain": 93,
+   "investigative": 47,
+   "denial": 31,
+   "programmatic": 29,
+   "institutional": 29,
+   "custody": 23,
+   "research": 14,
+   "behavioral": 12,
+   "geographic": 8,
+   "legislative": 6,
+   "temporal": 5,
+   "funding": 3
+  },
+  "authorship_family_edge_types": {
+   "research": 72,
+   "institutional": 66,
+   "investigative": 52,
+   "custody": 32,
+   "witness-chain": 26,
+   "programmatic": 25,
+   "denial": 22,
+   "legislative": 11,
+   "funding": 9,
+   "behavioral": 7,
+   "geographic": 4,
+   "temporal": 3
+  },
+  "funding_family_edge_types": {
+   "institutional": 52,
+   "funding": 40,
+   "programmatic": 32,
+   "investigative": 23,
+   "legislative": 17,
+   "denial": 14,
+   "witness-chain": 10,
+   "custody": 8,
+   "behavioral": 8,
+   "research": 7,
+   "geographic": 3,
+   "temporal": 1
+  },
+  "denial_family_edge_types": {
+   "denial": 40,
+   "investigative": 13,
+   "behavioral": 5,
+   "legislative": 5,
+   "institutional": 5,
+   "programmatic": 4,
+   "temporal": 4,
+   "witness-chain": 3,
+   "custody": 2,
+   "funding": 2,
+   "research": 1,
+   "geographic": 1
+  },
+  "direction_person_side": {
+   "temporal": {
+    "person_on_a": 12,
+    "person_on_b": 3,
+    "n": 91
+   },
+   "investigative": {
+    "person_on_a": 137,
+    "person_on_b": 65,
+    "n": 302
+   },
+   "behavioral": {
+    "person_on_a": 48,
+    "person_on_b": 22,
+    "n": 84
+   },
+   "institutional": {
+    "person_on_a": 327,
+    "person_on_b": 57,
+    "n": 720
+   },
+   "legislative": {
+    "person_on_a": 63,
+    "person_on_b": 12,
+    "n": 215
+   },
+   "research": {
+    "person_on_a": 72,
+    "person_on_b": 36,
+    "n": 198
+   },
+   "geographic": {
+    "person_on_a": 8,
+    "person_on_b": 3,
+    "n": 91
+   },
+   "programmatic": {
+    "person_on_a": 65,
+    "person_on_b": 9,
+    "n": 324
+   },
+   "funding": {
+    "person_on_a": 18,
+    "person_on_b": 6,
+    "n": 75
+   },
+   "custody": {
+    "person_on_a": 32,
+    "person_on_b": 9,
+    "n": 162
+   },
+   "witness-chain": {
+    "person_on_a": 163,
+    "person_on_b": 63,
+    "n": 204
+   },
+   "denial": {
+    "person_on_a": 75,
+    "person_on_b": 44,
+    "n": 219
+   }
+  },
+  "geographic_edges_touching_location_node": 87,
+  "edges_touching_location_node_by_type": {
+   "geographic": 87,
+   "institutional": 44,
+   "custody": 18,
+   "witness-chain": 18,
+   "investigative": 16,
+   "programmatic": 8,
+   "denial": 7,
+   "research": 5,
+   "funding": 2,
+   "temporal": 2,
+   "behavioral": 2
+  },
+  "edges_touching_domain_node_by_type": {
+   "institutional": 51,
+   "programmatic": 33,
+   "research": 31,
+   "legislative": 26,
+   "investigative": 24,
+   "denial": 16,
+   "custody": 15,
+   "funding": 12,
+   "behavioral": 8,
+   "geographic": 6,
+   "temporal": 2,
+   "witness-chain": 2
+  },
+  "temporal_edges_with_both_dates": 79,
+  "type_pair_matrix_top": [
+   [
+    [
+     "institutional",
+     "person",
+     "institution"
+    ],
+    192
+   ],
+   [
+    [
+     "institutional",
+     "institution",
+     "institution"
+    ],
+    91
+   ],
+   [
+    [
+     "institutional",
+     "document",
+     "institution"
+    ],
+    58
+   ],
+   [
+    [
+     "witness-chain",
+     "person",
+     "event"
+    ],
+    53
+   ],
+   [
+    [
+     "institutional",
+     "person",
+     "program"
+    ],
+    50
+   ],
+   [
+    [
+     "investigative",
+     "person",
+     "document"
+    ],
+    50
+   ],
+   [
+    [
+     "programmatic",
+     "program",
+     "document"
+    ],
+    46
+   ],
+   [
+    [
+     "programmatic",
+     "document",
+     "document"
+    ],
+    43
+   ],
+   [
+    [
+     "witness-chain",
+     "person",
+     "person"
+    ],
+    42
+   ],
+   [
+    [
+     "research",
+     "person",
+     "document"
+    ],
+    40
+   ],
+   [
+    [
+     "legislative",
+     "legislation",
+     "legislation"
+    ],
+    36
+   ],
+   [
+    [
+     "institutional",
+     "person",
+     "document"
+    ],
+    32
+   ],
+   [
+    [
+     "investigative",
+     "person",
+     "person"
+    ],
+    31
+   ],
+   [
+    [
+     "institutional",
+     "institution",
+     "document"
+    ],
+    30
+   ],
+   [
+    [
+     "legislative",
+     "legislation",
+     "institution"
+    ],
+    30
+   ],
+   [
+    [
+     "witness-chain",
+     "person",
+     "document"
+    ],
+    29
+   ],
+   [
+    [
+     "institutional",
+     "person",
+     "person"
+    ],
+    28
+   ],
+   [
+    [
+     "institutional",
+     "program",
+     "institution"
+    ],
+    28
+   ],
+   [
+    [
+     "institutional",
+     "institution",
+     "domain"
+    ],
+    27
+   ],
+   [
+    [
+     "denial",
+     "person",
+     "person"
+    ],
+    24
+   ],
+   [
+    [
+     "legislative",
+     "person",
+     "legislation"
+    ],
+    23
+   ],
+   [
+    [
+     "research",
+     "document",
+     "person"
+    ],
+    22
+   ],
+   [
+    [
+     "programmatic",
+     "institution",
+     "program"
+    ],
+    21
+   ],
+   [
+    [
+     "custody",
+     "institution",
+     "document"
+    ],
+    20
+   ],
+   [
+    [
+     "institutional",
+     "institution",
+     "person"
+    ],
+    20
+   ]
+  ],
+  "edge_dates": {
+   "with_dateStart": 2164,
+   "dateStart_precision": {
+    "day": 557,
+    "year": 1457,
+    "month": 148,
+    "other": 2
+   }
+  },
+  "person_status_vs_sub": [
+   [
+    [
+     "active",
+     false
+    ],
+    175
+   ],
+   [
+    [
+     "dead",
+     false
+    ],
+    66
+   ],
+   [
+    [
+     "former",
+     false
+    ],
+    42
+   ],
+   [
+    [
+     "active",
+     true
+    ],
+    23
+   ],
+   [
+    [
+     "unknown",
+     false
+    ],
+    7
+   ],
+   [
+    [
+     "alive",
+     false
+    ],
+    7
+   ],
+   [
+    [
+     "dead",
+     true
+    ],
+    4
+   ],
+   [
+    [
+     "former",
+     true
+    ],
+    4
+   ],
+   [
+    [
+     "deceased",
+     false
+    ],
+    4
+   ],
+   [
+    [
+     "alive",
+     true
+    ],
+    3
+   ],
+   [
+    [
+     "missing",
+     true
+    ],
+    1
+   ],
+   [
+    [
+     "fabricated",
+     false
+    ],
+    1
+   ],
+   [
+    [
+     "resolved",
+     false
+    ],
+    1
+   ]
+  ],
+  "person_status_dead_without_death_word_in_sub": 68
+ },
+ "extras": {
+  "person_fields_vs_edges": {
+   "instId_set": 227,
+   "instId_joined_by_edge": 101,
+   "locId_set": 207,
+   "locId_joined_by_edge": 16,
+   "domain_tags": 694,
+   "domain_tags_joined_by_edge": 5,
+   "app_reads_instId_locId_loc": false,
+   "shipped_node_files_domains_field_is_provenance_not_topic_tags": true
+  },
+  "affiliations_latent_INFERRED": {
+   "strings": 875,
+   "strings_mentioning_a_non_person_node": 356,
+   "person_node_pairs": 287,
+   "pairs_already_edges": 120
+  },
+  "place_links": {
+   "event": [
+    23,
+    87
+   ],
+   "program": [
+    13,
+    82
+   ],
+   "institution": [
+    33,
+    196
+   ],
+   "document": [
+    24,
+    237
+   ],
+   "person": [
+    46,
+    338
+   ],
+   "events_with_coords": 0,
+   "coords_source": "tools/regrade.py GAZETTEER (lines 157-237) written into research/_remediation.json; only location-class nodes carry coords"
+  },
+  "claims_vs_timeline": {
+   "claims_with_day_date_in_text": 1442,
+   "date_matches_timeline_event_on_same_node": 417,
+   "date_matches_any_timeline_event": 1009,
+   "claims_have_date_field": false,
+   "timeline_events_have_claim_link": false
+  },
+  "event_claims_scattered": {
+   "hearing-2023-07-26": {
+    "claims_on_node": 17,
+    "claims_elsewhere_mentioning": 34,
+    "nodes_elsewhere": 31
+   },
+   "hearing-2024-11-13": {
+    "claims_on_node": 26,
+    "claims_elsewhere_mentioning": 20,
+    "nodes_elsewhere": 14
+   },
+   "hearing-2025-09-09": {
+    "claims_on_node": 35,
+    "claims_elsewhere_mentioning": 39,
+    "nodes_elsewhere": 26
+   },
+   "roswell-1947": {
+    "claims_on_node": 11,
+    "claims_elsewhere_mentioning": 79,
+    "nodes_elsewhere": 55
+   },
+   "nimitz-2004": {
+    "claims_on_node": 7,
+    "claims_elsewhere_mentioning": 9,
+    "nodes_elsewhere": 7
+   }
+  },
+  "speaker_named_in_source_INFERRED": {
+   "by_tier": {
+    "1": {
+     "named": 464,
+     "not_named": 3237
+    },
+    "2": {
+     "named": 718,
+     "not_named": 900
+    },
+    "3": {
+     "named": 104,
+     "not_named": 474
+    }
+   },
+   "claims_on_person_node_sourced_to_that_person": {
+    "2": 263,
+    "3": 23,
+    "1": 156
+   },
+   "method": "unique surnames (>=5 letters) of the 338 person labels found in the claim source string"
+  },
+  "entityInfo_orphans": [
+   {
+    "key": "_note",
+    "chars": 311,
+    "from": [
+     "w2-taxonomy.json"
+    ]
+   },
+   {
+    "key": "_rs-sap-docs",
+    "chars": 0,
+    "from": [
+     "_rs-sap-docs.json"
+    ]
+   },
+   {
+    "key": "_taxonomy_scope",
+    "chars": 335,
+    "from": [
+     "w2-taxonomy.json"
+    ]
+   },
+   {
+    "key": "cia-haines-1997",
+    "chars": 2472,
+    "from": [
+     "history-1970s-2000s.json"
+    ]
+   },
+   {
+    "key": "counts",
+    "chars": 0,
+    "from": [
+     "w2-international.json"
+    ]
+   },
+   {
+    "key": "dird-collection",
+    "chars": 1227,
+    "from": [
+     "aawsap-aatip.json"
+    ]
+   },
+   {
+    "key": "dod-sapco-arch",
+    "chars": 1167,
+    "from": [
+     "w2-sap-architecture.json"
+    ]
+   },
+   {
+    "key": "domain",
+    "chars": 16,
+    "from": [
+     "w2-2025-2026.json",
+     "w2-international.json"
+    ]
+   },
+   {
+    "key": "how-money-reaches-an-invisible-program",
+    "chars": 2544,
+    "from": [
+     "w2-black-budget.json"
+    ]
+   },
+   {
+    "key": "methodNote",
+    "chars": 523,
+    "from": [
+     "w2-2025-2026.json"
+    ]
+   },
+   {
+    "key": "ndaa-fy2024-sec1687",
+    "chars": 1558,
+    "from": [
+     "primes-custody.json"
+    ]
+   },
+   {
+    "key": "scope",
+    "chars": 823,
+    "from": [
+     "w2-2025-2026.json",
+     "w2-international.json"
+    ]
+   },
+   {
+    "key": "sffas-56-what-it-actually-permits",
+    "chars": 2120,
+    "from": [
+     "w2-black-budget.json"
+    ]
+   },
+   {
+    "key": "the-21-trillion-stated-precisely",
+    "chars": 2121,
+    "from": [
+     "w2-black-budget.json"
+    ]
+   },
+   {
+    "key": "the-classified-programs-arithmetic",
+    "chars": 1484,
+    "from": [
+     "w2-black-budget.json"
+    ]
+   },
+   {
+    "key": "the-named-mechanism",
+    "chars": 2402,
+    "from": [
+     "w2-black-budget.json"
+    ]
+   },
+   {
+    "key": "thesis",
+    "chars": 1449,
+    "from": [
+     "w2-2025-2026.json"
+    ]
+   },
+   {
+    "key": "throughLine",
+    "chars": 879,
+    "from": [
+     "w2-international.json"
+    ]
+   },
+   {
+    "key": "title",
+    "chars": 79,
+    "from": [
+     "w2-2025-2026.json"
+    ]
+   },
+   {
+    "key": "why-the-failed-audit-is-evidence",
+    "chars": 1477,
+    "from": [
+     "w2-black-budget.json"
+    ]
+   }
+  ],
+  "entityInfo_orphans_substantive_ge400": 14,
+  "timeline_tier_by_id_prefix": {
+   "tl": {
+    "'C'": 68,
+    "'A'": 243,
+    "'B'": 147,
+    "1": 19,
+    "2": 16,
+    "'2'": 28,
+    "'1'": 27,
+    "'3'": 2
+   },
+   "tx": {
+    "1": 20,
+    "2": 2
+   },
+   "spine": {
+    "1": 9
+   },
+   "ag": {
+    "'A'": 27,
+    "'B'": 5
+   },
+   "bb": {
+    "'A'": 22,
+    "'B'": 7,
+    "'C'": 2
+   },
+   "pc": {
+    "'A'": 20,
+    "'B'": 11,
+    "'C'": 1
+   },
+   "t": {
+    "'B'": 14,
+    "'A'": 30,
+    "'C'": 3
+   },
+   "st": {
+    "'A'": 38,
+    "'B'": 8
+   },
+   "sap": {
+    "1": 22,
+    "'A'": 18,
+    "'B'": 1
+   },
+   "ms": {
+    "'B'": 6,
+    "'C'": 2,
+    "'A'": 31
+   },
+   "av": {
+    "'B'": 6,
+    "'A'": 43,
+    "'C'": 1
+   },
+   "": {
+    "1": 20,
+    "None": 13
+   },
+   "g": {
+    "'A'": 27,
+    "'B'": 4
+   },
+   "rel": {
+    "'A'": 24,
+    "'B'": 6,
+    "'C'": 3
+   },
+   "cl": {
+    "'A'": 12,
+    "'B'": 11
+   },
+   "ch": {
+    "'A'": 33,
+    "'B'": 6,
+    "'C'": 1
+   }
+  },
+  "timeline_shipped_fields": "app/public/data/timeline.json rows carry date, era, id, label, node, precision, strand, text, tier only (build_app_data.py timeline_json lines 405-420); source/sources/entities/event/ref are not shipped",
+  "edges_json_shipped_fields": "app/public/data/edges.json rows carry a, b, dateStart, label, t, tier only (build_app_data.py lines 396-402); note, sources and dateEnd ship only inside nodes/<id>.json connections",
+  "edge_notes_admitting_type_workaround": {
+   "count": 9,
+   "examples": [
+    [
+     "research",
+     "disclosure-project-briefing-2001",
+     "disclosure-project",
+     "PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typ"
+    ],
+    [
+     "research",
+     "disclosure-project-briefing-2001",
+     "steven-greer",
+     "AUTHORSHIP, TYPED research. Title page: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' He is al"
+    ],
+    [
+     "research",
+     "peter-robbins",
+     "rendlesham-1980",
+     "AUTHORSHIP RELATION, TYPED research. Left at East Gate, with Larry Warren, defended for twenty-nine years and then repudiated in June 2017."
+    ],
+    [
+     "funding",
+     "canning-nasa-cr-2004-213312",
+     "nasa",
+     "NASA/CR-2004-213312. The board's funding edge type is used because a contractor report records who paid for the work; the performing organis"
+    ],
+    [
+     "research",
+     "edgar-fouche",
+     "fouche-iufoc-1998",
+     "INTENT: AUTHORSHIP. The board has no authorship edge type, and authorship is deliberately NOT built as custody here, because custody is weig"
+    ],
+    [
+     "research",
+     "edgar-fouche",
+     "alien-rapture-1998",
+     "INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives 'Fouche,"
+    ]
+   ]
+  },
+  "status_semantics": {
+   "vocab": {
+    "dead": 70,
+    "active": 198,
+    "former": 46,
+    "missing": 1,
+    "unknown": 7,
+    "fabricated": 1,
+    "deceased": 4,
+    "alive": 10,
+    "resolved": 1
+   },
+   "active_with_former_or_dated_role_in_sub_INFERRED": 47,
+   "vital_values": [
+    "dead",
+    "deceased",
+    "alive",
+    "missing"
+   ],
+   "role_values": [
+    "active",
+    "former"
+   ],
+   "editorial_values": [
+    "fabricated",
+    "resolved",
+    "unknown"
+   ]
+  },
+  "duplicate_documents_not_flagged": [
+   {
+    "a": "gao-nsiad-95-187",
+    "b": "gao-roswell-report-1995",
+    "why": "both labels carry GAO/NSIAD-95-187; sources differ (gao.gov vs govinfo.gov) so merge.duplicate_groups, which requires a shared URL, does not pair them",
+    "a_label": "GAO/NSIAD-95-187  -  Results of a Search for Records Concerning the 1947 Crash Nea",
+    "b_label": "GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning"
+   }
+  ],
+  "top40_docs_manual": [
+   {
+    "claims": 94,
+    "doc": "PL 118-31",
+    "node": "yes",
+    "which": "ndaa-fy2024 (+ section nodes)"
+   },
+   {
+    "claims": 73,
+    "doc": "10 USC 119",
+    "node": "yes",
+    "which": "usc-10-119, usc-10-119e"
+   },
+   {
+    "claims": 67,
+    "doc": "CHRG-119hhrg61718",
+    "node": "event only",
+    "which": "hearing-2025-09-09 is an event node; no document node for the transcript"
+   },
+   {
+    "claims": 61,
+    "doc": "DODI 5205.11",
+    "node": "yes",
+    "which": "dodi-5205-11"
+   },
+   {
+    "claims": 57,
+    "doc": "CHRG-118hhrg53022",
+    "node": "event only",
+    "which": "hearing-2023-07-26"
+   },
+   {
+    "claims": 57,
+    "doc": "DODD 5205.07",
+    "node": "yes",
+    "which": "dodd-5205-07-2010, dodd-5205-07-2024"
+   },
+   {
+    "claims": 55,
+    "doc": "CHRG-118hhrg57440",
+    "node": "event only",
+    "which": "hearing-2024-11-13"
+   },
+   {
+    "claims": 50,
+    "doc": "GAO-NSIAD-95-187",
+    "node": "yes, twice",
+    "which": "gao-nsiad-95-187 AND gao-roswell-report-1995 (duplicate)"
+   },
+   {
+    "claims": 47,
+    "doc": "archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt",
+    "node": "yes",
+    "which": "disclosure-project-briefing-2001"
+   },
+   {
+    "claims": 45,
+    "doc": "S 2226",
+    "node": "yes",
+    "which": "s2226-118"
+   },
+   {
+    "claims": 44,
+    "doc": "irp.fas.org/dia/aatip-list.pdf",
+    "node": "yes",
+    "which": "dia-aatip-list-2019 (its own first source is a different fas.org URL)"
+   },
+   {
+    "claims": 34,
+    "doc": "PL 119-60",
+    "node": "yes",
+    "which": "ndaa-fy2026"
+   },
+   {
+    "claims": 34,
+    "doc": "ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+    "node": "no",
+    "which": "blog post"
+   },
+   {
+    "claims": 34,
+    "doc": "DODM 5205.07",
+    "node": "yes",
+    "which": "dodm-5205-07-v1, dodm-5205-07-series (flagged probable duplicates)"
+   },
+   {
+    "claims": 33,
+    "doc": "PL 117-263",
+    "node": "yes",
+    "which": "ndaa-fy2023 (carries a Board-bookkeeping placeholder claim)"
+   },
+   {
+    "claims": 31,
+    "doc": "ICD 906",
+    "node": "yes",
+    "which": "icd-906"
+   },
+   {
+    "claims": 30,
+    "doc": "cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf",
+    "node": "no",
+    "which": "CSICOP newsletter"
+   },
+   {
+    "claims": 25,
+    "doc": "arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf",
+    "node": "yes",
+    "which": "scott-sorensen-notes-1990"
+   },
+   {
+    "claims": 20,
+    "doc": "cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf",
+    "node": "no",
+    "which": "Skeptical Inquirer article"
+   },
+   {
+    "claims": 20,
+    "doc": "50 USC 3091a",
+    "node": "yes",
+    "which": "usc-50-3091a"
+   },
+   {
+    "claims": 19,
+    "doc": "ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf",
+    "node": "yes",
+    "which": "millis-tm-2004-213082"
+   },
+   {
+    "claims": 18,
+    "doc": "aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+    "node": "yes",
+    "which": "aaro-fy2025-annual-report"
+   },
+   {
+    "claims": 17,
+    "doc": "media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+    "node": "yes",
+    "which": "aaro-historical-record-vol1 (URL variant)"
+   },
+   {
+    "claims": 16,
+    "doc": "PL 118-159",
+    "node": "yes",
+    "which": "ndaa-fy2025"
+   },
+   {
+    "claims": 16,
+    "doc": "50 USC 3348",
+    "node": "yes",
+    "which": "usc-50-3348"
+   },
+   {
+    "claims": 15,
+    "doc": "50 USC 3093",
+    "node": "yes",
+    "which": "usc-50-3093"
+   },
+   {
+    "claims": 14,
+    "doc": "FOIA 18-F-0324",
+    "node": "yes",
+    "which": "foia-18-f-0324"
+   },
+   {
+    "claims": 14,
+    "doc": "checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf",
+    "node": "yes",
+    "which": "fouche-iufoc-1998"
+   },
+   {
+    "claims": 14,
+    "doc": "irp.fas.org/budget/index.html",
+    "node": "partial",
+    "which": "intel-budget-disclosure-record is a collection node, not this page"
+   },
+   {
+    "claims": 13,
+    "doc": "aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+    "node": "yes",
+    "which": "aaro-historical-record-vol1 (second URL variant of the same report)"
+   },
+   {
+    "claims": 13,
+    "doc": "intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+    "node": "partial",
+    "which": "mkultra program node exists; no node for the 1977 hearing record"
+   },
+   {
+    "claims": 13,
+    "doc": "checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf",
+    "node": "yes",
+    "which": "fouche-military-documents"
+   },
+   {
+    "claims": 12,
+    "doc": "burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+    "node": "yes",
+    "which": "odni-memo-es-2026-00818"
+   },
+   {
+    "claims": 12,
+    "doc": "EO 13526",
+    "node": "yes",
+    "which": "eo-13526"
+   },
+   {
+    "claims": 12,
+    "doc": "PL 119-75",
+    "node": "partial",
+    "which": "section nodes only (classified-annex, sec-8005-transfer, sec-8009-sap-notice)"
+   },
+   {
+    "claims": 12,
+    "doc": "ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+    "node": "yes",
+    "which": "doc-cometa-report"
+   },
+   {
+    "claims": 11,
+    "doc": "US-PAT 10144532",
+    "node": "yes",
+    "which": "pais-patent-imrd"
+   },
+   {
+    "claims": 11,
+    "doc": "SAMDT 797",
+    "node": "yes",
+    "which": "samdt-797"
+   },
+   {
+    "claims": 11,
+    "doc": "files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+    "node": "yes",
+    "which": "sffas-56"
+   },
+   {
+    "claims": 11,
+    "doc": "50 USC 3373",
+    "node": "partial",
+    "which": "carried by ndaa-fy2022-sec-1683 (the enacting section), no node for the codified section"
+   }
+  ],
+  "top40_docs_manual_tally": {
+   "yes": 29,
+   "event only": 3,
+   "yes, twice": 1,
+   "no": 3,
+   "partial": 4
+  }
+ }
+}

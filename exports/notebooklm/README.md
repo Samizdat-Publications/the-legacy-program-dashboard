@@ -19,7 +19,7 @@ time the script runs, and any edit made here is lost on the next rebuild.
 ## Regenerate after every board rebuild
 
 ```powershell
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program"
 python tools/build_notebook_export.py
 python tools/build_notebook_export.py --check
 ```
