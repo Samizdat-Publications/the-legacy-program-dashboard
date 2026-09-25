@@ -365,10 +365,11 @@ def counts(s, ix):
             ct[i] += c[i]
     pv = s.patents
     sheets = len(pv["drawings"]["sheets"])
-    fq = 0
-    for r in s.foia["requests"]:
-        for n in r["nodes"]:
-            fq += len(n["questions"]) + len(n["partial"])
+    # Distinct (node, question) pairs. A question that two requests would close is
+    # one open question, not two: until 25 September 2026 this summed per request
+    # and Home printed 121 where the board holds 116 (check C27 re-derives it).
+    fq = len({(n["node"], q) for r in s.foia["requests"] for n in r["nodes"]
+              for q in n["questions"] + n["partial"]})
     return {
         "claims": {"1": ct[0], "2": ct[1], "3": ct[2]},
         "edges": len(s.board["edges"]),
@@ -918,8 +919,8 @@ def check(board_rel=BOARD, quiet=False):
     pv = rd(PATENTS_VIEW)
     th = rd(THREADS) if os.path.exists(os.path.join(ROOT, THREADS)) else []
     th = th.get("threads", th) if isinstance(th, dict) else th
-    fq = sum(len(x["questions"]) + len(x["partial"])
-             for r in foia["requests"] for x in r["nodes"])
+    fq = len({(x["node"], q) for r in foia["requests"] for x in r["nodes"]
+              for q in x["questions"] + x["partial"]})
 
     want = {
         "claims": {"1": ct[1], "2": ct[2], "3": ct[3]},
