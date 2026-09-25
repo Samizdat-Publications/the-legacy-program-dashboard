@@ -1,0 +1,37 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "dulce-base",
+  "l-dulce",
+  "thomas-castello",
+  "tal-levesque",
+  "phil-schneider",
+  "gabe-valdez",
+  "norio-hayakawa",
+  "gasbuggy-1967",
+  "bill-cooper",
+  "cooper-secret-government-1989"
+ ],
+ "appendixT": "dulce",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "1",
+ "id": "dulce",
+ "kind": "allegation",
+ "lead": null,
+ "members": [],
+ "notes": "Canon pass 3. Tal Levesque invented thomas-castello and mailed identical packets to manufacture the look of many sources: the board's own worked example of manufactured corroboration.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "case-against",
+ "span": {
+  "from": "1979",
+  "to": "2021"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Dulce Base: an allegation and its origins"
+}

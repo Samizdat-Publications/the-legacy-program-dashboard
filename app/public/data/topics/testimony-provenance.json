@@ -1,0 +1,35 @@
+{
+ "absorbs": [
+  "d-witness"
+ ],
+ "anchors": [
+  "disclosure-project-witness-set",
+  "steven-greer",
+  "thomas-castello",
+  "tal-levesque",
+  "robert-hastings",
+  "michael-herrera"
+ ],
+ "appendixT": null,
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "testimony-provenance",
+ "kind": "explainer",
+ "lead": null,
+ "members": [],
+ "notes": "Added: the witness-chain domain node becomes an explainer. CLAUDE.md section 2a requires every notability node to say how its claim reached us; this topic explains circular reporting, single interviewers and the difference between agreement in substance and verbatim agreement.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "encounters-witnesses",
+ "span": {
+  "from": "1947",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "How testimony reaches the record"
+}

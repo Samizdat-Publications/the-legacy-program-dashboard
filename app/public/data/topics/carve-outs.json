@@ -1,0 +1,32 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "carve-out",
+  "dcsa-nisp",
+  "eo-12829",
+  "defense-investigative-service",
+  "gao-04-332"
+ ],
+ "appendixT": "carve-outs",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "2",
+ "id": "carve-outs",
+ "kind": "mechanism",
+ "lead": null,
+ "members": [],
+ "notes": "Start-here flag 7. Appendix T gave this topic d-contractor; its label is prime contractor custody, so it goes to the contractor topic instead.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1987",
+  "to": "2024"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Carve-outs and contractor security oversight"
+}

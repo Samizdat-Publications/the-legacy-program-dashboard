@@ -1,0 +1,46 @@
+{
+ "absorbs": [
+  "d-research"
+ ],
+ "anchors": [
+  "sol-foundation",
+  "uap-science-advisory-council",
+  "garry-nolan",
+  "paper-nolan-vallee-2022",
+  "stanford-nolan-lab",
+  "peter-skafish",
+  "scu-uap-studies",
+  "kevin-knuth",
+  "matthew-szydagis",
+  "university-at-albany",
+  "uapx",
+  "paper-uapx-2025",
+  "paper-knuth-2025-new-science",
+  "paper-knuth-powell-reali-2019",
+  "sol-briefing-3-2026",
+  "limina-journal",
+  "robert-powell"
+ ],
+ "appendixT": "academic-science",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "academic-science",
+ "kind": "movement",
+ "lead": null,
+ "members": [],
+ "notes": "The most stable science community: Sol, Nolan's lab, Santa Clara, Albany and UAPx, with the scientific research domain node.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "science-technology",
+ "span": {
+  "from": "2019",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}

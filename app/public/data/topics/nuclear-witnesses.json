@@ -1,0 +1,32 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "robert-hastings",
+  "npc-2010-ufos-nukes",
+  "strategic-air-command",
+  "prp-nuclear-weapon",
+  "ufos-national-security-state"
+ ],
+ "appendixT": "nuclear-sites",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "2",
+ "id": "nuclear-witnesses",
+ "kind": "saga",
+ "lead": null,
+ "members": [],
+ "notes": "Split from Appendix T's nuclear-sites. The register's 47 witnesses reached the record largely through one researcher, Robert Hastings, and the 2010 press conference: the provenance is the topic (section 2a of CLAUDE.md).",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "encounters-witnesses",
+ "span": {
+  "from": "1948",
+  "to": "2025"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "UFOs and nuclear weapons: the witness register"
+}

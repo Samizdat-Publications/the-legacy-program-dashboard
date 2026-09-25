@@ -10,7 +10,13 @@ thumbs to app/public/patents/.
     python tools/build_app_data.py --check      re-derive every count in index.json
                                                 from the sources and fail on drift
     python tools/build_app_data.py --self-test  show --check rejecting a poisoned
-                                                board (one node removed)
+                                                board (one node removed), and the
+                                                topic files drifting from their records
+
+TOPICS (redesign phase 5, task 3).  research/topics/<id>.json ship as
+app/public/data/topics.json (the index the Atlas reads) and topics/<id>.json (one
+record each, every id it cites resolved to its claim or edge).  An absorbed domain
+node's own file carries `absorbedBy: <topic id>`; phase 6 redirects its page.
 
 WHAT IS DERIVED HERE AND WHAT IS COPIED
 ---------------------------------------
@@ -49,6 +55,9 @@ import re
 import shutil
 import sys
 import tempfile
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "topics"))
+import topiclib  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "app", "public", "data")
@@ -190,7 +199,10 @@ def source_hash():
     """
     stamp = re.compile(rb'"generated"\s*:\s*"\d{4}-\d{2}-\d{2}"')
     h = hashlib.sha1()
-    for rel in INPUTS:
+    # the authored topic records and sections are inputs too (phase 5); the
+    # generated _proposals.json is not, since nothing here reads it
+    topic_rel = ["research/topics/" + f for f in ["_sections.json"] + topiclib.stub_files()]
+    for rel in INPUTS + topic_rel:
         h.update(rel.encode("utf-8"))
         with open(os.path.join(ROOT, rel), "rb") as f:
             raw = f.read().replace(b"\r\n", b"\n")
@@ -216,6 +228,8 @@ class Src(object):
         self.threads = rd(THREADS) if os.path.exists(os.path.join(ROOT, THREADS)) else None
         self.nodes = self.board["people"] + self.board["entities"]
         self.byid = {n["id"]: n for n in self.nodes}
+        self.topics = topiclib.load_topics()
+        self.sections = topiclib.load_sections()
 
     def generated(self):
         vals = [self.board.get("generated"), self.l0.get("generated"),
@@ -456,6 +470,7 @@ def claims_json(s, ix):
 
 def node_files(s, ix):
     """One file per node.  Returns {id: object}."""
+    absorbed_by = {i: t["id"] for t in s.topics for i in (t.get("absorbs") or [])}
     dossiers = s.l0["dossiers"]
     ei = s.board.get("entityInfo", {})
     byNode = s.foia["byNode"]
@@ -554,6 +569,9 @@ def node_files(s, ix):
 
         rec["members"] = (sorted(lay["members"], key=lambda m: m["id"])
                           if lay else None)
+        # a domain node a topic absorbs (phase 5): its page becomes that topic's
+        if nid in absorbed_by:
+            rec["absorbedBy"] = absorbed_by[nid]
         out[nid] = rec
     return out
 
@@ -857,6 +875,103 @@ def threads_json(s, meta):
             "threads": threads_list(s)}
 
 
+# ------------------------------------------------------------ topics (phase 5)
+
+REMOVED = "research/_removed.json"
+
+
+def _alias():
+    p = os.path.join(ROOT, REMOVED)
+    return (rd(REMOVED).get("alias") or {}) if os.path.exists(p) else {}
+
+
+def _source_row(text):
+    """A claim's source as claims.json ships it."""
+    url = first_url(text)
+    return {"domain": host_of(url), "text": text, "url": url}
+
+
+def topic_record(s, bd, alias, t):
+    """One topic as app/public/data/topics/<id>.json ships it: the authored record
+    (fields beginning with `_` left out), the content lists present even when empty,
+    members resolved through the alias map and labelled, and `cites`, every cited
+    id resolved to its claim or edge. An id that resolves to nothing ships as
+    {id, kind: null, missing: true}: absent prints as absent, and verify.py and
+    --check both fail on it."""
+    rec = {k: v for k, v in t.items() if not k.startswith("_")}
+    rec.setdefault("lead", None)
+    for k in ("summary", "record", "claimed", "contested", "members", "questions", "related"):
+        rec.setdefault(k, [])
+    mem = []
+    for m in rec["members"]:
+        i = alias.get(m.get("id"), m.get("id")) if isinstance(m, dict) else m
+        n = s.byid.get(i) or {}
+        mem.append({"id": i, "role": m.get("role") if isinstance(m, dict) else None,
+                    "label": n.get("label"), "cls": n.get("cls")})
+    rec["members"] = mem
+    # each unplaced claim with the id a topic cites it by
+    if rec.get("unplacedClaims"):
+        by_text = {(c.get("collapsedInto"), c.get("claim")): k
+                   for k, c in topiclib.unplaced(t).items()}
+        rec["unplacedClaims"] = [dict(c, id=by_text[(c.get("collapsedInto"), c.get("claim"))])
+                                 for c in rec["unplacedClaims"]]
+    cites = {}
+    for cid in topiclib.cited_ids(t):
+        cites[cid] = (topiclib.resolve(bd, t, cid, _source_row)
+                      or {"id": cid, "kind": None, "missing": True})
+    rec["cites"] = cites
+    return rec
+
+
+def topic_coverage(s, topics, alias):
+    """The share of non-domain nodes, and of people, that are a member of a topic
+    (the figure verify.py holds against tools/TOPIC-COVERAGE-FLOOR.json)."""
+    inm = {alias.get(m.get("id"), m.get("id")) for t in topics
+           for m in t.get("members") or [] if isinstance(m, dict)}
+    nodes = [n for n in s.nodes if n.get("cls") != "domain"]
+    people = [n for n in nodes if n.get("cls") == "person"]
+
+    def one(xs):
+        c = sum(1 for n in xs if n["id"] in inm)
+        return {"covered": c, "share": round(c / len(xs), 4) if xs else 0.0,
+                "total": len(xs)}
+    return {"nodes": one(nodes), "people": one(people)}
+
+
+def topic_counts(t):
+    """The counts topics.json carries for one topic, from the authored record."""
+    return {"cites": len(topiclib.cited_ids(t)),
+            "members": len(t.get("members") or []),
+            "questions": len(t.get("questions") or [])}
+
+
+def topics_json(s, meta, alias):
+    rows = []
+    for t in s.topics:
+        lead = t.get("lead")
+        rows.append({
+            "counts": topic_counts(t),
+            "focusEra": t.get("focusEra"),
+            "id": t["id"],
+            "kind": t.get("kind"),
+            "lead": lead.get("text") if isinstance(lead, dict) else None,
+            "researchGap": bool(str(t.get("researchGap") or "").strip()),
+            "section": t.get("section"),
+            "span": t.get("span"),
+            "status": t.get("status"),
+            "title": t.get("title"),
+        })
+    return {
+        "coverage": topic_coverage(s, s.topics, alias),
+        "generated": meta["generated"],
+        "sections": [{k: v for k, v in x.items() if not k.startswith("_")}
+                     for x in sorted(s.sections.get("sections") or [],
+                                     key=lambda x: x.get("order") or 0)],
+        "source": meta["source"],
+        "topics": rows,
+    }
+
+
 # ---------------------------------------------------------------------- copy
 
 def copy_patents(quiet=False):
@@ -919,6 +1034,19 @@ def build(quiet=False):
     for nid, rec in sorted(files.items()):
         tot += write(os.path.join(nd, nid + ".json"), rec, 0)
     written.append(("data/nodes/*.json (%d files)" % len(files), tot))
+
+    alias = _alias()
+    written.append(("data/topics.json",
+                    write(os.path.join(OUT, "topics.json"), topics_json(s, meta, alias), 1)))
+    td = os.path.join(OUT, "topics")
+    if os.path.isdir(td):
+        for f in os.listdir(td):
+            os.remove(os.path.join(td, f))
+    bd = topiclib.Board(s.board)
+    tot = 0
+    for t in s.topics:
+        tot += write(os.path.join(td, t["id"] + ".json"), topic_record(s, bd, alias, t), 1)
+    written.append(("data/topics/*.json (%d files)" % len(s.topics), tot))
 
     imgs, thumbs = copy_patents()
 
@@ -997,6 +1125,8 @@ def check(board_rel=BOARD, quiet=False):
         drift.append("  %d node files missing, e.g. %s"
                      % (len(missing), ", ".join(missing[:5])))
 
+    drift += check_topics()
+
     if drift:
         if not quiet:
             print("FAIL  app/public/data drifted from the sources:")
@@ -1009,6 +1139,88 @@ def check(board_rel=BOARD, quiet=False):
         print("OK    every count in index.json re-derives from %s and friends"
               % board_rel)
     return True
+
+
+def check_topics(index=None, node_dir=None):
+    """Re-derive the topic files from research/topics/*.json, read afresh here and
+    counted by this function's own loop: the index's rows and counts, one topic file
+    per record whose `cites` are exactly the ids the record cites and resolve, and
+    `absorbedBy` on exactly the domain nodes a topic absorbs. `index` and `node_dir`
+    are the poison channels for --self-test."""
+    drift = []
+    tdir = os.path.join(ROOT, "research", "topics")
+    raw = {}
+    for f in sorted(os.listdir(tdir)):
+        if f.endswith(".json") and not f.startswith("_"):
+            with open(os.path.join(tdir, f), encoding="utf-8") as fh:
+                t = json.load(fh)
+            raw[t["id"]] = t
+
+    def cited(t):
+        ids = []
+        for k in ("lead", "summary", "record", "claimed", "contested"):
+            v = t.get(k)
+            for it in ([v] if isinstance(v, dict) else (v or [])):
+                for c in (it.get("cite") or []) if isinstance(it, dict) else []:
+                    if c not in ids:
+                        ids.append(c)
+        return ids
+
+    if index is None:
+        p = os.path.join(OUT, "topics.json")
+        if not os.path.exists(p):
+            return ["  no app/public/data/topics.json -- build first"]
+        index = json.load(open(p, encoding="utf-8"))
+    rows = {r["id"]: r for r in index.get("topics") or []}
+    if set(rows) != set(raw):
+        drift.append("  topics.json rows %d, research/topics records %d (differ: %s)"
+                     % (len(rows), len(raw), ", ".join(sorted(set(rows) ^ set(raw))[:5])))
+    for tid, t in sorted(raw.items()):
+        r = rows.get(tid)
+        if r is None:
+            continue
+        want = {"cites": len(cited(t)), "members": len(t.get("members") or []),
+                "questions": len(t.get("questions") or [])}
+        if r.get("counts") != want:
+            drift.append("  topics.json %s counts %r, re-derived %r" % (tid, r.get("counts"), want))
+        for k in ("status", "section", "kind", "title"):
+            if r.get(k) != t.get(k):
+                drift.append("  topics.json %s %s %r, record %r" % (tid, k, r.get(k), t.get(k)))
+        lead = t.get("lead")
+        if r.get("lead") != (lead.get("text") if isinstance(lead, dict) else None):
+            drift.append("  topics.json %s lead differs from the record" % tid)
+        fp = os.path.join(OUT, "topics", tid + ".json")
+        if not os.path.exists(fp):
+            drift.append("  topic file topics/%s.json missing" % tid)
+            continue
+        rec = json.load(open(fp, encoding="utf-8"))
+        cites = rec.get("cites") or {}
+        if rec.get("id") != tid or sorted(cites) != sorted(cited(t)):
+            drift.append("  topics/%s.json: id %r, %d cites where the record cites %d"
+                         % (tid, rec.get("id"), len(cites), len(cited(t))))
+        gone = sorted(k for k, v in cites.items() if not v or v.get("missing"))
+        if gone:
+            drift.append("  topics/%s.json: %d cited ids resolve to nothing (%s)"
+                         % (tid, len(gone), ", ".join(gone[:3])))
+    extra = sorted(f[:-5] for f in os.listdir(os.path.join(OUT, "topics"))
+                   if f.endswith(".json") and f[:-5] not in raw) \
+        if os.path.isdir(os.path.join(OUT, "topics")) else []
+    if extra:
+        drift.append("  topic files with no record: %s" % ", ".join(extra[:5]))
+
+    nd = node_dir or os.path.join(OUT, "nodes")
+    want_by = {i: tid for tid, t in raw.items() for i in (t.get("absorbs") or [])}
+    for f in sorted(os.listdir(nd)):
+        nid = f[:-5]
+        with open(os.path.join(nd, f), encoding="utf-8") as fh:
+            txt = fh.read()
+        if nid not in want_by and '"absorbedBy"' not in txt:
+            continue
+        have = json.loads(txt).get("absorbedBy")
+        if have != want_by.get(nid):
+            drift.append("  nodes/%s.json absorbedBy %r, the records say %r"
+                         % (nid, have, want_by.get(nid)))
+    return drift
 
 
 def self_test():
@@ -1062,6 +1274,49 @@ def self_test():
                 continue
             print("  FAIL: check_chip_figures ACCEPTED %s.  The check is broken." % what)
             return False
+
+    # The topic files (phase 5): the real index must re-derive, and three poisons
+    # must not: a count that moved, a row that went missing, and an absorbed domain
+    # node whose file lost its absorbedBy.
+    print("self-test: the topic files against the real records")
+    if check_topics():
+        print("  FAIL: check_topics rejects the unpoisoned build: %s" % check_topics()[0])
+        return False
+    print("  pass: accepted")
+    real = json.load(open(os.path.join(OUT, "topics.json"), encoding="utf-8"))
+
+    def bump(ix):
+        ix["topics"][0]["counts"]["members"] += 1
+
+    def drop(ix):
+        ix["topics"].pop()
+    for what, mangle in (("a member count that moved", bump), ("a missing row", drop)):
+        ix = json.loads(json.dumps(real))
+        mangle(ix)
+        got = check_topics(index=ix)
+        print("self-test: the topic files against %s" % what)
+        if not got:
+            print("  FAIL: check_topics ACCEPTED %s.  The check is broken." % what)
+            return False
+        print("  pass: rejected (%s)" % got[0].strip()[:80])
+    absorbed = sorted(i for t in topiclib.load_topics() for i in (t.get("absorbs") or []))
+    tmp = tempfile.mkdtemp(prefix="app-topics-poison-")
+    try:
+        for k, i in enumerate(absorbed):
+            rec = json.load(open(os.path.join(OUT, "nodes", i + ".json"), encoding="utf-8"))
+            if k == 0:
+                rec.pop("absorbedBy", None)
+            with open(os.path.join(tmp, i + ".json"), "w", encoding="utf-8") as fh:
+                json.dump(rec, fh)
+        got = check_topics(node_dir=tmp)
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+    print("self-test: the topic files against a domain node file without absorbedBy")
+    if not got or absorbed[0] not in got[0]:
+        print("  FAIL: check_topics ACCEPTED %s without absorbedBy.  The check is broken."
+              % absorbed[0])
+        return False
+    print("  pass: rejected (%s)" % got[0].strip()[:80])
 
     print("self-test OK")
     return True

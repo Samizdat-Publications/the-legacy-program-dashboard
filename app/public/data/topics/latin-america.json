@@ -1,0 +1,35 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "cefaa",
+  "dgac-chile",
+  "peru-uap-office",
+  "sergio-bravo-flores",
+  "ricardo-bermudez",
+  "ev-chile-navy-flir-2014",
+  "ev-argentina-bariloche-1995",
+  "l-santiago"
+ ],
+ "appendixT": "latin-america",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "2",
+ "id": "latin-america",
+ "kind": "nation",
+ "lead": null,
+ "members": [],
+ "notes": "Chile's CEFAA, Peru's office and the Argentine cases.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "other-nations",
+ "span": {
+  "from": "1995",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Chile, Peru and Argentina"
+}

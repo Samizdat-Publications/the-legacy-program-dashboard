@@ -1,0 +1,31 @@
+{
+ "absorbs": [
+  "d-legacy",
+  "d-recovery",
+  "d-reverse-engineering",
+  "d-custody"
+ ],
+ "anchors": [],
+ "appendixT": null,
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "legacy-programme",
+ "kind": "explainer",
+ "lead": null,
+ "members": [],
+ "notes": "Added: an explainer for the board's central claim, absorbing the four domain nodes that name it. It says what is alleged and what the record does and does not show; every specific allegation is its own topic.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "custody-allegations",
+ "span": {
+  "from": "1947",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}

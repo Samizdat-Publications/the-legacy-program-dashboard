@@ -1,0 +1,45 @@
+{
+ "absorbs": [
+  "d-media"
+ ],
+ "anchors": [
+  "george-knapp",
+  "klas-tv",
+  "jeremy-corbell",
+  "weaponized-podcast",
+  "jesse-michels",
+  "american-alchemy",
+  "michels-gerb-structural-episode",
+  "newsnation",
+  "newsnation-reality-check",
+  "ross-coulthart",
+  "the-debrief",
+  "tim-mcmillan",
+  "micah-hanks",
+  "the-intercept",
+  "ken-klippenstein",
+  "the-hill"
+ ],
+ "appendixT": "media-substrate",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "media-substrate",
+ "kind": "movement",
+ "lead": null,
+ "members": [],
+ "notes": "The three mined podcast corpora are sources here, not subjects. Canon 12 (Art Bell, Rogan, Strieber, Jacobsen) extends it.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "media-movement",
+ "span": {
+  "from": "1989",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Podcasts, broadcasters and independent media"
+}

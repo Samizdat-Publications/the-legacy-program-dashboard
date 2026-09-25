@@ -1,0 +1,32 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "nasa-uap-ist",
+  "nasa-uapist-report",
+  "nasa",
+  "david-spergel",
+  "nicola-fox"
+ ],
+ "appendixT": "nasa-uap-study",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "nasa-uap-study",
+ "kind": "programme",
+ "lead": null,
+ "members": [],
+ "notes": "NASA's 2022-23 independent study team and report; NASA itself is a connector hub and is damped as an anchor.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "official-study",
+ "span": {
+  "from": "2022",
+  "to": "2023"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "NASA's UAP independent study, 2022-23"
+}

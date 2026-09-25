@@ -1,0 +1,39 @@
+{
+ "absorbs": [
+  "d-funding",
+  "d-contracting"
+ ],
+ "anchors": [
+  "reprogramming-dd1415",
+  "sec-8084-nip-reprogramming",
+  "sec-8005-transfer",
+  "sec-1001-gta",
+  "irad-mechanism",
+  "defense-appropriations-aawsap"
+ ],
+ "appendixT": "funding-channels",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [
+  "how-money-reaches-an-invisible-program",
+  "the-named-mechanism"
+ ],
+ "focusEra": "2",
+ "id": "funding-channels",
+ "kind": "mechanism",
+ "lead": null,
+ "members": [],
+ "notes": "The money thread runs through here.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1947",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}

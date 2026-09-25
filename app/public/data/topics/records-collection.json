@@ -1,0 +1,30 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "nara-uap-collection",
+  "national-archives",
+  "odni-memo-es-2026-00818"
+ ],
+ "appendixT": "records-collection",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "records-collection",
+ "kind": "institution",
+ "lead": null,
+ "members": [],
+ "notes": "The first entity-resolution case: five nodes that were one thing are now one (nara-rg615 and the records-collection twin collapsed in phase 4).",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "congress-disclosure",
+ "span": {
+  "from": "2023",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "The National Archives UAP records collection (RG 615)"
+}

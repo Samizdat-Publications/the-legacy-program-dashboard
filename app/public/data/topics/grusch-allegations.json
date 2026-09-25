@@ -1,0 +1,36 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "david-grusch",
+  "grusch-icig-complaint",
+  "grusch-misappropriation-allegation",
+  "grusch-dopsr-clearance",
+  "crane-dod-reprisal-letter",
+  "debrief-2023-06-05",
+  "grusch-v-chapman",
+  "aaro-grusch-interview-memo",
+  "dopsr"
+ ],
+ "appendixT": "grusch-allegations",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "grusch-allegations",
+ "kind": "saga",
+ "lead": null,
+ "members": [],
+ "notes": "The highest-degree node on the board; its page becomes an index grouped by topic. What he alleges is testimony and is framed as such.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "custody-allegations",
+ "span": {
+  "from": "2019",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+}

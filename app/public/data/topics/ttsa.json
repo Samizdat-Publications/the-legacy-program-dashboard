@@ -1,0 +1,41 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "ttsa",
+  "ttsa-army-crada",
+  "adam-research-project",
+  "ttsa-launch-2017",
+  "tom-delonge",
+  "kari-delonge",
+  "podesta-delonge-mccasland-email-2016",
+  "john-podesta",
+  "william-mccasland",
+  "ccdc-gvsc",
+  "l-detroit-arsenal",
+  "joseph-cannon",
+  "jim-semivan",
+  "steve-justice"
+ ],
+ "appendixT": "ttsa",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "ttsa",
+ "kind": "institution",
+ "lead": null,
+ "members": [],
+ "notes": "The most stable community on the board (stability 1.00 in the 24 September run). TTSA is a private company in the official-study section because its CRADA was with the Army.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "official-study",
+ "span": {
+  "from": "2015",
+  "to": "2021"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}

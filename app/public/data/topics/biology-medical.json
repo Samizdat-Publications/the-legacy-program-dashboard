@@ -1,0 +1,37 @@
+{
+ "absorbs": [
+  "d-bio",
+  "d-medical",
+  "d-plasma"
+ ],
+ "anchors": [
+  "cash-v-united-states",
+  "betty-cash",
+  "dird-green-clinical-medical",
+  "dird-anomalous-acute-and-subacute-field-effects",
+  "kit-green",
+  "armed-forces-institute-of-pathology"
+ ],
+ "appendixT": "biology-medical",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "2",
+ "id": "biology-medical",
+ "kind": "allegation",
+ "lead": null,
+ "members": [],
+ "notes": "Kept although Appendix T expected it to be thin: Cash-Landrum and the AAWSAP medical work carry it past six.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "science-technology",
+ "span": {
+  "from": "1980",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Claims of biologics, and documented medical effects"
+}

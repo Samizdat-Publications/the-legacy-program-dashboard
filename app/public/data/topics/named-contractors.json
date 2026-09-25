@@ -1,0 +1,45 @@
+{
+ "absorbs": [
+  "d-contractor"
+ ],
+ "anchors": [
+  "northrop-grumman",
+  "trw-inc",
+  "saic",
+  "leidos",
+  "bobby-ray-inman",
+  "raytheon",
+  "bdm-international",
+  "general-dynamics",
+  "boeing",
+  "mcdonnell-douglas",
+  "e-systems-inc",
+  "bell-aircraft-corporation",
+  "booz-allen",
+  "general-atomics",
+  "aerojet-rocketdyne",
+  "kirk-mayer"
+ ],
+ "appendixT": "named-contractors",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "1",
+ "id": "named-contractors",
+ "kind": "allegation",
+ "lead": null,
+ "members": [],
+ "notes": "The board's exclusions stay: no BDM-to-Northrop edge, and sperry-rand deliberately unattached. Canon cluster 11 (Hughes, Wackenhut, REECo, Dugway) extends it.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "custody-allegations",
+ "span": {
+  "from": "1947",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Other contractors named in custody claims"
+}

@@ -1,0 +1,32 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "battelle",
+  "gerb-battelle-investigation",
+  "naval-ordnance-laboratory",
+  "l-columbus-oh",
+  "howard-c-cross"
+ ],
+ "appendixT": "battelle-nitinol",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "0",
+ "id": "battelle-nitinol",
+ "kind": "allegation",
+ "lead": null,
+ "members": [],
+ "notes": "Carries the NOL record (NASA SP-5110, NOLTR 61-75, the patent filed 1 December 1961) beside the Battelle allegation (do not undo).",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "custody-allegations",
+ "span": {
+  "from": "1951",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+}

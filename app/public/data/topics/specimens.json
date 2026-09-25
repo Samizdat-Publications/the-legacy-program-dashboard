@@ -1,0 +1,36 @@
+{
+ "absorbs": [
+  "d-materials",
+  "d-chem"
+ ],
+ "anchors": [
+  "aaro-metallic-specimen-analysis",
+  "aaro-ornl-materials-analyses",
+  "oak-ridge-national-laboratory",
+  "adam-research-project",
+  "paper-nolan-vallee-2022",
+  "council-bluffs-1977"
+ ],
+ "appendixT": "specimens",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "specimens",
+ "kind": "allegation",
+ "lead": null,
+ "members": [],
+ "notes": "The analyses of physical material, from the ADAM samples to AARO's metallic specimen report and the Oak Ridge analyses.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "science-technology",
+ "span": {
+  "from": "1996",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Physical material and specimen analyses"
+}

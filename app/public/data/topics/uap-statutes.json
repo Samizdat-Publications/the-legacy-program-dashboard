@@ -1,0 +1,46 @@
+{
+ "absorbs": [
+  "d-legislation"
+ ],
+ "anchors": [
+  "ndaa-fy2022-sec-1683",
+  "ndaa-fy2023-sec-6802",
+  "ndaa-fy2023-sec-1673",
+  "ndaa-fy2024-1687",
+  "ndaa-fy2024-subtitle-c",
+  "iaa-fy2024-sec-1102",
+  "iaa-fy2024-sec1104",
+  "iaa-fy2024-7343",
+  "iaa-fy2025-title-lxviii",
+  "ndaa26-uap-provisions",
+  "ndaa-fy2027-s4784",
+  "ndaa-fy2027-uap-amendment",
+  "ndaa-fy2022",
+  "ndaa-fy2023",
+  "ndaa-fy2024",
+  "ndaa-fy2025",
+  "ndaa-fy2026"
+ ],
+ "appendixT": "uap-statutes",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "uap-statutes",
+ "kind": "mechanism",
+ "lead": null,
+ "members": [],
+ "notes": "An act and its UAP section stay separate nodes (phase 4 decision); this topic groups them.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "congress-disclosure",
+ "span": {
+  "from": "2020",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "UAP law in the NDAAs and IAAs, 2021-2026"
+}

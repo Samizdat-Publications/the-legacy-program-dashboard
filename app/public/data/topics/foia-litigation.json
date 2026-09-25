@@ -1,0 +1,49 @@
+{
+ "absorbs": [
+  "d-foia",
+  "d-litigation",
+  "d-legal",
+  "d-records",
+  "d-history",
+  "d-signals"
+ ],
+ "anchors": [
+  "caus-v-nsa",
+  "yeates-affidavit",
+  "eugene-yeates",
+  "caus",
+  "peter-gersten",
+  "nsa",
+  "kean-v-nasa",
+  "foia-18-f-0324",
+  "foia-21-f-0938",
+  "dodig-2021-000806-foia",
+  "judicial-watch",
+  "the-black-vault",
+  "john-greenewald",
+  "fbi-vault-ufo",
+  "cia-readingroom-ufo"
+ ],
+ "appendixT": null,
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "1",
+ "id": "foia-litigation",
+ "kind": "mechanism",
+ "lead": null,
+ "members": [],
+ "notes": "Added: not in Appendix T. The CAUS v. NSA community (eleven nodes), the FOIA domain nodes and the civilian record-getters form a group of their own: how records were forced out, and what the agencies said in court.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1976",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "FOIA requests and UFO lawsuits"
+}

@@ -1,0 +1,36 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "langley-2023-incursions",
+  "nj-drone-incursions-2024",
+  "barksdale-2026-incursions",
+  "norad-northcom",
+  "gregory-guillot",
+  "jiatf-401",
+  "shootdowns-feb-2023",
+  "l-langley-afb",
+  "l-barksdale"
+ ],
+ "appendixT": "incursions-2023-26",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "3",
+ "id": "incursions-2023-26",
+ "kind": "incident",
+ "lead": null,
+ "members": [],
+ "notes": "A stable small community in the 24 September run (stability 0.89): the base incursions and the February 2023 shootdowns.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "official-study",
+ "span": {
+  "from": "2023",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Drone incursions over bases, 2023-2026"
+}

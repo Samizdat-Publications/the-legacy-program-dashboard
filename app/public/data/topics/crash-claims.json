@@ -1,0 +1,38 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "aztec-1948",
+  "plains-san-agustin-1947",
+  "kingman-1953",
+  "kecksburg-1965",
+  "del-rio-1950",
+  "frank-scully",
+  "behind-the-flying-saucers",
+  "hottel-memo",
+  "stringfield-status-reports",
+  "leonard-stringfield",
+  "l-aztec"
+ ],
+ "appendixT": "crash-claims-1940s-60s",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "0",
+ "id": "crash-claims",
+ "kind": "allegation",
+ "lead": null,
+ "members": [],
+ "notes": "The crash stories other than Roswell, with Stringfield's status reports as the collector. Canon cluster 8 (Newton, GeBauer, Steinman, Good) extends it.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "early-record",
+ "span": {
+  "from": "1947",
+  "to": "1978"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}

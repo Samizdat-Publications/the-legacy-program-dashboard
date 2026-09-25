@@ -1,0 +1,41 @@
+{
+ "absorbs": [
+  "d-roswell"
+ ],
+ "anchors": [
+  "roswell-1947",
+  "jesse-marcel",
+  "raaf-press-release-1947",
+  "roger-ramey",
+  "walter-haut",
+  "l-roswell",
+  "509th-bomb-group",
+  "the-roswell-incident-1980",
+  "steven-schiff",
+  "gao-nsiad-95-187",
+  "project-mogul",
+  "usaf-roswell-reports"
+ ],
+ "appendixT": "roswell-1947",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "0",
+ "id": "roswell-1947",
+ "kind": "incident",
+ "lead": null,
+ "members": [],
+ "notes": "The anchor topic of the early record, at the centre of the measured Roswell and crash-retrieval research community. Carries the 1978-80 revival and the 1994-97 GAO and USAF reports as its tail, with Mogul as the case against.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "early-record",
+ "span": {
+  "from": "1947",
+  "to": "1997"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Roswell, July 1947, and its afterlife"
+}

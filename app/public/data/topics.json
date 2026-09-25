@@ -1,0 +1,1847 @@
+{
+ "coverage": {
+  "nodes": {
+   "covered": 0,
+   "share": 0.0,
+   "total": 1080
+  },
+  "people": {
+   "covered": 0,
+   "share": 0.0,
+   "total": 351
+  }
+ },
+ "generated": "2026-09-25",
+ "sections": [
+  {
+   "blurb": "Roswell and the other crash stories, the Air Force projects from Sign to Blue Book, the CIA's Robertson Panel and the Condon Committee: the record as it stood when the official study closed.",
+   "id": "early-record",
+   "order": 1,
+   "title": "The early record, 1944-1969"
+  },
+  {
+   "blurb": "How secrecy is built: the National Security Act, the classification orders, special access programmes and who must be told about them, the classified budget and the audits that cannot trace it.",
+   "id": "secrecy-machinery",
+   "order": 2,
+   "title": "The secrecy machinery: law, classification and money"
+  },
+  {
+   "blurb": "The claim at the centre of the board, that recovered craft and material are held and studied outside congressional oversight, told allegation by allegation with the case against each.",
+   "id": "custody-allegations",
+   "order": 3,
+   "title": "The custody allegations"
+  },
+  {
+   "blurb": "What the government has run to study the subject since 1970: remote viewing, AAWSAP and AATIP, the UAP Task Force, AARO, NASA's study and the 2026 releases.",
+   "id": "official-study",
+   "order": 4,
+   "title": "Official study programmes"
+  },
+  {
+   "blurb": "The encounters the record documents best, from the missile fields of the 1960s to the Navy carrier groups, and the people who have testified about them, with how each account reached the record.",
+   "id": "encounters-witnesses",
+   "order": 5,
+   "title": "Encounters and witnesses"
+  },
+  {
+   "blurb": "Congress before and after 2017: the hearings, the statutes, the UAP Disclosure Act, the records collection, whistleblower law and the 2025 and 2026 House push.",
+   "id": "congress-disclosure",
+   "order": 6,
+   "title": "Congress and the disclosure fight"
+  },
+  {
+   "blurb": "Academic study of the subject, the physics claims and what the documents actually say, the Navy patents, the 1950s gravity research, specimen analyses and medical effects.",
+   "id": "science-technology",
+   "order": 7,
+   "title": "Science, technology and patents"
+  },
+  {
+   "blurb": "The Kirtland affair, Dulce, the Majestic-12 papers, perception management, the official explanations and the sceptics: where the record shows deception, and where it shows the claim fails.",
+   "id": "case-against",
+   "order": 8,
+   "title": "Disinformation, fabrication and the case against"
+  },
+  {
+   "blurb": "The governmental record outside the United States: France, Britain, Brazil, Canada, the Soviet Union, Chile and Peru, and how other governments organise a UAP office.",
+   "id": "other-nations",
+   "order": 9,
+   "title": "Other nations"
+  },
+  {
+   "blurb": "The broadcasters, podcasts and newspapers that carried the story, the civilian research groups, and the documentaries and books.",
+   "id": "media-movement",
+   "order": 10,
+   "title": "Media, civilian research and the movement"
+  }
+ ],
+ "source": "c3cf61e1a6ed",
+ "topics": [
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "aaro",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "2022",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "AARO, 2022 to now"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "aaro-historical-record",
+   "kind": "document",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "2024",
+    "to": "2025"
+   },
+   "status": "draft",
+   "title": "AARO's historical record reports and their critics"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "aatip-elizondo",
+   "kind": "saga",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "2008",
+    "to": "2024"
+   },
+   "status": "draft",
+   "title": "AATIP and Luis Elizondo"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "aawsap-baass",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "2007",
+    "to": "2012"
+   },
+   "status": "draft",
+   "title": "AAWSAP and BAASS, 2007-2012"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "academic-science",
+   "kind": "movement",
+   "lead": null,
+   "researchGap": false,
+   "section": "science-technology",
+   "span": {
+    "from": "2019",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "area-51-ranges",
+   "kind": "institution",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "1955",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Area 51 and the Nevada ranges"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "arv-fluxliner",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "1988",
+    "to": "2023"
+   },
+   "status": "draft",
+   "title": "The claimed ARV, or Flux Liner, and the Norton 1988 exhibit"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "astronomers-searches",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "science-technology",
+   "span": {
+    "from": "2017",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "atomic-secrecy",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1946",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Atomic secrecy and the weapons laboratories"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "aviation-cases",
+   "kind": "incident",
+   "lead": null,
+   "researchGap": false,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "1976",
+    "to": "2024"
+   },
+   "status": "draft",
+   "title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "battelle-nitinol",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "1951",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "biology-medical",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "science-technology",
+   "span": {
+    "from": "1980",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Claims of biologics, and documented medical effects"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "black-budget",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1947",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "The classified budget: annexes, the NIP and the MIP"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "blue-book",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "early-record",
+   "span": {
+    "from": "1952",
+    "to": "1970"
+   },
+   "status": "draft",
+   "title": "Project Blue Book, 1952-1969"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "brazil",
+   "kind": "nation",
+   "lead": null,
+   "researchGap": false,
+   "section": "other-nations",
+   "span": {
+    "from": "1977",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "canada",
+   "kind": "nation",
+   "lead": null,
+   "researchGap": false,
+   "section": "other-nations",
+   "span": {
+    "from": "1950",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Canada: Project Magnet and Sky Canada"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "carve-outs",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1987",
+    "to": "2024"
+   },
+   "status": "draft",
+   "title": "Carve-outs and contractor security oversight"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "cia-secrecy-precedents",
+   "kind": "institution",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1950",
+    "to": "1977"
+   },
+   "status": "draft",
+   "title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "civilian-groups",
+   "kind": "movement",
+   "lead": null,
+   "researchGap": false,
+   "section": "media-movement",
+   "span": {
+    "from": "1956",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Civilian research groups and the disclosure movement"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "classification-orders",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1953",
+    "to": "2009"
+   },
+   "status": "draft",
+   "title": "Classification orders from EO 10501 to EO 13526"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "condon-1966-69",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "early-record",
+   "span": {
+    "from": "1966",
+    "to": "1970"
+   },
+   "status": "draft",
+   "title": "The Condon Committee and the end of Blue Book, 1966-69"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "congressional-witnesses",
+   "kind": "saga",
+   "lead": null,
+   "researchGap": false,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "2023",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Witnesses who have gone to Congress, and what the record corroborates"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "corso-day-after",
+   "kind": "saga",
+   "lead": null,
+   "researchGap": true,
+   "section": "custody-allegations",
+   "span": {
+    "from": "1947",
+    "to": "1998"
+   },
+   "status": "draft",
+   "title": "Philip Corso's account"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "crash-claims",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "early-record",
+   "span": {
+    "from": "1947",
+    "to": "1978"
+   },
+   "status": "draft",
+   "title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "denial-ledger",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "case-against",
+   "span": {
+    "from": "1947",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "What the government denies, and how"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "dirds",
+   "kind": "document",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "2009",
+    "to": "2019"
+   },
+   "status": "draft",
+   "title": "The Defense Intelligence Reference Documents"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "disclosure-project-2001",
+   "kind": "movement",
+   "lead": null,
+   "researchGap": false,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "1993",
+    "to": "2001"
+   },
+   "status": "draft",
+   "title": "The Disclosure Project, 2001"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "documentaries",
+   "kind": "movement",
+   "lead": null,
+   "researchGap": false,
+   "section": "media-movement",
+   "span": {
+    "from": "1950",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Documentaries and books"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "dulce",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "case-against",
+   "span": {
+    "from": "1979",
+    "to": "2021"
+   },
+   "status": "draft",
+   "title": "Dulce Base: an allegation and its origins"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "ffrdc-probes",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "1947",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "FFRDCs and the 2026 contractor probes"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "foia-litigation",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1976",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "FOIA requests and UFO lawsuits"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "france",
+   "kind": "nation",
+   "lead": null,
+   "researchGap": false,
+   "section": "other-nations",
+   "span": {
+    "from": "1977",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "funding-channels",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1947",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "gravity-research-1950s",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "science-technology",
+   "span": {
+    "from": "1952",
+    "to": "1960"
+   },
+   "status": "draft",
+   "title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "grusch-allegations",
+   "kind": "saga",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "2019",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "hearing-2023",
+   "kind": "hearing",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "2023",
+    "to": "2023"
+   },
+   "status": "draft",
+   "title": "The July 2023 House hearing"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "hearing-2024",
+   "kind": "hearing",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "2024",
+    "to": "2024"
+   },
+   "status": "draft",
+   "title": "The November 2024 House hearing"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "house-push-2026",
+   "kind": "hearing",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "2025",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "immaculate-constellation",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "2024",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Immaculate Constellation: the 2024 allegation"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "incursions-2023-26",
+   "kind": "incident",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "2023",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Drone incursions over bases, 2023-2026"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "kirtland-1980",
+   "kind": "saga",
+   "lead": null,
+   "researchGap": false,
+   "section": "case-against",
+   "span": {
+    "from": "1979",
+    "to": "2021"
+   },
+   "status": "draft",
+   "title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "kona-blue",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "2010",
+    "to": "2024"
+   },
+   "status": "draft",
+   "title": "KONA BLUE (2011)"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "latin-america",
+   "kind": "nation",
+   "lead": null,
+   "researchGap": false,
+   "section": "other-nations",
+   "span": {
+    "from": "1995",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Chile, Peru and Argentina"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "lazar-s4",
+   "kind": "saga",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "1989",
+    "to": "2019"
+   },
+   "status": "draft",
+   "title": "Bob Lazar's account of S-4 and element 115"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "legacy-programme",
+   "kind": "explainer",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "1947",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "media-substrate",
+   "kind": "movement",
+   "lead": null,
+   "researchGap": false,
+   "section": "media-movement",
+   "span": {
+    "from": "1989",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Podcasts, broadcasters and independent media"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "military-encounters-2019",
+   "kind": "incident",
+   "lead": null,
+   "researchGap": false,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "2019",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "missing-scientists",
+   "kind": "saga",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "2026",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Deaths and disappearances: the scientists probe"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "mj12-documents",
+   "kind": "document",
+   "lead": null,
+   "researchGap": false,
+   "section": "case-against",
+   "span": {
+    "from": "1984",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "The Majestic-12 documents"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "named-contractors",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "1947",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Other contractors named in custody claims"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "nasa-uap-study",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "2022",
+    "to": "2023"
+   },
+   "status": "draft",
+   "title": "NASA's UAP independent study, 2022-23"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "navy-patents",
+   "kind": "document",
+   "lead": null,
+   "researchGap": false,
+   "section": "science-technology",
+   "span": {
+    "from": "2015",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "The Navy's Pais patents, and invention secrecy"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "nimitz-2004",
+   "kind": "incident",
+   "lead": null,
+   "researchGap": false,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "2004",
+    "to": "2020"
+   },
+   "status": "draft",
+   "title": "USS Nimitz, November 2004"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "nsc-spine",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1947",
+    "to": "1985"
+   },
+   "status": "draft",
+   "title": "The National Security Act and the NSC, 1947-1985"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "nuclear-missiles-1960s",
+   "kind": "incident",
+   "lead": null,
+   "researchGap": false,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "1964",
+    "to": "1968"
+   },
+   "status": "draft",
+   "title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "nuclear-witnesses",
+   "kind": "saga",
+   "lead": null,
+   "researchGap": false,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "1948",
+    "to": "2025"
+   },
+   "status": "draft",
+   "title": "UFOs and nuclear weapons: the witness register"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "nyt-2017",
+   "kind": "movement",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "2017",
+    "to": "2017"
+   },
+   "status": "draft",
+   "title": "The December 2017 New York Times story"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "office-models",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "other-nations",
+   "span": {
+    "from": "1990",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Other governments: Belgium, Spain, Japan and the office model"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "official-explanations",
+   "kind": "document",
+   "lead": null,
+   "researchGap": false,
+   "section": "case-against",
+   "span": {
+    "from": "1947",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Official explanations: Mogul, balloons, flares and misidentification"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "officials-on-record",
+   "kind": "saga",
+   "lead": null,
+   "researchGap": true,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "1957",
+    "to": "2021"
+   },
+   "status": "draft",
+   "title": "Astronauts, officials and ministers on the record"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "oversight-before-2017",
+   "kind": "hearing",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "1966",
+    "to": "2016"
+   },
+   "status": "draft",
+   "title": "Congress and the White House before 2017"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "perception-management",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "case-against",
+   "span": {
+    "from": "1950",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "pre-roswell-claims",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": true,
+   "section": "early-record",
+   "span": {
+    "from": "1933",
+    "to": "1947"
+   },
+   "status": "draft",
+   "title": "Before Roswell: the 1942 Los Angeles raid and the claimed Trinity and Magenta recoveries"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "propulsion-claims",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "science-technology",
+   "span": {
+    "from": "1994",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Propulsion and exotic-physics claims, and what the documents say"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "pursue-2026",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "2025",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "PURSUE and the 2026 releases"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "records-collection",
+   "kind": "institution",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "2023",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "The National Archives UAP records collection (RG 615)"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "rendlesham-1980",
+   "kind": "incident",
+   "lead": null,
+   "researchGap": false,
+   "section": "other-nations",
+   "span": {
+    "from": "1980",
+    "to": "2023"
+   },
+   "status": "draft",
+   "title": "Rendlesham Forest, December 1980"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "robertson-cia-1953",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "early-record",
+   "span": {
+    "from": "1952",
+    "to": "1953"
+   },
+   "status": "draft",
+   "title": "The CIA and the Robertson Panel, 1952-53"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "roosevelt-2014-15",
+   "kind": "incident",
+   "lead": null,
+   "researchGap": false,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "2014",
+    "to": "2020"
+   },
+   "status": "draft",
+   "title": "USS Theodore Roosevelt, 2014-15"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "roswell-1947",
+   "kind": "incident",
+   "lead": null,
+   "researchGap": false,
+   "section": "early-record",
+   "span": {
+    "from": "1947",
+    "to": "1997"
+   },
+   "status": "draft",
+   "title": "Roswell, July 1947, and its afterlife"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "sac-overflights-1975",
+   "kind": "incident",
+   "lead": null,
+   "researchGap": false,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "1975",
+    "to": "1984"
+   },
+   "status": "draft",
+   "title": "The 1975 overflights of Strategic Air Command bases"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "sap-governance",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1988",
+    "to": "2024"
+   },
+   "status": "draft",
+   "title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "sap-reporting",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1987",
+    "to": "2024"
+   },
+   "status": "draft",
+   "title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "sap-states",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "1987",
+    "to": "2024"
+   },
+   "status": "draft",
+   "title": "Special access programmes: acknowledged, unacknowledged and waived"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "sceptics",
+   "kind": "movement",
+   "lead": null,
+   "researchGap": false,
+   "section": "case-against",
+   "span": {
+    "from": "1953",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Sceptics and debunkers"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "sign-estimate",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "early-record",
+   "span": {
+    "from": "1947",
+    "to": "1949"
+   },
+   "status": "draft",
+   "title": "The 1947 wave, the Twining memo and Project Sign, 1947-49"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "skinwalker-nids",
+   "kind": "institution",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "1995",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Skinwalker Ranch and NIDS"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "skunk-works",
+   "kind": "institution",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "1943",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Lockheed and the Skunk Works in the custody record"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "specimens",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "science-technology",
+   "span": {
+    "from": "1996",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Physical material and specimen analyses"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "stargate",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "1970",
+    "to": "1995"
+   },
+   "status": "draft",
+   "title": "STAR GATE and remote viewing"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "task-force-2025",
+   "kind": "hearing",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "2025",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "The House Task Force on declassification and the September 2025 hearing"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "testimony-provenance",
+   "kind": "explainer",
+   "lead": null,
+   "researchGap": false,
+   "section": "encounters-witnesses",
+   "span": {
+    "from": "1947",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "How testimony reaches the record"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "tr-3b-fouche",
+   "kind": "allegation",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "1979",
+    "to": "2014"
+   },
+   "status": "draft",
+   "title": "The claimed TR-3B and Edgar Fouche"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "ttsa",
+   "kind": "institution",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "2015",
+    "to": "2021"
+   },
+   "status": "draft",
+   "title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "uap-statutes",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "2020",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "UAP law in the NDAAs and IAAs, 2021-2026"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "uapda",
+   "kind": "hearing",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "2023",
+    "to": "2027"
+   },
+   "status": "draft",
+   "title": "The UAP Disclosure Act and what survived it"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "uaptf-odni-2021",
+   "kind": "programme",
+   "lead": null,
+   "researchGap": false,
+   "section": "official-study",
+   "span": {
+    "from": "2019",
+    "to": "2022"
+   },
+   "status": "draft",
+   "title": "The UAP Task Force and the 2021 ODNI assessment"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "uk",
+   "kind": "nation",
+   "lead": null,
+   "researchGap": false,
+   "section": "other-nations",
+   "span": {
+    "from": "1950",
+    "to": "2024"
+   },
+   "status": "draft",
+   "title": "Britain: the MoD desk, Condign and the National Archives releases"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "unauditable-ledger",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "secrecy-machinery",
+   "span": {
+    "from": "2016",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "1",
+   "id": "ussr",
+   "kind": "nation",
+   "lead": null,
+   "researchGap": false,
+   "section": "other-nations",
+   "span": {
+    "from": "1977",
+    "to": "1996"
+   },
+   "status": "draft",
+   "title": "The USSR: SETKA and the Soviet programmes"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "3",
+   "id": "whistleblower-channels",
+   "kind": "mechanism",
+   "lead": null,
+   "researchGap": false,
+   "section": "congress-disclosure",
+   "span": {
+    "from": "2017",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "Whistleblower channels, protections and reprisal"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "2",
+   "id": "wilson-davis-notes",
+   "kind": "document",
+   "lead": null,
+   "researchGap": false,
+   "section": "custody-allegations",
+   "span": {
+    "from": "2002",
+    "to": "2026"
+   },
+   "status": "draft",
+   "title": "The Wilson-Davis notes (2002)"
+  },
+  {
+   "counts": {
+    "cites": 0,
+    "members": 0,
+    "questions": 0
+   },
+   "focusEra": "0",
+   "id": "wright-patterson-ftd",
+   "kind": "institution",
+   "lead": null,
+   "researchGap": false,
+   "section": "early-record",
+   "span": {
+    "from": "1947",
+    "to": "1995"
+   },
+   "status": "draft",
+   "title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "absorbs": [
+  "d-aerospace"
+ ],
+ "anchors": [
+  "lockheed-martin",
+  "lockheed-skunk-works",
+  "ben-rich",
+  "l-plant-42",
+  "gao-130581",
+  "dana-keoki-jackson"
+ ],
+ "appendixT": "skunk-works",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "1",
+ "id": "skunk-works",
+ "kind": "institution",
+ "lead": null,
+ "members": [],
+ "notes": "GAO accession 130581 (the Burbank document-control review) sits here. Thread custody.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "custody-allegations",
+ "span": {
+  "from": "1943",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Lockheed and the Skunk Works in the custody record"
+}

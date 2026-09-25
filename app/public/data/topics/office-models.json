@@ -1,0 +1,39 @@
+{
+ "absorbs": [
+  "intl-uap-office-model",
+  "d-international"
+ ],
+ "anchors": [
+  "belgian-af-f16-intercept-1990",
+  "spain-mod-ufo-files",
+  "japan-uap-2026"
+ ],
+ "appendixT": "office-models",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [
+  "w2-international:throughLine",
+  "w2-international:scope"
+ ],
+ "focusEra": "3",
+ "id": "office-models",
+ "kind": "mechanism",
+ "lead": null,
+ "members": [],
+ "mergedFrom": [
+  "europe-other"
+ ],
+ "notes": "Appendix T's europe-other merged in: Belgium has one node, too thin for a topic. The international research file's through-line essay attaches here.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "other-nations",
+ "span": {
+  "from": "1990",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Other governments: Belgium, Spain, Japan and the office model"
+}

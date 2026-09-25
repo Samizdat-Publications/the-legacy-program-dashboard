@@ -1,0 +1,43 @@
+{
+ "absorbs": [
+  "four-regime-map",
+  "sap-readin-gate",
+  "d-oversight"
+ ],
+ "anchors": [
+  "usc-10-119",
+  "usc-10-119e",
+  "waived-sap-notification-group",
+  "gang-of-eight",
+  "usc-50-3091",
+  "usc-50-3091a",
+  "usc-50-3348",
+  "usc-50-2426",
+  "usc-50-3093",
+  "sap-annual-report",
+  "defense-committees",
+  "sec-8009-sap-notice"
+ ],
+ "appendixT": "sap-reporting",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "2",
+ "id": "sap-reporting",
+ "kind": "mechanism",
+ "lead": null,
+ "members": [],
+ "notes": "Start-here flags 2 and 3 live here.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1987",
+  "to": "2024"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}

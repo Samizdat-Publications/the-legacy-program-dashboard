@@ -1,0 +1,40 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "sac-overflights-1975",
+  "loring-1975",
+  "wurtsmith-1975",
+  "malmstrom-1975",
+  "ellsworth-1977",
+  "doc-norad-24th-log-1975",
+  "doc-nmcc-loring-1975",
+  "doc-cincnorad-1975-11-11",
+  "doc-wurtsmith-historian-1979",
+  "l-loring",
+  "l-wurtsmith",
+  "l-ellsworth",
+  "clear-intent-1984"
+ ],
+ "appendixT": "nuclear-sites",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "1",
+ "id": "sac-overflights-1975",
+ "kind": "incident",
+ "lead": null,
+ "members": [],
+ "notes": "Split from Appendix T's nuclear-sites: the 1975 overflights rest on NORAD and NMCC logs released under FOIA, a different record from the 1960s missile-field testimony.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "encounters-witnesses",
+ "span": {
+  "from": "1975",
+  "to": "1984"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "The 1975 overflights of Strategic Air Command bases"
+}

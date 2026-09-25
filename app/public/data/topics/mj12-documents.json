@@ -1,0 +1,37 @@
+{
+ "absorbs": [
+  "d-mj12"
+ ],
+ "anchors": [
+  "mj-12-documents",
+  "majestic-documents-archive",
+  "majic-eyes-only",
+  "jaime-shandera",
+  "william-l-moore",
+  "ryan-wood",
+  "robert-m-wood",
+  "best-available-evidence"
+ ],
+ "appendixT": "mj12-documents",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "1",
+ "id": "mj12-documents",
+ "kind": "document",
+ "lead": null,
+ "members": [],
+ "notes": "Moved from Appendix T's early-record section: the documents surfaced in 1984 through Shandera and Moore, and the data places them with the Kirtland affair, not with 1947. Canon 6 (the named list) extends it.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "case-against",
+ "span": {
+  "from": "1984",
+  "to": "2026"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "The Majestic-12 documents"
+}

@@ -1,0 +1,33 @@
+{
+ "absorbs": [],
+ "anchors": [
+  "tr-3b",
+  "edgar-fouche",
+  "fouche-afftc-det3-1979",
+  "fouche-iufoc-1998",
+  "fouche-military-documents",
+  "alien-rapture-1998"
+ ],
+ "appendixT": "arv-tr3b",
+ "cites": {},
+ "claimed": [],
+ "contested": [],
+ "essays": [],
+ "focusEra": "1",
+ "id": "tr-3b-fouche",
+ "kind": "allegation",
+ "lead": null,
+ "members": [],
+ "notes": "Split from Appendix T's arv-tr3b. Fouche is the origin of the TR-3B story, recorded as a claim with its origin note.",
+ "questions": [],
+ "record": [],
+ "related": [],
+ "section": "custody-allegations",
+ "span": {
+  "from": "1979",
+  "to": "2014"
+ },
+ "status": "draft",
+ "summary": [],
+ "title": "The claimed TR-3B and Edgar Fouche"
+}
