@@ -47,21 +47,25 @@
 ],
 "claims": [
 {
+"id": "c-42f8b94df7",
 "source": "Peter Robbins, statement regarding Larry Warren, posted 13 June 2017 and updated 20 June 2017, hosted on Sacha Christie's blog, http://sacha-christie-infomaniachousewife.blogspot.com/2017/06/peter-robbins-statement-regarding-larry.html , opened 2026-09-19",
 "text": "REPORTED ONLY, AND GRADED TIER 3 FOR THAT REASON. He is reported as stating that Larry Warren 'was not there', and as denying that Warren was present during Halt's own extended time in Rendlesham Forest on the night of 28 to 29 December 1980. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. A primary would move it to Tier 2.",
 "tier": 3
 },
 {
+"id": "c-0dd14c1676",
 "source": "Halt memorandum, 'Unexplained Lights,' 13 Jan 81, released under DoD FOIA case 97-F-1677",
 "text": "Halt's memo states the object was 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high,' and that it 'illuminated the entire forest with a white light.'",
 "tier": 1
 },
 {
+"id": "c-9cdec16550",
 "source": "Halt memorandum, 13 Jan 81, paragraph 2",
 "text": "Halt's memo records physical trace evidence: three depressions 1.5 inches deep and 7 inches in diameter, and beta/gamma readings of 0.1 milliroentgens peaking in the depressions and at the centre of the triangle they formed.",
 "tier": 1
 },
 {
+"id": "c-7ef14aaff6",
 "source": "Charles I. Halt, notarized affidavit, 2010; restated in BBC and researcher interviews on the 40th anniversary, 26 Dec 2020",
 "text": "Halt has stated in a notarized affidavit that the objects were under intelligent control, were not of terrestrial origin, and that the US and UK governments acted to suppress the incident.",
 "tier": 2
@@ -79,6 +83,7 @@
 "dateEnd": "1981",
 "dateStart": "1981",
 "direction": "out",
+"edgeId": "e-632e51494a",
 "edgeLabel": "Halt authored and signed the 'Unexplained Lights' memorandum",
 "id": "halt-memo",
 "l0": false,
@@ -100,6 +105,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-ccfa2376a6",
 "edgeLabel": "Reported as stating that Warren 'was not there'",
 "id": "larry-warren",
 "l0": false,
@@ -121,6 +127,7 @@
 "dateEnd": "2010-09-27",
 "dateStart": "2010-09-27",
 "direction": "out",
+"edgeId": "e-0339e8e354",
 "edgeLabel": "Spoke on the record with a signed affidavit; the one panellist who wrote his own primary document in 1981",
 "id": "npc-2010-ufos-nukes",
 "l0": true,
@@ -142,6 +149,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-a17e777efa",
 "edgeLabel": "Halt personally led the 28 December 1980 forest patrol",
 "id": "rendlesham-1980",
 "l0": true,
@@ -178,6 +186,7 @@
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-ccfa2376a6",
 "label": "Reported as stating that Warren 'was not there'",
 "note": "TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2.",
 "of": {

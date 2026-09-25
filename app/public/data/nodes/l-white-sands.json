@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-eeb3f713b0",
 "source": "Wikipedia, White Sands Missile Range, citing Army range histories — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "White Sands Proving Ground was established 9 July 1945; the Trinity test occurred 16 July 1945 near its northern boundary; 67 of 100 captured V-2 rockets were fired here 1946-1951 and 35 Operation Paperclip scientists were working at the proving ground by 1946.",
 "tier": 2
 },
 {
+"id": "c-45f14695cf",
 "source": "Los Alamos National Laboratory historical account of the 16 February 1949 conference — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "A conference on the green fireballs was held at Los Alamos on 16 February 1949 with Edward Teller among the attendees; Los Alamos National Laboratory's own account records that the fireballs were ultimately dismissed as a national security threat.",
 "tier": 2
 },
 {
+"id": "c-e7ed006e37",
 "source": "Inference from the Project Twinkle final report and the WSPG/Land-Air observation record",
 "text": "The earliest instrumented UAP observations in the American record were made by professional optical tracking crews inside the nuclear-weapons and rocketry complex, and the official response - Project Twinkle - was small, underfunded and terminated. Reasoning: the timing and staffing of Twinkle relative to the volume of range reporting.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "1951",
 "dateStart": "1948",
 "direction": "in",
+"edgeId": "e-ae3ccf63e9",
 "edgeLabel": "Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor",
 "id": "l-los-alamos",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1950",
 "dateStart": "1945",
 "direction": "in",
+"edgeId": "e-3700b6a81e",
 "edgeLabel": "Roswell sits inside the 1947 New Mexico nuclear and rocketry complex",
 "id": "l-roswell",
 "l0": false,

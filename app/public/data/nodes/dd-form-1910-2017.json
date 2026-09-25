@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-1671cff26a",
 "source": "DD Form 1910 released under FOIA, published by Blue Blurry Lines, 17 August 2019",
 "text": "Submitted by Luis D. Elizondo, Director, National Programs Special Management Staff, OUSD(I), on 9 August 2017 and approved 24 August 2017, covering three .mpg files: GoFast, Gimbal and FLIR.",
 "tier": 1
 },
 {
+"id": "c-31277f4a05",
 "source": "DD Form 1910, FOIA release",
 "text": "States the purpose as 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.'",
 "tier": 1
 },
 {
+"id": "c-ebead5afee",
 "source": "Blue Blurry Lines, 17 August 2019",
 "text": "The version originally published by George Knapp had Elizondo's name and DoD title redacted; the unredacted FOIA copy identifies him.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2019",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-327f584285",
 "edgeLabel": "Prepublication review chain for the video files",
 "id": "dopsr",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-2cfec3a7e7",
 "edgeLabel": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
 "id": "joseph-gradisher",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-dd50449ae0",
 "edgeLabel": "Submitted the clearance request for the three video files, 9 Aug 2017",
 "id": "luis-elizondo",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-874c0c23da",
 "edgeLabel": "Cleared the GoFast, Gimbal and FLIR files for internal distribution only",
 "id": "navy-flir-gimbal-gofast-videos",
 "l0": false,
@@ -129,6 +136,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-2cfec3a7e7",
 "label": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
 "note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
 "of": {

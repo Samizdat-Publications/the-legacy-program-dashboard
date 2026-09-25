@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-22e9cc0f66",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/",
 "text": "Defense Intelligence Reference Document titled \"Quantum Tomography of Negative Energy States in the Vacuum\", series \"Defense Futures\", published 2011-01-11 with an Intelligence Cut-Off Date (ICOD) of 2010-08-10, DIA document number DIA-08-1102-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-35eb2a75b9",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-4917ed16a0",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-a53873d386",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf",
 "text": "Cover page reads: '11 January 2011 / ICOD: 10 August 2010 / DIA-08-1102-007 / Defense Intelligence Reference Document / Defense Futures / Quantum Tomography of Negative Energy States in the Vacuum'.",
 "tier": 1
 },
 {
+"id": "c-9e36fafaa0",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr Eric Davis, EarthTech'.",
 "tier": 1
 },
 {
+"id": "c-8bca03d08e",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/",
 "text": "Held in the DIA FOIA Electronic Reading Room. Subject matter is continuous with Davis's other AAWSAP deliverables on negative energy — item 8, 'Traversable Wormholes, Stargates and Negative Energy', and item 14 on extracting energy from the quantum vacuum — making him the author of a coherent negative-energy sub-series within the DIRD set.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d6318be746",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract",
 "id": "aawsap",
 "l0": true,
@@ -76,6 +83,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c98e11bcc0",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -97,6 +105,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-9178a64f5a",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -123,6 +132,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-01d1186b4a",
 "edgeLabel": "author's institutional affiliation at time of writing",
 "id": "earthtech-international",
 "l0": true,
@@ -159,6 +169,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-eced695694",
 "edgeLabel": "authored by",
 "id": "eric-davis",
 "l0": false,

@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-3fa0742f36",
 "source": "Loudoun Times-Mirror, 25 July 2024",
 "text": "Filed in Loudoun County Circuit Court on 15 July 2024 against Sheriff Mike Chapman and a Sheriff's Office employee over the FOIA release of records on his 2014 and 2018 emergency custody episodes.",
 "tier": 1
 },
 {
+"id": "c-628afd7851",
 "source": "Reporting on the dismissal, August 2025",
 "text": "Dismissed with prejudice on 6 August 2025; the court reasoned that Virginia's mental health confidentiality statute applies to court files rather than police records and that the redacted release complied with FOIA.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-f1eb7e870e",
 "edgeLabel": "Plaintiff; suit dismissed with prejudice 6 August 2025",
 "id": "david-grusch",
 "l0": false,
@@ -51,6 +54,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-e53d978268",
 "edgeLabel": "FOIA request that produced the records at issue in the suit",
 "id": "ken-klippenstein",
 "l0": false,

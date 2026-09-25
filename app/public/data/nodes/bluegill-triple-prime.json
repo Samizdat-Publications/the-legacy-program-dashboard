@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-ffc673eb3e",
 "source": "DNA 6040F, Operation DOMINIC I--1962, Defense Nuclear Agency, 1 February 1983, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
 "text": "The shot and its date: 'BLUEGILL Triple Prime (25 October 1962, 2359). The fourth attempt to launch the BLUEGILL device using a Thor missile was successful.'",
 "tier": 1
 },
 {
+"id": "c-aae492fa63",
 "source": "DNA 6040F, Table 1, DOMINIC detonations, 1962, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
 "text": "Its place in the test series, from the report's own summary table: '25 Oct / BLUE GILL / FISHBOWL shot, submegaton, tens of kilometers over Johnston Island', sourced there to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Department of Energy, Nevada Operations Office, January 1980.",
 "tier": 1
 },
 {
+"id": "c-557a399928",
 "source": "DNA 6040F, narrative for BLUEGILL Triple Prime, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
 "text": "The force present: 'The Air Force arrayed 22 aircraft for the detonation', with WB-50 and U-2 weather aircraft, Navy P2Vs for surveillance and pod recovery and Marine helicopters, and nine Navy ships positioned to gather scientific data.",
 "tier": 1
 },
 {
+"id": "c-0b0965df2d",
 "source": "DNA 6040F, Air Force aircraft participation in DOMINIC, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
 "text": "KETTLE is a DOMINIC aircraft call sign, not a film. The aircraft participation table lists '3 / KC-135 / Kettle / Photographic aircraft' alongside Cognac, Kibosh, Cordova, Caboodle, Abusive, Lambkin, Baxter/Byron, Hewstone and White Spot. The strings 'RC-135' and 'Cobra' do not appear anywhere in the report.",
 "tier": 1
 },
 {
+"id": "c-a6def4807c",
 "source": "DNA 6040F, Operation DOMINIC I--1962, full-text search of the report, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
 "text": "The report contains nothing of what is attached to this shot. It carries no reference to any unidentified object, unknown craft, anomalous observation, recovery or debris associated with the detonation; its only uses of 'unidentified' are an unidentified number of dosimetry analyses and one unidentified event in a fallout discussion. 'Gise' appears zero times in it, and so does Malmgren's name.",
 "tier": 1
 },
 {
+"id": "c-46c4989b48",
 "source": "DNA 6039F, Operation ARGUS 1958, Defense Nuclear Agency, https://archive.org/download/DTIC_ADA122341/DTIC_ADA122341_djvu.txt",
 "text": "DNA 6039F is not the FISHBOWL report. Its cover and Report Documentation Page both read 'OPERATION ARGUS 1958'. FISHBOWL appears instead in DNA 6040F's own keyword list.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": "1962",
 "dateStart": "1962",
 "direction": "out",
+"edgeId": "e-2ff0ba4817",
 "edgeLabel": "A dated, documented high-altitude nuclear test",
 "id": "d-nuclear",
 "l0": false,
@@ -66,6 +73,7 @@
 "dateEnd": "1980",
 "dateStart": "1962",
 "direction": "out",
+"edgeId": "e-4edc5f5a7f",
 "edgeLabel": "The detonation list is a Department of Energy publication",
 "id": "doe",
 "l0": true,
@@ -87,6 +95,7 @@
 "dateEnd": "1962",
 "dateStart": "1962",
 "direction": "out",
+"edgeId": "e-fa544d6e43",
 "edgeLabel": "Air Force flew the shot and its 22-aircraft array",
 "id": "usaf",
 "l0": true,

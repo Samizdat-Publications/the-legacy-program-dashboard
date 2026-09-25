@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-06c38db319",
 "source": "Project Condign, Volume 3, Chapter 4, para 11, UK Ministry of Defence, 2000",
 "text": "'SPAIN The Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": "2000",
 "dateStart": "2000",
 "direction": "in",
+"edgeId": "e-785567ca81",
 "edgeLabel": "records the Spanish release and DI55's non-access",
 "id": "doc-condign-vol3",
 "l0": true,

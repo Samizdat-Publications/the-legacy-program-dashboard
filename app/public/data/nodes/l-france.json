@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-3a8535b62c",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-607501aa64",
 "edgeLabel": "French private defence committee",
 "id": "cometa",
 "l0": true,
@@ -46,6 +48,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-fd1c239a20",
 "edgeLabel": "French national UAP office, CNES Toulouse",
 "id": "geipan",
 "l0": true,

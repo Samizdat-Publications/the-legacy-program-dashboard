@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-837053a72d",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
 "text": "USAspending records approximately $52 billion in prime contract obligations to Science Applications International Corporation entities since FY2008.",
 "tier": 1
 },
 {
+"id": "c-e7a7bc1d9e",
 "source": "Documented history of the government remote viewing effort; SAIC held the research contract in the 1991-1995 period",
 "text": "The US government's remote viewing research program moved from SRI International to SAIC in 1991 and ran there until it was terminated following an external assessment in 1995.",
 "tier": 2
 },
 {
+"id": "c-e9255a74b8",
 "source": "Board inference",
 "text": "SAIC demonstrates the mechanism by which a deniable government research line is transferred to corporate custody without changing its nature. Reasoning: the remote viewing precedent is documented; no evidence connects SAIC to material custody.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1982",
 "direction": "in",
+"edgeId": "e-19c8d53c8b",
 "edgeLabel": "Director of SAIC since 1982 and a paid part-time employee since 1990",
 "id": "bobby-ray-inman",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": "1995",
 "dateStart": "1991",
 "direction": "out",
+"edgeId": "e-1ad6aab388",
 "edgeLabel": "SAIC held the government's remote viewing research line after it left SRI",
 "id": "cia",
 "l0": true,
@@ -77,6 +82,7 @@
 "dateEnd": null,
 "dateStart": "2013",
 "direction": "in",
+"edgeId": "e-f023d40279",
 "edgeLabel": "Leidos is the government services business spun out of SAIC in 2013",
 "id": "leidos",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": "2015",
 "dateStart": "2013",
 "direction": "in",
+"edgeId": "e-eaf0c80fd8",
 "edgeLabel": "Alleged SAIC and Sandia connections to the division",
 "id": "off-world-technologies-division",
 "l0": false,

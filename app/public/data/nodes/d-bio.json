@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-ba504fadba",
 "source": "House Oversight Committee hearing, 26 July 2023; NPR contemporaneous report",
 "text": "David Grusch testified under oath on 26 July 2023 that non-human biologics were recovered alongside craft, stating the information came from individuals he interviewed and referred to the ICIG.",
 "tier": 2
 },
 {
+"id": "c-8076716006",
 "source": "AARO Historical Record Report Volume I",
 "text": "AARO's Volume I report (February 2024) states it found no empirical evidence for claims of recovered extraterrestrial technology or associated material.",
 "tier": 1
 },
 {
+"id": "c-b39f2fb86d",
 "source": "Inference from documented biosafety and biodefence infrastructure requirements",
 "text": "A sustained biological exploitation effort would require containment, pathology, genomics and tissue-banking infrastructure whose procurement, staffing and biosafety documentation are auditable independently of the material itself. Reasoning: this is the standard footprint of any high-containment biological programme.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2010-01-01",
 "direction": "out",
+"edgeId": "e-1914e084d6",
 "edgeLabel": "Biologics claim and documented injury record",
 "id": "d-medical",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-681e3b3883",
 "edgeLabel": "subject domain: implantable biosensors and neuro-interface",
 "id": "dird-biosensors-and-biomems-a-survey-of",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-b183a8aa59",
 "edgeLabel": "subject domain: cognitive load limits on multi-vehicle control",
 "id": "dird-cognitive-limits-on-simultaneous-control-of",
 "l0": false,

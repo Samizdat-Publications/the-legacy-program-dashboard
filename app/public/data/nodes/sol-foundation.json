@@ -5,71 +5,85 @@
 "band": "oversight",
 "claims": [
 {
+"id": "c-3fea2c9c8c",
 "source": "The Sol Foundation, About and People pages, retrieved 12 August 2026",
 "text": "The Sol Foundation was founded in 2022; its board is Garry Nolan (Executive Director of the Board), Peter Skafish (Secretary; Executive Director) and Aneil Mallavarapu.",
 "tier": 1
 },
 {
+"id": "c-ccbe4a0317",
 "source": "The Sol Foundation, People page, retrieved 12 August 2026",
 "text": "Advisory board members include Eric Davis, Tim Gallaudet, Jeffrey J. Kripal, Avi Loeb, Jacob Haqq Misra, Diana Pasulka, Jim Semivan, Jacques Vallee (Emeritus), Beatriz Villarroel and Alexander Wendt.",
 "tier": 1
 },
 {
+"id": "c-058188fba1",
 "source": "The Sol Foundation, Policy page, retrieved 12 August 2026",
 "text": "Since 2023 the Foundation has provided scientific and policy advice on UAP to members and committees of the US Senate and House, including the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee, and to the Parliaments of the UK, Canada and Japan, the European Parliament, the European Commission and Canada's Chief Science Adviser.",
 "tier": 1
 },
 {
+"id": "c-455d790714",
 "source": "The Sol Foundation, inaugural conference page",
 "text": "The inaugural conference was held 17-18 November 2023 at Stanford University, sponsored by the Nolan Laboratory (Department of Pathology) and the Stanford School of Medicine; speakers included Eric Davis, Tim Gallaudet, Avi Loeb, Leslie Kean, Charles McCullough III, Christopher Mellon, Karl Nell, Diana Pasulka, Hal Puthoff and Jacques Vallee.",
 "tier": 1
 },
 {
+"id": "c-5116693ded",
 "source": "The Sol Foundation, 2025 Symposium page",
 "text": "The 2025 Sol Foundation Symposium was held 24-27 October 2025 on the shores of Lake Maggiore, northern Italy; speakers included Karl Nell, Jacques Vallee, Garry Nolan, Jake Barber, Dylan Borland, Jeff Nuccetelli, Tim Gallaudet, Diana Pasulka, Beatriz Villarroel and Gen. Pierre Bescond.",
 "tier": 1
 },
 {
+"id": "c-9b03ac4571",
 "source": "The Sol Foundation white papers index",
 "text": "The Sol Foundation publishes a numbered white paper and policy briefing series including Gallaudet (March 2024), McCaw (May 2024), Skafish (November 2024), Karl Nell (May 2025), Villarroel-derived Briefing No. 1 (January 2026), McConnell Briefing No. 2 (April 2026) and von Rennenkampff Briefing No. 3 (April 2026).",
 "tier": 1
 },
 {
+"id": "c-ac844d9bf4",
 "source": "The Sol Foundation people page",
 "text": "Kirk McConnell, a 37-year Capitol Hill defence and intelligence staffer who served with the Senate Armed Services Committee and both intelligence committees, is the foundation's Senior Legislative Affairs Officer.",
 "tier": 1
 },
 {
+"id": "c-738ed37641",
 "source": "Micah Hanks, The Debrief, 12 September 2023",
 "text": "The foundation was co-founded by Garry Nolan and Peter Skafish on 15 August 2023.",
 "tier": 2
 },
 {
+"id": "c-1e4302f3ea",
 "source": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
 "text": "In June 2026 the foundation announced that its co-founders Nolan and Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard had been named to the fourteen-member UAP Science Advisory Council, which reports to a higher-level UAP Governance Board and works only with unclassified data.",
 "tier": 2
 },
 {
+"id": "c-8805142133",
 "source": "Inference from the personnel overlap between Sol's roster and the June 2026 council membership",
 "text": "The Sol Foundation is the mechanism by which the private technical layer captured the government's outside advisory function: it recruited the materials scientist, the retired admiral, the programme-structure colonel and the veteran committee staffer, then supplied them to a federally requested council.",
 "tier": 3
 },
 {
+"id": "c-0d49bc6b59",
 "source": "https://www.thesolfoundation.org/",
 "text": "Sol Foundation leadership: Garry Nolan (Executive Director of the Board), Peter Skafish (Executive Director), Jennifer Preston (COO), Matt Mason (CMO), Christian Peters (Associate Director of Research), Kirk McConnell (Senior Legislative Affairs Officer), Aneil Mallavarapu (independent board member).",
 "tier": 1
 },
 {
+"id": "c-e6fe23cd65",
 "source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
 "text": "Sol Foundation co-founders Garry Nolan and Peter Skafish were named to the UAP Science Advisory Council; the foundation states the council was announced by the Office of the Director of National Intelligence with the support of the FBI and reports to an interagency UAP Governance Board.",
 "tier": 2
 },
 {
+"id": "c-13ff9228d9",
 "source": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
 "text": "'All data shared with the council will be unclassified.'",
 "tier": 2
 },
 {
+"id": "c-034eb78877",
 "source": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
 "text": "Sol Foundation Science and Policy Briefing No. 3 (April 2026), by Marik von Rennenkampff, presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, associated with Garry Nolan.",
 "tier": 2
@@ -85,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-a1cf984e60",
 "edgeLabel": "Chief Operating Officer from May 2023",
 "id": "david-grusch",
 "l0": false,
@@ -106,6 +121,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-bc1244598a",
 "edgeLabel": "Borland spoke at the 2025 Sol Foundation Symposium",
 "id": "dylan-borland",
 "l0": false,
@@ -132,6 +148,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-520be31762",
 "edgeLabel": "Eric Davis sits on Sol's Natural Sciences Advisory Board",
 "id": "eric-davis",
 "l0": false,
@@ -153,6 +170,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-3dcb60b4ee",
 "edgeLabel": "Co-founder and Executive Director of the Board",
 "id": "garry-nolan",
 "l0": false,
@@ -184,6 +202,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-72e0cba2e6",
 "edgeLabel": "Vallee is Emeritus Advisor",
 "id": "jacques-vallee",
 "l0": false,
@@ -205,6 +224,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-9e3a287af3",
 "edgeLabel": "Barber spoke at the 2025 Sol Foundation Symposium",
 "id": "jake-barber",
 "l0": false,
@@ -226,6 +246,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-7637de0fa4",
 "edgeLabel": "Continuity from TTSA into the successor policy institution",
 "id": "jim-semivan",
 "l0": false,
@@ -252,6 +273,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-fbe842e2a5",
 "edgeLabel": "Nell published 'The UFO Enigma: A Call for US Government Disclosure' through Sol in May 2025",
 "id": "karl-nell",
 "l0": false,
@@ -273,6 +295,7 @@
 "dateEnd": "2026",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-a8c100cbf3",
 "edgeLabel": "Senior Legislative Affairs Officer after 37 years on SASC",
 "id": "kirk-mcconnell",
 "l0": false,
@@ -304,6 +327,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-a411033b0f",
 "edgeLabel": "The Sol Foundation operates from the Stanford orbit",
 "id": "l-stanford",
 "l0": false,
@@ -325,6 +349,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-db95472184",
 "edgeLabel": "Spoke at the inaugural Stanford conference, November 2023",
 "id": "leslie-kean",
 "l0": false,
@@ -346,6 +371,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-46d3e4fa55",
 "edgeLabel": "delivers the monthly Sol Briefing; authors Sol policy briefings",
 "id": "marik-von-rennenkampff",
 "l0": false,
@@ -377,6 +403,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-9a84fa729f",
 "edgeLabel": "Sol Briefing No. 3 is the authoritative public exposition of the paper",
 "id": "paper-nolan-vallee-2022",
 "l0": true,
@@ -398,6 +425,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-a42c1b3a90",
 "edgeLabel": "Co-founder, Executive Director and Secretary of the Board",
 "id": "peter-skafish",
 "l0": false,
@@ -429,6 +457,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-f29e7147c3",
 "edgeLabel": "Sol issued press statements on each major PURSUE release",
 "id": "pursue-releases",
 "l0": true,
@@ -450,6 +479,7 @@
 "dateEnd": null,
 "dateStart": "2026-04-30",
 "direction": "out",
+"edgeId": "e-6ec18da82f",
 "edgeLabel": "publisher of Science and Policy Briefing No. 3",
 "id": "sol-briefing-3-2026",
 "l0": false,
@@ -476,6 +506,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-44522fc0cf",
 "edgeLabel": "Gallaudet on Sol's Natural Sciences and US Government Advisory Boards",
 "id": "tim-gallaudet",
 "l0": false,
@@ -507,6 +538,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-f247c853c8",
 "edgeLabel": "Advisory seat conditioned on unclassified-only access",
 "id": "uap-science-advisory-council",
 "l0": true,
@@ -528,6 +560,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-15f84f692e",
 "edgeLabel": "Sol leadership named to the ODNI/FBI council, 22 June 2026",
 "id": "uap-science-advisory-council",
 "l0": true,
@@ -559,6 +592,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-f020b9a3cd",
 "edgeLabel": "Sol Briefing No. 1 (January 2026) is built on the pre-satellite-era plate evidence",
 "id": "vasco-project",
 "l0": false,
@@ -597,6 +631,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-f247c853c8",
 "label": "Advisory seat conditioned on unclassified-only access",
 "note": "The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for.",
 "of": null,

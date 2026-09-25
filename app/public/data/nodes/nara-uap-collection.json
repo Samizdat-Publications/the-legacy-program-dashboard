@@ -5,61 +5,73 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-40f2ebe135",
 "source": "National Archives press release nr25-07, 24 April 2025",
 "text": "NARA announced on 24 April 2025 a release of UAP records transferred from ODNI, OSD, the FAA and the NRC, under sections 1841-1843 of the FY2024 NDAA (Public Law 118-31), with rolling additions.",
 "tier": 1
 },
 {
+"id": "c-e2ea01263c",
 "source": "National Archives press release nr25-07, 24 April 2025",
 "text": "NARA announced on 24 April 2025 the release of UAP records transferred from ODNI, the Office of the Secretary of Defense, the FAA and the Nuclear Regulatory Commission, under sections 1841-1843 of the 2024 NDAA (Public Law 118-31), with rolling additions.",
 "tier": 1
 },
 {
+"id": "c-aeba84a2bd",
 "source": "National Archives press release nr25-07, 24 April 2025",
 "text": "NARA states it 'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis'.",
 "tier": 1
 },
 {
+"id": "c-fbd91d9ca4",
 "source": "NARA Catalog, Record Group 615",
 "text": "The collection is organised at NARA as Record Group 615.",
 "tier": 1
 },
 {
+"id": "c-f76b3388b5",
 "source": "Inference from comparing the nr25-07 transfer list with the contributor list in the 2021 ODNI Preliminary Assessment",
 "text": "The absence of CIA, NSA, NRO, NGA, DIA, DOE, DHS and the military departments from the first statutory transfer is the most testable indicator on this board: either those agencies hold no UAP records, which is contradicted by ODNI's own 2021 contributor list, or they have not transferred them. Reasoning: ODNI named NRO, NGA, NSA, DIA, ONI and DARPA as contributors of UAP reporting in 2021, so responsive records demonstrably exist at agencies that produced nothing for the collection.",
 "tier": 3
 },
 {
+"id": "c-eee402da5f",
 "source": "https://www.archives.gov/research/topics/uaps/rg-615; https://catalog.archives.gov/id/656595571",
 "text": "The Department of the Air Force is the eighth contributor listed on NARA's Record Group 615 page and the first military department to appear as a contributor in its own right, as series 'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena', National Archives Identifier 656595571.",
 "tier": 1
 },
 {
+"id": "c-aec68e0fda",
 "source": "https://catalog.archives.gov/id/656595571",
 "text": "The Air Force series carries accession number TR-0615-2026-0003, was described from NARA descriptive file NAC_2026-08-27_23.116_DESC_0001.xml and entered the catalog index on 28 August 2026 at 08:30 UTC.",
 "tier": 1
 },
 {
+"id": "c-f1f7f264e4",
 "source": "https://catalog.archives.gov/id/656595571",
 "text": "The Air Force series holds 30 items with an extent of '30 Portable Document Format (PDF) files', inclusive dates 25 October 1945 to 31 December 1969, access restriction Unrestricted and use restriction Unrestricted, under disposition authority DAA-GRS-2024-0002-0001.",
 "tier": 1
 },
 {
+"id": "c-e797a84d82",
 "source": "https://catalog.archives.gov/id/656595571",
 "text": "NARA's scope note states the Air Force series 'consists of records compiled in response to the 2024 National Defense Authorization Act (Public Law 118-31) and received from the Department of the Air Force pursuant to the Unidentified Anomalous Phenomena Records Collection Act, 44 U.S.C. 2107 note.'",
 "tier": 1
 },
 {
+"id": "c-c2db81885e",
 "source": "https://catalog.archives.gov/id/656595571",
 "text": "All 30 items carry contiguous UAP Record Identifiers 342UAP00001 through 342UAP00030, and each has exactly one attached PDF digital object; all 30 object URLs were fetched on 28 August 2026 and returned PDF content.",
 "tier": 1
 },
 {
+"id": "c-365533fc23",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
 "text": "The declassification block printed on item 342UAP00005 reads 'Department of the Air Force / Air Force Declassification Office / Authority: FY24 NDAA, now codified at 44 U.S.C. 2107 / Date: 5/05/2025 / Declassified in Full: X / Case Number: 342UAP00005', showing that the Air Force ran the transfer as a declassification action under the UAP records statute and used the UAP Record Identifier as the declassification case number.",
 "tier": 1
 },
 {
+"id": "c-b12f8af977",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
 "text": "Item 342UAP00005, catalogued as 'Estimate of the Situation, September 8, 1948', is Headquarters Fifth Air Force, Office of the AC of S, A-2, APO 710, 'Estimate of the Situation' covering 7 August to 4 September 1948, 21 pages, published for Fifth Air Force Division and Wing-Base Commanders, with a table of contents covering Japan, Korea, China, the Philippines and Malaya. It is a periodic Far East theatre intelligence estimate and is not the Air Materiel Command estimate of 1948 that Ruppelt described.",
 "tier": 1
@@ -75,6 +87,7 @@
 "dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "in",
+"edgeId": "e-11c5bad699",
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
 "id": "cia",
 "l0": true,
@@ -96,6 +109,7 @@
 "dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "in",
+"edgeId": "e-a23dba8b3a",
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
 "id": "dhs",
 "l0": false,
@@ -117,6 +131,7 @@
 "dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "in",
+"edgeId": "e-c964d38d63",
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
 "id": "dia",
 "l0": true,
@@ -138,6 +153,7 @@
 "dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "in",
+"edgeId": "e-7c109610d6",
 "edgeLabel": "DOE produced nothing for the first statutory UAP records transfer",
 "id": "doe",
 "l0": true,
@@ -159,6 +175,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-0a3d589db7",
 "edgeLabel": "Both are components of the National Archives",
 "id": "isoo",
 "l0": true,
@@ -185,6 +202,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-5dcddccee4",
 "edgeLabel": "Collection created by sections 1841-1843 of the FY2024 NDAA",
 "id": "ndaa-fy2024",
 "l0": true,
@@ -206,6 +224,7 @@
 "dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "in",
+"edgeId": "e-50911e2989",
 "edgeLabel": "Named 2021 UAP contributor that produced nothing for the statutory collection",
 "id": "nga",
 "l0": false,
@@ -232,6 +251,7 @@
 "dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "in",
+"edgeId": "e-53f0e08ad1",
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
 "id": "nro",
 "l0": true,
@@ -253,6 +273,7 @@
 "dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "in",
+"edgeId": "e-5b22bb965d",
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
 "id": "nsa",
 "l0": true,
@@ -274,6 +295,7 @@
 "dateEnd": null,
 "dateStart": "2025-04-24",
 "direction": "in",
+"edgeId": "e-2269b0b17b",
 "edgeLabel": "ODNI transferred UAP records into the statutory collection",
 "id": "odni",
 "l0": true,
@@ -295,6 +317,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-569d9ce250",
 "edgeLabel": "The statutory UAP records collection reaches records the SAP report describes",
 "id": "sap-annual-report",
 "l0": false,
@@ -316,6 +339,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-1e22bff68a",
 "edgeLabel": "Created by sections 1841-1843 of Public Law 118-31",
 "id": "us-senate",
 "l0": false,
@@ -337,6 +361,7 @@
 "dateEnd": null,
 "dateStart": "1976",
 "direction": "in",
+"edgeId": "e-89e7ceeecd",
 "edgeLabel": "Project BLUE BOOK records are held at the National Archives",
 "id": "usaf",
 "l0": true,
@@ -373,6 +398,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-11c5bad699",
 "label": "Produced no records for the first statutory UAP transfer",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. CIA, which holds documented UAP equity, transferred nothing.",
 "of": {
@@ -402,6 +428,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-a23dba8b3a",
 "label": "Produced no records for the first statutory UAP transfer",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing.",
 "of": {
@@ -431,6 +458,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-c964d38d63",
 "label": "Produced no records for the first statutory UAP transfer",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DIA, which holds documented UAP equity, transferred nothing.",
 "of": {
@@ -460,6 +488,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-7c109610d6",
 "label": "DOE produced nothing for the first statutory UAP records transfer",
 "note": "NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them.",
 "of": {
@@ -489,6 +518,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-50911e2989",
 "label": "Named 2021 UAP contributor that produced nothing for the statutory collection",
 "note": "ODNI named NGA as a contributor of UAP reporting in June 2021; NARA's April 2025 transfer list does not include NGA, CIA, NSA, NRO, DIA, DOE or DHS.",
 "of": {
@@ -523,6 +553,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-53f0e08ad1",
 "label": "Produced no records for the first statutory UAP transfer",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NRO, which holds documented UAP equity, transferred nothing.",
 "of": {
@@ -552,6 +583,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-5b22bb965d",
 "label": "Produced no records for the first statutory UAP transfer",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing.",
 "of": {

@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-8a987a7ad6",
 "source": "Federal Register, Presidential Determinations, 1995-2000 and annually thereafter",
 "text": "Presidential determinations exempting the Air Force's operating location near Groom Lake, Nevada from federal environmental disclosure requirements have been published in the Federal Register annually since 1995.",
 "tier": 1
 },
 {
+"id": "c-7bd8ff5d71",
 "source": "Ninth Circuit opinion, 8 January 1998",
 "text": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998): claims concerning the Groom Lake facility dismissed; certiorari denied, 525 U.S. 967 (1998).",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": "1998",
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-e87b058131",
 "edgeLabel": "The state secrets defence shielded the contractor-operated facility from the workers' suit",
 "id": "eg-and-g",
 "l0": true,
@@ -51,6 +54,7 @@
 "dateEnd": null,
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-2852919e5b",
 "edgeLabel": "Annual presidential determinations exempt the Groom Lake operating location from environmental disclosure",
 "id": "l-groom-lake",
 "l0": false,
@@ -92,6 +96,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-e87b058131",
 "label": "The state secrets defence shielded the contractor-operated facility from the workers' suit",
 "note": "Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied.",
 "of": {

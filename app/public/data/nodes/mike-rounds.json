@@ -34,26 +34,31 @@
 ],
 "claims": [
 {
+"id": "c-b30859f011",
 "source": "CREC-2023-07-13-pt1-PgS2953",
 "text": "First-listed cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
 "tier": 1
 },
 {
+"id": "c-d0a822f3e9",
 "source": "Congressional Record, 11 July 2024, S4577 et seq. (GPO)",
 "text": "S.Amdt. 2610 to S. 4638, submitted 11 July 2024, is captioned 'Mr. ROUNDS (for himself and Mr. Schumer)' and contains the complete UAP Disclosure Act of 2024 including the eminent domain subsection; it was 'ordered to lie on the table.'",
 "tier": 1
 },
 {
+"id": "c-ea894e96a0",
 "source": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
 "text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
 "tier": 2
 },
 {
+"id": "c-79916cd256",
 "source": "Rounds, quoted in Micah Hanks, The Debrief, 14 July 2023",
 "text": "'Providing a central collection location and reputable review board to maintain the records adds to the credibility of any future investigations.'",
 "tier": 2
 },
 {
+"id": "c-41fe077a50",
 "source": "rounds.senate.gov press release, 16 June 2026; S. 4784 (Reported in Senate), GPO",
 "text": "Rounds's own June 2026 list of provisions he secured in the SASC-reported FY2027 NDAA contains no UAP item, and the reported bill S. 4784 contains no UAP provisions.",
 "tier": 1
@@ -69,6 +74,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-bbca18d026",
 "edgeLabel": "Announces a fourth filing at an outside conference",
 "id": "disclosure-symposium-2026",
 "l0": false,
@@ -95,6 +101,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-b489c652ac",
 "edgeLabel": "Original cosponsor, 13 July 2023",
 "id": "samdt-797",
 "l0": true,
@@ -116,6 +123,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "out",
+"edgeId": "e-098db38155",
 "edgeLabel": "lead cosponsor",
 "id": "uapda-2023",
 "l0": true,
@@ -137,6 +145,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-0674cccc32",
 "edgeLabel": "Lead sponsor of the 2024 refiling",
 "id": "uapda-2024-samdt-2610",
 "l0": false,

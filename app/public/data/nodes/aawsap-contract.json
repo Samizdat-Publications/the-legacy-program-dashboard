@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-f2a0b9e9e5",
 "source": "DIA release FOIA-00349-2018, 13 October 2022",
 "text": "Contract HHM402-08-C-0072, awarded 22 September 2008, firm fixed price, $10,000,000 base, to Bigelow Aerospace Advanced Space Studies LLC, DUNS 827037768, CAGE 54JU7.",
 "tier": 1
 },
 {
+"id": "c-fef1e54ecd",
 "source": "DIA release FOIA-00349-2018",
 "text": "All key government personnel names — contracting officer, COR and Government Project Leader — are redacted in the released contract under 10 USC 424.",
 "tier": 1
 },
 {
+"id": "c-cd9ea952f0",
 "source": "Jack Brewer, The UFO Trail, March 2022",
 "text": "DIA withheld the AAWSAP contract in a 2011 FOIA response, releasing it only in October 2022.",
 "tier": 1
 },
 {
+"id": "c-13af230c78",
 "source": "DIA release Contract_FY10.pdf",
 "text": "A modification of contract exercising the FY10 option period was executed 2 September 2009.",
 "tier": 1
 },
 {
+"id": "c-e7cb2abfc7",
 "source": "Inference from the base value against the AARO-confirmed $22M appropriation",
 "text": "A $10M base with four options against a $22M total appropriation indicates roughly $12M was obligated across the option years, but no obligation-by-year record has been released and the contract does not appear in public USAspending data because DIA procurement is exempt from FPDS reporting under 10 USC 424.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": "2008",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-46952ba6c9",
 "edgeLabel": "solicitation HHM402-08-R-0211 led to award HHM402-08-C-0072",
 "id": "aawsap-solicitation",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "2013",
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-ae6fbc8444",
 "edgeLabel": "$10M base firm-fixed-price award to BAASS",
 "id": "baass",
 "l0": true,
@@ -82,6 +89,7 @@
 "dateEnd": "2022",
 "dateStart": "2011",
 "direction": "in",
+"edgeId": "e-e508b3d69c",
 "edgeLabel": "withheld the contract for eleven years",
 "id": "dia",
 "l0": true,
@@ -103,6 +111,7 @@
 "dateEnd": "2022",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-776b5a7789",
 "edgeLabel": "published the contract documentation",
 "id": "george-knapp",
 "l0": false,
@@ -139,6 +148,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-e508b3d69c",
 "label": "withheld the contract for eleven years",
 "note": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.",
 "of": {

@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-7ca91503ef",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
 "text": "Four statutes, each with a different addressee. DoD: 10 U.S.C. 119 (defense committees; annual 1 Mar; waiver in (e) collapsing to chairman + ranking member). NNSA: 50 U.S.C. 2426 (congressional defense committees; annual 1 Feb; identical waiver). All other non-IC agencies: 50 U.S.C. 3348 (congressional oversight committees; annual 1 Feb; waiver that does NOT reduce the audience). IC: 50 U.S.C. 3091a (intelligence committees + both Appropriations + the four congressional leaders; semiannual briefings; no waiver at all).",
 "tier": 1
 },
 {
+"id": "c-4c30cc0855",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
 "text": "The seams are written into the statutes. 50 U.S.C. 3348(g)(2)(B) removes DoD, NNSA and every IC element from its own coverage. 50 U.S.C. 3091a(d)(3) defines its subject by reference to ICD 906. ICD 906 section C.3 in turn removes from its own coverage every SAP created by the Secretaries of State, Defense, Energy or Homeland Security or the Attorney General, and 'special access programs under the purview of the National Security Council, such as covert action.'",
 "tier": 1
 },
 {
+"id": "c-77d109b952",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "Composed, the four regimes leave two seams with no annual census obligation running to a full committee: (i) a DoD program under a 119(e) waiver, whose content goes only to chairs and ranking members and whose annual report requirement additionally sunset on 31 Dec 2021 under Pub. L. 114-328 sec. 1061; and (ii) anything protected by ACCM rather than SAP controls, which no statute names. Covert action under 50 U.S.C. 3093 is a third, separately governed channel. Reasoning stated from the four statutes plus 32 CFR 117.3.",
 "tier": 3
 },
 {
+"id": "c-65908c3cbb",
 "source": "10 U.S.C. 119; 50 U.S.C. 2426, 3348, 3091a",
 "text": "Four separate statutes govern SAP-type reporting: 10 U.S.C. 119 (DoD), 50 U.S.C. 2426 (NNSA), 50 U.S.C. 3348 (all other non-IC agencies) and 50 U.S.C. 3091a (IC controlled access programs).",
 "tier": 1
 },
 {
+"id": "c-87fc501654",
 "source": "Comparison of 10 U.S.C. 119(e), 50 U.S.C. 2426(e), 50 U.S.C. 3348(e) and 50 U.S.C. 3091a",
 "text": "Of the four regimes, only 10 U.S.C. 119(e)(2) and 50 U.S.C. 2426(e)(2) narrow the recipient of waived information to the chairman and ranking minority member; 50 U.S.C. 3348(e)(2) keeps the full oversight committees, and 50 U.S.C. 3091a has no waiver provision at all.",
 "tier": 1
 },
 {
+"id": "c-53ef0c7bed",
 "source": "50 U.S.C. 3091a(c)",
 "text": "Only 50 U.S.C. 3091a carries a funding prohibition tied to notification, added by section 6602 of Public Law 118-159 on 23 December 2024.",
 "tier": 1
 },
 {
+"id": "c-535fd2debe",
 "source": "50 U.S.C. 3091a(b)(2) and its 2024 enactment date",
 "text": "A program moved between the DoD and IC regimes changes both its governing statute and its reporting audience, and before 23 December 2024 no statute required notice of the move. That is a documented, lawful, unnotified route by which a program's oversight history can be broken. Reasoning: the prohibition added by Pub. L. 118-159 sec. 6603 did not exist before that date and operates prospectively.",
 "tier": 3
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-fe7fe85868",
 "edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
 "id": "accm",
 "l0": false,
@@ -71,6 +79,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-02914ce5fc",
 "edgeLabel": "",
 "id": "accm",
 "l0": false,
@@ -97,6 +106,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "out",
+"edgeId": "e-238537a140",
 "edgeLabel": "DoD regime: weakest waiver of the four",
 "id": "usc-10-119",
 "l0": true,
@@ -118,6 +128,7 @@
 "dateEnd": null,
 "dateStart": "1999-10-05",
 "direction": "out",
+"edgeId": "e-6c54f480fa",
 "edgeLabel": "NNSA regime: the only waiver that reaches the 30-day report-and-wait",
 "id": "usc-50-2426",
 "l0": false,
@@ -144,6 +155,7 @@
 "dateEnd": null,
 "dateStart": "1991-08-14",
 "direction": "in",
+"edgeId": "e-c5e8524143",
 "edgeLabel": "The anti-withholding rule does not reach DoD special access programs",
 "id": "usc-50-3091",
 "l0": false,
@@ -165,6 +177,7 @@
 "dateEnd": null,
 "dateStart": "2024-12-23",
 "direction": "in",
+"edgeId": "e-18672cbcbe",
 "edgeLabel": "The IC regime is the only one with no waiver and a funding cutoff",
 "id": "usc-50-3091a",
 "l0": false,
@@ -191,6 +204,7 @@
 "dateEnd": null,
 "dateStart": "2018-12-21",
 "direction": "out",
+"edgeId": "e-6a8657a83c",
 "edgeLabel": "All other agencies: reporting runs to House Oversight and Senate Homeland Security",
 "id": "usc-50-3348",
 "l0": false,

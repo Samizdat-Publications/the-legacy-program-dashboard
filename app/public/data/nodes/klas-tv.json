@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-a7ef3bd0f9",
 "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "KLAS-TV is the originating institution of the Bob Lazar claim. A Las Vegas Review-Journal report of 19 June 1990 records contemporaneously that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. The station's own retrospectives on the story, at 8newsnow.com, returned HTTP 403 to three separate requests on 18 September 2026, so not one word of the originating institution's own account of its 1989 reporting is currently on this board.",
 "tier": 2
 },
 {
+"id": "c-7aefacbabc",
 "source": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Knapp joined KLAS-TV as reporter and news anchor in 1981, left in 1991 and was rehired in 1995; the Bob Lazar programmes aired on KLAS in May and November 1989.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-46b9a6871e",
 "edgeLabel": "Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis",
 "id": "aawsap",
 "l0": true,
@@ -51,6 +54,7 @@
 "dateEnd": null,
 "dateStart": "1981",
 "direction": "out",
+"edgeId": "e-490189dc86",
 "edgeLabel": "four decades of the record produced from a single local affiliate",
 "id": "d-media",
 "l0": false,
@@ -77,6 +81,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6aefd1a019",
 "edgeLabel": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
 "id": "harry-reid",
 "l0": false,
@@ -103,6 +108,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-3b995b6c32",
 "edgeLabel": "Knapp testified as KLAS-TV chief investigative reporter",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -129,6 +135,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-341424584a",
 "edgeLabel": "Knapp co-authored two books with the AAWSAP originator",
 "id": "james-lacatski",
 "l0": false,
@@ -155,6 +162,7 @@
 "dateEnd": "1989-12-09",
 "dateStart": "1989-05",
 "direction": "out",
+"edgeId": "e-203404d18c",
 "edgeLabel": "Its own broadcasts",
 "id": "klas-lazar-broadcasts-1989",
 "l0": false,

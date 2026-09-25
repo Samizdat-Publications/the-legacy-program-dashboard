@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-b370486746",
 "source": "AARO Historical Record Report Volume I, p. 34",
 "text": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS', identifying three distinct SAP control office enterprises.",
 "tier": 1
 },
 {
+"id": "c-89e3241afd",
 "source": "Inference from the scope of 10 U.S.C. 119 read against AARO's three-enterprise description",
 "text": "A program carried in the IC control-office enterprise would not appear in the 10 U.S.C. 119 report to the defense committees, which means a member relying on the DoD SAP list cannot rule out its existence. Reasoning: 10 U.S.C. 119 by its terms governs Department of Defense special access programs and reports to the defense committees.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "2024-03",
 "dateStart": "2022-07",
 "direction": "in",
+"edgeId": "e-812ec48af1",
 "edgeLabel": "AARO's SAP review extended to the IC control office enterprise",
 "id": "aaro",
 "l0": true,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-e4d7505ccd",
 "edgeLabel": "the parallel control-office enterprise on the intelligence-community side of the same architecture",
 "id": "d-structure",
 "l0": false,
@@ -72,6 +76,7 @@
 "dateEnd": null,
 "dateStart": "2005",
 "direction": "out",
+"edgeId": "e-ef0f35510b",
 "edgeLabel": "IC-side SAP control office enterprise under DNI authority",
 "id": "odni",
 "l0": true,

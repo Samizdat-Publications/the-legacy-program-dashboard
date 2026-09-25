@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-6726b253e3",
 "source": "https://disclosurearchives.com/aaro-releases",
 "text": "The August 2025 AARO data-standardisation workshop produced a white paper published in February 2026 recommending standardised metadata templates, AI with human oversight, and open narrative reporting.",
 "tier": 2
 },
 {
+"id": "c-d057980e1c",
 "source": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
 "text": "The PURSUE releases beginning 8 May 2026 implement none of the workshop's three recommendations, which is evidence that the release programme was not designed on AARO's technical advice. Reasoning: the releases carry no metadata schema, many PDFs were password-protected against OCR, and no narrative context accompanies the files.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2026-02",
 "direction": "out",
+"edgeId": "e-e34fc1c2ae",
 "edgeLabel": "recommendations the release programme did not adopt",
 "id": "pursue-releases",
 "l0": true,

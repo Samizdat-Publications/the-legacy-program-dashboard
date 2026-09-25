@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-1bf5862144",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/",
 "text": "Defense Intelligence Reference Document titled \"Laser Lightcraft Nanosatellites\", series \"Defense Futures\", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1011-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-296e28f1e0",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-cdffcf905d",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-b06f84cde5",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/",
 "text": "Released PDF is 77 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-3b7db2c0de",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf",
 "text": "Cover page reads: '01 November 2010 / ICOD 30 August 2010 / DIA-08-1011-001 / Defense Intelligence Reference Document / Defense Futures / Laser Lightcraft Nanosatellites'.",
 "tier": 1
 },
 {
+"id": "c-026acaeed3",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr E Davis, EarthTech'. The author line on the released PDF is redacted under (b)(5)/(b)(6), so the congressional list is the sole naming authority.",
 "tier": 1
 },
 {
+"id": "c-92d946ecea",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf",
 "text": "Administrative note on the cover page: 'This product is one in a series of advanced technology reports produced in FY 2010 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.'",
 "tier": 1
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-58e257146f",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract, FY 2010",
 "id": "aawsap",
 "l0": true,
@@ -76,6 +84,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-a90aa1f5ca",
 "edgeLabel": "published, numbered and released by DIA as DIA-08-1011-001",
 "id": "dia",
 "l0": true,
@@ -102,6 +111,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-87f3066df2",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -123,6 +133,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-b954a4d262",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -149,6 +160,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-58d62150c2",
 "edgeLabel": "author's institutional affiliation at time of writing",
 "id": "earthtech-international",
 "l0": true,
@@ -190,6 +202,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a5dc20c3b5",
 "edgeLabel": "authored by",
 "id": "eric-davis",
 "l0": false,

@@ -5,51 +5,61 @@
 "band": "research",
 "claims": [
 {
+"id": "c-68ac379062",
 "source": "Primary document via CIA CREST, CIA-RDP81R00560R000100060001-5",
 "text": "Project Blue Book Special Report No. 14, 'Analysis of Reports of Unidentified Aerial Objects', Project No. 10073, is dated 5 May 1955 and marked FOR OFFICIAL USE ONLY.",
 "tier": 1
 },
 {
+"id": "c-eab8fb8744",
 "source": "The Black Vault document archive entry, 17 September 2020",
 "text": "The report was a massive statistical analysis undertaken by the US Air Force and Battelle Memorial Institute covering approximately 3,200 UFO reports.",
 "tier": 1
 },
 {
+"id": "c-4550b51cf8",
 "source": "Department of War PURSUE release document repository",
 "text": "The report was republished by the Department of War as CIA-UAP-015 in PURSUE Release 03 in June 2026.",
 "tier": 1
 },
 {
+"id": "c-6d7775681d",
 "source": "Project Blue Book Special Report No. 14, title page",
 "text": "Special Report No. 14 was issued by the Air Technical Intelligence Center on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
 "tier": 1
 },
 {
+"id": "c-5c8e17f022",
 "source": "Project Blue Book Special Report No. 14, statistical results",
 "text": "Approximately 4,000 reports were collected; the final statistical study covered 2,199 objects, of which 434 (19.7 per cent) were evaluated as 'Unknown'.",
 "tier": 1
 },
 {
+"id": "c-fe034b76a0",
 "source": "Project Blue Book Special Report No. 14, quality-of-report cross-tabulations",
 "text": "The report's data show a higher proportion of unknowns among the highest-quality reports than among the poorest, and statistically significant differences between knowns and unknowns.",
 "tier": 2
 },
 {
+"id": "c-c376a4adbb",
 "source": "Standard attribution in the Blue Book literature; the report front matter does not name the contractor",
 "text": "Battelle Memorial Institute performed the statistical analysis under contract to ATIC.",
 "tier": 2
 },
 {
+"id": "c-264a9245e3",
 "source": "Inference from the report's own statistical tables against its summary language",
 "text": "A summary declaring extraterrestrial origin 'highly improbable' while the underlying tables show quality correlating positively with unexplainedness is an editorial conclusion imposed on the analysis rather than derived from it.",
 "tier": 3
 },
 {
+"id": "c-e559a1aeb3",
 "source": "Project Blue Book Special Report No. 14, 5 May 1955, cover",
 "text": "The report's cover reads 'STUDY NO. 102-EL-55/2-79 / ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL OBJECTS / PROJECT NO. 10073 / 5 MAY 1955 / SPECIAL REPORT NO. 14', and it states 'No copyright material is contained in this publication.'",
 "tier": 1
 },
 {
+"id": "c-861321d9dc",
 "source": "Project Blue Book Special Report No. 14, full-text search of the scan; six independent search terms, all returning nothing",
 "text": "The report does not name Battelle, or any contractor, anywhere on its own face. A full-text search returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the Project Stork status reports and the surrounding file.",
 "tier": 1
@@ -65,6 +75,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-5c6dff3fc3",
 "edgeLabel": "ATIC issued Special Report No. 14",
 "id": "atic",
 "l0": true,
@@ -86,6 +97,7 @@
 "dateEnd": "1955",
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-5091e6585a",
 "edgeLabel": "Battelle performed the statistical analysis under contract",
 "id": "battelle",
 "l0": true,
@@ -107,6 +119,7 @@
 "dateEnd": "1969",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-780a0151a2",
 "edgeLabel": "Both official studies buried an unexplained residue under dismissive conclusions",
 "id": "condon-committee",
 "l0": true,
@@ -133,6 +146,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-c46cc80ccf",
 "edgeLabel": "19.7 per cent of analysed objects were unknowns, rising with report quality",
 "id": "project-blue-book",
 "l0": true,
@@ -154,6 +168,7 @@
 "dateEnd": null,
 "dateStart": "1955",
 "direction": "in",
+"edgeId": "e-65eba90528",
 "edgeLabel": "Stork produced Special Report No. 14, 5 May 1955",
 "id": "project-stork",
 "l0": false,
@@ -185,6 +200,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-54740bc2ba",
 "edgeLabel": "Republished by the Department of War as CIA-UAP-015 in PURSUE Release 03",
 "id": "pursue-releases",
 "l0": true,

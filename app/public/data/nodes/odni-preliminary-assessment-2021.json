@@ -5,56 +5,67 @@
 "band": "oversight",
 "claims": [
 {
+"id": "c-4da601c655",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
 "text": "Title page: 'OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE / Preliminary Assessment: Unidentified Aerial Phenomena / 25 June 2021'. Document is 9 pages, marked UNCLASSIFIED, PDF CreationDate 25 June 2021 19:24 UTC.",
 "tier": 1
 },
 {
+"id": "c-fec3aec560",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
 "text": "Statutory basis, stated in the Scope section: 'This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the provision in Senate Report 116-233, accompanying the Intelligence Authorization Act (IAA) for Fiscal Year 2021, that the DNI, in consultation with the Secretary of Defense (SECDEF), is to submit an intelligence assessment of the threat posed by unidentified aerial phenomena (UAP) and the progress the Department of Defense Unidentified Aerial Phenomena Task Force (UAPTF) has made in understanding this threat.'",
 "tier": 1
 },
 {
+"id": "c-04ff2ea411",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
 "text": "Dataset and resolution rate: '144 reports originated from USG sources. Of these, 80 reports involved observation with multiple sensors.' The report states 'We were able to identify one reported UAP with high confidence. In that case, we identified the object as a large, deflating balloon. The others remain unexplained.'",
 "tier": 1
 },
 {
+"id": "c-08cf5b4ddb",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
 "text": "Anomalous-performance finding: 'In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics. Some UAP appeared to remain stationary in winds aloft, move against the wind, maneuver abruptly, or move at considerable speed, without discernable means of propulsion. In a small number of cases, military aircraft systems processed radio frequency (RF) energy associated with UAP sightings.'",
 "tier": 1
 },
 {
+"id": "c-907acdd90b",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
 "text": "The report declines a single explanation, offering instead 'five potential explanatory categories: airborne clutter, natural atmospheric phenomena, USG or U.S. industry developmental programs, foreign adversary systems, and a catchall \"other\" bin.'",
 "tier": 1
 },
 {
+"id": "c-0dcff29521",
 "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
 "text": "The report names stigma as a collection obstacle: 'Sociocultural stigmas and sensor limitations remain obstacles to collecting data on UAP.'",
 "tier": 1
 },
 {
+"id": "c-59fb10e394",
 "source": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021",
 "text": "The assessment reported 144 UAP incidents from USG sources, of which only one could be explained with high confidence.",
 "tier": 1
 },
 {
+"id": "c-f98843763f",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
 "text": "It reported that in 18 incidents observers described unusual movement or flight characteristics.",
 "tier": 1
 },
 {
+"id": "c-99742da659",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
 "text": "It attributed the inability to resolve cases to limited and inconsistent data collection and reporting rather than to any positive identification.",
 "tier": 1
 },
 {
+"id": "c-ebf51aa056",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
 "text": "It reported that in 18 incidents observers described unusual movement or flight characteristics, including apparent stationarity in winds aloft, movement against the wind, abrupt manoeuvres and considerable speed without discernible propulsion.",
 "tier": 1
 },
 {
+"id": "c-1939db02a7",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
 "text": "It attributed the inability to resolve cases to limited and inconsistent data collection and reporting, not to any positive identification.",
 "tier": 1
@@ -70,6 +81,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-9ad0ad2bc2",
 "edgeLabel": "",
 "id": "aaro",
 "l0": true,
@@ -96,6 +108,7 @@
 "dateEnd": "2026",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-4ed02e166f",
 "edgeLabel": "The 2021 data-limitation formula persists unchanged through FY2025",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
@@ -122,6 +135,7 @@
 "dateEnd": "2021",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-8b2b7fe763",
 "edgeLabel": "Sixteen years of silence is the stigma the assessment describes",
 "id": "alex-dietrich",
 "l0": false,
@@ -148,6 +162,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-5b1955a7b7",
 "edgeLabel": "Official confirmation of the stigma ASA exists to route around",
 "id": "americans-for-safe-aerospace",
 "l0": true,
@@ -174,6 +189,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-0fc68b0385",
 "edgeLabel": "DNI who transmitted the assessment to Congress",
 "id": "avril-haines",
 "l0": false,
@@ -195,6 +211,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-b94a321123",
 "edgeLabel": "Founded in direct response to the June 2021 ODNI assessment",
 "id": "galileo-project",
 "l0": true,
@@ -216,6 +233,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-1c66e5b56e",
 "edgeLabel": "18 of 144 incidents showed unusual movement patterns; sensors not designed to identify UAP",
 "id": "gofast-video",
 "l0": false,
@@ -237,6 +255,7 @@
 "dateEnd": "2021",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-2c9ae2b1aa",
 "edgeLabel": "Within the November 2004 to March 2021 window the assessment covers",
 "id": "kidd-russell-2019",
 "l0": false,
@@ -263,6 +282,7 @@
 "dateEnd": "2023",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-2fa947f072",
 "edgeLabel": "Both diagnose the same evidentiary deficit",
 "id": "nasa-uap-ist",
 "l0": true,
@@ -289,6 +309,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-c73193d0cb",
 "edgeLabel": "Assessment window opens with the Nimitz encounter",
 "id": "nimitz-2004",
 "l0": true,
@@ -310,6 +331,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-4ed619d218",
 "edgeLabel": "",
 "id": "odni-2022-annual-report",
 "l0": false,
@@ -336,6 +358,7 @@
 "dateEnd": "2026",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-63726b55c3",
 "edgeLabel": "The data-scarcity claim survives the release only because the parameters were stripped",
 "id": "pursue-releases",
 "l0": true,
@@ -362,6 +385,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-8b3e6d7553",
 "edgeLabel": "",
 "id": "uap-task-force",
 "l0": true,
@@ -388,6 +412,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-3ed75a8466",
 "edgeLabel": "UAPTF dataset is the substrate of the 2021 Preliminary Assessment",
 "id": "uap-task-force",
 "l0": true,

@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-ec2a4984b1",
 "source": "The Debrief, 5 June 2023; unclassified reprisal complaint reported 13 June 2023",
 "text": "Charles McCullough III, senior partner, filed Grusch's urgent-concern complaint with the ICIG on 25 May 2022.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c24224e675",
 "edgeLabel": "Firm that filed Grusch's statutory ICIG whistleblower complaint",
 "id": "david-grusch",
 "l0": false,
@@ -46,6 +48,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d6236a07f3",
 "edgeLabel": "Senior partner was ODNI's Intelligence Community Inspector General",
 "id": "odni",
 "l0": true,

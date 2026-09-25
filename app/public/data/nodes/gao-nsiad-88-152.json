@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-cee85d9b58",
 "source": "GAO/NSIAD-88-152, B-230522, 24 May 1988, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
 "text": "The report is a summary of a classified one and answers a statute: 'This report is an unclassified summary of a classified report that we sent to you on April 1, 1988.' The review 'is in response to section 1133 of Public Law 100-180, which requires that the Comptroller General report to the defense committees on this subject.'",
 "tier": 1
 },
 {
+"id": "c-73526a3692",
 "source": "GAO/NSIAD-88-152, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
 "text": "GAO's central finding: 'We found that the Department of Defense does not adequately follow criteria to be used in determining the need to establish programs as special accessrequired. The definition of special accessprograms is not clear within the Department of Defense and, until recently, the oversight role of the Office of the Secretary of Defense in the programs' creation has been limited.'",
 "tier": 1
 },
 {
+"id": "c-835365fdc4",
 "source": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
 "text": "Nobody held a list: 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns.' GAO adds that 'the Secretary's Office has no centralized office with cognizance of all special access programs'.",
 "tier": 1
 },
 {
+"id": "c-925b4c639c",
 "source": "GAO/NSIAD-88-152, Recommendations section, https://www.gao.gov/assets/nsiad-88-152.pdf",
 "text": "The Army reform is dated to 1983-84, not 1994: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.'",
 "tier": 1
 },
 {
+"id": "c-cb297fc745",
 "source": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
 "text": "Creation authority is held by four people: 'Only the three service secretaries and Deputy Under Secretary of Defense for Policy are authorized to establish special access programs.'",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-908017f10d",
 "edgeLabel": "Commissioned by statute, section 1133 of Public Law 100-180, and reported to the four defence committees",
 "id": "d-oversight",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-df64c24d34",
 "edgeLabel": "A primary statement of how special access programmes are established and by whom",
 "id": "d-sap",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-97bccd3bf3",
 "edgeLabel": "Dates an Army central SAP oversight office to September 1984, ten years earlier",
 "id": "dod-sap-reform-1994",
 "l0": false,
@@ -103,6 +111,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-1cafa00599",
 "edgeLabel": "GAO's own report, signed out of the National Security and International Affairs Division under B-230522",
 "id": "gao",
 "l0": false,
@@ -124,6 +133,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-446dd9e83c",
 "edgeLabel": "The same GAO division two years after the Lockheed document-control testimony",
 "id": "gao-130581",
 "l0": false,
@@ -145,6 +155,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6410cc9d84",
 "edgeLabel": "Records that no OSD office held a list of all special access programmes in 1988",
 "id": "sapoc",
 "l0": false,

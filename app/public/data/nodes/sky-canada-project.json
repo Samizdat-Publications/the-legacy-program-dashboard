@@ -5,26 +5,31 @@
 "band": "research",
 "claims": [
 {
+"id": "c-43d63ae5ea",
 "source": "Sky Canada Project report, June 2025, Introduction",
 "text": "'The project was spurred by increased public interest and recent developments in other countries, particularly the United States, where formal procedures for addressing UAP sightings are in development.'",
 "tier": 1
 },
 {
+"id": "c-347138e688",
 "source": "Sky Canada Project report, June 2025, Key findings",
 "text": "'Currently, UAP reports are scattered across multiple government and non government organizations' and 'Most departments do not compile the reports they receive, making it difficult to provide information on the number of reports.'",
 "tier": 1
 },
 {
+"id": "c-23fb21346a",
 "source": "Sky Canada Project report, June 2025",
 "text": "'Some public sources estimate that Canadians report somewhere between 600 and 1,000 UAP sightings annually.'",
 "tier": 1
 },
 {
+"id": "c-d879595bda",
 "source": "Sky Canada Project report, June 2025",
 "text": "On the RCMP: 'Currently, the RCMP does not have a formal policy for the collection or dissemination of UAP reports ... Such reports are typically categorized as non-offence (non-criminal) incidents under the Aeronautics Act - Other Activities ... It was therefore impossible for the RCMP to provide statistics about UAP reports.'",
 "tier": 1
 },
 {
+"id": "c-658774a0c9",
 "source": "Sky Canada Project report, June 2025",
 "text": "On GEIPAN's operating model: 'GEIPAN has a team of three full-time employees to manage the reporting process ... Reports are investigated through the efforts of over 20 trained volunteers throughout France ... GEIPAN's steering committee is chaired by an established aerospace expert and includes representatives of the country's civil and military authorities.'",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2025-06",
 "direction": "out",
+"edgeId": "e-39d654645f",
 "edgeLabel": "identifies AARO as a model and recommends partnership",
 "id": "aaro",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-62bc0e3764",
 "edgeLabel": "COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once",
 "id": "arquivo-nacional-ufo",
 "l0": true,
@@ -87,6 +94,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2025-06",
 "direction": "out",
+"edgeId": "e-c74ea5c24a",
 "edgeLabel": "identifies SEFAA as a model and recommends partnership",
 "id": "cefaa",
 "l0": true,
@@ -113,6 +121,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2025-06",
 "direction": "out",
+"edgeId": "e-59e4315663",
 "edgeLabel": "identifies GEIPAN as a model and recommends partnership",
 "id": "geipan",
 "l0": true,
@@ -139,6 +148,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2025-06",
 "direction": "out",
+"edgeId": "e-f48b2b0d7c",
 "edgeLabel": "the report is the source of the three-office model",
 "id": "intl-uap-office-model",
 "l0": false,
@@ -160,6 +170,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-db6ba893b9",
 "edgeLabel": "Office of the Chief Science Advisor, Ottawa",
 "id": "l-ottawa",
 "l0": false,
@@ -191,6 +202,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-3690351afc",
 "edgeLabel": "2025 report is the first federal review to work the LAC holding",
 "id": "lac-ufo-collection",
 "l0": false,
@@ -212,6 +224,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-1283a7aeb3",
 "edgeLabel": "Chief Science Advisor whose office produced the report",
 "id": "mona-nemer",
 "l0": false,

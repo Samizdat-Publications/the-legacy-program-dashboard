@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-8cb31106c6",
 "source": "OSD/JS FOIA 18-F-0324, final response 17 August 2022",
 "text": "Reads in part: 'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.'",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-69d298fb63",
 "edgeLabel": "Submitted to his supervising official, hand-delivered",
 "id": "john-garrity",
 "l0": false,
@@ -41,6 +43,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-113c095695",
 "edgeLabel": "Author, 3 October 2017",
 "id": "luis-elizondo",
 "l0": false,
@@ -62,6 +65,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-7dc72d0a13",
 "edgeLabel": "Seven days from resignation effective date to corporate launch",
 "id": "ttsa-launch-2017",
 "l0": false,

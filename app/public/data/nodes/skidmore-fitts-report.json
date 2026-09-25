@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-e7a4ea7277",
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
 "text": "Skidmore and Fitts compiled publicly reported unsupported journal voucher adjustments from OIG and GAO documents for FY1998-FY2015 and arrived at roughly $21 trillion for DoD and roughly $350 billion for HUD.",
 "tier": 2
 },
 {
+"id": "c-539082e0af",
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
 "text": "The authors state: 'The Inspector General's reports that are available to the public only provide summary information; thus it is impossible for us to conduct a detailed assessment of the nature of these unsupported adjustments and errors.'",
 "tier": 2
 },
 {
+"id": "c-d725340dc3",
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
 "text": "The authors state they were unable to recover data for a number of years within the FY1998-FY2015 window.",
 "tier": 2
 },
 {
+"id": "c-827cf2e4b8",
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
 "text": "The $21 trillion figure double-counts by construction, because gross adjustment volumes across eighteen years are being summed and individual dollars are adjusted repeatedly; it is an index of documentation failure, not a quantity of money. Reasoning: it is derived from the same class of gross-entry figures as the DODIG-2016-113 $6.5 trillion number, which the OIG itself flags as non-cumulative.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2017-09",
 "direction": "in",
+"edgeId": "e-ada7c1a068",
 "edgeLabel": "Co-author; originated the inquiry",
 "id": "catherine-austin-fitts",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2017-09",
 "direction": "out",
+"edgeId": "e-374b42a76a",
 "edgeLabel": "The single largest figure in the $21 trillion compilation comes from this report",
 "id": "dodig-2016-113",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "2017-09",
 "direction": "in",
+"edgeId": "e-2ce4ac6e0f",
 "edgeLabel": "Co-author and compiler",
 "id": "mark-skidmore",
 "l0": false,

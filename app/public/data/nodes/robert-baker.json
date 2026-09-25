@@ -8,31 +8,37 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-a7b29229b9",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The DIA letter of 9 January 2018 lists entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave.'",
 "tier": 1
 },
 {
+"id": "c-3961c1df04",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
 "text": "The released DIRD bears document number DIA-08-1004-005, publication date 6 April 2010 and Intelligence Cut-Off Date 1 December 2009.",
 "tier": 1
 },
 {
+"id": "c-491186a95e",
 "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
 "text": "A 2008 JASON advisory group review of HFGW work Baker had done for the Office of the Director of National Intelligence concluded, as quoted by The War Zone: 'The proposed applications of the science of HFGW are fundamentally wrong' and 'No foreign threat in HFGW is credible.'",
 "tier": 1
 },
 {
+"id": "c-8cef4aab39",
 "source": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
 "text": "DIA published Baker's HFGW DIRD on 6 April 2010, after the 2008 JASON finding - the JASON report is hosted by the Federation of American Scientists at irp.fas.org/agency/dod/jason/gravwaves.pdf.",
 "tier": 1
 },
 {
+"id": "c-5dac3fa4c5",
 "source": "https://earthtech.org/pubs/davis/",
 "text": "Baker co-authored a 2005 STAIF conference paper on HFGW radiation patterns and aerospace applications with Eric W. Davis and R. C. Woods, establishing a pre-existing working link to the AAWSAP subcontractor who commissioned the DIRDs.",
 "tier": 1
 },
 {
+"id": "c-a90d8e70a6",
 "source": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
 "text": "Baker published an open-source version of the material in 2010: 'Utilization of High-Frequency Gravitational Waves for Aerospace Systems and Technology', presented at the Seventh Annual AIAA Southern California Aerospace Systems and Technology Conference on 1 May 2010.",
 "tier": 1
@@ -48,6 +54,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-dbdb187cc4",
 "edgeLabel": "authored by Robert M. L. Baker Jr., GravWave LLC",
 "id": "dird-high-frequency-gravitational-wave-communications",
 "l0": false,

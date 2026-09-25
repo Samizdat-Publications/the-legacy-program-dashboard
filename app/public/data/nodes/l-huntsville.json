@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-89c0247493",
 "source": "USAspending.gov prime award data",
 "text": "Radiance Technologies is headquartered in Huntsville, Alabama; USAspending records approximately $2.6 billion in prime contract obligations to the firm since FY2008.",
 "tier": 1
 },
 {
+"id": "c-248f2ac49f",
 "source": "Science, June 2022",
 "text": "Science magazine reported in June 2022 that Travis S. Taylor 'was the chief scientist on the' Unidentified Aerial Phenomena Task Force.",
 "tier": 2
 },
 {
+"id": "c-fc80aac5ad",
 "source": "House Oversight Task Force hearing, 9 September 2025",
 "text": "The House Oversight Task Force's 9 September 2025 hearing found that UAP-related spending flows to entities outside the reach of the Freedom of Information Act.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2022",
 "dateStart": "2020",
 "direction": "out",
+"edgeId": "e-4f7b7cdc90",
 "edgeLabel": "The Task Force's chief scientist was employed by a Huntsville contractor",
 "id": "uap-task-force",
 "l0": true,

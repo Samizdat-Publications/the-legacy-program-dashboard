@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-31d173dad0",
 "source": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
 "text": "FASAB issued SFFAS 56 'Classified Activities' on 4 October 2018.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2018-10-04",
 "direction": "in",
+"edgeId": "e-0e13dd4af3",
 "edgeLabel": "Issued by FASAB on 4 October 2018",
 "id": "sffas-56",
 "l0": false,
@@ -41,6 +43,7 @@
 "dateEnd": null,
 "dateStart": "2026-04",
 "direction": "in",
+"edgeId": "e-a2bd4aa2a7",
 "edgeLabel": "Chairs the Board that owns SFFAS 56 since April 2026",
 "id": "terry-patton",
 "l0": false,

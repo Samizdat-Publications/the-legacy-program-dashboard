@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-260dc2b70b",
 "source": "war.gov/UFO, accessed 12 August 2026",
 "text": "The war.gov portal lists Release 03 dated 12 June 2026 with an 826MB document bundle and a 4.6GB video bundle.",
 "tier": 1
 },
 {
+"id": "c-6a782867ae",
 "source": "Disclosure Archives inventory of the Release 03 posting",
 "text": "Release 03 comprised 72 files - 53 documents, 10 images, 6 videos, 3 audio - with 29 files from the FBI.",
 "tier": 2
 },
 {
+"id": "c-e8011734e0",
 "source": "Disclosure Archives inventory of Release 03",
 "text": "The FBI orb corpus covers 2021-2025 and includes an FD-1057 documenting two FBI special agents' own first-hand observation.",
 "tier": 2
 },
 {
+"id": "c-eaea88a30e",
 "source": "Disclosure Archives inventory of Release 03",
 "text": "Release 03 includes a less-redacted version of the CIA's 1953 Robertson Panel report and a CIA file on a 2008 disc-like object over Harare International Airport.",
 "tier": 2
 },
 {
+"id": "c-93d697166c",
 "source": "Inference from the appearance of a less-redacted version in Release 03 against the long-standing public version in the CIA reading room",
 "text": "A less-redacted Robertson Panel record released in 2026 establishes that the CIA's own 1953 document had remained partly withheld for seventy-three years, and that the withholding was reversible by executive direction rather than by any change in the underlying equities.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-7fd38f3f7c",
 "edgeLabel": "Released a less-redacted 1953 Robertson Panel record",
 "id": "cia-readingroom-ufo",
 "l0": false,
@@ -66,6 +72,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-d353ac476f",
 "edgeLabel": "29 FBI files including a 2021-2025 orb corpus and an agents' own FD-1057",
 "id": "fbi-vault-ufo",
 "l0": false,
@@ -92,6 +99,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-f0839c7145",
 "edgeLabel": "Released NASA Gemini-era crew debriefings",
 "id": "nasa",
 "l0": true,
@@ -113,6 +121,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-0777cea2aa",
 "edgeLabel": "Third tranche, 12 June 2026",
 "id": "pursue-releases",
 "l0": true,

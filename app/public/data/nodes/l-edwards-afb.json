@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-d4f4b19e72",
 "source": "Wikipedia, Edwards Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Edwards AFB covers 470 square miles around Rogers Dry Lake; it was renamed from Muroc in December 1949 for Capt. Glen Edwards; it hosts the Air Force Test Center, the USAF Test Pilot School and NASA Armstrong Flight Research Center.",
 "tier": 2
 },
 {
+"id": "c-0105fd75e0",
 "source": "CIA U-2/OXCART history, released 25 June 2013; summarised in Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Groom Lake was selected in 1955 because U-2 flight test and pilot training could not be conducted at Edwards Air Force Base or Lockheed's Palmdale facility given the extreme secrecy of the project.",
 "tier": 2
 },
 {
+"id": "c-4d6fbac01b",
 "source": "Inference; no primary source located",
 "text": "The alleged February 1954 Eisenhower meeting at Muroc/Edwards has no primary record and is carried as folklore. Reasoning: no contemporaneous document, log or credible firsthand attribution has ever been produced.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1974",
 "direction": "in",
+"edgeId": "e-4bebe2311f",
 "edgeLabel": "Claims assignment to 6515 TSS, AFFTC, Edwards AFB on the F-15 R&D and FOT&E programme",
 "id": "edgar-fouche",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-2f40ed25b5",
 "edgeLabel": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
 "id": "l-groom-lake",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": "1992",
 "dateStart": "1973",
 "direction": "in",
+"edgeId": "e-9d7c7566a5",
 "edgeLabel": "Relays a second-hand 1973 Edwards North Base allegation",
 "id": "mark-mccandlish",
 "l0": false,

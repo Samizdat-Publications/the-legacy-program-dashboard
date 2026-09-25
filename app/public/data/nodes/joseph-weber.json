@@ -8,11 +8,13 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-f4e5e7cab3",
 "source": "Participants in the Conference, The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, 2011. https://edition-open-sources.org/sources/5/6/index.html",
 "text": "The conference report's participants list prints 'Weber, J. | University of Maryland'.",
 "tier": 1
 },
 {
+"id": "c-5740a4e4f7",
 "source": "Danny Jones Podcast, ep. 318, 28 July 2025, 1:02:34, mapped at research/leads/dannyjones-corpus-19.md",
 "text": "On the Danny Jones Podcast, episode 318, 28 July 2025, at 1:02:34, Jeremy Rys named Weber among the attendees of the 1957 Chapel Hill conference and credited his Weber bars as foundational to LIGO. The conference report confirms his presence at Chapel Hill in January 1957 and his affiliation as University of Maryland, and carries nothing else the transcript attributes to him.",
 "tier": 2
@@ -28,6 +30,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-397aa273bc",
 "edgeLabel": "Participant at the Institute's inaugural conference, January 1957",
 "id": "institute-of-field-physics",
 "l0": true,
@@ -49,6 +52,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-44a537068b",
 "edgeLabel": "Both printed on the same forty-six-name participants list",
 "id": "louis-witten",
 "l0": false,

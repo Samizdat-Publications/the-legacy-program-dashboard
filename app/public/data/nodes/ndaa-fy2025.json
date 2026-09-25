@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-b4f728733f",
 "source": "PL 118-159 sec. 6801, 138 Stat. 2520-2521",
 "text": "Sec. 6801 is titled 'COMPTROLLER GENERAL OF THE UNITED STATES REVIEW OF ALL-DOMAIN ANOMALY RESOLUTION OFFICE' and requires GAO to review 'the implementation by the Office of the duties and requirements of the Office under section 1683 of the National Defense Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373), such as the process for operational unidentified anomalous phenomena reporting and coordination with the Department of Defense, the intelligence community, and other departments and agencies of the Federal Government and non-Government entities.'",
 "tier": 1
 },
 {
+"id": "c-aa14e27cf2",
 "source": "PL 118-159 sec. 6802, 138 Stat. 2521",
 "text": "Sec. 6802 amends sec. 6803 of the IAA for FY2023 (50 U.S.C. 3373 note) to end the quarterly GAO briefings 90 days after, and the semiannual reporting 180 days after, 'the delivery of the final volume of the Historical Record Report'.",
 "tier": 1
 },
 {
+"id": "c-fb094d2698",
 "source": "PLAW-118publ159 enactment line",
 "text": "PL 118-159 was 'Approved December 23, 2024.'",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2024-12-23",
 "direction": "out",
+"edgeId": "e-aa702e9754",
 "edgeLabel": "P.L. 118-159 Div. G, secs. 6801-6802 - GAO review of AARO and the sunset of the audit cadence",
 "id": "d-legislation",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": null,
 "dateStart": "2024-12-23",
 "direction": "out",
+"edgeId": "e-fd98b74efa",
 "edgeLabel": "sunsets the sec. 6803 GAO audit cadence",
 "id": "iaa-2023",
 "l0": false,

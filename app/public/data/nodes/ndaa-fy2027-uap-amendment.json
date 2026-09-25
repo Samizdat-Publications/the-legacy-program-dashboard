@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-d0b3b0a09b",
 "source": "Newstalk KZRG, 23 July 2026",
 "text": "The House adopted Burlison's UAP records disclosure amendment as part of the FY2027 National Defense Authorization Act in July 2026; it would require agencies to identify, preserve and transfer UAP records to the National Archives on a statutory timeline and establish an independent UAP Records Review Board with Senate-confirmed members and subpoena authority.",
 "tier": 1
 },
 {
+"id": "c-c346a7676f",
 "source": "Newstalk KZRG, 23 July 2026",
 "text": "The amendment's disclosure requirements extend to certain government contractors that possess covered records.",
 "tier": 1
 },
 {
+"id": "c-57dc017e28",
 "source": "Disclosure advocacy reporting on the Rules Committee designation, 15 July 2026",
 "text": "The revised text was designated Version 2 on 15 July 2026 and made in order by the House Rules Committee.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-dd08efa658",
 "edgeLabel": "Would extend statutory disclosure to contractors holding covered records",
 "id": "d-ffrdc",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-cbd7221922",
 "edgeLabel": "Author of the House-adopted UAP records disclosure amendment",
 "id": "eric-burlison",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-c95bfe8f22",
 "edgeLabel": "Revives the review board and eminent-domain-era disclosure architecture stripped in 2023",
 "id": "uapda-2023",
 "l0": true,

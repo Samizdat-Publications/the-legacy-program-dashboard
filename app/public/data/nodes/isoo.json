@@ -5,16 +5,19 @@
 "band": "oversight",
 "claims": [
 {
+"id": "c-ff6a66f157",
 "source": "National Archives, Information Security Oversight Office",
 "text": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program', with authority from Executive Order 13526 and Executive Order 13556.",
 "tier": 1
 },
 {
+"id": "c-181f49a616",
 "source": "National Archives, Information Security Oversight Office",
 "text": "ISOO publishes an Annual Report to the President with statistics and analysis on Classified National Security Information and Controlled Unclassified Information; the FY2024 report is published.",
 "tier": 1
 },
 {
+"id": "c-3fa8125ccf",
 "source": "Inference from ISOO's NISP responsibilities under EO 13526",
 "text": "ISOO's oversight of the National Industrial Security Program is the only government-wide mechanism that could detect a contractor-held program without a government sponsor of record, and it has never been directed at the UAP question. Reasoning: NISP covers classified work at cleared facilities regardless of which agency sponsors it.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2011-12-30",
 "direction": "in",
+"edgeId": "e-20f97512a9",
 "edgeLabel": "ISOO advises the working group that produces the marking standard",
 "id": "capco-register",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-7fa29bb9a5",
 "edgeLabel": "the office charged with counting the classification system, and therefore the boundary of the public map",
 "id": "d-structure",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2009-12-29",
 "direction": "in",
+"edgeId": "e-3225c79470",
 "edgeLabel": "ISOO access to SAPs is granted and simultaneously conditioned",
 "id": "eo-13526",
 "l0": true,
@@ -93,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-0a3d589db7",
 "edgeLabel": "Both are components of the National Archives",
 "id": "nara-uap-collection",
 "l0": true,
@@ -119,6 +126,7 @@
 "dateEnd": null,
 "dateStart": "2015-10-17",
 "direction": "in",
+"edgeId": "e-869f016839",
 "edgeLabel": "ISOO requests about IC controlled access programs are routed through CAPCO",
 "id": "odni-capco",
 "l0": false,
@@ -140,6 +148,7 @@
 "dateEnd": null,
 "dateStart": "1978",
 "direction": "out",
+"edgeId": "e-ce2fc3d777",
 "edgeLabel": "NISP oversight is the only government-wide window on contractor-held classified work",
 "id": "waived-usap",
 "l0": true,
@@ -161,6 +170,7 @@
 "dateEnd": null,
 "dateStart": "2009-12-29",
 "direction": "out",
+"edgeId": "e-0398996981",
 "edgeLabel": "The only external body with a claim of access, and the claim is conditional",
 "id": "waived-usap-mechanism",
 "l0": true,
@@ -194,6 +204,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-869f016839",
 "label": "ISOO requests about IC controlled access programs are routed through CAPCO",
 "note": "ICD 906 section D.9.c makes CAPCO responsible for coordinating 'requests from the Information Security Oversight Office' about CAPs.",
 "of": null,

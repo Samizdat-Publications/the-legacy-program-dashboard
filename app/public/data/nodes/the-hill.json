@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-5eab078062",
 "source": "The Hill search index, retrieved 12 August 2026",
 "text": "The Hill has published a run of UAP opinion pieces in its national security and technology sections, with live URLs confirmed via The Hill's own search index.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-f1a404a306",
 "edgeLabel": "placement aimed at the congressional audience rather than original investigation",
 "id": "d-media",
 "l0": false,
@@ -46,6 +48,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-04e011f37a",
 "edgeLabel": "Continuing coverage of Grusch and congressional UAP transparency push",
 "id": "david-grusch",
 "l0": false,
@@ -72,6 +75,7 @@
 "dateEnd": null,
 "dateStart": "2024-11-13",
 "direction": "out",
+"edgeId": "e-1e1d0008c9",
 "edgeLabel": "Covered the November 2024 House UAP secrecy hearing",
 "id": "hearing-2024-11-13",
 "l0": true,
@@ -103,6 +107,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-89459c7a77",
 "edgeLabel": "Reported the fight over the UAP amendment in the FY2024 defence bill",
 "id": "uapda-2023",
 "l0": true,

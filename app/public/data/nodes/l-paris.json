@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-ea2c0c4a98",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-e810053047",
 "edgeLabel": "IHEDN origin; delivered to the Prime Minister",
 "id": "cometa",
 "l0": true,

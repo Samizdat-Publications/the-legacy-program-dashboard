@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-755a84be2d",
 "source": "MITRE CAASD page; NSF NCSES Master Government List of FFRDCs",
 "text": "CAASD is sponsored by the Federal Aviation Administration and provides data-driven engineering to enhance aviation safety and the efficiency of the National Airspace System.",
 "tier": 1
 },
 {
+"id": "c-ad3ea7080c",
 "source": "USAspending.gov award records; SAM.gov notice",
 "text": "CAASD has been executed under FAA contracts DTFAWA10C00080 (approximately $1.70 billion) and 693KA822C00001 (approximately $761 million), with a sole-source intent notice posted on SAM.gov on 1 August 2025.",
 "tier": 1
 },
 {
+"id": "c-f2bb3e5dcc",
 "source": "Structural inference from MITRE's sponsor list and FAR 35.017 access provisions",
 "text": "MITRE's simultaneous role as engineering authority for both the DoD/IC systems (NSEC) and the civil air surveillance system (CAASD) gives one corporation visibility across both sensor domains that no government office holds in a single place. Reasoning: the two FFRDCs have different sponsors, and neither sponsor sees the other's work, but the corporation employs both staffs.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-b70c93f4a0",
 "edgeLabel": "FAA surveillance data - engineered by a MITRE FFRDC - is a named AARO data source",
 "id": "aaro",
 "l0": true,
@@ -56,6 +60,7 @@
 "dateEnd": null,
 "dateStart": "1990",
 "direction": "in",
+"edgeId": "e-1b7d50c0fe",
 "edgeLabel": "MITRE operates CAASD for the FAA",
 "id": "mitre-corporation",
 "l0": true,

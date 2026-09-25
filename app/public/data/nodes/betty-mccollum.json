@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-92f7a0008e",
 "source": "https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress",
 "text": "Betty McCollum (D-MN) is listed as Ranking Member of the Defense Subcommittee of the House Appropriations Committee for the 119th Congress.",
 "tier": 1
 },
 {
+"id": "c-ce422f6509",
 "source": "https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress",
 "text": "McCollum was Ranking Member of the House Appropriations Defense Subcommittee in the 118th Congress.",
 "tier": 1
 },
 {
+"id": "c-2ee26fa954",
 "source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
 "text": "In the 116th Congress McCollum was Vice Chair of the House Appropriations Defense Subcommittee, not its chair or ranking minority member, and therefore did not hold a 119(e)(2) seat in 2020.",
 "tier": 1
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-8ad0120fc7",
 "edgeLabel": "seat 12 of 12 - Ranking Member, House Appropriations Defense Subcommittee",
 "id": "waived-sap-notification-group",
 "l0": true,

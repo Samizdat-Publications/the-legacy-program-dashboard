@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-bd87653114",
 "source": "P.L. 118-31, Sec. 1687(c)(1), GPO",
 "text": "Sec. 1687(c)(1) defines 'appropriate congressional committees' as the congressional defense committees plus HPSCI and SSCI, routing the remedy through committee channels only.",
 "tier": 1
 },
 {
+"id": "c-d836baac76",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
 "text": "HASC Chairman Rogers is named with Turner as leading the effort against the UAP Disclosure Act.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d217ceae91",
 "edgeLabel": "named as an appropriate committee",
 "id": "iaa-fy2024-7343",
 "l0": true,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-dd75792fb0",
 "edgeLabel": "Chairman during the FY2024 conference",
 "id": "mike-rogers-al",
 "l0": false,
@@ -67,6 +71,7 @@
 "dateEnd": null,
 "dateStart": "1988",
 "direction": "in",
+"edgeId": "e-b0a86f6662",
 "edgeLabel": "Defense committee receiving waived-SAP notification",
 "id": "oversight-congress",
 "l0": true,
@@ -88,6 +93,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-f4d003e40b",
 "edgeLabel": "Retained remedy routes back to the committees",
 "id": "pl118-31-sec-1687",
 "l0": false,
@@ -109,6 +115,7 @@
 "dateEnd": null,
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-4ab348a1d3",
 "edgeLabel": "One half of the read-in gate described by Chairwoman Luna",
 "id": "us-house",
 "l0": true,

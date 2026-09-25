@@ -8,31 +8,37 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-6f6359cd05",
 "source": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
 "text": "A statement from Congressman Tom Cole's office dated 10 April 2024 records that 'the full House Republican Conference ratified him as Chairman of the House Appropriations Committee.'",
 "tier": 1
 },
 {
+"id": "c-97aca44f42",
 "source": "https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee",
 "text": "Cole was selected for the chairmanship by the House Republican Steering Committee before the full Conference ratified him.",
 "tier": 1
 },
 {
+"id": "c-1ecd79f5f8",
 "source": "https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request",
 "text": "Cole was still serving as Chairman of the House Appropriations Committee as of a committee press release dated 24 June 2026.",
 "tier": 1
 },
 {
+"id": "c-3cecab6f4f",
 "source": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
 "text": "Because Cole's chairmanship began on 10 April 2024, Kay Granger and not Cole held the House Appropriations 119(e)(2) seat on 26 July 2023, the date of the Grusch testimony.",
 "tier": 2
 },
 {
+"id": "c-5bfdfbfee9",
 "source": "https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request",
 "text": "Tom Cole (R-OK) is identified as Chairman of the House Appropriations Committee in a committee press release dated 24 June 2026.",
 "tier": 1
 },
 {
+"id": "c-881e94cb9a",
 "source": "https://appropriations.house.gov/about/chairman-tom-cole",
 "text": "The House Appropriations Committee's official site lists 'Chairman Tom Cole' in its About navigation.",
 "tier": 1
@@ -48,6 +54,7 @@
 "dateEnd": null,
 "dateStart": "2024-04-10",
 "direction": "out",
+"edgeId": "e-2d84da5d4e",
 "edgeLabel": "Representative, Oklahoma 4th district; Chairman of Appropriations from April 2024",
 "id": "us-house",
 "l0": true,
@@ -79,6 +86,7 @@
 "dateEnd": null,
 "dateStart": "2024-04-10",
 "direction": "out",
+"edgeId": "e-e7956f36fd",
 "edgeLabel": "Chairman, House Appropriations Committee",
 "id": "waived-sap-notification-group",
 "l0": true,

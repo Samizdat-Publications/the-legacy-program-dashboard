@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-fcdf6b4e3d",
 "source": "Chemical Geology, doi:10.1016/j.chemgeo.2024.122415",
 "text": "Loeb, Jacobsen, Tagle and colleagues published 'Chemical classification of spherules recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide' in Chemical Geology in December 2024.",
 "tier": 1
 },
 {
+"id": "c-5145eec815",
 "source": "Chemical Geology, doi:10.1016/j.chemgeo.2025.122627",
 "text": "Hyung, Cherston, Jacobsen and Loeb published an investigation of the relationship between morphology and chemistry of D-type spherules in Chemical Geology in March 2025.",
 "tier": 1
 },
 {
+"id": "c-53962f4042",
 "source": "AARO Aluminum Materials Analysis Supplement",
 "text": "AARO's January 2026 aluminium analysis found composition matching Aluminum Association reference alloys 369.1 and A413.1, a conventional result.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2022-01-01",
 "direction": "in",
+"edgeId": "e-8b0c15185b",
 "edgeLabel": "Isotopics is the falsifiable test",
 "id": "d-materials",
 "l0": false,

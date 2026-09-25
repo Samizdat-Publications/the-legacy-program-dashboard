@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-6dbf3a4aef",
 "source": "Published record of 'The Age of Disclosure' — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The film premiered at SXSW on 9 March 2025 and was released theatrically in limited release and on Prime Video on 21 November 2025, directed by Dan Farah, with 34 interviewees including Hal Puthoff, Eric Davis, Travis S. Taylor and Garry Nolan.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-d06286f659",
 "edgeLabel": "Davis among the interviewees",
 "id": "eric-davis",
 "l0": false,
@@ -41,6 +43,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-c7fb5ec78a",
 "edgeLabel": "Puthoff among 34 on-camera interviewees",
 "id": "harold-puthoff",
 "l0": false,

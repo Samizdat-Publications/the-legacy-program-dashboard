@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-64d03922ec",
 "source": "AARO Historical Record Report Volume I, March 2024",
 "text": "Lockheed Martin's Advanced Development Programs organisation operates at Palmdale; AARO cites its aircraft as sources of UAP misidentification.",
 "tier": 1
 },
 {
+"id": "c-1498750c72",
 "source": "Board inference from Knapp's 9 September 2025 testimony",
 "text": "The unnamed 'facility in California' at which material was allegedly held is most plausibly a Lockheed cleared site in the Palmdale-Antelope Valley complex. Reasoning: Knapp specified California and Lockheed; Lockheed's California SAP-accredited aeronautics footprint is concentrated there. No witness has named a site.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-52826d2191",
 "edgeLabel": "The unnamed 'facility in California' in the sworn testimony is most plausibly in the Palmdale complex",
 "id": "lockheed-martin",
 "l0": true,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "1990",
 "direction": "in",
+"edgeId": "e-0f7ebb1120",
 "edgeLabel": "Skunk Works operates at the government-owned contractor-operated Palmdale facility",
 "id": "lockheed-skunk-works",
 "l0": true,
@@ -67,6 +71,7 @@
 "dateEnd": "2000-12",
 "dateStart": "2000-12",
 "direction": "in",
+"edgeId": "e-e8a2b43ece",
 "edgeLabel": "Relays an unnamed informant who places himself at the B-2 facility",
 "id": "mark-mccandlish",
 "l0": false,

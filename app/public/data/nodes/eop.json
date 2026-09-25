@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-90e6111736",
 "source": "Executive Order 14347, 5 September 2025",
 "text": "Executive Order 14347, signed 5 September 2025, authorised 'Department of War' as a secondary designation and directed a recommendation within 60 days on the legislative actions needed to make the change permanent.",
 "tier": 1
 },
 {
+"id": "c-7d992fa5e6",
 "source": "Department of War release, 8 May 2026, and the war.gov/UFO portal",
 "text": "The Department of War published UAP files through the PURSUE portal at war.gov/UFO, with the first release announced on 8 May 2026.",
 "tier": 1
 },
 {
+"id": "c-6696878fb1",
 "source": "Contemporary reporting of the February 2026 presidential directive",
 "text": "In February 2026 the President directed the Pentagon and federal agencies to identify and release files on UAP and extraterrestrial matters.",
 "tier": 2
 },
 {
+"id": "c-c643eb19fb",
 "source": "Inference from the distinct legal bases of EO 13526 and the Atomic Energy Act",
 "text": "Presidential declassification authority under Executive Order 13526 does not reach Restricted Data created under the Atomic Energy Act, so a 2026 UAP declassification directive cannot compel release of any material held under DOE nuclear classification authority. Reasoning: the two systems have separate statutory and executive foundations.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2025-09-05",
 "direction": "out",
+"edgeId": "e-4f55dfef84",
 "edgeLabel": "EO 14347 renamed the department by presidential signature",
 "id": "dod",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1954",
 "direction": "in",
+"edgeId": "e-c60b581ef1",
 "edgeLabel": "Restricted Data authority sits outside presidential EO declassification power",
 "id": "doe",
 "l0": true,
@@ -82,6 +88,7 @@
 "dateEnd": "2026-02",
 "dateStart": "2025-09-05",
 "direction": "in",
+"edgeId": "e-ebdd78b62d",
 "edgeLabel": "Signed EO 14347 and issued the 2026 UAP release directives",
 "id": "donald-trump",
 "l0": false,
@@ -113,6 +120,7 @@
 "dateEnd": "2026-08",
 "dateStart": "2026-02",
 "direction": "out",
+"edgeId": "e-5953c48d83",
 "edgeLabel": "Presidential direction produced the PURSUE release portal",
 "id": "war-gov-ufo-portal",
 "l0": false,

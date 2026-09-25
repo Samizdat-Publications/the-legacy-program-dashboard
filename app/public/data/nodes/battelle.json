@@ -5,66 +5,79 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-81fc6eae00",
 "source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
 "text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
 "tier": 1
 },
 {
+"id": "c-2a89aa3a92",
 "source": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)', published 13 March 2025, at 1:34:53",
 "text": "On American Alchemy with Jesse Michels, 13 March 2025, at 1:34:53, John Brandenburg said that 'there was a contract between Los Alamos and Battelle Memorial Institute in 1949 and it was around nitinol', that the work was 'declassified by Battelle in the 60s', and asked why Los Alamos had a contract with Battelle in 1949. The board's node dates the corresponding nickel-titanium work to 1948-49 under Wright-Patterson sponsorship. The two accounts name different sponsors for the same alloy in the same period, and no contract record was opened for either.",
 "tier": 2
 },
 {
+"id": "c-d7bb70911e",
 "source": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:59:04, and 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 1:00:44",
 "text": "On American Alchemy with Jesse Michels, 5 July 2025 at 0:59:04 and again on 12 July 2025 at 1:00:44, Michels said that after Jacques Vallee found the Pentacle memo in the Blue Book files the memo could not be raised around the Robertson Panel: 'apparently you weren't allowed to mention the pentacle' and 'you were not supposed to bring this memo up'. Both tellings are the same speaker, neither cites a document for the instruction, and both describe Vallee putting it to J. Allen Hynek, who on Michels's account played dumb. The board carries the memo and Howard C. Cross's authorship but not this alleged instruction.",
 "tier": 2
 },
 {
+"id": "c-29d25292ab",
 "source": "Primary document, released via CIA CREST (CIA-RDP81R00560R000100060001-5) and in the Department of War PURSUE Release 03",
 "text": "Project Blue Book Special Report No. 14, 'Analysis of Reports of Unidentified Aerial Objects', Project No. 10073, dated 5 May 1955, was produced for the Air Force by Battelle Memorial Institute.",
 "tier": 1
 },
 {
+"id": "c-1e0be348e0",
 "source": "CUFON transcription; Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
 "text": "H. C. Cross of Battelle authored the 9 January 1953 memorandum to Miles E. Goll at Wright-Patterson AFB under Project Stork, reference G-1579-4, marked SECRET.",
 "tier": 2
 },
 {
+"id": "c-b88fee934c",
 "source": "USAspending.gov federal award records; NSF NCSES Master Government List of FFRDCs",
 "text": "Battelle Memorial Institute holds the DOE management-and-operating contract for Pacific Northwest National Laboratory (DEAC0576RL01830), recorded on USAspending with obligations exceeding $30 billion across the life of the contract from 1978.",
 "tier": 1
 },
 {
+"id": "c-0b32ad7d7f",
 "source": "USAspending.gov federal award records",
 "text": "UT-Battelle LLC holds the Oak Ridge National Laboratory management-and-operating contract DEAC0500OR22725, recorded at approximately $42.3 billion, running from 1999 to 2030.",
 "tier": 1
 },
 {
+"id": "c-f0d0356655",
 "source": "MITRE news release, 27 June 2024",
 "text": "Mark Peters moved from executive vice president for laboratory management and operations at Battelle Memorial Institute to president and CEO of MITRE, effective 3 September 2024.",
 "tier": 1
 },
 {
+"id": "c-94d91d871f",
 "source": "Sarasota Herald-Tribune, 'Memory-metal files are missing', 21 May 2009; Bragalia's published research at UFO Explorations",
 "text": "Researchers including Anthony Bragalia have alleged that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 - the research lineage of nitinol shape-memory metal - are missing from both Air Force and Battelle archives.",
 "tier": 2
 },
 {
+"id": "c-927dced0d4",
 "source": "Synthesis of Special Report No. 14, AARO's ORNL contracting statement, and MITRE's 2024 CEO announcement",
 "text": "Battelle's presence at both the 1952-55 analysis of Air Force UFO data and the 2022-24 analysis of AARO's material specimen, plus its supply of MITRE's chief executive, indicates institutional continuity in the custody of anomalous-material analysis across seven decades. Reasoning: the connections are individually documented; the continuity claim is the inference drawn from them.",
 "tier": 3
 },
 {
+"id": "c-01b2297036",
 "source": "AARO, Historical Record Report Volume I, March 2024, Project BEAR section",
 "text": "Project BEAR was the contract Capt. Ruppelt created with the Battelle Memorial Institute to provide scientific support to Project GRUDGE; Battelle 'released a report under the cover of ATIC to maintain its anonymity,' completed in late 1954 as Special Report No. 14.",
 "tier": 1
 },
 {
+"id": "c-daf03ad37b",
 "source": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
 "text": "AARO contracted Oak Ridge National Laboratory, operated by UT-Battelle, in 2022 to conduct materials testing on the magnesium alloy specimen alleged to be from a 1947 crash.",
 "tier": 1
 },
 {
+"id": "c-9afdbb258c",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
 "text": "USAspending records approximately $91 billion in obligations across Battelle-named recipient entities since FY2008, dominated by UT-Battelle laboratory management.",
 "tier": 1
@@ -80,6 +93,7 @@
 "dateEnd": "2024",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-10272f50d3",
 "edgeLabel": "Oak Ridge, operated by UT-Battelle, analysed the alleged 1947 crash specimen for AARO",
 "id": "aaro-metallic-specimen-analysis",
 "l0": false,
@@ -106,6 +120,7 @@
 "dateEnd": "1955",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-5091e6585a",
 "edgeLabel": "Battelle performed the statistical analysis under contract",
 "id": "blue-book-special-report-14",
 "l0": true,
@@ -127,6 +142,7 @@
 "dateEnd": "2026",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-214af5f137",
 "edgeLabel": "Alleges Battelle studied Roswell-derived shape-memory alloy",
 "id": "gerb-battelle-investigation",
 "l0": false,
@@ -148,6 +164,7 @@
 "dateEnd": "1955",
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-e76a7e3c83",
 "edgeLabel": "Battelle's Air Force liaison for Blue Book-related work",
 "id": "howard-c-cross",
 "l0": false,
@@ -169,6 +186,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-a063120ae0",
 "edgeLabel": "Battelle Memorial Institute headquarters",
 "id": "l-columbus-oh",
 "l0": false,
@@ -200,6 +218,7 @@
 "dateEnd": "1949",
 "dateStart": "1948",
 "direction": "out",
+"edgeId": "e-a028df5723",
 "edgeLabel": "Wright-Patterson-sponsored nickel-titanium alloy work, 1948-49",
 "id": "l-wright-patterson",
 "l0": false,
@@ -226,6 +245,7 @@
 "dateEnd": "2024",
 "dateStart": "2020",
 "direction": "in",
+"edgeId": "e-79750c2513",
 "edgeLabel": "Came to MITRE directly from Battelle's executive suite",
 "id": "mark-peters",
 "l0": false,
@@ -252,6 +272,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-cf61c445f9",
 "edgeLabel": "Executive pipeline from the 1950s UFO analysis contractor to the 2020s FFRDC under inquiry",
 "id": "mitre-corporation",
 "l0": true,
@@ -278,6 +299,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-46d2736566",
 "edgeLabel": "Battelle wrote the 1972 NASA review of the alloy and was its 1968 wire-drawing subcontractor",
 "id": "naval-ordnance-laboratory",
 "l0": false,
@@ -299,6 +321,7 @@
 "dateEnd": null,
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-bdaea677e8",
 "edgeLabel": "Battelle co-operates ORNL through UT-Battelle, LLC",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
@@ -325,6 +348,7 @@
 "dateEnd": "1954",
 "dateStart": "1954",
 "direction": "in",
+"edgeId": "e-15c6faaab0",
 "edgeLabel": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
 "id": "project-bear",
 "l0": false,
@@ -346,6 +370,7 @@
 "dateEnd": "1954",
 "dateStart": "1951",
 "direction": "out",
+"edgeId": "e-f03315e434",
 "edgeLabel": "Battelle held the Project BEAR contract supplying the science behind Project GRUDGE and BLUE BOOK",
 "id": "project-bear",
 "l0": false,
@@ -367,6 +392,7 @@
 "dateEnd": "1955",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-ae8b3ba82c",
 "edgeLabel": "Battelle held the Air Force contract designated Project Stork",
 "id": "project-stork",
 "l0": false,
@@ -388,6 +414,7 @@
 "dateEnd": "1949",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-ccbf092f20",
 "edgeLabel": "Alleged analysis of Roswell 'memory metal' via Wright-Patterson contracts",
 "id": "roswell-1947",
 "l0": true,
@@ -409,6 +436,7 @@
 "dateEnd": null,
 "dateStart": "1999-10-15",
 "direction": "in",
+"edgeId": "e-15011914de",
 "edgeLabel": "The two named partners in Brookhaven Science Associates LLC",
 "id": "stony-brook-university",
 "l0": false,
@@ -442,6 +470,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-15c6faaab0",
 "label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
 "note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
 "of": null,

@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-c853319dd3",
 "source": "House Oversight Committee hearing pages and GPO hearing transcripts",
 "text": "The House Oversight Committee held UAP hearings on 26 July 2023, 13 November 2024 and 9 September 2025.",
 "tier": 1
 },
 {
+"id": "c-f48f388eef",
 "source": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
 "text": "ODNI published the Preliminary Assessment: Unidentified Aerial Phenomena on 25 June 2021.",
 "tier": 1
 },
 {
+"id": "c-f5b1158cf6",
 "source": "ICIG determination letter, 26 July 2022",
 "text": "The Intelligence Community Inspector General found David Grusch's complaint credible and urgent on 26 July 2022.",
 "tier": 1
 },
 {
+"id": "c-288c25ec1d",
 "source": "Inference from the documented locus of the UAP Disclosure Act edits, the FOIA denials and the AARO reporting chain",
 "text": "The concealment is administrative rather than geographic: the instruments that maintain it - classification decisions, contract vehicles, FOIA exemptions, conference-committee edits - are all executed in this city by identifiable officeholders. Reasoning: every documented act of restriction in the modern record traces to a Washington signature, not to a field site.",
 "tier": 3
 },
 {
+"id": "c-b90b4da1c5",
 "source": "Inference from reference counts in the research corpus",
 "text": "l-washington-dc and l-dc denote the same location and should be merged, with l-dc retained as canonical on volume of inbound references (142 versus 2). Reasoning: reference counts across the wave-1 corpus.",
 "tier": 3
 },
 {
+"id": "c-bf8b3432c2",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": "1962",
 "dateStart": "1958",
 "direction": "in",
+"edgeId": "e-819744685d",
 "edgeLabel": "Addressed at the Department of the Army, Washington 25, D. C.",
 "id": "arthur-g-trudeau",
 "l0": false,
@@ -71,6 +78,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-26",
 "direction": "in",
+"edgeId": "e-0d1042aa10",
 "edgeLabel": "Where the hearings happen",
 "id": "d-oversight",
 "l0": false,
@@ -97,6 +105,7 @@
 "dateEnd": "2025-09-09",
 "dateStart": "2023-07-26",
 "direction": "out",
+"edgeId": "e-560cc814c8",
 "edgeLabel": "All three modern UAP hearings were held on Capitol Hill",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -128,6 +137,7 @@
 "dateEnd": "1962",
 "dateStart": "1954",
 "direction": "in",
+"edgeId": "e-637132b95a",
 "edgeLabel": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
 "id": "philip-corso",
 "l0": false,

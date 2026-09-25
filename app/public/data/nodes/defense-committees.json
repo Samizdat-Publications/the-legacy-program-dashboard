@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-697089a824",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "10 U.S.C. 119(g) verbatim: 'In this section, the term \"defense committees\" means-- (1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.'",
 "tier": 1
 },
 {
+"id": "c-05ad704ea2",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "Amendment history from the GPO text: 2001 -- Pub. L. 107-107 substituted 'Subcommittee on Defense' for 'National Security Subcommittee' in (g)(2); 1999 -- Pub. L. 106-65 substituted 'Committee on Armed Services' for 'Committee on National Security'; 1996 -- Pub. L. 104-106 sec. 1502(a)(4) replaced the two original paragraphs, which had read 'the Committees on Armed Services and Appropriations of the Senate and House of Representatives' and 'the Defense Subcommittees of the Committees on Appropriations of the Senate and House of Representatives.'",
 "tier": 1
 },
 {
+"id": "c-15744e1361",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "Six committee/subcommittee units, each with a chairman and a ranking minority member, is the arithmetic behind the informal 'eight people' figure for a waived SAP -- but because the Appropriations Committee chair and the Defense Subcommittee chair are different individuals, the true ceiling under 119(e)(2) is twelve members, plus the staff directors added by DoD's own directive. Reasoning stated from 119(g) and DoDD 5205.07 (2010) para 4.f.",
 "tier": 3
 },
 {
+"id": "c-7d8455c18c",
 "source": "10 U.S.C. 119(g)",
 "text": "10 U.S.C. 119(g) defines 'defense committees' as the Armed Services and Appropriations Committees of the Senate and House plus the Defense Subcommittee of Senate Appropriations and the Subcommittee on Defense of House Appropriations - six bodies.",
 "tier": 1
 },
 {
+"id": "c-4bb52e6549",
 "source": "Amendment notes to 10 U.S.C. 119",
 "text": "Public Law 107-107 (28 December 2001) substituted 'Subcommittee on Defense' for 'National Security Subcommittee' in 119(g)(2); Public Law 106-65 (1999) substituted 'Committee on Armed Services' for 'Committee on National Security'.",
 "tier": 1
 },
 {
+"id": "c-a91d512285",
 "source": "10 U.S.C. 119(g), by omission",
 "text": "The House Committee on Oversight and Government Reform is not a defense committee within the meaning of 10 U.S.C. 119(g) and receives no report under that section.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-bcb85c4f6d",
 "edgeLabel": "119(g) defines who must be told",
 "id": "usc-10-119",
 "l0": true,
@@ -71,6 +78,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d71e487dd6",
 "edgeLabel": "defines the term for this section",
 "id": "usc-10-119",
 "l0": true,
@@ -92,6 +100,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "in",
+"edgeId": "e-3083fd0ed0",
 "edgeLabel": "Waiver narrows the audience to chairman and ranking minority member of each defense committee",
 "id": "usc-10-119e",
 "l0": false,

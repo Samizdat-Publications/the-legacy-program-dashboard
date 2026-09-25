@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-b32e81e07e",
 "source": "AARO UAP Records/Information Papers page",
 "text": "The report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, produced under a 2022 AARO contract with Oak Ridge National Laboratory.",
 "tier": 1
 },
 {
+"id": "c-cbdea9ee61",
 "source": "NewsNation, 11 July 2024; Popular Mechanics, 23 March 2026",
 "text": "The analysis concluded the material is a magnesium alloy and found no evidence of extraterrestrial origin; ORNL scientists examined it for technosignatures using scanning transmission electron microscopy after finding no biosignatures.",
 "tier": 2
 },
 {
+"id": "c-485adcff40",
 "source": "Gizmodo, 11 July 2024, quoting the published synopsis",
 "text": "Neither AARO nor ORNL could verify the specimen's historical origin.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-ca86180b03",
 "edgeLabel": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
 "id": "aaro",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-e9e8661c55",
 "edgeLabel": "Produced 'ORNL Synopsis: Analysis of a Metallic Specimen', April 2024",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
@@ -89,6 +94,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-ca86180b03",
 "label": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
 "note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
 "of": null,

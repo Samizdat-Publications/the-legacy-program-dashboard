@@ -5,126 +5,151 @@
 "band": "funding",
 "claims": [
 {
+"id": "c-3706adbd35",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "The annual reporting requirements in subsections (a) and (b) TERMINATED effective 31 December 2021. The statutory note reads: 'For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114-328, set out as a note under section 111 of this title.' Subsections (c) through (g) survive, and (e)(1) still cross-references the terminated (a) and (b).",
 "tier": 1
 },
 {
+"id": "c-e447459c4a",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "10 U.S.C. 119(a)(1): 'Not later than March 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs.' Subsection (a)(2) requires, for each SAP in the budget, a brief description, major milestones, actual cost for each prior fiscal year, and estimated total cost plus five out-years.",
 "tier": 1
 },
 {
+"id": "c-3980c68bb4",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "10 U.S.C. 119(b)(1): 'Not later than February 1 of each year, the Secretary of Defense shall submit to the defense committees a report that, with respect to each new special access program, provides--(A) notice of the designation of the program as a special access program; and (B) justification for such designation.' (b)(2) adds current total program cost estimate and 'an identification of existing programs or technologies that are similar to the technology, or that have a mission similar to the mission, of the program that is the subject of the notice.'",
 "tier": 1
 },
 {
+"id": "c-eee10d56ad",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "10 U.S.C. 119(c)(2): a report on a planned classification change or public declassification of a DoD SAP 'shall be submitted not less than 14 days before the date on which the proposed change or public announcement is to occur' -- but (c)(3) lets the Secretary submit it 'at any time before' if 'because of exceptional circumstances' the 14 days cannot be met, with an explanation.",
 "tier": 1
 },
 {
+"id": "c-3cd5d9469e",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "WAIVER / 'WAIVED SAP' MECHANISM. 10 U.S.C. 119(e)(1): 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.' (e)(2): 'If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.'",
 "tier": 1
 },
 {
+"id": "c-d6fd4f75dd",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "The statutory waiver in 119(e)(2) collapses the notified audience from the full defense committees to the chairman and ranking minority member of each of the six named defense committee/subcommittee units -- i.e. a maximum of eight members plus the committee chairs' cleared staff, and the delivery is a briefing 'jointly' rather than a written report to the committees. This is the legal definition of a 'waived' SAP.",
 "tier": 1
 },
 {
+"id": "c-548f203dde",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "10 U.S.C. 119(f): 'A special access program may not be initiated until--(1) the defense committees are notified of the program; and (2) a period of 30 days elapses after such notification is received.' Note that (f) is NOT among the subsections waivable under (e)(1), which reaches only subsections (a), (b), and (c).",
 "tier": 1
 },
 {
+"id": "c-f24b54af3c",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "10 U.S.C. 119(d): 'Whenever there is a modification or termination of the policy and criteria used for designating a program of the Department of Defense as a special access program, the Secretary of Defense shall promptly notify the defense committees of such modification or termination.' This is the hook that makes each reissuance of DoDD 5205.07 a reportable event.",
 "tier": 1
 },
 {
+"id": "c-a9165f5a43",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "10 U.S.C. 119(g) defines 'defense committees' as the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House.",
 "tier": 1
 },
 {
+"id": "c-8e6c12988d",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "REPORTING SUNSET. The GPO text of section 119 carries the note: 'Termination of Reporting Requirements -- For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114-328, set out as a note under section 111 of this title.' The FY2017 NDAA's blanket report-sunset provision thus terminated the statutory annual SAP report and the annual new-SAP notice as of 31 December 2021.",
 "tier": 1
 },
 {
+"id": "c-dcf155cdca",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "If the sec. 1061 sunset is read as operative, the only surviving mandatory congressional touchpoints in section 119 after 31 Dec 2021 are (c) declassification notice, (d) criteria-change notice, and (f) the 30-day pre-initiation notice -- i.e. the annual census of SAPs that lets Congress detect an unacknowledged program is precisely the piece that lapsed. Reasoning: (e) waives only (a),(b),(c); the sunset note names only (a) and (b). Whether DoD continued the report voluntarily is not established by any record located here.",
 "tier": 3
 },
 {
+"id": "c-459a97acb2",
 "source": "10 U.S.C. Sec. 119, current through the prelim edition of the US Code",
 "text": "10 U.S.C. Sec. 119(e) permits the Secretary of Defense to waive SAP reporting requirements where disclosure would harm national security, providing the information and justification only 'jointly to the chairman and ranking minority member of each of the defense committees.'",
 "tier": 1
 },
 {
+"id": "c-36d21d618b",
 "source": "David Grusch, sworn testimony, House Oversight Committee, 26 July 2023",
 "text": "'10 U.S. Code Section 119 discusses congressional oversight of SAPs, discusses the DEP/SecDef's ability to waive congressional reporting. However, the Gang of 8 is at least supposed to be notified if a... waived bigoted unacknowledged SAP is created and that is public law.'",
 "tier": 2
 },
 {
+"id": "c-9d88659ed9",
 "source": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "The waiver authority reads verbatim, as in effect on 20 August 2026: '(e)(1) The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis. (2) If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' The waiver is a waiver of INCLUSION IN A REPORT, not a waiver of disclosure - the withheld information and a written justification must still travel to twelve named seats.",
 "tier": 1
 },
 {
+"id": "c-e5fb75307c",
 "source": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "The recipient set is fixed by subsection (g) verbatim: 'In this section, the term \"defense committees\" means- (1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.' Six committee entities, each contributing a chairman and a ranking minority member, gives the twelve-seat notification group the board already tracks.",
 "tier": 1
 },
 {
+"id": "c-afbf5a9e5f",
 "source": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "MATERIAL NEW FINDING - THE REPORTS THE WAIVER ATTACHES TO HAVE LARGELY SUNSET. The Office of the Law Revision Counsel carries a statutory note under 10 U.S.C. 119 headed 'Termination of Reporting Requirements' which reads verbatim: 'For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114-328, set out as a note under section 111 of this title.' The annual special access program report under 119(a) and the new-program notice and justification report under 119(b) therefore terminated as statutory requirements on 31 December 2021. After that date the only report to which the 119(e)(1) waiver can attach is the 119(c) report on a planned classification change or public declassification announcement. This reshapes the board's question: for activity after 31 December 2021 there may be no 119(a) or 119(b) report in existence to waive information out of, which would make the absence of any 119(e)(2) delivery unsurprising rather than suspicious for that window - while for the period 1988 through 2021 the reports were mandatory and the waiver machinery was live.",
 "tier": 1
 },
 {
+"id": "c-00d2258dae",
 "source": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; and S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023 - https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm",
 "text": "Section 119 has not been amended since 2001. The source credit runs Pub. L. 100-180 (1987), Pub. L. 101-510 (1990), Pub. L. 104-106 (1996), Pub. L. 106-65 (1999), Pub. L. 107-107 (2001), and stops. The Senate Intelligence Committee's Sec. 1103 of S. 2103 as reported in June 2023, 'Modification of congressional oversight of special access programs', would have been the first amendment in twenty-two years; it does not appear in the Senate-passed Division M and Section 119 as it stands today shows no 2023 or 2024 amendment.",
 "tier": 1
 },
 {
+"id": "c-0061e1edb3",
 "source": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "Neither Sec. 1687 nor Sec. 7343 of Pub. L. 118-31 is set out as a statutory note under 10 U.S.C. 119. The notes carried under Section 119 are limited to the 1990 effective-date note, the termination-of-reporting note, and the 1987 initial-reports note. Whatever the FY2024 NDAA did to UAP funding, it did not attach itself to the Section 119 oversight architecture in the U.S. Code.",
 "tier": 1
 },
 {
+"id": "c-70d1404118",
 "source": "Full text of 10 U.S.C. 119, OLRC prelim, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "10 U.S.C. 119 makes no cross-reference to 50 U.S.C. 3348. The traffic runs one way: 3348 names 119 in order to exclude the Department of Defense from itself, and 119 does not name 3348 at all. The only external statute 119 cites is 31 U.S.C. 1105, on the President's budget submission.",
 "tier": 1
 },
 {
+"id": "c-8e9f1b3925",
 "source": "10 U.S.C. 119(a)(1)",
 "text": "10 U.S.C. 119(a)(1): 'Not later than March 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs.'",
 "tier": 1
 },
 {
+"id": "c-3f683b419e",
 "source": "10 U.S.C. 119(f)",
 "text": "10 U.S.C. 119(f): 'A special access program may not be initiated until - (1) the defense committees are notified of the program; and (2) a period of 30 days elapses after such notification is received.'",
 "tier": 1
 },
 {
+"id": "c-6c32322d7e",
 "source": "10 U.S.C. 119(b)(3)",
 "text": "10 U.S.C. 119(b)(3) defines 'new special access program' as 'a special access program that has not previously been covered in a notice and justification under this subsection.'",
 "tier": 1
 },
 {
+"id": "c-ba5c3111fd",
 "source": "Source credit, 10 U.S.C. 119",
 "text": "Section 119 was added by Public Law 100-180, div. A, title XI, sec. 1132(a)(1), 4 December 1987, 101 Stat. 1151.",
 "tier": 1
 },
 {
+"id": "c-d46cd36d5d",
 "source": "Full text of 10 U.S.C. 119 as of 12 August 2026",
 "text": "Section 119 contains no definition of 'special access program', no penalty provision, and no enforcement remedy for a committee that is not notified.",
 "tier": 1
 },
 {
+"id": "c-83a22c973b",
 "source": "Structural reading of 10 U.S.C. 119",
 "text": "Because every duty in section 119 is imposed on 'the Secretary of Defense', a program deliberately concealed from the Secretary of Defense generates no identifiable statutory violation by any named official. Reasoning: the statute has one obligor and no strict-liability provision reaching subordinate program managers or contractors.",
 "tier": 3
@@ -140,6 +165,7 @@
 "dateEnd": null,
 "dateStart": "2021-02-24",
 "direction": "in",
+"edgeId": "e-56a4443e8f",
 "edgeLabel": "ACCM sits below the definitional trigger of every SAP reporting statute",
 "id": "accm",
 "l0": false,
@@ -166,6 +192,7 @@
 "dateEnd": null,
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-bfb79d4a7a",
 "edgeLabel": "DOE contractor custody sits outside the DoD special access program reporting regime entirely",
 "id": "bechtel-nevada",
 "l0": false,
@@ -192,6 +219,7 @@
 "dateEnd": null,
 "dateStart": "2000",
 "direction": "in",
+"edgeId": "e-236a5189be",
 "edgeLabel": "Security-support primes administer the compartmentation the statute is supposed to make visible",
 "id": "booz-allen",
 "l0": false,
@@ -218,6 +246,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "out",
+"edgeId": "e-609fda187c",
 "edgeLabel": "the statute that fixes what Congress is told about SAP cost, and subsection (e) which suspends it",
 "id": "d-funding",
 "l0": false,
@@ -244,6 +273,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "out",
+"edgeId": "e-eb2a46d21f",
 "edgeLabel": "codified permanent law - the only statute governing what Congress is told about special access programs",
 "id": "d-legislation",
 "l0": false,
@@ -270,6 +300,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-7d04979860",
 "edgeLabel": "Grusch identified the Sec. 119 waiver as the statutory route by which programs escape committee reporting",
 "id": "david-grusch",
 "l0": false,
@@ -296,6 +327,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-bcb85c4f6d",
 "edgeLabel": "119(g) defines who must be told",
 "id": "defense-committees",
 "l0": false,
@@ -322,6 +354,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d71e487dd6",
 "edgeLabel": "defines the term for this section",
 "id": "defense-committees",
 "l0": false,
@@ -343,6 +376,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "out",
+"edgeId": "e-5bbffee70d",
 "edgeLabel": "Imposes the entire SAP reporting duty on the Secretary of Defense",
 "id": "dod",
 "l0": true,
@@ -364,6 +398,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-cd889583d8",
 "edgeLabel": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
 "id": "eo-13526",
 "l0": true,
@@ -385,6 +420,7 @@
 "dateEnd": null,
 "dateStart": "2009-12-29",
 "direction": "in",
+"edgeId": "e-27f41186c1",
 "edgeLabel": "Creates the programs the statute then reports on",
 "id": "eo-13526",
 "l0": true,
@@ -411,6 +447,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-00963cff71",
 "edgeLabel": "creates what the statute must report",
 "id": "eo-13526",
 "l0": true,
@@ -437,6 +474,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "in",
+"edgeId": "e-238537a140",
 "edgeLabel": "DoD regime: weakest waiver of the four",
 "id": "four-regime-map",
 "l0": false,
@@ -458,6 +496,7 @@
 "dateEnd": "2012",
 "dateStart": "2011",
 "direction": "in",
+"edgeId": "e-06e33ef452",
 "edgeLabel": "A program can be designed and formally requested without ever crossing the congressional reporting threshold",
 "id": "kona-blue",
 "l0": true,
@@ -484,6 +523,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-d09af927d0",
 "edgeLabel": "Sec. 1687 is Congress overriding the Sec. 119 waiver for one subject matter",
 "id": "ndaa-fy2024-1687",
 "l0": true,
@@ -510,6 +550,7 @@
 "dateEnd": "1987-12-04",
 "dateStart": "1987-12-04",
 "direction": "in",
+"edgeId": "e-6bedda1762",
 "edgeLabel": "Enacted section 119 on 4 December 1987",
 "id": "pl-100-180",
 "l0": false,
@@ -531,6 +572,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "in",
+"edgeId": "e-c58a677506",
 "edgeLabel": "Subsection (e) is the escape hatch inside the reporting statute",
 "id": "usc-10-119e",
 "l0": false,
@@ -552,6 +594,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-79f7d5edec",
 "edgeLabel": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
 "id": "usc-50-3348",
 "l0": false,
@@ -583,6 +626,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6a79a7612e",
 "edgeLabel": "excludes DoD, routing it to sec. 119",
 "id": "usc-50-3348",
 "l0": false,
@@ -609,6 +653,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f9eba23845",
 "edgeLabel": "created by 10 U.S.C. 119(e)(2) and defined by 119(g)",
 "id": "waived-sap-notification-group",
 "l0": true,
@@ -647,6 +692,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-56a4443e8f",
 "label": "ACCM sits below the definitional trigger of every SAP reporting statute",
 "note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
 "of": null,

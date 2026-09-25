@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-6deca28856",
 "source": "Navy range fouler reports, Navy FOIA reading room, 13 January 2023",
 "text": "Navy range fouler documentation names the F/A-18 aircrew including Commander David Fravor and Lt. Cmdr. Alex Dietrich, describing the object as 'solid white, smooth, with no edges ... approximately 46 feet in length.'",
 "tier": 1
 },
 {
+"id": "c-450cee6c03",
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
 "text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-d4bfb2b551",
 "edgeLabel": "Squadron that flew the intercept and produced the FLIR1 footage",
 "id": "nimitz-2004",
 "l0": true,

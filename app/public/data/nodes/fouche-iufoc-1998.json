@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-04015718c0",
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, page 1, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "The transcript's first four lines are: 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Both 'IUFOR' and 'Rothshild' are misspelled in the header of the document itself.",
 "tier": 1
 },
 {
+"id": "c-43898774b6",
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "It is written for live delivery and opens accordingly: 'GOOD AFTERNOON: My mother once told me that I was going to Hell if I didn't change my ways. Judging from the heat outside, I'd say I'm not too far from there.'",
 "tier": 1
 },
 {
+"id": "c-ee7142a20f",
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 5, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "It names the book as the occasion of the talk, at slide 5: 'I'm here to speak about Secret Government Technology, reverse engineering of Alien Artifacts, and the Top Secret MJ-12 committee, which I write about in my new book, Alien Rapture - The Chosen, with my co-author Brad Steiger.'",
 "tier": 1
 },
 {
+"id": "c-dcb56f1b63",
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 61 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "It attaches the claim to Aurora and to the Strategic Defense Initiative in the claimant's own voice, from slide 61 onward: 'up to 35% of the SDI funding was siphoned off to provide primary expenditures for the Air Force's most secret Black Program, which started in 1982. It is called - The Aurora Program.'",
 "tier": 1
 },
 {
+"id": "c-b13790a0fa",
 "source": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
 "text": "It presents the 'SR-75' 'Penetrator' as inside knowledge, at slide 62 onward: 'The SR-75, the first operational Aurora Program vehicle, went operational after 2 years of flight testing and modifications in 89. The top secret SR-75 is a hypersonic strategic reconnaissance, or SR spy plane, and is called the Penetrator. It is also a mothership.' It refers elsewhere to an 'SR-74 Scramp'.",
 "tier": 1
 },
 {
+"id": "c-8c07494d11",
 "source": "PDF metadata read directly from the file retrieved at https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , opened 2026-09-18",
 "text": "The PDF opened carries producer 'PDF-XChange 4.0.195.0 (Windows Seven Ultimate x64 Service Pack 1 (Build 7601))' and creation date D:20140113142726Z, with no title and no author recorded. It is 3,340,952 bytes over 62 pages and has a genuine text layer rather than being a scan.",
 "tier": 1
@@ -47,6 +53,7 @@
 "dateEnd": null,
 "dateStart": "2014-01-13",
 "direction": "out",
+"edgeId": "e-3e440c35a8",
 "edgeLabel": "Presentation transcript hosted by Check The Evidence",
 "id": "checktheevidence",
 "l0": false,
@@ -68,6 +75,7 @@
 "dateEnd": "1998-08",
 "dateStart": "1998-08",
 "direction": "in",
+"edgeId": "e-412983978d",
 "edgeLabel": "Author and copyright holder of the presentation transcript",
 "id": "edgar-fouche",
 "l0": false,
@@ -89,6 +97,7 @@
 "dateEnd": "1998-08",
 "dateStart": "1998-08",
 "direction": "out",
+"edgeId": "e-44cf405595",
 "edgeLabel": "The dated artefact that carries the claim; opened in full",
 "id": "tr-3b",
 "l0": true,

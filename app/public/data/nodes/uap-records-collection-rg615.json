@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-4a63fd3944",
 "source": "National Archives, UAP records research page, archives.gov/uap",
 "text": "The collection is designated Record Group 615 and was established pursuant to Secs. 1841-1843 of the FY2024 NDAA, P.L. 118-31.",
 "tier": 1
 },
 {
+"id": "c-71b51ad277",
 "source": "National Archives, UAP records research page, archives.gov/uap",
 "text": "NARA issued guidance to federal agencies on 'Transfer of Publicly Releasable Unidentified Anomalous Phenomena (UAP) Records' dated April 2025.",
 "tier": 1
 },
 {
+"id": "c-a84e69849b",
 "source": "P.L. 118-31, Sec. 1841(d)(2), GPO",
 "text": "Sec. 1841(d)(2) requires the NARA National Security Program Office, with the Information Security Oversight Office, to run a security programme for the postponed and yet-to-be-disclosed portion of the collection.",
 "tier": 1
 },
 {
+"id": "c-3fd7127194",
 "source": "Inference from the April 2025 guidance date against the deadline computed from the 22 December 2023 enactment date",
 "text": "That NARA's transfer guidance is dated April 2025, roughly six months after the statutory 300-day agency deadline of 17 October 2024, indicates the agency review requirement was not met on time.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2026",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-37f79c9b7b",
 "edgeLabel": "Agency compliance ran nineteen months past the statutory deadline",
 "id": "dow-uap-file-release-2026",
 "l0": false,
@@ -66,6 +71,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-796b5df899",
 "edgeLabel": "NARA is custodian without power to compel transmission",
 "id": "national-archives",
 "l0": false,
@@ -92,6 +98,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-3b5ac79b6b",
 "edgeLabel": "Secs. 1841-1843 created RG 615 at the National Archives",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,

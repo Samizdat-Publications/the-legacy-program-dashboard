@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-44f2a2afc8",
 "source": "Cash v. United States order of dismissal — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Cash v. United States, No. H-84-348 (S.D. Tex.), was dismissed by order dated 21 August 1986.",
 "tier": 2
 },
 {
+"id": "c-45605e6ea8",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "1986-08-21",
 "dateStart": "1980-12-29",
 "direction": "in",
+"edgeId": "e-24416f9cae",
 "edgeLabel": "The only injury case that reached federal court",
 "id": "d-medical",
 "l0": false,

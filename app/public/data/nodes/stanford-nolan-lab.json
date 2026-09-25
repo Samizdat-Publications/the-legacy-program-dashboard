@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-a61fcd4cb5",
 "source": "Sol Foundation Policy Briefing No. 3 summarising Nolan, Vallee, Jiang & Lemke (2022)",
 "text": "The laboratory applied SIMS and MIBI to the Council Bluffs samples at 200 nanometre lateral resolution and five-nanometre depth increments, finding no anomalous isotopic values but incomplete mixing of the constituent metals.",
 "tier": 1
 },
 {
+"id": "c-4e65ec016b",
 "source": "Garry Nolan to KQED, 14 June 2021",
 "text": "Nolan says government and aerospace-corporation representatives approached his laboratory about medical harm from claimed interactions with an anomalous craft, citing its blood-analysis capability.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2022",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-e8a651a623",
 "edgeLabel": "Analysis performed with MIBI, a Stanford-developed instrument",
 "id": "paper-nolan-vallee-2022",
 "l0": true,

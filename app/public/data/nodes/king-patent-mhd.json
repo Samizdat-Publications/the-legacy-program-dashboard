@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-a37187f95b",
 "source": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
 "text": "A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND IS NEVER EVIDENCE THAT THE THING WORKS. What US 3,322,374 claims is magnetohydrodynamic propulsion: coils along the craft's axis driven by polyphase alternating current produce a travelling point of maximum magnetic flux density running from the leading to the trailing end, which induces eddy currents in the surrounding ionised fluid and drives that fluid backwards. The patent is a linear induction motor using the atmosphere as its armature.",
 "tier": 1
 },
 {
+"id": "c-d1765ef8ec",
 "source": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
 "text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., 925 Goodwood Road, Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
 "tier": 1
 },
 {
+"id": "c-93c62dc61b",
 "source": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
 "text": "NO ASSIGNEE, NO GOVERNMENT INTEREST AND NO SECRECY ORDER APPEAR IN THE DOCUMENT. The words 'assignor', 'assigned', 'government', 'Navy', 'Army', 'NASA' and 'secrecy' appear zero times across all seven pages. The inventor is a private individual at a home address.",
 "tier": 1
 },
 {
+"id": "c-e2b8df3ec4",
 "source": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
 "text": "THE ZERO-COUNTS, WHICH ARE THE POINT, because a count is checkable and an adjective is not. Across all seven pages of US 3,322,374: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. The one apparent hit for 'air force' is the phrase 'the ionized air force vector'.",
 "tier": 1
 },
 {
+"id": "c-fe53bb50b0",
 "source": "Reasoning over the opened text of US 3,322,374 against the claim recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 2, https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18",
 "text": "Stated inference, and it is the strand's whole product. The patent was put forward as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. The document contains the word scalar zero times and the word spin zero times. The gap between the citation and the document is not a matter of interpretation and requires no expertise to check.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": "1967-05-30",
 "dateStart": "1967-05-30",
 "direction": "out",
+"edgeId": "e-fffece6570",
 "edgeLabel": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
 "id": "arv-fluxliner",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": "1967-05-30",
 "dateStart": "1967-05-30",
 "direction": "out",
+"edgeId": "e-99452bcd03",
 "edgeLabel": "In the strand because of what was claimed for it, not because of what is in it",
 "id": "d-exotic",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": "2010-11-21",
 "dateStart": "1967-05-30",
 "direction": "out",
+"edgeId": "e-e818fd4c1b",
 "edgeLabel": "Same mechanism, two documents, forty-three years apart, neither exotic",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "l0": true,
@@ -108,6 +116,7 @@
 "dateEnd": "1992-06",
 "dateStart": "1992-06",
 "direction": "in",
+"edgeId": "e-08b7e5fa8d",
 "edgeLabel": "The same mechanism, independently built and taken to sea in June 1992",
 "id": "yamato-1",
 "l0": false,
@@ -146,6 +155,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-fffece6570",
 "label": "Cited FOR the ARV account's 'Scalar Physics' callout and does not support it",
 "note": "THE STRAND'S FOUNDING EDGE AND ITS DIRECTION OF READING IS LOAD-BEARING. This edge records a FAILED CITATION, not a connection. The patent was offered as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. Word counts across all seven pages: scalar 0, spin 0, gravity 0, anti-gravity 0, zero point 0. NOBODY DENIED ANYTHING HERE: a real, openable, mundane document simply does not say what was said of it, which is why the verdict is association and not directed.",
 "of": null,

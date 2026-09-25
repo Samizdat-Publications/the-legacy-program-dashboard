@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-ba862b6022",
 "source": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "George Knapp co-hosts the UFO-focused Weaponized podcast alongside Jeremy Corbell.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": "2026",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-1f8c08fa28",
 "edgeLabel": "Co-host",
 "id": "jeremy-corbell",
 "l0": false,

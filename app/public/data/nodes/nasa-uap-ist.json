@@ -5,21 +5,25 @@
 "band": "research",
 "claims": [
 {
+"id": "c-7f45c0a002",
 "source": "NASA UAP Independent Study Team Final Report; NASA UAP program page",
 "text": "The team was chaired by David Spergel with Daniel Evans as designated federal official, and its final report was released 14 September 2023.",
 "tier": 1
 },
 {
+"id": "c-8f8d08e26f",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
 "text": "'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
 "tier": 1
 },
 {
+"id": "c-f4dad98fe7",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
 "text": "The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and developing crowdsourced smartphone-based citizen reporting.",
 "tier": 1
 },
 {
+"id": "c-07e362993f",
 "source": "The Debrief, 14 September 2023",
 "text": "NASA announced a Director of UAP Research at the 14 September 2023 briefing without naming the appointee; a subsequent statement identified Mark McInerney.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-eac6f1a89c",
 "edgeLabel": "Shared reporting-reform agenda: ASRS and FAA pilot reporting",
 "id": "americans-for-safe-aerospace",
 "l0": true,
@@ -61,6 +66,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-6f1436abda",
 "edgeLabel": "Panel worked under sustained public harassment",
 "id": "david-spergel",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-d880ef5a6a",
 "edgeLabel": "Chaired the NASA UAP Independent Study Team",
 "id": "david-spergel",
 "l0": false,
@@ -103,6 +110,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-033f7a4254",
 "edgeLabel": "Member of the study team",
 "id": "michael-gold",
 "l0": false,
@@ -129,6 +137,7 @@
 "dateEnd": "2023-09-14",
 "dateStart": "2022-06-09",
 "direction": "in",
+"edgeId": "e-9a9ef6ce1c",
 "edgeLabel": "NASA chartered and published the Independent Study Team report",
 "id": "nasa",
 "l0": true,
@@ -150,6 +159,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-db853ade8a",
 "edgeLabel": "NASA science chief at the report release briefing",
 "id": "nicola-fox",
 "l0": false,
@@ -171,6 +181,7 @@
 "dateEnd": "2023",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-2fa947f072",
 "edgeLabel": "Both diagnose the same evidentiary deficit",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
@@ -197,6 +208,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-e08a48e3fc",
 "edgeLabel": "Metadata stripping defeats the study team's core recommendation",
 "id": "pursue-releases",
 "l0": true,

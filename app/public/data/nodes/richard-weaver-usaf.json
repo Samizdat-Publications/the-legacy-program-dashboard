@@ -21,21 +21,25 @@
 ],
 "claims": [
 {
+"id": "c-00cd4db259",
 "source": "The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995), publisher's note; DTIC ADA326148 abstract",
 "text": "The 1995 report was written as a result of Col. Weaver's and Lt. McAndrew's efforts to locate records explaining the events of July 1947, and duplicates the information provided to the Secretary of the Air Force and to the General Accounting Office in response to Rep. Steven H. Schiff's request.",
 "tier": 1
 },
 {
+"id": "c-8e1caa1937",
 "source": "The Roswell Report: Fact versus Fiction (1995), Attachment 32",
 "text": "Attachment 32 of the 1995 report is Lt. McAndrew's synopsis describing Project Mogul, the top-priority classified balloon-borne experiment programme advanced as the explanation for the Roswell Incident.",
 "tier": 1
 },
 {
+"id": "c-3503578221",
 "source": "Quoted in The Roswell Report: Case Closed (1997), Section 1.1",
 "text": "The July 1994 report states that at the express written direction of the Secretary of the Air Force, former and retired Air Force members and civilian contract scientists were released from any nondisclosure agreements they may have entered into regarding the relevant past classified activities.",
 "tier": 1
 },
 {
+"id": "c-f9bc0c2a41",
 "source": "Inference from the tasking as described in the report itself",
 "text": "The Secretary's decision to route the Roswell inquiry to the Director of Security and Special Program Oversight rather than to Air Force History or Public Affairs indicates that the department expected any responsive material to sit inside special access channels. Reasoning: SAF oversight directorates exist to see into compartments that ordinary staff offices cannot.",
 "tier": 3
@@ -53,6 +57,7 @@
 "dateEnd": "1997",
 "dateStart": "1991",
 "direction": "out",
+"edgeId": "e-62b6651927",
 "edgeLabel": "The Air Force reports were the institutional response to the Randle-Schmitt books",
 "id": "kevin-randle",
 "l0": false,
@@ -74,6 +79,7 @@
 "dateEnd": "1995",
 "dateStart": "1994-07",
 "direction": "out",
+"edgeId": "e-8b2eb4ee63",
 "edgeLabel": "Authored the Air Force's report to the Secretary and GAO",
 "id": "roswell-report-1995",
 "l0": false,
@@ -110,6 +116,7 @@
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-62b6651927",
 "label": "The Air Force reports were the institutional response to the Randle-Schmitt books",
 "note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
 "of": {

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-33c2d87a12",
 "source": "https://www.aaro.mil/About/Leaders/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Dr. Jon T. Kosloski is Director of AARO; his background is technical and leadership positions within the Research Directorate of the National Security Agency, with a Johns Hopkins PhD in electrical engineering focused on quantum optics devices for receiving weak phase-encoded signals.",
 "tier": 2
 },
 {
+"id": "c-b2872ef380",
 "source": "https://www.aaro.mil/",
 "text": "AARO's homepage carries a banner for 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' linking to war.gov/UFO, and a banner for 'UAP Records from NARA'.",
 "tier": 1
 },
 {
+"id": "c-0f989f4879",
 "source": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/",
 "text": "AARO sponsored an invite-only UAP research workshop in the Washington DC area in early August 2025, officially hosted by Associated Universities, Inc., with roughly 40 government, academic and independent researchers; Pentagon spokesperson Sue Gough said AARO recognises 'input from the scientific and academic community is critical to its work.'",
 "tier": 2
 },
 {
+"id": "c-b876ca9781",
 "source": "https://www.aaro.mil/About/Leaders/",
 "text": "AARO's Leaders page names only the Director; no deputy director, chief scientist or historian is publicly identified as of 12 August 2026. Reasoning: direct inspection of aaro.mil/About/Leaders/.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2026-07-21",
 "direction": "in",
+"edgeId": "e-d11af2add4",
 "edgeLabel": "no evidence of captured or exploited UAP materials, while writing custody procedures for them",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2025-05-21",
 "direction": "in",
+"edgeId": "e-4e88156cdd",
 "edgeLabel": "first purpose-built case system, solicited May 2025",
 "id": "aaro-jwics-case-management-2025",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "2024-08-26",
 "direction": "in",
+"edgeId": "e-6d09f96322",
 "edgeLabel": "directs",
 "id": "jon-kosloski",
 "l0": false,
@@ -103,6 +110,7 @@
 "dateEnd": null,
 "dateStart": "2026-05-08",
 "direction": "out",
+"edgeId": "e-334bde0bd4",
 "edgeLabel": "signposts users to a channel it does not run",
 "id": "war-gov-ufo-portal",
 "l0": false,
@@ -139,6 +147,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-d11af2add4",
 "label": "no evidence of captured or exploited UAP materials, while writing custody procedures for them",
 "note": "The report rejects claims that the USG possesses recovered UAP material while stating AARO is developing procedures for handling such material should it come into USG possession.",
 "of": {

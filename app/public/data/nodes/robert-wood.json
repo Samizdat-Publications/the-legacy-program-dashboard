@@ -32,11 +32,13 @@
 ],
 "claims": [
 {
+"id": "c-356cdcb06c",
 "source": "Robert M. Wood's own repeated public account, including via the majesticdocuments.com archive he co-founded",
 "text": "Wood spent his career at McDonnell Douglas Astronautics and ran a company-funded study of unidentified craft from the Huntington Beach facility in the late 1960s.",
 "tier": 2
 },
 {
+"id": "c-00e22a0199",
 "source": "Board inference from Wood's account and DoDI 3204.01 IR&D structure",
 "text": "McDonnell Douglas's interest was corporate self-protection - a prime contractor conducting proprietary research into an aerospace capability it did not possess. Reasoning: this matches the incentive structure later codified in DoD IR&D policy and named by Grusch, but no McDonnell Douglas internal record of the study has been released.",
 "tier": 3
@@ -54,6 +56,7 @@
 "dateEnd": "1970",
 "dateStart": "1968",
 "direction": "out",
+"edgeId": "e-c5689e8ecf",
 "edgeLabel": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
 "id": "mcdonnell-douglas",
 "l0": false,

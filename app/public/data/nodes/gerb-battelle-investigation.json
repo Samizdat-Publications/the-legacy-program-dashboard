@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-254500d618",
 "source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
 "text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
 "tier": 1
 },
 {
+"id": "c-e3c3593fbb",
 "source": "UAP Gerb, Battelle investigation description, 18 February 2024",
 "text": "Battelle studied UAP material, likely a shape-memory metallic alloy found at the 1947 Roswell crash site and now referred to as nitinol, as documented by Jacques Vallee with a supporting paper trail.",
 "tier": 2
 },
 {
+"id": "c-3770c161f2",
 "source": "UAP Gerb, Battelle investigation description, 18 February 2024",
 "text": "Battelle worked with the US government and USAF from the 1950s to create a machine index categorising UFO reports and to quell public interest in the phenomenon.",
 "tier": 2
 },
 {
+"id": "c-f4697d95e9",
 "source": "Citation list published in the video description, 18 February 2024",
 "text": "The investigation cites retrievable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC Research and Development Reports at the UNT digital library, and the Defense.gov Moultrie roundtable transcript.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "2026",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-214af5f137",
 "edgeLabel": "Alleges Battelle studied Roswell-derived shape-memory alloy",
 "id": "battelle",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-f3d2dd5bb0",
 "edgeLabel": "Relies on Vallee's documented nitinol paper trail",
 "id": "jacques-vallee",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1955",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-7800a3793b",
 "edgeLabel": "Battelle's Project Stork produced Special Report No. 14",
 "id": "project-blue-book",
 "l0": true,
@@ -98,6 +105,7 @@
 "dateEnd": "2024",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-8645dde54a",
 "edgeLabel": "Traces a modern line from Battelle to AARO messaging",
 "id": "sean-kirkpatrick",
 "l0": false,
@@ -119,6 +127,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-81f6625d9e",
 "edgeLabel": "Gerb's first corporate investigation, with full primary citations",
 "id": "uap-gerb",
 "l0": false,

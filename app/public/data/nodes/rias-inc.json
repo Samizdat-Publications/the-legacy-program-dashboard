@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-6dc5a38fcc",
 "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, participants list",
 "text": "The participants list of the January 1957 Chapel Hill conference prints 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore', establishing RIAS as a corporate entity in Baltimore with staff at the conference.",
 "tier": 1
 },
 {
+"id": "c-6565f681f1",
 "source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 conference report",
 "text": "RIAS was proposed by George S. Trimble of the Glenn L. Martin Company as an 'industrial version of the Institute for Advanced Study', explicitly to study gravity, in a letter to Bryce DeWitt dated 10 June 1955.",
 "tier": 2
 },
 {
+"id": "c-2f8dab4fee",
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context'",
 "text": "Louis Witten 'was the first researcher hired by RIAS, of the Glenn Martin Company.' The institute was 'industry-sponsored, and not ensconced in a university', in deliberate contrast with the Institute of Field Physics placed inside the University of North Carolina.",
 "tier": 2
 },
 {
+"id": "c-c5d1c6c08d",
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context'; AIP catalog abstract for the Louis Witten oral history",
 "text": "Nothing read shows RIAS producing gravity-control results. The Chapel Hill participants recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research', and Witten's documented output is classical general relativity.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-a37eca98c8",
 "edgeLabel": "Trimble proposed RIAS as an industrial institute for advanced study",
 "id": "george-trimble",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1955",
 "direction": "in",
+"edgeId": "e-5e2f5ae8fc",
 "edgeLabel": "The academic counterpart to the Martin company's own institute, deliberately kept separate",
 "id": "institute-of-field-physics",
 "l0": true,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-d52c23f842",
 "edgeLabel": "RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here",
 "id": "lockheed-martin",
 "l0": true,
@@ -98,6 +105,7 @@
 "dateEnd": "1957",
 "dateStart": "1957",
 "direction": "out",
+"edgeId": "e-ef94fc0337",
 "edgeLabel": "Witten represented RIAS at the 1957 Chapel Hill gravitation conference",
 "id": "louis-witten",
 "l0": false,
@@ -119,6 +127,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-85c028b1f6",
 "edgeLabel": "Reports Martin building a new laboratory for the Research Institute for Advanced Study",
 "id": "talbert-gravity-series-1955",
 "l0": true,

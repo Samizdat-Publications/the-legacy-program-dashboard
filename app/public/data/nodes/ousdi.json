@@ -5,26 +5,31 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-6ea53c64b3",
 "source": "Packet presented to DEPSECDEF, 17 November 2009",
 "text": "USD(I) James Clapper recommended against establishing a Special Access Program for the program in November 2009.",
 "tier": 1
 },
 {
+"id": "c-8e70eb29fa",
 "source": "Susan Gough, 13 June 2019",
 "text": "DoD states 'Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA.'",
 "tier": 1
 },
 {
+"id": "c-ded8b88a4c",
 "source": "Inference from the absence of any such document across a decade of FOIA litigation and requests",
 "text": "No AATIP charter, tasking document or organisational chart covering the post-2010 period has ever been released by OUSD(I), which means DoD's denial of Elizondo's role rests entirely on press guidance rather than on any producible record.",
 "tier": 3
 },
 {
+"id": "c-0c96e4918d",
 "source": "Elizondo resignation letter, OSD/JS FOIA 18-F-0324",
 "text": "Elizondo's title within OUSD(I) at resignation was Director, National Programs Special Management Staff, effective date of resignation 4 October 2017.",
 "tier": 1
 },
 {
+"id": "c-8a30e91e1e",
 "source": "DoD emails released under FOIA via The Black Vault",
 "text": "OUSD(I) officials coordinated public messaging on Elizondo and AATIP in May 2019, with an internal warning that 'the Department may be putting itself in an awkward position of both contradicting previous statements' and a directive that 'we will have to keep our messages in synch.'",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-5ceeee48f0",
 "edgeLabel": "originally placed under USD(I&S)",
 "id": "aaro",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d9faad99ea",
 "edgeLabel": "the OSD element with policy authority over intelligence, counterintelligence, security and sensitive activities",
 "id": "d-structure",
 "l0": false,
@@ -92,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "2003",
 "direction": "out",
+"edgeId": "e-05472f762d",
 "edgeLabel": "OSD principal for intelligence and security policy in the SAP enterprise",
 "id": "dod-sapco",
 "l0": true,
@@ -113,6 +121,7 @@
 "dateEnd": "2017",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-b46b67f432",
 "edgeLabel": "served in OUSD(I) through October 2017",
 "id": "luis-elizondo",
 "l0": false,
@@ -139,6 +148,7 @@
 "dateEnd": "2026",
 "dateStart": "1994",
 "direction": "in",
+"edgeId": "e-ede027794e",
 "edgeLabel": "Non-Covert Action Programs alleged to carry waived reporting requirements",
 "id": "manhattan-project-2",
 "l0": true,
@@ -160,6 +170,7 @@
 "dateEnd": "2019",
 "dateStart": "2010",
 "direction": "in",
+"edgeId": "e-6e9f689760",
 "edgeLabel": "Director for Defense Intelligence (Collection & Special Programs); Elizondo's superior c.2010-2012",
 "id": "neill-tipton",
 "l0": false,
@@ -181,6 +192,7 @@
 "dateEnd": null,
 "dateStart": "2021-06-25",
 "direction": "out",
+"edgeId": "e-3aca902dec",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment",
 "id": "odni",
 "l0": true,
@@ -214,6 +226,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "undirected",
+"edgeId": "e-ede027794e",
 "label": "Non-Covert Action Programs alleged to carry waived reporting requirements",
 "note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
 "of": null,

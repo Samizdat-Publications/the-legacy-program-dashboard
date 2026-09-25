@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-a716c92bc3",
 "source": "Ralph Blumenthal, The New York Times, 23 July 2020, on Davis's own account",
 "text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019.",
 "tier": 2
 },
 {
+"id": "c-f5b82c2811",
 "source": "The New York Times, 23 July 2020",
 "text": "Davis said he gave a classified briefing to a Defense Department agency as recently as March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
 "tier": 2
 },
 {
+"id": "c-081c8e6fc6",
 "source": "Harry Reid quoted in The New York Times, 23 July 2020",
 "text": "Harry Reid told the same reporter that it is 'extremely important that information about the discovery of physical materials or retrieved craft come out'.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-98f38e4602",
 "edgeLabel": "Briefed SASC staff on 21 Oct 2019 and SSCI members on 23 Oct 2019",
 "id": "eric-davis",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-63ae0cc411",
 "edgeLabel": "Delivered to the SASC professional staff cohort McConnell belonged to",
 "id": "kirk-mcconnell",
 "l0": false,

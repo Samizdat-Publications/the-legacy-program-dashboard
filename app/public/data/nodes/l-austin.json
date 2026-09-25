@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-80b8dfebce",
 "source": "Author block, DIA-08-1004-004",
 "text": "DIA-08-1004-004 gives the author's address as EarthTech International, Inc., 11855 Research Blvd, Austin, TX 78759.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "1991",
 "direction": "out",
+"edgeId": "e-6752ca6d3a",
 "edgeLabel": "11855 Research Blvd - the address printed on a DIA reference document",
 "id": "earthtech-international",
 "l0": true,

@@ -5,31 +5,37 @@
 "band": "research",
 "claims": [
 {
+"id": "c-e5d9777a75",
 "source": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, p. 1 and continuation p. 36. Page image at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
 "text": "The series lists the firms: 'Aircraft industry firms now participating or actively interested in gravity include the Glenn L. Martin Co. of Baltimore ... Convair of San Diego ... Bell Aircraft of Buffalo ... and Sikorsky Division of United Aircraft', and adds 'Lear, Inc., of Santa Monica ... Clarke Electronics, of Palm Springs, Calif., and the Sperry Gyroscope Division of Sperry-Rand Corp., of Great Neck, L. I.'",
 "tier": 1
 },
 {
+"id": "c-024dd7f9f8",
 "source": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, p. 1. Page image at https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
 "text": "Lawrence D. Bell, founder and president of Bell Aircraft Corp. of Buffalo, is quoted directly: 'Aviation as we know it is on the threshold of amazing new concepts', and 'Our next step will be to prove that we can operate outside the earth's atmosphere and the third will be to operate outside the gravity of the earth.'",
 "tier": 1
 },
 {
+"id": "c-e635597430",
 "source": "Talbert, New York Herald Tribune, 20 November 1955 (caption and continuation p. 36) and 22 November 1955 (continuation p. 10). https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
 "text": "George S. Trimble jr. is identified as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and is quoted: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
 "tier": 1
 },
 {
+"id": "c-b9dae10855",
 "source": "Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36. https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
 "text": "The series reports the Chapel Hill institute at its founding, under an earlier name: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
 "tier": 1
 },
 {
+"id": "c-7586b21c6b",
 "source": "All three articles read in full: https://archive.org/download/talbert1ny/talbert1ny_djvu.txt, https://archive.org/download/talbert2ny/talbert2ny_djvu.txt, https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
 "text": "Thomas Townsend Brown is named in none of the three articles, and neither Winterhaven nor any Navy or Air Force electrogravitics contract appears in them.",
 "tier": 1
 },
 {
+"id": "c-6770406ef5",
 "source": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:34:20 to 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
 "text": "On the Danny Jones Podcast, episode 248, 8 July 2024, at 2:34:20 to 2:35:18, Jason Reza Jorjani dated the Herald Tribune reporting to 1953, attributed it to Martin's chief executive, and said the executive claimed Manhattan-Project-scale funding could put such engines into production in a few years. The articles are dated November 1955, the speaker in them is a vice-president in charge of advanced design planning, and the comparison he draws is to the time the first atom bomb took rather than to its funding.",
 "tier": 2
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-790a739625",
 "edgeLabel": "Names Convair of San Diego, then a division of this node, among the firms interested in gravity",
 "id": "general-dynamics",
 "l0": false,
@@ -66,6 +73,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6a9fe39af6",
 "edgeLabel": "Quoted by name as Martin's vice-president in charge of advanced design planning",
 "id": "george-trimble",
 "l0": false,
@@ -87,6 +95,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-9c01aefec0",
 "edgeLabel": "Records the UNC gravity institute approved with Gray's approval, he having by then retired as president",
 "id": "gordon-gray",
 "l0": false,
@@ -108,6 +117,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c5ab5baeae",
 "edgeLabel": "Reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics",
 "id": "institute-of-field-physics",
 "l0": true,
@@ -129,6 +139,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-85c028b1f6",
 "edgeLabel": "Reports Martin building a new laboratory for the Research Institute for Advanced Study",
 "id": "rias-inc",
 "l0": false,
@@ -150,6 +161,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-16faf59c72",
 "edgeLabel": "Names the Sperry Gyroscope Division of Sperry-Rand among the firms on the gravity problem",
 "id": "sperry-rand",
 "l0": false,

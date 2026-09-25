@@ -8,21 +8,25 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-f7f6299b41",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The 9 January 2018 DIA list credits item 15, \"An Introduction to the Statistical Drake Equation\", to \"Dr Claudio Maccone, International Academy of Astronautics\".",
 "tier": 1
 },
 {
+"id": "c-389cd8735a",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
 "text": "The released DIRD reproduces at Appendix B the underlying conference paper \"The Statistical Drake Equation\" with the byline intact, reading \"Claudio Macc[one], Co-Vice Chair, SETI Permanent Study Group, International Academy of Astronautics\", corroborating the DIA list attribution from inside the document itself even though the cover author block is redacted under (b)(6). OCR of the scan is degraded; the surname renders as \"Maccolle\" and SETI as \"SHTI\".",
 "tier": 1
 },
 {
+"id": "c-ea46211279",
 "source": "https://www.seti.org/news/claudio-maccone/",
 "text": "Maccone was appointed Director for Scientific Space Exploration by the International Academy of Astronautics in 2010 and chaired the IAA SETI Permanent Committee from 2012; he died in 2025.",
 "tier": 1
 },
 {
+"id": "c-8acd6236ca",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
 "text": "Maccone co-authored with H. E. Puthoff and E. W. Davis, \"Levi-Civita effect in the polarizable vacuum (PV) representation of general relativity\", Gen. Relativ. Grav. 37, 483 (2005), which appears as reference 19 of Puthoff's own DIRD.",
 "tier": 1
@@ -38,6 +42,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-e698a82096",
 "edgeLabel": "commissioned subject-matter author",
 "id": "aawsap",
 "l0": true,
@@ -69,6 +74,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a1a3034528",
 "edgeLabel": "authored",
 "id": "dird-an-introduction-to-the-statistical-drake",
 "l0": false,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-ade42be27b",
 "source": "Kyodo News (English), 9 May 2026, indexed via Google News",
 "text": "Kyodo News headline, 9 May 2026: 'UFO footage disclosed by U.S. shows football-shaped object near Japan.'",
 "tier": 2
 },
 {
+"id": "c-b379079a2d",
 "source": "The Japan Times, 11 May 2026, indexed via Google News",
 "text": "The Japan Times headline, 11 May 2026: 'Tokyo analyzing Pentagon UFO file trove with sightings near Japan.'",
 "tier": 2
 },
 {
+"id": "c-3b192829bf",
 "source": "International Business Times UK, 13 May 2026, indexed via Google News",
 "text": "International Business Times UK headline, 13 May 2026: 'Japan Confirms Possession of UAP Footage After Reviewing Pentagon Videos Near Japanese Airspace.'",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2026-05-13",
 "dateStart": "2026-05-08",
 "direction": "out",
+"edgeId": "e-3918674d0d",
 "edgeLabel": "both are allied-state responses to the same May 2026 US release",
 "id": "ev-argentina-bariloche-1995",
 "l0": false,

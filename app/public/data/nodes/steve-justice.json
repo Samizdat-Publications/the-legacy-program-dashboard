@@ -32,16 +32,19 @@
 ],
 "claims": [
 {
+"id": "c-a6f44c2515",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
 "text": "Listed in TTSA's Form 1-K as Director of Advanced Programs and Technology, age 61, part-time, recently retired as a Program Director from Lockheed Martin Advanced Development Programs (Skunk Works) after 31 years.",
 "tier": 1
 },
 {
+"id": "c-8dec80810b",
 "source": "TTSA ADAM Research Project announcement, July 2019, as reported by Wikipedia's To The Stars Inc. entry and contemporaneous coverage",
 "text": "Stated of the ADAM specimens that their 'structure and composition are not from any known existing military or commercial application.'",
 "tier": 2
 },
 {
+"id": "c-37f73d754f",
 "source": "PR Newswire, 17 October 2019",
 "text": "Quoted in TTSA's 17 October 2019 CRADA press release: 'This cooperative research agreement brings additional, critically important expertise.'",
 "tier": 2
@@ -57,6 +60,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-2e18001412",
 "edgeLabel": "Justice, ex-Lockheed Skunk Works Advanced Systems director, fronted the acquisition",
 "id": "adam-research-project",
 "l0": true,
@@ -78,6 +82,7 @@
 "dateEnd": "2020",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-78425ef1c5",
 "edgeLabel": "Public technical voice: material 'not from any known existing military or commercial application'",
 "id": "adam-research-project",
 "l0": true,
@@ -104,6 +109,7 @@
 "dateEnd": "2020",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-a6f8bbf8e9",
 "edgeLabel": "Aerospace Division Director then COO (2017-2020)",
 "id": "ttsa",
 "l0": true,

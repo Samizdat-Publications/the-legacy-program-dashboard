@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-485f919990",
 "source": "UAP Gerb, 'Off-World Technologies Division - UAP Technology Reverse Engineering', published 17 July 2024",
 "text": "A US Army Green Beret witness identified as 'RA' states that between 2013 and 2015 he was taken deep underground at a special weapons centre near Crane, Indiana to an 'Off-World Technologies Division' holding a basketball-sized sphere with an indentation and a clear tablet-like device projecting symbology, both described as weapons owing to energetic output when recovered from a craft, and both said to interact with human consciousness.",
 "tier": 2
 },
 {
+"id": "c-6c334965aa",
 "source": "UAP Gerb, 17 July 2024",
 "text": "Gerb connects the division to SAIC and Sandia National Laboratories.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2015",
 "dateStart": "2013",
 "direction": "out",
+"edgeId": "e-eaf0c80fd8",
 "edgeLabel": "Alleged SAIC and Sandia connections to the division",
 "id": "saic",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-a4e1cc5b45",
 "edgeLabel": "Gerb documented the first-hand witness account",
 "id": "uap-gerb",
 "l0": false,

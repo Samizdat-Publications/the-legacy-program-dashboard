@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-1ec66d6ba5",
 "source": "Ministério da Saúde CNES open data, establishment 2761041",
 "text": "CNES record 2761041 registers the HOSPITAL REGIONAL DO SUL DE MINAS at Rua Rui Barbosa 158, Centro, Varginha, MG, CEP 37002-140, under municipal administrative sphere, with continuous 24-hour attendance and SUS outpatient service.",
 "tier": 1
 },
 {
+"id": "c-c3541cb5e1",
 "source": "Ministério da Saúde CNES open data, município 317070",
 "text": "Other hospitals registered in Varginha in the same national register include Hospital Bom Pastor (CNES 2761092, Fundação Hospitalar do Município de Varginha) and Hospital Unimed Varginha (CNES 2761319).",
 "tier": 1
 },
 {
+"id": "c-441832e00a",
 "source": "Inference from the CNES register",
 "text": "The identification of the 'Hospital Regional de Varginha' of the 1996 case narrative with the registered Hospital Regional do Sul de Minas is a reasoned match on name, city and the fact that it is the only regional hospital in the municipal register. Reasoning: no contemporaneous 1996 hospital document was obtained to confirm the identification.",
 "tier": 3
 },
 {
+"id": "c-bb782130f6",
 "source": "Research status",
 "text": "No hospital admission, transfer or incident record from January 1996 was located in this pass; the custody sequence at this facility remains testimony-based and is a wave-4 target for Brazilian archival and municipal records requests.",
 "tier": 3
 },
 {
+"id": "c-8788414d6b",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-03b4dc1205",
 "edgeLabel": "Varginha discussed in a 2024 meeting with AARO staff",
 "id": "aaro",
 "l0": true,
@@ -71,6 +77,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-ae2530c648",
 "edgeLabel": "Hospital duty neurosurgeon described the being to Luna on the Hill",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -102,6 +109,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-55af5adca8",
 "edgeLabel": "Burlison took the Varginha hospital testimony and pressed for more witnesses",
 "id": "eric-burlison",
 "l0": false,
@@ -133,6 +141,7 @@
 "dateEnd": "1996-01",
 "dateStart": "1996-01",
 "direction": "out",
+"edgeId": "e-fab97a3485",
 "edgeLabel": "The hospital is a named custody point in the Varginha sequence",
 "id": "ev-varginha-1996",
 "l0": false,
@@ -164,6 +173,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-35edaff45d",
 "edgeLabel": "Girao backed Varginha hospital witnesses in Washington",
 "id": "senado-brasil",
 "l0": true,

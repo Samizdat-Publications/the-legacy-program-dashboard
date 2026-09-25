@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-0fee6c99d8",
 "source": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
 "text": "On 10 December 1967 the US Atomic Energy Commission detonated a 29-kiloton-yield nuclear device in the emplacement well GB-E at a depth of 4,227 feet, in an attempt to stimulate production of natural gas from the overlying gas-bearing Pictured Cliffs Formation. The site is 12 miles southwest of Dulce, New Mexico, in the Carson National Forest, totalling 640 acres.",
 "tier": 1
 },
 {
+"id": "c-d8db0bccf0",
 "source": "DOE Office of Legacy Management Gasbuggy fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , read in full 2026-09-19",
 "text": "The detonation created a cavity and, as the overlying fractured rock collapsed into it, a rubble-filled collapse chimney. This was the first natural gas reservoir stimulation experiment in the Plowshare Program, jointly sponsored by the AEC, the US Department of the Interior and the El Paso Natural Gas Company.",
 "tier": 1
 },
 {
+"id": "c-b05552cae5",
 "source": "DOE Office of Legacy Management Gasbuggy fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , read in full 2026-09-19",
 "text": "Production testing through a reentry well, GB-ER, ran from July 1968 to October 1969 across five tests, producing 213 million cubic feet of natural gas that retained measurable radioactive constituents and had a significantly lower heat value than expected. In 1976 it was decided that no further testing would be conducted.",
 "tier": 1
 },
 {
+"id": "c-2a7bf70eec",
 "source": "DOE Office of Legacy Management Gasbuggy fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , read in full 2026-09-19",
 "text": "THE FORTY-YEAR FEDERAL RETURN TO THE GROUND. AEC decommissioned and demobilised the site in 1978, injecting liquid radioactive waste into the former cavity and transporting solid radioactive waste to the Nevada Test Site. Soil sampling followed in 1978, 1986, 2000 and 2002; final surface remediation removed 5,562 cubic yards of contaminated soil and was completed in September 2004. A permanent monument, a brass plaque in a concrete base, was placed at the site.",
 "tier": 1
 },
 {
+"id": "c-df4b5a8d63",
 "source": "Inference from the DOE Office of Legacy Management Gasbuggy fact sheet, opened 2026-09-19",
 "text": "STATED INFERENCE, AND ITS LIMIT. Gasbuggy is adjacent in space to the alleged Dulce facility and prior to it in time by twelve years, and it involved exactly the activities the rumour describes in outline: federal secrecy, deep drilling, explosives underground and decades of unexplained official presence. NOTHING OPENED DEMONSTRATES THAT GASBUGGY CAUSED THE RUMOUR, and the inference stops at adjacency and precedence. Reasoning: a plausible mechanism is not a demonstrated one, and the board has been burned before by upgrading the former into the latter.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "1978",
 "direction": "out",
+"edgeId": "e-b92ef9943b",
 "edgeLabel": "DOE Office of Legacy Management holds long-term stewardship",
 "id": "doe",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": "2004-09",
 "dateStart": "1967-12-10",
 "direction": "out",
+"edgeId": "e-3a22fe7fdc",
 "edgeLabel": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
 "id": "dulce-base",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": null,
 "dateStart": "1967-12-10",
 "direction": "out",
+"edgeId": "e-6837a10402",
 "edgeLabel": "640 acres in the Carson National Forest, twelve miles southwest of Dulce",
 "id": "l-dulce",
 "l0": false,
@@ -115,6 +123,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-3a22fe7fdc",
 "label": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
 "note": "The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour.",
 "of": null,

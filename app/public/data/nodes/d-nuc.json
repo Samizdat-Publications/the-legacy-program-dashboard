@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-62c08e90d3",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "The base-hub structure added on 19 September 2026 makes the correlation this domain asserts measurable rather than rhetorical. Six installations gained hub nodes, l-loring, l-wurtsmith, l-minot, l-ellsworth, l-warren and l-grand-forks, joining l-malmstrom, l-vandenberg and l-kirtland, with witnesses edged into incidents and incidents edged into bases. Degree on a base hub now answers 'how many claimants converge here', and the tier of each incoming edge answers 'and how many of those legs are documented'.",
 "tier": 1
 },
 {
+"id": "c-8f3e94374d",
 "source": "NMCC Memorandum for Record and DDO updates, 29 to 30 October 1975, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
 "text": "THE 1975 SEQUENCE IS A NUCLEAR SECURITY RECORD BEFORE IT IS A UFO RECORD, AND THE DOCUMENTS SAY SO IN THEIR OWN WORDS. The National Military Command Center's subject line is 'AFB Penetration'. The Loring traffic says 'unidentified helicopter' throughout and never says UFO. The reporting runs to the Joint Staff, the service chiefs, the DIA, NSA and CIA representatives, the Army Staff Director of Operations and the State Department's Canadian desk. That is what gives this domain its weight: the correlation is visible in operational paper produced by people who were not thinking about the subject this board is about.",
 "tier": 1
 },
 {
+"id": "c-6faeeb2e03",
 "source": "341st SMW history, Jul-Sep 1967, pp 50-53, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "text": "The dual-use complication this domain already records is visible inside the Malmstrom material itself. After the Echo Flight shutdown the Air Force ran electromagnetic pulse test programmes at F. E. Warren AFB on Delta Flight and at the 564th Strategic Missile Squadron, and turned Sierra 39 over to Boeing for EMP testing from 28 September 1967 to about mid-January 1968. The same installations that generate the sighting reports are the installations where the most exotic electromagnetic testing was being done, and the board should hold both facts at once.",
 "tier": 1
 },
 {
+"id": "c-f1eee93197",
 "source": "Limina, doi:10.59661/001c.131854; SCU/Zenodo, doi:10.5281/zenodo.7758498",
 "text": "Hancock, Porritt and Grosvenor's 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex' was published via SCU in July 2023 and in the journal Limina in March 2025.",
 "tier": 1
 },
 {
+"id": "c-ba52319483",
 "source": "Scientific Reports, doi:10.1038/s41598-025-21620-3",
 "text": "Bruehl and Villarroel (Scientific Reports, 20 October 2025) report that POSS-I transients may be associated with nuclear testing and with UAP reports.",
 "tier": 1
 },
 {
+"id": "c-831f19c872",
 "source": "CNN coverage, National Press Club, 27 September 2010",
 "text": "Robert Salas and other former missile officers stated publicly at a National Press Club event on 27 September 2010 that UFOs were observed in connection with nuclear missile disruptions.",
 "tier": 2
 },
 {
+"id": "c-6592635ded",
 "source": "DoD FOIA 97-F-1677, via The Black Vault",
 "text": "DoD FOIA case 97-F-1677 released records on unidentified flying objects over Malmstrom AFB in November 1975.",
 "tier": 1
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": "2025-10-20",
 "direction": "in",
+"edgeId": "e-a0b2f4964f",
 "edgeLabel": "Sky-survey transients correlate with nuclear testing",
 "id": "d-astro",
 "l0": false,
@@ -71,6 +79,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-20",
 "direction": "out",
+"edgeId": "e-d12809f825",
 "edgeLabel": "Indications analysis on the atomic complex",
 "id": "d-intel",
 "l0": false,
@@ -92,6 +101,7 @@
 "dateEnd": null,
 "dateStart": "1946-08-01",
 "direction": "out",
+"edgeId": "e-64eb3dfb37",
 "edgeLabel": "Phenomenon and the security regime around it",
 "id": "d-nuclear",
 "l0": false,

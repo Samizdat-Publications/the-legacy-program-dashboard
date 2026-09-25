@@ -31,16 +31,19 @@
 ],
 "claims": [
 {
+"id": "c-4286818359",
 "source": "DoD emails released under FOIA, published by The Black Vault",
 "text": "Wrote on 7 May 2019: 'Elizondo had no assigned responsibilities for this program... At the time he was assigned to me, he brought with him no responsibilities for AATIP.'",
 "tier": 1
 },
 {
+"id": "c-549434bcb0",
 "source": "DoD emails released under FOIA, published by The Black Vault",
 "text": "The same email chain contains an official warning that 'the Department may be putting itself in an awkward position of both contradicting previous statements' and a directive that 'we will have to keep our messages in synch.'",
 "tier": 1
 },
 {
+"id": "c-efb3d4f85f",
 "source": "The Black Vault, 'New Emails Reveal Pentagon Effort to Align Messaging on AATIP and Luis Elizondo'",
 "text": "September 2017 emails show Elizondo drafting a memorandum to help Tipton 'assume the new responsibilities for AATIP' — five years after the Department says AATIP ended.",
 "tier": 2
@@ -58,6 +61,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-51e6f50585",
 "edgeLabel": "Sept 2017: Elizondo drafts a memo helping Tipton 'assume the new responsibilities for AATIP'",
 "id": "aatip",
 "l0": true,
@@ -79,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-5ea9ac2007",
 "edgeLabel": "Named respondent",
 "id": "elizondo-dodig-complaint-2021",
 "l0": false,
@@ -100,6 +105,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-041904e17a",
 "edgeLabel": "7 May 2019 internal email: 'no assigned responsibilities for this program'",
 "id": "luis-elizondo",
 "l0": false,
@@ -121,6 +127,7 @@
 "dateEnd": "2019",
 "dateStart": "2010",
 "direction": "out",
+"edgeId": "e-6e9f689760",
 "edgeLabel": "Director for Defense Intelligence (Collection & Special Programs); Elizondo's superior c.2010-2012",
 "id": "ousdi",
 "l0": true,
@@ -157,6 +164,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-041904e17a",
 "label": "7 May 2019 internal email: 'no assigned responsibilities for this program'",
 "note": "Tipton, Elizondo's superior from about 2010 to 2012, originated the formula two weeks before it went public. Colleagues in the same chain warned the Department risked 'contradicting previous statements'.",
 "of": {

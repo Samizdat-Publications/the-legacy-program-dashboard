@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-8773ce7c9b",
 "source": "NASA UAP Independent Study Team Report, September 2023",
 "text": "The NASA UAP Independent Study Team report recommends applying NASA Earth-observing and commercial remote-sensing assets to UAP data collection.",
 "tier": 1
 },
 {
+"id": "c-c882e85392",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-3f13cd4b8c",
 "edgeLabel": "NASA field centre at Moffett Field",
 "id": "nasa",
 "l0": true,

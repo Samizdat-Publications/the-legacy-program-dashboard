@@ -21,11 +21,13 @@
 ],
 "claims": [
 {
+"id": "c-4f6a2b87f2",
 "source": "Joseph Gradisher, U.S. Navy, 10 September 2019",
 "text": "Stated: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
 "tier": 1
 },
 {
+"id": "c-58a745a2ef",
 "source": "Joseph Gradisher, U.S. Navy, September 2019, via The Black Vault",
 "text": "Stated that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
 "tier": 1
@@ -43,6 +45,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-2cfec3a7e7",
 "edgeLabel": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
 "id": "dd-form-1910-2017",
 "l0": false,
@@ -64,6 +67,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-315bcc4b6b",
 "edgeLabel": "Navy designates the objects as unidentified aerial phenomena, 10 Sep 2019",
 "id": "navy-flir-gimbal-gofast-videos",
 "l0": false,
@@ -100,6 +104,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-2cfec3a7e7",
 "label": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
 "note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
 "of": {

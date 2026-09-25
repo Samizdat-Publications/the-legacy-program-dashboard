@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-06d2786422",
 "source": "US Department of Energy Office of Legacy Management, 'Gasbuggy, New Mexico, Site' fact sheet, https://www.energy.gov/sites/default/files/2021-08/GasbuggyFactSheet.pdf , text extracted and read in full 2026-09-19",
 "text": "Project Gasbuggy, the first natural-gas reservoir stimulation experiment of the Plowshare programme, left a 640-acre site in Rio Arriba County, New Mexico under federal stewardship from the 1967 detonation through decommissioning in 1978, soil sampling in 1978, 1986, 2000 and 2002, and final surface remediation completed in September 2004. Liquid radioactive waste remains injected in the former cavity and a brass plaque on a concrete base marks the site.",
 "tier": 1
 },
 {
+"id": "c-20023fea57",
 "source": "House Oversight Committee hearing, 26 July 2023; NPR contemporaneous report",
 "text": "David Grusch testified under oath to the House Oversight Committee on 26 July 2023 that he was informed of a multi-decade UAP crash retrieval and reverse-engineering programme, and that he made a protected disclosure to the ICIG.",
 "tier": 2
 },
 {
+"id": "c-6c465ee5eb",
 "source": "AARO Historical Record Report Volume I",
 "text": "AARO's Volume I historical record report (February 2024) states it found no empirical evidence for claims of USG or private-company reverse engineering of extraterrestrial technology, and describes its interview and programme-review methodology in Sections V and VI.",
 "tier": 1
 },
 {
+"id": "c-449f830724",
 "source": "DoD OIG DODIG-2023-109",
 "text": "The DoD Inspector General's DODIG-2023-109 evaluation of DoD actions regarding UAP was initiated following personnel complaints and released in unclassified summary on 25 January 2024.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-08",
 "direction": "out",
+"edgeId": "e-de653955eb",
 "edgeLabel": "Retrieval is the programme's input stage",
 "id": "d-recovery",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-01",
 "direction": "out",
+"edgeId": "e-c49642e4c9",
 "edgeLabel": "Exploitation is the programme's purpose",
 "id": "d-reverse-engineering",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "1967-12-10",
 "direction": "in",
+"edgeId": "e-9843425e7a",
 "edgeLabel": "A contaminated Plowshare site under forty years of federal stewardship",
 "id": "l-dulce",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": null,
 "dateStart": "1989",
 "direction": "in",
+"edgeId": "e-760dd33b5b",
 "edgeLabel": "The hub's claimed content is a legacy reverse-engineering programme",
 "id": "s-4-papoose-lake",
 "l0": false,

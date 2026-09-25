@@ -5,46 +5,55 @@
 "band": null,
 "claims": [
 {
+"id": "c-f5f13b7579",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "Required by 10 U.S.C. 119(a)(1) 'Not later than March 1 of each year'; contents fixed by (a)(2). The new-program notice under (b)(1) is due separately 'Not later than February 1 of each year'.",
 "tier": 1
 },
 {
+"id": "c-92c0161b65",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "Production chain, DoDD 5205.07 (2010) Enclosure 2 para 6: 'The CAs shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees, in accordance with Reference (c) [10 U.S.C. 119].' Every component's submission passes through a single office answering to the Deputy Secretary of Defense.",
 "tier": 1
 },
 {
+"id": "c-effa055b1e",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "CUSTODY. DoDD 5205.07 (2010) para 4.h: 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody. No copies shall be stored outside DoD repositories or control without the approval of the Secretary or Deputy Secretary of Defense.' The waived annex of the annual report never leaves the department.",
 "tier": 1
 },
 {
+"id": "c-dd79d09480",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "SUNSET. The GPO text of section 119 carries a 'Termination of Reporting Requirements' note: the requirements in subsecs. (a) and (b) to submit an annual report to Congress terminated effective December 31, 2021 under section 1061 of Pub. L. 114-328.",
 "tier": 1
 },
 {
+"id": "c-7a16e203ca",
 "source": "10 U.S.C. 119(a)",
 "text": "10 U.S.C. 119(a)(1)-(2) require the annual SAP report by 1 March with the total amount requested and, for each SAP in the budget, a brief description, major milestones, actual prior-year costs and six years of cost estimates.",
 "tier": 1
 },
 {
+"id": "c-f44dece71a",
 "source": "DoDD 5205.07 (2010), Enclosure 2, para 6",
 "text": "DoDD 5205.07 (2010) Enclosure 2 para 6: 'The CAs shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees, in accordance with Reference (c).'",
 "tier": 1
 },
 {
+"id": "c-8a7013e8ef",
 "source": "DoDI 5205.11, para 6",
 "text": "DoDI 5205.11 para 6 records that the SAP report 'is submitted to Congress in accordance with section 119 of Title 10, United States Code ... and is coordinated with the Assistant Secretary of Defense for Legislative Affairs in accordance with the procedures in DoDI 5545.02.'",
 "tier": 1
 },
 {
+"id": "c-de37b2cee7",
 "source": "DoDI 5205.11, para 5.d",
 "text": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
 "tier": 1
 },
 {
+"id": "c-b3bb681466",
 "source": "10 U.S.C. 119(a)(1) as enacted in 1987; DoDI 5205.11 Enclosure 3",
 "text": "The annual SAP report has existed as a recurring agency record since the first one was due on 1 February 1988 under the original text of 10 U.S.C. 119(a)(1), and its accuracy is certified annually by two named standing bodies - which makes 'nobody knows how many SAPs there are' a false statement about a document that exists in roughly forty annual editions. Reasoning: the statutory deadline plus the SRG and SAPOC validation functions.",
 "tier": 3
@@ -60,6 +69,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-ed3845d0a8",
 "edgeLabel": "all component submissions route through DoD SAPCO",
 "id": "dod-sapco",
 "l0": true,
@@ -91,6 +101,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "in",
+"edgeId": "e-569d9ce250",
 "edgeLabel": "The statutory UAP records collection reaches records the SAP report describes",
 "id": "nara-uap-collection",
 "l0": true,
@@ -112,6 +123,7 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "in",
+"edgeId": "e-7f3091a8d6",
 "edgeLabel": "Congress receives nicknames, not missions",
 "id": "sap-cover-mechanisms",
 "l0": false,
@@ -133,6 +145,7 @@
 "dateEnd": null,
 "dateStart": "2022-07-15",
 "direction": "in",
+"edgeId": "e-42c168569d",
 "edgeLabel": "AARO's search for a concealed program ran against a document AARO did not control",
 "id": "sean-kirkpatrick",
 "l0": false,
@@ -159,6 +172,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "in",
+"edgeId": "e-ae90045cf7",
 "edgeLabel": "A waived program is precisely a program removed from the annual report",
 "id": "waived-usap-mechanism",
 "l0": true,
@@ -197,6 +211,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-ae90045cf7",
 "label": "A waived program is precisely a program removed from the annual report",
 "note": "10 U.S.C. 119(e)(1) permits waiver of the requirement that certain information be included in the report; DoDD 5205.07 (2010) para 4.h keeps the substitute material in DoD custody.",
 "of": null,

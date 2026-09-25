@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-3de83b3b89",
 "source": "New York Post, 'Chilean navy admits it can't explain UFO', 9 January 2017",
 "text": "'A military helicopter captured the incredible footage in November 2014 during a routine coastal patrol ... The pilots tracked the craft from around 40 miles away and tried several times to communicate with it. After receiving no response, they reported it to a pair of nearby radar stations. But shockingly, neither of them were able to see it on their screens - despite being able to detect the navy choppers. Air traffic controllers also confirmed that no aircraft had been authorized to fly in the area.'",
 "tier": 2
 },
 {
+"id": "c-6dc1db8977",
 "source": "New York Post, 9 January 2017",
 "text": "'Chilean government agency the CEFAA, which investigates UFO sightings, has been probing the incident for two years.'",
 "tier": 2
 },
 {
+"id": "c-991f768221",
 "source": "Inference from the January 2017 Chilean release and the DoD statement of 27 April 2020",
 "text": "The Chilean release of a state sensor product with no explanation attached, in January 2017, precedes the US Department of Defense's April 2020 authorisation of the three Navy videos by more than three years, and precedes AARO's establishment by five. Reasoning: chronology of the two releases as documented.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2017-01",
 "dateStart": "2014-11",
 "direction": "in",
+"edgeId": "e-2802d88f97",
 "edgeLabel": "analysed the Navy FLIR case for two years then released it",
 "id": "cefaa",
 "l0": true,

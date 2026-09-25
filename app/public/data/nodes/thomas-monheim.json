@@ -41,26 +41,31 @@
 ],
 "claims": [
 {
+"id": "c-eef58397b5",
 "source": "The Hill, 12 January 2024",
 "text": "Briefed House Oversight and Accountability Committee members in a closed-door session at the Capitol on 12 January 2024 for about ninety minutes, intended to improve transparency around the government's knowledge of UAP.",
 "tier": 2
 },
 {
+"id": "c-6c5b14008b",
 "source": "The Hill (opinion), 18 February 2025",
 "text": "The internal watchdog overseeing the intelligence agencies deemed Grusch's allegations that UAP information was inappropriately concealed from Congress 'credible and urgent,' triggering mandatory notifications to the intelligence committees.",
 "tier": 2
 },
 {
+"id": "c-881b0a8f5e",
 "source": "Inference from The Hill reporting of 12 Jan 2024 and 18 Feb 2025 and Luna's 9 Sept 2025 statement on the read-in gate",
 "text": "The gap between a credible-and-urgent ICIG finding in July 2022 and a briefing eighteen months later that members described as substanceless indicates the finding was routed into a channel that could absorb it without producing disclosure. Reasoning: the finding legally compelled notification of the intelligence committees, not the Oversight Committee, and the Oversight briefing that eventually occurred was not a read-in.",
 "tier": 3
 },
 {
+"id": "c-aa22404b13",
 "source": "Grusch sworn testimony, House Oversight, 26 July 2023; The Debrief, 5 June 2023",
 "text": "The ICIG found Grusch's urgent-concern complaint credible and urgent in July 2022, triggering transmission to the congressional intelligence committees.",
 "tier": 1
 },
 {
+"id": "c-e2f13fd353",
 "source": "Grusch answering Rep. Tim Burchett, House Oversight hearing transcript, 26 July 2023",
 "text": "Grusch testified there was no smooth process for the ICIG to provide his disclosure to the House and Senate Armed Services Committees despite Title 10 equities.",
 "tier": 2
@@ -78,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-62bc16be1a",
 "edgeLabel": "ICIG found Grusch's urgent-concern complaint credible and urgent, triggering notification of the intelligence committees",
 "id": "david-grusch",
 "l0": false,
@@ -99,6 +105,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-35fcaff806",
 "edgeLabel": "Inspector General of the Intelligence Community, 2021-present",
 "id": "icig",
 "l0": false,
@@ -120,6 +127,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-5ba30d802c",
 "edgeLabel": "Briefed House Oversight members for about ninety minutes",
 "id": "icig-briefing-2024-01-12",
 "l0": false,

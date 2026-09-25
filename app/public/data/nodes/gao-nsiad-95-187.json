@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-303fdc4707",
 "source": "GAO/NSIAD-95-187, p.3",
 "text": "'RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed.'",
 "tier": 1
 },
 {
+"id": "c-31b99fb062",
 "source": "GAO/NSIAD-95-187, p.3",
 "text": "'The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
 "tier": 1
 },
 {
+"id": "c-a8e73446b7",
 "source": "GAO/NSIAD-95-187, p.3",
 "text": "RAAF administrative records from March 1945 through December 1949 were destroyed.",
 "tier": 1
 },
 {
+"id": "c-4eb11d532b",
 "source": "GAO/NSIAD-95-187, p.4",
 "text": "GAO recorded that on 8 July 1947 an Eighth Air Force headquarters official telephonically informed the FBI's Dallas office of the recovery near Roswell of 'a hexagonal-shaped disc suspended from a large balloon by cable' which 'resembled a high-altitude weather balloon with a radar reflector'.",
 "tier": 1
 },
 {
+"id": "c-6055f612d0",
 "source": "GAO/NSIAD-95-187, p.6",
 "text": "The CIA's Executive Director stated that 'a search against the term Roswell, New Mexico, in all CIA databases produced no CIA documents related to the crash'.",
 "tier": 1
 },
 {
+"id": "c-06fef97272",
 "source": "GAO/NSIAD-95-187, transmittal and scope",
 "text": "The review was conducted at the request of Congressman Steven H. Schiff, from March 1994 to June 1995, and issued 28 July 1995.",
 "tier": 1
 },
 {
+"id": "c-785a287d7a",
 "source": "Inference from the GAO findings and the requirements of the Federal Records Act",
 "text": "Destruction of a specific base's entire outgoing message traffic covering precisely the period of the alleged recovery, with no surviving disposition authority, is the strongest documented indicator of deliberate record removal in the legacy corpus.",
 "tier": 3
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-0f5a86f45c",
 "edgeLabel": "AARO's legacy review does not address the documented records destruction",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -76,6 +84,7 @@
 "dateEnd": null,
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-1c8b739b37",
 "edgeLabel": "The MOGUL attribution cannot be tested against destroyed records",
 "id": "project-mogul",
 "l0": false,
@@ -97,6 +106,7 @@
 "dateEnd": "1995",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-bca0a0e298",
 "edgeLabel": "The message traffic that would document the release was destroyed",
 "id": "raaf-press-release-1947",
 "l0": false,
@@ -118,6 +128,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-bafd41d3fa",
 "edgeLabel": "The first statutory records mechanism descends from the destruction problem",
 "id": "rg-615-uap-records",
 "l0": false,
@@ -144,6 +155,7 @@
 "dateEnd": "1995",
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-06d42f80a2",
 "edgeLabel": "GAO found the base's records for the event period destroyed",
 "id": "roswell-1947",
 "l0": true,
@@ -170,6 +182,7 @@
 "dateEnd": "1995",
 "dateStart": "1994",
 "direction": "in",
+"edgeId": "e-9a707bbfad",
 "edgeLabel": "Schiff tasked GAO after DoD refused to answer him",
 "id": "steven-schiff",
 "l0": false,
@@ -211,6 +224,7 @@
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-0f5a86f45c",
 "label": "AARO's legacy review does not address the documented records destruction",
 "note": "The report reaffirms the MOGUL conclusion without engaging GAO's 1995 finding that the relevant base records were destroyed with no disposition authority — the gap that makes the conclusion untestable.",
 "of": {

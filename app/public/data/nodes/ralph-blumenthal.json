@@ -34,11 +34,13 @@
 ],
 "claims": [
 {
+"id": "c-e213371b5e",
 "source": "The Debrief byline, 5 June 2023 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Co-author of the 5 June 2023 Debrief article on Grusch's allegations.",
 "tier": 2
 },
 {
+"id": "c-73aa1c8a81",
 "source": "Wikipedia, 'Ralph Blumenthal', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Blumenthal was a New York Times staff reporter from 1964 to 2009 and co-authored both the 2017 AATIP story and the 2023 Grusch story.",
 "tier": 2
@@ -54,6 +56,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-7da3a4b393",
 "edgeLabel": "Co-author",
 "id": "debrief-2023-06-05",
 "l0": false,
@@ -75,6 +78,7 @@
 "dateEnd": "2023",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-72969b3f34",
 "edgeLabel": "Co-authors of both defining stories, 2017 and 2023",
 "id": "leslie-kean",
 "l0": false,
@@ -96,6 +100,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-5d81f21ac2",
 "edgeLabel": "Co-byline, 16 December 2017",
 "id": "nyt-2017-12-16",
 "l0": true,

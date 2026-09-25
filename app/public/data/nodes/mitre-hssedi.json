@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-9340d3e719",
 "source": "NSF NCSES Master Government List of FFRDCs; MITRE R&D Centers page",
 "text": "HSSEDI is a MITRE-operated FFRDC sponsored by the DHS Science and Technology Directorate, created 5 March 2009 and located in McLean, Virginia.",
 "tier": 1
 },
 {
+"id": "c-07110377fa",
 "source": "Inference from the NSF FFRDC master list and AARO's Historical Record Report Volume I account of Kona Blue",
 "text": "DHS's dependence on MITRE (HSSEDI) and RAND (HSOAC) for systems engineering and operational analysis means the department that was approached to host Kona Blue routes its technical work through the same two FFRDC operators now under congressional inquiry. Reasoning: sponsor lists, not evidence of any HSSEDI role in Kona Blue.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-6553835642",
 "edgeLabel": "MITRE operates HSSEDI for DHS Science and Technology",
 "id": "mitre-corporation",
 "l0": true,

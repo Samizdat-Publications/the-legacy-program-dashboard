@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-a12de85b1b",
 "source": "BILLS-118s2226es table of contents",
 "text": "S. 2226 as engrossed in the Senate contains Division G, 'UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE', secs. 9001-9015, positioned between Division F (AUKUS/State Department matters, Titles LXI-LXVIII) and Division H (Architect of the Capitol Appointment Act of 2023).",
 "tier": 1
 },
 {
+"id": "c-ca9bfb6f73",
 "source": "congress.gov S.Amdt.797 overview page (Wayback 2024-12-18)",
 "text": "S.Amdt. 797 amends S. 2226, 'National Defense Authorization Act for Fiscal Year 2024'; sponsor Sen. Schumer, Charles E. [D-NY], submitted 07/13/2023, 5 cosponsors.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "in",
+"edgeId": "e-2b17714943",
 "edgeLabel": "amendment to",
 "id": "samdt-797",
 "l0": true,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-27",
 "direction": "in",
+"edgeId": "e-079df53f38",
 "edgeLabel": "incorporated as Division G, secs. 9001-9015",
 "id": "uapda-2023",
 "l0": true,

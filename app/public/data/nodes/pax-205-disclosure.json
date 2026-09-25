@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-8d8130857a",
 "source": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
 "text": "The document is a six-page Navy briefing headed 'INERTIAL MASS REDUCTION DEVICE, Navy Case PAX 205', released by NAVAIR under FOIA case 2021-003244.",
 "tier": 1
 },
 {
+"id": "c-883ff48610",
 "source": "NAVAIR FOIA release 2021-003244, slide 4",
 "text": "Its 'Description of Invention' slide asserts that 'It is possible to reduce the inertial mass and hence the gravitational mass, of a system/object in motion, by an abrupt perturbation of the non-linear background of local Spacetime', with the mechanism attributed to negative pressure in a polarized local vacuum energy state achieved by coupling accelerated high frequency vibration with accelerated high frequency axial spin of an electrically charged object.",
 "tier": 1
 },
 {
+"id": "c-6353a6c817",
 "source": "NAVAIR FOIA release 2021-003244, slide 5",
 "text": "The briefing answers 'Is there the potential for commercial use' with 'YES', citing the design of energy generation machinery with power output levels much higher than those currently achievable by conventional means.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-ab522e8de8",
 "edgeLabel": "Four of five itemised as design goals",
 "id": "five-observables",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2018-12-04",
 "dateStart": "2015-03-06",
 "direction": "out",
+"edgeId": "e-2bf2582793",
 "edgeLabel": "Internal disclosure underlying the granted patent",
 "id": "pais-patent-imrd",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2015-03-06",
 "direction": "in",
+"edgeId": "e-90d5a4103d",
 "edgeLabel": "Author of the Navy invention disclosure",
 "id": "salvatore-pais",
 "l0": false,

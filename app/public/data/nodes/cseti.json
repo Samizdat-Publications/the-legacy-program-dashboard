@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-16514c0a3f",
 "source": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993; the Disclosure Project seeks amnesty for government whistleblowers willing to violate security oaths.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "1993-12-13",
 "direction": "out",
+"edgeId": "e-ea7dc5a78f",
 "edgeLabel": "Claimed 1993 UFO briefing of sitting CIA Director Woolsey (disputed)",
 "id": "cia",
 "l0": true,

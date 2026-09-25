@@ -5,46 +5,55 @@
 "band": null,
 "claims": [
 {
+"id": "c-1dbf5bcc56",
 "source": "AFR 200-2, 12 Aug 1954, header",
 "text": "AFR 200-2 dated 12 August 1954 superseded the edition of 26 August 1953.",
 "tier": 1
 },
 {
+"id": "c-eac3d0b2c5",
 "source": "AFR 200-2, 12 Aug 1954, release of information section",
 "text": "'For those objects which are not explainable, only the fact that ATIC will analyze the data is worthy of release, due to many unknowns involved.'",
 "tier": 1
 },
 {
+"id": "c-813af5b9cf",
 "source": "AFR 200-2, 12 Aug 1954",
 "text": "The regulation protects from release the names of principals, intercept and investigation procedures, and classified radar data, and establishes the ADC / 4602d AISS / ATIC reporting and investigation chain.",
 "tier": 1
 },
 {
+"id": "c-5884851555",
 "source": "Inference from the January 1953 panel recommendations against the August 1953 and August 1954 regulation editions",
 "text": "AFR 200-2 is the Robertson Panel's debunking recommendation converted into binding internal law seven months after the panel reported.",
 "tier": 3
 },
 {
+"id": "c-1cf77ca7fd",
 "source": "AFR 200-2, 26 August 1953, four-page release scan",
 "text": "The 1953 edition exists in a readable four-page scan whose face reads 'AIR FORCE REGULATION NO. 200-2 / DEPARTMENT OF THE AIR FORCE / WASHINGTON, 26 AUGUST 1953 / INTELLIGENCE / (Unclassified) Unidentified Flying Objects Reporting (Short Title: UFOB)', marked RESTRICTED / SECURITY INFORMATION and signed 'By Order of the Secretary of the Air Force: N. F. TWINING, Chief of Staff'.",
 "tier": 1
 },
 {
+"id": "c-2df36e1f60",
 "source": "AFR 200-2, 26 August 1953, footnote to the title and marginal annotations",
 "text": "Its own footnote establishes the predecessor: 'This Regulation supersedes AFL 200-5, 29 April 1952.' The release copy also carries handwritten annotations 'Sup by AFR 200-2, 12 Aug 54' and 'amended by 200-2A' against paragraph 6.",
 "tier": 1
 },
 {
+"id": "c-045c3b844c",
 "source": "AFR 200-2, 26 August 1953, paragraph 8, Release of Information",
 "text": "The release restriction is on the face of the 1953 edition, not only the 1954 one. Paragraph 8 provides that raw information may be furnished to a public information officer 'except names of principals, Air Force comments, details of intercept procedures involved, and classified radar data', and that what is releasable ends at 'The fact that the object has been conclusively identified by ATIC as a conventional aerial device or other familiar object and no further evaluation is contemplated.' Identified cases could be discussed publicly; unidentified ones could not.",
 "tier": 1
 },
 {
+"id": "c-277dd08765",
 "source": "AFR 200-2, 26 August 1953, paragraph 7, Evidence",
 "text": "Paragraph 7 provides that 'All evidence will be forwarded to ATIC', and on materiel directs units to 'Safeguard the materiel carefully to prevent any defacing or alteration which would reduce its value for technical analysis' and to 'Notify ATIC immediately and request shipping instructions'.",
 "tier": 1
 },
 {
+"id": "c-61e08318de",
 "source": "AFR 200-2, 12 August 1954, footnote and paragraph text",
 "text": "The 1954 edition's own footnote closes the chain: 'This Regulation supersedes AFR 200-2, 26 August 1953, Including Change 200-2A, 2 November 1953.' Its short title changed from UFOB to FLYOBRPT and it added the 4602d AISS to the investigation chain, which the 1953 edition does not name.",
 "tier": 1
@@ -60,6 +69,7 @@
 "dateEnd": "1969",
 "dateStart": "1954",
 "direction": "out",
+"edgeId": "e-0a3b74b36b",
 "edgeLabel": "ATIC was the terminal analytical authority under the regulation",
 "id": "atic",
 "l0": true,
@@ -81,6 +91,7 @@
 "dateEnd": "1954",
 "dateStart": "1954",
 "direction": "in",
+"edgeId": "e-d55064a259",
 "edgeLabel": "The 1954 regulation was issued under Twining as Chief of Staff",
 "id": "nathan-twining",
 "l0": false,
@@ -107,6 +118,7 @@
 "dateEnd": "1969",
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-df88883aa7",
 "edgeLabel": "AFR 200-2 governed what Blue Book could say publicly",
 "id": "project-blue-book",
 "l0": true,
@@ -128,6 +140,7 @@
 "dateEnd": "1954",
 "dateStart": "1953",
 "direction": "in",
+"edgeId": "e-0cc4acb08e",
 "edgeLabel": "Panel recommendations became binding Air Force regulation",
 "id": "robertson-panel",
 "l0": true,

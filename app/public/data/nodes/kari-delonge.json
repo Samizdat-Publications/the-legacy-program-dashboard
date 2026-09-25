@@ -26,16 +26,19 @@
 ],
 "claims": [
 {
+"id": "c-ed4bdd543e",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
 "text": "Listed in TTSA's Form 1-K as Chief Content Officer, age 35, with $100,000 FY2017 cash compensation and options on 5,000,000 shares at $0.003 valued at approximately $18.96 million.",
 "tier": 1
 },
 {
+"id": "c-497905e107",
 "source": "CRADA document released by the U.S. Army CCDC, reported by Joseph Trevithick and Brett Tingley, The War Zone, 18 October 2019",
 "text": "Signed the TTSA-Army CRADA on 10 October 2019 as TTSA's corporate signatory, opposite GVSC Director Jeffery Langhout.",
 "tier": 1
 },
 {
+"id": "c-0cd90af078",
 "source": "Keith Kloor, The Intercept, 1 June 2019",
 "text": "Told The Intercept that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
 "tier": 2
@@ -51,6 +54,7 @@
 "dateEnd": null,
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-5407b26a5a",
 "edgeLabel": "Chief Content Officer; highest cash-compensated officer FY2017",
 "id": "ttsa",
 "l0": true,
@@ -72,6 +76,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-168e63c2b9",
 "edgeLabel": "Signed for To The Stars Academy, 10 October 2019",
 "id": "ttsa-army-crada",
 "l0": true,

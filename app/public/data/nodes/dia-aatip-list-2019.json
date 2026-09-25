@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-a1b107a1b3",
 "source": "Federation of American Scientists, 'AATIP List'; DIA letter to Aftergood",
 "text": "DIA released a 38-title list of AATIP research products to FAS on 16 January 2019, covering work funded 2007-2012 at approximately $22 million; the list had been provided to Congress in January 2018.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-e541b7be8d",
 "edgeLabel": "The 38-title list is the only official enumeration of the series",
 "id": "aawsap-dird-series",
 "l0": false,
@@ -46,6 +48,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-8d79c340a5",
 "edgeLabel": "Converted an oral controversy into an enumerated procurement record",
 "id": "d-custody",
 "l0": false,

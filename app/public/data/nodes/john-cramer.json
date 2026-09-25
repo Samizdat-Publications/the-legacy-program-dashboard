@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-f06b0e8353",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The DIA letter of 9 January 2018 lists item 25 as \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\"",
 "tier": 2
 },
 {
+"id": "c-2fc9cddaec",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
 "text": "The KLAS-TV list of the same thirty-eight DIRDs, published 25 July 2018 by George Knapp and Matt Adams and confirmed genuine by Luis Elizondo, gives the same document as \"Quantum Entanglement Communication, Dr J Cramer, Univ of Washington.\"",
 "tier": 2
 },
 {
+"id": "c-a2f16a33ea",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf",
 "text": "The released DIRD is dated 30 March 2010, carries an Intelligence Cut-Off Date of 1 December 2009 and the document number DIA-08-1003-016, and sits in the Acquisition Threat Support series. The author line on the cover page is redacted under (b)(6).",
 "tier": 1
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-2681dff6d0",
 "edgeLabel": "author of record on the DIA list",
 "id": "dird-the-space-communication-implications-of-quantum",
 "l0": false,

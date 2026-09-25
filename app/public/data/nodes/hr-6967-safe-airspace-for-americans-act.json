@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-cad42aabc7",
 "source": "Congress.gov H.R. 6967 (118th); GPO BILLS-118hr6967ih; The Hill, 12 January 2024",
 "text": "Introduced 11 January 2024 by Rep. Robert Garcia; co-led with Rep. Glenn Grothman.",
 "tier": 1
 },
 {
+"id": "c-16c5e426ae",
 "source": "The Hill, 12 January 2024",
 "text": "Intended to close the gap in UAP reporting by enabling civilian pilots and personnel to report encounters to the FAA, which would send reports to AARO, in exchange for legal safeguards.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-6c1e565363",
 "edgeLabel": "Republican co-lead",
 "id": "glenn-grothman",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-d83ca4e935",
 "edgeLabel": "Sponsor",
 "id": "robert-garcia",
 "l0": false,
@@ -72,6 +76,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-9e4e6b2505",
 "edgeLabel": "His hearing testimony on the reporting gap is the bill's origin",
 "id": "ryan-graves",
 "l0": false,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-dd46d70b51",
 "source": "DIA AAWSAP DIRD releases",
 "text": "DIA commissioned DIRD 15 on advanced space propulsion based on vacuum (spacetime metric) engineering and DIRD 19 on antigravity for aerospace applications.",
 "tier": 1
 },
 {
+"id": "c-15226ec411",
 "source": "Proceedings 2019, 33(1):26, doi:10.3390/proceedings2019033026",
 "text": "Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter' in the MaxEnt 2019 proceedings.",
 "tier": 1
 },
 {
+"id": "c-dd9907a1a6",
 "source": "US Patent 10,144,532 B2 (Google Patents record)",
 "text": "US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', names Salvatore Cezar Pais as inventor and the US Department of the Navy as assignee; filed 28 April 2016, granted 4 December 2018.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-48194974bf",
 "edgeLabel": "Every booster traced to Trident II, Peacekeeper or Polaris derived stages",
 "id": "conventional-prompt-global-strike",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2004-11-14",
 "direction": "out",
+"edgeId": "e-a4192a7426",
 "edgeLabel": "Reported kinematics set the physics requirement",
 "id": "d-aviators",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2010-01-01",
 "direction": "in",
+"edgeId": "e-e51342ce2c",
 "edgeLabel": "Field physics is the propulsion answer",
 "id": "d-exotic",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "1955-11",
 "direction": "in",
+"edgeId": "e-9302032cfa",
 "edgeLabel": "Standing written disclaimer of any connection to anti-gravity research",
 "id": "institute-of-field-physics",
 "l0": true,
@@ -126,6 +133,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-9302032cfa",
 "label": "Standing written disclaimer of any connection to anti-gravity research",
 "note": "On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute.",
 "of": null,

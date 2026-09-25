@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-aacc8a9102",
 "source": "Reid to Lynn, 24 June 2009, DIA FOIA release",
 "text": "Reid requested 'a Restricted Special-Access-Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming protectable areas including methodologies for identifying and engineering advanced technologies and the involvement of private contractors and industry partners.",
 "tier": 1
 },
 {
+"id": "c-f6bc452cab",
 "source": "Reid to Lynn, 24 June 2009",
 "text": "The letter projects program length FY09 through FY13 with a preliminary bigoted list for FY10, and refers questions to Reid staffer Bob Herbert.",
 "tier": 1
 },
 {
+"id": "c-1e6270b657",
 "source": "Susan Gough to The Black Vault, 13 June 2019",
 "text": "DoD spokesperson Susan Gough confirmed the letter's authenticity on 13 June 2019.",
 "tier": 1
 },
 {
+"id": "c-b9347509d1",
 "source": "Inference from classification practice applied to the letter's stated protection categories",
 "text": "A bigoted access list is used where the identity of cleared personnel is itself the sensitive fact; requesting one over a program whose deliverables were 38 unclassified literature reviews indicates Reid was protecting something not represented in those deliverables.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-5b7e801cb4",
 "edgeLabel": "DIA finds insufficient grounds to classify",
 "id": "dia-sap-denial-memo-2009",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-762c140395",
 "edgeLabel": "authored the Restricted SAP request",
 "id": "harry-reid",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "2012",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-6cfabd6094",
 "edgeLabel": "second attempt at the protection Reid was refused",
 "id": "kona-blue",
 "l0": true,
@@ -103,6 +110,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-39e97fde8b",
 "edgeLabel": "authenticated the letter, denied its significance",
 "id": "susan-gough",
 "l0": false,
@@ -124,6 +132,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-c1c36621c4",
 "edgeLabel": "addressed to the Deputy Secretary of Defense",
 "id": "william-lynn",
 "l0": false,
@@ -160,6 +169,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-5b7e801cb4",
 "label": "DIA finds insufficient grounds to classify",
 "note": "DIA's 13 November 2009 answer evaluates only the written deliverables and never addresses the field investigation, database or human-effects work the same contract funded.",
 "of": {
@@ -189,6 +199,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-39e97fde8b",
 "label": "authenticated the letter, denied its significance",
 "note": "'It makes no change to previous statements.' DoD confirmed the document's authenticity in the same breath as dismissing it.",
 "of": {

@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-b64f03091c",
 "source": "Wikipedia, 'Michael Shellenberger', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Shellenberger is co-founder of Public, a newsletter covering censorship, cities, mental health, addiction, energy and the environment.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": "2024-11-13",
 "dateStart": "2024-10",
 "direction": "out",
+"edgeId": "e-e29588334e",
 "edgeLabel": "a newsletter, not a newsroom, carried a named alleged programme into the congressional record",
 "id": "d-media",
 "l0": false,
@@ -46,6 +48,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c664022655",
 "edgeLabel": "Founder Shellenberger testified as a hearing witness",
 "id": "hearing-2024-11-13",
 "l0": true,
@@ -77,6 +80,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-ec7ca4f118",
 "edgeLabel": "Published the whistleblower brief naming the program",
 "id": "immaculate-constellation",
 "l0": true,
@@ -108,6 +112,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c6eb1a14f2",
 "edgeLabel": "Immaculate Constellation document hosted on Mace's House site",
 "id": "nancy-mace",
 "l0": false,

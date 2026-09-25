@@ -5,16 +5,19 @@
 "band": "research",
 "claims": [
 {
+"id": "c-2874240153",
 "source": "Progress in Aerospace Sciences / Crossref record",
 "text": "The paper is Progress in Aerospace Sciences 128 (2022) article 100788, DOI 10.1016/j.paerosci.2021.100788, authored by Nolan, Vallee, Jiang and Lemke.",
 "tier": 1
 },
 {
+"id": "c-a05bfe2b83",
 "source": "Sol Foundation Policy Briefing No. 3, April 2026",
 "text": "The analysis found no anomalous isotopic values but incomplete mixing of the metals in the once-molten mass, indicating an industrial process of unknown origin.",
 "tier": 1
 },
 {
+"id": "c-54e8823326",
 "source": "Sol Foundation Policy Briefing No. 3, April 2026, summarising the paper",
 "text": "Meteorite, satellite/spacecraft debris, aircraft debris, dumped molten metal and thermite hypotheses were each examined and ruled out on physical grounds; the thermite exclusion rests on the absence of aluminium oxide in the SIMS diatomic analysis.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2022",
 "dateStart": "1977",
 "direction": "out",
+"edgeId": "e-a3efb2b48b",
 "edgeLabel": "Subject of the analysis: the 17 December 1977 molten mass",
 "id": "council-bluffs-1977",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-1fba9d3ab7",
 "edgeLabel": "Establishes the standard the government's own holdings have never met",
 "id": "d-materials",
 "l0": false,
@@ -82,6 +87,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-5a9c099223",
 "edgeLabel": "Senior author of the first peer-reviewed UAP materials analysis",
 "id": "garry-nolan",
 "l0": false,
@@ -103,6 +109,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-308635d59d",
 "edgeLabel": "Co-author and source of the sample and its case file",
 "id": "jacques-vallee",
 "l0": false,
@@ -129,6 +136,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-2a1bc41b34",
 "edgeLabel": "NASA Ames aerospace engineer supplying the exclusion arguments",
 "id": "larry-lemke",
 "l0": false,
@@ -155,6 +163,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-856421a8cf",
 "edgeLabel": "Instrument operator and third author",
 "id": "sizun-jiang",
 "l0": false,
@@ -176,6 +185,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-9a84fa729f",
 "edgeLabel": "Sol Briefing No. 3 is the authoritative public exposition of the paper",
 "id": "sol-foundation",
 "l0": true,
@@ -197,6 +207,7 @@
 "dateEnd": "2022",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-e8a651a623",
 "edgeLabel": "Analysis performed with MIBI, a Stanford-developed instrument",
 "id": "stanford-nolan-lab",
 "l0": false,

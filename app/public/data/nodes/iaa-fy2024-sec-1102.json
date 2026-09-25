@@ -5,106 +5,127 @@
 "band": "retrieval",
 "claims": [
 {
+"id": "c-184838b36b",
 "source": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm",
 "text": "The turn-in provision is Sec. 1102 of Division M of S. 2226 as passed by the Senate on 27 July 2023. The Division M table of contents reads 'TITLE XI--OTHER MATTERS Sec. 1101. Modification of reporting requirement for All-domain Anomaly Resolution Office. Sec. 1102. Funding limitations relating to unidentified anomalous phenomena.' The same text appears as Sec. 1104 of S. 2103 as reported by SSCI on 22 June 2023; both citations are correct, to different vehicles.",
 "tier": 1
 },
 {
+"id": "c-9275bbe5cf",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim",
 "text": "The turn-in mandate did not survive conference. Enacted Sec. 7343 of Division G, P.L. 118-31 contains only (a) definitions, (b) a funding limitation and (c) an IR&D limitation. The phrases 'non-earth origin', 'exotic', 'in their possession' and the 60-day deadline appear nowhere in the enacted text.",
 "tier": 1
 },
 {
+"id": "c-ee994c7b88",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim",
 "text": "Enacted Sec. 7343(b) reads: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.'",
 "tier": 1
 },
 {
+"id": "c-c6d658b920",
 "source": "169 Cong. Rec. S3628-S3642 (26 July 2023), granule CREC-2023-07-26-pt1-PgS3627-2",
 "text": "The operative text of Sec. 1102 of Division M has NEVER been read verbatim. Six primary vehicles - govinfo HTML and PDF of S.2226es and S.2103rs, SSCI's engrossed PDF, and both formats of the Congressional Record granule - all fail at the same extraction ceiling. The 60-day deadline, the 'non-earth origin or exotic' language and the make-available-to-AARO mandate therefore rest on a secondary source describing REPORTED Sec. 1104, not engrossed Sec. 1102. This is a downgrade of the board's prior confidence, recorded rather than buried. The text was printed in full as SA 1053 at 169 Cong. Rec. S3628-S3642, which is the citation vehicle a future pass should use.",
 "tier": 2
 },
 {
+"id": "c-2da5c112fe",
 "source": "BILLS-118s2226es Div. M sec. 1102(d)",
 "text": "S. 2226 as engrossed in the Senate, DIVISION M--INTELLIGENCE AUTHORIZATION ACT FOR FISCAL YEAR 2024, Title XI, sec. 1102, 'FUNDING LIMITATIONS RELATING TO UNIDENTIFIED ANOMALOUS PHENOMENA'. Subsection (d) required: 'Any person currently or formerly under contract with the Federal Government that has in their possession material or information provided by or derived from the Federal Government relating to unidentified anomalous phenomena that formerly or currently is protected by any form of special access or restricted access shall-- (1) not later than 60 days after the date of the enactment of this Act, notify the Director of such possession; and (2) not later than 180 days after the date of the enactment of this Act, make available to the Director for assessment, analysis, and inspection-- (A) all such material and information; and (B) a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.'",
 "tier": 1
 },
 {
+"id": "c-4b8436adcd",
 "source": "BILLS-118s2226es Div. M sec. 1102(c)",
 "text": "Sec. 1102(c) of the Senate text enumerated six categories of prohibited unreported activity, including '(1) Recruiting, employing, training, equipping, and operations of, and providing security for, government or contractor personnel with a primary, secondary, or contingency mission of capturing, recovering, and securing unidentified anomalous phenomena craft or pieces and components of such craft'; '(2) Analyzing such craft or pieces or components thereof, including for the purpose of determining properties, material composition, method of manufacture, origin, characteristics, usage and application, performance, operational modalities, or reverse engineering'; '(5) The development of propulsion technology, or aerospace craft that uses propulsion technology ... based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials'; and '(6) Any aerospace craft that uses propulsion technology other than chemical propellants, solar power, or electric ion thrust.'",
 "tier": 1
 },
 {
+"id": "c-4dd612a751",
 "source": "BILLS-118s2226es Div. M sec. 1102(e)",
 "text": "Sec. 1102(e) of the Senate text granted immunity: 'No criminal or civil action may lie or be maintained in any Federal or State court against any person for receiving material or information described in subsection (d) if that person complies with the notification and reporting provisions described in such subsection.'",
 "tier": 1
 },
 {
+"id": "c-8a92266771",
 "source": "BILLS-118s2226es Div. M sec. 1102(b)",
 "text": "Sec. 1102(b) of the Senate text contained a sense of Congress that 'the Federal Government must expand awareness about any historical exotic technology antecedents previously provided by the Federal Government for research and development purposes.'",
 "tier": 1
 },
 {
+"id": "c-4e3609446e",
 "source": "Comparison of BILLS-118s2226es Div. M sec. 1102 with PLAW-118publ31 sec. 7343",
 "text": "The enacted counterpart, sec. 7343 of Public Law 118-31, retains only the funding limitation and the IR&D cost-allowability clause. The contractor notification duty, the 'comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material', the immunity grant, and the six enumerated activity categories were all dropped.",
 "tier": 1
 },
 {
+"id": "c-8a73771f93",
 "source": "S. 2226 as engrossed, Division M, Sec. 1102(d)(2)(B), GPO",
 "text": "Sec. 1102(d)(2)(B) required contractors to provide 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.'",
 "tier": 1
 },
 {
+"id": "c-8ffb271e09",
 "source": "S. 2226 as engrossed, Division M, Sec. 1102(b)(2), GPO",
 "text": "Sec. 1102(b)(2) states the sense of Congress that the Government 'must expand awareness about any historical exotic technology antecedents previously provided by the Federal Government for research and development purposes.'",
 "tier": 1
 },
 {
+"id": "c-49394438c9",
 "source": "S. 2226 as engrossed, Division M, Sec. 1102(f)(2), GPO",
 "text": "Sec. 1102(f)(2) made the independent research and development disallowance applicable 'with respect to funding from amounts appropriated before, on, or after' the effective date.",
 "tier": 1
 },
 {
+"id": "c-254eb32c79",
 "source": "P.L. 118-31, Sec. 7343, compared with S. 2226 Division M Sec. 1102, GPO",
 "text": "The enacted counterpart, Sec. 7343 of P.L. 118-31, retains only the generic funding limitation and a truncated independent research and development clause; subsections (b), (d), (e) and (g) have no enacted counterpart.",
 "tier": 1
 },
 {
+"id": "c-97fa3e715f",
 "source": "Retrieval log of this pass; the six URLs are listed in the sources array of this entity",
 "text": "The operative body of Sec. 1102 was NOT retrieved and remains unread. Six independent primary vehicles for the text were attempted and every one of them was defeated by the same failure mode - the fetch tool's extraction ceiling, which lands somewhere between roughly 92,000 and 145,000 characters depending on the density of the document, and which always truncates from the start of the file forward. The attempts and the exact point each one died: (1) govinfo HTML of the engrossed bill, BILLS-118s2226es.htm, cut at 129,012 characters, still inside Division A; (2) the Senate Intelligence Committee's own posted PDF of the engrossed bill, cut at 103,001 characters, still inside the bill's table of contents, with the Sec. 1102 TOC line reached but no body; (3) the Senate Intelligence Committee's HTML rendering of Division M, cut at 122,645 characters at Title VIII, Sec. 801; (4) govinfo HTML of S. 2103 as reported, cut at 144,209 characters mid-sentence in Title VII; (5) the govinfo PDF of S. 2103 as reported, cut at 91,997 characters at page 67 of the print; (6) the Congressional Record granule containing the full Division M text as SA 1053, PDF cut at 132,368 characters at Sec. 804 and the HTML twin of the same granule cut at 138,797 characters inside Title IX, roughly two printed pages short of Title XI. There is no page-range or byte-range access to any of these, and the Congressional Record link service resolves every page from S3628 through S3642 to the same single granule, so no later starting point exists.",
 "tier": 1
 },
 {
+"id": "c-6310698d4f",
 "source": "Senate Select Committee on Intelligence, 'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023', 9 August 2023 - https://www.intelligence.senate.gov/2023/08/09/legislation-intelligence-authorization-act-fiscal-year-2024-division-m-national-defense/ (posted PDF: https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf) ; and Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service https://www.govinfo.gov/link/crec/169/s/3628 which resolves to https://www.govinfo.gov/content/pkg/CREC-2023-07-26/pdf/CREC-2023-07-26-pt1-PgS3627-2.pdf (HTML twin: https://www.govinfo.gov/content/pkg/CREC-2023-07-26/html/CREC-2023-07-26-pt1-PgS3627-2.htm)",
 "text": "The section number and the shape of Title XI in the engrossed division are now confirmed against TWO independent primary copies rather than one. Both the Senate Intelligence Committee's posting of the engrossed text and the Congressional Record print of SA 1053 carry the identical Title XI table of contents, and Title XI--Other Matters of Division M contains exactly two sections and no others: 'Sec. 1101. Modification of reporting requirement for All-domain Anomaly Resolution Office.' and 'Sec. 1102. Funding limitations relating to unidentified anomalous phenomena.'",
 "tier": 1
 },
 {
+"id": "c-45353250b2",
 "source": "Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service https://www.govinfo.gov/link/crec/169/s/3628 which resolves to https://www.govinfo.gov/content/pkg/CREC-2023-07-26/pdf/CREC-2023-07-26-pt1-PgS3627-2.pdf (HTML twin: https://www.govinfo.gov/content/pkg/CREC-2023-07-26/html/CREC-2023-07-26-pt1-PgS3627-2.htm)",
 "text": "NEW PRIMARY VEHICLE. The text of Division M was submitted on the Senate floor by Sen. Mark Warner as amendment SA 1053 to S. 2226 and printed in full in the Congressional Record for 26 July 2023 at pages S3628-S3642. The internal table of contents of the SA 1053 print uses Division M section numbering - Sec. 1101 and Sec. 1102 - not the S. 2103 reported numbering, which means the Congressional Record print of SA 1053 is a page-addressable primary copy of the same text the board node cites. This is a better citation vehicle than the 2,400-page engrossed bill and it is where a future retrieval attempt with page-level access should be pointed. The govinfo granule is CREC-2023-07-26-pt1-PgS3627-2.",
 "tier": 1
 },
 {
+"id": "c-1cbd75eefa",
 "source": "S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023 - https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm (table of contents, Title XI) ; compared against Senate Select Committee on Intelligence, 'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023', 9 August 2023 - https://www.intelligence.senate.gov/2023/08/09/legislation-intelligence-authorization-act-fiscal-year-2024-division-m-national-defense/ (posted PDF: https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf)",
 "text": "RENUMBERING AND ATTRITION BETWEEN COMMITTEE AND FLOOR. In S. 2103 as reported by the Senate Select Committee on Intelligence on 22 June 2023, Title XI--Other Matters contained four sections: 'Sec. 1101. Modification of reporting requirement for All-domain Anomaly Resolution Office.'; 'Sec. 1102. Modifications to notification on the provision of defense sensitive [support]'; 'Sec. 1103. Modification of congressional oversight of special access programs.'; and 'Sec. 1104. Funding limitations relating to unidentified anomalous phenomena.' The engrossed Division M carries only the first and the last of these, renumbered 1101 and 1102. Two provisions were therefore dropped between committee and the Senate-passed text, and one of the two dropped provisions was a direct amendment to the congressional oversight regime for special access programs. That is a soft joint the board did not previously have: the same intelligence committee that wrote the UAP funding limitation also wrote a special access program oversight amendment alongside it, and only the funding limitation survived to the floor text.",
 "tier": 1
 },
 {
+"id": "c-f34e15b872",
 "source": "Brandi Vincent, 'Senate's intelligence authorization bill questions reverse engineering of government-recovered UAPs', DefenseScoop, 27 June 2023 - https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/",
 "text": "Because the engrossed body was never read, the specific elements the board attributes to Sec. 1102 - a 60-day contractor notification deadline running to the Director of AARO, a 180-day deadline to make material available, the phrase 'non-earth origin or exotic', and the phrase 'assessment, analysis, and inspection' - remain corroborated ONLY by DefenseScoop's 27 June 2023 report, and that report is describing Sec. 1104 of S. 2103 as reported, not Sec. 1102 of Division M as engrossed. The reporter quotes the following fragments inside quotation marks: a mandate on any person currently or formerly under contract with the federal government that 'has in their possession material or information provided by or derived from the' government relating to UAP 'that formerly or currently is protected by any form of special access or restricted access' to notify the AARO Director within 60 days of enactment; and, no later than 180 days after passage, to make 'all such material and information' and 'a comprehensive list of all non-earth origin or exotic [UAP] material' available to AARO for 'assessment, analysis, and inspection'. The bracketed [UAP] is the reporter's insertion, which is itself a sign that the quoted string is being edited. Treat these as reported fragments of the REPORTED text, not as verified text of the ENGROSSED section.",
 "tier": 3
 },
 {
+"id": "c-a6353744ae",
 "source": "Explanatory Statement on the Intelligence Authorization Act for Fiscal Year 2024, printed by Sen. Warner, Congressional Record, Vol. 169, No. 206 (14 December 2023), pp. S5990-S5991 - https://www.govinfo.gov/content/pkg/CREC-2023-12-14/html/CREC-2023-12-14-pt1-PgS5990.htm",
 "text": "ENACTED SUCCESSOR IDENTIFIED AND CONFIRMED FROM A PRIMARY SOURCE. The provision was enacted as Section 7343 of Division G of the National Defense Authorization Act for Fiscal Year 2024, Pub. L. 118-31. The Explanatory Statement to accompany the Intelligence Authorization Act for Fiscal Year 2024, printed in the Congressional Record by Sen. Warner on 14 December 2023 and given the same effect as a joint explanatory statement of a conference committee, states verbatim: 'Section 7343 of the Act provides for funding limitations relating to unidentified anomalous phenomena because of perceptions of insufficient transparency in this area. Section 7343 is also intended to avoid technology and security stovepipes and expand awareness regarding any historical exotic technology antecedents previously provided by the Federal Government for research and development purposes if they are shown to exist. Section 7343 further provides a limitation regarding independent research and development funding to ensure that certain indirect expenses are prohibited.' The explanatory statement says nothing whatever about a 60-day contractor turn-in, a list of non-earth origin material, or a make-available mandate to AARO.",
 "tier": 1
 },
 {
+"id": "c-997f7ec3ad",
 "source": "Statute compilation of the National Defense Authorization Act for Fiscal Year 2024 (Pub. L. 118-31), table of contents - https://www.govinfo.gov/content/pkg/COMPS-17632/pdf/COMPS-17632.pdf",
 "text": "A SECOND, PARALLEL ENACTED PROVISION EXISTS IN DIVISION A. The table of contents of the statute compilation of Pub. L. 118-31 shows 'Sec. 1687. Limitation on use of funds for certain unreported programs.' in Division A, Title XVI, distinct from and in addition to Sec. 7343 in Division G. The board should carry both: the FY2024 NDAA enacted two separate UAP funding-limitation provisions, one in the defence division and one in the intelligence division.",
 "tier": 1
 },
 {
+"id": "c-ea8b1226de",
 "source": "Office of the Law Revision Counsel, 50 U.S.C. 3373, statutory notes (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim",
 "text": "THE ONLY PART OF THE ENACTED FAMILY THAT COULD BE READ VERBATIM CONTAINS NONE OF THE THREE DISPUTED ELEMENTS. The Office of the Law Revision Counsel sets out subsections (b) and (c) of Pub. L. 118-31, div. A, title XVI, Sec. 1687 as a statutory note under 50 U.S.C. 3373, under the heading 'Limitation Regarding Independent Research and Development'. The full text of subsection (b) as set out reads: 'Consistent with Department of Defense Instruction Number 3204.01 (dated August 20, 2014, incorporating change 2, dated July 9, 2020; relating to Department policy for oversight of independent research and development), independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership.' Subsection (c) then defines 'appropriate congressional committees' as the congressional defense committees plus the two intelligence committees, and 'congressional leadership' as the Senate majority and minority leaders and the Speaker and House minority leader. There is no 60-day deadline, no 180-day deadline, no 'non-earth origin or exotic' language, and no reference to AARO anywhere in the enacted text that OLRC chose to print. The sentence also carries a drafting error that survived into law - 'is made available the appropriate congressional committees', with the preposition 'to' missing - which is itself evidence that this is the enacted text and not a paraphrase. NOTE THE LIMIT OF THIS FINDING: it establishes what is in Sec. 1687(b)-(c), not what is in Sec. 7343, whose body was not retrieved. OLRC set out only subsections (b) and (c) of Sec. 1687 and set out no part of Sec. 7343 as a note anywhere the board has checked.",
 "tier": 1
@@ -120,6 +141,7 @@
 "dateEnd": null,
 "dateStart": "2023-06-22",
 "direction": "out",
+"edgeId": "e-61daa5e97a",
 "edgeLabel": "the Senate committee text that would have closed the channel at the contractor end",
 "id": "d-funding",
 "l0": false,
@@ -151,6 +173,7 @@
 "dateEnd": "2023-12-22",
 "dateStart": "2023-06-22",
 "direction": "out",
+"edgeId": "e-d6879916dc",
 "edgeLabel": "a committee-reported provision that did not survive conference in the form reported",
 "id": "d-legislative",
 "l0": false,
@@ -182,6 +205,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-27ae127cee",
 "edgeLabel": "Warner's contractor turn-in targets the same private holders",
 "id": "david-grusch",
 "l0": false,
@@ -203,6 +227,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-80f287a066",
 "edgeLabel": "section node of this act (section number needs verification)",
 "id": "iaa-2024",
 "l0": false,
@@ -239,6 +264,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-5e8104b5f4",
 "edgeLabel": "Author of the IAA FY2024 contractor turn-in",
 "id": "mark-warner",
 "l0": false,
@@ -260,6 +286,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-c03b8847a1",
 "edgeLabel": "Gag-order census feeds the contractor turn-in",
 "id": "ndaa-fy2023-sec-1673",
 "l0": false,
@@ -286,6 +313,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-8e0fed84de",
 "edgeLabel": "Reduced in conference to a bare funding limitation",
 "id": "pl118-31-sec-7343",
 "l0": false,
@@ -312,6 +340,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-95676208b4",
 "edgeLabel": "Dangling cross-reference dates the excision to conference",
 "id": "pl118-31-sec-7343",
 "l0": false,
@@ -338,6 +367,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-ecf3737b13",
 "edgeLabel": "SSCI produced the contractor turn-in language",
 "id": "senate-intelligence",
 "l0": true,
@@ -359,6 +389,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-05d6076932",
 "edgeLabel": "Two independent Senate routes at the same private holdings",
 "id": "uapda-sec-9010-eminent-domain",
 "l0": false,

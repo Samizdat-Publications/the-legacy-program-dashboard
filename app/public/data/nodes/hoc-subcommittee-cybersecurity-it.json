@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-59cb51fb7f",
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Co-chaired the 13 November 2024 joint UAP hearing; its chairwoman entered the 12-page Immaculate Constellation document into the Congressional Record.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-c2a398ac30",
 "edgeLabel": "Co-chaired the 13 November 2024 joint hearing",
 "id": "hearing-2024-11-13",
 "l0": true,
@@ -46,6 +48,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-6c9deef013",
 "edgeLabel": "Parent committee of Mace's subcommittee",
 "id": "house-oversight-committee",
 "l0": true,
@@ -67,6 +70,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-213bf86c7d",
 "edgeLabel": "Chairwoman; presided over the 2024 joint hearing",
 "id": "nancy-mace",
 "l0": false,

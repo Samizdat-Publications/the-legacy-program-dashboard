@@ -27,21 +27,25 @@
 ],
 "claims": [
 {
+"id": "c-245bf88940",
 "source": "NICAP document archive, 470624cascades_docs.pdf; Project Blue Book records, NARA RG 341, microfilm T-1206",
 "text": "Arnold's 24 June 1947 Cascades sighting generated an Army Air Forces investigative file that survives in the declassified record.",
 "tier": 1
 },
 {
+"id": "c-83de6d20e3",
 "source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
 "text": "Project Blue Book and its predecessors logged 12,618 sightings between 1947 and 1969, of which 701 were never identified.",
 "tier": 1
 },
 {
+"id": "c-d26d3f74dc",
 "source": "Contemporaneous wire coverage, 25 June 1947, as reconstructed in the Condon Report Sec. V Ch. 2",
 "text": "The term 'flying saucer' derives from press paraphrase of Arnold's description of the objects' motion, not their shape.",
 "tier": 2
 },
 {
+"id": "c-1dd5f5d398",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
 "text": "The Fourth Air Force 1947 index carries multiple serials of correspondence to and from Kenneth Arnold, including serial 4, an investigation of 'K.M. Arnold, Flying Disc first rept in this area' sent by Headquarters Fourth Air Force to AAF and ADC on 18 July 1947, and serial 9, a 22 July 1947 request from R.A. Palmer of Ventura Press, Evanston, Illinois, for an article about flying saucers from Arnold.",
 "tier": 1
@@ -57,6 +61,7 @@
 "dateEnd": "1969",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-84f49eef40",
 "edgeLabel": "Arnold's case entered the official file series from the outset",
 "id": "project-blue-book",
 "l0": true,
@@ -83,6 +88,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-5f7f5d2b52",
 "edgeLabel": "Arnold's 24 June 1947 sighting opened the wave that Roswell fell inside",
 "id": "roswell-1947",
 "l0": true,

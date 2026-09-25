@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-acb807d46d",
 "source": "Project Condign, Volume 2 Working Paper No. 9 title; Volume 3 header, released MoD copy",
 "text": "Project Condign's product was issued as 'DIS Scientific & Technical Memorandum 55/2/00'.",
 "tier": 1
 },
 {
+"id": "c-2f6a4db792",
 "source": "Unidentified Aerial Phenomena in the UK Air Defence Region, Executive Summary, Study Recommendations, para 15",
 "text": "Key Recommendation: 'It should no longer be a requirement for DI55 to monitor UAP reports as they do not demonstrably provide information useful to Defence Intelligence.'",
 "tier": 1
 },
 {
+"id": "c-5a24a008aa",
 "source": "Unidentified Aerial Phenomena in the UK Air Defence Region, Executive Summary, Subsidiary Recommendations",
 "text": "Subsidiary recommendation: 'it is recommended that there be no further requirement for maintaining the database.'",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2000",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-2a5d9aa82f",
 "edgeLabel": "study commissioned by and reporting on DI55",
 "id": "project-condign",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2000",
 "dateStart": "1960s",
 "direction": "in",
+"edgeId": "e-95817938d0",
 "edgeLabel": "public desk fed the intelligence section's database",
 "id": "uk-mod-ufo-desk",
 "l0": false,

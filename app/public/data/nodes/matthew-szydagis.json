@@ -39,11 +39,13 @@
 ],
 "claims": [
 {
+"id": "c-a5be1805ef",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
 "text": "Szydagis is first author of 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099 (June 2025), with Kevin H. Knuth, Benjamin Kugielsky and Cecilia Levy.",
 "tier": 1
 },
 {
+"id": "c-8a0f4dbcdb",
 "source": "Avi Loeb, Medium, 29 June 2026; Skeptics Society, 15 June 2026",
 "text": "Szydagis was named to the UAP Science Advisory Council in June 2026 with responsibility for instrumentation and data collection.",
 "tier": 2
@@ -59,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2018",
 "direction": "in",
+"edgeId": "e-4789a8b0a6",
 "edgeLabel": "Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work",
 "id": "cecilia-levy",
 "l0": false,
@@ -85,6 +88,7 @@
 "dateEnd": null,
 "dateStart": "2025-06",
 "direction": "out",
+"edgeId": "e-7b03c034f4",
 "edgeLabel": "Co-author of the 34-author UAP review",
 "id": "paper-knuth-2025-new-science",
 "l0": false,
@@ -106,6 +110,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-1f65569ae2",
 "edgeLabel": "Named for instrumentation and data collection",
 "id": "uap-science-advisory-council",
 "l0": true,
@@ -132,6 +137,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-d908a007f9",
 "edgeLabel": "Co-founder; first author of the field-expedition results",
 "id": "uapx",
 "l0": false,
@@ -153,6 +159,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4fd4acceea",
 "edgeLabel": "Employs Szydagis; Associate Professor of Physics, with UAP listed as a departmental research interest",
 "id": "university-at-albany",
 "l0": false,

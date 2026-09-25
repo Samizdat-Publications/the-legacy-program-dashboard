@@ -8,21 +8,25 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-8e5918f395",
 "source": "Reported at Metabunk and in the Hastings material, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ and https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , both opened 2026-09-19",
 "text": "In a 1997 letter to researcher Jim Klotz, Boeing engineer Robert Kaminski wrote that the Echo Flight investigation team found no significant failures, engineering data or findings that would explain how ten missiles were knocked off alert, and that the Air Force unexpectedly ordered the inquiry ended mid-stream with no report to be filed.",
 "tier": 2
 },
 {
+"id": "c-94251f9a10",
 "source": "341st SMW history, Jan-Mar 1967, citing Report of Engineering Investigation of Echo Flight Incident, 23 March 1967, p 17, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "text": "The first half of his account is corroborated by the Air Force's own history, quoting the classified engineering report: 'The investigation teams at Malmstrom, were unable to determine a logical cause for the incident.'",
 "tier": 1
 },
 {
+"id": "c-bc6a492ad6",
 "source": "341st SMW histories, Apr-Jun and Jul-Sep 1967, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "text": "The second half is contradicted by the same source. The history records the investigation continuing at the contractor's facility, Boeing bench testing in its Network Resolution Area that reproduced the Channel 9 and 12 No-Go signature in 60 per cent of 20 applications of a 30 microsecond pulse, transformer-failure simulation tests at Malmstrom during the week of 15 May 1967, and three Boeing engineering change proposals numbered 1221, 1141-1 and 1141-2 plus FCIR MCL 2827.",
 "tier": 1
 },
 {
+"id": "c-00c8b403f0",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "SECTION 2a PROVENANCE. His account reached the public as a private letter to a researcher thirty years after the event, and is published by Robert Hastings. No dated public statement by Kaminski before that letter was identified by the pass of 19 September 2026.",
 "tier": 3
@@ -40,6 +44,7 @@
 "dateEnd": "1997",
 "dateStart": "1967-03",
 "direction": "out",
+"edgeId": "e-86165af218",
 "edgeLabel": "Boeing engineer on the investigation task group",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
@@ -71,6 +76,7 @@
 "dateEnd": "2011",
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-c079909b72",
 "edgeLabel": "Publishes his 1997 letter to Jim Klotz",
 "id": "robert-hastings",
 "l0": false,

@@ -28,16 +28,19 @@
 ],
 "claims": [
 {
+"id": "c-68b267b9f9",
 "source": "Rep. Andy Ogles, 26 July 2023, GPO CHRG-118hhrg53022",
 "text": "'I would encourage the Chairman to demand that we have any and all, but in particular Mr. Grusch, talk to us in a SCIF and if that access is denied I will personally volunteer to initiate the Holman Rule against any personnel or any program or any agency that denies access to Congress.'",
 "tier": 1
 },
 {
+"id": "c-2aad522b90",
 "source": "The Hill, 12 January 2024",
 "text": "After the 12 January 2024 ICIG briefing: what 'most Americans fear is true' - there is 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.' 'I asked very specific questions and was unable to get specific answers.'",
 "tier": 2
 },
 {
+"id": "c-2d17fe2731",
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Waived onto the Task Force on the Declassification of Federal Secrets for the 9 September 2025 hearing.",
 "tier": 1
@@ -53,6 +56,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-633aa5a537",
 "edgeLabel": "Caucus member without an Oversight Committee seat",
 "id": "congressional-uap-caucus",
 "l0": true,
@@ -74,6 +78,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-90e45bbece",
 "edgeLabel": "Emerged describing 'a concerted effort to conceal as much information as possible'",
 "id": "icig-briefing-2024-01-12",
 "l0": false,
@@ -95,6 +100,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-b055c8cb45",
 "edgeLabel": "Named the Holman Rule as the enforcement instrument against officials who deny Congress access",
 "id": "sap-readin-gate",
 "l0": false,

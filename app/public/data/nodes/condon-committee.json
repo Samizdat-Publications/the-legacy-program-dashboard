@@ -5,36 +5,43 @@
 "band": "research",
 "claims": [
 {
+"id": "c-3867c916ed",
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:33:36 and 0:34:29, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
 "text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:33:36, Robert Salas read on air from what he presents as the Colorado project's own record: 'The following interview conducted by Roy Craig, was Lieutenant Colonel Lewis D. Chase, who is chief of the operations division at Malstrom Air Force Base, Montana. The interview is being conducted at Malmstrom on October 19, 1967.' Salas says Chase had earlier confirmed in writing that he coordinated on the UFO activity and then denied the connection to Craig in this interview.",
 "tier": 2
 },
 {
+"id": "c-978369c13d",
 "source": "Lt Col Robert R. Hippler to Dr Edward U. Condon, 16 January 1967, page 2, https://www.nicap.org/docs/HipplerLetters.pdf",
 "text": "The Air Force put the answer it wanted to the project in writing three months into the contract. Hippler's letter to Condon of 16 January 1967 continues: 'It will be at least that long before another independent study can be mounted to see if the Air Force can get out from under this program.' It closes by telling Condon that if the contract expires before the groundwork for a recommendation is laid, extending the contract 'would be less costly than another decade of operating Project Blue Book.'",
 "tier": 1
 },
 {
+"id": "c-e4e7cc1bf4",
 "source": "'Scientific Study of Unidentified Flying Objects', University of Colorado, 1968",
 "text": "The study was conducted under US Air Force contract 44620-67-C-0035 with the University of Colorado, Edward U. Condon scientific director, formed 6 October 1966 and released January 1969.",
 "tier": 1
 },
 {
+"id": "c-0ee887a427",
 "source": "Condon Report, Section V Chapter 2",
 "text": "The report's Section V Chapter 2 records that a classified 'Estimate of the Situation' was prepared in 1948, rejected by Gen. Vandenberg for lacking proof, and that copies were destroyed.",
 "tier": 1
 },
 {
+"id": "c-a599eab8b9",
 "source": "Low memorandum, 9 Aug 1966, University of Colorado",
 "text": "Robert Low's memorandum of 9 August 1966 states 'the trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
 "tier": 1
 },
 {
+"id": "c-faec265a5b",
 "source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
 "text": "The Air Force cited the Colorado study and a National Academy of Sciences review as the basis for terminating Project Blue Book on 17 December 1969.",
 "tier": 1
 },
 {
+"id": "c-0fc3700724",
 "source": "National Academy of Sciences review of the Colorado report, 1969",
 "text": "A National Academy of Sciences panel chaired by Gerald M. Clemence concluded extraterrestrial visitation was 'the least likely explanation' and that no high priority for UFO investigation was warranted.",
 "tier": 2
@@ -50,6 +57,7 @@
 "dateEnd": "1969",
 "dateStart": "1955",
 "direction": "in",
+"edgeId": "e-780a0151a2",
 "edgeLabel": "Both official studies buried an unexplained residue under dismissive conclusions",
 "id": "blue-book-special-report-14",
 "l0": true,
@@ -76,6 +84,7 @@
 "dateEnd": null,
 "dateStart": "1969",
 "direction": "in",
+"edgeId": "e-a225fc597a",
 "edgeLabel": "The Colorado project's own history chapter endorses his debunking book",
 "id": "donald-h-menzel",
 "l0": false,
@@ -97,6 +106,7 @@
 "dateEnd": "1969",
 "dateStart": "1966",
 "direction": "in",
+"edgeId": "e-232e3258de",
 "edgeLabel": "Condon directed the study and wrote its conclusions personally",
 "id": "edward-condon",
 "l0": false,
@@ -118,6 +128,7 @@
 "dateEnd": "1968",
 "dateStart": "1968",
 "direction": "out",
+"edgeId": "e-d0784cf6e4",
 "edgeLabel": "The Condon Report is the primary documentary record of the Estimate's destruction",
 "id": "estimate-of-the-situation",
 "l0": false,
@@ -139,6 +150,7 @@
 "dateEnd": "1969",
 "dateStart": "1968",
 "direction": "in",
+"edgeId": "e-86248b630b",
 "edgeLabel": "RAND was documenting the case for instrumented study as Condon was closing it down",
 "id": "george-kocher",
 "l0": false,
@@ -160,6 +172,7 @@
 "dateEnd": "1966",
 "dateStart": "1966",
 "direction": "in",
+"edgeId": "e-ddf66cd1bc",
 "edgeLabel": "Congressional pressure produced a contracted study, not oversight",
 "id": "hearing-1966-04-05",
 "l0": false,
@@ -181,6 +194,7 @@
 "dateEnd": "1971",
 "dateStart": "1969",
 "direction": "in",
+"edgeId": "e-1f6852d2c7",
 "edgeLabel": "McDonald attacked the Condon Report and was professionally destroyed",
 "id": "james-mcdonald",
 "l0": false,
@@ -202,6 +216,7 @@
 "dateEnd": "1969",
 "dateStart": "1966",
 "direction": "out",
+"edgeId": "e-a215a872a7",
 "edgeLabel": "The Condon Committee was hosted by the University of Colorado at Boulder",
 "id": "l-boulder-co",
 "l0": false,
@@ -223,6 +238,7 @@
 "dateEnd": "1968",
 "dateStart": "1966",
 "direction": "in",
+"edgeId": "e-2b3bc4cf0f",
 "edgeLabel": "The memo states the intent to present differently to public and scientists",
 "id": "low-memo",
 "l0": false,
@@ -244,6 +260,7 @@
 "dateEnd": "1969-12-17",
 "dateStart": "1969-01",
 "direction": "out",
+"edgeId": "e-0f1080df9a",
 "edgeLabel": "The Condon report was the stated basis for terminating Blue Book",
 "id": "project-blue-book",
 "l0": true,
@@ -265,6 +282,7 @@
 "dateEnd": "1969",
 "dateStart": "1969",
 "direction": "out",
+"edgeId": "e-7ddd01f57e",
 "edgeLabel": "The Condon Report was the stated basis for terminating Blue Book",
 "id": "project-blue-book",
 "l0": true,
@@ -286,6 +304,7 @@
 "dateEnd": "1975",
 "dateStart": "1968",
 "direction": "in",
+"edgeId": "e-6e5e7d1b97",
 "edgeLabel": "forwarded Chilean reports to the University of Colorado study",
 "id": "sergio-bravo-flores",
 "l0": false,
@@ -307,6 +326,7 @@
 "dateEnd": "1969",
 "dateStart": "1966",
 "direction": "in",
+"edgeId": "e-f828ae2243",
 "edgeLabel": "Air Force funded the University of Colorado study used to close BLUE BOOK",
 "id": "usaf",
 "l0": true,
@@ -343,6 +363,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-0f1080df9a",
 "label": "The Condon report was the stated basis for terminating Blue Book",
 "note": "The Air Force terminated Project Blue Book on 17 December 1969 in response to the Condon findings, having received the report in November 1968.",
 "of": {

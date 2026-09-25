@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-ebde45b28b",
 "source": "The Age of Disclosure official trailer and teaser descriptions, 2025",
 "text": "The film features 34 senior members of the US Government, military and intelligence community and reveals an alleged 80-year global cover-up of non-human intelligent life and a secret war.",
 "tier": 2
 },
 {
+"id": "c-a12785efe2",
 "source": "The Age of Disclosure official teaser description",
 "text": "On-record participants include General James Clapper, Secretary Marco Rubio, Representative Andre Carson and Jay Stratton, former director of the US Government's UAP Task Force.",
 "tier": 2
 },
 {
+"id": "c-a682c4fbaa",
 "source": "Contemporaneous festival preview coverage, March 2025",
 "text": "The film premiered at SXSW in Austin, Texas on 9 March 2025.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-114f26be3a",
 "edgeLabel": "Director and producer",
 "id": "dan-farah",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-83af772df1",
 "edgeLabel": "Gerb cites the film's characterisation of the Air Force",
 "id": "gerb-hidden-wing",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-d4c4360eaf",
 "edgeLabel": "Former UAP Task Force director appears on record",
 "id": "jay-stratton",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-e254b97466",
 "edgeLabel": "Rubio appears on record in the documentary",
 "id": "marco-rubio",
 "l0": false,

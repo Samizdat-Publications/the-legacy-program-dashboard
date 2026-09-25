@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-fed8b79431",
 "source": "TTSA announcement, 17 October 2019; Bloomberg Government, 21 October 2019",
 "text": "The five-year CRADA was announced on 17 October 2019 and covers inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion.",
 "tier": 2
 },
 {
+"id": "c-ecd304494c",
 "source": "Bloomberg Government, 21 October 2019",
 "text": "The Army stated no public funding would go to the group; the agreement provided at least $750,000 in Army support and resources.",
 "tier": 2
 },
 {
+"id": "c-66be85f297",
 "source": "Inference from the absence of any such publication or release as of August 2026",
 "text": "No technical output, sample characterisation or Army statement of findings from the CRADA has ever been published, despite the agreement running its full nominal five-year term.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2024",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-b4d1f00392",
 "edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
 "id": "adam-research-project",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "2026",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-4f12daff26",
 "edgeLabel": "The chain goes dark inside a federal research agreement",
 "id": "d-custody",
 "l0": false,

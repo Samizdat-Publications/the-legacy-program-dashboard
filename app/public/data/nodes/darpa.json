@@ -5,26 +5,31 @@
 "band": "funding",
 "claims": [
 {
+"id": "c-aea674a897",
 "source": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
 "text": "The agency has a founding instrument and a first Director, and this node has carried neither. DoD Directive 5105.15 of 7 February 1958, reproduced in full in the agency's own commissioned history, reads: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' Its mandate is open-ended by design: the Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.'",
 "tier": 1
 },
 {
+"id": "c-42f0773450",
 "source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
 "text": "The first Director was Roy W. Johnson, not Herbert York. A second agency's record dates the founding and names the officer independently: the CIA Historical Staff Chronology under Jan-Apr 58 reads '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
 "tier": 1
 },
 {
+"id": "c-563d1159a9",
 "source": "DARPA, About, retrieved 12 August 2026",
 "text": "DARPA states it was 'Created in response to the launch of Sputnik in 1957' and is 'an independent research and development agency within the U.S. Department of War (DOW)', with six technical offices.",
 "tier": 1
 },
 {
+"id": "c-cf486093a9",
 "source": "DARPA, About, retrieved 12 August 2026",
 "text": "DARPA's published budget figures as of 2026 are a President's FY2027 request of $5.039 billion and an FY2026 enacted level of $4.322 billion.",
 "tier": 1
 },
 {
+"id": "c-2a10a48940",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
 "text": "DARPA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": "1959",
 "dateStart": "1959",
 "direction": "in",
+"edgeId": "e-25a1074150",
 "edgeLabel": "A copy went to the Director of ARPA at the Pentagon",
 "id": "afswc-tr-59-39",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-230aacfe3e",
 "edgeLabel": "DARPA and the Air Force initiated FALCON in 2003",
 "id": "conventional-prompt-global-strike",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": null,
 "dateStart": "1958-02-07",
 "direction": "out",
+"edgeId": "e-b13a738e83",
 "edgeLabel": "Founded under the authority of the 1947 Act",
 "id": "harry-s-truman",
 "l0": false,
@@ -103,6 +111,7 @@
 "dateEnd": "1959",
 "dateStart": "1959",
 "direction": "in",
+"edgeId": "e-3d2c9cd650",
 "edgeLabel": "Held the ARPA post of Assistant Director, Administration",
 "id": "lawrence-p-gise",
 "l0": false,
@@ -124,6 +133,7 @@
 "dateEnd": null,
 "dateStart": "1958-02-07",
 "direction": "in",
+"edgeId": "e-ff1fa361fd",
 "edgeLabel": "Issued the directive that established ARPA",
 "id": "neil-h-mcelroy",
 "l0": false,
@@ -145,6 +155,7 @@
 "dateEnd": "1985",
 "dateStart": "1978",
 "direction": "in",
+"edgeId": "e-181a47c70a",
 "edgeLabel": "DARPA a named partner in the programme, 1978 to 1985",
 "id": "northrop-tacit-blue",
 "l0": false,
@@ -166,6 +177,7 @@
 "dateEnd": null,
 "dateStart": "2021-06-25",
 "direction": "out",
+"edgeId": "e-60f300dc7d",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
 "id": "odni",
 "l0": true,
@@ -187,6 +199,7 @@
 "dateEnd": null,
 "dateStart": "1984-07-10",
 "direction": "in",
+"edgeId": "e-3ac5085e75",
 "edgeLabel": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
 "id": "tr-3b",
 "l0": true,
@@ -213,6 +226,7 @@
 "dateEnd": null,
 "dateStart": "1958",
 "direction": "out",
+"edgeId": "e-70b8aca7b5",
 "edgeLabel": "The open counterfactual to a concealed breakthrough-technology effort",
 "id": "waived-usap",
 "l0": true,
@@ -246,6 +260,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-3ac5085e75",
 "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
 "note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
 "of": null,

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-a745f08c45",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
 "text": "SCU published '2013 Aguadilla Puerto Rico UAP: The detailed analysis of an Unidentified Anomalous Phenomenon captured by the Department of Homeland Security' by Powell, Beall, Cates, Paulson and Hoffman.",
 "tier": 1
 },
 {
+"id": "c-4c7c52efec",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
 "text": "SCU published 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena' by Powell, Little, Hancock, Hasan and Truong on 7 December 2023.",
 "tier": 1
 },
 {
+"id": "c-b3c5a8446b",
 "source": "SCU Zenodo record, DOI 10.5281/zenodo.7758498 and DOI 10.5281/zenodo.16299623",
 "text": "SCU's Hancock, Porritt and Grosvenor series analysing UAP activity against the United States atomic warfare complex 1945-1975 runs from 2023 through 'UAP Operational Presence 1945-1975' in April 2026.",
 "tier": 1
 },
 {
+"id": "c-07ab10c974",
 "source": "explorescu.org",
 "text": "SCU is a registered 501(c)(3) charitable organisation.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "2010",
 "direction": "out",
+"edgeId": "e-ba554f18c9",
 "edgeLabel": "Builds the documentary counterpart to the physical-sample record",
 "id": "d-materials",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2025-06-08",
 "dateStart": "2025-06-06",
 "direction": "in",
+"edgeId": "e-c52d85dd3c",
 "edgeLabel": "SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office",
 "id": "kevin-knuth",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-a4a3cb084a",
 "edgeLabel": "Publishes the SCU atomic-warfare-complex analyses",
 "id": "limina-journal",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": null,
 "dateStart": "2010",
 "direction": "in",
+"edgeId": "e-39c5dc1d26",
 "edgeLabel": "Founding board member; author of the Stephenville and Aguadilla studies",
 "id": "robert-powell",
 "l0": false,
@@ -124,6 +132,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-b56c0beebf",
 "edgeLabel": "SCU board member and co-author of the 2023 characteristics study",
 "id": "sarah-little",
 "l0": false,

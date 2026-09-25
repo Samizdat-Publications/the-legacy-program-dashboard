@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-755135349e",
 "source": "UAP Digest, 28 January 2026, updated 6 March 2026, citing the publisher",
 "text": "Scheduled for HarperCollins publication on 27 August 2026; publisher description promises 'previously undisclosed evidence'.",
 "tier": 2
 },
 {
+"id": "c-a9e29422a7",
 "source": "UAP Digest, 2026",
 "text": "Elizondo announced a 20-date speaking tour ahead of the release.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-23fed027b7",
 "edgeLabel": "Second book scheduled 27 August 2026",
 "id": "luis-elizondo",
 "l0": false,

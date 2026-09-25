@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-79bb1bb7f3",
 "source": "Fox News, 21 July 2026",
 "text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorized investigators; a senior official said prior NDAs can be abrogated for those cooperating through proper channels.",
 "tier": 2
 },
 {
+"id": "c-645d940fc6",
 "source": "Fox News, 21 July 2026",
 "text": "Officials clarified the directive is 'not a declassification directive' and permits disclosure only to cleared government investigators at AARO or the PURSUE task force.",
 "tier": 2
 },
 {
+"id": "c-8ddd221f0e",
 "source": "Rep. Eric Burlison official press release, 29 July 2026",
 "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - with an offer of assistance and a recommendation that participants request congressional presence and counsel.",
 "tier": 1
 },
 {
+"id": "c-d5eacacf83",
 "source": "Fox News, 21 July 2026",
 "text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators.",
 "tier": 2
 },
 {
+"id": "c-28a5a795e0",
 "source": "Rep. Eric Burlison official press release, 29 July 2026",
 "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - Burlison, offering his office as a channel and recommending congressional presence and counsel.",
 "tier": 1
 },
 {
+"id": "c-9177d5f4a4",
 "source": "Inference from the directive's stated mechanism against the documented outcome of Grusch's ICIG-channel disclosure",
 "text": "A waiver that runs only to cleared government investigators reproduces the exact structure that failed in the Grusch case: the witness is unbound only inside the channel controlled by the institution the witness is accusing.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-e086d2008f",
 "edgeLabel": "The waiver reproduces the channel that failed Grusch",
 "id": "david-grusch",
 "l0": false,
@@ -71,6 +78,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-4166ab222b",
 "edgeLabel": "NDA waiver regime addresses the exact obstacle Grusch's witnesses faced",
 "id": "david-grusch",
 "l0": false,
@@ -97,6 +105,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-f9ed07ffe6",
 "edgeLabel": "Directed the NDA waiver in July 2026",
 "id": "donald-trump",
 "l0": false,
@@ -118,6 +127,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-605264769b",
 "edgeLabel": "Offers his office as a disclosure channel with counsel and congressional presence",
 "id": "eric-burlison",
 "l0": false,
@@ -139,6 +149,7 @@
 "dateEnd": null,
 "dateStart": "2026-07-29",
 "direction": "in",
+"edgeId": "e-eecd9ab45f",
 "edgeLabel": "the paradigm case the waiver addresses",
 "id": "luis-elizondo",
 "l0": false,
@@ -165,6 +176,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-74c9ca2665",
 "edgeLabel": "PURSUE named as an authorized receiving channel for waived-NDA disclosures",
 "id": "pursue-releases",
 "l0": true,

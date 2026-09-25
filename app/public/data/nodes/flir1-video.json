@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-2c02c3f0d8",
 "source": "DoD statement on the release of historical Navy videos, 27 April 2020",
 "text": "DoD authorized release of three unclassified Navy videos filmed November 2004 and January 2015, previously circulated after unauthorized disclosures in 2007 and 2017; 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
 "tier": 1
 },
 {
+"id": "c-9588d8ad3a",
 "source": "DoD statement, 27 April 2020",
 "text": "The videos were made available through the Naval Air Systems Command FOIA reading room.",
 "tier": 1
 },
 {
+"id": "c-01c6194133",
 "source": "AARO SASC open hearing case slides, 19 November 2024",
 "text": "No official assessment of FLIR1 has been published by AARO, unlike GO FAST, Aguadilla and Mt Etna. Reasoning: AARO's 19 Nov 2024 SASC case slides cover the latter three and not FLIR1; absence from a public case-slide deck is not proof no assessment exists, but it is the state of the public record.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2004-11-14",
 "dateStart": "2004-11-14",
 "direction": "in",
+"edgeId": "e-934b118721",
 "edgeLabel": "Underwood produced the FLIR1 tape on a follow-on sortie",
 "id": "chad-underwood",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-841812283a",
 "edgeLabel": "Credited with capturing the ATFLIR footage on 14 Nov 2004",
 "id": "chad-underwood",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": "2020",
 "dateStart": "2004",
 "direction": "out",
+"edgeId": "e-fb91856787",
 "edgeLabel": "Primary sensor artefact of the 2004 encounter, released by DoD in 2020",
 "id": "nimitz-2004",
 "l0": true,
@@ -103,6 +109,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-572ebb3393",
 "edgeLabel": "Published by the New York Times, reopening the subject",
 "id": "nyt-2017-12-16",
 "l0": true,

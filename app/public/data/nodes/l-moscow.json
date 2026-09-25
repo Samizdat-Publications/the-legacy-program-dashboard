@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-e64457051d",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -20,6 +21,7 @@
 "dateEnd": "1990",
 "dateStart": "1977-10",
 "direction": "in",
+"edgeId": "e-5173ffb477",
 "edgeLabel": "run from Moscow: Kremlin decision, MoD institute, IZMIRAN",
 "id": "setka-program",
 "l0": true,

@@ -65,41 +65,49 @@
 ],
 "claims": [
 {
+"id": "c-89a05f7f63",
 "source": "CREC-2023-07-13-pt1-PgS2953",
 "text": "Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
 "tier": 1
 },
 {
+"id": "c-7ddb66b0ac",
 "source": "P.L. 117-81, Sec. 1683, GPO",
 "text": "Sec. 1683 of the FY2022 NDAA (P.L. 117-81) directed establishment of the office within 180 days and is codified at 50 U.S.C. 3373.",
 "tier": 1
 },
 {
+"id": "c-80f7b568e2",
 "source": "P.L. 117-263, Sec. 6802, GPO",
 "text": "IAA FY2023 Sec. 6802 rewrote Sec. 1683 to designate the 'All-domain Anomaly Resolution Office' and added subsection (j), the Historical Record Report, due 540 days after enactment.",
 "tier": 1
 },
 {
+"id": "c-8c212a3c9d",
 "source": "Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026",
 "text": "'Transparency is the only path to truth... I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
 "tier": 2
 },
 {
+"id": "c-61c7245cc2",
 "source": "gillibrand.senate.gov, 15 July 2025",
 "text": "Her FY2026 defense bill announcement claims only 'language to update congressional briefing requirements for UAP' — matching Sec. 1671 of P.L. 119-60, not any disclosure mandate.",
 "tier": 2
 },
 {
+"id": "c-4b3461f034",
 "source": "Public Laws 117-81 and 117-263; AARO annual reports cite 50 U.S.C. 3373(k)",
 "text": "AARO's legal authority and reporting obligations derive from the FY2022 NDAA (P.L. 117-81, 27 December 2021) and the FY2023 NDAA (P.L. 117-263, 23 December 2022), codified at 50 U.S.C. 3373.",
 "tier": 1
 },
 {
+"id": "c-4ac9356f39",
 "source": "Senate Armed Services Committee hearing record; congress.gov S.Hrg. 118-648",
 "text": "Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee hearing of 19 April 2023 on AARO's mission, activities, oversight and budget, published as S.Hrg. 118-648.",
 "tier": 1
 },
 {
+"id": "c-66f404e0c9",
 "source": "Gillibrand opening statements, SASC UAP hearings 2023 and 2024",
 "text": "Gillibrand's standing criticism is that AARO has been under-resourced and slow-walked by the Department relative to its statutory mandate.",
 "tier": 2
@@ -115,6 +123,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-040a7e5e0b",
 "edgeLabel": "authored the statutory mandate and reporting regime AARO operates under",
 "id": "aaro",
 "l0": true,
@@ -136,6 +145,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-0640577000",
 "edgeLabel": "Author of the statute publicly states the obligation is unmet",
 "id": "dow-uap-file-release-2026",
 "l0": false,
@@ -162,6 +172,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-b5bd699648",
 "edgeLabel": "chaired the hearing",
 "id": "hearing-2023-04-19",
 "l0": false,
@@ -183,6 +194,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-96d8f18afc",
 "edgeLabel": "Author of the founding AARO authority",
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
@@ -204,6 +216,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-2a2cd0a682",
 "edgeLabel": "Claims only the briefing-requirement update as her FY2026 UAP win",
 "id": "ndaa-fy2026",
 "l0": true,
@@ -230,6 +243,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-87798512b9",
 "edgeLabel": "Original cosponsor, 13 July 2023",
 "id": "samdt-797",
 "l0": true,
@@ -251,6 +265,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "out",
+"edgeId": "e-4c860e9adc",
 "edgeLabel": "cosponsor",
 "id": "uapda-2023",
 "l0": true,

@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-8f1ebdd1b7",
 "source": "NSF NCSES Master Government List of FFRDCs, FY2026",
 "text": "Project AIR FORCE, the Arroyo Center and the National Defense Research Institute are registered at Santa Monica, California; the Homeland Security Operational Analysis Center is at Arlington, Virginia.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-ff6acd3a6b",
 "edgeLabel": "RAND headquarters since its 1948 formation",
 "id": "rand-corporation",
 "l0": true,

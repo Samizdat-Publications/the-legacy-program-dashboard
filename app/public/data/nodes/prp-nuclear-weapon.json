@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-1a55913478",
 "source": "DoD Directive 5210.42, 25 May 1993, sections A and B, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
 "text": "Scope and purpose: the directive applies to 'DoD military and civilian personnel and contractor employees assigned to PRP positions or in training leading to assignment to PRP positions', and exists to 'ensure the highest possible standards of individual reliability in personnel performing duties associated with nuclear weapons and critical components.'",
 "tier": 1
 },
 {
+"id": "c-d60cce55e6",
 "source": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
 "text": "Disqualification reaches demeanour, not only conduct. Under 'Poor Attitude or Lack of Motivation' the directive lists 'aberrant attitude (arrogance, inflexibility, or suspiciousness), behavior (impulsiveness, destructiveness, or suicide threats), or mood (unusual happiness, sadness, or agitation).'",
 "tier": 1
 },
 {
+"id": "c-adb3f04b95",
 "source": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
 "text": "The medical file is open to the chain without consent: 'medical records may be disclosed to reviewing and certifying officials for this purpose without either a request from, or the consent of, the individuals to whom those records pertain', and the health record is 'marked to reflect assignment of an individual to a PRP position'.",
 "tier": 1
 },
 {
+"id": "c-9ab1fa66e4",
 "source": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
 "text": "The programme runs on self-reporting and peer review. The certifying official's personal interview must inform the individual of 'the individual's responsibility for self-reporting and peer review of factors and situations that could adversely affect job performance or reliability.'",
 "tier": 1
 },
 {
+"id": "c-89d4aa637b",
 "source": "American Alchemy, episode with Mario Woods, 02;41 to 03;36 and 59;33 to 1:00;25; and the Michael Shermer episode of 9 July 2026, 0:13:03",
 "text": "Speakers on the American Alchemy corpus describe PRP as a reason nuclear-site personnel did not report what they saw, and attach a figure of 167 to it. The 167 is Robert Hastings's count of nuclear-base witnesses, not a count of PRP personnel; no opened record supports either the figure or the reporting claim, and the directive contains no provision about reporting aerial phenomena.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-5eb5b2f51e",
 "edgeLabel": "The administrative alternative to classification",
 "id": "d-secrecy",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": "1993-05-25",
 "direction": "out",
+"edgeId": "e-e1df8cc34e",
 "edgeLabel": "Issued under ASD(C3I) authority and binding on every DoD component",
 "id": "dod",
 "l0": true,
@@ -82,6 +89,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-5783d53f40",
 "edgeLabel": "A nuclear weapons installation inside the directive's stated scope",
 "id": "l-malmstrom",
 "l0": false,
@@ -103,6 +111,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-397ebfc3b6",
 "edgeLabel": "The administrative regime his testimony was given against",
 "id": "robert-salas",
 "l0": false,

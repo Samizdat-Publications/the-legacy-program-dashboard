@@ -5,76 +5,91 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-a0f843e2b2",
 "source": "DoD Directive 5205.07, 12 September 2024",
 "text": "DoDD 5205.07 (12 September 2024) establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense', with a Director who must be a general officer, flag officer or SES member reporting directly to DEPSECDEF.",
 "tier": 1
 },
 {
+"id": "c-26d2cda30e",
 "source": "DoD Directive 5205.07, 12 September 2024",
 "text": "The 12 September 2024 issuance of DoDD 5205.07 reissues and cancels the 1 July 2010 directive and incorporates the Deputy Secretary of Defense memorandum on SAP Enterprise Reform of 11 July 2023.",
 "tier": 1
 },
 {
+"id": "c-23dda2baed",
 "source": "DoD Directive 5205.07, 12 September 2024",
 "text": "DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and the OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval.",
 "tier": 1
 },
 {
+"id": "c-8ef7bbf6ef",
 "source": "AARO Historical Record Report Volume I, p. 34",
 "text": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description' and that 'AARO investigators have been granted full access to all pertinent sensitive USG programs'.",
 "tier": 1
 },
 {
+"id": "c-d6102a1386",
 "source": "Inference from AARO Historical Record Report Volume I, p. 34 read against DoDD 5205.07 responsibilities",
 "text": "AARO's assurance of 'full access to all pertinent sensitive USG programs' is unfalsifiable as written, because the determination of which programs are 'pertinent' was made by the same SAPCO enterprise that would be the custodian of any concealed program. Reasoning: the reviewer's scope was set by the reviewed.",
 "tier": 3
 },
 {
+"id": "c-db2a0dfd40",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "DoDD 5205.07 (2010) para 4.c: 'The DoD SAP Central Office (SAPCO), under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
 "tier": 1
 },
 {
+"id": "c-3e8f621578",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "DoDD 5205.07 (2024) restates it: the Director, DoD SAPCO, 'under the authority, direction, and control of the Deputy Secretary of Defense, will be a general officer, flag officer, or Senior Executive Service member or equivalent appointed to oversee day-to-day management of the SAP Enterprise,' serves as proponent for SAP policy, as Executive Secretary of the SAPOC and SRG, as Chair of the SSWG, and as 'primary point of contact for congressional matters', and 'Maintains records of DoD SAP information provided to Congress.'",
 "tier": 1
 },
 {
+"id": "c-60e79a3d32",
 "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
 "text": "DoDM 5205.07 Vol 1, Enclosure 2, para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
 "tier": 1
 },
 {
+"id": "c-0038dadf12",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "DoDD 5205.07 (2010) Enclosure 3, Note 2: 'The Director, DoD SAPCO, has AAA [access approval authority] for all SAPs unless expressly withheld by the Secretary or Deputy Secretary of Defense.' Note 4: the Director 'shall coordinate on PARs for the White House, National Security Council, and political appointees of the Executive Branch.' Note 3: the Director coordinates PARs 'for judicial and other Federal agency personnel for waived programs.'",
 "tier": 1
 },
 {
+"id": "c-1bef795008",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "One office holds: single-point congressional liaison, custody of the record of what was told to Congress, access-approval authority for all SAPs, and the coordination point for White House, NSC, judicial and political-appointee access to waived programs. Every external route into a waived DoD SAP -- legislative, executive and judicial -- transits the same desk, which reports to the Deputy Secretary of Defense and to no one outside the Department. Reasoning stated from DoDD 5205.07 (2010) paras 4.c, 4.e and Enclosure 3 Notes 2-4.",
 "tier": 3
 },
 {
+"id": "c-6ae63c53c0",
 "source": "DoDD 5205.07 (2010), para 4.c",
 "text": "DoDD 5205.07 (2010) para 4.c: DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
 "tier": 1
 },
 {
+"id": "c-1315e4a328",
 "source": "DoDM 5205.07 Volume 1, Enclosure 2, para 3.b",
 "text": "DoDM 5205.07-V1 Enclosure 2 para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
 "tier": 1
 },
 {
+"id": "c-f1f772aebb",
 "source": "DoDI 5205.11, Enclosure 2, para 2.k",
 "text": "DoDI 5205.11 Enclosure 2 para 2.k: DoD SAPCO 'Establishes policies and applicable procedures to satisfy reporting requirements for DSS carve-outs, CFIUS, and treaty matters. Provides DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions.'",
 "tier": 1
 },
 {
+"id": "c-a85641b1b5",
 "source": "DoDD 5205.07 (2024), Director DoD SAPCO responsibilities",
 "text": "DoDD 5205.07 (2024) makes the Director, DoD SAPCO Executive Secretary of the SAPOC and the SRG and Chair of the SSWG, reporting directly to the Deputy Secretary of Defense.",
 "tier": 1
 },
 {
+"id": "c-220bbc2a45",
 "source": "DoDI 5205.11 Enclosure 2; DoDD 5205.07 (2010) paras 4.c and 4.e",
 "text": "DoD SAPCO is simultaneously the office that (a) writes the criteria for reviewing waived programs, (b) confirms which contractor facilities are carved out of DCSA oversight, (c) is the single point of congressional liaison, and (d) must approve any contractor's provision of SAP material to a member of Congress. Those four functions in one office, reporting to the official who signs the waivers, is the structural definition of a closed loop. Reasoning: enumeration of the four responsibilities from DoDI 5205.11 and DoDD 5205.07.",
 "tier": 3
@@ -90,6 +105,7 @@
 "dateEnd": "2024-03",
 "dateStart": "2022-07",
 "direction": "in",
+"edgeId": "e-1670773b6f",
 "edgeLabel": "AARO's SAP review ran through the DoD SAP control office",
 "id": "aaro",
 "l0": true,
@@ -111,6 +127,7 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "in",
+"edgeId": "e-c6630de025",
 "edgeLabel": "DoD SAPCO holds the list of carved-out facilities",
 "id": "carve-out",
 "l0": true,
@@ -132,6 +149,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-12",
 "direction": "out",
+"edgeId": "e-16460b18c3",
 "edgeLabel": "DoDI 5205.11 para. 7.2.h - waived-programme justification materials go only to committee staff directors",
 "id": "classified-annex",
 "l0": true,
@@ -163,6 +181,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-12",
 "direction": "out",
+"edgeId": "e-51e6ce2365",
 "edgeLabel": "the office that holds the Department's SAP portfolio and is its single point of contact to Congress",
 "id": "d-structure",
 "l0": false,
@@ -189,6 +208,7 @@
 "dateEnd": null,
 "dateStart": "2010-07-01",
 "direction": "in",
+"edgeId": "e-c1da82fed6",
 "edgeLabel": "The office that must approve any contractor's provision of SAP material to Congress",
 "id": "david-grusch",
 "l0": false,
@@ -210,6 +230,7 @@
 "dateEnd": "2023-07-26",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-8a075a703e",
 "edgeLabel": "Grusch alleges programs were withheld from the reporting mechanism SAPCO administers",
 "id": "david-grusch",
 "l0": false,
@@ -236,6 +257,7 @@
 "dateEnd": null,
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-12bee43241",
 "edgeLabel": "Central SAP management office under the Deputy Secretary of Defense",
 "id": "dod",
 "l0": true,
@@ -257,6 +279,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c0814acf71",
 "edgeLabel": "The SAPCO staffed the committee from the start",
 "id": "dod-sap-reform-1994",
 "l0": false,
@@ -278,6 +301,7 @@
 "dateEnd": null,
 "dateStart": "2010-07-01",
 "direction": "in",
+"edgeId": "e-414f10a49e",
 "edgeLabel": "Established DoD SAPCO under the Deputy Secretary of Defense",
 "id": "dodd-5205-07-2010",
 "l0": false,
@@ -299,6 +323,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-45d3c17efb",
 "edgeLabel": "assigns it the patent and inspection roles",
 "id": "dodm-5205-07-series",
 "l0": false,
@@ -325,6 +350,7 @@
 "dateEnd": null,
 "dateStart": "2003",
 "direction": "in",
+"edgeId": "e-05472f762d",
 "edgeLabel": "OSD principal for intelligence and security policy in the SAP enterprise",
 "id": "ousdi",
 "l0": true,
@@ -346,6 +372,7 @@
 "dateEnd": null,
 "dateStart": "2010-07-01",
 "direction": "out",
+"edgeId": "e-85b46125e0",
 "edgeLabel": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
 "id": "oversight-congress",
 "l0": true,
@@ -367,6 +394,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-ed3845d0a8",
 "edgeLabel": "all component submissions route through DoD SAPCO",
 "id": "sap-annual-report",
 "l0": false,
@@ -398,6 +426,7 @@
 "dateEnd": "2026",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-41b7af31bd",
 "edgeLabel": "SAPCO administers the read-in architecture Luna described",
 "id": "sap-readin-gate",
 "l0": false,
@@ -424,6 +453,7 @@
 "dateEnd": "2023-12",
 "dateStart": "2022-07",
 "direction": "in",
+"edgeId": "e-bda2094de0",
 "edgeLabel": "AARO Director's programmatic access ran through the SAPCO enterprise",
 "id": "sean-kirkpatrick",
 "l0": false,
@@ -445,6 +475,7 @@
 "dateEnd": null,
 "dateStart": "2026-02-03",
 "direction": "in",
+"edgeId": "e-494c7e9c5b",
 "edgeLabel": "The appropriations tripwire on initiating or modifying a special access programme",
 "id": "sec-8009-sap-notice",
 "l0": false,
@@ -466,6 +497,7 @@
 "dateEnd": null,
 "dateStart": "2010-07-01",
 "direction": "out",
+"edgeId": "e-0ac0889b58",
 "edgeLabel": "Single point of congressional liaison for every DoD special access program",
 "id": "us-house",
 "l0": true,
@@ -492,6 +524,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-12",
 "direction": "out",
+"edgeId": "e-aeaf681082",
 "edgeLabel": "DoDI 5205.11 para. 7.2.a(3) - waived-SAP access limited to chair, ranking member, staff directors and one security manager",
 "id": "waived-sap-notification-group",
 "l0": true,
@@ -528,6 +561,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-12",
 "direction": "out",
+"edgeId": "e-b22909a990",
 "edgeLabel": "DoDI 5205.11 retains the acknowledged / unacknowledged / waived taxonomy the 2024 directive omitted",
 "id": "waived-usap",
 "l0": true,
@@ -554,6 +588,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-96aaaca442",
 "edgeLabel": "contractor disclosure to Congress requires SAPCO approval",
 "id": "waived-usap",
 "l0": true,
@@ -597,6 +632,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-c1da82fed6",
 "label": "The office that must approve any contractor's provision of SAP material to Congress",
 "note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
 "of": null,
@@ -620,6 +656,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-85b46125e0",
 "label": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
 "note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
 "of": null,

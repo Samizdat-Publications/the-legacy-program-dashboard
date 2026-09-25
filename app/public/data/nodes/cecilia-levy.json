@@ -8,21 +8,25 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-6792a476b6",
 "source": "University at Albany, Department of Physics faculty page",
 "text": "Levy is an Associate Professor in the Department of Physics at the University at Albany, with a PhD from the University of Muenster on XENON100 and postdoctoral work at RPI (XENON1T) and Albany (LUX/LZ).",
 "tier": 1
 },
 {
+"id": "c-52d506d565",
 "source": "UAlbany News Center, 4 June 2025",
 "text": "UAlbany's news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences UAPx field-expedition paper: 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx'.",
 "tier": 1
 },
 {
+"id": "c-dfe46c2ed6",
 "source": "University at Albany faculty page publication list",
 "text": "She co-authored the Snowball Chamber paper with Szydagis: 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018).",
 "tier": 1
 },
 {
+"id": "c-47126574ed",
 "source": "Comparison of the two UAlbany Department of Physics faculty pages, retrieved 21 August 2026",
 "text": "Her UAlbany faculty page lists no UAP research interest, in contrast to Szydagis's page, which does. Her UAP involvement is documented through co-authorship and the university press office only.",
 "tier": 2
@@ -38,6 +42,7 @@
 "dateEnd": null,
 "dateStart": "2018",
 "direction": "out",
+"edgeId": "e-4789a8b0a6",
 "edgeLabel": "Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work",
 "id": "matthew-szydagis",
 "l0": false,
@@ -64,6 +69,7 @@
 "dateEnd": null,
 "dateStart": "2025-06-02",
 "direction": "out",
+"edgeId": "e-3f23a72242",
 "edgeLabel": "Co-author of the UAPx field-expedition results",
 "id": "paper-uapx-2025",
 "l0": false,
@@ -85,6 +91,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-56d58ee0a3",
 "edgeLabel": "Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper",
 "id": "university-at-albany",
 "l0": false,

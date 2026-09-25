@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-57379a933e",
 "source": "UAlbany News Center, 4 June 2025",
 "text": "Knuth is lead author; the article was co-written by Szydagis and more than thirty other researchers, and published in a special edition of Progress in Aerospace Sciences in June 2025.",
 "tier": 1
 },
 {
+"id": "c-0a378a3843",
 "source": "SCU press release, 27 June 2025",
 "text": "SCU records the paper as bringing together thirty-four authors, DOI 10.1016/j.paerosci.2025.101097.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2025-06",
 "direction": "in",
+"edgeId": "e-e03253c9b2",
 "edgeLabel": "Lead author of the 34-author UAP review",
 "id": "kevin-knuth",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "2025-06",
 "direction": "in",
+"edgeId": "e-7b03c034f4",
 "edgeLabel": "Co-author of the 34-author UAP review",
 "id": "matthew-szydagis",
 "l0": false,
@@ -67,6 +71,7 @@
 "dateEnd": null,
 "dateStart": "2025-06",
 "direction": "in",
+"edgeId": "e-c216fb66c6",
 "edgeLabel": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
 "id": "university-at-albany",
 "l0": false,

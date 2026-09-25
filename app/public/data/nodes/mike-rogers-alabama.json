@@ -8,11 +8,13 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-322a8c2d86",
 "source": "https://armedservices.house.gov/about/members.htm",
 "text": "Mike Rogers (R-AL 03) is listed as Chairman of the House Armed Services Committee on the committee's official members page.",
 "tier": 1
 },
 {
+"id": "c-7d9cda15ef",
 "source": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress",
 "text": "Rogers was Chairman of the House Armed Services Committee in the 118th Congress, jointly announcing the committee's subcommittee rosters with Ranking Member Adam Smith.",
 "tier": 1
@@ -28,6 +30,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-0a45b4e393",
 "edgeLabel": "seat 7 of 12 - Chairman, House Armed Services",
 "id": "waived-sap-notification-group",
 "l0": true,

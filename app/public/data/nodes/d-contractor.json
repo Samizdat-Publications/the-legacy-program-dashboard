@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-65dd46bffa",
 "source": "GAO-04-332, Industrial Security",
 "text": "GAO-04-332 found that DoD could not provide adequate assurances that its oversight ensures the protection of classified information at contractor facilities.",
 "tier": 1
 },
 {
+"id": "c-4841f84716",
 "source": "House Oversight Committee hearing, 26 July 2023",
 "text": "David Grusch testified on 26 July 2023 that material and programmes had been placed with defence contractors outside congressional oversight.",
 "tier": 2
 },
 {
+"id": "c-6d940e9ef2",
 "source": "Newsmax, 16 May 2026",
 "text": "In May 2026 a group of House Republicans led by Rep. Eric Burlison sent a letter targeting private UFO contractors.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1943-06-01",
 "direction": "in",
+"edgeId": "e-b84969d2ea",
 "edgeLabel": "Advanced projects shops are the industrial home",
 "id": "d-aerospace",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1947-01-01",
 "direction": "out",
+"edgeId": "e-8569ec7f58",
 "edgeLabel": "The seam between government and industry",
 "id": "d-ffrdc-mechanism",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "1967-07-04",
 "direction": "out",
+"edgeId": "e-4c464af296",
 "edgeLabel": "Contractor records are outside the statute",
 "id": "d-foia",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": null,
 "dateStart": "1947-01-01",
 "direction": "in",
+"edgeId": "e-bb0911a8d7",
 "edgeLabel": "Analysis follows possession",
 "id": "d-materials",
 "l0": false,
@@ -119,6 +126,7 @@
 "dateEnd": null,
 "dateStart": "1982",
 "direction": "in",
+"edgeId": "e-d23792cec9",
 "edgeLabel": "Named support-services contractor at a national laboratory",
 "id": "kirk-mayer",
 "l0": false,
@@ -152,6 +160,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-4c464af296",
 "label": "Contractor records are outside the statute",
 "note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
 "of": null,

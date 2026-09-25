@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-564e725434",
 "source": "Congress.gov H.R. 10111 (118th); GPO BILLS-118hr10111ih",
 "text": "Introduced 12 November 2024 by Rep. Tim Burchett; cosponsors Nancy Mace, Anna Paulina Luna and Eric Burlison; referred to Oversight and Accountability and additionally to Intelligence (Permanent Select) and Armed Services.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-b0fc975d66",
 "edgeLabel": "Cosponsor",
 "id": "eric-burlison",
 "l0": false,
@@ -41,6 +43,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-2d118c74de",
 "edgeLabel": "Cosponsor",
 "id": "nancy-mace",
 "l0": false,
@@ -62,6 +65,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-dbaee75587",
 "edgeLabel": "Sponsor",
 "id": "tim-burchett",
 "l0": false,

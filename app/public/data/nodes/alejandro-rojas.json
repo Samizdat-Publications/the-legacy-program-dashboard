@@ -17,6 +17,7 @@
 ],
 "claims": [
 {
+"id": "c-9c07dbbf38",
 "source": "Alejandro Rojas to DefenseScoop, 14 May 2026",
 "text": "'Although there is a lot of information here, there is little context. Case summaries without coordinates, sensor parameters, or altitude data make independent analysis very difficult.'",
 "tier": 2
@@ -32,6 +33,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-4e5792c74f",
 "edgeLabel": "Catalogued the missing fields in the case summaries",
 "id": "pursue-releases",
 "l0": true,

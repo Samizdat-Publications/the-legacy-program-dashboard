@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-a6c2e89db5",
 "source": "Sean Kirkpatrick, Scientific American, 19 January 2024",
 "text": "Kirkpatrick wrote that the crash-retrieval narrative is 'a textbook example of circular reporting' sourced to the same small group of individuals and traceable to Robert Bigelow and AATIP.",
 "tier": 2
 },
 {
+"id": "c-f8e3176ba6",
 "source": "Sean Kirkpatrick, Scientific American, 19 January 2024",
 "text": "Kirkpatrick wrote that whistleblowers who prefer to be 'sensationalist in the public eye' rather than bring evidence to AARO are 'suspect'.",
 "tier": 2
 },
 {
+"id": "c-282590a022",
 "source": "Inference from the publication sequence: departure 1 December 2023, op-ed 19 January 2024, report 8 March 2024",
 "text": "The op-ed's publication seven weeks before Volume I, by an author who had already left the office, previews the report's conclusions in a venue with scientific prestige and no right of reply - a rollout technique, not an analysis.",
 "tier": 3
 },
 {
+"id": "c-ec16d68f6c",
 "source": "Sean Kirkpatrick, Scientific American opinion, 19 January 2024",
 "text": "Argues the allegations derive from inadvertent disclosures of legitimate US programs or from unsupported belief, and describes the milieu as circular reporting among interconnected believers.",
 "tier": 2
 },
 {
+"id": "c-fcd7f330a5",
 "source": "Kirkpatrick interview with Peter Bergen, 23 January 2024",
 "text": "In a follow-on interview, suggested Grusch may have misinterpreted information or fallen under the influence of believers, and called the situation a self-licking ice cream cone.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-d05ecbb9a2",
 "edgeLabel": "Op-ed advanced the report's analytic frame seven weeks early",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -66,6 +72,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-5860adb43a",
 "edgeLabel": "attributes the crash-retrieval narrative to AATIP and the Bigelow circle",
 "id": "luis-elizondo",
 "l0": false,
@@ -87,6 +94,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-720785c4d3",
 "edgeLabel": "names Bigelow as the seeding influence behind the modern belief system",
 "id": "robert-bigelow",
 "l0": false,
@@ -108,6 +116,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-f15528c536",
 "edgeLabel": "authored the op-ed attacking the whistleblowers seven weeks after leaving office",
 "id": "sean-kirkpatrick",
 "l0": false,
@@ -129,6 +138,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-aae62bb24d",
 "edgeLabel": "Bylined attribution of the allegations to circular reporting and unsupported belief",
 "id": "sean-kirkpatrick",
 "l0": false,
@@ -150,6 +160,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-75a2d6412f",
 "edgeLabel": "the 'circular reporting from a small group' thesis, seventeen months before the Air Force was identified as the seeding group",
 "id": "yankee-blue",
 "l0": true,
@@ -191,6 +202,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-5860adb43a",
 "label": "attributes the crash-retrieval narrative to AATIP and the Bigelow circle",
 "note": "Kirkpatrick names AATIP and Robert Bigelow as the origin of what he calls circular reporting, an attack that lands on Elizondo without engaging his account as testimony.",
 "of": {
@@ -220,6 +232,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-720785c4d3",
 "label": "names Bigelow as the seeding influence behind the modern belief system",
 "note": "The op-ed's causal account routes the entire disclosure record back through Bigelow's funding of the AAWSAP/AATIP orbit.",
 "of": {
@@ -249,6 +262,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-aae62bb24d",
 "label": "Bylined attribution of the allegations to circular reporting and unsupported belief",
 "note": "Published 19 January 2024 under Kirkpatrick's own name, seven weeks before AARO's Historical Record Report advanced the same circular-reporting frame. The outgoing director pre-litigated his agency's conclusions in the press.",
 "of": {

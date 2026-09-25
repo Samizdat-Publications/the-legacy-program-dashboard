@@ -5,46 +5,55 @@
 "band": null,
 "claims": [
 {
+"id": "c-8b5163f799",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
 "text": "Defense Intelligence Reference Document titled \"High-Frequency Gravitational Wave Communications\", series \"Acquisition Threat Support\", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-13dd90842d",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-91a7d462e3",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-42379c8da2",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
 "text": "Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-84204cdc79",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The DIA letter of 9 January 2018 lists entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave.'",
 "tier": 1
 },
 {
+"id": "c-13b9e8a1d2",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
 "text": "The released cover page carries the date 6 April 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1004-005; the author field is redacted under (b)(6).",
 "tier": 1
 },
 {
+"id": "c-cd0e60dbe0",
 "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
 "text": "In 2008 the JASON advisory group reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA nevertheless published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010.",
 "tier": 1
 },
 {
+"id": "c-319897c09f",
 "source": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
 "text": "The JASON review is hosted by the Federation of American Scientists at irp.fas.org/agency/dod/jason/gravwaves.pdf.",
 "tier": 1
 },
 {
+"id": "c-86afcad1de",
 "source": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
 "text": "Baker published an open-source counterpart in 2010, 'Utilization of High-Frequency Gravitational Waves for Aerospace Systems and Technology', presented at the Seventh Annual AIAA Southern California Aerospace Systems and Technology Conference on 1 May 2010, claiming HFGW applications in communications, surveillance, remote initiation of nuclear events and propulsion.",
 "tier": 1
@@ -60,6 +69,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-0619bfdf67",
 "edgeLabel": "DIA money spent on HFGW after JASON's rejection",
 "id": "aawsap",
 "l0": true,
@@ -96,6 +106,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-8303c3ddc9",
 "edgeLabel": "subject domain: gravitational-wave communications and surveillance",
 "id": "d-signals",
 "l0": false,
@@ -132,6 +143,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5dc9b97005",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -153,6 +165,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-685b9f4b44",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -179,6 +192,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-b9aec3769b",
 "edgeLabel": "JASON found the underlying physics wrong two years before DIA published the DIRD",
 "id": "jason-advisory-group",
 "l0": false,
@@ -215,6 +229,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-dbdb187cc4",
 "edgeLabel": "authored by Robert M. L. Baker Jr., GravWave LLC",
 "id": "robert-baker",
 "l0": false,
@@ -271,6 +286,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-b9aec3769b",
 "label": "JASON found the underlying physics wrong two years before DIA published the DIRD",
 "note": "In 2008 JASON reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it at the root: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010 regardless. This is the sharpest available evidence of AAWSAP's quality-control failure: the programme placed on a JWICS-hosted DIA reference series a topic the government's own senior scientific review body had already assessed as wrong and whose threat premise it had declared not credible. It is also the only case in the 38 where an external government review directly contradicts a published deliverable.",
 "of": {

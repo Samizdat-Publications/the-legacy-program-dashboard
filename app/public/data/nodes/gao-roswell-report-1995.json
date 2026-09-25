@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-f3df279e28",
 "source": "GAO/NSIAD-95-187, 28 July 1995",
 "text": "'RAAF administrative records (from Mar. 1945 through Dec. 1949) and RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed. The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
 "tier": 1
 },
 {
+"id": "c-1a029435d2",
 "source": "GAO/NSIAD-95-187",
 "text": "'Our search for government records concerning the Roswell crash yielded two records originating in 1947.'",
 "tier": 1
 },
 {
+"id": "c-080c401cf3",
 "source": "GAO/NSIAD-95-187, appendix",
 "text": "GAO's record-set search list includes 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy.'",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "1995",
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-b884702b71",
 "edgeLabel": "GAO found the relevant RAAF records destroyed with no recorded authority",
 "id": "l-roswell",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1995",
 "dateStart": "1994",
 "direction": "in",
+"edgeId": "e-5bdf6e3ac1",
 "edgeLabel": "The initiative's live period coincides with the GAO records audit and its retention in the White House Roswell file",
 "id": "rockefeller-initiative",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": "1995",
 "dateStart": "1994",
 "direction": "in",
+"edgeId": "e-9b2e5bdf90",
 "edgeLabel": "Schiff directed GAO to conduct the government-wide records search",
 "id": "steven-schiff",
 "l0": false,

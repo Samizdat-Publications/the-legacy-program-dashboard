@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-b68da772df",
 "source": "The War Zone, 30 October 2024",
 "text": "The NORAD commander publicly addressed the December 2023 unidentified incursions over Langley AFB in October 2024.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-b2e9a34b93",
 "edgeLabel": "DoD installation; NORAD/USNORTHCOM response",
 "id": "dod",
 "l0": true,
@@ -46,6 +48,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-06",
 "direction": "out",
+"edgeId": "e-183aba30de",
 "edgeLabel": "site of the December 2023 incursions",
 "id": "langley-2023-incursions",
 "l0": true,

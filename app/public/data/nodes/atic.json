@@ -5,36 +5,43 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-bae151092d",
 "source": "AEROSPACE TECHNICAL INTELLIGENCE CENTER, Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
 "text": "The lineage is a discontinuation and a new constitution, not a renaming: 'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961', and 'On 1 July 1961, the organization was inactivated and the mission and resources absorbed by the Foreign Technology Division (FTD)'. Tier 2 because the compilation carrying this text is a private site citing the Air Force Historical Research Agency, and AFHRA's own pages return HTTP 403 from this environment.",
 "tier": 2
 },
 {
+"id": "c-a6c4689344",
 "source": "USAF Fact Sheet on Project Blue Book; Condon Report Sec. V Ch. 2",
 "text": "Projects SIGN, GRUDGE and Blue Book were all hosted at Wright-Patterson AFB under Air Materiel Command intelligence and its successor ATIC.",
 "tier": 1
 },
 {
+"id": "c-fa327a2e32",
 "source": "Project Blue Book Special Report No. 14, ATIC, 5 May 1955, title page",
 "text": "ATIC issued Project Blue Book Special Report No. 14 on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
 "tier": 1
 },
 {
+"id": "c-1d14b45f7e",
 "source": "AFR 200-2, 12 Aug 1954",
 "text": "Under AFR 200-2 (12 August 1954), ATIC was the terminal analytical authority for unidentified reports after the Air Defense Command and the 4602d Air Intelligence Service Squadron had exhausted identification.",
 "tier": 1
 },
 {
+"id": "c-3ec1ec7c73",
 "source": "Inference from the organisational placement documented in the Condon Report and the USAF fact sheet",
 "text": "Assigning the phenomenon to the foreign-materiel exploitation centre rather than to a research or air-defence organisation indicates the problem was framed institutionally as hardware exploitation from the outset.",
 "tier": 3
 },
 {
+"id": "c-98e664d9c0",
 "source": "AFR 200-2, 26 August 1953, paragraph 4a, read off the release scan",
 "text": "ATIC's designation as the terminal analytical authority is on the face of the 1953 edition as well as the 1954 one. AFR 200-2 of 26 August 1953, paragraph 4a: 'The Air Technical Intelligence Center (ATIC), Wright-Patterson Air Force Base, Ohio, has been designated the Air Force activity responsible for conducting analysis of information and evidence.'",
 "tier": 1
 },
 {
+"id": "c-9fed41fdc6",
 "source": "AFR 200-2, 26 August 1953 and 12 August 1954, full text of both editions",
 "text": "The claim that AFR 200-2 'routed reports to ATIC rather than to Blue Book' is a category error: Project Blue Book was a project inside ATIC at Wright-Patterson, and the 1953 regulation does not mention Blue Book at all in either edition, because naming ATIC is naming Blue Book's own host.",
 "tier": 1
@@ -50,6 +57,7 @@
 "dateEnd": "1969",
 "dateStart": "1954",
 "direction": "in",
+"edgeId": "e-0a3b74b36b",
 "edgeLabel": "ATIC was the terminal analytical authority under the regulation",
 "id": "afr-200-2",
 "l0": false,
@@ -71,6 +79,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "in",
+"edgeId": "e-5c6dff3fc3",
 "edgeLabel": "ATIC issued Special Report No. 14",
 "id": "blue-book-special-report-14",
 "l0": true,
@@ -92,6 +101,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-4cc73b994d",
 "edgeLabel": "ATIC discontinued 1 July 1961; FTD constituted the same day and absorbed its mission",
 "id": "foreign-technology-division",
 "l0": false,
@@ -113,6 +123,7 @@
 "dateEnd": "1951",
 "dateStart": "1945",
 "direction": "in",
+"edgeId": "e-2ac7244aad",
 "edgeLabel": "McCoy ran AMC/T-2 intelligence, the exploitation node",
 "id": "howard-mccoy",
 "l0": false,
@@ -139,6 +150,7 @@
 "dateEnd": null,
 "dateStart": "1951",
 "direction": "out",
+"edgeId": "e-7ccd9e56bf",
 "edgeLabel": "ATIC and its successors were and are headquartered at Wright-Patterson",
 "id": "l-wright-patterson",
 "l0": false,
@@ -160,6 +172,7 @@
 "dateEnd": null,
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-ea29bbf6b0",
 "edgeLabel": "ATIC and every legacy UFO project were located at Wright-Patterson",
 "id": "l-wright-patterson",
 "l0": false,
@@ -186,6 +199,7 @@
 "dateEnd": "1949",
 "dateStart": "1948",
 "direction": "in",
+"edgeId": "e-1d9d8bd6f1",
 "edgeLabel": "SIGN hosted by AMC intelligence at Wright Field, ATIC's predecessor",
 "id": "project-sign",
 "l0": false,
@@ -212,6 +226,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "in",
+"edgeId": "e-58b0d26eae",
 "edgeLabel": "One of the two issuing organisations, and the one on the title page imprint",
 "id": "tr-ac-47-silver-bug",
 "l0": false,

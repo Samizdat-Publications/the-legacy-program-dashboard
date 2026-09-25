@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-3d5a85d05d",
 "source": "US Air Force / Langley AFB statement to The War Zone, 15 March 2024",
 "text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
 "tier": 1
 },
 {
+"id": "c-02e67eb50b",
 "source": "The War Zone, 9 October 2024",
 "text": "Protective netting to shield F-22s was under consideration by October 2024.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-9bacf7d6b0",
 "edgeLabel": "Site of the December 2023 incursions",
 "id": "langley-2023-incursions",
 "l0": true,

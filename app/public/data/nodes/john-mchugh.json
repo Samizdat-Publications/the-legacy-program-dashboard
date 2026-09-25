@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-a6624ac578",
 "source": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
 "text": "A House Armed Services Committee statement dated 2 June 2009 describes McHugh as 'House Armed Services Committee Ranking Member John M. McHugh (R-NY)' and states that 'Congressman McHugh took the reins as Ranking Member of the House Armed Services Committee in January.'",
 "tier": 1
 },
 {
+"id": "c-73a2f2ad8f",
 "source": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
 "text": "McHugh had left the ranking seat by 16 June 2009, when Chairman Skelton issued a statement congratulating Buck McKeon on his election as the committee's Ranking Member.",
 "tier": 1
 },
 {
+"id": "c-ddcc9534aa",
 "source": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
 "text": "McHugh was sworn in as Secretary of the Army in 2009, after leaving the House Armed Services ranking seat.",
 "tier": 2
@@ -33,6 +36,7 @@
 "dateEnd": "2009-09-21",
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-eb791960aa",
 "edgeLabel": "Representative, New York 23rd district, until 21 September 2009",
 "id": "us-house",
 "l0": true,
@@ -64,6 +68,7 @@
 "dateEnd": "2009-06-16",
 "dateStart": "2009-01-06",
 "direction": "out",
+"edgeId": "e-69044cbc2f",
 "edgeLabel": "Ranking Member, House Armed Services Committee",
 "id": "waived-sap-notification-group",
 "l0": true,

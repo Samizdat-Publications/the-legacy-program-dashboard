@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-4b889d8af6",
 "source": "Inference from the research corpus",
 "text": "l-cambridge-ma and l-cambridge denote the same city and should be merged. Reasoning: identical loc strings on the referencing person records.",
 "tier": 3
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-9941e267ee",
 "edgeLabel": "Loeb's Harvard base; launched the project from here",
 "id": "avi-loeb",
 "l0": false,
@@ -51,6 +53,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-b0cfedcf3e",
 "edgeLabel": "first Galileo Observatory, Harvard College Observatory roof",
 "id": "galileo-project",
 "l0": true,

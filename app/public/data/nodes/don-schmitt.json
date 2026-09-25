@@ -27,11 +27,13 @@
 ],
 "claims": [
 {
+"id": "c-70e77a8eb7",
 "source": "Library catalogue record, Internet Archive isbn_9780380778034",
 "text": "Schmitt is joint author of record on 'The truth about the UFO crash at Roswell' (1994); some printings misspell his name as 'Schmit' on the title page.",
 "tier": 1
 },
 {
+"id": "c-f77916cd1d",
 "source": "Comparison of the two books' published scenarios",
 "text": "The divergence between the 1991 and 1994 Randle-Schmitt crash scenarios is evidence that the Roswell witness pool was being over-fitted: the same authors, working the same case three years apart, produced materially different impact sites and timelines. Reasoning: scenario instability of that magnitude across a single research team indicates witness supply exceeding witness quality.",
 "tier": 3
@@ -49,6 +51,7 @@
 "dateEnd": "1996",
 "dateStart": "1991",
 "direction": "in",
+"edgeId": "e-c3b4efeb70",
 "edgeLabel": "Co-authors of the two Roswell books, later estranged",
 "id": "kevin-randle",
 "l0": false,
@@ -70,6 +73,7 @@
 "dateEnd": "2007",
 "dateStart": "2002-12",
 "direction": "in",
+"edgeId": "e-bd781c8cb0",
 "edgeLabel": "Schmitt drafted and embargoed the 2002 Haut affidavit",
 "id": "walter-haut",
 "l0": false,

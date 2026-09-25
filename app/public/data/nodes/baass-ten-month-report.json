@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-294a417c86",
 "source": "Leaked BAASS Ten Month Report (2009), publicly circulated and analysed since 2020",
 "text": "BAASS delivered a 494-page Ten Month Report to DIA in July 2009 integrating laboratory physics research with field investigation, case database construction and sustained operations at the Utah ranch.",
 "tier": 2
 },
 {
+"id": "c-d2e6e56397",
 "source": "DIA FOIA response reported by Jack Brewer, The UFO Trail, March 2022 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "DIA reported it could locate no report matching the description of 'Utah Ranch Investigation: August 2009-February 2010' as described by Lacatski and co-authors.",
 "tier": 2
 },
 {
+"id": "c-bea45d6610",
 "source": "AARO Historical Record Report Volume 1, p.23 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "DoD confirms the contractor investigated 'an alleged hotspot of UAP and paranormal activity at a property in Utah'.",
 "tier": 2
 },
 {
+"id": "c-242bc0520c",
 "source": "Inference from the contract's deliverable schedule against the FOIA no-records response",
 "text": "DIA's inability to locate the Utah ranch report, in a program whose contract required monthly status reports and project management plans, indicates the field investigation record was either held by the contractor rather than the government or was not filed into DIA's searchable records system.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-62a2ff3408",
 "edgeLabel": "delivered the 494-page report to DIA",
 "id": "baass",
 "l0": true,

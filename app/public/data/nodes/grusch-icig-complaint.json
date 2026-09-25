@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-5ba9eae189",
 "source": "Grusch sworn testimony 26 July 2023; The Debrief 5 June 2023; unclassified reprisal complaint reported 13 June 2023",
 "text": "Filed 25 May 2022 with the ICIG by counsel Charles McCullough III; found credible and urgent in July 2022.",
 "tier": 1
 },
 {
+"id": "c-1eb7df41a9",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Grusch's unclassified description of the complaint's subject: 'Both material acquisition and exploitation activity, also baselining the UAPs but not sharing it with intelligence professionals that are actually doing step briefs to pilots.'",
 "tier": 1
 },
 {
+"id": "c-23942641f5",
 "source": "Unclassified reprisal complaint reported by Liberation Times, 13 June 2023",
 "text": "The reprisal complaint alleges Grusch's identity and his DoD IG communications were disclosed to DoD and IC entities outside the IG's office.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2022",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-a0dfc37ff4",
 "edgeLabel": "Filed the complaint as counsel; former ICIG filing with the ICIG",
 "id": "charles-mccullough-iii",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2022",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-bbc013b4fe",
 "edgeLabel": "Complainant of record, PPD-19 urgent concern, 25 May 2022",
 "id": "david-grusch",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": null,
 "dateStart": "2022-05-01",
 "direction": "out",
+"edgeId": "e-a5b0ba5ba9",
 "edgeLabel": "An urgent concern complaint enters a system whose SAP layer is itself compartmented",
 "id": "gang-of-eight",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-769d9ca402",
 "edgeLabel": "Fourteen months from urgent-concern determination to public testimony",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -124,6 +131,7 @@
 "dateEnd": "2022",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-83b775741d",
 "edgeLabel": "Determined the complaint credible and urgent, July 2022",
 "id": "icig",
 "l0": false,

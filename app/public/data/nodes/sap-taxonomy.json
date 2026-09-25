@@ -5,51 +5,61 @@
 "band": null,
 "claims": [
 {
+"id": "c-a7cc1515a8",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "DoDI 5205.11 (2024) glossary: 'acknowledged SAP: A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details are classified.' 'unacknowledged SAP: A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged.' 'waived SAP: A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security.'",
 "tier": 1
 },
 {
+"id": "c-89ee624945",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "DoDD 5205.07 (2010) glossary is more explicit on the nesting: 'waived SAP. A SAP for which the Secretary of Defense has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls.' And: 'unacknowledged SAP. A SAP having protective controls ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.'",
 "tier": 1
 },
 {
+"id": "c-127bc39a52",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "DoDI 5205.11 para 1.2.f makes the nesting operative: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security.' Waived is a strict subset of unacknowledged; there is no such thing as a waived acknowledged SAP.",
 "tier": 1
 },
 {
+"id": "c-fa8f5f4f53",
 "source": "DoDI 5205.11, Glossary Part II",
 "text": "DoDI 5205.11 Glossary: 'acknowledged SAP. A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details (technologies, materials, techniques, etc.,) are classified as specified in the applicable SCG.'",
 "tier": 1
 },
 {
+"id": "c-4d4cce859c",
 "source": "DoDI 5205.11, Glossary Part II",
 "text": "DoDI 5205.11 Glossary: 'unacknowledged SAP. A SAP having enhanced security measures ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.'",
 "tier": 1
 },
 {
+"id": "c-31436fb01c",
 "source": "DoDI 5205.11, Glossary Part II",
 "text": "DoDI 5205.11 Glossary: 'waived SAP. A SAP for which the SecDef has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.'",
 "tier": 1
 },
 {
+"id": "c-52425bf3f8",
 "source": "DoDD 5205.07 (2010), Glossary Part II",
 "text": "DoDD 5205.07 (2010) Glossary: 'operations and support SAP. A SAP established primarily to protect the planning for, execution of, and support to especially sensitive military operations. An operations and support SAP may protect organizations, property, operational concepts, plans, or activities.'",
 "tier": 1
 },
 {
+"id": "c-9d9f50eb15",
 "source": "DoDD 5205.07 (2010), Glossary Part II",
 "text": "DoDD 5205.07 (2010) Glossary: 'acquisition SAP. A SAP established to protect sensitive research, development, testing and evaluation, modification, and procurement activities.'",
 "tier": 1
 },
 {
+"id": "c-8c9bd67fdf",
 "source": "DoDI 5205.11, Glossary Part II",
 "text": "DoDI 5205.11 Glossary: 'umbrella. A SAP may also be referred to as an \"umbrella\" if the SAP has subordinate elements, referred as compartments, sub-compartments, or projects.'",
 "tier": 1
 },
 {
+"id": "c-fc48a35ede",
 "source": "DoDD 5205.07 (2010) category definitions applied to the alleged activity",
 "text": "A legacy material-recovery and exploitation effort would map onto the taxonomy as a waived unacknowledged operations and support SAP (recovery and custody of property) with a subordinate acquisition SAP compartment (exploitation and engineering), under a single umbrella. Reasoning: the DoD definitions of operations and support SAP - expressly covering 'property' - and acquisition SAP together describe recovery-plus-reverse-engineering with no strain.",
 "tier": 3
@@ -65,6 +75,7 @@
 "dateEnd": null,
 "dateStart": "2011-12-30",
 "direction": "in",
+"edgeId": "e-53d66f00fb",
 "edgeLabel": "Gives special access programs their own marking category in the banner line",
 "id": "capco-register",
 "l0": false,
@@ -86,6 +97,7 @@
 "dateEnd": null,
 "dateStart": "2021-02-24",
 "direction": "in",
+"edgeId": "e-a4039fc7a5",
 "edgeLabel": "Supplies the regulatory definition of a special access program binding on contractors",
 "id": "cfr-32-117",
 "l0": false,
@@ -107,6 +119,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-12",
 "direction": "in",
+"edgeId": "e-fadcb75947",
 "edgeLabel": "The 2024 reissue deletes acknowledged, unacknowledged, waived and carve-out from the definitions",
 "id": "dodd-5205-07-2024",
 "l0": false,
@@ -128,6 +141,7 @@
 "dateEnd": null,
 "dateStart": "2009-12-29",
 "direction": "in",
+"edgeId": "e-7ef6286d69",
 "edgeLabel": "All SAP categories descend from a single executive order provision",
 "id": "eo-13526",
 "l0": true,
@@ -154,6 +168,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-a9db3c9949",
 "edgeLabel": "6603 bars CAP-to-SAP capability transfer without notice",
 "id": "usc-50-3091a-2024amend",
 "l0": false,
@@ -175,6 +190,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-103a84bb1e",
 "edgeLabel": "bars movement between the categories",
 "id": "usc-50-3091a-2024amend",
 "l0": false,
@@ -196,6 +212,7 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "out",
+"edgeId": "e-e3ca754e2b",
 "edgeLabel": "Waived is the terminal state of the taxonomy",
 "id": "waived-usap-mechanism",
 "l0": true,
@@ -232,6 +249,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-fadcb75947",
 "label": "The 2024 reissue deletes acknowledged, unacknowledged, waived and carve-out from the definitions",
 "note": "The glossary of the 12 September 2024 directive substitutes 'Joint Force Integration SAP' and 'Strategic Enabler SAP' and contains none of the four prior terms.",
 "of": {

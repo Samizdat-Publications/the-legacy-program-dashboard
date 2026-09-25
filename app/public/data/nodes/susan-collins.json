@@ -8,11 +8,13 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-d1620f1d1e",
 "source": "https://www.appropriations.senate.gov/about/members",
 "text": "Susan Collins (R-ME) is listed as Chair of the Senate Appropriations Committee on the committee's official members page.",
 "tier": 1
 },
 {
+"id": "c-2c03da0115",
 "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
 "text": "In the 118th Congress Collins was the ranking minority member of the Senate Appropriations Committee and also the ranking minority member of its Defense Subcommittee, which was chaired by Jon Tester.",
 "tier": 1
@@ -28,6 +30,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-7c1a543371",
 "edgeLabel": "seat 3 of 12 - Chair, Senate Appropriations",
 "id": "waived-sap-notification-group",
 "l0": true,

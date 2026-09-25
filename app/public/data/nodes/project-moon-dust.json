@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-11090d2b01",
 "source": "The Black Vault, Project Moon Dust document archive, 4 Mar 2015",
 "text": "Department of State records on Project MOON DUST have been released under FOIA, including a 22-page file and a two-page file declassified by the Central Intelligence Agency.",
 "tier": 1
 },
 {
+"id": "c-3fea956d6f",
 "source": "Department of State releases, Project Moon Dust files",
 "text": "MOON DUST is officially described as an operation to recover objects and debris from space vehicles that survived re-entry.",
 "tier": 1
 },
 {
+"id": "c-f9f90389bf",
 "source": "Inference from the programme's charter scope, the existence of post-1969 State Department MOON DUST cable traffic, and the absence of any published termination order.",
 "text": "MOON DUST's retrieval tasking survived the 1969 closure of Project Blue Book, meaning the United States retained a recovery capability after publicly terminating its investigative one.",
 "tier": 3
 },
 {
+"id": "c-96180ce2ed",
 "source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.30; and History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.62",
 "text": "The figures commonly quoted as MOON DUST recoveries are notifications of deorbit received, not objects recovered. The 1127th's own history records that SPADATS 'notified AFNIAA of the deorbit of 37 Soviet space objects' in the first half of 1967, and the companion history of the Assistant Chief of Staff, Intelligence records 'notifications of the deorbit of 49 Soviet space objects (rocket bodies, payloads, and space platforms), and of 17 US space objects considered to be of special importance' in the second half. Deorbit notification is the tasking trigger; recovery is a separate act neither document counts.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-fdb10d09d0",
 "edgeLabel": "AARO's 2024 historical review does not mention MOON DUST or BLUE FLY",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -61,6 +66,7 @@
 "dateEnd": "2009",
 "dateStart": "2003-01-31",
 "direction": "in",
+"edgeId": "e-52dfa0c314",
 "edgeLabel": "Project Moon Dust records were an express object of the FOIA request",
 "id": "kean-v-nasa",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": null,
 "dateStart": "1961",
 "direction": "out",
+"edgeId": "e-fc53f72232",
 "edgeLabel": "BLUE FLY provided the quick-reaction airlift for MOON DUST recoveries",
 "id": "operation-blue-fly",
 "l0": false,
@@ -108,6 +115,7 @@
 "dateEnd": "1969",
 "dateStart": "1961",
 "direction": "out",
+"edgeId": "e-acd43d41ac",
 "edgeLabel": "MOON DUST was the retrieval function alongside Blue Book's public sighting file",
 "id": "project-blue-book",
 "l0": true,
@@ -134,6 +142,7 @@
 "dateEnd": "1967",
 "dateStart": "1967",
 "direction": "in",
+"edgeId": "e-db1b89092b",
 "edgeLabel": "ran MOON DUST under its Foreign Materiel Program",
 "id": "usaf-1127th-field-activities-group",
 "l0": false,
@@ -170,6 +179,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-fdb10d09d0",
 "label": "AARO's 2024 historical review does not mention MOON DUST or BLUE FLY",
 "note": "A review commissioned to establish the historical record of USG involvement with UAP omits the named USG programmes whose charter was the recovery of unidentified fallen objects.",
 "of": {

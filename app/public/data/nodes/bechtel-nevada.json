@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-a533456e7c",
 "source": "OSTI.GOV record, Nevada Test Site Environmental Report 2005",
 "text": "Bechtel Nevada is the research organisation of record on DOE Nevada Test Site technical and environmental reports through 2006, succeeded by National Security Technologies, LLC.",
 "tier": 1
 },
 {
+"id": "c-e71905b59a",
 "source": "Board inference from the Atomic Energy Act classification structure and 10 U.S.C. Sec. 119",
 "text": "DOE management and operating contractors hold material under Atomic Energy Act Restricted Data authorities that are structurally outside the DoD special access program reporting regime in 10 U.S.C. Sec. 119. Reasoning: the two classification systems are separate statutory schemes; no document places UAP material under DOE authority.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "2006",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-939a1c4be9",
 "edgeLabel": "Bechtel Nevada held the DOE management and operating contract for the Nevada Test Site 1996-2006",
 "id": "l-nevada-test-site",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-bfb79d4a7a",
 "edgeLabel": "DOE contractor custody sits outside the DoD special access program reporting regime entirely",
 "id": "usc-10-119",
 "l0": true,

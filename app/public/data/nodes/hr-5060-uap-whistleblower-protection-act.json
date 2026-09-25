@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-8ca1eeb6a8",
 "source": "Congress.gov H.R. 5060 (119th); GPO BILLS-119hr5060ih",
 "text": "Introduced 29 August 2025 by Rep. Tim Burchett; cosponsors Anna Paulina Luna and Elijah Crane; referred to Oversight and Government Reform and additionally to Armed Services and Intelligence (Permanent Select).",
 "tier": 1
 },
 {
+"id": "c-ea62b8981e",
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Burlison, on the record: the bill 'is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.'",
 "tier": 1
 },
 {
+"id": "c-eb7a442dc9",
 "source": "MeriTalk, 8 September 2025",
 "text": "Establishes whistleblower protections for federal employees who disclose government-funded research into materials linked to UAP.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-a288b5a67f",
 "edgeLabel": "Cosponsor",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-1cca3ef322",
 "edgeLabel": "The reprisal case the bill is designed to cover",
 "id": "dylan-borland",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-213ee1bc4e",
 "edgeLabel": "Cosponsor",
 "id": "eli-crane",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-88d8177da1",
 "edgeLabel": "Sponsor of the reintroduced bill",
 "id": "tim-burchett",
 "l0": false,

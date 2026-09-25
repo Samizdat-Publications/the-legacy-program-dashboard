@@ -38,21 +38,25 @@
 ],
 "claims": [
 {
+"id": "c-d4591cd070",
 "source": "AARO official biography, Timothy A. Phillips, Deputy Director (Acting Director version), December 2023",
 "text": "Phillips served as AARO Acting Director from December 2023 to August 2024 while remaining Deputy Director, on assignment from ODNI.",
 "tier": 1
 },
 {
+"id": "c-a8d09dea48",
 "source": "DoD transcript, 'Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1'",
 "text": "Phillips conducted the Department's media engagement on Historical Record Report Volume I on 6 March 2024; DoD published the transcript.",
 "tier": 1
 },
 {
+"id": "c-f4bd538237",
 "source": "Phillips media engagement, 6-8 March 2024; Douglas Dean Johnson analysis",
 "text": "Phillips publicly reoriented AARO toward current cases and warfighter support and away from historical research.",
 "tier": 2
 },
 {
+"id": "c-517b0ae937",
 "source": "DefenseScoop, 8 March 2024",
 "text": "AARO disclosed the GREMLIN capability for real-time UAP data collection at the Volume I rollout.",
 "tier": 1
@@ -68,6 +72,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-e21d7a8876",
 "edgeLabel": "Deputy Director from Oct 2023; Acting Director Dec 2023 - Aug 2024",
 "id": "aaro",
 "l0": true,
@@ -89,6 +94,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-dabeb43017",
 "edgeLabel": "fronted the Volume I rollout and media engagement",
 "id": "aaro-historical-record-vol1",
 "l0": true,

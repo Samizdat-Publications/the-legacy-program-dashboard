@@ -5,66 +5,79 @@
 "band": null,
 "claims": [
 {
+"id": "c-4713d47251",
 "source": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf",
 "text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
 "tier": 1
 },
 {
+"id": "c-4ae369480c",
 "source": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
 "text": "The committee was established on 5 January 1994, sixteen years before the directive this node cites. A Deputy Secretary of Defense information bulletin of November 1994 states: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
 "tier": 2
 },
 {
+"id": "c-fad2398de8",
 "source": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
 "text": "The annual review and validation function this node attributes to the 2010 directive is in the 1994 bulletin: 'All SAPs will be reviewed and validated annually for continued SAP status by the OSD SAPOC. ... The DEPSECDEF is the final decision maker in establishing, disestablishing or restructuring SAPs.'",
 "tier": 2
 },
 {
+"id": "c-f7425cf07c",
 "source": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
 "text": "The 1994 membership was five principals and an executive secretary, not the roughly eighteen of the later instruction: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.' The node's argument about a large in-house validating body describes the later era, not this one.",
 "tier": 2
 },
 {
+"id": "c-f8c74e7a41",
 "source": "Joint Security Commission, Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence, 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
 "text": "A commission chartered by the Secretary of Defense and the Director of Central Intelligence corroborated the formation within two months: 'Until recently there has been no procedure for centralized assessment of special program proposals submitted directly to the Deputy Secretary of Defense by the military departments. The recent formation of the DoD Special Access Program Oversight Committee, which the Commission fully supports, will ensure that every program is reviewed by a panel of senior officials prior to its establishment, and annually thereafter, to determine whether compartmentation for each program is still required.'",
 "tier": 1
 },
 {
+"id": "c-4d1bd0cdc3",
 "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "DoDD 5205.07 (2010) para 4.b: 'The Special Access Program Oversight Committee (SAPOC), hereby established, shall advise and assist the Secretary of Defense (SecDef) and the Deputy Secretary of Defense with governance, management, and oversight of DoD SAPs, as provided in Enclosure 2.'",
 "tier": 1
 },
 {
+"id": "c-351e4fb62e",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "DoDD 5205.07 (2024) retains the SAPOC as the 'senior governing body' ensuring SAPs 'meet warfighter needs while protecting CPI', chaired by the Deputy Secretary of Defense with the Director, DoD SAPCO as Executive Secretary.",
 "tier": 1
 },
 {
+"id": "c-2ca09d2f5c",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "DoDI 5205.11 para 3.5.a.(3): the SAPOC shall 'Conduct an annual review of DoD SAPs to assess the continuing need for protection of CPI within SAP security controls, in accordance with E.O. 13526 and DoDD 5205.07', and para 3.5.a.(3)(d) extends that review to 'All waived DoD SAPs to determine the need for continued waived status.'",
 "tier": 1
 },
 {
+"id": "c-e2701038d7",
 "source": "DoDD 5205.07 (2010), para 4.b",
 "text": "DoDD 5205.07 (2010) para 4.b: 'The Special Access Program Oversight Committee (SAPOC), hereby established, shall advise and assist the Secretary of Defense (SecDef) and the Deputy Secretary of Defense with governance, management, and oversight of DoD SAPs.'",
 "tier": 1
 },
 {
+"id": "c-22ceb980de",
 "source": "DoDI 5205.11, Enclosure 3, para 2.a",
 "text": "DoDI 5205.11 Enclosure 3: SAPOC membership is Chair - the Deputy Secretary of Defense; Vice-Chair - USD(AT&L); Executive Secretary - Director, DoD SAPCO; with general membership USD(P), USD(C)/CFO, USD(I), USD(P&R), the Vice Chairman of the Joint Chiefs of Staff, DoD CIO, GC DoD, DCAPE, the Under Secretaries of the Army, Navy and Air Force, the Vice Chiefs of Staff of the Army and Air Force, the Vice Chief of Naval Operations and the Assistant Commandant of the Marine Corps.",
 "tier": 1
 },
 {
+"id": "c-bc8ee81018",
 "source": "DoDI 5205.11, Enclosure 3, para 2.b(3)",
 "text": "DoDI 5205.11 Enclosure 3 para 2.b(3): the SAPOC convenes at the direction of the Deputy Secretary of Defense to 'Conduct an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees.'",
 "tier": 1
 },
 {
+"id": "c-2cc7ffd8de",
 "source": "DoDD 5205.07 (2024), section 3.2.a",
 "text": "DoDD 5205.07 (12 September 2024) retains the SAPOC as 'the senior governing body of the DoD SAP Enterprise for governance, management, and oversight of DoD SAPs', chaired by the Deputy Secretary of Defense.",
 "tier": 1
 },
 {
+"id": "c-a946b87240",
 "source": "DoDI 5205.11 Enclosure 3 read against 10 U.S.C. 119",
 "text": "Because the SAPOC both validates the congressional SAP report and sits under the official who approves carve-outs and waivers, the Department's account of its own special access programs is produced entirely inside the compartment it describes, with no external validator at any point. Reasoning: DoDI 5205.11 Enclosure 3 gives the annual validation to the SAPOC and no issuance assigns any external body a concurrent validation role.",
 "tier": 3
@@ -80,6 +93,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-e24604d954",
 "edgeLabel": "The committee the board dates to 2010 was running from January 1994",
 "id": "dod-sap-reform-1994",
 "l0": false,
@@ -101,6 +115,7 @@
 "dateEnd": null,
 "dateStart": "2010-07-01",
 "direction": "in",
+"edgeId": "e-d006b2e958",
 "edgeLabel": "Established the SAPOC on 1 July 2010",
 "id": "dodd-5205-07-2010",
 "l0": false,
@@ -122,6 +137,7 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "in",
+"edgeId": "e-bd900046fa",
 "edgeLabel": "Sets SAPOC membership and its annual validation of the congressional report",
 "id": "dodi-5205-11",
 "l0": true,
@@ -143,6 +159,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6410cc9d84",
 "edgeLabel": "Records that no OSD office held a list of all special access programmes in 1988",
 "id": "gao-nsiad-88-152",
 "l0": false,
@@ -164,6 +181,7 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "in",
+"edgeId": "e-9cf77b75e0",
 "edgeLabel": "Unanimous SRG recommendations bypass the SAPOC entirely",
 "id": "srg-dod",
 "l0": false,

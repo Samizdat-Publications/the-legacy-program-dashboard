@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-271b0869bc",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
 "text": "Defense Intelligence Reference Document titled \"Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?\", series \"Acquisition Threat Support\", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-017. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-1e3a8642d9",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-5398a316ad",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-5690bce521",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
 "text": "Cover page reads: '30 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-017 / Defense Intelligence Reference Document / Acquisition Threat Support / Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?'.",
 "tier": 1
 },
 {
+"id": "c-4256c866d9",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr George Hathaway, Hathaway Consulting'. The author line on the released PDF is redacted under (b)(6).",
 "tier": 1
 },
 {
+"id": "c-99b38a94cf",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
 "text": "Administrative note: 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.' Released copy runs 19 pages.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-92e0e268ca",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract, FY 2009",
 "id": "aawsap",
 "l0": true,
@@ -71,6 +78,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-8c07f96e43",
 "edgeLabel": "commissioned via the BAASS prime contract",
 "id": "baass",
 "l0": true,
@@ -102,6 +110,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-1de2bf349a",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -123,6 +132,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-cd7c031bde",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -149,6 +159,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-fedd3edc5c",
 "edgeLabel": "authored by",
 "id": "george-hathaway",
 "l0": false,

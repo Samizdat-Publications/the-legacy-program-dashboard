@@ -64,46 +64,55 @@
 ],
 "claims": [
 {
+"id": "c-f3a60dcc9c",
 "source": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282",
 "text": "Witness of record at the 26 July 2023 House Oversight hearing: 'Mr. Ryan Graves, Executive Director, Americans for Safe Aerospace'. Written statement, Truth in Testimony form and bio filed in the House Committee Repository, event 116282.",
 "tier": 1
 },
 {
+"id": "c-ff78070af0",
 "source": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
 "text": "'A pivotal incident occurred during an air combat training mission in Warning Area W-72, an exclusive block of airspace ten miles east of Virginia Beach' where 'one of the pilots saw a dark gray cube inside of a clear sphere' and 'The jets, only 100 feet apart, were forced to take evasive action.'",
 "tier": 1
 },
 {
+"id": "c-7507e7aa84",
 "source": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
 "text": "'Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
 "tier": 1
 },
 {
+"id": "c-a5e8af6329",
 "source": "Ryan Graves, written testimony, House Oversight subcommittee, 26 July 2023",
 "text": "Americans for Safe Aerospace had 'nearly 5,000 members' and was 'actively working with more than 30 UAP witnesses' as of July 2023.",
 "tier": 1
 },
 {
+"id": "c-d69eb0a20e",
 "source": "Ryan Graves, CBS 60 Minutes, 16 May 2021",
 "text": "Sightings occurred 'Every day. Every day for at least a couple years.'",
 "tier": 2
 },
 {
+"id": "c-aa5bb11e59",
 "source": "Ryan Graves to DefenseScoop, 14 May 2026",
 "text": "'The most useful releases are not simply the clips that appear unusual. The real value is in records that include clear provenance, sensor context, metadata, chain of custody.'",
 "tier": 2
 },
 {
+"id": "c-9259fde427",
 "source": "DefenseScoop, 14 May 2026, quoting a War Department official",
 "text": "A War Department official said of PURSUE: 'We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files.'",
 "tier": 1
 },
 {
+"id": "c-9c4846f501",
 "source": "Inference from the Department's stated no-comment posture set against Graves's four-element test",
 "text": "The Department's stated refusal to assess or contextualise is functionally a decision to release material in the one form in which it cannot be independently validated, which converts a transparency act into an unfalsifiable one.",
 "tier": 3
 },
 {
+"id": "c-8c82b472af",
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
 "text": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
 "tier": 2
@@ -121,6 +130,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-9a1df969f1",
 "edgeLabel": "Founder and Executive Director",
 "id": "americans-for-safe-aerospace",
 "l0": true,
@@ -147,6 +157,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-40b1d3b3a8",
 "edgeLabel": "Co-witness, 26 July 2023 hearing panel",
 "id": "david-grusch",
 "l0": false,
@@ -168,6 +179,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-26",
 "direction": "out",
+"edgeId": "e-05b39f1c37",
 "edgeLabel": "sworn witness",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -204,6 +216,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-9e4e6b2505",
 "edgeLabel": "His hearing testimony on the reporting gap is the bill's origin",
 "id": "hr-6967-safe-airspace-for-americans-act",
 "l0": false,
@@ -230,6 +243,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d89228302b",
 "edgeLabel": "questioned Graves on scientific advisory board and NASA reporting",
 "id": "maxwell-frost",
 "l0": false,
@@ -251,6 +265,7 @@
 "dateEnd": null,
 "dateStart": "2026-05-14",
 "direction": "out",
+"edgeId": "e-3abcbd6b60",
 "edgeLabel": "operational critique of the release format",
 "id": "pursue-releases",
 "l0": true,
@@ -272,6 +287,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-c96292e7fb",
 "edgeLabel": "Set the four-element test: provenance, sensor context, metadata, chain of custody",
 "id": "pursue-releases",
 "l0": true,
@@ -293,6 +309,7 @@
 "dateEnd": "2015",
 "dateStart": "2014",
 "direction": "out",
+"edgeId": "e-c0db198809",
 "edgeLabel": "VFA-11 aircrew during the 2014-2015 encounter series",
 "id": "roosevelt-2014-2015",
 "l0": true,
@@ -314,6 +331,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-e30228e583",
 "edgeLabel": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
 "id": "us-navy",
 "l0": true,

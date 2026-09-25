@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-4aa992e258",
 "source": "OSD/JS FOIA 18-F-0324",
 "text": "Contains the passage: 'Despite overwhelming evidence at both the unclassified and classified levels, certain individuals in the Department remain staunchly opposed to further research on what could be tactical threats.'",
 "tier": 1
 },
 {
+"id": "c-5df4646487",
 "source": "OSD/JS FOIA 18-F-0324",
 "text": "Contains: 'The Department must take seriously the many accounts by the Navy and other services of unusual aerial systems interfering with military weapon platforms and displaying beyond next generation capabilities.'",
 "tier": 1
 },
 {
+"id": "c-fafdfa9627",
 "source": "Helene Cooper, Ralph Blumenthal, Leslie Kean, New York Times, 16 December 2017",
 "text": "Reported by the New York Times as addressed to Defense Secretary Jim Mattis and as asking 'Why aren't we spending more time and effort on this issue?'",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "out",
+"edgeId": "e-d5edd9b01d",
 "edgeLabel": "Memorandum saluted 'Mr. Secretary'; NYT reported it as addressed to Mattis",
 "id": "james-mattis",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-c3334edce8",
 "edgeLabel": "Author, 4 October 2017; hand-delivered to the Secretary's office",
 "id": "luis-elizondo",
 "l0": false,

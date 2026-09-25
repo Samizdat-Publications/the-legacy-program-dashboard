@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-6e71efdc4a",
 "source": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 (released 2006) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Project Condign Volume 3, Chapter 4, para 1: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan.",
 "tier": 2
 },
 {
+"id": "c-6ca4e88ba3",
 "source": "Project Condign, Volume 3, Chapter 4, para 4 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Condign Volume 3, Chapter 4, para 4: 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic. Unexplained imagery has reportedly been obtained including \"peculiar spheres, humanoid figures ... If the imagery exists, it has never been published.\"'",
 "tier": 2
 },
 {
+"id": "c-fdd58e4d39",
 "source": "Gene Sticco, Blackgrove's Field Notes, 9 February 2026",
 "text": "A secondary analysis records SOYUZUFOTSENTR as established in 1990 as the first official Soviet public UFO organisation, with cosmonaut Pavel Popovich as president and Azhazha as director. Condign names only Azhazha; the Popovich presidency is not corroborated by the Condign text and rests on the secondary source alone.",
 "tier": 2
 },
 {
+"id": "c-c961ef2fd8",
 "source": "Gene Sticco, Blackgrove's Field Notes, 9 February 2026, citing Huneeus and Kehoe — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Knapp's 1993 documents came from the Ministry of Defence via Colonel Boris Sokolov, not from the KGB 'Blue Folder' declassified 24 October 1991 and handed to Popovich. The two collections are distinct.",
 "tier": 2
 },
 {
+"id": "c-da626fea00",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2000",
 "direction": "in",
+"edgeId": "e-ee250d54a1",
 "edgeLabel": "Condign's Former Soviet Union chapter names, dates and assesses SOYUZUFOTSENTR",
 "id": "doc-condign-vol3",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": "1990",
 "direction": "out",
+"edgeId": "e-9ca895cd06",
 "edgeLabel": "INFERENCE: the 1990 public centre stands up as the 1978-1990/91 state programme winds down, with Azhazha the common figure",
 "id": "setka-program",
 "l0": true,
@@ -87,6 +94,7 @@
 "dateEnd": null,
 "dateStart": "1990",
 "direction": "out",
+"edgeId": "e-6eca0372da",
 "edgeLabel": "Azhazha headed SOYUZUFOTSENTR; named as its head in the UK Defence Intelligence Staff's own report",
 "id": "vladimir-azhazha",
 "l0": false,

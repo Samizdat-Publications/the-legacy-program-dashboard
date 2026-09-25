@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-71fbaa3ded",
 "source": "NMCC Memorandum for Record, 29 October 1975, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
 "text": "The NMCC Memorandum for Record of 29 October 1975, 0605 EST, records the penetration and the failed response: 'An Army National Guard helo was called in to assist in locating the unidentified helo(s)... At 0404 SAC Command Center informed NMCC that the army helo assisting on the scene had not sighted the unidentified helo(s). A similar incident was reported at Loring the evening of 28 October 1975.'",
 "tier": 1
 },
 {
+"id": "c-c2149746e8",
 "source": "NMCC DDO update as of 300600 EST Oct 75, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
 "text": "The DDO update as of 300600 EST Oct 75 records the rules of engagement approved by the Department of the Army Director of Operations, DCSOPS: the National Guard helicopter and crew placed in full time training duty; entry into Canadian airspace with Canadian consent; employment limited to tracking and identification; and only US military personnel aboard, plus if necessary representatives of the FBI, FAA and Border Patrol.",
 "tier": 1
 },
 {
+"id": "c-576b4ccb88",
 "source": "NMCC DDO update as of 301300 EST Oct 75, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
 "text": "The final update, as of 301300 EST, closes the episode without identification: 'Procedures were implemented to track and identify the unidentified helicopter should it return during the evening of 29 Oct. The helicopter did not return that evening. Air Force is planning to utilize an Air Force helicopter from Plattsburgh AFB for future operations.'",
 "tier": 1
 },
 {
+"id": "c-4f9a5b694f",
 "source": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Loring.htm , both opened 2026-09-19",
 "text": "SSgt Danny K. Lewis of the 42nd Security Police Squadron first sighted the object at about 1945 on 27 October 1975 while on duty at the munitions storage area; Sgt Clifton W. Blakeslee and SSgt William J. Long saw a similar craft the following night; SSgt James P. Sampley of the 2192nd Communications Squadron tracked it on tower radar; and Sgt Grover K. Eggleston tracked it for forty minutes before it vanished from the screen.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": "1975-10-30",
 "dateStart": "1975-10-29",
 "direction": "in",
+"edgeId": "e-54ecd92132",
 "edgeLabel": "The command-level record of the penetration and the failed response",
 "id": "doc-nmcc-loring-1975",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "1975-10-31",
 "dateStart": "1975-10-27",
 "direction": "out",
+"edgeId": "e-9f72e28082",
 "edgeLabel": "The penetrations were of this installation's weapons storage area",
 "id": "l-loring",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1975-11-11",
 "dateStart": "1975-10-27",
 "direction": "out",
+"edgeId": "e-7e7b4869be",
 "edgeLabel": "First episode of the October to November 1975 sequence",
 "id": "sac-overflights-1975",
 "l0": true,

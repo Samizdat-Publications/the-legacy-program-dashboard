@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-4653de7b6b",
 "source": "Ryan Graves, CHRG-118hhrg53022, 26 July 2023; Jeffrey Nuccetelli, CHRG-119hhrg61718, 9 September 2025",
 "text": "Boeing contractors at Vandenberg were the observers in the October 2003 'red square' incident described in sworn testimony at both the 2023 and 2025 hearings.",
 "tier": 1
 },
 {
+"id": "c-20e57af2a2",
 "source": "CHRG-118hhrg53022, exchange with Rep. Ocasio-Cortez, 26 July 2023",
 "text": "Asked whether contractors are required to report UAP sightings, Grusch answered 'In terms of the contractors? Not that I am aware of.'",
 "tier": 1
 },
 {
+"id": "c-ddaad79408",
 "source": "Corporate merger record; McDonnell Douglas ceased independent existence in 1997",
 "text": "Boeing acquired McDonnell Douglas in 1997, inheriting its astronautics organisation and records.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-06746fc4a7",
 "edgeLabel": "Contractor thread: Boeing personnel named in the same hearing; Grusch's IR&D mechanism",
 "id": "david-grusch",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2025",
 "dateStart": "2003",
 "direction": "out",
+"edgeId": "e-5dd3289eab",
 "edgeLabel": "Boeing contractors were the observers in the 2003 Vandenberg red square incident",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -77,6 +82,7 @@
 "dateEnd": "2000-12",
 "dateStart": "2000-12",
 "direction": "in",
+"edgeId": "e-4d2812e764",
 "edgeLabel": "Named in his own self-stated client list, 2000",
 "id": "mark-mccandlish",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": null,
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-fc70cccfdd",
 "edgeLabel": "Boeing absorbed McDonnell Douglas in 1997, inheriting the Huntington Beach organisation and its records",
 "id": "mcdonnell-douglas",
 "l0": false,

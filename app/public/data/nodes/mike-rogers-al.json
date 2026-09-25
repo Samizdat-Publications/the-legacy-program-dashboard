@@ -22,16 +22,19 @@
 ],
 "claims": [
 {
+"id": "c-67057fb641",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
 "text": "Rogers is named with Turner as leading efforts to eliminate or significantly alter the UAP Disclosure Act.",
 "tier": 2
 },
 {
+"id": "c-f19e3c321a",
 "source": "P.L. 118-31, Sec. 1687, GPO",
 "text": "Sec. 1687 of P.L. 118-31 conditions UAP special-access funding on disclosure to 'the appropriate congressional committees and congressional leadership' — preserving committee-channel oversight rather than independent review.",
 "tier": 1
 },
 {
+"id": "c-26086286cd",
 "source": "Inference from side-by-side comparison of S. 2226 Div. G with P.L. 118-31 Subtitle C and Secs. 1687/7343",
 "text": "The pattern of what was cut and what was kept is consistent with a jurisdictional defense of the armed services and intelligence committees rather than with substantive objection to disclosure: every removed mechanism operated outside those committees, and every retained mechanism reports into them.",
 "tier": 3
@@ -47,6 +50,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-dd75792fb0",
 "edgeLabel": "Chairman during the FY2024 conference",
 "id": "house-armed-services",
 "l0": false,
@@ -68,6 +72,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-ccb6ec4538",
 "edgeLabel": "Named as co-leading the effort to eliminate or alter the Act",
 "id": "uapda-2023",
 "l0": true,
@@ -104,6 +109,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-ccb6ec4538",
 "label": "Named as co-leading the effort to eliminate or alter the Act",
 "note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
 "of": {

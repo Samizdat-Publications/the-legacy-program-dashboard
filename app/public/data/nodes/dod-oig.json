@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-ece4f707f7",
 "source": "DoD OIG, DODIG-2023-109",
 "text": "DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', was issued 15 August 2023 with the objective of evaluating 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'.",
 "tier": 1
 },
 {
+"id": "c-a8c5e356bf",
 "source": "DoD OIG report page and press release",
 "text": "The full DODIG-2023-109 report is classified; the OIG released only an unclassified summary, and issued a press release on 25 January 2024.",
 "tier": 1
 },
 {
+"id": "c-28dca8c57c",
 "source": "Inference from the classification status of DODIG-2023-109",
 "text": "A classified evaluation whose scope cannot be verified publicly cannot discharge the oversight function it appears to discharge; DODIG-2023-109 functions in the public record as an assurance rather than as evidence. Reasoning: the findings, the components reviewed and the SAP access obtained are all withheld.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1982",
 "direction": "in",
+"edgeId": "e-c72cefbd12",
 "edgeLabel": "Statutory internal oversight body within the Department",
 "id": "dod",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2023-08-15",
 "direction": "out",
+"edgeId": "e-cc2b42a391",
 "edgeLabel": "DoD OIG issued the only formal audit of the Department's UAP conduct",
 "id": "dodig-2023-109",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "2015-06-18",
 "direction": "out",
+"edgeId": "e-46abea4830",
 "edgeLabel": "SAP fraud and abuse complaints must not use collateral reporting channels",
 "id": "dodm-5205-07-v1",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "2021-05",
 "direction": "in",
+"edgeId": "e-1ebf439cbf",
 "edgeLabel": "Elizondo complaint to the DoD Inspector General, May 2021",
 "id": "luis-elizondo",
 "l0": false,
@@ -126,6 +133,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-46abea4830",
 "label": "SAP fraud and abuse complaints must not use collateral reporting channels",
 "note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
 "of": null,

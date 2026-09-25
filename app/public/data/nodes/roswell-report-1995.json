@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-38d52d3a55",
 "source": "DTIC ADA326148 abstract and the report's publisher's note",
 "text": "The report was written as a result of Col. Weaver's and Lt. McAndrew's efforts to locate the records explaining the events of July 1947, duplicates the information provided to the Secretary of the Air Force and the General Accounting Office, and adds only a photograph section.",
 "tier": 1
 },
 {
+"id": "c-40e65164d8",
 "source": "The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995), Attachment 32",
 "text": "Attachment 32, Lt. McAndrew's synopsis, describes Project Mogul, 'the top-priority classified project of balloon-borne experiments, which provides the explanation for the Roswell Incident.'",
 "tier": 1
 },
 {
+"id": "c-eaa7edebca",
 "source": "Quoted verbatim in The Roswell Report: Case Closed (1997), Section 1.1",
 "text": "The July 1994 report concluded that the US Army Air Forces did not recover an extraterrestrial vehicle and alien crew, based on review of classified and unclassified holdings at record depositories, archives, libraries and research facilities nationwide, and stated that of the millions of pages reviewed there was no mention of any activity tangentially suggesting such an event.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "1995",
 "dateStart": "1994-07",
 "direction": "in",
+"edgeId": "e-bec78d693e",
 "edgeLabel": "Wrote Attachment 32, the Project Mogul synopsis",
 "id": "james-mcandrew",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1995",
 "dateStart": "1994-07",
 "direction": "in",
+"edgeId": "e-8b2eb4ee63",
 "edgeLabel": "Authored the Air Force's report to the Secretary and GAO",
 "id": "richard-weaver-usaf",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "1997",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-8beec30846",
 "edgeLabel": "The 1997 report completes what the 1994-1995 report left open",
 "id": "roswell-report-case-closed",
 "l0": false,

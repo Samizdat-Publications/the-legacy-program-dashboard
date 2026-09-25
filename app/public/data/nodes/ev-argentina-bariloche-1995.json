@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-ec2871c5e8",
 "source": "James Grainger, Buenos Aires Times, 11 May 2026",
 "text": "'The case appears in a section of the released files examining investigations conducted outside the United States and references a report produced by COMETA, a French study group linked to defence and aeronautics specialists.'",
 "tier": 2
 },
 {
+"id": "c-b04df90b8a",
 "source": "Buenos Aires Times, 11 May 2026 (release date Friday 8 May 2026)",
 "text": "'More than 160 files were released last Friday on the website of the US Department of Defense, which officially refers to UFOs as Unidentified Anomalous Phenomena.'",
 "tier": 2
 },
 {
+"id": "c-39c96a3937",
 "source": "Buenos Aires Times, 11 May 2026, summarising the released Pentagon file",
 "text": "Detailed narrative of the 31 July 1995 AR 674 encounter as recorded in the released US file, including the double airport power failure and the go-around.",
 "tier": 2
 },
 {
+"id": "c-7362e0aa29",
 "source": "Buenos Aires Times / AFP, 11 May 2026",
 "text": "Defense Secretary Pete Hegseth on the release: 'These files, hidden behind classifications, have long fueled justified speculation - and it's time the American people see it for themselves.'",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": "2026-05-08",
 "dateStart": "2026-05-08",
 "direction": "out",
+"edgeId": "e-33d5dfd309",
 "edgeLabel": "the US 2026 release cites COMETA as a source on the Argentine case",
 "id": "doc-cometa-report",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2026-05-13",
 "dateStart": "2026-05-08",
 "direction": "in",
+"edgeId": "e-3918674d0d",
 "edgeLabel": "both are allied-state responses to the same May 2026 US release",
 "id": "japan-uap-2026",
 "l0": false,

@@ -33,31 +33,37 @@
 ],
 "claims": [
 {
+"id": "c-a0694114d1",
 "source": "CREC-2023-07-13-pt1-PgS2953; congress.gov S.Amdt.797",
 "text": "Sponsor of record of S.Amdt. 797 to S. 2226: congress.gov lists 'Sponsor: Sen. Schumer, Charles E. [D-NY] (Submitted 07/13/2023)'. The Congressional Record entry reads 'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table'.",
 "tier": 1
 },
 {
+"id": "c-8c97c04493",
 "source": "BILLS-118s2226es Div. G",
 "text": "The amendment Schumer submitted is the text enacted in the Senate as Division G of S. 2226, secs. 9001-9015, containing the eminent-domain provision (sec. 9010) and the nine-member Review Board (sec. 9007).",
 "tier": 1
 },
 {
+"id": "c-d811c134b4",
 "source": "Congress.gov amendment record, S.Amdt. 797, 118th Congress; text printed 169 Cong. Rec. S2953 (13 July 2023)",
 "text": "Schumer is the sponsor of S.Amdt. 797 to S. 2226, submitted 13 July 2023, with Rounds, Rubio, Gillibrand, Young and Heinrich as original cosponsors.",
 "tier": 1
 },
 {
+"id": "c-2b7e5be518",
 "source": "S. 2226 as engrossed in the Senate, Division G, Sec. 9010(a), GPO",
 "text": "The text he submitted commands the Federal Government to 'exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities.'",
 "tier": 1
 },
 {
+"id": "c-dba0a53327",
 "source": "Schumer, quoted in Micah Hanks, The Debrief, 14 July 2023",
 "text": "'Americans have a right to learn about technologies of unknown origins, non-human intelligence, and unexplainable phenomena.'",
 "tier": 2
 },
 {
+"id": "c-b7de57002b",
 "source": "Schumer, quoted in J.P. Hague, The Debrief, 22 December 2023",
 "text": "'It is really an outrage the House didn't work with us on adopting our proposal for a review board.'",
 "tier": 2
@@ -73,6 +79,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-5e80435f23",
 "edgeLabel": "Schumer names Reid as the legacy he is continuing",
 "id": "harry-reid",
 "l0": false,
@@ -94,6 +101,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-32155ccff4",
 "edgeLabel": "Moskowitz read Schumer's disclosure language into the House record",
 "id": "jared-moskowitz",
 "l0": false,
@@ -115,6 +123,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-7f00597322",
 "edgeLabel": "Publicly called the removal of the Review Board an outrage",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
@@ -136,6 +145,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-3ba8a40c0e",
 "edgeLabel": "Sponsor of record; filed 13 July 2023",
 "id": "samdt-797",
 "l0": true,
@@ -162,6 +172,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "out",
+"edgeId": "e-0e5fcce586",
 "edgeLabel": "sponsor of S.Amdt. 797",
 "id": "uapda-2023",
 "l0": true,
@@ -200,6 +211,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "association",
+"edgeId": "e-7f00597322",
 "label": "Publicly called the removal of the Review Board an outrage",
 "note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
 "of": null,

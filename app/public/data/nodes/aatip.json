@@ -5,81 +5,97 @@
 "band": "reverse-engineering",
 "claims": [
 {
+"id": "c-ef578c7294",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
 "text": "DIA Info Memo U-09-2660 (13 Nov 2009) frames the two names as the same thing: it evaluates 'a request from Senator Harry Reid (enclosure 1) to establish a restricted special access program (SAP) for the Advanced Aerospace Weapon System Application Program Contract, referred to in Senator Reid's letter as the Advanced Aerospace Threat and Identification Program (AAITP).'",
 "tier": 1
 },
 {
+"id": "c-3c2c1b2601",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/",
 "text": "The DIA release consistently spells it 'AAITP' (Advanced Aerospace Threat and Identification Program) in 2009 documents, not the later-familiar 'AATIP'. The USD(I) memorandum subject line reads: 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection'.",
 "tier": 1
 },
 {
+"id": "c-a8f93a1a77",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/",
 "text": "DIA Read Ahead for the 19 Nov 2009 meeting states the DIA position: 'the content of the deliverables from the Advanced Aerospace Weapon System Application Program contract, referred to by Senator Reid as the AATIP, for FY09 and those expected in FY10, do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.'",
 "tier": 1
 },
 {
+"id": "c-c423d0fc5d",
 "source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
 "text": "AARO Vol. I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the program in 2012; supporters then proposed a follow-on program, KONA BLUE, to DHS, which DHS rejected.",
 "tier": 1
 },
 {
+"id": "c-f14ed45735",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
 "text": "The concealment-relevant fact is not that AATIP was fake but that it was administratively real and deliberately kept out of SAP channels. DIA's own recommendation against a SAP (Nov 2009) is what later allowed officials to characterise AATIP as low-significance: a program denied special protection leaves no SAP paper trail to point at.",
 "tier": 3
 },
 {
+"id": "c-e892d42c88",
 "source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
 "text": "AARO Historical Record Report Vol. I states: 'Unlike AAWSAP, AATIP was never an official DoD program. However, after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties.'",
 "tier": 1
 },
 {
+"id": "c-8e9f31d0a2",
 "source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
 "text": "AARO's formulation is the load-bearing denial artifact: it concedes an actual DoD community of interest researching military UAP sightings, then denies it program status on a naming technicality. DIA's own 2009 correspondence uses 'AAITP' and 'AAWSAP' interchangeably for the same contract, so the 'never an official DoD program' line depends entirely on which of the two names is treated as canonical.",
 "tier": 3
 },
 {
+"id": "c-b23ee1cc0d",
 "source": "Packet presented to DEPSECDEF, 17 November 2009",
 "text": "A single DoD packet records three names for the same effort: official title AAWSAP, Senator Reid's usage AAITP (Advanced Aerospace Threat and Identification Program), and unclassified nickname AATIP.",
 "tier": 1
 },
 {
+"id": "c-4cd6dbfbf4",
 "source": "DIA letter to SASC, 9 January 2018, signed Brian L. Jenkins",
 "text": "DIA told the Senate Armed Services Committee that 'the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years' and enclosed a list of 38 products.",
 "tier": 1
 },
 {
+"id": "c-2e543cba03",
 "source": "DIA memo U-10-2552CE-IM-ATL, circa December 2010",
 "text": "A DIA info memo to USD(AT&L) states AATIP reports were of limited value to DIA but could be of merit to other organizations and the project 'could be transitioned to another agency or component better suited'.",
 "tier": 1
 },
 {
+"id": "c-fd0201adcc",
 "source": "Inference from the coexistence of all three names in the November 2009 packet and DoD's 2019 press guidance",
 "text": "The naming divergence is functional, not accidental: AAWSAP is the contract, AATIP is the mission, and DoD's ability to say Elizondo had 'no assigned responsibilities for AATIP' depends on which of the two designations any given document happens to carry.",
 "tier": 3
 },
 {
+"id": "c-c4b78fa8b1",
 "source": "New York Times, 16 December 2017, quoting Pentagon spokesman Thomas Crosson",
 "text": "Existed and was terminated in 2012 on the Department's own account, with roughly $22 million appropriated from late 2008 through 2011 and most of it going to Bigelow Aerospace.",
 "tier": 1
 },
 {
+"id": "c-d11b56fd97",
 "source": "Reid memorandum, authenticated by Susan Gough on 13 June 2019; New York Times, 16 December 2017",
 "text": "Senator Harry Reid sought Special Access Program status for it in a 24 July 2009 memorandum to Deputy Secretary of Defense William Lynn III; the request was denied.",
 "tier": 1
 },
 {
+"id": "c-af485448ba",
 "source": "AARO Historical Record Report Volume 1, DOPSR-2024-0263, 8 March 2024",
 "text": "AARO's March 2024 Historical Record Report Volume 1 identifies 2009 as the standup year for AAWSAP and AATIP and states that 'none of the programs mentioned by interviewees are UAP reverse-engineering programs.'",
 "tier": 1
 },
 {
+"id": "c-ff37b71eab",
 "source": "Luis Elizondo, in TTSA statements and in Imminent (2024)",
 "text": "Elizondo's account is that AATIP grew out of AAWSAP, that he directed it from about 2010, and that only its funding ended in 2012 while the effort continued to his 2017 resignation.",
 "tier": 2
 },
 {
+"id": "c-3988dbeb8d",
 "source": "Inference from the September 2017 emails and the 9 August 2017 DD Form 1910, both released under FOIA",
 "text": "The Department's own record contains an unresolved contradiction: September 2017 emails show Elizondo drafting a memorandum for Neill Tipton to 'assume the new responsibilities for AATIP', and the August 2017 DD-1910 for the AATIP-associated videos was submitted by Elizondo. Something bearing the AATIP name was live inside OUSD(I) in 2017.",
 "tier": 3
@@ -95,6 +111,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-fc30e775f0",
 "edgeLabel": "AARO: 'AATIP was never an official DoD program'",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -121,6 +138,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-2ecb4a42c5",
 "edgeLabel": "",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -147,6 +165,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4b4f99d4a9",
 "edgeLabel": "AAWSAP is the official name; AATIP/AAITP is Reid's name for it",
 "id": "aawsap",
 "l0": true,
@@ -168,6 +187,7 @@
 "dateEnd": "2012",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-1b9efc13df",
 "edgeLabel": "same appropriation, two designations",
 "id": "aawsap",
 "l0": true,
@@ -194,6 +214,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-da15f2a0eb",
 "edgeLabel": "22 May 2019: AATIP 'did pursue research and investigation into unidentified aerial phenomena'",
 "id": "christopher-sherwood",
 "l0": false,
@@ -215,6 +236,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-a2d15697ff",
 "edgeLabel": "records three concurrent names for one program",
 "id": "depsecdef-sap-packet-2009",
 "l0": false,
@@ -236,6 +258,7 @@
 "dateEnd": "2012",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-0c0d218d2e",
 "edgeLabel": "Named in the 2009 Reid SAP-request memorandum",
 "id": "harold-puthoff",
 "l0": false,
@@ -257,6 +280,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-f3489369e1",
 "edgeLabel": "24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied",
 "id": "harry-reid",
 "l0": false,
@@ -278,6 +302,7 @@
 "dateEnd": "2017",
 "dateStart": "2010",
 "direction": "in",
+"edgeId": "e-13549cbed5",
 "edgeLabel": "Ran the program from c.2010 to 2017 (asserted); role denied by DoD",
 "id": "luis-elizondo",
 "l0": false,
@@ -304,6 +329,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-51e6f50585",
 "edgeLabel": "Sept 2017: Elizondo drafts a memo helping Tipton 'assume the new responsibilities for AATIP'",
 "id": "neill-tipton",
 "l0": false,
@@ -325,6 +351,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-7e52055715",
 "edgeLabel": "Broke the program's existence, funding and Reid origin",
 "id": "nyt-2017-12-16",
 "l0": true,
@@ -351,6 +378,7 @@
 "dateEnd": "2011",
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-df129a8e7b",
 "edgeLabel": "Most of the ~$22m went to Bigelow Aerospace, 2008-2011",
 "id": "robert-bigelow",
 "l0": false,
@@ -372,6 +400,7 @@
 "dateEnd": "2021",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-c626fa7977",
 "edgeLabel": "6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'",
 "id": "susan-gough",
 "l0": false,
@@ -393,6 +422,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-dbad302a21",
 "edgeLabel": "21 May 2021 partial reversal: contract 'allowed for research... including reports of UAPs'",
 "id": "susan-gough",
 "l0": false,
@@ -414,6 +444,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-566ad94006",
 "edgeLabel": "Pentagon confirmation of AATIP's existence obtained by The Intercept",
 "id": "the-intercept",
 "l0": false,
@@ -440,6 +471,7 @@
 "dateEnd": "2017",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-c655111201",
 "edgeLabel": "Confirmed the program existed and was shut down in 2012",
 "id": "thomas-crosson",
 "l0": false,
@@ -461,6 +493,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-aad585e2f6",
 "edgeLabel": "AATIP's 2017 disclosure pulled a Vanderbilt lab into UAP research",
 "id": "vanderbilt-university",
 "l0": false,
@@ -507,6 +540,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-fc30e775f0",
 "label": "AARO: 'AATIP was never an official DoD program'",
 "note": "AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263.",
 "of": {
@@ -541,6 +575,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-c626fa7977",
 "label": "6 Dec 2019: 'Neither AATIP nor AAWSAP were UAP related'",
 "note": "A direct reversal of her own colleague's May 2019 statement, justified on the ground that Sherwood was repeating what an earlier spokesperson had said and that spokesperson 'is no longer with my organization'.",
 "of": {

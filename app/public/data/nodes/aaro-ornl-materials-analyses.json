@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-decd0fa511",
 "source": "AARO UAP Records / Information Papers listings, accessed 12 August 2026",
 "text": "AARO published an ORNL synopsis analysing a metallic (magnesium) specimen in April 2024 with an AARO supplement, and an ORNL analysis of an aluminium specimen with an AARO supplement dated January 2026.",
 "tier": 1
 },
 {
+"id": "c-e3ce3f022d",
 "source": "AARO Historical Record Report Volume I",
 "text": "Volume I determined that an alleged extraterrestrial spacecraft sample was a manufactured terrestrial alloy of magnesium, zinc and bismuth with trace elements.",
 "tier": 1
 },
 {
+"id": "c-6dbef477f9",
 "source": "AARO FY2025 Consolidated Annual Report on UAP",
 "text": "The FY2025 report states no entity has ever captured or exploited UAP-derived materials while noting AARO is developing procedures for handling such materials should they come into USG possession.",
 "tier": 1
 },
 {
+"id": "c-1ea247310f",
 "source": "Inference from the scope of the ORNL analyses against Volume I's reliance on voluntary corporate denials",
 "text": "Two laboratory characterisations of voluntarily surrendered specimens cannot bear the weight of a general negative on custody, because the allegation concerns holdings AARO has never inspected and has no authority to compel.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2026",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-d398b4bc8c",
 "edgeLabel": "The materials line of effort and its published scope",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -66,6 +71,7 @@
 "dateEnd": null,
 "dateStart": "2026-04",
 "direction": "in",
+"edgeId": "e-1710267de7",
 "edgeLabel": "competing materials programme",
 "id": "garry-nolan",
 "l0": false,
@@ -92,6 +98,7 @@
 "dateEnd": "2026-01",
 "dateStart": "2023-12",
 "direction": "in",
+"edgeId": "e-fe0196fcd3",
 "edgeLabel": "former director at the laboratory that tests the specimens",
 "id": "sean-kirkpatrick",
 "l0": false,

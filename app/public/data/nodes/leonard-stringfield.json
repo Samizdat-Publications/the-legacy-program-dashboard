@@ -64,21 +64,25 @@
 ],
 "claims": [
 {
+"id": "c-10e21db891",
 "source": "Stringfield, Status Report IV, title page and abstract (scan) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Status Report IV is dated June 1985 and is titled 'UFO CRASH RETRIEVALS STATUS REPORT IV: THE FATAL ENCOUNTER AT FT. DIX-MCGUIRE', concerning an alleged 18 January 1978 incident at McGuire AFB / Fort Dix reported by a USAF Security Police sergeant first published as Case A3 in Status Report III.",
 "tier": 2
 },
 {
+"id": "c-c6132fd5d3",
 "source": "Stringfield, Status Report VI, title and copyright page (scan) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Stringfield, 4412 Grove Avenue, Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique.",
 "tier": 2
 },
 {
+"id": "c-88c21893dc",
 "source": "Stringfield, Status Report IV, 'Prologue: The Burden of Proof' (scan)",
 "text": "Stringfield stated in Status Report IV that public UFO research does not possess proof, and that affidavits, leaked government documents and photographs do not constitute proof - an unusually explicit self-assessment by the field's founding retrieval researcher.",
 "tier": 2
 },
 {
+"id": "c-14b6ecadf3",
 "source": "Inference from the Status Report corpus",
 "text": "Stringfield's anonymised letter-number case coding is the structural reason the retrieval corpus resists tier-1 verification: the coding was designed to protect sources from precisely the security apparatus whose existence the corpus asserts, and it succeeded, at the cost of making the corpus unauditable. Reasoning: the codes are internally consistent across seven reports but map to no released personnel record.",
 "tier": 3
@@ -96,6 +100,7 @@
 "dateEnd": "1994-02",
 "dateStart": "1982",
 "direction": "in",
+"edgeId": "e-f056e360b1",
 "edgeLabel": "CUFOS cooperated with and advised the Status Report series",
 "id": "cufos",
 "l0": false,
@@ -117,6 +122,7 @@
 "dateEnd": "1994-02",
 "dateStart": "1985",
 "direction": "in",
+"edgeId": "e-673a287189",
 "edgeLabel": "FUFOR funded Stringfield's later Status Reports",
 "id": "fund-for-ufo-research",
 "l0": false,
@@ -138,6 +144,7 @@
 "dateEnd": "2010",
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-8dfef71261",
 "edgeLabel": "Randle's case-by-case surveys audit Stringfield's corpus",
 "id": "kevin-randle",
 "l0": false,
@@ -159,6 +166,7 @@
 "dateEnd": "1980-01",
 "dateStart": "1978-07-29",
 "direction": "out",
+"edgeId": "e-f390ae24fb",
 "edgeLabel": "MUFON symposium platform and publisher for Reports I and II",
 "id": "mufon",
 "l0": false,
@@ -180,6 +188,7 @@
 "dateEnd": "1994-02",
 "dateStart": "1978-07-29",
 "direction": "out",
+"edgeId": "e-574a5fe3bd",
 "edgeLabel": "Authored the seven-part Status Report series",
 "id": "stringfield-status-reports",
 "l0": false,

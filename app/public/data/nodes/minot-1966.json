@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-7d14959e0b",
 "source": "CINCNORAD message as excerpted at http://www.nicap.org/intsac.htm , against the 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , both opened 2026-09-19",
 "text": "Minot recurs in the 1975 sequence, nine years after the 1966 incursions, but the two NORAD documents disagree about which Minot installation is meant. CINCNORAD's four-part message of 11 November 1975 lists 'Minot AFB, ND'; the 24th NORAD Region Senior Director's Log for 10 November 1975 records the sighting at 'Minot Air Force Station' and says the object 'passed over the radar station'. The board carries the discrepancy rather than folding the radar-station entry into the missile-field record.",
 "tier": 1
 },
 {
+"id": "c-bc33b802ad",
 "source": "ufohastings.com document archive, items minot_afb_1966-08-25_01 to _03 and Minot_Daily_News_1 and _2",
 "text": "Three Air Force documents dated 25 August 1966 concerning Minot AFB, and Minot Daily News coverage of 6 December 1966, are published in facsimile in the UFOs & Nukes document archive.",
 "tier": 1
 },
 {
+"id": "c-c4637db476",
 "source": "ufohastings.com document archive, items FE_Warren_1965_1 to _4",
 "text": "Four Air Force documents dated 1 August 1965 concerning F. E. Warren AFB, Wyoming, are similarly published, establishing the pattern a year earlier at a different missile wing.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "1966",
 "dateStart": "1966",
 "direction": "out",
+"edgeId": "e-a7f8be38f5",
 "edgeLabel": "The 1966 incursions were over this installation's Minuteman launch facilities",
 "id": "l-minot",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1967-03-16",
 "dateStart": "1966-08-25",
 "direction": "out",
+"edgeId": "e-a1e8f8dd93",
 "edgeLabel": "Minot 1966 precedes the Malmstrom shutdowns by seven months",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
@@ -72,6 +77,7 @@
 "dateEnd": "2026",
 "dateStart": "1966-08-25",
 "direction": "in",
+"edgeId": "e-abc6efc425",
 "edgeLabel": "Publishes the 25 August 1966 Minot documents in facsimile",
 "id": "robert-hastings",
 "l0": false,

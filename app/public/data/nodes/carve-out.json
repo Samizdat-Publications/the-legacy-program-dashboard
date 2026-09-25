@@ -5,61 +5,73 @@
 "band": "funding",
 "claims": [
 {
+"id": "c-7696eb3d6d",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "DoDI 5205.11 (12 Sep 2024) glossary defines it: 'carve out: A provision approved by the Secretary of Defense or Deputy Secretary of Defense that relieves DCSA of its National Industrial Security Program obligation.'",
 "tier": 1
 },
 {
+"id": "c-5244be0af7",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
 "text": "The regulatory counterpart, 32 CFR 117.6(b): 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07.'",
 "tier": 1
 },
 {
+"id": "c-985c40f1fd",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "MAJOR CHANGE, 2024. DoDI 5205.11 para 1.2.i.: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.' The 2024 policy therefore schedules a blanket, enterprise-wide withdrawal of DCSA from DoD SAP industrial security by July 2029, rather than a case-by-case carve-out.",
 "tier": 1
 },
 {
+"id": "c-00dcac644e",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "A programmed phase-out of DCSA oversight across the DoD SAP enterprise by July 2029 converts the carve-out from an exception requiring SecDef/DepSecDef signature into the default state. If accurate, after that date no independent DoD agency holds a routine inspection right at SAP contractor facilities, and the record of which facilities host which programs stops accumulating in DCSA's system. Reasoning stated from 1.2.i.",
 "tier": 3
 },
 {
+"id": "c-82696e28a1",
 "source": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
 "text": "The carve-out's authority runs to exactly two officials. 32 CFR 117.6(b)(3) conditions it on approval by 'the Secretary of Defense or the Deputy Secretary of Defense', and on no one else.",
 "tier": 1
 },
 {
+"id": "c-4b8517c46a",
 "source": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
 "text": "The regulation ties the carve-out to DoDD 5205.07, 'DoD SAP Policy', by name and by URL, so the codified rule and the DoD directive are a matched pair rather than parallel authorities.",
 "tier": 1
 },
 {
+"id": "c-970b87d590",
 "source": "32 CFR 117.6(b)(3)",
 "text": "32 CFR 117.6(b)(3): 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, \"DoD SAP Policy\".'",
 "tier": 1
 },
 {
+"id": "c-55381ea35b",
 "source": "DoDD 5205.07 (2010) Glossary; DoDM 5205.07-V1 Enclosure 2 para 2.c; 32 CFR 117.6(b)(3)",
 "text": "The carve-out is approvable only by the Secretary of Defense or the Deputy Secretary of Defense - no delegation to a service secretary, component head or SAPCO director is provided for in DoDD 5205.07 (2010), DoDI 5205.11 or DoDM 5205.07 Volume 1.",
 "tier": 1
 },
 {
+"id": "c-dde0a32054",
 "source": "DoDI 5205.11, Enclosure 6, para 5.a(8)",
 "text": "DoDI 5205.11 Enclosure 6 lists 'Proposals to relieve DSS of NISP security oversight responsibilities (carve-out) when required' among the actions that must be coordinated through the DoD SAPCO to the Deputy Secretary of Defense for decision.",
 "tier": 1
 },
 {
+"id": "c-a9245d34b7",
 "source": "DoDI 5205.11, Enclosure 2, para 2.k",
 "text": "DoDI 5205.11 requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions', which means a list of carved-out facilities exists as an agency record.",
 "tier": 1
 },
 {
+"id": "c-3ec3c87861",
 "source": "DoDM 5205.07 Volume 1, Enclosure 2 para 2.c and Glossary definition of PSO",
 "text": "After a carve-out, the only recurring security inspection of the contractor facility is conducted by the Program Security Officer, who is 'appointed in writing by the appropriate Director CA SAPCO or designee' and exercises responsibilities 'on behalf of the SAPCO' - that is, by the program inspecting itself. Reasoning: DoDM 5205.07-V1 removes the DSS/DCSA inspection and its glossary defines the PSO's appointment chain as internal to the SAP structure.",
 "tier": 3
 },
 {
+"id": "c-7971508fd2",
 "source": "DoDM 5205.07 Volume 1, Enclosure 2, para 2.c",
 "text": "A carved-out contractor SAP is the smallest documented configuration in U.S. law in which classified material can be physically held by a private company with no inspection by any official outside the program, no external accreditation of the computers holding the program's data, and no independent counterintelligence reporting line. Reasoning: enumeration of the three functions expressly suspended by DoDM 5205.07-V1 Enclosure 2 para 2.c.",
 "tier": 3
@@ -75,6 +87,7 @@
 "dateEnd": null,
 "dateStart": "2021-02-24",
 "direction": "out",
+"edgeId": "e-3f5f2019b7",
 "edgeLabel": "The carve-out is codified in the NISPOM rule itself",
 "id": "cfr-32-117",
 "l0": false,
@@ -96,6 +109,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-3cd2a99c56",
 "edgeLabel": "32 CFR 117.6(b) writes the carve-out into regulation",
 "id": "cfr-32-117",
 "l0": false,
@@ -117,6 +131,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-180555b00b",
 "edgeLabel": "codifies the carve-out",
 "id": "cfr-32-117",
 "l0": false,
@@ -143,6 +158,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-baf54d6a54",
 "edgeLabel": "the provision that removes a contractor facility from the government's own industrial security oversight",
 "id": "d-structure",
 "l0": false,
@@ -169,6 +185,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-26",
 "direction": "in",
+"edgeId": "e-2647e0a23b",
 "edgeLabel": "Contractor custody without government inspection is the carve-out configuration",
 "id": "david-grusch",
 "l0": false,
@@ -195,6 +212,7 @@
 "dateEnd": null,
 "dateStart": "2015-06-18",
 "direction": "out",
+"edgeId": "e-2952deb718",
 "edgeLabel": "Switches off the only external inspector of a contractor SAP facility",
 "id": "dcsa-nisp",
 "l0": false,
@@ -221,6 +239,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-b85dfd7793",
 "edgeLabel": "relieves DCSA of NISP industrial security oversight for a DoD SAP",
 "id": "dcsa-nisp",
 "l0": false,
@@ -242,6 +261,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6fe42b1d48",
 "edgeLabel": "relieves it of NISP oversight",
 "id": "dcsa-nisp",
 "l0": false,
@@ -263,6 +283,7 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "out",
+"edgeId": "e-c6630de025",
 "edgeLabel": "DoD SAPCO holds the list of carved-out facilities",
 "id": "dod-sapco",
 "l0": true,
@@ -284,6 +305,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-12",
 "direction": "out",
+"edgeId": "e-7c52bb59b4",
 "edgeLabel": "Still cited by regulation, no longer defined by the directive it cites",
 "id": "dodd-5205-07-2024",
 "l0": false,
@@ -310,6 +332,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-9b7f1fe3a0",
 "edgeLabel": "DoDI 5205.11 glossary definition of 'carve out'",
 "id": "dodi-5205-11",
 "l0": true,
@@ -331,6 +354,7 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "out",
+"edgeId": "e-136ae96711",
 "edgeLabel": "Requested on the SAP approval checklist and recorded in the program file",
 "id": "dodi-5205-11",
 "l0": true,
@@ -352,6 +376,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d027b6cf6f",
 "edgeLabel": "defines and operates the carve-out",
 "id": "dodm-5205-07-series",
 "l0": false,
@@ -378,6 +403,7 @@
 "dateEnd": null,
 "dateStart": "2015-06-18",
 "direction": "out",
+"edgeId": "e-21d563e8c0",
 "edgeLabel": "Defined verbatim in the SAP Security Manual glossary",
 "id": "dodm-5205-07-v1",
 "l0": false,
@@ -399,6 +425,7 @@
 "dateEnd": null,
 "dateStart": "2024-12-23",
 "direction": "in",
+"edgeId": "e-7ad5dac79d",
 "edgeLabel": "Congress prohibited moving a capability out of a CAP into a SAP without notice",
 "id": "usc-50-3091a",
 "l0": false,
@@ -437,6 +464,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-7c52bb59b4",
 "label": "Still cited by regulation, no longer defined by the directive it cites",
 "note": "32 CFR 117.6(b)(3) conditions the carve-out on approval 'in accordance with DoDD 5205.07', but the 12 September 2024 reissue of that directive contains no definition of carve-out.",
 "of": null,

@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-761dda426d",
 "source": "https://irp.fas.org/budget/index.html",
 "text": "FAS brought the 1997 FOIA litigation, with the assistance of Kate Martin of the Center for National Security Studies, that forced the first disclosure of the total intelligence budget in fifty years.",
 "tier": 1
 },
 {
+"id": "c-b9b2fe7cf7",
 "source": "https://fas.org/expert/steven-aftergood/",
 "text": "Steven Aftergood joined FAS in 1989 and directed its Project on Government Secrecy from 1991 to 2021.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-dc49dcfec5",
 "edgeLabel": "FAS publishes the only public series on how often the Act is used",
 "id": "invention-secrecy-act",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "2013-08-29",
 "direction": "in",
+"edgeId": "e-19b9f88d5b",
 "edgeLabel": "FAS hosts the excerpts and the redacted FOIA budget justifications",
 "id": "nip-fy2013-summary-disclosure",
 "l0": false,
@@ -67,6 +71,7 @@
 "dateEnd": null,
 "dateStart": "2006",
 "direction": "out",
+"edgeId": "e-425505c7ad",
 "edgeLabel": "2006 FOIA suit forced release of unclassified NRO budget records",
 "id": "nro",
 "l0": true,
@@ -88,6 +93,7 @@
 "dateEnd": null,
 "dateStart": "1989",
 "direction": "in",
+"edgeId": "e-65ab0e5681",
 "edgeLabel": "Directed the Project on Government Secrecy 1991-2021",
 "id": "steven-aftergood",
 "l0": false,

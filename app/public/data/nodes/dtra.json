@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-ef4fb44dd5",
 "source": "Records of the Defense Threat Reduction Agency, Record Group 374, sec. 374.1, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/374.html",
 "text": "The National Archives record group description states the establishment: 'Established: In the Department of Defense (DOD) as a combat support agency, effective October 1, 1998, by DOD Directive 5105.62, September 30, 1998, consolidating the Defense Special Weapons Agency, the On-Site Inspection Agency, the Defense Technology Security Administration, and elements of the Office of the Secretary of Defense concerned with arms control programs management.'",
 "tier": 1
 },
 {
+"id": "c-15350e9d60",
 "source": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, 'Epilogue: DTRA', DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
 "text": "The agency states its own lineage in its history: 'The nation's oldest defense agency thus lives on; MED to AFSWP to DAS A to DNA to DSWA to DTRA.' Secretary of Defense William S. Cohen formally established it in a ceremony at Dulles International Airport, and its first Director, Dr. Jay Davis, reported to the Under Secretary of Defense for Acquisition and Technology.",
 "tier": 1
 },
 {
+"id": "c-d541b6c87e",
 "source": "Privacy Act of 1974; System of Records, Defense Threat Reduction Agency, 63 FR 68736, 14 December 1998, system HDTRA 010, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
 "text": "DTRA's own published inventory of records systems describes what it holds from the test era. HDTRA 010, Nuclear Test Participants, covers participants of the US nuclear testing programs and the occupation forces at Hiroshima and Nagasaki from 6 August 1945, holding 'dates and extent of test participation, exposure data, unit of assignment, medical data, and documentation relative to administrative claims or civil litigation', under authority including the Atomic Energy Act of 1954 and a tasking memorandum from the Office of the Secretary of Defense to the Director, Defense Nuclear Agency dated 28 January 1978.",
 "tier": 1
 },
 {
+"id": "c-8f8c15501f",
 "source": "Privacy Act of 1974; System of Records, Defense Threat Reduction Agency, 63 FR 68736, 14 December 1998, system HDTRA 020 and summary, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
 "text": "The same notice records a second historical collection, HDTRA 020, Human Radiation Research Review, held at the Radiation Experiments Command Center in the Special Weapons Technology Directorate, containing information abstracted from historical records and covering 'human radiation experimentation conducted from 1944 to the present'. It reached DTRA on 1 October 1998 by transfer of the OSD system DUSDA 05.",
 "tier": 1
 },
 {
+"id": "c-bfe7530fb3",
 "source": "Records of the Defense Threat Reduction Agency, Record Group 374, secs. 374.1 to 374.5, https://www.archives.gov/research/guide-fed-records/groups/374.html",
 "text": "The Atomic Energy Commission's records are a different archive. Record Group 374 covers 1943-73 and holds AFSWP general records, headquarters organisation records, the AFSWP special detachments assigned to Atomic Energy Commission facilities 1943-52 and the joint task force records; its Related Records entry names 'Records of the Atomic Energy Commission, RG 326' as a separate group.",
 "tier": 1
 },
 {
+"id": "c-956b7eef41",
 "source": "Batch 17 file 03, 0:43;33-0:44;22, research/leads/area52-corpus-17.md; checked against RG 374, https://www.archives.gov/research/guide-fed-records/groups/374.html and 63 FR 68736, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
 "text": "On Debriefed, episode 80, 20 March 2026, the guest Gerb, relaying Dylan Borland's testimony, said that 'old Atomic Energy Commission records held within' DTRA concluded that some UFOs were of non-human origin. No title, number or date was given. Nothing opened for this node supports it: the AEC's own records are in a separate National Archives record group, and DTRA's published inventory of what it holds from that era is nuclear test participation, exposure and human radiation experimentation records.",
 "tier": 2
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6a07853157",
 "edgeLabel": "Holds nuclear test participation and radiation exposure records from the Commission's era, under Atomic Energy Act authority",
 "id": "atomic-energy-commission",
 "l0": true,
@@ -66,6 +73,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-83b802c348",
 "edgeLabel": "Established as a DoD combat support agency by DoD Directive 5105.62",
 "id": "dod",
 "l0": true,

@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-17c434d555",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "DoDD 5205.07 (2024) designates the Director, DoD SAPCO as Chair of the SSWG (while also serving as Executive Secretary of the SAPOC and SRG).",
 "tier": 1
 },
 {
+"id": "c-00b041b877",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "DoDI 5205.11 para 4.1.a.(2) sets the front-end clock for a new program: 'Within 45 calendar days of creation of the SAP project, the CA will submit' the required governance documentation.",
 "tier": 1
 },
 {
+"id": "c-b1348f6480",
 "source": "DoDI 5205.11, Enclosure 3, para 4",
 "text": "DoDI 5205.11 Enclosure 3 para 4: 'The SSWG serves as the senior program protection forum to coordinate, deconflict, and integrate special programs; address SAP policy, oversight, and management; and provide recommendations to the SRG.'",
 "tier": 1
 },
 {
+"id": "c-b5c725961e",
 "source": "DoDI 5205.11, Enclosure 3, para 4.a",
 "text": "DoDI 5205.11 Enclosure 3 para 4.a: SSWG membership is the Director, DoD SAPCO as Chair, plus the SAPCO Directors of USD(I), USD(P), USD(AT&L), Army, Air Force, Navy, Marine Corps, the Joint Staff, the Defense Advanced Research Projects Agency and the Missile Defense Agency, and representatives of DCAPE, DoD CIO, USD(C)/CFO and GC DoD.",
 "tier": 1
 },
 {
+"id": "c-b083617cef",
 "source": "DoDI 5205.11, Appendix 1 to Enclosure 6",
 "text": "DoDI 5205.11 PSAP timeline: 'NLT P+14 - SSWG reviews PSAP - Programmatic deconfliction - Validation - Written recommendation.'",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2013-02-06",
 "direction": "in",
+"edgeId": "e-924a3f0aaa",
 "edgeLabel": "Chairs the deconfliction forum at the DoD SAPCO director level",
 "id": "dodi-5205-11",
 "l0": true,

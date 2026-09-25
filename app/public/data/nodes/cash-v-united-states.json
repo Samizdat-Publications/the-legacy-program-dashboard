@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-a9933ed43b",
 "source": "Civil docket sheet, Cash v. United States, No. H-84-348 (S.D. Tex., Houston Div.)",
 "text": "Docket sheet: plaintiffs Betty Cash, Vickie Landrum, Colby Landrum; defendant United States of America; Civil Action No. H-84-348; cause 28 U.S.C. 1346(b), 2671 et seq., airplane product liability; damages $5,000,000; Judge Ross N. Sterling; original complaint and two summonses filed January 1984.",
 "tier": 1
 },
 {
+"id": "c-4bba85e3c3",
 "source": "Order of Dismissal, Cash v. United States, No. H-84-348, filed 21 August 1986 (scan of clerk-stamped original)",
 "text": "Order of Dismissal, clerk-stamped FILED AUG 21 1986, Jesse E. Clark, Clerk: 'CAME ON this day the Motion to Dismiss and/or for Summary Judgment filed by the United States ... IT IS HEREBY ORDERED that the above noted cause of action is DISMISSED pursuant to Federal Rule of Civil Procedure Rule 12(b)(1), Rule 12(b)(6) and Rule 56.'",
 "tier": 1
 },
 {
+"id": "c-368fb46f19",
 "source": "Docket entry 2 and the docket sheet attorney block",
 "text": "Peter A. Gersten was designated attorney in charge for plaintiffs by order under Local Rule 1; William C. Shead was designated local co-counsel; Frank A. Conforti appeared as Assistant US Attorney.",
 "tier": 1
 },
 {
+"id": "c-2fcad4b3b2",
 "source": "Curt Collins, Cash-Landrum UFO Case Document Collection, note to the legal documents section",
 "text": "The Defense conducted an investigation into whether the object was a US military device; no documents from that investigation have surfaced.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": "1986-08-21",
 "dateStart": "1984",
 "direction": "out",
+"edgeId": "e-2a34e96ccd",
 "edgeLabel": "The United States denied ownership of the object and the aircraft",
 "id": "betty-cash",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "1986-08-21",
 "dateStart": "1984-01-18",
 "direction": "in",
+"edgeId": "e-ee2256ce2d",
 "edgeLabel": "Lead named plaintiff",
 "id": "betty-cash",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "2009-08-24",
 "dateStart": "1984-01-18",
 "direction": "in",
+"edgeId": "e-ad17c45c36",
 "edgeLabel": "The domain's only two federal dockets, twenty years apart",
 "id": "kean-v-nasa",
 "l0": false,
@@ -115,6 +122,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-2a34e96ccd",
 "label": "The United States denied ownership of the object and the aircraft",
 "note": "The government moved to dismiss and for summary judgment; the court dismissed under FRCP 12(b)(1), 12(b)(6) and 56. The Defense Department's internal investigation into whether the object was a US military device has never produced a released document.",
 "of": null,

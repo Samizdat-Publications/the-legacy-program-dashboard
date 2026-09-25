@@ -27,21 +27,25 @@
 ],
 "claims": [
 {
+"id": "c-2539a47738",
 "source": "The Debrief reporting on the January 2026 counter-drone policy change, 30 January 2026",
 "text": "Joint Interagency Task Force 401 (JIATF-401) was established in August 2025 and is directed by Brigadier General Matt Ross.",
 "tier": 1
 },
 {
+"id": "c-6b223c28c8",
 "source": "DoD Office of Inspector General report DODIG-2026-045, reported 30 January 2026",
 "text": "DODIG-2026-045, dated 21 January 2026, evaluated ten installations with drone incursions and interviewed officials from 31 DoD components and 4 federal agencies, finding inconsistent policies and approval processes that delayed counter-drone deployment.",
 "tier": 1
 },
 {
+"id": "c-9e4e2aea2f",
 "source": "The Debrief, 30 January 2026",
 "text": "Updated guidance announced 30 January 2026 removed the 'fence-line' limitation, defined 'unauthorized surveillance' as an explicit threat, and gave commanders 'totality of circumstances' discretion.",
 "tier": 1
 },
 {
+"id": "c-03917995fa",
 "source": "Reported figure cited in The Debrief, 30 January 2026",
 "text": "Restricted-airspace drone sightings rose 26 percent in 2025.",
 "tier": 2
@@ -57,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-a805a28266",
 "edgeLabel": "Director of JIATF-401 from its establishment",
 "id": "jiatf-401",
 "l0": false,

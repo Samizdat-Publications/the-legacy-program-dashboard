@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-7674ac4f98",
 "source": "The Debrief, 5 June 2023",
 "text": "Published 5 June 2023 by Leslie Kean and Ralph Blumenthal with named on-record corroboration from Karl Nell and Christopher Mellon and pseudonymous corroboration from a serving NASIC officer.",
 "tier": 1
 },
 {
+"id": "c-1a8e0a5e4e",
 "source": "The Debrief, 5 June 2023",
 "text": "Reports Grusch's claim that the retrieved material includes intact and partially intact vehicles with unique atomic arrangements and radiological signatures.",
 "tier": 2
 },
 {
+"id": "c-656f473895",
 "source": "The Debrief, 5 June 2023",
 "text": "Reports that Grusch left government on 7 April 2023 to advance accountability through public disclosure, and that he helped draft the UAP whistleblower language in the FY2023 NDAA.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-b3c6f6cfaf",
 "edgeLabel": "Clearance preceded publication by two months",
 "id": "grusch-dopsr-clearance",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-16a9578337",
 "edgeLabel": "Publication to sworn testimony in fifty-one days",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -72,6 +77,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-4826b5f3aa",
 "edgeLabel": "Co-author; vetted Grusch through Nell and the NASIC officer",
 "id": "leslie-kean",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-7da3a4b393",
 "edgeLabel": "Co-author",
 "id": "ralph-blumenthal",
 "l0": false,

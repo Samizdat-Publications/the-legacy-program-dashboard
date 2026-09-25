@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-ef410657f6",
 "source": "National Archives, UAP records research topic page",
 "text": "NARA established the Unidentified Anomalous Phenomena Records Collection (Record Group 615) per sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31.",
 "tier": 1
 },
 {
+"id": "c-864547c01c",
 "source": "National Archives, UAP records research topic page",
 "text": "UAP records received by NARA from federal agencies under the 2024 NDAA are accessioned into RG 615 and added on a rolling basis as received.",
 "tier": 1
 },
 {
+"id": "c-88101cf029",
 "source": "National Archives, UAP records research topic page",
 "text": "NARA has been digitising historical UFO/UAP records from its existing holdings and releasing them through the online catalog; the topic page was last updated 24 April 2025.",
 "tier": 1
 },
 {
+"id": "c-081100b984",
 "source": "National Archives, Air Force UFO records page",
 "text": "Existing legacy holdings include the Project Blue Book records: approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of OSI records on 94 rolls of microfilm (T-1206).",
 "tier": 1
 },
 {
+"id": "c-e28d7107ea",
 "source": "Inference from the described contents of RG 615 and NARA's Air Force UFO holdings description",
 "text": "No series corresponding to JANAP 146 CIRVIS national-security UFO reports, or to Air Materiel Command T-2 intelligence files for 1947-1951, has been identified in RG 615 accessions to date — the two series most likely to bear on a legacy recovery effort.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "1969",
 "direction": "in",
+"edgeId": "e-fb55a5e78e",
 "edgeLabel": "No records series has ever been identified for the JANAP channel",
 "id": "bolender-memo",
 "l0": false,
@@ -66,6 +72,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-bafd41d3fa",
 "edgeLabel": "The first statutory records mechanism descends from the destruction problem",
 "id": "gao-nsiad-95-187",
 "l0": false,
@@ -92,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-403716e904",
 "edgeLabel": "NARA holds the Blue Book series and is digitising legacy UFO records",
 "id": "project-blue-book",
 "l0": true,

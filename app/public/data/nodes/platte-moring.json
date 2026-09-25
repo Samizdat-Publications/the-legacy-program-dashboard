@@ -16,11 +16,13 @@
 ],
 "claims": [
 {
+"id": "c-74e7b3de54",
 "source": "https://www.dodig.mil/About/Leadership/",
 "text": "Platte B. Moring III is identified on the Department of War Office of Inspector General leadership page as Inspector General.",
 "tier": 1
 },
 {
+"id": "c-c0401a7df1",
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
 "text": "His office published DOWIG-2026-081 on 12 May 2026, recording an eighth consecutive disclaimer of opinion and 26 material weaknesses.",
 "tier": 1
@@ -36,6 +38,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d49c504be2",
 "edgeLabel": "Serving Inspector General",
 "id": "dodig",
 "l0": false,

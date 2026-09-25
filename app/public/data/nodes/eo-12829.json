@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-eec4eeac64",
 "source": "https://www.law.cornell.edu/uscode/text/50/3161",
 "text": "Citation and date, verbatim from the notes to 50 U.S.C. 3161: 'Ex. Ord. No. 12829, Jan. 6, 1993, 58 F.R. 3479.' Section 101: 'There is established a National Industrial Security Program. The purpose of this program is to safeguard classified information that may be released or has been released to current, prospective, or former contractors, licensees, or grantees.'",
 "tier": 1
 },
 {
+"id": "c-5184b81044",
 "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
 "text": "32 CFR 117 is the current operative implementation of E.O. 12829: the NISPOM was converted from DoD 5220.22-M into a binding federal rule at 32 CFR Part 117. 32 CFR 117.6(b) is where the DoD SAP carve-out from that program is written down.",
 "tier": 1
 },
 {
+"id": "c-c1ec1656ec",
 "source": "32 CFR 117.6(a)(1)",
 "text": "32 CFR 117.6(a)(1) records that the USD(I&S) 'Carries out the direction in section 201 of E.O. 12829 that the Secretary of Defense issue and maintain this rule and changes to it', in consultation with affected agencies and with the concurrence of the Secretary of Energy, the Chairman of the NRC, the DNI, and the Secretary of Homeland Security.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1993-01-06",
 "direction": "out",
+"edgeId": "e-6da78c671c",
 "edgeLabel": "Section 201 of E.O. 12829 is the authority for the NISPOM rule",
 "id": "cfr-32-117",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-3eeaf6507c",
 "edgeLabel": "32 CFR 117 implements E.O. 12829",
 "id": "cfr-32-117",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-67adb01dd8",
 "edgeLabel": "the rule implements the order",
 "id": "cfr-32-117",
 "l0": false,

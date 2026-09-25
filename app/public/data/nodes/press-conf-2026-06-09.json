@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-bde51b2525",
 "source": "Fox News, 10 June 2026, reporting the 9 June 2026 Capitol press conference",
 "text": "Grusch: 'During my investigation, I found slush funds to the tune of billions of dollars per annum for these activities,' and 'This is also a real fraud, waste and abuse issue.'",
 "tier": 2
 },
 {
+"id": "c-d8c531f3ae",
 "source": "NewsNation coverage of the 9 June 2026 press conference",
 "text": "Grusch stated the US government is aware of several kinds of non-human intelligence and called for declassification including records on the 1996 Varginha incident.",
 "tier": 2
 },
 {
+"id": "c-ee7f1574d9",
 "source": "Fox News, 10 June 2026",
 "text": "Grusch accused the Defense Intelligence Agency of obstructing congressional oversight by withholding documents.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-6fc321689f",
 "edgeLabel": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
 "id": "david-grusch",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-7977b1ecaf",
 "edgeLabel": "Hosted the press conference",
 "id": "task-force-declassification",
 "l0": false,
@@ -82,6 +87,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-da4f9d6edf",
 "edgeLabel": "February announcement produced the June pressure campaign",
 "id": "trump-uap-declass-directive-2026",
 "l0": false,

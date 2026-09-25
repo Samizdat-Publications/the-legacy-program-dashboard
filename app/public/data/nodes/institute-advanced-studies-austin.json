@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-16e6fecb3b",
 "source": "Cover page of 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
 "text": "The IASA imprint appears on the cover of the AAWSAP medical DIRD authored by Christopher Green, M.D., Ph.D.",
 "tier": 1
 },
 {
+"id": "c-01b9c588af",
 "source": "Preface of the Green DIRD",
 "text": "The DIRD's preface quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' proposing outsourcing of a medical analysis of archival data on physiological effects of 'exotic propulsion' fields.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-22616b6ddf",
 "edgeLabel": "Produced under the Institute for Advanced Studies at Austin imprint",
 "id": "dird-green-clinical-medical",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "1991",
 "direction": "out",
+"edgeId": "e-c9caa84771",
 "edgeLabel": "IASA (1985) incorporated under EarthTech International (1991)",
 "id": "earthtech-international",
 "l0": true,

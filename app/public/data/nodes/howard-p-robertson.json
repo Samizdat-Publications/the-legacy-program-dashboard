@@ -33,26 +33,31 @@
 ],
 "claims": [
 {
+"id": "c-e34c163c52",
 "source": "Robertson Panel report, declassified text",
 "text": "The panel report is titled 'Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA' and covers meetings of 14-18 January 1953.",
 "tier": 1
 },
 {
+"id": "c-7abf75a351",
 "source": "Robertson Panel report, Recommendations",
 "text": "The panel recommended a public education programme with 'training' and 'debunking' aims, stating 'this education could be accomplished by mass media such as television, motion pictures, and popular articles.'",
 "tier": 1
 },
 {
+"id": "c-78c62731fa",
 "source": "Robertson Panel report; corroborated in Haines, CIA Studies in Intelligence, 1997",
 "text": "The panel canvassed the Walt Disney organisation and the US Navy Special Devices Center as vehicles for producing the debunking material.",
 "tier": 1
 },
 {
+"id": "c-5d9a16ee49",
 "source": "Robertson Panel report, membership list",
 "text": "Panel membership was Robertson (chair, Caltech), Luis W. Alvarez, Lloyd V. Berkner, Samuel A. Goudsmit and Thornton Page, with Frederick C. Durant as secretary.",
 "tier": 1
 },
 {
+"id": "c-ccaabd95db",
 "source": "Durant memorandum, 16 Feb 1953, recording the schedule of proceedings",
 "text": "The panel reviewed only a curated case selection over roughly twelve hours of formal session across four days.",
 "tier": 2
@@ -68,6 +73,7 @@
 "dateEnd": null,
 "dateStart": "1953-01",
 "direction": "out",
+"edgeId": "e-3a568b8f37",
 "edgeLabel": "Chaired the CIA-convened panel of January 1953",
 "id": "cia",
 "l0": true,
@@ -89,6 +95,7 @@
 "dateEnd": "1953",
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-1fcd561803",
 "edgeLabel": "Robertson chaired the panel",
 "id": "robertson-panel",
 "l0": true,

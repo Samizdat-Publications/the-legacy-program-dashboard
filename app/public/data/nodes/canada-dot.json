@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-370d37bdf6",
 "source": "OCSA, Sky Canada Project report, June 2025",
 "text": "In 1950 the Department of Transport granted its engineer Wilbert Smith permission to do part-time research into whether some UFOs could use the power of the Earth's magnetic field as a source of propulsion; this became Project Magnet, whose scope Smith expanded to investigating the validity of UFO observations, including launching a balloon over Ottawa to monitor public and media reaction and establishing a UFO observatory outside the capital.",
 "tier": 1
 },
 {
+"id": "c-23da8fd40a",
 "source": "OCSA, Sky Canada Project report, June 2025",
 "text": "Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings; the National Research Council of Canada separately collected and studied UAP reports from 1967 until the 1990s.",
 "tier": 1
 },
 {
+"id": "c-abdc585f26",
 "source": "OCSA, Sky Canada Project report, June 2025",
 "text": "The Sky Canada report recommends that Transport Canada, in collaboration with NAV CANADA, encourage pilots, cabin crew and air traffic controllers to report UAP sightings without fear of stigmatisation and analyse those reports to track trends.",
 "tier": 1
 },
 {
+"id": "c-2ae405a6ee",
 "source": "Inference",
 "text": "Project Magnet's placement inside a civil transport ministry rather than a defence ministry is the significant structural fact: it produced a paper trail that survived into open archives precisely because it was never inside a compartmented defence programme. Reasoning: comparison with the US case, where equivalent-era work is only known through later declassification.",
 "tier": 3
 },
 {
+"id": "c-5aa06fd920",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c221d0394a",
 "edgeLabel": "Sky Canada Project audited and issued recommendations to Transport Canada",
 "id": "ocsa-canada",
 "l0": false,

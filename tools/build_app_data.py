@@ -400,6 +400,7 @@ def threads_list(s):
 
 def edges_json(s):
     rows = [{"a": e["a"], "b": e["b"], "dateStart": e.get("dateStart"),
+             "id": e.get("id"),
              "label": e.get("label") or "", "t": e["type"],
              "tier": e.get("claimTier")}
             for e in s.board["edges"]]
@@ -439,6 +440,7 @@ def claims_json(s, ix):
                 "cls": n.get("cls"),
                 "cluster": n.get("cluster"),
                 "denied": denied,
+                "id": c.get("id"),
                 "label": n["label"],
                 "node": n["id"],
                 "open": open_q,
@@ -496,6 +498,8 @@ def node_files(s, ix):
                 # the spec lists `label` twice, for the neighbour and for the
                 # edge; the neighbour keeps `label`, the edge takes `edgeLabel`.
                 "edgeLabel": e.get("label") or "",
+                # the edge's own stable id (phase 4); `id` is the neighbour's
+                "edgeId": e.get("id"),
                 "id": other,
                 "l0": other in ix["l0ids"],
                 "label": o["label"],
@@ -527,6 +531,7 @@ def node_files(s, ix):
                 "by": ref(by) if by else None,
                 "claimTier": e.get("claimTier"),
                 "denialKind": e.get("denialKind"),
+                "edgeId": e.get("id"),
                 "label": e.get("label") or "",
                 "note": e.get("note") or "",
                 "of": ref(of) if of else None,

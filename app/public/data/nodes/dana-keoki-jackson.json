@@ -22,16 +22,19 @@
 ],
 "claims": [
 {
+"id": "c-b3951ac80d",
 "source": "MITRE - Our Leadership page, accessed 12 August 2026",
 "text": "Jackson is Senior Vice President and General Manager of MITRE National Security, the unit encompassing MITRE's defense and intelligence work.",
 "tier": 1
 },
 {
+"id": "c-c84daf2a74",
 "source": "Widely reported industry record; Lockheed Martin executive announcements",
 "text": "Jackson previously served as Chief Technology Officer of Lockheed Martin.",
 "tier": 2
 },
 {
+"id": "c-6a1956c602",
 "source": "Inference from MITRE's published FFRDC sponsor list and NSEC fact sheet",
 "text": "Records responsive to Burlison's request categories - Special and Controlled Access Programs, materials analysis, classification guides - would be held by NSEC under Jackson rather than by MITRE's FAA, IRS, HHS or NIST FFRDCs. Reasoning: NSEC is MITRE's only DoD/IC-sponsored FFRDC and the only one operating at the relevant classification levels.",
 "tier": 3
@@ -47,6 +50,7 @@
 "dateEnd": null,
 "dateStart": "2020",
 "direction": "out",
+"edgeId": "e-c98553b2ee",
 "edgeLabel": "Arrived at MITRE from Lockheed Martin's chief technology office",
 "id": "lockheed-skunk-works",
 "l0": true,
@@ -68,6 +72,7 @@
 "dateEnd": null,
 "dateStart": "2020",
 "direction": "out",
+"edgeId": "e-b363c2a62a",
 "edgeLabel": "Runs MITRE National Security, the organisation containing NSEC",
 "id": "mitre-nsec",
 "l0": false,

@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-3b6522523c",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
 "text": "Defense Intelligence Reference Document titled \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft\", series \"Defense Futures\", published 2010-12-15 with an Intelligence Cut-Off Date (ICOD) of 2010-09-08, DIA document number DIA-08-1101-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-163072ede2",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-e2db781cbe",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-e95a24790b",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/",
 "text": "Released PDF is 31 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-d77fb33a68",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.'",
 "tier": 1
 },
 {
+"id": "c-68bab379a6",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
 "text": "The released cover page carries the date 15 December 2010, an Intelligence Cut-Off Date of 8 September 2010 and document number DIA-08-1101-001 - the latest document number among the eight in this batch.",
 "tier": 1
 },
 {
+"id": "c-fd59989e00",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "It is one of three DIRDs by Genik, alongside 'Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces' and 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' - the largest single-author block after Eric Davis.",
 "tier": 2
 },
 {
+"id": "c-2aa76c137b",
 "source": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The document was released as item 34 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022.",
 "tier": 2
@@ -55,6 +63,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d5916966be",
 "edgeLabel": "commissioned under AAWSAP; latest document number in the released set",
 "id": "aawsap",
 "l0": true,
@@ -86,6 +95,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-b183a8aa59",
 "edgeLabel": "subject domain: cognitive load limits on multi-vehicle control",
 "id": "d-bio",
 "l0": false,
@@ -117,6 +127,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-fb292aace8",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -138,6 +149,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f138dd67c0",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -164,6 +176,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-4397e53108",
 "edgeLabel": "authored by Richard J. Genik II",
 "id": "richard-genik",
 "l0": false,
@@ -210,6 +223,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-5d1a72c334",
 "edgeLabel": "author's institution at time of writing",
 "id": "wayne-state-university",
 "l0": true,

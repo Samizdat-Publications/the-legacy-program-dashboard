@@ -57,36 +57,43 @@
 ],
 "claims": [
 {
+"id": "c-9abfe2a2b1",
 "source": "Rep. Jared Moskowitz, Task Force hearing, 9 September 2025 (GPO CHRG-119hhrg61718; The Hill, 9 Sept 2025)",
 "text": "'I don't really know what is true, I don't know, on this subject, but I do know when we're being lied to and we are definitely being lied to, there's just no doubt about that.'",
 "tier": 1
 },
 {
+"id": "c-8c9c789d32",
 "source": "CHRG-118hhrg53022, 26 July 2023",
 "text": "Asked Grusch on the record: 'Do you think U.S. corporations are overcharging for certain tech they are selling to the U.S. Government and that additional money is going to programs?'",
 "tier": 1
 },
 {
+"id": "c-460d9bf649",
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Established on the record that Elizondo signed a US Government document, in a SCIF, in the presence of a security officer, restricting him from discussing crash retrieval.",
 "tier": 1
 },
 {
+"id": "c-74f272c367",
 "source": "Rep. Moskowitz, December 2023, quoted by The Hill, 12 January 2024",
 "text": "'The problem is when we ask those questions, rather than being provided information that would prove it false, they stonewall the information, and that is what piques the interest.'",
 "tier": 2
 },
 {
+"id": "c-04502b6ae8",
 "source": "CHRG-118hhrg53022, 26 July 2023",
 "text": "'It is not something that is just going on in this Administration. It is something that has spanned many administrations.'",
 "tier": 2
 },
 {
+"id": "c-fb0d11d5a6",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited: funding by 'misappropriation of funds and self-fund,' and 'Correct, through something called IR&D' on contractor overcharging.",
 "tier": 1
 },
 {
+"id": "c-540089b00e",
 "source": "Moskowitz, Capitol press conference, 9 June 2026, reported by Fox News",
 "text": "'There's trillions of dollars missing at the Pentagon. Where does that money go?'",
 "tier": 2
@@ -102,6 +109,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-5d54a26bc0",
 "edgeLabel": "'Disclosure today, disclosure tomorrow'",
 "id": "capitol-disclosure-event-2026-06-09",
 "l0": false,
@@ -123,6 +131,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-32155ccff4",
 "edgeLabel": "Moskowitz read Schumer's disclosure language into the House record",
 "id": "chuck-schumer",
 "l0": false,
@@ -144,6 +153,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-ca2ea791ce",
 "edgeLabel": "Caucus member; the Democratic anchor",
 "id": "congressional-uap-caucus",
 "l0": true,
@@ -165,6 +175,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-557ee69215",
 "edgeLabel": "Asked whether contractor overcharging funds the concealed programs",
 "id": "david-grusch",
 "l0": false,
@@ -191,6 +202,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-9321ad51a1",
 "edgeLabel": "Cosponsor - the bipartisan half",
 "id": "hr-1187-uap-transparency-act",
 "l0": false,

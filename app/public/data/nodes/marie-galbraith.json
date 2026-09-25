@@ -21,6 +21,7 @@
 ],
 "claims": [
 {
+"id": "c-d955b34781",
 "source": "Marie Galbraith and initiative participants, contemporaneous accounts; document's own distribution statement",
 "text": "Galbraith compiled and distributed 'UFO Briefing Document: The Best Available Evidence' in 1995 under Laurance Rockefeller's funding, targeting government officials and legislators rather than the general public.",
 "tier": 2
@@ -36,6 +37,7 @@
 "dateEnd": "1995",
 "dateStart": "1993",
 "direction": "out",
+"edgeId": "e-c8e8b97b87",
 "edgeLabel": "Galbraith compiled 'The Best Available Evidence'",
 "id": "best-available-evidence",
 "l0": false,

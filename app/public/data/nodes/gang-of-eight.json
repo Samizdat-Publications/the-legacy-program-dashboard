@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-190acd0a2a",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm ; quoted words are 10 U.S.C. 119(e)(2) — https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
 "text": "The Gang of Eight is a creature of 50 U.S.C. 3093(c)(2) governing COVERT ACTION findings, not special access programs. The parallel narrowing for DoD SAPs is a different provision with a different membership: 10 U.S.C. 119(e)(2) sends waived-SAP information to 'the chairman and ranking minority member of each of the defense committees' -- the six units defined in 119(g), not the intelligence committees and not congressional leadership.",
 "tier": 1
 },
 {
+"id": "c-7ae30d37d9",
 "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
 "text": "By contrast 50 U.S.C. 3091a(d)(2) writes an eight-person leadership set INTO the mandatory audience for every controlled access program: 'the majority leader of the Senate; the minority leader of the Senate; the Speaker of the House of Representatives; and the minority leader of the House of Representatives,' alongside the intelligence and appropriations committees. Here the eight is a floor added to committee notice, not a substitute for it.",
 "tier": 1
 },
 {
+"id": "c-63499727b0",
 "source": "50 U.S.C. 3093(c)(2)",
 "text": "50 U.S.C. 3093(c)(2): 'If the President determines that it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States, the finding may be reported to the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.'",
 "tier": 1
 },
 {
+"id": "c-4778246204",
 "source": "50 U.S.C. 3093(c)(5)(B)",
 "text": "50 U.S.C. 3093(c)(5)(B) requires that not later than 180 days after a statement of reasons for limited access, the President ensure either that all members of the intelligence committees are provided access to the finding or notification, or that a further statement of reasons is submitted to the Gang of Eight.",
 "tier": 1
 },
 {
+"id": "c-a787c1cc99",
 "source": "50 U.S.C. 3093(c)(3)",
 "text": "50 U.S.C. 3093(c)(3) permits a finding not to be reported under paragraph (1) or (2) at all, requiring only that the President thereafter 'fully inform the congressional intelligence committees in a timely fashion' with 'a statement of the reasons for not giving prior notice.'",
 "tier": 1
 },
 {
+"id": "c-5af8ac1f4b",
 "source": "50 U.S.C. 3091(e)",
 "text": "50 U.S.C. 3091(e): 'Nothing in this chapter shall be construed as authority to withhold information from the congressional intelligence committees on the grounds that providing the information to the congressional intelligence committees would constitute the unauthorized disclosure of classified information or information relating to intelligence sources and methods.'",
 "tier": 1
 },
 {
+"id": "c-d937d3bfad",
 "source": "50 U.S.C. 3093(c)(5)(B) compared with 10 U.S.C. 119(e)",
 "text": "The covert action regime contains a mandatory 180-day review of continued limited access; the DoD waived-SAP regime contains no equivalent, so a waived DoD program can remain restricted to a handful of members indefinitely with no statutory event ever forcing reconsideration. Reasoning: 50 U.S.C. 3093(c)(5)(B) has no counterpart in 10 U.S.C. 119(e).",
 "tier": 3
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": "2010-07-01",
 "direction": "out",
+"edgeId": "e-c7d081dc1a",
 "edgeLabel": "DoD policy narrows waived-SAP access to chairs, ranking members and staff directors",
 "id": "dodd-5205-07-2010",
 "l0": false,
@@ -71,6 +79,7 @@
 "dateEnd": null,
 "dateStart": "2022-05-01",
 "direction": "in",
+"edgeId": "e-a5b0ba5ba9",
 "edgeLabel": "An urgent concern complaint enters a system whose SAP layer is itself compartmented",
 "id": "grusch-icig-complaint",
 "l0": false,
@@ -92,6 +101,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-04",
 "direction": "out",
+"edgeId": "e-a7c0d8745e",
 "edgeLabel": "The waived-SAP notification convention mirrors, but is weaker than, the covert action rule",
 "id": "usc-10-119e",
 "l0": false,
@@ -118,6 +128,7 @@
 "dateEnd": null,
 "dateStart": "1991-08-14",
 "direction": "out",
+"edgeId": "e-fb31068dde",
 "edgeLabel": "The statutory Gang of Eight is a covert action construct, not a SAP construct",
 "id": "usc-50-3093",
 "l0": false,

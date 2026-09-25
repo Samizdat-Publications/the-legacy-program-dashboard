@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-5868af5613",
 "source": "AARO/ORNL Synopsis: Analysis of a Metallic Specimen, released July 2024",
 "text": "'ORNL assessed this specimen to be terrestrial in origin and that it does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
 "tier": 1
 },
 {
+"id": "c-0c3f9958a1",
 "source": "AARO summary and Historical Record Report Volume I",
 "text": "AARO contracted ORNL in 2022 to conduct materials testing on the specimen after acquiring it, with stakeholder permission, from a private UAP organisation and the US Army.",
 "tier": 1
 },
 {
+"id": "c-21cce3f392",
 "source": "AARO/ORNL Synopsis, July 2024",
 "text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2024",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-10272f50d3",
 "edgeLabel": "Oak Ridge, operated by UT-Battelle, analysed the alleged 1947 crash specimen for AARO",
 "id": "battelle",
 "l0": true,
@@ -56,6 +60,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-060fc949a2",
 "edgeLabel": "ORNL assessed the privately held 'crash' specimen as terrestrial",
 "id": "ttsa",
 "l0": true,
@@ -77,6 +82,7 @@
 "dateEnd": "2024",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-a770d67d68",
 "edgeLabel": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
 "id": "ttsa-army-crada",
 "l0": true,
@@ -123,6 +129,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-060fc949a2",
 "label": "ORNL assessed the privately held 'crash' specimen as terrestrial",
 "note": "The finding does not resolve the custody question it arose from: AARO notes the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its historical origin unclear.",
 "of": {

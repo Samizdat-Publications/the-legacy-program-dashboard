@@ -5,31 +5,37 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-ae4af51af7",
 "source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
 "text": "The Commission gains its first named chairman on this board. The CIA's own declassified chronology records under January 1961: '16 JAN. Dr. Glenn T. Seaborg named AEC chairman, succeeding John A. McCone (confirmed by Senate 24 Feb).' McCone went from the Commission to the Directorship of Central Intelligence, and two years later Seaborg was writing to him there on Commission letterhead. No end to the chairmanship is established by any record opened for this pass.",
 "tier": 1
 },
 {
+"id": "c-dec246cf5e",
 "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 2(a), approved 1 August 1946, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
 "text": "The Commission was created by statute: 'There is hereby established an Atomic Energy Commission (herein called the Commission), which shall be composed of five members.' Members are appointed by the President by and with the advice and consent of the Senate.",
 "tier": 1
 },
 {
+"id": "c-41ed1bc507",
 "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 9(a), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
 "text": "The Commission took statutory custody of the Manhattan Engineer District's holdings. Section 9(a) directs the transfer to the Commission of 'All fissionable material; all atomic weapons and parts thereof' and of 'Such other property owned by or in the custody or control of the Manhattan Engineer District or other Government agencies as the President may determine.'",
 "tier": 1
 },
 {
+"id": "c-cb801a2df6",
 "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 10(b)(1), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
 "text": "Classification runs by category rather than by decision. The 1946 Act defines restricted data as 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.'",
 "tier": 1
 },
 {
+"id": "c-f662c9a6f9",
 "source": "Atomic Energy Act of 1946, sec. 2(a)(4)(B), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf ; Atomic Energy Act of 1954, Public Law 83-703, 68 Stat. 919, sec. 25, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
 "text": "A Division of Military Application under a serving officer was in the Commission from the start: the 1946 Act establishes it alongside Research, Production and Engineering and provides that 'The Director of the Division of Military Application shall be a member of the armed forces.' The 1954 Act carries it forward at section 25 with the Director required to be 'an active member of the Armed Forces.'",
 "tier": 1
 },
 {
+"id": "c-08d84d4c84",
 "source": "Energy Reorganization Act of 1974, Public Law 93-438, 88 Stat. 1233, secs. 104(a) and 312(a), approved 11 October 1974, https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf",
 "text": "The Commission was abolished by statute: 'The Atomic Energy Commission is hereby abolished.' Its functions vested in the Administrator of the Energy Research and Development Administration, and the Act took effect 120 days after enactment or on an earlier date the President might prescribe.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-e5de18fd08",
 "edgeLabel": "Funded by AEC working fund advances; Chief and Deputy sat on the Military Liaison Committee",
 "id": "afswp",
 "l0": false,
@@ -66,6 +73,7 @@
 "dateEnd": "1946",
 "dateStart": "1946",
 "direction": "in",
+"edgeId": "e-02d95526ad",
 "edgeLabel": "The instrument that created the Commission",
 "id": "atomic-energy-act-1946",
 "l0": false,
@@ -87,6 +95,7 @@
 "dateEnd": null,
 "dateStart": "1954-08-30",
 "direction": "in",
+"edgeId": "e-117b277029",
 "edgeLabel": "Ties removal from the Restricted Data category to a formal procedure",
 "id": "atomic-energy-act-1954",
 "l0": false,
@@ -108,6 +117,7 @@
 "dateEnd": "1974",
 "dateStart": "1974",
 "direction": "out",
+"edgeId": "e-771cf1b726",
 "edgeLabel": "Abolished 1974; functions passed through ERDA to the Department of Energy",
 "id": "doe",
 "l0": true,
@@ -134,6 +144,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6a07853157",
 "edgeLabel": "Holds nuclear test participation and radiation exposure records from the Commission's era, under Atomic Energy Act authority",
 "id": "dtra",
 "l0": false,
@@ -155,6 +166,7 @@
 "dateEnd": null,
 "dateStart": "1961-01-16",
 "direction": "in",
+"edgeId": "e-703923a5d8",
 "edgeLabel": "Chairman of the Commission",
 "id": "glenn-t-seaborg",
 "l0": false,
@@ -176,6 +188,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-40e7f6129f",
 "edgeLabel": "Absorbed Groom Lake into its Nevada real estate at CIA request, 1955",
 "id": "l-groom-lake",
 "l0": false,
@@ -197,6 +210,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-9d918d668e",
 "edgeLabel": "Area 51 was added to the Nevada Test Site by the Commission",
 "id": "l-nevada-test-site",
 "l0": false,
@@ -218,6 +232,7 @@
 "dateEnd": null,
 "dateStart": "1947-01-31",
 "direction": "in",
+"edgeId": "e-10b12a39da",
 "edgeLabel": "Member, Military Liaison Committee to the AEC",
 "id": "leslie-r-groves",
 "l0": false,
@@ -239,6 +254,7 @@
 "dateEnd": "1946",
 "dateStart": "1946",
 "direction": "out",
+"edgeId": "e-a1f38a4299",
 "edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings",
 "id": "manhattan-project-2",
 "l0": true,

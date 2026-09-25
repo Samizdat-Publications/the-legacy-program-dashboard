@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-c6521d4478",
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
 "text": "'A pivotal incident occurred during an air combat training mission in Warning Area W-72 ... The jets, only 100 feet apart, were forced to take evasive action.'",
 "tier": 1
 },
 {
+"id": "c-16eeab99c6",
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
 "text": "'Our squadron submitted a safety report, but there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": "2015",
 "dateStart": "2014",
 "direction": "out",
+"edgeId": "e-733d049823",
 "edgeLabel": "Squadron at the centre of the Atlantic encounter series",
 "id": "roosevelt-2014-2015",
 "l0": true,

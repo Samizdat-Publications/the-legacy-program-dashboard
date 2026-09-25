@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-f8090d9099",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
 "text": "Szydagis, Knuth, Kugielsky and Levy published 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena' in Progress in Aerospace Sciences 156:101099 in June 2025.",
 "tier": 1
 },
 {
+"id": "c-e1258c486f",
 "source": "Published biography of Kevin Knuth",
 "text": "Knuth serves as Vice President of UAPx.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-896d81813e",
 "edgeLabel": "Vice President of UAPx and co-author of the 2025 paper",
 "id": "kevin-knuth",
 "l0": false,
@@ -51,6 +54,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-d908a007f9",
 "edgeLabel": "Co-founder; first author of the field-expedition results",
 "id": "matthew-szydagis",
 "l0": false,
@@ -72,6 +76,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-aa57215d9a",
 "edgeLabel": "First peer-reviewed UAP field-expedition results",
 "id": "paper-uapx-2025",
 "l0": false,
@@ -93,6 +98,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-3dea45016e",
 "edgeLabel": "Academic base of UAPx's science leadership - NOT a host, sponsor or funder",
 "id": "university-at-albany",
 "l0": false,

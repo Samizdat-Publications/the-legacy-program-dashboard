@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-74bf43ae26",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
 "text": "Defense Intelligence Reference Document titled \"Negative Mass Propulsion\", series \"Defense Futures\", published 2011-01-03 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1101-023. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-8ba824cd82",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-1dddff25e1",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-014fd468f0",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf",
 "text": "Cover page reads: '03 January 2011 / ICOD 30 August 2010 / DIA-08-1101-023 / Defense Intelligence Reference Document / Defense Futures / Negative Mass Propulsion'.",
 "tier": 1
 },
 {
+"id": "c-9432f29297",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr F Winterberg, Univ of Nevada-Reno'. The author line on the released PDF is redacted under (b)(6).",
 "tier": 1
 },
 {
+"id": "c-7c406def44",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/",
 "text": "Administrative note: 'This product is one in a series of advanced technology reports produced in FY 2010 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.' Held in the DIA FOIA Electronic Reading Room.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-b15ff09651",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract, FY 2010",
 "id": "aawsap",
 "l0": true,
@@ -71,6 +78,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-39bd6c3aa8",
 "edgeLabel": "commissioned via the BAASS prime contract",
 "id": "baass",
 "l0": true,
@@ -102,6 +110,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-04caf7a51e",
 "edgeLabel": "published, numbered and released by DIA as DIA-08-1101-023",
 "id": "dia",
 "l0": true,
@@ -128,6 +137,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-9598d345c0",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -149,6 +159,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-e7f0907cd8",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -175,6 +186,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-48dcafb07e",
 "edgeLabel": "authored by",
 "id": "friedwardt-winterberg",
 "l0": false,

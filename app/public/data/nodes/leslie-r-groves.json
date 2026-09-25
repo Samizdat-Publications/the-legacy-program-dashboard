@@ -8,21 +8,25 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-de71864545",
 "source": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
 "text": "The Defense Threat Reduction Agency's chronology of its own lineage: 'Feb. 28, 1947. Maj Gen Groves becomes first Chief AFSWP, serving for one year, until his retirement on February 29, 1948; he is promoted to Lt. General on January 24, 1948.'",
 "tier": 1
 },
 {
+"id": "c-b75dd93c27",
 "source": "Defense's Nuclear Agency 1947-1997, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
 "text": "He had joined the Military Liaison Committee to the Atomic Energy Commission four weeks earlier: 'Jan. 31, 1947. Maj Gen Leslie R. Groves becomes member of MLC.'",
 "tier": 1
 },
 {
+"id": "c-b494d01b7e",
 "source": "Defense's Nuclear Agency 1947-1997, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
 "text": "The command was vacant when it was created, and his own aide held it. 'Therefore, between the beginning of January and the end of February 1947, there was no officially appointed chief of AFSWP. During this period, Groves' aide, Colonel Hasbrouck, assumed Headquarters command in Washington as the senior officer of the organization.'",
 "tier": 1
 },
 {
+"id": "c-13c2f8f2b6",
 "source": "Danny Jones Podcast #263, 'Exiled Brain Surgeon', 30 September 2024, transcript at 1:48:12 to 1:49:51; contradicted against Defense's Nuclear Agency 1947-1997, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
 "text": "On the Danny Jones Podcast #263, 30 September 2024, at 1:48:12, Jack Kruse said the covert apparatus he describes 'has been planned all the way from when General Groves left in 1947' and that Groves's 'parting gift was turning the OSS into the CIA', adding at 1:49:00 that Groves 'formed a militia outside the military'. The agency history opened for this node contradicts the premise: Groves did not leave government in 1947, he took a new joint command on 28 February 1947 and retired on 29 February 1948. The same history contains no reference to the Office of Strategic Services, to Operation Paperclip or to any militia.",
 "tier": 2
@@ -38,6 +42,7 @@
 "dateEnd": "1948-02-29",
 "dateStart": "1947-02-28",
 "direction": "out",
+"edgeId": "e-3e370ea9c5",
 "edgeLabel": "First Chief, AFSWP",
 "id": "afswp",
 "l0": false,
@@ -59,6 +64,7 @@
 "dateEnd": null,
 "dateStart": "1947-01-31",
 "direction": "out",
+"edgeId": "e-10b12a39da",
 "edgeLabel": "Member, Military Liaison Committee to the AEC",
 "id": "atomic-energy-commission",
 "l0": true,
@@ -80,6 +86,7 @@
 "dateEnd": null,
 "dateStart": "1947-03-31",
 "direction": "out",
+"edgeId": "e-d599e5530b",
 "edgeLabel": "Joint command with a Navy deputy",
 "id": "us-navy",
 "l0": true,

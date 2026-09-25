@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-8512998988",
 "source": "The Hill, 12 January 2024",
 "text": "Closed-door briefing at the Capitol lasting about 90 minutes at which ICIG Thomas Monheim spoke with House Oversight and Accountability Committee members, intended to improve transparency around the government's knowledge of UAP.",
 "tier": 2
 },
 {
+"id": "c-7fd0d83df4",
 "source": "The Hill, 13 January 2024",
 "text": "Burchett: 'At one time, we had 16 congressmen in there... And these were people that normally you wouldn't see,' naming Moskowitz, Ocasio-Cortez and Luna; he rated the briefing four out of ten.",
 "tier": 2
 },
 {
+"id": "c-566d8272dd",
 "source": "The Hill, 12 January 2024",
 "text": "Ogles emerged saying what 'most Americans fear is true,' describing 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.'",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-90e45bbece",
 "edgeLabel": "Emerged describing 'a concerted effort to conceal as much information as possible'",
 "id": "andy-ogles",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-ed03cf77b9",
 "edgeLabel": "Caucus members attended the closed ICIG briefing",
 "id": "congressional-uap-caucus",
 "l0": true,
@@ -77,6 +82,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-c1690ad5b0",
 "edgeLabel": "Emerged saying he did not get the answers he hoped for",
 "id": "raja-krishnamoorthi",
 "l0": false,
@@ -98,6 +104,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-5ba30d802c",
 "edgeLabel": "Briefed House Oversight members for about ninety minutes",
 "id": "thomas-monheim",
 "l0": false,

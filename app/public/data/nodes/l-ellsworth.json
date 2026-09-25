@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-6e0fb78984",
 "source": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19; triaged at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md",
 "text": "The claim attached to this installation is that on 18 November 1977 at about 0100, security policemen Mario Woods and Michael Johnson of the 44th Missile Security Squadron responded to an alarm at Launch Facility November-5 in the Ellsworth Minuteman field and encountered a large object and humanoid figures. Woods has told the account publicly since 1996; Johnson was located in June 2026.",
 "tier": 2
 },
 {
+"id": "c-d8bc241e0d",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "NO AIR FORCE RECORD OF THE 18 NOVEMBER 1977 EVENT HAS EVER BEEN PRODUCED BY ANY PARTY, AND NO SERVICE RECORD FOR EITHER CLAIMANT HAS BEEN OPENED BY THIS BOARD. The node is admitted on notability under CLAUDE.md section 2a; its anchor is the dated artefact of the claim, not a record of the thing claimed.",
 "tier": 3
 },
 {
+"id": "c-4ca7069538",
 "source": "The Political Saucer, 12 September 2026, https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile , opened 2026-09-19",
 "text": "A second, independent write-up naming both men and the 44th Missile Security Squadron appeared on 12 September 2026, five days after the Michels episode. Its body is paywalled and only its header was read by this board.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "1977-11-18",
 "dateStart": "1977-11-18",
 "direction": "in",
+"edgeId": "e-48b4e23727",
 "edgeLabel": "The claim places Launch Facility November-5 in this installation's Minuteman field",
 "id": "ellsworth-1977",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1983",
 "dateStart": "1975",
 "direction": "in",
+"edgeId": "e-a50f06bfae",
 "edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
 "id": "mario-woods",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "1977",
 "dateStart": "1975",
 "direction": "in",
+"edgeId": "e-46f8ad1aaa",
 "edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
 "id": "michael-johnson",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "1977-11-18",
 "dateStart": "1977-11-18",
 "direction": "out",
+"edgeId": "e-47b38925c1",
 "edgeLabel": "SAC installation; 44th Strategic Missile Wing Minuteman field",
 "id": "strategic-air-command",
 "l0": true,

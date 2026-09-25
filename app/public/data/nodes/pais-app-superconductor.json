@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-11acfb83a8",
 "source": "https://www.freepatentsonline.com/20190058105.html",
 "text": "US Patent Application 2019/0058105, 'Piezoelectricity-induced Room Temperature Superconductor', application 15/678672, filed 16 August 2017, published 21 February 2019, assignee the United States as represented by the Secretary of the Navy.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": "2019-02-21",
 "dateStart": "2017-08-16",
 "direction": "in",
+"edgeId": "e-0211f9d1dd",
 "edgeLabel": "Named inventor",
 "id": "salvatore-pais",
 "l0": false,

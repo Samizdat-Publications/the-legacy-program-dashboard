@@ -51,56 +51,67 @@
 ],
 "claims": [
 {
+"id": "c-bc6110fd55",
 "source": "CHRG-119hhrg61718 CONTENTS",
 "text": "Witness of record at the 9 September 2025 hearing: 'Chief Alexandro Wiggins, U.S. Navy'.",
 "tier": 1
 },
 {
+"id": "c-aed9aedd99",
 "source": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
 "text": "'15 February 2023 at approximately 1915 PST in the W-291 Warning Area off the Southern California coast' - a self-luminous tic-tac object emerged from the ocean and joined three similar objects, with 'no visible control surfaces and no exhaust plume.'",
 "tier": 2
 },
 {
+"id": "c-e44cdd8aac",
 "source": "Wiggins written statement, 9 September 2025",
 "text": "CIC personnel recorded the event on a Star SAFIRE multi-spectral EO/IR system; the footage 'includes timestamps, lat/long, and platform readouts consistent with USS Jackson's location.'",
 "tier": 2
 },
 {
+"id": "c-0ca1e9ad95",
 "source": "Wiggins, House Oversight hearing testimony, 9 September 2025",
 "text": "'When crews observe objects that maneuver in ways that do not match known profiles ... that is first and foremost a safety issue.'",
 "tier": 2
 },
 {
+"id": "c-855a82c0db",
 "source": "Chief Alexandro Wiggins, sworn testimony, House Oversight Task Force, 9 September 2025; DefenseScoop, 9 Sept 2025",
 "text": "Described 'a self-luminous Tic Tac-shaped' object emerging from ocean waters near the USS Jackson in 2023, linking with three similar objects, followed by 'high, synchronized, near-instantaneous acceleration.'",
 "tier": 2
 },
 {
+"id": "c-a3b6f0ed44",
 "source": "GPO CHRG-119hhrg61718, 9 September 2025",
 "text": "Rep. Burlison from the dais: 'You are the first witness to come forward that is currently serving, and it is recognized, and so I thank you.'",
 "tier": 1
 },
 {
+"id": "c-c9f81ac29a",
 "source": "Sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025; DefenseScoop",
 "text": "Wiggins testified that in 2023 aboard USS Jackson he observed a self-luminous Tic Tac-shaped object emerge from the ocean and accelerate without conventional propulsion signatures, detected on multiple radar systems.",
 "tier": 2
 },
 {
+"id": "c-73fa654232",
 "source": "DefenseScoop, 9 September 2025; House Oversight hearing record",
 "text": "Wiggins is the first active-duty US Navy official to testify publicly about UAP before Congress.",
 "tier": 1
 },
 {
+"id": "c-0e6b37c713",
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
 "text": "'I visually observed a light rising from the waterline, consistent with a platform emerging from the ocean rather than distant surface lights or celestial rise.'",
 "tier": 2
 },
 {
+"id": "c-1bfc4cc35e",
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
 "text": "The object joined three similar objects; all four maintained controlled geometry and departed simultaneously with near-instantaneous acceleration, with no sonic boom, exhaust plume or visible control surfaces.",
 "tier": 2
 },
 {
+"id": "c-d2609b125e",
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
 "text": "CIC personnel recorded the encounter on the ship's Star SAFIRE multi-spectral EO/IR system and reported to the Tactical Action Officer; the video was later published by Jeremy Corbell and George Knapp.",
 "tier": 2
@@ -116,6 +127,7 @@
 "dateEnd": "2026",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-d04be1fac9",
 "edgeLabel": "AARO's only unresolved maritime case parallels the transmedium account an active-duty sailor gave Congress instead of AARO",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
@@ -142,6 +154,7 @@
 "dateEnd": null,
 "dateStart": "2025-09-09",
 "direction": "out",
+"edgeId": "e-4c4f9bed66",
 "edgeLabel": "sworn witness",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -183,6 +196,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-abe32e4297",
 "edgeLabel": "Supervised the watch and the recording of the 15 Feb 2023 encounter",
 "id": "uss-jackson-2023",
 "l0": false,
@@ -204,6 +218,7 @@
 "dateEnd": "2026-07-21",
 "dateStart": "2023-02-15",
 "direction": "out",
+"edgeId": "e-124763c832",
 "edgeLabel": "two maritime cases, three years apart, both unresolved",
 "id": "virginia-coast-uap-2026",
 "l0": false,

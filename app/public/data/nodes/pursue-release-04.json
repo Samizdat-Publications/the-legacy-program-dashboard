@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-f82e72750d",
 "source": "war.gov/UFO, accessed 12 August 2026",
 "text": "The war.gov portal lists Release 04 dated 10 July 2026 with a 227MB document bundle and a 1.4GB video bundle.",
 "tier": 1
 },
 {
+"id": "c-14c782d787",
 "source": "Disclosure Archives inventory of the Release 04 posting",
 "text": "Release 04 contained previously unseen US military videos and historical documents dating to as early as the 1940s, including 1996 NASA STS-80 imagery and a 2019 eastern-US sighting by an observer with 28 years of Air Force and Navy experience.",
 "tier": 2
 },
 {
+"id": "c-7af4403ef4",
 "source": "Disclosure Archives summary of the Release 04 announcement",
 "text": "Several Release 04 videos were assessed as consistent with balloons or sensor artefacts, and none as clear evidence of objects attributable to unknown aircraft.",
 "tier": 2
 },
 {
+"id": "c-d8a6fd449e",
 "source": "Inference from the absence of counts on war.gov/UFO and in the Disclosure Archives inventory for R04 alone",
 "text": "No official or independent file count for Release 04 has been published, unlike Releases 01, 02, 03 and 05 - the programme's own accounting of itself degraded at the fourth tranche.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-673eed19d8",
 "edgeLabel": "Assessment language reappears despite the no-comment posture",
 "id": "aaro",
 "l0": true,
@@ -61,6 +66,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-75344f3b9a",
 "edgeLabel": "Fourth tranche, 10 July 2026",
 "id": "pursue-releases",
 "l0": true,
@@ -87,6 +93,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-0411566395",
 "edgeLabel": "By the fourth tranche the programme stopped stating what it released",
 "id": "war-gov-ufo-portal",
 "l0": false,

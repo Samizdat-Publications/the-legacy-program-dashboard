@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-e81e1c564d",
 "source": "Clinton Digital Library collection finding aids 2006-0480-F and 2006-0546-F",
 "text": "Clinton FOIA collection 2006-0480-F consists of correspondence between President Clinton and Laurance Rockefeller; collection 2006-0546-F consists of photographs of the Clintons' 21 August 1995 visit to Rockefeller's JY Ranch in Jackson, Wyoming.",
 "tier": 1
 },
 {
+"id": "c-1e7a01041a",
 "source": "Clinton Digital Library collection finding aid 2006-0476-F",
 "text": "The Clinton White House's Roswell file (2006-0476-F) contains 'correspondence, reports, and email regarding a crash in Roswell, New Mexico in July 1947,' including the July 1995 GAO report, and states that 'the origin of the crashed object remains in dispute today.'",
 "tier": 1
 },
 {
+"id": "c-2adb0ad409",
 "source": "Marie Galbraith and initiative participants, contemporaneous accounts",
 "text": "The initiative's principal product was 'The Best Available Evidence,' distributed in 1995 to legislators, officials and heads of state.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "1995",
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-77559c56b0",
 "edgeLabel": "The briefing document was the initiative's principal instrument",
 "id": "best-available-evidence",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": "1995",
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-5bdf6e3ac1",
 "edgeLabel": "The initiative's live period coincides with the GAO records audit and its retention in the White House Roswell file",
 "id": "gao-roswell-report-1995",
 "l0": false,
@@ -82,6 +87,7 @@
 "dateEnd": "1996",
 "dateStart": "1993",
 "direction": "in",
+"edgeId": "e-2b45f6aabf",
 "edgeLabel": "Rockefeller financed and directed the 1993-1996 disclosure initiative",
 "id": "laurance-rockefeller",
 "l0": false,

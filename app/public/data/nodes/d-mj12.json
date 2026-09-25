@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-f63540a234",
 "source": "FBI Records: The Vault - 'Majestic 12'",
 "text": "The FBI maintains a public file on the Majestic 12 documents in its Vault reading room.",
 "tier": 1
 },
 {
+"id": "c-f553ff4141",
 "source": "Klass, Skeptical Inquirer",
 "text": "Philip J. Klass published a forensic critique identifying document anomalies in Skeptical Inquirer in 1988.",
 "tier": 2
 },
 {
+"id": "c-3b5de598e8",
 "source": "The Majestic Documents (Wood & Wood)",
 "text": "Robert and Ryan Wood maintain the Majestic Documents archive, which catalogues and argues for the authenticity of substantial portions of the corpus.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1984-12-11",
 "direction": "in",
+"edgeId": "e-56a64a5dda",
 "edgeLabel": "The largest disputed document corpus",
 "id": "d-disinformation",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1987-12-29",
 "direction": "in",
+"edgeId": "e-55ecd6c9c8",
 "edgeLabel": "The 1987 Lear document gives him a military rank his own office forbade",
 "id": "james-v-forrestal",
 "l0": false,
@@ -84,6 +89,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": null,
+"edgeId": "e-55ecd6c9c8",
 "label": "The 1987 Lear document gives him a military rank his own office forbade",
 "note": "Read aloud on AREA52 - DEBRIEFED episode 20, 3 January 2025, the document twice calls him 'General James V. Forestall'. Section 202(a) of the National Security Act of 1947 requires the Secretary of Defense to be appointed from civilian life and disqualifies anyone who has been on active duty as a commissioned officer within ten years. The edge records the error, not the attribution.",
 "of": null,

@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-da01ac4f5c",
 "source": "CAUS v. NSA, D.C. Circuit (CourtListener); cert. denied 8 March 1982",
 "text": "In Citizens Against UFO Secrecy v. National Security Agency the D.C. Circuit upheld NSA's withholding of UFO-related records; certiorari was denied in 1982.",
 "tier": 1
 },
 {
+"id": "c-159c13ba74",
 "source": "The Black Vault, UFOs: The National Security Agency (NSA) Collection",
 "text": "NSA's released UFO document collection, including the Yeates affidavit and associated litigation records, is publicly archived.",
 "tier": 1
 },
 {
+"id": "c-47aea4a8c4",
 "source": "DIA FOIA release FOIA-00349-2018",
 "text": "The DIA released the AAWSAP contract file under FOIA case FOIA-00349-2018, producing the statement of work, contract modifications and the Defense Intelligence Reference Documents.",
 "tier": 1
 },
 {
+"id": "c-c356e51f8b",
 "source": "Inference from FOIA's agency-records requirement and FAR 35.017",
 "text": "Records held by contractors and FFRDCs are outside FOIA's definition of agency records, so transferring material into contractor custody removes it from the statute without any change in classification. Reasoning: FOIA reaches agency records; FAR 35.017 FFRDC records are held by the operating contractor.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1967-07-04",
 "direction": "in",
+"edgeId": "e-4c464af296",
 "edgeLabel": "Contractor records are outside the statute",
 "id": "d-contractor",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": null,
 "dateStart": "1980-01-01",
 "direction": "out",
+"edgeId": "e-7d789ec947",
 "edgeLabel": "Appeal exhausted, suit filed",
 "id": "d-litigation",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": null,
 "dateStart": "1967-07-04",
 "direction": "in",
+"edgeId": "e-73a2a3e2cf",
 "edgeLabel": "Statutory collection versus request-by-request extraction",
 "id": "d-records",
 "l0": false,
@@ -103,6 +110,7 @@
 "dateEnd": null,
 "dateStart": "1980-01-01",
 "direction": "in",
+"edgeId": "e-11512eb21e",
 "edgeLabel": "Exemption 3 and the Glomar posture",
 "id": "d-signals",
 "l0": false,
@@ -124,6 +132,7 @@
 "dateEnd": null,
 "dateStart": "1977",
 "direction": "in",
+"edgeId": "e-081b48d000",
 "edgeLabel": "A FOIA request that defeated a records-destruction order",
 "id": "john-marks-foia-f-76-374",
 "l0": false,
@@ -145,6 +154,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c4eb4ebd60",
 "edgeLabel": "FOIA matters named inside the programme's own history as forcing the first acknowledgements",
 "id": "project-azorian",
 "l0": false,
@@ -178,6 +188,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-4c464af296",
 "label": "Contractor records are outside the statute",
 "note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
 "of": null,
@@ -206,6 +217,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-11512eb21e",
 "label": "Exemption 3 and the Glomar posture",
 "note": "NSA's statutory withholding, sustained in CAUS v. NSA on the classified Yeates affidavit, is the hardest documented barrier between sensor data and the public record.",
 "of": null,

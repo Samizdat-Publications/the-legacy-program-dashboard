@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-c30a09aa84",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f3382952ba",
 "edgeLabel": "sited in Santiago since 1997",
 "id": "cefaa",
 "l0": true,

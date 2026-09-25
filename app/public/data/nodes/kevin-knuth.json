@@ -46,16 +46,19 @@
 ],
 "claims": [
 {
+"id": "c-1f4159f165",
 "source": "Entropy, DOI 10.3390/e21100939",
 "text": "Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' in Entropy 21(10):939 on 25 September 2019.",
 "tier": 1
 },
 {
+"id": "c-ce2fa867d3",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
 "text": "Knuth is a co-author of the 2025 UAPx field-expedition results paper in Progress in Aerospace Sciences.",
 "tier": 1
 },
 {
+"id": "c-f0e846002b",
 "source": "Published biography",
 "text": "Knuth is Vice President of UAPx and a research affiliate of the Galileo Project.",
 "tier": 2
@@ -73,6 +76,7 @@
 "dateEnd": null,
 "dateStart": "2025-06",
 "direction": "out",
+"edgeId": "e-e03253c9b2",
 "edgeLabel": "Lead author of the 34-author UAP review",
 "id": "paper-knuth-2025-new-science",
 "l0": false,
@@ -94,6 +98,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-d709bb9915",
 "edgeLabel": "Lead author of the Entropy kinematics paper",
 "id": "paper-knuth-powell-reali-2019",
 "l0": false,
@@ -115,6 +120,7 @@
 "dateEnd": "2025-06-08",
 "dateStart": "2025-06-06",
 "direction": "out",
+"edgeId": "e-c52d85dd3c",
 "edgeLabel": "SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office",
 "id": "scu-uap-studies",
 "l0": false,
@@ -136,6 +142,7 @@
 "dateEnd": null,
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-896d81813e",
 "edgeLabel": "Vice President of UAPx and co-author of the 2025 paper",
 "id": "uapx",
 "l0": false,
@@ -162,6 +169,7 @@
 "dateEnd": null,
 "dateStart": "2005",
 "direction": "in",
+"edgeId": "e-ae1a4b4f3b",
 "edgeLabel": "Employs Knuth; Professor of Physics since 2023, on the faculty since 2005",
 "id": "university-at-albany",
 "l0": false,

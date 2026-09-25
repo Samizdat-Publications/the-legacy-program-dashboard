@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-c459b33f5e",
 "source": "UK MoD Publication Scheme, 15 May 2006",
 "text": "MoD publication scheme metadata for the Condign executive summary: 'Author: DAS; Owner: Ministry of Defence; Freedom of Information Organisation area: Directorate of Air Staff; Freedom of Information Information class: Unidentified Flying Objects.'",
 "tier": 1
 },
 {
+"id": "c-60f3d0df27",
 "source": "MoD release note accompanying the Condign report",
 "text": "MoD statement of the study's purpose: 'to determine the potential value, if any, of such reports to Defence Intelligence ... principally to ascertain whether there is any evidence of a threat to the UK, and secondly, should the opportunity arise, to identify any potential military technologies of interest.'",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-2c17e6bb88",
 "edgeLabel": "Not informed at the time, and no threat to the UK",
 "id": "belgian-af-f16-intercept-1990",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "2006-05-15",
 "dateStart": "2000",
 "direction": "in",
+"edgeId": "e-011ee4dad4",
 "edgeLabel": "records a flat denial of any US/Canada exchange, then redacts four lines",
 "id": "doc-condign-vol3",
 "l0": true,
@@ -67,6 +71,7 @@
 "dateEnd": "1992",
 "dateStart": "1950",
 "direction": "in",
+"edgeId": "e-a396398a21",
 "edgeLabel": "Ministry of Defence imagery-intelligence unit with Operations Record Books at Kew, 1950-1992",
 "id": "jaric",
 "l0": false,
@@ -88,6 +93,7 @@
 "dateEnd": "1951-06",
 "dateStart": "1950",
 "direction": "in",
+"edgeId": "e-4aa285b57a",
 "edgeLabel": "first British body on the question, 1950-1951",
 "id": "uk-fs-working-party",
 "l0": false,
@@ -121,6 +127,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-2c17e6bb88",
 "label": "Not informed at the time, and no threat to the UK",
 "note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
 "of": null,
@@ -147,6 +154,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-011ee4dad4",
 "label": "records a flat denial of any US/Canada exchange, then redacts four lines",
 "note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
 "of": {

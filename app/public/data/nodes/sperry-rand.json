@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-2c179df4d9",
 "source": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 0:24:35",
 "text": "On American Alchemy with Jesse Michels, 21 February 2025, at 0:24:35, the guest Sammy, known as UAP Gerb, said that on Philip J. Corso's account Roswell-derived material was distributed for civil and commercial use through 'Bell Labs, Sperry Rand', and thence through its divisions to 'Northrop, Lockheed, Martin, Raytheon, and others'. This is a report of what Corso wrote, not a document, and no contemporaneous record naming Sperry Rand in that role was opened.",
 "tier": 2
 },
 {
+"id": "c-1bff444027",
 "source": "This Is Sperry Rand 1956, Sperry-Rand Corporation",
 "text": "The company's own 1956 publication carries a signed statement attributed to 'General of the Army Douglas MacArthur, Chairman of the Board, Sperry Rand Corporation.'",
 "tier": 1
 },
 {
+"id": "c-d62f8e5da6",
 "source": "CIA-RDP68-00046R000200010025-0, Bob Considine, 'Generals Don't Fade Away', New York Journal-American, 17 January 1957; declassified in part 2014-03-19",
 "text": "A New York Journal-American column of 17 January 1957, held in CIA records, reports that 'Gen. Douglas MacArthur, who will be 77 next week, is active as chairman of the board of Sperry Rand.' The same column names Halsey at International Tel and Tel, Lucius Clay at Continental Can, Ira Eaker at Hughes Tool, Doolittle at Shell Oil, Ennis Whitehead at Northrop and J. B. Montgomery at General Electric.",
 "tier": 1
 },
 {
+"id": "c-38ee278542",
 "source": "Unisys Corporation Form 10-K filed 29 March 1994, CIK 0000746838, with SEC IMS header",
 "text": "SEC's own IMS header on the Unisys Form 10-K records 'FORMER CONFORMED NAME: BURROUGHS CORP /DE/ ... DATE OF NAME CHANGE: 19861204'. The same filing shows Unisys carrying the Sperry Corporation Pension Plan for Outside Directors by incorporation from Sperry Corporation's own Form 10-K for the fiscal year ended 31 March 1984 (File No. 1-3908), and discusses 'its sale of the Sperry Aerospace Group in December 1986'.",
 "tier": 1
 },
 {
+"id": "c-fa6232a349",
 "source": "Stated inference: secondary sources only; no primary document opened for the rename",
 "text": "The rename from Sperry Rand Corporation to Sperry Corporation is given by secondary sources as 1 August 1979. No document establishing it was opened; EDGAR does not reach back to 1986 filings, and no merger agreement or proxy was read.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-16faf59c72",
 "edgeLabel": "Names the Sperry Gyroscope Division of Sperry-Rand among the firms on the gravity problem",
 "id": "talbert-gravity-series-1955",
 "l0": true,

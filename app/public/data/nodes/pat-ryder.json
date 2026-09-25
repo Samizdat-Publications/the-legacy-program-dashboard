@@ -17,6 +17,7 @@
 ],
 "claims": [
 {
+"id": "c-42e779946d",
 "source": "Maj. Gen. Pat Ryder, Pentagon statement releasing AARO Historical Record Report Volume I, 8 March 2024",
 "text": "'AARO has approached this project with the widest possible aperture, thoroughly investigating these assertions and claims without any particular pre-conceived conclusion.'",
 "tier": 1
@@ -32,6 +33,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-5982cb4adb",
 "edgeLabel": "Released and framed the report as 'the widest possible aperture'",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -65,6 +67,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-5982cb4adb",
 "label": "Released and framed the report as 'the widest possible aperture'",
 "note": "Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released.",
 "of": null,

@@ -27,26 +27,31 @@
 ],
 "claims": [
 {
+"id": "c-a0acb7fa20",
 "source": "Congress.gov bill record, S. 2226, 118th Congress",
 "text": "Reed is the sponsor of S. 2226, introduced 11 July 2023.",
 "tier": 1
 },
 {
+"id": "c-8dc34d99ff",
 "source": "Congressional Record granules for Senate NDAA consideration, 7-12 December 2023, GPO",
 "text": "No transcribed Senate remarks during the December 2023 final consideration of the FY2024 NDAA use the word 'anomalous'; the removal was not debated aloud in the Senate.",
 "tier": 1
 },
 {
+"id": "c-eebcd6bd4b",
 "source": "https://www.armed-services.senate.gov/about/membership",
 "text": "Jack Reed (D-RI) is listed as Ranking Member of the Senate Armed Services Committee on the committee's official membership page.",
 "tier": 1
 },
 {
+"id": "c-ccff45cfe6",
 "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
 "text": "Reed was Chairman of the Senate Armed Services Committee in the 118th Congress.",
 "tier": 1
 },
 {
+"id": "c-2030ae0005",
 "source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm",
 "text": "Reed was Ranking Member of the Senate Armed Services Committee in the 116th Congress, opposite Chairman James M. Inhofe.",
 "tier": 1
@@ -62,6 +67,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-df8cd95edb",
 "edgeLabel": "Sponsor of S. 2226 and Senate conference principal",
 "id": "ndaa-fy2024",
 "l0": true,
@@ -88,6 +94,7 @@
 "dateEnd": "2025",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-cf687dd264",
 "edgeLabel": "Chairman 2021-2025",
 "id": "senate-armed-services",
 "l0": true,
@@ -109,6 +116,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-ffb1c0ae15",
 "edgeLabel": "seat 2 of 12 - Ranking Member, Senate Armed Services",
 "id": "waived-sap-notification-group",
 "l0": true,

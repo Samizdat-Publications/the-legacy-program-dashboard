@@ -71,71 +71,85 @@
 ],
 "claims": [
 {
+"id": "c-22416ff2ca",
 "source": "American Alchemy with Jesse Michels, 'I Saw a Triangle Shaped UFO At a NASA Hangar!' -Dylan Borland Tells All, 5 August 2026, 1:58:28 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3",
 "text": "On American Alchemy with Jesse Michels, 5 August 2026, Dylan Borland said that AARO sent him a Memorandum for Record of his interview that he told them was wrong, that AARO acknowledged the error in an email and asked him to write corrections, that he made and signed the corrections and kept his email confirming their receipt, and that when he went to ODNI on 10 September 2025 the version AARO had transmitted was not the corrected one: 'Arrow had sent over a false MFR, said that was the true one.' He says he retained the corrected document (1:58:28 to 1:59:26).",
 "tier": 2
 },
 {
+"id": "c-4828537919",
 "source": "American Alchemy with Jesse Michels, 'I Saw a Triangle Shaped UFO At a NASA Hangar!' -Dylan Borland Tells All, 5 August 2026, 2:23:27 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3402784095.mp3",
 "text": "In the same episode Borland argued that because AARO holds no original classification authority it had to refer his account out to the intelligence community and to private companies for a classification determination, and that his triangle account coming back unclassified while other drawings were classified is therefore itself evidence about what was seen: 'they would have to be classified' (2:23:27). Nothing opened for this board establishes AARO's classification authority either way; this is recorded as his argument.",
 "tier": 2
 },
 {
+"id": "c-c5e399264e",
 "source": "CHRG-119hhrg61718 CONTENTS",
 "text": "Witness of record at the 9 September 2025 hearing: 'Mr. Dylan Borland, UAP Witness, U.S. Air Force Veteran'.",
 "tier": 1
 },
 {
+"id": "c-447750549b",
 "source": "Dylan Borland, House Oversight Task Force hearing, 9 September 2025",
 "text": "'Numerous individuals have come forward ... yet many feel discarded, isolated, hopeless.'",
 "tier": 2
 },
 {
+"id": "c-487eb621f8",
 "source": "Dylan Borland, sworn testimony, House Oversight Task Force, 9 September 2025",
 "text": "'My professional career was deliberately obstructed, and I have endured sustained reprisals from government agencies for more than a decade.'",
 "tier": 2
 },
 {
+"id": "c-8f97703118",
 "source": "The Hill, 9 September 2025; Borland written testimony",
 "text": "Described a '100ft equilateral triangle' made of 'fluid' material taking off from the base where he was working in 2012.",
 "tier": 2
 },
 {
+"id": "c-c5655c2681",
 "source": "GPO CHRG-119hhrg61718, 9 September 2025",
 "text": "Rep. Burlison asked him on the record whether 'BAASS Systems' was involved in any way with reverse engineering exploitation of non-human intelligence craft.",
 "tier": 1
 },
 {
+"id": "c-adaa156878",
 "source": "Jesse Michels, American Alchemy episode description, 5 August 2026",
 "text": "Borland is a former USAF 1N1 geospatial intelligence specialist who spent years in the drone programme supporting special operations, and in 2012 witnessed a 100-to-150-foot black metallic triangle take off near the NASA hangar at Langley Air Force Base and stop 100 feet above him.",
 "tier": 2
 },
 {
+"id": "c-c8108b1609",
 "source": "Chapter list, American Alchemy, 5 August 2026 (2:39, 4:18, 6:48)",
 "text": "The episode covers congressional testimony, ODNI and a leaked program name, and his disclosure to journalists.",
 "tier": 2
 },
 {
+"id": "c-871cb898a7",
 "source": "The Sol Foundation, 2025 Symposium speaker list",
 "text": "Borland was a named speaker at the 2025 Sol Foundation Symposium.",
 "tier": 1
 },
 {
+"id": "c-d4167ab663",
 "source": "Sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025; DefenseScoop",
 "text": "Borland testified that after reporting a 2012 UAP observation at Langley AFB his career was deliberately obstructed and he faced sustained workplace harassment.",
 "tier": 2
 },
 {
+"id": "c-cc535dec06",
 "source": "House Committee on Oversight and Government Reform hearing record",
 "text": "He appeared as a named witness at the 9 September 2025 House Oversight Task Force hearing.",
 "tier": 1
 },
 {
+"id": "c-2f80fa9bc2",
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "'My professional career was deliberately obstructed, and I have endured sustained reprisals.'",
 "tier": 2
 },
 {
+"id": "c-04a427edb1",
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf",
 "text": "Written testimony filed with the House Oversight Task Force, 9 September 2025.",
 "tier": 1
@@ -151,6 +165,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-7c891cdbc8",
 "edgeLabel": "Asked him on the record whether BAASS was involved in reverse-engineering exploitation of NHI craft",
 "id": "eric-burlison",
 "l0": false,
@@ -172,6 +187,7 @@
 "dateEnd": null,
 "dateStart": "2025-09-09",
 "direction": "out",
+"edgeId": "e-aeedb1f378",
 "edgeLabel": "sworn witness",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -218,6 +234,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-1cca3ef322",
 "edgeLabel": "The reprisal case the bill is designed to cover",
 "id": "hr-5060-uap-whistleblower-protection-act",
 "l0": false,
@@ -244,6 +261,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-4f414f3c23",
 "edgeLabel": "Michels ran a three-episode Borland sequence, August 2026",
 "id": "jesse-michels",
 "l0": false,
@@ -265,6 +283,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-bc1244598a",
 "edgeLabel": "Borland spoke at the 2025 Sol Foundation Symposium",
 "id": "sol-foundation",
 "l0": true,

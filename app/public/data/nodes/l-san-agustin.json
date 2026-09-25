@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-d88b1cc952",
 "source": "Inference from the Berlitz-Moore transmission chain and GAO/NSIAD-95-187",
 "text": "The San Agustin strand of the Roswell corpus rests entirely on second-hand and late-recalled testimony with no supporting primary document. Reasoning: the Barnett account reached print only in 1980 via intermediaries, and GAO found the contemporaneous message traffic destroyed.",
 "tier": 3
 },
 {
+"id": "c-6fc40b5c5e",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a10e9a7d78",
 "edgeLabel": "alleged second recovery site (Barnett account)",
 "id": "roswell-1947",
 "l0": true,

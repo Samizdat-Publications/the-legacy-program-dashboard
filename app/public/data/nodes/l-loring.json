@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-94f30b741c",
 "source": "NMCC Memorandum for Record, 29 October 1975, reproduced at http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
 "text": "The National Military Command Center recorded the penetration at command level. Its Memorandum for Record of 29 October 1975, 0605 EST, subject 'AFB Penetration', signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, states: 'At 290200 EST AFOC informed NMCC that an unidentified helicopter, possibly two, had been sighted flying low over Loring AFB Maine, in proximity to a weapons storage area.'",
 "tier": 1
 },
 {
+"id": "c-5bd600f5c4",
 "source": "NMCC DDO update as of 292200 EST Oct 75, citing 42 BW CP LORING AFB 291140Z OCT 75 and SAC CP OPS CONTROL 291954Z OCT 75, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
 "text": "The escalation reached the Army Staff and the State Department. The DDO update as of 292200 EST records that the Chief of Staff of the Air Force operations division requested the Army National Guard helicopter be provided until 300800 EST 'to track and identify the intruder; no apprehension to take place; the Canadian Border would not be crossed', that the request was under consideration by the Department of the Army Director of Operations, DCSOPS, that a military aide to the Special Assistant to the Secretary and Deputy Secretary of Defense had been advised, and that 'The State Department Canadian Desk Officer has been kept informed.'",
 "tier": 1
 },
 {
+"id": "c-23d79c9154",
 "source": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas', http://www.nicap.org/intsac.htm , opened 2026-09-19",
 "text": "A teletype message to the National Military Command Center states: 'The A/C definitely penetrated the LAFB northern perimeter and on one occasion was within 300 yards of the munitions storage area perimeter.'",
 "tier": 1
 },
 {
+"id": "c-7e72a62305",
 "source": "The War Zone, https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base , opened 2026-09-19",
 "text": "A Loring operations report records: 'It is our opinion that the unknown helicopter has demonstrated a clear intent in the weapons storage area, is smart and a most capable aviator.' This is the phrase from which Fawcett and Greenwood took the title of their 1984 book.",
 "tier": 2
 },
 {
+"id": "c-995bfbadff",
 "source": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Loring.htm , both opened 2026-09-19",
 "text": "Named Loring witnesses are in the contemporaneous record rather than in any interview programme: SSgt Danny K. Lewis, Sgt Clifton W. Blakeslee, SSgt William J. Long, SSgt Michael D. Scott, TSgt David E. Mott and Capt. Richard R. Fuhs of the 42nd Security Police Squadron; SSgt James P. Sampley and Sgt Grover K. Eggleston of the 2192nd Communications Squadron; Sgt Steven Eichner and Sgt R. Jones of a B-52 crew; and Col. Richard E. Chapman, Commander of the 42nd Bomb Wing, who implemented a Security Option 3 alert.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": "1975-10-30",
 "dateStart": "1975-10-29",
 "direction": "in",
+"edgeId": "e-0ff708b50d",
 "edgeLabel": "The memorandum's subject is this installation",
 "id": "doc-nmcc-loring-1975",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "1975-10-31",
 "dateStart": "1975-10-27",
 "direction": "in",
+"edgeId": "e-9f72e28082",
 "edgeLabel": "The penetrations were of this installation's weapons storage area",
 "id": "loring-1975",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": "1975-10-31",
 "dateStart": "1975-10-27",
 "direction": "out",
+"edgeId": "e-6677bc2ea6",
 "edgeLabel": "SAC installation; 42nd Bombardment Wing and its nuclear weapons storage area",
 "id": "strategic-air-command",
 "l0": true,

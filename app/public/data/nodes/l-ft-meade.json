@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-a998f65146",
 "source": "US Army Fort Meade installation page",
 "text": "NSA is headquartered at Fort George G. Meade, Maryland.",
 "tier": 1
 },
 {
+"id": "c-2e9ff8eeec",
 "source": "DefenseScoop, 26 August 2024",
 "text": "Jon Kosloski, a senior NSA researcher, was named to lead AARO in August 2024.",
 "tier": 1
 },
 {
+"id": "c-bbb081c037",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1952-11-04",
 "direction": "in",
+"edgeId": "e-209823571b",
 "edgeLabel": "NSA holdings and the FOIA wall",
 "id": "d-signals",
 "l0": false,

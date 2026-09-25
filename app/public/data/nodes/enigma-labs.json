@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-6a6fa9c63d",
 "source": "enigmalabs.io/about (company self-description)",
 "text": "Enigma Labs states it is a private company operating 'the world's first platform dedicated to Unidentified Anomalous Phenomena', with a searchable database of over 50,000 sighting reports, an interactive map, and more than 560,000 real-time sighting alerts sent to users.",
 "tier": 2
 },
 {
+"id": "c-fdb545006d",
 "source": "enigmalabs.io/about",
 "text": "The company states it remains neutral on the origins of the phenomenon and describes itself as an aggregator of people's sighting experiences.",
 "tier": 2
 },
 {
+"id": "c-c91928dd3b",
 "source": "Inference from enigmalabs.io/about",
 "text": "The published About material describes no verification, validation or de-duplication protocol, so the Enigma corpus should be treated as raw public intake with unknown signal-to-noise, valuable for volume and geography rather than for individual case strength. Reasoning: absence of any stated methodology on the company's own descriptive page.",
 "tier": 3
 },
 {
+"id": "c-96ef0bbe17",
 "source": "Inference",
 "text": "A privately held report corpus of this size is structurally outside the reach of classification authority, which makes it the natural control set against which government-released datasets can be tested for omissions. Reasoning: from ownership structure, not from any audit performed here.",
 "tier": 3
 },
 {
+"id": "c-e472750464",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-3987faacaf",
 "edgeLabel": "Documented AARO contact with Enigma Labs, released heavily redacted",
 "id": "aaro",
 "l0": true,
@@ -66,6 +72,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-7cf1a44ac7",
 "edgeLabel": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
 "id": "john-greenewald",
 "l0": false,
@@ -92,6 +99,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-e537f24a5c",
 "edgeLabel": "Enigma cross-referencing PURSUE files against its civilian sighting database",
 "id": "pursue-releases",
 "l0": true,

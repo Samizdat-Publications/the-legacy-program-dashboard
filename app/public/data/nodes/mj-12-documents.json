@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-f9f2738638",
 "source": "FBI Records: The Vault, 'Majestic 12'",
 "text": "The FBI states: 'In 1988, two FBI offices received similar versions of a memo titled \"Operation Majestic-12...\" claiming to be highly classified government document... An Air Force investigation determined the document to be a fake.'",
 "tier": 1
 },
 {
+"id": "c-7597ef00df",
 "source": "National Archives, Majestic 12 (MJ-12) Reference Report",
 "text": "NARA found that the Cutler-Twining memorandum bears no Top Secret register number, is filed in a folder containing no other MJ-12 material, lacks official letterhead or watermark, and carries a 'Top Secret Restricted Information' marking that the NSC FOIA office says did not come into use until the Nixon administration.",
 "tier": 1
 },
 {
+"id": "c-0488143cc4",
 "source": "National Archives, Majestic 12 (MJ-12) Reference Report",
 "text": "NARA's conservation specialist determined the Cutler-Twining document was a ribbon copy prepared on 'diction onionskin.'",
 "tier": 1
 },
 {
+"id": "c-8365a975f1",
 "source": "Inference from the Albuquerque postmark, Moore's admitted AFOSI cooperation, Doty's role as conduit in the parallel Howe and Bennewitz channels, and the concentration of all three in a single locality and timeframe.",
 "text": "The MJ-12 documents are an artefact of the same 1980-1985 Albuquerque/Kirtland disinformation activity that produced the Bennewitz material and the AQUARIUS paper, rather than an independent leak.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-2009a16f8b",
 "edgeLabel": "AARO's 2024 review does not address MJ-12 or AQUARIUS",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -61,6 +66,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-ca88b7c301",
 "edgeLabel": "Named as a panel member inside the disputed document",
 "id": "detlev-bronk",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": "1984",
 "dateStart": "1984",
 "direction": "in",
+"edgeId": "e-7a2d61cfb7",
 "edgeLabel": "Received the anonymous 35mm film on 11 December 1984",
 "id": "jaime-shandera",
 "l0": false,
@@ -108,6 +115,7 @@
 "dateEnd": "1984",
 "dateStart": "1983",
 "direction": "in",
+"edgeId": "e-2e31afa36a",
 "edgeLabel": "AQUARIUS and MJ-12 emerged from the same Albuquerque channel within 20 months",
 "id": "project-aquarius",
 "l0": false,
@@ -134,6 +142,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-963555a195",
 "edgeLabel": "Named as a panel member inside the disputed document",
 "id": "sidney-souers",
 "l0": false,
@@ -155,6 +164,7 @@
 "dateEnd": "1990",
 "dateStart": "1984",
 "direction": "in",
+"edgeId": "e-d0563484da",
 "edgeLabel": "Moore controlled the MJ-12 material's release with Shandera and Friedman",
 "id": "william-l-moore",
 "l0": false,
@@ -196,6 +206,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-2009a16f8b",
 "label": "AARO's 2024 review does not address MJ-12 or AQUARIUS",
 "note": "Two of the most persistent alleged programme names in the historical record are absent from the report tasked with resolving the historical record.",
 "of": {

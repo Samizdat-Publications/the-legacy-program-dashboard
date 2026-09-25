@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-d7ade2ebfb",
 "source": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013 , opened 2026-09-19",
 "text": "THE ABSTRACT, VERBATIM AND IN FULL: 'It is shown how, within the framework of general relativity and without the introduction of wormholes, it is possible to modify a spacetime in a way that allows a spaceship to travel with an arbitrarily large speed. By a purely local expansion of spacetime behind the spaceship and an opposite contraction in front of it, motion faster than the speed of light as seen by observers outside the disturbed region is possible. The resulting distortion is reminiscent of the \"warp drive\" of science fiction. However, just as it happens with wormholes, exotic matter will be needed in order to generate a distortion of spacetime like the one discussed here.'",
 "tier": 1
 },
 {
+"id": "c-fd15e2461e",
 "source": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013 , opened 2026-09-19",
 "text": "THE REQUIREMENT, IN ALCUBIERRE'S OWN WORDS: 'The metric I have just described has one important drawback, however: it violates all three energy conditions (weak, dominant and strong). Both the weak and the dominant energy conditions require the energy density to be positive for all observers.' Having given the expression for the energy density the Eulerian observers see, he writes: 'The fact that this expression is everywhere negative implies that the weak and dominant energy conditions are violated. In a similar way one can show that the strong energy condition is also violated.'",
 "tier": 1
 },
 {
+"id": "c-6771c06391",
 "source": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013 , opened 2026-09-19",
 "text": "His own conclusion, verbatim: 'We see then that, just as it happens with wormholes, one needs exotic matter to travel faster than the speed of light. However, even if one believes that exotic matter is forbidden classically, it is well known that quantum field theory permits the existence of regions with negative energy densities in some special circumstances (as, for example, in the Casimir effect). The need of exotic matter therefore doesn't necessarily eliminate the possibility of using a spacetime distortion like the one described above for hyper-fast interstellar travel.'",
 "tier": 1
 },
 {
+"id": "c-f077805cf8",
 "source": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013 , opened 2026-09-19",
 "text": "THE ZERO-COUNT, WHICH IS WHAT THIS NODE EXISTS TO CARRY. Word counts over the complete 10-page text: 'device' 0, 'how to' 0, 'propulsion' 1. The single occurrence of 'propulsion' is the sentence 'A propulsion mechanism based on such a local distortion of spacetime just begs to be given the familiar name of the \"warp drive\" of science fiction.' The paper contains no apparatus, no engine and no method of construction. THIS IS EVIDENCE ABOUT WHAT THE PAPER SAYS AND IS NOT EVIDENCE THAT THE EFFECT IS IMPOSSIBLE.",
 "tier": 1
 },
 {
+"id": "c-eee1ca32d5",
 "source": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Classical and Quantum Gravity 11-5, L73-L77 (1994), DOI 10.1088/0264-9381/11/5/001, read in full from the author's arXiv posting of 5 September 2000, https://arxiv.org/abs/gr-qc/0009013 , opened 2026-09-19",
 "text": "His closing paragraph, verbatim: 'As a final comment, I will just mention the fact that even though the spacetime described by the metric (8) is globally hyperbolic, and hence contains no closed causal curves, it is probably not very difficult to construct a spacetime that does contain such curves using a similar idea to the one presented here.'",
 "tier": 1
 },
 {
+"id": "c-79746878bc",
 "source": "Board owner's framing of 18 September 2026, recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 3",
 "text": "THE BOARD OWNER'S OWN RULING, RECORDED AS HIS AND AS NOTHING ELSE. Stewart, 18 September 2026, rules Alcubierre-style metric engineering out on his own reasoning: locally bending spacetime above a building would have effects nobody could conceal. This is not a finding of any research session and no document opened for this node supports or contradicts it. It is carried at Tier 3, stated inference, attributed to him by name and date.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": "1994",
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-23b888d776",
 "edgeLabel": "The origin document of the field's metric-engineering claims",
 "id": "d-exotic",
 "l0": false,
@@ -66,6 +73,7 @@
 "dateEnd": "2010-03-30",
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-871883d35f",
 "edgeLabel": "Reference [43] of the antigravity DIRD, and its only appearance in that document",
 "id": "dird-antigravity-for-aerospace-applications",
 "l0": true,
@@ -92,6 +100,7 @@
 "dateEnd": "2010-04-02",
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-b84393e85b",
 "edgeLabel": "Reference 1 of the DIRD, and the source of the idea it builds on",
 "id": "dird-warp-drive-dark-energy-and-the",
 "l0": true,
@@ -118,6 +127,7 @@
 "dateEnd": "2004",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-623b0662f3",
 "edgeLabel": "NASA's assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered",
 "id": "millis-tm-2004-213082",
 "l0": true,

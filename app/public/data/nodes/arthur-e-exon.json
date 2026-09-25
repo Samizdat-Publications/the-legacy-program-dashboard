@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-2389a8a180",
 "source": "Wright-Patterson Air Force Base: The First Century, History Office, Air Force Life Cycle Management Center, Air Force Materiel Command, 2015, Appendix B, p. 44. https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf",
 "text": "The Air Force's own base history lists the installation commanders in sequence: 'Colonel Glen McClernon August 1962 / Colonel Arthur E. Exon August 1964 / Colonel Jowell C. Wise December 1965'. Exon held the post as a colonel, from August 1964, and was succeeded in December 1965.",
 "tier": 1
 },
 {
+"id": "c-510904c879",
 "source": "Wright-Patterson Air Force Base: The First Century, 2015, searched in full. https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf",
 "text": "The same 76-page installation history names Exon in no other place and records nothing about him beyond the appendix entry.",
 "tier": 1
 },
 {
+"id": "c-e3d0122b2a",
 "source": "Danny Jones Podcast, ep. 259, 9 September 2024, 0:37:23 to 0:47:13 and 1:12:05, mapped at research/leads/dannyjones-corpus-13.md",
 "text": "On the Danny Jones Podcast, episode 259, 9 September 2024, at 0:37:23 to 0:47:13 and 1:12:05, Whitley Strieber referred to Exon as a general and as the commander of Wright-Patterson, and attributed to him and to Strieber's uncle an account of 1947 material at the installation. The opened Air Force record gives his rank in the post as colonel and carries none of the account.",
 "tier": 2
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-011f24b07d",
 "edgeLabel": "Installation commander, August 1964 to December 1965",
 "id": "l-wright-patterson",
 "l0": false,
@@ -54,6 +58,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6419a92edb",
 "edgeLabel": "Held the command as a Colonel, per the Air Force's own commander table",
 "id": "usaf",
 "l0": true,

@@ -69,36 +69,43 @@
 ],
 "claims": [
 {
+"id": "c-6236cb9fdb",
 "source": "war.gov/UFO portal, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Hegseth's signed statement on the PURSUE portal: the Department of War is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
 "tier": 2
 },
 {
+"id": "c-8e3e0cf993",
 "source": "Hegseth to reporters, reported by DefenseScoop, 25 February 2026",
 "text": "'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president' and 'I don't want to over-promise and under-deliver.'",
 "tier": 2
 },
 {
+"id": "c-8b352e93c0",
 "source": "Department of War news story, 27 February 2026",
 "text": "Asked about extraterrestrial life: 'We'll see... I get to do the review and find out along with you.'",
 "tier": 2
 },
 {
+"id": "c-2f334000a3",
 "source": "DefenseScoop, 25 February 2026",
 "text": "Hegseth committed the Department to work closely with ODNI to implement the release effort.",
 "tier": 2
 },
 {
+"id": "c-42460c1643",
 "source": "war.gov/UFO official release index, accessed August 2026",
 "text": "The Department of War hosts the PURSUE declassification programme at war.gov/UFO, with five releases published between 8 May and 7 August 2026.",
 "tier": 1
 },
 {
+"id": "c-8c252d135f",
 "source": "war.gov/UFO official page",
 "text": "Hegseth's published statement is that the Department of War is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
 "tier": 1
 },
 {
+"id": "c-59c4aea86d",
 "source": "war.gov/UFO quoting the President; contemporaneous wire coverage 20 February 2026",
 "text": "President Trump stated on 19 February 2026 that he would direct the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life.",
 "tier": 1
@@ -116,6 +123,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-31dbd9c0c5",
 "edgeLabel": "1 April 2026 letter demanding AARO's video holdings",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -142,6 +150,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-8040878d4d",
 "edgeLabel": "1 April 2026 letter demanding AARO's UAP video holdings",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -173,6 +182,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-91af0f2574",
 "edgeLabel": "Releasing authority; signed transparency statement on the portal",
 "id": "pursue-releases",
 "l0": true,
@@ -199,6 +209,7 @@
 "dateEnd": null,
 "dateStart": "2026-02-20",
 "direction": "in",
+"edgeId": "e-974ce021ec",
 "edgeLabel": "directed to",
 "id": "trump-truth-social-post-2026-02-20",
 "l0": false,
@@ -225,6 +236,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-dfd399cc1a",
 "edgeLabel": "Named implementer; called it 'that executive order'",
 "id": "trump-uap-release-directive-2026",
 "l0": false,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-883ef79918",
 "source": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
 "text": "LLNL is a DOE FFRDC administered by Lawrence Livermore National Security, LLC since 1 October 2007 and was funded at approximately $2,188.8 million in FY2024.",
 "tier": 1
 },
 {
+"id": "c-5113d6829a",
 "source": "LLNL institutional history",
 "text": "Edward Teller was a co-founder of the Livermore laboratory in 1952 and its director from 1958 to 1960.",
 "tier": 1
 },
 {
+"id": "c-9123e4ded9",
 "source": "Structural inference from US classification law",
 "text": "Restricted Data classification under the Atomic Energy Act is statutory rather than executive-order-derived, so material in that category is not released by a presidential declassification directive of the kind driving the 2026 PURSUE releases - making the DOE weapons laboratories the most durable remaining shelter for concealed technical work. Reasoning: legal structure of the Atomic Energy Act versus E.O. 13526; no evidence is offered that UAP material is so classified.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-459335c3bd",
 "edgeLabel": "DOE weapons laboratory operating under Atomic Energy Act classification authority",
 "id": "doe",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-4051a852ce",
 "edgeLabel": "DOE/NNSA management and operating contract; Lawrence Livermore",
 "id": "doe",
 "l0": true,
@@ -72,6 +77,7 @@
 "dateEnd": "1960",
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-c7cf595ca0",
 "edgeLabel": "Co-founder and director of the Livermore laboratory",
 "id": "edward-teller",
 "l0": false,

@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-6f952410e5",
 "source": "Robert M. Wood's own repeated public account",
 "text": "Robert M. Wood conducted a company-funded study of unidentified craft at McDonnell Douglas Astronautics, Huntington Beach, in the late 1960s.",
 "tier": 2
 },
 {
+"id": "c-99dd57fc9c",
 "source": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
 "text": "Corporate independent research and development is recoverable as an indirect expense on covered DoD contracts under DoD Instruction 3204.01, with project reporting required only of contractors allocating more than $11 million in IR&D and bid-and-proposal costs.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-fc70cccfdd",
 "edgeLabel": "Boeing absorbed McDonnell Douglas in 1997, inheriting the Huntington Beach organisation and its records",
 "id": "boeing",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "1997",
 "dateStart": "1968",
 "direction": "out",
+"edgeId": "e-9e18b58924",
 "edgeLabel": "Corporate self-funded UAP research is the historical precedent for the IR&D channel",
 "id": "dodi-3204-01",
 "l0": false,
@@ -67,6 +71,7 @@
 "dateEnd": "2000-12",
 "dateStart": "2000-12",
 "direction": "in",
+"edgeId": "e-a2b6a32a54",
 "edgeLabel": "Named in his own self-stated client list, 2000",
 "id": "mark-mccandlish",
 "l0": false,
@@ -88,6 +93,7 @@
 "dateEnd": "1970",
 "dateStart": "1968",
 "direction": "in",
+"edgeId": "e-c5689e8ecf",
 "edgeLabel": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
 "id": "robert-wood",
 "l0": false,

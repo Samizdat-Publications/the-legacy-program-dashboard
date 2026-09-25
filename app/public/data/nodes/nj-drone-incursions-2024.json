@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-f1f518b95b",
 "source": "Joint federal statement, 17 December 2024, reported by The Debrief",
 "text": "Joint statement of 17 December 2024 by DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.'",
 "tier": 1
 },
 {
+"id": "c-c735d9016b",
 "source": "Joint federal statement, 17 December 2024",
 "text": "The FBI received over 5,000 drone reports; officials analysed roughly 100 specific leads and attributed them to commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars.",
 "tier": 1
 },
 {
+"id": "c-39116673f4",
 "source": "The Debrief, 17 December 2024",
 "text": "The assessment acknowledged limited recent sightings over military facilities in restricted airspace, contradicting earlier White House statements denying such incidents.",
 "tier": 1
 },
 {
+"id": "c-6366929b43",
 "source": "The Debrief, 17 December 2024",
 "text": "Wright-Patterson Air Force Base closed its airspace for nearly four hours on 14-15 December 2024 due to unauthorized drone activity.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-fa108b6c9c",
 "edgeLabel": "Four-agency joint statement of 17 December 2024",
 "id": "dod",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-6a8f301936",
 "edgeLabel": "Task force stood up in August 2025 after two years of unattributed incursions",
 "id": "jiatf-401",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-732728df72",
 "edgeLabel": "Wright-Patterson closed its airspace for nearly four hours during the wave",
 "id": "l-wright-patterson",
 "l0": false,
@@ -103,6 +110,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-6828c41d6e",
 "edgeLabel": "Twelve months apart; the second wave was publicly resolved, the first never was",
 "id": "langley-2023-incursions",
 "l0": true,
@@ -144,6 +152,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-fa108b6c9c",
 "label": "Four-agency joint statement of 17 December 2024",
 "note": "DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk.' The same statement conceded limited sightings over restricted military airspace, contradicting earlier White House denials.",
 "of": {

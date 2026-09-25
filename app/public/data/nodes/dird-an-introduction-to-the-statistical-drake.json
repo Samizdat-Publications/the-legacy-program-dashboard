@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-8e6eaa890f",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
 "text": "Defense Intelligence Reference Document titled \"An Introduction to the Statistical Drake Equation\", series \"Acquisition Threat Support\", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-2ec34ff9f6",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-6c7a9353dd",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-55475f2c55",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
 "text": "Released PDF is 55 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-ef05a48dc7",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Authored by Dr Claudio Maccone of the International Academy of Astronautics, per the 9 January 2018 DIA list (item 15).",
 "tier": 1
 },
 {
+"id": "c-cabdd7faf4",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
 "text": "Cover page reads \"11 March 2010 / ICOD: 1 December 2009\", series \"Acquisition Threat Support\". No DIA-08-XXXX-XXX document number is recoverable anywhere in the text layer of the released scan; the number is either absent from the scan or lost to OCR. It is therefore recorded here as unknown rather than guessed.",
 "tier": 1
 },
 {
+"id": "c-2576eec5d8",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
 "text": "Appendix B of the released DIRD reproduces Maccone's underlying IAA conference paper \"The Statistical Drake Equation\" with its byline and Turin address intact, corroborating the DIA list attribution from inside the document even though the cover author field is redacted under (b)(6).",
 "tier": 1
 },
 {
+"id": "c-58a2d2057a",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "This is the only one of the 38 DIRDs whose subject is the prevalence of extraterrestrial civilisations rather than a physical technology, which is a direct indication that the DIA sponsor treated non-terrestrial technology as a category within \"advanced aerospace threat\".",
 "tier": 3
@@ -55,6 +63,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-9882764012",
 "edgeLabel": "deliverable under AAWSAP",
 "id": "aawsap",
 "l0": true,
@@ -81,6 +90,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-a1a3034528",
 "edgeLabel": "authored",
 "id": "claudio-maccone",
 "l0": false,
@@ -117,6 +127,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-df8b80bb96",
 "edgeLabel": "published and holds; document number not recoverable",
 "id": "dia",
 "l0": true,
@@ -143,6 +154,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-ca26ab4c53",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -164,6 +176,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-3344734a6d",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,

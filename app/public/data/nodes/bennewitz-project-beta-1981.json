@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-967967dee9",
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
 "text": "Bennewitz summarised his own investigation in late 1981 in a document of roughly five thousand words titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)', which opens by describing the research methods he used to obtain his information.",
 "tier": 2
 },
 {
+"id": "c-b081fadc8d",
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
 "text": "Two verbatim fragments were read: 'IN TRUTH THEY TEND TO LIE, HOWEVER THEIR MEMORY FOR LYING IS NOT LONG' and 'THEY MUST BE MADE TO COME DOWN - DESTRUCT THEMSELVES WHICH IS A STANDING ORDER'. The document itself was not opened by this session.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "1981",
 "dateStart": "1981",
 "direction": "out",
+"edgeId": "e-23d46b2513",
 "edgeLabel": "The claimant's own dated statement of his own claim, late 1981",
 "id": "dulce-base",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "1981",
 "dateStart": "1981",
 "direction": "in",
+"edgeId": "e-d8d125b928",
 "edgeLabel": "Author of the late-1981 report",
 "id": "paul-bennewitz",
 "l0": false,

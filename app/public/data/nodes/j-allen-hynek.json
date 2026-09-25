@@ -44,21 +44,25 @@
 ],
 "claims": [
 {
+"id": "c-1f4d870941",
 "source": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
 "text": "Hynek testified before the House Committee on Science and Astronautics at its UFO symposium on 29 July 1968, alongside James E. McDonald, Carl Sagan, Robert L. Hall, James A. Harder and Robert M. L. Baker Jr.",
 "tier": 1
 },
 {
+"id": "c-28c623b312",
 "source": "Hynek, statements from the late 1960s and 'The UFO Experience: A Scientific Inquiry' (1972)",
 "text": "Hynek stated that Blue Book had become 'a public relations exercise' with 'little or no research undertaken using the scientific method.'",
 "tier": 2
 },
 {
+"id": "c-2c3d8cc9a8",
 "source": "Hynek's own account in 'The UFO Experience' (1972) and contemporaneous press coverage",
 "text": "Hynek's March 1966 swamp gas explanation was offered as provisional and for only some cases, but was reported as a blanket dismissal; he later expressed regret.",
 "tier": 2
 },
 {
+"id": "c-9dda1a6777",
 "source": "Project Blue Book administrative records, NARA RG 341; Condon Report Sec. V Ch. 2",
 "text": "Hynek served as scientific consultant across Project SIGN (1947-1949), Project GRUDGE (1949-1951) and Project Blue Book (1952-1969).",
 "tier": 1
@@ -74,6 +78,7 @@
 "dateEnd": "1966",
 "dateStart": "1966",
 "direction": "out",
+"edgeId": "e-a2e93082a2",
 "edgeLabel": "The swamp gas episode triggered the 1966 hearing",
 "id": "hearing-1966-04-05",
 "l0": false,
@@ -95,6 +100,7 @@
 "dateEnd": "1968",
 "dateStart": "1968",
 "direction": "out",
+"edgeId": "e-b422591362",
 "edgeLabel": "Both testified at the 29 July 1968 congressional symposium",
 "id": "james-mcdonald",
 "l0": false,
@@ -116,6 +122,7 @@
 "dateEnd": "1969",
 "dateStart": "1948",
 "direction": "out",
+"edgeId": "e-87ecd564c3",
 "edgeLabel": "Hynek was scientific consultant across SIGN, GRUDGE and Blue Book",
 "id": "project-blue-book",
 "l0": true,
@@ -142,6 +149,7 @@
 "dateEnd": "1953",
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-6ecac0ea84",
 "edgeLabel": "Hynek presented to the panel but was not a member",
 "id": "robertson-panel",
 "l0": true,

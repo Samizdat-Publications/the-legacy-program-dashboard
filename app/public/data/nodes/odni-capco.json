@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-30593919b4",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
 "text": "ICD 906 D.9 names 'The Director of the ODNI Controlled Access Program Central Office (CAPCO)' as 'the accountable official responsible for the implementation of this policy and for issuing IC Standards (ICS), consistent with ICPG 101.2.'",
 "tier": 1
 },
 {
+"id": "c-9c918bb544",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
 "text": "CAPCO duties per ICD 906 E.4: serve as central point of contact for all CAP requirements; 'Maintain the CAP Registry, a list of all control systems, including all compartments and sub-compartments'; 'Deconflict all IC CAPs or all other programs'; issue IC Standards; coordinate CAP-related engagements including congressional briefings, ISOO requests, and the NSC; and ensure at least one records official is cleared to all CAPs.",
 "tier": 1
 },
 {
+"id": "c-36618fa4ef",
 "source": "ICD 906, section D.9",
 "text": "ICD 906 section D.9: 'The Director of the ODNI Controlled Access Program Central Office (CAPCO) is the accountable official responsible for the implementation of this policy'.",
 "tier": 1
 },
 {
+"id": "c-fb60316f75",
 "source": "ICD 906, section D.9.b",
 "text": "ICD 906 section D.9.b requires ODNI CAPCO to 'Manage a CAP Registry that maintains a list of all control systems, including all compartments and sub-compartments' and to 'manage all compartment and sub compartment names, codenames, and any other pertinent information.'",
 "tier": 1
 },
 {
+"id": "c-aef17854a7",
 "source": "ICD 906, section D.9.c",
 "text": "ICD 906 section D.9.c makes CAPCO 'responsible for the coordination of CAP-related engagements, to include, but not limited to, congressional briefings, requests from the Information Security Oversight Office, and the National Security Council.'",
 "tier": 1
 },
 {
+"id": "c-2155aa466f",
 "source": "IC Authorized Classification and Control Markings Register and Manual v5.1, title page",
 "text": "CAPCO publishes the Intelligence Community Authorized Classification and Control Markings Register and Manual from Washington, DC 20511, with the contact address DNI-SSD-CAPCO@dni.ic.gov.",
 "tier": 1
 },
 {
+"id": "c-64ee83d1c6",
 "source": "ICD 906 section D.9.c read with E.O. 13526 section 4.3(b)",
 "text": "An ISOO request about an IC controlled access program is routed, by directive, through the office that administers the registry of those programs - so ISOO's independent oversight of IC CAPs is mediated by the entity it would be overseeing. Reasoning: ICD 906 D.9.c places ISOO requests inside CAPCO's coordination function.",
 "tier": 3
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-f73422cd2e",
 "edgeLabel": "CAPCO manages the CAP Registry of all control systems, compartments and sub-compartments",
 "id": "capco-register",
 "l0": false,
@@ -76,6 +84,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d6bdae4a26",
 "edgeLabel": "",
 "id": "capco-register",
 "l0": false,
@@ -102,6 +111,7 @@
 "dateEnd": null,
 "dateStart": "2015-10-17",
 "direction": "in",
+"edgeId": "e-e128df55ba",
 "edgeLabel": "Makes the CAPCO director the accountable official and registry holder",
 "id": "icd-906",
 "l0": false,
@@ -123,6 +133,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-85fbac12e9",
 "edgeLabel": "D.9 makes the CAPCO Director the accountable official",
 "id": "icd-906",
 "l0": false,
@@ -144,6 +155,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-98e3e59267",
 "edgeLabel": "",
 "id": "icd-906",
 "l0": false,
@@ -170,6 +182,7 @@
 "dateEnd": null,
 "dateStart": "2015-10-17",
 "direction": "out",
+"edgeId": "e-869f016839",
 "edgeLabel": "ISOO requests about IC controlled access programs are routed through CAPCO",
 "id": "isoo",
 "l0": true,
@@ -203,6 +216,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-869f016839",
 "label": "ISOO requests about IC controlled access programs are routed through CAPCO",
 "note": "ICD 906 section D.9.c makes CAPCO responsible for coordinating 'requests from the Information Security Oversight Office' about CAPs.",
 "of": null,

@@ -23,16 +23,19 @@
 ],
 "claims": [
 {
+"id": "c-de42eb169d",
 "source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
 "text": "Teller attended the 16 February 1949 Los Alamos conference on green fireballs, together with Laboratory Director Norris Bradbury, Frederick Reines, and FBI, AEC and military representatives.",
 "tier": 1
 },
 {
+"id": "c-bb5f1e1e54",
 "source": "Inference from his documented positions; explicitly not evidenced",
 "text": "Teller's later position at the apex of the DOE weapons-laboratory complex means that if any laboratory-hosted exploitation activity existed in the 1950s-1970s he would have been positioned to know of it. Reasoning: laboratory directors hold Q clearance and programme visibility; no document establishes such knowledge.",
 "tier": 3
 },
 {
+"id": "c-b3f96eb164",
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 35:48 to 36:32 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
 "text": "Bob Lazar claims Teller as his route into the classified work, in his own 1991 narration: 'while working at Los Alamos National Lab in 1982 the local newspaper did a front page story on a jet car [I'd] built coincidentally Dr Teller was giving a speech in Los Alamos that same day we met and had a short chat'. He says he later wrote to Teller and 'inquired about a job', and that 'Dr Teller responded by telephone and told me that it was no longer active but' referred him on. He adds that he never asked Teller whether he remembered him. The claim is uncorroborated by any opened record and its internal dating conflicts with the newspaper's own date of 27 June 1982, Teller's Los Alamos lecture falling on the following day per Mahood. Carried at Tier 3 and asserting only what Lazar said.",
 "tier": 3
@@ -48,6 +51,7 @@
 "dateEnd": null,
 "dateStart": "1982-06",
 "direction": "in",
+"edgeId": "e-e601a1b15b",
 "edgeLabel": "Claimed 1982 meeting and later job referral, uncorroborated and internally misdated",
 "id": "bob-lazar",
 "l0": false,
@@ -69,6 +73,7 @@
 "dateEnd": "1949",
 "dateStart": "1949",
 "direction": "out",
+"edgeId": "e-a774f56a07",
 "edgeLabel": "Attended the 16 February 1949 conference",
 "id": "green-fireballs-conference-1949",
 "l0": false,
@@ -90,6 +95,7 @@
 "dateEnd": "1960",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-c7cf595ca0",
 "edgeLabel": "Co-founder and director of the Livermore laboratory",
 "id": "llnl",
 "l0": false,

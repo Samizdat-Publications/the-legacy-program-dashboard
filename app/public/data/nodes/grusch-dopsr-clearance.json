@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-84e2b2a2a5",
 "source": "DoD FOIA case 23-F-0946 release; The Debrief, 5 June 2023",
 "text": "DOPSR cleared Grusch's submissions for open publication on 4 April 2023 and 6 April 2023.",
 "tier": 1
 },
 {
+"id": "c-d2c08a8d21",
 "source": "DoD FOIA 23-F-0946 release, analyzed by The Black Vault",
 "text": "Internal DOPSR correspondence: reviewer Michelle Whigham raised the sensitive-areas references; Don Kluzik responded that vague references of that kind are not a problem.",
 "tier": 1
 },
 {
+"id": "c-d9d3120744",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Grusch confirmed the clearance under oath: 'Correct, through DODSR - DoD Prepublication and Security Review.'",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-b3c6f6cfaf",
 "edgeLabel": "Clearance preceded publication by two months",
 "id": "debrief-2023-06-05",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-33aa14cb00",
 "edgeLabel": "Cleared Grusch's statements for open publication, 4 and 6 April 2023",
 "id": "dopsr",
 "l0": false,

@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-dd3793d7bc",
 "source": "Title and copyright pages of the original printings, scanned at the Internet Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Status Report II is dated January 1980 and was published by MUFON; Status Report IV is dated June 1985; Status Report V is dated January 1989; Status Report VI is dated July 1991 and was self-published by Stringfield at 4412 Grove Avenue, Cincinnati, Ohio 45227; Status Report VII is dated February 1994.",
 "tier": 2
 },
 {
+"id": "c-c82fc0e37f",
 "source": "Stringfield, 'Retrievals of the Third Kind - Part 1', header note — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Status Report I was a paper delivered at the MUFON Symposium on 29 July 1978 and contributed to Flying Saucer Review, revised 20 July 1978, with Stringfield's address given as 4412 Grove Avenue, Cincinnati, Ohio 45227.",
 "tier": 2
 },
 {
+"id": "c-6e9b27f62a",
 "source": "Stringfield, Status Report III, p. 125 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Status Report III carries the imprimatur of Dr. Peter Rank, Chief of Radiology, Methodist Hospital, and Richard H. Hall, former Assistant Director of NICAP 1958-1967 and editor of the MUFON UFO Journal, and prints a consolidated chronology of cases reported in Status Report II.",
 "tier": 2
 },
 {
+"id": "c-5c7940c741",
 "source": "Stringfield, Status Report VII, acknowledgements, February 1994 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Status Report VII acknowledges past funding from the Fund for UFO Research and the cooperation of MUFON, the J. Allen Hynek Center for UFO Studies and the Mid-Ohio Research Associates.",
 "tier": 2
 },
 {
+"id": "c-2b12ea1f7e",
 "source": "Stringfield, Status Report III, case notes on Kingman",
 "text": "Status Report III records that Kingman, Arizona, 1953 was first investigated and reported by Raymond Fowler, that Stringfield wrote to Fowler on 11 August 1980 seeking access to Fowler's source 'Fritz Werner' (pseudonym), and that Werner's written answers are dated 2 September 1980.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": "1989",
 "dateStart": "1978",
 "direction": "out",
+"edgeId": "e-2c96872b66",
 "edgeLabel": "Stringfield revived Aztec as a real retrieval in the late 1970s",
 "id": "aztec-1948",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "1994",
 "dateStart": "1984",
 "direction": "in",
+"edgeId": "e-961ad70ed1",
 "edgeLabel": "Documentary method versus anonymous-testimony method",
 "id": "clear-intent-1984",
 "l0": false,
@@ -87,6 +94,7 @@
 "dateEnd": "1982",
 "dateStart": "1980-01",
 "direction": "out",
+"edgeId": "e-44b0b9ec96",
 "edgeLabel": "Status Report chronology indexes Del Rio as Item B-7",
 "id": "del-rio-1950",
 "l0": false,
@@ -108,6 +116,7 @@
 "dateEnd": "1982",
 "dateStart": "1980-09-02",
 "direction": "out",
+"edgeId": "e-192e936ba5",
 "edgeLabel": "Status Report III printed the 1980 'Fritz Werner' Q&A on Kingman",
 "id": "kingman-1953",
 "l0": false,
@@ -129,6 +138,7 @@
 "dateEnd": "1994-02",
 "dateStart": "1978-07-29",
 "direction": "in",
+"edgeId": "e-574a5fe3bd",
 "edgeLabel": "Authored the seven-part Status Report series",
 "id": "leonard-stringfield",
 "l0": false,
@@ -150,6 +160,7 @@
 "dateEnd": "2005",
 "dateStart": "2005",
 "direction": "in",
+"edgeId": "e-6a1cbaf42c",
 "edgeLabel": "The catalogue inherits Stringfield's case base",
 "id": "majic-eyes-only",
 "l0": false,

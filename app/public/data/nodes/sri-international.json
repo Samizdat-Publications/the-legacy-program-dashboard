@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-de7b758682",
 "source": "Nature 251, 602-607; CIA STARGATE collection",
 "text": "Puthoff and Targ's SRI remote-viewing work produced both open-literature publication in Nature (18 October 1974) and classified programme documentation later declassified in the CIA STARGATE release, including their November 1978 'Standard Remote Viewing Protocol (Local Targets).'",
 "tier": 1
 },
 {
+"id": "c-8ba64dfaeb",
 "source": "The Stargate Collection, CIA programme description",
 "text": "The programmes hosted at SRI were 'primarily handled by the DIA and CIA' and ran 'from the 1970s through 1995,' following early psychical research at SRI and SAIC.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": "1983",
 "dateStart": "1978",
 "direction": "out",
+"edgeId": "e-b891ab203e",
 "edgeLabel": "SRI methodology transferred into the Army/DIA GRILL FLAME programme",
 "id": "grill-flame",
 "l0": false,
@@ -51,6 +54,7 @@
 "dateEnd": "1985",
 "dateStart": "1972",
 "direction": "in",
+"edgeId": "e-12505ae981",
 "edgeLabel": "Puthoff founded and led the SRI psychoenergetics programme",
 "id": "harold-puthoff",
 "l0": false,
@@ -77,6 +81,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-de643cfc77",
 "edgeLabel": "Army Intelligence obligated $75K for SRI selection and training of INSCOM personnel",
 "id": "inscom",
 "l0": true,
@@ -98,6 +103,7 @@
 "dateEnd": "1985",
 "dateStart": "1972",
 "direction": "in",
+"edgeId": "e-9d2c3d8098",
 "edgeLabel": "Green was CIA's monitor for the SRI psychoenergetics work",
 "id": "kit-green",
 "l0": false,
@@ -124,6 +130,7 @@
 "dateEnd": "1982",
 "dateStart": "1972",
 "direction": "in",
+"edgeId": "e-9083dc537b",
 "edgeLabel": "Targ was co-principal investigator at SRI 1972-1982",
 "id": "russell-targ",
 "l0": false,
@@ -150,6 +157,7 @@
 "dateEnd": "1986",
 "dateStart": "1972",
 "direction": "in",
+"edgeId": "e-fb455270a6",
 "edgeLabel": "SRI held the science half of the remote viewing effort from 1972",
 "id": "stargate-program",
 "l0": true,

@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-f9e565f531",
 "source": "NSF NCSES Master Government List of FFRDCs, FY2026",
 "text": "NSEC, CAASD, the Center for Enterprise Modernization and HSSEDI are all registered at McLean, Virginia on the NSF Master Government List of FFRDCs; NSEC's primary location was reassigned to McLean in 2025.",
 "tier": 1
@@ -20,6 +21,7 @@
 "dateEnd": "1995",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-eb1e357ad6",
 "edgeLabel": "headquartered at 1501 BDM Way, McLean, Virginia",
 "id": "bdm-international",
 "l0": false,
@@ -41,6 +43,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-27a0d725a6",
 "edgeLabel": "CIA headquarters at Langley, within McLean",
 "id": "cia",
 "l0": true,
@@ -67,6 +70,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-ff40ec3b5c",
 "edgeLabel": "MITRE McLean headquarters campus",
 "id": "mitre-corporation",
 "l0": true,
@@ -98,6 +102,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-a738d5fed7",
 "edgeLabel": "ODNI headquarters at Liberty Crossing",
 "id": "odni",
 "l0": true,

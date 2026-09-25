@@ -98,41 +98,49 @@
 ],
 "claims": [
 {
+"id": "c-f9bb0a3cde",
 "source": "The Debrief, 'Colm Kelleher: AAWSAP and the Skinwalker Enigma', 25 May 2023",
 "text": "Kelleher led the NIDS team on Skinwalker Ranch 1996-2004 and in 2008 became Deputy Administrator of BAASS, leading day-to-day execution of the AAWSAP contract.",
 "tier": 2
 },
 {
+"id": "c-b2acd210bb",
 "source": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); BAASS Ten Month Report (2009)",
 "text": "BAASS under Kelleher ran parallel physics and human-biological-effects programs, treating witness physiology as a data stream alongside sensor data.",
 "tier": 2
 },
 {
+"id": "c-2d3f8c218d",
 "source": "Inference from the DIRD list in the DIA letter to SASC of 9 Jan 2018 read against Kelleher's NIDS role",
 "text": "The presence of three biology/biomedical DIRDs (Green on field effects on tissue, Towe on biosensors and biomaterials) inside an aerospace weapons study indicates the biological-effects requirement came from the contractor's NIDS heritage rather than from DIA's stated threat-assessment purpose.",
 "tier": 3
 },
 {
+"id": "c-c9b53d17a7",
 "source": "Kelleher's own accounts in 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021)",
 "text": "Kelleher served as NIDS deputy administrator from 1996 until the institute's 2004 closure and subsequently as a BAASS project manager on the DIA-funded programme.",
 "tier": 2
 },
 {
+"id": "c-5489fb7da7",
 "source": "Barry Greenwood, review, Journal of Scientific Exploration 37(1), 2 May 2023",
 "text": "'Skinwalkers at the Pentagon' is co-authored by the DIA official who conceived and managed AAWSAP, James Lacatski, together with Kelleher and Knapp.",
 "tier": 2
 },
 {
+"id": "c-f294bd1c31",
 "source": "Reported consistently in the AAWSAP record and in Kelleher's own co-authored account with the programme manager",
 "text": "Kelleher served as deputy administrator of BAASS during the DIA AAWSAP contract.",
 "tier": 2
 },
 {
+"id": "c-8b91f88fb7",
 "source": "Documented account reproduced in the Skinwalker Ranch record and in Lacatski/Kelleher/Knapp (2021)",
 "text": "DIA official James Lacatski read Kelleher and Knapp's 'Hunt for the Skinwalker', contacted Bigelow, obtained permission to visit the ranch, and relayed his experience to Sen. Harry Reid, leading to a $22 million appropriation.",
 "tier": 2
 },
 {
+"id": "c-dda69e9379",
 "source": "Inference from his continuous employment across both organisations under the same principal, Robert Bigelow",
 "text": "Kelleher is the single continuous scientific staff link between NIDS field collection (1996-2004) and the DIA-funded BAASS collection effort (2008-2010), which means the government programme inherited a pre-existing private sample and case archive rather than starting one.",
 "tier": 3
@@ -150,6 +158,7 @@
 "dateEnd": "2010",
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-b57e1d1a93",
 "edgeLabel": "Deputy administrator of BAASS, the AAWSAP performer",
 "id": "aawsap",
 "l0": true,
@@ -176,6 +185,7 @@
 "dateEnd": "2012",
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-76194a656d",
 "edgeLabel": "Deputy Administrator running day-to-day contract execution",
 "id": "baass",
 "l0": true,
@@ -197,6 +207,7 @@
 "dateEnd": "2007",
 "dateStart": "2005",
 "direction": "out",
+"edgeId": "e-36f3c13c6b",
 "edgeLabel": "'Hunt for the Skinwalker' (2005) - the book that triggered the contract",
 "id": "george-knapp",
 "l0": false,
@@ -218,6 +229,7 @@
 "dateEnd": "2008",
 "dateStart": "2005",
 "direction": "out",
+"edgeId": "e-f2aaaa8e50",
 "edgeLabel": "Kelleher's 2005 book led Lacatski to Bigelow and thence to the AAWSAP contract",
 "id": "james-lacatski",
 "l0": false,
@@ -244,6 +256,7 @@
 "dateEnd": "2012",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-5a9e7460ae",
 "edgeLabel": "led both the NIDS and BAASS science teams on the ranch",
 "id": "l-skinwalker",
 "l0": false,
@@ -265,6 +278,7 @@
 "dateEnd": "2004",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-a19002d61f",
 "edgeLabel": "Kelleher was NIDS deputy administrator and ran field operations",
 "id": "nids",
 "l0": true,
@@ -291,6 +305,7 @@
 "dateEnd": "2010",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-17c5625eed",
 "edgeLabel": "Continuous employment across NIDS and BAASS under the same principal",
 "id": "robert-bigelow",
 "l0": false,
@@ -312,6 +327,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-d10cde3e69",
 "edgeLabel": "co-author, contractor side of the account",
 "id": "skinwalkers-at-the-pentagon",
 "l0": false,

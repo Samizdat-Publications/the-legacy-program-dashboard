@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-d598e54575",
 "source": "Navy range fouler report released 13 January 2023",
 "text": "The 14 November 2004 intercept occurred approximately 30 miles off Baja California's coast in the Pacific.",
 "tier": 1
 },
 {
+"id": "c-7e8546fc60",
 "source": "Alexandro Wiggins written statement, 9 September 2025",
 "text": "The USS Jackson encounter of 15 February 2023 occurred in Warning Area W-291 off the Southern California coast.",
 "tier": 2
 },
 {
+"id": "c-5e9def017a",
 "source": "The War Zone reporting on FOIA-released deck logs",
 "text": "The July 2019 multi-ship drone swarm events occurred off the Southern California coast, documented in ships' deck logs obtained under FOIA.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-4877ec3762",
 "edgeLabel": "Multi-night unattributed swarms against destroyers in the SoCal operating areas",
 "id": "kidd-russell-2019",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2004-11-16",
 "dateStart": "2004-11-10",
 "direction": "in",
+"edgeId": "e-5f8cf9740d",
 "edgeLabel": "The encounters occurred in the Southern California operating areas",
 "id": "nimitz-2004",
 "l0": true,
@@ -77,6 +82,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-9b6ec7ac36",
 "edgeLabel": "W-291 encounter occurred in the same operating-area complex",
 "id": "uss-jackson-2023",
 "l0": false,

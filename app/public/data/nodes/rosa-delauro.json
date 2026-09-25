@@ -8,11 +8,13 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-c385df01b5",
 "source": "https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro",
 "text": "Rosa L. DeLauro (D-CT) is identified as Ranking Member of the House Appropriations Committee on the committee minority's official site.",
 "tier": 1
 },
 {
+"id": "c-c2b7ec8a8b",
 "source": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career",
 "text": "DeLauro was Ranking Member of the House Appropriations Committee during the 118th Congress, serving opposite Chairwoman Kay Granger.",
 "tier": 2
@@ -28,6 +30,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-f8b9e9cab1",
 "edgeLabel": "seat 10 of 12 - Ranking Member, House Appropriations",
 "id": "waived-sap-notification-group",
 "l0": true,

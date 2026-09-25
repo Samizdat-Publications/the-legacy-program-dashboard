@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-36a28d1773",
 "source": "theintercept.com/about",
 "text": "The Intercept was established in 2014 as an investigative journalism organisation focused on national security, civil liberties, criminal justice, politics and technology, self-described as investigating powerful individuals and institutions to expose corruption and injustice.",
 "tier": 1
 },
 {
+"id": "c-3f06578c09",
 "source": "theintercept.com/about",
 "text": "It operates as a non-profit funded primarily by reader and listener donations, accepts no advertising, and publishes impact reports and audited financial statements; leadership listed as editor-in-chief Ben Muessig and CEO Annie Chabel.",
 "tier": 1
 },
 {
+"id": "c-1f96344456",
 "source": "Inference from theintercept.com/about",
 "text": "Its founding purpose - publishing leaked classified material with the underlying documents attached - and its advertiser-free funding make it a low-friction destination for compartmented-programme documents. Reasoning: from its stated editorial model and ownership structure.",
 "tier": 3
 },
 {
+"id": "c-cb7dfa5e86",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-566ad94006",
 "edgeLabel": "Pentagon confirmation of AATIP's existence obtained by The Intercept",
 "id": "aatip",
 "l0": true,
@@ -61,6 +66,7 @@
 "dateEnd": "2023-08-09",
 "dateStart": "2019-06-01",
 "direction": "out",
+"edgeId": "e-429d212b55",
 "edgeLabel": "the adversarial counterweight inside the same substrate",
 "id": "d-media",
 "l0": false,
@@ -87,6 +93,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-1bc7468877",
 "edgeLabel": "FOIA'd police records on Grusch published weeks after his testimony",
 "id": "david-grusch",
 "l0": false,
@@ -113,6 +120,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-59a02fe543",
 "edgeLabel": "First major press challenge to Elizondo's AATIP leadership claim",
 "id": "luis-elizondo",
 "l0": false,
@@ -139,6 +147,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-385b7201a7",
 "edgeLabel": "Scrutiny of To The Stars Academy's media apparatus and financing",
 "id": "ttsa",
 "l0": true,

@@ -33,21 +33,25 @@
 ],
 "claims": [
 {
+"id": "c-cb09567854",
 "source": "CREC-2023-07-13-pt1-PgS2953",
 "text": "Cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
 "tier": 1
 },
 {
+"id": "c-33b6627c27",
 "source": "Congress.gov cosponsor record, S.Amdt. 797, 118th Congress",
 "text": "Rubio is recorded as an original cosponsor of S.Amdt. 797, sponsorship date 13 July 2023.",
 "tier": 1
 },
 {
+"id": "c-2ed971ea68",
 "source": "Rubio on Fox Business, Mornings with Maria, 24 March 2021, reported by Micah Hanks, The Debrief",
 "text": "'It isn't ours. It isn't anything that's registered to the FAA, and in many cases exhibits attributes of things we've never seen.'",
 "tier": 2
 },
 {
+"id": "c-ebec1c01c7",
 "source": "Joint statement, 16-senator AARO funding letter, 16 February 2023",
 "text": "Rubio and Gillibrand jointly argued AARO 'provides the opportunity to integrate and resolve threats and hazards to the U.S., while also offering increased transparency to the American people and reducing the stigma around this issue.'",
 "tier": 2
@@ -63,6 +67,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-e254b97466",
 "edgeLabel": "Rubio appears on record in the documentary",
 "id": "age-of-disclosure",
 "l0": false,
@@ -84,6 +89,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-69dbccaa02",
 "edgeLabel": "Addressed to the Secretary of State, who had publicly described UAP whistleblowers approaching Senate Intelligence",
 "id": "comer-luna-agency-letters-2025",
 "l0": false,
@@ -105,6 +111,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-e1a07622a9",
 "edgeLabel": "Original cosponsor while serving as SSCI Vice Chairman",
 "id": "samdt-797",
 "l0": true,
@@ -126,6 +133,7 @@
 "dateEnd": "2025",
 "dateStart": "2021",
 "direction": "out",
+"edgeId": "e-3abfb450e2",
 "edgeLabel": "Vice Chairman 2021-2025",
 "id": "senate-intelligence",
 "l0": true,
@@ -147,6 +155,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "out",
+"edgeId": "e-f973ae3fbb",
 "edgeLabel": "cosponsor",
 "id": "uapda-2023",
 "l0": true,
@@ -168,6 +177,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-1371bca480",
 "edgeLabel": "Absent from the 2024 refiling; left the Senate January 2025",
 "id": "uapda-2024-samdt-2610",
 "l0": false,

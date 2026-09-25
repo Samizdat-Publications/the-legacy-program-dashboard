@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-9143331ff1",
 "source": "AFI 16-701, para. 1 scope/applicability",
 "text": "AFI 16-701 (18 February 2014, 48 pages) identifies SAF/AAZ as 'the Secretary of the Air Force, Security, Counterintelligence, and Special Program Oversight' and requires all supplements to the instruction to be routed to SAF/AAZ for coordination before certification and approval.",
 "tier": 1
 },
 {
+"id": "c-c4ed3e7461",
 "source": "AFI 16-701, para. 2.1-2.1.2",
 "text": "Para. 2.1 assigns the Director, Security and Special Program Oversight (SAF/AAZ) to serve as principal advisor to SAF/AA for SAPs and as Director, AF SAPCO, developing SAP policy and directing, administering and overseeing the SAP security programme.",
 "tier": 1
 },
 {
+"id": "c-5f70a8b6ec",
 "source": "AFI 16-701, para. 2.1.2.4",
 "text": "Para. 2.1.2.4 directs SAF/AAZ to 'establish a declassification program and ensure that necessary resources are applied to the review of information to ensure it is neither classified for longer than necessary nor declassified prematurely in accordance with the file series exemption'.",
 "tier": 1
 },
 {
+"id": "c-77cca805a5",
 "source": "AFI 16-701, paras. 2.1.2.6-2.1.2.7",
 "text": "SAF/AAZ serves as Designated Accreditation Authority for all SAP information systems and as access approval authority for all SAPs, approving waivers for SAP access; both authorities may be delegated only in writing and must be revalidated annually.",
 "tier": 1
 },
 {
+"id": "c-172362f709",
 "source": "AFI 16-701, cover page",
 "text": "The 2014 edition of AFI 16-701 was certified by SAF/AAZ, then Mr. Daniel F. McMillin, with SAF/AAZE as office of primary responsibility.",
 "tier": 1
 },
 {
+"id": "c-3996a431b8",
 "source": "Inference from AFI 16-701",
 "text": "Placing SAP access approval and SAP declassification authority in the same office means the decision to disclose a programme is made by the official whose institutional interest is in the programme's continued protection. Reasoning: directly from the two responsibilities assigned in AFI 16-701 paras. 2.1.2.4 and 2.1.2.7.",
 "tier": 3
 },
 {
+"id": "c-bec9a7c609",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c2aa522a6a",
 "edgeLabel": "Air Force SAP Central Office subordinate to DoD SAPCO approval authority",
 "id": "dod",
 "l0": true,
@@ -81,6 +89,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-40a47828ba",
 "edgeLabel": "Air Force SAP directive bars congressional briefings without SAPCO approval",
 "id": "us-house",
 "l0": true,

@@ -22,6 +22,7 @@
 ],
 "claims": [
 {
+"id": "c-311ab0bd98",
 "source": "DoD FOIA release 24-F-0266, AARO Invitations to Interview Mr. David Grusch",
 "text": "Appears as signatory of the March 2023 DoD memorandum referenced in AARO's memorandum for record documenting its attempts to interview Grusch.",
 "tier": 1
@@ -37,6 +38,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-8b98192939",
 "edgeLabel": "SAPCO director's March 2023 memorandum cited as AARO's access authority",
 "id": "aaro-grusch-interview-memo",
 "l0": false,

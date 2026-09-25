@@ -5,16 +5,19 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-c781a0575d",
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
 "text": "'It has been more than a decade since my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis.'",
 "tier": 1
 },
 {
+"id": "c-a67e8481d0",
 "source": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
 "text": "Two jets 'only 100 feet apart, were forced to take evasive action' in Warning Area W-72.",
 "tier": 1
 },
 {
+"id": "c-2027d1eb12",
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
 "text": "A January 2015 Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' reported 'multiple near-midair collisions' and was deleted from all recipients' accounts the next day.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-fe75903dcf",
 "edgeLabel": "Created in direct response to the reporting failure the encounters exposed",
 "id": "americans-for-safe-aerospace",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "2015",
 "dateStart": "2015",
 "direction": "in",
+"edgeId": "e-10bbb7aa64",
 "edgeLabel": "Command-level reaction to the encounter series",
 "id": "gallaudet-2015-email",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": "2020",
 "dateStart": "2015",
 "direction": "in",
+"edgeId": "e-0e1dacadf6",
 "edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
 "id": "gimbal-video",
 "l0": false,
@@ -103,6 +109,7 @@
 "dateEnd": "2020",
 "dateStart": "2015",
 "direction": "in",
+"edgeId": "e-0705447e89",
 "edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
 "id": "gofast-video",
 "l0": false,
@@ -134,6 +141,7 @@
 "dateEnd": "2015",
 "dateStart": "2014",
 "direction": "in",
+"edgeId": "e-b895eee1fb",
 "edgeLabel": "Site of the near-midair that anchors the safety case",
 "id": "l-w72",
 "l0": false,
@@ -155,6 +163,7 @@
 "dateEnd": "2015",
 "dateStart": "2014",
 "direction": "in",
+"edgeId": "e-c0db198809",
 "edgeLabel": "VFA-11 aircrew during the 2014-2015 encounter series",
 "id": "ryan-graves",
 "l0": false,
@@ -176,6 +185,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-419c09f2bd",
 "edgeLabel": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
 "id": "us-navy",
 "l0": true,
@@ -212,6 +222,7 @@
 "dateEnd": "2015",
 "dateStart": "2014",
 "direction": "in",
+"edgeId": "e-733d049823",
 "edgeLabel": "Squadron at the centre of the Atlantic encounter series",
 "id": "vfa-11",
 "l0": false,

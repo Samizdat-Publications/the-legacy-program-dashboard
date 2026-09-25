@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-c2b8eec085",
 "source": "RAAF press release, 8 July 1947, issued by 1st Lt. Walter Haut",
 "text": "The 8 July 1947 RAAF press release stated that 'the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.'",
 "tier": 1
 },
 {
+"id": "c-da443aad6a",
 "source": "Contemporaneous Fort Worth press conference photographs and wire copy, 8 July 1947",
 "text": "Brig. Gen. Roger M. Ramey retracted the statement at Fort Worth Army Air Field with weather officer Irving Newton, presenting the debris as a weather balloon and radar target.",
 "tier": 1
 },
 {
+"id": "c-dddb4cba29",
 "source": "USAF, 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994) and 'The Roswell Report: Case Closed' (1997)",
 "text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4 and acknowledged the weather balloon explanation had been a cover story; 'The Roswell Report: Case Closed' (24 June 1997) attributed body accounts to anthropomorphic parachute test dummies.",
 "tier": 1
 },
 {
+"id": "c-3b51ca112a",
 "source": "GAO/NSIAD-95-187, July 1995",
 "text": "GAO/NSIAD-95-187 found that RAAF outgoing messages from October 1946 through December 1949 had been destroyed and that no disposition authority for the destruction could be located.",
 "tier": 1
 },
 {
+"id": "c-b05b2f7931",
 "source": "Inference from the 1994 USAF report and GAO/NSIAD-95-187",
 "text": "The most durable fact about Roswell is administrative, not physical: the government has conceded in writing that it lied publicly about the recovery, and the unit's message traffic for the relevant period no longer exists. Reasoning: the 1994 report concedes the cover story; GAO documents the record destruction; the two facts together establish deliberate concealment independent of what the debris was.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": "1995",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-b884702b71",
 "edgeLabel": "GAO found the relevant RAAF records destroyed with no recorded authority",
 "id": "gao-roswell-report-1995",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "1950",
 "dateStart": "1945",
 "direction": "out",
+"edgeId": "e-3700b6a81e",
 "edgeLabel": "Roswell sits inside the 1947 New Mexico nuclear and rocketry complex",
 "id": "l-white-sands",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-539720397e",
 "edgeLabel": "The 1947 recovery was executed by Roswell Army Air Field",
 "id": "roswell-1947",
 "l0": true,
@@ -103,6 +111,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-fc6615c89b",
 "edgeLabel": "The 509th Bomb Group at Roswell AAF was the only atomic-armed unit in the world",
 "id": "roswell-1947",
 "l0": true,

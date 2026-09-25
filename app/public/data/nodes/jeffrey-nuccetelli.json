@@ -72,61 +72,73 @@
 ],
 "claims": [
 {
+"id": "c-e8ad81d814",
 "source": "CHRG-119hhrg61718 CONTENTS",
 "text": "Witness of record at the 9 September 2025 hearing: 'Mr. Jeffrey Nuccetelli, U.S. Air Force Veteran'.",
 "tier": 1
 },
 {
+"id": "c-70f64fef92",
 "source": "Jeffrey Nuccetelli, written testimony, House Oversight Task Force, 9 September 2025",
 "text": "On 14 October 2003 Boeing contractors at Vandenberg AFB reported 'a massive, glowing red square silently hovering over two missile defense sites.'",
 "tier": 2
 },
 {
+"id": "c-f473aae82f",
 "source": "Nuccetelli written testimony, 9 September 2025",
 "text": "'Official Air Force records documenting it are now held by AARO and the FBI.'",
 "tier": 2
 },
 {
+"id": "c-07950a178f",
 "source": "Nuccetelli written testimony, 9 September 2025",
 "text": "One witness 'was threatened and told to kept quiet about the incident.'",
 "tier": 2
 },
 {
+"id": "c-704b03a2e9",
 "source": "Nuccetelli, House Oversight hearing, 9 September 2025",
 "text": "'Transparency is the foundation of truth. Without it, witnesses like us are dismissed.'",
 "tier": 2
 },
 {
+"id": "c-986e9668cc",
 "source": "Jeffrey Nuccetelli, sworn testimony, House Oversight Task Force, 9 September 2025",
 "text": "'Each incident was witnessed by multiple personnel, documented, investigated and reported up the chain of command.'",
 "tier": 2
 },
 {
+"id": "c-d7e7d73460",
 "source": "DefenseScoop, 9 September 2025; Nuccetelli written testimony",
 "text": "Described possible UAP incursions near Vandenberg Air Force Base between 2003 and 2005 during National Reconnaissance Office launches.",
 "tier": 2
 },
 {
+"id": "c-3f47efebf2",
 "source": "Sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025; DefenseScoop coverage same day",
 "text": "Nuccetelli testified to alleged UAP incidents near Vandenberg Space Force Base in 2003-2005 involving large objects behaving anomalously.",
 "tier": 2
 },
 {
+"id": "c-e61e723fac",
 "source": "House Committee on Oversight and Government Reform hearing record, 9 September 2025",
 "text": "He appeared as a named witness at the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection.'",
 "tier": 1
 },
 {
+"id": "c-9227fd28a3",
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "Described multiple alleged UAP incursions at Vandenberg AFB in 2003-2005 during National Reconnaissance Office launches, objects 'like flying buildings' that 'pulsed and moved in strange ways.'",
 "tier": 2
 },
 {
+"id": "c-cb671da69a",
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "'Each incident was witnessed by multiple personnel, documented, investigated and reported up the chain.'",
 "tier": 2
 },
 {
+"id": "c-10f54f333d",
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf",
 "text": "Written testimony filed with the House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025.",
 "tier": 1
@@ -142,6 +154,7 @@
 "dateEnd": null,
 "dateStart": "2025-09-09",
 "direction": "out",
+"edgeId": "e-e399ff9ed0",
 "edgeLabel": "sworn witness",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -183,6 +196,7 @@
 "dateEnd": "2005",
 "dateStart": "2003",
 "direction": "out",
+"edgeId": "e-cb416a4308",
 "edgeLabel": "Nuccetelli served in security forces at Vandenberg 2003-2005",
 "id": "l-vandenberg",
 "l0": false,
@@ -209,6 +223,7 @@
 "dateEnd": "2025",
 "dateStart": "2003",
 "direction": "out",
+"edgeId": "e-b4ba0b2fe1",
 "edgeLabel": "Military police witness and report recipient at Vandenberg, 2003-2005",
 "id": "vandenberg-2003",
 "l0": false,

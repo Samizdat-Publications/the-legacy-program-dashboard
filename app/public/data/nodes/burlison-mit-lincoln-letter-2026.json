@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-92ffa7ba35",
 "source": "Rep. Eric Burlison on X, 15 May 2026, quoted by The Hill/NewsNation, 16 May 2026",
 "text": "'I sent a letter to MIT Lincoln Labs asking for a classified 1952 briefing video referenced as a flying saucer talk. Their attorneys wrote back fast. They'll comply within 30 days. Congressional letters carry weight. We're going to keep sending them.'",
 "tier": 2
 },
 {
+"id": "c-df816cb2bc",
 "source": "The Hill/NewsNation, 29 June 2026",
 "text": "At the 25 June 2026 Disclosure Forum, Burlison announced that MIT Lincoln Laboratory had agreed to make the 1952 material available; Jordan Flowers described it as a reel-to-reel audio tape about the Washington, D.C. sightings and said Lincoln Lab's lawyers confirm it exists.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-e40bf2c59d",
 "edgeLabel": "Author of the May 2026 demand for the 1952 'flying saucer talk' recording",
 "id": "eric-burlison",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-f4e7280b62",
 "edgeLabel": "Extracted an acknowledgment of existence and an agreement to produce from an FFRDC",
 "id": "mit-lincoln-laboratory",
 "l0": false,

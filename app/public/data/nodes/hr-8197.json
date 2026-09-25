@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-3ec282cfc2",
 "source": "H.R. 8197, 119th Congress; Newsweek 8 April 2026; Political Saucer analysis of the bill text — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "H.R. 8197 was introduced by Rep. Tim Burchett on 6 April 2026 and would abolish AARO, bar any successor entity, and redistribute its functions to the military departments; it was referred to HASC and HPSCI.",
 "tier": 2
 },
 {
+"id": "c-c57b3d6eaf",
 "source": "Sentinel News, 'The AARO Saga'; contemporaneous reporting",
 "text": "Rep. Luna recommended AARO's complete defunding to the DOGE subcommittee in March 2026.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-2d1a1241c6",
 "edgeLabel": "would abolish AARO outright and bar any successor entity",
 "id": "aaro",
 "l0": true,
@@ -46,6 +49,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-36b97f517a",
 "edgeLabel": "recommended AARO's complete defunding to the DOGE subcommittee in March 2026, weeks before the bill",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -67,6 +71,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-4e180b7f13",
 "edgeLabel": "introduced the bill to abolish AARO, 6 April 2026",
 "id": "tim-burchett",
 "l0": false,

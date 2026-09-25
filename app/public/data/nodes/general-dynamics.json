@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-65a7c76c8f",
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Rep. Mace proposed General Dynamics as the contractor to which undersea-propulsion material would be routed; Elizondo replied 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-207fe30640",
 "edgeLabel": "Alleged domain-partitioned allocation of material across primes by technical expertise",
 "id": "lockheed-martin",
 "l0": true,
@@ -41,6 +43,7 @@
 "dateEnd": "2000-12",
 "dateStart": "2000-12",
 "direction": "in",
+"edgeId": "e-e5eb570997",
 "edgeLabel": "Named in his own self-stated client list, 2000",
 "id": "mark-mccandlish",
 "l0": false,
@@ -62,6 +65,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-790a739625",
 "edgeLabel": "Names Convair of San Diego, then a division of this node, among the firms interested in gravity",
 "id": "talbert-gravity-series-1955",
 "l0": true,

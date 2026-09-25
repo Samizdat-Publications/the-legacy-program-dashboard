@@ -8,26 +8,31 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-1df667b350",
 "source": "CIA-RDP80M01009A000500610124-1, letter of 18 January 1958, CIA reading room, declassified 14 August 2013, https://archive.org/details/cia-readingroom-document-cia-rdp80m01009a000500610124-1",
 "text": "DCI Allen W. Dulles wrote to him on 18 January 1958 as 'Chief of Research and Development, Department of the Army': 'Congratulations on your appointment as Chief of the Army Research and Development program.'",
 "tier": 1
 },
 {
+"id": "c-69baecfb28",
 "source": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone, 24 February 1962, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9",
 "text": "He signed his letter of 24 February 1962 to DCI John A. McCone as 'ARTHUR G. TRUDEAU / Lieutenant General, GS / Chief of Research and Development', inviting the Director to a symposium on 'The U. S. Army's Limited-War Mission and Social Science Research' hosted by the Special Operations Research Office of The American University on 26 to 28 March 1962.",
 "tier": 1
 },
 {
+"id": "c-f889805def",
 "source": "CIA-RDP80B01676R003000130017-9, McCone to Trudeau, 12 March 1962, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9",
 "text": "McCone's reply of 12 March 1962, reference ER 62-1185/a, is addressed 'Lieut. General Arthur G. Trudeau, Chief of Research and Development, Department of the Army' and declines, designating a representative whose name is withheld from the release.",
 "tier": 1
 },
 {
+"id": "c-c1611be2e0",
 "source": "DA Form 66, Officer's Qualification Record, Philip J. Corso, already carried on this board at philip-corso",
 "text": "Corso's own DA Form 66 records 'Chief Foreign Technology Div, OCRD USA (8556) Wash DC' effective 18 April 1962, a period falling entirely inside Trudeau's documented tenure as Chief of Research and Development.",
 "tier": 1
 },
 {
+"id": "c-764e2150ba",
 "source": "Inference from CIA-RDP80B01676R003000130017-9 read against the FBI quotation already on the board, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9",
 "text": "The 'Gen. Arthur S. Trudeau' named in the 1955 FBI material quoted in philip-corso.narrative is most probably this officer. Reasoning: the two primary letters opened here give the middle initial G over his own signature, and no second Army general officer of that surname was found. The discrepancy is unresolved and no record opened here reconciles it.",
 "tier": 3
@@ -43,6 +48,7 @@
 "dateEnd": "1962",
 "dateStart": "1958",
 "direction": "out",
+"edgeId": "e-a775297a08",
 "edgeLabel": "Two Directors of Central Intelligence corresponded with him in office",
 "id": "cia",
 "l0": true,
@@ -69,6 +75,7 @@
 "dateEnd": "1962",
 "dateStart": "1958",
 "direction": "out",
+"edgeId": "e-819744685d",
 "edgeLabel": "Addressed at the Department of the Army, Washington 25, D. C.",
 "id": "l-dc",
 "l0": false,
@@ -95,6 +102,7 @@
 "dateEnd": "1962-07-18",
 "dateStart": "1962-04-18",
 "direction": "out",
+"edgeId": "e-72e51bc619",
 "edgeLabel": "Corso's Foreign Technology Division chieftaincy falls inside Trudeau's tenure",
 "id": "philip-corso",
 "l0": false,

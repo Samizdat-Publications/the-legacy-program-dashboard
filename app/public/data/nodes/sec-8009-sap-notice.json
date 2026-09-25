@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-c19ad93b66",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "Section 8009, DoD Appropriations Act 2026: 'Funds appropriated by this Act may not be used to initiate, or materially modify the scope of, a special access program without prior notification 30 calendar days in advance to the congressional defense committees.'",
 "tier": 1
 },
 {
+"id": "c-a2973c63d3",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "Section 8009 binds only funds appropriated by that Act, so it does not reach an activity financed through contractor independent research and development reimbursement, through unvouchered CIA funds under 50 U.S.C. 3510, or through prior-year balances. Reasoning: the prohibition is drafted as a limitation on the use of that Act's appropriations, not as a general prohibition on unnotified SAPs.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2026-02-03",
 "direction": "out",
+"edgeId": "e-494c7e9c5b",
 "edgeLabel": "The appropriations tripwire on initiating or modifying a special access programme",
 "id": "dod-sapco",
 "l0": true,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "in",
+"edgeId": "e-c103bc5c27",
 "edgeLabel": "IR&D reimbursement is not an appropriation and does not trigger SAP notification",
 "id": "irad-mechanism",
 "l0": false,
@@ -67,6 +71,7 @@
 "dateEnd": null,
 "dateStart": "1949-06-20",
 "direction": "in",
+"edgeId": "e-76f1f79b21",
 "edgeLabel": "An activity funded from unvouchered CIA money never touches the appropriations SAP tripwire",
 "id": "usc-50-3510",
 "l0": false,

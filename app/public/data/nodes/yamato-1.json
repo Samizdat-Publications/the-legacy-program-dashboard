@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-39340618f9",
 "source": "OSTI bibliographic record and abstract for Sasakawa, Takezawa, Sugawara and Kyotani, 'The superconducting MHD-propelled ship YAMATO-1', Proceedings of the 4th International Conference and Exhibition: World Congress on Superconductivity, volume 1, Orlando FL, 27 June to 1 July 1994, https://www.osti.gov/biblio/135352 , opened 2026-09-19",
 "text": "THE CONTROL CASE, in the principals' own words: 'In 1985 the Ship & Ocean Foundation (SOF) created a committee under the chairmanship of Mr. Yohei Sasakawa, Former President of the Ship & Ocean Foundation, and began researches into superconducting magnetohydrodynamic (MHD) ship propulsion. In 1989 SOF set to construction of a experimental ship on the basis of theoretical and experimental researches pursued until then. The experimental ship named YAMATO-1 became the world's first superconducting MHD-propelled ship on her trial runs in June 1992. This paper describes the outline of the YAMATO-1 and sea trial test results.'",
 "tier": 1
 },
 {
+"id": "c-4ec6656af8",
 "source": "OSTI bibliographic record and abstract for Sasakawa, Takezawa, Sugawara and Kyotani, 'The superconducting MHD-propelled ship YAMATO-1', Proceedings of the 4th International Conference and Exhibition: World Congress on Superconductivity, volume 1, Orlando FL, 27 June to 1 July 1994, https://www.osti.gov/biblio/135352 , opened 2026-09-19",
 "text": "The record is a conference paper by the project's own principals: Sasakawa, Takezawa, Sugawara and Kyotani, in the Proceedings of the 4th International Conference and Exhibition: World Congress on Superconductivity, volume 1, from the conference held in Orlando, Florida from 27 June to 1 July 1994, with the OSTI record dated April 1995.",
 "tier": 1
 },
 {
+"id": "c-227b7ce895",
 "source": "Reasoning over the OSTI abstract for the YAMATO-1 paper against the opened text of US 3,322,374, https://www.osti.gov/biblio/135352 , opened 2026-09-19",
 "text": "Stated inference, and it is short. The propulsion mechanism US 3,322,374 claims is magnetohydrodynamic, and magnetohydrodynamic propulsion was demonstrated at sea by a civil foundation in June 1992, in public, under a named chairman, with the results reported at an international conference. THE INFERENCE IS THAT THE MECHANISM DOES NOT REQUIRE A SECRET TO EXIST and nothing more. It is not an argument about what was or was not recovered, and no edge from this node asserts one.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2010-11-21",
 "dateStart": "1992-06",
 "direction": "out",
+"edgeId": "e-93873f5cbd",
 "edgeLabel": "The built vessel and the government survey describe the same physics",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "l0": true,
@@ -56,6 +60,7 @@
 "dateEnd": "1992-06",
 "dateStart": "1992-06",
 "direction": "out",
+"edgeId": "e-08b7e5fa8d",
 "edgeLabel": "The same mechanism, independently built and taken to sea in June 1992",
 "id": "king-patent-mhd",
 "l0": false,

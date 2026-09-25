@@ -41,16 +41,19 @@
 ],
 "claims": [
 {
+"id": "c-dc2f52816b",
 "source": "CHRG-118hhrg57440, 13 November 2024, referencing Christopher Sharp's reporting",
 "text": "Sharp reported a material transfer between Lockheed Martin and Bigelow Aerospace that was blocked by CIA; Rep. Burlison read the reporting into the 13 November 2024 hearing and Elizondo confirmed 'it was blocked.'",
 "tier": 2
 },
 {
+"id": "c-6338813f9b",
 "source": "Liberation Times, 13 January 2026",
 "text": "Sharp reported that an exotic vehicle of unknown origin has been stored for decades at NAS Patuxent River, and that contingency plans may exist to relocate it if the location were publicly identified.",
 "tier": 2
 },
 {
+"id": "c-1bc557220d",
 "source": "Liberation Times, 16 June 2026",
 "text": "An ODNI official told Sharp that ODNI, with the FBI and the Department of War, established a UAP Governance Board that first met on 15 June 2026.",
 "tier": 2
@@ -66,6 +69,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-9568535650",
 "edgeLabel": "Sharp's reporting of the Lockheed-Bigelow transfer was read into a congressional hearing and confirmed",
 "id": "lockheed-martin",
 "l0": true,

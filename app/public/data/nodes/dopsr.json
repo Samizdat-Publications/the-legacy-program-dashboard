@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-c98ac5e49b",
 "source": "Joseph Gradisher, U.S. Navy, via The Black Vault",
 "text": "The Navy stated in September 2019 that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
 "tier": 1
 },
 {
+"id": "c-3edb01eb4b",
 "source": "Luis Elizondo, sworn testimony, 13 November 2024",
 "text": "Reviewed Elizondo's Imminent for approximately one year prior to its August 2024 publication.",
 "tier": 2
 },
 {
+"id": "c-467123052d",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024",
 "text": "AARO's Historical Record Report Volume 1 carries the prepublication review number DOPSR-2024-0263.",
 "tier": 1
 },
 {
+"id": "c-ee195ea6e0",
 "source": "DoD FOIA 23-F-0946 release; The Debrief, 5 June 2023",
 "text": "Cleared Grusch's two submissions for open publication on 4 April and 6 April 2023 (FOIA case 23-F-0946).",
 "tier": 1
 },
 {
+"id": "c-bd70eefc48",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Grusch under oath: DOPSR review is a security review only - 'These are my own personal views and opinions, not the Department's.'",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": "2019",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-327f584285",
 "edgeLabel": "Prepublication review chain for the video files",
 "id": "dd-form-1910-2017",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-33aa14cb00",
 "edgeLabel": "Cleared Grusch's statements for open publication, 4 and 6 April 2023",
 "id": "grusch-dopsr-clearance",
 "l0": false,
@@ -87,6 +94,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-d0383fe3f4",
 "edgeLabel": "Manuscript reviewed and cleared by the Department's prepublication office",
 "id": "imminent-book",
 "l0": false,

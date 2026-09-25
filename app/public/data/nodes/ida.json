@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-ad0409fbae",
 "source": "NSF NCSES Master Government List of FFRDCs, FY2026",
 "text": "IDA operates three FFRDCs: the Systems and Analyses Center (DoD, USD A&S; renamed 11 June 2013), the Center for Communications and Computing (DoD, NSA/CSS), and the Science and Technology Policy Institute (NSF).",
 "tier": 1
 },
 {
+"id": "c-ca3e7abc39",
 "source": "IDA leadership page",
 "text": "IDA's president is Adm. Charles A. Richard, USN (Ret.), who commanded US Strategic Command from 2019 to 2022; its leadership includes former NSA Technical Director Christopher Green and Maj. Gen. James R. Marrs, USAF (Ret.), former National Intelligence Manager for Aviation.",
 "tier": 1
 },
 {
+"id": "c-49a837196c",
 "source": "USAspending.gov federal award records",
 "text": "IDA FFRDC work is awarded sole-source; USAspending records include an award described as 'award of a contract on a sole source basis to the Institute for Defense Analyses (IDA), a federally funded research and development center'.",
 "tier": 1
 },
 {
+"id": "c-92ae54ea4d",
 "source": "Published JASON histories and archival correspondence records covering IDA 1961-1973",
 "text": "IDA administered the JASON advisory group from 1960 until 1973.",
 "tier": 2
 },
 {
+"id": "c-3bbf7cbfad",
 "source": "NewsNation, 15 May 2026",
 "text": "IDA is named among the FFRDCs implicated in public reporting on the congressional UAP contractor inquiry.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-50fd21e56f",
 "edgeLabel": "President of IDA after commanding US Strategic Command",
 "id": "charles-a-richard",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": "1956",
 "direction": "out",
+"edgeId": "e-93bc8e9953",
 "edgeLabel": "Operates the only FFRDC sponsored by the National Security Agency",
 "id": "d-ffrdc",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": "1962",
 "dateStart": "1962",
 "direction": "in",
+"edgeId": "e-cd0fae33a2",
 "edgeLabel": "Assigned to IDA during the Cuban Missile Crisis, on a family account",
 "id": "harald-b-malmgren",
 "l0": false,
@@ -103,6 +111,7 @@
 "dateEnd": "1973",
 "dateStart": "1960",
 "direction": "out",
+"edgeId": "e-3ceeeb6e3a",
 "edgeLabel": "IDA administered JASON from 1960 to 1973",
 "id": "jason-advisory-group",
 "l0": false,

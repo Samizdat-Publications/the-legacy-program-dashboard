@@ -5,31 +5,37 @@
 "band": "reverse-engineering",
 "claims": [
 {
+"id": "c-925dda206a",
 "source": "CRADA document released by U.S. Army CCDC, reported by Joseph Trevithick and Brett Tingley, The War Zone, 18 October 2019",
 "text": "Signed 10 October 2019 by Jeffery Langhout (Director, Army GVSC) and Kari DeLonge (TTSA), with Bean Soave and Dr. Joseph Cannon as government principal investigators and Luis Elizondo as TTSA principal investigator; term to 30 September 2023.",
 "tier": 1
 },
 {
+"id": "c-8ccc9f233c",
 "source": "CRADA document as released, The War Zone, 18 October 2019",
 "text": "Research areas specified: inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications, beamed energy propulsion; applications include Active Camouflage and Directed Photon Projection. TTSA's participation valued at an estimated $1 million in in-kind contributions.",
 "tier": 1
 },
 {
+"id": "c-4ded6c289b",
 "source": "CCDC FOIA response to The Black Vault",
 "text": "On 21 February 2020 CCDC FOIA Officer Joy L. Linton denied in full twenty-nine emails totalling one hundred pages of TTSA-Army correspondence under FOIA exemptions (b)(4) and (b)(5).",
 "tier": 1
 },
 {
+"id": "c-e50b8bbcfc",
 "source": "The Black Vault, 12 March 2020",
 "text": "Army GVSP public affairs officer Doug Halleaux said that because 'the Army's interest is in the potential for novel materials and exploring the edges of materials science, any speculation as to their origin is (pardon the pun) immaterial.'",
 "tier": 2
 },
 {
+"id": "c-5ad7f70ff2",
 "source": "SEC EDGAR, TTSA Form 1-A Exhibit 6.28, filed 3 August 2020",
 "text": "CRADA 19-15 'Novel & Emerging Technology Exploitation (NETE)' between To The Stars Academy of Arts and Science, Inc. and the US Army CCDC Ground Vehicle Systems Center, with named government principal investigators and TACOM IP counsel, was filed as SEC Exhibit 6.28.",
 "tier": 1
 },
 {
+"id": "c-4711e15514",
 "source": "AARO Historical Record Report Volume I, March 2024",
 "text": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples.'",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": "2024",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-a770d67d68",
 "edgeLabel": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
 "id": "aaro-metallic-specimen-analysis",
 "l0": false,
@@ -76,6 +83,7 @@
 "dateEnd": "2023",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-f551689f7b",
 "edgeLabel": "ADAM is the predicate for the Army agreement",
 "id": "adam-research-project",
 "l0": true,
@@ -97,6 +105,7 @@
 "dateEnd": "2023",
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-6f2a363349",
 "edgeLabel": "Army counterparty; Detroit Arsenal ground vehicle laboratory",
 "id": "ccdc-gvsc",
 "l0": false,
@@ -118,6 +127,7 @@
 "dateEnd": null,
 "dateStart": "2019-10-10",
 "direction": "out",
+"edgeId": "e-592bbc265c",
 "edgeLabel": "a non-FAR instrument binding the Army to a private claimant of recovered material",
 "id": "d-contracting",
 "l0": false,
@@ -144,6 +154,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-54788b2efd",
 "edgeLabel": "Signed for the United States Army, 10 October 2019",
 "id": "jeffery-langhout",
 "l0": false,
@@ -165,6 +176,7 @@
 "dateEnd": "2023",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-d8e5456391",
 "edgeLabel": "Government principal investigator",
 "id": "joseph-cannon",
 "l0": false,
@@ -186,6 +198,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-168e63c2b9",
 "edgeLabel": "Signed for To The Stars Academy, 10 October 2019",
 "id": "kari-delonge",
 "l0": false,
@@ -207,6 +220,7 @@
 "dateEnd": "2019-10-10",
 "dateStart": "2019-10-10",
 "direction": "out",
+"edgeId": "e-751c8f94ee",
 "edgeLabel": "The CRADA was executed at Detroit Arsenal",
 "id": "l-detroit-arsenal",
 "l0": false,
@@ -233,6 +247,7 @@
 "dateEnd": "2020",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-b6aa2b00c2",
 "edgeLabel": "Named as TTSA's principal investigator on the Army agreement",
 "id": "luis-elizondo",
 "l0": false,
@@ -254,6 +269,7 @@
 "dateEnd": "2020",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-317633eccd",
 "edgeLabel": "TTSA executed a federal exploitation agreement over material it claimed was of unknown origin",
 "id": "ttsa",
 "l0": true,
@@ -280,6 +296,7 @@
 "dateEnd": "2023",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-092d740a3c",
 "edgeLabel": "Executed CRADA with the U.S. Army, 10 October 2019, term to 30 September 2023",
 "id": "ttsa",
 "l0": true,

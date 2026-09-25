@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-5c8bccc803",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
 "text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
 "tier": 1
 },
 {
+"id": "c-b2cdd2d783",
 "source": "Honolulu Civil Beat, 13 June 2021",
 "text": "The funds were routed through the classified black budget with Inouye's agreement, bypassing Senate floor debate about the allocation.",
 "tier": 2
 },
 {
+"id": "c-b4fba9f3ab",
 "source": "Inference from the appropriations mechanism and the January 2018 DIA letter",
 "text": "Because the appropriation was never matched by an authorization, the Armed Services Committees had no jurisdictional hook to review the program, which is why DIA had to introduce it to them by letter in January 2018 — six years after termination.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2010",
 "dateStart": "2007",
 "direction": "in",
+"edgeId": "e-bf533eb81a",
 "edgeLabel": "Appropriations chairman who provided the vehicle",
 "id": "daniel-inouye",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2012",
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-f3730aceb2",
 "edgeLabel": "$22M appropriated to DIA",
 "id": "dia",
 "l0": true,
@@ -72,6 +77,7 @@
 "dateEnd": "2018",
 "dateStart": "2018",
 "direction": "in",
+"edgeId": "e-152e6fcbe7",
 "edgeLabel": "receipt for the authorization gap",
 "id": "dia-aatip-letter-2018",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": "2010",
 "dateStart": "2007",
 "direction": "in",
+"edgeId": "e-1e431e0251",
 "edgeLabel": "directed the $22M appropriation",
 "id": "harry-reid",
 "l0": false,
@@ -114,6 +121,7 @@
 "dateEnd": "2008",
 "dateStart": "2007",
 "direction": "in",
+"edgeId": "e-b370e289c1",
 "edgeLabel": "provided bipartisan cover for the earmark",
 "id": "ted-stevens",
 "l0": false,

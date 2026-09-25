@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-f65ca7b82f",
 "source": "House Oversight Committee hearing page, 30 June 2026",
 "text": "The Task Force on the Declassification of Federal Secrets held 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project' on 30 June 2026 at 10:00 am in Rayburn 2154, with witnesses Stephen Kinzer, Tom O'Neill and minority witness Dr. Elizabeth Ginexi.",
 "tier": 1
 },
 {
+"id": "c-d52c525932",
 "source": "Inference from the House Oversight Committee hearing index",
 "text": "No congressional hearing devoted to UAP was held between 9 September 2025 and 12 August 2026, a period covering the presidential release directive, five PURSUE tranches, the FY2025 AARO annual report, the NDA waiver directive and the Burlison amendment. Reasoning: review of the House Oversight Committee's published hearing index through 22 July 2026.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "2026-08-12",
 "dateStart": "2025-09-09",
 "direction": "in",
+"edgeId": "e-5a9f3a9fc1",
 "edgeLabel": "No UAP hearing was held in the eleven months between them",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "2026-06-30",
 "direction": "out",
+"edgeId": "e-6f72b68362",
 "edgeLabel": "The 2026 House Oversight task force hearing takes MKULTRA as its subject",
 "id": "mkultra",
 "l0": true,
@@ -67,6 +71,7 @@
 "dateEnd": "2026-06-30",
 "dateStart": "2026-06-30",
 "direction": "out",
+"edgeId": "e-b2a0cf8710",
 "edgeLabel": "The Task Force's 2026 hearing addressed MKULTRA, not UAP",
 "id": "task-force-declassification-federal-secrets",
 "l0": true,

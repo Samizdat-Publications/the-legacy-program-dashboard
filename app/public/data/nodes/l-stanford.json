@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-10e37e7125",
 "source": "Wikipedia, SRI International — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "SRI International was founded by Stanford University trustees in 1946 and formally separated from the university in 1970 following protest over its defence contracting.",
 "tier": 2
 },
 {
+"id": "c-700f4f876b",
 "source": "Inference from the SRI founding record and Nolan's documented affiliations",
 "text": "Stanford is the present academic node of the subject through Garry Nolan's laboratory and the Sol Foundation, and it is the same institution whose trustees created the contractor that hosted the CIA remote viewing programme. Reasoning: institutional continuity noted, not causal claim.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-a411033b0f",
 "edgeLabel": "The Sol Foundation operates from the Stanford orbit",
 "id": "sol-foundation",
 "l0": true,

@@ -2175,6 +2175,83 @@ def _no_rejects(b):
             for r in rej][:40]
 
 
+# ---------------------------------------------------------------------------
+# redesign phase 4: stable ids, and the aliases that entity resolution added
+# ---------------------------------------------------------------------------
+
+from merge import claim_id as _claim_id, edge_id as _edge_id  # noqa: E402
+
+APP_DATA = os.path.join(ROOT, "app", "public", "data")
+_CLAIM_ID = re.compile(r"^c-[0-9a-f]{10}$")
+_EDGE_ID = re.compile(r"^e-[0-9a-f]{10}$")
+_APP_IDS_OVERRIDE = None
+
+
+def _app_id_rows():
+    """(claims.json rows, edges.json rows) as the app ships them, or None each."""
+    if _APP_IDS_OVERRIDE is not None:
+        return _APP_IDS_OVERRIDE
+    out = []
+    for f in ("claims.json", "edges.json"):
+        p = os.path.join(APP_DATA, f)
+        if os.path.exists(p):
+            with open(p, encoding="utf-8") as fh:
+                out.append(json.load(fh))
+        else:
+            out.append(None)
+    return tuple(out)
+
+
+@check("every claim and edge carries a stable id, unique and derived from its content")
+def _stable_ids(b):
+    """Phase 4 gave every claim an id of c- + sha1(node | text) and every edge one of
+    e- + sha1(sorted ends | type | label), so a topic or a note can point at one
+    claim for good. An id is only worth anything if it is present everywhere, means
+    one thing, and is still the id of what it sits on. So this asserts, on the board
+    and on the app's claims.json and edges.json: every claim and edge has one; it is
+    well-formed; no two records share one; it re-derives from the record's content
+    (a stale id, left behind when a text was edited, points at the wrong thing while
+    looking right); and the app ships exactly the board's ids."""
+    bad, seen = [], {}
+    board_claims, board_edges = set(), set()
+
+    def take(i, what, pat, want):
+        if not i:
+            bad.append(f"{what} has no id")
+            return
+        if not pat.match(i):
+            bad.append(f"{what}: id {i!r} is not well-formed")
+        if want is not None and i != want:
+            bad.append(f"{what}: id {i!r} does not re-derive from its content ({want})")
+        if i in seen and seen[i] != what:
+            bad.append(f"{i} is shared by {seen[i]} and {what}")
+        seen.setdefault(i, what)
+
+    for n in b["people"] + b["entities"]:
+        for k, c in enumerate(n.get("claims") or []):
+            what = f"claim {k} on {n['id']}"
+            take(c.get("id"), what, _CLAIM_ID, _claim_id(n["id"], c.get("text")))
+            board_claims.add(c.get("id"))
+    for e in b["edges"]:
+        what = f"edge {e['a']}->{e['b']} ({e['type']})"
+        take(e.get("id"), what, _EDGE_ID, _edge_id(e["a"], e["b"], e["type"], e.get("label") or ""))
+        board_edges.add(e.get("id"))
+    claims_rows, edge_rows = _app_id_rows()
+    for name, rows, want in (("claims.json", claims_rows, board_claims),
+                             ("edges.json", edge_rows, board_edges)):
+        if rows is None:
+            bad.append(f"app/public/data/{name} is missing: run tools/build.py")
+            continue
+        got = [r.get("id") for r in rows]
+        if None in got:
+            bad.append(f"app/public/data/{name}: {got.count(None)} row(s) ship no id")
+        got = set(g for g in got if g)
+        if got != want:
+            bad.append(f"app/public/data/{name} ships {len(got - want)} id(s) the board does "
+                       f"not have and lacks {len(want - got)} it does: rebuild")
+    return bad[:40]
+
+
 @check("counts match the golden manifest")
 def _golden(b):
     now = measure(b)
@@ -2374,7 +2451,33 @@ def self_test():
         global _UNPLACED_OVERRIDE
         _UNPLACED_OVERRIDE = []
 
+    # stable ids: the plan's poison (two claims forced to one id), an edge that lost
+    # its id, a malformed id, and an app file whose row ships none
+    def _two_claims_one_id(rb):
+        for n in rb["entities"]:
+            if len(n.get("claims") or []) >= 2:
+                n["claims"][1]["id"] = n["claims"][0]["id"]
+                return
+
+    def _edge_loses_id(rb):
+        rb["edges"][0].pop("id", None)
+
+    def _malformed_id(rb):
+        for n in rb["people"]:
+            if n.get("claims"):
+                n["claims"][0]["id"] = "c-NOTHEX"
+                return
+
+    def _app_row_without_id(rb):
+        global _APP_IDS_OVERRIDE
+        claims_rows, edge_rows = _app_id_rows()
+        claims_rows = copy.deepcopy(claims_rows)
+        claims_rows[0].pop("id", None)
+        _APP_IDS_OVERRIDE = (claims_rows, edge_rows)
+
     poison_realboard = {
+        "every claim and edge carries a stable id, unique and derived from its content":
+            [_two_claims_one_id, _edge_loses_id, _malformed_id, _app_row_without_id],
         "every authored claim reaches the board or is listed":
             [_drop_carried_claim, _unlist_the_domain_collapse],
         "every authored conflict, unverified note and open question on an entity reaches the board":
@@ -2751,12 +2854,13 @@ def self_test():
             caught = []
             for mutate in poison_realboard[name]:
                 pb = copy.deepcopy(_real_board)
-                global _UNPLACED_OVERRIDE
+                global _UNPLACED_OVERRIDE, _APP_IDS_OVERRIDE
                 try:
                     mutate(pb)
                     got = fn(pb)
                 finally:
                     _UNPLACED_OVERRIDE = None     # a poison may set a report override
+                    _APP_IDS_OVERRIDE = None
                 if not got:
                     caught = []
                     print(f"  FAIL  {name} accepted its poison {mutate.__name__}")

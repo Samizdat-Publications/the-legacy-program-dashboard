@@ -5,51 +5,61 @@
 "band": "funding",
 "claims": [
 {
+"id": "c-fbf52f7f43",
 "source": "PLAW-118publ31 sec. 7343(b)",
 "text": "Enacted text, PL 118-31 sec. 7343(b), 137 Stat. 1064: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.'",
 "tier": 1
 },
 {
+"id": "c-db7e0327fc",
 "source": "PLAW-118publ31 sec. 7343(c)",
 "text": "Sec. 7343(c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available to the appropriate congressional committees and leadership.'",
 "tier": 1
 },
 {
+"id": "c-6bb53b1d8e",
 "source": "Comparison of BILLS-118s2226es Div. M sec. 1102 with PLAW-118publ31 sec. 7343",
 "text": "Sec. 7343 is the truncated survivor of sec. 1102 of the Senate-passed IAA FY2024 division of S. 2226; the contractor turn-in obligation, the non-earth-origin materials list, and the liability shield were removed.",
 "tier": 1
 },
 {
+"id": "c-944328b669",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "Pub. L. 118-31, div. G, sec. 7343(b), verbatim: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.' Text at 137 Stat. 1063-1064.",
 "tier": 1
 },
 {
+"id": "c-8e2a310026",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' as SSCI, SASC and Senate Appropriations, and HPSCI, HASC and House Appropriations; (a)(2) adds the four congressional leaders. Sec. 7343(c) applies the same IR&D indirect-cost bar on the intelligence side.",
 "tier": 1
 },
 {
+"id": "c-8008b1761c",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "Sections 1687 and 7343 are deliberately mirrored across the DoD/IC seam identified in 50 U.S.C. 3348(g)(2)(B) and ICD 906 C.3 -- one addressed to the Secretary of Defense and binding this Act's funds, the other to the DNI and binding this division's funds. Together they attempt to cover both sides of the jurisdictional gap that the SAP reporting statutes leave open. Neither reaches money appropriated in other Acts or in prior years. Reasoning stated.",
 "tier": 3
 },
 {
+"id": "c-827c2ea4ab",
 "source": "Public Law 118-31, div. G, sec. 7343(b), 137 Stat. 1064",
 "text": "FY2024 IAA sec. 7343(b): 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership.'",
 "tier": 1
 },
 {
+"id": "c-61b1f62520",
 "source": "Public Law 118-31, div. G, sec. 7343(a)(1)",
 "text": "FY2024 IAA sec. 7343(a)(1) defines 'appropriate committees of Congress' as SSCI, SASC and Senate Appropriations, and HPSCI, HASC and House Appropriations.",
 "tier": 1
 },
 {
+"id": "c-65796a67b6",
 "source": "Public Law 118-31, div. G, sec. 7343(c)",
 "text": "FY2024 IAA sec. 7343(c) prohibits independent research and development funding relating to UAP from being allowable as indirect expenses unless the material and information is made available to the appropriate congressional committees and leadership.",
 "tier": 1
 },
 {
+"id": "c-9804dde71a",
 "source": "Public Law 118-31 secs. 1687 and 7343, read against 10 U.S.C. 119(e)",
 "text": "Sections 1687 and 7343 together create a subject-matter exception that overrides the ordinary compartment logic: for UAP specifically, disclosure to a named list of committees and leaders is a condition of spending, regardless of whether the program is acknowledged, unacknowledged or waived. Reasoning: neither section contains a saving clause for programs whose reporting has been waived under 10 U.S.C. 119(e).",
 "tier": 3
@@ -65,6 +75,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d217ceae91",
 "edgeLabel": "named as an appropriate committee",
 "id": "house-armed-services",
 "l0": false,
@@ -86,6 +97,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-8affacd3b6",
 "edgeLabel": "controlled-access counterpart",
 "id": "icd-906",
 "l0": false,
@@ -107,6 +119,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-4839a73518",
 "edgeLabel": "Twin provisions covering the defense and intelligence sides of the same gap",
 "id": "ndaa-fy2024-1687",
 "l0": true,
@@ -128,6 +141,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-ee1b340faf",
 "edgeLabel": "Imposes the same funding condition on the Director of National Intelligence",
 "id": "odni",
 "l0": true,
@@ -149,6 +163,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-833d67ee1b",
 "edgeLabel": "named as an appropriate committee",
 "id": "senate-armed-services",
 "l0": true,
@@ -170,6 +185,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-7a003366c7",
 "edgeLabel": "the IC side of the same seam",
 "id": "usc-50-3348",
 "l0": false,

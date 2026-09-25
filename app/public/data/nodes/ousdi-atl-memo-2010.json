@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-7af2f880bd",
 "source": "DIA memo U-10-2552CE-IM-ATL, circa December 2010",
 "text": "DIA reported AATIP reports 'were of limited value to DIA' but 'could be of merit to other organizations' and that 'the project could be transitioned to another agency or component better suited'.",
 "tier": 1
 },
 {
+"id": "c-5f9a42cc0a",
 "source": "DIA memo U-10-2552CE-IM-ATL",
 "text": "The memorandum is addressed to the Under Secretary of Defense for Acquisition, Technology and Logistics and uses only the AATIP designation.",
 "tier": 1
 },
 {
+"id": "c-fb4881957e",
 "source": "DIA FOIA-00255-2022 release",
 "text": "A four-page version was released under FOIA-00255-2022 bearing the date 1 December 2010.",
 "tier": 1
 },
 {
+"id": "c-12f323a3a9",
 "source": "Inference from the memo read against DoD's June 2019 statements",
 "text": "A DIA proposal to transition AATIP out of DIA in December 2010 is consistent with, and materially corroborates, Elizondo's account that the effort continued in OUSD(I) after DIA's contracted work wound down — while DoD's denial addresses only whether he was 'assigned' to it.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2010",
 "dateStart": "2010",
 "direction": "in",
+"edgeId": "e-b20bd03bc8",
 "edgeLabel": "proposes transitioning AATIP out of DIA",
 "id": "dia",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": "2011",
 "dateStart": "2010",
 "direction": "out",
+"edgeId": "e-e3cc49bc6d",
 "edgeLabel": "documents the handoff Elizondo describes",
 "id": "luis-elizondo",
 "l0": false,

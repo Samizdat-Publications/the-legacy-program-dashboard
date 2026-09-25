@@ -43,31 +43,37 @@
 ],
 "claims": [
 {
+"id": "c-ec4af65435",
 "source": "CHRG-118hhrg57440 CONTENTS",
 "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Michael Gold, Former NASA Associate Administrator of Space Policy and Partnerships, Member of NASA UAP Independent Study Team'.",
 "tier": 1
 },
 {
+"id": "c-0c553cf467",
 "source": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
 "text": "'the stigmatization of the UAP phenomena is so harmful. The stigma prevents scientific inquiry.'",
 "tier": 2
 },
 {
+"id": "c-037a723a61",
 "source": "Michael Gold, written testimony, 13 November 2024",
 "text": "Alex Dietrich 'was mocked by her colleagues' and her incident 'went years without any investigation.'",
 "tier": 2
 },
 {
+"id": "c-945d19967c",
 "source": "Michael Gold, written testimony, 13 November 2024",
 "text": "Recommends NASA work with the FAA to establish civilian pilot UAP reporting procedures and leverage the Aviation Safety Reporting System.",
 "tier": 2
 },
 {
+"id": "c-f0385bea12",
 "source": "House Oversight hearing page and Gold written testimony, 13 November 2024",
 "text": "Testified at the 13 November 2024 joint hearing as former NASA Associate Administrator of Space Policy and Partnerships and a member of the NASA UAP Independent Study Team; written testimony published by the committee.",
 "tier": 1
 },
 {
+"id": "c-08b43a4b81",
 "source": "GPO CHRG-118hhrg57440, 13 November 2024",
 "text": "Answered 'No, ma'am' when Rep. Boebert asked whether he was familiar with an alleged DoD program manipulating human genetics with non-human genetic material.",
 "tier": 1
@@ -83,6 +89,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-aaedf67eb7",
 "edgeLabel": "NASA UAP study participant testifying on stigma and data policy alongside AARO's remit",
 "id": "aaro",
 "l0": true,
@@ -109,6 +116,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-afdcf2d1b0",
 "edgeLabel": "Cited Dietrich by name to Congress as evidence of aviator stigma",
 "id": "alex-dietrich",
 "l0": false,
@@ -130,6 +138,7 @@
 "dateEnd": null,
 "dateStart": "2024-11-13",
 "direction": "out",
+"edgeId": "e-3bcfb851d4",
 "edgeLabel": "sworn witness",
 "id": "hearing-2024-11-13",
 "l0": true,
@@ -166,6 +175,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-033f7a4254",
 "edgeLabel": "Member of the study team",
 "id": "nasa-uap-ist",
 "l0": true,

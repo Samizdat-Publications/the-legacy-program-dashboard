@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-6be5048e6a",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
 "text": "Section 601 of the Implementing Recommendations of the 9/11 Commission Act of 2007 (P.L. 110-53) requires the DNI to disclose the aggregate amount appropriated for the NIP within 30 days of the end of each fiscal year.",
 "tier": 1
 },
 {
+"id": "c-f12ed03966",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
 "text": "Section 364 of the Intelligence Authorization Act for Fiscal Year 2010 required disclosure of the aggregate NIP budget request; the first such release was in February 2011.",
 "tier": 1
 },
 {
+"id": "c-bd8fd87ec2",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
 "text": "Published NIP appropriated toplines: FY2007 $43.5bn, FY2008 $47.5bn, FY2009 $49.8bn, FY2010 $53.1bn, FY2011 $54.6bn, FY2012 $53.9bn, FY2013 $49.0bn, FY2014 $50.5bn, FY2015 $50.3bn, FY2016 $53.0bn, FY2017 $54.6bn, FY2018 $59.4bn, FY2019 $60.2bn, FY2020 $62.7bn, FY2021 $60.8bn, FY2022 $65.7bn, FY2023 $71.7bn, FY2024 $76.5bn, FY2025 $73.3bn.",
 "tier": 1
 },
 {
+"id": "c-9f57a49adb",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
 "text": "The FY2026 NIP budget request was $81.9 billion.",
 "tier": 1
 },
 {
+"id": "c-7d90dc9f81",
 "source": "https://www.odni.gov/index.php/what-we-do/ic-budget",
 "text": "No breakdown of the NIP by agency, programme, discipline or appropriation account is published; the statutory disclosure is of the aggregate only.",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2025-12-18",
 "direction": "in",
+"edgeId": "e-32d352ce56",
 "edgeLabel": "The Schedule is the instrument by which the entire NIP is authorised",
 "id": "classified-schedule-authorizations",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-e732a234e7",
 "edgeLabel": "one of the two named channels through which US intelligence money is appropriated",
 "id": "d-funding",
 "l0": false,
@@ -92,6 +99,7 @@
 "dateEnd": "2024-09-30",
 "dateStart": "2023-12-22",
 "direction": "in",
+"edgeId": "e-94b325bd28",
 "edgeLabel": "Binds funds authorised by the intelligence division",
 "id": "iaa24-sec7343",
 "l0": false,
@@ -113,6 +121,7 @@
 "dateEnd": null,
 "dateStart": "2005",
 "direction": "out",
+"edgeId": "e-f4f28417a3",
 "edgeLabel": "The two-programme split that divides intelligence money between DNI and SECDEF control",
 "id": "mip",
 "l0": false,
@@ -134,6 +143,7 @@
 "dateEnd": null,
 "dateStart": "2013-08-29",
 "direction": "in",
+"edgeId": "e-1914d2363b",
 "edgeLabel": "The only public view of the interior of the National Intelligence Program",
 "id": "nip-fy2013-summary-disclosure",
 "l0": false,
@@ -155,6 +165,7 @@
 "dateEnd": null,
 "dateStart": "1949-06-20",
 "direction": "in",
+"edgeId": "e-4cbed8e7aa",
 "edgeLabel": "Unvouchered CIA spending sits inside the NIP and outside all expenditure law",
 "id": "usc-50-3510",
 "l0": false,

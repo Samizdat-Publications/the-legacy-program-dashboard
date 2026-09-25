@@ -5,71 +5,85 @@
 "band": "reverse-engineering",
 "claims": [
 {
+"id": "c-150161a042",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
 "text": "Contract modification P00001 (effective SEP 02 2009) to contract HHM402-08-C-0072 names the contractor as 'BIGELOW AEROSPACE ADVANCED SPACE STUDIES, LLC', address '1E199 W BROOKS AVE, NORTH LAS VEGAS NV 890323671' (OCR-degraded; street number reads as 1899/1E199 W Brooks Ave), with DUNS shown as 37/0377613 (OCR-degraded) and CAGE code 54JU7 (OCR-degraded). Original contract dated SEP 22, 2008.",
 "tier": 1
 },
 {
+"id": "c-444ce25ab3",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/",
 "text": "DIA briefing: 'Performance by Bigelow Aerospace Advanced Space Studies (BAASS) has been excellent and they are in full compliance with aerospace contract HHM402-08-C-0072: extensive monthly status reports received; 12 project management plans received and executed; 26 detailed research reports (twice minimum requirement) received by 30 June 2009. Reviews of reports have been overwhelmingly positive.'",
 "tier": 1
 },
 {
+"id": "c-aa2bf72488",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/",
 "text": "Same briefing: 'Recommend that DIA should go forward with option year 1 with BAASS, subject to available funding. $12 million for the continuation of this contract by DIA/DI has been submitted in the FY10 defense budget; funding likely to be approved.'",
 "tier": 1
 },
 {
+"id": "c-75969c7d44",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
 "text": "DIA Talking Paper U-326-09: 'BAASS submitted the 12 technical area program management plans (PMPs) on 21 November 2008... reviewed the PMPs and rated them as very good to excellent... BAASS will deliver to DIA approximately two detailed reports per technical area. The goal is for [DIA] to have all reports by the end of July 2009.'",
 "tier": 1
 },
 {
+"id": "c-f78cf6d206",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
 "text": "Same paper: 'The Defense Security Service conducted a site inspection on the BAASS facility on 17 December 2008. The inspection was completed satisfactorily and the facility clearance process is expected to be completed shortly.'",
 "tier": 1
 },
 {
+"id": "c-1ac0f9c6e5",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/",
 "text": "DIA 8 May 2009 status briefing: 'SCI clearance processing has been successfully completed for all key personnel.' — i.e. BAASS staff were cleared to Sensitive Compartmented Information level under this contract.",
 "tier": 1
 },
 {
+"id": "c-670e1052c6",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
 "text": "DIA Info Memo U-09-2660 (13 Nov 2009): 'All program documents delivered to [DIA] during FY 2009 (the first year of the program) were unclassified because the contractor had not established a secure facility, and program employees were being vetted for clearances. In FY 2010, most research products will remain at the unclassified level. However, four to six of the original technical reports will be expanded to include classified data.'",
 "tier": 1
 },
 {
+"id": "c-3e7aab8733",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
 "text": "DIA Info Memo U-429-09: 'Each research report ... was written by world-class technical experts in industry and/or academia', with reviews performed by 'other authors listed in the table' and by 'outside reviewers including three research staff members at Sandia National Laboratories'.",
 "tier": 1
 },
 {
+"id": "c-1bbaf8ef1c",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
 "text": "The FY2010 pivot described in U-09-2660 — 'four to six of the original technical reports will be expanded to include classified data', focused on 'foreign research in a particular technology area' — is the point at which the publicly-visible DIRD series stops and the record goes dark. The 37-38 released DIRDs are, by DIA's own account, the unclassified subset.",
 "tier": 3
 },
 {
+"id": "c-703406c3ba",
 "source": "DIA release FOIA-00349-2018",
 "text": "BAASS, of 4640 S. Eastern Ave, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7, is the named awardee of DIA firm-fixed-price contract HHM402-08-C-0072.",
 "tier": 1
 },
 {
+"id": "c-24ab23fda0",
 "source": "AARO Historical Record Report Volume 1, p.23",
 "text": "DoD states the contractor 'conducted UFO research with the support of the DIA program manager' although UAP investigation was not in the statement of work.",
 "tier": 1
 },
 {
+"id": "c-7fcd5c6ac2",
 "source": "The Debrief, 25 May 2023",
 "text": "Colm Kelleher served as Deputy Administrator of BAASS from 2008 and led day-to-day execution of the AAWSAP contract.",
 "tier": 2
 },
 {
+"id": "c-020d455dc8",
 "source": "BAASS Ten Month Report (2009), leaked copy analysed publicly since 2020",
 "text": "BAASS delivered a 494-page Ten Month Report to DIA in July 2009 covering field investigations, laboratory physics, and case database construction.",
 "tier": 2
 },
 {
+"id": "c-ab0f2bb8bd",
 "source": "MUFON and BAASS contemporaneous accounts; The UFO Chronicles, March 2011",
 "text": "BAASS contracted with MUFON in 2009 to fund the Star Team Impact Project for rapid-response field investigation, terminating the arrangement in 2010.",
 "tier": 2
@@ -85,6 +99,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-a11dbf5c90",
 "edgeLabel": "HHM402-08-C-0072, sole bid, signed 22 Sep 2008",
 "id": "aawsap",
 "l0": true,
@@ -106,6 +121,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-91256df644",
 "edgeLabel": "",
 "id": "aawsap",
 "l0": true,
@@ -132,6 +148,7 @@
 "dateEnd": "2013",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-ae6fbc8444",
 "edgeLabel": "$10M base firm-fixed-price award to BAASS",
 "id": "aawsap-contract",
 "l0": false,
@@ -153,6 +170,7 @@
 "dateEnd": "2008",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-bda6bc5604",
 "edgeLabel": "requirement written to a capability only BAASS held",
 "id": "aawsap-solicitation",
 "l0": false,
@@ -174,6 +192,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-62a2ff3408",
 "edgeLabel": "delivered the 494-page report to DIA",
 "id": "baass-ten-month-report",
 "l0": false,
@@ -195,6 +214,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-784bec93a2",
 "edgeLabel": "BAASS LLC, North Las Vegas NV",
 "id": "bigelow-aerospace",
 "l0": false,
@@ -221,6 +241,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-f690fa7e3c",
 "edgeLabel": "",
 "id": "bigelow-aerospace",
 "l0": false,
@@ -247,6 +268,7 @@
 "dateEnd": "2012",
 "dateStart": "2008",
 "direction": "in",
+"edgeId": "e-76194a656d",
 "edgeLabel": "Deputy Administrator running day-to-day contract execution",
 "id": "colm-kelleher",
 "l0": false,
@@ -268,6 +290,7 @@
 "dateEnd": null,
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-89af8634bf",
 "edgeLabel": "a company stood up to hold a single government contract",
 "id": "d-contracting",
 "l0": false,
@@ -294,6 +317,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-8c07f96e43",
 "edgeLabel": "commissioned via the BAASS prime contract",
 "id": "dird-maverick-inventor-versus-corporate-inventor-where",
 "l0": false,
@@ -325,6 +349,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-39bd6c3aa8",
 "edgeLabel": "commissioned via the BAASS prime contract",
 "id": "dird-negative-mass-propulsion",
 "l0": false,
@@ -356,6 +381,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-79c40869ac",
 "edgeLabel": "commissioned via the BAASS prime contract",
 "id": "dird-positron-aerospace-propulsion",
 "l0": false,
@@ -387,6 +413,7 @@
 "dateEnd": "2010",
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-300caf5638",
 "edgeLabel": "prime contractor that commissioned and delivered the 38 DIRDs",
 "id": "dird-series",
 "l0": true,
@@ -408,6 +435,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-1ad1dabe3d",
 "edgeLabel": "Named BAASS from the dais as a reverse-engineering exploitation question",
 "id": "eric-burlison",
 "l0": false,
@@ -429,6 +457,7 @@
 "dateEnd": "2010",
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-a23109893a",
 "edgeLabel": "BAASS ran the AAWSAP field effort from Las Vegas",
 "id": "l-las-vegas",
 "l0": false,
@@ -450,6 +479,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-79c94a0a7f",
 "edgeLabel": "BAASS base of operations",
 "id": "l-lasvegas",
 "l0": false,
@@ -481,6 +511,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-26348e1284",
 "edgeLabel": "funded MUFON's Star Team Impact Project",
 "id": "mufon-sip",
 "l0": false,
@@ -502,6 +533,7 @@
 "dateEnd": "2008",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-868e2afc4f",
 "edgeLabel": "personnel, methodology and site inherited wholesale",
 "id": "nids",
 "l0": true,
@@ -528,6 +560,7 @@
 "dateEnd": "2008",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-3334b97519",
 "edgeLabel": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
 "id": "nids",
 "l0": true,
@@ -554,6 +587,7 @@
 "dateEnd": "2009-10",
 "dateStart": "2009-03",
 "direction": "in",
+"edgeId": "e-f709769690",
 "edgeLabel": "BAASS sent teams to Brazil in 2009 and reported on Colares to its DIA sponsor",
 "id": "operacao-prato",
 "l0": true,
@@ -595,6 +629,7 @@
 "dateEnd": "2012",
 "dateStart": "2007",
 "direction": "in",
+"edgeId": "e-4c4671ab5b",
 "edgeLabel": "owner and principal",
 "id": "robert-bigelow",
 "l0": false,
@@ -616,6 +651,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-aafc2f51af",
 "edgeLabel": "UNLV academic in the prime contractor's home city",
 "id": "william-culbreth",
 "l0": false,

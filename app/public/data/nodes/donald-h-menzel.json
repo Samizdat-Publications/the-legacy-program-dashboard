@@ -8,26 +8,31 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-c8a95e1e59",
 "source": "Scientific Study of Unidentified Flying Objects (Condon Report), Section V chapter 2, 'UFOs: 1947-1968', by E. U. Condon, https://files.ncas.org/condon/text/s5chap02.htm",
 "text": "Condon named his office and praised his book in the study's own history chapter: 'In 1953, Donald H. Menzel, then director of the Harvard College Observatory published an excellent book (Menzel, 1953). It emphasizes the optical mirage aspects of the subject ... and is generally regarded as \"debunking\" and \"negative.\"'",
 "tier": 1
 },
 {
+"id": "c-551daa6c3d",
 "source": "Condon Report, Section V chapter 2, references, https://files.ncas.org/condon/text/s5chap02.htm",
 "text": "The Condon Report's bibliography for that chapter carries two Menzel items: 'Menzel, Donald H. Flying Saucers, Cambridge: Harvard University Press, 1953' and 'Menzel, Donald H. \"Do Flying Saucers Move in Straight Lines?\" Flying Saucer Review, 10, 2, (1964), 3.' Condon records the 1964 paper as the criticism that triggered the orthoteny controversy.",
 "tier": 1
 },
 {
+"id": "c-7a991138ca",
 "source": "Internet Archive catalogue records for works by Menzel, returned by https://archive.org/advancedsearch.php with creator 'Menzel, Donald H.', and item metadata at https://archive.org/metadata/ufoenigmadefinit0000menz_f0a5",
 "text": "He is one man with two names in the corpus. The Internet Archive's catalogue records give the authorised form of his name on every work as 'Menzel, Donald H. (Donald Howard), 1901-1976', which resolves the batch 05 caption 'Howard Menzel' to the batch 02 'Donald Menzel'.",
 "tier": 1
 },
 {
+"id": "c-6cd5d75d60",
 "source": "Internet Archive catalogue record, https://archive.org/metadata/ufoenigmadefinit0000menz_f0a5",
 "text": "His last debunking book appeared a year after his death: 'The UFO enigma: the definitive explanation of the UFO phenomenon', Garden City, N.Y.: Doubleday, 1977, ISBN 0385035969.",
 "tier": 1
 },
 {
+"id": "c-4812325519",
 "source": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:58",
 "text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 22, 17 January 2025, at 0:16:58, Ramsay read that 'in april 1986 stanton friedman was allowed access to menzel's papers at the harvard university archives he learned that menzel had a 30 year association with the nsa the national security agency and that he also had top secret ultra clearance with the cia'. The Harvard University Archives were not reached from this environment and no record supporting or refuting the finding was opened.",
 "tier": 2
@@ -43,6 +48,7 @@
 "dateEnd": null,
 "dateStart": "1969",
 "direction": "out",
+"edgeId": "e-a225fc597a",
 "edgeLabel": "The Colorado project's own history chapter endorses his debunking book",
 "id": "condon-committee",
 "l0": true,
@@ -64,6 +70,7 @@
 "dateEnd": "1977",
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-38a9bb8999",
 "edgeLabel": "Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977",
 "id": "d-denial",
 "l0": false,
@@ -85,6 +92,7 @@
 "dateEnd": null,
 "dateStart": "1969",
 "direction": "out",
+"edgeId": "e-6a7962d86b",
 "edgeLabel": "Condon praised him by name in the study he directed",
 "id": "edward-condon",
 "l0": false,
@@ -118,6 +126,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-38a9bb8999",
 "label": "Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977",
 "note": "The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death.",
 "of": null,

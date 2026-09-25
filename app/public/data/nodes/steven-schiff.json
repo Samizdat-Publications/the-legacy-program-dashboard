@@ -59,41 +59,49 @@
 ],
 "claims": [
 {
+"id": "c-724d246d81",
 "source": "GAO/NSIAD-95-187, letter of transmittal and scope section",
 "text": "GAO conducted its Roswell records review at the request of Representative Steven H. Schiff, working from March 1994 to June 1995.",
 "tier": 1
 },
 {
+"id": "c-09bb7ef2f3",
 "source": "GAO/NSIAD-95-187, p.3",
 "text": "'RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed.'",
 "tier": 1
 },
 {
+"id": "c-3c2a9fe358",
 "source": "GAO/NSIAD-95-187, p.3",
 "text": "'The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
 "tier": 1
 },
 {
+"id": "c-8bd12a656f",
 "source": "GAO/NSIAD-95-187, p.3",
 "text": "RAAF administrative records from March 1945 through December 1949 were also destroyed.",
 "tier": 1
 },
 {
+"id": "c-701323c629",
 "source": "GAO/NSIAD-95-187, p.6",
 "text": "The CIA's Executive Director told GAO that a search against the term 'Roswell, New Mexico' in all CIA databases produced no CIA documents related to the crash.",
 "tier": 1
 },
 {
+"id": "c-692cffa671",
 "source": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico,' 28 July 1995",
 "text": "GAO reported that RAAF administrative records (March 1945-December 1949) and RAAF outgoing messages (October 1946-December 1949) were destroyed, and that 'the document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.'",
 "tier": 1
 },
 {
+"id": "c-56f7ae4e19",
 "source": "GAO/NSIAD-95-187",
 "text": "GAO's search for government records concerning the Roswell crash 'yielded two records originating in 1947.'",
 "tier": 1
 },
 {
+"id": "c-a27caa3a37",
 "source": "GAO/NSIAD-95-187, appendix",
 "text": "GAO's list of records searched includes 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy.'",
 "tier": 1
@@ -111,6 +119,7 @@
 "dateEnd": "1995-07-28",
 "dateStart": "1994",
 "direction": "in",
+"edgeId": "e-4fdf747057",
 "edgeLabel": "GAO conducted the Roswell records search at Rep. Schiff's request",
 "id": "gao",
 "l0": false,
@@ -132,6 +141,7 @@
 "dateEnd": "1995",
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-9a707bbfad",
 "edgeLabel": "Schiff tasked GAO after DoD refused to answer him",
 "id": "gao-nsiad-95-187",
 "l0": false,
@@ -158,6 +168,7 @@
 "dateEnd": "1995",
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-9b2e5bdf90",
 "edgeLabel": "Schiff directed GAO to conduct the government-wide records search",
 "id": "gao-roswell-report-1995",
 "l0": false,
@@ -179,6 +190,7 @@
 "dateEnd": "1995",
 "dateStart": "1993",
 "direction": "out",
+"edgeId": "e-777c821f64",
 "edgeLabel": "Schiff's New Mexico district inquiry produced the GAO Roswell audit",
 "id": "l-albuquerque",
 "l0": false,
@@ -200,6 +212,7 @@
 "dateEnd": "1997",
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-0adc64f9ce",
 "edgeLabel": "Schiff's inquiry forced the Air Force to abandon the weather balloon story",
 "id": "usaf-roswell-reports",
 "l0": false,

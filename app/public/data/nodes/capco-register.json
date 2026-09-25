@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-6449dc8daa",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
 "text": "The registry is mandated by ICD 906 D.9.b: CAPCO shall 'Manage a CAP Registry that maintains a list of all control systems, including all compartments and sub-compartments. ODNI CAPCO shall also ensure deconfliction or all other programs, and manage all compartment and sub compartment names, codenames, and any other pertinent information.'",
 "tier": 1
 },
 {
+"id": "c-a6204f062c",
 "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
 "text": "A single ODNI office holds an authoritative, complete list of every IC compartment and sub-compartment codename, including unacknowledged ones, and is charged with deconflicting them against 'all other programs' -- which necessarily means CAPCO has visibility across the DoD/IC boundary. That register, not any congressional document, is the closest thing to a master index of the classified compartment space. Reasoning stated from D.9.b.",
 "tier": 3
 },
 {
+"id": "c-3278908750",
 "source": "CAPCO Register and Manual v5.1, title page",
 "text": "CAPCO Register v5.1 title page: 'Intelligence Community Authorized Classification and Control Markings Register and Manual, Volume 5, Edition 1 (Version 5.1) (Effective: 30 December 2011), Administrative Update, 30 March 2012, Controlled Access Program Coordination Office (CAPCO), Washington, DC 20511.'",
 "tier": 1
 },
 {
+"id": "c-f41951138f",
 "source": "CAPCO Register and Manual v5.1, title page",
 "text": "CAPCO Register v5.1 title page: 'Certain security markings were removed due to classified content. These markings have been compiled in separate classified addenda.'",
 "tier": 1
 },
 {
+"id": "c-440bb4aeaf",
 "source": "CAPCO Register and Manual v5.1, Special Access Program Markings",
 "text": "CAPCO Register v5.1: 'The first value in the SAP category is the SAP category indicator either \"SPECIAL ACCESS REQUIRED-\" or \"SAR-\" (the authorized abbreviation) ... Following the SAP category indicator shall be the SAP program indicator which is the program's nickname or authorized digraph or trigraph.'",
 "tier": 1
 },
 {
+"id": "c-c017c5f107",
 "source": "CAPCO Register and Manual v5.1, change log",
 "text": "CAPCO Register v5.1 change log records that the edition 'Moved the Special Access Required (SAR) marking from the Non-Intelligence Community Dissemination Control Markings category to a new category called Special Access Program Markings.'",
 "tier": 1
 },
 {
+"id": "c-3aa7c574e8",
 "source": "CAPCO Register and Manual v5.1, title page note",
 "text": "The existence of classified addenda to the marking register means that a document could bear a compartment marking that is not listed in any public authority, so a researcher holding a released document cannot always determine from public sources what control system it belongs to. Reasoning: the register itself states that markings were removed for classification and compiled separately.",
 "tier": 3
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": "2011-12-30",
 "direction": "out",
+"edgeId": "e-20f97512a9",
 "edgeLabel": "ISOO advises the working group that produces the marking standard",
 "id": "isoo",
 "l0": true,
@@ -71,6 +79,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f73422cd2e",
 "edgeLabel": "CAPCO manages the CAP Registry of all control systems, compartments and sub-compartments",
 "id": "odni-capco",
 "l0": false,
@@ -97,6 +106,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d6bdae4a26",
 "edgeLabel": "",
 "id": "odni-capco",
 "l0": false,
@@ -123,6 +133,7 @@
 "dateEnd": null,
 "dateStart": "2011-12-30",
 "direction": "out",
+"edgeId": "e-53d66f00fb",
 "edgeLabel": "Gives special access programs their own marking category in the banner line",
 "id": "sap-taxonomy",
 "l0": false,

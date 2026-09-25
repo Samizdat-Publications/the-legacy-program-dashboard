@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-f45e5b201c",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
 "text": "Contract number HHM402-08-C-0072; contract signed 22 September 2008; awarded off solicitation HHM402-08-R-0211 (posted 18 Aug 2008, responses due 5 Sep 2008). Modification P00001 effective 02 September 2009 exercised/continued the effort.",
 "tier": 1
 },
 {
+"id": "c-a2c7ba84e3",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/",
 "text": "DIA's own 16 December 2008 status briefing is headed 'Advanced Aerospace Weapon System Applications Contract Status — Contract HHM402-08-C-0072' and describes the contract focus as 'Advanced (unconventional) aerospace weapon' technologies.",
 "tier": 1
 },
 {
+"id": "c-e240a0dd49",
 "source": "https://www.fpds.gov/ezsearch/FEEDS/ATOM?FEEDNAME=PUBLIC&q=PIID%3A%22HHM402-08-C-0072%22",
 "text": "The contract does not appear in public federal contract data: an FPDS-NG ATOM query for PIID \"HHM402-08-C-0072\" returns an empty result feed, and USAspending.gov returns 404 for the corresponding generated award IDs.",
 "tier": 1
 },
 {
+"id": "c-94f09d7529",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
 "text": "Absence from FPDS/USAspending is expected for DIA Virginia Contracting Activity awards (intelligence-community contracting is generally excluded from public reporting), but it means the only public award record for a $22M program is the FOIA-released paper. Dollar-value line items on the modification are illegible/redacted in the released scan.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-21125f4b1c",
 "edgeLabel": "prime contract",
 "id": "aawsap",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-72279dc16f",
 "edgeLabel": "",
 "id": "aawsap",
 "l0": true,
@@ -82,6 +88,7 @@
 "dateEnd": null,
 "dateStart": "2008-09-22",
 "direction": "out",
+"edgeId": "e-1ae3f606bc",
 "edgeLabel": "the instrument itself - competed, awarded, numbered and released",
 "id": "d-contracting",
 "l0": false,
@@ -108,6 +115,7 @@
 "dateEnd": "2010",
 "dateStart": "2008-09-22",
 "direction": "out",
+"edgeId": "e-427fcc6d35",
 "edgeLabel": "the one instrument on the board where the appropriation-to-contract path is fully documented",
 "id": "d-funding",
 "l0": false,

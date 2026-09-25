@@ -26,21 +26,25 @@
 ],
 "claims": [
 {
+"id": "c-ed7fa7e79b",
 "source": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025, Recommendations",
 "text": "Report recommendation: 'Identify a lead: A federal department or agency responsible for managing public UAP data should be identified. Establish a dedicated service: This service would collect testimonies, investigate cases and post its analyses publicly.'",
 "tier": 1
 },
 {
+"id": "c-90c3c0453a",
 "source": "Sky Canada Project report, June 2025",
 "text": "Report recommendation on international collaboration: 'The lead organization should establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
 "tier": 1
 },
 {
+"id": "c-beb425dee7",
 "source": "Sky Canada Project report, June 2025, citing an Earnscliffe Strategies survey commissioned in 2024",
 "text": "Survey finding: 'one in four respondents say they have personally witnessed a UAP in their lifetime. However, only 10% reported their sightings and 40% of respondents would not know whom to contact for reporting.'",
 "tier": 1
 },
 {
+"id": "c-ba4e7a162b",
 "source": "Office of the Chief Science Advisor of Canada, Sky Canada Project page, updated 3 December 2025",
 "text": "Report disclaimer: the project 'is not intended to access and collect first-hand data (like photos, testimonies, etc.) ... nor is it meant to prove or disprove the existence of extraterrestrial life or extraterrestrial visitors.'",
 "tier": 1
@@ -56,6 +60,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2009-12",
 "direction": "out",
+"edgeId": "e-5b727f09a5",
 "edgeLabel": "2025 Canadian recommendation versus the 2009 British closure",
 "id": "nick-pope",
 "l0": false,
@@ -82,6 +87,7 @@
 "dateEnd": "2025-06",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-1283a7aeb3",
 "edgeLabel": "Chief Science Advisor whose office produced the report",
 "id": "sky-canada-project",
 "l0": true,

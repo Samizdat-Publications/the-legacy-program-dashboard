@@ -11,26 +11,31 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-9433a9eae1",
 "source": "Allen W. Dulles, three letters of 13 March 1953, CIA-RDP80B01676R001000160043-9, -044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
 "text": "On 13 March 1953 Dulles forwarded the Robertson Panel report to three agencies over his own signature, describing it as pointing out 'certain potential dangers to national security which are related to the subject and suggest ways of their elimination.' The three addressees are the Secretary of Defense, the Acting Administrator of the Federal Civil Defense Administration and the Vice Chairman of the National Security Resources Board, which are exactly the three IAC-D-67 had proposed on 18 February 1953.",
 "tier": 1
 },
 {
+"id": "c-7f61a286bd",
 "source": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET / Security Information, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
 "text": "The same letters distance the Agency from the subject in the same breath: 'Although this Agency does not consider problems arising from sightings of \"flying saucers\" primarily its concern, we shall be pleased to assist in any appropriate action that you deem advisable.'",
 "tier": 1
 },
 {
+"id": "c-812509e640",
 "source": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953, CIA-RDP80B01676R001000160044-8, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8",
 "text": "The letters attribute the Robertson Panel to his predecessor by name: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
 "tier": 1
 },
 {
+"id": "c-052ced78a2",
 "source": "Executive Registry notes filed with CIA-RDP80B01676R001000160044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7",
 "text": "Each of the three letters is a rewrite of an earlier version that was withdrawn. A note to the Executive Registry filed with two of them reads: 'Please note that the attached letter ... was not sent out, but was rewritten as of 13 March 1953 (copy attached).' The letters themselves carry the stamp 'REWRITTEN 13 March 1953'.",
 "tier": 1
 },
 {
+"id": "c-af19ea02ae",
 "source": "National Archives media alert 08-130, 'NARA to Open Official Personnel Files of the OSS', 7 August 2008, https://www.archives.gov/press/press-releases/2008/nr08-130",
 "text": "The National Archives names Dulles among the OSS personnel files opened on 14 August 2008: the press office distributed CDs including 'selected files of some of the notable people who served in the OSS, including former CIA directors Allen Dulles and William Casey'.",
 "tier": 1
@@ -46,6 +51,7 @@
 "dateEnd": null,
 "dateStart": "1953",
 "direction": "in",
+"edgeId": "e-7e6b2c74b5",
 "edgeLabel": "Served as deputy to the Director of Central Intelligence",
 "id": "charles-p-cabell",
 "l0": false,
@@ -67,6 +73,7 @@
 "dateEnd": "1961",
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-e3b6e1564e",
 "edgeLabel": "Director of Central Intelligence, signing as Director on Office of the Director paper",
 "id": "cia",
 "l0": true,
@@ -88,6 +95,7 @@
 "dateEnd": null,
 "dateStart": "1961-10-25",
 "direction": "in",
+"edgeId": "e-b1e99a1544",
 "edgeLabel": "Corresponded with the Director of Central Intelligence",
 "id": "glenn-t-seaborg",
 "l0": false,
@@ -109,6 +117,7 @@
 "dateEnd": null,
 "dateStart": "1953-04-13",
 "direction": "out",
+"edgeId": "e-6d5a02a3cd",
 "edgeLabel": "Authorized MKULTRA as DCI, 13 April 1953",
 "id": "mkultra",
 "l0": true,
@@ -130,6 +139,7 @@
 "dateEnd": "1953-03-13",
 "dateStart": "1953-03-13",
 "direction": "out",
+"edgeId": "e-69e7342db5",
 "edgeLabel": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
 "id": "robertson-panel",
 "l0": true,
@@ -151,6 +161,7 @@
 "dateEnd": "1953",
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-de001fedf7",
 "edgeLabel": "Succeeded him as DCI and attributed the panel to him in writing",
 "id": "walter-bedell-smith",
 "l0": false,
@@ -184,6 +195,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-69e7342db5",
 "label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
 "note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
 "of": null,

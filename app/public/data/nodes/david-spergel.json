@@ -51,36 +51,43 @@
 ],
 "claims": [
 {
+"id": "c-297d456fa3",
 "source": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs', 13 June 2025, 0:15:15 and 0:16:09, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332",
 "text": "On American Alchemy with Jesse Michels, 13 June 2025, at 0:15:15, Michels said a Wall Street Journal journalist he names only as Lena told him that Spergel 'is their de facto advisor on UFOs' and that on his account the objects are all space trash, light reflections and temperature inversions. Michels retold the same anecdote to Ross Coulthart on 21 June 2025 at 0:43:31 and to Richard Dolan on 28 June 2025 at 1:42:04. All three are the same speaker relaying the same unnamed journalist, not three independent sources, and Michels says in the first telling 'I have no smoking gun'.",
 "tier": 2
 },
 {
+"id": "c-b7ca33de3d",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
 "text": "'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
 "tier": 1
 },
 {
+"id": "c-a448c856c9",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
 "text": "The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and applying AI/machine learning to curated datasets.",
 "tier": 1
 },
 {
+"id": "c-cc675cd279",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
 "text": "'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial origin for UAP.'",
 "tier": 1
 },
 {
+"id": "c-37f7c55089",
 "source": "NASA UAP Independent Study Team final report and NASA announcements",
 "text": "Spergel chaired NASA's sixteen-member UAP Independent Study Team, commissioned 24 May 2022 and reporting 14 September 2023, with Daniel Evans as designated federal official.",
 "tier": 1
 },
 {
+"id": "c-e2d983c5fd",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
 "text": "The team's report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data is the principal obstacle, recommending a rigorous evidence-based approach using AI and citizen observation.",
 "tier": 1
 },
 {
+"id": "c-2369d6d370",
 "source": "Inference from the panel's terms of reference and the absence of any classified read-on",
 "text": "The panel's remit was structurally incapable of addressing the question it was convened for: it examined unclassified data only, while the entire dispute concerns classified holdings and contractor-held material. Its finding of insufficient data is therefore a description of its own access, not of the evidence.",
 "tier": 3
@@ -96,6 +103,7 @@
 "dateEnd": "2023-09-14",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-9050616f60",
 "edgeLabel": "Chaired the NASA UAP Independent Study Team",
 "id": "nasa",
 "l0": true,
@@ -117,6 +125,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-6f1436abda",
 "edgeLabel": "Panel worked under sustained public harassment",
 "id": "nasa-uap-ist",
 "l0": true,
@@ -138,6 +147,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-d880ef5a6a",
 "edgeLabel": "Chaired the NASA UAP Independent Study Team",
 "id": "nasa-uap-ist",
 "l0": true,
@@ -159,6 +169,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-45ebe5add5",
 "edgeLabel": "Chaired the sixteen-member NASA panel, 2022-2023",
 "id": "nasa-uapist",
 "l0": false,

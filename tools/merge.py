@@ -295,6 +295,75 @@ def claim_key(text):
     return re.sub(r"\W+", "", (text or "").lower())
 
 
+# --- stable ids (redesign phase 4, task 1) -------------------------------------
+# A claim and an edge get an id that is a function of their content, so the same
+# claim carries the same id on every build and on every machine, and a topic, a
+# note or a comment can point at one claim rather than at "the third claim on the
+# node". Content, not position: an id derived from the order of a list would move
+# whenever a research pass inserted a claim above it.
+#
+#   claim  c- + sha1(node id | text)[:10]
+#   edge   e- + sha1(sorted endpoints | type | label)[:10]
+#
+# Text and label are normalised first (Unicode NFC, runs of whitespace to one
+# space, trimmed) so a re-flowed line in a research file is not a new claim.
+# Both are narrower than the keys that already fold duplicates: claim_key() folds
+# case and punctuation as well, and an edge is keyed by its unordered pair and
+# type, so two records that would share an id have already been merged into one.
+# A collision is therefore either a truncated-hash accident or a bug in that
+# folding, and either way it is a hard error rather than something to paper over.
+_WS = re.compile(r"\s+")
+
+
+def _id_norm(s):
+    return _WS.sub(" ", unicodedata.normalize("NFC", str(s or ""))).strip()
+
+
+def claim_id(node_id, text):
+    import hashlib
+    h = hashlib.sha1(f"{node_id}|{_id_norm(text)}".encode("utf-8")).hexdigest()
+    return "c-" + h[:10]
+
+
+def edge_id(a, b, etype, label):
+    import hashlib
+    x, y = sorted([str(a), str(b)])
+    h = hashlib.sha1(f"{x}|{y}|{etype}|{_id_norm(label)}".encode("utf-8")).hexdigest()
+    return "e-" + h[:10]
+
+
+def assign_ids(people, entities, edges):
+    """Stamp every claim and every edge with its content id. Exits on a collision,
+    naming both records, because two different things answering to one id would
+    make every reference to that id ambiguous."""
+    seen, clashes = {}, []
+    for n in list(people.values()) + list(entities.values()):
+        for c in n.get("claims") or []:
+            cid = claim_id(n["id"], c["text"])
+            prev = seen.get(cid)
+            if prev is not None:
+                clashes.append(f"{cid}: claim on {prev[0]} {prev[1][:60]!r} and on "
+                               f"{n['id']} {c['text'][:60]!r}")
+            seen[cid] = (n["id"], c["text"])
+            # the id leads, so a reader of the JSON sees it first
+            items = list(c.items())
+            c.clear()
+            c["id"] = cid
+            c.update((k, v) for k, v in items if k != "id")
+    for e in edges.values():
+        eid = edge_id(e["a"], e["b"], e["type"], e.get("label") or "")
+        prev = seen.get(eid)
+        if prev is not None:
+            clashes.append(f"{eid}: edge {prev[0]} and edge {e['a']}->{e['b']} ({e['type']})")
+        seen[eid] = (f"{e['a']}->{e['b']} ({e['type']})", "")
+        e["id"] = eid
+    if clashes:
+        sys.exit("merge.py: " + str(len(clashes)) + " id collision(s). Two different "
+                 "records would answer to one id; fix the folding, do not disambiguate "
+                 "by position:\n  " + "\n  ".join(clashes[:10]))
+    return len(seen)
+
+
 def dedupe_claims(claims):
     out, seen = [], set()
     for c in claims:
@@ -1630,6 +1699,9 @@ def main():
     remediate_tiers(people, entities)
     remediate_edge_tiers(edges)
     remediate_interested_party_edges(edges, load_edge_adjudications())
+    # Last, once every claim text and edge label is final: nothing after this
+    # point rewrites either, so the id is a function of what ships.
+    assign_ids(people, entities, edges)
     problems, deg = integrity(people, entities, edges, timeline)
     today = emit(people, entities, edges, timeline, entity_info, gaps, problems)
 

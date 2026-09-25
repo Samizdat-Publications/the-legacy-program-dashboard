@@ -5,31 +5,37 @@
 "band": "research",
 "claims": [
 {
+"id": "c-8d6a484b79",
 "source": "Project Condign, Volume 3, Chapter 4, para 12 (released MoD copy, OCR)",
 "text": "Volume 3, Chapter 4, para 12: 'USA & CANADA. The USA's widely publicised activities were described and contrasted with the UK effort at the beginning of Volume 1 of this report. There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs.' - followed by approximately four lines of redaction.",
 "tier": 1
 },
 {
+"id": "c-23d77a15f2",
 "source": "Project Condign, Volume 3, Chapter 4, para 1",
 "text": "Volume 3, Chapter 4, para 1: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.'",
 "tier": 1
 },
 {
+"id": "c-083a1aeefb",
 "source": "Project Condign, Volume 3, Chapter 4, para 3",
 "text": "Volume 3, Chapter 4, para 3: 'Annex A summarises two russian scientific papers where, it appears, 20-30 scientists have pursued research for the prevention of air target detection' - followed by three redacted lines.",
 "tier": 1
 },
 {
+"id": "c-42c878b96d",
 "source": "Project Condign, Volume 3, Chapter 4, para 11",
 "text": "Volume 3, Chapter 4, para 11: 'SPAIN The Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
 "tier": 1
 },
 {
+"id": "c-2d7de3ba1e",
 "source": "Project Condign, Volume 3, Chapter 4, para 8",
 "text": "Volume 3, Chapter 4, para 8 quotes Sokolov on Soviet aircraft incidents: 'We had 40 cases where pilots encountered UFOs. Initially they were commanded to chase, then shoot. When our pilots would engage the UFO it would speed-up, our aircraft would give chase, lose control and crash. That happened 3 times and twice the pilots died. After that the pilots were told to observe and change course and get out.'",
 "tier": 1
 },
 {
+"id": "c-00d792ee52",
 "source": "Inference from the released page image, Volume 3 Chapter 4 para 12",
 "text": "The denial of any US/Canada intelligence exchange 'of any sort' is immediately followed by four redacted lines, which is structurally odd: a true and complete negative requires no withheld continuation. Reasoning: redaction under a defence exemption is applied to withheld substance, not to the absence of substance.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-98ad34a71e",
 "edgeLabel": "Belgian imagery inside the Condign study, in Volume 2 rather than Volume 3",
 "id": "belgian-af-f16-intercept-1990",
 "l0": false,
@@ -66,6 +73,7 @@
 "dateEnd": "2006-05-15",
 "dateStart": "2000",
 "direction": "in",
+"edgeId": "e-7de8ba3f80",
 "edgeLabel": "Volume 3 holds the material excluded from the RESTRICTED summary",
 "id": "doc-condign-report",
 "l0": true,
@@ -87,6 +95,7 @@
 "dateEnd": "2000",
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-b9ea6901a5",
 "edgeLabel": "assessed the Soviet programme as exploitation-driven",
 "id": "setka-program",
 "l0": true,
@@ -108,6 +117,7 @@
 "dateEnd": null,
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-ee250d54a1",
 "edgeLabel": "Condign's Former Soviet Union chapter names, dates and assesses SOYUZUFOTSENTR",
 "id": "soyuzufotsentr",
 "l0": false,
@@ -129,6 +139,7 @@
 "dateEnd": "2000",
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-785567ca81",
 "edgeLabel": "records the Spanish release and DI55's non-access",
 "id": "spain-mod-ufo-files",
 "l0": false,
@@ -150,6 +161,7 @@
 "dateEnd": "2006-05-15",
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-011ee4dad4",
 "edgeLabel": "records a flat denial of any US/Canada exchange, then redacts four lines",
 "id": "uk-mod",
 "l0": false,
@@ -171,6 +183,7 @@
 "dateEnd": "2000",
 "dateStart": "2000",
 "direction": "out",
+"edgeId": "e-39baa9527c",
 "edgeLabel": "names Azhazha as head of SOYUZUFOTSENTR",
 "id": "vladimir-azhazha",
 "l0": false,
@@ -207,6 +220,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-011ee4dad4",
 "label": "records a flat denial of any US/Canada exchange, then redacts four lines",
 "note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
 "of": {

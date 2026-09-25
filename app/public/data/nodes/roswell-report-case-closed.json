@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-afeadfedf4",
 "source": "The Roswell Report: Case Closed (1997), Introduction",
 "text": "The report identifies its four conclusions as consolidation of many years of Air Force activity into July 1947; anthropomorphic test dummies as the 'aliens'; high-altitude balloon launch and recovery as the 'unusual' military activity; and a 1956 KC-97 accident plus a 1959 manned balloon mishap as the source of the hospital bodies accounts.",
 "tier": 1
 },
 {
+"id": "c-bf1721d271",
 "source": "The Roswell Report: Case Closed (1997), Guide for Readers and Appendix C",
 "text": "Appendix C prints full interview transcripts of Gerald Anderson (p. 187), Glenn Dennis (p. 197), Alice Knight (p. 213), Vern Maltais (p. 214) and James Ragsdale (p. 215); the Dennis interview was provided by the interviewer, Karl T. Pflock.",
 "tier": 1
 },
 {
+"id": "c-9557635606",
 "source": "The Roswell Report: Case Closed (1997), Appendix B",
 "text": "Appendix B prints sworn witness statements from Charles E. Clouthier, Col. Charles A. Coltman Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg, MSgt Ole Jorgeson, Lt. Col. William C. Kaufman, Col. Joseph W. Kittinger Jr., CMSgt Roland H. Lutz, Lt. Col. Raymond A. Madson and Dr. Frank B. Nordstrom.",
 "tier": 1
 },
 {
+"id": "c-28218a43cd",
 "source": "The Roswell Report: Case Closed (1997), Section 1.1, pull quote at p. 12",
 "text": "The report states: 'It must be emphasized that the claims of bodies only became part of the Roswell Incident after 1978, when they were erroneously linked to the July 1947 retrieval of Project Mogul components.'",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "2010",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-99adbb28a9",
 "edgeLabel": "Two official inquiries that explained the recovery activity without producing the logs",
 "id": "ev-varginha-1996",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-5e10e35301",
 "edgeLabel": "The 1997 report dismantled the 'missing nurse' account by name",
 "id": "glenn-dennis",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-d0423c963d",
 "edgeLabel": "Sole author of the 1997 bodies report",
 "id": "james-mcandrew",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-3ad5253090",
 "edgeLabel": "Ragsdale's own words were used to support the dummy explanation",
 "id": "jim-ragsdale",
 "l0": false,
@@ -119,6 +127,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-1b4c97fb5e",
 "edgeLabel": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
 "id": "plains-san-agustin-1947",
 "l0": false,
@@ -140,6 +149,7 @@
 "dateEnd": "1997",
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-8beec30846",
 "edgeLabel": "The 1997 report completes what the 1994-1995 report left open",
 "id": "roswell-report-1995",
 "l0": false,
@@ -173,6 +183,7 @@
 "by": null,
 "claimTier": 3,
 "denialKind": "association",
+"edgeId": "e-99adbb28a9",
 "label": "Two official inquiries that explained the recovery activity without producing the logs",
 "note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
 "of": null,
@@ -199,6 +210,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-5e10e35301",
 "label": "The 1997 report dismantled the 'missing nurse' account by name",
 "note": "Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
 "of": {
@@ -228,6 +240,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-3ad5253090",
 "label": "Ragsdale's own words were used to support the dummy explanation",
 "note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
 "of": {
@@ -257,6 +270,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-1b4c97fb5e",
 "label": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
 "note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
 "of": {

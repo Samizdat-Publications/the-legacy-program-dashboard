@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-358c27f510",
 "source": "Initiative participants' contemporaneous accounts and the document's own distribution statement",
 "text": "'The Best Available Evidence' was compiled under Marie Galbraith with Stanton Friedman and Don Berliner, funded by Laurance Rockefeller, and distributed in 1995 to officials, legislators and heads of state.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": "1995",
 "dateStart": "1993",
 "direction": "in",
+"edgeId": "e-c8e8b97b87",
 "edgeLabel": "Galbraith compiled 'The Best Available Evidence'",
 "id": "marie-galbraith",
 "l0": false,
@@ -41,6 +43,7 @@
 "dateEnd": "1995",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-77559c56b0",
 "edgeLabel": "The briefing document was the initiative's principal instrument",
 "id": "rockefeller-initiative",
 "l0": false,

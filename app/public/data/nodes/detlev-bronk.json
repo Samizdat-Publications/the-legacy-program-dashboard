@@ -8,26 +8,31 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-adb547b90a",
 "source": "Foreign Relations of the United States, 1961-1963, Volume XXV, List of Persons, https://history.state.gov/historicaldocuments/frus1961-63v25/persons",
 "text": "The Department of State's own list of persons gives the office and its dates: 'Bronk, Detlev W., President of the National Academy of Sciences, 1950-1962.'",
 "tier": 1
 },
 {
+"id": "c-6b4d87cfbf",
 "source": "Memorandum From the President's Special Assistant for Science and Technology (Wiesner) to Secretary of State Rusk, 16 March 1962, NARA RG 59, Central Files, 1960-63, 110.10/3-1662; FRUS 1961-1963, Volume XXV, Document 348, https://history.state.gov/historicaldocuments/frus1961-63v25/d348",
 "text": "He chaired a White House science panel reporting on the State Department. The President's Special Assistant for Science and Technology to the Secretary of State, 16 March 1962: 'You recently mentioned your concern regarding the scientific activities in the Department of State, and I told you of the study being conducted by our International Science Panel chaired by Dr. Bronk.' The editorial footnote to the sentence identifies him as 'Dr. Detlev W. Bronk, President of the National Academy of Sciences.'",
 "tier": 1
 },
 {
+"id": "c-bc607c26fc",
 "source": "Fortieth Annual Report of the National Advisory Committee for Aeronautics, 1954, Part II, Committee Organization and Membership, GPO 1956, NASA Technical Reports Server 19930092186, https://ntrs.nasa.gov/api/citations/19930092186/downloads/19930092186.pdf",
 "text": "He was Vice Chairman of the National Advisory Committee for Aeronautics. The Committee's Fortieth Annual Report records that on 22 October 1954 Jerome C. Hunsaker was re-elected chairman and 'Dr. Detlev W. Bronk vice chairman of the NACA', and lists him in the membership as President of the Rockefeller Institute for Medical Research.",
 "tier": 1
 },
 {
+"id": "c-c725f7caf2",
 "source": "Fortieth Annual Report of the National Advisory Committee for Aeronautics, 1954, https://ntrs.nasa.gov/api/citations/19930092186/downloads/19930092186.pdf",
 "text": "NACA membership was a Presidential appointment and unpaid. The same report states that the members of the Committee 'are appointed by the President and serve as such without compensation', and that the seat formerly held ex officio by the chairman of the Research and Development Board was replaced by a Department of Defense representative after that Board's abolition under Reorganization Plan No. 6, effective 30 June 1953.",
 "tier": 1
 },
 {
+"id": "c-453fb3f1b8",
 "source": "Thirty-Eighth Annual Report of the National Advisory Committee for Aeronautics, 1952, NASA Technical Reports Server 19930092104, https://ntrs.nasa.gov/api/citations/19930092104/downloads/19930092104.pdf",
 "text": "He was already a member two years earlier under his previous office: the Thirty-Eighth Annual Report for 1952 lists him in the Committee membership as President of Johns Hopkins University. The scan's OCR degrades his surname on that page, so the line is reported rather than quoted.",
 "tier": 1
@@ -43,6 +48,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-ca88b7c301",
 "edgeLabel": "Named as a panel member inside the disputed document",
 "id": "mj-12-documents",
 "l0": false,

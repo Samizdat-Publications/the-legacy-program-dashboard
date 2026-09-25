@@ -5,41 +5,49 @@
 "band": "retrieval",
 "claims": [
 {
+"id": "c-ca5e1efc6e",
 "source": "AFOSI complaint form, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
 "text": "The 1980 Kirtland complaint form reproduced by NICAP carries AFOSI Det 1700, Kirtland AFB, New Mexico, District File No. 8017D93-0/29, and names Richard C Doty as the special agent on it. This is the primary documentary source for AFOSI's presence in the Bennewitz affair and for Doty's service in it.",
 "tier": 1
 },
 {
+"id": "c-2942f34735",
 "source": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
 "text": "The former agent most associated with the Kirtland file has publicly denied the account of harm usually attributed to the operation. Answering George Knapp on camera, Doty said of the story that he drove Bennewitz mad: 'none of it's true every every aspect of that is false'. The board should carry this alongside, and not instead of, the admissions already recorded on this node.",
 "tier": 2
 },
 {
+"id": "c-006afde421",
 "source": "AFOSI, About Us, retrieved 12 August 2026",
 "text": "AFOSI states its investigative remit covers 'espionage, terrorism, crimes against property, violence against people, larceny, computer hacking, acquisition fraud... and any other illegal activity that undermines the mission of the U.S. Air Force or the Department of Defense', with units 'located at most Air Force bases worldwide'.",
 "tier": 1
 },
 {
+"id": "c-97eae7db5d",
 "source": "NICAP, 1980 Kirtland AFB, NM FOIA document files",
 "text": "The AFOSI Kirtland AFB UFO file covering the 1980-1983 Manzano Weapons Storage Area period was released under FOIA and is archived in full by NICAP.",
 "tier": 1
 },
 {
+"id": "c-b263fe16b5",
 "source": "Richard Doty Personnel File - New Mexico State Police [321 pages]",
 "text": "Richard C. Doty's New Mexico State Police personnel file was released in 321 pages under the New Mexico Inspection of Public Records Act.",
 "tier": 1
 },
 {
+"id": "c-fcf3886e8f",
 "source": "Doty's repeated on-the-record statements, including to HuffPost, 13 May 2014",
 "text": "Doty has stated on the record that he passed fabricated documents concerning crash retrievals and an alleged programme called AQUARIUS to Paul Bennewitz while serving as an AFOSI special agent at Kirtland AFB.",
 "tier": 2
 },
 {
+"id": "c-c865bc5d45",
 "source": "The Black Vault reporting on the Pentagon's FOIA responses, 16 September 2025 and 15 December 2025",
 "text": "The Pentagon initially denied the existence of any memo describing an alleged Air Force practice codenamed YANKEE BLUE after the Wall Street Journal reported it in September 2025, and in December 2025 reopened its search for the document.",
 "tier": 2
 },
 {
+"id": "c-ddae9665d4",
 "source": "Inference from the scale and duration of the documented AFOSI Kirtland effort",
 "text": "The Bennewitz operation is the strongest available evidence that the UFO subject was treated by a counterintelligence organisation as a security problem requiring active measures rather than as a nuisance requiring public relations. Reasoning: disinformation is expensive and legally exposed; it is deployed to protect something, not to dispel nothing.",
 "tier": 3
@@ -55,6 +63,7 @@
 "dateEnd": "1983",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-98f2a0d120",
 "edgeLabel": "AFOSI is the originating agency of the released Kirtland UFO file",
 "id": "afosi-kirtland-file",
 "l0": false,
@@ -81,6 +90,7 @@
 "dateEnd": "2018",
 "dateStart": "2017",
 "direction": "in",
+"edgeId": "e-405ff075e9",
 "edgeLabel": "Records an AFOSI inquiry into possible mishandling of classified material",
 "id": "garry-reid-memo-2017",
 "l0": false,
@@ -102,6 +112,7 @@
 "dateEnd": "2026",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-61fa053866",
 "edgeLabel": "Names AFOSI/PJ, the Office of Special Projects, as an operative node",
 "id": "gerb-hidden-wing",
 "l0": false,
@@ -123,6 +134,7 @@
 "dateEnd": "1983",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-32a9162402",
 "edgeLabel": "AFOSI investigated the 1980 intrusions at the nuclear weapons storage area",
 "id": "kirtland-manzano-1980",
 "l0": false,
@@ -149,6 +161,7 @@
 "dateEnd": null,
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-0a6163a5ef",
 "edgeLabel": "Documented AFOSI special agent at Kirtland, 1980",
 "id": "richard-doty",
 "l0": false,
@@ -175,6 +188,7 @@
 "dateEnd": null,
 "dateStart": "1948",
 "direction": "out",
+"edgeId": "e-529e6b0262",
 "edgeLabel": "Air Force felony investigative and counterintelligence field agency",
 "id": "usaf",
 "l0": true,
@@ -196,6 +210,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-0fcbfaf5ff",
 "edgeLabel": "AFOSI states it holds no records of any YANKEE BLUE investigation",
 "id": "yankee-blue",
 "l0": true,
@@ -242,6 +257,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-0fcbfaf5ff",
 "label": "AFOSI states it holds no records of any YANKEE BLUE investigation",
 "note": "The Wall Street Journal reported an alleged Air Force practice of showing fabricated recovered-craft material to personnel as a loyalty test; the Department first denied any such memo existed, then in December 2025 reopened the search.",
 "of": {

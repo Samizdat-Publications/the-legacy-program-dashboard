@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-f70609ca9e",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
 "text": "Memo header: 'DEFENSE INTELLIGENCE AGENCY, WASHINGTON, D.C. 20340-5100 — INFO MEMO, U-09-2660, NOV 13 2009. FOR: DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE. SUBJECT: (U) Review of Special Access Program Request.'",
 "tier": 1
 },
 {
+"id": "c-2ee37147c2",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
 "text": "Finding: 'In reviewing the deliverables to date and looking ahead to planned production in fiscal year (FY) 2010, DIA cannot find adequate justification to establish a restricted SAP... Based on classification levels of current and projected program deliverables, there are insufficient grounds to classify this open program, invoke alternative or compensatory control measures (ACCM), or establish a restricted SAP.'",
 "tier": 1
 },
 {
+"id": "c-7b1a1e4ba6",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
 "text": "DIA Info Memo U-10-2552 records the outcome of the follow-on meeting: 'In November, 2009, Deputy Secretary of Defense Lynn and I met with Senator Reid to discuss this program. At that time, we determined the reports were of limited value to DIA. However, I did suggest they could be of merit to other organizations and, that upon the completion of the DIA contract, the project could be transitioned to another agency or component better suited to oversee the project.'",
 "tier": 1
 },
 {
+"id": "c-5a33b1bcfa",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
 "text": "The explicit suggestion that 'the project could be transitioned to another agency or component better suited to oversee the project' is the documented hinge between AAWSAP's DIA phase and whatever followed it — the same transition path AARO later describes ending in the rejected KONA BLUE proposal to DHS.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-fed1d4ce5f",
 "edgeLabel": "",
 "id": "reid-letter-2009-06-24",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d534721273",
 "edgeLabel": "USD(I) tasked DIA to evaluate; DIA declined",
 "id": "reid-letter-2009-06-24",
 "l0": false,

@@ -33,16 +33,19 @@
 ],
 "claims": [
 {
+"id": "c-bfd1539c6d",
 "source": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed to the COMETA study.",
 "tier": 2
 },
 {
+"id": "c-bcf45c470e",
 "source": "Wikipedia 'GEIPAN', citing Marc Kreidler, 'UFOs: an Assessment of Thirty Years of Official Studies in France', Skeptical Inquirer (2009)",
 "text": "Directors list: GEPAN 1984-1988 Jean-Jacques Velasco; SEPRA 1988-2004 Jean-Jacques Velasco.",
 "tier": 2
 },
 {
+"id": "c-4038428864",
 "source": "Wikipedia, 'COMETA report' (flagged there as needing citation)",
 "text": "COMETA member Jean-Jacques Velasco personally handed the 90-page report to Prime Minister Lionel Jospin.",
 "tier": 2
@@ -62,6 +65,7 @@
 "dateEnd": "1999",
 "dateStart": "1996",
 "direction": "out",
+"edgeId": "e-74a2638135",
 "edgeLabel": "serving head of SEPRA contributed to the report",
 "id": "cometa",
 "l0": true,

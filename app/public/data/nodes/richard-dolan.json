@@ -28,16 +28,19 @@
 ],
 "claims": [
 {
+"id": "c-be27353d73",
 "source": "Dolan, 'UFOs and the National Security State', vols. I and II",
 "text": "Dolan's two-volume 'UFOs and the National Security State' covers 1941-1973 (2002) and 1973-1991 (2009) and situates the UFO record within the documented growth of the US national security apparatus.",
 "tier": 2
 },
 {
+"id": "c-902acf6392",
 "source": "The Richard Dolan Show, 'No More Excuses: The Davis Wilson Notes', 28 September 2022 (archived copy)",
 "text": "Dolan publicly analysed the Davis-Wilson notes - a record of a 2002 meeting said to describe a deeply secret extraterrestrial technology reverse-engineering programme - in a broadcast dated 28 September 2022.",
 "tier": 2
 },
 {
+"id": "c-1b70c6c97e",
 "source": "Structural comparison of Dolan's method with the witness-driven literature",
 "text": "Dolan's frame, not his sources, is his contribution: he is the researcher who moved the field's burden of proof from 'prove a saucer crashed' to 'account for the documented secrecy architecture and its unaudited compartments.' Reasoning: his volumes are built on statutes, reorganisation records and programme structure, all independently checkable, and the post-2017 congressional record adopted the same frame.",
 "tier": 3
@@ -53,6 +56,7 @@
 "dateEnd": "2026",
 "dateStart": "2002",
 "direction": "out",
+"edgeId": "e-6f87df078f",
 "edgeLabel": "Dolan's institutional frame and Hastings's nuclear casework are complementary",
 "id": "robert-hastings",
 "l0": false,
@@ -74,6 +78,7 @@
 "dateEnd": "2009",
 "dateStart": "2002",
 "direction": "out",
+"edgeId": "e-da16c3647a",
 "edgeLabel": "Authored the two-volume documentary chronology",
 "id": "ufos-national-security-state",
 "l0": false,

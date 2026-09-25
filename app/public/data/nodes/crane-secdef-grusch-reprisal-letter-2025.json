@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-08bee1e6d2",
 "source": "GPO CHRG-119hhrg61718, Index of Documents",
 "text": "Listed in the hearing's Index of Documents as 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
 "tier": 1
 },
 {
+"id": "c-3f361a3645",
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Crane on the record: Grusch 'suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-9fd641996e",
 "edgeLabel": "The only congressional document enumerating the reprisal actions taken against Grusch",
 "id": "david-grusch",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-dff1956d3a",
 "edgeLabel": "Author; entered it into the hearing record while still awaiting a reply",
 "id": "eli-crane",
 "l0": false,

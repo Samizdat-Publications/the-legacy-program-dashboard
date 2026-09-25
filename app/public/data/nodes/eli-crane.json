@@ -41,26 +41,31 @@
 ],
 "claims": [
 {
+"id": "c-1ce235583d",
 "source": "CHRG-119hhrg61718 INDEX OF DOCUMENTS",
 "text": "Submitted for the record of the 9 September 2025 hearing a 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal', listed in the printed INDEX OF DOCUMENTS of CHRG-119hhrg61718.",
 "tier": 1
 },
 {
+"id": "c-4d89549125",
 "source": "Rep. Eli Crane, 9 September 2025, GPO CHRG-119hhrg61718",
 "text": "'I would like to enter into the testimony a letter I sent to the DOD regarding the case of Major David Charles Grusch, a UAP whistleblower who has been extremely helpful to this Committee. Unfortunately, due to his participation in the disclosure of UAP, he suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
 "tier": 1
 },
 {
+"id": "c-6052eefcd6",
 "source": "CHRG-119hhrg61718, Index of Documents",
 "text": "The hearing's printed Index of Documents lists 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
 "tier": 1
 },
 {
+"id": "c-e447cef602",
 "source": "Congress.gov, H.R. 5060 (119th Congress), cosponsor record",
 "text": "Cosponsor of H.R. 5060, the UAP Whistleblower Protection Act, introduced 29 August 2025.",
 "tier": 1
 },
 {
+"id": "c-663b5dc63b",
 "source": "Index of documents, Serial No. 119-44, 9 September 2025",
 "text": "The hearing's index of documents lists 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
 "tier": 1
@@ -76,6 +81,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-1d63c956f3",
 "edgeLabel": "Author; wrote DoD 24 July 2025 on Grusch's reprisal",
 "id": "crane-dod-reprisal-letter",
 "l0": false,
@@ -97,6 +103,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-dff1956d3a",
 "edgeLabel": "Author; entered it into the hearing record while still awaiting a reply",
 "id": "crane-secdef-grusch-reprisal-letter-2025",
 "l0": false,
@@ -118,6 +125,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-bef32da7d6",
 "edgeLabel": "Did not answer his 24 July 2025 letter on the reprisal against Grusch",
 "id": "dod",
 "l0": true,
@@ -139,6 +147,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-213ee1bc4e",
 "edgeLabel": "Cosponsor",
 "id": "hr-5060-uap-whistleblower-protection-act",
 "l0": false,
@@ -175,6 +184,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-bef32da7d6",
 "label": "Did not answer his 24 July 2025 letter on the reprisal against Grusch",
 "note": "Crane stated on the record on 9 September 2025 that he was still waiting for a reply six weeks later.",
 "of": {

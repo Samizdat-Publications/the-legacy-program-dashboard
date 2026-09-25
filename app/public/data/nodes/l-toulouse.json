@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-8bb11ca095",
 "source": "GEIPAN official site — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "GEIPAN operates within CNES at Toulouse and publishes its classification scheme and case statistics publicly.",
 "tier": 2
 },
 {
+"id": "c-128941e5a8",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "1977-05-01",
 "direction": "in",
+"edgeId": "e-2d105735cf",
 "edgeLabel": "GEIPAN's operating base",
 "id": "d-international",
 "l0": false,

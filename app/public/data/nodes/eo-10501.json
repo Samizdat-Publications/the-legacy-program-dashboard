@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-1560e620c1",
 "source": "EO 10501 secs. 1 and 20, https://irp.fas.org/offdocs/eo10501.htm",
 "text": "Signed 'DWIGHT D. EISENHOWER / THE WHITE HOUSE / November 5, 1953', effective 15 December 1953 under section 20.",
 "tier": 1
 },
 {
+"id": "c-e19778c6ee",
 "source": "EO 10501 sec. 19, https://irp.fas.org/offdocs/eo10501.htm",
 "text": "Section 19: 'Executive Order No. 10290 of September 24, 1951 is revoked as of the effective date of this order.'",
 "tier": 1
 },
 {
+"id": "c-8ab1c2ba39",
 "source": "EO 10501 sec. 1, https://irp.fas.org/offdocs/eo10501.htm",
 "text": "Section 1 fixes exactly three categories, Top Secret, Secret and Confidential, and bars any other designation for defense information 'except as expressly provided by statute.'",
 "tier": 1
 },
 {
+"id": "c-c323945390",
 "source": "EO 10501 sec. 2 and attached memorandum, https://irp.fas.org/offdocs/eo10501.htm",
 "text": "IT TOOK CLASSIFICATION AUTHORITY AWAY, WHICH IS THE OPPOSITE OF THE DIRECTION THE SYSTEM LATER TRAVELLED. Section 2, 'Limitation of Authority to Classify', provides that for agencies with no direct national-defense responsibility 'there shall be no authority for original classification of information or material under this order', and limits agencies with partial responsibility to the agency head without delegation. The attached memorandum names 28 agencies stripped of the authority, including the Federal Trade Commission, the Securities and Exchange Commission and the Veterans Administration, and 17 more limited to the agency head alone.",
 "tier": 1
 },
 {
+"id": "c-f9be6c632c",
 "source": "EO 10501 sec. 13, https://irp.fas.org/offdocs/eo10501.htm",
 "text": "THE JOIN TO THE NUCLEAR REGIME. Section 13 expressly leaves Atomic Energy Act Restricted Data outside the order's reach. The executive classification system and the statutory Restricted Data system are two systems, and the executive one says so.",
 "tier": 1
 },
 {
+"id": "c-f70847873e",
 "source": "attempted https://www.federalregister.gov/executive-order/10501, which redirected to https://unblock.federalregister.gov/",
 "text": "The Federal Register citation usually given for this order, 18 FR 7049, was NOT verified. federalregister.gov redirects this environment to a bot-block page, and the text read was a transcription hosted elsewhere.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": "1953-12-15",
 "direction": "out",
+"edgeId": "e-8728c3e910",
 "edgeLabel": "Excludes Restricted Data from the executive classification system",
 "id": "atomic-energy-act-1954",
 "l0": false,
@@ -71,6 +78,7 @@
 "dateEnd": null,
 "dateStart": "1953-12-15",
 "direction": "out",
+"edgeId": "e-16b4c774e4",
 "edgeLabel": "Fixes the three categories and takes classification authority away from 28 agencies",
 "id": "d-secrecy",
 "l0": false,
@@ -92,6 +100,7 @@
 "dateEnd": null,
 "dateStart": "1972-06-01",
 "direction": "in",
+"edgeId": "e-554fd9e636",
 "edgeLabel": "Supersedes the 1953 order and its six amendments",
 "id": "eo-11652",
 "l0": false,

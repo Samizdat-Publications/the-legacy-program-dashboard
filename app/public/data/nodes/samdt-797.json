@@ -5,21 +5,25 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-fad52d9446",
 "source": "CREC-2023-07-13-pt1-PgS2953",
 "text": "Congressional Record, 13 July 2023: 'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table; as follows: At the appropriate place, insert the following: TITLE _--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE SEC. __01. SHORT TITLE. This title may be cited as the \"Unidentified Anomalous Phenomena Disclosure Act of 2023\" or the \"UAP Disclosure Act of 2023\".'",
 "tier": 1
 },
 {
+"id": "c-e20e81eed7",
 "source": "Congress.gov amendment and cosponsor records, S.Amdt. 797, 118th Congress",
 "text": "Submitted 13 July 2023 by Schumer with Rounds, Rubio, Gillibrand, Young and Heinrich as original cosponsors, all sponsorship dates 13 July 2023.",
 "tier": 1
 },
 {
+"id": "c-a34f8bd206",
 "source": "Congressional Record, 13 July 2023, S2953, GPO",
 "text": "The printed text appears at Congressional Record Vol. 169, No. 120, pages S2953-S2959, and is short-titled the 'Unidentified Anomalous Phenomena Disclosure Act of 2023' or 'UAP Disclosure Act of 2023'.",
 "tier": 1
 },
 {
+"id": "c-60740da93e",
 "source": "Congress.gov actions record, S.Amdt. 797",
 "text": "The Congress.gov action record for S.Amdt. 797 shows only three actions, all dated 13 July 2023, and no vote.",
 "tier": 1
@@ -35,6 +39,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-3ba8a40c0e",
 "edgeLabel": "Sponsor of record; filed 13 July 2023",
 "id": "chuck-schumer",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "out",
+"edgeId": "e-4608876a2d",
 "edgeLabel": "the filing instrument - where the process starts and where its text is fixed",
 "id": "d-legislative",
 "l0": false,
@@ -87,6 +93,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-87798512b9",
 "edgeLabel": "Original cosponsor, 13 July 2023",
 "id": "kirsten-gillibrand",
 "l0": false,
@@ -108,6 +115,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-e1a07622a9",
 "edgeLabel": "Original cosponsor while serving as SSCI Vice Chairman",
 "id": "marco-rubio",
 "l0": false,
@@ -129,6 +137,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-f63d8da27a",
 "edgeLabel": "Original cosponsor, 13 July 2023",
 "id": "martin-heinrich",
 "l0": false,
@@ -150,6 +159,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-b489c652ac",
 "edgeLabel": "Original cosponsor, 13 July 2023",
 "id": "mike-rounds",
 "l0": false,
@@ -171,6 +181,7 @@
 "dateEnd": null,
 "dateStart": "2023-07-13",
 "direction": "out",
+"edgeId": "e-2b17714943",
 "edgeLabel": "amendment to",
 "id": "s2226-118",
 "l0": false,
@@ -192,6 +203,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-577fd990f3",
 "edgeLabel": "Original cosponsor, 13 July 2023",
 "id": "todd-young",
 "l0": false,
@@ -213,6 +225,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-4da9f95ced",
 "edgeLabel": "The amendment became Division G of the engrossed bill",
 "id": "uapda-2023",
 "l0": true,

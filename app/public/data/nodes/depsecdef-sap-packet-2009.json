@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-e3224e2e56",
 "source": "Packet presented to DEPSECDEF, 17 November 2009",
 "text": "Clapper, as USD(I), recommended against establishing a Special Access Program 'at this time' based on FY09 deliverables and anticipated FY10 work.",
 "tier": 1
 },
 {
+"id": "c-cda957f3b7",
 "source": "Packet presented to DEPSECDEF, 17 November 2009",
 "text": "The packet records three concurrent names for the effort: AAWSAP (official contract title), AAITP (Reid's usage), and AATIP (unclassified nickname).",
 "tier": 1
 },
 {
+"id": "c-15729f10f9",
 "source": "Packet presented to DEPSECDEF, 17 November 2009",
 "text": "DIA completed technical reviews in October 2009 covering 26 papers and found no justification for restricted SAP protections.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-a2d15697ff",
 "edgeLabel": "records three concurrent names for one program",
 "id": "aatip",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-d4c5520ff0",
 "edgeLabel": "USD(I) recommends against establishing a SAP",
 "id": "james-clapper",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-490318928a",
 "edgeLabel": "decision packet presented 17 November 2009",
 "id": "william-lynn",
 "l0": false,
@@ -105,6 +111,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-490318928a",
 "label": "decision packet presented 17 November 2009",
 "note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
 "of": null,
@@ -131,6 +138,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-d4c5520ff0",
 "label": "USD(I) recommends against establishing a SAP",
 "note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
 "of": {

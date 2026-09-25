@@ -41,21 +41,25 @@
 ],
 "claims": [
 {
+"id": "c-4b3e807010",
 "source": "CHRG-118hhrg53022, 26 July 2023",
 "text": "Ranking Member of the subcommittee that held the 26 July 2023 hearing; opened it by crediting Burchett's leadership and framing UAP as a national-security and institutional-trust question.",
 "tier": 1
 },
 {
+"id": "c-3898ee5201",
 "source": "H.R. 6967 (118th Congress), as introduced, GPO",
 "text": "Sponsor of H.R. 6967, the Safe Airspace for Americans Act, introduced 11 January 2024, to create an FAA-to-AARO civilian UAP reporting channel with legal safeguards.",
 "tier": 1
 },
 {
+"id": "c-3a426771c4",
 "source": "The Hill, 12 January 2024",
 "text": "After the 12 January 2024 ICIG briefing: it is reasonable to contend that 'everyone that was in the room received probably new information.'",
 "tier": 2
 },
 {
+"id": "c-6c05829ad9",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited: 'Absolutely, based on interviewing over 40 witnesses over 4 years... I actually had the people with the firsthand knowledge provide a protected disclosure to the Inspector General.'",
 "tier": 1
@@ -71,6 +75,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-7272153b37",
 "edgeLabel": "Elicited the 40-witnesses-over-4-years answer and the protected disclosure chain",
 "id": "david-grusch",
 "l0": false,
@@ -92,6 +97,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-9e8c3cf991",
 "edgeLabel": "Ranking Member at the 2023 hearing",
 "id": "hoc-subcommittee-national-security",
 "l0": false,
@@ -113,6 +119,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-5eac3debc5",
 "edgeLabel": "Ranking Member of the full committee from 2025",
 "id": "house-oversight-committee",
 "l0": true,
@@ -134,6 +141,7 @@
 "dateEnd": "2025",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-d83ca4e935",
 "edgeLabel": "Sponsor",
 "id": "hr-6967-safe-airspace-for-americans-act",
 "l0": false,

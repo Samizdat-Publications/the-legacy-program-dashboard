@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-ac4dc11f47",
 "source": "NSC 10/2, National Security Council Directive on Office of Special Projects, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
 "text": "The charter creates the office by that name: 'A new Office of Special Projects shall be created within the Central Intelligence Agency to plan and conduct covert operations; and in coordination with the Joint Chiefs of Staff to plan and prepare for the conduct of such operations in wartime.'",
 "tier": 1
 },
 {
+"id": "c-50f0b4d93c",
 "source": "NSC 10/2, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
 "text": "It is written under the residual clause of the 1947 Act: the Council directs the creation 'under the authority of Section 102(d)(5) of the National Security Act of 1947'.",
 "tier": 1
 },
 {
+"id": "c-5976133b9d",
 "source": "NSC 10/2, 18 June 1948, paragraph 5, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
 "text": "The definition is a definition of deniability. Covert operations are those 'so planned and executed that any US Government responsibility for them is not evident to unauthorized persons and that if uncovered the US Government can plausibly disclaim any responsibility for them', and the named categories are 'propaganda, economic warfare; preventive direct action, including sabotage, anti-sabotage, demolition and evacuation measures; subversion against hostile states'. Espionage, counter-espionage and 'cover and deception for military operations' are expressly excluded.",
 "tier": 1
 },
 {
+"id": "c-3cf3b0d96c",
 "source": "NSC 10/2, 18 June 1948, paragraph 3.c, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
 "text": "The office was built to sit apart inside its own agency: 'The Chief of the Office of Special Projects shall report directly to the Director of Central Intelligence. For purposes of security and of flexibility of operations, and to the maximum degree consistent with efficiency, the Office of Special Projects shall operate independently of other components of Central Intelligence Agency.'",
 "tier": 1
 },
 {
+"id": "c-a5537d2bb9",
 "source": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
 "text": "The operating name and the first officer come from the same volume's list of persons: 'Wisner, Frank G., Deputy Assistant Secretary of State for the Occupied Areas, 1947-1948; Assistant Director for Policy Coordination, Central Intelligence Agency, from September 1, 1948.' George F. Kennan and John Magruder are recorded as senior consultants to the Office of Policy Coordination representing the Secretary of State and the Secretary of Defense respectively, both from September 1948.",
 "tier": 1
 },
 {
+"id": "c-f9af42baac",
 "source": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:25:21 to 1:31:56; tested against NSC 10/2, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
 "text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:29:15 to 1:31:56, Matthew Ehret said the office staffed NICAP's leadership and that the founder of the National Enquirer worked in it for fourteen months before founding the paper, and at 1:25:21 that Richard Bissell headed it. No record opened here bears on any of the three. The only officer named in the opened records is Frank G. Wisner, from 1 September 1948.",
 "tier": 2
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": "1948-06-18",
 "direction": "out",
+"edgeId": "e-7eb727a4b1",
 "edgeLabel": "Created inside the Agency by NSC 10/2",
 "id": "cia",
 "l0": true,
@@ -66,6 +73,7 @@
 "dateEnd": null,
 "dateStart": "1948-06-18",
 "direction": "out",
+"edgeId": "e-767f24842a",
 "edgeLabel": "Propaganda is the first named category in the charter",
 "id": "d-psyop",
 "l0": false,
@@ -87,6 +95,7 @@
 "dateEnd": null,
 "dateStart": "1948-06-18",
 "direction": "out",
+"edgeId": "e-72b3fb2538",
 "edgeLabel": "Chartered under section 102(d)(5) of the Act he signed",
 "id": "harry-s-truman",
 "l0": false,
@@ -108,6 +117,7 @@
 "dateEnd": null,
 "dateStart": "1948-06-18",
 "direction": "out",
+"edgeId": "e-cee2233a45",
 "edgeLabel": "Chartered under the residual clause, section 102(d)(5)",
 "id": "national-security-act-1947",
 "l0": false,
@@ -134,6 +144,7 @@
 "dateEnd": null,
 "dateStart": "1954-03-15",
 "direction": "in",
+"edgeId": "e-9141865605",
 "edgeLabel": "Supersedes and rescinds the charter that created the office",
 "id": "nsc-5412",
 "l0": false,

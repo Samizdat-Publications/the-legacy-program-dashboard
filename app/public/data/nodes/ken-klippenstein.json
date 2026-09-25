@@ -17,11 +17,13 @@
 ],
 "claims": [
 {
+"id": "c-819fcb217d",
 "source": "The Intercept, 9 August 2023",
 "text": "Published Loudoun County Sheriff's Office records describing Grusch's 2014 and 2018 emergency custody episodes, obtained under Virginia FOIA.",
 "tier": 1
 },
 {
+"id": "c-894a80ae6c",
 "source": "Rep. Nancy Mace, Task Force on the Declassification of Federal Secrets hearing, 9 September 2025",
 "text": "Members of Congress characterize the leak as retaliation: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
 "tier": 2
@@ -39,6 +41,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-e53d978268",
 "edgeLabel": "FOIA request that produced the records at issue in the suit",
 "id": "grusch-v-chapman",
 "l0": false,
@@ -65,6 +68,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-210bf9b041",
 "edgeLabel": "Member of Congress characterizes the records leak as a discrediting operation",
 "id": "nancy-mace",
 "l0": false,
@@ -101,6 +105,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-210bf9b041",
 "label": "Member of Congress characterizes the records leak as a discrediting operation",
 "note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
 "of": {

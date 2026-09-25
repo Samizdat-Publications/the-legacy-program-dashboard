@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-a59d97025c",
 "source": "NASA announcements and the team's final report",
 "text": "NASA commissioned the sixteen-member UAP Independent Study Team on 24 May 2022 under chair David Spergel with Daniel Evans as designated federal official; it began work 24 October 2022, held one public meeting on 31 May 2023, and reported on 14 September 2023.",
 "tier": 1
 },
 {
+"id": "c-8d0d6851ef",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
 "text": "The report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data characterises many unexplained events, recommending a rigorous evidence-based approach using AI and citizen observers.",
 "tier": 1
 },
 {
+"id": "c-b4efce70c9",
 "source": "Inference from the panel's remit; no member has reported a classified read-on",
 "text": "The panel operated entirely on unclassified data and was never read on to classified holdings, so its finding of insufficient evidence is a statement about its own access rather than about the government's holdings.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "out",
+"edgeId": "e-ba1e31b8a7",
 "edgeLabel": "Ran concurrently with, and separately from, AARO",
 "id": "aaro",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-79fba6ce0b",
 "edgeLabel": "Concluded data was insufficient - having been given only the unclassified record",
 "id": "d-custody",
 "l0": false,
@@ -77,6 +82,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-45ebe5add5",
 "edgeLabel": "Chaired the sixteen-member NASA panel, 2022-2023",
 "id": "david-spergel",
 "l0": false,
@@ -118,6 +124,7 @@
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-79fba6ce0b",
 "label": "Concluded data was insufficient - having been given only the unclassified record",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
 "of": {

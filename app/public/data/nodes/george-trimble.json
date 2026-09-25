@@ -8,31 +8,37 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-36517f6c5d",
 "source": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955 caption and continuation p. 36 and 22 November 1955 continuation p. 10, page images at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
 "text": "In November 1955 he was a vice-president of Martin, not its chief executive, and the atom-bomb comparison he made was about time and not about money. Ansel Talbert's Herald Tribune series identifies him as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and quotes him: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
 "tier": 1
 },
 {
+"id": "c-4f7e30bf65",
 "source": "History of the Institute of Field Physics (1955-1959), UNC Physics and Astronomy department history https://physics.unc.edu/home/department-history/section-ii/",
 "text": "The UNC Physics and Astronomy department history names the Air Force route into the Institute of Field Physics as the Aeronautical Research Laboratory at Wright-Patterson Air Force Base, not the Wright Air Development Center: 'Joshua Goldberg was, at the time of the establishment of the IOFP and the conference, in charge of aspects of the Air Force's funding of general relativity, in the \"modern physics research branch\" (based at the Aeronautical Research Laboratory at Wright Patterson Air Force Base).' The page uses neither 'Wright Air Development Center' nor 'WADC'.",
 "tier": 1
 },
 {
+"id": "c-6b934dcf5c",
 "source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 Chapel Hill conference report",
 "text": "In a letter to Bryce DeWitt dated 10 June 1955, Trimble wrote: 'It occurred to us some time ago that our industry was vitally concerned with gravity. As time goes on we become more and more concerned because we feel certain that sooner or later man will invade space and we see it as our job to do everything possible to speed this event. At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity.'",
 "tier": 2
 },
 {
+"id": "c-f49cade67f",
 "source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles",
 "text": "The same letter opens by recording a conversation with George Rideout, president of Roger Babson's Gravity Research Foundation, 'commiserating on the unfortunate state of the affairs that knowledgable folks do not wish to get mixed up in the field of gravity research.' Rickles adds that Trimble bemoans that most of those working on gravitation are 'madmen and quacks'.",
 "tier": 2
 },
 {
+"id": "c-0f25d56469",
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context'",
 "text": "Trimble described the body he proposed as an 'industrial version of the Institute for Advanced Study'. The Glenn L. Martin Company's institute was 'industry-sponsored, and not ensconced in a university', while the Institute of Field Physics was deliberately placed inside the University of North Carolina 'so as to avoid the conflict that physicists felt working in an industrial setting.'",
 "tier": 2
 },
 {
+"id": "c-02f076cf46",
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context'",
 "text": "Trimble and the Glenn L. Martin Company bought a Founder's Membership in the Institute of Field Physics for $5,000 and offered to help solicit further funding.",
 "tier": 2
@@ -48,6 +54,7 @@
 "dateEnd": null,
 "dateStart": "1955",
 "direction": "in",
+"edgeId": "e-b06204b20b",
 "edgeLabel": "Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000",
 "id": "institute-of-field-physics",
 "l0": true,
@@ -69,6 +76,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "in",
+"edgeId": "e-a37eca98c8",
 "edgeLabel": "Trimble proposed RIAS as an industrial institute for advanced study",
 "id": "rias-inc",
 "l0": false,
@@ -90,6 +98,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6a9fe39af6",
 "edgeLabel": "Quoted by name as Martin's vice-president in charge of advanced design planning",
 "id": "talbert-gravity-series-1955",
 "l0": true,

@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-5c96dba8b7",
 "source": "Schulgen draft collection memorandum, 1947, declassified text",
 "text": "The document is titled 'Intelligence Requirements on Flying Saucer Type Aircraft', signed by Brig. Gen. George F. Schulgen, Chief, Air Intelligence Requirements Division, dated 28 October 1947 and distributed 30 October 1947.",
 "tier": 1
 },
 {
+"id": "c-fed66ce158",
 "source": "Schulgen collection memorandum, observable features section",
 "text": "Collectors were directed to report on 'extreme maneuverability and apparent ability to almost hover', a 'relatively flat bottom with extreme light-reflecting ability', and an oval or disc plan form with a dome.",
 "tier": 1
 },
 {
+"id": "c-d8d8d34d58",
 "source": "Schulgen collection memorandum, propulsion section",
 "text": "'Nuclear propulsion (atomic energy)' is listed among the propulsion systems collectors were to investigate.",
 "tier": 1
 },
 {
+"id": "c-691f9b39cc",
 "source": "Schulgen collection memorandum, design origins section",
 "text": "The memorandum frames the objects as potentially manned aircraft of Russian origin derived from German Horten brothers designs and asks for the Hortens' current whereabouts.",
 "tier": 1
 },
 {
+"id": "c-58365ab41f",
 "source": "Inference from the two documents read in sequence",
 "text": "The Horten framing functions as a collection cover story: the requirements describe capabilities no flying wing possessed, and the same office had received the Twining memo five weeks earlier stating the phenomenon was real.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-f1ca115ef0",
 "edgeLabel": "Schulgen signed the flying saucer collection requirement",
 "id": "george-schulgen",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "1948",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-0aa5d57e05",
 "edgeLabel": "Collection requirement fed the project that began weeks later",
 "id": "project-sign",
 "l0": false,

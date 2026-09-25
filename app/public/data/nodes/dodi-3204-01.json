@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-a2379cd6ec",
 "source": "DoD Instruction 3204.01, 20 August 2014, incorporating Change 2, 9 July 2020",
 "text": "IR&D costs 'will be allowable as indirect expenses on covered contracts to the extent they are allocable and reasonable'; reporting is required only of major contractors allocating over $11 million in IR&D and B&P costs, via project summaries reviewed for cost allowability.",
 "tier": 1
 },
 {
+"id": "c-4c4f79c707",
 "source": "Public Law 118-31, Sec. 1687(b) (50 U.S.C. 3373 note)",
 "text": "NDAA FY2024 Sec. 1687(b) cites DoDI 3204.01 by number and change date and makes UAP-related IR&D unallowable as an indirect expense unless the material and information is made available to the appropriate congressional committees and congressional leadership.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-91f862baf1",
 "edgeLabel": "Grusch named contractor IR&D under oath as the funding channel for concealed UAP work",
 "id": "david-grusch",
 "l0": false,
@@ -51,6 +54,7 @@
 "dateEnd": "1997",
 "dateStart": "1968",
 "direction": "in",
+"edgeId": "e-9e18b58924",
 "edgeLabel": "Corporate self-funded UAP research is the historical precedent for the IR&D channel",
 "id": "mcdonnell-douglas",
 "l0": false,
@@ -72,6 +76,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "in",
+"edgeId": "e-9dad12c718",
 "edgeLabel": "Targets contractor independent research and development as a concealment route",
 "id": "ndaa-fy2024-1687",
 "l0": true,
@@ -93,6 +98,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-0e54c58a32",
 "edgeLabel": "Congress legislated directly against the IR&D mechanism, citing the instruction by number and change date",
 "id": "ndaa-fy2024-1687",
 "l0": true,

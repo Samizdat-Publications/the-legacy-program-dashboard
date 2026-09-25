@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-4e7f5b1aa6",
 "source": "The Hill/NewsNation, 29 June 2026",
 "text": "Held 25 June 2026, sponsored by the Disclosure Foundation, billed as a first-of-its-kind gathering of lawmakers, UAP researchers and whistleblowers.",
 "tier": 2
 },
 {
+"id": "c-319008468b",
 "source": "The Hill/NewsNation, 29 June 2026",
 "text": "Rep. Burlison announced at the forum that MIT Lincoln Laboratory had agreed to make available a 1952 UFO briefing recording.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-95865c5415",
 "edgeLabel": "Announced the Lincoln Laboratory production at the forum",
 "id": "eric-burlison",
 "l0": false,

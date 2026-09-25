@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-3e5396911e",
 "source": "Nature Portfolio record for s41598-025-21620-3",
 "text": "The October 2025 Scientific Reports paper on POSS-I transients lists Stephen Bruehl of Vanderbilt University Medical Center as an author, with Beatriz Villarroel of Nordita/KTH/Stockholm University; DOI 10.1038/s41598-025-21620-3, published 20 October 2025.",
 "tier": 1
 },
 {
+"id": "c-feeb9e32d6",
 "source": "Scientific Reports, abstract",
 "text": "The paper reports transients were about 45% more likely on dates within +/- 1 day of nuclear testing, and an 8.5% increase in transient observations for each additional UAP report on a given date.",
 "tier": 1
 },
 {
+"id": "c-6b2b713005",
 "source": "Inference",
 "text": "Publication of this analysis in a Nature Portfolio journal under a Vanderbilt medical affiliation marks a change in what the mainstream literature will accept, and it is the kind of result that cannot be retracted by an agency decision. Reasoning: from the venue and the institutional affiliation on the paper.",
 "tier": 3
 },
 {
+"id": "c-c1af4cc7a6",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-aad585e2f6",
 "edgeLabel": "AATIP's 2017 disclosure pulled a Vanderbilt lab into UAP research",
 "id": "aatip",
 "l0": true,
@@ -66,6 +71,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-2763c6397d",
 "edgeLabel": "Vanderbilt UAP statistician invited to a Pentagon-sponsored expert meeting",
 "id": "dod",
 "l0": true,

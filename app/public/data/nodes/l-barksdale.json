@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-3bee01484c",
 "source": "Capt. Hunter Rininger, Barksdale AFB Public Affairs, 9 March 2026",
 "text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
 "tier": 1
 },
 {
+"id": "c-6c05d8d45a",
 "source": "The War Zone, 25 March 2026",
 "text": "Multiple waves of 12-15 drones were observed over sensitive areas including the flight line; drones resisted jamming and showed non-commercial signal characteristics.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-f269ae85ea",
 "edgeLabel": "Site of the March 2026 incursion waves and FPCON Charlie alert",
 "id": "barksdale-2026-incursions",
 "l0": false,

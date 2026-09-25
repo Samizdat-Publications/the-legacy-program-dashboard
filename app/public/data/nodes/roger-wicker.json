@@ -22,26 +22,31 @@
 ],
 "claims": [
 {
+"id": "c-45aea027de",
 "source": "S. 4784 (Reported in Senate), Report No. 119-127, GPO full text",
 "text": "S. 4784, the FY2027 NDAA as reported by the Armed Services Committee, contains no UAP provisions: zero occurrences of 'unidentified', 'UAP', or a citation to 50 U.S.C. 3373.",
 "tier": 1
 },
 {
+"id": "c-b4da580860",
 "source": "Congress.gov bill actions and amendment record, S. 1071, 119th Congress",
 "text": "The FY2026 NDAA, S. 1071, was disposed of with 17 amendments total, of which the only Senate floor amendment proposed was SA 3961 by Senator Thune 'to improve the bill' on 11 December 2025.",
 "tier": 1
 },
 {
+"id": "c-87e2323463",
 "source": "P.L. 119-60 full text, GPO",
 "text": "P.L. 119-60 Subtitle E consists of Secs. 1671, 1672 and 1673 only; the Act contains no instance of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'.",
 "tier": 1
 },
 {
+"id": "c-36b2147fa7",
 "source": "https://www.armed-services.senate.gov/about/membership",
 "text": "Roger F. Wicker (R-MS) is listed as Chairman of the Senate Armed Services Committee on the committee's official membership page.",
 "tier": 1
 },
 {
+"id": "c-1e439d98a1",
 "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
 "text": "Wicker was Ranking Member of the Senate Armed Services Committee in the 118th Congress, opposite Chairman Jack Reed.",
 "tier": 1
@@ -57,6 +62,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-daa0a085a2",
 "edgeLabel": "Chaired SASC for the FY2026 authorization",
 "id": "ndaa-fy2026",
 "l0": true,
@@ -83,6 +89,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-6f13dadfb7",
 "edgeLabel": "Reported an FY2027 NDAA containing no UAP provisions",
 "id": "ndaa-fy2027-s4784",
 "l0": false,
@@ -104,6 +111,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c41c35e467",
 "edgeLabel": "seat 1 of 12 - Chairman, Senate Armed Services",
 "id": "waived-sap-notification-group",
 "l0": true,

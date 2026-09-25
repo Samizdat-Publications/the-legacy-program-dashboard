@@ -27,11 +27,13 @@
 ],
 "claims": [
 {
+"id": "c-238409647c",
 "source": "Jaime Shandera and William Moore, consistent public accounts from 1987 onward",
 "text": "The MJ-12 film arrived anonymously at Shandera's residence on 11 December 1984 bearing an Albuquerque postmark.",
 "tier": 2
 },
 {
+"id": "c-210e27c2a7",
 "source": "National Archives, 'Majestic 12 (MJ-12) Reference Report'",
 "text": "A memorandum for General Twining from Robert Cutler, Special Assistant to the President, subject 'NSC/MJ-12 Special Studies Project,' dated 14 July 1954, was located at the National Archives in Record Group 341, entry 267, folder T4-1846 - the only document in NARA's custody bearing the term MJ-12.",
 "tier": 1
@@ -49,6 +51,7 @@
 "dateEnd": "1984",
 "dateStart": "1984",
 "direction": "out",
+"edgeId": "e-7a2d61cfb7",
 "edgeLabel": "Received the anonymous 35mm film on 11 December 1984",
 "id": "mj-12-documents",
 "l0": false,
@@ -75,6 +78,7 @@
 "dateEnd": "2026-08-21",
 "dateStart": "2026-08-21",
 "direction": "in",
+"edgeId": "e-9197ec8041",
 "edgeLabel": "Doty says Shandera was an NIS asset shortly before the MJ-12 dead drop",
 "id": "naval-criminal-investigative-service",
 "l0": false,

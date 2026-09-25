@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-c9afb9f987",
 "source": "Preface of the released document",
 "text": "The document's Hypothesis One reads: 'Sufficient evidence exists from human injury / effects to reverse engineer certain aspects of the Energy / Propulsion Systems.'",
 "tier": 1
 },
 {
+"id": "c-6f5c39bdbe",
 "source": "Executive Summary of the released document",
 "text": "Its executive summary states that reported incidents and acquired medical data 'support a hypothesis that some advanced systems are already deployed, and opaque to full US Intelligence understanding', and that the medical analyses 'do indicate the use of (to us) unconventional and advanced energy systems'.",
 "tier": 1
 },
 {
+"id": "c-855d0f2c47",
 "source": "Preface of the released document",
 "text": "The document quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' regarding 'Probable ET Generated Specific Near-field Electromagnetic Emissions'.",
 "tier": 1
 },
 {
+"id": "c-9c615bcdeb",
 "source": "Contents and body of the released document",
 "text": "It draws on 42 peer-reviewed cases and approximately 300 unpublished cases, names the Cash-Landrum event, and includes 'Schuessler Catalog', 'Green Morris Cases' and 'Green-Morris ICD Diagnostics' appendices.",
 "tier": 1
 },
 {
+"id": "c-2a2129e56b",
 "source": "Preface of the released document",
 "text": "It proposes a continuation effort evaluating 300 to 500 events in ICD-code diagnostics with decisions on investigation 'together with Sponsors'.",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": "2009",
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-e17e4dea1a",
 "edgeLabel": "Preface quotes a November 2007 proposal on 'Probable ET Generated' emissions addressed to Puthoff/Hathaway",
 "id": "harold-puthoff",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-22616b6ddf",
 "edgeLabel": "Produced under the Institute for Advanced Studies at Austin imprint",
 "id": "institute-advanced-studies-austin",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-72d320eaff",
 "edgeLabel": "Author of the AAWSAP human-injury reference document",
 "id": "kit-green",
 "l0": false,

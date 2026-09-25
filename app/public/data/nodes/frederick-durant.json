@@ -28,16 +28,19 @@
 ],
 "claims": [
 {
+"id": "c-0e414fdc95",
 "source": "Durant memorandum, 16 Feb 1953, CIA Office of Scientific Intelligence",
 "text": "Durant's 16 February 1953 memorandum to the Assistant Director for Scientific Intelligence is the primary record of the Robertson Panel's proceedings.",
 "tier": 1
 },
 {
+"id": "c-e82239d09d",
 "source": "Durant memorandum / Robertson Panel report text",
 "text": "The Durant record documents panel concern about 'the cultivation of a morbid national psychology in which skilful hostile propaganda could induce hysterical behavior' and recommends monitoring civilian UFO groups.",
 "tier": 1
 },
 {
+"id": "c-f37b06ad1e",
 "source": "Haines, CIA Studies in Intelligence 1997, on the classification history of the panel record",
 "text": "The Durant Report circulated for years in redacted form before fuller text was released, obscuring the panel's media recommendations.",
 "tier": 2
@@ -53,6 +56,7 @@
 "dateEnd": "1953",
 "dateStart": "1953",
 "direction": "out",
+"edgeId": "e-9d8f49cf11",
 "edgeLabel": "Durant was panel secretary and wrote the proceedings record",
 "id": "robertson-panel",
 "l0": true,

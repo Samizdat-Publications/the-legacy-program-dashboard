@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-f8d75709c1",
 "source": "Publisher's imprint and library catalogue records — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
 "tier": 2
 },
 {
+"id": "c-c07d776444",
 "source": "Berlitz and Moore, 'The Roswell Incident' (1980), as cited in the Haut literature — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The book states that Walter Haut was 'not a witness'.",
 "tier": 2
 },
 {
+"id": "c-c82d61c02b",
 "source": "Structural inference from the 1980 text",
 "text": "The 1980 book's decision to combine the Foster ranch debris with the second-hand San Agustin account created the two-site problem that every subsequent Roswell scenario has had to solve, and none has. Reasoning: the sites are 175 miles apart and the combination was an editorial choice, not a witness claim.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "1980",
 "dateStart": "1978",
 "direction": "in",
+"edgeId": "e-3bd6422e43",
 "edgeLabel": "Marcel's account is the spine of the 1980 book",
 "id": "jesse-marcel",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1980",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-6e1d327b8f",
 "edgeLabel": "Co-authored the founding Roswell book",
 "id": "william-l-moore",
 "l0": false,

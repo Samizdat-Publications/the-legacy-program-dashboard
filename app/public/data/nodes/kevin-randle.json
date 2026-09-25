@@ -59,31 +59,37 @@
 ],
 "claims": [
 {
+"id": "c-d997318f2d",
 "source": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
 "text": "Writing on 14 February 2021, he announced the death of Clifford E. Stone on 10 February 2021 in Roswell, New Mexico, and set out the discrepancies between Stone's account and his service record: Stone 'claimed four tours, though his military records showed that he had been overseas for 37 months and not all of it in Vietnam', and of the claim that he slipped out at night to hunt the enemy, 'There is nothing in the record to support that claim.'",
 "tier": 2
 },
 {
+"id": "c-dc6b1a3872",
 "source": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
 "text": "He states the basis of his knowledge of Stone: he met him in February 1989 and 'visited him at his home many times'. This is a thirty-year personal acquaintance rather than a records-based debunking, which is why his account and Klass's are independent methods rather than one method twice.",
 "tier": 2
 },
 {
+"id": "c-1e2e0657a0",
 "source": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html , opened 2026-09-19",
 "text": "He hosted and published Peter Robbins's account of the Larry Warren repudiation in August 2017, which is one of the two routes by which that material reached this board.",
 "tier": 2
 },
 {
+"id": "c-a820af2e13",
 "source": "Library catalogue records mirrored at the Internet Archive (truthaboutufocra0000rand; ufocrashatroswel00rand) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "'The Truth About the UFO Crash at Roswell' by Kevin D. Randle and Donald R. Schmitt was published in 1994, 251 pages with bibliographical references and index; 'UFO Crash at Roswell' was published in 1991.",
 "tier": 2
 },
 {
+"id": "c-d9ff54abab",
 "source": "Robert Sheaffer interviews with Randle, Skeptical Inquirer",
 "text": "Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust.",
 "tier": 2
 },
 {
+"id": "c-be94466742",
 "source": "Randle, 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002)",
 "text": "Randle concluded the Majestic 12 documents were not authentic, in direct opposition to Stanton Friedman.",
 "tier": 2
@@ -101,6 +107,7 @@
 "dateEnd": "2021-02-14",
 "dateStart": "2021-02-14",
 "direction": "out",
+"edgeId": "e-50bccd2233",
 "edgeLabel": "Thirty-year acquaintance who records the same discrepancies from the record",
 "id": "clifford-stone",
 "l0": false,
@@ -122,6 +129,7 @@
 "dateEnd": "1996",
 "dateStart": "1991",
 "direction": "out",
+"edgeId": "e-c3b4efeb70",
 "edgeLabel": "Co-authors of the two Roswell books, later estranged",
 "id": "don-schmitt",
 "l0": false,
@@ -143,6 +151,7 @@
 "dateEnd": "2010",
 "dateStart": "1995",
 "direction": "in",
+"edgeId": "e-8dfef71261",
 "edgeLabel": "Randle's case-by-case surveys audit Stringfield's corpus",
 "id": "leonard-stringfield",
 "l0": false,
@@ -164,6 +173,7 @@
 "dateEnd": "1997",
 "dateStart": "1991",
 "direction": "in",
+"edgeId": "e-62b6651927",
 "edgeLabel": "The Air Force reports were the institutional response to the Randle-Schmitt books",
 "id": "richard-weaver-usaf",
 "l0": false,
@@ -185,6 +195,7 @@
 "dateEnd": "2019",
 "dateStart": "1987",
 "direction": "in",
+"edgeId": "e-2ee2bc759c",
 "edgeLabel": "Unresolved dispute over MJ-12 authenticity",
 "id": "stanton-friedman",
 "l0": false,
@@ -206,6 +217,7 @@
 "dateEnd": "2002",
 "dateStart": "1989-07",
 "direction": "in",
+"edgeId": "e-3efb6ca3ff",
 "edgeLabel": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
 "id": "william-l-moore",
 "l0": false,
@@ -242,6 +254,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-50bccd2233",
 "label": "Thirty-year acquaintance who records the same discrepancies from the record",
 "note": "A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night.",
 "of": {
@@ -271,6 +284,7 @@
 },
 "claimTier": 3,
 "denialKind": "directed",
+"edgeId": "e-62b6651927",
 "label": "The Air Force reports were the institutional response to the Randle-Schmitt books",
 "note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
 "of": {
@@ -297,6 +311,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "association",
+"edgeId": "e-2ee2bc759c",
 "label": "Unresolved dispute over MJ-12 authenticity",
 "note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
 "of": null,
@@ -320,6 +335,7 @@
 "by": null,
 "claimTier": 2,
 "denialKind": "association",
+"edgeId": "e-3efb6ca3ff",
 "label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
 "note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
 "of": null,

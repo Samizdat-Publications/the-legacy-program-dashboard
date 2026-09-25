@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-4825f978b9",
 "source": "Memorandum for the Deputy Director of Central Intelligence, 'Request for Guidance on Handling Recently Located MKULTRA Material', 22 June 1977, David S. Brandwein, Director, Office of Technical Service, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "text": "The Agency's own memorandum names the request and the mechanism: 'As a result of John Marks FOIA request (F-76-374), all of the MKULTRA material in OTS possession was reviewed for possible release to him. Following that review, the OTS material in the Retired Records Center was searched. It was during that latter search that the subproject files were located among the retired records of the OTS Budget and Fiscal Section.'",
 "tier": 1
 },
 {
+"id": "c-1db463ff4c",
 "source": "Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "text": "The same memorandum records that the case was in litigation and sets the order of notification: 'The MARKS case is in litigation and we are committed to advise Mr. Marks of the existence of these files shortly, and to deliver the releasable material to his attorneys by 31 July.' Its recommended actions are to release sanitized material to his attorneys as required by FOIA litigation and to 'Inform the Senate Select Committee of the existence of the recently located records prior to informing Mr. Marks' attorneys.'",
 "tier": 1
 },
 {
+"id": "c-d95dfb90d0",
 "source": "Opening statement, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "text": "The Senate said the same thing without the name: 'Then one individual, through a Freedom of Information request, accomplished what two U.S. Senate committees could not. He spurred the agency into finding additional records pertaining to the CIA's program of experimentation with human subjects.'",
 "tier": 1
 },
 {
+"id": "c-52cbf91664",
 "source": "Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "text": "The recovered boxes included the programme's founding paper. The 22 June 1977 memorandum notes that 'the original memorandum setting up MKULTRA, signed [by] Mr. Dulles, is also among these documents.'",
 "tier": 1
 },
 {
+"id": "c-6416daadcd",
 "source": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:11:04 to 1:12:46",
 "text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 1:11:04 to 1:12:46, Tom O'Neill described John Marks as a State Department official who found MKULTRA's surviving financial records, blew the whistle and went to Congress. The CIA memorandum reprinted in the 1977 hearing print says the search and the finding were done inside the Agency in response to his FOIA request, and that the Agency was advised to inform the Senate Select Committee before informing his attorneys.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "1977",
 "direction": "out",
+"edgeId": "e-081b48d000",
 "edgeLabel": "A FOIA request that defeated a records-destruction order",
 "id": "d-foia",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "1977",
 "dateStart": "1976",
 "direction": "out",
+"edgeId": "e-ecbd1ca66a",
 "edgeLabel": "The FOIA request that caused the recovery of the surviving MKULTRA file",
 "id": "mkultra",
 "l0": true,
@@ -82,6 +89,7 @@
 "dateEnd": "1977-08-03",
 "dateStart": "1977-06-22",
 "direction": "out",
+"edgeId": "e-08b8a6f2de",
 "edgeLabel": "CIA advised to notify the Senate Select Committee before the requester's attorneys",
 "id": "senate-intelligence",
 "l0": true,

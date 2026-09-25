@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-53e609b7bd",
 "source": "Statement for the Record, Dr. Jon Kosloski, SASC ETC Subcommittee, 19 November 2024",
 "text": "Kosloski testified on 19 November 2024 that AARO holds over 1,600 UAP reports and has discovered no verifiable evidence of extraterrestrial beings, activity, or technology.",
 "tier": 1
 },
 {
+"id": "c-92a64a5be8",
 "source": "Statement for the Record, 19 November 2024, full text",
 "text": "Kosloski's statement for the record makes no mention of whistleblowers, Immaculate Constellation, or Volume II of the Historical Record Report.",
 "tier": 1
 },
 {
+"id": "c-3a8d2f75d1",
 "source": "Kosloski media roundtable 14 November 2024 and SASC testimony 19 November 2024",
 "text": "Kosloski concurrently stated AARO is analysing several 'truly anomalous' cases he does not understand.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-ce2dbe2b68",
 "edgeLabel": "Kosloski's statement for the record does not mention Immaculate Constellation",
 "id": "immaculate-constellation",
 "l0": true,
@@ -56,6 +60,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-f31a78d73a",
 "edgeLabel": "first congressional testimony as AARO director",
 "id": "jon-kosloski",
 "l0": false,
@@ -92,6 +97,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-ce2dbe2b68",
 "label": "Kosloski's statement for the record does not mention Immaculate Constellation",
 "note": "The alleged programme had been entered into the congressional record weeks earlier and described in an ODNI unclassified press item of 22 October 2024; AARO's director addressed the Senate six days after the House hearing without naming it.",
 "of": {

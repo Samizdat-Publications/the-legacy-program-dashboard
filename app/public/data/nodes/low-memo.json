@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-9b105f3ec5",
 "source": "Robert J. Low memorandum to University of Colorado administrators, 9 August 1966",
 "text": "'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
 "tier": 1
 },
 {
+"id": "c-2f9b64f2dc",
 "source": "Low memorandum, 9 Aug 1966; Condon Report front matter on project formation",
 "text": "The memorandum is dated 9 August 1966, nearly two months before the project was formally established on 6 October 1966.",
 "tier": 1
 },
 {
+"id": "c-c98f15ca2f",
 "source": "John G. Fuller, Look magazine, May 1968",
 "text": "The memo was published by John G. Fuller in Look magazine in May 1968 as 'Flying Saucer Fiasco', describing the project as a '$500,000 trick'; Saunders and Levine were subsequently fired.",
 "tier": 2
 },
 {
+"id": "c-e52f79e74a",
 "source": "Inference from the memorandum's date and text",
 "text": "The memo does not prove the Condon Report's conclusions were dictated, but it does establish that the project's coordinator planned differential presentation to the public and to scientists before any data were examined.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "1968",
 "dateStart": "1966",
 "direction": "out",
+"edgeId": "e-2b3bc4cf0f",
 "edgeLabel": "The memo states the intent to present differently to public and scientists",
 "id": "condon-committee",
 "l0": true,
@@ -56,6 +61,7 @@
 "dateEnd": "1968",
 "dateStart": "1967",
 "direction": "in",
+"edgeId": "e-54a7c495e6",
 "edgeLabel": "McDonald was the conduit that put the memo into public circulation",
 "id": "james-mcdonald",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "1967-07",
 "dateStart": "1966-08-09",
 "direction": "out",
+"edgeId": "e-e941910834",
 "edgeLabel": "The Low memo shows the conclusion was framed before the study began",
 "id": "l-boulder-co",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": "1966",
 "dateStart": "1966",
 "direction": "in",
+"edgeId": "e-29cedfe4df",
 "edgeLabel": "Low wrote the memo two months before the contract was signed",
 "id": "robert-low",
 "l0": false,
@@ -134,6 +142,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-e941910834",
 "label": "The Low memo shows the conclusion was framed before the study began",
 "note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. James E. McDonald found it in the project files in July 1967.",
 "of": {

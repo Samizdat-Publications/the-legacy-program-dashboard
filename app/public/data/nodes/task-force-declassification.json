@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-ce42464c29",
 "source": "CHRG-119hhrg61718",
 "text": "Held the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'; record published as Serial No. 119-44.",
 "tier": 1
 },
 {
+"id": "c-0b9f845652",
 "source": "Rep. Burlison press release, 27 March 2025",
 "text": "Grusch's role as Special Advisor to Rep. Burlison expressly includes service on the Task Force on the Declassification of Federal Secrets.",
 "tier": 1
 },
 {
+"id": "c-ddec9b6a4e",
 "source": "Fox News, 10 June 2026; Los Angeles Magazine, 9 June 2026",
 "text": "Hosted the 9 June 2026 Capitol press conference featuring Grusch and four members of Congress.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-7a18614ee9",
 "edgeLabel": "Chairs the Task Force",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-3fcf325fd0",
 "edgeLabel": "Serves the Task Force via the Burlison advisory role",
 "id": "david-grusch",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2025",
 "dateStart": "2025",
 "direction": "out",
+"edgeId": "e-6c64f932a4",
 "edgeLabel": "Held the UAP transparency and whistleblower protection hearing",
 "id": "hearing-2025-09-09",
 "l0": true,
@@ -93,6 +99,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-7977b1ecaf",
 "edgeLabel": "Hosted the press conference",
 "id": "press-conf-2026-06-09",
 "l0": false,

@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-63d7e61b92",
 "source": "Judicial Watch, On Watch with Chris Farrell, 5 May 2026",
 "text": "Published a 5 May 2026 On Watch interview in which Grusch alleged that elements of the US government thwarted congressional oversight, withheld information from proper executive branch officials, and illegally concealed recovery and reverse-engineering programs.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-d0c9d60aa6",
 "edgeLabel": "May 2026 On Watch interview restating the concealment allegation",
 "id": "david-grusch",
 "l0": false,

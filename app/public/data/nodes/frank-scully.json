@@ -47,16 +47,19 @@
 ],
 "claims": [
 {
+"id": "c-399c4758e6",
 "source": "Library catalogue record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "'Behind the Flying Saucers' was published by Henry Holt and Company, New York, in 1950 (OCLC 1467735).",
 "tier": 2
 },
 {
+"id": "c-5954530e87",
 "source": "Contemporary court record as reported by J. P. Cahn, True magazine, 1952 and 1956 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Silas M. Newton and Leo A. Gebauer were convicted of fraud in 1953 following charges pressed by Herman Flader over 'doodlebug' devices they claimed were based on recovered alien technology.",
 "tier": 2
 },
 {
+"id": "c-64b54d1f72",
 "source": "Scully, 'Behind the Flying Saucers' (1950)",
 "text": "Scully's account placed the Aztec crash in March 1948 at Hart Canyon, twelve miles northeast of Aztec, New Mexico, with a 99-foot craft and sixteen humanoid bodies.",
 "tier": 2
@@ -74,6 +77,7 @@
 "dateEnd": "1950",
 "dateStart": "1950",
 "direction": "out",
+"edgeId": "e-6495b00c3d",
 "edgeLabel": "Wrote the first crashed-saucer book",
 "id": "behind-the-flying-saucers",
 "l0": false,

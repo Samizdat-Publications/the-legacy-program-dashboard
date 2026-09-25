@@ -5,36 +5,43 @@
 "band": "reverse-engineering",
 "claims": [
 {
+"id": "c-14000c4c9a",
 "source": "The Wilson-Davis notes as published, fifteen pages, read image by image, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
 "text": "The published document is typed, not handwritten, and two of its fifteen pages are somebody else's letter. The copy in public circulation is fifteen typed pages headed 'EWD NOTES', then '10/16/02', then 'Eric Davis Meeting with Adm. Wilson', numbered 1 to 15 at the foot. Pages 3 and 4 are a two page letter on United States Navy letterhead dated April 25, 2002, from Belleair Bluffs, Florida, to 'Dr. Eric W. Davis, CEO, Warp Drive Metrics', signed 'Will Miller'; the notes flag it at the foot of page 2 as '[paper-clipped letter here]'.",
 "tier": 1
 },
 {
+"id": "c-2ae7c4a744",
 "source": "The Wilson-Davis notes as published, all fifteen pages, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
 "text": "Brig. Gen. Steven Lovekin is not in the published notes. All fifteen pages were read image by image: Wilson, Davis, Steven Greer, Will Miller and Edgar Mitchell are in them and Lovekin is not.",
 "tier": 1
 },
 {
+"id": "c-8d611cd0e6",
 "source": "The Wilson-Davis notes as published, pp. 3 to 4, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
 "text": "The notes give the correspondent no rank, no service and no first name beyond 'Will', and his letter carries no rank block, so the 'Cdr. Willard Miller, USN' form used across the podcast corpus is not supported by the document it is drawn from. In the letter he writes: 'Although I have held a Top Secret (TS) clearance with access to Special Compartmented Information (SCI), and other \"special\" clearances for \"other\" programs, I currently do not work in the classified realm, nor do I hold those clearances.'",
 "tier": 1
 },
 {
+"id": "c-57e9190bad",
 "source": "The Wilson-Davis notes, 16 Oct 2002, in public circulation since 2019",
 "text": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer.",
 "tier": 2
 },
 {
+"id": "c-96a8cb7a41",
 "source": "Eric W. Davis, statements to journalists following the 2019 emergence of the notes",
 "text": "Eric W. Davis has confirmed to journalists that the handwritten notes are his own.",
 "tier": 2
 },
 {
+"id": "c-7cddcadc7e",
 "source": "Thomas R. Wilson, statements to journalists, 2019 onward",
 "text": "Thomas R. Wilson denies that the meeting took place and denies the substance attributed to him.",
 "tier": 2
 },
 {
+"id": "c-192e83e023",
 "source": "House Permanent Select Committee on Intelligence subcommittee hearing, 17 May 2022; contemporaneous reporting",
 "text": "At the 17 May 2022 House Intelligence subcommittee UAP hearing, DoD witnesses were questioned about the Wilson-Davis memo and stated they were unaware of it.",
 "tier": 1
@@ -50,6 +57,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-39f56dc200",
 "edgeLabel": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -76,6 +84,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-1ddb9c9da4",
 "edgeLabel": "AARO's report independently catalogues the same structural allegation the memo describes",
 "id": "aaro-historical-record-vol1",
 "l0": true,
@@ -97,6 +106,7 @@
 "dateEnd": "2023",
 "dateStart": "2002",
 "direction": "out",
+"edgeId": "e-e484c14b06",
 "edgeLabel": "The 2002 notes and the 2023 sworn testimony describe the same access-denial mechanism",
 "id": "david-grusch",
 "l0": false,
@@ -123,6 +133,7 @@
 "dateEnd": "2002",
 "dateStart": "2002",
 "direction": "out",
+"edgeId": "e-1ec3a56650",
 "edgeLabel": "The meeting is reported to have taken place at an EG&G facility in Las Vegas",
 "id": "eg-and-g",
 "l0": true,
@@ -144,6 +155,7 @@
 "dateEnd": "2019",
 "dateStart": "2002",
 "direction": "in",
+"edgeId": "e-a5e9907bdd",
 "edgeLabel": "Author of record of the notes of the alleged 16 October 2002 Wilson meeting",
 "id": "eric-davis",
 "l0": false,
@@ -165,6 +177,7 @@
 "dateEnd": "2019",
 "dateStart": "2002",
 "direction": "in",
+"edgeId": "e-464837384a",
 "edgeLabel": "author of the notes at the centre of the custody claim",
 "id": "eric-davis",
 "l0": false,
@@ -201,6 +214,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-79745e7910",
 "edgeLabel": "Dedicated chapter on the Wilson-Davis memo with Davis present",
 "id": "jesse-michels",
 "l0": false,
@@ -222,6 +236,7 @@
 "dateEnd": "2019",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-d62441efb9",
 "edgeLabel": "The memo pages entered public circulation from Green's document holdings",
 "id": "kit-green",
 "l0": false,
@@ -248,6 +263,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-cc5305178c",
 "edgeLabel": "Wilson denies the meeting and the substance attributed to him",
 "id": "thomas-wilson",
 "l0": false,
@@ -269,6 +285,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-7247b6d94d",
 "edgeLabel": "Named on six of the fifteen pages; his own signed letter is two of them",
 "id": "will-miller",
 "l0": false,
@@ -305,6 +322,7 @@
 },
 "claimTier": 2,
 "denialKind": "directed",
+"edgeId": "e-cc5305178c",
 "label": "Wilson denies the meeting and the substance attributed to him",
 "note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
 "of": {
@@ -334,6 +352,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-39f56dc200",
 "label": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson",
 "note": "The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review.",
 "of": {

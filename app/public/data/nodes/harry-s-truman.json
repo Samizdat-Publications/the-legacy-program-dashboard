@@ -8,26 +8,31 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-327919feb5",
 "source": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
 "text": "The 22 January 1946 directive is signed by him and creates the office by fiat: 'It is my desire, and I hereby direct, that all Federal foreign intelligence activities be planned, developed and coordinated so as to assure the most effective accomplishment of the intelligence mission related to the national security.' The Director of Central Intelligence 'shall be designated by me'.",
 "tier": 1
 },
 {
+"id": "c-0d4a926e57",
 "source": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
 "text": "The same directive draws the domestic line the board's later argument keeps testing: 'No police, law enforcement or internal security functions shall be exercised under this directive', and it makes the Authority and the Director 'responsible for fully protecting intelligence sources and methods'.",
 "tier": 1
 },
 {
+"id": "c-d042156617",
 "source": "National Security Act of 1947, Public Law 80-253, ch. 343, 61 Stat. 495, secs. 101(a), 102(a), 201(a), approved 26 July 1947, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
 "text": "The statute approved on 26 July 1947 creates, in one instrument, the Council, the Agency and the military establishment: 'There is hereby established a council to be known as the National Security Council'; 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence, who shall be the head thereof'; 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof.'",
 "tier": 1
 },
 {
+"id": "c-962303bc69",
 "source": "National Security Act of 1947, Public Law 80-253, 61 Stat. 495, sec. 102(d)(5), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
 "text": "Section 102(d)(5) of the same Act is the residual authority every later covert-action directive is written under: the Agency is 'to perform such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct.'",
 "tier": 1
 },
 {
+"id": "c-699fb225f9",
 "source": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
 "text": "The Department of State's own list of persons gives the office and its start: 'Truman, Harry S., President of the United States from April 12, 1945'.",
 "tier": 1
@@ -43,6 +48,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-26",
 "direction": "out",
+"edgeId": "e-082272061a",
 "edgeLabel": "Signed the statute that created the Agency",
 "id": "cia",
 "l0": true,
@@ -64,6 +70,7 @@
 "dateEnd": null,
 "dateStart": "1948-06-18",
 "direction": "in",
+"edgeId": "e-72b3fb2538",
 "edgeLabel": "Chartered under section 102(d)(5) of the Act he signed",
 "id": "cia-office-of-policy-coordination",
 "l0": false,
@@ -85,6 +92,7 @@
 "dateEnd": null,
 "dateStart": "1958-02-07",
 "direction": "in",
+"edgeId": "e-b13a738e83",
 "edgeLabel": "Founded under the authority of the 1947 Act",
 "id": "darpa",
 "l0": true,
@@ -106,6 +114,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-26",
 "direction": "out",
+"edgeId": "e-c96466a27e",
 "edgeLabel": "Signed the statute that created the National Military Establishment",
 "id": "dod",
 "l0": true,
@@ -127,6 +136,7 @@
 "dateEnd": null,
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-0774622dfd",
 "edgeLabel": "Appointed the first Director of Central Intelligence of the CIA",
 "id": "roscoe-hillenkoetter",
 "l0": false,
@@ -148,6 +158,7 @@
 "dateEnd": null,
 "dateStart": "1946-01-22",
 "direction": "out",
+"edgeId": "e-ce38f7546c",
 "edgeLabel": "Designated the first Director of Central Intelligence",
 "id": "sidney-souers",
 "l0": false,
@@ -169,6 +180,7 @@
 "dateEnd": null,
 "dateStart": "1947-07-26",
 "direction": "out",
+"edgeId": "e-61f3e41ce0",
 "edgeLabel": "Signed the statute that created the Department of the Air Force",
 "id": "usaf",
 "l0": true,

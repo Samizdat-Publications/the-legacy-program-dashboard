@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-a0636b3cac",
 "source": "NSA UFO FOIA collection, litigation records including the Yeates Affidavit",
 "text": "In Civil Action No. 80-1562 the judge was given in camera Top Secret access to NSA's explanation of why the UFO documentation was being withheld and ruled in NSA's favour, allowing the information to remain classified.",
 "tier": 1
 },
 {
+"id": "c-c533a552eb",
 "source": "The Black Vault, NSA UFO collection provenance",
 "text": "NSA released the COMINT records with most pages having only a few words visible, redacted using white-out; a July 2013 Mandatory Declassification Review was required to obtain further release.",
 "tier": 1
 },
 {
+"id": "c-6fa2e3cce0",
 "source": "CourtListener, Citizens Against UFO Secrecy v. National Security Agency",
 "text": "The D.C. Circuit affirmed on 3 November 1981; certiorari was denied on 8 March 1982.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "1982",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-0c229c96b4",
 "edgeLabel": "CAUS was the plaintiff in Civil Action No. 80-1562",
 "id": "caus",
 "l0": false,
@@ -56,6 +60,7 @@
 "dateEnd": "1982",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-cb1caae1f2",
 "edgeLabel": "NSA withheld its UFO holdings in full and won on an in camera affidavit",
 "id": "nsa",
 "l0": true,
@@ -77,6 +82,7 @@
 "dateEnd": "1982",
 "dateStart": "1980",
 "direction": "in",
+"edgeId": "e-17f1e70b62",
 "edgeLabel": "The affidavit is the instrument by which withholding was sustained",
 "id": "yeates-affidavit",
 "l0": false,
@@ -118,6 +124,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-cb1caae1f2",
 "label": "NSA withheld its UFO holdings in full and won on an in camera affidavit",
 "note": "NSA located responsive material, withheld it entirely, and supported the withholding with a classified affidavit by Eugene F. Yeates. The D.C. Circuit affirmed in 1981; certiorari was denied in 1982.",
 "of": {
@@ -147,6 +154,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-17f1e70b62",
 "label": "The affidavit is the instrument by which withholding was sustained",
 "note": "The United States has never asserted that the records do not exist. Its sworn position is that they cannot be disclosed.",
 "of": {

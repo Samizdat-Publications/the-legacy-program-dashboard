@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-4dcaa77471",
 "source": "Defense News, 25 April 2019; Science (AAAS), April 2019",
 "text": "In April 2019 NNSA issued a notice of intent to award a short-term sole source contract to MITRE Corporation to provide management and logistics support for JASON, after the Pentagon declined to renew the contract.",
 "tier": 1
 },
 {
+"id": "c-6740bf3f8b",
 "source": "Defense News, 11 April 2019",
 "text": "The Pentagon confirmed in April 2019 that it was ending the JASON advisory contract, which was managed by MITRE and run through the Office of the Under Secretary of Defense for Research and Engineering.",
 "tier": 1
 },
 {
+"id": "c-4f368059de",
 "source": "Bloomberg Government, 1 December 2020",
 "text": "MITRE received $34.4 million in obligations for JASON program management work as the contract was ending, and MITRE currently holds the contract to administer JASON.",
 "tier": 1
 },
 {
+"id": "c-c82e6df5f0",
 "source": "HigherGov contract opportunity listing, Sources Sought for JASON Recompete",
 "text": "A JASON program management and logistics recompete was in the market in 2026 with MITRE as the confirmed incumbent.",
 "tier": 1
 },
 {
+"id": "c-60974fc90a",
 "source": "Published histories of JASON, including the group's own recorded correspondence with MITRE (1958-1972) and IDA (1961-1973)",
 "text": "JASON was established in 1960 and was administered by the Institute for Defense Analyses before the contract moved to SRI International and then to MITRE.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-b9aec3769b",
 "edgeLabel": "JASON found the underlying physics wrong two years before DIA published the DIRD",
 "id": "dird-high-frequency-gravitational-wave-communications",
 "l0": false,
@@ -76,6 +82,7 @@
 "dateEnd": null,
 "dateStart": "2019",
 "direction": "out",
+"edgeId": "e-5602b65df4",
 "edgeLabel": "NNSA rescued and now sponsors JASON after DoD declined renewal",
 "id": "doe",
 "l0": true,
@@ -102,6 +109,7 @@
 "dateEnd": "1973",
 "dateStart": "1960",
 "direction": "in",
+"edgeId": "e-3ceeeb6e3a",
 "edgeLabel": "IDA administered JASON from 1960 to 1973",
 "id": "ida",
 "l0": false,
@@ -123,6 +131,7 @@
 "dateEnd": null,
 "dateStart": "2002",
 "direction": "in",
+"edgeId": "e-b7588a393c",
 "edgeLabel": "MITRE has administered JASON since 2002",
 "id": "mitre-corporation",
 "l0": true,
@@ -164,6 +173,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-b9aec3769b",
 "label": "JASON found the underlying physics wrong two years before DIA published the DIRD",
 "note": "In 2008 JASON reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it at the root: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010 regardless. This is the sharpest available evidence of AAWSAP's quality-control failure: the programme placed on a JWICS-hosted DIA reference series a topic the government's own senior scientific review body had already assessed as wrong and whose threat premise it had declared not credible. It is also the only case in the 38 where an external government review directly contradicts a published deliverable.",
 "of": {

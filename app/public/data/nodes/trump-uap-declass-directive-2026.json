@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-bce9472f89",
 "source": "Truth Social post, 20 February 2026, reported by Al Jazeera and others",
 "text": "Trump announced he would direct the Secretary of War and other departments and agencies to begin identifying and releasing files on alien and extraterrestrial life, UAP and UFOs.",
 "tier": 1
 },
 {
+"id": "c-445d769465",
 "source": "Al Jazeera, 20 February 2026",
 "text": "Rep. Anna Paulina Luna publicly thanked the President as chair of the task force that investigates the subject; Sen. John Fetterman called the decision fantastic.",
 "tier": 2
@@ -25,6 +27,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-b717737aec",
 "edgeLabel": "Task Force chair publicly thanks the President for the directive",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-da4f9d6edf",
 "edgeLabel": "February announcement produced the June pressure campaign",
 "id": "press-conf-2026-06-09",
 "l0": false,

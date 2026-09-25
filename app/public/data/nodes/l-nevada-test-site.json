@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-9943137fe1",
 "source": "Las Vegas Review-Journal, 21 August 1990, p 2C, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18",
 "text": "THE EARLIER GEOGRAPHY OF THE LAZAR CLAIM, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990, reporting his sentencing, describes his claim as of that date as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a Department of Energy site, and it is a different named place from Papoose Lake on the Air Force range, where the claim later settled.",
 "tier": 1
 },
 {
+"id": "c-b3ba5d9c80",
 "source": "OSTI.GOV, Nevada Test Site Environmental Report 2005",
 "text": "Bechtel Nevada and subsequently National Security Technologies, LLC appear as the management and operating research organisations of record on DOE Nevada Test Site technical reports.",
 "tier": 1
 },
 {
+"id": "c-9bb50adbc4",
 "source": "George Knapp, sworn testimony 9 September 2025 and Liberation Times, 28 February 2023",
 "text": "Al O'Donnell, described as the first general manager of EG&G in Nevada 'which managed the Nevada test site,' is the source of the recovered-saucer and live-being account.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "in",
+"edgeId": "e-9d918d668e",
 "edgeLabel": "Area 51 was added to the Nevada Test Site by the Commission",
 "id": "atomic-energy-commission",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "2006",
 "dateStart": "1996",
 "direction": "in",
+"edgeId": "e-939a1c4be9",
 "edgeLabel": "Bechtel Nevada held the DOE management and operating contract for the Nevada Test Site 1996-2006",
 "id": "bechtel-nevada",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "1951",
 "direction": "in",
+"edgeId": "e-4ceb65dd27",
 "edgeLabel": "DOE operating authority over the Nevada National Security Site",
 "id": "doe",
 "l0": true,
@@ -93,6 +99,7 @@
 "dateEnd": "1996",
 "dateStart": "1951",
 "direction": "in",
+"edgeId": "e-d307be49cb",
 "edgeLabel": "EG&G was the classified services contractor for the Nevada complex in the testing era",
 "id": "eg-and-g",
 "l0": true,
@@ -119,6 +126,7 @@
 "dateEnd": "2017",
 "dateStart": "2006",
 "direction": "in",
+"edgeId": "e-a9e2b1ee93",
 "edgeLabel": "A Northrop Grumman-led consortium took over Nevada Test Site management in 2006",
 "id": "northrop-grumman",
 "l0": true,
@@ -145,6 +153,7 @@
 "dateEnd": null,
 "dateStart": "1990-08-21",
 "direction": "in",
+"edgeId": "e-8e8108c2cf",
 "edgeLabel": "The claim's earlier geography, as reported contemporaneously in August 1990",
 "id": "s-4-papoose-lake",
 "l0": false,

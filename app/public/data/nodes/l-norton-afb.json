@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-abdca31a12",
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "text": "McCandlish describes the base and the hangar: Norton 'used to be an active Air Force base right on the eastern fringe of San Bernardino in Southern California', and the hangar 'on the base it was called The Big Hangar. It looks like four giant Quonset hut style hangars that are all connected in the middle, with shops and work areas out around the edges, and there is sort of a divider in the middle.'",
 "tier": 2
 },
 {
+"id": "c-b2be72a72e",
 "source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-09",
 "text": "A separate witness in the same document, Lt Col John Williams, who says he 'was in charge of all the construction projects for the Military Air Command' and 'was responsible for that base's facilities from 1981-82', states he knew of a facility at Norton 'that no one was to know about' and that he 'was never allowed in that area'.",
 "tier": 2
 },
 {
+"id": "c-28bd8495c2",
 "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 15, 1990-12-03",
 "text": "The witness who claims to have been inside on 12 November 1988 volunteered the base's size unprompted, as an excuse for his host's lateness: 'He probably didn't know how large Norton AFB was! It's a big place! You can walk and walk and walk and only be halfway there.'",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2000-09",
 "direction": "out",
+"edgeId": "e-2fd404135e",
 "edgeLabel": "Two of the document's witnesses name the base",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "1988-11-12",
 "dateStart": "1988-11-12",
 "direction": "in",
+"edgeId": "e-dcac53bb5e",
 "edgeLabel": "The event is at the base",
 "id": "norton-afb-airshow-1988",
 "l0": false,

@@ -29,31 +29,37 @@
 ],
 "claims": [
 {
+"id": "c-9c4e8cfcfb",
 "source": "Rep. Alexandria Ocasio-Cortez, 26 July 2023, GPO CHRG-118hhrg53022",
 "text": "'One of the loopholes that we see in the law is that there is... no actual definitions or requirements for notification. Are there - what methods of notification did you observe? Like, when they say they notified Congress, how did they do that?'",
 "tier": 1
 },
 {
+"id": "c-c51f1084a1",
 "source": "CHRG-118hhrg53022, 26 July 2023",
 "text": "'When there is a requirement for any agency or company to... notify Congress, do they contact the chairman of a committee? Do they get them on the phone specifically? Is this through an email to, hypothetically, a dead email box?'",
 "tier": 1
 },
 {
+"id": "c-e482525271",
 "source": "CHRG-118hhrg53022, 26 July 2023",
 "text": "'We have seen defense contractors abuse their contracts before through this Committee. I have seen it personally, and I have also seen the notification requirements to Congress abused.'",
 "tier": 1
 },
 {
+"id": "c-90d8ae47ca",
 "source": "Rep. Burchett to NewsNation, reported by The Hill, 13 January 2024",
 "text": "Present at the 12 January 2024 closed-door ICIG UAP briefing along with roughly sixteen members.",
 "tier": 2
 },
 {
+"id": "c-0f405c5870",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited that defense contractors are not required to report UAP sightings or UAP-related activity: 'In terms of the contractors? Not that I am aware of.'",
 "tier": 1
 },
 {
+"id": "c-6a28f2eddb",
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited that SAP and CAP notification flows through the Periodic Program Review process while contractor IR&D is internal and unreported.",
 "tier": 1
@@ -69,6 +75,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-c3ec2b43b3",
 "edgeLabel": "Established that contractors have no UAP reporting duty and IR&D escapes notification",
 "id": "david-grusch",
 "l0": false,
@@ -90,6 +97,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-0914d4ddb3",
 "edgeLabel": "Pursued the IR&D and congressional-notification loophole",
 "id": "david-grusch",
 "l0": false,

@@ -8,41 +8,49 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-b740db9dbc",
 "source": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
 "text": "In the Post Falls, Idaho lecture of 8 May 1995 Schneider said he was 'involved in building an addition to the deep underground military base at Dulce' and that his job was 'to go down the holes and check the rock samples, and recommend the explosive[s]'. Tier 2 as a record of what he said: the transcript is hosted without a named transcriber and the lecture recording itself carries no captions.",
 "tier": 2
 },
 {
+"id": "c-700fb26e5a",
 "source": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
 "text": "In the same lecture he gave the specification that the whole modern claim rests on: 'It goes down seven levels and over 2.5 miles deep.'",
 "tier": 2
 },
 {
+"id": "c-d4e04e1e84",
 "source": "Transcript of Phil Schneider's May 1995 Post Falls, Idaho lecture, https://www.difoet.dk/www.raven1.net/mcf/underground-bases.htm , opened 2026-09-19",
 "text": "In the same lecture he described the alleged 1979 firefight: 'We found ourselves amidst a large cavern that was full of outer-space aliens...I shot two of them. At that time, there were 30 people down there. About 40 more came down after this started, and all of them got killed.' The hosting page's own introduction gives a different figure, sixty-six dead. The internal inconsistency is part of the record.",
 "tier": 2
 },
 {
+"id": "c-2d1730ad9e",
 "source": "archive.org items phildenveraugust and philexpo, https://archive.org/details/phildenveraugust , opened 2026-09-19",
 "text": "Two further dated artefacts of the 1995 lecture series exist as archive.org items and bound it: a Denver, Colorado lecture dated 14 August 1995 and a Preparedness Expo talk dated 1 September 1995. Neither carries captions and neither was watched.",
 "tier": 2
 },
 {
+"id": "c-92f3a14e6d",
 "source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
 "text": "Schneider was not part of the initial Dulce rumours and emerged only in 1995, according to Norio Hayakawa's dated chronology of the cluster's originators, which places the initial rumours between about 1979 and the early 1980s.",
 "tier": 2
 },
 {
+"id": "c-b8f7d3ce9d",
 "source": "Find a Grave memorial 146890828, created by Charles H Proctor III 23 May 2015, https://www.findagrave.com/memorial/146890828/phil-schneider , opened 2026-09-19",
 "text": "His memorial record gives birth 23 April 1947 at Bethesda, Montgomery County, Maryland and death 11 January 1996 in Clackamas County, Oregon, cremated with ashes given to family or friend. Tier 2: a Find a Grave memorial is better than nothing and is not a certificate.",
 "tier": 2
 },
 {
+"id": "c-525222d5b2",
 "source": "Find a Grave memorial 3930946, originally created by the US Veterans Affairs Office, https://www.findagrave.com/memorial/3930946/oscar-schneider , opened 2026-09-19",
 "text": "HIS FATHER IS THE ONLY DOCUMENTED PART. Captain Otto Oscar Schneider, US Navy, born 22 January 1906 in San Francisco, died 13 May 1993 in Portland, Oregon, buried at Willamette National Cemetery, Section X Site 2284, headstone inscribed 'OSCAR SCHNEIDER / CAPT US NAVY'. The memorial was originally created by the US Veterans Affairs Office. The biography on the same page, including the U-boat command, Naval Intelligence, Operation Crossroads and the Philadelphia Experiment, is contributor prose and is not asserted.",
 "tier": 1
 },
 {
+"id": "c-655cc3f408",
 "source": "Inference from the Find a Grave memorial 146890828 and the 8 May 1995 lecture transcript, both opened 2026-09-19",
 "text": "STATED INFERENCE, AND THE CENTRAL NEGATIVE OF THIS NODE. No employment of Philip Schneider by any employer was documented by this board: no employer record, no contract, no clearance record, no payroll. The Morrison Knudsen, Corps of Engineers and US Navy attribution rests on a contributor-written memorial biography and on his own lectures. Reasoning: a claim whose sole support is the claimant plus a user-edited memorial page has no independent documentary support at all, and the node must say so rather than leaving the absence to the gaps file.",
 "tier": 3
@@ -61,6 +69,7 @@
 "dateEnd": "1995-05-08",
 "dateStart": "1995-05-08",
 "direction": "out",
+"edgeId": "e-6077c17591",
 "edgeLabel": "Supplies every specific number in the modern claim, 8 May 1995",
 "id": "dulce-base",
 "l0": false,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-95b47e4c49",
 "source": "S. 2103 Sec. 1104(d), as reported by the Senate Select Committee on Intelligence, 22 June 2023",
 "text": "Contractors possessing government-derived UAP material must notify the DNI within 60 days and within 180 days make available 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.'",
 "tier": 1
 },
 {
+"id": "c-19241ace87",
 "source": "S. 2103 Sec. 1104(e)",
 "text": "'No criminal or civil action may lie or be maintained in any Federal or State court against any person for receiving material or information described in subsection (d) if that person complies with the notification and reporting provisions.'",
 "tier": 1
 },
 {
+"id": "c-4a646f7ffd",
 "source": "Comparison of S. 2103 Sec. 1104 with the enacted text of Public Law 118-31",
 "text": "The phrase 'non-earth origin' does not appear anywhere in the enacted text of Public Law 118-31; the contractor disclosure and immunity provisions were removed before enactment.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-01047e524d",
 "edgeLabel": "The provision named derived propulsion work as a defunding category",
 "id": "aerojet-rocketdyne",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-ec4b2ecec8",
 "edgeLabel": "SSCI would have compelled contractors to list all 'non-earth origin or exotic' material they hold, with immunity",
 "id": "lockheed-martin",
 "l0": true,
@@ -77,6 +82,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-997e5de6af",
 "edgeLabel": "Only the funding limitation and the IR&D restriction survived into law",
 "id": "ndaa-fy2024-1687",
 "l0": true,

@@ -5,26 +5,31 @@
 "band": "oversight",
 "claims": [
 {
+"id": "c-0cbe20e600",
 "source": "Langley AFB / US Air Force statement to The War Zone, 15 March 2024",
 "text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
 "tier": 1
 },
 {
+"id": "c-d68cf20906",
 "source": "Langley AFB spokesperson to The War Zone, March 2024",
 "text": "'None of the incursions appeared to exhibit hostile intent but anything flying in our restricted airspace can pose a threat to flight safety.'",
 "tier": 2
 },
 {
+"id": "c-9754e30561",
 "source": "Gen. Mark Kelly, via the Wall Street Journal, reported by The War Zone, 30 October 2024",
 "text": "At least one drone was roughly 20 feet long, flying at more than 100 mph at roughly 3,000 to 4,000 feet.",
 "tier": 2
 },
 {
+"id": "c-f0ebe93c18",
 "source": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
 "text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus.'",
 "tier": 2
 },
 {
+"id": "c-3d4d8f3c54",
 "source": "The War Zone, 15 March 2024",
 "text": "Response included F-16 combat air patrols with aerial refueling, NASA WB-57F surveillance orbits, FBI coordination through NORTHCOM and FAA notification.",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": "2024",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-510cee0e6a",
 "edgeLabel": "Public non-attribution finding by the homeland air defence commander",
 "id": "gregory-guillot",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": "2026",
 "dateStart": "2024",
 "direction": "in",
+"edgeId": "e-de3628391b",
 "edgeLabel": "AARO's case work does not address the domestic incursion wave",
 "id": "jon-kosloski",
 "l0": false,
@@ -92,6 +99,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-9bacf7d6b0",
 "edgeLabel": "Site of the December 2023 incursions",
 "id": "l-langley",
 "l0": false,
@@ -113,6 +121,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-06",
 "direction": "in",
+"edgeId": "e-183aba30de",
 "edgeLabel": "site of the December 2023 incursions",
 "id": "l-langley-afb",
 "l0": false,
@@ -139,6 +148,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-6828c41d6e",
 "edgeLabel": "Twelve months apart; the second wave was publicly resolved, the first never was",
 "id": "nj-drone-incursions-2024",
 "l0": false,
@@ -165,6 +175,7 @@
 "dateEnd": "2024",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-ac66f4821c",
 "edgeLabel": "Centrepiece of Guillot's 90-day counter-UAS assessment",
 "id": "norad-northcom",
 "l0": true,

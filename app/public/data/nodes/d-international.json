@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-75d55786ba",
 "source": "GEIPAN classification and statistics pages",
 "text": "GEIPAN, established within CNES in 1977 and based at Toulouse, publishes its case classification scheme and statistics publicly.",
 "tier": 1
 },
 {
+"id": "c-3763566eb1",
 "source": "Arquivo Nacional, Sistema de Informacoes do Arquivo Nacional",
 "text": "Brazilian military UFO records have been transferred to the Arquivo Nacional and are accessible through its information system, including material on the 1986 incident.",
 "tier": 1
 },
 {
+"id": "c-a152b756bc",
 "source": "NewsNation, 15 July 2026",
 "text": "In July 2026 a US lawmaker formally asked the FBI and CIA for information relating to the 1996 Varginha incident in Brazil.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "1977-05-01",
 "direction": "out",
+"edgeId": "e-0c87c9fc36",
 "edgeLabel": "Comparative disclosure as leverage",
 "id": "d-disclosure",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1977-05-01",
 "direction": "out",
+"edgeId": "e-2d105735cf",
 "edgeLabel": "GEIPAN's operating base",
 "id": "l-toulouse",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "1996-01-20",
 "direction": "out",
+"edgeId": "e-8377b8c4b7",
 "edgeLabel": "A foreign case now under US congressional inquiry",
 "id": "l-varginha",
 "l0": false,

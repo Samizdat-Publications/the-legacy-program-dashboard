@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-729a8c09fd",
 "source": "PLAW-118publ31 sec. 7343(b)",
 "text": "Enacted text, PL 118-31 sec. 7343(b), 137 Stat. 1064: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.'",
 "tier": 1
 },
 {
+"id": "c-3f3260cf86",
 "source": "PLAW-118publ31 sec. 7343(c)",
 "text": "Sec. 7343(c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available to the appropriate congressional committees and leadership.'",
 "tier": 1
 },
 {
+"id": "c-154dd50faf",
 "source": "Comparison of BILLS-118s2226es Div. M sec. 1102 with PLAW-118publ31 sec. 7343",
 "text": "Sec. 7343 is the truncated survivor of sec. 1102 of the Senate-passed IAA FY2024 division of S. 2226; the contractor turn-in obligation, the non-earth-origin materials list, and the liability shield were removed.",
 "tier": 1
 },
 {
+"id": "c-fdb8de4ec9",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "Section 7343(b) of P.L. 118-31 Division F bars use of funds authorised by that division for UAP activity under special or restricted access limitation unless the DNI has provided details to the intelligence, armed services and appropriations committees of both chambers and to congressional leadership.",
 "tier": 1
 },
 {
+"id": "c-c04ad1cfe7",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "Section 7343(c) repeats the IR&D indirect-cost prohibition but omits the antecedent reference to DoD Instruction 3204.01, leaving 'contracts covered by such instruction' undefined in the enrolled text.",
 "tier": 1
 },
 {
+"id": "c-62f3a4ad6f",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
 "text": "Enacting the identical bar twice, once naming the Secretary of Defense and once naming the DNI, is consistent with congressional uncertainty as to whether the activity sits in the Military Intelligence Program or the National Intelligence Program. Reasoning: a drafter certain of the programme's home would legislate once against the controlling official.",
 "tier": 3
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "in",
+"edgeId": "e-0cd58b5984",
 "edgeLabel": "The same bar enacted twice, once for SECDEF and once for the DNI",
 "id": "ndaa-fy2024-1687",
 "l0": true,
@@ -66,6 +73,7 @@
 "dateEnd": "2024-09-30",
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-94b325bd28",
 "edgeLabel": "Binds funds authorised by the intelligence division",
 "id": "nip",
 "l0": false,

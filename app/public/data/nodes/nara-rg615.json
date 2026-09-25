@@ -5,116 +5,139 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-b1b2288afa",
 "source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
 "text": "The FAA series in this collection is withheld in part under a named statutory postponement code. The catalog's own metadata export for NAID 493468575 gives access restriction status 'Restricted - Partly' with the specific restriction 'UAP Records Collection Postponement Code 1843(a)(3)' and a use restriction of 'Unrestricted'. The series is titled 'Records from the Federal Aviation Administration Relating to Unidentified Anomalous Phenomena', carries accessions TR-0615-2025-0006 and TR-0615-2025-0008, an extent of 575 portable document files, and is held at the National Archives at College Park, Electronic Records.",
 "tier": 1
 },
 {
+"id": "c-7bd9f1cdf6",
 "source": "https://www.archives.gov/uap",
 "text": "Record Group 615 was established pursuant to sections 1841-1843 of the 2024 National Defense Authorization Act; UAP records received from federal agencies are accessioned into RG 615 and published in the National Archives Catalog on a rolling basis.",
 "tier": 1
 },
 {
+"id": "c-cd4651209d",
 "source": "https://www.archives.gov/research/topics/uaps/rg-615",
 "text": "Eight agencies appear as RG 615 contributors as of 28 August 2026: FAA (catalog ID 493468575), NRC (488808322), ODNI (493468579), OSD (493468580), NSA (580103959), Department of State (608806625), FBI (580705010) and the Department of the Air Force (656595571). The Air Force was added on 28 August 2026; the preceding seven were in place by 22 May 2026.",
 "tier": 1
 },
 {
+"id": "c-11cde8c8e2",
 "source": "https://www.archives.gov/research/topics/uaps/faqs",
 "text": "NARA guidance directed agencies with releasable UAP records to contact NARA to initiate transfers before 30 September 2025, in digital form with metadata per established guidance.",
 "tier": 1
 },
 {
+"id": "c-7dba28656a",
 "source": "https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download",
 "text": "Bulk-download electronic-records volumes as of the 24 April 2025 update: NRC 11.74MB, FAA 63.10MB, ODNI 1.29MB, OSD 103.37MB; against Project BLUE BOOK still pictures at 36.48GB, Roswell Reports moving images 16.25GB and sanitized Blue Book case files of roughly 379GB across ten files.",
 "tier": 1
 },
 {
+"id": "c-de31d4a94b",
 "source": "https://www.archives.gov/research/topics/uaps/rg-615",
 "text": "CIA, DIA, DOE, NASA, NRO, NGA, DHS, the Army and the Navy still have no series in RG 615 as of 28 August 2026, and NARA publishes no compliance list or non-compliance statement. The Department of the Air Force, which was in this list until 28 August 2026, now has one. Reasoning: direct inspection of the RG 615 contributor list and the FAQ, which addresses the framework and is silent on implementation status.",
 "tier": 3
 },
 {
+"id": "c-08b175e35b",
 "source": "https://www.archives.gov/research/topics/uaps/rg-615; https://catalog.archives.gov/id/656595571",
 "text": "The Department of the Air Force is the eighth contributor listed on NARA's Record Group 615 page and the first military department to appear as a contributor in its own right, as series 'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena', National Archives Identifier 656595571.",
 "tier": 1
 },
 {
+"id": "c-9758d560b9",
 "source": "https://catalog.archives.gov/id/656595571",
 "text": "The Air Force series carries accession number TR-0615-2026-0003, was described from NARA descriptive file NAC_2026-08-27_23.116_DESC_0001.xml and entered the catalog index on 28 August 2026 at 08:30 UTC.",
 "tier": 1
 },
 {
+"id": "c-2abadf6c28",
 "source": "https://catalog.archives.gov/id/656595571",
 "text": "The Air Force series holds 30 items with an extent of '30 Portable Document Format (PDF) files', inclusive dates 25 October 1945 to 31 December 1969, access restriction Unrestricted and use restriction Unrestricted, under disposition authority DAA-GRS-2024-0002-0001.",
 "tier": 1
 },
 {
+"id": "c-33207fcb2b",
 "source": "https://catalog.archives.gov/id/656595571",
 "text": "NARA's scope note states the Air Force series 'consists of records compiled in response to the 2024 National Defense Authorization Act (Public Law 118-31) and received from the Department of the Air Force pursuant to the Unidentified Anomalous Phenomena Records Collection Act, 44 U.S.C. 2107 note.'",
 "tier": 1
 },
 {
+"id": "c-42f720e21a",
 "source": "https://catalog.archives.gov/id/656595571",
 "text": "All 30 items carry contiguous UAP Record Identifiers 342UAP00001 through 342UAP00030, and each has exactly one attached PDF digital object; all 30 object URLs were fetched on 28 August 2026 and returned PDF content.",
 "tier": 1
 },
 {
+"id": "c-645eecf75c",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
 "text": "The declassification block printed on item 342UAP00005 reads 'Department of the Air Force / Air Force Declassification Office / Authority: FY24 NDAA, now codified at 44 U.S.C. 2107 / Date: 5/05/2025 / Declassified in Full: X / Case Number: 342UAP00005', showing that the Air Force ran the transfer as a declassification action under the UAP records statute and used the UAP Record Identifier as the declassification case number.",
 "tier": 1
 },
 {
+"id": "c-c754d427e5",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00258350_Estimate_of_the_Situation.pdf",
 "text": "Item 342UAP00005, catalogued as 'Estimate of the Situation, September 8, 1948', is Headquarters Fifth Air Force, Office of the AC of S, A-2, APO 710, 'Estimate of the Situation' covering 7 August to 4 September 1948, 21 pages, published for Fifth Air Force Division and Wing-Base Commanders, with a table of contents covering Japan, Korea, China, the Philippines and Malaya. It is a periodic Far East theatre intelligence estimate and is not the Air Materiel Command estimate of 1948 that Ruppelt described.",
 "tier": 1
 },
 {
+"id": "c-cdb16e6e4d",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
 "text": "Item 342UAP00026, catalogued only as 'Correspondence Regarding Unidentified Flying Objects, 1947', is Fourth Air Force file 212.1, 'REPORTS GENERAL / REPORTS OF UNIDENTIFIED FLYING OBJECTS / YEAR 1947', 302 pages, indexed on Fourth AF Form No. 219 'LIST OF PAPERS' with at least 51 numbered serials running from 7 January 1947 to 22 December 1947.",
 "tier": 1
 },
 {
+"id": "c-c931e39bf9",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
 "text": "The Fourth Air Force 1947 index records liaison with the Federal Bureau of Investigation on flying-disc reports: serial 40 is an information letter from Headquarters Fourth Air Force dated 27 August 1947 to the FBI at San Francisco, and serial 51 is an incident report from the FBI at Phoenix, Arizona dated 23 October 1947 to the Special Agent in Charge, San Francisco.",
 "tier": 1
 },
 {
+"id": "c-5dba7c12be",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
 "text": "Serial 44 of the Fourth Air Force 1947 index is summarised in the file's own words as 'Rept, facts regarding Disc story, Fred Crisman, Harold Dahl & crashed B-25, Tacoma, Wash area', dated 22 August 1947 and directed to the Director, FBI. Related serials in the same index cover a request for a statement from Richard Harkins, a Western Union message from H. Dahl, TWX 150 on the crashed B-25, and newspaper clippings on the B-25 crash at Kelso, Washington.",
 "tier": 1
 },
 {
+"id": "c-0cfa6f510b",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/01030306_Correspondence_Regarding_Unidentified_Flying_Objects.pdf",
 "text": "The Fourth Air Force 1947 index carries multiple serials of correspondence to and from Kenneth Arnold, including serial 4, an investigation of 'K.M. Arnold, Flying Disc first rept in this area' sent by Headquarters Fourth Air Force to AAF and ADC on 18 July 1947, and serial 9, a 22 July 1947 request from R.A. Palmer of Ventura Press, Evanston, Illinois, for an article about flying saucers from Arnold.",
 "tier": 1
 },
 {
+"id": "c-0041065c58",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00891775_I_Once_Saw_A_Flying_Saucer-Project_Blue_Book.pdf",
 "text": "Item 342UAP00024, catalogued only as 'I Once Saw A Flying Saucer - Project Blue Book, April 18, 1966', is a piece titled 'I Once Saw a Flying Saucer' by Ira C. Eaker. The catalog record does not name him. It opens on the 5 April 1966 appearance of Secretary of the Air Force Harold Brown and Chief of Staff General J.P. McConnell before the House Armed Services Committee, and states that in eighteen years more than 10,000 UFO sightings had been investigated with 663 listed as unexplained.",
 "tier": 1
 },
 {
+"id": "c-5c3c0ea762",
 "source": "https://catalog.archives.gov/id/656595571",
 "text": "The Air Force RG 615 series runs to 8,093 pages across its 30 PDFs. The scans carry no OCR text layer: the only machine-readable text in the files is the page-header identifier stamped on each page during processing, so the series cannot be full-text searched as released.",
 "tier": 1
 },
 {
+"id": "c-5a489633a5",
 "source": "https://catalog.archives.gov/id/656595571",
 "text": "Four of the 30 items carry a processing page-header identifier that belongs to a different record. Items 342UAP00003 (own identifier 00124399), 342UAP00004 (00174934) and 342UAP00007 (00423077) are all stamped 00105830, which is the identifier of item 342UAP00002; item 342UAP00027 (01030308) is stamped 01030306, the identifier of item 342UAP00026. In item 342UAP00003 the correct identifier appears only on a physical label photographed on the page. Page-level stamps in this series are therefore not reliable for provenance.",
 "tier": 1
 },
 {
+"id": "c-9c2bbd2cc5",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf",
 "text": "Item 342UAP00013, catalogued as '78th Fighter Wing, December, 1964', is the history of the 78th Fighter Wing (Air Defense) at Hamilton AFB, California, under the 28th Air Division (SAGE), Air Defense Command, commanded by Colonel Charles D. Chitty Jr., flying 21 F-101B and 2 F-101F interceptors. It is an air-defence interceptor wing, that is, one of the units that would actually be scrambled against an unidentified radar track.",
 "tier": 1
 },
 {
+"id": "c-74be0d941a",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf",
 "text": "Item 342UAP00014, catalogued as '95th Bombardment Wing History, March, 1960', is the history of the 95th Bombardment Wing (Heavy), 1-31 March 1960, assigned to Fifteenth Air Force, Strategic Air Command, permanently stationed at Biggs Air Force Base, El Paso, Texas. A nuclear bomber wing history is in the Air Force's UAP records transfer.",
 "tier": 1
 },
 {
+"id": "c-2c9dadcd89",
 "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf",
 "text": "The 95th Bombardment Wing history was originally classified SECRET under AFR 205-1 and its title page carries the declassification stamp 'DECLASSIFIED AF/SPIB LTR, 2 NOV 79 BY AFSHRC DATE: 13 DEC 1982'. It was therefore declassified some forty-four years before it was accessioned into Record Group 615, where item 342UAP00005 carries a 5 May 2025 Air Force Declassification Office action under the FY24 NDAA. The transfer mixes newly declassified material with material declassified decades earlier, so accession into RG 615 is not evidence that a record was previously withheld.",
 "tier": 1
@@ -130,6 +153,7 @@
 "dateEnd": null,
 "dateStart": "2025-05-21",
 "direction": "in",
+"edgeId": "e-3cc92bb2bf",
 "edgeLabel": "a TS/SCI-resident case corpus against a statutory public collection",
 "id": "aaro-jwics-case-management-2025",
 "l0": false,
@@ -156,6 +180,7 @@
 "dateEnd": null,
 "dateStart": "2007",
 "direction": "in",
+"edgeId": "e-57cc9f6fc4",
 "edgeLabel": "COMPARISON: a voluntary military transfer into a civil archive versus a statutory collection ordered by Congress",
 "id": "arquivo-nacional-ufo",
 "l0": true,
@@ -202,6 +227,7 @@
 "dateEnd": null,
 "dateStart": "2025-01-01",
 "direction": "in",
+"edgeId": "e-acb029c453",
 "edgeLabel": "First-listed contributing agency; series NAID 493468575, 575 PDF files, restricted in part",
 "id": "faa",
 "l0": false,
@@ -228,6 +254,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-5779d1126a",
 "edgeLabel": "FBI transferred records to RG 615 while its standing Vault collection stayed frozen at 2013",
 "id": "fbi-vault-ufo",
 "l0": false,
@@ -249,6 +276,7 @@
 "dateEnd": null,
 "dateStart": "2023-12-22",
 "direction": "out",
+"edgeId": "e-130c152140",
 "edgeLabel": "created by",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
@@ -270,6 +298,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-1dd90ecf4b",
 "edgeLabel": "transferred records",
 "id": "odni",
 "l0": true,
@@ -296,6 +325,7 @@
 "dateEnd": null,
 "dateStart": "2026-08-01",
 "direction": "in",
+"edgeId": "e-d0e7fd419c",
 "edgeLabel": "names the agencies absent from the statutory archive",
 "id": "odni-memo-es-2026-00818",
 "l0": true,
@@ -322,6 +352,7 @@
 "dateEnd": null,
 "dateStart": "2025",
 "direction": "in",
+"edgeId": "e-2682cc8a77",
 "edgeLabel": "the panel with jurisdiction over the collection's non-contributors",
 "id": "tf-declassification-federal-secrets",
 "l0": false,
@@ -348,6 +379,7 @@
 "dateEnd": null,
 "dateStart": "2026-07-22",
 "direction": "in",
+"edgeId": "e-305e6a2aef",
 "edgeLabel": "would place the collection on a statutory timeline",
 "id": "uapda-fy2027-house-adopted",
 "l0": true,

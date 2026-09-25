@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-00d9699447",
 "source": "https://www.freepatentsonline.com/10322827.html",
 "text": "US Patent 10,322,827, 'High frequency gravitational wave generator', application 15/431823, filed 14 February 2017, published 18 June 2019, assignee 'The United States of America as represented by the Secretary of the Navy'.",
 "tier": 2
@@ -20,6 +21,7 @@
 "dateEnd": "2019-06-18",
 "dateStart": "2004",
 "direction": "in",
+"edgeId": "e-0765b03a3d",
 "edgeLabel": "NASA treated high frequency gravitational waves as a detection problem in 2004",
 "id": "millis-tm-2004-213082",
 "l0": true,
@@ -41,6 +43,7 @@
 "dateEnd": null,
 "dateStart": "2015-03-06",
 "direction": "in",
+"edgeId": "e-e85cdcada8",
 "edgeLabel": "The disclosure says the IMRD enables the gravitational wave generator",
 "id": "pais-patent-imrd",
 "l0": false,
@@ -62,6 +65,7 @@
 "dateEnd": "2019-06-18",
 "dateStart": "2017-02-14",
 "direction": "in",
+"edgeId": "e-b9e8ff5af0",
 "edgeLabel": "Named inventor",
 "id": "salvatore-pais",
 "l0": false,

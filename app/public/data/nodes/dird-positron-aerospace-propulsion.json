@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-6e9a580b29",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/",
 "text": "Defense Intelligence Reference Document titled \"Positron Aerospace Propulsion\", series \"Acquisition Threat Support\", published 2010-03-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-002. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-933600ef22",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-0868873435",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-bbddefdb84",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf",
 "text": "Cover page reads: '2 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-002 / Defense Intelligence Reference Document / Acquisition Threat Support / Positron Aerospace Propulsion'.",
 "tier": 1
 },
 {
+"id": "c-5c00e7f2c3",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr Gerald Smith, Positronics Research'.",
 "tier": 1
 },
 {
+"id": "c-e0b14b41db",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf",
 "text": "Released copy runs 35 pages; internal chapter structure covers antimatter, positron air-breathing propulsion, the positron ramjet engine and its UAV, ramjet-assisted missile and single-stage reusable vehicle applications, and solid-core and gas-core positron rockets.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-25965a16be",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract",
 "id": "aawsap",
 "l0": true,
@@ -76,6 +83,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-79c40869ac",
 "edgeLabel": "commissioned via the BAASS prime contract",
 "id": "baass",
 "l0": true,
@@ -107,6 +115,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4a89c0012b",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -128,6 +137,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5be8be6827",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -154,6 +164,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-792c277271",
 "edgeLabel": "authored by",
 "id": "gerald-smith",
 "l0": false,

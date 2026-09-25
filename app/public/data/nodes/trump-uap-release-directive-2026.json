@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-604ab35821",
 "source": "DefenseScoop, 20 February 2026",
 "text": "Trump posted on Truth Social on 19-20 February 2026 that he would direct Hegseth and relevant departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs.",
 "tier": 2
 },
 {
+"id": "c-dfa877dc23",
 "source": "DefenseScoop, 25 February 2026",
 "text": "Hegseth referred to the direction as 'that executive order' on 25 February 2026.",
 "tier": 2
 },
 {
+"id": "c-b8cfe517f7",
 "source": "DefenseScoop, 20 February 2026",
 "text": "Sean Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive.'",
 "tier": 2
 },
 {
+"id": "c-4863956419",
 "source": "Inference from the absence of any cited EO number across the portal, AARO's materials and DefenseScoop's coverage",
 "text": "No executive order text establishing PURSUE has appeared on war.gov, aaro.mil or in the contemporaneous reporting; the programme appears to rest on informal direction, leaving its scope and continuation entirely discretionary.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-ef8b0a977d",
 "edgeLabel": "Issued the direction that created PURSUE",
 "id": "donald-trump",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-dfd399cc1a",
 "edgeLabel": "Named implementer; called it 'that executive order'",
 "id": "pete-hegseth",
 "l0": false,
@@ -82,6 +88,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-cff8e5d26c",
 "edgeLabel": "The directive is the stated basis of the release programme",
 "id": "pursue-releases",
 "l0": true,
@@ -108,6 +115,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-16626a610a",
 "edgeLabel": "First departmental acknowledgement of the directive",
 "id": "sean-parnell",
 "l0": false,

@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-9a31b9959a",
 "source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33",
 "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, the retired Senate Armed Services Committee staffer Kirk McConnell said that the contract forming AARO's advisory group 'was let through Oak Ridge' while Sean Kirkpatrick directed AARO. If such a task order exists it would carry a number and appear on USAspending; none was located here.",
 "tier": 2
 },
 {
+"id": "c-7a1dcfe1fa",
 "source": "AARO UAP Records/Information Papers page, aaro.mil",
 "text": "AARO states: 'In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg) alloy specimen.'",
 "tier": 1
 },
 {
+"id": "c-5a94a81f13",
 "source": "AARO UAP Records/Information Papers page, aaro.mil — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "The resulting report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, concerning a specimen publicly alleged to be from a 1947 crashed extraterrestrial vehicle.",
 "tier": 2
 },
 {
+"id": "c-196584e386",
 "source": "NSF NCSES Master Government List of FFRDCs; USAspending.gov; CRS Report R44629",
 "text": "UT-Battelle, LLC has administered Oak Ridge National Laboratory since 1 April 2000 under DOE contract DEAC0500OR22725, with recorded obligations of approximately $42.3 billion and a period of performance running to 2030; ORNL was funded at approximately $2,091.2 million in FY2024.",
 "tier": 1
 },
 {
+"id": "c-17ddeeb978",
 "source": "Gizmodo reporting on the published ORNL synopsis, 11 July 2024",
 "text": "Neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs are scant.",
 "tier": 2
 },
 {
+"id": "c-2cd54efb1b",
 "source": "Public record of Kirkpatrick's departure and appointment",
 "text": "Sean Kirkpatrick departed AARO on 1 December 2023 and became Chief Technology Officer for Defense and Intelligence Programs at Oak Ridge National Laboratory.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": "2024",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-72e44b85a8",
 "edgeLabel": "AARO contracted ORNL in 2022 to test the magnesium alloy specimen",
 "id": "aaro",
 "l0": true,
@@ -66,6 +73,7 @@
 "dateEnd": null,
 "dateStart": "2000",
 "direction": "in",
+"edgeId": "e-bdaea677e8",
 "edgeLabel": "Battelle co-operates ORNL through UT-Battelle, LLC",
 "id": "battelle",
 "l0": true,
@@ -92,6 +100,7 @@
 "dateEnd": "2024",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-9e3d5cc426",
 "edgeLabel": "DOE laboratory performed AARO's metallic specimen analysis",
 "id": "doe",
 "l0": true,
@@ -113,6 +122,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-e9e8661c55",
 "edgeLabel": "Produced 'ORNL Synopsis: Analysis of a Metallic Specimen', April 2024",
 "id": "ornl-metallic-specimen-report",
 "l0": false,
@@ -139,6 +149,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-4881201fcb",
 "edgeLabel": "AARO's founding director left government for the laboratory that analysed AARO's specimen",
 "id": "sean-kirkpatrick",
 "l0": false,
@@ -160,6 +171,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-796a110be8",
 "edgeLabel": "post-government employment at the DOE lab that supported AARO and later held the UAP material sample",
 "id": "sean-kirkpatrick",
 "l0": false,
@@ -186,6 +198,7 @@
 "dateEnd": null,
 "dateStart": "2023-12",
 "direction": "in",
+"edgeId": "e-0f5ca30c0b",
 "edgeLabel": "chief technology officer for defense and intelligence programs",
 "id": "sean-kirkpatrick",
 "l0": false,

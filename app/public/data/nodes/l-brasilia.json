@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-f17799c93c",
 "source": "Arquivo Nacional information system",
 "text": "Brazilian military UFO records have been transferred into the Arquivo Nacional and are publicly accessible.",
 "tier": 1
 },
 {
+"id": "c-633d828809",
 "source": "Board bookkeeping",
 "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-87e660f2d4",
 "edgeLabel": "The UFO fund is held in Brasília and its reference code says so",
 "id": "arquivo-nacional-ufo",
 "l0": true,
@@ -66,6 +69,7 @@
 "dateEnd": "1986-06-02",
 "dateStart": "1986-06-02",
 "direction": "out",
+"edgeId": "e-e18e9923b1",
 "edgeLabel": "The report is dated at Brasília, 2 June 1986",
 "id": "doc-fab-1986-report",
 "l0": false,
@@ -97,6 +101,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-e0da3a94fc",
 "edgeLabel": "Brasília is the federal capital of Brazil",
 "id": "l-brazil",
 "l0": false,
@@ -133,6 +138,7 @@
 "dateEnd": "1986-05-23",
 "dateStart": "1986-05-23",
 "direction": "out",
+"edgeId": "e-ae7eaf4ee8",
 "edgeLabel": "The minister's press conference was given from the capital",
 "id": "otavio-moreira-lima",
 "l0": false,
@@ -169,6 +175,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-87f4a12fcf",
 "edgeLabel": "The Senado Federal sits in Brasília",
 "id": "senado-brasil",
 "l0": true,

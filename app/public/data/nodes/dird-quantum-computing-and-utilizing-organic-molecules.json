@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-4447709008",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/",
 "text": "Defense Intelligence Reference Document titled \"Quantum Computing and Utilizing Organic Molecules in Automation Technology\", series \"Defense Futures\", published 2010-12-10 with an Intelligence Cut-Off Date (ICOD) of 2010-12-10, DIA document number DIA-08-1102-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-9ee3840928",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-2a91bb5688",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-9e18597d09",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
 "text": "Cover page reads: '10 December 2010 / ICOD: 10 December 2010 / DIA-08-1102-005 / Defense Intelligence Reference Document / Defense Futures / Quantum Computing and Utilizing Organic Molecules in Automation Technology'.",
 "tier": 1
 },
 {
+"id": "c-654cac3083",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr R Genik, Wayne State Univ'.",
 "tier": 1
 },
 {
+"id": "c-4e3287c99f",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
 "text": "The Intelligence Cut-Off Date and the publication date are identical (both 10 December 2010) — unusual across the DIRD series, where the ICOD normally precedes publication by weeks to months.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-7f47c6fbc6",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract",
 "id": "aawsap",
 "l0": true,
@@ -71,6 +78,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-1e6c1cbd09",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -92,6 +100,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-e01cce6a2f",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -118,6 +127,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-47f3139171",
 "edgeLabel": "authored by",
 "id": "richard-genik",
 "l0": false,
@@ -159,6 +169,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-dc62594a14",
 "edgeLabel": "author's institutional affiliation at time of writing",
 "id": "wayne-state-university",
 "l0": true,

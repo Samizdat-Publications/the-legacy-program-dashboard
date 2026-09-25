@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-d7ea3c1985",
 "source": "Cover pages of the released document",
 "text": "The document is numbered DIA-08-1004-004, dated 6 April 2010, with 'reOD: 1 December 2009', prepared by the Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, DIA.",
 "tier": 1
 },
 {
+"id": "c-467dab9db1",
 "source": "Author block of the released document",
 "text": "The author is Eric W. Davis, Ph.D., of EarthTech International, Inc., 11855 Research Blvd, Austin, TX 78759.",
 "tier": 1
 },
 {
+"id": "c-3a07610902",
 "source": "Administrative note of the released document",
 "text": "The administrative note names James T. Lacatski, D.Eng. as AAWSA Program Manager at DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-aabb308ceb",
 "edgeLabel": "Contractor of record: EarthTech International Inc., 11855 Research Blvd, Austin TX",
 "id": "earthtech-international",
 "l0": true,
@@ -51,6 +55,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-4a31104e65",
 "edgeLabel": "Named author of DIA-08-1004-004",
 "id": "eric-davis",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": "2010",
 "dateStart": "2009",
 "direction": "out",
+"edgeId": "e-af8e09ff89",
 "edgeLabel": "Lacatski named as AAWSA Program Manager on the document's administrative note",
 "id": "james-lacatski",
 "l0": false,

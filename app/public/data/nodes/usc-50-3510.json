@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-756dce4048",
 "source": "https://www.law.cornell.edu/uscode/text/50/3510",
 "text": "50 U.S.C. 3510(b): 'The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted for solely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.'",
 "tier": 1
 },
 {
+"id": "c-eb94c3d87e",
 "source": "https://www.law.cornell.edu/uscode/text/50/3510",
 "text": "The provision originates as section 8 of the Central Intelligence Agency Act of 1949, enacted 20 June 1949.",
 "tier": 1
@@ -25,6 +27,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-11e122d142",
 "edgeLabel": "Paired instruments, one hiding an invention and the other an expenditure",
 "id": "invention-secrecy-act",
 "l0": false,
@@ -46,6 +49,7 @@
 "dateEnd": null,
 "dateStart": "1949-06-20",
 "direction": "out",
+"edgeId": "e-4cbed8e7aa",
 "edgeLabel": "Unvouchered CIA spending sits inside the NIP and outside all expenditure law",
 "id": "nip",
 "l0": false,
@@ -67,6 +71,7 @@
 "dateEnd": null,
 "dateStart": "1949-06-20",
 "direction": "out",
+"edgeId": "e-76f1f79b21",
 "edgeLabel": "An activity funded from unvouchered CIA money never touches the appropriations SAP tripwire",
 "id": "sec-8009-sap-notice",
 "l0": false,

@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-754148a031",
 "source": "Wikipedia, 'Petrozavodsk phenomenon', citing the 1977 Academy of Sciences preliminary report",
 "text": "'In the same year, a preliminary report for the Academy of Sciences of the USSR was made ... It concluded that based on the available data, it is unfeasible to satisfactorily understand the observed phenomenon.'",
 "tier": 2
 },
 {
+"id": "c-2dd3c292a3",
 "source": "Wikipedia, 'Petrozavodsk phenomenon'",
 "text": "'Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing.'",
 "tier": 2
 },
 {
+"id": "c-3a13c89574",
 "source": "Wikipedia, 'Petrozavodsk phenomenon'",
 "text": "'The phrase unidentified flying object in the Soviet Union was substituted by the term anomalous phenomenon for research purposes.'",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "1978-10-18",
 "dateStart": "1977-09-20",
 "direction": "out",
+"edgeId": "e-c51002abfd",
 "edgeLabel": "the 1977 event triggered the Soviet programmes",
 "id": "setka-program",
 "l0": true,

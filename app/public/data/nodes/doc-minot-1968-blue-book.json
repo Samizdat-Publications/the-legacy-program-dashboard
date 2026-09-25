@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-2124f29127",
 "source": "Documentation index for the 24 October 1968 Minot AFB case, https://minotb52ufo.com/doc.php , opened 2026-09-19",
 "text": "The file comprises, among other items: the Blue Book final case report of 13 November 1968, twelve pages; Basic Reporting Data of 28 October 1968, eight pages, prepared by Lt Col Arthur J. Werlich, 862nd Combat Support Group Operations Division; the 91st Strategic Missile Wing Security Controller's summary; the Base Operations Dispatcher's Log for 0800 to 1010Z recording reports from site N-7 of a brilliant light like the sun; seven AF Form 117 questionnaires; thirteen B-52 ASQ-38 radarscope photographs with data plates; the Werlich overlay map at 1:200,000; upper-air rawinsonde data; and a transcription of recorded conversations between the B-52 co-pilot and Radar Approach Control.",
 "tier": 1
 },
 {
+"id": "c-b7336d0e26",
 "source": "https://minotb52ufo.com/doc.php , opened 2026-09-19",
 "text": "The seven AF Form 117 questionnaires were completed by A1C Lloyd M. Isley and A1C Robert Michael O'Connor of the 91st MIMS; A1C Joseph Patrick Jablonski, A1C Gregory Adams, SSgt James Frederick Bond and SSgt William E. Smith Jr. of the 862nd SPS; and Major James A. Partin, pilot, 23rd Bomb Squadron, 5th Bomb Wing.",
 "tier": 1
 },
 {
+"id": "c-bef87ae61b",
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "EVERY WITNESS STATEMENT IN THIS FILE IS CONTEMPORANEOUS AND OFFICIAL, WHICH MAKES IT THE CONTROL CASE FOR THIS CLUSTER. Nobody in it was located by a researcher. They filled in a form within days because the Air Force told them to. When the board runs the circular-reporting query the triage rule's section 5 describes, this is the file the Malmstrom interview material should be compared against.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "1968-11-13",
 "dateStart": "1968-10-28",
 "direction": "out",
+"edgeId": "e-a389e61911",
 "edgeLabel": "The Air Force's own investigative file on the event",
 "id": "minot-1968",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "1968-11-13",
 "dateStart": "1968-10-28",
 "direction": "out",
+"edgeId": "e-cc98b4a6e5",
 "edgeLabel": "A Project Blue Book case file, evaluated by the Foreign Technology Division",
 "id": "project-blue-book",
 "l0": true,

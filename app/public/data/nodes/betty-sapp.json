@@ -8,16 +8,19 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-7e6f14dd88",
 "source": "CRS, 'U.S. Intelligence Community (IC): Appointment Dates and Appointment Legal Provisions for Selected IC Leadership', IF10538 version 6, updated 19 March 2019, Table 1, https://www.congress.gov/crs_external_products/IF/PDF/IF10538/IF10538.6.pdf",
 "text": "The Congressional Research Service's intelligence-community leadership roster records the office and the date as 'Director of the National Reconnaissance Office (D/NRO) Betty J. Sapp (sworn in July 6, 2012)', and gives Christopher Scolese as 'nominated, February 7, 2019' in the same row.",
 "tier": 1
 },
 {
+"id": "c-dc778712ea",
 "source": "CRS IF10538 version 6, 19 March 2019, Table 1, https://www.congress.gov/crs_external_products/IF/PDF/IF10538/IF10538.6.pdf",
 "text": "The same table gives the appointment authority for the post she held: '50 U.S.C. 3041(b)(2)(B) DOD Secretary needs DNI to concur with the recommendation to the President; and 50 U.S.C. 3602(a)(2), Director is appointment by the President, Senate confirmed; then pursuant to S.Res. 470, Senate confirmed (SSCI and SASC).'",
 "tier": 1
 },
 {
+"id": "c-ae855abe06",
 "source": "H.A.S.C. No. 115-46, House Armed Services Committee hearing print, FY2018 NDAA and oversight of previously authorized programs, https://www.govinfo.gov/content/pkg/CHRG-115hhrg25868/html/CHRG-115hhrg25868.htm",
 "text": "She appeared before the House Armed Services Subcommittee on Strategic Forces in that office, the print carrying the heading 'STATEMENT OF BETTY SAPP, DIRECTOR, NATIONAL RECONNAISSANCE OFFICE' and her description of the NRO as 'responsible for developing, acquiring, launching, and operating the Nation's overhead intelligence, surveillance, and reconnaissance architecture'.",
 "tier": 1
@@ -33,6 +36,7 @@
 "dateEnd": null,
 "dateStart": "2012-07-06",
 "direction": "out",
+"edgeId": "e-07adfdd770",
 "edgeLabel": "Director of the National Reconnaissance Office, sworn in 6 July 2012",
 "id": "nro",
 "l0": true,
@@ -54,6 +58,7 @@
 "dateEnd": null,
 "dateStart": "2012-07-06",
 "direction": "out",
+"edgeId": "e-7edc019ab1",
 "edgeLabel": "The DNI must concur in the appointment to the office she held",
 "id": "odni",
 "l0": true,

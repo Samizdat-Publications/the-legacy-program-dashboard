@@ -5,36 +5,43 @@
 "band": "custody",
 "claims": [
 {
+"id": "c-fcaa35d261",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "Its Briefing Document of April 2001 prints SIXTY-EIGHT dated witness testimonies across five subsections of its section 3.8, 'Summary of Video Taped Witness Testimony and Government Documents', running from the document's printed page 48 to page 349.",
 "tier": 1
 },
 {
+"id": "c-3cafffd09c",
 "source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
 "text": "It held a press conference at the National Press Club in Washington DC on 9 May 2001, confirmed the same day by ABC News and within weeks by a hostile contemporaneous newsletter.",
 "tier": 1
 },
 {
+"id": "c-e38c69fd2e",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "The proportion that spoke: Klass records that the book published alongside the event 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference.' NO OPENED SOURCE LISTS THE TWENTY, and this board should never infer a podium appearance from a printed testimony.",
 "tier": 2
 },
 {
+"id": "c-f49fc56b50",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "It controlled access to its own press events. Klass records that Greer refused him admission to a comparable press conference in 1997 and 'reportedly refused the request for admission by Fund For UFO Research officials' in 2001.",
 "tier": 2
 },
 {
+"id": "c-406af5d95f",
 "source": "Disclosure Project National Press Club event, 9 May 2001, and contemporaneous international press coverage",
 "text": "On 9 May 2001 the Disclosure Project presented roughly twenty former military and government witnesses at the National Press Club and called for congressional hearings with subpoena power and amnesty for witnesses.",
 "tier": 2
 },
 {
+"id": "c-4d7b35acd7",
 "source": "Clinton Digital Library collection finding aid 2006-0474-F",
 "text": "The Clinton White House's principal UFO FOIA collection (2006-0474-F) consists in the majority of documents sent to the White House by Steven M. Greer of CSETI.",
 "tier": 1
 },
 {
+"id": "c-72e2ed3026",
 "source": "Inference from the sequence recorded in the Wilson-Davis notes, which place Wilson's inquiry immediately after exposure to the Greer briefing material.",
 "text": "The Disclosure Project's April 1997 Washington briefing week is the proximate trigger recorded in the Wilson-Davis notes for Admiral Thomas Wilson's 1997 attempt to locate the special access programme.",
 "tier": 3
@@ -50,6 +57,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2001-04",
 "direction": "in",
+"edgeId": "e-78168a1d36",
 "edgeLabel": "The project's own publication",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
@@ -71,6 +79,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2001-04",
 "direction": "in",
+"edgeId": "e-441c880888",
 "edgeLabel": "The Project's own compiled briefing document, April 2001",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
@@ -92,6 +101,7 @@
 "dateEnd": "2002",
 "dateStart": "2001",
 "direction": "in",
+"edgeId": "e-b27b0e0584",
 "edgeLabel": "Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference",
 "id": "john-podesta",
 "l0": false,
@@ -113,6 +123,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2000-12",
 "direction": "in",
+"edgeId": "e-3042ddef5b",
 "edgeLabel": "Disclosure Project witness, testimony taken December 2000",
 "id": "mark-mccandlish",
 "l0": false,
@@ -134,6 +145,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-05-09",
 "direction": "in",
+"edgeId": "e-2fde4013a2",
 "edgeLabel": "The Project's press conference, 9 May 2001",
 "id": "national-press-club-2001",
 "l0": true,
@@ -160,6 +172,7 @@
 "dateEnd": "2001",
 "dateStart": "2001",
 "direction": "in",
+"edgeId": "e-25eafe7c71",
 "edgeLabel": "Dated published critique of the Project by name, Summer 2001",
 "id": "philip-j-klass",
 "l0": false,
@@ -181,6 +194,7 @@
 "dateEnd": null,
 "dateStart": "1993",
 "direction": "in",
+"edgeId": "e-43cfdcf1ce",
 "edgeLabel": "Greer founded and led the Disclosure Project",
 "id": "steven-greer",
 "l0": false,
@@ -202,6 +216,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-dd096990f4",
 "edgeLabel": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
 "id": "thomas-wilson",
 "l0": false,
@@ -243,6 +258,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-25eafe7c71",
 "label": "Dated published critique of the Project by name, Summer 2001",
 "note": "Skeptics UFO Newsletter #68, written within weeks of the press conference. Klass declares his own limitation in the same issue: he was refused admission and his account of the event rests on the Project's press releases, its book and broadcast footage. That limitation applies to his reporting of the event and not to the service record he obtained himself.",
 "of": {

@@ -5,6 +5,7 @@
 "band": null,
 "claims": [
 {
+"id": "c-b2bfbe4e59",
 "source": "Inference from reference counts in the research corpus",
 "text": "l-lasvegas and l-las-vegas denote the same city and should be merged, with l-las-vegas retained as canonical. Reasoning: reference counts across the wave-1 corpus.",
 "tier": 3
@@ -20,6 +21,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-9f7a232909",
 "edgeLabel": "AAWSAP contract performed from Las Vegas",
 "id": "aawsap",
 "l0": true,
@@ -51,6 +53,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-79c94a0a7f",
 "edgeLabel": "BAASS base of operations",
 "id": "baass",
 "l0": true,
@@ -82,6 +85,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-f9808b1428",
 "edgeLabel": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
 "id": "harry-reid",
 "l0": false,
@@ -118,6 +122,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-84455cacc9",
 "edgeLabel": "NIDS headquarters 1995-2004",
 "id": "nids",
 "l0": true,

@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-fbdf5df850",
 "source": "AFSWC TR-59-39 Vol I, title page and report page, DDC AD 425380, https://archive.org/details/DTIC_AD0425380",
 "text": "The report is 'AFSWC-TR-59-39, TR 59-39 Vol I, A STUDY OF LUNAR RESEARCH FLIGHTS', issued by 'HEADQUARTERS AIR FORCE SPECIAL WEAPONS CENTER, AIR RESEARCH AND DEVELOPMENT COMMAND, KIRTLAND AIR FORCE BASE, NEW MEXICO', authored by L. Reiffel of the Armour Research Foundation, Illinois Institute of Technology, dated 19 June 1959, under Project Number 5776-57853 and Contract AF 29(601)-1164. Its title page marks the title '(Unclassified Title)'. The string 'A119' appears nowhere in the report.",
 "tier": 1
 },
 {
+"id": "c-ff05a6fb33",
 "source": "AFSWC TR-59-39 Vol I, Abstract, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
 "text": "The abstract opens: 'Nuclear detonations in the vicinity of the moon are considered in this report along with scientific information which might be obtained from such explosions. The military aspect is aided by investigation of space environment, detection of nuclear device testing, and capability of weapons in space.'",
 "tier": 1
 },
 {
+"id": "c-ef031c431f",
 "source": "AFSWC TR-59-39 Vol I, Chapter I, Introduction, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
 "text": "The introduction states the political motive in the report's own words: 'The motivation for such a detonation is clearly threefold: scientific, military and political... Obviously, however, specific positive effects would accrue to the nation first performing such a feat as a demonstration of advanced technological capability. It is also certain that, unless the climate of world opinion were well-prepared in advance, a considerable negative reaction could be stimulated.'",
 "tier": 1
 },
 {
+"id": "c-9d8728f587",
 "source": "AFSWC TR-59-39 Vol I, report page and appendix on extraterrestrial-life panels, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
 "text": "The contributor list on the report page includes 'C. E. Sagan' alongside ten others. The report's appendix separately lists 'C. Sagan, U. of Chicago, Astronomy' as a member of the National Academy of Sciences WESTEX group and 'C. Sagan, ARF - Yerkes, Astronomy' on the Armed Forces National Research Council Panel on Extraterrestrial Life. The document says nothing about his security clearance.",
 "tier": 1
 },
 {
+"id": "c-8d60e70565",
 "source": "AFSWC TR-59-39 Vol I, DISTRIBUTION list, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
 "text": "The distribution list sends copies to 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon'; to 'US Atomic Energy Commission, ATTN: Technical Reports Library (Mrs. J. O'Leary, for DMA)'; to 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; to 'Director, Los Alamos Scientific Laboratory'; to 'Director, Lawrence Radiation Laboratory'; and to 'WADD, Wright-Patterson AFB, Ohio'.",
 "tier": 1
 },
 {
+"id": "c-8e2e3b90d0",
 "source": "AFSWC TR-59-39 Vol I, command page and publication review page, and Official Register of the United States 1957, p.629, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf",
 "text": "The command page names 'Colonel Carey L. O'Bryan, Jr., Deputy Commander' of the Air Force Special Weapons Center, and the publication review page carries his name over 'USAF' and 'Deputy Commander'. The same officer is listed in the Official Register of the United States 1957, page 629, as Deputy Director of the Atomic Energy Commission's Division of Military Application, on the line directly above Gise's.",
 "tier": 1
@@ -45,6 +51,7 @@
 "dateEnd": "1959",
 "dateStart": "1959",
 "direction": "out",
+"edgeId": "e-25a1074150",
 "edgeLabel": "A copy went to the Director of ARPA at the Pentagon",
 "id": "darpa",
 "l0": true,
@@ -66,6 +73,7 @@
 "dateEnd": "1959",
 "dateStart": "1959",
 "direction": "out",
+"edgeId": "e-00c9c03f35",
 "edgeLabel": "Issued from Kirtland Air Force Base, New Mexico",
 "id": "l-kirtland",
 "l0": false,
@@ -87,6 +95,7 @@
 "dateEnd": "1959",
 "dateStart": "1959",
 "direction": "out",
+"edgeId": "e-60c7fbfe4d",
 "edgeLabel": "A copy went to the Los Alamos Scientific Laboratory report library",
 "id": "l-los-alamos",
 "l0": false,
@@ -108,6 +117,7 @@
 "dateEnd": "1959",
 "dateStart": "1959",
 "direction": "out",
+"edgeId": "e-922342baef",
 "edgeLabel": "A copy went to WADD at Wright-Patterson",
 "id": "l-wright-patterson",
 "l0": false,
@@ -129,6 +139,7 @@
 "dateEnd": "1959",
 "dateStart": "1959",
 "direction": "out",
+"edgeId": "e-ad1ede6b89",
 "edgeLabel": "A numbered copy went to Sandia's document control division",
 "id": "sandia",
 "l0": true,
@@ -150,6 +161,7 @@
 "dateEnd": "1959",
 "dateStart": "1959",
 "direction": "out",
+"edgeId": "e-fe05f6fa26",
 "edgeLabel": "Commissioned and published by the Air Force Special Weapons Center under Air Research and Development Command",
 "id": "usaf",
 "l0": true,

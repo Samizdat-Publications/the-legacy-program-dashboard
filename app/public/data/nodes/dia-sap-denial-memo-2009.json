@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-674a16c5d8",
 "source": "DIA memo U-09-2660CE-IM, 13 November 2009",
 "text": "DIA found 'insufficient grounds to classify this open program' and that no report contained information 'sufficiently sensitive and vulnerable to require extra protection'.",
 "tier": 1
 },
 {
+"id": "c-2c07541261",
 "source": "DIA memo U-09-2660CE-IM",
 "text": "DIA stated the information is 'not owned by, produced by or for, or under control of the U.S. government' and that DIA is 'prohibited from classifying basic scientific research' absent a national security nexus.",
 "tier": 1
 },
 {
+"id": "c-d2e4fa3a75",
 "source": "Inference from the memo's stated scope compared with the BAASS Ten Month Report contents",
 "text": "The memo evaluates only the written deliverables and does not address the field investigation, database, ranch operations or human-effects work the same contract paid for — a scoping choice that produces a denial that is technically accurate and substantively incomplete.",
 "tier": 3
@@ -30,6 +33,7 @@
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "in",
+"edgeId": "e-5b7e801cb4",
 "edgeLabel": "DIA finds insufficient grounds to classify",
 "id": "reid-sap-letter-2009",
 "l0": false,
@@ -66,6 +70,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-5b7e801cb4",
 "label": "DIA finds insufficient grounds to classify",
 "note": "DIA's 13 November 2009 answer evaluates only the written deliverables and never addresses the field investigation, database or human-effects work the same contract funded.",
 "of": {

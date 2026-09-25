@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-74ef96f3fa",
 "source": "Rep. Eric Burlison press release, 8 May 2026",
 "text": "The recording is identified as 'AF-ATIC-FILM, 03/52', labelled 'flying saucer talk', and features former Air Force officer Edward J. Ruppelt as the briefer.",
 "tier": 1
 },
 {
+"id": "c-7ba025bd85",
 "source": "Cybernews, 25 June 2026, reporting Burlison's account",
 "text": "The footage features Project Blue Book director Edward J. Ruppelt briefing military officials and scientists, months before the July 1952 Washington, DC UFO radar incidents.",
 "tier": 2
 },
 {
+"id": "c-78a445a2bc",
 "source": "Rep. Eric Burlison via X, reported by Cybernews, 25 June 2026",
 "text": "MIT Lincoln Laboratory agreed to disclose the recording, per Burlison's public announcement of 25 June 2026.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "1952",
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-25c09fade4",
 "edgeLabel": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
 "id": "beacon-hill-study",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": "1952",
 "direction": "out",
+"edgeId": "e-3c04e663b3",
 "edgeLabel": "Ruppelt is the briefer on the recording",
 "id": "edward-ruppelt",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "1952",
 "direction": "in",
+"edgeId": "e-04ec404a1a",
 "edgeLabel": "Holds the March 1952 Ruppelt 'flying saucer talk' recording",
 "id": "mit-lincoln-laboratory",
 "l0": false,

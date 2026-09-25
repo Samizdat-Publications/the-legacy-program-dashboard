@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-c41ea8c2de",
 "source": "TR-AC-47 title page, rendered from the scan at https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
 "text": "The title page reads 'TR-AC-47 / (Unclassified) / JOINT ATIC-WADC REPORT ON / PROJECT SILVER BUG / PROJECT NO. 9961 / 15 FEBRUARY 1955', issued by the 'AIR TECHNICAL INTELLIGENCE CENTER, WRIGHT-PATTERSON AIR FORCE BASE, OHIO', and carries a handwritten declassification stamp reading 'Declassified 29 MAR 95', 'Auth: DoD 5200.1.R', 'SAF/AAZD'.",
 "tier": 1
 },
 {
+"id": "c-e27b5a9c44",
 "source": "TR-AC-47, page iii, Summary, Purpose, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
 "text": "The report's Summary states its purpose: 'This report presents factual technical data on A. V. Roe, Canada, Limited, proposed development, Project Y2 (Secret)... The ultimate purpose of presenting this is two-fold; to correct the distorted picture presented in previous releases, both classified and unclassified, and to acquaint the intelligence community with the current state-of-the-art facts thereby alerting them to any air intelligence information which may become available indicating Soviet interest in this specialized field.'",
 "tier": 1
 },
 {
+"id": "c-3a4657a89b",
 "source": "TR-AC-47, page iii, Summary, Discussion, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
 "text": "The Summary's Discussion section states: 'This project should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance. The configuration was a result of an engineering investigation into the solution of a particular problem.' It names the contractor as 'AVRO Aircraft, Limited, a member of the Hawker-Siddley Group'.",
 "tier": 1
 },
 {
+"id": "c-26ae691768",
 "source": "TR-AC-47, page 1, Section I B 1, General Description, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
 "text": "Section I distinguishes the two company designations: 'Two versions of small research VTO aircraft have been designed by the contractor, which, by company designation, are Project Y (Secret), a \"tail-sitter\", and Project Y2 (Secret), a \"flat-riser\". Early in the investigation, Project Y (Secret) was rejected by the contractor in favor of the flat-riser.'",
 "tier": 1
 },
 {
+"id": "c-b89d9524b8",
 "source": "TR-AC-47, pages 17 and 22, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
 "text": "Table III, 'CONTRACTOR ESTIMATED PERFORMANCE, Radial-Flow Engine Aircraft', gives Mach 2.6 and a 71,600 ft ceiling without reheat and Mach 3.48 and an 80,600 ft ceiling with 1500 degrees K reheat. The report qualifies these on page 17: 'The performance estimated by the contractor was based on rather broad assumptions and has not as yet been investigated by a wind tunnel test program.'",
 "tier": 1
 },
 {
+"id": "c-af1656a661",
 "source": "TR-AC-47, page 23, Section II B, Present Development Status, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
 "text": "Section II dates the USAF development track: Technical Requirement No. 3 dated 13 August 1954, a development plan dated 15 September 1954 written by 'WADC, Directorate of Weapons Systems Operations, Bombardment Aircraft Division, New Development Office', an order to proceed issued 29 December 1954, and a proposed statement of work dated 8 November 1954 to be incorporated in a study contract.",
 "tier": 1
 },
 {
+"id": "c-887c625c99",
 "source": "TR-AC-47, page 17 and Figure 15, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
 "text": "The report names the Coanda effect but not Henri Coanda: Figure 15 is 'Coanda Effect: High Aspect Ratio Jet Bending' and page 17 describes 'the so-called \"Coanda effect\" whereby a jet stream is deflected through large angles by having a curved surface in contact with its edge at one side'. No individual designer is named anywhere in the pages read, and the string 'Frost' does not appear in them.",
 "tier": 1
@@ -50,6 +57,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-58b0d26eae",
 "edgeLabel": "One of the two issuing organisations, and the one on the title page imprint",
 "id": "atic",
 "l0": true,
@@ -71,6 +79,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-bc630b2273",
 "edgeLabel": "A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding",
 "id": "d-denial",
 "l0": false,
@@ -92,6 +101,7 @@
 "dateEnd": "1955",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-3d39f25123",
 "edgeLabel": "Written and issued at Wright-Patterson Air Force Base, Ohio",
 "id": "l-wright-patterson",
 "l0": false,
@@ -113,6 +123,7 @@
 "dateEnd": "1955",
 "dateStart": "1954",
 "direction": "out",
+"edgeId": "e-3f06a85a6e",
 "edgeLabel": "Records the Air Force research and development status of the disc-aircraft proposal",
 "id": "usaf",
 "l0": true,
@@ -146,6 +157,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-bc630b2273",
 "label": "A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding",
 "note": "The Summary states that the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold.",
 "of": null,

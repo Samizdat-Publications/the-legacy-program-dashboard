@@ -5,56 +5,67 @@
 "band": null,
 "claims": [
 {
+"id": "c-e2e5a4d707",
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
 "text": "The article states its own trigger: 'In late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files on UFOs.'",
 "tier": 1
 },
 {
+"id": "c-decd947291",
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
 "text": "The article gives the Air Force's own unexplained residue as a falling figure: 'The percentage of what the Air Force considered unexplained UFO sightings fell to 5.9 percent in 1955 and to 4 percent in 1956.' On Area 52 (batch 07, file 04, 0:49:22) John Ramirez attributed to this article a figure of one in ten. The article does not carry that figure.",
 "tier": 1
 },
 {
+"id": "c-52b1c4c345",
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA)",
 "text": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project. While perhaps justified, this deception added fuel to the later conspiracy theories and the coverup controversy of the 1970s.'",
 "tier": 1
 },
 {
+"id": "c-8f395c3411",
 "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
 "text": "'Air Force BLUE BOOK investigators aware of the secret U-2 flights tried to explain away such sightings by linking them to natural phenomena such as ice crystals and temperature inversions... They were careful, however, not to reveal the true cause of the sighting to the public.'",
 "tier": 1
 },
 {
+"id": "c-8c2a9eb082",
 "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
 "text": "'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights (namely the U-2) over the United States.'",
 "tier": 1
 },
 {
+"id": "c-66c16c22d5",
 "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
 "text": "CIA's Deputy Assistant Director of OSI, Philip Strong, refused to declassify the Robertson Panel report and 'the Agency prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
 "tier": 1
 },
 {
+"id": "c-77087802ba",
 "source": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
 "text": "'CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden.'",
 "tier": 1
 },
 {
+"id": "c-20612fa9e1",
 "source": "Haines, Studies in Intelligence, 1997",
 "text": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
 "tier": 1
 },
 {
+"id": "c-de9afdb635",
 "source": "Haines, Studies in Intelligence, 1997",
 "text": "'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights.'",
 "tier": 1
 },
 {
+"id": "c-373f57c225",
 "source": "Haines, Studies in Intelligence, 1997",
 "text": "The Robertson Panel suggested 'using the mass media, advertising, business clubs, schools, and even the Disney corporation to get the message across'.",
 "tier": 1
 },
 {
+"id": "c-20c3529e46",
 "source": "Inference from the stated date range 'late 1950s through the 1960s' against the 1947-1969 Blue Book corpus",
 "text": "The U-2/OXCART claim accounts for at most half of the reports by CIA's own framing, and cannot apply to the 1947-1954 period at all, so it does not address the unexplained residue it is customarily used to dismiss.",
 "tier": 3
@@ -70,6 +81,7 @@
 "dateEnd": null,
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-7f2d88f3b4",
 "edgeLabel": "CIA's own published history concedes the Air Force made deceptive public statements",
 "id": "cia",
 "l0": true,
@@ -91,6 +103,7 @@
 "dateEnd": null,
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-182fef211a",
 "edgeLabel": "CIA published its own institutional history of its UFO role in 1997",
 "id": "cia",
 "l0": true,
@@ -112,6 +125,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c581aaba16",
 "edgeLabel": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
 "id": "cia-overhead-reconnaissance-history-1992",
 "l0": false,
@@ -133,6 +147,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-40cf2836c3",
 "edgeLabel": "CIA states the Air Force made misleading and deceptive public statements",
 "id": "project-blue-book",
 "l0": true,
@@ -154,6 +169,7 @@
 "dateEnd": "1969",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-5622f47f71",
 "edgeLabel": "Blue Book investigators knowingly issued false explanations for U-2 sightings",
 "id": "project-blue-book",
 "l0": true,
@@ -175,6 +191,7 @@
 "dateEnd": "1958",
 "dateStart": "1956",
 "direction": "out",
+"edgeId": "e-337a4c9e5d",
 "edgeLabel": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
 "id": "robertson-panel",
 "l0": true,
@@ -196,6 +213,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-e549bdc7f9",
 "edgeLabel": "CIA's official history documents the panel's debunking and concealment",
 "id": "robertson-panel",
 "l0": true,
@@ -217,6 +235,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "out",
+"edgeId": "e-47c9ca26b9",
 "edgeLabel": "CIA history confirms the 1952 flap drove Agency intervention",
 "id": "washington-flap-1952",
 "l0": false,
@@ -238,6 +257,7 @@
 "dateEnd": "2023",
 "dateStart": "1955",
 "direction": "out",
+"edgeId": "e-4e62005113",
 "edgeLabel": "A documented precedent for institutional falsification about UFOs by the US Air Force",
 "id": "yankee-blue",
 "l0": true,
@@ -276,6 +296,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-7f2d88f3b4",
 "label": "CIA's own published history concedes the Air Force made deceptive public statements",
 "note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
 "of": null,
@@ -302,6 +323,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-40cf2836c3",
 "label": "CIA states the Air Force made misleading and deceptive public statements",
 "note": "Haines writes that reconnaissance-programme secrecy 'led the Air Force to make misleading and deceptive statements to the public' — an agency of the US government confirming official deception on this subject.",
 "of": {
@@ -328,6 +350,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-337a4c9e5d",
 "label": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
 "note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
 "of": null,

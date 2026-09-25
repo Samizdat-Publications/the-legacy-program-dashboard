@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-aef08c13d0",
 "source": "'Skinwalkers at the Pentagon' (2021)",
 "text": "Lacatski, Kelleher and Knapp describe AAWSAP's Utah field operations, human physiological effects on personnel, and Lacatski's account of entering a craft of unknown origin.",
 "tier": 2
 },
 {
+"id": "c-1d3a2eb7cc",
 "source": "DOPSR clearance noted in the published volume",
 "text": "The manuscript was cleared for publication through DoD prepublication review.",
 "tier": 1
 },
 {
+"id": "c-6fc345598b",
 "source": "DIA FOIA-00023-2022, APP-00031-2022, and 2022 FOIA responses",
 "text": "DIA reported no records located for the 19 June 2007 Lacatski letter to Bigelow described in the book, and no records for the 'Utah Ranch Investigation: August 2009-February 2010' report.",
 "tier": 1
 },
 {
+"id": "c-769d408d78",
 "source": "Inference from the DOPSR clearance set against DoD's public position",
 "text": "DoD clearing a manuscript that describes a government officer entering a craft of unknown origin, while simultaneously maintaining there is no evidence of such craft, is an internal inconsistency that has never been reconciled on the record.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-d10cde3e69",
 "edgeLabel": "co-author, contractor side of the account",
 "id": "colm-kelleher",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2023",
 "dateStart": "2022",
 "direction": "in",
+"edgeId": "e-30863a5c46",
 "edgeLabel": "no records located for the documents the book describes",
 "id": "dia",
 "l0": true,
@@ -82,6 +88,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-80de8e635d",
 "edgeLabel": "co-author with the program manager and the contractor's deputy",
 "id": "george-knapp",
 "l0": false,
@@ -103,6 +110,7 @@
 "dateEnd": "2021",
 "dateStart": "2021",
 "direction": "in",
+"edgeId": "e-b77acf7fa3",
 "edgeLabel": "co-author; states he entered a craft of unknown origin",
 "id": "james-lacatski",
 "l0": false,
@@ -139,6 +147,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-30863a5c46",
 "label": "no records located for the documents the book describes",
 "note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
 "of": {

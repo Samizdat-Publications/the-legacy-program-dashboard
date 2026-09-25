@@ -5,11 +5,13 @@
 "band": null,
 "claims": [
 {
+"id": "c-5f92a4553f",
 "source": "CIA STARGATE declassified collection",
 "text": "SUN STREAK is one of the named phases of the DIA-run remote-viewing effort documented in the declassified STARGATE corpus, which CIA released in 1995.",
 "tier": 1
 },
 {
+"id": "c-727c44ae0e",
 "source": "Inference from the continuity of DIA sponsorship across SUN STREAK/STARGATE (1986-1995) and AAWSAP (2008-2012).",
 "text": "DIA's twenty-year prior experience running an unacknowledged programme in a ridiculed domain through contractor channels is the institutional precedent for its 2008 AAWSAP contract with BAASS.",
 "tier": 3
@@ -25,6 +27,7 @@
 "dateEnd": "1995",
 "dateStart": "1986",
 "direction": "out",
+"edgeId": "e-832f8bc50a",
 "edgeLabel": "DIA sponsored the remote-viewing effort 1986-1995",
 "id": "dia",
 "l0": true,
@@ -51,6 +54,7 @@
 "dateEnd": "1995",
 "dateStart": "1991",
 "direction": "out",
+"edgeId": "e-d616860509",
 "edgeLabel": "SUN STREAK became STARGATE, terminated 1995",
 "id": "stargate-program",
 "l0": true,

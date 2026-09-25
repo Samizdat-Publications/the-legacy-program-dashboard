@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-1789d34852",
 "source": "National Archives, archives.gov/uap",
 "text": "NARA established Record Group 615, the Unidentified Anomalous Phenomena Records Collection, pursuant to Secs. 1841-1843 of P.L. 118-31.",
 "tier": 1
 },
 {
+"id": "c-1b6dd35e9a",
 "source": "P.L. 118-31, Sec. 1841(b)(2), GPO",
 "text": "Sec. 1841(b)(2) requires records to be available for inspection at the National Archives within 30 days of transmission and online within a further 180 days.",
 "tier": 1
 },
 {
+"id": "c-f762b2d463",
 "source": "National Archives, archives.gov/uap",
 "text": "NARA states it will add UAP records to RG 615 'on an ongoing, rolling basis as they are received from federal agencies' — the transmission trigger rests with the agencies, not the Archivist.",
 "tier": 1
@@ -30,6 +33,7 @@
 "dateEnd": null,
 "dateStart": "2025-01-01",
 "direction": "in",
+"edgeId": "e-9073ba103c",
 "edgeLabel": "NARA holds and describes the FAA series at College Park, Electronic Records",
 "id": "faa",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-2fccafb363",
 "edgeLabel": "Reached the public through the JFK Assassination Records Review Board",
 "id": "operation-northwoods",
 "l0": true,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "1953",
 "direction": "in",
+"edgeId": "e-ba24605110",
 "edgeLabel": "surviving records held in Record Group 330",
 "id": "research-development-board",
 "l0": false,
@@ -93,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-796b5df899",
 "edgeLabel": "NARA is custodian without power to compel transmission",
 "id": "uap-records-collection-rg615",
 "l0": false,

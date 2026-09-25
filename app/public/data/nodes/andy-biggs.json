@@ -22,6 +22,7 @@
 ],
 "claims": [
 {
+"id": "c-69b24ce981",
 "source": "Rep. Andy Biggs, 26 July 2023, GPO CHRG-118hhrg53022",
 "text": "'If we wanted to find out more about that where would we go to find the files and where - and who would we address? I know you are going to tell me we need to go to a SCIF so you can tell us in a SCIF.' Fravor: 'I could potentially give you a vector on that... in a closed environment.'",
 "tier": 1
@@ -37,6 +38,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-6fd6692321",
 "edgeLabel": "pressed Grusch on Phoenix Lights and withheld information",
 "id": "david-grusch",
 "l0": false,
@@ -58,6 +60,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-1d33db29d5",
 "edgeLabel": "questioned witnesses at the 26 July 2023 UAP hearing",
 "id": "hearing-2023-07-26",
 "l0": true,
@@ -84,6 +87,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c5489d35d3",
 "edgeLabel": "elicited Grusch's authorship of the UAPTF 2019 classification guide",
 "id": "uap-task-force",
 "l0": true,

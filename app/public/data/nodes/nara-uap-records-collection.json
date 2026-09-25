@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-3b6521034b",
 "source": "National Archives UAP Records Collection page, accessed 12 August 2026",
 "text": "The collection was established under sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, and NARA created Record Group 615 to hold it.",
 "tier": 1
 },
 {
+"id": "c-30cf912013",
 "source": "National Archives UAP records page",
 "text": "'NARA will continue to add UAP records to the UAP Records Collection (RG 615) and make them available online through the National Archives Catalog on an ongoing, rolling basis as they are received from federal agencies.'",
 "tier": 1
 },
 {
+"id": "c-ba852e3685",
 "source": "National Archives UAP Records Collection and UAP research topic pages, accessed 12 August 2026",
 "text": "NARA publishes no list of which agencies have transferred records, no item or page counts by agency, and no transfer dates.",
 "tier": 1
 },
 {
+"id": "c-cd6af6ff26",
 "source": "Department of War news story, 27 February 2026",
 "text": "The Department of War states that AARO 'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law.'",
 "tier": 2
 },
 {
+"id": "c-5c0a825ed3",
 "source": "Inference from NARA's rolling-basis statement against the disclosure architecture in the adopted FY2027 NDAA amendment",
 "text": "Without published agency-by-agency transfer accounting, no one outside government can distinguish a collection that agencies are populating from one they are ignoring - which is the specific defect the Burlison FY2027 amendment's statutory timelines and subpoena-empowered review board are designed to remove.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-7ff7b5ca53",
 "edgeLabel": "AARO points the public to NARA and asserts it is transferring records",
 "id": "aaro",
 "l0": true,
@@ -66,6 +72,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-7bcaff72fe",
 "edgeLabel": "No agency-by-agency compliance accounting is published",
 "id": "dod",
 "l0": true,
@@ -92,6 +99,7 @@
 "dateEnd": null,
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-7014f9813b",
 "edgeLabel": "Statutory basis for Record Group 615",
 "id": "ndaa-fy2024",
 "l0": true,
@@ -118,6 +126,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-949a302a13",
 "edgeLabel": "Two parallel release architectures, only one statutory",
 "id": "pursue-releases",
 "l0": true,
@@ -144,6 +153,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-e76ab1a2a9",
 "edgeLabel": "Would impose statutory transfer timelines on the NARA collection",
 "id": "uapda-fy2027-house-adopted",
 "l0": true,
@@ -182,6 +192,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "undirected",
+"edgeId": "e-7bcaff72fe",
 "label": "No agency-by-agency compliance accounting is published",
 "note": "NARA publishes no list of which agencies have transferred UAP records, no counts and no transfer dates - only a statement that records will be added on a rolling basis as received.",
 "of": null,

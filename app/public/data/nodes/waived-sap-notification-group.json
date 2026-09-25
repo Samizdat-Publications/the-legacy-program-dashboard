@@ -5,146 +5,175 @@
 "band": "oversight",
 "claims": [
 {
+"id": "c-b9b20705ad",
 "source": "Office of the Law Revision Counsel, 10 U.S.C. 119, 'Special access programs: congressional oversight' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; and DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "THE STATUTORY GROUP AND THE DEPARTMENT'S GROUP ARE NOT THE SAME, AND THE DEPARTMENT'S IS WIDER. The statute, 10 U.S.C. 119(e)(2), names only 'the chairman and ranking minority member of each of the defense committees' - twelve seats across six committee entities, and no staff. DoD Instruction 5205.11, paragraph 7.2.a.(3), states verbatim: 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' The Department therefore adds two staff categories the statute does not name, and extends the group to the two intelligence committees, which Section 119(g) does not include. Whether that is a lawful gloss or an administrative expansion is a live question the board can put on the record.",
 "tier": 1
 },
 {
+"id": "c-446c7fc975",
 "source": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "The exclusion of ordinary committee members from waived programs is stated flatly. DoDI 5205.11 paragraph 7.2.b reads verbatim: 'Members of Congress assigned to the defense and intelligence committees are authorized access to all DoD SAPs within the respective committee's SAP oversight jurisdiction, except for waived programs as described previously. The intelligence committees are authorized access only to those DoD SAPs designated by the Secretary of Defense or Deputy Secretary of Defense as intelligence or intelligence related.'",
 "tier": 1
 },
 {
+"id": "c-eaabecd113",
 "source": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "Professional staff members are cut out of waived programs entirely. DoDI 5205.11 paragraph 7.2.c.(1) reads verbatim: 'One professional staff member for both the majority and the minority party of the defense and intelligence committees may be granted access to all non-waived SAPs within the respective committee's SAP oversight jurisdiction.' Paragraph 7.2.d applies the same limit to non-committee members: 'Members of Congress and professional staff members not assigned to the defense or intelligence committees may be granted access to non-waived DoD SAPs by the Director, DoD SAPCO following consultation with the respective chamber of Congress chair and ranking defense committee members.'",
 "tier": 1
 },
 {
+"id": "c-ac3f8c09d6",
 "source": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "THE BUDGET PAPER FOR A WAIVED PROGRAM GOES TO STAFF, NOT TO MEMBERS. DoDI 5205.11 paragraph 7.2.h reads verbatim: 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is a distinct and narrower channel than the 119(e)(2) delivery to chairs and ranking members, and it means the written justification material for a waived program is routed to two staff directors per committee rather than to the twelve statutory seats.",
 "tier": 1
 },
 {
+"id": "c-2c76a75481",
 "source": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "Umbrella access does not carry down into waived compartments. DoDI 5205.11 paragraph 7.2.a.(2) reads verbatim: 'When a member of Congress or a professional staff member is given access to a SAP umbrella, that member of Congress or professional staff member will also be given access to all compartments and sub-compartments that fall under the respective SAP umbrella, with the exception of waived sub-compartments as described in Paragraph 7.2.a.(3).' A waived sub-compartment can therefore sit inside an umbrella a member is fully read into, invisibly to that member.",
 "tier": 1
 },
 {
+"id": "c-4f44214c93",
 "source": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
 "text": "GAO's own access is gated through the same two seats. DoDI 5205.11 paragraph 7.2.g provides that GAO access runs through 'the chairman and ranking defense committee members, unless the GAO is already tasked with a SAP-related action in existing legislation.' This is the structural reason GAO's published special access program work has never been able to report on the waiver's use.",
 "tier": 1
 },
 {
+"id": "c-d8ff4aff83",
 "source": "Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html",
 "text": "The historical practice of the notification was oral. The Moynihan Commission recorded in 1997 that for waived programs 'the chairperson, ranking member, and, on occasion, other members and staff of relevant Congressional committees are notified only orally of the existence of these programs.' If that practice persisted, then the 119(e)(2) delivery of 'the information ... and the justification for the waiver' generates no artefact that can later be produced, subpoenaed, archived or discovered - which is the single most consequential fact on this node.",
 "tier": 1
 },
 {
+"id": "c-15c4066300",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "10 U.S.C. 119(e)(2) directs waived-SAP information and the waiver justification 'jointly to the chairman and ranking minority member of each of the defense committees' - twelve members, given the six bodies listed in 119(g).",
 "tier": 1
 },
 {
+"id": "c-f277aa5101",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "10 U.S.C. 119(g) defines 'defense committees' for this section as the Senate Armed Services Committee, Senate Appropriations Committee, Senate Appropriations Defense Subcommittee, House Armed Services Committee, House Appropriations Committee, and House Appropriations Defense Subcommittee.",
 "tier": 1
 },
 {
+"id": "c-0404fb64d9",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim",
 "text": "10 U.S.C. 101(a)(16) defines the different term 'congressional defense committees' as only '(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and (B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives' - four bodies, not the six used by section 119.",
 "tier": 1
 },
 {
+"id": "c-1162622c56",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
 "text": "The Gang of Eight under 50 U.S.C. 3093(c)(2) consists of 'the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.' It governs covert action findings, not DoD special access programs.",
 "tier": 1
 },
 {
+"id": "c-52aaa3ef28",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
 "text": "50 U.S.C. 3093(c)(5)(B) forces re-justification or widened access within 180 days of a limited covert-action notification. 10 U.S.C. 119(e) contains no sunset and no re-justification requirement, so a SAP reporting waiver is permanent as to that report.",
 "tier": 1
 },
 {
+"id": "c-49fbc27ded",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
 "text": "50 U.S.C. 3093(g)(1)-(2) requires that all members of the intelligence committee be told a limited notification occurred and be given a general description of it. Section 119 imposes no equivalent duty, so non-leadership members of the defense committees are never informed that a waiver has been exercised.",
 "tier": 1
 },
 {
+"id": "c-22820e8ed6",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim",
 "text": "Pub. L. 114-328 sec. 1061(c)(4) lists 'Section 119(a) and (b)' among terminated reporting requirements, and sec. 1061(b)(1) ends them after 31 December 2021. The OLRC note under section 119 records the termination as effective 31 December 2021.",
 "tier": 1
 },
 {
+"id": "c-188cbb0ed1",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "Because 119(e)(1) reaches only 'any requirement under subsection (a), (b), or (c)' and (a) and (b) terminated on 31 December 2021, the waiver authority retains live operation only as to subsection (c) - reports of a planned classification change or declassification. This is an inference from the statutory text, not a statement carried in the statute itself.",
 "tier": 2
 },
 {
+"id": "c-33c7dadf7c",
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "text": "10 U.S.C. 119(f) bars initiating a special access program until the defense committees are notified and thirty days elapse. Subsection (f) is outside the reach of the 119(e)(1) waiver, which by its terms covers only subsections (a), (b) and (c).",
 "tier": 1
 },
 {
+"id": "c-be9d8fb85e",
 "source": "https://www.armed-services.senate.gov/about/membership",
 "text": "August 2026 holders of the twelve offices: Roger F. Wicker (SASC Chairman) and Jack Reed (SASC Ranking Member); Susan Collins (SAC Chair) and Patty Murray (SAC Vice Chair); Mitch McConnell (SAC Defense Subcommittee Chair) and Christopher A. Coons (SAC Defense Subcommittee Ranking Member); Mike Rogers of Alabama (HASC Chairman) and Adam Smith (HASC Ranking Member); Tom Cole (HAC Chairman) and Rosa L. DeLauro (HAC Ranking Member); Ken Calvert (HAC Defense Subcommittee Chair) and Betty McCollum (HAC Defense Subcommittee Ranking Member).",
 "tier": 1
 },
 {
+"id": "c-8b4d3a3476",
 "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
 "text": "2009 holders (111th Congress): SASC Chairman Carl Levin, Ranking Member John McCain; SAC Chairman Daniel K. Inouye, Ranking Member Thad Cochran; SAC Defense Subcommittee Chairman Daniel K. Inouye, Ranking Member Thad Cochran; HASC Chairman Ike Skelton, senior Republican Howard P. 'Buck' McKeon; HAC Chairman David R. Obey, Ranking Member Jerry Lewis; HAC Defense Subcommittee Chairman John P. Murtha, Ranking Member C. W. Bill Young.",
 "tier": 1
 },
 {
+"id": "c-7a0b1f1f95",
 "source": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm",
 "text": "The December 2009 Congressional Directory records Ike Skelton as HASC Chairman and Howard P. 'Buck' McKeon as senior Republican, David R. Obey as HAC Chairman with Jerry Lewis senior Republican, and John P. Murtha as HAC Defense Subcommittee Chairman with C. W. Bill Young senior Republican.",
 "tier": 1
 },
 {
+"id": "c-b7a483edb5",
 "source": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
 "text": "John M. McHugh, who had been the senior House Armed Services Republican before McKeon, took office as Secretary of the Army in 2009, which is why the December 2009 directory shows McKeon in the ranking seat.",
 "tier": 2
 },
 {
+"id": "c-135562fde5",
 "source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm",
 "text": "2020 holders (116th Congress): SASC Chairman James M. Inhofe, Ranking Member Jack Reed; SAC Chairman Richard C. Shelby, senior Democrat Patrick J. Leahy; SAC Defense Subcommittee Chairman Richard C. Shelby, Ranking Member Richard J. Durbin.",
 "tier": 1
 },
 {
+"id": "c-1e10b09d91",
 "source": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm",
 "text": "2020 holders (116th Congress), House: HASC Chairman Adam Smith, Ranking Member Mac Thornberry; HAC Chair Nita M. Lowey, Ranking Member Kay Granger; HAC Defense Subcommittee Chairman Peter J. Visclosky, Ranking Member Ken Calvert.",
 "tier": 1
 },
 {
+"id": "c-fc709cd228",
 "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm",
 "text": "2023 holders (118th Congress), Senate: SASC Chairman Jack Reed, Ranking Member Roger F. Wicker; SAC Chairman Patty Murray, Ranking Member Susan M. Collins; SAC Defense Subcommittee Chairman Jon Tester, Ranking Member Susan M. Collins.",
 "tier": 1
 },
 {
+"id": "c-1b15c3564f",
 "source": "https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress",
 "text": "2023 holders (118th Congress), House Appropriations Defense Subcommittee: Chair Ken Calvert, Ranking Member Betty McCollum.",
 "tier": 1
 },
 {
+"id": "c-9e6b109b4f",
 "source": "https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress",
 "text": "2023 holders (118th Congress), House Armed Services: Chairman Mike Rogers and Ranking Member Adam Smith jointly announced the committee's subcommittee rosters for the 118th Congress.",
 "tier": 1
 },
 {
+"id": "c-c905efd658",
 "source": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career",
 "text": "2023 holders (118th Congress), House Appropriations: Chairwoman Kay Granger and Ranking Member Rosa DeLauro.",
 "tier": 2
 },
 {
+"id": "c-d6d0751e40",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "DoD Directive 5205.07, reissued 12 September 2024, sets DoD special access program policy and its glossary defines SAP, SAP umbrella, SAP compartment, Joint Force Integration SAP and Strategic Enabler SAP. It does not define or use the terms 'acknowledged', 'unacknowledged' or 'waived' SAP, which appeared in the superseded July 2010 version.",
 "tier": 1
 },
 {
+"id": "c-5dcf3879fe",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "DoDD 5205.07 para. 3.1.g requires all personnel accessed to DoD SAPs to notify the Director, DoD SAPCO through their cognizant authority SAPCO when briefing or providing DoD SAP material to any member of Congress or their staff, and bars any DoD contractor entity, employee, representative or consultant from providing SAP material to members of Congress or their staff without Director, DoD SAPCO approval.",
 "tier": 1
 },
 {
+"id": "c-bebe74b689",
 "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
 "text": "DoDD 5205.07 para. 2.1.e assigns the Director, DoD SAPCO responsibility to accredit congressional SAP facilities and to maintain records of DoD SAP information provided to Congress.",
 "tier": 1
@@ -160,6 +189,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d169e0dc18",
 "edgeLabel": "seat 8 of 12 - Ranking Member, House Armed Services",
 "id": "adam-smith",
 "l0": false,
@@ -196,6 +226,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-465eaee615",
 "edgeLabel": "no statutory entitlement; not a defense committee chair or ranking member",
 "id": "anna-paulina-luna",
 "l0": false,
@@ -232,6 +263,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-8ad0120fc7",
 "edgeLabel": "seat 12 of 12 - Ranking Member, House Appropriations Defense Subcommittee",
 "id": "betty-mccollum",
 "l0": false,
@@ -268,6 +300,7 @@
 "dateEnd": null,
 "dateStart": "2009-06-16",
 "direction": "in",
+"edgeId": "e-623e2bf31b",
 "edgeLabel": "Ranking Member then Chairman, House Armed Services Committee",
 "id": "buck-mckeon",
 "l0": false,
@@ -304,6 +337,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-9f7a8da114",
 "edgeLabel": "seat 6 of 12 - Ranking Member, Senate Appropriations Defense Subcommittee",
 "id": "chris-coons",
 "l0": false,
@@ -330,6 +364,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-b589cbbc34",
 "edgeLabel": "four of the twelve seats are appropriations leadership",
 "id": "classified-annex",
 "l0": true,
@@ -361,6 +396,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-7d67c2383f",
 "edgeLabel": "caucus membership confers no statutory access",
 "id": "congressional-uap-caucus",
 "l0": true,
@@ -387,6 +423,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-61b3e8b8fe",
 "edgeLabel": "the four-member channel that 10 U.S.C. 119(e) substitutes for committee reporting",
 "id": "d-structure",
 "l0": false,
@@ -418,6 +455,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d808083e35",
 "edgeLabel": "allegations of a programme withheld from the statutory notification channel",
 "id": "david-grusch",
 "l0": false,
@@ -459,6 +497,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-919ea9c6a2",
 "edgeLabel": "Secretary of Defense is the notifying authority under 119(e)",
 "id": "dod",
 "l0": true,
@@ -485,6 +524,7 @@
 "dateEnd": null,
 "dateStart": "2024-09-12",
 "direction": "in",
+"edgeId": "e-aeaf681082",
 "edgeLabel": "DoDI 5205.11 para. 7.2.a(3) - waived-SAP access limited to chair, ranking member, staff directors and one security manager",
 "id": "dod-sapco",
 "l0": true,
@@ -521,6 +561,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-3573062eba",
 "edgeLabel": "no statutory entitlement; not a defense committee chair or ranking member",
 "id": "eric-burlison",
 "l0": false,
@@ -557,6 +598,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4355eb219d",
 "edgeLabel": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
 "id": "harry-reid",
 "l0": false,
@@ -598,6 +640,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-ae5b455dc0",
 "edgeLabel": "not a defense committee; receives nothing under 10 U.S.C. 119",
 "id": "house-oversight-committee",
 "l0": true,
@@ -624,6 +667,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-ffb1c0ae15",
 "edgeLabel": "seat 2 of 12 - Ranking Member, Senate Armed Services",
 "id": "jack-reed",
 "l0": false,
@@ -670,6 +714,7 @@
 "dateEnd": "2009-06-16",
 "dateStart": "2009-01-06",
 "direction": "in",
+"edgeId": "e-69044cbc2f",
 "edgeLabel": "Ranking Member, House Armed Services Committee",
 "id": "john-mchugh",
 "l0": false,
@@ -706,6 +751,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f0ff699d82",
 "edgeLabel": "seat 11 of 12 - Chair, House Appropriations Defense Subcommittee",
 "id": "ken-calvert",
 "l0": false,
@@ -742,6 +788,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-0a45b4e393",
 "edgeLabel": "seat 7 of 12 - Chairman, House Armed Services",
 "id": "mike-rogers-alabama",
 "l0": false,
@@ -773,6 +820,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5c8a363f4e",
 "edgeLabel": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
 "id": "mitch-mcconnell",
 "l0": false,
@@ -814,6 +862,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-a08330f2e8",
 "edgeLabel": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
 "id": "nancy-mace",
 "l0": false,
@@ -850,6 +899,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-fbdfe5892f",
 "edgeLabel": "the narrow aperture through which Congress sees waived DoD SAPs",
 "id": "oversight-congress",
 "l0": true,
@@ -881,6 +931,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-d8c412038c",
 "edgeLabel": "seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations",
 "id": "patty-murray",
 "l0": false,
@@ -912,6 +963,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-c41c35e467",
 "edgeLabel": "seat 1 of 12 - Chairman, Senate Armed Services",
 "id": "roger-wicker",
 "l0": false,
@@ -948,6 +1000,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f8b9e9cab1",
 "edgeLabel": "seat 10 of 12 - Ranking Member, House Appropriations",
 "id": "rosa-delauro",
 "l0": false,
@@ -979,6 +1032,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-11ad11ba6f",
 "edgeLabel": "one of the six defense committees named in 10 U.S.C. 119(g)(1)",
 "id": "senate-armed-services",
 "l0": true,
@@ -1005,6 +1059,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-7c1a543371",
 "edgeLabel": "seat 3 of 12 - Chair, Senate Appropriations",
 "id": "susan-collins",
 "l0": false,
@@ -1041,6 +1096,7 @@
 "dateEnd": null,
 "dateStart": "2009-01-06",
 "direction": "in",
+"edgeId": "e-b6511bfbb5",
 "edgeLabel": "Ranking Member, Senate Appropriations Committee and its Defense Subcommittee",
 "id": "thad-cochran",
 "l0": false,
@@ -1077,6 +1133,7 @@
 "dateEnd": null,
 "dateStart": "2024-04-10",
 "direction": "in",
+"edgeId": "e-e7956f36fd",
 "edgeLabel": "Chairman, House Appropriations Committee",
 "id": "tom-cole",
 "l0": false,
@@ -1113,6 +1170,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-f9eba23845",
 "edgeLabel": "created by 10 U.S.C. 119(e)(2) and defined by 119(g)",
 "id": "usc-10-119",
 "l0": true,
@@ -1139,6 +1197,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-336caeab0b",
 "edgeLabel": "the twelve members with statutory sight of a waived programme",
 "id": "waived-usap",
 "l0": true,
@@ -1165,6 +1224,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-de273811de",
 "edgeLabel": "sole statutory recipient of waived-SAP notification",
 "id": "waived-usap-mechanism",
 "l0": true,

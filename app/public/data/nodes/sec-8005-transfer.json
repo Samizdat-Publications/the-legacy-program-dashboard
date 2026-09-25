@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-10b27323c4",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "Section 8005 of the DoD Appropriations Act 2026 permits transfer of not to exceed $6,000,000,000 of working capital funds or funds made available in the Act for military functions between appropriations or funds or any subdivision thereof, with OMB approval.",
 "tier": 1
 },
 {
+"id": "c-21326c3401",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "Section 8005 requires only that the Secretary 'notify the Congress promptly of all transfers made pursuant to this authority or any other authority in this Act' - notification after the fact, not prior approval.",
 "tier": 1
 },
 {
+"id": "c-20e915f42c",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "Section 8006(b) provides that amounts in the explanatory-statement and classified-annex tables shall not be treated as subdivisions of appropriations for purposes of section 8005; section 8005 applies only when transfers occur between appropriation accounts.",
 "tier": 1
 },
 {
+"id": "c-30cbcaae70",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ47/html/PLAW-118publ47.htm",
 "text": "The FY2024 DoD Appropriations Act (P.L. 118-47) carried the same $6,000,000,000 section 8005 ceiling and the same conditions.",
 "tier": 1
 },
 {
+"id": "c-afd0386a92",
 "source": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
 "text": "The section 8006(b) carve-out means movements among classified-annex line items inside a single appropriation account are invisible both to the transfer ceiling and to the prompt-notification requirement. Reasoning: the notification duty in section 8005 attaches to transfers 'pursuant to this authority'; if the movement is not a section 8005 transfer because the annex tables are not subdivisions of appropriations, no section 8005 notice is triggered.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2026-02-03",
 "direction": "in",
+"edgeId": "e-b5c0392d90",
 "edgeLabel": "Annex tables are exempted from the section 8005 transfer ceiling",
 "id": "classified-annex",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": "2015-09",
 "direction": "in",
+"edgeId": "e-05230040b6",
 "edgeLabel": "The administrative layer beneath the statutory transfer authority",
 "id": "reprogramming-dd1415",
 "l0": false,

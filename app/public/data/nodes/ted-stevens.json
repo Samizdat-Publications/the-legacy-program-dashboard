@@ -28,11 +28,13 @@
 ],
 "claims": [
 {
+"id": "c-77f4c7301a",
 "source": "Honolulu Civil Beat, 13 June 2021; Harry Reid interviews with KLAS/Mystery Wire",
 "text": "Stevens was one of three senators — with Reid and Inouye — who directed $22 million into the defense black budget in 2007 for what became AAWSAP.",
 "tier": 2
 },
 {
+"id": "c-581c5b902d",
 "source": "Inference from the FY2008 and FY2010 appropriations spanning a change in majority and administration",
 "text": "Stevens's participation converted the earmark from a partisan favour into a leadership consensus, which is why it survived the 2008 change in Senate control without challenge.",
 "tier": 3
@@ -48,6 +50,7 @@
 "dateEnd": "2008",
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-b370e289c1",
 "edgeLabel": "provided bipartisan cover for the earmark",
 "id": "defense-appropriations-aawsap",
 "l0": false,

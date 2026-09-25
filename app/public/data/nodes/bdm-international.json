@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-6eb313ff59",
 "source": "BDM International, Inc., Form 10-K for FY1995, filed 12 March 1996, CIK 0000870763",
 "text": "'The Company was formed in 1959 by Drs. Joseph V. Braddock, Bernard J. Dunn, and Daniel F. McDonald as Braddock, Dunn & McDonald, Incorporated, which was later reorganized as BDM International, Inc.'",
 "tier": 1
 },
 {
+"id": "c-acc27d4f11",
 "source": "BDM International, Inc., Form 10-K for FY1995",
 "text": "BDM was publicly held 1980-1988, 'when Ford Aerospace Corporation, then a wholly owned subsidiary of Ford Motor Company, acquired all of the outstanding stock of the Predecessor Company'; and 'In October 1990, on behalf of certain investors, The Carlyle Group, L.P. ... formed BDM Holdings, Inc.', which acquired substantially all the assets.",
 "tier": 1
 },
 {
+"id": "c-ab59037683",
 "source": "BDM International, Inc., Form 10-K for FY1995, SEC file number 000-23966",
 "text": "Its registered address is 1501 BDM Way, McLean, Virginia. In 1995 its revenue mix was approximately 37 per cent Department of Defense, 25 per cent international defence agencies, 23 per cent civil government and 15 per cent commercial. Vinnell Corporation is named among its subsidiaries.",
 "tier": 1
 },
 {
+"id": "c-053f80cbba",
 "source": "Stated inference from reproduced scans of private papers; no institutional custody located, and no account by a named participant was read",
 "text": "Papers said to come from Jack Houck's private files after his death in 2013, published by a researcher, include a booking slip for the 'BDM McLean Secure Facility' for 20-25 May 1985, an undated May 1985 agenda, and presentation transparencies annotated in Houck's hand and dated 21 May 1985 bearing phrases including 'Threat', 'Abduction data base', 'Obtain technology spinoffs' and 'Have airtight security'. The provenance chain is private papers to researcher to publication; no institutional repository, government record or BDM record holds them.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": "1995",
 "dateStart": "1995",
 "direction": "out",
+"edgeId": "e-eb1e357ad6",
 "edgeLabel": "headquartered at 1501 BDM Way, McLean, Virginia",
 "id": "l-mclean",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "1997",
 "dateStart": "1997",
 "direction": "in",
+"edgeId": "e-d684acecdc",
 "edgeLabel": "TRW acquired BDM by cash tender offer, 1997",
 "id": "trw-inc",
 "l0": false,

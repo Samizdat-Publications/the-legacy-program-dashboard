@@ -5,16 +5,19 @@
 "band": "research",
 "claims": [
 {
+"id": "c-2e97952b57",
 "source": "Episode description, American Alchemy, 11 January 2026",
 "text": "The episode asserts the effort is a layered, compartmentalized system descended from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - not a single program.",
 "tier": 2
 },
 {
+"id": "c-a0bcdfb314",
 "source": "Timestamped chapter list published in the episode description",
 "text": "The episode's structure names as load-bearing components: a pyramid of contractors, a 'Modern Majestic 12' control group, the Office of Global Access, MITRE, the DOE NEST, the 1954 Atomic Energy Agreement and the Y-12 Complex.",
 "tier": 2
 },
 {
+"id": "c-169ab63052",
 "source": "Episode description, 11 January 2026",
 "text": "The description states former Vice President Dick Cheney is implicated in the American UFO reverse engineering program.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-61952410a6",
 "edgeLabel": "Dedicated chapter 'The Office of Global Access' at 43:04",
 "id": "cia",
 "l0": true,
@@ -56,6 +60,7 @@
 "dateEnd": null,
 "dateStart": "2026-01-11",
 "direction": "out",
+"edgeId": "e-44a5610df8",
 "edgeLabel": "the most detailed structural reconstruction in circulation, published on a YouTube channel",
 "id": "d-media",
 "l0": false,
@@ -82,6 +87,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-f04d022388",
 "edgeLabel": "Dedicated chapter 'The DOE NEST' at 1:22:01",
 "id": "doe",
 "l0": true,
@@ -103,6 +109,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-19201b74d1",
 "edgeLabel": "Michels produced and hosted the structural episode",
 "id": "jesse-michels",
 "l0": false,
@@ -124,6 +131,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-ebe4cad463",
 "edgeLabel": "The episode's thesis is the Manhattan Project 2.0 architecture",
 "id": "manhattan-project-2",
 "l0": true,
@@ -155,6 +163,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-bf54df0ff7",
 "edgeLabel": "Dedicated chapter 'The Role of MITRE' at 51:28",
 "id": "mitre-corporation",
 "l0": true,
@@ -176,6 +185,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-5bafccf490",
 "edgeLabel": "Gerb is the sole interviewee and source of the structural model",
 "id": "uap-gerb",
 "l0": false,

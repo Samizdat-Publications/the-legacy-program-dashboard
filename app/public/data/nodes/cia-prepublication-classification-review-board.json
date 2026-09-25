@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-feff133201",
 "source": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 2018/11/28, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
 "text": "The Board's released guidance states: Please allow at least 30 working days for completion of the review process.",
 "tier": 1
 },
 {
+"id": "c-edbc054c61",
 "source": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
 "text": "The same guidance provides that if the Board upholds its decision on reconsideration the author may formally appeal in writing to the Board's Chairman within 30 days, and that such appeals go to the Agency's Associate Deputy Director for a final Agency decision.",
 "tier": 1
 },
 {
+"id": "c-5bc206eaf4",
 "source": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
 "text": "Where the Board determines that a manuscript contains classified information, the guidance requires the author to return any and all versions of this work, in whatever form, for destruction and to remove those items from their hard drive, with CIA security personnel available to assist.",
 "tier": 1
 },
 {
+"id": "c-7a3b151414",
 "source": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
 "text": "The released item includes an internal document dated 17 April 2013 headed Prepublication Review Procedures and marked SECRET//CIA INTERNAL USE ONLY//NOFORN, describing manuscript flow through a case assigner, a Team Lead, equity-holding Information Review Officers and a second reviewer.",
 "tier": 1
 },
 {
+"id": "c-6ca4eca509",
 "source": "Declaration of Mark S. Zaid, Esq., Stillman v. Department of Energy, D.D.C. No. 01-01342 (EGS), 16 August 2001, https://sgp.fas.org/news/2001/08/zaid.html",
 "text": "Mark S. Zaid was attorney of record for the plaintiff in Danny B. Stillman v. Department of Energy, United States District Court for the District of Columbia, Civil Action No. 01-01342 (EGS), and stated in his declaration of 16 August 2001 that he specialises in litigating national security cases including those involving the First Amendment.",
 "tier": 1
 },
 {
+"id": "c-ce937f8ebf",
 "source": "Danny Jones Podcast, ep. 329, 5 September 2025, 0:05:01 to 0:08:16, mapped at research/leads/dannyjones-corpus-21.md",
 "text": "On the Danny Jones Podcast, episode 329, 5 September 2025, at 0:05:01 to 0:08:16, Andrew Bustamante said his manuscript was submitted in 2021, declared classified by CIA in 2022, and approved roughly three weeks after suit was threatened. No CIA record of that review was opened for this node, and a book's own clearance page is not a record.",
 "tier": 2
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-90480aa81b",
 "edgeLabel": "A board of the Agency, described in the Agency's own released guidance",
 "id": "cia",
 "l0": true,
@@ -66,6 +73,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d521b3e581",
 "edgeLabel": "Requires every version of a manuscript surrendered for destruction and removed from the author's hard drive",
 "id": "d-custody",
 "l0": false,
@@ -87,6 +95,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-aa87a4b2f1",
 "edgeLabel": "A disclaimer disowning authentication is attached in advance to every cleared account",
 "id": "d-denial",
 "l0": false,
@@ -120,6 +129,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-aa87a4b2f1",
 "label": "A disclaimer disowning authentication is attached in advance to every cleared account",
 "note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
 "of": null,

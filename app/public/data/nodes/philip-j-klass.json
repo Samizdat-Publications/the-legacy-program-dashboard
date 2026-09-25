@@ -8,31 +8,37 @@
 "chronology": [],
 "claims": [
 {
+"id": "c-d685c19678",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "Skeptics UFO Newsletter #68, Summer 2001, lead article 'Dr. Greer's Disclosure Conference Reveals His New Strategy', is a dated published critique of the Disclosure Project by name, written within weeks of the 9 May 2001 press conference.",
 "tier": 1
 },
 {
+"id": "c-5a320b082d",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "He obtained Clifford Stone's service record himself and states the repository: 'If Greer had obtained a copy of Stone's military record from the National Personnel Records Center in St. Louis, he could have learned that these and other such Stone claims were FALSE.' The assignment history he then prints is the primary evidence on the `clifford-stone` node.",
 "tier": 1
 },
 {
+"id": "c-c6e716b18f",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "He prints the FAA Alaskan Region press release of 5 March 1987 at length, including the finding that a second radar target near JAL 1628 'was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return', and the conclusion 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.'",
 "tier": 1
 },
 {
+"id": "c-777302b447",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "He supplies the count that governs every podium claim in this cluster: Greer's book 'contains transcripts of taped interviews with 69 of his witnesses, 20 of whom spoke briefly at the recent press conference.'",
 "tier": 1
 },
 {
+"id": "c-e3f3bfbe1b",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "HE DECLARES HIS OWN LIMITATION, AND THE BOARD CARRIES IT. 'SUN's Editor did not try to attend the recent press conference because Greer refused to admit me to a similar press conference he held four years ago [SUN #45/May 1997] and he reportedly refused the request for admission by Fund For UFO Research officials. So the following is based largely on Greer's own press releases and his 573-page book Disclosure.' His reporting of the event is therefore second-hand; the records he obtained himself are not.",
 "tier": 1
 },
 {
+"id": "c-bd640d5774",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "He prints the air traffic control exchange in which a United Airlines crew, vectored toward JAL 1628 for a look, reported 'We've got the Japan airliner in sight. I don't see anybody around him', and records that a USAF C-130 vectored to within about fifteen miles 'reported seeing no other traffic in the vicinity of JAL 1628'.",
 "tier": 2
@@ -48,6 +54,7 @@
 "dateEnd": "2001",
 "dateStart": "2001",
 "direction": "out",
+"edgeId": "e-62984dacf5",
 "edgeLabel": "Obtained his service record from the National Personnel Records Center and printed it against the claim",
 "id": "clifford-stone",
 "l0": false,
@@ -69,6 +76,7 @@
 "dateEnd": "2001",
 "dateStart": "2001",
 "direction": "out",
+"edgeId": "e-25eafe7c71",
 "edgeLabel": "Dated published critique of the Project by name, Summer 2001",
 "id": "disclosure-project",
 "l0": true,
@@ -105,6 +113,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-62984dacf5",
 "label": "Obtained his service record from the National Personnel Records Center and printed it against the claim",
 "note": "TIER 1 DESPITE BOTH ENDS BEING INTERESTED PARTIES, because the claim carried by this edge is that Klass requested and published a federal service record, which is a fact about an act of research and not a domain-to-domain inference. The record shows clerk/typist, administration specialist, detachment sergeant and chief administrative clerk; Klass also records Stone's 23 December 1983 FOIA request to the USAF about Bentwaters, sent from his home address without identifying him as a serving sergeant.",
 "of": {
@@ -134,6 +143,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-25eafe7c71",
 "label": "Dated published critique of the Project by name, Summer 2001",
 "note": "Skeptics UFO Newsletter #68, written within weeks of the press conference. Klass declares his own limitation in the same issue: he was refused admission and his account of the event rests on the Project's press releases, its book and broadcast footage. That limitation applies to his reporting of the event and not to the service record he obtained himself.",
 "of": {

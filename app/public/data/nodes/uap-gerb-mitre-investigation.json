@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-e5829792e5",
 "source": "YouTube publication record and description, 7 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The investigation was published 7 August 2026 by UAP Gerb, runs approximately two hours, and includes chapters titled FFRDC Primer, The MITRE Corporation, MITRE & UFO Legacy Programs, MITRE Gatekeepers, and MITRE Interrogative.",
 "tier": 2
 },
 {
+"id": "c-da9a25db52",
 "source": "UAP Gerb video description, 7 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "It states that MITRE, its 15 MITRE Labs and 6 operational FFRDCs have served as a long-term strategic partner in the US Government's and DoD's most national-security-sensitive national programs since 1958.",
 "tier": 2
 },
 {
+"id": "c-a2ad928766",
 "source": "UAP Gerb video description, 7 August 2026",
 "text": "It alleges MITRE's role in two Navy-spearheaded legacy programmes: reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to the MITRE portfolio since 1958; and tracking of an enormous USO with permanent or semi-permanent Atlantic station, with all-source data processed by MITRE.",
 "tier": 2
 },
 {
+"id": "c-783a4277ba",
 "source": "UAP Gerb video description, 7 August 2026",
 "text": "It alleges a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents.",
 "tier": 2
 },
 {
+"id": "c-dd01668d7e",
 "source": "Cross-reference against CRS R44629's summary of FAR 35.017",
 "text": "Its central structural claim - that FFRDCs arbitrate what UFO programme information reaches defence contractors - is independently supported by FAR 35.017's grant of access to both government and supplier data beyond a normal contractual relationship. Reasoning: the regulation creates the chokepoint regardless of whether the specific allegations hold.",
 "tier": 3
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-d7cbd8c428",
 "edgeLabel": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
 "id": "burlison-mitre-letter-2026",
 "l0": true,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-4240588633",
 "edgeLabel": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
 "id": "d-ffrdc",
 "l0": false,
@@ -87,6 +94,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "out",
+"edgeId": "e-2bf76d7c62",
 "edgeLabel": "Alleges MITRE has held a Navy legacy reverse-engineering role since 1958",
 "id": "mitre-corporation",
 "l0": true,
@@ -108,6 +116,7 @@
 "dateEnd": null,
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-5a75e947fa",
 "edgeLabel": "Author and publisher of the 7 August 2026 MITRE investigation",
 "id": "uap-gerb",
 "l0": false,

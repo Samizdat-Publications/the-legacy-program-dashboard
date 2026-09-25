@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-e6d93671d6",
 "source": "Andrew Johnson, 'Edgar Fouche - Disclosing Secret Technologies', checktheevidence.com, 11 February 2014, https://www.checktheevidence.com/wordpress/2014/02/11/edgar-fouche-disclosing-secret-technologies/ , opened 2026-09-18",
 "text": "Andrew Johnson's index post of 11 February 2014 is the custody page for the whole Fouche file and links the direct file locations, including checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf, checktheevidence.com/pdf/Edgar%20Fouches%20Military%20Documents.pdf, checktheevidence.com/pdf/TR-3B%20questions%20and%20Answers.pdf and video mirrors on richplanet.net.",
 "tier": 1
 },
 {
+"id": "c-effcadef3e",
 "source": "Andrew Johnson, checktheevidence.co.uk and checktheevidence.com, 12 and 13 January 2015, http://www.checktheevidence.co.uk/articles/David%20Hilton%20FOIA%20on%20ed%20Fouche.htm , opened 2026-09-18",
 "text": "Johnson's posts of 12 and 13 January 2015 are the only opened account of the FOIA episode: that David Hilton claimed on 26 June 2014 that Fouche 'faked one or more of his own military documents', that Hilton then filed a FOIA request for the records, and that Hilton posted the return on 25 September 2014. Johnson lists the return as showing Lackland AFB (1967), Keesler and Cannon AFB (1968), the Nellis assignment from June 1976 to 16 July 1979, the Kadena assignment from 5 September 1979 to 4 March 1982, and decorations including the Vietnam Service Medal, the Republic of Vietnam Gallantry Cross with Palm Device and three Meritorious Service Medals.",
 "tier": 1
 },
 {
+"id": "c-7269b47911",
 "source": "Andrew Johnson, 'Keeping The Secret Space Programme a Secret', 2 July 2014, http://www.checktheevidence.co.uk/articles/Keeping%20The%20Secret%20Space%20Programme%20a%20Secret.htm , opened 2026-09-18",
 "text": "Johnson's post of 2 July 2014 is the only opened description of the video said to contain an admission, and it records that he could not verify it: 'The video is about an alleged Skype conversation with Edgar Fouche, but I could not see the screen clearly enough in Hilton's video to verify the claims he was making.' It also establishes that the video is David Hilton's and not Jeremy Rys's.",
 "tier": 1
 },
 {
+"id": "c-fad3ab305c",
 "source": "checktheevidence.com posts of 11 February 2014, 2 July 2014 and 13 January 2015, all bylined Andrew Johnson, opened 2026-09-18",
 "text": "The site is operated under a named individual who signs and dates his posts, which distinguishes it from arvp.co.uk, whose owner is unnamed and which the board already records as anonymous.",
 "tier": 1
@@ -37,6 +41,7 @@
 "dateEnd": null,
 "dateStart": "2014-02-11",
 "direction": "out",
+"edgeId": "e-f8af998cf3",
 "edgeLabel": "Custodian of the Fouche file, under a named operator",
 "id": "edgar-fouche",
 "l0": false,
@@ -58,6 +63,7 @@
 "dateEnd": null,
 "dateStart": "2014-01-13",
 "direction": "in",
+"edgeId": "e-3e440c35a8",
 "edgeLabel": "Presentation transcript hosted by Check The Evidence",
 "id": "fouche-iufoc-1998",
 "l0": false,
@@ -79,6 +85,7 @@
 "dateEnd": null,
 "dateStart": "2014-06-15",
 "direction": "in",
+"edgeId": "e-b4bc7dc247",
 "edgeLabel": "Military documents compilation hosted by Check The Evidence",
 "id": "fouche-military-documents",
 "l0": false,

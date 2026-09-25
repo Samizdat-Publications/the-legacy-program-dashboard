@@ -53,46 +53,55 @@
 ],
 "claims": [
 {
+"id": "c-25184dd84c",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "He is named on the title page of the Disclosure Project Briefing Document of April 2001 as its author and compiler, jointly with Theodore C. Loder III, Ph.D.: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' The document gives his address as 'The Disclosure Project, PO Box 265, Crozet, VA 22932'.",
 "tier": 1
 },
 {
+"id": "c-d6a7e252c5",
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "text": "He conducts the interviews in the document himself and his presence is printed inside the transcripts: each testimony carries an initials key of the form 'SG: Dr. Steven Greer', and his editorial interjections are printed within the witness text marked 'SG]'. THE DOCUMENT IS THEREFORE NOT A NEUTRAL COMPILATION AND CAPS AT TIER 2 THE MOMENT IT IS ASKED TO SUPPORT THE CONTENT OF A CLAIM RATHER THAN THE EXISTENCE OF THE TESTIMONY.",
 "tier": 1
 },
 {
+"id": "c-6f8abecb2f",
 "source": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",
 "text": "ABC News, reporting from the National Press Club on 9 May 2001, records his claim of 'some 400 witnesses who claim to have firsthand experience with UFO sightings or alien evidence, and are willing to testify before Congress'. Klass, in the same season, records that the book published alongside the event contains 69 interview transcripts, of whom 20 spoke at the conference.",
 "tier": 2
 },
 {
+"id": "c-32a33e6c08",
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "text": "Klass records that Greer refused him admission to a comparable press conference in 1997 and 'reportedly refused the request for admission by Fund For UFO Research officials' in 2001.",
 "tier": 2
 },
 {
+"id": "c-9a6abbd457",
 "source": "Disclosure Project National Press Club event, Washington DC, 9 May 2001; contemporaneous international press coverage",
 "text": "On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power.",
 "tier": 2
 },
 {
+"id": "c-8b9dfccdc0",
 "source": "Clinton Digital Library collection finding aid, identifier 2006-0474-F",
 "text": "The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracking forms, memos, reports, email and cables relating to UFO's or extraterrestrial beings. A majority of the collection are documents which were sent to the White House by Steven M. Greer, the head of a nongovernmental organization called the Center for the Study of Extraterrestrial Intelligence (CSETI).'",
 "tier": 1
 },
 {
+"id": "c-68242b2489",
 "source": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club press conference featuring 20 retired Air Force, FAA and intelligence officers.",
 "tier": 2
 },
 {
+"id": "c-3c184582f6",
 "source": "Wikipedia, 'Steven M. Greer' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The Atacama skeleton presented in Sirius was shown by genetic evidence to be human.",
 "tier": 2
 },
 {
+"id": "c-59c1b1c96b",
 "source": "UAP Gerb livestream description, 12 May 2026",
 "text": "Greer held a National Press Club event on 8 May 2026.",
 "tier": 2
@@ -111,6 +120,7 @@
 "dateEnd": "2010",
 "dateStart": "1993",
 "direction": "in",
+"edgeId": "e-4da965e79d",
 "edgeLabel": "Sheehan served as counsel to Greer's Disclosure Project",
 "id": "daniel-sheehan",
 "l0": false,
@@ -132,6 +142,7 @@
 "dateEnd": null,
 "dateStart": "1993",
 "direction": "out",
+"edgeId": "e-43cfdcf1ce",
 "edgeLabel": "Greer founded and led the Disclosure Project",
 "id": "disclosure-project",
 "l0": true,
@@ -153,6 +164,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2001-04",
 "direction": "in",
+"edgeId": "e-a80d4515e4",
 "edgeLabel": "Named as its director and compiler",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
@@ -174,6 +186,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2001-04",
 "direction": "in",
+"edgeId": "e-26e60f2029",
 "edgeLabel": "Written and compiled by Greer, who also conducted every interview in it",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
@@ -195,6 +208,7 @@
 "dateEnd": "2001",
 "dateStart": "1993",
 "direction": "out",
+"edgeId": "e-a387ccf61b",
 "edgeLabel": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
 "id": "john-podesta",
 "l0": false,
@@ -216,6 +230,7 @@
 "dateEnd": "2001-04",
 "dateStart": "2000-12",
 "direction": "in",
+"edgeId": "e-26a4782550",
 "edgeLabel": "Witness to Greer's compilation; Greer writes the editorial notes around his testimony",
 "id": "mark-mccandlish",
 "l0": false,
@@ -237,6 +252,7 @@
 "dateEnd": "2025-09-09",
 "dateStart": "2025-09-09",
 "direction": "in",
+"edgeId": "e-86199651c0",
 "edgeLabel": "Named on the record as the custodian who supplied the written testimony",
 "id": "michael-herrera",
 "l0": false,
@@ -258,6 +274,7 @@
 "dateEnd": "2001-05-09",
 "dateStart": "2001-05-09",
 "direction": "out",
+"edgeId": "e-988cac308a",
 "edgeLabel": "Organiser of the event",
 "id": "national-press-club-2001",
 "l0": true,
@@ -279,6 +296,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-1f4e019d16",
 "edgeLabel": "Gerb publicly critiqued the 8 May 2026 Greer press-club event",
 "id": "uap-gerb",
 "l0": false,
@@ -300,6 +318,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-9e0f2c1dcc",
 "edgeLabel": "Placed with Greer and Mitchell at the April 1997 Pentagon talk",
 "id": "will-miller",
 "l0": false,

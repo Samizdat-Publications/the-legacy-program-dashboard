@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-c2661b0bbf",
 "source": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
 "text": "THE DOMAIN'S CLEANEST WORKED EXAMPLE OF MANUFACTURED CORROBORATION. Tal Levesque, author of the two original Dulce Base articles, told Adam Gorightly by email in November 2015 that Thomas Edwin Castello was 'a creation. A MYTH', and described the distribution: 'Literally, I made 100 large envelope packets with supporting material about Underground bases, genetic research, hidden science (R & D), etc. and sent the material to authors and lecturers, who then mixed it into their talks, articles and books.' The many later sources that agree about Dulce agree because they were seeded from one origin.",
 "tier": 2
 },
 {
+"id": "c-a76860cc55",
 "source": "FBI Records: The Vault - 'Majestic 12'",
 "text": "The FBI maintains a public file on the Majestic 12 documents, released through its Vault reading room, recording the investigation of their authenticity.",
 "tier": 1
 },
 {
+"id": "c-34f6186163",
 "source": "Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
 "text": "Philip J. Klass published a detailed forensic critique of the MJ-12 documents in Skeptical Inquirer in 1988, identifying typographic and formatting anomalies.",
 "tier": 2
 },
 {
+"id": "c-36b40b7af2",
 "source": "Inference from the documented MJ-12 controversy",
 "text": "The circulation of fabricated documents produces an evidentiary tax on all genuine documents in the same subject area, which is a benefit accruing specifically to the party concealing genuine records. Reasoning: no other party gains from the contamination.",
 "tier": 3
@@ -35,6 +39,7 @@
 "dateEnd": null,
 "dateStart": "1984-12-11",
 "direction": "out",
+"edgeId": "e-56a64a5dda",
 "edgeLabel": "The largest disputed document corpus",
 "id": "d-mj12",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": null,
 "dateStart": "1980-01-01",
 "direction": "in",
+"edgeId": "e-25b998b015",
 "edgeLabel": "Fabricated material as the delivery vehicle",
 "id": "d-psyop",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-6a2199fb4e",
 "edgeLabel": "A cluster whose central witness has a confessed author",
 "id": "dulce-base",
 "l0": false,
@@ -98,6 +105,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f07e2d9e5f",
 "edgeLabel": "A staffed and signed plan to manufacture events and attribute them to another state",
 "id": "operation-northwoods",
 "l0": true,

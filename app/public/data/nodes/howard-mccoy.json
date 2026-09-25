@@ -27,16 +27,19 @@
 ],
 "claims": [
 {
+"id": "c-f35d9da38e",
 "source": "NICAP document archive, file 471124_McCoy_to_Chief_of_Staff.pdf, indexed in the public NICAP /docs/ directory",
 "text": "A 24 November 1947 letter from AMC intelligence to the Air Force Chief of Staff on the flying disc problem exists and is preserved in scanned form.",
 "tier": 1
 },
 {
+"id": "c-6507e8606c",
 "source": "Condon Report Sec. V Ch. 2 and Ruppelt, 'The Report on Unidentified Flying Objects' (1956), on the AMC/ATIC chain",
 "text": "McCoy was Chief of Intelligence at Air Materiel Command, the organisation that would have received any recovered material, and was the operational supervisor of Project SIGN.",
 "tier": 2
 },
 {
+"id": "c-c3a89b98bc",
 "source": "Inference from the scope limits of GAO/NSIAD-95-187, which searched RAAF and headquarters records, not AMC T-2 holdings",
 "text": "AMC T-2 intelligence files for 1947-1949 are the single most likely surviving custody record for any recovered materiel, and no comprehensive declassification review of that series has ever been reported.",
 "tier": 3
@@ -52,6 +55,7 @@
 "dateEnd": "1951",
 "dateStart": "1945",
 "direction": "out",
+"edgeId": "e-2ac7244aad",
 "edgeLabel": "McCoy ran AMC/T-2 intelligence, the exploitation node",
 "id": "atic",
 "l0": true,
@@ -78,6 +82,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-1d71fcfbf3",
 "edgeLabel": "McCoy's shop produced the analysis Twining signed",
 "id": "twining-memo",
 "l0": false,

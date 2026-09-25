@@ -76,36 +76,43 @@
 ],
 "claims": [
 {
+"id": "c-ef9208046f",
 "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview",
 "text": "Marcel was the 509th Bomb Group intelligence officer who collected debris at the Foster ranch with CIC Capt. Sheridan Cavitt, and was photographed with debris at Fort Worth on 8 July 1947.",
 "tier": 1
 },
 {
+"id": "c-02856cf051",
 "source": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978",
 "text": "Marcel stated in 1978 that the weather balloon explanation was a cover story and the recovered material was not identifiable as any known device.",
 "tier": 2
 },
 {
+"id": "c-c2598b0818",
 "source": "USAF, 'The Roswell Report: Fact vs. Fiction' (1995) and 'The Roswell Report: Case Closed' (1997)",
 "text": "The Air Force's own 1995 and 1997 reports concluded the recovered material was from Project MOGUL balloon trains, directly contradicting Marcel.",
 "tier": 1
 },
 {
+"id": "c-9a61a1fd4a",
 "source": "Inference from GAO/NSIAD-95-187, p.3",
 "text": "The GAO's finding that the relevant RAAF messages and administrative records were destroyed without disposition authority means Marcel's account cannot be checked against the primary record — which is itself the point.",
 "tier": 3
 },
 {
+"id": "c-1d06de57b6",
 "source": "RAAF press release and Fort Worth AAF press photographs, July 1947; reproduced in the 1995 Air Force report as Fig. 4, 'Maj. Jesse Marcel With Flying Disc Debris'",
 "text": "Marcel was named in the 8 July 1947 Roswell Army Air Field press release as the intelligence officer responsible for the recovery, and was photographed at Fort Worth AAF with debris identified there as a weather balloon and radar target.",
 "tier": 2
 },
 {
+"id": "c-d494a510da",
 "source": "Friedman's account of the 1978 interview; repeated in Berlitz and Moore (1980) and in Marcel's own filmed interviews",
 "text": "Marcel told Stanton Friedman in February 1978 that the material he recovered was not from a weather balloon and was not of terrestrial manufacture, and that the material displayed at Fort Worth was substituted.",
 "tier": 2
 },
 {
+"id": "c-6c5847725e",
 "source": "Inference from his service chronology",
 "text": "Marcel's silence from 1947 to 1978 is more probative than his 1978 statement: a career intelligence officer who believed he had been publicly humiliated by a substitution had thirty-one years and a reserve pension's worth of reasons to say nothing, and did. Reasoning: the timing of his disclosure tracks his retirement and the death of the officers senior to him, not the arrival of a book contract.",
 "tier": 3
@@ -124,6 +131,7 @@
 "dateEnd": "1947-07",
 "dateStart": "1947-07",
 "direction": "out",
+"edgeId": "e-b6691fd7f8",
 "edgeLabel": "Father showed son the debris in July 1947",
 "id": "jesse-marcel-jr",
 "l0": false,
@@ -145,6 +153,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "in",
+"edgeId": "e-5a32c196a4",
 "edgeLabel": "Ramey's headquarters overrode Marcel's base-level identification",
 "id": "roger-ramey",
 "l0": false,
@@ -166,6 +175,7 @@
 "dateEnd": "1947",
 "dateStart": "1947",
 "direction": "out",
+"edgeId": "e-5db3045c93",
 "edgeLabel": "Marcel physically handled the recovered debris",
 "id": "roswell-1947",
 "l0": true,
@@ -187,6 +197,7 @@
 "dateEnd": "1947-07",
 "dateStart": "1947-07",
 "direction": "out",
+"edgeId": "e-94231c0ee5",
 "edgeLabel": "Marcel was the 509th intelligence officer who recovered the debris",
 "id": "roswell-1947",
 "l0": true,
@@ -208,6 +219,7 @@
 "dateEnd": "1978",
 "dateStart": "1978-02",
 "direction": "in",
+"edgeId": "e-da5de362aa",
 "edgeLabel": "Friedman's February 1978 interview reopened Roswell",
 "id": "stanton-friedman",
 "l0": false,
@@ -229,6 +241,7 @@
 "dateEnd": "1980",
 "dateStart": "1978",
 "direction": "out",
+"edgeId": "e-3bd6422e43",
 "edgeLabel": "Marcel's account is the spine of the 1980 book",
 "id": "the-roswell-incident-1980",
 "l0": false,
@@ -250,6 +263,7 @@
 "dateEnd": "1997",
 "dateStart": "1994",
 "direction": "out",
+"edgeId": "e-8b16784bd7",
 "edgeLabel": "The Air Force reports were produced to rebut Marcel's account",
 "id": "usaf-roswell-reports",
 "l0": false,
@@ -276,6 +290,7 @@
 "dateEnd": "1947-07-08",
 "dateStart": "1947-07-08",
 "direction": "in",
+"edgeId": "e-ee4ca9a907",
 "edgeLabel": "Haut's 8 July 1947 press release named Marcel as the recovering officer",
 "id": "walter-haut",
 "l0": false,
@@ -312,6 +327,7 @@
 },
 "claimTier": 1,
 "denialKind": "directed",
+"edgeId": "e-8b16784bd7",
 "label": "The Air Force reports were produced to rebut Marcel's account",
 "note": "Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies.",
 "of": {

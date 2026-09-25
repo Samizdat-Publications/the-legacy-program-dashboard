@@ -28,16 +28,19 @@
 ],
 "claims": [
 {
+"id": "c-06d6fe6e26",
 "source": "Honolulu Civil Beat, 13 June 2021",
 "text": "Inouye, Reid and Stevens collaborated in 2007 to direct $22 million into the Pentagon's classified black budget for UFO-related research; Inouye's chairmanship of Appropriations was pivotal in bypassing Senate floor debate about the allocation.",
 "tier": 2
 },
 {
+"id": "c-b4d121091a",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
 "text": "The Defense Appropriations Acts of FY2008 and FY2010 appropriated $22 million to DIA at Reid's direction — the vehicle Inouye controlled.",
 "tier": 1
 },
 {
+"id": "c-6634d12dc2",
 "source": "Inference from the appropriations mechanism plus DIA's need to write a January 2018 letter introducing AATIP to the Senate Armed Services Committee",
 "text": "Placing the funds in the classified annex rather than an unclassified line item was a deliberate choice to avoid authorizing-committee review, which is why the House and Senate Armed Services Committees had no visibility on AAWSAP until 2017-2018.",
 "tier": 3
@@ -53,6 +56,7 @@
 "dateEnd": "2010",
 "dateStart": "2007",
 "direction": "out",
+"edgeId": "e-bf533eb81a",
 "edgeLabel": "Appropriations chairman who provided the vehicle",
 "id": "defense-appropriations-aawsap",
 "l0": false,

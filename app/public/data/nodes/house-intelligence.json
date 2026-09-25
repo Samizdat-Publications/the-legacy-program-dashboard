@@ -5,16 +5,19 @@
 "band": null,
 "claims": [
 {
+"id": "c-df81142afb",
 "source": "P.L. 118-31, Sec. 1841(e)(2), GPO",
 "text": "Sec. 1841(e)(2) gives HPSCI, with House Oversight and Accountability and House Armed Services, continuing legislative oversight jurisdiction over the UAP Records Collection.",
 "tier": 1
 },
 {
+"id": "c-060d205ddf",
 "source": "S. 2226 as engrossed, Sec. 9007(b)(3)(A), GPO",
 "text": "The Senate's Review Board nomination process at Sec. 9007(b)(3)(A) routes recommendations through congressional leadership, the Secretary of Defense, the National Academy of Sciences, nonprofit UAP research organisations and the American Historical Association — not through the intelligence committees.",
 "tier": 1
 },
 {
+"id": "c-90b41e8028",
 "source": "Micah Hanks, The Debrief, 27 November 2023",
 "text": "HPSCI Chairman Turner is named as leading the effort to eliminate or significantly alter the UAP Disclosure Act.",
 "tier": 2
@@ -30,6 +33,7 @@
 "dateEnd": "2025",
 "dateStart": "2023",
 "direction": "in",
+"edgeId": "e-d90f94162f",
 "edgeLabel": "Chairman during the FY2024 conference",
 "id": "mike-turner",
 "l0": false,
@@ -51,6 +55,7 @@
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "out",
+"edgeId": "e-d5effe5db8",
 "edgeLabel": "The Board was designed to bypass the intelligence committees",
 "id": "uap-records-review-board",
 "l0": false,
@@ -72,6 +77,7 @@
 "dateEnd": null,
 "dateStart": "1977",
 "direction": "in",
+"edgeId": "e-3a7e87b1cf",
 "edgeLabel": "Committee of jurisdiction for IC controlled access programs",
 "id": "us-house",
 "l0": true,
@@ -105,6 +111,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": "association",
+"edgeId": "e-d5effe5db8",
 "label": "The Board was designed to bypass the intelligence committees",
 "note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
 "of": null,

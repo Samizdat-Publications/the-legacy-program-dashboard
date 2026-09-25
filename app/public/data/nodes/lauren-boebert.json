@@ -23,11 +23,13 @@
 ],
 "claims": [
 {
+"id": "c-a60bd30620",
 "source": "Rep. Lauren Boebert, 13 November 2024, GPO CHRG-118hhrg57440",
 "text": "'There are rumors that have come up to the Hill of a secretive project within the Department of Defense involving the manipulation of human genetics with what is described as nonhuman genetic material potentially for the enhancement of human capabilities - hybrids. Are any of you familiar with that, yes or no?' All four witnesses answered no.",
 "tier": 1
 },
 {
+"id": "c-dc1a525a2a",
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Asked Shellenberger: 'Do you believe that there is a concerted effort by the Pentagon to keep Congress out of the loop regarding these UAP activities specifically in our waters?' Shellenberger: 'Yes.'",
 "tier": 1
@@ -43,6 +45,7 @@
 "dateEnd": null,
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-edf5eba847",
 "edgeLabel": "Drew Shellenberger's 'Yes' on concerted Pentagon concealment from Congress in US waters",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,

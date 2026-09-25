@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-87688ccf40",
 "source": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, CIA reading-room mirror, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
 "text": "The committee is a renaming, not a new body: 'Because of the increased emphasis the Committee will place on foreign intelligence related to technology, the name of the Committee will be changed from Scientific Intelligence Committee to Scientific and Technical Intelligence Committee (STIC).'",
 "tier": 1
 },
 {
+"id": "c-5cc2618bbd",
 "source": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
 "text": "Its charter tasks it with anomalies by name. Under Priority Group II: 'Assessment and establishment of an Intelligence Community position regarding certain unidentified foreign activities and anomalies in the S&T area.'",
 "tier": 1
 },
 {
+"id": "c-2ad4acf445",
 "source": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
 "text": "It answered to the United States Intelligence Board: 'The STIC will advise USIB on scientific and technical matters within the Committee's areas of concern. The STIC, in support of USIB, will also review, stimulate, guide, and coordinate collection activity and information processing in response to resource management objectives in these areas.'",
 "tier": 1
 },
 {
+"id": "c-a8c2aac56a",
 "source": "CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt",
 "text": "Its stated purpose was early warning: 'to provide early warning of foreign scientific or technical advances, whether indigenous or imported, which could affect significantly the national security or national welfare of the United States.' Its initial substructure was three subcommittees, nine advisory groups and two working groups, including advisory groups on Behavioral and Human Engineering and on Lasers and Electro-optics.",
 "tier": 1
 },
 {
+"id": "c-09af935b0c",
 "source": "Memorandum, Letter of Instruction, Scientific and Technical Intelligence Committee, 3 August 1975, CIA-RDP80M01133A000100210002-3, https://archive.org/download/cia-readingroom-document-cia-rdp80m01133a000100210002-3/cia-rdp80m01133a000100210002-3_djvu.txt",
 "text": "The committee was still operating in 1975 under a Letter of Instruction from the Deputy to the DCI for the Intelligence Community, which directed it to 'Complete the reorganization of the STIC and the transfer of subgroups to GMAIC during August 1975' and to coordinate all intelligence community activity on foreign science and technology that might lead to future threats to the US.",
 "tier": 1
@@ -40,6 +45,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-c143641693",
 "edgeLabel": "Chartered under the DCI structure; instructed by the Deputy to the DCI for the Intelligence Community",
 "id": "cia",
 "l0": true,

@@ -5,41 +5,49 @@
 "band": null,
 "claims": [
 {
+"id": "c-c267284b6e",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
 "text": "Defense Intelligence Reference Document titled \"Anomalous Acute and Subacute Field Effects on Human Biological Tissues\", series \"Acquisition Threat Support\", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-d78bf96292",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-e804ffa5ed",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-d38814c309",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
 "text": "Released PDF is 38 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
 "tier": 1
 },
 {
+"id": "c-dd9de2fc2a",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "Authored by Dr Kit Green of Wayne State University, per the 9 January 2018 DIA list (item 12, listed there under the shorter title \"Field Effects on Biological Tissues\").",
 "tier": 1
 },
 {
+"id": "c-6542f4b8b3",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf",
 "text": "Cover page reads \"11 March 2010 / ICOD: 1 December 2009\", series \"Acquisition Threat Support\". No DIA-08-XXXX-XXX document number is recoverable from the text layer of the released scan; it is recorded here as unknown rather than guessed.",
 "tier": 1
 },
 {
+"id": "c-2dfa379aaf",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The title as printed on the released document, \"Anomalous Acute and Subacute Field Effects on Human Biological Tissues\", is materially more specific than the title the DIA reported to the Senate Armed Services Committee, \"Field Effects on Biological Tissues\". The words \"Anomalous\" and \"Human\" were not in the version of the title given to Congress.",
 "tier": 2
 },
 {
+"id": "c-53b253daa9",
 "source": "https://irp.fas.org/dia/aatip-list.pdf",
 "text": "This is the only DIRD in the 38 whose subject is injury to human beings, which is what makes it the load-bearing document for the board's medical-effects thread rather than a propulsion survey.",
 "tier": 3
@@ -55,6 +63,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-fa78d79e76",
 "edgeLabel": "deliverable under AAWSAP",
 "id": "aawsap",
 "l0": true,
@@ -81,6 +90,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-517f496d13",
 "edgeLabel": "published and holds; document number not recoverable",
 "id": "dia",
 "l0": true,
@@ -107,6 +117,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-66d59359a1",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -128,6 +139,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-1b53650551",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -154,6 +166,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-a75db2d076",
 "edgeLabel": "authored",
 "id": "kit-green",
 "l0": false,
@@ -190,6 +203,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-628aacec41",
 "edgeLabel": "authored at Wayne State University",
 "id": "wayne-state-university",
 "l0": true,

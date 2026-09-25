@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-6e7381fd4e",
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, extrapolating from David Grusch's statements on Megyn Kelly",
 "text": "Northrop Grumman may have used IRAD funds at the onset of the War on Terror to self-fund its own retrieval and exploitation programs, becoming unaccountable to its original government handler.",
 "tier": 2
 },
 {
+"id": "c-ebe714bfa2",
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, citing David Grusch",
 "text": "Stephanie O'Sullivan - former Principal Deputy DNI, former TRW engineer and current Aerospace Corporation board member - is stated by David Grusch to have managed the UFO crash retrieval issue alongside James Clapper at ODNI.",
 "tier": 2
 },
 {
+"id": "c-0494bb0b16",
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
 "text": "Northrop Grumman's modern UFO security apparatus is helmed by Terry Phillips, former director of AFOSI/PJ.",
 "tier": 2
 },
 {
+"id": "c-c94ac019c6",
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
 "text": "The Northrop Tejon radar cross-section facility was officially closed in 2011; Gerb questions whether clandestine underground operations continue beneath it.",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": "2026",
 "dateStart": "1980",
 "direction": "out",
+"edgeId": "e-c7dcb21198",
 "edgeLabel": "Traces Stephanie O'Sullivan from TRW to ODNI to the Aerospace board",
 "id": "aerospace-corporation",
 "l0": false,
@@ -56,6 +61,7 @@
 "dateEnd": "2026",
 "dateStart": "2024",
 "direction": "out",
+"edgeId": "e-9b167c0230",
 "edgeLabel": "Built on Grusch's statements about Clapper and O'Sullivan",
 "id": "david-grusch",
 "l0": false,
@@ -77,6 +83,7 @@
 "dateEnd": "2026",
 "dateStart": "2001",
 "direction": "out",
+"edgeId": "e-9b535997a6",
 "edgeLabel": "Alleges IRAD self-funding of a breakaway programme after 9/11",
 "id": "northrop-grumman",
 "l0": true,
@@ -98,6 +105,7 @@
 "dateEnd": "2026",
 "dateStart": "2002",
 "direction": "in",
+"edgeId": "e-bec9bfa851",
 "edgeLabel": "The subject of the 20 March 2026 corporate-breakaway argument",
 "id": "trw-inc",
 "l0": false,
@@ -119,6 +127,7 @@
 "dateEnd": "2026",
 "dateStart": "2026",
 "direction": "in",
+"edgeId": "e-2049fb4b16",
 "edgeLabel": "Gerb authored the Northrop/TRW breakaway analysis",
 "id": "uap-gerb",
 "l0": false,

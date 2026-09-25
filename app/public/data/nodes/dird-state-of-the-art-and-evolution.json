@@ -5,36 +5,43 @@
 "band": null,
 "claims": [
 {
+"id": "c-1d201e28c7",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/",
 "text": "Defense Intelligence Reference Document titled \"State of the Art and Evolution of High-Energy Laser Weapons\", series \"Acquisition Threat Support\", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-019. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
+"id": "c-9b77b5dfed",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/",
 "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
 "tier": 1
 },
 {
+"id": "c-a935d0a888",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/",
 "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
 "tier": 1
 },
 {
+"id": "c-708d561bcc",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Author of record per the DIA letter of 9 January 2018, which lists the paper twice: item 37 \"State of the Art and Evaluation of High Energy Laser Weapons, J Albertine, Directed technologies. (Formerly classified SECRET/NOFORN.)\" and item 38, the same title and author unclassified.",
 "tier": 2
 },
 {
+"id": "c-8fe35c5421",
 "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf",
 "text": "The released cover page reads \"31 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-019,\" series \"Acquisition Threat Support.\" The author line is redacted under (b)(6).",
 "tier": 1
 },
 {
+"id": "c-a22e3d0c3d",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The DIA list renders the title as \"State of the Art and Evaluation of High Energy Laser Weapons\" while the released document is titled \"State of the Art and Evolution of High-Energy Laser Weapons.\" Evaluation versus Evolution is an unresolved discrepancy between the government list and the government document.",
 "tier": 2
 },
 {
+"id": "c-8349cdd462",
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "This document accounts for the long-unexplained 38th entry on the AAWSAP deliverables list, which the earlier KLAS-TV list of July 2018 carried only as \"Redacted.\" It is the sole DIRD known to have had a classified version, making it the only classified deliverable in the set.",
 "tier": 2
@@ -50,6 +57,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-4c646c9f07",
 "edgeLabel": "AAWSAP deliverable; the only one with a classified version",
 "id": "aawsap",
 "l0": true,
@@ -81,6 +89,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-461adab47e",
 "edgeLabel": "published by DIA as DIA-08-1003-019, Acquisition Threat Support series",
 "id": "dia",
 "l0": true,
@@ -107,6 +116,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-8ce394a004",
 "edgeLabel": "DIRD",
 "id": "dird-series",
 "l0": true,
@@ -128,6 +138,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-33ba9f5b4e",
 "edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
@@ -154,6 +165,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-71eff4f014",
 "edgeLabel": "author of record on the DIA list, both versions",
 "id": "john-albertine",
 "l0": false,

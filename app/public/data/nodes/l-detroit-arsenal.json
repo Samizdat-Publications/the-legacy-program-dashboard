@@ -5,21 +5,25 @@
 "band": null,
 "claims": [
 {
+"id": "c-776379452d",
 "source": "Executed CRADA between CCDC GVSC and TTSA, 10 October 2019",
 "text": "GVSC Director Jeffery Langhout signed a CRADA with To The Stars Academy dated 10 October 2019; the agreement text was released by the Army on 18 October 2019.",
 "tier": 1
 },
 {
+"id": "c-5f32d356b6",
 "source": "Army FOIA response to John Greenewald / The Black Vault",
 "text": "The Army located twenty-nine emails totalling one hundred pages of Dr. Joseph Cannon's correspondence with TTSA and withheld all of them in full under FOIA exemptions (b)(4) and (b)(5).",
 "tier": 1
 },
 {
+"id": "c-371eab753d",
 "source": "Dr. Joseph Cannon, quoted in TTSA announcement, 17 October 2019",
 "text": "'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.'",
 "tier": 2
 },
 {
+"id": "c-3042938ef6",
 "source": "Army public affairs statement, 2019",
 "text": "GVSP spokesman Doug Halleaux stated that because the Army's interest is in the potential for novel materials, 'any speculation as to their origin is (pardon the pun) immaterial.'",
 "tier": 2
@@ -35,6 +39,7 @@
 "dateEnd": "2019-10-10",
 "dateStart": "2019-10-10",
 "direction": "in",
+"edgeId": "e-3ff511cdad",
 "edgeLabel": "Langhout signed as GVSC Director",
 "id": "jeffery-langhout",
 "l0": false,
@@ -61,6 +66,7 @@
 "dateEnd": "2020",
 "dateStart": "2019",
 "direction": "in",
+"edgeId": "e-68acd832a6",
 "edgeLabel": "Cannon was the named government principal investigator at GVSC",
 "id": "joseph-cannon",
 "l0": false,
@@ -87,6 +93,7 @@
 "dateEnd": null,
 "dateStart": "1940",
 "direction": "out",
+"edgeId": "e-a7a4e46b7e",
 "edgeLabel": "Detroit Arsenal is in Warren, thirteen miles north of Detroit",
 "id": "l-detroit",
 "l0": false,
@@ -113,6 +120,7 @@
 "dateEnd": "2019-10-10",
 "dateStart": "2019-10-10",
 "direction": "in",
+"edgeId": "e-751c8f94ee",
 "edgeLabel": "The CRADA was executed at Detroit Arsenal",
 "id": "ttsa-army-crada",
 "l0": true,

@@ -5,31 +5,37 @@
 "band": null,
 "claims": [
 {
+"id": "c-b4e2bef505",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
 "text": "Letterhead: 'HARRY REID, MAJORITY LEADER, NEVADA — United States Senate, Washington, DC 20510'. Dated June 24, 2009. Addressed to 'Honorable William Lynn III, Deputy Secretary of Defense, 1010 Defense Pentagon, Washington, DC 20301-1010'. Salutation: 'Dear Secretary Lynn:'",
 "tier": 1
 },
 {
+"id": "c-df415b8411",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
 "text": "Text: 'Beginning this past September, the U.S. Senate has mandated that the Defense Intelligence Agency assess far-term foreign advanced aerospace threats to the United States. The scope of program interest covers from the present out to forty years and beyond.'",
 "tier": 1
 },
 {
+"id": "c-1dc06cc0cc",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
 "text": "Text: 'technical studies are being conducted in regard to advanced lift, propulsion, the use of unconventional materials and controls, signature reduction, weaponry, human interface and human effects.'",
 "tier": 1
 },
 {
+"id": "c-9cb0ba8e26",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
 "text": "Text: 'Since the Advanced Aerospace Threat and Identification Program (AAITP) and study were first commissioned, much progress has been made with the identification of several highly sensitive, unconventional aerospace-related findings. Given the current rate of success, the continued study of these subjects will likely lead to technology advancements that in the immediate near-term will require extraordinary protection. Due to the sensitivities of the information surrounding aspects of this program, I require your assistance in establishing a [restricted special access program].'",
 "tier": 1
 },
 {
+"id": "c-8d48d26843",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/",
 "text": "The USD(I) memorandum to DEPSECDEF confirms receipt and framing: 'Senator Harry Reid sent a letter to you on June 24, 2009 requesting the Department of Defense put the AAITP under \"Restricted Special Access Protection\" (Tab A).'",
 "tier": 1
 },
 {
+"id": "c-1961f61d7b",
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
 "text": "Reid, the sitting Senate Majority Leader, asserted on his own signature that the program had produced 'several highly sensitive, unconventional aerospace-related findings' warranting 'extraordinary protection' — a claim made in writing to the Deputy Secretary of Defense, not to the press.",
 "tier": 2
@@ -45,6 +51,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-fed1d4ce5f",
 "edgeLabel": "",
 "id": "dia-sap-denial-2009",
 "l0": false,
@@ -71,6 +78,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
+"edgeId": "e-d534721273",
 "edgeLabel": "USD(I) tasked DIA to evaluate; DIA declined",
 "id": "dia-sap-denial-2009",
 "l0": false,
@@ -92,6 +100,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-f96860a700",
 "edgeLabel": "",
 "id": "harry-reid",
 "l0": false,
@@ -118,6 +127,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-cc4bd983de",
 "edgeLabel": "signed 24 June 2009",
 "id": "harry-reid",
 "l0": false,

@@ -5,26 +5,31 @@
 "band": null,
 "claims": [
 {
+"id": "c-2f52d0a11e",
 "source": "GAO-03-825R, Military Space Operations, 2 June 2003, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
 "text": "GAO's description of the system and its dates: DSP is 'a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches', the programme commenced in 1967, the first operational satellite was deployed in 1971, the most recent launch was August 2001, and it 'provides near real-time detection information in support of DOD's integrated tactical warning and attack assessment (ITW/AA) mission'.",
 "tier": 1
 },
 {
+"id": "c-dd12b9decd",
 "source": "GAO-03-825R, Military Space Operations, 2 June 2003, and GAO/NSIAD-94-253, 16 August 1994, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
 "text": "Replacement history: 'The SBIRS-High program is focused on replacing DSP', after the earlier Advanced Warning System, Follow-On Early Warning System and Alert, Locate, and Report Missiles programmes were abandoned as too expensive or technologically immature.",
 "tier": 1
 },
 {
+"id": "c-1176dfb015",
 "source": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, on a request of 19 November 2013, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
 "text": "A named command confirmed responsive records on the designation and withheld all of them: 'After performing a search of our systems of records we found two responsive USNORTHCOM documents. Upon review of the responsive documents we have determined that they are currently and properly classified in accordance with Executive Order 13526, section 1.4c and should remain exempt from public disclosure under the FOIA exemption (b)(1).'",
 "tier": 1
 },
 {
+"id": "c-4aa48e98f0",
 "source": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
 "text": "The same letter refuses to search a second command's holdings on structural grounds: 'Additionally, NORAD is exempt from FOIA requests as a bi-national organization; therefore no search was conducted for responsive NORAD documents.'",
 "tier": 1
 },
 {
+"id": "c-34009e3b1c",
 "source": "John Greenewald, 'Space Force Says Documents on \"Fastwalkers\" and \"Slowwalkers\" All \"Exempt from Disclosure\"', The Black Vault, 22 December 2023, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/",
 "text": "The Black Vault reports that the US Space Force, responding on 19 December 2023 to a July 2023 request for all procedures and manuals referencing 'Fastwalkers' and 'Slowwalkers', withheld the material in full under FOIA Exemption 1 and section 1.1(a) of Executive Order 13526. The response letter itself was not opened for this record.",
 "tier": 2
@@ -40,6 +45,7 @@
 "dateEnd": "2008",
 "dateStart": "2008",
 "direction": "out",
+"edgeId": "e-3e833b73c5",
 "edgeLabel": "The thesis points at DSP without naming it",
 "id": "afit-townsend-2008",
 "l0": false,
@@ -61,6 +67,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
+"edgeId": "e-5b4f4b72a7",
 "edgeLabel": "Named DSP as a programme collecting hard data on unidentified flying objects",
 "id": "bob-fish",
 "l0": false,
@@ -82,6 +89,7 @@
 "dateEnd": "2023",
 "dateStart": "2013",
 "direction": "out",
+"edgeId": "e-d939e2eded",
 "edgeLabel": "Both refusals rest on the same executive order",
 "id": "eo-13526",
 "l0": true,
@@ -108,6 +116,7 @@
 "dateEnd": "2013-12-06",
 "dateStart": "2013-12-06",
 "direction": "out",
+"edgeId": "e-add2c009fa",
 "edgeLabel": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
 "id": "norad-northcom",
 "l0": true,
@@ -129,6 +138,7 @@
 "dateEnd": "2023",
 "dateStart": "2013",
 "direction": "out",
+"edgeId": "e-7981069a36",
 "edgeLabel": "Both refusals on this designation are public only because of The Black Vault",
 "id": "the-black-vault",
 "l0": true,
@@ -155,6 +165,7 @@
 "dateEnd": null,
 "dateStart": "1967",
 "direction": "out",
+"edgeId": "e-75db3f4fbc",
 "edgeLabel": "Flown by the Air Force before the constellation passed to the Space Force",
 "id": "usaf",
 "l0": true,
@@ -188,6 +199,7 @@
 "by": null,
 "claimTier": 1,
 "denialKind": null,
+"edgeId": "e-add2c009fa",
 "label": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
 "note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
 "of": null,
