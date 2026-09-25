@@ -725,7 +725,14 @@ def render_denials(b):
         for d in node.get("denials") or []:
             by = d.get("by") or {}
             of = d.get("of") or {}
-            key = (by.get("id"), of.get("id"), clean(d.get("label")))
+            if by:
+                key = (by.get("id"), of.get("id"), clean(d.get("label")))
+            else:
+                # no adjudicated denier (phase 3): keyed on both ends, grouped
+                # under None, and never given a direction
+                ends = tuple(sorted(((d.get("a") or {}).get("id") or "",
+                                     (d.get("b") or {}).get("id") or "")))
+                key = (None, ends, clean(d.get("label")))
             seen.setdefault(key, d)
 
     by_denier = {}
@@ -743,6 +750,24 @@ def render_denials(b):
     for denier_id in sorted(by_denier, key=lambda x: b.label(x or "")):
         group = sorted(by_denier[denier_id],
                        key=lambda d: (clean((d.get("of") or {}).get("id")), clean(d.get("label"))))
+        if denier_id is None:
+            block = "## Denials whose direction is not adjudicated\n\n"
+            block += para(str(len(group)) + (" denial" if len(group) == 1 else " denials")
+                          + " on this board name no denier in the adjudication, so no direction "
+                          "is given for them here. Each is listed by its two ends.")
+            for d in group:
+                a, b_ = d.get("a") or {}, d.get("b") or {}
+                block += ("- **" + clean(d.get("label")) + "** Between "
+                          + clean(a.get("label") or a.get("id")) + " and "
+                          + clean(b_.get("label") or b_.get("id")) + ", recorded as a "
+                          + clean(d.get("denialKind") or "not yet adjudicated") + " denial link at "
+                          + CLAIM_TIER_SHORT.get(d.get("claimTier"), "no tier recorded") + ". ")
+                note = clean(d.get("note") or "")
+                if note:
+                    block += note + " "
+                block += sources_sentence(d.get("sources")).rstrip() + "\n"
+            s.append(block + "\n")
+            continue
         block = "## " + b.label(denier_id) + "\n\n"
         block += para(b.label(denier_id) + " is recorded as the denying party in " + str(len(group))
                       + (" denial" if len(group) == 1 else " denials") + " on this board.")
@@ -802,7 +827,7 @@ def render_timeline(b):
             node_bit = (end_stop("On the node " + b.label(node_id)) + " ") if node_id else "No node attached. "
             block += ("- **" + date + ", " + clean(e.get("label")) + ".** " + clean(e.get("text"))
                       + " " + node_bit + "Strand: " + clean(e.get("strand") or "not recorded")
-                      + ". Recorded at " + mixed_tier_label(e.get("tier")) + ".\n")
+                      + ". Recorded at " + mixed_tier_label(e.get("grade") or e.get("claimTier")) + ".\n")
         block += "\n"
         s.append(block)
     return Doc("12-timeline", head, s)
