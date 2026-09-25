@@ -149,6 +149,8 @@ h1, h2, h3 { margin: 0; font-weight: 600; }
 .results a.res:hover { background: var(--panel2); text-decoration: none; }
 .results a.res .meta { color: var(--dim); }
 .results a.res .hit { color: var(--dim); grid-column: 2 / -1; }
+/* threads and events carry no class, so no mark: the label takes its column */
+.results a.res.thread .label, .results a.res.event .label { grid-column: 1 / 3; }
 .results mark { background: transparent; color: var(--amber); }
 
 /* =====================================================================
@@ -368,8 +370,10 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 .axes { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; margin-bottom: 12px; }
 .axis { display: inline-flex; align-items: center; gap: 7px; color: var(--dim); }
 .axis .cells { display: inline-flex; gap: 2px; }
-.axis .cell { width: 12px; height: 9px; border: 1px solid var(--line2); }
-.axis .cell.on { background: var(--cyan); border-color: var(--cyan); }
+/* .acell, not .cell: map.css positions every .cell absolutely, and that
+   stacked these three into one square whenever the map's styles were loaded */
+.axis .acell { width: 12px; height: 9px; border: 1px solid var(--line2); }
+.axis .acell.on { background: var(--cyan); border-color: var(--cyan); }
 .axis .num { color: var(--text); }
 .roles { display: inline-flex; gap: 6px; flex-wrap: wrap; }
 .role { border: 1px solid var(--line2); color: var(--dim); padding: 1px 7px; }

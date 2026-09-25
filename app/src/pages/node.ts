@@ -67,7 +67,7 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   for (const [key, label] of AXES) {
     const v = Number(rec[key] ?? 0);
     const cells = h('span', { class: 'cells' });
-    for (let i = 1; i <= 3; i++) cells.append(h('span', { class: 'cell' + (i <= v ? ' on' : '') }));
+    for (let i = 1; i <= 3; i++) cells.append(h('span', { class: 'acell' + (i <= v ? ' on' : '') }));
     axes.append(h('span', { class: 'axis' }, label, cells, h('span', { class: 'num' }, v + '/3')));
   }
   const roles = (rec.dossier && rec.dossier.roles) || [];
@@ -185,10 +185,12 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
     slice.append(sl);
   }
   /* neighbours by start date, as the mockup's slice does when the node itself
-     carries few events */
+     carries few events: each neighbour once, at its earliest dated link */
+  const neighSeen = new Set<string>();
   const neigh = rec.connections
     .filter((c) => c.l0 && c.dateStart)
-    .sort((a, b) => String(a.dateStart).localeCompare(String(b.dateStart)));
+    .sort((a, b) => String(a.dateStart).localeCompare(String(b.dateStart)))
+    .filter((c) => (neighSeen.has(c.id) ? false : (neighSeen.add(c.id), true)));
   if (neigh.length) {
     slice.append(h('div', { class: 'faint', style: 'margin-top:8px' }, 'map neighbours by start date'));
     const sl2 = h('div', { class: 'slice' });

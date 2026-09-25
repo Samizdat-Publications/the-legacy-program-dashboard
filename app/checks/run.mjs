@@ -268,6 +268,10 @@ const IN_PAGE = {
       oq: n('.node .oq'), unv: n('.node .unv'), chron: n('.node .chron .ev'),
       aff: n('.node .affs .aff'), nsrc: n('.node .nsrcs .nsrc'),
       crumb: ((document.querySelector('.node .crumb-l') || {}).textContent || ''),
+      /* the three axis bars, as the boxes the browser laid out: three cells side
+         by side, never stacked on one another */
+      axes: Array.prototype.map.call(document.querySelectorAll('.node .axis .cells'), (c) =>
+        Array.prototype.map.call(c.children, (x) => { const b = x.getBoundingClientRect(); return [b.left, b.right]; })),
     };
   },
 
@@ -703,10 +707,11 @@ const POISONS = {
   },
   c23: {
     stops: ['person'],
-    what: 'hides one of the unverified notes on the person page, leaving it on the record',
+    what: 'hides one of the unverified notes on the person page, and stacks its axis cells as the map\'s .cell rule once did',
     fn: async (page) => page.evaluate(() => {
       const u = document.querySelectorAll('.node .unv');
       if (u.length) u[u.length - 1].remove();
+      for (const c of document.querySelectorAll('.node .axis .acell')) c.style.position = 'absolute';
     }),
   },
   c24: {
@@ -1565,6 +1570,11 @@ async function main() {
         Object.keys(want).map((k) => `${k} ${f[k]}/${want[k]}`).join(' · '));
       check('c23', !/\bTier [ABC]\b|\bcluster\b/.test(f.crumb),
         `C23 #/n/${rec.id} prints neither the node tier letter nor the cluster`, f.crumb.trim().slice(0, 80));
+      const stacked = f.axes.filter((cells) => cells.length !== 3 ||
+        cells.some((b, i) => i > 0 && b[0] < cells[i - 1][1] - 0.5));
+      check('c23', f.axes.length === 3 && stacked.length === 0,
+        `C23 #/n/${rec.id} draws each of the three axes as three cells side by side`,
+        f.axes.length + ' axes' + (stacked.length ? ', ' + stacked.length + ' with cells stacked or missing' : ''));
     }
   }
 
