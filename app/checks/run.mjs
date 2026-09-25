@@ -2211,8 +2211,14 @@ function allPoisons() {
       env: { ...process.env, POISON: n }, encoding: 'utf8',
     });
     const out = (r.stdout || '') + (r.stderr || '');
-    const line = out.split('\n').filter((l) => /POISON=/.test(l)).pop() || '(no verdict line)';
-    console.log(line.trim());
+    const line = out.split('\n').filter((l) => /POISON=/.test(l)).pop();
+    if (line) console.log(line.trim());
+    else {
+      /* a run that died before its verdict: say why, rather than only that it did */
+      const tail = out.trim().split('\n').slice(-4).map((l) => '      ' + l.trim()).join('\n');
+      console.log(`POISON=${n} no verdict line (exit ${r.status}${r.signal ? ', ' + r.signal : ''})` +
+        (r.error ? ': ' + r.error.message : '') + (tail ? '\n' + tail : ''));
+    }
     if (r.status !== 0) bad.push(n);
   }
   console.log('\n' + (bad.length
