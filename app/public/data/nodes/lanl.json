@@ -2,7 +2,7 @@
 "A": 3,
 "C": 2,
 "D": 1,
-"band": "custody",
+"band": null,
 "claims": [
 {
 "source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
@@ -220,41 +220,10 @@
 },
 "hl": null,
 "id": "lanl",
-"l0": true,
+"l0": false,
 "label": "Los Alamos National Laboratory",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "bob-lazar",
-"label": "Robert \"Bob\" Lazar",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "donald-kerr",
-"label": "Donald M. Kerr",
-"tier": "B"
-},
-{
-"cls": "event",
-"id": "green-fireballs-conference-1949",
-"label": "Los Alamos Green Fireballs Conference",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "jeremy-corbell",
-"label": "Jeremy Kenyon Lockyer Corbell",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "kirk-mayer",
-"label": "Kirk-Mayer, Inc.",
-"tier": "C"
-}
-],
+"members": null,
 "short": "Los Alamos National Laboratory",
 "sources": [
 {
@@ -290,7 +259,7 @@
 ],
 "sub": "DOE FFRDC administered by Triad National Security, LLC since 9 June 2018; Los Alamos, NM",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 248 of 1136, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 254 of 1170, score 42). 6 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1949-12-01",

@@ -1,0 +1,404 @@
+{
+"A": 1,
+"C": 0,
+"D": 3,
+"band": "disclosure",
+"claims": [
+{
+"source": "Full-text search of the 14 June 2001 FOIA release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "THE ZERO COUNT. A full-text search of the 88 released pages of the 341st Strategic Missile Wing histories, covering 1 January 1967 to 31 March 1968, returns ZERO occurrences of 'Oscar', ZERO of 'O Flight', ZERO of '24 Mar' and ZERO of '25 Mar'. The release documents Echo Flight on 16 March 1967 and no other March 1967 shutdown.",
+"tier": 1
+},
+{
+"source": "HQ 341st Space Wing letter to John Greenewald Jr, 14 June 2001, signed Marty S. Stephens, p 3 of the release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "THE ZERO COUNT IS BOUNDED BY WHAT THE RELEASE IS. The Air Force letter of 14 June 2001 states it is releasing 'Copies of excerpts, as well as supporting documents' of five quarterly histories, not the complete histories. Every argument from silence against Oscar Flight is bounded by that, and this board states the bound rather than letting the zero count do more work than it can.",
+"tier": 3
+},
+{
+"source": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+"text": "Robert Hastings dates Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information and states that Salas agrees the two incidents probably occurred on separate days. The date that separates Oscar Flight from Echo Flight therefore comes from a witness the same interviewer found.",
+"tier": 2
+},
+{
+"source": "Metabunk, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
+"text": "James Carlson disputes that any Oscar Flight incident occurred, citing SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date, and disputes Salas's account of the flight to which he was assigned.",
+"tier": 2
+},
+{
+"source": "Contested between https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ and http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , all opened 2026-09-19",
+"text": "Col. Frederick Meiwald wrote to Salas about the incident on 1 October 1996. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD and two incompatible characterisations of it are in circulation, one supporting and one contradicting Salas. Kevin Randle separately records Salas giving all ten missiles and Meiwald four or five.",
+"tier": 2
+}
+],
+"cls": "event",
+"cluster": "witness",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "2001-06-14",
+"dateStart": "1967-03-24",
+"direction": "in",
+"edgeLabel": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
+"id": "doc-341-smw-history-1967",
+"l0": false,
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2011-05-06",
+"dateStart": "1967-03-24",
+"direction": "in",
+"edgeLabel": "Salas's crew commander; the 1 October 1996 letter",
+"id": "frederick-meiwald",
+"l0": false,
+"label": "Col. Frederick Meiwald",
+"note": "HE WAS FOUND BY THE CLAIMANT IN SUMMER 1996 AND HIS LETTER IS PUBLISHED BY THE CLAIMANT. NO PRE-CONTACT STATEMENT EXISTS. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD AND TWO INCOMPATIBLE CHARACTERISATIONS OF IT ARE IN CIRCULATION.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2013-05-19",
+"name": "Kevin Randle, 'A Different Perspective: Robert Salas and Me', 19 May 2013. Opened 19 September 2026",
+"url": "http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2010",
+"direction": "in",
+"edgeLabel": "Disputes that any Oscar Flight incident occurred",
+"id": "james-carlson",
+"l0": false,
+"label": "James Carlson",
+"note": "He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1967-03-24",
+"dateStart": "1967-03-24",
+"direction": "out",
+"edgeLabel": "The claimed Oscar Flight capsule is in this wing's field",
+"id": "l-malmstrom",
+"l0": false,
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"note": "Tier 2: the claim places it here, and the released unit history for this wing does not mention Oscar Flight at all.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2026",
+"dateStart": "2010",
+"direction": "in",
+"edgeLabel": "Separated Oscar Flight from Echo Flight and dated it",
+"id": "robert-hastings",
+"l0": false,
+"label": "Robert L. Hastings",
+"note": "It is Hastings, not a sceptic, who made the separation that both improves the board's honesty and removes Echo Flight's documentation from the Oscar Flight claim.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2010-09-27",
+"dateStart": "1967-03-24",
+"direction": "in",
+"edgeLabel": "Retargeting team commander; the source of the 24 March 1967 date",
+"id": "robert-jamison",
+"l0": false,
+"label": "Capt. Robert Jamison",
+"note": "HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight's Tier 1 documentation from the Oscar Flight claim.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "1996",
+"dateStart": "1967-03-24",
+"direction": "in",
+"edgeLabel": "The originating claimant of the Oscar Flight account",
+"id": "robert-salas",
+"l0": false,
+"label": "Capt. Robert L. Salas",
+"note": "He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2013-05-19",
+"name": "Kevin Randle, 'A Different Perspective: Robert Salas and Me', 19 May 2013. Opened 19 September 2026",
+"url": "http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"coords": null,
+"dateEnd": "1996",
+"dateStart": "1967-03-24",
+"deg": 7,
+"denials": [
+{
+"by": {
+"id": "doc-341-smw-history-1967",
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
+},
+"claimTier": 1,
+"denialKind": "association",
+"label": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
+"note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
+"of": {
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+]
+},
+{
+"by": {
+"id": "james-carlson",
+"label": "James Carlson"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Disputes that any Oscar Flight incident occurred",
+"note": "He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.",
+"of": {
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+]
+}
+],
+"desc": "THE EVENT THE LITERATURE CONFLATES WITH ECHO FLIGHT, SEPARATED HERE SO THAT EACH CAN BE GRADED HONESTLY. Robert Salas states that while on duty as deputy missile combat crew commander in the Oscar Flight launch control capsule at Malmstrom he took a call from a topside security policeman reporting a glowing red object hovering over the front gate, and that within moments the flight's missiles went off alert one after another. His commander was Lt, later Col., Frederick Meiwald. For years this was told as part of the 16 March 1967 Echo Flight event, which allowed Echo Flight's Tier 1 documentation to be read as corroborating it. Robert Hastings now places Oscar Flight on 24 March 1967, eight days later, on Capt. Robert Jamison's recollection of a second retargeting call-out, and states that Salas agrees the incidents were probably on separate days. THE SEPARATION IS WHAT MAKES THE HONEST GRADING POSSIBLE AND IT ALSO REMOVES THE DOCUMENTARY SUPPORT. Once the two events are distinct, the released unit history touches Echo Flight and says nothing whatever about Oscar Flight. A full-text search of the 88 released pages returns zero occurrences of 'Oscar', 'O Flight', '24 Mar' and '25 Mar'. This node is admitted under CLAUDE.md section 2a on notability and is carried at Tier 2, openly, as a named man's account on dated records.",
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": {
+"claims": [
+{
+"source": "341st SMW histories, 88-page Black Vault FOIA release, full-text searched 2026-09-19",
+"text": "THE ZERO COUNT. A full-text search of the 88 released pages of the 341st Strategic Missile Wing histories, covering 1 January 1967 to 31 March 1968, returns ZERO occurrences of 'Oscar' and ZERO of 'O Flight'. Echo Flight is documented in the same pages in detail.",
+"tier": 1
+},
+{
+"source": "USAF release letter of 14 June 2001 accompanying the 88-page release, opened 2026-09-19",
+"text": "THE ZERO COUNT IS BOUNDED BY WHAT THE RELEASE IS, and this bound belongs beside it. The Air Force letter of 14 June 2001 states it is releasing copies of excerpts and supporting documents of five quarterly histories, not the complete histories. A zero count in an excerpt is weaker evidence than a zero count in a complete record.",
+"tier": 3
+},
+{
+"source": "Hastings, on Jamison's information, as published; opened 2026-09-19",
+"text": "THE DATE THAT MAKES THIS A SEPARATE EVENT IS RELAYED TESTIMONY. Robert Hastings dates Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information, and states Salas agrees the two incidents probably occurred on separate days.",
+"tier": 2
+},
+{
+"source": "James Carlson's published statements, opened 2026-09-19",
+"text": "THE CASE AGAINST, NAMED. James Carlson disputes that any Oscar Flight incident occurred, citing SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date, and disputes Salas's account of the Echo Flight relationship.",
+"tier": 2
+}
+],
+"narrative": "The zero count is the fact this node exists to state. A full-text search of the 88 released pages of the 341st Strategic Missile Wing histories, covering 1 January 1967 to 31 March 1968, returns zero occurrences of 'Oscar' and zero of 'O Flight'.\n\nAnd the node immediately bounds its own strongest fact, which is the part most accounts on either side omit. The Air Force letter of 14 June 2001 describes the release as copies of excerpts and supporting documents of five quarterly histories, not the complete histories. A zero count in an excerpt is weaker than a zero count in a complete record, and saying so is the difference between evidence and rhetoric.\n\nThe date itself is worth following. 24 March 1967 is what separates Oscar from Echo, and it comes from Robert Hastings on Capt. Robert Jamison's information, with Salas agreeing the two incidents probably occurred on separate days. So the distinction that makes this a second event rests on testimony relayed through the field's principal aggregator, which is exactly the provenance question section 2a of CLAUDE.md now requires every such node to record.\n\nJames Carlson disputes that any Oscar Flight incident occurred at all, citing SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. He is the son of an Echo Flight officer and he argues this publicly and at length.\n\nOne document would move this node more than any other and it has not been opened by anyone here: Col. Frederick Meiwald's letter to Salas of 1 October 1996. Two incompatible characterisations of what it says are in circulation, one supporting Salas and one not. Until somebody opens it, the board carries both and endorses neither.",
+"openQuestions": [
+"THE MEIWALD LETTER of 1 October 1996. Not opened by this board. Two incompatible characterisations of it are in circulation, one supporting Salas and one not. This is the single highest-value unopened document in the cluster.",
+"The complete 341st SMW quarterly histories, as opposed to the excerpts released in 2001.",
+"Col. Lewis D. Chase's own records, cited by Carlson but not opened here."
+],
+"roles": [
+"disclosure",
+"concealment"
+],
+"whatItIs": "Robert Salas's claimed second Minuteman shutdown at Malmstrom AFB, dated 24 March 1967, eight days after the documented Echo Flight shutdown. It is a separate node from Echo Flight on purpose, because the literature conflates the two constantly and the documentary position of each is completely different.",
+"whyImplicated": "It is the cleanest test case this board has for the difference between a documented event and an attested one. Echo Flight is in the wing's own history in detail. Oscar Flight is not in it at all. Both are carried, correctly labelled, and neither borrows the other's weight. A reader who arrives believing 'the Air Force documented UFOs shutting down missiles' should be able to see exactly which half of that sentence the paper supports."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "malmstrom-oscar-flight-1967",
+"l0": true,
+"label": "Malmstrom Oscar Flight claim, 24 March 1967",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "doc-341-smw-history-1967",
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "frederick-meiwald",
+"label": "Col. Frederick Meiwald",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "james-carlson",
+"label": "James Carlson",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "robert-jamison",
+"label": "Capt. Robert Jamison",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas",
+"tier": "B"
+}
+],
+"short": "Oscar Flight claim, 24 Mar 1967",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2013-05-19",
+"name": "Kevin Randle, 'A Different Perspective: Robert Salas and Me', 19 May 2013. Opened 19 September 2026",
+"url": "http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html"
+}
+],
+"sub": "Robert Salas's claimed second missile shutdown, eight days after Echo Flight; not mentioned anywhere in the released 341st SMW histories",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 413 of 1170, score 34). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
+"timeline": [
+{
+"date": "1996",
+"id": "tl-1996-salas-great-falls-tribune",
+"label": "Salas goes on the record and locates Meiwald himself",
+"precision": "year",
+"strand": "witness",
+"text": "Robert Salas went public with the Oscar Flight account in a 1996 interview with the Great Falls Tribune, and in the summer of that year located his former missile commander Frederick Meiwald, who wrote to him about the incident on 1 October 1996. Robert Hastings separately states he tape-recorded a telephone conversation with Meiwald in August 1996. Salas approaching a newspaper himself is a different provenance from the witnesses who reach the public only through an interviewer.",
+"tier": "B"
+}
+]
+}

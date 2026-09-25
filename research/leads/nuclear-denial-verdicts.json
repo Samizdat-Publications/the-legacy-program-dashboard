@@ -1,0 +1,37 @@
+{
+ "james-carlson|robert-salas": {
+  "denialKind": "directed",
+  "denier": "james-carlson",
+  "label": "Carlson, son of the Echo Flight crew commander, publishes that the Malmstrom UFO account is unsupportable and a poorly executed lie"
+ },
+ "james-carlson|malmstrom-oscar-flight-1967": {
+  "denialKind": "directed",
+  "denier": "james-carlson",
+  "label": "Carlson denies that any Oscar Flight incident occurred, citing SAC UFO officer Col. Lewis D. Chase finding no failures or sighting on that date"
+ },
+ "eric-carlson|malmstrom-echo-flight-1967": {
+  "denialKind": "directed",
+  "denier": "eric-carlson",
+  "label": "The on-duty Echo Flight crew commander states no UFO report reached the capsule and that he recalls no debriefing, sitting two feet from Figel"
+ },
+ "tim-hebert|malmstrom-echo-flight-1967": {
+  "denialKind": "directed",
+  "denier": "tim-hebert",
+  "label": "A former Malmstrom missile crew member argues from the released unit history and from Boeing ECP 1221 that the UFO element is unsupported"
+ },
+ "usaf|malmstrom-echo-flight-1967": {
+  "denialKind": "directed",
+  "denier": "usaf",
+  "label": "The 341st SMW history, the only occurrence of 'Unidentified Flying Object' in 88 released pages: the rumours around Echo Flight 'were disproven'"
+ },
+ "doc-341-smw-history-1967|malmstrom-oscar-flight-1967": {
+  "denialKind": "association",
+  "denier": null,
+  "label": "Zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar in the 88-page release: silence that tells against the claim, bounded by the release being excerpts"
+ },
+ "doc-si-big-sur-1993|big-sur-1964": {
+  "denialKind": "directed",
+  "denier": "kingston-george",
+  "label": "The project engineer publishes that the imagery was decoy deployment and packing debris, while confirming Jacobs's unit, appointment, presence and debriefing"
+ }
+}

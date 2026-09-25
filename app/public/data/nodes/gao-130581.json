@@ -93,7 +93,7 @@
 "direction": "in",
 "edgeLabel": "The same GAO division two years after the Lockheed document-control testimony",
 "id": "gao-nsiad-88-152",
-"l0": true,
+"l0": false,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "The same GAO division, two years after the Lockheed document-control testimony the board already holds, reporting on the establishment criteria rather than on document accountability.",
 "sources": [
@@ -196,7 +196,7 @@
 ],
 "sub": "GAO testimony, 24 July 1986, House Energy and Commerce, Subcommittee on Oversight and Investigations",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 300 of 1136, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 308 of 1170, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "date": "1986-07-24",

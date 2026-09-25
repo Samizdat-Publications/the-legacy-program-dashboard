@@ -345,7 +345,7 @@
 "direction": "in",
 "edgeLabel": "CIA's own published history concedes the Air Force made deceptive public statements",
 "id": "haines-cia-history",
-"l0": true,
+"l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
 "sources": [
@@ -366,7 +366,7 @@
 "direction": "out",
 "edgeLabel": "CIA published its own institutional history of its UFO role in 1997",
 "id": "haines-cia-history",
-"l0": true,
+"l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "Gerald K. Haines, the Agency's historian, published an eighteen-page account in Studies in Intelligence acknowledging the OSI effort, the Robertson Panel and the later U-2/OXCART attribution.",
 "sources": [
@@ -1381,6 +1381,12 @@
 "tier": "B"
 },
 {
+"cls": "document",
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"tier": "A"
+},
+{
 "cls": "person",
 "id": "harry-s-truman",
 "label": "Harry S. Truman",
@@ -1514,7 +1520,7 @@
 ],
 "sub": "Independent civilian foreign intelligence service; convener of the Robertson Panel",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 12 of 1136, score 121). 45 connections, 8 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 12 of 1170, score 121). 45 connections, 8 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1947-07-26",

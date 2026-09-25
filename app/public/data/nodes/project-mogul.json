@@ -36,7 +36,7 @@
 "direction": "out",
 "edgeLabel": "The MOGUL attribution cannot be tested against destroyed records",
 "id": "gao-nsiad-95-187",
-"l0": true,
+"l0": false,
 "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "GAO reported the base's message traffic for the relevant years was destroyed without disposition authority, so the Air Force's reconstruction rests on inference rather than on the contemporaneous record.",
 "sources": [
@@ -46,7 +46,7 @@
 "url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "investigative"
 },
 {
@@ -219,6 +219,6 @@
 ],
 "sub": "Classified acoustic balloon surveillance programme (1947-1949)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 241 of 1136, score 42). 4 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 247 of 1170, score 42). 4 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.",
 "timeline": []
 }

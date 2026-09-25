@@ -1880,6 +1880,118 @@
   "gap": "EO 12958 of 1995, between EO 12356 and EO 13526, is not on the board and was not opened, so the classification chain has a gap between 1982 and 2009."
  },
  {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-echo-flight-engineering-report-1967",
+   "text": "THE SINGLE HIGHEST-VALUE MISSING DOCUMENT ON THIS BOARD. 'Report of Engineering Investigation of Echo Flight Incident, Malmstrom AFB, Mont. - 16 Mar 67', by Engineering Investigation Team, 23 March 1967, classified Secret when written. It is cited by exhibit and page number on almost every page of the 341st SMW history's Echo Flight section, so its existence, authorship, date and length are already documented. Everything either side of the Malmstrom dispute says about causation is a reading of a wing historian's summary of this report. It would settle the causation question, and it would settle whether the sentence about UFO rumours being disproven rests on anything more than a Mobile Strike Team that had been at November Flight rather than Echo Flight.",
+   "wouldClose": "A FOIA request to the Air Force Historical Research Agency or to NARA for the report itself, nearly sixty years on. Also worth requesting: SAC message DM 02752 of 17 March 1967, subject 'Loss of Strategic Alert Echo Flight, Malmstrom AFB'."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-johnson-service-records-1977",
+   "text": "Michael Johnson's Official Military Personnel File, his DD-214 and the Article 15 nonjudicial punishment he describes on air. Any of the three would carry a date and a unit. An Article 15 dated within months of 18 November 1977 would be the strongest available independent anchor for his presence at Ellsworth and for the claimed aftermath. It is requestable by the veteran himself. Without it, the identification of this Michael Johnson as the right Michael Johnson is settled by nothing: he asks on the recorded call whether they have the right man, and the episode itself notes it is one of the most common names in the United States.",
+   "wouldClose": "The veteran's own request to the National Personnel Records Center, or the 44th Missile Security Squadron duty roster for the night of 17 to 18 November 1977 from AFHRA."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-oasd-1975-foia-compilation",
+   "text": "The complete FOIA compilation from which the 24th NORAD Region Senior Director's Log was extracted. The three pages this board has read are stamped 450, 451 and 452 and carry control number 000974 over the release line of Terrence C. James, Colonel, USAF, Director of Administration, with copies to HQ USAF/DAD and HQ USAF/JACL. AT LEAST 449 PAGES OF THAT COMPILATION HAVE NEVER BEEN SEEN BY THIS BOARD, and it is the same release stream that produced the Loring, Wurtsmith, Falconbridge and Cannon material. Obtaining it would likely multiply the Tier 1 documentary base of this whole cluster in one request.",
+   "wouldClose": "Identifying the compilation by its FOIA case number and requesting it in full, or locating a complete scan. The pagination and the control number are the handles."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-aaro-hrr-volume-1-403",
+   "text": "AARO Historical Record Report Volume I was NOT OPENED by the pass of 19 September 2026. media.defense.gov returned HTTP 403 to WebFetch and to curl with browser headers and an aaro.mil referer. The board's existing citation of its page 30, for interviews with five former Air Force officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977, stands on an earlier pass and is not re-verified here. It matters most to l-ellsworth, which has no contemporaneous document of its own.",
+   "wouldClose": "A mirror of the PDF that answers this environment, or a different route to media.defense.gov. AARO caps at Tier 2 on this board in any case, per CLAUDE.md section 2."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-meiwald-letter-1996",
+   "text": "Col. Frederick Meiwald's letter to Robert Salas of 1 October 1996, in facsimile. NOT OPENED. Two flatly incompatible characterisations are in public circulation: that it elaborates and supports the Oscar Flight account, and that it records his recollection as differing from Salas's and regrets being unable to help. The board's own robert-salas node currently calls it his most important corroboration. Until it is opened, the strongest-looking support in the Oscar Flight case is a document nobody here has read.",
+   "wouldClose": "Hastings's 'Witch Hunt' article, which his own page names as the place the letter is reproduced, or the facsimile from any archive."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-james-carlson-publications",
+   "text": "James Carlson's 'American, Credulous', reported at 357 pages, and his shorter 'Echo Flights of Fantasy - Anatomy of a UFO Hoax'. NEITHER WAS OPENED. Both circulate on Scribd, which this session did not reach. His position on this board is therefore reported at one remove, from Metabunk and from The UFO Chronicles. This is the largest evidentiary gap in the case against, and CLAUDE.md section 2a requires the case against to be as well sourced as the case for.",
+   "wouldClose": "Any non-Scribd copy of either work, or a direct statement by Carlson at a URL this environment can open."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-figel-recordings",
+   "text": "The Walter Figel audio recordings. Robert Hastings states he tape-recorded three telephone conversations with Figel in 2008, 2009 and 2010. No URL opened by this board carries the audio or a full transcript, so every quotation attributed to Figel anywhere on this board is at one remove from the artefact. Figel is the single most contested witness in the subject and the artefact that would settle what he said has never been published in full.",
+   "wouldClose": "Publication of the recordings or verbatim transcripts, or an independent interview with Figel by anyone not party to the dispute."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-nalty-1969-ballistic-missile-programs",
+   "text": "Bernard C. Nalty, 'USAF Ballistic Missile Programs 1967-1968', a Top Secret 1969 USAF official history, quoted second-hand as recording that an electronic noise pulse had shut down the flight, similar to the electromagnetic pulse generated by nuclear explosions. NOT OPENED. It is the best remaining document lead on the Malmstrom causation question after the engineering report itself, because it is an independent official account rather than a wing historian's summary.",
+   "wouldClose": "A declassified copy from AFHRA, NARA or the Defense Technical Information Center mirror on archive.org, which this environment can reach."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-wsj-june-2025-emp-test",
+   "text": "A June 2025 Wall Street Journal report is said to attribute the 1967 Malmstrom shutdowns to an unannounced, classified test of site vulnerability to electromagnetic pulse. IT WAS NOT OPENED and nothing on this board rests on it. If it is real it is a materially DIFFERENT claim from the unit history's, which describes an ambient pulse of unknown origin rather than a deliberate test, and the difference matters: a deliberate unannounced test is a concealment claim, not an engineering one.",
+   "wouldClose": "The article itself, with its date and byline, or the Air Force sourcing it cites."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-grand-forks-1975-messages",
+   "text": "The Grand Forks AFB command post event dispatch of 4 November 1975 at 0301 and the detailed incident message of 5 November 1975, in their own text. NOT OPENED. These are cited as recording that shots were possibly fired from on base toward hard alert aircraft on the SAC alert ramp, and that five shots were heard in groups of three and two, naming Captain Klawon of the 321st Security Police Squadron. THIS IS THE ONLY ALLEGATION OF WEAPONS DISCHARGE ANYWHERE IN THE 1975 SEQUENCE and it is the part of the sequence this pass established least well. Grand Forks is also not named in CINCNORAD's summary message.",
+   "wouldClose": "The messages themselves from the OASD 1975 compilation, or the 321st Strategic Missile Wing unit history for the period."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-mansmann-letters",
+   "text": "The Mansmann letters of 1983, 1985 and 1987, in facsimile. NOT OPENED, and the dates differ between sources, with both 30 January and 10 March reported for a 1983 letter to Lee Graham. Until they are opened, the misattribution flagged in research/leads/nuclear-corrections-2026-09-19.json, that the board's malmstrom-echo-flight-1967 node assigns Big Sur letters by Maj. Florenz J. Mansmann to a 'Col. Robert Mansmann' and to the Echo Flight investigation, is flagged rather than proven.",
+   "wouldClose": "The facsimiles, from the UFO research archives that publish them, or from T. Scott Crain's or Lee Graham's papers."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-loring-unit-history-1975",
+   "text": "The 42nd Bombardment Wing unit history for October to December 1975, held at the Air Force Historical Research Agency, and the OSI teletype of 29 October 1975 and OSI letter of 21 April 1977 titled 'Overflight of USAF Installations by Unidentified Aircraft'. None was sought or opened. The Wurtsmith precedent makes the wing history's contents genuinely unpredictable: there, the wing historian checked his own October to December 1975 history and found no reference to the incident at all. The OSI letter's title is the more interesting of the two documents, because it is an OSI characterisation eighteen months after the fact.",
+   "wouldClose": "An AFHRA request for the 42 BW history, and a FOIA request to AFOSI for the 1975 teletype and the 1977 letter by title."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-hastings-recruitment-method",
+   "text": "THE MOST CONSEQUENTIAL UNANSWERED SECTION 2a QUESTION IN THIS CLUSTER. Neither of the two Hastings pages opened by this board states how he located any witness. No advertisements, no unit rosters, no veterans' reunions, no referral chains, no word of mouth. Roughly a dozen proposed nodes depend on the answer, because the triage rule requires every node admitted on notability to record who found the person and by what route. The two pages also give two different totals for the number of veterans interviewed, 150 and 160.",
+   "wouldClose": "A dated statement by Hastings describing his sourcing method, in a book, an interview or a page. 'UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites' is the obvious place to look and was not opened here."
+  }
+ },
+ {
+  "domain": "nuclear-witnesses-2026-09-19",
+  "gap": {
+   "id": "gap-george-1964-staff-study",
+   "text": "Kingston A. George, 'Preliminary Report on Image Orthicon Photography from Big Sur', Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, 13 October 1964. Cited by George himself in his own 1993 references and NOT OPENED. It is the contemporaneous document that would move the Big Sur case from two men's published memories to a record made at the time, and its existence and citation are already established by the sceptic's own article.",
+   "wouldClose": "An AFHRA or NARA request for the staff study by title, issuing headquarters and date."
+  }
+ },
+ {
   "domain": "pais-patents",
   "gap": "The allowance papers for application 15/141,270 have not been obtained. No Notice of Allowability, Examiner's Answer, Reasons for Allowance or issue-fee record for that application is in the file-wrapper set, which stops at the Appeal Brief of 20 August 2018; research/patents/wrapper/MISSING.md lists exactly what to pull. Those papers are the examiner's own account of what reversed a rejection he had twice sustained, and they are the single most informative document still outstanding on this node."
  },

@@ -5,6 +5,21 @@
 "band": null,
 "claims": [
 {
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "The base-hub structure added on 19 September 2026 makes the correlation this domain asserts measurable rather than rhetorical. Six installations gained hub nodes, l-loring, l-wurtsmith, l-minot, l-ellsworth, l-warren and l-grand-forks, joining l-malmstrom, l-vandenberg and l-kirtland, with witnesses edged into incidents and incidents edged into bases. Degree on a base hub now answers 'how many claimants converge here', and the tier of each incoming edge answers 'and how many of those legs are documented'.",
+"tier": 1
+},
+{
+"source": "NMCC Memorandum for Record and DDO updates, 29 to 30 October 1975, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
+"text": "THE 1975 SEQUENCE IS A NUCLEAR SECURITY RECORD BEFORE IT IS A UFO RECORD, AND THE DOCUMENTS SAY SO IN THEIR OWN WORDS. The National Military Command Center's subject line is 'AFB Penetration'. The Loring traffic says 'unidentified helicopter' throughout and never says UFO. The reporting runs to the Joint Staff, the service chiefs, the DIA, NSA and CIA representatives, the Army Staff Director of Operations and the State Department's Canadian desk. That is what gives this domain its weight: the correlation is visible in operational paper produced by people who were not thinking about the subject this board is about.",
+"tier": 1
+},
+{
+"source": "341st SMW history, Jul-Sep 1967, pp 50-53, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "The dual-use complication this domain already records is visible inside the Malmstrom material itself. After the Echo Flight shutdown the Air Force ran electromagnetic pulse test programmes at F. E. Warren AFB on Delta Flight and at the 564th Strategic Missile Squadron, and turned Sierra 39 over to Boeing for EMP testing from 28 September 1967 to about mid-January 1968. The same installations that generate the sighting reports are the installations where the most exotic electromagnetic testing was being done, and the board should hold both facts at once.",
+"tier": 1
+},
+{
 "source": "Limina, doi:10.59661/001c.131854; SCU/Zenodo, doi:10.5281/zenodo.7758498",
 "text": "Hancock, Porritt and Grosvenor's 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex' was published via SCU in July 2023 and in the journal Limina in March 2025.",
 "tier": 1
@@ -99,6 +114,7 @@
 "denials": [],
 "desc": "The strongest statistical claim in the entire field is not about craft but about geography: reported unidentified phenomena cluster around nuclear weapons production, storage and testing sites at rates the reporting-bias explanation struggles to absorb. Hancock, Porritt and Grosvenor assembled this as a formal indications analysis of the United States atomic warfare complex for 1945-1975, published through the Scientific Coalition for UAP Studies in 2023 and again in the peer-reviewed journal Limina in March 2025. The archival astronomy strand converged independently on the same correlation: Bruehl and Villarroel's October 2025 Scientific Reports paper links transients on Palomar sky survey plates to nuclear testing and to UAP reports. The witness strand is older and sworn - Robert Salas and others have testified publicly, including at a National Press Club event on 27 September 2010, to missile shutdowns at Malmstrom AFB coinciding with observed objects. The dual-use complication is real and belongs in the record: nuclear sites are also where the most exotic classified aerospace and sensor testing has always occurred. Scoring high on this domain means an entity served in, guarded or studied that complex.",
 "domains": [
+"nuclear-witnesses-2026-09-19",
 "w2-taxonomy"
 ],
 "dossier": null,
@@ -116,6 +132,21 @@
 "members": null,
 "short": "Nuclear Weapons Complex Nexus",
 "sources": [
+{
+"date": "2026-09-19",
+"name": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"url": ""
+},
+{
+"date": "1975-11-19",
+"name": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+},
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+},
 {
 "date": "2025-03-07",
 "name": "Grosvenor, Hancock & Porritt, 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex', Limina",
@@ -140,10 +171,15 @@
 "date": "2010-09-27",
 "name": "CNN coverage, National Press Club, 27 September 2010",
 "url": "https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases"
+},
+{
+"date": null,
+"name": "341st SMW history, Jul-Sep 1967, pp 50-53, , opened 2026-09-19",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
 }
 ],
 "sub": "Correlational domain - the persistent association between UAP reports and atomic infrastructure",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 465 of 1136, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 273 of 1170, score 41). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": []
 }

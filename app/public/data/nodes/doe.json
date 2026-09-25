@@ -229,7 +229,7 @@
 "direction": "out",
 "edgeLabel": "DOE/NNSA management and operating contract; Los Alamos",
 "id": "lanl",
-"l0": true,
+"l0": false,
 "label": "Los Alamos National Laboratory",
 "note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
 "sources": [
@@ -751,6 +751,12 @@
 "tier": "B"
 },
 {
+"cls": "institution",
+"id": "lanl",
+"label": "Los Alamos National Laboratory",
+"tier": "B"
+},
+{
 "cls": "person",
 "id": "lawrence-p-gise",
 "label": "Lawrence P. Gise",
@@ -832,7 +838,7 @@
 ],
 "sub": "Successor to the Atomic Energy Commission; holder of Restricted Data authority independent of the executive classification system",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 44 of 1136, score 84). 22 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 44 of 1170, score 84). 22 connections, 6 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
 "date": "1949-02-16",

@@ -116,6 +116,27 @@
 "type": "denial"
 },
 {
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2010-09-27",
+"dateStart": "2010-09-27",
+"direction": "out",
+"edgeLabel": "Spoke on the record with a signed affidavit; the one panellist who wrote his own primary document in 1981",
+"id": "npc-2010-ufos-nukes",
+"l0": true,
+"label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"note": "His appearance is what places Rendlesham inside the nuclear witness cluster rather than beside it. He is also the one man on the panel whose account reached the record as an official act before any researcher was involved.",
+"sources": [
+{
+"date": "2010-09-27",
+"name": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
 "claimTier": 1,
 "cls": "event",
 "dateEnd": "1980",
@@ -140,7 +161,7 @@
 "date": "1981-01-13",
 "dateEnd": null,
 "dateStart": "1981-01-13",
-"deg": 3,
+"deg": 4,
 "denials": [
 {
 "by": {
@@ -212,7 +233,7 @@
 "status": "active",
 "sub": "Lt Col USAF (later Col); Deputy Base Commander, RAF Bentwaters/Woodbridge 1980-81",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 441 of 1136, score 32). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 422 of 1170, score 33). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [],
 "unexplainedResidual": "The radiation readings and ground depressions in Halt's memo have never been the subject of any published official analysis - the physical-trace annex referenced by the memo has never surfaced.",
 "unverified": [

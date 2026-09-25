@@ -2,7 +2,7 @@
 "A": 2,
 "C": 0,
 "D": 3,
-"band": null,
+"band": "disclosure",
 "claims": [
 {
 "source": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, pp. 38 and 40, in the HQ 341st Space Wing FOIA release of 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
@@ -17,6 +17,21 @@
 {
 "source": "HQ 341st Space Wing FOIA release of 14 June 2001, full text searched, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
 "text": "No launch control officer is named anywhere in the eighty-seven page release. The only officer named in the Echo Flight section is 'Capt. Bradshaw in the command post', and the names Figel, Salas and Carlson do not appear.",
+"tier": 1
+},
+{
+"source": "Contested between Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , and the Metabunk skeptical resources thread, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , both opened 2026-09-19",
+"text": "Col. Frederick Meiwald wrote to Robert Salas about the March 1967 events on 1 October 1996, after Salas located him in the summer of that year. The letter is published by Salas and Robert Hastings. IT HAS NOT BEEN OPENED BY THIS BOARD and two flatly incompatible characterisations of its contents are in public circulation: that it elaborates and supports the Oscar Flight account, and that it records Meiwald's recollection as differing from Salas's and regrets being unable to help him establish his claims.",
+"tier": 2
+},
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 182 photograph caption, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , and Wikipedia, 'Big Sur UFO', https://en.wikipedia.org/wiki/Big_Sur_UFO , both opened 2026-09-19",
+"text": "A MISATTRIBUTION THIS NODE PREVIOUSLY CARRIED, RECORDED SO IT IS NOT REINTRODUCED. This node formerly stated that a 'Col. Robert Mansmann, who was involved in the technical investigation' wrote to Lee Graham on 30 January 1983, to Peter Bons on 8 March 1983 and to T. Scott Crain on 6 May 1987 about the Echo Flight incident. The correspondents match the Big Sur correspondence, the officer is Maj. Florenz J. Mansmann, and the event is the September 1964 Big Sur filming at Vandenberg. The letters themselves have not been opened and the 1983 date is given variously as 30 January and 10 March, so the false attribution is removed and no corrected attribution is asserted here. The correct destination for the letters, once opened, is big-sur-1964 and a florenz-mansmann node.",
+"tier": 3
+},
+{
+"source": "341st SMW histories, FOIA release of 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "THE UNIT HISTORY THIS NODE'S DESCRIPTION FORMERLY CALLED UNRELEASED IS OPEN AND HAS BEEN READ IN FULL. The description said the board 'treats the unreleased 341st Strategic Missile Wing unit history for March 1967 as the document that would settle it'. Excerpts of five quarterly histories covering 1 January 1967 to 31 March 1968 were released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 and are published by The Black Vault as an 88-page PDF. The document that remains unreleased, and that would actually settle causation, is the source those histories are footnoted to: Rpt, (S) 'Report of Engineering Investigation of Echo Flight Incident, Malmstrom AFB, Mont. - 16 Mar 67', by Engineering Investigation Team, 23 March 1967.",
 "tier": 1
 },
 {
@@ -40,6 +55,51 @@
 "tier": 2
 },
 {
+"source": "Full-text search of the 14 June 2001 FOIA release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "THE ZERO COUNT, BOTH WAYS. In the 88 released pages of the 341st Strategic Missile Wing histories the words 'Unidentified Flying Object' occur EXACTLY ONCE, and the occurrence is a negative. The string 'Oscar' occurs ZERO times, as do 'O Flight', '24 Mar' and '25 Mar'.",
+"tier": 1
+},
+{
+"source": "341st SMW history, Jan-Mar 1967, p 38, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "The single UFO sentence, quoted in full because each side quotes half of it, and note that its evidence is drawn from a different flight: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven. A Mobile Strike Team, which had checked all November Flight's LFs on the morning of 16 March 67, were questioned and stated that no unusual activity or sightings were observed.'",
+"tier": 1
+},
+{
+"source": "341st SMW history, Jan-Mar 1967, citing Report of Engineering Investigation of Echo Flight Incident, Malmstrom AFB, 23 March 1967, p 17, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "The same investigation could not explain the shutdown. Quoting the engineering report through the history: 'Since the only common item determined in this investigation was the LCC. The LCC power fault transmitted to the LFs on the hardened cable was considered the only power fault capable of causing the Echo Flight incident. The investigation teams at Malmstrom, were unable to determine a logical cause for the incident.'",
+"tier": 1
+},
+{
+"source": "341st SMW histories, Apr-Jun 1967 p 38 and Jul-Sep 1967 p 48, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "THE EMP CONCLUSION ARRIVED THREE MONTHS LATER AND ARRIVED BY ELIMINATION. Boeing's first theory was tested and failed: 'Boeing studied the source and path of the noise Pulse to the Logic Coupler and suspected that the Sensitive Information Network (SIN) lines would cause the noise Pulse. Further studies at Malmstrom AFB by Boeing proved this analysis wrong.' The transformer-failure simulation likewise: 'Instrumentation on the Sensitive Information Network lines and on the commercial primary power lines showed no significant noise propagation as a result of simulating the transformer failure.' The conclusion follows from those negatives: 'Due to the fact that the power tests were essentially negative, it appears that the cause of the Echo Flight problem was of the EMP or electrostatic nature.'",
+"tier": 1
+},
+{
+"source": "341st SMW history, Apr-Jun 1967, citing OOAMA message to BSD Norton AFB, 'Malmstrom E Flight Problem Interim Report', 2 June 1967, pp 37-38, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "Boeing's bench tests did reproduce the fault signature, which is the strongest part of the engineering case: 'The tests run at Boeing in the NRA have proved that the C-53P Logic Coupler was the receiver to the noise Pulse irregularly... When the Pulse Width was set at 30 micro sec, 12 Channel 9 & 12 No-Go's, one Channel 9 No-Go, and four Coupler Self Tests (CST), were experienced out of 20 separate applications of the Pulse. In other words, 60 percent of the time the responses were the same as experienced at Echo Flight and 85 percent of the time the response would have placed the system in a non EWO status.'",
+"tier": 1
+},
+{
+"source": "341st SMW history, Jul-Sep 1967, pp 50-53, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "The Air Force then bought the fix, which is the best evidence of what it actually concluded. The history records that Boeing submitted Engineering Change Proposals 1221, 1141-1 and 1141-2 for the modification of EMP for Force Mod, plus FCIR MCL 2827, and that SAMSO ran EMP tests at F. E. Warren AFB on Delta Flight and then at the 564th Strategic Missile Squadron, with Sierra 39 deposturedon 28 September 1967 and turned over to Boeing for EMP tests until about mid-January 1968.",
+"tier": 1
+},
+{
+"source": "341st SMW history, Jan-Mar 1967, pp 38-39 and p 21, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "What else the investigation ruled out, from the same section: weather; unusual activity at EMC-1 or EMC-2; radar or atmospheric interference, on a negative report from the 801st Radar Squadron; Primary Alerting System activity, verified by Capt. Bradshaw in the command post; commercial power switching, after a test with the Montana Power Company on 28 March 1967; and Boeing modification teams at sites B-1, K-1 and G-1, which arrived after the incident. The LCF E-1 power problems are logged at 1453, 1510 to 1600 and restoration at 1921, all AFTER the 0845 shutdown.",
+"tier": 1
+},
+{
+"source": "Metabunk, quoting Nalty 1969, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , opened 2026-09-19",
+"text": "An external attribution circulates that this board has NOT opened: a Top Secret 1969 USAF official history, Bernard C. Nalty's 'USAF Ballistic Missile Programs 1967-1968', is quoted second-hand as recording that an electronic noise pulse had shut down the flight, similar to the electromagnetic pulse generated by nuclear explosions. Nalty was not opened and the claim is carried at Tier 2 on that basis.",
+"tier": 2
+},
+{
+"source": "HQ 341st Space Wing letter to John Greenewald Jr, 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "THE BOUND ON EVERY ARGUMENT FROM SILENCE HERE. The Air Force's covering letter of 14 June 2001 states it is releasing 'Copies of excerpts, as well as supporting documents' of five quarterly histories, not the complete histories. The zero counts above are counts over a FOIA office's selection, and this board states the bound rather than letting them do more work than they can.",
+"tier": 3
+},
+{
 "source": "ufohastings.com document archive, af_teletype_1967-03-17_loss_of_strategic_alert",
 "text": "An Air Force teletype dated 17 March 1967 concerning loss of strategic alert at Malmstrom AFB is published in facsimile under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'.",
 "tier": 1
@@ -47,11 +107,6 @@
 {
 "source": "Fawcett and Greenwood, 'Clear Intent' (1984)",
 "text": "Fawcett and Greenwood wrote in 1984 that during the week of 20 March 1967 a flight of ten Malmstrom missiles developed problems while a UFO was in the area and confirmed on radar, that jet fighters were sent after it, and that later inquiries met with silence.",
-"tier": 2
-},
-{
-"source": "ufohastings.com, 'Letters' section",
-"text": "Col. Frederick Meiwald wrote to Robert Salas about the incident on 1 October 1996; Col. Robert Mansmann wrote about it to Lee Graham on 30 January 1983, to Peter Bons on 8 March 1983 and to T. Scott Crain on 6 May 1987. All are published in facsimile.",
 "tier": 2
 },
 {
@@ -81,8 +136,55 @@
 "url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "investigative"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2011",
+"dateStart": "1967-03-16",
+"direction": "in",
+"edgeLabel": "The on-duty crew commander denies any UFO report reached the capsule",
+"id": "eric-carlson",
+"l0": false,
+"label": "Capt. Eric D. Carlson",
+"note": "A witness for the negative, carried at the same tier as the witnesses for the positive. His account reaches the public through his son, which is structurally the same kind of evidence as the accounts it contradicts.",
+"sources": [
+{
+"date": "2011-06-01",
+"name": "The UFO Chronicles, 'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026",
+"url": "https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html"
+},
+{
+"date": "2011-08-01",
+"name": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026",
+"url": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1967-03-16",
+"dateStart": "1967-03-16",
+"direction": "out",
+"edgeLabel": "The documented shutdown was of this wing's Echo Flight",
+"id": "l-malmstrom",
+"l0": false,
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"note": "The 341st Strategic Missile Wing history records the shutdown at Malmstrom AFB by name.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "B",
+"type": "geographic"
 },
 {
 "claimTier": 1,
@@ -123,7 +225,7 @@
 "url": "https://www.nicap.org/681024minot_dir.htm"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "temporal"
 },
 {
@@ -150,6 +252,37 @@
 {
 "claimTier": 2,
 "cls": "person",
+"dateEnd": "1997",
+"dateStart": "1967-03",
+"direction": "in",
+"edgeLabel": "Boeing engineer on the investigation task group",
+"id": "robert-kaminski",
+"l0": false,
+"label": "Robert J. Kaminski",
+"note": "HIS ACCOUNT REACHED THE PUBLIC AS A 1997 LETTER TO RESEARCHER JIM KLOTZ, THIRTY YEARS AFTER THE EVENT. The half of it that says no cause was found is corroborated by the unit history; the half that says the inquiry was stopped with no report filed is contradicted by it.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "C",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
 "dateEnd": "1996",
 "dateStart": "1967-03",
 "direction": "in",
@@ -165,7 +298,7 @@
 "url": "https://www.ufohastings.com/documents"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -188,15 +321,168 @@
 ],
 "tier": "A",
 "type": "temporal"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2012-10",
+"dateStart": "2011-08",
+"direction": "in",
+"edgeLabel": "Published argument from the released paper that no UFO element is supported",
+"id": "tim-hebert",
+"l0": false,
+"label": "Tim Hebert",
+"note": "The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history's silence has a documented counterexample at Wurtsmith.",
+"sources": [
+{
+"date": "2011-08-01",
+"name": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026",
+"url": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+},
+{
+"date": "2012-10-01",
+"name": "Tim Hebert, 'Engineering Change Proposal 1221: The Air Force's Success Against UFO Attacks'. Opened 19 September 2026",
+"url": "http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "2001-06-14",
+"dateStart": "1967-03-16",
+"direction": "in",
+"edgeLabel": "The Air Force's own history states the UFO rumours were disproven",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "A DIRECTED DENIAL BY THE BODY THAT OWNED THE EVENT, and the only occurrence of the words Unidentified Flying Object in 88 released pages. Quoted in full because each side quotes half: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven. A Mobile Strike Team, which had checked all November Flight's LFs on the morning of 16 March 67, were questioned and stated that no unusual activity or sightings were observed.' NOTE WHAT THE EVIDENCE FOR THE DISPROOF IS: a team that had been at NOVEMBER Flight, not Echo Flight. The board records the non-sequitur without inflating it.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2010",
+"dateStart": "1967-03-16",
+"direction": "in",
+"edgeLabel": "Deputy crew commander on duty; the contested Echo Flight radio report",
+"id": "walter-figel",
+"l0": false,
+"label": "Col. Walter Figel Jr.",
+"note": "HIS ACCOUNT EXISTS ONLY AS ROBERT HASTINGS'S AUDIO RECORDINGS OF TELEPHONE CALLS IN 2008, 2009 AND 2010. HE DECLINED TO SIGN AN AFFIDAVIT FOR THE 2010 NATIONAL PRESS CLUB EVENT. NO PRE-CONTACT PUBLIC STATEMENT BY HIM HAS BEEN IDENTIFIED. James Carlson states he said the opposite.",
+"sources": [
+{
+"date": "2011-06-01",
+"name": "The UFO Chronicles, 'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026",
+"url": "https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html"
+},
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2011-08-01",
+"name": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026",
+"url": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+}
+],
+"tier": "C",
+"type": "witness-chain"
 }
 ],
 "coords": null,
 "dateEnd": "1967-03-24",
 "dateStart": "1967-03-16",
-"deg": 6,
-"denials": [],
-"desc": "On 16 March 1967 all ten Minuteman I missiles of Echo Flight, 341st Strategic Missile Wing, Malmstrom Air Force Base, Montana, went off alert status in rapid succession. That the shutdown happened is a matter of Air Force paper: Robert Hastings publishes in facsimile an Air Force teletype dated 17 March 1967 concerning loss of strategic alert. What is contested is why. Robert L. Salas, then a launch control officer, states that a topside security police officer reported a glowing red object hovering over the front gate immediately before his flight's missiles dropped off alert; he places his own experience at Oscar Flight and gives 24 March 1967 in some accounts. Fawcett and Greenwood, writing in 1984 with no knowledge of Salas, independently recorded that during the week of 20 March 1967 a flight of ten Malmstrom missiles developed problems while a UFO was in the area and was confirmed on radar, that jet fighters were scrambled, and that later inquiries met with silence. Salas's commander, Col. Frederick Meiwald, wrote to him about the incident on 1 October 1996; the letter is published in facsimile. Col. Robert Mansmann, who was involved in the technical investigation, wrote to Peter Bons on 8 March 1983, to Lee Graham on 30 January 1983 and to T. Scott Crain on 6 May 1987 about it, and those letters too are published in facsimile. Against all this stands a competing engineering account attributing the shutdown to a nearby electromagnetic pulse simulator test, and a sustained public challenge from James Carlson, son of the Echo Flight commander. This board grades the occurrence at tier 1 and the causal attribution at tier 2, and treats the unreleased 341st Strategic Missile Wing unit history for March 1967 as the document that would settle it.",
+"deg": 12,
+"denials": [
+{
+"by": {
+"id": "eric-carlson",
+"label": "Capt. Eric D. Carlson"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "The on-duty crew commander denies any UFO report reached the capsule",
+"note": "A witness for the negative, carried at the same tier as the witnesses for the positive. His account reaches the public through his son, which is structurally the same kind of evidence as the accounts it contradicts.",
+"of": {
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"sources": [
+{
+"date": "2011-06-01",
+"name": "The UFO Chronicles, 'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026",
+"url": "https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html"
+},
+{
+"date": "2011-08-01",
+"name": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026",
+"url": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+}
+]
+},
+{
+"by": {
+"id": "tim-hebert",
+"label": "Tim Hebert"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Published argument from the released paper that no UFO element is supported",
+"note": "The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history's silence has a documented counterexample at Wurtsmith.",
+"of": {
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"sources": [
+{
+"date": "2011-08-01",
+"name": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026",
+"url": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+},
+{
+"date": "2012-10-01",
+"name": "Tim Hebert, 'Engineering Change Proposal 1221: The Air Force's Success Against UFO Attacks'. Opened 19 September 2026",
+"url": "http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html"
+}
+]
+},
+{
+"by": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "The Air Force's own history states the UFO rumours were disproven",
+"note": "A DIRECTED DENIAL BY THE BODY THAT OWNED THE EVENT, and the only occurrence of the words Unidentified Flying Object in 88 released pages. Quoted in full because each side quotes half: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven. A Mobile Strike Team, which had checked all November Flight's LFs on the morning of 16 March 67, were questioned and stated that no unusual activity or sightings were observed.' NOTE WHAT THE EVIDENCE FOR THE DISPROOF IS: a team that had been at NOVEMBER Flight, not Echo Flight. The board records the non-sequitur without inflating it.",
+"of": {
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+]
+}
+],
+"desc": "On 16 March 1967 at 0845 all ten Minuteman I missiles of Echo Flight, 341st Strategic Missile Wing, Malmstrom Air Force Base, Montana, went off strategic alert nearly simultaneously. That the shutdown happened is a matter of Air Force paper and is not in dispute: the wing's own history records it, and Robert Hastings publishes in facsimile an Air Force teletype dated 17 March 1967 concerning loss of strategic alert. What is contested is why, and the decisive document is now open. Excerpts of five quarterly 341st SMW histories were released to John Greenewald Jr on 14 June 2001, and in all 88 pages the words 'Unidentified Flying Object' occur exactly once, in a negative: rumours around Echo Flight during the time of fault 'were disproven', on evidence from a Mobile Strike Team that had been at November Flight rather than Echo Flight. The same release is equally hard on the debunk. The engineering investigation of 23 March 1967 reported that the teams at Malmstrom 'were unable to determine a logical cause for the incident'; the electromagnetic pulse conclusion arrived three months later and arrived by elimination, after Boeing's Sensitive Information Network theory was tested at Malmstrom and 'proved this analysis wrong' and the transformer-failure simulation showed no significant noise propagation. Boeing bench tests did reproduce the fault signature in 60 per cent of twenty applications of a 30 microsecond pulse, and the Air Force then bought the fix, in Boeing ECPs 1221, 1141-1 and 1141-2. THE OSCAR FLIGHT CLAIM IS A SEPARATE EVENT AND IS CARRIED SEPARATELY. Robert Salas places his own experience at Oscar Flight, and Robert Hastings now dates it to 24 March 1967 on Capt. Robert Jamison's information; the string 'Oscar' occurs zero times in the release. Against the UFO reading stand the engineering account above and a sustained public challenge from James Carlson, son of the Echo Flight crew commander. This board grades the occurrence at tier 1 and every causal attribution at tier 2.",
 "domains": [
+"nuclear-witnesses-2026-09-19",
 "w2-retrieval-literature"
 ],
 "dossier": {
@@ -240,10 +526,71 @@
 },
 "hl": null,
 "id": "malmstrom-echo-flight-1967",
-"l0": false,
+"l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "locLabel": null,
-"members": null,
+"members": [
+{
+"cls": "document",
+"id": "doc-341-smw-history-1967",
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"tier": "A"
+},
+{
+"cls": "person",
+"id": "eric-carlson",
+"label": "Capt. Eric D. Carlson",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "minot-1966",
+"label": "Minot AFB incursions, 1966",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "robert-kaminski",
+"label": "Robert J. Kaminski",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "tim-hebert",
+"label": "Tim Hebert",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "walter-figel",
+"label": "Col. Walter Figel Jr.",
+"tier": "C"
+}
+],
 "short": "Malmstrom Echo Flight, Mar 1967",
 "sources": [
 {
@@ -252,9 +599,34 @@
 "url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
 },
 {
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; the photograph caption naming Major Florenz Mansmann. Opened 19 September 2026",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "Wikipedia, 'Big Sur UFO', on Florenz Mansmann's May 1987 letter to a UFO researcher. Opened 19 September 2026",
+"url": "https://en.wikipedia.org/wiki/Big_Sur_UFO"
+},
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating Echo Flight from Oscar Flight and dating the latter to 24 March 1967. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
 "date": "2025-07-12",
 "name": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)' (episode audio)",
 "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2012-10-01",
+"name": "Tim Hebert, 'Engineering Change Proposal 1221: The Air Force's Success Against UFO Attacks'. Opened 19 September 2026",
+"url": "http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html"
 },
 {
 "date": "2026-08-12",
@@ -272,10 +644,19 @@
 "url": "https://en.wikipedia.org/wiki/Robert_Salas"
 }
 ],
-"sub": "Echo Flight and Oscar Flight Minuteman off-alert events, 341st Strategic Missile Wing",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 192 of 1136, score 46). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"sub": "Echo Flight Minuteman off-alert event, 16 March 1967, 341st Strategic Missile Wing",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 46 of 1170, score 84). 12 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
 "timeline": [
+{
+"date": "1967-03-16",
+"id": "tl-1967-03-16-echo-flight-shutdown",
+"label": "All ten Echo Flight missiles lose strategic alert at 0845",
+"precision": "day",
+"strand": "program",
+"text": "The 341st Strategic Missile Wing history: 'On 16 March 1967 at 0845, all sites in Echo (E) Flight, Malmstrom AFB, shutdown with No-Go indication of Channels 9 and 12 on Voice Reporting Signal Assemble (VRSA). All LF's in E Flight lost strategic alert nearly simultaneously. No other Wing I configuration lost strategic alert at that time.' By about 1400 the same day SAC Headquarters had called in Ogden Air Materiel Area support for a complete engineering analysis.",
+"tier": "A"
+},
 {
 "date": "1967-03-16",
 "id": "tl-1967-0316-echo",
@@ -284,6 +665,15 @@
 "strand": "witness",
 "text": "All ten Minuteman missiles of Echo Flight, 341st Strategic Missile Wing, go off alert status. An Air Force teletype the following day concerns loss of strategic alert. Robert Salas would later attribute the cause to an object over the front gate.",
 "tier": "A"
+},
+{
+"date": "1967-06-02",
+"id": "tl-1967-06-02-emp-conclusion",
+"label": "OOAMA concludes the cause appears to be EMP or electrostatic, by elimination",
+"precision": "day",
+"strand": "program",
+"text": "In an interim report of 2 June 1967 to Ballistic Systems Division at Norton AFB, Ogden Air Materiel Area reported that Boeing bench tests in its Network Resolution Area had reproduced the Echo Flight fault signature in 60 per cent of twenty applications of a 30 microsecond pulse to the C-53P Logic Coupler, and concluded: 'Due to the fact that the power tests were essentially negative, it appears that the cause of the Echo Flight problem was of the EMP or electrostatic nature.' The conclusion follows from a run of negative tests rather than from reproducing the event in the field.",
+"tier": "B"
 }
 ]
 }

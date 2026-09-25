@@ -1,0 +1,222 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "24th NORAD Region Senior Directors Log, 10 November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; CINCNORAD message of 11 November 1975 as excerpted at http://www.nicap.org/intsac.htm ; both opened 2026-09-19",
+"text": "THE NAMING DISCREPANCY, STATED RATHER THAN RESOLVED. The 24th NORAD Region Senior Director's Log for 10 November 1975 reads: 'UFO sighting reported by Minot Air Force Station, a bright star-like object in the West, moving east, about the size of a car. First seen approximately 1015Z. Approximately 1120Z the object passed over the radar station, 1,000 feet to 2,000 feet high, no noise heard. Three people from the site or local area saw the object.' The CINCNORAD four-part message of 11 November 1975 instead lists 'Minot AFB, ND'. Minot Air Force Station is a radar site and is not the 91st Strategic Missile Wing's missile field. No opened record resolves which installation the 1975 sequence means.",
+"tier": 1
+},
+{
+"source": "Documentation index for the 24 October 1968 Minot AFB case, https://minotb52ufo.com/doc.php , opened 2026-09-19",
+"text": "The 24 October 1968 case generated a dense primary file: Project Blue Book's final case report of 13 November 1968, twelve pages; Basic Reporting Data of 28 October 1968, eight pages, prepared by Lt Col Arthur J. Werlich of the 862nd Combat Support Group Operations Division; the 91st Strategic Missile Wing Security Controller's summary listing UFO observers at Launch Control Facilities with sighting times; the Base Operations Dispatcher's Log for 0800 to 1010Z recording ground reports from site N-7; seven AF Form 117 witness questionnaires; thirteen B-52 ASQ-38 radarscope photographs with data plates; the Werlich overlay map at 1:200,000; and a transcription of recorded conversations between the B-52 co-pilot and Radar Approach Control.",
+"tier": 1
+},
+{
+"source": "https://minotb52ufo.com/doc.php , opened 2026-09-19",
+"text": "Seven airmen completed AF Form 117 questionnaires in 1968, which places their statements in the contemporaneous official record rather than in any later interview: A1C Lloyd M. Isley and A1C Robert Michael O'Connor of the 91st MIMS; A1C Joseph Patrick Jablonski, A1C Gregory Adams, SSgt James Frederick Bond and SSgt William E. Smith Jr. of the 862nd SPS; and Major James A. Partin, pilot, 23rd Bomb Squadron, 5th Bomb Wing.",
+"tier": 1
+},
+{
+"source": "NICAP, http://www.nicap.org/intsac.htm , opened 2026-09-19",
+"text": "Minot is named in the CINCNORAD four-part message of 11 November 1975: 'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.'",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1968-10-24",
+"dateStart": "1968-10-24",
+"direction": "in",
+"edgeLabel": "B-52H co-pilot based at Minot AFB",
+"id": "bradford-runyon",
+"l0": false,
+"label": "Capt. Bradford Runyon",
+"note": "His presence is in the Air Force's own 1968 debriefing record.",
+"sources": [
+{
+"date": "1968-11-13",
+"name": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026",
+"url": "https://minotb52ufo.com/doc.php"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1975-11-10",
+"dateStart": "1975-11-10",
+"direction": "in",
+"edgeLabel": "Its 10 November entry reports a sighting at Minot Air Force Station, not Minot AFB",
+"id": "doc-norad-24th-log-1975",
+"l0": false,
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+"note": "The entry's own next clause says the object 'passed over the radar station'. This edge exists so the ambiguity is visible on the hub rather than assumed away.",
+"sources": [
+{
+"date": "1975-11-19",
+"name": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1966",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "The 1966 incursions were over this installation's Minuteman launch facilities",
+"id": "minot-1966",
+"l0": false,
+"label": "Minot AFB incursions, 1966",
+"note": "Minot AFB is named in the 1975 CINCNORAD message as one of the installations with a recurring history; the 1966 material is the board's existing node.",
+"sources": [
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1968-11-13",
+"dateStart": "1968-10-24",
+"direction": "in",
+"edgeLabel": "The B-52 and missile-field events were at and around this installation",
+"id": "minot-1968",
+"l0": false,
+"label": "Minot AFB B-52 incident, 24 October 1968",
+"note": "The Blue Book file is built on 91st SMW, 862nd Combat Support Group and 5th Bomb Wing records at Minot AFB.",
+"sources": [
+{
+"date": "1968-11-13",
+"name": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026",
+"url": "https://minotb52ufo.com/doc.php"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1975-11-11",
+"dateStart": "1975-11-10",
+"direction": "in",
+"edgeLabel": "Minot is named in the sequence, but two NORAD documents name two different Minot installations",
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"note": "THE DISCREPANCY IS THE POINT OF THIS EDGE. The 24th NORAD Region log of 10 November 1975 says 'Minot Air Force Station' and 'the radar station'; CINCNORAD's message of 11 November says 'Minot AFB, ND'. Unresolved. Do not let a degree count on l-minot silently absorb a radar-station entry.",
+"sources": [
+{
+"date": "1975-11-19",
+"name": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+},
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"tier": "A",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1975-11-11",
+"dateStart": "1966",
+"direction": "out",
+"edgeLabel": "SAC installation; 91st Strategic Missile Wing and 5th Bomb Wing",
+"id": "strategic-air-command",
+"l0": true,
+"label": "Strategic Air Command (SAC)",
+"note": "The 1968 Blue Book file is built on 91st SMW and 862nd Combat Support Group records; CINCNORAD's 1975 message names Minot AFB.",
+"sources": [
+{
+"date": "1968-11-13",
+"name": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026",
+"url": "https://minotb52ufo.com/doc.php"
+},
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1975-11-11",
+"dateStart": "1966",
+"deg": 6,
+"denials": [],
+"desc": "THE HUB WITH THE MOST INDEPENDENT DETECTION CHANNELS AND ONE UNRESOLVED NAMING PROBLEM. Minot Air Force Base, North Dakota, home of the 91st Strategic Missile Wing and the 5th Bomb Wing, is the convergence point for three separate episodes this board already carries in pieces without a place to hang them on: the 1966 incursions over its Minuteman launch facilities, the 24 October 1968 B-52 case, which is the best-instrumented nuclear-site incursion in the American record, and its named appearance in the CINCNORAD four-part message of 11 November 1975. THE NAMING PROBLEM IS REAL AND MUST NOT BE SILENTLY RESOLVED. For 10 November 1975 the 24th NORAD Region Senior Director's Log records a sighting at 'Minot Air Force Station', a radar site, and its own next clause says the object 'passed over the radar station'. Nine days later CINCNORAD's summary message lists 'Minot AFB, ND' among the installations where reliable military personnel had visually sighted suspicious objects. Two NORAD documents from the same period name two different Minot installations, and nothing opened by this board resolves which is meant. That matters for this hub specifically, because a degree count on l-minot that silently absorbs a radar-station entry is a degree count that lies.",
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-minot",
+"l0": false,
+"label": "Minot AFB, North Dakota",
+"locLabel": null,
+"members": null,
+"short": "Minot AFB, North Dakota",
+"sources": [
+{
+"date": "1975-11-19",
+"name": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+},
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+},
+{
+"date": "1968-11-13",
+"name": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026",
+"url": "https://minotb52ufo.com/doc.php"
+},
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+},
+{
+"date": null,
+"name": "24th NORAD Region Senior Directors Log, 10 November 1975, ,%201967%20NORAD%20logs_djvu.txt ; CINCNORAD message of 11 November 1975 as excerpted at ; both opened 2026-09-19",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016"
+}
+],
+"sub": "SAC installation; 91st Strategic Missile Wing and 5th Bomb Wing; 1966 incursions, the 24 October 1968 B-52 case, and a named appearance in the CINCNORAD message of 11 November 1975",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 566 of 1170, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}

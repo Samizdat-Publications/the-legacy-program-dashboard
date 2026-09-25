@@ -1,0 +1,64 @@
+{
+ "domain": "_corrections",
+ "people": [],
+ "entities": [
+  {
+   "id": "malmstrom-echo-flight-1967",
+   "cls": "event",
+   "cluster": "witness",
+   "sub": "Echo Flight Minuteman off-alert event, 16 March 1967, 341st Strategic Missile Wing",
+   "desc": "On 16 March 1967 at 0845 all ten Minuteman I missiles of Echo Flight, 341st Strategic Missile Wing, Malmstrom Air Force Base, Montana, went off strategic alert nearly simultaneously. That the shutdown happened is a matter of Air Force paper and is not in dispute: the wing's own history records it, and Robert Hastings publishes in facsimile an Air Force teletype dated 17 March 1967 concerning loss of strategic alert. What is contested is why, and the decisive document is now open. Excerpts of five quarterly 341st SMW histories were released to John Greenewald Jr on 14 June 2001, and in all 88 pages the words 'Unidentified Flying Object' occur exactly once, in a negative: rumours around Echo Flight during the time of fault 'were disproven', on evidence from a Mobile Strike Team that had been at November Flight rather than Echo Flight. The same release is equally hard on the debunk. The engineering investigation of 23 March 1967 reported that the teams at Malmstrom 'were unable to determine a logical cause for the incident'; the electromagnetic pulse conclusion arrived three months later and arrived by elimination, after Boeing's Sensitive Information Network theory was tested at Malmstrom and 'proved this analysis wrong' and the transformer-failure simulation showed no significant noise propagation. Boeing bench tests did reproduce the fault signature in 60 per cent of twenty applications of a 30 microsecond pulse, and the Air Force then bought the fix, in Boeing ECPs 1221, 1141-1 and 1141-2. THE OSCAR FLIGHT CLAIM IS A SEPARATE EVENT AND IS CARRIED SEPARATELY. Robert Salas places his own experience at Oscar Flight, and Robert Hastings now dates it to 24 March 1967 on Capt. Robert Jamison's information; the string 'Oscar' occurs zero times in the release. Against the UFO reading stand the engineering account above and a sustained public challenge from James Carlson, son of the Echo Flight crew commander. This board grades the occurrence at tier 1 and every causal attribution at tier 2.",
+   "removeClaims": [
+    {
+     "contains": "Col. Robert Mansmann wrote about it to Lee Graham on 30 January 1983",
+     "tier": 2,
+     "why": "WRONG MAN AND WRONG EVENT. There is no Col. Robert Mansmann in the Echo Flight record. The officer is Major Florenz J. Mansmann, and his letters are about BIG SUR, September 1964, at Vandenberg, not about the Malmstrom Echo Flight investigation of 1967. Kingston A. George, the Big Sur project engineer, names him in a published photograph caption in Skeptical Inquirer Vol. 17, Winter 1993, p 182: 'In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner.' Wikipedia's Big Sur article records that 'Florenz Mansmann, a major who was involved in the project, reportedly confirmed the account in a May 1987 letter to a UFO researcher', matching the 6 May 1987 date the removed claim assigns to Echo Flight. Both URLs were opened 19 September 2026. Mansmann has no established connection of any kind to the Malmstrom engineering investigation. Replaced by a Meiwald-only claim and by a claim recording the misattribution and its status as flagged rather than proven. The letters themselves have NOT been opened and the dates in circulation differ, with both 30 January and 10 March reported for the 1983 letter to Lee Graham, so this correction removes a false attribution and does not assert a corrected one. See research/leads/verified-nuclear-witnesses-2026-09-19.md section 12, and the proposed florenz-mansmann node in research/nuclear-witnesses-2026-09-19.json."
+    }
+   ],
+   "claims": [
+    {
+     "tier": 2,
+     "text": "Col. Frederick Meiwald wrote to Robert Salas about the March 1967 events on 1 October 1996, after Salas located him in the summer of that year. The letter is published by Salas and Robert Hastings. IT HAS NOT BEEN OPENED BY THIS BOARD and two flatly incompatible characterisations of its contents are in public circulation: that it elaborates and supports the Oscar Flight account, and that it records Meiwald's recollection as differing from Salas's and regrets being unable to help him establish his claims.",
+     "source": "Contested between Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , and the Metabunk skeptical resources thread, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , both opened 2026-09-19"
+    },
+    {
+     "tier": 3,
+     "text": "A MISATTRIBUTION THIS NODE PREVIOUSLY CARRIED, RECORDED SO IT IS NOT REINTRODUCED. This node formerly stated that a 'Col. Robert Mansmann, who was involved in the technical investigation' wrote to Lee Graham on 30 January 1983, to Peter Bons on 8 March 1983 and to T. Scott Crain on 6 May 1987 about the Echo Flight incident. The correspondents match the Big Sur correspondence, the officer is Maj. Florenz J. Mansmann, and the event is the September 1964 Big Sur filming at Vandenberg. The letters themselves have not been opened and the 1983 date is given variously as 30 January and 10 March, so the false attribution is removed and no corrected attribution is asserted here. The correct destination for the letters, once opened, is big-sur-1964 and a florenz-mansmann node.",
+     "source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 182 photograph caption, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , and Wikipedia, 'Big Sur UFO', https://en.wikipedia.org/wiki/Big_Sur_UFO , both opened 2026-09-19"
+    },
+    {
+     "tier": 1,
+     "text": "THE UNIT HISTORY THIS NODE'S DESCRIPTION FORMERLY CALLED UNRELEASED IS OPEN AND HAS BEEN READ IN FULL. The description said the board 'treats the unreleased 341st Strategic Missile Wing unit history for March 1967 as the document that would settle it'. Excerpts of five quarterly histories covering 1 January 1967 to 31 March 1968 were released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 and are published by The Black Vault as an 88-page PDF. The document that remains unreleased, and that would actually settle causation, is the source those histories are footnoted to: Rpt, (S) 'Report of Engineering Investigation of Echo Flight Incident, Malmstrom AFB, Mont. - 16 Mar 67', by Engineering Investigation Team, 23 March 1967.",
+     "source": "341st SMW histories, FOIA release of 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19"
+    }
+   ],
+   "sources": [
+    {
+     "name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001; 88-page PDF on The Black Vault, text extracted and read in full. Opened 19 September 2026",
+     "url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+     "date": "2001-06-14"
+    },
+    {
+     "name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; the photograph caption naming Major Florenz Mansmann. Opened 19 September 2026",
+     "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf",
+     "date": "1993"
+    },
+    {
+     "name": "Wikipedia, 'Big Sur UFO', on Florenz Mansmann's May 1987 letter to a UFO researcher. Opened 19 September 2026",
+     "url": "https://en.wikipedia.org/wiki/Big_Sur_UFO",
+     "date": "2026-09-19"
+    },
+    {
+     "name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating Echo Flight from Oscar Flight and dating the latter to 24 March 1967. Opened 19 September 2026",
+     "url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents",
+     "date": "2026-09-19"
+    }
+   ]
+  }
+ ],
+ "edges": [],
+ "timeline": [],
+ "entityInfo": {},
+ "gaps": [],
+ "_correction_why": "Written 19 September 2026 by the nuclear-witnesses pass and NOT merged into research/_corrections.json by that pass, per instruction: corrections overwrite prose and are authoritative, so this file is for review first. It does three things to malmstrom-echo-flight-1967 and nothing else. (1) It removes a Tier 2 claim attributing 1983 and 1987 letters to a 'Col. Robert Mansmann' about the Echo Flight technical investigation; the officer is Maj. Florenz J. Mansmann and the letters are about Big Sur, September 1964. (2) It rewrites the desc, which repeated the same misattribution and additionally called the 341st SMW unit history unreleased when it has been open since 14 June 2001 and is cited in this node's own Tier 1 claims. (3) It adds three claims: a Meiwald-only replacement that records both incompatible characterisations of the 1 October 1996 letter, a claim recording the misattribution so it is not reintroduced, and a claim correcting the unreleased-history statement and naming the document that actually remains unreleased. The sub is also narrowed from 'Echo Flight and Oscar Flight Minuteman off-alert events' to Echo Flight alone, because the two are different events and the conflation is the single most persistent error in this subject; the Oscar Flight claim is proposed as its own node, malmstrom-oscar-flight-1967, in research/nuclear-witnesses-2026-09-19.json."
+}

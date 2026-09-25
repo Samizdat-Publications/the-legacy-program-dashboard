@@ -2,7 +2,7 @@
 "A": 3,
 "C": 0,
 "D": 2,
-"band": null,
+"band": "oversight",
 "claims": [
 {
 "source": "NORAD via The War Zone, 30 October 2024",
@@ -43,6 +43,48 @@
 ],
 "tier": "B",
 "type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1975-11-11",
+"dateStart": "1975-11-11",
+"direction": "out",
+"edgeLabel": "Originated by the Commander-in-Chief, NORAD",
+"id": "doc-cincnorad-1975-11-11",
+"l0": false,
+"label": "CINCNORAD four-part message, 11 November 1975",
+"note": "Type research: originator of the message, not custodian of anything.",
+"sources": [
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1975-11-19",
+"dateStart": "1975-11-07",
+"direction": "out",
+"edgeLabel": "Produced by the 24th NORAD Region's own senior directors",
+"id": "doc-norad-24th-log-1975",
+"l0": false,
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+"note": "Type research because NORAD produced the document. It does not hold custody of anything on this board, and a custody edge here would weight the node as a programme edge without warrant.",
+"sources": [
+{
+"date": "1975-11-19",
+"name": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+}
+],
+"tier": "B",
+"type": "research"
 },
 {
 "claimTier": 2,
@@ -120,6 +162,37 @@
 {
 "claimTier": 1,
 "cls": "event",
+"dateEnd": "1975-11-19",
+"dateStart": "1975-10-28",
+"direction": "out",
+"edgeLabel": "NORAD was the detection and identification authority across the sequence",
+"id": "sac-overflights-1975",
+"l0": true,
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"note": "The NMCC memorandum records NORAD obtaining Canadian authority for pursuit; the CINCNORAD message summarises the sequence; the 24th Region log is the working record.",
+"sources": [
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+},
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+},
+{
+"date": "1975-11-19",
+"name": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
 "dateEnd": "2023",
 "dateStart": "2023",
 "direction": "in",
@@ -142,7 +215,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1958",
-"deg": 5,
+"deg": 8,
 "denials": [
 {
 "by": {
@@ -171,7 +244,37 @@
 "_rs-archive-mirror",
 "aviators-incidents"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "24th NORAD Region Senior Director's Log, 7-19 Nov 1975, opened 2026-09-19",
+"text": "THE 1975 LOG IS PRIMARY AND CONTEMPORANEOUS. The 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 records calls from Strategic Air Command posts, 'two F-106', that 'fighters did not get down to objects', and lights extinguishing on fighter arrival.",
+"tier": 1
+},
+{
+"source": "the NORAD log against the CINCNORAD message of 11 Nov 1975, both opened 2026-09-19",
+"text": "AN UNRESOLVED DISCREPANCY, CARRIED RATHER THAN SMOOTHED. The NORAD log names 'Minot Air Force Station', a radar site, where the CINCNORAD message of 11 November says 'Minot AFB'. These are different places and the difference decides which base a claim attaches to. Nothing opened resolves it.",
+"tier": 3
+},
+{
+"source": "NORAD statements and reporting, already on the board before this cluster",
+"text": "THE MODERN REPORTING, KEPT DISTINCT. NORAD recorded more than 600 drone reports above US military installations since 2022, and established Falcon Peak, a counter-drone demonstration with multiple vendors. The board carries this because the same command is the reporter, and asserts no continuity between the two eras.",
+"tier": 2
+}
+],
+"narrative": "This node is on the map because of what its records are, not what anyone claims about it.\n\nThe 1975 material is primary and contemporaneous. The 24th NORAD Region Senior Director's Log, released over a colonel's signature and stamped as pages of a larger compilation, records calls from Strategic Air Command posts, two F-106s launched, that the fighters did not get down to the objects, and lights extinguishing on fighter arrival. The National Military Command Center memorandum of 29 October 1975 shows the traffic reaching the Chairman, the Joint Staff and the service chiefs, with a general officer personally approving rules of engagement for a National Guard helicopter.\n\nOne unresolved detail is carried openly rather than smoothed. The NORAD log names Minot Air Force Station, a radar site, where the CINCNORAD message of 11 November says Minot AFB. Those are different places and the discrepancy matters for which base a claim attaches to. Nothing opened resolves it, so the board states both and attaches the claim to neither silently.\n\nThe modern material is of a different character and is kept distinct. Drone reports over installations since 2022 are an acknowledged, funded, operational problem with named programmes attached. The board carries them because the same command is the reporter, and because a reader tracing how official language about unidentified objects has changed will want both ends of the line in one place. It does not assert that the two eras are the same phenomenon.",
+"openQuestions": [
+"Whether Minot Air Force Station or Minot AFB is correct in the 1975 record, which decides a hub attachment.",
+"The remainder of the OASD FOIA compilation the NORAD log was released within, at least 449 unseen pages.",
+"Whether any NORAD assessment of the 1975 sequence exists beyond the logs themselves."
+],
+"roles": [
+"oversight",
+"disclosure"
+],
+"whatItIs": "The North American Aerospace Defense Command and US Northern Command, the binational and homeland commands responsible for aerospace warning and control over North America. On this board they appear in two eras that are usually discussed separately: the 1975 northern-tier intrusions, recorded in NORAD's own regional logs, and the post-2022 drone-incursion reporting over US military installations.",
+"whyImplicated": "Because the same command's own records bracket the subject at both ends. The 24th NORAD Region Senior Director's Log for November 1975 records fighters launched against objects over weapons storage areas and lights extinguishing on their arrival. Fifty years later the same command reports more than 600 drone sightings over US installations since 2022 and stands up a counter-drone demonstration programme. Whatever the objects are in either period, the institution recording them is the one whose job is knowing what is in the airspace."
+},
 "entityInfo": null,
 "era": "0",
 "foia": {
@@ -180,10 +283,47 @@
 },
 "hl": null,
 "id": "norad-northcom",
-"l0": false,
+"l0": true,
 "label": "NORAD and US Northern Command",
 "locLabel": null,
-"members": null,
+"members": [
+{
+"cls": "program",
+"id": "defense-support-program",
+"label": "Defense Support Program (DSP) missile early warning satellites",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "doc-cincnorad-1975-11-11",
+"label": "CINCNORAD four-part message, 11 November 1975",
+"tier": "C"
+},
+{
+"cls": "document",
+"id": "doc-norad-24th-log-1975",
+"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "gregory-guillot",
+"label": "Gregory M. Guillot",
+"tier": "C"
+},
+{
+"cls": "legislation",
+"id": "ndaa26-uap-provisions",
+"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
+"tier": "A"
+},
+{
+"cls": "event",
+"id": "shootdowns-feb-2023",
+"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+"tier": "B"
+}
+],
 "short": "NORAD and US Northern Command",
 "sources": [
 {
@@ -204,6 +344,6 @@
 ],
 "sub": "Homeland air defence combatant command",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 544 of 1136, score 29). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 454 of 1170, score 32). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
 "timeline": []
 }

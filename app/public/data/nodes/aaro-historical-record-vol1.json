@@ -516,7 +516,7 @@
 "direction": "out",
 "edgeLabel": "AARO's legacy review does not address the documented records destruction",
 "id": "gao-nsiad-95-187",
-"l0": true,
+"l0": false,
 "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "The report reaffirms the MOGUL conclusion without engaging GAO's 1995 finding that the relevant base records were destroyed with no disposition authority — the gap that makes the conclusion untestable.",
 "sources": [
@@ -531,7 +531,7 @@
 "url": "https://www.gao.gov/assets/nsiad-95-187.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 },
 {
@@ -730,7 +730,7 @@
 "direction": "in",
 "edgeLabel": "AARO's 2024 review does not address MJ-12 or AQUARIUS",
 "id": "mj-12-documents",
-"l0": true,
+"l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "Two of the most persistent alleged programme names in the historical record are absent from the report tasked with resolving the historical record.",
 "sources": [
@@ -1858,6 +1858,12 @@
 "tier": "C"
 },
 {
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"tier": "A"
+},
+{
 "cls": "person",
 "id": "john-greenewald",
 "label": "John Greenewald Jr.",
@@ -1879,6 +1885,12 @@
 "cls": "person",
 "id": "michael-herrera",
 "label": "Michael Herrera",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents",
 "tier": "B"
 },
 {
@@ -2075,7 +2087,7 @@
 ],
 "sub": "report",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 6 of 1136, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 6 of 1170, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
 "date": "2021-01-01",

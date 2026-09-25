@@ -1,0 +1,148 @@
+{
+"A": 1,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth', https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html and 'Engineering Change Proposal 1221', http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html , both opened 2026-09-19",
+"text": "Tim Hebert states he served as a Minuteman missile crew member with the 490th Strategic Missile Squadron at Malmstrom AFB from 1981 to 1985 and in the Wing Codes Division at Grand Forks AFB from 1985 to 1988, and later worked as a programme manager assigned to Air Force Systems Command handling engineering change proposals.",
+"tier": 2
+},
+{
+"source": "Tim Hebert, https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html , opened 2026-09-19",
+"text": "His argument is that the 341st SMW unit history goes into detail on the launch crew's debriefing while never mentioning the maintenance teams at the launch facilities whose presence the UFO account requires, and that the engineering investigation centred on an electromagnetic-pulse-like noise pulse originating within the launch control centre rather than externally.",
+"tier": 2
+},
+{
+"source": "341st SMW history, Jul-Sep 1967, pp 52-53, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "His ECP 1221 claim was verified independently against the primary document by this board. The 341st SMW history states that Boeing submitted ECPs numbered 1221, 1141-1 and 1141-2 for the modification of EMP for Force Mod, that ECP 1221 modifies the interconnecting box by adding a sub-assembly containing zener diodes and isolation components, and cites it as 'Engineering Change Proposal, ECP No. 1221, submitted by Boeing Company, Ex 35'.",
+"tier": 1
+},
+{
+"source": "NICAP, 'Wurtsmith and Others', citing Cahill's Research Record of Events of 17 January 1979, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"text": "The counterexample to his strongest move is inside this same cluster. SSgt Paul J. Cahill, historian of the 379th Bombardment Wing, wrote in a Research Record of Events dated 17 January 1979: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.' A wing history's silence about an event other Air Force paper records is a documented occurrence, which limits how much weight an argument from silence can carry.",
+"tier": 1
+}
+],
+"cls": "person",
+"cluster": "research",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "2012-10",
+"dateStart": "2011-08",
+"direction": "out",
+"edgeLabel": "Published argument from the released paper that no UFO element is supported",
+"id": "malmstrom-echo-flight-1967",
+"l0": true,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"note": "The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history's silence has a documented counterexample at Wurtsmith.",
+"sources": [
+{
+"date": "2011-08-01",
+"name": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026",
+"url": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+},
+{
+"date": "2012-10-01",
+"name": "Tim Hebert, 'Engineering Change Proposal 1221: The Air Force's Success Against UFO Attacks'. Opened 19 September 2026",
+"url": "http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"date": "2011-08-01",
+"dateEnd": null,
+"dateStart": "2011-08-01",
+"deg": 1,
+"denials": [
+{
+"by": {
+"id": "tim-hebert",
+"label": "Tim Hebert"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Published argument from the released paper that no UFO element is supported",
+"note": "The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history's silence has a documented counterexample at Wurtsmith.",
+"of": {
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"sources": [
+{
+"date": "2011-08-01",
+"name": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026",
+"url": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+},
+{
+"date": "2012-10-01",
+"name": "Tim Hebert, 'Engineering Change Proposal 1221: The Air Force's Success Against UFO Attacks'. Opened 19 September 2026",
+"url": "http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html"
+}
+]
+}
+],
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "tim-hebert",
+"instId": null,
+"l0": false,
+"label": "Tim Hebert",
+"loc": "United States",
+"locId": null,
+"members": null,
+"narrative": "Tim Hebert is the most useful sceptic in this cluster because he argues from the released paper rather than from assertion, and because he held the job. By his own account he was a Minuteman crew member with the 490th Strategic Missile Squadron at Malmstrom from 1981 to 1985, then in the Wing Codes Division at Grand Forks from 1985 to 1988, and later a programme manager with Air Force Systems Command who handled engineering change proposals daily. His two load-bearing arguments are checkable and this board checked them. The first is that the 341st Strategic Missile Wing history details the capsule crew's debriefing but never mentions the maintenance teams whose presence the UFO account requires. The second is that Engineering Change Proposal 1221, an electromagnetic pulse suppression modification, shows what the Air Force actually concluded and actually bought; this board verified ECP 1221 independently against the release, where it appears with its own exhibit citation. His central move, an argument from a unit history's silence, has one documented counterexample inside this same cluster: at Wurtsmith in January 1979 the wing historian checked his own October to December 1975 Wing History for an event that other Air Force paper records, found no reference to it, and wrote that down.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Tim Hebert",
+"sources": [
+{
+"date": "2011-08-01",
+"name": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026",
+"url": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
+},
+{
+"date": "2012-10-01",
+"name": "Tim Hebert, 'Engineering Change Proposal 1221: The Air Force's Success Against UFO Attacks'. Opened 19 September 2026",
+"url": "http://timhebert.blogspot.com/2012/10/engineering-change-proposal-1221-air.html"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+}
+],
+"status": "alive",
+"sub": "Former USAF Minuteman missile crew member, 490th SMS, Malmstrom AFB 1981-85, and Wing Codes Division, Grand Forks AFB 1985-88; later an Air Force Systems Command programme manager; sceptical analyst of the Echo Flight case",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 773 of 1170, score 22). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"No service record has been opened for Hebert; his background is his own account.",
+"He is a blog author rather than a published investigator, and none of his work has been through any editorial or peer process this board can point at."
+]
+}
