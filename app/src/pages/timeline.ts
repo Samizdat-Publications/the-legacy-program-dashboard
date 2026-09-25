@@ -271,12 +271,14 @@ function drawYearHead(c: Ctx, slots: YearSlot[]): void {
   for (const s of slots) {
     const txt = String(s.year);
     const fits = s.w >= textWidth(txt) + 8;
+    /* a year after the board's own date holds only what is scheduled */
+    const later = s.year > c.present;
     const b = h('button', {
-      class: 'tl-year' + (s.open ? ' on' : ''),
+      class: 'tl-year' + (s.open ? ' on' : '') + (later ? ' later' : ''),
       style: 'left:' + s.x.toFixed(1) + 'px;width:' + Math.max(1, s.w - 1).toFixed(1) + 'px',
       'aria-pressed': s.open ? 'true' : 'false',
       'aria-label': (s.open ? 'close ' : 'open ') + txt,
-      title: (s.open ? 'close ' : 'open ') + txt,
+      title: (s.open ? 'close ' : 'open ') + txt + (later ? ": after the board's date, so scheduled events only" : ''),
       'data-year': txt,
     }, fits || s.open ? txt : null);
     b.addEventListener('click', () => {

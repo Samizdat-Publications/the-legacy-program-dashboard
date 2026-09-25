@@ -1896,7 +1896,7 @@ async function main() {
       'C8  every claim row on #/n/' + NODE_FOCUS + ' carries a source link or citation text',
       noSrc.length ? `${noSrc.length} of ${n.claims.length} with neither: ` + clip(noSrc.map((c) => c.text.slice(0, 40)), 2)
         : `${n.claims.length} claims, ${n.claims.filter((c) => c.srcTag === 'A').length} as links`);
-    const m = n.head.match(/Claims\s*·?\s*(\d+)[\s\S]*Tier 1 · (\d+)[\s\S]*Tier 2 · (\d+)[\s\S]*Tier 3 · (\d+)/);
+    const m = n.head.match(/Claims\s*·?\s*(\d+) in all[\s\S]*?(\d+) at Tier 1[\s\S]*?(\d+) at Tier 2[\s\S]*?(\d+) at Tier 3/);
     const tot = m ? Number(m[1]) : NaN, sum = m ? Number(m[2]) + Number(m[3]) + Number(m[4]) : NaN;
     check('c8', !!m && tot === sum && tot === n.claims.length,
       'C8  the claims header T1+T2+T3 equals the claim count and the rows drawn',

@@ -17,7 +17,7 @@ import {
 } from '../data';
 import { notFound } from './notfound';
 import { groupConnections, renderConnGroups } from './connections';
-import { saidKind, saidMark } from '../attrib';
+import { saidKind, saidMark, SAID_LABEL, SAID_TITLE } from '../attrib';
 
 const AXES: [keyof Pick<NodeRecord, 'C' | 'A' | 'D'>, string][] = [
   ['C', 'custody proximity'],
@@ -148,14 +148,24 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   main.append(h('div', { class: 'sec sechead' },
     h('div', null,
       h('span', { class: 'eyebrow' }, 'Claims'), ' ',
-      h('span', { class: 'sep' }, '·'), ' ', h('b', null, String(claims.length)),
-      '   ',
-      h('span', { class: 't1' }, 'Tier 1 · ' + byTier[1].length), '  ',
-      h('span', { class: 't2' }, 'Tier 2 · ' + byTier[2].length), '  ',
-      h('span', { class: 't3' }, 'Tier 3 · ' + byTier[3].length),
+      h('span', { class: 'sep' }, '·'), ' ', h('b', null, String(claims.length)), ' in all ',
+      h('span', { class: 'sep' }, '·'), ' ',
+      h('span', { class: 't1' }, byTier[1].length + ' at Tier 1'), ' ', h('span', { class: 'sep' }, '·'), ' ',
+      h('span', { class: 't2' }, byTier[2].length + ' at Tier 2'), ' ', h('span', { class: 'sep' }, '·'), ' ',
+      h('span', { class: 't3' }, byTier[3].length + ' at Tier 3'),
     ),
-    h('span', { class: 'faint' }, 'each claim → its source, as a link'),
+    h('span', { class: 'faint' }, 'each claim with its source, linked where the source gives a URL'),
   ));
+  /* the key to the mark, where the page carries one (attrib.ts) */
+  const kinds = new Set(claims.map((c) => { const s = claimSource(c.source); return saidKind(Number(c.tier), c.text, s.text, s.url); }).filter(Boolean));
+  if (kinds.size) {
+    const key = h('div', { class: 'said-key dim' });
+    for (const k of ['said', 'office'] as const) {
+      if (!kinds.has(k)) continue;
+      key.append(h('div', null, h('span', { class: 'said-mark key' }, SAID_LABEL[k]), SAID_TITLE[k]));
+    }
+    main.append(key);
+  }
   const list = h('div', { class: 'claims' });
   for (const tier of [1, 2, 3]) {
     for (const c of byTier[tier]) {
@@ -165,7 +175,7 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
         h('span', { class: 'ctext' }, saidMark(saidKind(tier, c.text, src.text, src.url)), c.text),
         src.url
           ? h('a', { class: 'csrc', href: src.url, target: '_blank', rel: 'noreferrer noopener', title: src.text }, 'source ↗')
-          : h('span', { class: 'csrc nolink', title: src.text }, src.text ? 'source, not a link' : 'no source recorded'),
+          : h('span', { class: 'csrc nolink', title: src.text }, src.text ? 'source: ' + src.text : 'no source recorded'),
       ));
     }
   }

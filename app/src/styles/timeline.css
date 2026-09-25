@@ -171,3 +171,6 @@ a.tl-mark:hover { outline: 1px solid var(--cyan); }
 @media (max-width: 760px) {
   .tl-head { flex-wrap: wrap; }
 }
+
+/* a year after the board's own date: scheduled events only */
+.tl-year.later { color: var(--amber); font-style: italic; }

@@ -474,7 +474,9 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 .claim .ct { font-weight: 600; }
 .claim .ctext { font-size: var(--fs-label); }
 .claim .csrc { white-space: nowrap; }
-.claim .csrc.nolink { color: var(--faint); }
+.claim .csrc.nolink { color: var(--dim); grid-column: 2 / -1; white-space: normal; overflow-wrap: anywhere; }
+.said-key { display: grid; gap: 3px; margin: -2px 0 8px; }
+.said-key .said-mark { cursor: default; }
 
 .denials { display: grid; gap: 4px; }
 .denials .denial {
