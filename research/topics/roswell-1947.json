@@ -26,7 +26,403 @@
   "d-roswell"
  ],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "The anchor topic of the early record, at the centre of the measured Roswell and crash-retrieval research community. Carries the 1978-80 revival and the 1994-97 GAO and USAF reports as its tail, with Mogul as the case against.",
- "appendixT": "roswell-1947"
+ "appendixT": "roswell-1947",
+ "lead": {
+  "text": "On 8 July 1947 Roswell Army Air Field announced that the 509th Bomb Group's intelligence office had gained possession of a disc, and the same day Brig. Gen. Roger Ramey at Fort Worth presented the debris as a weather balloon with a radar reflector. Reopened in 1978, the case drew Air Force reports in the 1990s naming Project MOGUL and test dummies, and a GAO finding that the base's records for the period had been destroyed with no recorded authority.",
+  "cite": [
+   "c-250c786148",
+   "c-5147f84461",
+   "c-a53b721fb9",
+   "c-5b6174fb5a",
+   "c-2c5005811d"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The week itself: the 509th's intelligence officer, Maj. Jesse Marcel, collected debris at the Foster ranch with CIC Capt. Sheridan Cavitt; the base's information officer, Walter Haut, issued the disc announcement; and the material was flown to Eighth Air Force headquarters at Fort Worth, where it was publicly called a weather balloon.",
+   "cite": [
+    "c-ef9208046f",
+    "c-a9500019eb",
+    "c-dea528a11a"
+   ]
+  },
+  {
+   "text": "The revival: in 1978 the researcher Stanton Friedman met Marcel and began investigating whether the material had come from a crashed UFO, and Charles Berlitz and William Moore's 1980 book The Roswell Incident, built on Friedman's Marcel material with a second-hand account from Barney Barnett, reopened the case in public and began the modern witness corpus.",
+   "cite": [
+    "c-a53b721fb9",
+    "e-3bd6422e43",
+    "c-ea5fbff86d"
+   ]
+  },
+  {
+   "text": "The official answers: at the request of Rep. Steven Schiff, GAO searched for the records from 1994 to 1995, and the Air Force published two reports in response to his inquiry, attributing the debris to Project MOGUL and the reports of bodies to anthropomorphic test dummies.",
+   "cite": [
+    "c-06fef97272",
+    "e-0adc64f9ce",
+    "c-5b6174fb5a"
+   ]
+  },
+  {
+   "text": "In February 2024 AARO's historical report restated the MOGUL attribution and found no evidence that the government had recovered aliens or extraterrestrial material.",
+   "cite": [
+    "c-d2901ec4c5",
+    "e-d527569b2b"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "The press release issued by 1st Lt. Walter Haut on 8 July 1947 says the intelligence office of the 509th Bomb Group \"was fortunate enough to gain possession of a disc\" through the cooperation of a local rancher and the sheriff's office of Chaves County.",
+   "cite": [
+    "c-250c786148",
+    "c-4c31a96397",
+    "e-37f2115706"
+   ]
+  },
+  {
+   "text": "The same day an Eighth Air Force headquarters official told the FBI's Dallas office by telephone of the recovery near Roswell of \"a hexagonal-shaped disc suspended from a large balloon by cable\" which resembled a high-altitude weather balloon with a radar reflector.",
+   "cite": [
+    "c-4eb11d532b",
+    "c-987c84c96f"
+   ]
+  },
+  {
+   "text": "At Fort Worth, Ramey, with Col. Thomas DuBose and the weather officer Irving Newton, identified the material as a weather balloon with a radar reflector, retracting the Roswell announcement the same day. Marcel was photographed with debris in Ramey's office, and the Air Force's 1995 report reproduces the photographs.",
+   "cite": [
+    "c-64674e53df",
+    "e-a8be94c5be",
+    "e-5a32c196a4",
+    "e-5db3045c93"
+   ]
+  },
+  {
+   "text": "The July 1947 history of the 509th Bomb Group and Roswell Army Air Field records that its information office was kept busy answering inquiries on the flying disc, which it says turned out to be a radar tracking balloon. GAO's search found only two records originating in 1947: that history and the FBI teletype.",
+   "cite": [
+    "c-991aefb24b",
+    "c-b05c02f193",
+    "e-48accb7292"
+   ]
+  },
+  {
+   "text": "GAO reported on 28 July 1995 that RAAF administrative records from March 1945 through December 1949 and outgoing messages from October 1946 through December 1949 were destroyed, and that the disposition form does not say what organisation or person destroyed them, when, or under what authority.",
+   "cite": [
+    "c-fb92610f3c",
+    "c-06fef97272",
+    "e-06d42f80a2",
+    "e-9a707bbfad"
+   ]
+  },
+  {
+   "text": "GAO also recorded the CIA's statement that a search of all its databases for Roswell, New Mexico produced no documents related to the crash, and the National Archives has found no Blue Book record discussing the incident.",
+   "cite": [
+    "c-6055f612d0",
+    "c-77144e7434"
+   ]
+  },
+  {
+   "text": "The Air Force's first report, by Col. Richard Weaver and 1st Lt. James McAndrew, attributed the debris to Project MOGUL, a then-classified balloon programme, naming MOGUL Flight No. 4 launched from Alamogordo on 4 June 1947, and acknowledged that the weather balloon explanation had been a cover story.",
+   "cite": [
+    "c-0b2e4a7afa",
+    "c-80e07e978d",
+    "c-5024401247",
+    "e-3174ce39e6"
+   ]
+  },
+  {
+   "text": "The second report, The Roswell Report: Case Closed of 24 June 1997, concludes that the material was not the remnants of an extraterrestrial spacecraft, and sets out four conclusions: many years of Air Force activity consolidated into July 1947, test dummies as the aliens, balloon launch and recovery as the unusual military activity, and a 1956 KC-97 accident and a 1959 balloon mishap as the source of the hospital accounts.",
+   "cite": [
+    "c-605afa7187",
+    "c-672b5c42db",
+    "c-afeadfedf4"
+   ]
+  },
+  {
+   "text": "Roswell fell inside a wave: Kenneth Arnold's sighting in the Cascades on 24 June 1947, which generated a surviving Army Air Forces file, opened it, and the Roswell recovery followed within two weeks.",
+   "cite": [
+    "e-5f7f5d2b52",
+    "c-245bf88940"
+   ]
+  },
+  {
+   "text": "The Clinton White House kept a Roswell file of correspondence, reports and email, including the GAO report, which states that the origin of the crashed object remains in dispute. The same library holds a collection of Clinton's correspondence with Laurance Rockefeller.",
+   "cite": [
+    "c-1e7a01041a",
+    "c-e81e1c564d",
+    "e-b4b15b96fc"
+   ]
+  },
+  {
+   "text": "AARO's report of February 2024 concludes that the materials recovered near Roswell were consistent with a balloon of the type used in the then-classified Project Mogul, restating the Air Force's 1994 to 1997 position.",
+   "cite": [
+    "c-d2901ec4c5",
+    "e-dc422e2331"
+   ]
+  },
+  {
+   "text": "Abroad, COMETA, a committee of retired French flag officers, gave Roswell an appendix of its own in its defence study, titled The Roswell Affair - Disinformation.",
+   "cite": [
+    "e-c907ba4361"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Marcel told Friedman in February 1978 that the weather balloon account was a cover story, that the material he recovered was not of terrestrial manufacture, and that what was shown at Fort Worth had been substituted. He had been put in touch with Friedman as a retired lieutenant colonel in Baton Rouge, thirty-one years after the event.",
+   "cite": [
+    "c-02856cf051",
+    "c-d494a510da",
+    "e-da5de362aa",
+    "e-5a32c196a4"
+   ]
+  },
+  {
+   "text": "His son, Jesse Marcel Jr., testified by affidavit and repeatedly on the record that his father woke him at night in July 1947 and laid out debris including foil-like metal that resumed its shape and an I-beam with embossed purple-violet symbols. The board notes that his claim stayed narrow as the literature grew; that is its own assessment.",
+   "cite": [
+    "c-a52a581e7d",
+    "e-b6691fd7f8",
+    "c-49d6920dd7"
+   ]
+  },
+  {
+   "text": "Haut stated in an affidavit of 14 May 1993 that Col. Blanchard had seen the material and could not have mistaken it for a weather balloon. A later document, signed on 26 December 2002 and released after his death in 2005, says he saw a craft and bodies; Donald Schmitt composed and emailed its text, Haut signed it before his daughter and a notary, and it was withheld until after he died and published in 2007.",
+   "cite": [
+    "c-7c157d2895",
+    "c-64b2984489",
+    "e-bd781c8cb0"
+   ]
+  },
+  {
+   "text": "An allegation carried on the board links Battelle to Roswell: that 1948-49 Battelle nickel-titanium work analysed recovered memory metal under Wright-Patterson contracts. It rests on coincidence of timing and missing reports, and no document connects the two.",
+   "cite": [
+    "e-ccbf092f20"
+   ]
+  },
+  {
+   "text": "On the board's reading, Roswell's durable finding is administrative rather than physical: the government has conceded that its 1947 public account was a cover story, and the unit's records for the period were destroyed without traceable authority. The board also reads the same-day retraction by a numbered air force commander as directed from above the 509th. Both are inferences.",
+   "cite": [
+    "c-21350236bf",
+    "c-b05b2f7931",
+    "c-3ded12afeb",
+    "c-785a287d7a"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The Air Force's case is that the most likely source of the wreckage was a MOGUL balloon train, which directly contradicts Marcel, and that claims of bodies only became part of the incident after 1978, when they were wrongly linked to the MOGUL retrieval. Case Closed attributes body reports to test dummies used in parachute tests mainly between 1953 and 1959.",
+   "cite": [
+    "c-9f4001a928",
+    "c-c2598b0818",
+    "c-28218a43cd",
+    "c-f2ce17488a"
+   ]
+  },
+  {
+   "text": "The board's counter-case is inference: that MOGUL cannot be tested against the base's own message traffic because it was destroyed, that the dummy explanation requires witnesses to have folded events of six to twelve years later into July 1947, and that AARO restated MOGUL without engaging GAO's records finding.",
+   "cite": [
+    "c-aaad0ad1f7",
+    "e-1c8b739b37",
+    "c-c5815a6a1f",
+    "e-0f5a86f45c"
+   ]
+  },
+  {
+   "text": "Haut's accounts do not agree with one another: in 1979 and in a March 1989 interview he said he knew nothing about what was recovered and was refused permission to see it, and the 1980 book called him not a witness. The board treats the 2002 document as Schmitt's composition attested by Haut, not as Haut's testimony.",
+   "cite": [
+    "c-b70ec8f7b2",
+    "c-c07d776444",
+    "c-5ed801a589"
+   ]
+  },
+  {
+   "text": "Glenn Dennis, source of the missing nurse account, admitted to Carey and Schmitt that he had given investigators a false name for the nurse, and they wrote that he must technically stand impeached as a witness. The Air Force found no record of a nurse by that name in the hospital reports or at the National Personnel Records Center, no nurse reassigned on 8 or 9 July 1947, and a nurse matching his description in all but name.",
+   "cite": [
+    "c-65ca0c2db7",
+    "c-9f893b5607",
+    "c-d4e73dc23b",
+    "c-9236b650a1"
+   ]
+  },
+  {
+   "text": "James Ragsdale is quoted in the Air Force's report as saying \"They were using dummies in those damned things.\" His interview transcript came to the Air Force from Kevin Randle, and the board reads his shifting site descriptions as moving towards whichever scenario the investigators were advancing.",
+   "cite": [
+    "c-5cbc2d7368",
+    "c-f81473e94d",
+    "c-68224804c3"
+   ]
+  },
+  {
+   "text": "The researchers disagree with themselves: Randle and Schmitt's 1991 and 1994 books give materially different impact sites and timelines, which the board reads as over-fitting, and Randle later said he was no longer sure what happened at Roswell and that the case for extraterrestrial involvement was no longer robust.",
+   "cite": [
+    "c-f77916cd1d",
+    "c-d9ff54abab"
+   ]
+  },
+  {
+   "text": "The San Agustin strand rests entirely on second-hand and late-recalled testimony, and Randle concluded that nothing happened there in July 1947; the board reads the 1980 book's joining of the Foster ranch debris to that account as an editorial choice, not a witness claim.",
+   "cite": [
+    "c-d88b1cc952",
+    "e-a10e9a7d78",
+    "c-c82d61c02b"
+   ]
+  },
+  {
+   "text": "Moore, co-author of the 1980 book, admitted at the 1989 MUFON symposium that he had cooperated with Air Force counterintelligence and knowingly passed false information to Paul Bennewitz.",
+   "cite": [
+    "c-cc917f1c22"
+   ]
+  },
+  {
+   "text": "The Battelle memory-metal allegation runs against the federal literature: a 1972 NASA report written by Battelle itself credits the alloy to Buehler and Wiley of the Naval Ordnance Laboratory, whose earliest cited report on it is of 1961, and the board records the allegation as unsupported.",
+   "cite": [
+    "c-81fc6eae00"
+   ]
+  },
+  {
+   "text": "The board's own entries differ on the GAO dates: the report's text gives outgoing messages from October 1946 and administrative records from March 1945, while one summary gives outgoing messages from March 1945 and speaks of a missing destruction certificate.",
+   "cite": [
+    "c-fb92610f3c",
+    "c-294e766dd5",
+    "e-88fa54b3e6"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "roswell-1947",
+   "role": "subject"
+  },
+  {
+   "id": "l-roswell",
+   "role": "place"
+  },
+  {
+   "id": "l-fort-worth-tx",
+   "role": "place"
+  },
+  {
+   "id": "l-san-agustin",
+   "role": "place"
+  },
+  {
+   "id": "509th-bomb-group",
+   "role": "institution"
+  },
+  {
+   "id": "raaf-press-release-1947",
+   "role": "document"
+  },
+  {
+   "id": "walter-haut",
+   "role": "official"
+  },
+  {
+   "id": "jesse-marcel",
+   "role": "witness"
+  },
+  {
+   "id": "jesse-marcel-jr",
+   "role": "witness"
+  },
+  {
+   "id": "roger-ramey",
+   "role": "official"
+  },
+  {
+   "id": "kenneth-arnold",
+   "role": "witness"
+  },
+  {
+   "id": "steven-schiff",
+   "role": "legislator"
+  },
+  {
+   "id": "gao",
+   "role": "institution"
+  },
+  {
+   "id": "gao-nsiad-95-187",
+   "role": "document"
+  },
+  {
+   "id": "usaf-roswell-reports",
+   "role": "document"
+  },
+  {
+   "id": "roswell-report-case-closed",
+   "role": "document"
+  },
+  {
+   "id": "project-mogul",
+   "role": "programme"
+  },
+  {
+   "id": "aaro-historical-record-vol1",
+   "role": "document"
+  },
+  {
+   "id": "the-roswell-incident-1980",
+   "role": "document"
+  },
+  {
+   "id": "william-l-moore",
+   "role": "investigator"
+  },
+  {
+   "id": "stanton-friedman",
+   "role": "investigator"
+  },
+  {
+   "id": "don-schmitt",
+   "role": "investigator"
+  },
+  {
+   "id": "kevin-randle",
+   "role": "investigator"
+  },
+  {
+   "id": "glenn-dennis",
+   "role": "witness"
+  },
+  {
+   "id": "jim-ragsdale",
+   "role": "witness"
+  },
+  {
+   "id": "rockefeller-initiative",
+   "role": "programme"
+  },
+  {
+   "id": "battelle",
+   "role": "contractor"
+  },
+  {
+   "id": "cometa",
+   "role": "institution"
+  }
+ ],
+ "questions": [
+  "Was the material shown at Fort Worth the material Marcel brought from the Foster ranch, or was it substituted?",
+  "What does the memo in Ramey's hand in the Fort Worth photographs say?",
+  "Is there any document behind Col. Thomas DuBose's later statements that the weather balloon story was a cover directed from Washington?",
+  "Who destroyed the RAAF administrative records and outgoing messages, when, and under what authority?",
+  "Did Col. Blanchard dictate the press release, as only Haut's posthumous document says, and was that document executed with the formalities of an affidavit?",
+  "Does any Ballard Funeral Home or RAAF mortuary record from July 1947 show an enquiry about caskets?",
+  "Does any 1947 Air Materiel Command or 509th record, beyond the press release, name Marcel in the onward routing of the material?"
+ ],
+ "related": [
+  "crash-claims",
+  "pre-roswell-claims",
+  "sign-estimate",
+  "wright-patterson-ftd",
+  "mj12-documents",
+  "battelle-nitinol",
+  "official-explanations",
+  "denial-ledger",
+  "aaro-historical-record",
+  "testimony-provenance",
+  "records-collection"
+ ]
 }

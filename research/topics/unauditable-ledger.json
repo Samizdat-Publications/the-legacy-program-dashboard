@@ -26,7 +26,7 @@
   "sffas-56-what-it-actually-permits",
   "why-the-failed-audit-is-evidence"
  ],
- "status": "draft",
+ "status": "drafted",
  "notes": "Start-here flag 8. The Skidmore-Fitts community (eight nodes) is folded in here. The four claims authored under a money domain node that phase 3 could not place belong here.",
  "appendixT": "unauditable-ledger",
  "unplacedClaims": [
@@ -54,5 +54,424 @@
    "claim": "Persistent inability to trace appropriated funds to expenditure is a necessary enabling condition for an unacknowledged programme, but is not by itself evidence of one. Reasoning: the audit failure removes a detection mechanism without generating a positive indication.",
    "source": "Inference from the DoD audit record"
   }
+ ],
+ "lead": {
+  "text": "The Department of Defense has had a disclaimer of opinion on its financial statements every year since its first full-scope audit, for FY2018, and in the last two quarters of FY2025 its unsupported adjustments exceeded $859 billion. This topic sets out what that audit record documents, the 2018 accounting standard that lets classified amounts be moved between lines without saying so, and the trillion-dollar figures that circulate from Inspector General reports whose own footnotes say they should not be added together.",
+  "cite": [
+   "e-902d4727c0",
+   "e-eb0a34f7e0",
+   "c-601da71d07",
+   "c-17da8ec825",
+   "c-db40f5aab8",
+   "c-f302580144"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The audit record: the first full-scope audit, for FY2018, ended in a disclaimer of opinion, as has every one since through FY2025; the FY2025 audit found 26 material weaknesses, including unsupported accounting adjustments of more than $859 billion in two quarters.",
+   "cite": [
+    "e-eb0a34f7e0",
+    "e-902d4727c0",
+    "e-bb2fb43c3b",
+    "c-0f2ae724e8",
+    "c-dd07057120"
+   ]
+  },
+  {
+   "text": "GAO has kept DoD financial management on its High-Risk List, where the 2025 edition assesses its status as maintained.",
+   "cite": [
+    "c-2ce64ab317",
+    "e-9cff98ba41"
+   ]
+  },
+  {
+   "text": "SFFAS 56, issued in October 2018 after the Department of Defense identified the need for it in 2016, permits an entity to present amounts from one line item in another without explanation and to omit disclosures that would reveal classified information, and forbids it to disclose whether it applied the standard.",
+   "cite": [
+    "c-17da8ec825",
+    "c-e519791a79",
+    "c-db40f5aab8",
+    "c-08697ebeac"
+   ]
+  },
+  {
+   "text": "The best-known figure, about $21 trillion, is a compilation by Mark Skidmore and Catherine Austin Fitts of unsupported adjustments reported by Inspector General and GAO documents from FY1998 to FY2015. Its largest component comes from DODIG-2016-113, whose own footnote says its amounts are not cumulative.",
+   "cite": [
+    "c-e7a4ea7277",
+    "e-374b42a76a",
+    "c-24e60679af",
+    "c-f302580144"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "DODIG-2016-113, the Inspector General's audit of 26 July 2016, found that the Army's financial management office and DFAS Indianapolis did not adequately support $2.8 trillion in third-quarter and $6.5 trillion in year-end journal voucher adjustments to Army General Fund data for FY2015. Its footnote 2 says the amounts are not cumulative and should not be added together.",
+   "cite": [
+    "c-24e60679af",
+    "c-f302580144",
+    "c-39b2065e41",
+    "e-f251553a00"
+   ]
+  },
+  {
+   "text": "The journal voucher adjustment process at issue is governed by Volume 3, Chapter 6 of the DoD Financial Management Regulation, which also implements reprogramming, including below-threshold reprogramming that needs no approval or notification.",
+   "cite": [
+    "c-b67003e397",
+    "e-05230040b6"
+   ]
+  },
+  {
+   "text": "David Norquist, as the Department's Comptroller, wrote in the FY2018 Agency Financial Report that the Department had undergone its first full-scope audit and that its auditor, the Inspector General, had issued a disclaimer of opinion. The Inspector General has issued the opinion every year since, each time a disclaimer.",
+   "cite": [
+    "e-eb0a34f7e0",
+    "e-902d4727c0",
+    "e-bb2fb43c3b"
+   ]
+  },
+  {
+   "text": "The Inspector General's DOWIG-2026-081, published on 12 May 2026, summarises the FY2025 audit and names the organisations contributing most to each weakness: 26 material weaknesses, ten in management responsibility and asset accountability, six in information technology and ten in accounting, with adjustments in the last two quarters of FY2025 of more than $859 billion from the Army, Air Force, Navy and Defense Logistics Agency.",
+   "cite": [
+    "c-6070f27aaf",
+    "c-0f2ae724e8",
+    "c-601da71d07",
+    "e-bb2fb43c3b"
+   ]
+  },
+  {
+   "text": "Deputy Inspector General Brett Mansfield repeated the $859 billion figure to House Oversight on 13 May 2026, said the Department manages more than $4.7 trillion in assets, reported material weaknesses down from 28 to 26 and 427 fewer notices of findings, and announced that reporting entities would be consolidated from 22 to 7 in FY2027 and the group auditor role moved to an independent public accounting firm.",
+   "cite": [
+    "c-202c40f72a",
+    "c-cd39934a29",
+    "c-30d9b16898",
+    "c-ea4e357529",
+    "c-84189a36fe",
+    "e-004292d479",
+    "e-3309777289",
+    "e-d96ba23777"
+   ]
+  },
+  {
+   "text": "SFFAS 56 was issued by FASAB on 4 October 2018, effective for periods beginning after 30 September 2018, the first period after the Department's first full-scope audit. The Department of Defense had identified the need for it in August 2016, citing a conflict between generally accepted accounting principles and classification obligations under EO 13526.",
+   "cite": [
+    "c-17da8ec825",
+    "c-31d173dad0",
+    "c-e519791a79",
+    "e-3313b072bf",
+    "e-6cb045b811",
+    "e-0e13dd4af3"
+   ]
+  },
+  {
+   "text": "The standard lets a component entity be excluded from one reporting entity and consolidated into another, lets entities apply Board Interpretations allowing other modifications, and defines modification to include presenting amounts in another line item without narrative and omitting required disclosures that would reveal classified information. Entities must say modifications are permitted but may not say whether they applied the standard, and the government-wide report says only that modifications may have been made.",
+   "cite": [
+    "c-6f35bae9e1",
+    "c-81310e3356",
+    "c-db40f5aab8",
+    "c-045c16c70c",
+    "c-08697ebeac",
+    "c-f0d15f92e9"
+   ]
+  },
+  {
+   "text": "FASAB, which alone can amend the standard, has been chaired since April 2026 by Terry K. Patton, with R. Scott Bell, Eric S. Berman, Robert Dacey, Diane L. Dudley, Billy Morehead and David A. Vaudt as members.",
+   "cite": [
+    "c-e1c06e24ca",
+    "e-a2bd4aa2a7"
+   ]
+  },
+  {
+   "text": "GAO's 2025 High-Risk List keeps DoD financial management on it with status maintained, beside four other DoD entries including weapon systems acquisition, which regressed. GAO also found in 1995 that Roswell Army Air Field's outgoing messages for March 1945 to December 1949 had been destroyed with no destruction certificate.",
+   "cite": [
+    "c-2ce64ab317",
+    "e-ca07346f6e",
+    "c-294e766dd5"
+   ]
+  },
+  {
+   "text": "The same Inspector General's only UAP product, DODIG-2023-109, evaluated how the Department detected, reported and analysed UAP; the full report is classified and only an unclassified summary was released.",
+   "cite": [
+    "c-ece4f707f7",
+    "c-a8c5e356bf",
+    "e-c72cefbd12"
+   ]
+  },
+  {
+   "text": "Classified money moves through channels the audit sees only in aggregate: annex tables that are binding as if printed in the law, 25 rows titled CLASSIFIED PROGRAMS in DoD accounts, intra-account movements of annex amounts that count against neither transfer ceiling, and intelligence reprogramming measured against levels that exist only in the annex.",
+   "cite": [
+    "c-89f93fe8f3",
+    "e-b4a016d1a2",
+    "e-a3f5cbdc15",
+    "e-b5c0392d90",
+    "e-c0ad6e3ef2",
+    "e-f0d4ac776f"
+   ]
+  },
+  {
+   "text": "The official now responsible for executing the money is recorded as Michael Powers, Acting Under Secretary of War (Comptroller) and CFO from 20 May 2026.",
+   "cite": [
+    "c-36d9e64d81"
+   ]
+  },
+  {
+   "text": "House Oversight, which heard Mansfield in May 2026, is the committee before which David Grusch testified under oath on 26 July 2023; his written testimony there contains no discussion of funding mechanisms, budget lines or contractor finances, which he reserved for classified session.",
+   "cite": [
+    "e-91b9a55111",
+    "c-78d3626945",
+    "c-6c8bf1ccb8"
+   ]
+  },
+  {
+   "text": "Norquist, who signed the first disclaimer's report as Comptroller, later approved the establishment of the UAP Task Force on 4 August 2020.",
+   "cite": [
+    "c-9b244d5a36",
+    "e-eb0a34f7e0"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Mark Skidmore, a Michigan State economist, and Catherine Austin Fitts, a former HUD Assistant Secretary who founded Solari, compiled the unsupported adjustments published by Inspector General and GAO reports for FY1998 to FY2015 and arrived at roughly $21 trillion for DoD and $350 billion for HUD. They wrote that the public reports give only summary information, so a detailed assessment of the adjustments was impossible, and that data for some years could not be recovered.",
+   "cite": [
+    "c-e7a4ea7277",
+    "c-7ad3b85f4b",
+    "c-539082e0af",
+    "c-d725340dc3",
+    "c-7c9bffae9d",
+    "c-8c4ae44b55",
+    "c-c829e7fe13",
+    "e-2ce4ac6e0f",
+    "e-ada7c1a068"
+   ]
+  },
+  {
+   "text": "The figure reached a wider audience through three Forbes columns by Skidmore and the Boston University economist Laurence Kotlikoff, in December 2017, July 2018 and January 2019, and through Solari's Missing Money archive, which hosts the report and preserves links to Inspector General documents whose original addresses were disabled.",
+   "cite": [
+    "c-981042a3ed",
+    "c-d90fb036b1",
+    "c-afe4a3cbdf",
+    "c-fbfdaaad2b",
+    "e-66034eeda4",
+    "e-587347e0ce",
+    "e-6d6899acfb",
+    "e-d43ad879f6",
+    "c-1a1251d11c"
+   ]
+  },
+  {
+   "text": "David Grusch was quoted in June 2023 as saying people on the programmes told him of illegal contracting against the Federal Acquisition Regulations, and the Intelligence Community Inspector General is reported to have found his complaint credible and urgent.",
+   "cite": [
+    "c-33570aa664",
+    "c-bddf3d9130"
+   ]
+  },
+  {
+   "text": "The Department's own audit explainer, graded Tier 2 on the board, describes the universe of transactions and the Fund Balance with Treasury, an estimated $1 trillion, as standing material weaknesses. The board infers that without a complete transaction population no audit can prove that money did not reach an undisclosed activity.",
+   "cite": [
+    "c-f371367f17",
+    "c-5a29dfd873",
+    "c-ec6146b8e7",
+    "e-588b33de6e"
+   ]
+  },
+  {
+   "text": "On the board's reading, the unsupported adjustments sit mostly in the reprogramming layer that leaves no outside record, SFFAS 56 removes the last accounting obstacle to a statement that knowingly misplaces money, and the annex and the standard together close the loop between appropriation and reporting, though no document links them.",
+   "cite": [
+    "e-3dbc11c416",
+    "c-48563592e1",
+    "e-cc04e375ba"
+   ]
+  },
+  {
+   "text": "The board also infers that the 2027 consolidation and the move to a contracted group auditor reduce the granularity and government custody of the public audit record, that House Oversight has heard both the misappropriation allegation and the $859 billion admission without any member joining them, and that a classified UAP evaluation serves as assurance rather than evidence.",
+   "cite": [
+    "c-6a6f9c5e1b",
+    "c-5d8e0bb9ed",
+    "c-28dca8c57c"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The trillion-dollar figures are not amounts of missing money. The Inspector General's own footnote says its figures are not cumulative, and the board reads the $21 trillion total as double-counting by construction, since the same dollars are adjusted repeatedly and the $6.5 trillion Army figure would be many times the Army General Fund's own appropriation.",
+   "cite": [
+    "c-f302580144",
+    "c-827cf2e4b8",
+    "c-972f62aa7e"
+   ]
+  },
+  {
+   "text": "An unauditable ledger is not by itself evidence of a hidden programme: on the board's own reading, the inability to trace funds removes a way of detecting one without giving any positive sign of one.",
+   "cite": [
+    "c-d2baa88b49"
+   ]
+  },
+  {
+   "text": "SFFAS 56 did not create the ability to conceal spending, which long predates it at the appropriation and programme-element level, on the board's own account.",
+   "cite": [
+    "c-48563592e1"
+   ]
+  },
+  {
+   "text": "The audit trend is not all one way: material weaknesses fell from 28 to 26 and auditors issued 427 fewer notices of findings, and in FY2025 eleven of the twenty-two separately audited entities received clean opinions, on the Department's own figures.",
+   "cite": [
+    "c-30d9b16898",
+    "c-e18a5af635"
+   ]
+  },
+  {
+   "text": "The link between the audit failures and the UAP allegations is inferred, not documented: Grusch's public testimony gave no funding detail, and no source states that the 2023 research-cost bar was drafted in response to him.",
+   "cite": [
+    "c-6c8bf1ccb8",
+    "e-2c0ac19e10"
+   ]
+  },
+  {
+   "text": "The Comptroller's connection to the annex is also inference: no document names the incumbent in connection with it.",
+   "cite": [
+    "e-4b0133aa9e"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "dod-agencywide-audit",
+   "role": "programme"
+  },
+  {
+   "id": "dodig-2016-113",
+   "role": "document"
+  },
+  {
+   "id": "dowig-2026-081",
+   "role": "document"
+  },
+  {
+   "id": "dod-oig",
+   "role": "institution"
+  },
+  {
+   "id": "brett-mansfield",
+   "role": "official"
+  },
+  {
+   "id": "dow-financial-mgmt-hearing-2026",
+   "role": "event"
+  },
+  {
+   "id": "house-oversight-committee",
+   "role": "legislator"
+  },
+  {
+   "id": "david-norquist",
+   "role": "official"
+  },
+  {
+   "id": "sffas-56",
+   "role": "document"
+  },
+  {
+   "id": "fasab",
+   "role": "institution"
+  },
+  {
+   "id": "terry-patton",
+   "role": "official"
+  },
+  {
+   "id": "gao-high-risk-dod-fm",
+   "role": "document"
+  },
+  {
+   "id": "gao",
+   "role": "institution"
+  },
+  {
+   "id": "skidmore-fitts-report",
+   "role": "document"
+  },
+  {
+   "id": "mark-skidmore",
+   "role": "researcher"
+  },
+  {
+   "id": "catherine-austin-fitts",
+   "role": "researcher"
+  },
+  {
+   "id": "laurence-kotlikoff",
+   "role": "researcher"
+  },
+  {
+   "id": "michigan-state",
+   "role": "institution"
+  },
+  {
+   "id": "boston-university",
+   "role": "institution"
+  },
+  {
+   "id": "solari",
+   "role": "journalist"
+  },
+  {
+   "id": "reprogramming-dd1415",
+   "role": "document"
+  },
+  {
+   "id": "classified-annex",
+   "role": "document"
+  },
+  {
+   "id": "classified-programs-line",
+   "role": "document"
+  },
+  {
+   "id": "sec-8005-transfer",
+   "role": "law"
+  },
+  {
+   "id": "sec-1001-gta",
+   "role": "law"
+  },
+  {
+   "id": "sec-8084-nip-reprogramming",
+   "role": "law"
+  },
+  {
+   "id": "michael-powers-comptroller",
+   "role": "official"
+  },
+  {
+   "id": "irad-mechanism",
+   "role": "subject"
+  },
+  {
+   "id": "grusch-misappropriation-allegation",
+   "role": "event"
+  },
+  {
+   "id": "dod",
+   "role": "institution"
+  }
+ ],
+ "questions": [
+  "Has FASAB issued any Interpretation under paragraph 8(c) of SFFAS 56, and what further modifications would it allow?",
+  "Has any federal entity applied SFFAS 56, given that the standard forbids it to say so?",
+  "Has anyone obtained the journal voucher detail behind any of the Inspector General's summary figures?",
+  "Which accounting firm will become the Department's group auditor in FY2027, and who will hold the working papers?",
+  "Did the classified DODIG-2023-109 evaluation reach the special access programme enterprise at all?",
+  "Which of Catherine Austin Fitts's wider public claims, beyond the 2017 compilation, rest on any document?",
+  "When exactly did David Norquist serve as Comptroller and as Deputy Secretary of Defense?"
+ ],
+ "related": [
+  "black-budget",
+  "funding-channels",
+  "sap-reporting",
+  "carve-outs",
+  "grusch-allegations",
+  "classification-orders",
+  "roswell-1947",
+  "uaptf-odni-2021",
+  "denial-ledger"
  ]
 }

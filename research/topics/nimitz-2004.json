@@ -22,7 +22,343 @@
  ],
  "absorbs": [],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "The best-documented encounter on the board, with its witnesses and the FLIR1 video.",
- "appendixT": "nimitz-2004"
+ "appendixT": "nimitz-2004",
+ "lead": {
+  "text": "On 14 November 2004 aircrew from the VFA-41 squadron, vectored by the cruiser USS Princeton, intercepted an object off Baja California that the Navy's own range fouler report describes as solid white, smooth and about 46 feet long. The report records that the reporting stopped at 3rd Fleet, and the infrared video from that day was released by the Department of Defense in 2020 as still unidentified.",
+  "cite": [
+   "c-7a215a00a9",
+   "c-6362e43b4a",
+   "c-d598e54575",
+   "c-09b0aab384",
+   "e-d4bfb2b551",
+   "e-523fabda6a"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The encounter centres on USS Princeton, which by David Fravor's sworn account had been tracking objects on its Aegis system for about two weeks, and on the VFA-41 section it vectored onto a contact: a visual intercept flown by Fravor and Alex Dietrich, and a follow-on aircraft whose ATFLIR pod produced the FLIR1 video.",
+   "cite": [
+    "e-523fabda6a",
+    "e-d4bfb2b551"
+   ]
+  },
+  {
+   "text": "Inside the Navy the incident was formally documented in range fouler reporting, released under FOIA in January 2023, which shows that it was reported and then went no further than 3rd Fleet.",
+   "cite": [
+    "c-09d15d27fa",
+    "e-a6b2741ac6"
+   ]
+  },
+  {
+   "text": "It reached the public through the video: it leaked in 2007, the New York Times published it alongside the AATIP story on 16 December 2017, and the Department of Defense formally released it on 27 April 2020.",
+   "cite": [
+    "e-fb91856787",
+    "e-b02e9096ea"
+   ]
+  },
+  {
+   "text": "What happened to the rest of the sensor record is the open dispute: no Princeton radar or CEC data has appeared in any release, Princeton crewmen say recording media were taken, and Fravor testified that tapes were never taken.",
+   "cite": [
+    "e-74535c77a4",
+    "e-ab211e3da1",
+    "e-73d1ba7279"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "The Navy range fouler report on the incident describes the object as solid white and smooth with no edges, uniformly coloured with no nacelles, pylons or wings, and approximately 46 feet long, and it names Commander David Fravor and Lt. Cmdr. Alex Dietrich among the F/A-18 aircrew.",
+   "cite": [
+    "c-7a215a00a9",
+    "c-6deca28856",
+    "c-a11cbb8d85"
+   ]
+  },
+  {
+   "text": "The same report records that the pilots reported the incident through intelligence personnel, that the reporting terminated at 3rd Fleet, and that there was no process to share it.",
+   "cite": [
+    "c-6362e43b4a",
+    "c-0229767c6c"
+   ]
+  },
+  {
+   "text": "The report places the intercept approximately 30 miles off the coast of Baja California in the Pacific, and the board's sourced edge places the strike group working up in the W-291 warning area and the Baja approaches.",
+   "cite": [
+    "c-d598e54575",
+    "e-5f8cf9740d"
+   ]
+  },
+  {
+   "text": "It is one of 72 range fouler reports covering 2004 to 2021, previously classified Secret//FVEY and released through the Navy FOIA reading room in January 2023. The set contains no reports from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent of the released reports are from 2021.",
+   "cite": [
+    "c-08515bec47",
+    "c-e44f127505"
+   ]
+  },
+  {
+   "text": "On 27 April 2020 the Department of Defense authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, which had circulated after unauthorised disclosures in 2007 and 2017. It said it was releasing them to clear up public misconceptions about whether the circulating footage was real, made them available through the Naval Air Systems Command FOIA reading room, and stated that the phenomena in them remain characterised as unidentified.",
+   "cite": [
+    "c-2c02c3f0d8",
+    "c-8c364fa4f1",
+    "c-9588d8ad3a",
+    "e-5c89b52f4e"
+   ]
+  },
+  {
+   "text": "The New York Times published the November 2004 footage alongside its AATIP revelation on 16 December 2017.",
+   "cite": [
+    "e-b02e9096ea",
+    "e-fb91856787"
+   ]
+  },
+  {
+   "text": "The printed record of the 26 July 2023 House Oversight subcommittee hearing lists Fravor as a witness of record, filed with a written statement, Truth in Testimony form and biography, and records that the witnesses were sworn.",
+   "cite": [
+    "c-e3435c9e08",
+    "c-fde8773047",
+    "e-513670d490"
+   ]
+  },
+  {
+   "text": "The ODNI preliminary assessment opens its date range in November 2004, the month of the intercept, resolved only one of its 144 reports with high confidence, and names sociocultural stigma and sensor limitations as obstacles to collecting data.",
+   "cite": [
+    "e-c73193d0cb",
+    "c-0dcff29521"
+   ]
+  },
+  {
+   "text": "A Navy contract announcement describes the Raytheon-built ATFLIR pod as the Navy's primary targeting sensor on F/A-18 variants. No document states that this pod produced the November 2004 video; the board's link between them is inference from the aircraft type and the period.",
+   "cite": [
+    "e-bc73ec646e"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Fravor, in his sworn written statement to House Oversight, says he was commanding officer of VFA-41 and encountered a small white Tic Tac shaped object with no rotors, no rotor wash and no visible flight control surfaces. Asked under oath whether it was a 40-foot flying Tic Tac, he said that was correct and likened it to a giant flying propane tank.",
+   "cite": [
+    "c-a605d34de0",
+    "c-dafe8b11ea",
+    "e-4f30a6321e"
+   ]
+  },
+  {
+   "text": "Fravor testified that Princeton had been observing the objects on Aegis for the previous two weeks, descending from above 80,000 feet rapidly to 20,000 feet, that the squadron was airborne on a battle-group work-up, and that this was the first day manned aircraft were up while the tracks were held.",
+   "cite": [
+    "c-b26a6549fc",
+    "c-626b1da412",
+    "e-523fabda6a"
+   ]
+  },
+  {
+   "text": "Under oath Fravor gave the radar picture as he describes it: Princeton, Nimitz and the E2 tracked the object, his own fire control radars never picked it up, and the aircraft that took the video got it on radar but its lock was jammed and it switched to the targeting pod.",
+   "cite": [
+    "c-88a47e32c1"
+   ]
+  },
+  {
+   "text": "Fravor's written statement says the incident was never investigated, none of his crew were questioned and tapes were never taken. Michael Gold testified to Congress that Dietrich was mocked by her colleagues and that her incident went years without any investigation.",
+   "cite": [
+    "c-4d1e44e465",
+    "c-faa0f5bfd8",
+    "c-dab6356024",
+    "e-afdcf2d1b0"
+   ]
+  },
+  {
+   "text": "How the account reached investigators, in Fravor's sworn words: the case lay dormant until Jay Stratton contacted him in 2009 to investigate, Stratton being part of the Pentagon programme Fravor calls ATIP led by Lue Elizondo; an unofficial report later appeared on the internet; years later Dietrich contacted him to ask whether he had been contacted; then Elizondo contacted him.",
+   "cite": [
+    "c-25c886d614",
+    "c-3080230a51"
+   ]
+  },
+  {
+   "text": "Dietrich gave her first public account on CBS 60 Minutes on 16 May 2021; the network states she had never before spoken publicly about it. She said the object was unidentified, with no predictable movement or trajectory, and that she felt the vulnerability of having nothing to defend themselves with. The board ties her years of silence to the stigma the ODNI assessment described weeks later.",
+   "cite": [
+    "c-ddc396cd20",
+    "c-0b40ad5d16",
+    "e-8b2b7fe763"
+   ]
+  },
+  {
+   "text": "Fravor has said that the object was aware they were there and that it simply disappeared.",
+   "cite": [
+    "c-8158e45ac8"
+   ]
+  },
+  {
+   "text": "Three Princeton crewmen in different billets, Kevin Day, Gary Voorhis and Jason Turner, have said in public interviews since 2018 that unidentified personnel removed or ordered wiped the recording media for Princeton's tracks within roughly 48 hours. Voorhis says he was directed to hand over or wipe media and that unrecognised personnel were aboard collecting. The board carries the removal as Tier 3 inference: convergent accounts, but no primary record naming the personnel or the authority.",
+   "cite": [
+    "c-ea7b9c8680",
+    "c-439e6bb5ba",
+    "c-f76bf27268",
+    "e-6df1206402",
+    "e-06b6b97b02",
+    "e-6cb10296fa"
+   ]
+  },
+  {
+   "text": "Chad Underwood is widely reported as the weapons systems officer who acquired the object on ATFLIR on a follow-on sortie and produced the FLIR1 tape; the board holds this as inference, never disputed by the Navy or by Fravor but not anchored to a primary record.",
+   "cite": [
+    "c-da9969b8af",
+    "e-934b118721"
+   ]
+  },
+  {
+   "text": "Two later accounts are set beside the Nimitz case on the board. Watchstanders aboard USS Ronald Reagan say a sighting was torn out of the deck log on a senior officer's order. Senior Chief Alexandro Wiggins, in a written statement, says a tic-tac object emerged from the ocean and joined three others in Warning Area W-291 on 15 February 2023.",
+   "cite": [
+    "c-35f524b161",
+    "e-a750f13b93",
+    "c-8d21c196d3",
+    "e-9c209c896b"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The two sides of the custody story conflict directly: Fravor testified under his own name that tapes were never taken, while Day says media were removed from Princeton. The board records the conflict unresolved; it reconciles only if the collection was aimed at particular platforms.",
+   "cite": [
+    "e-ab211e3da1",
+    "c-f76bf27268"
+   ]
+  },
+  {
+   "text": "The removal account has no document behind it. It rests on Voorhis and Day, in different billets, describing the same 48-hour window, and no document, log entry or chain-of-custody form corroborating it has been located; the board grades the convergence as weight short of proof.",
+   "cite": [
+    "e-73d1ba7279",
+    "c-649918e4d5"
+   ]
+  },
+  {
+   "text": "The Navy's range fouler report shows the pilots did report the incident, through intelligence personnel; what Fravor's statement and the report agree on is that nothing followed, the report placing the stop at 3rd Fleet.",
+   "cite": [
+    "c-6362e43b4a",
+    "c-faa0f5bfd8"
+   ]
+  },
+  {
+   "text": "No official explanation of FLIR1 has been published: on the board's reading of AARO's product set, AARO issued rebuttals for GO FAST, Aguadilla and Mount Etna but never an assessment of FLIR1. Tim Gallaudet testified under oath on 13 November 2024 that AARO tried to have him question the Tic Tac report, suggesting it was possibly American technology, and that Fravor and Dietrich were convinced otherwise; the allegation about AARO's conduct is his word.",
+   "cite": [
+    "c-bd3aac8da8",
+    "c-01c6194133",
+    "c-ae35bedfc4"
+   ]
+  },
+  {
+   "text": "On the board's reading, the 2020 video release was damage control rather than disclosure: the Department confirmed authenticity of footage already in circulation and declined to characterise the objects.",
+   "cite": [
+    "c-86a7c84b9f"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "nimitz-2004",
+   "role": "subject"
+  },
+  {
+   "id": "david-fravor",
+   "role": "witness"
+  },
+  {
+   "id": "alex-dietrich",
+   "role": "witness"
+  },
+  {
+   "id": "kevin-day",
+   "role": "witness"
+  },
+  {
+   "id": "gary-voorhis",
+   "role": "witness"
+  },
+  {
+   "id": "jason-turner",
+   "role": "witness"
+  },
+  {
+   "id": "chad-underwood",
+   "role": "witness"
+  },
+  {
+   "id": "flir1-video",
+   "role": "document"
+  },
+  {
+   "id": "navy-range-fouler-reports",
+   "role": "document"
+  },
+  {
+   "id": "uss-princeton",
+   "role": "institution"
+  },
+  {
+   "id": "vfa-41",
+   "role": "institution"
+  },
+  {
+   "id": "us-navy",
+   "role": "institution"
+  },
+  {
+   "id": "l-socal-oparea",
+   "role": "place"
+  },
+  {
+   "id": "raytheon",
+   "role": "contractor"
+  },
+  {
+   "id": "odni-preliminary-assessment-2021",
+   "role": "document"
+  },
+  {
+   "id": "hearing-2023-07-26",
+   "role": "event"
+  },
+  {
+   "id": "nyt-2017-12-16",
+   "role": "event"
+  },
+  {
+   "id": "michael-gold",
+   "role": "investigator"
+  },
+  {
+   "id": "uss-reagan-2004",
+   "role": "event"
+  },
+  {
+   "id": "uss-jackson-2023",
+   "role": "event"
+  },
+  {
+   "id": "kidd-russell-2019",
+   "role": "event"
+  }
+ ],
+ "questions": [
+  "Who came aboard USS Princeton after 14 November 2004, if anyone did, under whose authority, and does any visit log, quarterdeck entry or message traffic record it?",
+  "Were Princeton's SPY-1B and CEC recordings for the period retained, destroyed on a routine cycle, or removed?",
+  "Did any collection reach the Nimitz ATFLIR tape library, which would reconcile Fravor's statement that tapes were never taken with the Princeton crew's accounts?",
+  "What was the chain of custody of the FLIR1 tape between November 2004 and its unauthorised appearance in 2007?",
+  "What was the unofficial report on the case that Fravor says came out and is now on the internet, and who wrote it?",
+  "Has AARO or any other office made an assessment of FLIR1 that has not been published?",
+  "The board's claims date the range fouler release to both 12 and 13 January 2023: which is the release date of record?",
+  "What were Jason Turner's rate, division and billet aboard Princeton?"
+ ],
+ "related": [
+  "nyt-2017",
+  "aatip-elizondo",
+  "hearing-2023",
+  "hearing-2024",
+  "uaptf-odni-2021",
+  "aaro",
+  "military-encounters-2019",
+  "roosevelt-2014-15",
+  "aviation-cases",
+  "testimony-provenance"
+ ]
 }

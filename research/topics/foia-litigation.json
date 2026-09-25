@@ -34,7 +34,524 @@
   "d-signals"
  ],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "Added: not in Appendix T. The CAUS v. NSA community (eleven nodes), the FOIA domain nodes and the civilian record-getters form a group of their own: how records were forced out, and what the agencies said in court.",
- "appendixT": null
+ "appendixT": null,
+ "lead": {
+  "text": "Almost every primary document in this field arrived through FOIA or archival release, most of it forced out by private requesters and litigants. This topic follows the requests and the lawsuits, from CAUS v. NSA, where a judge read the NSA's reasons for withholding its UFO records in secret and ruled for the agency, to the Black Vault's requests and the statutory and executive releases of 2025 and 2026.",
+  "cite": [
+   "e-98cb27a26b",
+   "c-a0636b3cac",
+   "e-cbcc74c6a8"
+  ]
+ },
+ "summary": [
+  {
+   "text": "Citizens Against UFO Secrecy sued the National Security Agency in Civil Action No. 80-1562. NSA withheld its UFO-related holdings in full on the strength of an in camera affidavit by Eugene Yeates, its Chief of Policy; the D.C. Circuit affirmed on 3 November 1981 and the Supreme Court denied certiorari on 8 March 1982.",
+   "cite": [
+    "c-effc1ef723",
+    "c-bedcf53744",
+    "c-6fa2e3cce0",
+    "e-cb1caae1f2"
+   ]
+  },
+  {
+   "text": "Other suits reached the courts with different results: CAUS against the Department of Defense went to the Ninth Circuit in 2001, the Cash-Landrum tort suit was dismissed in 1986, and in Kean v. NASA the court found in 2007 that NASA had not yet shown its search for Kecksburg records was adequate.",
+   "cite": [
+    "c-d07aaab5ed",
+    "c-787d65e5a7",
+    "c-734bdb982c"
+   ]
+  },
+  {
+   "text": "Most of the record came one request at a time. John Greenewald's Black Vault found the FAA's Japan Air Lines 1628 file seventeen years after being told it was destroyed, received the Halt memo and the 1975 Malmstrom records in 1997, and waited from December 2017 to August 2022 for eight pages on Luis Elizondo.",
+   "cite": [
+    "c-c6c924d1b0",
+    "c-45c8946570",
+    "c-71708680e4"
+   ]
+  },
+  {
+   "text": "Since 2024 two other channels run beside FOIA: the statutory UAP Records Collection at the National Archives created by sections 1841 to 1843 of the FY2024 NDAA, which replaces request-by-request extraction with an affirmative duty, and the executive PURSUE releases of 2026.",
+   "cite": [
+    "c-0158753005",
+    "e-73a2a3e2cf",
+    "e-3bda08c4ab"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "Yeates executed the affidavit as NSA's Chief of Policy for in camera review only; the plaintiffs never saw it. NSA's litigation position was that responsive UFO records existed but could not be disclosed, and the affidavit itself was later released only in redacted form.",
+   "cite": [
+    "e-2a56b4bfcf",
+    "c-e54b52158e",
+    "c-52c59af237",
+    "e-17f1e70b62"
+   ]
+  },
+  {
+   "text": "NSA released the underlying communications intelligence records with most pages carrying only a few visible words, redacted with white-out, and a Mandatory Declassification Review filed by Greenewald in 2013 was needed to obtain more.",
+   "cite": [
+    "c-c533a552eb",
+    "c-c15531ba41",
+    "e-99f80b90ec"
+   ]
+  },
+  {
+   "text": "The litigation became a federal record set in its own right: GAO's 1995 Roswell report lists National Security Agency, Fort Meade, FOIA records, Citizens Against UFO Secrecy among the holdings it searched. The same GAO report found that Roswell Army Air Field's outgoing messages for 1946 to 1949 had been destroyed with no disposition authority and no destruction certificate.",
+   "cite": [
+    "c-5e9ae85026",
+    "c-e3cab5cee0",
+    "c-1f01fa942c"
+   ]
+  },
+  {
+   "text": "NSA held UAP-relevant reporting as recently as 2021: it is named among the contributors to ODNI's June 2021 Preliminary Assessment, yet NARA's first statutory transfer in April 2025 named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. In August 2024 a senior NSA researcher, Jon Kosloski, was appointed to lead AARO.",
+   "cite": [
+    "c-303f197e76",
+    "e-41ac157fba",
+    "e-5b22bb965d",
+    "c-89d3f45984",
+    "e-209823571b"
+   ]
+  },
+  {
+   "text": "Kean v. NASA was filed on 9 December 2003 over a request for records on Kecksburg, the Fragology Files, Project Moon Dust and Cosmos 96. On 27 March 2007 the court recorded that NASA admitted its first two searches were inadequate and held it had not yet shown its search was adequate, granting NASA summary judgment only in part after reviewing its Exemption 5 withholdings in camera. A partial settlement followed in October 2007 and the case was dismissed in August 2009 on NASA's representation that it had met its obligations.",
+   "cite": [
+    "c-6d85344c46",
+    "c-40b1e9c2fe",
+    "c-734bdb982c",
+    "c-7c1188ffff",
+    "c-27b1ead4c1",
+    "c-f547c4232a",
+    "e-e1a409137f",
+    "e-52dfa0c314"
+   ]
+  },
+  {
+   "text": "State Department records on Project MOON DUST, officially described as recovering objects and debris from space vehicles that survived re-entry, have been released under FOIA.",
+   "cite": [
+    "c-11090d2b01",
+    "c-3fea956d6f"
+   ]
+  },
+  {
+   "text": "The FAA wrote to Greenewald on 27 June 2001 that all documents on the Japan Air Lines 1628 sighting would be destroyed in 30 days, and said in 2009 that they had been. The file was then found at the National Archives in Record Group 237: over 1,500 pages against the FAA's initial estimate of about 107.",
+   "cite": [
+    "c-4443600953",
+    "c-9c5fa4b924",
+    "c-e017d1a12b",
+    "e-fc29e7ebf3",
+    "e-1a96f85ad5"
+   ]
+  },
+  {
+   "text": "A 1996 request produced DIA's single responsive document on the 1976 Tehran F-4 intercepts, a Defense Attache report distributed to the Joint Staff, CIA, NSA and the White House among others. The report says the landing area was being checked for radiation; no result of that check is in the release, and DIA's search found nothing further.",
+   "cite": [
+    "c-16877ceb84",
+    "c-1b5efbcae0",
+    "c-9510292f4c",
+    "e-af45421874",
+    "e-92c9d0cb87"
+   ]
+  },
+  {
+   "text": "A 2001 request to Malmstrom produced excerpts of five 341st Strategic Missile Wing histories for 1967 and 1968, with the wing stating it had no audio or video tapes or documents of any personnel injured. A 1997 release under case 97-F-1677 produced the Halt memorandum on Rendlesham and the November 1975 Malmstrom records.",
+   "cite": [
+    "c-12cd743674",
+    "e-7680c03d87",
+    "c-45c8946570"
+   ]
+  },
+  {
+   "text": "FOIA case 18-F-0324, filed on 17 December 2017, received its final response on 17 August 2022: eight pages with privacy redactions. The Department's own reading room also released, as case 21-F-0938, Elizondo's correspondence with spokesperson Susan Gough.",
+   "cite": [
+    "c-68cd07baa9",
+    "e-0db20c6da4",
+    "c-918c394a1a",
+    "e-741e9c8db9"
+   ]
+  },
+  {
+   "text": "The Department's statements on Elizondo and AATIP were issued to a FOIA requester rather than from a podium: in June 2019 Gough confirmed a memo as authentic and said Elizondo had no assigned responsibilities for AATIP, and in December 2019 she said neither AATIP nor AAWSAP were UAP related.",
+   "cite": [
+    "c-128d118902",
+    "c-af41014f9e",
+    "e-cf5d21dbe0"
+   ]
+  },
+  {
+   "text": "The Inspector General's UAP evaluation, DODIG-2023-109, was released publicly only as an unclassified summary, in January 2024. In FOIA case DODIG-2021-000806 the fourth interim release of June 2026 was five pages, with about 245 still pending: the potential benefits section was withheld on national security grounds, two background sections marked Secret were blacked out, an October 2020 meeting with the UAP Task Force Director was withheld as deliberative, and methodology steps were classified Secret and releasable to Five Eyes.",
+   "cite": [
+    "c-dc5b564b5c",
+    "c-e9c4237487",
+    "c-79cbde141a",
+    "c-9f31f9809f",
+    "e-e84d8ea2bb"
+   ]
+  },
+  {
+   "text": "The agencies' standing UFO reading rooms are small and old. The CIA's holds 19 documents from the 1940s to the early 1990s, largely foreign-press cables and correspondence on public inquiries. The FBI's Vault collection is 16 parts covering 1947 to 1954, posted in 2010 and last modified in 2013, although the FBI appears as a contributor to the National Archives collection.",
+   "cite": [
+    "c-51c56ff025",
+    "c-c37236f18e",
+    "e-bce3600bac"
+   ]
+  },
+  {
+   "text": "The National Archives announced on 24 April 2025 UAP records transferred from ODNI, OSD, the FAA and the Nuclear Regulatory Commission under sections 1841 to 1843 of the FY2024 NDAA, organised as Record Group 615, with more to be added on a rolling basis.",
+   "cite": [
+    "c-40f2ebe135",
+    "c-fbd91d9ca4",
+    "c-aeba84a2bd",
+    "c-8011257b6d",
+    "e-2269b0b17b"
+   ]
+  },
+  {
+   "text": "The records statute is weaker than the bill that preceded it. The Senate-passed UAP Disclosure Act of 2023 included an independent Review Board and eminent domain over recovered technologies, modelled on the JFK Assassination Records Collection Act, whose Review Board could override agency withholding.",
+   "cite": [
+    "c-3521aa2e4a",
+    "c-6f95ce7b6e"
+   ]
+  },
+  {
+   "text": "PURSUE's first tranche, of 8 May 2026, carried 160 files; the war.gov portal lists Release 03 dated 12 June 2026; the fifth tranche, of 7 August 2026, carried 41 files.",
+   "cite": [
+    "e-3bda08c4ab",
+    "c-260dc2b70b",
+    "e-0777cea2aa",
+    "e-73efa12ec4"
+   ]
+  },
+  {
+   "text": "FOIA has also produced the AAWSAP contract file: DIA released the statement of work, contract modifications and the Defense Intelligence Reference Documents under case FOIA-00349-2018.",
+   "cite": [
+    "c-47aea4a8c4"
+   ]
+  },
+  {
+   "text": "The precedent for what one request can do comes from outside the UFO subject. The Senate said in 1977 that John Marks's FOIA request accomplished what two Senate committees could not, prompting the CIA to find MKULTRA finance files that Sidney Gottlieb's 1973 destruction had missed. AZORIAN's own history names FOIA matters among the litigation that forced the first official acknowledgements, and the Olson family's 2012 suit was dismissed without reaching the merits.",
+   "cite": [
+    "e-081b48d000",
+    "e-ecbd1ca66a",
+    "e-004efa6509",
+    "e-190fca4c68",
+    "e-c4eb4ebd60",
+    "e-96ed08c5d6"
+   ]
+  },
+  {
+   "text": "The Black Vault holds FBI FOIA releases on Bob Lazar's United Nuclear business and records a negative result: the FBI denies that its United Nuclear file contains records of the 2017 raid.",
+   "cite": [
+    "c-ec2444a1aa",
+    "c-ee41ef3e9d",
+    "e-249be19a29"
+   ]
+  },
+  {
+   "text": "Records litigation reaches beyond the United States: in a Brazilian federal appeal, the National Archive's own reply records six documents under the search term Operacao Prato and no audiovisual material, and a 2011 Chamber of Deputies request records that hundreds of photographs and hours of film were missing from the transfer.",
+   "cite": [
+    "c-1f56a21dae",
+    "c-2bf23a0357"
+   ]
+  },
+  {
+   "text": "The lawful inside channel is separate: the Intelligence Community Inspector General publishes a Disclosure of Urgent Concern form, and a UAP Whistleblower Protection Act was introduced in the House in 2025.",
+   "cite": [
+    "c-dbe48c40b5",
+    "c-1eaa9489b7"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "In the correspondence the Department released, Elizondo wrote to Gough in June 2020 that the truth, as everyone involved knows, is that he ran the programme, and that she had corrected her statement that AATIP was not UAP related but never corrected the statement about him. He also asserted that a DoD press secretary had verified his role in 2017.",
+   "cite": [
+    "c-8f8957d0f1",
+    "c-dc57ed3b7b",
+    "c-0f190eb969"
+   ]
+  },
+  {
+   "text": "David Grusch alleged, in a Judicial Watch interview on 5 May 2026, that elements of the government thwarted congressional oversight and illegally concealed recovery and reverse-engineering programmes.",
+   "cite": [
+    "c-63d7e61b92"
+   ]
+  },
+  {
+   "text": "On American Alchemy, Jesse Michels alleged that Gough's online profile shows a lead role in a psychological operations consulting practice for the Department.",
+   "cite": [
+    "c-d424a46df7"
+   ]
+  },
+  {
+   "text": "Secondary inventories report that the PURSUE tranches carried the FBI's master flying disc file for 1947 to 1968, 29 FBI files in Release 03 including a 2021 to 2025 orb corpus and a report of two FBI agents' own observation, a less-redacted Robertson Panel report, and a CIA report of an alleged 1963 recovery in Brazil later deemed unsubstantiated.",
+   "cite": [
+    "c-3d3e936e6d",
+    "c-6a782867ae",
+    "c-1bd0137457",
+    "c-fcd7cf4554",
+    "c-aa20c83b57"
+   ]
+  },
+  {
+   "text": "The board infers from the court's acceptance of the in camera showing that NSA held a body of UFO material whose very description was deemed to need classification, and reads the absence of NSA and other 2021 contributors from the first National Archives transfer as the most testable indicator it has.",
+   "cite": [
+    "c-58a885d5b9",
+    "c-f76b3388b5"
+   ]
+  },
+  {
+   "text": "On the board's reading, records held by contractors and federally funded research centres fall outside FOIA's definition of agency records, so moving material into contractor custody would remove it from the statute without any change in classification.",
+   "cite": [
+    "c-c356e51f8b"
+   ]
+  },
+  {
+   "text": "The board also reads the 2026 releases as a pattern: imagery released while the evaluation methodology is withheld, an FBI reading room that hid its modern collecting by omission, and Robertson Panel redactions that lasted seventy-three years and then fell to executive direction. It notes that neither PURSUE nor the National Archives channel publishes accounting that could be audited.",
+   "cite": [
+    "c-df1887e127",
+    "e-37c43f146f",
+    "c-6eb471e97a",
+    "c-fbdb6e2378",
+    "e-11516343fa"
+   ]
+  },
+  {
+   "text": "Christopher Sharp reported that the Senate Intelligence Committee's 2023 UAP language proposed an amnesty route for contractors holding non-earth origin or exotic materials.",
+   "cite": [
+    "c-cd5a378090"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The Malmstrom release cuts against the missile-shutdown accounts: the 1967 wing history says rumours of UFOs around Echo Flight were disproven, a strike team reported no unusual activity, the radar squadron gave a negative report, and no launch control officer is named anywhere in the release.",
+   "cite": [
+    "c-8891828649",
+    "c-780bf5415d",
+    "c-a04de020b0"
+   ]
+  },
+  {
+   "text": "The FAA's own conclusion on Japan Air Lines 1628 was that the second radar target was an uncorrelated primary and beacon return, not another aircraft, and it closed its investigation; the Black Vault itself notes that the best-known witness's account is unconfirmed by other sources.",
+   "cite": [
+    "c-2c722286fb",
+    "c-a403d0e80e",
+    "c-499c8b5e32"
+   ]
+  },
+  {
+   "text": "The Tehran report names no Iranian aircrew and says its information came from a source in conversation with a sub-source and one of the F-4 pilots.",
+   "cite": [
+    "c-415c3849a9"
+   ]
+  },
+  {
+   "text": "The Department's position has held and shifted at once. Gough said in May 2021 that the AATIP contract allowed research including UAP reports, partly revising her December 2019 statement, and in June 2023 the Department said AARO had not discovered verifiable information to substantiate claims of programmes possessing or reverse-engineering extraterrestrial materials.",
+   "cite": [
+    "c-a3ee21ee62",
+    "c-af41014f9e",
+    "c-45971da324",
+    "c-0abcdb22ce"
+   ]
+  },
+  {
+   "text": "A press claim met a wall of no-records answers: OSD found no record of the alleged Yankee Blue cessation memo, AFOSI found no investigative records tied to Yankee Blue, and the Pentagon spokesperson said she could not confirm any such memo.",
+   "cite": [
+    "c-9cec763ec3",
+    "c-83c29b1bf8",
+    "c-faa203fbc1"
+   ]
+  },
+  {
+   "text": "The MOON DUST numbers are commonly misread: the figures quoted as recoveries are notifications of Soviet and US objects deorbiting, which triggered tasking, not objects recovered.",
+   "cite": [
+    "c-96180ce2ed"
+   ]
+  },
+  {
+   "text": "Michels's allegation about Gough rests on his reading of a profile page; no employment record was opened.",
+   "cite": [
+    "c-d424a46df7"
+   ]
+  },
+  {
+   "text": "Where the government won, it won on the record: the courts sustained NSA's withholding, the Kean court granted NASA summary judgment in part, and that case ended on NASA's representation that it had met its obligations.",
+   "cite": [
+    "c-da01ac4f5c",
+    "c-27b1ead4c1",
+    "c-f547c4232a"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "john-greenewald",
+   "role": "investigator"
+  },
+  {
+   "id": "the-black-vault",
+   "role": "institution"
+  },
+  {
+   "id": "caus-v-nsa",
+   "role": "event"
+  },
+  {
+   "id": "yeates-affidavit",
+   "role": "document"
+  },
+  {
+   "id": "caus",
+   "role": "institution"
+  },
+  {
+   "id": "eugene-yeates",
+   "role": "official"
+  },
+  {
+   "id": "peter-gersten",
+   "role": "investigator"
+  },
+  {
+   "id": "nsa",
+   "role": "institution"
+  },
+  {
+   "id": "l-ft-meade",
+   "role": "place"
+  },
+  {
+   "id": "odni",
+   "role": "institution"
+  },
+  {
+   "id": "nara-uap-collection",
+   "role": "institution"
+  },
+  {
+   "id": "kean-v-nasa",
+   "role": "event"
+  },
+  {
+   "id": "leslie-kean",
+   "role": "journalist"
+  },
+  {
+   "id": "project-moon-dust",
+   "role": "programme"
+  },
+  {
+   "id": "foia-18-f-0324",
+   "role": "document"
+  },
+  {
+   "id": "foia-21-f-0938",
+   "role": "document"
+  },
+  {
+   "id": "dodig-2021-000806-foia",
+   "role": "document"
+  },
+  {
+   "id": "susan-gough",
+   "role": "official"
+  },
+  {
+   "id": "cia-readingroom-ufo",
+   "role": "document"
+  },
+  {
+   "id": "fbi-vault-ufo",
+   "role": "document"
+  },
+  {
+   "id": "judicial-watch",
+   "role": "institution"
+  },
+  {
+   "id": "jal-1628-1986",
+   "role": "event"
+  },
+  {
+   "id": "tehran-f4-intercept-1976",
+   "role": "event"
+  },
+  {
+   "id": "doc-341-smw-history-1967",
+   "role": "document"
+  },
+  {
+   "id": "pursue-releases",
+   "role": "programme"
+  },
+  {
+   "id": "pursue-release-01",
+   "role": "event"
+  },
+  {
+   "id": "pursue-release-03",
+   "role": "event"
+  },
+  {
+   "id": "pursue-release-05",
+   "role": "event"
+  },
+  {
+   "id": "john-marks-foia-f-76-374",
+   "role": "document"
+  },
+  {
+   "id": "mkultra",
+   "role": "programme"
+  },
+  {
+   "id": "sidney-gottlieb",
+   "role": "official"
+  },
+  {
+   "id": "frank-olson-death-1953",
+   "role": "event"
+  },
+  {
+   "id": "project-azorian",
+   "role": "programme"
+  },
+  {
+   "id": "bob-lazar",
+   "role": "witness"
+  },
+  {
+   "id": "operacao-prato",
+   "role": "programme"
+  }
+ ],
+ "questions": [
+  "What does the unredacted Yeates affidavit say about the NSA's UFO holdings?",
+  "Why did NSA and the other intelligence contributors to the 2021 assessment transfer nothing in the first statutory transfer to the National Archives?",
+  "What is in the roughly 245 pages still pending in the Inspector General FOIA case on the UAP evaluation?",
+  "Does the spring 2023 memo the Wall Street Journal described exist, given that OSD, AFOSI and the Pentagon spokesperson could find or confirm none?",
+  "Were the FAA's Japan Air Lines 1628 records ever actually destroyed, or were the 2001 and 2009 answers wrong about where they were?",
+  "Did the radiation check at the Tehran landing site produce any record?",
+  "Did NASA ever hold Kecksburg records at all, as one critic doubted, and what did the court-supervised searches find?",
+  "Why were many PDFs in the Department's released files password-protected?"
+ ],
+ "related": [
+  "records-collection",
+  "pursue-2026",
+  "cia-secrecy-precedents",
+  "classification-orders",
+  "aatip-elizondo",
+  "nuclear-missiles-1960s",
+  "rendlesham-1980",
+  "aviation-cases",
+  "brazil",
+  "lazar-s4",
+  "whistleblower-channels",
+  "uapda",
+  "robertson-cia-1953"
+ ]
 }

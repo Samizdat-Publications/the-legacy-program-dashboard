@@ -23,7 +23,419 @@
   "d-exotic"
  ],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "The 19 September propulsion pass found each document says less than is claimed for it.",
- "appendixT": "propulsion-claims"
+ "appendixT": "propulsion-claims",
+ "lead": {
+  "text": "Accounts of recovered or reverse-engineered craft lean on named physics: the Biefeld-Brown effect, Alcubierre's warp metric, magnetohydrodynamics, antigravity. NASA's own propulsion project ruled on several of these by name, and on the board's reading each document cited for a mechanism, once opened, says less than is claimed for it.",
+  "cite": [
+   "c-859ce408c8",
+   "c-8bda8ea947",
+   "c-d7ade2ebfb",
+   "c-e2b8df3ec4",
+   "c-5bfcd43634"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The board's organising finding for this strand is a stated inference over documents, not a claim about physics: Brown's patents never use the word gravity, Alcubierre's paper never uses the word device, King's patent never uses the word scalar, and DIA's antigravity survey never mentions Brown. It takes no position on whether exotic propulsion is possible.",
+   "cite": [
+    "c-5bfcd43634"
+   ]
+  },
+  {
+   "text": "Two government efforts looked at the same class of ideas. NASA's Breakthrough Propulsion Physics Project assessed them in public from 1996 to 2002, and DIA commissioned thirty-eight reference documents under AAWSAP, released only under FOIA; the board infers the contrast is one of transparency, not content.",
+   "cite": [
+    "c-f3c125654c",
+    "c-d5135cc003",
+    "c-8570083ba0"
+   ]
+  },
+  {
+   "text": "Those commissioned studies include DIRD 15 on vacuum spacetime metric engineering and DIRD 19 on antigravity for aerospace applications, and a Navy patent for a craft using an inertial mass reduction device sits in the same domain.",
+   "cite": [
+    "c-dd46d70b51",
+    "c-dd9907a1a6",
+    "e-e51342ce2c",
+    "e-d9cf01901c"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002 with three grand challenges: propulsion without propellant, hyper-fast travel and breakthrough power. Of 16 incremental research tasks, about a third were found not viable, a quarter had clear openings for sequels, and the rest remained unresolved. Marc Millis of NASA Glenn managed it.",
+   "cite": [
+    "c-f3c125654c",
+    "c-450d104e31",
+    "c-203975076f",
+    "e-1382ddfcca",
+    "e-5c7625eb62",
+    "c-b5d6d0ff37"
+   ]
+  },
+  {
+   "text": "Millis's 2004 summary rules that all rigorous tests attribute the thrust of Biefeld-Brown devices, lifters and asymmetrical capacitors to ion wind and that they are not viable candidates for breakthrough propulsion. On metric engineering it says such concepts need enormous quantities of negative energy and are extremely unlikely to be engineered, and records that the term's origin is unknown.",
+   "cite": [
+    "c-8bda8ea947",
+    "c-4382857e9f",
+    "c-a69b4a089b",
+    "c-06ec5a3c13",
+    "e-285a3bdd1b"
+   ]
+  },
+  {
+   "text": "The same memorandum treats high frequency gravitational waves as a detection problem, fifteen years before the Navy was granted a patent for a generator of them.",
+   "cite": [
+    "c-a3434ea538",
+    "e-b9e8ff5af0"
+   ]
+  },
+  {
+   "text": "NASA's contractor report on asymmetrical capacitor thrusters, whose reference list opens with Brown's two US patents and his British patent, found their operation fully explained by electrostatic forces and the transfer of momentum by multiple collisions. It quotes an Air Force-contract measurement that found no detectable propulsive force under high vacuum.",
+   "cite": [
+    "c-a1c5213d38",
+    "c-eb94409edc",
+    "e-918a4ea656",
+    "c-363ecab128",
+    "e-9cfb945495",
+    "e-a88b20add2"
+   ]
+  },
+  {
+   "text": "Alcubierre's 1994 paper states in its own abstract that exotic matter will be needed to generate the distortion it describes; the metric violates all three energy conditions, and the word device appears nowhere in it. His conclusion notes that quantum field theory permits negative energy densities in special cases such as the Casimir effect.",
+   "cite": [
+    "c-d7ade2ebfb",
+    "c-fd15e2461e",
+    "c-f077805cf8",
+    "c-6771c06391"
+   ]
+  },
+  {
+   "text": "US 3,322,374, filed in 1964 by James F. King, Jr., a private inventor at a home address, claims magnetohydrodynamic propulsion: a linear induction motor using the ionised atmosphere as its armature. It carries no assignee, no government interest and no secrecy order.",
+   "cite": [
+    "c-a37187f95b",
+    "c-d1765ef8ec",
+    "c-93c62dc61b"
+   ]
+  },
+  {
+   "text": "Magnetohydrodynamic ship propulsion was built in public: the Ship and Ocean Foundation's Yamato-1 became the first superconducting MHD-propelled ship on her trial runs in June 1992, reported by the project's principals at a 1994 conference.",
+   "cite": [
+    "c-39340618f9",
+    "c-4ec6656af8"
+   ]
+  },
+  {
+   "text": "DIA's own MHD reference document, attributed to Dr S. Macheret of Lockheed Martin, reviews plasma and MHD propulsion as attractive but beset by weight, complexity and power problems, and finds the well-publicised Ajax energy-bypass concept meaningless below at least Mach 12.",
+   "cite": [
+    "c-82250be3de",
+    "e-c7e57363d4",
+    "c-6a17635865",
+    "c-159e4b2f06",
+    "e-06a2247f75",
+    "e-3072445046"
+   ]
+  },
+  {
+   "text": "The antigravity DIRD, dated 30 March 2010 and attributed to Eric Davis, cites Alcubierre once and concludes that plausible mechanisms exist in theory but face daunting technical challenges.",
+   "cite": [
+    "c-dd1155eb89",
+    "e-81f714787a",
+    "e-871883d35f",
+    "c-16bf33609a",
+    "e-7d151e77c5"
+   ]
+  },
+  {
+   "text": "The warp drive DIRD of April 2010 builds on Alcubierre as its first reference, prints the negative energy its warp bubble would require in two tables, and describes control of higher dimensions as a possibility worth investigating, not a result. DIA's list names R. Obousy as author and EarthTech's own list gives Obousy and Davis.",
+   "cite": [
+    "c-bba2e08984",
+    "e-b84393e85b",
+    "c-3e2436b459",
+    "c-190742f607",
+    "c-4989ae3f82",
+    "e-63714edf5d"
+   ]
+  },
+  {
+   "text": "George Hathaway is the author of record of two DIRDs, one on superconductors in gravity research and one on maverick versus corporate inventors. Millis wrote Cockpits in the Era of Breakthrough Flight, and had co-edited Frontiers of Propulsion Science with Davis in 2009; Davis's vacuum-energy DIRD repeats an argument he and Puthoff published in that volume.",
+   "cite": [
+    "c-1bf6d51825",
+    "c-abc82c84f7",
+    "e-9037c18b0f",
+    "e-fedd3edc5c",
+    "c-a08b49faf3",
+    "e-7c47cf14a4",
+    "c-f6fee14ebf",
+    "c-6bbac82e3f",
+    "e-5f64f65cea",
+    "e-4ae4877705"
+   ]
+  },
+  {
+   "text": "The DIRDs are AAWSAP's contract deliverables, 26 from FY2009 and 12 from FY2010; the solicitation names Dr. James T. Lacatski as Government Project Leader.",
+   "cite": [
+    "e-00dc3b6ebb",
+    "c-e085ac1261",
+    "e-ed83fe1423",
+    "e-4b273e0410"
+   ]
+  },
+  {
+   "text": "Brown's 1947 vibration-damper patent was assigned to Lockheed Aircraft Corporation, and the Navy's inertial mass reduction patent cites Puthoff's polarizable-vacuum paper on its front page.",
+   "cite": [
+    "e-a3349f8440",
+    "e-43262f2737"
+   ]
+  },
+  {
+   "text": "The Institute of Field Physics attached a standing written disclaimer to its publicity that its work had no connection with anti-gravity research.",
+   "cite": [
+    "e-9302032cfa"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "The ARV account attributes its claimed lift effect to a Brown patent of the late 1950s or early 1960s, which on the board's record claims electrokinetic thrust in a dielectric medium, not levitation.",
+   "cite": [
+    "e-0b4aa2604c"
+   ]
+  },
+  {
+   "text": "King's 1967 patent was put forward in a discussion thread as ample evidence that a Scalar Physics callout on the ARV drawing refers to spin-zero particles.",
+   "cite": [
+    "e-fffece6570",
+    "c-fe53bb50b0"
+   ]
+  },
+  {
+   "text": "Hathaway is the board's only link to the Hutchison claim, and it runs through a person: his firm's page lists him as author of a book on the Hutchison files, and no peer-reviewed publication or primary record of a controlled demonstration was found.",
+   "cite": [
+    "c-a3ecaebbee",
+    "e-4541926bd7"
+   ]
+  },
+  {
+   "text": "James Lacatski states he personally entered a craft of unknown origin while working the programme, and that AAWSAP produced more than 100 detailed reports beyond the DIRDs.",
+   "cite": [
+    "c-d9ac9f7dd5",
+    "c-1fefbd7557"
+   ]
+  },
+  {
+   "text": "Daniel Sheehan said on the Danny Jones Podcast in February 2024 that Prompt Global Strike was an effort to use reverse-engineered craft propulsion for a two-minute missile strike.",
+   "cite": [
+    "c-04f88b0ddd"
+   ]
+  },
+  {
+   "text": "How the warp drive DIRD reached the public: it first appeared on a website operated by Corey Goode in December 2017, and Davis confirmed by email to a researcher that the circulating copy was genuine.",
+   "cite": [
+    "c-15b334c53a"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "NASA's finding on Biefeld-Brown is a finding about the effect and the devices, not about Brown's patents, which never claimed anti-gravity. An Army Research Laboratory study disagreed with NASA on the size of the ion-wind contribution, but neither invokes new physics.",
+   "cite": [
+    "e-9594c4bce3",
+    "c-52f57f85fb"
+   ]
+  },
+  {
+   "text": "King's patent does not support what was claimed for it: across seven pages the words scalar, spin, gravity, anti-gravity and zero point appear zero times. The board records this as a failed citation, not a dispute.",
+   "cite": [
+    "c-e2b8df3ec4",
+    "e-fffece6570"
+   ]
+  },
+  {
+   "text": "On the board's inference, Yamato-1 shows that the mechanism King claimed does not require a secret to exist; nothing joins the ship to the patent or to DIA's MHD survey.",
+   "cite": [
+    "c-227b7ce895",
+    "e-08b7e5fa8d",
+    "e-93873f5cbd"
+   ]
+  },
+  {
+   "text": "DIA's 45-page antigravity survey does not mention Brown at all. The board is explicit that this is not a finding that DIA considered and rejected him.",
+   "cite": [
+    "c-c757ecee42",
+    "e-0acb0a1280"
+   ]
+  },
+  {
+   "text": "Hathaway ran the Podkletnov rotating-superconductor experiment from 1996 to 2003 and reported null results, and DIA then commissioned the superconductor review from him. Neither his Maverick Inventor DIRD nor NASA's survey mentions the Hutchison effect.",
+   "cite": [
+    "c-d9d0bfeb7d",
+    "c-ca79a374f0",
+    "c-199d2f194c",
+    "c-79456524f0"
+   ]
+  },
+  {
+   "text": "The CRS record of Prompt Global Strike traces every booster to existing Trident II, Peacekeeper or Polaris stages, with a passive glide body as payload, contradicting the reverse-engineering account.",
+   "cite": [
+    "e-48194974bf",
+    "c-94a8e11b16",
+    "c-693e96acae",
+    "c-04f88b0ddd"
+   ]
+  },
+  {
+   "text": "Eric Davis said on a Jesse Michels episode that no ARV exists or has been built and that the rumours are myth.",
+   "cite": [
+    "e-c1325a6e0d"
+   ]
+  },
+  {
+   "text": "The attributions themselves are contested: the DIA list names Obousy, not Davis, for the warp drive paper, and the identification of the redacted AAWSA programme manager as Lacatski is not established by any primary document the board has reached.",
+   "cite": [
+    "c-5972eead09",
+    "c-e588d31a86"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "nasa-bpp",
+   "role": "programme"
+  },
+  {
+   "id": "nasa",
+   "role": "institution"
+  },
+  {
+   "id": "marc-millis",
+   "role": "researcher"
+  },
+  {
+   "id": "millis-tm-2004-213082",
+   "role": "document"
+  },
+  {
+   "id": "canning-nasa-cr-2004-213312",
+   "role": "document"
+  },
+  {
+   "id": "alcubierre-1994",
+   "role": "document"
+  },
+  {
+   "id": "king-patent-mhd",
+   "role": "document"
+  },
+  {
+   "id": "yamato-1",
+   "role": "programme"
+  },
+  {
+   "id": "thomas-townsend-brown",
+   "role": "researcher"
+  },
+  {
+   "id": "arv-fluxliner",
+   "role": "subject"
+  },
+  {
+   "id": "dird-series",
+   "role": "document"
+  },
+  {
+   "id": "aawsap",
+   "role": "programme"
+  },
+  {
+   "id": "james-lacatski",
+   "role": "official"
+  },
+  {
+   "id": "dird-antigravity-for-aerospace-applications",
+   "role": "document"
+  },
+  {
+   "id": "dird-warp-drive-dark-energy-and-the",
+   "role": "document"
+  },
+  {
+   "id": "dird-mhd-air-breathing-propulsion-and-power",
+   "role": "document"
+  },
+  {
+   "id": "dird-the-role-of-superconductors-in-gravity",
+   "role": "document"
+  },
+  {
+   "id": "dird-maverick-inventor-versus-corporate-inventor-where",
+   "role": "document"
+  },
+  {
+   "id": "dird-cockpits-in-the-era-of-breakthrough",
+   "role": "document"
+  },
+  {
+   "id": "dird-concepts-for-extracting-energy-from-the",
+   "role": "document"
+  },
+  {
+   "id": "eric-davis",
+   "role": "researcher"
+  },
+  {
+   "id": "harold-puthoff",
+   "role": "researcher"
+  },
+  {
+   "id": "george-hathaway",
+   "role": "researcher"
+  },
+  {
+   "id": "sergey-macheret",
+   "role": "contractor"
+  },
+  {
+   "id": "lockheed-martin",
+   "role": "contractor"
+  },
+  {
+   "id": "salvatore-pais",
+   "role": "researcher"
+  },
+  {
+   "id": "pais-patent-hfgw",
+   "role": "document"
+  },
+  {
+   "id": "pais-patent-imrd",
+   "role": "document"
+  },
+  {
+   "id": "conventional-prompt-global-strike",
+   "role": "programme"
+  },
+  {
+   "id": "institute-of-field-physics",
+   "role": "institution"
+  }
+ ],
+ "questions": [
+  "What did the three references behind NASA's ion-wind finding, including Talley's Air Force vacuum report, actually measure? None has been opened.",
+  "What were the sixteen tasks of NASA's Breakthrough Propulsion Physics Project, what did it cost and why did it close in 2002?",
+  "What speeds and thrust did Yamato-1 achieve at sea? The board carries no performance figure because the paper was not opened.",
+  "Was King's magnetohydrodynamic apparatus ever built?",
+  "Who is the redacted AAWSA programme manager on every released DIRD, and does a primary record name him?",
+  "Is there any peer-reviewed publication or controlled demonstration of the Hutchison effect?"
+ ],
+ "related": [
+  "navy-patents",
+  "gravity-research-1950s",
+  "arv-fluxliner",
+  "dirds",
+  "aawsap-baass",
+  "nasa-uap-study",
+  "skunk-works",
+  "tr-3b-fouche"
+ ]
 }

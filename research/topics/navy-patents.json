@@ -20,7 +20,361 @@
  ],
  "absorbs": [],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "The Patents pages already carry the file wrapper; no Pais edges to AATIP or any DIRD (do not undo). Thread patents.",
- "appendixT": "navy-patents"
+ "appendixT": "navy-patents",
+ "lead": {
+  "text": "Between 2015 and 2018 the Navy filed, as assignee, five patent applications by the NAWCAD engineer Salvatore Pais, from an electromagnetic field generator to a craft using an inertial mass reduction device. The file wrapper shows an examiner who called the craft's effect impossible, a formal appeal that won the grant, a Navy test that could not prove the effect, and both granted patents later lapsing for unpaid fees.",
+  "cite": [
+   "c-a0f58d8d29",
+   "c-fb7370e586",
+   "c-a2482ac60c",
+   "c-3f134f14ee",
+   "e-f2a7824a71",
+   "c-56fb7f23ac"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The five filings name Pais as inventor and the Secretary of the Navy as assignee: the electromagnetic field generator, the inertial mass reduction craft and the high frequency gravitational wave generator, which were granted, and a room-temperature superconductor and a plasma compression fusion device, which published as applications.",
+   "cite": [
+    "c-fb7370e586",
+    "c-967be2867a",
+    "c-d5d463b6da",
+    "c-00d9699447",
+    "c-11acfb83a8",
+    "c-14af0beb73",
+    "e-d916bdbc20",
+    "e-b9e8ff5af0",
+    "e-0211f9d1dd",
+    "e-0ab79628e4"
+   ]
+  },
+  {
+   "text": "The internal Navy briefing for the craft, Navy Case PAX 205, is more revealing than the patent because it was written for the officials deciding whether to fund the work.",
+   "cite": [
+    "c-8d8130857a",
+    "e-2bf2582793"
+   ]
+  },
+  {
+   "text": "The Invention Secrecy Act is the backdrop: it lets the government order any invention kept secret, so a propulsion patent that did issue is the control case against which an absence in the patent record is read.",
+   "cite": [
+    "c-b315ec417b",
+    "e-d9e17c4b73"
+   ]
+  },
+  {
+   "text": "The board pairs the Act with the CIA Act's unvouchered-funds provision as instruments of the same architecture, one hiding an invention and the other an expenditure; the pairing is the board's argument, not either statute's text.",
+   "cite": [
+    "e-11e122d142"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "US 10,144,532's printed front page gives the assignee as the United States as represented by the Secretary of the Navy, the attorney as Mark O. Glut of NAWCAD and the primary examiner as Philip J. Bonzell. Pais assigned both the craft application and the earlier field generator application to the Department of the Navy, the craft under docket PAX 205.",
+   "cite": [
+    "c-a0f58d8d29",
+    "c-b12198f917",
+    "e-b0456f2b24",
+    "c-c3cb51583f",
+    "c-1f6e134542"
+   ]
+  },
+  {
+   "text": "The PAX 205 briefing, six pages released under NAVAIR FOIA case 2021-003244, names Pais of NAWCAD, NAS Patuxent River, as author. It asserts that the device makes possible a hybrid aerospace and undersea craft with extreme aerial and underwater speeds and non-linear scattering of radar and sonar, enclosed in a vacuum plasma sheath.",
+   "cite": [
+    "c-8d8130857a",
+    "c-a4201d5a70",
+    "e-90d5a4103d",
+    "e-16ebae69c7",
+    "c-9b368b9f03",
+    "c-7f52552c6c"
+   ]
+  },
+  {
+   "text": "The same briefing states twice that the invention \"is a theoretical concept - no prototype in existence, as yet\", and proposes Section 219 funding of 250,000 USD for labour and 250,000 USD for facility cost to test it. It also claims the device could serve as an artificial gravitational wave generator.",
+   "cite": [
+    "c-dea9e5af37",
+    "c-b25431bf87",
+    "c-96c3f17a55",
+    "e-e85cdcada8"
+   ]
+  },
+  {
+   "text": "The patent and the briefing corroborate each other: the specification of US 10,144,532 carries the same sentence about moving through air, space and water in a vacuum plasma sheath that the briefing carries.",
+   "cite": [
+    "c-067ba6254f",
+    "e-2bf2582793"
+   ]
+  },
+  {
+   "text": "What the patent claims is narrow: an inner and an outer resonant cavity wall and microwave emitters whose high frequency waves make the outer wall vibrate and create a local polarized vacuum; four claims in all. Its drawings show a triangular and a diamond craft.",
+   "cite": [
+    "c-6ce9b92364",
+    "c-e23daeb173",
+    "c-aebf6489bc",
+    "c-1301891582"
+   ]
+  },
+  {
+   "text": "The application credits the mechanism to vacuum polarization as discussed by Harold Puthoff, and the printed patent cites Puthoff's Polarizable-Vacuum paper among its other publications. It also incorporates the field generator application by reference as the craft's preferred generator.",
+   "cite": [
+    "c-815c64eaf3",
+    "c-22421970b9",
+    "e-43262f2737",
+    "c-fc7769b7e6",
+    "c-16b0d5c705"
+   ]
+  },
+  {
+   "text": "The craft application was referred for security review at filing in May 2016 and cleared; no secrecy order issued.",
+   "cite": [
+    "c-c5abd8fb7e"
+   ]
+  },
+  {
+   "text": "The grant came through a formal appeal: non-final rejection November 2017, final rejection March 2018, a declaration by Dr James Sheehy, Notice of Appeal June 2018, Appeal Brief August 2018, Notice of Allowance 31 October 2018 and grant on 4 December 2018, allowed by the examiner before the appeal board ruled. The Navy argued burden of proof rather than evidence that the device worked.",
+   "cite": [
+    "c-3f134f14ee",
+    "c-63b0fec44b",
+    "c-fd553fdbe7",
+    "c-fc118a16f2"
+   ]
+  },
+  {
+   "text": "Sheehy's December 2017 letter records that NAWCAD was funding Pais to design a test article, one year into the project, with a battery-charged 10 cm sample spinning at up to 100,000 RPM.",
+   "cite": [
+    "c-3fe51a6589",
+    "c-c4a5cf535e"
+   ]
+  },
+  {
+   "text": "The field generator application, examined by a different examiner in a different art unit, drew one non-final rejection and was allowed because the prior art did not show the device; enablement was never raised.",
+   "cite": [
+    "c-3cb3c54669",
+    "c-c4b01f1230",
+    "c-e5fe7f80a8",
+    "c-d1e72c24e5"
+   ]
+  },
+  {
+   "text": "Both granted patents expired at the first maintenance fee: US 10,135,366 recorded on 26 December 2022 and US 10,144,532 on 9 January 2023. Patents assigned to a federal agency owe those fees on the ordinary schedule.",
+   "cite": [
+    "c-56fb7f23ac",
+    "c-854326f54d",
+    "c-3f8b004f6f",
+    "c-5e234aed54"
+   ]
+  },
+  {
+   "text": "The Invention Secrecy Act, approved 1 February 1952, reaches inventions in which the government has no property interest; an order runs one year and renews annually, and orders in force rose from 5,976 at the end of FY21 to 6,543 at the end of FY25.",
+   "cite": [
+    "c-f1d3089285",
+    "c-b315ec417b",
+    "c-7f0e66ba39",
+    "c-45719302b6"
+   ]
+  },
+  {
+   "text": "Four of the five observables attributed to Luis Elizondo appear as design goals in the PAX 205 briefing: trans-medium travel, hypersonic speed, low observability and lift. Sudden acceleration does not, and Elizondo's sworn written statement of November 2024 does not state the five at all.",
+   "cite": [
+    "c-7e67183956",
+    "c-dd203b1035",
+    "c-1ead60130d",
+    "e-ab522e8de8"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Rep. Eric Burlison said on American Alchemy in July 2026 that at Patuxent River he met Pais and was told one of the patents had been built and tested without a definitive result, that Pais said it was not built to his specifications, and that Dr. Jon Kosloski was present; Burlison believed it was the anti-gravitic one.",
+   "cite": [
+    "c-c1e274eb26"
+   ]
+  },
+  {
+   "text": "In the same episode it was Jesse Michels, not Burlison, who described interviewing a fearful Pais in a motel near Pax River and being stopped at a point in the science; the lead map had attributed this to Burlison.",
+   "cite": [
+    "c-967febe575"
+   ]
+  },
+  {
+   "text": "Reporting from unnamed sources says an exotic vehicle of unknown origin has been stored at Patuxent River for decades, and Elizondo claimed in written testimony that the base was among the sites prepared for a blocked Lockheed Martin to Bigelow transfer.",
+   "cite": [
+    "c-82b536eb00",
+    "c-1ed8c47f65",
+    "c-760a39cac1",
+    "e-68119aee15"
+   ]
+  },
+  {
+   "text": "The five observables themselves come from reporting and from To The Stars, not a government document: History's account attributes them to Elizondo's AATIP work, the company's page lists them without author or date, and the wording of the first differs between sources.",
+   "cite": [
+    "c-fba61217b0",
+    "c-2e0f6f2253",
+    "c-363065f09a",
+    "e-5ea45d9614",
+    "e-5e40ea3c29"
+   ]
+  },
+  {
+   "text": "The board infers that the PAX 205 capability list tracks the characteristics Navy aircrew reported in the same period more closely than any other federal patent document, and that this is better read as convergence on a shared description than as evidence either side knew of the other.",
+   "cite": [
+    "c-aab537f28f",
+    "c-8aa8c689a8"
+   ]
+  },
+  {
+   "text": "On the board's inference, Sheehy's letter argues timing and ownership rather than operability, and the fight for the grant followed by lapsed fees fits the Navy wanting the examiner's finding rather than the property right; the board records that routine cost control is an equally available reading.",
+   "cite": [
+    "c-38a175d9f4",
+    "c-532edb49c4",
+    "c-c425bef6ba"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The Navy's own test failed: NAWCAD's communications director said the High Energy Electromagnetic Field Generator was tested from October 2016 to September 2019 at a cost of $508,000 and that when testing ended the effect could not be proven.",
+   "cite": [
+    "e-f2a7824a71",
+    "c-fb470865de",
+    "c-a3d6992d1f",
+    "c-fc09d86e45"
+   ]
+  },
+  {
+   "text": "The examiner rejected the physics in terms: the fields required would be 10^9 teslas and 10^18 V/m, not feasible with current technology, and wrote that there is no such thing as a repulsive EM energy field. He refused peer review at conferences as proof of patentability and refused the China argument as having nothing to do with what is patentable.",
+   "cite": [
+    "c-49f09a860e",
+    "c-a2482ac60c",
+    "c-3f819cca8a",
+    "c-04bc88a6e2"
+   ]
+  },
+  {
+   "text": "The Sheehy intervention is not what secondary reporting describes: his letter opens by agreeing with the examiner that this mode of movement is beyond the state of the possible, at least at present. His later declaration rests on citation rather than test data, and two of the five papers it relies on are Pais's own conference papers.",
+   "cite": [
+    "c-472715514b",
+    "c-6162481fe0",
+    "c-23011a2d96"
+   ]
+  },
+  {
+   "text": "The examiner conceded that the math and physics were sound but held the claims were not enabled, and asked the applicant to demonstrate the effect; no demonstration appears in the file wrapper, yet the application was allowed.",
+   "cite": [
+    "c-a9a2479445",
+    "c-6a22939747",
+    "c-8475fefa4b"
+   ]
+  },
+  {
+   "text": "The strong reading, that the filings describe technology already understood from a recovered object, sits against the author's own internal statement that no prototype existed. The board infers that statement carries weight because it was made to his funding authority, while noting that classification would constrain what he could say about a concept's origin.",
+   "cite": [
+    "c-dea9e5af37",
+    "c-d0ee8345c2",
+    "c-ae3ffae619"
+   ]
+  },
+  {
+   "text": "NASA's 2004 breakthrough propulsion survey treated high frequency gravitational waves as a detection problem, fifteen years before the Navy was granted a patent for a generator; the board records the distance between the two documents, not a refutation.",
+   "cite": [
+    "c-a3434ea538",
+    "e-0765b03a3d"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "salvatore-pais",
+   "role": "researcher"
+  },
+  {
+   "id": "pais-patent-imrd",
+   "role": "document"
+  },
+  {
+   "id": "pax-205-disclosure",
+   "role": "document"
+  },
+  {
+   "id": "pais-patent-emfg",
+   "role": "document"
+  },
+  {
+   "id": "pais-patent-hfgw",
+   "role": "document"
+  },
+  {
+   "id": "pais-app-superconductor",
+   "role": "document"
+  },
+  {
+   "id": "pais-app-fusion",
+   "role": "document"
+  },
+  {
+   "id": "us-navy",
+   "role": "institution"
+  },
+  {
+   "id": "l-pax-river",
+   "role": "place"
+  },
+  {
+   "id": "invention-secrecy-act",
+   "role": "law"
+  },
+  {
+   "id": "usc-50-3510",
+   "role": "law"
+  },
+  {
+   "id": "five-observables",
+   "role": "document"
+  },
+  {
+   "id": "luis-elizondo",
+   "role": "claimant"
+  },
+  {
+   "id": "harold-puthoff",
+   "role": "researcher"
+  },
+  {
+   "id": "millis-tm-2004-213082",
+   "role": "document"
+  },
+  {
+   "id": "eric-burlison",
+   "role": "legislator"
+  },
+  {
+   "id": "jon-kosloski",
+   "role": "official"
+  },
+  {
+   "id": "jesse-michels",
+   "role": "journalist"
+  }
+ ],
+ "questions": [
+  "What does the examiner's Reasons for Allowance of 24 October 2018 say reversed a rejection he had sustained twice? The file wrapper on the board stops at the Appeal Brief.",
+  "Was anything filed between the examiner's July 2018 demand for a demonstration and the October 2018 allowance, or did he yield on the burden-of-proof argument?",
+  "Which Pais device was built and tested, and does the NAWCAD FOIA release behind the test result exist in a form the board can open?",
+  "Did Pais have any access to, or knowledge of, material from a recovery programme? Nothing released connects him to AATIP, AAWSAP or any DIRD.",
+  "Has Pais said publicly that the filings were speculative concepts, and would an active clearance constrain what he could say?",
+  "Where does Pais work now? Secondary reporting places him at Strategic Systems Programs, the Air Force and the Space Force, with no primary record."
+ ],
+ "related": [
+  "propulsion-claims",
+  "gravity-research-1950s",
+  "classification-orders",
+  "aatip-elizondo",
+  "military-encounters-2019",
+  "carve-outs",
+  "dirds"
+ ]
 }

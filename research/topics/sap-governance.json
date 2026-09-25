@@ -25,7 +25,482 @@
   "d-secrecy-architecture"
  ],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "SAPOC was established on 5 January 1994 with Deutch as chair (do not undo).",
- "appendixT": "sap-governance"
+ "appendixT": "sap-governance",
+ "lead": {
+  "text": "Inside the Department of Defense, special access programmes are governed by internal bodies under the Deputy Secretary of Defense: the Special Access Program Central Office, the SAP Oversight Committee, the Senior Review Group and the SAP Senior Working Group. The Oversight Committee was formed in early 1994, six years after GAO found that no office of the Secretary held a list of all the programmes.",
+  "cite": [
+   "c-a0f843e2b2",
+   "c-351e4fb62e",
+   "c-4bad42ffc3",
+   "c-b1348f6480",
+   "c-de2a76adb0",
+   "c-835365fdc4"
+  ]
+ },
+ "summary": [
+  {
+   "text": "In 1988 GAO reported that DoD did not adequately follow its own criteria for making a programme special access, that the definition was not clear inside the Department, that the official required to keep a list of all such programmes did not do so because of security concerns, and that only the three service secretaries and the Deputy Under Secretary for Policy could establish one.",
+   "cite": [
+    "c-73526a3692",
+    "c-835365fdc4",
+    "c-cb297fc745"
+   ]
+  },
+  {
+   "text": "On 5 January 1994, according to a Deputy Secretary's bulletin known only from a transcription, the Department formalised SAP approval, termination and revalidation through a SAP Oversight Committee chaired by Deputy Secretary John Deutch, supported by a Senior Review Group. A commission reporting to the Secretary of Defense and the Director of Central Intelligence in February 1994 called the committee a recent formation and supported it.",
+   "cite": [
+    "c-801ce6aaeb",
+    "c-04e1b13cce",
+    "c-de2a76adb0"
+   ]
+  },
+  {
+   "text": "Under the 2024 directive, DoD SAPCO works under the Deputy Secretary; its Director is Executive Secretary of the Oversight Committee and the Senior Review Group, chairs the Senior Working Group and is the primary point of contact for Congress. The Oversight Committee remains the senior governing body of the SAP enterprise.",
+   "cite": [
+    "c-3e8f621578",
+    "c-a85641b1b5",
+    "c-2cc7ffd8de"
+   ]
+  },
+  {
+   "text": "DoD Instruction 5205.11 sets out the whole chain, with a timeline for new programmes, an annual review of every waived programme and a check on the accuracy of the list sent to Congress.",
+   "cite": [
+    "e-baff3ef5cb",
+    "c-9144d83ac2",
+    "c-906dc47db3"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "GAO's 1988 report is the unclassified summary of a classified report sent to the defence committees on 1 April 1988, produced under section 1133 of Public Law 100-180. It also records that a 1983 review of Army special access programmes led to a central Army oversight office in September 1984.",
+   "cite": [
+    "c-cee85d9b58",
+    "c-925b4c639c",
+    "e-1cafa00599",
+    "e-97bccd3bf3"
+   ]
+  },
+  {
+   "text": "The 1994 commission reported that there were over one hundred DoD special access programmes, many with numerous compartments and subcompartments, that some of the most sensitive were waived or carved out from certain oversight and administrative requirements, and that each programme manager was free to set the programme's own security rules.",
+   "cite": [
+    "c-fa44e79b33",
+    "e-2f60ed6ae3"
+   ]
+  },
+  {
+   "text": "The 2010 directive established DoD SAPCO under the Deputy Secretary as the primary DoD liaison with the executive branch and Congress on all special access programmes, and said the SAP Oversight Committee was hereby established. It gave SAPCO's Director access approval authority for all programmes unless the Secretary or Deputy Secretary withheld it, and made the Director the coordination point for access by the White House, the NSC, political appointees and, for waived programmes, judicial personnel.",
+   "cite": [
+    "c-db2a0dfd40",
+    "c-4d1bd0cdc3",
+    "c-0038dadf12",
+    "e-414f10a49e",
+    "e-d006b2e958"
+   ]
+  },
+  {
+   "text": "The 12 September 2024 directive reissued and cancelled the 2010 one and incorporated the Deputy Secretary's SAP Enterprise Reform memorandum of 11 July 2023. SAPCO maintains the records of SAP information given to Congress, personnel must notify SAPCO before briefing members or staff, and no contractor may provide SAP material to Congress without the Director's approval.",
+   "cite": [
+    "c-26d2cda30e",
+    "c-3e8f621578",
+    "c-23dda2baed",
+    "e-67865993dd",
+    "e-0ac0889b58",
+    "e-85b46125e0"
+   ]
+  },
+  {
+   "text": "DoD Instruction 5205.11, effective 12 September 2024 and approved by Deputy Secretary Kathleen Hicks, lets the Secretary designate select unacknowledged programmes as waived where standard reporting to Congress would adversely affect national security, and defines acknowledged, unacknowledged and waived programmes.",
+   "cite": [
+    "c-a574d44ca1",
+    "c-c4f6e35b0b",
+    "c-018ed45bf9",
+    "e-6891d31193"
+   ]
+  },
+  {
+   "text": "Under the instruction the Oversight Committee is chaired by the Deputy Secretary with the acquisition Under Secretary as vice-chair and SAPCO's Director as executive secretary, and includes the other Under Secretaries, the Vice Chairman of the Joint Chiefs, the General Counsel and the service under secretaries and vice chiefs. It conducts an annual review and validation of the SAP reports sent to the defense and intelligence committees and reviews every waived programme each year to decide whether it stays waived.",
+   "cite": [
+    "c-22ceb980de",
+    "c-bc8ee81018",
+    "c-2ca09d2f5c",
+    "e-bd900046fa"
+   ]
+  },
+  {
+   "text": "The Senior Review Group is the principal working-level body, chaired by the Principal Deputy Under Secretary for acquisition with SAPCO's Director as vice-chair. It reviews proposals to establish or disestablish programmes, change their scope or remove them from special access controls, reviews all waived programmes annually, and ensures the accuracy of the list submitted to Congress; its unanimous recommendations may go directly to the Deputy Secretary.",
+   "cite": [
+    "c-4bad42ffc3",
+    "c-cf23cd1c79",
+    "c-291c220139",
+    "c-906dc47db3",
+    "e-9cf77b75e0",
+    "e-4621acfb67",
+    "e-5a5b3fe5e3"
+   ]
+  },
+  {
+   "text": "The SAP Senior Working Group, chaired by SAPCO's Director with the SAPCO directors of the Under Secretaries, the services, the Joint Staff, DARPA and the Missile Defense Agency, is the forum that coordinates and deconflicts special programmes and reviews a prospective programme within 14 days.",
+   "cite": [
+    "c-b1348f6480",
+    "c-b5c725961e",
+    "c-b083617cef",
+    "e-924a3f0aaa",
+    "c-17c434d555"
+   ]
+  },
+  {
+   "text": "A new programme's paperwork is due within 45 days of its creation, a package that asks for waiver of reporting must attach a justification, the Deputy Secretary decides by day 180, and the timeline ends at day 210 with the close of the 30-day period without Congressional decision. Every programme carries an unclassified nickname, which is what the annual report to Congress uses.",
+   "cite": [
+    "c-5624905102",
+    "c-7df53f436b",
+    "c-9144d83ac2",
+    "c-c233aa6ccb"
+   ]
+  },
+  {
+   "text": "Programmes are tiered into umbrellas, compartments and sub-compartments, and only the Secretary or Deputy Secretary may alter an umbrella. A mandatory polygraph for access must be approved by the Secretary of Defense.",
+   "cite": [
+    "c-c8c3b85b12",
+    "c-791e1d600a"
+   ]
+  },
+  {
+   "text": "The instruction's rules for Congress: DoD employees must notify the SAP control offices before briefing any accessed member or staff; members' personal staff get no access; members and staff outside the defense and intelligence committees can be given only non-waived programmes, through SAPCO; waived programmes are open only to the chair, ranking member, staff directors and one security manager; and GAO staff are admitted only after SAPCO consults the chairs and ranking members.",
+   "cite": [
+    "c-79deadfcaa",
+    "c-d4ef50f3c6",
+    "c-2c4cc10bb0",
+    "c-dbdbc7a823",
+    "e-aeaf681082"
+   ]
+  },
+  {
+   "text": "Each service runs its own office below SAPCO. For the Air Force it is SAF/AAZ, whose Director serves as Air Force SAPCO, accreditation authority for all SAP information systems and access approval authority for all Air Force programmes. The Air Force directive forbids any employee or company to brief SAP material to a member of Congress or staff without DoD SAPCO approval.",
+   "cite": [
+    "c-9143331ff1",
+    "c-c4ed3e7461",
+    "c-77cca805a5",
+    "e-40a47828ba",
+    "e-c2aa522a6a"
+   ]
+  },
+  {
+   "text": "There is more than one enterprise. AARO says it worked with the special access programme control offices for DoD, the intelligence community and DHS, and it was itself placed under the Under Secretary of Defense for Intelligence and Security until summer 2023.",
+   "cite": [
+    "c-b370486746",
+    "e-812ec48af1",
+    "e-1670773b6f",
+    "e-5ceeee48f0"
+   ]
+  },
+  {
+   "text": "The intelligence Under Secretary's office had its own UAP decisions: in November 2009 USD(I) James Clapper recommended against establishing a special access programme for the AAWSAP successor, and in 2021 that office was the first contributor named in ODNI's UAP assessment.",
+   "cite": [
+    "c-6ea53c64b3",
+    "e-3aca902dec"
+   ]
+  },
+  {
+   "text": "The same office handled the Elizondo dispute. His resignation letter gives his title as Director, National Programs Special Management Staff, effective 4 October 2017. In May 2019 his former superior Neill Tipton wrote that Elizondo had no assigned responsibilities for the programme, and the same email chain warned that the Department might be contradicting previous statements and must keep its messages in sync.",
+   "cite": [
+    "c-0c96e4918d",
+    "c-4286818359",
+    "c-549434bcb0",
+    "e-b46b67f432",
+    "e-6e9f689760",
+    "e-041904e17a"
+   ]
+  },
+  {
+   "text": "The Deputy Secretary who sits over all of this is Steve Feinberg, confirmed 59 to 40 on 14 March 2025. The NRO's acting director, William Adkins, previously led oversight of the NRO and other agencies on the House Appropriations defense subcommittee staff.",
+   "cite": [
+    "c-82082c8689",
+    "c-dfe70c4bd0",
+    "e-f754cfafd2",
+    "c-fdd0dd736b",
+    "e-eacf29aa11"
+   ]
+  },
+  {
+   "text": "At the September 2025 House hearing, Chairwoman Luna stated that non-committee members may view the relevant documents and videos only with the approval of the chair and ranking member of both the Armed Services Committee and its appropriations defense subcommittee.",
+   "cite": [
+    "c-1ac30f5fe1"
+   ]
+  },
+  {
+   "text": "The waived-programme channel is not the Gang of Eight. The Gang of Eight governs covert action findings under 50 U.S.C. 3093, which forces reconsideration of limited access within 180 days; the waived-SAP rule under 10 U.S.C. 119(e) has no such review, and DoD policy limits waived access to the chairs, ranking members and staff directors of the defense and intelligence committees.",
+   "cite": [
+    "c-190acd0a2a",
+    "c-4778246204",
+    "e-a7c0d8745e",
+    "e-c7d081dc1a"
+   ]
+  },
+  {
+   "text": "ISOO's access to special access programmes is conditional: EO 13526 affords it consistent with the policies and procedures directed by the President.",
+   "cite": [
+    "e-02efd63e7a"
+   ]
+  },
+  {
+   "text": "A declassified programme shows the compartmentation at work. The NRO's own history says the Manned Orbiting Laboratory was an open white programme with a highly classified black reconnaissance mission codenamed Dorian in the BYEMAN system; 13,187 contractor personnel were cleared on it when it ended in June 1969, and the NRO declassified almost all its Dorian records in October 2015.",
+   "cite": [
+    "c-e70e3a86a7",
+    "c-0ee5ad44a4",
+    "c-57c422baf7"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Members of Congress say the machinery shuts them out. Representative Nancy Mace said in September 2025 that only certain people know the name of the programme and that without it you cannot get the information, and Chairwoman Luna said the lack of cooperation from DoD and the intelligence community was a major barrier to the committee's inquiry.",
+   "cite": [
+    "c-b2e834c6bd",
+    "c-7ff5893738",
+    "e-a86e9ebd7b"
+   ]
+  },
+  {
+   "text": "David Grusch testified in July 2023 that he was denied access to programmes he had been directed to investigate, and that access denial itself was used to conceal them.",
+   "cite": [
+    "c-9da82f8115"
+   ]
+  },
+  {
+   "text": "Emails from September 2017, graded Tier 2 on the board, show Elizondo drafting a memo to help Tipton assume the new responsibilities for AATIP.",
+   "cite": [
+    "c-efb3d4f85f"
+   ]
+  },
+  {
+   "text": "UAP Gerb alleges that the portfolio exploits loopholes in White House and NSC programmes to run non-covert action programmes with full SAP security and waived reporting and budget requirements, which would make congressional ignorance lawful rather than the result of deception.",
+   "cite": [
+    "c-4ceadb9ef8",
+    "e-ede027794e"
+   ]
+  },
+  {
+   "text": "The board reads SAPCO as a closed loop: one office writes the review criteria, confirms carved-out facilities, is the single congressional liaison, approves contractor disclosures to Congress and controls external access to waived programmes, reporting to the official who signs the waivers. It also infers that because the Oversight Committee validates the congressional report, the Department's account of its programmes is produced entirely inside them.",
+   "cite": [
+    "c-220bbc2a45",
+    "c-1bef795008",
+    "c-a946b87240"
+   ]
+  },
+  {
+   "text": "On the board's reading, AARO's assurance of full access is unfalsifiable because the SAP offices that would hold a concealed programme decided what was pertinent; a programme in the intelligence community's enterprise would not appear in the DoD report at all; and the Deputy Secretary is the lowest official who could answer from position alone whether any waived programme relates to UAP.",
+   "cite": [
+    "c-d6102a1386",
+    "c-89e3241afd",
+    "c-a5920c18f1"
+   ]
+  },
+  {
+   "text": "The board also infers that a structural programme can be a codeword with no content of its own, that an annual list of nicknames shows members a word rather than a mission, that compartmentation predicts many partial witnesses and no complete one, and that the waived-programme regime has no forcing event for reconsideration.",
+   "cite": [
+    "c-81b2d1541b",
+    "c-dcd357a60c",
+    "c-1150f33928",
+    "c-d937d3bfad"
+   ]
+  },
+  {
+   "text": "The board reads DoD's denial of Elizondo's role as resting on press guidance rather than any producible charter or organisational chart for the period after 2010.",
+   "cite": [
+    "c-ded8b88a4c"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The records disagree on when the Oversight Committee began. The 2010 directive says it is hereby established, while the 1994 bulletin and the February 1994 commission report both describe it operating in 1994. The bulletin, known only as a transcription, gives a committee of five principals and an executive secretary, against the much larger membership of the later instruction.",
+   "cite": [
+    "c-4d1bd0cdc3",
+    "c-4ae369480c",
+    "c-f8c74e7a41",
+    "c-f7425cf07c",
+    "c-22ceb980de"
+   ]
+  },
+  {
+   "text": "The records disagree on how many members of Congress see a waived programme: one board summary of the directive says reporting is limited to eight named members, while the statute sends it to the chairman and ranking member of each defense committee and DoD policy adds staff directors and a security manager.",
+   "cite": [
+    "c-3fa79e31ef",
+    "c-190acd0a2a",
+    "c-2c4cc10bb0"
+   ]
+  },
+  {
+   "text": "The official position is that the machinery was searched: AARO states its investigators were granted full access to all pertinent sensitive government programmes through the SAP control offices.",
+   "cite": [
+    "c-8ef7bbf6ef"
+   ]
+  },
+  {
+   "text": "The Department's instruments also say oversight continues: waived programmes remain subject to congressional oversight and are reviewed every year, and the 1994 commission saw no need to modify existing reporting procedures.",
+   "cite": [
+    "e-b22909a990",
+    "c-283986b2a2",
+    "c-fa44e79b33"
+   ]
+  },
+  {
+   "text": "The records disagree on Elizondo's role: the Department states he had no assigned responsibilities for AATIP and Tipton's 2019 email says the same, while the 2017 emails graded Tier 2 show him preparing a handover of AATIP responsibilities.",
+   "cite": [
+    "c-8e70eb29fa",
+    "c-4286818359",
+    "c-efb3d4f85f"
+   ]
+  },
+  {
+   "text": "Gerb's layered model has no independent documentary corroboration; it rests on two of his own videos.",
+   "cite": [
+    "e-5a40d1833c"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "dod-sapco",
+   "role": "institution"
+  },
+  {
+   "id": "sapoc",
+   "role": "institution"
+  },
+  {
+   "id": "srg-dod",
+   "role": "institution"
+  },
+  {
+   "id": "sswg",
+   "role": "institution"
+  },
+  {
+   "id": "dod-sap-reform-1994",
+   "role": "event"
+  },
+  {
+   "id": "dodi-5205-11",
+   "role": "document"
+  },
+  {
+   "id": "dodd-5205-07-2010",
+   "role": "document"
+  },
+  {
+   "id": "dodd-5205-07-2024",
+   "role": "document"
+  },
+  {
+   "id": "gao-nsiad-88-152",
+   "role": "document"
+  },
+  {
+   "id": "gao",
+   "role": "institution"
+  },
+  {
+   "id": "ousdi",
+   "role": "institution"
+  },
+  {
+   "id": "ic-sapco",
+   "role": "institution"
+  },
+  {
+   "id": "saf-aaz",
+   "role": "institution"
+  },
+  {
+   "id": "aaro",
+   "role": "institution"
+  },
+  {
+   "id": "odni",
+   "role": "institution"
+  },
+  {
+   "id": "isoo",
+   "role": "institution"
+  },
+  {
+   "id": "dod",
+   "role": "institution"
+  },
+  {
+   "id": "us-house",
+   "role": "legislator"
+  },
+  {
+   "id": "waived-usap",
+   "role": "programme"
+  },
+  {
+   "id": "gang-of-eight",
+   "role": "legislator"
+  },
+  {
+   "id": "oversight-congress",
+   "role": "institution"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "role": "institution"
+  },
+  {
+   "id": "usc-10-119e",
+   "role": "law"
+  },
+  {
+   "id": "steve-feinberg",
+   "role": "official"
+  },
+  {
+   "id": "william-b-adkins",
+   "role": "official"
+  },
+  {
+   "id": "luis-elizondo",
+   "role": "official"
+  },
+  {
+   "id": "neill-tipton",
+   "role": "official"
+  },
+  {
+   "id": "manned-orbiting-laboratory",
+   "role": "programme"
+  },
+  {
+   "id": "manhattan-project-2",
+   "role": "subject"
+  }
+ ],
+ "questions": [
+  "What does the classified GAO report of 1 April 1988 say about how many special access programmes existed and who held them?",
+  "How many DoD special access programmes exist now, against the more than one hundred reported in 1994?",
+  "Has the Senior Review Group's check on the list sent to Congress ever found a waived programme missing from it?",
+  "Which programmes sit in the intelligence community's and DHS's control-office enterprises, and who oversees them?",
+  "What exactly did the November 2009 request for a special access programme for AAWSAP's successor propose, and why did Clapper oppose it?",
+  "What did the Deputy Secretary's SAP Enterprise Reform memorandum of July 2023 change?",
+  "Does the original 1994 Deputy Secretary bulletin on the Oversight Committee survive in any archive?"
+ ],
+ "related": [
+  "carve-outs",
+  "sap-reporting",
+  "sap-states",
+  "classification-orders",
+  "aatip-elizondo",
+  "aaro",
+  "black-budget",
+  "funding-channels",
+  "oversight-before-2017",
+  "house-push-2026",
+  "grusch-allegations",
+  "whistleblower-channels"
+ ]
 }

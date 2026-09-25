@@ -24,7 +24,518 @@
   "how-money-reaches-an-invisible-program",
   "the-named-mechanism"
  ],
- "status": "draft",
+ "status": "drafted",
  "notes": "The money thread runs through here.",
- "appendixT": "funding-channels"
+ "appendixT": "funding-channels",
+ "lead": {
+  "text": "Money reaches classified work through ordinary channels that are hard to follow from outside: authority to move funds after enactment, an administrative reprogramming layer, contractor research charged to the government as overhead, and contract vehicles. The one UAP programme whose money has been traced from a classified appropriation to a numbered contract is AAWSAP.",
+  "cite": [
+   "c-b50c0f271b",
+   "e-05230040b6",
+   "c-b25a8692aa",
+   "e-616b41aecf"
+  ]
+ },
+ "summary": [
+  {
+   "text": "Two standing authorities let the Secretary of Defense move money after Congress has appropriated it: section 8005 of the Appropriations Act, up to $6bn with OMB approval, and section 1001 of the authorisation Act, another $6bn on the Secretary's own national-interest determination. Both require only prompt notice of transfers already made.",
+   "cite": [
+    "c-10b27323c4",
+    "c-21326c3401",
+    "c-be1cebacbc",
+    "c-94398ba636"
+   ]
+  },
+  {
+   "text": "Beneath them sits the Department's reprogramming regulation, which includes below-threshold reprogramming needing no approval or notification, and movements among the lines of the classified annex tables inside one appropriation account count against neither transfer ceiling.",
+   "cite": [
+    "e-05230040b6",
+    "c-20e915f42c",
+    "c-48952e92f6"
+   ]
+  },
+  {
+   "text": "Independent research and development is contractor research reimbursed as an allowable indirect cost under DoD Instruction 3204.01. In the FY2024 NDAA and Intelligence Authorization Act, Congress barred UAP-related research of this kind from being charged that way unless disclosed to the committees and leadership.",
+   "cite": [
+    "c-b25a8692aa",
+    "c-067b35bd70",
+    "e-0db52c74ac"
+   ]
+  },
+  {
+   "text": "AAWSAP shows the whole path on paper: $22 million appropriated to DIA at Senator Reid's direction, a DIA solicitation that drew a single bid from Bigelow Aerospace Advanced Space Studies, and contract HHM402-08-C-0072 signed on 22 September 2008.",
+   "cite": [
+    "c-5c8bccc803",
+    "c-4e0bb8614c",
+    "c-f2a0b9e9e5",
+    "e-b88c5faf1b"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "Section 8005 of the FY2026 Defense Appropriations Act allows transfers of up to $6bn between appropriations with OMB approval, as the FY2024 Act did. Section 8006(b) says amounts in the explanatory-statement and classified-annex tables are not subdivisions of appropriations for section 8005, which therefore applies only to transfers between accounts.",
+   "cite": [
+    "c-10b27323c4",
+    "c-30cbcaae70",
+    "c-20e915f42c",
+    "e-b5c0392d90"
+   ]
+  },
+  {
+   "text": "Section 1001 of the FY2026 NDAA carries the same $6bn ceiling as the FY2025 Act, triggered by the Secretary's determination that a transfer is necessary in the national interest. Section 4001(c) says funding-table transfers or reprogrammings do not count against that ceiling unless they move money between appropriation accounts.",
+   "cite": [
+    "c-be1cebacbc",
+    "c-57c8dd60ba",
+    "c-48952e92f6",
+    "e-c0ad6e3ef2"
+   ]
+  },
+  {
+   "text": "The Department's Financial Management Regulation implements reprogramming and transfer actions, including below-threshold reprogramming that requires no approval or notification.",
+   "cite": [
+    "e-05230040b6"
+   ]
+  },
+  {
+   "text": "For intelligence money, section 8084(b) measures reprogramming against the levels specified in the classified annex, requires 30 days advance notice to the intelligence committees, and lets that period be reduced for urgent national security requirements. Section 8009 separately bars that Act's funds from starting or materially changing a special access programme without 30 days notice to the defense committees.",
+   "cite": [
+    "c-54c1bb5d80",
+    "c-515ead0f22",
+    "e-f0d4ac776f",
+    "c-c19ad93b66"
+   ]
+  },
+  {
+   "text": "The annex is where the programme detail lives: its tables are required by law to be carried out as if printed in the Act, while the public tables show rows titled CLASSIFIED PROGRAMS, 25 of them in FY2026 totalling $95.786bn requested. Intelligence money moves through two named channels, the National Intelligence Program and the Military Intelligence Program, each published only as a topline.",
+   "cite": [
+    "c-89f93fe8f3",
+    "e-43c27cf0b9",
+    "c-ab940c5c51",
+    "e-b4a016d1a2",
+    "e-e732a234e7",
+    "e-c27d92ff11"
+   ]
+  },
+  {
+   "text": "50 U.S.C. 3510 lets certain expenditures be accounted for on the agency head's certificate alone.",
+   "cite": [
+    "c-08dc49061d"
+   ]
+  },
+  {
+   "text": "The ledger cannot be audited end to end. The Inspector General found in 2016 that Army General Fund adjustments were not adequately documented or supported; the FY2025 audit found 26 material weaknesses, including unsupported accounting adjustments of more than $859bn in two quarters; and the Department has had a disclaimer of opinion every year since its first full-scope audit. SFFAS 56, which lets amounts be presented in a different line without explanation, took effect for the period after that first audit.",
+   "cite": [
+    "c-9ce090d6b5",
+    "c-0f2ae724e8",
+    "c-dd07057120",
+    "e-60a074ea5c",
+    "e-6cb045b811",
+    "c-a43f5bcbbf"
+   ]
+  },
+  {
+   "text": "The official responsible for executing the money is recorded as Michael Powers, Acting Under Secretary of War (Comptroller) and Chief Financial Officer from 20 May 2026.",
+   "cite": [
+    "c-36d9e64d81"
+   ]
+  },
+  {
+   "text": "Section 1687(b) of the FY2024 NDAA provides that, consistent with DoD Instruction 3204.01, UAP-related independent research and development shall not be an allowable indirect expense unless the material and information is made available to the committees and leadership; section 7343(c) of the Intelligence Authorization Act repeats it. The instruction covers major contractors, and none has publicly reported a disclosure under section 1687(b).",
+   "cite": [
+    "c-f1ff2030ef",
+    "c-067b35bd70",
+    "e-46bc16c648"
+   ]
+  },
+  {
+   "text": "Section 1687(a) bars that Act's funds from any UAP activity under special or restricted access unless the Secretary has given the details to the committees and leadership. It does not repeal the 10 U.S.C. 119(e) waiver, which can confine SAP cost reporting to the chairman and ranking member of each defense committee; it conditions the money instead.",
+   "cite": [
+    "c-e288e8bd43",
+    "e-d09af927d0",
+    "e-3702e0d376",
+    "c-3cd5d9469e",
+    "e-609fda187c"
+   ]
+  },
+  {
+   "text": "The Senate had tried to go further. Section 1102 of the Senate-passed intelligence bill required any current or former contractor holding UAP material from the government to notify the Director within 60 days and hand it over within 180 days, with a list of non-earth origin or exotic material. The enacted section 7343, carried in Division G of Public Law 118-31, contains only definitions, a funding limitation and the research-cost limitation.",
+   "cite": [
+    "c-2da5c112fe",
+    "c-9275bbe5cf",
+    "e-05db531f09",
+    "c-6e166510f8"
+   ]
+  },
+  {
+   "text": "AARO's history says that at the direction of Senate Majority Leader Harry Reid the Defense Appropriations Acts for FY2008 and FY2010 appropriated $22 million for DIA to assess long-term foreign advanced aerospace threats. DIA's own memo gives the pieces: a $10 million add in the FY2008 supplemental sponsored by Reid and Inouye, and a $12 million add in FY2010.",
+   "cite": [
+    "c-5c8bccc803",
+    "c-0e87b01a63",
+    "c-53194e6884",
+    "e-1e431e0251",
+    "e-f3730aceb2"
+   ]
+  },
+  {
+   "text": "DIA posted solicitation HHM402-08-R-0211 on 18 August 2008 as a total small business set-aside for one firm fixed price contract, received only one bid, from Bigelow Aerospace Advanced Space Studies, and signed the contract on 22 September 2008 with a $10 million base. An option year was exercised on 2 September 2009.",
+   "cite": [
+    "c-bbc007fbf9",
+    "c-4e0bb8614c",
+    "c-f2a0b9e9e5",
+    "c-13af230c78",
+    "e-91256df644",
+    "e-ae6fbc8444"
+   ]
+  },
+  {
+   "text": "The contract left little public trace. Its government personnel names are redacted under 10 U.S.C. 424, DIA withheld it in a 2011 FOIA response and released it only in 2022, and a federal procurement data query for its number returns an empty feed.",
+   "cite": [
+    "c-fef1e54ecd",
+    "c-cd9ea952f0",
+    "e-2d91026357"
+   ]
+  },
+  {
+   "text": "BAASS was registered as an entity distinct from Bigelow Aerospace, with its own DUNS and CAGE codes, to bid for and hold the contract. The Defense Security Service inspected its facility in December 2008, its key personnel were cleared to SCI level, and DIA said its FY2009 products were unclassified while four to six reports would be expanded with classified data in FY2010.",
+   "cite": [
+    "e-89af8634bf",
+    "c-f78cf6d206",
+    "c-1ac0f9c6e5",
+    "c-670e1052c6",
+    "e-4c4671ab5b"
+   ]
+  },
+  {
+   "text": "Much of the work reached DIA through a subcontract layer: the Defense Intelligence Reference Documents were written substantially by EarthTech and other subcontractors to the prime.",
+   "cite": [
+    "e-4050352af2"
+   ]
+  },
+  {
+   "text": "Reid asked the Deputy Secretary of Defense on 24 June 2009 to place the programme under Restricted Special Access Protection, and met DIA leadership on it at least four times. As Majority Leader he sat in the covert-action Gang of Eight, which is a different group from the waived-SAP recipients under 10 U.S.C. 119(e)(2).",
+   "cite": [
+    "c-961ee028e3",
+    "c-46e2032646",
+    "e-4355eb219d"
+   ]
+  },
+  {
+   "text": "The Senate Armed Services Committee learned the programme's product list by letter: DIA wrote to Senators McCain and Reed on 9 January 2018 listing 38 AATIP products, and described AATIP's purpose as investigating foreign advanced aerospace weapon threats out to 40 years.",
+   "cite": [
+    "c-186d26209b",
+    "c-82e9a28dc8"
+   ]
+  },
+  {
+   "text": "A different instrument moved no appropriated money at all. The Army's Ground Vehicle Systems Center signed a Cooperative Research and Development Agreement with To The Stars Academy on 10 October 2019 covering metamaterials and related research, with TTSA's contribution valued at about $1 million in kind; the Army later denied in full 29 emails of the correspondence, and AARO confirms the organisation negotiated an agreement with the Army in 2019 to analyse samples.",
+   "cite": [
+    "c-925dda206a",
+    "c-8ccc9f233c",
+    "c-4ded6c289b",
+    "c-4711e15514",
+    "c-5ce5670256"
+   ]
+  },
+  {
+   "text": "Other contracting forms carry less visibility by design: under FAR 35.017 an agency can meet long-term research needs through a sponsoring agreement with a single FFRDC operator such as MITRE, and EG&G served as classified services contractor at a Nevada location whose existence required a Presidential Determination to exempt it from disclosure. Lockheed Martin is the largest single recipient of DoD prime contract obligations.",
+   "cite": [
+    "e-753a4ecaa6",
+    "e-1a7f2e9c17",
+    "c-7589d37704",
+    "e-6860468a09"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "David Grusch was quoted in June 2023 as saying that people on the programmes told him of wrongdoing such as illegal contracting against the Federal Acquisition Regulations. The same report says his counsel filed an urgent-concern complaint with the Intelligence Community Inspector General in May 2022 and that the Inspector General found it credible and urgent; he later testified under oath on 26 July 2023.",
+   "cite": [
+    "c-33570aa664",
+    "c-a7877a98a7",
+    "c-bddf3d9130",
+    "c-78d3626945"
+   ]
+  },
+  {
+   "text": "George Knapp testified in 2025 that Bigelow and a colleague negotiated with senior Lockheed Martin executives to receive unusual material held in California, and named Lockheed as a holder that has lied about it; Luis Elizondo testified in 2024 that the transfer was blocked and a Secretary of the Air Force memorandum needed to complete it never issued.",
+   "cite": [
+    "c-b6d6789c8c",
+    "c-ac64874b83",
+    "c-43863cbfea"
+   ]
+  },
+  {
+   "text": "A 2021 newspaper account says Reid, Inouye and Stevens directed the $22 million into the classified budget in 2007, with Inouye's chairmanship letting it bypass floor debate; Reid has said Bigelow's interest prompted him to pursue the funding.",
+   "cite": [
+    "c-06d6fe6e26",
+    "c-b2cdd2d783",
+    "c-77f4c7301a",
+    "e-bf533eb81a",
+    "e-8a6969f493"
+   ]
+  },
+  {
+   "text": "The Army said no public funding went to TTSA and that any speculation about the materials' origin was immaterial to its interest; reporting puts the Army's support at no less than $750,000.",
+   "cite": [
+    "c-e50b8bbcfc",
+    "c-082fa1ed9d"
+   ]
+  },
+  {
+   "text": "On the board's reading, independent research and development is the instrument that best fits the alleged pattern of government-paid, contractor-directed, contractor-held work with no named appropriation line, and Grusch's phrase describes procurement rather than appropriation. The board also infers that it does not trigger the section 8009 notice.",
+   "cite": [
+    "c-2521b44fb4",
+    "c-ddd10ee462",
+    "e-c103bc5c27"
+   ]
+  },
+  {
+   "text": "The board infers that movements among annex lines inside one account escape both the ceiling and the notice, that the unsupported adjustments sit in the reprogramming layer that leaves no external record, and that an audit which cannot establish its own transaction population cannot prove no money reached an undisclosed activity.",
+   "cite": [
+    "c-afd0386a92",
+    "e-3dbc11c416",
+    "e-588b33de6e"
+   ]
+  },
+  {
+   "text": "The board reads the AAWSAP arrangement as a deliberate choice of the classified appropriation over an authorisation, which it says is why DIA had to introduce the programme to the Armed Services Committee by letter in 2018, and reads the solicitation as written around what BAASS alone could offer.",
+   "cite": [
+    "c-6634d12dc2",
+    "c-b4fba9f3ab",
+    "c-06922cd142",
+    "c-1b4f4acb9c"
+   ]
+  },
+  {
+   "text": "The board carries Raytheon, maker of the AN/APG-79 and ATFLIR families through which the military detects and images the objects at issue, as custodian of a withheld category of contractor-generated sensor data, while noting no source places it in any UAP contract vehicle.",
+   "cite": [
+    "e-da84ac3400"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The link between Grusch's allegation and the research-cost bar is the board's reasoning: no source states that section 1687(b) was drafted in response to him, and his written testimony contains no discussion of funding mechanisms, budget lines or contractor finances, which he reserved for classified session.",
+   "cite": [
+    "e-2c0ac19e10",
+    "c-6c8bf1ccb8"
+   ]
+  },
+  {
+   "text": "The companies named deny it: AARO's report states that executives and chief technology officers of the named companies denied the allegations to its Director on the record.",
+   "cite": [
+    "c-ae7352ec1d"
+   ]
+  },
+  {
+   "text": "AAWSAP itself ran on an ordinary route: a public solicitation, a competitive award and priced annual modifications, all later released. The Department's account is that the contractor did UFO research with the DIA programme manager's support even though UAP investigation was not in the statement of work.",
+   "cite": [
+    "c-c51e1eafc7",
+    "c-24ab23fda0",
+    "e-e508b3d69c"
+   ]
+  },
+  {
+   "text": "The records disagree on the programme's name: Reid's 2009 letter calls it the Advanced Aerospace Threat and Identification Program, a DIA memo the Advanced Aerospace Threat Identification Program, and the solicitation and contract the Advanced Aerospace Weapon System Applications Program.",
+   "cite": [
+    "c-961ee028e3",
+    "c-0e87b01a63",
+    "c-bbc007fbf9"
+   ]
+  },
+  {
+   "text": "The records disagree on how well the Senate turn-in text is known: one carried claim quotes the engrossed section 1102(d) verbatim, while another says the operative text has never been read verbatim and the key language rests on a secondary source about the reported bill.",
+   "cite": [
+    "c-2da5c112fe",
+    "c-c6d658b920"
+   ]
+  },
+  {
+   "text": "The Army agreement has produced no published technical output, characterisation of samples or statement of findings, on the board's reading, despite running its nominal term.",
+   "cite": [
+    "c-5169314eed"
+   ]
+  },
+  {
+   "text": "The obligation figures are unknown: the $10 million base against a $22 million appropriation implies about $12 million in option years, but that is the board's inference, since no obligation-by-year record has been released.",
+   "cite": [
+    "c-e7cb2abfc7"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "sec-8005-transfer",
+   "role": "law"
+  },
+  {
+   "id": "sec-1001-gta",
+   "role": "law"
+  },
+  {
+   "id": "sec-8084-nip-reprogramming",
+   "role": "law"
+  },
+  {
+   "id": "sec-8009-sap-notice",
+   "role": "law"
+  },
+  {
+   "id": "reprogramming-dd1415",
+   "role": "document"
+  },
+  {
+   "id": "irad-mechanism",
+   "role": "subject"
+  },
+  {
+   "id": "defense-appropriations-aawsap",
+   "role": "law"
+  },
+  {
+   "id": "classified-annex",
+   "role": "document"
+  },
+  {
+   "id": "classified-programs-line",
+   "role": "document"
+  },
+  {
+   "id": "nip",
+   "role": "programme"
+  },
+  {
+   "id": "mip",
+   "role": "programme"
+  },
+  {
+   "id": "dod-agencywide-audit",
+   "role": "programme"
+  },
+  {
+   "id": "sffas-56",
+   "role": "document"
+  },
+  {
+   "id": "michael-powers-comptroller",
+   "role": "official"
+  },
+  {
+   "id": "ndaa-fy2024",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2024-1687",
+   "role": "law"
+  },
+  {
+   "id": "iaa-2024",
+   "role": "law"
+  },
+  {
+   "id": "iaa-fy2024-sec-1102",
+   "role": "law"
+  },
+  {
+   "id": "usc-10-119",
+   "role": "law"
+  },
+  {
+   "id": "waived-usap",
+   "role": "programme"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "role": "institution"
+  },
+  {
+   "id": "aawsap",
+   "role": "programme"
+  },
+  {
+   "id": "aawsap-contract",
+   "role": "document"
+  },
+  {
+   "id": "dia",
+   "role": "institution"
+  },
+  {
+   "id": "dia-aatip-letter-2018",
+   "role": "document"
+  },
+  {
+   "id": "baass",
+   "role": "contractor"
+  },
+  {
+   "id": "robert-bigelow",
+   "role": "contractor"
+  },
+  {
+   "id": "earthtech-international",
+   "role": "contractor"
+  },
+  {
+   "id": "harry-reid",
+   "role": "legislator"
+  },
+  {
+   "id": "daniel-inouye",
+   "role": "legislator"
+  },
+  {
+   "id": "ted-stevens",
+   "role": "legislator"
+  },
+  {
+   "id": "grusch-misappropriation-allegation",
+   "role": "event"
+  },
+  {
+   "id": "lockheed-martin",
+   "role": "contractor"
+  },
+  {
+   "id": "ttsa-army-crada",
+   "role": "document"
+  },
+  {
+   "id": "mitre-corporation",
+   "role": "contractor"
+  },
+  {
+   "id": "eg-and-g",
+   "role": "contractor"
+  },
+  {
+   "id": "raytheon",
+   "role": "contractor"
+  }
+ ],
+ "questions": [
+  "Which appropriation account and bill language carried the $22 million for AAWSAP, and how much was obligated in each year of the contract?",
+  "Has any contractor covered by DoD Instruction 3204.01 made a disclosure under section 1687(b), and to whom?",
+  "What did the four to six AAWSAP reports expanded with classified data in FY2010 contain?",
+  "Was any material ever delivered to Bigelow Aerospace, and which California facility did George Knapp mean?",
+  "What did the Army's agreement with To The Stars Academy find about the samples, and why were the 29 emails withheld in full?",
+  "What did Grusch tell Congress in classified session about how the programmes he describes are paid for?",
+  "How much money moves each year through below-threshold and internal reprogramming, which leaves no record outside the Department?"
+ ],
+ "related": [
+  "black-budget",
+  "unauditable-ledger",
+  "aawsap-baass",
+  "aatip-elizondo",
+  "ttsa",
+  "grusch-allegations",
+  "named-contractors",
+  "carve-outs",
+  "sap-reporting",
+  "uap-statutes",
+  "ffrdc-probes",
+  "dirds",
+  "uapda"
+ ]
 }

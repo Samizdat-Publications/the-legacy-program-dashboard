@@ -17,7 +17,408 @@
  ],
  "absorbs": [],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "Start-here flag 7. Appendix T gave this topic d-contractor; its label is prime contractor custody, so it goes to the contractor topic instead.",
- "appendixT": "carve-outs"
+ "appendixT": "carve-outs",
+ "lead": {
+  "text": "A carve-out is a provision, approved only by the Secretary or Deputy Secretary of Defense, that relieves the Defense Counterintelligence and Security Agency of its industrial security oversight of a special access programme held at a contractor. Where one is signed, the outside inspection, the accreditation of the programme's computers and the counterintelligence cross-sharing all stop, and oversight reverts inside the programme's own chain.",
+  "cite": [
+   "c-7696eb3d6d",
+   "c-82696e28a1",
+   "c-0c0175893c",
+   "c-81330177af"
+  ]
+ },
+ "summary": [
+  {
+   "text": "Executive Order 12829 of 6 January 1993 established the National Industrial Security Program to safeguard classified information released to contractors. Its operative rule is now 32 CFR Part 117, and the Defense Counterintelligence and Security Agency, the successor to the Defense Security Service, is the Department's Cognizant Security Office that administers it.",
+   "cite": [
+    "c-eec4eeac64",
+    "c-5184b81044",
+    "c-a934954026",
+    "e-cdf8b6260f",
+    "e-6da78c671c"
+   ]
+  },
+  {
+   "text": "The carve-out is written into that rule at 32 CFR 117.6(b)(3), which ties it by name to DoD Directive 5205.07, and it is defined in the 2010 directive, in Volume 1 of the SAP Security Manual and in DoD Instruction 5205.11.",
+   "cite": [
+    "c-970b87d590",
+    "c-4b8517c46a",
+    "c-c98016e18e",
+    "c-599d697d59",
+    "e-180555b00b"
+   ]
+  },
+  {
+   "text": "The practice is older than the rule. GAO testified in 1986 that in 1965 the Department decided special access programmes would be excluded from supervision by the Defense Investigative Service, which is why special access contracts were called carve-out contracts.",
+   "cite": [
+    "c-8c72a404f4",
+    "c-0404bb4c01",
+    "e-4275be2d8b"
+   ]
+  },
+  {
+   "text": "The 2024 instruction states that DCSA oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision. The board reads this as turning the carve-out from an exception into the default, and says so as its own reading.",
+   "cite": [
+    "c-985c40f1fd",
+    "c-00dcac644e"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "Volume 1 of the SAP Security Manual lists what DSS, now DCSA, does unless a carve-out is approved: it performs SAP security inspections at cleared defense contractor locations, authorises classified contractor SAP information systems and guest systems, and coordinates counterintelligence cross-sharing of threat and incident information. A carve-out removes all three at once.",
+   "cite": [
+    "c-0c0175893c",
+    "c-aa306966f4",
+    "e-2952deb718"
+   ]
+  },
+  {
+   "text": "One function is not carved out. The same manual has DSS issue facility security clearances for defense contractors on all DoD classified contracts, including contractors performing on special access programmes.",
+   "cite": [
+    "c-a242fa3046",
+    "c-5454fd4cc4"
+   ]
+  },
+  {
+   "text": "Only two officials can sign one. The regulation conditions the carve-out on approval by the Secretary of Defense or the Deputy Secretary, and no delegation is provided for in the 2010 directive, the instruction or the manual. The request comes from the programme's own cognizant authority, whose substitute procedures must at a minimum meet the standards and frequency of the industrial security manual, and carve-out proposals are coordinated through DoD SAPCO to the Deputy Secretary for decision.",
+   "cite": [
+    "c-82696e28a1",
+    "c-55381ea35b",
+    "c-9d0c63ff07",
+    "c-dde0a32054"
+   ]
+  },
+  {
+   "text": "A carve-out leaves paper inside the Department. The SAP approval checklist asks for a contract strategy with a carve-out justification, every SAP record file must hold the written approval and the identity of the carved-out facilities, and DoD SAPCO must provide DSS confirmation of the facilities where DSS has been carved out.",
+   "cite": [
+    "e-136ae96711",
+    "c-30b945cefe",
+    "c-a9245d34b7",
+    "e-c6630de025"
+   ]
+  },
+  {
+   "text": "The instruction's unclassified sample action memo shows the mechanism in use. For a fictional programme called GREEN TREE, the memo states that the Defense Security Service will be carved out of its normal industrial security oversight, and recommends approval as an unacknowledged SAP with carve-out status and mandatory counterintelligence polygraphs.",
+   "cite": [
+    "c-218588ce4d",
+    "c-e00ba05798"
+   ]
+  },
+  {
+   "text": "The same instruction lets the Secretary of Defense designate select unacknowledged programmes as waived where standard reporting to Congress would adversely affect national security, and assigns the Senior Review Group an annual review of every waived programme.",
+   "cite": [
+    "c-c4f6e35b0b",
+    "e-6891d31193",
+    "e-5a5b3fe5e3"
+   ]
+  },
+  {
+   "text": "New programmes pass through a fixed internal sequence: the SAP Senior Working Group reviews a prospective programme by day 14, the Deputy Secretary decides by day 180, and the timeline ends at day 210 with the close of the 30-day period without Congressional decision. Unanimous Senior Review Group recommendations may go straight to the Deputy Secretary.",
+   "cite": [
+    "c-b083617cef",
+    "c-9144d83ac2",
+    "c-4bad42ffc3",
+    "e-9cf77b75e0",
+    "e-924a3f0aaa"
+   ]
+  },
+  {
+   "text": "DoD SAPCO sits at the centre. Under the 2024 directive it works under the Deputy Secretary of Defense, its Director is Executive Secretary of the SAP Oversight Committee and the Senior Review Group and chairs the Senior Working Group, and it maintains the records of SAP information given to Congress.",
+   "cite": [
+    "c-3e8f621578",
+    "c-a85641b1b5",
+    "c-a0f843e2b2"
+   ]
+  },
+  {
+   "text": "Contact with Congress runs through the same office: personnel must notify DoD SAPCO before briefing members or staff with SAP material, and no contractor may provide SAP material to Congress without the Director's approval.",
+   "cite": [
+    "c-23dda2baed",
+    "c-6df1e5a26e"
+   ]
+  },
+  {
+   "text": "Complaints are routed back inside. The manual requires fraud, waste, abuse and corruption reporting involving SAP information to go through SAP channels, forbids collateral channels, and has the programme security officer supply the hotline number.",
+   "cite": [
+    "c-7291bcb527",
+    "c-bc374d6360"
+   ]
+  },
+  {
+   "text": "The rule leaves the security requirements to the contract: under 32 CFR 117.23(d)(1), contractors implement the SAP security requirements set out in SAP-related policy when established by contract.",
+   "cite": [
+    "c-17b09ece88",
+    "c-c3e34a26ec"
+   ]
+  },
+  {
+   "text": "The manual also provides for things outside ordinary facilities: each cognizant SAPCO develops procedures for patents and intellectual property involving SAPs, and government identification cards are not to be used for identification in unacknowledged locations.",
+   "cite": [
+    "c-10c2e45e5c",
+    "e-45d3c17efb",
+    "c-8f96b4e208"
+   ]
+  },
+  {
+   "text": "GAO's 2004 audit of industrial security, GAO-04-332, found DoD could not provide adequate assurance that its oversight of more than 11,000 contractor facilities protected classified information. Its footnote 2 records that, as agreed with committee staff, the review did not include oversight of special access programmes at contractor facilities.",
+   "cite": [
+    "c-65681511bf",
+    "c-5d84160138",
+    "c-0d453dcf92",
+    "c-bd57da2dc6",
+    "e-384b6b43d6"
+   ]
+  },
+  {
+   "text": "GAO's 1986 testimony on a Lockheed special access programme recorded 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items, with 11 documents unresolved. GAO told the Secretary of Defense the failure might not have occurred had the Defense Investigative Service been allowed semiannual inspections, as it had for other contracts at Lockheed, and called it inconsistent to protect a special access programme less well than a normal one.",
+   "cite": [
+    "c-4f2e1a3219",
+    "c-c6c9783d1c",
+    "c-7661b20b92",
+    "c-f38164a34b",
+    "e-843215b95d",
+    "e-1b73641fef"
+   ]
+  },
+  {
+   "text": "The vocabulary moved in 2024. A full-text pass of the reissued DoD Directive 5205.07 finds no occurrence of carve-out, waived or unacknowledged, and 32 CFR 117.6(b) still cites the pre-2024 directive, while DoD Instruction 5205.11 keeps the definitions.",
+   "cite": [
+    "c-4c66270a4f",
+    "c-db2aa89ceb",
+    "e-b22909a990",
+    "e-a47bf0a5fe"
+   ]
+  },
+  {
+   "text": "The intelligence side has its own fence. Since December 2024, 50 U.S.C. 3091a(b)(2)(A) bars an intelligence element head from moving a capability out of a controlled access programme into a special access programme until notice is given to the committees and leadership, with exceptions for an urgent counterintelligence issue or an organisational restructuring. The statute has no waiver, and it defines a controlled access programme by reference to ICD 906.",
+   "cite": [
+    "c-255631b086",
+    "c-9b58073b84",
+    "c-64e902eed3",
+    "e-7ad5dac79d",
+    "e-a5ff13b3f8",
+    "e-589cb86158"
+   ]
+  },
+  {
+   "text": "Volume 1 of the manual was recovered in full only from Internet Archive captures; its paths on the live issuances site return 404.",
+   "cite": [
+    "c-9c03ae0e10"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives a deal under which BAASS would receive unusual material stored at a facility in California. Asked to name corporations holding such material, he named Lockheed and said they have lied about it.",
+   "cite": [
+    "c-b6d6789c8c",
+    "c-ac64874b83"
+   ]
+  },
+  {
+   "text": "Luis Elizondo testified on 13 November 2024 that the reported Lockheed Martin to Bigelow Aerospace transfer was blocked, and that a memorandum from the Secretary of the Air Force needed to complete it never issued.",
+   "cite": [
+    "c-43863cbfea"
+   ]
+  },
+  {
+   "text": "On the board's reading, a carved-out contractor programme is the smallest documented arrangement in which a private company can hold classified material with no inspection by anyone outside the programme, no external accreditation of its computers and no independent counterintelligence line, and the only recurring inspection left is by a security officer appointed from inside the SAP structure.",
+   "cite": [
+    "c-7971508fd2",
+    "c-3ec3c87861"
+   ]
+  },
+  {
+   "text": "The board infers that because GAO-04-332 found oversight wanting even where DSS did inspect, its finding is a floor for carved-out sites, which GAO could not sample; and that no public audit exists of the inspection regime for contractor SAPs at all.",
+   "cite": [
+    "c-d1fd465816",
+    "c-ed675dd4b0"
+   ]
+  },
+  {
+   "text": "The board reads DoD SAPCO as a closed loop: one office writes the review criteria, confirms which facilities are carved out, is the single point of congressional liaison and approves any contractor's disclosure to Congress, reporting to the official who signs the waivers.",
+   "cite": [
+    "c-220bbc2a45",
+    "c-1bef795008"
+   ]
+  },
+  {
+   "text": "The board also infers that the SAP-channel rule for complaints is why an insider allegation about a programme cannot travel through the ordinary hotline, that the contract-based security rules are unpublishable without the contract, and that the 2024 bar on moving capabilities from intelligence compartments into special access programmes only makes sense as a response to a practice feared or believed to exist.",
+   "cite": [
+    "c-dd08634ced",
+    "c-54dbf881c0",
+    "c-13d328740b"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The Department had stated reasons for keeping inspectors out. GAO recommended better oversight of carve-out contracts in 1983 and DoD refused, saying among other things that access by service inspectors would proliferate access beyond the minimum number of people necessary; the 1965 exclusion rested on the programmes' especially sensitive nature and small number. The 1983 report itself was not opened.",
+   "cite": [
+    "c-42b4326452",
+    "c-8c72a404f4"
+   ]
+  },
+  {
+   "text": "The Lockheed losses are often overstated. On GAO's figures the unaccounted-for total was 11 documents, not 17 or 46, and those were Lockheed's own reported results, which GAO had not yet verified.",
+   "cite": [
+    "c-c6c9783d1c"
+   ]
+  },
+  {
+   "text": "The companies deny the custody allegations. AARO's report states that executives and chief technology officers of the named companies denied the allegations to its Director on the record.",
+   "cite": [
+    "c-ae7352ec1d"
+   ]
+  },
+  {
+   "text": "AARO states that its investigators were granted full access to all pertinent sensitive government programmes, working with the SAP control offices of DoD, the intelligence community and DHS. The board's answer, that the SAPCO enterprise set what counted as pertinent, is its own inference.",
+   "cite": [
+    "c-8ef7bbf6ef",
+    "c-d6102a1386"
+   ]
+  },
+  {
+   "text": "A carve-out does not end all oversight. Substitute procedures must meet the industrial security manual's standards and frequency, the facility still holds a DCSA-issued clearance and so still exists in DCSA's records, and the instruction states that waived programmes remain subject to congressional oversight and are reviewed each year.",
+   "cite": [
+    "c-9d0c63ff07",
+    "c-a242fa3046",
+    "c-21005a5a12",
+    "e-b22909a990"
+   ]
+  },
+  {
+   "text": "The records disagree on which document now governs the carve-out. The regulation still conditions it on DoDD 5205.07, but the 2024 reissue of that directive no longer defines carve-out; the definition survives only in the 2024 instruction.",
+   "cite": [
+    "e-7c52bb59b4",
+    "c-db2aa89ceb",
+    "c-7696eb3d6d"
+   ]
+  },
+  {
+   "text": "The records disagree on when the SAP Oversight Committee began. The 2010 directive says it is hereby established, while a 1994 Deputy Secretary bulletin, known only from a transcription, and the Joint Security Commission's report of February 1994 both record its formation in 1994.",
+   "cite": [
+    "e-d006b2e958",
+    "c-4ae369480c",
+    "c-f8c74e7a41"
+   ]
+  },
+  {
+   "text": "The 2029 phase-out reading is conditional: the board's own entry says that if it is accurate, no independent DoD agency will hold a routine inspection right at SAP contractor facilities after that date.",
+   "cite": [
+    "c-00dcac644e"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "carve-out",
+   "role": "subject"
+  },
+  {
+   "id": "dcsa-nisp",
+   "role": "institution"
+  },
+  {
+   "id": "eo-12829",
+   "role": "law"
+  },
+  {
+   "id": "cfr-32-117",
+   "role": "law"
+  },
+  {
+   "id": "gao-04-332",
+   "role": "document"
+  },
+  {
+   "id": "defense-investigative-service",
+   "role": "institution"
+  },
+  {
+   "id": "gao-130581",
+   "role": "document"
+  },
+  {
+   "id": "lockheed-martin",
+   "role": "contractor"
+  },
+  {
+   "id": "dodm-5205-07-series",
+   "role": "document"
+  },
+  {
+   "id": "dodm-5205-07-v1",
+   "role": "document"
+  },
+  {
+   "id": "dodi-5205-11",
+   "role": "document"
+  },
+  {
+   "id": "dodd-5205-07-2010",
+   "role": "document"
+  },
+  {
+   "id": "dodd-5205-07-2024",
+   "role": "document"
+  },
+  {
+   "id": "dod-sapco",
+   "role": "institution"
+  },
+  {
+   "id": "sapoc",
+   "role": "institution"
+  },
+  {
+   "id": "srg-dod",
+   "role": "institution"
+  },
+  {
+   "id": "sswg",
+   "role": "institution"
+  },
+  {
+   "id": "waived-usap",
+   "role": "programme"
+  },
+  {
+   "id": "usc-50-3091a",
+   "role": "law"
+  },
+  {
+   "id": "usc-50-3091a-2024amend",
+   "role": "law"
+  },
+  {
+   "id": "icd-906",
+   "role": "document"
+  }
+ ],
+ "questions": [
+  "How many carve-outs have been approved, for which contractors, and does the SAPCO-held list of carved-out facilities match DCSA's facility clearance records?",
+  "What will the July 2029 phase-out of DCSA oversight mean in practice, and who will inspect contractor SAP facilities afterwards?",
+  "What did GAO's 1983 report on carve-out contracts actually recommend, and has GAO ever audited contractor SAP security since?",
+  "Which issuance governs the carve-out now that the 2024 directive no longer defines it and the regulation still cites the 2010 version?",
+  "Does any record identify the California facility and the stored material George Knapp describes, or the Secretary of the Air Force memorandum Luis Elizondo says never issued?",
+  "Why are the SAP Security Manual volumes no longer retrievable from the live issuances site?",
+  "Has any capability ever been moved from an intelligence controlled access programme into a special access programme under the urgent counterintelligence or restructuring exceptions?"
+ ],
+ "related": [
+  "sap-governance",
+  "sap-reporting",
+  "sap-states",
+  "named-contractors",
+  "skunk-works",
+  "aawsap-baass",
+  "whistleblower-channels",
+  "black-budget",
+  "oversight-before-2017",
+  "classification-orders",
+  "funding-channels"
+ ]
 }

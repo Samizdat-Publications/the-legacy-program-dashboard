@@ -25,7 +25,518 @@
   "d-nuc"
  ],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "The phrase 'born classified' does not appear in the 1954 Act; the topic says so. The weapons laboratories (DOE, Los Alamos, Livermore) sit here rather than under Area 51.",
- "appendixT": "atomic-secrecy"
+ "appendixT": "atomic-secrecy",
+ "lead": {
+  "text": "The Atomic Energy Act made weapons information secret by category, as Restricted Data, and the executive classification orders say themselves that this statutory category lies outside their reach. This topic follows that regime from the 1946 Act and the Atomic Energy Commission to the Department of Energy and its weapons laboratories, and sets the documented machinery beside the allegation that it was used to shelter a recovery programme.",
+  "cite": [
+   "c-15e46cca65",
+   "e-8728c3e910",
+   "e-6822c0b550",
+   "c-a5ff1c6c9c"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The Atomic Energy Act of 1946 established a five-member Atomic Energy Commission and defined restricted data as a whole class of fact: all data on the manufacture or use of atomic weapons and the production and use of fissionable material, except what the Commission from time to time determined could be published.",
+   "cite": [
+    "c-dec246cf5e",
+    "c-15e46cca65",
+    "e-02d95526ad"
+   ]
+  },
+  {
+   "text": "The Atomic Energy Act of 1954 restated the 1946 Act rather than repealing it. It made Restricted Data a capitalised, Act-wide definition, added the word design, and tied removal from the category to a formal declassification procedure at section 142.",
+   "cite": [
+    "c-0fc284dd13",
+    "c-bc5e33cbb0",
+    "e-e5d092089a",
+    "e-117b277029"
+   ]
+  },
+  {
+   "text": "The Commission was abolished by the Energy Reorganization Act of 1974 and its functions passed through ERDA to the Department of Energy. Congress established the National Nuclear Security Administration in 2000 as a semi-autonomous agency within DOE, and Los Alamos, Livermore and Sandia operate as DOE and NNSA laboratories under management and operating contracts.",
+   "cite": [
+    "c-08d84d4c84",
+    "e-771cf1b726",
+    "c-587a2dbcc6",
+    "e-4051a852ce",
+    "e-62e89f2da2",
+    "e-4a72281e24"
+   ]
+  },
+  {
+   "text": "The board's reason for carrying all this is an inference, and it is labelled as one: that Restricted Data offers a secrecy channel structurally independent of the Defense Department's special access programme system, with a different statutory basis, clearance system and oversight committees. The board's own Livermore entry adds that no evidence is offered that any UAP material is so classified.",
+   "cite": [
+    "c-6c39035b17",
+    "c-9123e4ded9"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "The 1946 Act's penalties reach concealment and destruction as well as disclosure: whoever removes, conceals, alters or destroys a document containing restricted data with intent to injure the United States could face death or life imprisonment, but only on a jury's recommendation.",
+   "cite": [
+    "c-5157db39e5"
+   ]
+  },
+  {
+   "text": "The 1946 Act made the FBI both gate and investigator. No contractor could let anyone see restricted data until the FBI had investigated and reported on that person's character, associations and loyalty, and all violations of the Act were to be investigated by the FBI.",
+   "cite": [
+    "c-f4272351ab"
+   ]
+  },
+  {
+   "text": "The military kept a standing voice inside the civilian regime. The Commission had to advise and consult the Military Liaison Committee on military applications, including the control of weapons information, with a disputed matter referable to the President, whose decision was final. The Director of the Commission's Division of Military Application had to be a serving member of the armed forces, a requirement the 1954 Act carried forward.",
+   "cite": [
+    "c-1b2e1cdbd5",
+    "c-f662c9a6f9"
+   ]
+  },
+  {
+   "text": "The Commission took statutory custody of what the Manhattan Engineer District had held: all fissionable material, all atomic weapons and parts, and such other property as the President might determine.",
+   "cite": [
+    "c-41ed1bc507",
+    "e-a1f38a4299"
+   ]
+  },
+  {
+   "text": "The phrase born classified does not appear in the 1954 Act. A text search of the enacted statute returns no occurrence and no express automatic-classification clause; the doctrine is an inference from the breadth of the section 11 r. definition read with the criminal provisions at sections 224 to 227.",
+   "cite": [
+    "c-c0b4e07a76"
+   ]
+  },
+  {
+   "text": "The executive orders record the seam themselves. Executive Order 10501 of 1953, which fixed the three categories of Top Secret, Secret and Confidential, leaves Atomic Energy Act Restricted Data outside its reach in section 13, ten months before the 1954 Act. Executive Order 13526 provides in section 6.2(a) that nothing in it supersedes the Atomic Energy Act, and that Restricted Data is handled and declassified only under that Act.",
+   "cite": [
+    "c-8ab1c2ba39",
+    "c-f9be6c632c",
+    "e-8728c3e910",
+    "e-6822c0b550"
+   ]
+  },
+  {
+   "text": "The military half of the Manhattan Project went to the Armed Forces Special Weapons Project, set up by joint directive of the Secretaries of War and the Navy effective 31 December 1946 and funded, apart from military pay, by working fund advances from the Atomic Energy Commission. Leslie Groves joined the Military Liaison Committee on 31 January 1947 and became AFSWP's first Chief on 28 February 1947, serving until his retirement on 29 February 1948. His deputy came from the Navy, and the project passed under the National Military Establishment in 1947 and the Department of Defense in 1949.",
+   "cite": [
+    "c-c29059d73c",
+    "c-46e029704f",
+    "c-446ca0fd1f",
+    "c-945d8b94af",
+    "e-10b12a39da",
+    "e-3e370ea9c5",
+    "e-d599e5530b",
+    "e-d2d1f1abb5"
+   ]
+  },
+  {
+   "text": "The Defense Threat Reduction Agency states its own lineage as running from the Manhattan Engineer District through AFSWP, DASA, DNA and DSWA to DTRA. It holds nuclear test participation records from 1945 and human radiation experimentation records from 1944, with the Atomic Energy Act of 1954 among its authorities, while the Commission's own records are a separate National Archives group.",
+   "cite": [
+    "c-15350e9d60",
+    "c-d541b6c87e",
+    "e-6a07853157",
+    "c-bfe7530fb3"
+   ]
+  },
+  {
+   "text": "The nuclear complex has its own special access programme reporting statute. 50 U.S.C. 2426 requires the NNSA Administrator to report to the congressional defense committees each year by 1 February, and lets the Administrator waive the reports case by case on national security grounds, in which case the information goes only to the chairman and ranking minority member of each defense committee. It also allows waiver of the report-and-wait requirement.",
+   "cite": [
+    "c-044b49906b",
+    "c-8bfe5a0efb",
+    "c-b29e5a6cf4",
+    "e-9c5df0d1b1",
+    "e-a90165910d"
+   ]
+  },
+  {
+   "text": "Los Alamos National Laboratory states that a conference on the green fireballs was held there on 16 February 1949, attended by Laboratory Director Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and military representatives, that its National Security Research Center holds the minutes, and that the conference ultimately dismissed the idea that the fireballs were a significant national security threat.",
+   "cite": [
+    "c-c37b3d5597",
+    "c-847fdb2ce5",
+    "e-f62c16bd70",
+    "e-a774f56a07"
+   ]
+  },
+  {
+   "text": "The same laboratory says its senior archivist receives several FOIA requests about unidentified flying objects every year, and that the Research Center does not appear to hold materials on Project Twinkle.",
+   "cite": [
+    "c-5fa415560f"
+   ]
+  },
+  {
+   "text": "When the government tested alleged recovered material, it used the DOE laboratory system. AARO states that it contracted Oak Ridge National Laboratory in 2022 to test a magnesium alloy specimen, and AARO's January 2026 aluminium analysis was also performed by Oak Ridge under contract from 2024.",
+   "cite": [
+    "c-7a1dcfe1fa",
+    "c-3564f3fd59",
+    "e-9e3d5cc426"
+   ]
+  },
+  {
+   "text": "The Commission and the Central Intelligence Agency were joined at the top. The CIA's own chronology records Glenn T. Seaborg named AEC chairman on 16 January 1961, succeeding John A. McCone, who went on to direct Central Intelligence; in 1963 Seaborg sent McCone the Commission's annual report to Congress on Commission letterhead.",
+   "cite": [
+    "c-52b0116600",
+    "c-ae4af51af7",
+    "c-9b1ac16505",
+    "e-703923a5d8"
+   ]
+  },
+  {
+   "text": "The Commission also acted as landlord for the CIA's reconnaissance work. The CIA's overhead reconnaissance history records that the Commission, at Bissell's request, added Groom Lake to its Nevada real estate, with Chairman Lewis Strauss agreeing, and that Eisenhower approved adding the strip known as Area 51 to the Nevada Test Site.",
+   "cite": [
+    "e-40e7f6129f",
+    "e-9d918d668e"
+   ]
+  },
+  {
+   "text": "The Official Register of the United States lists Lawrence P. Gise as an Assistant Director of the AEC Division of Military Application on 1 May 1957 and as Assistant Director, Administration of the Advanced Research Projects Agency on 1 May 1959.",
+   "cite": [
+    "c-015776367a",
+    "c-da9901aac6"
+   ]
+  },
+  {
+   "text": "Careers ran from the laboratories into intelligence. The Senate Intelligence Committee's 2007 confirmation record for Donald Kerr says he began at Los Alamos in 1966, rose to direct the laboratory, and later directed the National Reconnaissance Office.",
+   "cite": [
+    "c-c594ec0573",
+    "c-d35e96fa5d"
+   ]
+  },
+  {
+   "text": "When the Pentagon ended the JASON advisory contract in April 2019, NNSA issued a notice of intent to award a short-term sole source contract to MITRE to keep the group's management and logistics going.",
+   "cite": [
+    "c-4dcaa77471",
+    "c-6740bf3f8b",
+    "e-5602b65df4"
+   ]
+  },
+  {
+   "text": "The Commission's underground work reached beyond the test sites. On 10 December 1967 it detonated a 29-kiloton device 4,227 feet down, twelve miles southwest of Dulce, New Mexico, as a gas stimulation experiment, and the DOE Office of Legacy Management still holds stewardship of the site.",
+   "cite": [
+    "c-0fee6c99d8",
+    "c-be04decd43",
+    "e-b92ef9943b"
+   ]
+  },
+  {
+   "text": "The documented high-altitude test at the centre of one custody story is a dated operational record: the Defense Nuclear Agency's report on Operation DOMINIC I records Bluegill Triple Prime as the fourth, and first successful, attempt to launch the BLUEGILL device, on 25 October 1962, and its detonation table is sourced to a Department of Energy publication.",
+   "cite": [
+    "c-ffc673eb3e",
+    "e-4edc5f5a7f",
+    "e-2ff0ba4817"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "UAP Gerb alleges that a centralised recovery and exploitation effort was founded in 1947 with a security apparatus taken directly from the Manhattan Project and the Atomic Energy Commission, and that Truman and Eisenhower vested custody of recovered disks within AEC national laboratories and safeguarded the programmes under the Atomic Energy Act of 1954.",
+   "cite": [
+    "c-608197f302",
+    "c-a5ff1c6c9c",
+    "e-93cf33cac5"
+   ]
+  },
+  {
+   "text": "Gerb's Sandia investigation names Sandia as an AEC-lineage custodial laboratory, citing Edgar Fouche and former New Mexico State Representative J. Andrew Kissner. An American Alchemy episode with Gerb derives the modern system from the same lineage and gives a chapter to DOE's Nuclear Emergency Support Team inside the crash-retrieval architecture.",
+   "cite": [
+    "e-b710c1fa88",
+    "e-ebe4cad463",
+    "e-f04d022388"
+   ]
+  },
+  {
+   "text": "Four guests across five of Jesse Michels's lead maps describe Lawrence Gise as head of the AEC's Albuquerque Operations Office and as the man who handed anomalous material from the 1962 Bluegill Triple Prime test to Harald Malmgren. No speaker cites a document number for any part of that chain.",
+   "cite": [
+    "c-09857a96bd"
+   ]
+  },
+  {
+   "text": "Malmgren's daughter's biography, published after his death, says he oversaw missile tests including Bluegill Triple Prime and that the test prompted Kennedy and Johnson to visit Los Alamos and the Sandia Labs in December 1962. The board carries that causal link as a single-source inference; the 7 December 1962 visit itself is in the Public Papers, with the Vice President present.",
+   "cite": [
+    "c-801b50c037",
+    "c-c2dbcb6933",
+    "e-725c11436a"
+   ]
+  },
+  {
+   "text": "On George Knapp's sworn testimony and a Liberation Times report, the source of an account of a recovered saucer and a live being is Al O'Donnell, described as the first general manager of EG&G in Nevada, the company that managed the Nevada Test Site.",
+   "cite": [
+    "c-9bb50adbc4"
+   ]
+  },
+  {
+   "text": "Bob Lazar, in his own narration on a 1991 videotape, cites his early 1980s job at the Los Alamos Meson Physics Facility as his most verifiable clearance, says Edward Teller was his route to the classified work after a chance meeting in Los Alamos in 1982, and says a stable element 115 was the fuel of the reactor he worked on.",
+   "cite": [
+    "c-5f47eefb9c",
+    "c-b3f96eb164",
+    "c-86c0d490ee",
+    "e-e601a1b15b",
+    "e-7c48dbc330",
+    "e-32b75b5cc9"
+   ]
+  },
+  {
+   "text": "Jeremy Corbell states that he received documents from the son of a deceased former Los Alamos cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory, which form the basis of his documentary Sleeping Dog. The laboratory has not authenticated them.",
+   "cite": [
+    "c-3e5d5491b6",
+    "e-451a2f225d"
+   ]
+  },
+  {
+   "text": "On American Alchemy, Jesse Michels said a FOIA request to NNSA for records linking Starfish Prime to unidentified flying objects drew a June 2022 reply that an additional review by the subject matter expert with jurisdiction was required. The letter itself was not opened and no case number was given on air.",
+   "cite": [
+    "c-b4bf6fa85d"
+   ]
+  },
+  {
+   "text": "Robert Salas and other former missile officers said publicly at a National Press Club event on 27 September 2010 that UFOs were seen in connection with nuclear missile disruptions. How such accounts reached the record matters: of 47 nuclear-facility witnesses the board assembled, 26 came through contemporaneous official paper and 13 through a researcher's interview programme, at least four of those through one man's interviews, via Robert Hastings or Robert Salas. That count is the board's own derivation.",
+   "cite": [
+    "c-831f19c872",
+    "c-0f30a87daa",
+    "c-42d4c835f7"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The shelter argument is inference throughout, and the board's own entries say so. The Livermore entry states that no evidence is offered that UAP material is classified as Restricted Data, the Teller entry that no document establishes any knowledge on his part, and the DOE entry marks the immunity of such material to a presidential directive as reasoning from legal structure, not from any record.",
+   "cite": [
+    "c-9123e4ded9",
+    "c-bb5f1e1e54",
+    "c-4a465f26ab",
+    "e-c60b581ef1"
+   ]
+  },
+  {
+   "text": "Jack Kruse's account on the Danny Jones Podcast, that the covert apparatus was planned from when Groves left in 1947, is contradicted by the agency history: Groves did not leave government in 1947 but took the new joint command on 28 February 1947 and retired on 29 February 1948, and the history makes no reference to the OSS, Operation Paperclip or any militia.",
+   "cite": [
+    "c-13c2f8f2b6",
+    "c-de71864545"
+   ]
+  },
+  {
+   "text": "Gerb's account on Debriefed of AFSWP's founding is contradicted by the charter and the National Archives: the project was effective 31 December 1946, it was an Army-Navy organisation with no intelligence component in its charter, and Forrestal signed jointly with the Secretary of War.",
+   "cite": [
+    "c-6a6e082f05",
+    "c-338f36edf9",
+    "c-b80be62091"
+   ]
+  },
+  {
+   "text": "The records opened for Gise do not support the custody story. His 1957 memorandum is addressed to the Albuquerque Operations Office from AEC headquarters, not written from it, and the office's manager that year was Hertford; nothing opened for him is dated after 1959. The Defense Nuclear Agency's report on the 1962 test series mentions no unidentified object, craft or debris, and names neither Gise nor Malmgren.",
+   "cite": [
+    "c-3e9e9eb46c",
+    "c-85b48772b3",
+    "c-09857a96bd",
+    "c-a6def4807c"
+   ]
+  },
+  {
+   "text": "The laboratories' own record contradicts the element 115 claim rather than vindicating it. Element 115 was synthesised by a collaboration including Livermore and Dubna and reported in 2004, but nothing about it is stable, machinable or storable: it is made one atom at a time. That does not dispute that element 115 exists, and the island of stability near element 114 was published popular physics long before 1989.",
+   "cite": [
+    "c-a0ae82d3e1",
+    "e-86a7f2a334",
+    "c-d2096f9588",
+    "c-8e2d48f66b"
+   ]
+  },
+  {
+   "text": "Lazar's Los Alamos connection is a directory listing, not documented employment. The directory page states that it covers DOE employees and the outside contractor Kirk-Mayer, a colleague said on tape in 1996 that Lazar was a contractor under Kirk Mayer, and Gene Huff, writing in his defence, records that the laboratory and Kirk-Mayer later said they held no employment records for him. His Teller anecdote is also misdated: the newspaper story is dated 27 June 1982 and Mahood puts Teller's lecture on the following day.",
+   "cite": [
+    "c-cf640bc7fd",
+    "e-99ff421d34",
+    "c-9e5e2bd84c",
+    "c-3fd09f3aab",
+    "e-6b80bf3a68",
+    "e-e601a1b15b"
+   ]
+  },
+  {
+   "text": "The nuclear-site correlation has a documented dual-use complication. After the 1967 Echo Flight shutdown at Malmstrom the Air Force ran electromagnetic pulse test programmes at F. E. Warren AFB and at the 564th Strategic Missile Squadron, and turned Sierra 39 over to Boeing for EMP testing, so the installations that generate sighting reports were also where the most exotic electromagnetic testing was done. The 1975 Loring message traffic says unidentified helicopter throughout and never says UFO.",
+   "cite": [
+    "c-6faeeb2e03",
+    "c-8f3e94374d"
+   ]
+  },
+  {
+   "text": "The follow-up is thinly documented. Project Twinkle, a network of green fireball observation stations established in December 1949, was never fully implemented on the board's Tier 2 source, and the laboratory that hosted the conference says it does not appear to hold Twinkle materials.",
+   "cite": [
+    "c-d9613a8e53",
+    "c-5fa415560f"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "atomic-energy-act-1946",
+   "role": "law"
+  },
+  {
+   "id": "atomic-energy-act-1954",
+   "role": "law"
+  },
+  {
+   "id": "atomic-energy-commission",
+   "role": "institution"
+  },
+  {
+   "id": "doe",
+   "role": "institution"
+  },
+  {
+   "id": "nnsa",
+   "role": "institution"
+  },
+  {
+   "id": "lanl",
+   "role": "institution"
+  },
+  {
+   "id": "llnl",
+   "role": "institution"
+  },
+  {
+   "id": "sandia",
+   "role": "institution"
+  },
+  {
+   "id": "oak-ridge-national-laboratory",
+   "role": "institution"
+  },
+  {
+   "id": "afswp",
+   "role": "institution"
+  },
+  {
+   "id": "dtra",
+   "role": "institution"
+  },
+  {
+   "id": "leslie-r-groves",
+   "role": "official"
+  },
+  {
+   "id": "edward-teller",
+   "role": "researcher"
+  },
+  {
+   "id": "glenn-t-seaborg",
+   "role": "official"
+  },
+  {
+   "id": "lawrence-p-gise",
+   "role": "official"
+  },
+  {
+   "id": "donald-kerr",
+   "role": "official"
+  },
+  {
+   "id": "eo-10501",
+   "role": "law"
+  },
+  {
+   "id": "eo-13526",
+   "role": "law"
+  },
+  {
+   "id": "usc-50-2426",
+   "role": "law"
+  },
+  {
+   "id": "green-fireballs-conference-1949",
+   "role": "event"
+  },
+  {
+   "id": "bluegill-triple-prime",
+   "role": "event"
+  },
+  {
+   "id": "gasbuggy-1967",
+   "role": "event"
+  },
+  {
+   "id": "l-nevada-test-site",
+   "role": "place"
+  },
+  {
+   "id": "l-groom-lake",
+   "role": "place"
+  },
+  {
+   "id": "l-los-alamos",
+   "role": "place"
+  },
+  {
+   "id": "jason-advisory-group",
+   "role": "institution"
+  },
+  {
+   "id": "manhattan-project-2",
+   "role": "subject"
+  },
+  {
+   "id": "michels-gerb-structural-episode",
+   "role": "document"
+  },
+  {
+   "id": "harald-b-malmgren",
+   "role": "official"
+  },
+  {
+   "id": "bob-lazar",
+   "role": "witness"
+  },
+  {
+   "id": "kirk-mayer",
+   "role": "contractor"
+  },
+  {
+   "id": "element-115-claim",
+   "role": "subject"
+  },
+  {
+   "id": "lazar-tape-1991",
+   "role": "document"
+  },
+  {
+   "id": "jeremy-corbell",
+   "role": "journalist"
+  },
+  {
+   "id": "dod",
+   "role": "institution"
+  },
+  {
+   "id": "us-navy",
+   "role": "institution"
+  },
+  {
+   "id": "eop",
+   "role": "institution"
+  }
+ ],
+ "questions": [
+  "Has any record ever placed material connected with unidentified phenomena under Restricted Data at any DOE laboratory, or is the shelter argument only a reading of the statute?",
+  "Has the NNSA Administrator ever used the waiver in 50 U.S.C. 2426, and if so, which committee leaders were told?",
+  "What do the minutes of the 16 February 1949 conference held by the National Security Research Center say, and are they among the records released in July 2026?",
+  "Does the June 2022 NNSA reply on the Starfish Prime request exist as described, and under what case number?",
+  "Did Lawrence Gise hold any post at the Albuquerque Operations Office, or any post at all after 1959?",
+  "What was Kirk-Mayer as a company, and what was its support-services contract at Los Alamos?",
+  "Who signed the 1954 Act? The page image carries no signature line and no signed copy has been read.",
+  "Was the Sleeping Dog material ever authenticated by Los Alamos or anyone independent of the film?"
+ ],
+ "related": [
+  "classification-orders",
+  "sap-reporting",
+  "sap-governance",
+  "ffrdc-probes",
+  "lazar-s4",
+  "nuclear-witnesses",
+  "nuclear-missiles-1960s",
+  "area-51-ranges",
+  "dulce",
+  "cia-secrecy-precedents",
+  "legacy-programme",
+  "specimens"
+ ]
 }

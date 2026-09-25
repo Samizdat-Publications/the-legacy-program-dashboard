@@ -13,7 +13,174 @@
  ],
  "absorbs": [],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "The scientists thread. Moved from Appendix T's media section to Congress: the node is a House Oversight probe. It overlaps The Vanishing at Amy Eskridge only.",
- "appendixT": "missing-scientists"
+ "appendixT": "missing-scientists",
+ "lead": {
+  "text": "On 20 April 2026 House Oversight Chairman James Comer and Rep. Eric Burlison sent NASA, the FBI, the Department of War and the Department of Energy effectively identical letters about reported deaths and disappearances of at least ten individuals. The letters present their subject as unconfirmed public reporting and ask the agencies whether it is true.",
+  "cite": [
+   "c-995607e5d4",
+   "c-6b3e373340"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The letters set a response deadline of 27 April 2026, say the reported cases began in 2023 with the death of Michael David Hicks, and name one other person, Monica Reza.",
+   "cite": [
+    "c-995607e5d4",
+    "c-6e49fa0849"
+   ]
+  },
+  {
+   "text": "Press reporting ties the probe to the February 2026 disappearance of retired Air Force Maj. Gen. William Neil McCasland from his Albuquerque home, and to Burlison's statement that his staff had been trying to reach McCasland about a separate investigation.",
+   "cite": [
+    "c-f9d79c4b2f",
+    "e-7b78ecf07c",
+    "c-ee2e4cd5c0"
+   ]
+  },
+  {
+   "text": "What the record establishes is that the Committee asked and when it set its deadline; the letters themselves footnote every factual assertion to newspaper reports and do not adopt them.",
+   "cite": [
+    "c-6b3e373340"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "The letters of 20 April 2026 went over the signatures of Chairman Comer and Subcommittee Chairman Burlison, were copied to Ranking Members Garcia and Frost, and set a deadline of 27 April 2026. They say at least ten individuals, and that the reported pattern began in 2023 with the death of Michael David Hicks.",
+   "cite": [
+    "c-995607e5d4"
+   ]
+  },
+  {
+   "text": "The letters frame their subject as recent unconfirmed public reporting and footnote each factual assertion to the Daily Mail of 11 April 2026 and to New York Post pieces of March and April 2026.",
+   "cite": [
+    "c-6b3e373340"
+   ]
+  },
+  {
+   "text": "The letters say that Monica Reza, a JPL alumna who had directed the NASA laboratory's Materials Processing Group, disappeared while hiking in California in June 2025 and remains missing, and relay accounts alleging a professional connection between her and McCasland through an Air Force-funded research programme in the early 2000s. They attribute both to unconfirmed public reporting.",
+   "cite": [
+    "c-6e49fa0849"
+   ]
+  },
+  {
+   "text": "McCasland's Air Force biography records him as Commander of the Air Force Research Laboratory at Wright-Patterson, commander of the Phillips Research Site at Kirtland from 2001 to 2004, and Director, Special Programs, in the Office of the Under Secretary of Defense for Acquisition, Technology and Logistics from 2009 to 2011.",
+   "cite": [
+    "c-b660b636f9",
+    "c-47b9bd6576"
+   ]
+  },
+  {
+   "text": "That Special Programs post was in the acquisition office, not the intelligence under-secretariat to which DIA addressed its November 2009 memo declining the AAWSAP special access programme request; nothing in the record places McCasland in that decision.",
+   "cite": [
+    "c-8300964eaa"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Fox News reported that McCasland vanished in February 2026 from his Albuquerque home, leaving behind his phone, prescription glasses, hiking boots, wallet and a .38-calibre revolver, and that Burlison's staff had been trying to contact him about a separate congressional investigation.",
+   "cite": [
+    "c-837cf383c4",
+    "c-810ccbf0f9",
+    "c-ee2e4cd5c0"
+   ]
+  },
+  {
+   "text": "Burlison, quoted by Fox News, asked how many people walk out their front door without their phone, wallet or keys.",
+   "cite": [
+    "c-4c086e0698"
+   ]
+  },
+  {
+   "text": "On American Alchemy, Jesse Michels dated the disappearance to 27 February 2026 and gave a timeline of that morning; he said the glasses, a switched-off phone and a smartwatch were left behind while a backpack, the wallet and the revolver were missing, and that the search widened to the FBI and the Air Force Office of Special Investigations with no camera footage of McCasland surfacing.",
+   "cite": [
+    "c-794e899eea",
+    "c-f4a5ee7eff"
+   ]
+  },
+  {
+   "text": "Burlison said on the same programme in July 2026 that McCasland had been on his list of people to talk to, that Grusch had sent someone to interview him without learning much, and that in his view McCasland knew inquiries were being made; he said the latest information was that McCasland had bought a medical kit.",
+   "cite": [
+    "c-cce744bbec"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "Fox News reported the probe as covering eleven people in nuclear or rocket technology who died or vanished since 2022; the Committee's own letters say at least ten and date the reported pattern to 2023.",
+   "cite": [
+    "c-c2e397eb16",
+    "c-97243dc63d",
+    "c-995607e5d4"
+   ]
+  },
+  {
+   "text": "The accounts disagree about the revolver: Fox News reported it left behind, Michels said it was missing, and Burlison corrected Michels that it was not confirmed that McCasland took a gun.",
+   "cite": [
+    "c-837cf383c4",
+    "c-794e899eea",
+    "c-cce744bbec"
+   ]
+  },
+  {
+   "text": "The claim that McCasland sat on a special access programme oversight committee is made by Michels, not by any of his guests, and neither guest adopted it.",
+   "cite": [
+    "c-6d0c3aebc6"
+   ]
+  },
+  {
+   "text": "Three speakers on the same programme declined to corroborate: Lyn Buchanan said he had not come across McCasland, Jeremy Corbell called a reported McCasland contact with Tom DeLonge part of an op, and Michael Shermer argued the disappearance against the base rate of missing persons while agreeing it should be investigated.",
+   "cite": [
+    "c-bbacf6320c"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "missing-scientists-probe-2026",
+   "role": "subject"
+  },
+  {
+   "id": "house-oversight-committee",
+   "role": "institution"
+  },
+  {
+   "id": "james-comer",
+   "role": "legislator"
+  },
+  {
+   "id": "eric-burlison",
+   "role": "legislator"
+  },
+  {
+   "id": "robert-garcia",
+   "role": "legislator"
+  },
+  {
+   "id": "maxwell-frost",
+   "role": "legislator"
+  },
+  {
+   "id": "william-mccasland",
+   "role": "subject"
+  }
+ ],
+ "questions": [
+  "Did NASA, the FBI, the Department of War or the Department of Energy answer the letters by the 27 April 2026 deadline, and what did they say?",
+  "What was the separate congressional investigation for which Burlison's staff had been trying to reach McCasland?",
+  "Who are the other individuals the letters count among the at least ten, and what reporting does each rest on?",
+  "Was McCasland's revolver left at the house or taken with him?",
+  "Is there any record of the Air Force-funded research programme said to connect Monica Reza and McCasland?",
+  "Does the probe treat McCasland's command of the Air Force Research Laboratory as material to his disappearance?"
+ ],
+ "related": [
+  "house-push-2026",
+  "wright-patterson-ftd",
+  "aawsap-baass",
+  "media-substrate",
+  "task-force-2025"
+ ]
 }

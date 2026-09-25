@@ -28,7 +28,654 @@
   "d-oversight"
  ],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "Start-here flags 2 and 3 live here.",
- "appendixT": "sap-reporting"
+ "appendixT": "sap-reporting",
+ "lead": {
+  "text": "Who in Congress is told about a special access programme depends on which statute governs it. For the Department of Defense it is 10 U.S.C. 119, whose waiver lets the Secretary send a programme's details only to the chairman and ranking minority member of each of six defense committees, a group often confused with the Gang of Eight, which belongs to covert action.",
+  "cite": [
+   "c-3cd5d9469e",
+   "c-697089a824",
+   "c-190acd0a2a"
+  ]
+ },
+ "summary": [
+  {
+   "text": "There are four reporting statutes with four different audiences: 10 U.S.C. 119 for DoD, 50 U.S.C. 2426 for NNSA, 50 U.S.C. 3348 for every other non-intelligence agency, and 50 U.S.C. 3091a for intelligence controlled access programmes. Only the DoD and NNSA waivers narrow the audience to chairs and ranking members; the 3348 waiver keeps the full committees, and 3091a has no waiver at all.",
+   "cite": [
+    "c-7ca91503ef",
+    "c-65908c3cbb",
+    "c-87fc501654"
+   ]
+  },
+  {
+   "text": "Section 119 asks for an annual report by 1 March, notice of each new programme by 1 February, 14 days notice of a planned classification change or declassification, and 30 days notice before a programme starts. It was enacted in December 1987, and its annual reporting requirements in subsections (a) and (b) terminated on 31 December 2021.",
+   "cite": [
+    "c-e447459c4a",
+    "c-3980c68bb4",
+    "c-eee10d56ad",
+    "c-33c7dadf7c",
+    "c-b7470eb4ff",
+    "c-3706adbd35"
+   ]
+  },
+  {
+   "text": "The waived-programme group and the Gang of Eight are different sets. The Gang of Eight comes from 50 U.S.C. 3093(c)(2) and covers covert action findings, reported to the intelligence committee leaders and the four chamber leaders; the waived-SAP group is the chairs and ranking members of the six defense committees, with no intelligence committees and no chamber leaders.",
+   "cite": [
+    "c-190acd0a2a",
+    "c-63499727b0",
+    "e-fb31068dde"
+   ]
+  },
+  {
+   "text": "In practice DoD policy widens the waived group to staff directors, a security manager and the intelligence committees, sends waived justification papers only to staff directors, and routes every other member through a read-in gate that the House Oversight chair described on the record in September 2025.",
+   "cite": [
+    "c-b9b20705ad",
+    "c-ac3f8c09d6",
+    "c-b5abe27162"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "Section 119(g) defines the defense committees as six bodies: the Armed Services and Appropriations Committees of each chamber and the defense subcommittee of each Appropriations Committee. The general Title 10 term congressional defense committees means only four. The 119(g) wording was amended in 1996, 1999 and 2001.",
+   "cite": [
+    "c-697089a824",
+    "c-0404fb64d9",
+    "c-05ad704ea2",
+    "e-bcb85c4f6d"
+   ]
+  },
+  {
+   "text": "Subsection (e) has been in the section since the original 1987 enactment and has never been amended. It lets the Secretary of Defense personally waive, case by case, any requirement that information be included in a report, on his own determination of adverse effect on national security, with no time limit, no periodic re-justification and no congressional ability to disapprove; the withheld information and the justification then go jointly to the chairman and ranking minority member of each defense committee.",
+   "cite": [
+    "c-c2bf14b7b4",
+    "c-e73bb4bb2c",
+    "c-6f62165ad8",
+    "e-3083fd0ed0",
+    "e-c58a677506"
+   ]
+  },
+  {
+   "text": "The 30-day bar on starting a programme in subsection (f) is outside the waiver, and it was not in the 1987 Act: it was added by Public Law 101-510 and took effect on 1 October 1991. The annual reports of subsections (a) and (b) ended on 31 December 2021 under section 1061 of Public Law 114-328.",
+   "cite": [
+    "c-33c7dadf7c",
+    "c-e67eae2431",
+    "c-22820e8ed6",
+    "c-dd79d09480"
+   ]
+  },
+  {
+   "text": "Nothing in section 119 requires that waived information be delivered in writing, recorded, retained or shared with other members. The Moynihan Commission recorded in 1997 that for waived programmes the chair, ranking member and occasionally others were notified only orally.",
+   "cite": [
+    "c-d4856d2743",
+    "c-d8ff4aff83"
+   ]
+  },
+  {
+   "text": "The covert action rule has safeguards the waived-SAP rule lacks: within 180 days of a limited notification the President must widen access or re-justify it, and all members of the intelligence committee must be told that a limited notification occurred. Section 119 has neither, so defense committee members outside the group are not told a waiver has been used.",
+   "cite": [
+    "c-52aaa3ef28",
+    "c-49fbc27ded",
+    "c-4778246204",
+    "e-fbdfe5892f",
+    "e-a7c0d8745e"
+   ]
+  },
+  {
+   "text": "The holders of the twelve seats in August 2026 were Wicker and Reed for Senate Armed Services, Collins and Murray for Senate Appropriations, McConnell and Coons for its defense subcommittee, Rogers and Smith for House Armed Services, Cole and DeLauro for House Appropriations, and Calvert and McCollum for its defense subcommittee.",
+   "cite": [
+    "c-be9d8fb85e",
+    "e-c41c35e467",
+    "e-ffb1c0ae15",
+    "e-7c1a543371",
+    "e-d8c412038c",
+    "e-5c8a363f4e",
+    "e-9f7a8da114",
+    "e-0a45b4e393",
+    "e-d169e0dc18",
+    "e-e7956f36fd",
+    "e-f8b9e9cab1",
+    "e-f0ff699d82",
+    "e-8ad0120fc7"
+   ]
+  },
+  {
+   "text": "In 2009 the seats were held by Levin and McCain, Inouye and Cochran, who each held both Senate appropriations seats, Skelton and McKeon, Obey and Lewis, and Murtha and Young. McHugh held the House Armed Services ranking seat until McKeon's election on 16 June 2009. Senate Majority Leader Harry Reid, who made the 2009 SAP request, held none of the seats.",
+   "cite": [
+    "c-8b4d3a3476",
+    "c-7a0b1f1f95",
+    "c-a6624ac578",
+    "c-73a2f2ad8f",
+    "e-623e2bf31b",
+    "e-b6511bfbb5",
+    "e-734d361ccf",
+    "e-69044cbc2f"
+   ]
+  },
+  {
+   "text": "In 2023 the Senate seats were held by Reed and Wicker, Murray and Collins, and Tester and Collins, Collins being ranking member of both the full Appropriations Committee and its defense subcommittee; in the House, Rogers and Smith led Armed Services and Calvert and McCollum its appropriations defense subcommittee. Tom Cole became House Appropriations chairman only on 10 April 2024.",
+   "cite": [
+    "c-fc709cd228",
+    "c-2c03da0115",
+    "c-9e6b109b4f",
+    "c-1b15c3564f",
+    "c-6f6359cd05"
+   ]
+  },
+  {
+   "text": "In 2020 McCollum was vice chair, not chair or ranking member, of the House Appropriations defense subcommittee, so she held no seat that year; Smith chaired House Armed Services and Reed was Senate Armed Services ranking member.",
+   "cite": [
+    "c-2ee26fa954",
+    "c-1e10b09d91",
+    "c-135562fde5"
+   ]
+  },
+  {
+   "text": "DoD policy is wider than the statute. DoD Instruction 5205.11 admits the chair, ranking member, staff directors and one security manager of the defense and intelligence committees to waived programmes, bars other committee members and professional staff from them, withholds waived sub-compartments even from members read into the umbrella, and gates GAO access through the chairs and ranking members.",
+   "cite": [
+    "c-b9b20705ad",
+    "c-446c7fc975",
+    "c-eaabecd113",
+    "c-2c76a75481",
+    "c-4f44214c93",
+    "e-aeaf681082",
+    "e-c7d081dc1a",
+    "e-6891d31193"
+   ]
+  },
+  {
+   "text": "The paper for a waived programme stays inside the Department: justification materials go only to committee staff directors, the 2010 directive keeps all waived SAP material submitted to Congress in DoD custody, and the annual report is compiled through SAPCO using unclassified nicknames.",
+   "cite": [
+    "c-ac3f8c09d6",
+    "c-effa055b1e",
+    "c-92c0161b65",
+    "c-c233aa6ccb",
+    "e-d8c61c7b7c",
+    "e-ed3845d0a8"
+   ]
+  },
+  {
+   "text": "DoD Directive 5205.07 requires anyone briefing SAP material to Congress to notify SAPCO, bars contractors from providing it without SAPCO's approval, and makes SAPCO keep the records of what Congress was given.",
+   "cite": [
+    "c-5dcf3879fe",
+    "c-bebe74b689",
+    "e-85b46125e0",
+    "e-0ac0889b58"
+   ]
+  },
+  {
+   "text": "On 9 September 2025 Chairwoman Luna said DoD had told committee staff that under its SAP rules only members of House Armed Services and the House Appropriations defense subcommittee could be read in, and that any other member needed the approval of the chairman and ranking member of both. She added that programme budgets and oversight reporting are classified and go only to the authorising and appropriations committees.",
+   "cite": [
+    "c-b5abe27162",
+    "c-40a88593cb",
+    "c-9724a1df3a",
+    "e-731b16e397",
+    "e-f28b40de8f"
+   ]
+  },
+  {
+   "text": "At the same hearing Representative Burlison said his NDAA UAP amendment had been ruled non-germane mostly by staff, and that in 2024 members were blocked by someone in House administration from a full AARO briefing.",
+   "cite": [
+    "c-428069e9d2",
+    "c-0bf4c36931",
+    "c-48ae97948e"
+   ]
+  },
+  {
+   "text": "House Oversight, which held the UAP hearings of July 2023, November 2024 and September 2025, is not a defense committee and receives nothing under section 119, though 50 U.S.C. 3348 gives it a statutory entitlement to SAP reports from agencies other than DoD, NNSA and the intelligence community.",
+   "cite": [
+    "c-2f4de2d1ed",
+    "e-ae5b455dc0",
+    "e-3d95991e94",
+    "c-6ded7dacbd"
+   ]
+  },
+  {
+   "text": "50 U.S.C. 3348 excludes DoD, NNSA and every intelligence agency from its own coverage. For the agencies it does cover, a waiver still sends the information to the full oversight committees, a programme may not start until they are notified and 30 days pass, and since 2018 those committees expressly include House Oversight and Senate Homeland Security.",
+   "cite": [
+    "c-fc967a9f1c",
+    "c-8b930f1083",
+    "c-d67a6d506e",
+    "c-f4ad3273d3",
+    "e-6a79a7612e",
+    "e-06f94d48c0"
+   ]
+  },
+  {
+   "text": "50 U.S.C. 2426 copies section 119 for NNSA, reporting to the defense committees by 1 February, and alone lets its Administrator also waive the 30-day report-and-wait.",
+   "cite": [
+    "c-044b49906b",
+    "c-8bfe5a0efb",
+    "c-b29e5a6cf4",
+    "e-9c5df0d1b1",
+    "e-6c54f480fa"
+   ]
+  },
+  {
+   "text": "For intelligence, 50 U.S.C. 3091 requires the intelligence committees to be kept fully and currently informed, though their approval is not a condition precedent, requires illegal intelligence activity to be reported, and forbids withholding from them on classification grounds.",
+   "cite": [
+    "c-a9ec90156a",
+    "c-d3d873e60e",
+    "c-61d5a78c87"
+   ]
+  },
+  {
+   "text": "50 U.S.C. 3091a, enacted in March 2022, requires a briefing on every controlled access programme at least twice a year with no exception for unacknowledged ones, bars establishing a programme or any compartment or sub-compartment before notice, requires annual lists of active and terminated compartments, puts the four chamber leaders in the audience and has no waiver. Since December 2024 it also cuts off funding until notice is given and bars moving a capability into a special access programme without notice.",
+   "cite": [
+    "c-fe3c25d754",
+    "c-eea7a7db22",
+    "c-7652e1402e",
+    "c-99ce3760d7",
+    "c-7ae30d37d9",
+    "c-64e902eed3",
+    "c-53ef0c7bed",
+    "e-589cb86158",
+    "e-18672cbcbe"
+   ]
+  },
+  {
+   "text": "The seams are written into the texts: 3348 removes DoD, NNSA and the intelligence community from its own scope, 3091a defines its subject by reference to ICD 906, and ICD 906 excludes the special access programmes of the other departments and those under the NSC, such as covert action.",
+   "cite": [
+    "c-4c30cc0855",
+    "e-a5ff13b3f8",
+    "e-4185e51175"
+   ]
+  },
+  {
+   "text": "Covert action has its own rules under 50 U.S.C. 3093: a finding may be limited to the Gang of Eight in extraordinary circumstances, or not reported in advance at all if the President later informs the intelligence committees in a timely fashion with reasons.",
+   "cite": [
+    "c-8a606a2db2",
+    "c-34b61fa45b",
+    "c-a12fee7238",
+    "e-fd4f2ad12e"
+   ]
+  },
+  {
+   "text": "On the money side, section 8009 of the Appropriations Act bars its funds from starting or materially changing a programme without 30 days notice to the defense committees. For UAP specifically, sections 1687 and 7343 of the FY2024 laws condition defense and intelligence funding on disclosure to the committees and leadership; section 1687 does not amend the section 119 waiver, which stays lawful while the money stops.",
+   "cite": [
+    "c-c19ad93b66",
+    "e-4839a73518",
+    "e-d09af927d0",
+    "e-3702e0d376",
+    "e-b83e0af118"
+   ]
+  },
+  {
+   "text": "Special access programmes are created by executive order, not statute: EO 13526 section 4.3 is the authority to establish one, and section 119 only prescribes what must be told to Congress afterwards.",
+   "cite": [
+    "e-00963cff71",
+    "e-27f41186c1"
+   ]
+  },
+  {
+   "text": "Alternative Compensatory Control Measures are defined in 32 CFR 117.3 as security measures used where SAP controls are not required, and are regulated in the same supplement as SAPs, SCI and Restricted Data; the reporting statutes all key on the terms special access programme or controlled access programme.",
+   "cite": [
+    "c-316e938aae",
+    "c-4a0c92c897",
+    "e-02914ce5fc"
+   ]
+  },
+  {
+   "text": "The Senate Armed Services and House Armed Services Committees are among the six defense committees that receive waived-SAP information. No standalone UAP disclosure bill has been referred to or reported by Senate Armed Services.",
+   "cite": [
+    "e-11ad11ba6f",
+    "e-8832e2477f",
+    "e-b0a86f6662",
+    "c-d0c807a14f"
+   ]
+  },
+  {
+   "text": "The Inspector General's UAP evaluation, DODIG-2023-109, was released only as an unclassified summary in January 2024.",
+   "cite": [
+    "c-1142db799e"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "David Grusch testified that he had been tasked to identify the special and controlled access programmes the UAP Task Force needed and was denied the read-ons he asked for. The board records that he described the Secretary's waiver and a Gang of Eight backstop for a waived unacknowledged programme, and that he had given classified information to the DoD Inspector General in July 2021.",
+   "cite": [
+    "c-b48c8cda88",
+    "e-7d04979860",
+    "e-68c5b48746",
+    "e-d7727a61b5"
+   ]
+  },
+  {
+   "text": "Members of Congress describe the access problem in their own words: Burlison said the programme managers were not transparent even in a SCIF and that if you want to hide something from Congress you hand it to a private contractor; Ogles threatened the Holman Rule against any agency denying Congress access and said after a 2024 Inspector General briefing that there was a concerted effort to conceal information; Mace said certain individuals did not want the hearing she spoke at to happen because they feared what might be disclosed.",
+   "cite": [
+    "c-bf19f238f5",
+    "c-f8538dedc0",
+    "c-68b267b9f9",
+    "c-2aad522b90",
+    "c-524ba836ba"
+   ]
+  },
+  {
+   "text": "Chairwoman Luna said she personally believes the government is hiding information about UAP, and in April 2026 wrote to the Secretary demanding AARO video files that whistleblowers had identified to her task force.",
+   "cite": [
+    "c-646c0b0887",
+    "c-c43cc6b64e"
+   ]
+  },
+  {
+   "text": "Reporting names HASC Chairman Rogers and Senator McConnell among those working against the 2023 UAP Disclosure Act.",
+   "cite": [
+    "c-49cadbe4e1",
+    "c-8ebbce4c08"
+   ]
+  },
+  {
+   "text": "On the board's reading the four regimes leave seams with no annual census running to a full committee: a DoD programme under a waiver, anything protected by ACCM rather than SAP controls, and, before December 2024, any programme moved between the DoD and intelligence regimes. It adds that 3091's anti-withholding rule does not reach DoD programmes and that the waiver exists precisely where hardware and nuclear-adjacent research live.",
+   "cite": [
+    "c-77d109b952",
+    "c-535fd2debe",
+    "c-9dae262f8b",
+    "e-c5e8524143",
+    "c-7215f466da"
+   ]
+  },
+  {
+   "text": "The board reads the read-in gate as jurisdictional rather than discretionary, since DoD's answer was not no but not your committee, and notes that Mike Gallagher sat on both House Armed Services and House Intelligence, the committee profile the board reads the gate as requiring.",
+   "cite": [
+    "c-cc7e963e8c",
+    "c-7849e20b6a",
+    "e-a24b387b7d"
+   ]
+  },
+  {
+   "text": "The board also infers that a programme started before December 1987 and never re-designated would fall outside the new-programme and pre-initiation notices, that security contractors such as Booz Allen, with about $97 billion in prime obligations since FY2008, hold the access records the statute never reaches, and that the pattern of what the FY2024 conference cut is consistent with defending committee jurisdiction.",
+   "cite": [
+    "c-8471052f80",
+    "e-236a5189be",
+    "c-729ee7fab2",
+    "e-88aa441c78",
+    "c-417febfb71"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The records disagree on the size of the waived group. It is commonly given as eight members, and one board entry says the waiver reduces notification to eight, but the statute's six committee units, each with a chair and ranking member, give up to twelve, plus the staff directors DoD policy adds.",
+   "cite": [
+    "e-41afc54acd",
+    "c-15744e1361",
+    "c-b9b20705ad"
+   ]
+  },
+  {
+   "text": "A waiver redirects reporting rather than ending it: the information withheld from the report goes to the twelve seats together with the justification, and DoD's instruction states that waived programmes remain subject to congressional oversight. On the board's own reading, a programme never notified to the committees at all would not be a lawful waived programme but an unreported one.",
+   "cite": [
+    "e-64e6689423",
+    "e-b22909a990",
+    "c-aaa2b3e0bd"
+   ]
+  },
+  {
+   "text": "The waiver's live reach after 2021 is disputed. Because it covers only subsections (a), (b) and (c) and the first two ended in December 2021, one reading is that it now operates only on classification-change reports; that is an inference, while DoD's instruction still routes waived justification material to staff directors on committee request.",
+   "cite": [
+    "c-188cbb0ed1",
+    "c-ac3f8c09d6"
+   ]
+  },
+  {
+   "text": "Whether DoD's wider group is lawful is open: the Department adds staff directors, a security manager and the intelligence committees, none of which section 119(e)(2) names.",
+   "cite": [
+    "c-b9b20705ad"
+   ]
+  },
+  {
+   "text": "The agencies say the claims were tested. Representative Grothman said, a year after Grusch testified, that none of the agencies had substantiated Grusch's claims despite members endlessly questioning them inside and outside the SCIF; the board notes this is hard to square with the read-in gate Luna later described.",
+   "cite": [
+    "c-2ca2b4bf41",
+    "c-f0981a8f64"
+   ]
+  },
+  {
+   "text": "The hearings produced allegations, not access or compulsion: House Oversight holds no section 119 entitlement, and on the board's reading no UAP subpoena issued from the committee across three hearings.",
+   "cite": [
+    "e-ae5b455dc0",
+    "c-40e772e25c"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "usc-10-119",
+   "role": "law"
+  },
+  {
+   "id": "usc-10-119e",
+   "role": "law"
+  },
+  {
+   "id": "pl-100-180",
+   "role": "law"
+  },
+  {
+   "id": "defense-committees",
+   "role": "legislator"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "role": "legislator"
+  },
+  {
+   "id": "gang-of-eight",
+   "role": "legislator"
+  },
+  {
+   "id": "usc-50-3093",
+   "role": "law"
+  },
+  {
+   "id": "usc-50-3091",
+   "role": "law"
+  },
+  {
+   "id": "usc-50-3091a",
+   "role": "law"
+  },
+  {
+   "id": "usc-50-3091a-2024amend",
+   "role": "law"
+  },
+  {
+   "id": "usc-50-3348",
+   "role": "law"
+  },
+  {
+   "id": "usc-50-2426",
+   "role": "law"
+  },
+  {
+   "id": "icd-906",
+   "role": "document"
+  },
+  {
+   "id": "eo-13526",
+   "role": "law"
+  },
+  {
+   "id": "sap-annual-report",
+   "role": "document"
+  },
+  {
+   "id": "sec-8009-sap-notice",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2024-1687",
+   "role": "law"
+  },
+  {
+   "id": "iaa-fy2024-7343",
+   "role": "law"
+  },
+  {
+   "id": "waived-usap",
+   "role": "programme"
+  },
+  {
+   "id": "accm",
+   "role": "programme"
+  },
+  {
+   "id": "dod",
+   "role": "institution"
+  },
+  {
+   "id": "dod-sapco",
+   "role": "institution"
+  },
+  {
+   "id": "dodd-5205-07-2010",
+   "role": "document"
+  },
+  {
+   "id": "dodi-5205-11",
+   "role": "document"
+  },
+  {
+   "id": "nnsa",
+   "role": "institution"
+  },
+  {
+   "id": "oversight-congress",
+   "role": "institution"
+  },
+  {
+   "id": "house-oversight-committee",
+   "role": "legislator"
+  },
+  {
+   "id": "us-house",
+   "role": "legislator"
+  },
+  {
+   "id": "senate-armed-services",
+   "role": "legislator"
+  },
+  {
+   "id": "house-armed-services",
+   "role": "legislator"
+  },
+  {
+   "id": "roger-wicker",
+   "role": "legislator"
+  },
+  {
+   "id": "jack-reed",
+   "role": "legislator"
+  },
+  {
+   "id": "susan-collins",
+   "role": "legislator"
+  },
+  {
+   "id": "patty-murray",
+   "role": "legislator"
+  },
+  {
+   "id": "mitch-mcconnell",
+   "role": "legislator"
+  },
+  {
+   "id": "chris-coons",
+   "role": "legislator"
+  },
+  {
+   "id": "mike-rogers-alabama",
+   "role": "legislator"
+  },
+  {
+   "id": "adam-smith",
+   "role": "legislator"
+  },
+  {
+   "id": "tom-cole",
+   "role": "legislator"
+  },
+  {
+   "id": "rosa-delauro",
+   "role": "legislator"
+  },
+  {
+   "id": "ken-calvert",
+   "role": "legislator"
+  },
+  {
+   "id": "betty-mccollum",
+   "role": "legislator"
+  },
+  {
+   "id": "john-mchugh",
+   "role": "legislator"
+  },
+  {
+   "id": "buck-mckeon",
+   "role": "legislator"
+  },
+  {
+   "id": "thad-cochran",
+   "role": "legislator"
+  },
+  {
+   "id": "anna-paulina-luna",
+   "role": "legislator"
+  },
+  {
+   "id": "eric-burlison",
+   "role": "legislator"
+  },
+  {
+   "id": "andy-ogles",
+   "role": "legislator"
+  },
+  {
+   "id": "glenn-grothman",
+   "role": "legislator"
+  },
+  {
+   "id": "nancy-mace",
+   "role": "legislator"
+  },
+  {
+   "id": "mike-gallagher",
+   "role": "legislator"
+  },
+  {
+   "id": "david-grusch",
+   "role": "claimant"
+  },
+  {
+   "id": "booz-allen",
+   "role": "contractor"
+  }
+ ],
+ "questions": [
+  "Has any Secretary of Defense used the section 119(e) waiver since the annual reports ended in 2021, and for what kind of report?",
+  "Is waived-programme information given to the twelve seat holders in writing, and if so where is that record kept?",
+  "Has any of the seat holders ever been told of a programme connected with UAP, and would they be free to say so?",
+  "Is any UAP-related information protected by Alternative Compensatory Control Measures rather than special access controls, and so outside every reporting statute?",
+  "Has any disclosure been made to the committees under sections 1687 or 7343, and what did it cover?",
+  "What statutory basis, if any, supports DoD's admission of staff directors and the intelligence committees to waived programmes?",
+  "Why has House Oversight never issued a UAP subpoena despite members' requests?"
+ ],
+ "related": [
+  "sap-governance",
+  "carve-outs",
+  "black-budget",
+  "funding-channels",
+  "uap-statutes",
+  "hearing-2023",
+  "hearing-2024",
+  "house-push-2026",
+  "grusch-allegations",
+  "whistleblower-channels",
+  "uapda",
+  "classification-orders",
+  "atomic-secrecy"
+ ]
 }

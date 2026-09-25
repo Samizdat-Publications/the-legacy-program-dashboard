@@ -24,7 +24,461 @@
   "d-policy"
  ],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "The executive orders that define classification, with ISOO and the CAPCO register that administer it; the orders form a chain of their own in the secrecy-architecture community.",
- "appendixT": "classification-orders"
+ "appendixT": "classification-orders",
+ "lead": {
+  "text": "The rules for classifying national security information come from a chain of executive orders: EO 10501 of 1953, superseded by EO 11652 in 1972, which EO 12065 revoked in 1978, which EO 12356 revoked in 1982, and EO 13526 of 2009, under whose section 4.3 special access programmes are created. Each order changed what may be kept secret, for how long and under whose oversight.",
+  "cite": [
+   "e-554fd9e636",
+   "e-f1202ca8fc",
+   "e-251a952ab4",
+   "c-2b64a0c63a"
+  ]
+ },
+ "summary": [
+  {
+   "text": "Eisenhower's EO 10501 fixed exactly three categories, Top Secret, Secret and Confidential, took original classification authority away from 28 agencies, and left Atomic Energy Act Restricted Data outside its own reach.",
+   "cite": [
+    "c-8ab1c2ba39",
+    "c-c323945390",
+    "c-f9be6c632c"
+   ]
+  },
+  {
+   "text": "Nixon's EO 11652 superseded it and for the first time put classified material on an automatic timetable: a General Declassification Schedule, a thirty-year rule, and an interagency review committee lodged in the National Security Council that could take complaints from outside the government.",
+   "cite": [
+    "c-4258ba182e",
+    "c-287447c8d8",
+    "c-8af24c15fd",
+    "c-6699966445"
+   ]
+  },
+  {
+   "text": "Carter's EO 12065 required officials to weigh whether the public interest in disclosure outweighed the damage to national security. Reagan's EO 12356 revoked it, dropped that test, resolved doubt toward the higher classification, and allowed reclassification even after a FOIA request had been received.",
+   "cite": [
+    "c-3a00eb08a9",
+    "c-5c19818b8c",
+    "c-56aebeea01",
+    "c-c46acf8e60"
+   ]
+  },
+  {
+   "text": "EO 13526 is the order under which special access programmes are created, by six named officials or their principal deputies. It forbids classification to conceal violations of law or to prevent embarrassment, and gives the Information Security Oversight Office a right of access to those programmes.",
+   "cite": [
+    "c-2b64a0c63a",
+    "c-4aee8742a6",
+    "c-a163066170"
+   ]
+  },
+  {
+   "text": "Two offices administer the result: ISOO, at the National Archives and responsible to the President for the government-wide classification system, and the ODNI office CAPCO, which keeps the register of intelligence control systems and compartments and publishes the marking manual.",
+   "cite": [
+    "c-ff6a66f157",
+    "c-fb60316f75",
+    "c-2155aa466f"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "EO 10501 was signed on 5 November 1953, took effect on 15 December 1953, and revoked EO 10290 of 1951. Its attached memorandum names 28 agencies stripped of original classification authority, including the Federal Trade Commission and the Veterans Administration, and 17 more limited to the agency head.",
+   "cite": [
+    "c-1560e620c1",
+    "c-e19778c6ee",
+    "c-c323945390",
+    "e-16b4c774e4"
+   ]
+  },
+  {
+   "text": "The seam with the nuclear regime is written into the orders. EO 10501 section 13 leaves Restricted Data outside the executive system, ten months before the 1954 Act, and EO 13526 section 6.2(a) says nothing in it supersedes the Atomic Energy Act, under which alone Restricted Data is handled and declassified.",
+   "cite": [
+    "c-f9be6c632c",
+    "e-8728c3e910",
+    "e-6822c0b550"
+   ]
+  },
+  {
+   "text": "EO 11652 was signed by Nixon on 8 March 1972 and took effect on 1 June 1972. It told officials that Top Secret was to be used with the utmost restraint, and its schedule declassified Top Secret after 10 years, Secret after 8 and Confidential after 6, with anything classified after that date declassified at 30 years unless a department head personally decided otherwise in writing.",
+   "cite": [
+    "c-a633f4d28c",
+    "c-6ab9bfb8f7",
+    "c-287447c8d8",
+    "c-8af24c15fd"
+   ]
+  },
+  {
+   "text": "The same order created the Interagency Classification Review Committee of State, Defense, Justice, the Atomic Energy Commission, CIA and the NSC Staff, placing monitoring of the system in the National Security Council, the statutory body created in 1947 to advise the President on national security policy.",
+   "cite": [
+    "c-6699966445",
+    "e-d4fa337aaf",
+    "c-bb725f8168"
+   ]
+  },
+  {
+   "text": "EO 12065 revoked EO 11652 in section 6-203 and required, in section 3-303, that an official determine whether the public interest in disclosure outweighs the damage to national security.",
+   "cite": [
+    "c-14cf092585",
+    "c-3a00eb08a9",
+    "e-f1202ca8fc"
+   ]
+  },
+  {
+   "text": "EO 12356, dated 2 April 1982 and effective 1 August 1982, revoked EO 12065. The phrase public interest occurs in it zero times. Section 1.6(c) allows information already declassified and disclosed to be reclassified if it may reasonably be recovered, and section 1.6(d) allows classification or reclassification after a FOIA, Privacy Act or mandatory review request has arrived.",
+   "cite": [
+    "c-c7a092fb26",
+    "c-5c19818b8c",
+    "c-c46acf8e60",
+    "e-251a952ab4",
+    "e-f0b2587a57"
+   ]
+  },
+  {
+   "text": "The covert action directive NSDD 159 of 1985 ordered a separate, specially compartmented access system at Top Secret for all covert action policy, with the only record copies of approved Findings held by one NSC officer. Its first partial release, in 1987, was made under EO 12356.",
+   "cite": [
+    "c-251ec6e090",
+    "c-f7450a1c61",
+    "e-e578f975a1"
+   ]
+  },
+  {
+   "text": "Carter's intelligence order EO 12036 routed every special activity to the President through an NSC committee and required the intelligence committees to be kept fully and currently informed while stating that this was not a condition precedent. It contains the words compartment, special access and need-to-know zero times.",
+   "cite": [
+    "c-af07845098",
+    "c-6abfd8fb81",
+    "c-77577c8088",
+    "e-b3dd3dbc45",
+    "e-dcaebb1439"
+   ]
+  },
+  {
+   "text": "EO 13526 section 4.3(a) lets only the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General and the Director of National Intelligence, or their principal deputies, create a special access programme, only when required by statute or on a finding that the threat to the information is exceptional, and tells them to keep the number at an absolute minimum. Programmes pertaining to intelligence sources and methods are the DNI's.",
+   "cite": [
+    "c-2b64a0c63a",
+    "c-836aa302fe",
+    "c-e48bcaff7d"
+   ]
+  },
+  {
+   "text": "Section 4.3(b) requires each programme to be reviewed annually and access kept reasonably small, gives ISOO's Director access, but lets an agency head limit that access to the Director and one other ISOO employee, or to the Director alone for extraordinarily sensitive programmes. The National Security Advisor is briefed on request.",
+   "cite": [
+    "c-f61d4a694c",
+    "c-a163066170",
+    "c-793d73541f",
+    "e-3225c79470",
+    "e-02efd63e7a"
+   ]
+  },
+  {
+   "text": "Section 4.3(c) says nothing in the order supersedes any requirement under 10 U.S.C. 119, the statute that governs what the Secretary of Defense tells Congress about these programmes, including the waiver that sends the information only to the chairman and ranking minority member of each defense committee.",
+   "cite": [
+    "c-8934b40a13",
+    "e-00963cff71",
+    "c-3cd5d9469e",
+    "c-be0e75b386"
+   ]
+  },
+  {
+   "text": "Section 1.7(a) of EO 13526 forbids classifying, or keeping classified, information in order to conceal violations of law, inefficiency or administrative error, to prevent embarrassment, to restrain competition or to delay release of information that needs no protection, and section 1.7(b) bars classifying basic scientific research not clearly related to national security.",
+   "cite": [
+    "c-4aee8742a6"
+   ]
+  },
+  {
+   "text": "ICD 906 is the DNI's exercise of section 4.3 for intelligence controlled access programmes. It does not apply to the special access programmes of the other departments or of the National Security Council, allows unacknowledged programmes only with the DNI's or principal deputy's approval, and lets the DNI or principal deputy exempt a programme from the community's own discovery systems.",
+   "cite": [
+    "e-c109071d21",
+    "c-7be036775d",
+    "c-2d35c91211",
+    "c-6e586c7a97"
+   ]
+  },
+  {
+   "text": "Under ICD 906 the Director of CAPCO is the accountable official, must maintain the CAP Registry of all control systems, compartments and sub-compartments and deconflict them, and coordinates congressional briefings, ISOO requests and NSC engagements on these programmes.",
+   "cite": [
+    "c-30593919b4",
+    "c-9c918bb544",
+    "c-aef17854a7",
+    "e-869f016839",
+    "e-e128df55ba"
+   ]
+  },
+  {
+   "text": "CAPCO's marking register, Version 5.1 effective 30 December 2011, gives the syntax for special access markings, beginning SPECIAL ACCESS REQUIRED or SAR followed by the programme's nickname or digraph, and moved that marking into its own category. Its title page says certain markings were removed due to classified content and compiled in separate classified addenda. ISOO advises the working group that produces it.",
+   "cite": [
+    "c-3278908750",
+    "c-440bb4aeaf",
+    "c-c017c5f107",
+    "c-f41951138f",
+    "e-20f97512a9",
+    "e-f73422cd2e"
+   ]
+  },
+  {
+   "text": "ISOO describes itself as responsible to the President for policy and oversight of the government-wide classification system and the National Industrial Security Program, and publishes an annual report to the President.",
+   "cite": [
+    "c-ff6a66f157",
+    "c-181f49a616"
+   ]
+  },
+  {
+   "text": "Congress has asked for a count once: section 7606(c) of the FY2024 Intelligence Authorization Act required each official empowered to create special access programmes under EO 13526 to review how many personnel are eligible for access and report how the number will be held to the minimum.",
+   "cite": [
+    "c-13bbc809c2",
+    "e-404081600e"
+   ]
+  },
+  {
+   "text": "The orders are what UAP records requests run into. In 2013 US Northern Command found two documents responsive to a request and withheld both as properly classified under EO 13526, and declined to search NORAD's holdings because NORAD is binational and exempt from FOIA.",
+   "cite": [
+    "c-1176dfb015",
+    "c-4aa48e98f0",
+    "e-d939e2eded"
+   ]
+  },
+  {
+   "text": "Beside the orders sit statutory layers. The Invention Secrecy Act reaches inventions the government does not own, sending the application to the Atomic Energy Commission and the Secretary of Defense for inspection, with secrecy orders renewable year by year; 6,543 were in effect at the end of FY2025. 50 U.S.C. 3510 lets certain intelligence spending be accounted for on the agency head's certificate alone.",
+   "cite": [
+    "c-b315ec417b",
+    "c-7f0e66ba39",
+    "c-45719302b6",
+    "e-1a85be9443",
+    "c-ccba33b899"
+   ]
+  },
+  {
+   "text": "The CIA created a compartment by going round its own review body in writing: the BLUEBIRD proposal of 5 April 1950 went directly to the Director rather than through the Projects Review Committee, with knowledge restricted to the absolute minimum number of persons.",
+   "cite": [
+    "c-8a9f50409a",
+    "e-4fcf8b3146"
+   ]
+  },
+  {
+   "text": "A published directive can also remove a person from sensitive duty without any classification decision: DoD Directive 5210.42 on the nuclear Personnel Reliability Program lists aberrant attitude, behaviour or mood among disqualifying factors and lets medical records go to certifying officials without the person's consent.",
+   "cite": [
+    "c-1a55913478",
+    "c-d60cce55e6",
+    "c-adb3f04b95"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "The board infers that because ISOO's access runs consistent with the policies and procedures directed by the President, ISOO cannot warrant that it has seen the whole inventory of special access programmes, and that routing ISOO requests about intelligence programmes through CAPCO means its oversight is mediated by the office it would be overseeing.",
+   "cite": [
+    "c-391f1f2153",
+    "c-64ee83d1c6"
+   ]
+  },
+  {
+   "text": "On the board's reading, three separate instruments each narrow oversight of the same object: the 10 U.S.C. 119(e) waiver for Congress, section 4.3(b)(3) of EO 13526 for ISOO, and the 32 CFR 117.6(b)(3) carve-out for industrial security, so closing any one would leave the other two.",
+   "cite": [
+    "c-b209b81bf2"
+   ]
+  },
+  {
+   "text": "The board infers that ISOO's industrial security role is the only government-wide window on a contractor-held programme with no government sponsor of record, and that it has never been directed at the UAP question; and that CAPCO's registry is the nearest thing to a master index of the classified compartment space.",
+   "cite": [
+    "c-3fa8125ccf",
+    "e-ce2fc3d777",
+    "c-a6204f062c"
+   ]
+  },
+  {
+   "text": "The board reads sections 1.7(a)(1) and 1.7(b) of EO 13526 as the provisions a whistleblower alleging an illegally concealed recovery programme would invoke, and notes that neither carries an enforcement mechanism inside the order.",
+   "cite": [
+    "c-9950c6e48d"
+   ]
+  },
+  {
+   "text": "On the board's reading, the waiver, the SAPCO notification rule and committee read-in practice together could keep a programme from 527 of 535 members of Congress indefinitely, and the allegation of a concealed legacy programme reduces to a waived programme or one never entered into the system at all.",
+   "cite": [
+    "c-3104436903",
+    "c-89da18590f"
+   ]
+  },
+  {
+   "text": "Speakers on the American Alchemy podcast describe the nuclear Personnel Reliability Program as a reason nuclear-site personnel did not report what they saw, and attach a figure of 167 to it. The board carries the programme as an administrative alternative to classification, as its own reading.",
+   "cite": [
+    "c-89d4aa637b",
+    "e-5eb5b2f51e"
+   ]
+  },
+  {
+   "text": "The Black Vault reports that the Space Force withheld in full, under EO 13526, the procedures and manuals referring to fastwalkers and slowwalkers in December 2023.",
+   "cite": [
+    "c-34009e3b1c"
+   ]
+  },
+  {
+   "text": "On the directive side, the Disclosure Foundation announced on 14 June 2026 that Avi Loeb had been asked to assemble and lead a twelve-member UAP Science Advisory Council to support government agencies, and Loeb published his own account of agreeing to lead it on 1 July 2026.",
+   "cite": [
+    "c-b399524bb1",
+    "c-981ffd902e"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The chain is often told wrongly. EO 12356 did not revoke EO 11652: EO 12065 had already done so in 1978, and skipping it is the commonest error. The Federation of American Scientists address usually given for EO 12356 does not exist.",
+   "cite": [
+    "c-3fef1fee56",
+    "c-14cf092585"
+   ]
+  },
+  {
+   "text": "The records disagree on how EO 11652 ended its predecessor: section 14 is headed as a revocation of EO 10501 but operatively supersedes it, while the National Archives disposition table records that it revokes it. The usual description of EO 11652 as the first major overhaul since 1953 is a historians' framing the order does not make.",
+   "cite": [
+    "c-4258ba182e",
+    "e-554fd9e636",
+    "c-f844ee821b"
+   ]
+  },
+  {
+   "text": "EO 12036 cannot be cited for compartmentation, since it contains no compartmentation provision of any kind.",
+   "cite": [
+    "c-77577c8088"
+   ]
+  },
+  {
+   "text": "The orders themselves forbid the uses this board worries about: EO 13526 bars classification to conceal violations of law, subordinates itself to the statutory reporting scheme of 10 U.S.C. 119, and makes special access programmes subject to ISOO's oversight programme.",
+   "cite": [
+    "c-4aee8742a6",
+    "c-8934b40a13",
+    "c-1833de5ff1"
+   ]
+  },
+  {
+   "text": "Common shorthand overstates the nuclear regime: the phrase born classified appears nowhere in the Atomic Energy Act, and the doctrine is an inference from the Act's definition and its criminal provisions.",
+   "cite": [
+    "c-c0b4e07a76"
+   ]
+  },
+  {
+   "text": "The Personnel Reliability Program claim is not supported by the directive. The figure of 167 is Robert Hastings's count of nuclear-base witnesses, not of programme personnel, no opened record supports the reporting claim, and the directive says nothing about reporting aerial phenomena.",
+   "cite": [
+    "c-89d4aa637b"
+   ]
+  },
+  {
+   "text": "Two citations here rest on less than the primary record: the Federal Register citation usually given for EO 10501 was not verified, and the Space Force fastwalker response letter was not opened.",
+   "cite": [
+    "c-f70847873e",
+    "c-34009e3b1c"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "eo-10501",
+   "role": "law"
+  },
+  {
+   "id": "eo-11652",
+   "role": "law"
+  },
+  {
+   "id": "eo-12065",
+   "role": "law"
+  },
+  {
+   "id": "eo-12356",
+   "role": "law"
+  },
+  {
+   "id": "eo-12036",
+   "role": "law"
+  },
+  {
+   "id": "eo-13526",
+   "role": "law"
+  },
+  {
+   "id": "isoo",
+   "role": "institution"
+  },
+  {
+   "id": "capco-register",
+   "role": "document"
+  },
+  {
+   "id": "odni-capco",
+   "role": "institution"
+  },
+  {
+   "id": "national-security-council",
+   "role": "institution"
+  },
+  {
+   "id": "icd-906",
+   "role": "document"
+  },
+  {
+   "id": "waived-usap",
+   "role": "programme"
+  },
+  {
+   "id": "usc-10-119",
+   "role": "law"
+  },
+  {
+   "id": "atomic-energy-act-1954",
+   "role": "law"
+  },
+  {
+   "id": "atomic-energy-act-1946",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2024-7606",
+   "role": "law"
+  },
+  {
+   "id": "nsdd-159",
+   "role": "document"
+  },
+  {
+   "id": "oversight-congress",
+   "role": "institution"
+  },
+  {
+   "id": "defense-support-program",
+   "role": "programme"
+  },
+  {
+   "id": "invention-secrecy-act",
+   "role": "law"
+  },
+  {
+   "id": "project-bluebird",
+   "role": "programme"
+  },
+  {
+   "id": "prp-nuclear-weapon",
+   "role": "programme"
+  }
+ ],
+ "questions": [
+  "Has ISOO's Director ever exercised the right of access to special access programmes, and has any agency head limited that access to the Director alone?",
+  "What markings sit in the classified addenda to the CAPCO register, and does any concern the subject of this board?",
+  "Were the personnel reviews required by section 7606(c) of the FY2024 Intelligence Authorization Act delivered, and what did they show?",
+  "What do the two documents US Northern Command withheld in 2013 contain, and under what classification guide?",
+  "Has anyone ever challenged a UAP-related classification under section 1.7(a) of EO 13526, and with what result?",
+  "What formal basis, if any, does the UAP Science Advisory Council announced in June 2026 have in an executive order or directive?",
+  "What is the verified Federal Register citation for EO 10501?"
+ ],
+ "related": [
+  "atomic-secrecy",
+  "sap-governance",
+  "sap-reporting",
+  "carve-outs",
+  "nsc-spine",
+  "foia-litigation",
+  "records-collection",
+  "navy-patents",
+  "cia-secrecy-precedents",
+  "nuclear-witnesses",
+  "uap-statutes",
+  "black-budget"
+ ]
 }

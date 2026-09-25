@@ -24,7 +24,445 @@
   "d-program"
  ],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "The three states of a special access programme and the DoD directives that define them; the core of the SAP-law community, split from reporting and governance because each answers a different question.",
- "appendixT": "sap-states"
+ "appendixT": "sap-states",
+ "lead": {
+  "text": "The Department of Defense sorts special access programmes into three states: acknowledged, whose existence is known but whose details are classified; unacknowledged, whose existence itself is protected; and waived, a subset of unacknowledged programmes whose standard reporting to Congress the Secretary has waived. This topic covers the directives, manuals and regulation that define those states and the devices that keep the deeper ones out of sight.",
+  "cite": [
+   "c-fa8f5f4f53",
+   "c-4d4cce859c",
+   "c-31436fb01c",
+   "c-127bc39a52"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The 2010 DoD directive defined the three states word for word, calling a waived programme an unacknowledged SAP with more restrictive reporting and access controls, and the 2024 instruction makes the nesting operative: only select unacknowledged programmes can be designated waived. Cutting across the states are categories by mission, such as acquisition programmes protecting research, development and procurement, and operations and support programmes protecting sensitive military operations, property and plans.",
+   "cite": [
+    "c-d7966119aa",
+    "c-127bc39a52",
+    "c-9d9f50eb15",
+    "c-52425bf3f8",
+    "e-3f4081218b"
+   ]
+  },
+  {
+   "text": "Every category descends from section 4.3 of EO 13526, and 32 CFR 117.3 gives the regulatory definition that binds contractors: a programme established to control access and distribution and to protect particularly sensitive classified information beyond that normally required at Top Secret, Secret or Confidential.",
+   "cite": [
+    "e-7ef6286d69",
+    "c-4fe2a93b39",
+    "e-a4039fc7a5"
+   ]
+  },
+  {
+   "text": "The 2024 reissue of the directive dropped the definitions of acknowledged, unacknowledged and waived programmes and of the carve-out, and added new categories such as the Joint Force Integration SAP and the Strategic Enabler SAP; the older taxonomy survives in the companion instruction.",
+   "cite": [
+    "c-c5d6a69daa",
+    "e-fadcb75947",
+    "c-3e2cb047f8",
+    "e-b22909a990"
+   ]
+  },
+  {
+   "text": "Around the states sit cover devices and a lower tier: the HVSACO handling caveat, which is expressly not a classification, unclassified nicknames in the report to Congress, and Alternative Compensatory Control Measures, used where SAP controls are not required.",
+   "cite": [
+    "c-1b4d83fb74",
+    "c-d4a6af4168",
+    "c-316e938aae"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "The 2010 directive, cleared for public release, reissued the 2006 directive, and restated the waiver as policy: where the Secretary determines that reporting to Congress by standard processes would adversely affect national security, he or she may designate select unacknowledged programmes as waived under 10 U.S.C. 119.",
+   "cite": [
+    "c-80916576a9",
+    "c-be89ad4375",
+    "c-471a73b391",
+    "e-3763fd95a8"
+   ]
+  },
+  {
+   "text": "The same directive limited waived programmes, absent the Secretary's or Deputy Secretary's approval, to the chair, ranking minority member and staff directors of the defense and intelligence committees; kept all waived material submitted to Congress in DoD custody; required notice to SAPCO before any briefing of Congress; barred contractors from giving SAP material to Congress without SAPCO's approval; and denied members' personal staff any access.",
+   "cite": [
+    "c-3ed0996ce2",
+    "c-0ea4c10e6e",
+    "c-6e83879e51",
+    "c-658e6282c8",
+    "e-c7d081dc1a"
+   ]
+  },
+  {
+   "text": "It also subjected everyone with access to a random counterintelligence-scope polygraph, required SAPCO to seek the Deputy Secretary's approval each year of the billet structure covering every DoD programme, and routed access for the White House, the NSC, political appointees and, for waived programmes, judicial personnel through SAPCO.",
+   "cite": [
+    "c-421d469637",
+    "c-ea61b6ac21",
+    "c-b4bb8a2536"
+   ]
+  },
+  {
+   "text": "The 2024 directive, approved by Deputy Secretary Hicks, cancels the 2010 one and incorporates the July 2023 SAP Enterprise Reform guidance. It says new umbrellas and compartments will be established by exception, with the Secretary's or Deputy Secretary's approval, keeps the Oversight Committee as the senior governing body, and makes SAPCO the primary point of contact with the legislative branch.",
+   "cite": [
+    "c-db3102e456",
+    "c-387a9587fb",
+    "c-a33370c914",
+    "c-6923d3709d",
+    "c-acaaf040d7",
+    "e-67865993dd"
+   ]
+  },
+  {
+   "text": "The DoD SAP Security Manual comes in four volumes: general procedures, personnel security, physical security and marking. Volume 1 folded the former overprint to the industrial security manual supplement into a public manual, and it survives in full only in Internet Archive captures, its live paths returning 404.",
+   "cite": [
+    "c-a1efad4b48",
+    "c-ab95172788",
+    "c-5076d68d5b",
+    "c-9c03ae0e10",
+    "e-9639bb02ab",
+    "e-6ba903bc02"
+   ]
+  },
+  {
+   "text": "The manual's HVSACO caveat exists to keep general programme information inside acknowledged and unacknowledged SAP channels and to minimise operational security indicators. It is applied, among other cases, to information that does not warrant classification under EO 13526 and whenever a nickname for an unacknowledged programme is used; the manual says it is not a classification, and on a release request the originator either removes it or tells the requester the information will not be released.",
+   "cite": [
+    "c-289bd1ae28",
+    "c-1b4d83fb74",
+    "c-9f59e76cf6",
+    "c-a740926311",
+    "e-b00c154646"
+   ]
+  },
+  {
+   "text": "Every programme must carry an unclassified nickname generated under the Joint Chiefs' nickname manual, and those nicknames are what the annual report to Congress uses. The manual also bars the use of government identification cards in unacknowledged locations, and lets several programmes, including carved-out ones, share one facility under a co-utilisation agreement.",
+   "cite": [
+    "c-d4a6af4168",
+    "e-7f3091a8d6",
+    "c-f888a88b72",
+    "c-bf2eaeb464"
+   ]
+  },
+  {
+   "text": "32 CFR 117 defines Alternative Compensatory Control Measures as security measures used where normal measures cannot achieve strict need-to-know and SAP controls are not required, and places them in the same supplement as SAPs, SCI and Restricted Data, applied through specific contract requirements. The rule implements EO 12829.",
+   "cite": [
+    "c-316e938aae",
+    "c-4a0c92c897",
+    "c-da736f01e6",
+    "c-148a97616f",
+    "e-6da78c671c"
+   ]
+  },
+  {
+   "text": "The 2010 glossary also defines the carve-out, the provision that relieves the Defense Security Service of industrial security oversight for a programme, and SAPCO holds the list of carved-out facilities.",
+   "cite": [
+    "c-6d11772d7c",
+    "e-c6630de025"
+   ]
+  },
+  {
+   "text": "The waiver is in use, on the Department's own text, though no instance is public. DoDI 5205.11 states the Secretary may designate select unacknowledged programmes as waived; the Oversight Committee reviews all waived programmes each year; the Senior Review Group reviews them annually and checks the accuracy of the list sent to Congress; SAPCO sets the review criteria; and the instruction has separate delegation rules for access approval on waived programmes.",
+   "cite": [
+    "c-dec5b4f44d",
+    "c-a126591e23",
+    "c-c456336c62",
+    "c-b3a2a6e2c8",
+    "c-e32ddd5318",
+    "c-728443976f"
+   ]
+  },
+  {
+   "text": "Outside records confirm the category. The Moynihan Commission wrote in 1997 that waived programmes were considered so sensitive that they were exempt from standard reporting to Congress, and a 1994 commission noted that some of the most sensitive DoD programmes were waived or carved out.",
+   "cite": [
+    "c-267f7f10ba",
+    "e-2f60ed6ae3"
+   ]
+  },
+  {
+   "text": "GAO has described the waiver without reporting a use of it: GAO/NSIAD-93-78 set out the mechanism, and the earlier GAO/NSIAD-89-133 did not mention the section 119(e) waiver at all.",
+   "cite": [
+    "c-b8658d10cc",
+    "c-a54cf2978d"
+   ]
+  },
+  {
+   "text": "The waiver is a statutory term traced to one sentence, 10 U.S.C. 119(e)(2), which sends the information and justification jointly to the chairman and ranking minority member of each defense committee and requires nothing written, retained or shared. The comparable waiver for other agencies in 50 U.S.C. 3348(e) still sends the information to the full oversight committees.",
+   "cite": [
+    "c-4d5d9bc12f",
+    "c-d4856d2743",
+    "c-68f70867b0",
+    "e-336caeab0b"
+   ]
+  },
+  {
+   "text": "Representative Nancy Mace sits on House Armed Services, one of the six defense committees, but as neither chair nor ranking member she has no entitlement under section 119(e)(2) and would not be told a waiver had been used.",
+   "cite": [
+    "e-a08330f2e8"
+   ]
+  },
+  {
+   "text": "The CAPCO marking register gives special access programmes their own marking category, and since December 2024 the law bars moving a capability from an intelligence controlled access programme into a special access programme without notice.",
+   "cite": [
+    "e-53d66f00fb",
+    "e-a9db3c9949"
+   ]
+  },
+  {
+   "text": "The UAP funding bar of 2023 acts on the waived category without changing it: section 1687 conditions money for UAP activity under special or restricted access on disclosure to the committees and leadership, and does not amend section 119(e).",
+   "cite": [
+    "e-3702e0d376"
+   ]
+  },
+  {
+   "text": "The one documented moment where a visible UAP programme was considered for conversion is on paper: DIA's AAWSAP solicitation and statement of work of August 2008 are public, and an OUSD(I) information memorandum of November 2009 records the review of a special access programme request for its successor.",
+   "cite": [
+    "c-50f5d9f1a3",
+    "c-636dd87d0d",
+    "c-697d44d584",
+    "c-e739de921c",
+    "e-c5ca7cb71e"
+   ]
+  },
+  {
+   "text": "Earlier instances show the states in operation. GAO's 1988 report is a primary statement of how programmes were established and by whom; NSDD 159 of 1985 ordered a special access compartment over a whole policy subject; and the Army's psychoenergetics work, begun as GRILL FLAME in 1977, ran as CENTER LANE, a Secretary of the Army designated special access programme with a category three access caveat, until INSCOM ended it in 1984 and proposed handing it to a national agency.",
+   "cite": [
+    "e-df64c24d34",
+    "e-ec701494a2",
+    "c-d71ba63641",
+    "c-263f08beaa",
+    "c-4431d8670d"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Representative Mace said at a public hearing that only certain people know the name of the programme and that if you do not know it you cannot get the information. She also asked whether material is given to particular contractors for their expertise, and Luis Elizondo said yes, absolutely correct.",
+   "cite": [
+    "e-a3adff20ca",
+    "c-1fff6fcd25",
+    "e-40aa564242"
+   ]
+  },
+  {
+   "text": "On the board's reading, a legacy recovery and exploitation effort would map onto the taxonomy as a waived unacknowledged operations and support programme, covering custody of property, with an acquisition compartment for exploitation under the same umbrella; and the allegation reduces to whether the waiver was used or the activity was never entered into the SAP system at all.",
+   "cite": [
+    "c-fc48a35ede",
+    "c-89da18590f"
+   ]
+  },
+  {
+   "text": "The board infers that three stacked provisions produce a genuinely invisible programme: the waiver removes the content, the 2021 sunset removed the annual count, and the carve-out removes the outside inspector. It also infers that HVSACO material sits outside the declassification system entirely, and that ACCM triggers no congressional notice under any of the four reporting statutes.",
+   "cite": [
+    "c-4a265653bd",
+    "c-7ed647dbeb",
+    "c-9dae262f8b"
+   ]
+  },
+  {
+   "text": "The board reads the 2024 reissue as relocating rather than abolishing the architecture, moving it one document down the hierarchy, and notes that the regulation still points at a directive that no longer defines the carve-out. It reads the contractor rule in paragraph 4.e as a gag, since the approving office is the subject of the disclosure.",
+   "cite": [
+    "c-d5aaf0fefd",
+    "c-e9f51fdffe",
+    "c-88252132e4"
+   ]
+  },
+  {
+   "text": "The board infers that a complete list of waived programmes exists as an agency record, because it is reviewed and validated every year.",
+   "cite": [
+    "c-b96e7d9045"
+   ]
+  },
+  {
+   "text": "The board also sets DARPA beside the category as the open counterfactual, with named programme managers and a public budget, reads CENTER LANE as a ridiculed subject held under service-secretary-level access controls, and reads HVSACO and nickname practice as the paperwork environment Elizondo has described.",
+   "cite": [
+    "e-70b8aca7b5",
+    "e-36c03e7cc0",
+    "e-04241abab9"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "No public document identifies a single waived programme, a count, a date or any connection to unidentified anomalous phenomena, and a search across GAO, Inspector General, CRS and Armed Services Committee material found no UAP-specific use of the waiver.",
+   "cite": [
+    "c-dec5b4f44d",
+    "c-f1ac97c4db",
+    "c-b8658d10cc"
+   ]
+  },
+  {
+   "text": "The Department's instruction says waived programmes remain subject to congressional oversight.",
+   "cite": [
+    "e-b22909a990"
+   ]
+  },
+  {
+   "text": "The one documented UAP-related SAP request, for AAWSAP's successor in November 2009, was recommended against by USD(I) James Clapper.",
+   "cite": [
+    "c-6ea53c64b3"
+   ]
+  },
+  {
+   "text": "The records disagree on who sees a waived programme: the board's own waived-programme entry speaks of an eight-member floor, while the statute sends the material to the chairman and ranking member of each of the six defense committees, which another entry counts as twelve.",
+   "cite": [
+    "c-68f70867b0",
+    "c-4d5d9bc12f",
+    "e-336caeab0b"
+   ]
+  },
+  {
+   "text": "The public texts disagree on whether the three states still exist: the 2024 directive's definitions omit them, while the instruction issued the same day keeps them.",
+   "cite": [
+    "c-c5d6a69daa",
+    "e-b22909a990"
+   ]
+  },
+  {
+   "text": "CENTER LANE is not evidence of a waived programme: no opened record connects it to waived status or to any unacknowledged programme.",
+   "cite": [
+    "e-36c03e7cc0"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "waived-usap",
+   "role": "subject"
+  },
+  {
+   "id": "dodd-5205-07-2010",
+   "role": "document"
+  },
+  {
+   "id": "dodd-5205-07-2024",
+   "role": "document"
+  },
+  {
+   "id": "dodi-5205-11",
+   "role": "document"
+  },
+  {
+   "id": "dodm-5205-07-series",
+   "role": "document"
+  },
+  {
+   "id": "dodm-5205-07-v1",
+   "role": "document"
+  },
+  {
+   "id": "cfr-32-117",
+   "role": "law"
+  },
+  {
+   "id": "eo-12829",
+   "role": "law"
+  },
+  {
+   "id": "eo-13526",
+   "role": "law"
+  },
+  {
+   "id": "accm",
+   "role": "programme"
+  },
+  {
+   "id": "carve-out",
+   "role": "programme"
+  },
+  {
+   "id": "dod-sapco",
+   "role": "institution"
+  },
+  {
+   "id": "sapoc",
+   "role": "institution"
+  },
+  {
+   "id": "srg-dod",
+   "role": "institution"
+  },
+  {
+   "id": "dod-sap-reform-1994",
+   "role": "event"
+  },
+  {
+   "id": "sap-annual-report",
+   "role": "document"
+  },
+  {
+   "id": "usc-10-119",
+   "role": "law"
+  },
+  {
+   "id": "usc-10-119e",
+   "role": "law"
+  },
+  {
+   "id": "usc-50-3091a-2024amend",
+   "role": "law"
+  },
+  {
+   "id": "ndaa-fy2024-1687",
+   "role": "law"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "role": "legislator"
+  },
+  {
+   "id": "gang-of-eight",
+   "role": "legislator"
+  },
+  {
+   "id": "capco-register",
+   "role": "document"
+  },
+  {
+   "id": "gao-nsiad-88-152",
+   "role": "document"
+  },
+  {
+   "id": "nsdd-159",
+   "role": "document"
+  },
+  {
+   "id": "inscom",
+   "role": "institution"
+  },
+  {
+   "id": "darpa",
+   "role": "institution"
+  },
+  {
+   "id": "ousdi",
+   "role": "institution"
+  },
+  {
+   "id": "nancy-mace",
+   "role": "legislator"
+  },
+  {
+   "id": "luis-elizondo",
+   "role": "witness"
+  }
+ ],
+ "questions": [
+  "How many waived programmes are on the list the Senior Review Group reviews each year, and has any ever concerned the subject of this board?",
+  "How do the 2024 categories, the Joint Force Integration SAP and the Strategic Enabler SAP, map onto the older acknowledged, unacknowledged and waived states?",
+  "Has any UAP-related material been held under the HVSACO caveat, outside the classification system?",
+  "Was the 2009 special access programme request for AAWSAP's successor ever approved in any form?",
+  "What do Volumes 2 to 4 of the SAP Security Manual now say, given that the live copies are no longer retrievable?",
+  "Is any UAP-related information protected under Alternative Compensatory Control Measures rather than as a special access programme?"
+ ],
+ "related": [
+  "sap-governance",
+  "sap-reporting",
+  "carve-outs",
+  "classification-orders",
+  "aatip-elizondo",
+  "stargate",
+  "black-budget",
+  "uap-statutes",
+  "hearing-2024",
+  "aawsap-baass"
+ ]
 }

@@ -20,7 +20,335 @@
  ],
  "absorbs": [],
  "essays": [],
- "status": "draft",
+ "status": "drafted",
  "notes": "Appendix T's arv-tr3b split in two: the ARV and the TR-3B come from different claimants a decade apart, and each reaches six members on its own. Canon pass 2.",
- "appendixT": "arv-tr3b"
+ "appendixT": "arv-tr3b",
+ "lead": {
+  "text": "The Alien Reproduction Vehicle, or Flux Liner, is a saucer said to have been shown to invited guests in a hangar at Norton Air Force Base in November 1988. Every substantive claim about it traces to one man, known only as Brad, whose 1990 interview survives; the illustrator Mark McCandlish, who was not there, drew it and gave it its names in print in 2001.",
+  "cite": [
+   "e-e17e072da8",
+   "c-8355eebae9",
+   "c-24dd1ef931",
+   "c-4bc49c0fb1",
+   "e-278dfd223f"
+  ]
+ },
+ "summary": [
+  {
+   "text": "The earliest opened record is the working file of William B. Scott, senior engineering editor at Aviation Week: handwritten notes and a 16 page typed transcript of a taped interview with Brad on 3 December 1990, never published.",
+   "cite": [
+    "c-09fec4e66f",
+    "c-8355eebae9",
+    "c-5083c64066",
+    "e-1ddb953720"
+   ]
+  },
+  {
+   "text": "In it Brad says he was invited to an air show at Norton AFB in early November 1988 and shown, in a showroom-like hangar, three saucers of different sizes, which briefers told him had been built by copying hardware recovered in 1947.",
+   "cite": [
+    "c-33f05094dd",
+    "c-88da29290a",
+    "c-da10a5f80f",
+    "c-a1e8eee438",
+    "e-f94b7db7df"
+   ]
+  },
+  {
+   "text": "The account reached a wider public through McCandlish's December 2000 testimony in the Disclosure Project Briefing Document of April 2001, compiled by Steven Greer and Theodore Loder, and later through a documentary on McCandlish and the ARVP website, which hosts the 1990 notes and sells a 3D reconstruction.",
+   "cite": [
+    "c-882d9ed7ad",
+    "e-a569f5ad14",
+    "c-73ee030dce",
+    "e-9c7f8f9791",
+    "c-d37177e0fb",
+    "e-c72c263707"
+   ]
+  },
+  {
+   "text": "The topic follows how the description grew between 1990 and 2024, and sets its claimed lift mechanism beside the patents the account cites.",
+   "cite": [
+    "c-e1d0899824",
+    "c-c7fb7016e2"
+   ]
+  }
+ ],
+ "record": [
+  {
+   "text": "Scott's transcript is headed as notes from the interview of 3 December 1990 with Brad, compiled on 11 December, and carries tape-side markers; a handwritten addendum dated 10 December adds further information from Brad. Brad agreed to one paid hour in his Pasadena office.",
+   "cite": [
+    "c-8355eebae9",
+    "c-1c96e2b5db",
+    "c-30d6784be6",
+    "e-431b838916"
+   ]
+  },
+  {
+   "text": "The notes profile Brad as a designer in his mid thirties with his own design and prototyping business, who claimed to be a private pilot but did not seem to know much about military aircraft, and who had refused to talk the previous summer because the matter had hurt his business and credibility.",
+   "cite": [
+    "c-698de70209",
+    "c-2f333a5803",
+    "c-0d4b14b2bc"
+   ]
+  },
+  {
+   "text": "The notes fix the direction of the relay: Brad is the source of McCandlish's artwork in Aviation Week's 1 October issue, which McCandlish painted from Brad's verbal descriptions.",
+   "cite": [
+    "c-1bca13f61e",
+    "e-9b387571b2"
+   ]
+  },
+  {
+   "text": "Shown McCandlish's sketches, Brad said the manned vehicle was probably the farthest from what he saw and that McCandlish extrapolates too much, while calling the saucer drawing as accurate as he could get.",
+   "cite": [
+    "c-df16512cf7",
+    "c-0af39b9ed3"
+   ]
+  },
+  {
+   "text": "Scott recorded his own reservations inside the document: that Brad kept confusing frequency and wavelength, and that Brad twice reminded him of his design fee and offered a rendering for a couple of thousand dollars.",
+   "cite": [
+    "c-8fc20dee93"
+   ]
+  },
+  {
+   "text": "An air show was held at Norton AFB on 12 November 1988, at which an SR-71A flew, according to a private Blackbird photographic collection; this is the only opened record that dates the show independently of the account.",
+   "cite": [
+    "c-629fe91555",
+    "e-dcac53bb5e"
+   ]
+  },
+  {
+   "text": "The Briefing Document prints McCandlish's testimony under the date December 2000 in its technology section, and the interviews in it were conducted by Greer, whose bracketed notes cross-reference McCandlish to a second witness, Lt Col John Williams, who says he was never allowed into a restricted area at Norton.",
+   "cite": [
+    "c-882d9ed7ad",
+    "c-afeee5cd4d",
+    "c-49bd4c0e50",
+    "c-ab7b5078ae",
+    "e-2fd404135e"
+   ]
+  },
+  {
+   "text": "The ARVP site names no owner; it hosts the 1990 notes and McCandlish's coroner's file, publishes a 3D reconstruction the operator built from McCandlish's talks rather than the original drawing, and sells prints of it. The scan of the notes was created in October 2024 and who held them from 1990 is not recorded.",
+   "cite": [
+    "c-3cde48e0ef",
+    "c-d37177e0fb",
+    "c-cb27dc7efa",
+    "c-7695db3168",
+    "e-1385f404f0",
+    "e-0cc477250c"
+   ]
+  },
+  {
+   "text": "A Vimeo channel for the film Zero Point: The Story of Mark McCandlish and the Flux Liner is dedicated to its late writer-director James Allen.",
+   "cite": [
+    "c-8b66744d34",
+    "e-509f666d13"
+   ]
+  }
+ ],
+ "claimed": [
+  {
+   "text": "Brad described three craft, which he likened to daddy bear, mommy bear and baby bear, at about 20, 60 and maybe 120 feet across, adding that the sizes were just a guess. He said they looked poorly built and were coated with brushed-on lead paint.",
+   "cite": [
+    "c-da10a5f80f",
+    "c-c31edadb68"
+   ]
+  },
+  {
+   "text": "He said the event was a sales exercise for appropriations of billions of dollars, staged for about thirty invited guests by briefers in Air Force blue, and that a briefer told the group the craft had travelled at seven to eight times the speed of light and found no life anywhere.",
+   "cite": [
+    "c-a52a58a42b",
+    "c-c4eb17258d",
+    "c-375fc66981",
+    "e-9d898a94af"
+   ]
+  },
+  {
+   "text": "He also described a second, unmanned diamond-shaped craft that briefers said carried 121 nuclear weapons.",
+   "cite": [
+    "c-fb2b3e0990"
+   ]
+  },
+  {
+   "text": "McCandlish, who says he missed the air show because of a magazine deadline, testified in December 2000 to what Brad told him the following week: that the craft were called the Alien Reproduction Vehicle, nicknamed the Flux Liner, and that they were seen on Saturday 12 November 1988.",
+   "cite": [
+    "c-24dd1ef931",
+    "c-4bc49c0fb1",
+    "c-423d3a3837"
+   ]
+  },
+  {
+   "text": "McCandlish's testimony describes a crew sphere with four ejection seats, a capacitor stack of 48 copper-plated sections charged by a Tesla coil at up to about a million volts, and a camera vision system in place of windows, and attributes the lift effect to a Thomas Townsend Brown patent of the late 1950s or early 1960s.",
+   "cite": [
+    "c-b32e204a5f",
+    "c-260480f68b",
+    "c-cbee327aed",
+    "c-9765b16d0f",
+    "c-01385c5532",
+    "e-be1ea94e26"
+   ]
+  },
+  {
+   "text": "McCandlish describes himself as a conceptual artist for the defence industry and names General Dynamics, Lockheed, Northrop, McDonnell Douglas and Boeing among his clients; no personnel or contract record for any of them was opened.",
+   "cite": [
+    "c-e3fdfdbb0f",
+    "c-f0d051d621",
+    "e-4d2812e764",
+    "e-a2b6a32a54",
+    "e-e5eb570997",
+    "e-1e3c845364"
+   ]
+  },
+  {
+   "text": "McCandlish speculated that the host of the exhibit was probably Frank Carlucci, and labelled that as his own speculation.",
+   "cite": [
+    "c-207448752f"
+   ]
+  }
+ ],
+ "contested": [
+  {
+   "text": "The sizes drift one way across three documents: 20, 60 and maybe 120 feet in 1990 with the witness's disclaimer; 24, 60 and 120 to 130 feet in 2001; and 130, 60 and 24 feet on the ARVP site in 2024 with no disclaimer at all.",
+   "cite": [
+    "c-e1d0899824"
+   ]
+  },
+  {
+   "text": "McCandlish's 2001 testimony adds a three star general who said the craft could reach light speed. In 1990 Brad said he did not see any generals there, and would have noticed if he had.",
+   "cite": [
+    "c-f1396770b7"
+   ]
+  },
+  {
+   "text": "The Carlucci identification does not fit the 1990 record, which describes a Carter-administration Democrat running about six injection-moulding and materials businesses, while Carlucci was the sitting Secretary of Defense on 12 November 1988.",
+   "cite": [
+    "c-207448752f"
+   ]
+  },
+  {
+   "text": "The exact date of the exhibit comes from McCandlish in 2001; the 1990 notes place the account only in early November 1988.",
+   "cite": [
+    "c-33f05094dd",
+    "e-26afe98e1d"
+   ]
+  },
+  {
+   "text": "Neither Brown patent claims anti-gravity: both describe thrust by electrical fields, and the word gravity appears in neither. A NASA assessment finds that thrust in such devices is attributable to ion wind and that they are not candidates for breakthrough propulsion. It is the account that reinterprets electrokinetic thrust as levitation.",
+   "cite": [
+    "c-c7fb7016e2",
+    "c-6e63f8a30c",
+    "e-0b4aa2604c"
+   ]
+  },
+  {
+   "text": "A patent offered as evidence that the drawing's Scalar Physics callout refers to scalar particles, US 3,322,374, contains neither the word scalar nor the word gravity. On the board's reading, the ARV and TR-3B accounts both cite real documents that do not say what is claimed for them.",
+   "cite": [
+    "c-654821aa52",
+    "c-f6cd6a6416"
+   ]
+  },
+  {
+   "text": "Eric Davis said on a 2024 podcast that no ARV exists or was ever built, that the rumours are myth spread by storytellers who believe their own tales, and that the CIA shut it all down in 1989.",
+   "cite": [
+    "c-9db1fbc705",
+    "e-c1325a6e0d",
+    "e-f9d39ff51a"
+   ]
+  },
+  {
+   "text": "The corroboration between McCandlish and Williams is asserted by the compiler inside his own compilation. On the board's reading the Briefing Document is good evidence that a named person testified on a stated date and weak evidence for what the testimony asserts, because its compiler conducted the interviews and published them. Nothing opened places McCandlish at the May 2001 press conference.",
+   "cite": [
+    "c-49bd4c0e50",
+    "c-5ef959f163",
+    "c-e0aaca2c5c"
+   ]
+  }
+ ],
+ "members": [
+  {
+   "id": "arv-fluxliner",
+   "role": "subject"
+  },
+  {
+   "id": "brad-sorensen",
+   "role": "witness"
+  },
+  {
+   "id": "mark-mccandlish",
+   "role": "claimant"
+  },
+  {
+   "id": "scott-sorensen-notes-1990",
+   "role": "document"
+  },
+  {
+   "id": "disclosure-project-briefing-2001",
+   "role": "document"
+  },
+  {
+   "id": "zero-point-documentary",
+   "role": "document"
+  },
+  {
+   "id": "norton-afb-airshow-1988",
+   "role": "event"
+  },
+  {
+   "id": "l-norton-afb",
+   "role": "place"
+  },
+  {
+   "id": "arvp-fluxliner-project",
+   "role": "institution"
+  },
+  {
+   "id": "thomas-townsend-brown",
+   "role": "researcher"
+  },
+  {
+   "id": "eric-davis",
+   "role": "critic"
+  },
+  {
+   "id": "usaf",
+   "role": "institution"
+  },
+  {
+   "id": "boeing",
+   "role": "contractor"
+  },
+  {
+   "id": "mcdonnell-douglas",
+   "role": "contractor"
+  },
+  {
+   "id": "general-dynamics",
+   "role": "contractor"
+  },
+  {
+   "id": "northrop-grumman",
+   "role": "contractor"
+  },
+  {
+   "id": "tr-3b",
+   "role": "programme"
+  }
+ ],
+ "questions": [
+  "Who is Brad? No record carries the surname Sorensen in his own voice, and no business or alumni record has been searched.",
+  "What was on display at the 1988 Norton open house, and was any hangar closed to the public? The programme and the wing history have not been opened.",
+  "Who held Scott's notes between 1990 and 2024, and how did they reach the ARVP site?",
+  "Were any members of Congress present at the exhibit, as later retellings say, when Brad in 1990 said he missed the introductions?",
+  "Did Kent Sellen, whom McCandlish says saw a craft at Edwards in 1973, exist and serve there?",
+  "Where is McCandlish's original cut-away drawing, and does it match what Brad endorsed?",
+  "What is the basis for the story about the documentary director's death? Only the fact that he is dead is on record."
+ ],
+ "related": [
+  "propulsion-claims",
+  "tr-3b-fouche",
+  "disclosure-project-2001",
+  "testimony-provenance",
+  "named-contractors",
+  "documentaries"
+ ]
 }
