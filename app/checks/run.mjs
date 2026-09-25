@@ -1,6 +1,10 @@
-/* app/checks/run.mjs — C1 to C16 of notes/DESIGN-RESPONSE-SHELL-2026-09-02.md
+/* app/checks/run.mjs: C1 to C16 of notes/DESIGN-RESPONSE-SHELL-2026-09-02.md
  * section 3, plus C17 for the back button Stewart made a condition of the new
- * shell and C18 for the analyst dock and its per-route chips, against the built
+ * shell and C18 for the analyst dock and its per-route chips, C19 to C21 for the
+ * analyst's tools, search ranking and the thread report, and C22 to C26 for
+ * redesign phase 1 (notes/PLAN-2026-09-24.md): grouped connections with their
+ * sentences, every authored field, search over events and threads, the
+ * node-level denial flag, and a node page at phone width. All against the built
  * app served by `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
@@ -34,6 +38,7 @@ const POISON = (process.env.POISON || '').trim().toLowerCase();
 const SELF = fileURLToPath(import.meta.url);
 
 const NODE_FOCUS = 'aawsap';       /* start-here 1, the richest record on the board */
+const PERSON_FOCUS = 'david-grusch'; /* the richest person record: unverified, chronology, affiliations */
 const PATENT = '10144532';
 
 /* ---- reporting ---------------------------------------------------------- */
@@ -230,6 +235,46 @@ const IN_PAGE = {
     return { claims, head: head ? head.textContent : '', denials };
   },
 
+  /* Sourced connections on a node page, grouped as drawn. */
+  conns() {
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    return {
+      groups: Array.prototype.map.call(document.querySelectorAll('.node-side .conn-group'), (g) => ({
+        type: g.getAttribute('data-type') || '',
+        head: txt(g.querySelector('.conn-ghead .eyebrow')),
+        rows: Array.prototype.map.call(g.querySelectorAll('.conn'), (r) => ({
+          id: r.getAttribute('data-id') || '',
+          lines: Array.prototype.map.call(r.querySelectorAll('.conn-line .conn-text'), txt),
+          metas: Array.prototype.map.call(r.querySelectorAll('.conn-line .cmeta'), txt),
+        })),
+      })),
+    };
+  },
+
+  /* The same, on the printable node report. */
+  rconns() {
+    return Array.prototype.map.call(document.querySelectorAll('.rconns .rconn'), (r) => ({
+      id: r.getAttribute('data-id') || '',
+      type: r.getAttribute('data-type') || '',
+      sent: ((r.querySelector('.rsent') || {}).textContent || '').trim(),
+      text: r.textContent || '',
+    }));
+  },
+
+  /* How many of each authored field a node page draws, and its crumb. */
+  fields() {
+    const n = (sel) => document.querySelectorAll(sel).length;
+    return {
+      oq: n('.node .oq'), unv: n('.node .unv'), chron: n('.node .chron .ev'),
+      aff: n('.node .affs .aff'), nsrc: n('.node .nsrcs .nsrc'),
+      crumb: ((document.querySelector('.node .crumb-l') || {}).textContent || ''),
+      /* the three axis bars, as the boxes the browser laid out: three cells side
+         by side, never stacked on one another */
+      axes: Array.prototype.map.call(document.querySelectorAll('.node .axis .cells'), (c) =>
+        Array.prototype.map.call(c.children, (x) => { const b = x.getBoundingClientRect(); return [b.left, b.right]; })),
+    };
+  },
+
   /* Neighbourhood ring entries, from the DOM. */
   hood() {
     return Array.prototype.map.call(document.querySelectorAll('a.hood-n'), (a) => {
@@ -396,7 +441,7 @@ const IN_PAGE = {
       present: true,
       q,
       heads: Array.prototype.map.call(panel ? panel.querySelectorAll('.res-head') : [], (e) => e.textContent),
-      nodes: rows.filter((r) => !r.classList.contains('claim'))
+      nodes: rows.filter((r) => !['claim', 'thread', 'event'].some((k) => r.classList.contains(k)))
         .map((r) => (r.getAttribute('href') || '').replace('#/n/', '')),
       claims: rows.filter((r) => r.classList.contains('claim')).map((r) => ({
         tier: Number(r.getAttribute('data-tier')),
@@ -648,6 +693,50 @@ const POISONS = {
       }
     }),
   },
+  c22: {
+    stops: ['node', 'report'],
+    what: 'redraws one connection the old way: its sentence gone, its relationship replaced by "member"',
+    fn: async (page) => page.evaluate(() => {
+      const t = document.querySelector('.node-side .conn-line .conn-text');
+      if (t) t.textContent = '';
+      const m = document.querySelector('.node-side .conn-line .cmeta');
+      if (m) m.textContent = 'member · T1';
+      const r = document.querySelector('.rconns .rconn .rsent');
+      if (r) r.textContent = 'member';
+    }),
+  },
+  c23: {
+    stops: ['person'],
+    what: 'hides one of the unverified notes on the person page, and stacks its axis cells as the map\'s .cell rule once did',
+    fn: async (page) => page.evaluate(() => {
+      const u = document.querySelectorAll('.node .unv');
+      if (u.length) u[u.length - 1].remove();
+      for (const c of document.querySelectorAll('.node .axis .acell')) c.style.position = 'absolute';
+    }),
+  },
+  c24: {
+    stops: ['search'],
+    what: 'removes the event and thread rows from the search results',
+    fn: async (page) => page.evaluate(() => {
+      for (const a of document.querySelectorAll('.results a.res.event, .results a.res.thread')) a.remove();
+    }),
+  },
+  c25: {
+    stops: ['evidence'],
+    what: 'rewrites one node-level flag back to the claim-level word "denied"',
+    fn: async (page) => page.evaluate(() => {
+      const td = Array.from(document.querySelectorAll('td.c-den')).find((x) => x.textContent.trim());
+      if (td) td.textContent = 'denied';
+    }),
+  },
+  c26: {
+    stops: ['phone'],
+    what: 'puts the desktop two-column grid back at phone width',
+    fn: async (page) => page.evaluate(() => {
+      const n = document.querySelector('.node');
+      if (n) n.style.gridTemplateColumns = 'minmax(0, 1fr) 520px';
+    }),
+  },
   c20: {
     stops: ['search'],
     what: 'redraws the claim rows as the unranked code drew them: the first twelve matches in file order',
@@ -697,15 +786,15 @@ async function main() {
     return r.json();
   };
   let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
-      claimRows, foiaFile;
+      claimRows, foiaFile, personRec;
   try {
     [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
-     claimRows, foiaFile] =
+     claimRows, foiaFile, personRec] =
       await Promise.all([
         jget('data/index.json'), jget('data/map.json'), jget('data/edges.json'),
         jget('data/threads.json'), jget('data/highlights.json'), jget('data/timeline.json'),
         jget('data/nodes/' + NODE_FOCUS + '.json'), jget('data/patents.json'), jget('data/analyst.json'),
-        jget('data/claims.json'), jget('data/foia.json'),
+        jget('data/claims.json'), jget('data/foia.json'), jget('data/nodes/' + PERSON_FOCUS + '.json'),
       ]);
   } catch (e) {
     console.error('HARNESS: the app is not being served at ' + APP + ' (' + e.message + ').');
@@ -770,6 +859,11 @@ async function main() {
 
   await stop('node', '#/n/' + NODE_FOCUS, 1200);
   S.node.node = await ev(IN_PAGE.node);
+  S.node.conns = await ev(IN_PAGE.conns);
+  S.node.fields = await ev(IN_PAGE.fields);
+
+  await stop('person', '#/n/' + PERSON_FOCUS, 1200);
+  S.person.fields = await ev(IN_PAGE.fields);
 
   await stop('map', '#/map', 2400);
   S.map.map = await ev(IN_PAGE.map);
@@ -802,7 +896,10 @@ async function main() {
 
   await stop('patents', '#/patents/' + PATENT, 2000);
   await stop('evidence', '#/evidence', 3200);
+  S.evidence.den = await page.evaluate(() =>
+    Array.from(document.querySelectorAll('td.c-den')).map((td) => (td.textContent || '').trim()));
   await stop('report', '#/report/n/' + NODE_FOCUS, 1600);
+  S.report.rconns = await ev(IN_PAGE.rconns);
 
   /* the map again, at the width Design says is below the label floor */
   await page.setViewportSize({ width: 1366, height: 768 });
@@ -811,6 +908,19 @@ async function main() {
   S.map1366.map = await ev(IN_PAGE.map);
   S.map1366.rederive = await ev(IN_PAGE.rederive, mapData.nodes, mapData.cells,
     mapData.bands.map((b) => b.id), mapData.eras.map((e) => e.id));
+
+  /* a node page at phone width */
+  await page.setViewportSize({ width: 375, height: 812 });
+  current = null;
+  await stop('phone', '#/n/' + NODE_FOCUS, 1600);
+  S.phone.phone = await page.evaluate(() => {
+    const m = document.querySelector('.node-main');
+    return {
+      mainW: m ? m.getBoundingClientRect().width : 0,
+      scrollW: document.documentElement.scrollWidth,
+      vw: window.innerWidth,
+    };
+  });
   await page.setViewportSize({ width: 1920, height: 1080 });
 
   /* ---- C9's route sweep ------------------------------------------------- */
@@ -868,6 +978,13 @@ async function main() {
       const strip = await p.evaluate(`(function ${IN_PAGE.dock})()`);
       const opener = p.locator('#analyst .an-bar').first();
       if (await opener.count()) { await opener.click(); await p.waitForTimeout(400); }
+      /* The health line asks the Worker over the network. A slow answer is not a
+         broken one, so wait for the line to settle; one that never settles still
+         reads "checking" and still fails C18. */
+      await p.waitForFunction(() => {
+        const s = document.querySelector('#analyst .an-status');
+        return !s || !/^checking/.test(s.textContent || '');
+      }, null, { timeout: 10000 }).catch(() => {});
       await poisonAt(p, 'chips');
       const read = await p.evaluate(`(function ${IN_PAGE.chips})()`);
       CH.push({ key, hash, strip, ...read });
@@ -937,7 +1054,7 @@ async function main() {
     const pair = hy ? hy.label.match(/([A-Za-z]{4,})-([A-Za-z]{4,})/) : null;
     const twoWord = pair ? (pair[1] + ' ' + pair[2]).toLowerCase() : null;
 
-    const driveSearch = !POISON || POISON === 'c20';
+    const driveSearch = !POISON || POISON === 'c20' || POISON === 'c24';
     if (driveSearch && word) {
       const p = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
       p.on('request', (r) => requests.push(r.url()));
@@ -956,6 +1073,13 @@ async function main() {
         await type(twoWord);
         SEARCH.two = await p.evaluate(IN_PAGE.search, twoWord);
       }
+      /* C24: timeline events and threads are searchable too */
+      await type('scandinavia');
+      if (POISON === 'c24') await poisonAt(p, 'search');
+      SEARCH.events = await p.evaluate(() => document.querySelectorAll('.results a.res.event').length);
+      await type('wilson davis');
+      if (POISON === 'c24') await poisonAt(p, 'search');
+      SEARCH.threads = await p.evaluate(() => document.querySelectorAll('.results a.res.thread').length);
       await p.close();
     }
   }
@@ -1102,7 +1226,7 @@ async function main() {
   /* the assertions                                                          */
   /* ====================================================================== */
 
-  console.log('\n  ' + (POISON ? 'POISON=' + POISON + ' — ' + POISONS[POISON].what : 'clean run')
+  console.log('\n  ' + (POISON ? 'POISON=' + POISON + ': ' + POISONS[POISON].what : 'clean run')
     + '  ·  ' + APP + '\n');
 
   const C1_PAGES = ['home', 'map', 'hood0', 'thread:custody', 'timeline', 'patents', 'evidence', 'report'];
@@ -1120,7 +1244,7 @@ async function main() {
     }
     check('c1', bad.length === 0 && total > 0,
       'C1  every #/n/<id> on the eight screens is an id in index.json',
-      `${total} hrefs over ${C1_PAGES.length} screens, ${bad.length} unknown` + (bad.length ? ' — ' + clip(bad) : ''));
+      `${total} hrefs over ${C1_PAGES.length} screens, ${bad.length} unknown` + (bad.length ? ': ' + clip(bad) : ''));
     const empty = C1_PAGES.filter((p) => nodeIdsOn(p).length === 0);
     check('c1', empty.length === 0, 'C1  every one of the eight screens actually renders node links',
       empty.length ? 'no #/n/ href on: ' + empty.join(', ') : 'all eight carry at least one');
@@ -1171,7 +1295,7 @@ async function main() {
     for (const [name, boxes] of cases) {
       const bad = pairsOverlapping(boxes);
       check('c4', bad.length === 0, 'C4  no two label boxes intersect · ' + name,
-        bad.length ? `${bad.length}+ overlapping pairs — ` + clip(bad, 3) : `${boxes.length} boxes, none intersecting`);
+        bad.length ? `${bad.length}+ overlapping pairs: ` + clip(bad, 3) : `${boxes.length} boxes, none intersecting`);
     }
   }
 
@@ -1248,7 +1372,7 @@ async function main() {
     });
     check('c8', noSrc.length === 0 && n.claims.length > 0,
       'C8  every claim row on #/n/' + NODE_FOCUS + ' carries a source link or citation text',
-      noSrc.length ? `${noSrc.length} of ${n.claims.length} with neither — ` + clip(noSrc.map((c) => c.text.slice(0, 40)), 2)
+      noSrc.length ? `${noSrc.length} of ${n.claims.length} with neither: ` + clip(noSrc.map((c) => c.text.slice(0, 40)), 2)
         : `${n.claims.length} claims, ${n.claims.filter((c) => c.srcTag === 'A').length} as links`);
     const m = n.head.match(/Claims\s*·?\s*(\d+)[\s\S]*Tier 1 · (\d+)[\s\S]*Tier 2 · (\d+)[\s\S]*Tier 3 · (\d+)/);
     const tot = m ? Number(m[1]) : NaN, sum = m ? Number(m[2]) + Number(m[3]) + Number(m[4]) : NaN;
@@ -1298,7 +1422,7 @@ async function main() {
     check('c9', offScheme.length === 0, 'C9  every rendered in-app href is a route in the 2.1 scheme',
       offScheme.length ? clip(offScheme, 4) : `${seen.size} distinct hrefs over ${Object.keys(S).length} screens`);
     check('c9', deadIds.length === 0, 'C9  every rendered #/t/ and #/patents/ link names something the board carries',
-      deadIds.length ? `${deadIds.length} dead — ` + clip(deadIds, 5) : 'all resolve to a thread or a patent');
+      deadIds.length ? `${deadIds.length} dead: ` + clip(deadIds, 5) : 'all resolve to a thread or a patent');
   }
 
   /* ---- C10 -------------------------------------------------------------- */
@@ -1326,7 +1450,7 @@ async function main() {
     const over = S.hood3.hood.map((e) => e.id).filter((id) => !allowed.has(id));
     check('c10', over.length === 0,
       'C10 the 3-hop neighbourhood never leaves the hop 1∪2∪3 sets of edges.json',
-      over.length ? `${over.length} outside — ` + clip(over, 4)
+      over.length ? `${over.length} outside: ` + clip(over, 4)
         : `${S.hood3.hood.length} drawn, all inside a set of ${allowed.size}`);
   }
 
@@ -1350,7 +1474,7 @@ async function main() {
     check('c11', mapHl.length === flags.length && mapBad.length === 0,
       'C11 the map\'s numbered chips are the same register with the same numbers',
       mapBad.length || mapHl.length !== flags.length
-        ? `${mapHl.length} numbered chips, ${mapBad.length} disagree — ` + clip(mapBad.map((c) => c.id + '=' + c.hl), 3)
+        ? `${mapHl.length} numbered chips, ${mapBad.length} disagree: ` + clip(mapBad.map((c) => c.id + '=' + c.hl), 3)
         : `${mapHl.length} amber chips, numbers match`);
   }
 
@@ -1360,7 +1484,7 @@ async function main() {
     const heights = [...new Set(chips.map((c) => Math.round(c.h)))];
     check('c12', heights.length === 1, 'C12 every map chip is the same height, whatever its degree',
       `${chips.length} chips at ${heights.join(', ')}px` +
-      (heights.length > 1 ? ' — degree of the tallest: ' +
+      (heights.length > 1 ? ': degree of the tallest: ' +
         clip(chips.filter((c) => Math.round(c.h) === Math.max(...heights)).map((c) => c.id + '/' + deg[c.id]), 3) : ''));
     /* width is a pure function of the label: chip = ceil(text) + 30 (+16 numbered).
        If anything else got into it -- degree, tier, claims -- the residual moves. */
@@ -1368,7 +1492,7 @@ async function main() {
       id: c.id, r: c.w - c.labW - (c.isHl ? 46 : 30),
     })).filter((x) => x.r < -0.5 || x.r > 1.5);
     check('c12', resid.length === 0, 'C12 chip width is its text plus one constant, nothing else',
-      resid.length ? `${resid.length} chips off the constant — ` + clip(resid.map((x) => x.id + ' ' + x.r.toFixed(1)), 3)
+      resid.length ? `${resid.length} chips off the constant: ` + clip(resid.map((x) => x.id + ' ' + x.r.toFixed(1)), 3)
         : `${chips.length} chips within [0,1.5]px of text+${'30/46'}`);
     const marks = [...new Set(S.hood3.hood.map((e) => e.mw + '×' + e.mh))];
     check('c12', marks.length === 1, 'C12 every ring mark is the same size',
@@ -1385,6 +1509,104 @@ async function main() {
     check('c13', want.length === got.length && want.every((x, i) => x === got[i]),
       'C13 the denial rows on #/n/' + NODE_FOCUS + ' are exactly its denialPairs',
       `page ${got.length} [${got.join(', ')}] · record ${want.length} [${want.join(', ')}]`);
+  }
+
+  /* ---- C22 -------------------------------------------------------------- */
+  /* Every sourced connection is drawn once, under its own relationship, with its
+     own sentence; no group is headed by a raw type id; nothing says "member".
+     Restated, not imported, from app/src/vocab.ts. */
+  {
+    const READER = {
+      custody: 'Custody', funding: 'Money', programmatic: 'Programme links',
+      institutional: 'Institutional ties', legislative: 'Law and oversight',
+      research: 'Research and authorship', investigative: 'Investigations',
+      'witness-chain': 'Testimony', behavioral: 'Conduct', denial: 'Denials',
+      temporal: 'Sequence in time', geographic: 'Place',
+    };
+    const NO_SENTENCE = 'no sentence recorded for this link';
+    const recC = focusRec.connections || [];
+    const want = recC.map((c) => c.type + '|' + c.id + '|' + (c.edgeLabel || c.note || NO_SENTENCE)).sort();
+    const got = [];
+    for (const g of S.node.conns.groups) for (const r of g.rows) for (const l of r.lines) got.push(g.type + '|' + r.id + '|' + l);
+    got.sort();
+    const missing = want.filter((x) => !got.includes(x));
+    const extra = got.filter((x) => !want.includes(x));
+    check('c22', want.length === got.length && missing.length === 0 && extra.length === 0,
+      'C22 every sourced connection on #/n/' + NODE_FOCUS + ' is drawn once, under its relationship, with its own sentence',
+      `record ${want.length} · page ${got.length}` +
+      (missing.length ? ' · missing ' + clip(missing, 2) : '') + (extra.length ? ' · extra ' + clip(extra, 2) : ''));
+    const badHead = S.node.conns.groups.filter((g) => READER[g.type] ? g.head !== READER[g.type] : !g.head);
+    check('c22', S.node.conns.groups.length > 0 && badHead.length === 0, 'C22 every group is headed by its reader name',
+      badHead.length ? clip(badHead.map((g) => g.type + '="' + g.head + '"'), 4) : S.node.conns.groups.length + ' groups');
+    const bucket = S.node.conns.groups.flatMap((g) => g.rows.flatMap((r) => r.metas)).filter((m) => /^member\b/i.test(m));
+    check('c22', bucket.length === 0, 'C22 no connection is labelled with the bucket word "member"',
+      bucket.length ? bucket.length + ' rows' : 'none');
+    const rWant = recC.map((c) => c.type + '|' + c.id + '|' + (c.edgeLabel || c.note || NO_SENTENCE)).sort();
+    const rGot = S.report.rconns.map((r) => r.type + '|' + r.id + '|' + r.sent).sort();
+    check('c22', rWant.length === rGot.length && rWant.every((x, i) => x === rGot[i]),
+      'C22 the node report lists every connection with its sentence',
+      `record ${rWant.length} · report ${rGot.length}`);
+    const rBucket = S.report.rconns.filter((r) => /·\s*member\b/i.test(r.text));
+    check('c22', rBucket.length === 0, 'C22 the node report never says "member"',
+      rBucket.length ? rBucket.length + ' rows' : 'none');
+  }
+
+  /* ---- C23 -------------------------------------------------------------- */
+  /* Nothing authored is hidden: every field a researcher wrote on the record has a
+     place on the page. The chronology rule is restated here, not imported. */
+  {
+    const list = (v) => (Array.isArray(v) ? v.filter(Boolean) : (v ? [v] : []));
+    for (const [stopId, rec] of [['node', focusRec], ['person', personRec]]) {
+      const f = S[stopId].fields;
+      const chron = new Set([...(rec.chronology || []), ...(rec.sequenceChain || [])]
+        .map((e) => String(e.date) + '|' + String(e.event || '').trim().toLowerCase()));
+      const want = {
+        oq: ((rec.dossier && rec.dossier.openQuestions) || []).length,
+        unv: list(rec.unverified).length, chron: chron.size,
+        aff: (rec.affiliations || []).length, nsrc: (rec.sources || []).length,
+      };
+      const bad = Object.keys(want).filter((k) => want[k] !== f[k]);
+      check('c23', bad.length === 0, `C23 #/n/${rec.id} renders every authored field it carries`,
+        Object.keys(want).map((k) => `${k} ${f[k]}/${want[k]}`).join(' · '));
+      check('c23', !/\bTier [ABC]\b|\bcluster\b/.test(f.crumb),
+        `C23 #/n/${rec.id} prints neither the node tier letter nor the cluster`, f.crumb.trim().slice(0, 80));
+      const stacked = f.axes.filter((cells) => cells.length !== 3 ||
+        cells.some((b, i) => i > 0 && b[0] < cells[i - 1][1] - 0.5));
+      check('c23', f.axes.length === 3 && stacked.length === 0,
+        `C23 #/n/${rec.id} draws each of the three axes as three cells side by side`,
+        f.axes.length + ' axes' + (stacked.length ? ', ' + stacked.length + ' with cells stacked or missing' : ''));
+    }
+  }
+
+  /* ---- C25 -------------------------------------------------------------- */
+  /* The denial flag on the Evidence table is the NODE's (the node is the object
+     of some denial), so no claim may be painted with the claim-level word. */
+  {
+    const claimWord = S.evidence.den.filter((t) => /^denied$/i.test(t)).length;
+    const flagged = S.evidence.den.filter(Boolean).length;
+    check('c25', claimWord === 0 && flagged > 0,
+      'C25 no claim is labelled "denied": the flag belongs to the node, and says so',
+      claimWord ? claimWord + ' cells say "denied"' : flagged + ' flagged cells, all node-level');
+  }
+
+  /* ---- C26 -------------------------------------------------------------- */
+  {
+    const p = S.phone.phone;
+    check('c26', p.mainW >= 300 && p.scrollW <= p.vw + 1,
+      'C26 a node page reads at 375px: a real main column and no sideways scroll',
+      `main ${Math.round(p.mainW)}px · page ${p.scrollW}px in ${p.vw}px`);
+  }
+
+  /* ---- C24 -------------------------------------------------------------- */
+  if (!SEARCH || SEARCH.events === undefined) {
+    skip('C24 search reaches timeline events and threads', 'poison ' + POISON + ' does not drive it');
+  } else {
+    const wantEv = tlEvents.filter((e) => /scandinavia/i.test((e.label || '') + ' ' + (e.text || ''))).length;
+    check('c24', wantEv > 0 && SEARCH.events > 0,
+      'C24 search reaches timeline events', `record ${wantEv} · results ${SEARCH.events}`);
+    const wantTh = threads.filter((t) => /wilson.?davis/i.test((t.title || t.label || '') + ' ' + t.id)).length;
+    check('c24', wantTh > 0 && SEARCH.threads > 0,
+      'C24 search reaches threads', `record ${wantTh} · results ${SEARCH.threads}`);
   }
 
   /* ---- C14 -------------------------------------------------------------- */
@@ -1405,7 +1627,7 @@ async function main() {
     const uniq = [...new Set(bad)];
     check('c14', uniq.length === 0,
       'C14 every runtime request is /data /fonts /patents /assets or the analyst',
-      uniq.length ? `${uniq.length} off-list — ` + clip(uniq.map((u) => u.slice(0, 70)), 3)
+      uniq.length ? `${uniq.length} off-list: ` + clip(uniq.map((u) => u.slice(0, 70)), 3)
         : `${requests.length} requests over ${Object.keys(S).length} screens, all on the list`);
     check('c14', pageErrors.length === 0, 'C14 no uncaught page error while the screens were walked',
       pageErrors.length ? clip(pageErrors, 2) : 'clean');
@@ -1451,7 +1673,7 @@ async function main() {
       if (m) hits.push(k + ': …' + m[0].replace(/\s+/g, ' ').trim() + '…');
     }
     check('c16', hits.length === 0, 'C16 no mockup placeholder string survives into any rendered page',
-      hits.length ? `${hits.length} screen(s) — ` + clip(hits, 2) : `${Object.keys(S).length} screens clean`);
+      hits.length ? `${hits.length} screen(s): ` + clip(hits, 2) : `${Object.keys(S).length} screens clean`);
   }
 
   /* ---- C17 -------------------------------------------------------------- */
@@ -1535,7 +1757,7 @@ async function main() {
       check('c18', missing.length === 0, 'C18 every chip key the sweep visits is in the data file',
         missing.length ? 'no chips for ' + missing.join(', ') : CHIP_ROUTES.map((r) => r[0]).join(', '));
       check('c18', wrong.length === 0, "C18 the chips on screen are exactly that route kind's chips",
-        wrong.length ? wrong.length + ' of ' + CH.length + ' wrong — ' + clip(wrong, 2)
+        wrong.length ? wrong.length + ' of ' + CH.length + ' wrong: ' + clip(wrong, 2)
           : CH.map((r) => r.key + ':' + r.chips.length).join(' · '));
 
       const thin = CH.filter((r) => r.chips.length < 3).map((r) => r.key + ' has ' + r.chips.length);
@@ -1595,7 +1817,7 @@ async function main() {
     } else {
       const o = TOOLS.out, w = TOOLS.want;
       const head1 = (k) => ((o[k] || '').split('\n')[0] || '').slice(0, 120);
-      /* a count printed by a tool: "NODES matching — 311 of 1,057" */
+      /* a count printed by a tool: "NODES matching <em dash> 311 of 1,057" */
       const said = (key) => {
         const m = /\u2014\s*([0-9,]+)\s+of\s+([0-9,]+)/.exec(o[key] || '');
         return m ? Number(m[1].replace(/,/g, '')) : NaN;
@@ -1721,7 +1943,7 @@ async function main() {
       const tiers = SEARCH.claims.map((c) => c.tier);
       const allT1 = tiers.every((t) => t === 1);
       check('c20', allT1, 'C20 the claim rows are ranked, so Tier 1 fills them before Tier 2 does',
-        'tiers drawn [' + tiers.join(',') + '] — the board has ' + w.t1 + ' Tier 1 and '
+        'tiers drawn [' + tiers.join(',') + ']: the board has ' + w.t1 + ' Tier 1 and '
         + w.other + ' weaker claims containing "' + w.word + '"');
 
       const marked = SEARCH.claims.filter((c) => c.marked).length;
@@ -1795,7 +2017,7 @@ async function main() {
     process.exit(seen ? 0 : 1);
   }
   console.log(`  ${nOk} passed, ${nFail} failed`);
-  console.log('\n' + (nFail ? `APP CHECKS FAILED (${nFail}) — ` + [...failsByCheck.keys()].join(', ')
+  console.log('\n' + (nFail ? `APP CHECKS FAILED (${nFail}): ` + [...failsByCheck.keys()].join(', ')
     : 'APP CHECKS PASSED'));
   process.exit(nFail ? 1 : 0);
 }
@@ -1815,7 +2037,7 @@ function allPoisons() {
   }
   console.log('\n' + (bad.length
     ? `POISON SWEEP FAILED (${bad.length} of ${names.length} blind): ` + bad.join(', ')
-    : `POISON SWEEP PASSED — all ${names.length} poisons were seen by their own check`));
+    : `POISON SWEEP PASSED, all ${names.length} poisons were seen by their own check`));
   process.exit(bad.length ? 1 : 0);
 }
 

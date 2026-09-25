@@ -1,4 +1,4 @@
-/* dom.ts — the only DOM helper. Text goes in as text, never as HTML, so a label
+/* dom.ts: the only DOM helper. Text goes in as text, never as HTML, so a label
  * from the board can never become markup. */
 
 type Attrs = Record<string, string | number | boolean | null | undefined | ((e: Event) => void)>;

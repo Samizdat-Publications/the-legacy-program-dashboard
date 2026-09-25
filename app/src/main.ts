@@ -1,4 +1,4 @@
-/* main.ts — the entry point. Loads the index once, paints the frame, dispatches
+/* main.ts: the entry point. Loads the index once, paints the frame, dispatches
  * the route. Phase 1b of notes/APP-SPEC-2026-09-02.md.
  *
  * Runtime requests, all of them: /data/*, /fonts/* (by the stylesheet) and the

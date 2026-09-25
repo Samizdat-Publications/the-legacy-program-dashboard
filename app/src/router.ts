@@ -1,4 +1,4 @@
-/* router.ts — the hash scheme of the Design response section 2.1, exactly.
+/* router.ts: the hash scheme of the Design response section 2.1, exactly.
  *
  *   #/                          home
  *   #/n/<id>                    node page

@@ -69,7 +69,7 @@ export function renderPending(view: HTMLElement, key: string, detail?: string): 
   box.append(h('p', null, 'Built and working now:'));
   const ul = h('ul');
   for (const [href, label] of WORKING) {
-    ul.append(h('li', null, h('a', { href }, href), ' — ' + label));
+    ul.append(h('li', null, h('a', { href }, href), ': ' + label));
   }
   box.append(ul);
   view.append(box);

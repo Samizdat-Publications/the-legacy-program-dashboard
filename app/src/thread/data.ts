@@ -1,4 +1,4 @@
-/* thread/data.ts — the two runtime files the Thread page and the Timeline's
+/* thread/data.ts: the two runtime files the Thread page and the Timeline's
  * thread scope read: data/threads.json (authored, phase 1c) and data/map.json
  * (the 7 x 5 grid the small map draws on).
  *

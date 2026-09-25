@@ -1,4 +1,4 @@
-/* data.ts — the runtime data contract of notes/APP-SPEC-2026-09-02.md section 2.
+/* data.ts: the runtime data contract of notes/APP-SPEC-2026-09-02.md section 2.
  *
  * Everything is fetched from same-origin /data. Nothing else is fetched by this
  * module: /fonts is a stylesheet concern and the analyst Worker is analyst.ts.
@@ -93,6 +93,7 @@ export interface NodeRecord {
   claims?: Claim[];
   sources?: Source[];
   chronology?: { date: string; event: string; precision?: string }[];
+  sequenceChain?: { date: string; event: string; isAnomalous?: boolean; source?: string | null }[];
   affiliations?: string[];
   conflicts?: string[] | string;
   unverified?: string[] | string;

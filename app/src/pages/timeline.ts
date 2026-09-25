@@ -1,4 +1,4 @@
-/* Timeline — Design response section 1.7, routes #/timeline, ?era=, ?scope=.
+/* Timeline: Design response section 1.7, routes #/timeline, ?era=, ?scope=.
  *
  * Four strand lanes (the board's own `strand` values) by five era columns (the
  * eras of index.json). A closed era shows one count per lane and opens on click.

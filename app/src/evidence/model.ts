@@ -1,4 +1,4 @@
-/* evidence/model.ts — the filter state of #/evidence and the counts behind the
+/* evidence/model.ts: the filter state of #/evidence and the counts behind the
  * chips. The rows are claims.json, one per claim, 5,120 of them; the FOIA linkage
  * is foia.json's byNode and the question text is in nodes/<id>.json, which is why
  * the FOIA column reads a node record lazily rather than shipping the questions
@@ -117,8 +117,8 @@ export function facets(rows: ClaimRow[]): Facets {
     cluster: sorted(tally(rows, (r) => r.cluster || '')),
     domain: sorted(tally(rows, rowDomain)),
     denied: [
-      { value: '1', label: 'denied', n: denied },
-      { value: '0', label: 'not denied', n: rows.length - denied },
+      { value: '1', label: 'on a node with a denial on record', n: denied },
+      { value: '0', label: 'no denial on record', n: rows.length - denied },
     ],
     open: [
       { value: '1', label: 'open question', n: open },

@@ -26,7 +26,7 @@ export function notFound(view: HTMLElement, raw: string, why?: string): void {
   box.append(h('p', null, 'The scheme this terminal answers on:'));
   const ul = h('ul');
   for (const [r, d] of SCHEME) {
-    ul.append(h('li', null, h('code', { class: 'cyan' }, r), ' — ' + d));
+    ul.append(h('li', null, h('code', { class: 'cyan' }, r), ': ' + d));
   }
   box.append(ul);
   box.append(h('p', { style: 'margin-top:10px' }, h('a', { href: '#/' }, 'Back to Home')));

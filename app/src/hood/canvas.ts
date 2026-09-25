@@ -1,4 +1,4 @@
-/* hood/canvas.ts — the lines only. Every name on this screen is DOM text; the
+/* hood/canvas.ts: the lines only. Every name on this screen is DOM text; the
  * canvas draws no text at all, so nothing here can be an anonymous mark.
  *
  * Design response 1.5: solid cyan from the centre to a member below the L0
@@ -8,9 +8,9 @@
  *
  * The animation is the treatment the owner kept from the old board's
  * `drawParticle2D` (tools/l0_patches.py, ~2418): motion ONLY on the selected
- * node's own edges, running away from the reader. Nothing is ported verbatim —
+ * node's own edges, running away from the reader. Nothing is ported verbatim (
  * that renderer moves a dot along a polyline, this one offsets a dash pattern
- * along a straight line — but the rule is the same one, and it is the reason
+ * along a straight line), but the rule is the same one, and it is the reason
  * hop-2 lines never move: the board makes no directional claim about them.
  */
 export type LineStyle = 'solid' | 'dash' | 'dot';

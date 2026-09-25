@@ -1,4 +1,4 @@
-/* evidence.css — the evidence explorer only. Colours and sizes from tokens.css.
+/* evidence.css: the evidence explorer only. Colours and sizes from tokens.css.
  * One label size. Nothing is truncated: every cell wraps, so this file carries
  * no ellipsis and no text-overflow. */
 
@@ -88,7 +88,7 @@
 .ev-table .c-node { width: 190px; }
 .ev-table .c-claim { width: auto; color: var(--text); }
 .ev-table .c-src { width: 300px; }
-.ev-table .c-den { width: 62px; }
+.ev-table .c-den { width: 84px; }
 .ev-table .c-foia { width: 252px; }
 
 /* The FOIA cell: one line per request, and a control that opens the question

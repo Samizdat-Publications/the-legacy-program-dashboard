@@ -1,4 +1,4 @@
-/* analyst/client.ts — the analyst's conversation, including the tool loop.
+/* analyst/client.ts: the analyst's conversation, including the tool loop.
  *
  * Three things are sent and nothing else:
  *

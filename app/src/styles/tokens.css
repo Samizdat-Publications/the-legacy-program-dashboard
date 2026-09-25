@@ -1,4 +1,4 @@
-/* tokens.css — the palette and the type scale. Components use these and nothing else.
+/* tokens.css: the palette and the type scale. Components use these and nothing else.
  *
  * The hex values are the board's own, taken from `const PALETTE` in
  * ref/the-vanishing-v2.html and from L0_CLS in tools/l0_patches.py (the program map's

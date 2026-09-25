@@ -1,4 +1,4 @@
-/* The neighbourhood — Design response 1.5, 2.2 and 2.4.
+/* The neighbourhood: Design response 1.5, 2.2 and 2.4.
  *
  * The selected node in the centre, hop 1 on a ring whose positions are assigned
  * by y in 15px label slots on each side, hop 2 (and 3) in two outer columns.
@@ -282,7 +282,7 @@ function nodeEl(p: Placed, hood: Hood): HTMLElement {
       (e.derived ? ' derived' : '') + (e.edgeType === 'denial' ? ' denial' : ''),
     href: '#/n/' + e.id,
     style: 'left:' + p.x + 'px;top:' + p.y + 'px',
-    title: e.full + ' — ' + e.suffix,
+    title: e.full + ': ' + e.suffix,
   });
   const m = mark(clsColour(e.cls));
   const name = h('span', { class: 'hood-label' }, e.label);

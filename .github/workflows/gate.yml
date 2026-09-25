@@ -7,9 +7,10 @@
 #         deployed anywhere, but it still builds and it still carries the bulk of
 #         the evidence over the research data, so it stays checked until it is
 #         retired in its own session.
-#   app   the new shell's gate: build app/, serve the build, run its own C1 to C17
-#         checks and all seventeen poisons against the real pages, then point
-#         tools/look.js at the same server and keep the screenshots.
+#   app   the new shell's gate: the em dash lint, build app/, serve the build, run
+#         its own C1 to C26 checks and all twenty-six poisons against the real
+#         pages, then point tools/look.js at the same server and keep the
+#         screenshots.
 #
 # deploy.yml keys off this WORKFLOW's conclusion, not off one job, so `app` gates
 # the production deploy without deploy.yml knowing it exists.
@@ -248,6 +249,14 @@ jobs:
         run: |
           npm install --no-save playwright@1.56.1 http-server@14
           npx playwright install --with-deps chromium
+
+      - name: No em dash in the app or the Worker
+        # Stewart's standing rule, enforced since redesign phase 1 (24 September
+        # 2026). Source only: verbatim quotations in the data keep their own
+        # characters. The self-test shows the lint rejecting a planted dash.
+        run: |
+          python3 tools/lint_no_em_dash.py --self-test
+          python3 tools/lint_no_em_dash.py
 
       - name: Install the app's dependencies
         working-directory: app

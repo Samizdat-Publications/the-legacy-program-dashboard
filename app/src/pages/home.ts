@@ -1,4 +1,4 @@
-/* Home — Design response section 1.2.
+/* Home: Design response section 1.2.
  *
  * Search first, the paragraph, the six entry paths as cards, the fourteen
  * start-here chips in the owner's reading order, the counts table, the analyst.

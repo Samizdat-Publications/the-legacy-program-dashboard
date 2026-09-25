@@ -1,4 +1,4 @@
-/* map/model.ts — the map's own reading of app/public/data/map.json.
+/* map/model.ts: the map's own reading of app/public/data/map.json.
  *
  * data.ts types map.json only as far as Home needs it (entryPaths), and data.ts
  * is not mine to edit, so the fuller shape is declared here and the file is read

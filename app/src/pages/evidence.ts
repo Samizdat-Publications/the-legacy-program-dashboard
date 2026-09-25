@@ -1,9 +1,9 @@
-/* The evidence explorer — Design response section 1.9, route
+/* The evidence explorer: Design response section 1.9, route
  * #/evidence?tier=&cls=&cluster=&domain=&denied=1&open=1.
  *
  * Left: a rail of filter chips with the real count behind each one, every chip
- * toggling one of the six parameters. Right: the table — tier, class, node, claim,
- * source, denied, FOIA — with the request beside the question it would close.
+ * toggling one of the six parameters. Right: the table (tier, class, node, claim,
+ * source, denied, FOIA), with the request beside the question it would close.
  *
  * All 5,120 rows are held in memory and filtered there; the table renders in
  * blocks so a filter that matches thousands of rows still paints at once. The
@@ -11,7 +11,7 @@
  *
  * Nothing is truncated: claim text, source citations and FOIA questions wrap.
  *
- * The FOIA column prints one line per request — id, office, status — and the
+ * The FOIA column prints one line per request (id, office, status) and the
  * question that request would close opens as a full-width expansion under the
  * row, one row open at a time. Every fact stays; it moves out of the row and
  * under it, so the table reads one claim per two or three lines.
@@ -32,7 +32,7 @@ const GROUPS: { key: Key; head: string }[] = [
   { key: 'cls', head: 'Class' },
   { key: 'cluster', head: 'Cluster' },
   { key: 'domain', head: 'Source domain' },
-  { key: 'denied', head: 'Denied' },
+  { key: 'denied', head: 'Node denied' },
   { key: 'open', head: 'Open question' },
 ];
 
@@ -111,7 +111,7 @@ export async function renderEvidence(view: HTMLElement, q: URLSearchParams): Pro
     h('th', { class: 'c-node' }, 'NODE'),
     h('th', { class: 'c-claim' }, 'CLAIM'),
     h('th', { class: 'c-src' }, 'SOURCE'),
-    h('th', { class: 'c-den' }, 'DENIED'),
+    h('th', { class: 'c-den' }, 'NODE DENIED'),
     h('th', { class: 'c-foia' }, 'FOIA')));
   const tbody = h('tbody');
   table.append(thead, tbody);
@@ -176,7 +176,10 @@ function row(r: ClaimRow, foia: FoiaFile): HTMLElement {
           ? h('span', { class: 'dim' }, src.text)
           : h('span', { class: 'faint' }, 'no citation on the row'))));
 
-  tr.append(h('td', { class: 'c-den' }, r.denied ? h('span', { class: 'red' }, 'denied') : ''));
+  tr.append(h('td', { class: 'c-den' }, r.denied
+    /* the flag is the node's (it is the object of some denial), never this claim's */
+    ? h('span', { class: 'dim', title: 'a denial is on record for this node; it is not a denial of this claim' }, 'on the node')
+    : ''));
   tr.append(foiaCell(r, foia, tr));
   return tr;
 }

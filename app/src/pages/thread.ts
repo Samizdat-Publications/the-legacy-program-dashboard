@@ -1,4 +1,4 @@
-/* Thread page — Design response section 1.6, route #/t/<id>.
+/* Thread page: Design response section 1.6, route #/t/<id>.
  *
  * A rail of the eight threads across the top. Left: the ordered chain, one step
  * per row with class mark, year, the evidence line, and the join graded

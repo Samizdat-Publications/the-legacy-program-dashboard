@@ -1,4 +1,4 @@
-/* analyst/panel.ts — the analyst on every route.
+/* analyst/panel.ts: the analyst on every route.
  *
  * It used to live inside pages/home.ts and render on Home only. Decision 1 of
  * notes/ANALYST-PLAN-2026-09-03.md moves it out: one host element after #view in

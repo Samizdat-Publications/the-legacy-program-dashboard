@@ -1,4 +1,4 @@
-/* frame.ts — the common frame of Design response section 1.1.
+/* frame.ts: the common frame of Design response section 1.1.
  *
  * A 40px bar: the wordmark, the eight routes, the search field, and on the right
  * the current URL fragment and the viewport.
