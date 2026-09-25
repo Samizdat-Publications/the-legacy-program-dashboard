@@ -4,8 +4,9 @@
  * analyst's tools, search ranking and the thread report, and C22 to C26 for
  * redesign phase 1 (notes/PLAN-2026-09-24.md): grouped connections with their
  * sentences, every authored field, search over events and threads, the
- * node-level denial flag, and a node page at phone width. All against the built
- * app served by `npm run preview`.
+ * node-level denial flag, and a node page at phone width; C27 to C29 carried from
+ * the retired shell; and C30 for redesign phase 3, a denial the record does not
+ * adjudicate printed as such. All against the built app served by `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
  *
@@ -39,6 +40,13 @@ const SELF = fileURLToPath(import.meta.url);
 
 const NODE_FOCUS = 'aawsap';       /* start-here 1, the richest record on the board */
 const PERSON_FOCUS = 'david-grusch'; /* the richest person record: unverified, chronology, affiliations */
+/* Entities whose conflicts, unverified notes and open questions merge.py dropped
+   until redesign phase 3: S-4 carries the restored case against it, CEFAA its own
+   open questions (an entity's, not a dossier's). */
+const ENTITY_FOCUS = 's-4-papoose-lake';
+const ENTITY_OQ_FOCUS = 'cefaa';
+/* A node with denials the adjudication has reached AND denials it has not (C30). */
+const DENIAL_FOCUS = 'cia';
 const PATENT = '10144532';
 
 /* ---- reporting ---------------------------------------------------------- */
@@ -275,7 +283,7 @@ const IN_PAGE = {
   fields() {
     const n = (sel) => document.querySelectorAll(sel).length;
     return {
-      oq: n('.node .oq'), unv: n('.node .unv'), chron: n('.node .chron .ev'),
+      oq: n('.node .oq'), unv: n('.node .unv'), cnf: n('.node .cnf'), chron: n('.node .chron .ev'),
       aff: n('.node .affs .aff'), nsrc: n('.node .nsrcs .nsrc'),
       crumb: ((document.querySelector('.node .crumb-l') || {}).textContent || ''),
       /* the three axis bars, as the boxes the browser laid out: three cells side
@@ -283,6 +291,14 @@ const IN_PAGE = {
       axes: Array.prototype.map.call(document.querySelectorAll('.node .axis .cells'), (c) =>
         Array.prototype.map.call(c.children, (x) => { const b = x.getBoundingClientRect(); return [b.left, b.right]; })),
     };
+  },
+
+  /* The node page's denial rows, in page order, as the reader sees them. */
+  denials() {
+    return Array.prototype.map.call(document.querySelectorAll('.node .denials .denial'), (r) => ({
+      kind: ((r.querySelector('.dkind') || r.lastElementChild || {}).textContent || '').trim(),
+      other: ((r.querySelector('a') || {}).getAttribute ? r.querySelector('a').getAttribute('href') : '') || '',
+    }));
   },
 
   /* Neighbourhood ring entries, from the DOM. */
@@ -716,12 +732,21 @@ const POISONS = {
     }),
   },
   c23: {
-    stops: ['person'],
-    what: 'hides one of the unverified notes on the person page, and stacks its axis cells as the map\'s .cell rule once did',
-    fn: async (page) => page.evaluate(() => {
-      const u = document.querySelectorAll('.node .unv');
+    stops: ['person', 'entity', 'entityq'],
+    what: 'hides one unverified note on the person page, one conflict on S-4 and one of CEFAA\'s own open questions, and stacks the axis cells as the map\'s .cell rule once did',
+    fn: async (page, _ctx, id) => page.evaluate((stopId) => {
+      const sel = stopId === 'entity' ? '.node .cnf' : stopId === 'entityq' ? '.node .oq' : '.node .unv';
+      const u = document.querySelectorAll(sel);
       if (u.length) u[u.length - 1].remove();
-      for (const c of document.querySelectorAll('.node .axis .acell')) c.style.position = 'absolute';
+      if (stopId === 'person') for (const c of document.querySelectorAll('.node .axis .acell')) c.style.position = 'absolute';
+    }, id),
+  },
+  c30: {
+    stops: ['denial'],
+    what: 'prints the old guessed direction on a denial the record does not adjudicate',
+    fn: async (page) => page.evaluate(() => {
+      const r = document.querySelector('.node .denials .denial[data-adjudicated="no"] .dkind');
+      if (r) r.textContent = r.textContent.replace('direction not adjudicated', 'issued here');
     }),
   },
   c24: {
@@ -825,15 +850,17 @@ async function main() {
     return r.json();
   };
   let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
-      claimRows, foiaFile, personRec;
+      claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec;
   try {
     [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
-     claimRows, foiaFile, personRec] =
+     claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec] =
       await Promise.all([
         jget('data/index.json'), jget('data/map.json'), jget('data/edges.json'),
         jget('data/threads.json'), jget('data/highlights.json'), jget('data/timeline.json'),
         jget('data/nodes/' + NODE_FOCUS + '.json'), jget('data/patents.json'), jget('data/analyst.json'),
         jget('data/claims.json'), jget('data/foia.json'), jget('data/nodes/' + PERSON_FOCUS + '.json'),
+        jget('data/nodes/' + ENTITY_FOCUS + '.json'), jget('data/nodes/' + ENTITY_OQ_FOCUS + '.json'),
+        jget('data/nodes/' + DENIAL_FOCUS + '.json'),
       ]);
   } catch (e) {
     console.error('HARNESS: the app is not being served at ' + APP + ' (' + e.message + ').');
@@ -877,7 +904,7 @@ async function main() {
   const S = {};                       /* stop id -> snapshot                  */
   let current = null;
   async function poisonAt(p, id) {
-    if (POISONS[POISON] && POISONS[POISON].stops.includes(id)) await POISONS[POISON].fn(p, ctx);
+    if (POISONS[POISON] && POISONS[POISON].stops.includes(id)) await POISONS[POISON].fn(p, ctx, id);
   }
   async function stop(id, hash, settle = 900, extra = null) {
     if (current === null) await page.goto(APP + hash, { waitUntil: 'load' });
@@ -904,6 +931,15 @@ async function main() {
 
   await stop('person', '#/n/' + PERSON_FOCUS, 1200);
   S.person.fields = await ev(IN_PAGE.fields);
+
+  await stop('entity', '#/n/' + ENTITY_FOCUS, 1200);
+  S.entity.fields = await ev(IN_PAGE.fields);
+
+  await stop('entityq', '#/n/' + ENTITY_OQ_FOCUS, 1200);
+  S.entityq.fields = await ev(IN_PAGE.fields);
+
+  await stop('denial', '#/n/' + DENIAL_FOCUS, 1200);
+  S.denial.rows = await ev(IN_PAGE.denials);
 
   await stop('map', '#/map', 2400);
   S.map.map = await ev(IN_PAGE.map);
@@ -1717,13 +1753,15 @@ async function main() {
      place on the page. The chronology rule is restated here, not imported. */
   {
     const list = (v) => (Array.isArray(v) ? v.filter(Boolean) : (v ? [v] : []));
-    for (const [stopId, rec] of [['node', focusRec], ['person', personRec]]) {
+    for (const [stopId, rec] of [['node', focusRec], ['person', personRec],
+      ['entity', entityRec], ['entityq', entityQRec]]) {
       const f = S[stopId].fields;
       const chron = new Set([...(rec.chronology || []), ...(rec.sequenceChain || [])]
         .map((e) => String(e.date) + '|' + String(e.event || '').trim().toLowerCase()));
+      /* open questions: the dossier's, then the node's own (phase 3) */
       const want = {
-        oq: ((rec.dossier && rec.dossier.openQuestions) || []).length,
-        unv: list(rec.unverified).length, chron: chron.size,
+        oq: ((rec.dossier && rec.dossier.openQuestions) || []).length + list(rec.openQuestions).length,
+        unv: list(rec.unverified).length, cnf: list(rec.conflicts).length, chron: chron.size,
         aff: (rec.affiliations || []).length, nsrc: (rec.sources || []).length,
       };
       const bad = Object.keys(want).filter((k) => want[k] !== f[k]);
@@ -1737,6 +1775,32 @@ async function main() {
         `C23 #/n/${rec.id} draws each of the three axes as three cells side by side`,
         f.axes.length + ' axes' + (stacked.length ? ', ' + stacked.length + ' with cells stacked or missing' : ''));
     }
+  }
+
+  /* ---- C30 -------------------------------------------------------------- */
+  /* A denial is given a direction only where data/denial-adjudication.json names
+     the denier. Every row the record does not adjudicate says so, in so many
+     words, and never prints the old guess ("issued here", "directed here") that
+     came from the order the edge's ends were written in. Read row by row against
+     the record, in page order; the page's own data-adjudicated flag is not used. */
+  {
+    const recD = denialRec.denials || [];
+    const rows = S.denial.rows || [];
+    const un = recD.filter((d) => !d.denialKind).length;
+    const wrong = [];
+    recD.forEach((d, i) => {
+      const k = (rows[i] || {}).kind || '';
+      const says = /direction not adjudicated/.test(k);
+      const guesses = /issued here|directed here/.test(k);
+      if (!d.denialKind && (!says || guesses)) wrong.push(i + ':' + k);
+      if (d.denialKind && says) wrong.push(i + ':' + k);
+      if (!d.by && guesses) wrong.push(i + ':' + k);
+    });
+    check('c30', un > 0 && rows.length === recD.length && wrong.length === 0,
+      `C30 every denial on #/n/${DENIAL_FOCUS} that the record does not adjudicate says so`,
+      `record ${recD.length} (${un} unadjudicated) · page ${rows.length}` +
+      (un ? '' : ' · the subject no longer carries an unadjudicated denial: choose another, or retire C30 once phase R has cleared them') +
+      (wrong.length ? ' · wrong ' + clip(wrong, 2) : ''));
   }
 
   /* ---- C25 -------------------------------------------------------------- */
