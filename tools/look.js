@@ -116,7 +116,31 @@ async function realIds() {
     process.exit(2);
   }
 
-  const SWEEP = [
+  /* --critic: the shots the blind critic reviews (tools/critic/BRIEF.md). Every
+     surface a reader meets, at a common laptop, a small laptop and a phone, at
+     1x so a label is the size a reader sees it. The critic gets these and the
+     brief, never the code. */
+  const CRITIC = argv.includes('--critic');
+  const PHONE = [375, 812], SMALL = [1366, 768], BIG = [1920, 1080];
+  const criticSweep = () => {
+    const routes = [
+      ['home', '#/'], ['node', '#/n/' + ids.node], ['person', '#/n/david-grusch'],
+      ['map', '#/map'], ['hood', '#/n/' + ids.node + '/hood'], ['timeline', '#/timeline'],
+      ['evidence', '#/evidence'], ['thread', '#/t/' + ids.thread], ['patent', '#/patents/' + ids.patent],
+      ['report', '#/report/n/' + ids.node],
+    ];
+    for (const extra of (argOf('--routes') || '').split(',').filter(Boolean)) {
+      const [name, hash] = extra.split('=');
+      if (name && hash) routes.push([name, hash]);
+    }
+    const out = [];
+    for (const [size, tag] of [[BIG, '1920'], [SMALL, '1366'], [PHONE, '375']]) {
+      for (const [name, hash] of routes) out.push({ file: tag + '-' + name, hash, size, dpr: 1 });
+    }
+    return out;
+  };
+
+  const SWEEP = CRITIC ? criticSweep() : [
     { file: '01-home',        hash: '#/',                          size: WIDE },
     { file: '02-map',         hash: '#/map',                       size: WIDE },
     { file: '03-map-1366',    hash: '#/map',                       size: NARROW },
@@ -138,10 +162,10 @@ async function realIds() {
      made, and the whole point of the 1366 shot is that it is the same capture
      settings at a different width. */
   const pages = new Map();
-  const pageFor = async ([w, h]) => {
-    const key = w + 'x' + h;
+  const pageFor = async ([w, h], dpr = 2) => {
+    const key = w + 'x' + h + '@' + dpr;
     if (!pages.has(key)) {
-      const p = await browser.newPage({ viewport: { width: w, height: h }, deviceScaleFactor: 2 });
+      const p = await browser.newPage({ viewport: { width: w, height: h }, deviceScaleFactor: dpr });
       const errs = [];
       p.on('pageerror', e => errs.push(String(e.message).slice(0, 160)));
       p.on('console', m => { if (m.type() === 'error') errs.push(m.text().slice(0, 160)); });
@@ -151,7 +175,7 @@ async function realIds() {
   };
 
   for (const stop of SWEEP) {
-    const slot = await pageFor(stop.size);
+    const slot = await pageFor(stop.size, stop.dpr || 2);
     const before = slot.errs.length;
     if (!slot.loaded) {
       await slot.page.goto(APP + stop.hash, { waitUntil: 'load' });

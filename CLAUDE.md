@@ -13,7 +13,7 @@ every link explains itself. The decision: `notes/REDESIGN-2026-09-24.md`. The wo
 the model and effort for each: `notes/PLAN-2026-09-24.md`. Do the phase `notes/STATE.md` names; a phase
 not written out in full in the plan gets its own detailed plan in `notes/plans/` first.
 
-**Do not trust any figure in any document here.** `python tools/state_snapshot.py` derives them from source.
+**Trust no figure in any document here.** `python tools/state_snapshot.py` derives them from source.
 
 ---
 
@@ -27,9 +27,7 @@ pipeline in `tools/`. Production is **https://the-program-zxz.pages.dev** (note 
 **https://the-program-next.pages.dev** is where a build is looked at before production, deployed by hand.
 The analyst's Worker in `worker/` is deployed by hand, by Stewart only.
 
-The old single-file shell (`dist/the-program.html`, built by `build_dashboard.py` by patching a sibling
-project's page) was retired in redesign phase 2 on 25 September 2026. Its independent checks were carried
-to the app first (C27 to C29).
+The old single-file shell retired in phase 2 (25 September 2026); C27 to C29 carry its checks.
 
 ## 2. THE ONE RULE THAT NEVER BENDS
 
@@ -135,10 +133,12 @@ To run the app by hand: from `app/`, `npm run build`, then as a background task
 binds IPv6 only here and the checks find nothing) and keep `--strictPort` (so it fails rather than moving
 to 4174, which nothing watches).
 
-**Looking.** `node tools/look.js` takes screenshots of every surface from the same preview. It is a camera,
-not a check, and must never become one. Use it, and report only what you saw: captures are at
-`deviceScaleFactor: 2`, so do not certify the legibility of the smallest labels from one, and one
-screenshot is one state. Where you have not looked, say "built, gate green, unverified on screen".
+**Looking, and the blind critic** (Stewart, 25 September 2026). `node tools/look.js` is a camera, never a
+check. After every phase that changes what a reader sees, run `node tools/look.js --critic --out <dir>`
+(every surface at 1920, 1366 and 375 wide, at 1x) and give the shots to a separate critic agent with
+`tools/critic/BRIEF.md` and NOTHING else: no code, no notes, no reasoning. It returns the five worst
+problems a reader would notice. Fix them, shoot again, repeat until the worst is cosmetic; keep each
+round's report in `notes/critic/`. The builder never grades its own screenshots; one shot is one state. Where nobody has looked, say "built, gate green, unverified on screen".
 
 **Commands written for Stewart** are PowerShell 5.1: `&&` is a syntax error, so one command per line;
 every block starts with its own quoted `cd`; the interpreter is `python`. The repo path has three spaces:
@@ -164,10 +164,9 @@ hashes bytes must normalise CRLF.
 - **Adversarial review does not apply to this project.** It exists for his employer work; here the gate is
   the equivalent. Do not offer it.
 - **He cannot read JSON.** When a JSON file needs his decision, render it as a table in chat.
-- **Hand things to Claude Design, self-contained.** A Design session reads GitHub only when told the exact
-  repo and branch, and cannot read a file over about 1MB through the API. A brief carries its own context,
-  screenshots and figures, and anything it references is on `master`.
-- **Never paste the GitHub token into chat.** It lives in `.gh-token`, gitignored.
+- **Hand things to Claude Design, self-contained**: its own context, screenshots and figures; anything it
+  references on `master` and under 1MB (the API reads bigger files as absent).
+- **Never paste the GitHub token into chat** (`.gh-token`, gitignored).
 - **Token economy** (3 September 2026): the orchestrating session does not read files over about 10 KB; an
   agent reads them and reports in under 40 lines. Fan-outs of more than five agents go through one
   coordinator. Sonnet for mechanical batches, the gate and screenshots; Opus for code, triage,
