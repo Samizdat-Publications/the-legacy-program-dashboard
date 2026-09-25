@@ -42,6 +42,7 @@ interface Ctx {
   eraId: string;
   scope: string | null;
   scopeLabel: string | null;
+  present: number;         /* the year the board was generated */
 }
 
 export async function renderTimeline(
@@ -80,7 +81,11 @@ export async function renderTimeline(
     scopeBad = 'A scope is n:<node id> or t:<thread id>. This route carries ' + scope + '.';
   }
 
-  const eras = idx.eras as EraDef[];
+  /* The NO DATE column is drawn only when it holds an event: an empty column in
+     every strand is a column of nothing (blind critic round 0). */
+  const undatedEra = (e: EraDef) => e.start == null && e.end == null;
+  const eras = (idx.eras as EraDef[]).filter((e) => !undatedEra(e) || events.some((x) => x.era === e.id));
+  const present = Number(String(idx.generated || '').slice(0, 4)) || new Date().getFullYear();
 
   /* Which era is open. The route wins; with no era in the route the era
      carrying the most events in the current scope opens, so the page never
@@ -95,8 +100,9 @@ export async function renderTimeline(
     }
   }
 
-  const ctx: Ctx = { view, events, all, eras, byId, eraId, scope, scopeLabel };
+  const ctx: Ctx = { view, events, all, eras, byId, eraId, scope, scopeLabel, present };
   view.append(header(ctx, scopeBad));
+  if (window.innerWidth <= 760) { view.append(phoneList(ctx)); publish(); return; }
   const grid = buildGrid(ctx);
   view.append(grid);
   /* Two passes: the skeleton establishes the column widths and the lane
@@ -117,7 +123,7 @@ function header(c: Ctx, bad: string | null): HTMLElement {
   if (c.scopeLabel) bits.push('scope ' + c.scopeLabel + ' · ' + c.events.length + ' events');
   if (openEra) bits.push('era ' + openEra.label + ' open');
   bits.push('a closed era opens on click');
-  bits.push('an event that will not fit at 11px is a mark until its year is opened');
+  bits.push('an event whose name will not fit is a dot until its year is opened');
 
   const line = h('div', { class: 'tl-head' },
     h('span', { class: 'eyebrow' }, 'Timeline'),
@@ -235,7 +241,11 @@ function fill(c: Ctx, grid: HTMLElement): void {
      in it, not from the scoped subset: a scope filters what is drawn, it does
      not move an event's date along the axis. */
   const eraAll = c.all.filter((e) => e.era === c.eraId);
-  const years = era ? eraYears(era, eraAll) : [];
+  /* ...and it stops at the last year that has an event: a year after the
+     board's own date with nothing in it is not drawn (the axis used to run on
+     to 2029 through two empty future years). */
+  const hasEvent = new Set(eraAll.map((e) => Number(e.date.slice(0, 4))));
+  const years = (era ? eraYears(era, eraAll) : []).filter((y) => y <= c.present || hasEvent.has(y));
   let open = openYears.get(c.eraId);
   if (!open) { open = new Set<number>(); openYears.set(c.eraId, open); }
   const present = new Set(years);
@@ -261,12 +271,14 @@ function drawYearHead(c: Ctx, slots: YearSlot[]): void {
   for (const s of slots) {
     const txt = String(s.year);
     const fits = s.w >= textWidth(txt) + 8;
+    /* a year after the board's own date holds only what is scheduled */
+    const later = s.year > c.present;
     const b = h('button', {
-      class: 'tl-year' + (s.open ? ' on' : ''),
+      class: 'tl-year' + (s.open ? ' on' : '') + (later ? ' later' : ''),
       style: 'left:' + s.x.toFixed(1) + 'px;width:' + Math.max(1, s.w - 1).toFixed(1) + 'px',
       'aria-pressed': s.open ? 'true' : 'false',
       'aria-label': (s.open ? 'close ' : 'open ') + txt,
-      title: (s.open ? 'close ' : 'open ') + txt,
+      title: (s.open ? 'close ' : 'open ') + txt + (later ? ": after the board's date, so scheduled events only" : ''),
       'data-year': txt,
     }, fits || s.open ? txt : null);
     b.addEventListener('click', () => {
@@ -368,4 +380,42 @@ function publish(): void {
   const w = window as unknown as { __app?: Record<string, unknown> };
   w.__app = w.__app || {};
   (w.__app as Record<string, unknown>).timeline = { placed };
+}
+
+/* ---- the phone ---------------------------------------------------------- */
+/* At phone width the lanes-by-eras grid cannot fit, so the open era is a list:
+   the eras as links, then each strand's events in date order, every one named. */
+function phoneList(c: Ctx): HTMLElement {
+  const wrap = h('div', { class: 'tlp' });
+  const pick = h('div', { class: 'tlp-eras' });
+  for (const e of c.eras) {
+    const n = c.events.filter((x) => x.era === e.id).length;
+    const on = e.id === c.eraId;
+    pick.append(h(on ? 'span' : 'a', {
+      class: 'tlp-era' + (on ? ' on' : ''),
+      href: on ? null : href(e.id, c.scope),
+      'aria-current': on ? 'true' : null,
+    }, e.label + ' · ' + n));
+  }
+  wrap.append(pick);
+  const inEra = c.events.filter((e) => e.era === c.eraId)
+    .slice().sort((a, b) => String(a.date).localeCompare(String(b.date)));
+  for (const lane of lanes(c.all)) {
+    const evs = inEra.filter((e) => e.strand === lane.id);
+    if (!evs.length) continue;
+    const sec = h('section', { class: 'tlp-lane', 'data-strand': lane.id });
+    sec.append(h('div', { class: 'tlp-head' },
+      h('span', { class: 'eyebrow' }, lane.label), ' ',
+      h('span', { class: 'dim' }, '· ' + evs.length + (evs.length === 1 ? ' event' : ' events'))));
+    for (const ev of evs) {
+      const n = ev.node ? c.byId.get(ev.node) : undefined;
+      const colour = n ? clsColour(n.cls) : 'var(--line2)';
+      const label = ev.label || 'no label on this event';
+      sec.append(h('div', { class: 'tlp-row', style: 'border-left-color:' + colour },
+        h('span', { class: 'tlp-date dim' }, ev.date.slice(0, ev.precision === 'year' ? 4 : ev.precision === 'month' ? 7 : 10)),
+        ev.node ? h('a', { href: '#/n/' + ev.node }, label) : h('span', null, label)));
+    }
+    wrap.append(sec);
+  }
+  return wrap;
 }

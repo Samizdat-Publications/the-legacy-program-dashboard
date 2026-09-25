@@ -40,8 +40,11 @@ export async function renderHome(view: HTMLElement): Promise<void> {
   /* ---- search, large ---------------------------------------------------- */
   main.append(searchBox({
     big: true,
-    placeholder: 'Search ' + n(idx.counts.nodes) + ' nodes, ' + n(claimTotal) +
-      ' claims, ' + n(idx.counts.timeline) + ' events · a name, a programme, a statute',
+    /* a placeholder that does not fit its field is a cut label, so a phone
+       gets the short one */
+    placeholder: window.innerWidth <= 760 ? 'Search the board'
+      : 'Search ' + n(idx.counts.nodes) + ' nodes, ' + n(claimTotal) +
+        ' claims, ' + n(idx.counts.timeline) + ' events · a name, a programme, a statute',
   }));
 
   /* ---- the paragraph. Stewart's own text. Every figure in it is read from

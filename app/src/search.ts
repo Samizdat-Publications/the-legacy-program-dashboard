@@ -6,6 +6,7 @@
  * (`#/t/<id>`), or, for an event that names no node, its era on the timeline.
  * The control is the same on every screen; Home repeats it large.
  */
+import { saidKind, saidMark } from './attrib';
 import { h, clear, mark } from './dom';
 import {
   loadIndex, loadClaims, loadTimeline, loadThreads, clsColour,
@@ -171,7 +172,7 @@ function render(panel: HTMLElement, raw: string, rerun: () => void): void {
       mark(clsColour(n.cls)),
       h('span', { class: 'label' }, n.label),
       h('span', { class: 'meta' },
-        n.cls + ' \u00b7 tier ' + (n.tier || '?') + ' \u00b7 ' + (n.dateStart || 'no date') +
+        n.cls + ' \u00b7 ' + (n.dateStart || 'no date') +
         ' \u00b7 ' + (n.claims[0] + n.claims[1] + n.claims[2]) + ' claims'),
     ));
   }
@@ -246,10 +247,11 @@ function renderClaims(panel: HTMLElement, q: string, terms: string[], nodeHit: S
         + (chits.length > shown.length ? ', strongest ' + shown.length : '')
       : 'no claim text matches'));
   for (const { c } of shown) {
-    panel.append(h('a', { class: 'res claim', href: '#/n/' + c.node, 'data-tier': String(c.tier) },
+    panel.append(h('a', { class: 'res claim', href: '#/n/' + c.node, 'data-tier': String(c.tier), 'data-cid': c.id || null },
       mark(clsColour(c.cls)),
       h('span', { class: 'label' }, c.label),
-      h('span', { class: 'meta t' + c.tier }, 'T' + c.tier),
+      h('span', { class: 'meta t' + c.tier }, 'T' + c.tier,
+        saidMark(saidKind(c.tier, c.text, c.source ? c.source.text : '', c.source ? c.source.url : null))),
       hitLine(c.text, q, terms),
     ));
   }

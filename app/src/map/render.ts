@@ -84,6 +84,14 @@ export async function renderMap(view: HTMLElement, req: MapRequest): Promise<voi
   );
 
   clear(view);
+  /* A phone cannot hold five era columns of named chips, so the map is a list
+     there: band by band, era by era, every node on the map named and linked.
+     Nothing is drawn without its name, and nothing is overprinted. */
+  if (window.innerWidth <= 760) {
+    mounted = null;
+    view.append(phoneMap(data, thread, focus));
+    return;
+  }
   const root = h('div', { class: 'map-root' });
   view.append(root);
 
@@ -137,7 +145,8 @@ export async function renderMap(view: HTMLElement, req: MapRequest): Promise<voi
     ctl.append(button('FIT', true, () => paint(), 'the layout is computed for this viewport'));
     ctl.append(button('LINES AT REST', showRest, () => { showRest = !showRest; paint(); }));
     ctl.append(button('START HERE', showStart, () => { showStart = !showStart; paint(); }));
-    ctl.append(button('DERIVED', showDerived, () => { showDerived = !showDerived; paint(); }));
+    ctl.append(button('SHARED MEMBERS', showDerived, () => { showDerived = !showDerived; paint(); },
+      'links between two map nodes that share a member too minor for the map'));
     ctl.append(button('CELLS', forceCells, () => { forceCells = !forceCells; paint(); }));
     strip.append(ctl);
     root.append(strip);
@@ -313,11 +322,10 @@ function statLine(lay: MapLayout, drawn: number, data: MapData): string {
   const total = data.direct.length + data.summarised.length;
   if (lay.mode === 'label') {
     return data.nodes.length + ' nodes · ' + drawn + ' of ' + total +
-      ' links at rest · all labels at 11px · row pitch ' + lay.pitch +
-      ', band gap ' + lay.gap + ' · scale 1:1';
+      ' links drawn while nothing is selected · every node named';
   }
   return data.nodes.length + ' nodes · ' + drawn +
-    ' links · below the label floor: cells show counts · select a cell';
+    ' links · too narrow to name every node, so each cell shows its count · select a cell to open it';
 }
 
 function button(label: string, on: boolean, fn: () => void, title?: string): HTMLElement {
@@ -459,4 +467,46 @@ function publish(
     },
     budget: REST_BUDGET,
   };
+}
+
+/* ---- the phone ---------------------------------------------------------- */
+function phoneMap(data: MapData, thread: Thread | null, focus: string | null): HTMLElement {
+  const byId = new Map(data.nodes.map((n) => [n.id, n]));
+  const steps = new Set(thread ? thread.steps.map((s) => s.node) : []);
+  const wrap = h('div', { class: 'map-phone' });
+  wrap.append(h('div', { class: 'mp-head' },
+    h('span', { class: 'eyebrow' }, 'Program map'), ' ',
+    h('span', { class: 'dim' }, '· ' + data.nodes.length + ' nodes in ' + data.bands.length +
+      ' bands, listed by era · a wider screen draws them as a grid with their links')));
+  if (thread) {
+    const on = thread.steps.filter((s) => byId.has(s.node)).length;
+    wrap.append(h('div', { class: 'mp-note amber' },
+      (thread.title || thread.label || thread.id) + ': ' + on + ' of ' + thread.steps.length +
+      ' steps are on the map, marked below'));
+  }
+  for (const b of data.bands) {
+    const ids = data.eras.flatMap((e) => data.cells[b.id + '.' + e.id] || []);
+    const sec = h('section', { class: 'mp-band', 'data-band': b.id });
+    sec.append(h('div', { class: 'mp-bandhead' },
+      h('span', { class: 'eyebrow' }, b.label), ' ',
+      h('span', { class: 'dim' }, '· ' + ids.length + (ids.length === 1 ? ' node' : ' nodes'))));
+    for (const e of data.eras) {
+      const cell = (data.cells[b.id + '.' + e.id] || []).map((id) => byId.get(id)).filter(Boolean) as MapNode[];
+      if (!cell.length) continue;
+      const row = h('div', { class: 'mp-era' }, h('div', { class: 'mp-eralabel dim' }, e.label));
+      const list = h('div', { class: 'mp-chips' });
+      for (const n of cell.slice().sort(byStartDate)) {
+        list.append(h('a', {
+          class: 'mp-chip' + (n.hl ? ' hl' : '') + (steps.has(n.id) ? ' step' : '') + (focus === n.id ? ' sel' : ''),
+          href: '#/n/' + n.id, 'data-id': n.id,
+        },
+          h('i', { class: 'mark', style: 'background:' + clsColour(n.cls), 'aria-hidden': 'true' }),
+          h('span', { class: 'mp-label' }, n.label)));
+      }
+      row.append(list);
+      sec.append(row);
+    }
+    wrap.append(sec);
+  }
+  return wrap;
 }

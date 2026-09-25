@@ -51,7 +51,7 @@ export interface BoardIndex {
 }
 
 export interface Source { name?: string; url?: string | null; date?: string | null; }
-export interface Claim { tier: number; text: string; source?: string | Source | null; }
+export interface Claim { id?: string; tier: number; text: string; source?: string | Source | null; }
 
 export interface Connection {
   id: string; label: string; cls: string; tier: string | null; l0: boolean;
@@ -195,6 +195,7 @@ export interface AnalystFile {
 }
 
 export interface ClaimRow {
+  id?: string;
   node: string; label: string; cls: string; cluster: string | null; tier: number;
   text: string; source: { text: string; url: string | null; domain?: string | null };
   denied: boolean; open: boolean;

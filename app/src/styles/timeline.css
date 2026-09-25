@@ -152,3 +152,25 @@ a.tl-mark:hover { outline: 1px solid var(--cyan); }
 @media (max-width: 1500px) {
   .tl-head-bits { max-width: 640px; }
 }
+
+/* Phones (redesign phase 5b): the open era as a list, strand by strand. */
+.tlp { display: grid; gap: 14px; }
+.tlp-eras { display: flex; flex-wrap: wrap; gap: 4px; }
+.tlp-era { border: 1px solid var(--line); padding: 3px 8px; color: var(--dim); }
+.tlp-era.on { border-color: var(--cyan); color: var(--text); background: var(--panel2); }
+.tlp-lane { display: grid; gap: 3px; }
+.tlp-head { margin-bottom: 3px; }
+.tlp-row {
+  display: grid;
+  grid-template-columns: 76px minmax(0, 1fr);
+  gap: 8px;
+  align-items: baseline;
+  border-left: 2px solid var(--line2);
+  padding: 2px 0 2px 8px;
+}
+@media (max-width: 760px) {
+  .tl-head { flex-wrap: wrap; }
+}
+
+/* a year after the board's own date: scheduled events only */
+.tl-year.later { color: var(--amber); font-style: italic; }

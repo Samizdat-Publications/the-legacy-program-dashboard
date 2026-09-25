@@ -9,6 +9,7 @@
  * Nothing here invents a relationship. A pair is in this file only because the
  * board already carries it.
  */
+import { edgeTypeName } from '../vocab';
 import { loadIndex, loadMap, loadNode, type IndexNode } from '../data';
 
 const BASE = import.meta.env.BASE_URL;
@@ -94,9 +95,11 @@ function entry(
 ): Entry {
   let suffix: string;
   if (hop === 1) {
-    suffix = (kind === 'map' && edgeType ? edgeType + ' ' : '') + 'T' + (claimTier ?? '?');
+    /* the relationship in the vocabulary's reader words, never the raw type id */
+    suffix = (kind === 'map' && edgeType ? (edgeType === 'denial' ? 'denial' : edgeTypeName(edgeType).label.toLowerCase()) + ' ' : '') + 'T' + (claimTier ?? '?');
   } else {
-    suffix = derived ? 'derived, hop ' + hop : 'hop ' + hop;
+    const steps = hop === 2 ? 'two steps' : 'three steps';
+    suffix = derived ? steps + ', shared member' : steps;
   }
   return {
     id: meta.id, label: meta.short || meta.label, full: meta.label,

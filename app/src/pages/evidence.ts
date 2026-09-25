@@ -20,6 +20,7 @@ import '../styles/evidence.css';
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import { loadClaims, loadNode, clsColour, type ClaimRow, type NodeRecord } from '../data';
+import { saidKind, saidMark, saidKey } from '../attrib';
 import {
   loadFoia, readFilters, filterRows, facets, chipHref, clearHref, activeCount, fmt,
   NO_DOMAIN, KEYS, type Filters, type Facet, type Key, type FoiaFile, type FoiaEntry,
@@ -74,16 +75,30 @@ export async function renderEvidence(view: HTMLElement, q: URLSearchParams): Pro
   rail.append(h('p', { class: 'ev-note faint' },
     'Every count below is the number of claims in the whole file, not in the current ' +
     'filter. The header above the table carries the filtered count.'));
-  if (activeCount(f)) {
-    rail.append(h('a', { class: 'ev-clear', href: clearHref() },
-      'clear ' + activeCount(f) + ' filter' + (activeCount(f) === 1 ? '' : 's')));
+  /* On a phone the filters fold behind one control so the claims come first;
+     on every wider screen the control is hidden and the rail is open. */
+  const filters = h('div', { class: 'ev-filters' });
+  const nAct = activeCount(f);
+  const ftoggle = h('button', {
+    type: 'button', class: 'ev-filter-toggle', 'aria-expanded': 'false',
+    onclick: () => {
+      const on = rail.getAttribute('data-open') !== '1';
+      rail.setAttribute('data-open', on ? '1' : '0');
+      ftoggle.setAttribute('aria-expanded', on ? 'true' : 'false');
+    },
+  }, 'FILTERS' + (nAct ? ' · ' + nAct + ' on' : '') + ' ', h('span', { class: 'cyan', 'aria-hidden': 'true' }, '▾'));
+  rail.setAttribute('data-open', '0');
+  rail.append(ftoggle, filters);
+  if (nAct) {
+    filters.append(h('a', { class: 'ev-clear', href: clearHref() },
+      'clear ' + nAct + ' filter' + (nAct === 1 ? '' : 's')));
   }
 
   for (const g of GROUPS) {
-    rail.append(h('div', { class: 'ev-ghead eyebrow' }, g.head));
+    filters.append(h('div', { class: 'ev-ghead eyebrow' }, g.head));
     const box = h('div', { class: 'ev-chips' + (g.key === 'domain' ? ' scroll' : '') });
     for (const item of fac[g.key]) box.append(chip(q, g.key, item, f));
-    rail.append(box);
+    filters.append(box);
   }
 
   /* ---- the header ------------------------------------------------------- */
@@ -96,6 +111,8 @@ export async function renderEvidence(view: HTMLElement, q: URLSearchParams): Pro
   for (const k of KEYS) if (f[k] != null) active.push(k + ' = ' + f[k]);
   if (active.length) head.append(h('span', { class: 'ev-active amber' }, active.join('  ·  ')));
   main.append(head);
+  const key = saidKey(['said', 'office']);
+  if (key) main.append(key);
 
   if (!shown.length) {
     main.append(h('p', { class: 'ev-note dim' },
@@ -162,13 +179,13 @@ function chip(q: URLSearchParams, key: Key, item: Facet, f: Filters): HTMLElemen
 }
 
 function row(r: ClaimRow, foia: FoiaFile): HTMLElement {
-  const tr = h('tr') as HTMLTableRowElement;
+  const tr = h('tr', { 'data-cid': r.id || null }) as HTMLTableRowElement;
+  const src = r.source || { text: '', url: null };
   tr.append(h('td', { class: 'c-tier t' + r.tier }, 'T' + r.tier));
   tr.append(h('td', { class: 'c-cls' }, mark(clsColour(r.cls)), ' ', h('span', { class: 'dim' }, r.cls)));
   tr.append(h('td', { class: 'c-node' }, h('a', { href: '#/n/' + r.node }, r.label)));
-  tr.append(h('td', { class: 'c-claim' }, r.text));
+  tr.append(h('td', { class: 'c-claim' }, saidMark(saidKind(r.tier, r.text, src.text, src.url)), r.text));
 
-  const src = r.source || { text: '', url: null };
   tr.append(h('td', { class: 'c-src' },
     src.url
       ? h('a', { href: src.url, rel: 'noreferrer', target: '_blank' }, src.text || src.url)
