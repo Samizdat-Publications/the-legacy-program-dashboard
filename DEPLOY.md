@@ -25,8 +25,7 @@ need it.
 **What it deploys changed on 3 September 2026.** It now builds the app in `app/` --
 `npm ci`, then `npm run build` -- and uploads **`app/dist`** to the `the-program` project.
 Before that it ran `tools/build_site.py` and uploaded a copy of the single-file
-`dist/the-program.html`. That old shell still builds and the gate still checks it, but it
-is deployed nowhere.
+`dist/the-program.html`. That old shell was retired on 25 September 2026.
 
 A green tick on a deploy job is not evidence the site changed; fetching the site is.
 The check is in "Did production actually move?" below.

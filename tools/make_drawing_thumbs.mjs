@@ -9,7 +9,7 @@
  * instead, once, and committed, for three reasons:
  *   1. There is no PIL, no ImageMagick and no sharp in this environment. The only
  *      resampler available is a browser, and putting a browser in the build would
- *      make `python3 tools/build_dashboard.py` need Chromium.
+ *      make the build need Chromium.
  *   2. `verify.py --idempotent` requires two builds to produce identical bytes. A
  *      re-encode through a canvas is not guaranteed to be bit-identical run to run.
  *   3. The originals stay archival, which is what PROVENANCE.md asks for.

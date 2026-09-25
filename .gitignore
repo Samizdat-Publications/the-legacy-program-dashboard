@@ -11,7 +11,7 @@ tools/_pristine-board.json
 # spot_check.py fetch cache — network artefacts, not board state
 tools/.spot-cache/
 
-# Cloudflare Pages output, rebuilt by tools/build_site.py from dist/
+# Cloudflare Pages output of the old deploy (tools/build_site.py, retired 25 September 2026)
 site/
 worker/node_modules/
 # wrangler's cache, at any depth: it holds the account id and the account

@@ -94,12 +94,10 @@ ERAS = [
      "start": None, "end": None},
 ]
 
-# Class colours, read off the current renderer (tools/build_dashboard.py line
-# 543), which is what the Design response section 1.1 points at.
-# Class colours: the program map's chip markers, L0_CLS in tools/l0_patches.py,
-# which is what the Design response section 1.1 points at ("the current map's
-# chip markers"). build_dashboard.py's PALETTE differs on document and event and
-# belongs to the old network map.
+# Class colours: the program map's chip markers, read off L0_CLS in the old
+# shell's tools/l0_patches.py (retired 25 September 2026), which is what the
+# Design response section 1.1 points at ("the current map's chip markers"). The
+# old shell's network-map PALETTE differed on document and event.
 CLASS_COLOUR = {
     "document": "#f0d264",
     "domain": "#e08ad0",
