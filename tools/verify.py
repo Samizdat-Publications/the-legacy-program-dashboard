@@ -1879,7 +1879,7 @@ def _golden(b):
 
 
 # ---------------------------------------------------------------------------
-# idempotency — the check that would have caught the 35 lost dates.
+# idempotency: the check that would have caught the 35 lost dates.
 # ---------------------------------------------------------------------------
 
 def _idempotent_targets():

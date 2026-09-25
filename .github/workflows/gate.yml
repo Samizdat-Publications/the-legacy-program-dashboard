@@ -1,19 +1,26 @@
 # The gate, run somewhere that is not one person's container.
 #
-# TWO JOBS, SINCE 3 SEPTEMBER 2026.
+# THREE KINDS OF JOB, SINCE 25 SEPTEMBER 2026, when the old single-file shell was
+# retired and its browser gate went with it.
 #
-#   gate  the old shell's gate: the pipeline, the reproducibility check, and every
-#         browser check against dist/the-program.html. That shell is no longer
-#         deployed anywhere, but it still builds and it still carries the bulk of
-#         the evidence over the research data, so it stays checked until it is
-#         retired in its own session.
-#   app   the new shell's gate: the em dash lint, build app/, serve the build, run
-#         its own C1 to C26 checks and all twenty-six poisons against the real
-#         pages, then point tools/look.js at the same server and keep the
-#         screenshots.
+#   gate     no browser. The whole build (tools/build.py), the reproducibility
+#            check over the whole tree, then every Python check through
+#            `tools/gate.py --no-build --no-app`: verify and its self-test, the
+#            independent audit, build_app_data --check and --self-test, the em dash
+#            lint and its self-test, and the browser-resolver self-test.
+#   app      the app's own gate: its data re-derived from the committed sources,
+#            the Worker's validators, the em dash lint, build app/, serve the build,
+#            run the app's checks (C1 onwards) against the real pages, then point
+#            tools/look.js at the same server and keep the screenshots.
+#   poisons  three parallel jobs, a matrix over shard 1/3, 2/3 and 3/3. Each builds
+#            and serves the app and runs its third of the poison sweep
+#            (`checks/run.mjs --all-poisons --shard k/3`): every poison damages the
+#            real page and the check named for it must be seen to fail. Split
+#            because the sweep is one browser run per poison and was the longest
+#            single step in CI.
 #
-# deploy.yml keys off this WORKFLOW's conclusion, not off one job, so `app` gates
-# the production deploy without deploy.yml knowing it exists.
+# deploy.yml keys off this WORKFLOW's conclusion, not off one job, so every job
+# here gates the production deploy without deploy.yml knowing it exists.
 #
 # WHY. Until 28 August 2026 the gate could only ever run in the Claude Code cloud
 # container, because four of its steps hardcoded that container's Chromium path.
@@ -22,10 +29,8 @@
 # this file is what portability was FOR.
 #
 # COST. This repository is private, so these minutes are billed against the account's
-# Actions allowance. MEASURED on the first run (28 August 2026): 7m16s wall for the
-# whole job, of which the gate step was 5m04s and the browser install 26s. That is
-# faster than the same gate in the dev container. If it is not wanted, delete this
-# file -- the gate still runs locally and nothing else depends on it.
+# Actions allowance. If it is not wanted, delete this file -- the gate still runs
+# locally (python tools/gate.py) and nothing else depends on it.
 #
 # WHAT IT DOES NOT DO. It does not deploy. .github/workflows/deploy.yml does that,
 # on master, after this workflow finishes green.
@@ -45,63 +50,35 @@ concurrency:
 jobs:
   gate:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 20
 
     steps:
       - uses: actions/checkout@v4
         with:
-          # The board's own history carries a 15MB dist/ and 13MB of data/ per commit,
-          # so a full clone is large and none of it is needed to run the gate.
+          # None of the history is needed to run the gate.
           fetch-depth: 1
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
+      # Node, for tools/build_l0_layout.mjs (a build step) and the browser-resolver
+      # self-test. No browser is installed in this job.
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
 
       # No pip step. Every tool the gate runs is Python standard library plus this
       # repo's own modules. pypdf appears in tools/spot_check.py, which is a network
-      # tool deliberately kept OUT of the gate -- CLAUDE.md section 9 item 9 explains
-      # why: a check that fails because a host is throttling is a check people learn
-      # to ignore. If you add a dependency, add it here and say what needs it.
-
-      - name: Install Playwright and a browser
-        # Pinned to the version the tools were written against. browser_env.js finds
-        # whatever this installs -- no path is baked into the source any more.
-        run: |
-          npm install --no-save playwright@1.56.1 http-server@14
-          npx playwright install --with-deps chromium
-
-      - name: Resolve the browser, and prove the resolver
-        # First, because if this fails the browser gate steps cannot start and every
-        # later failure would be noise. It is also the one gate step that needs no
-        # browser and no server, so it is the cheapest place to learn the truth.
-        run: |
-          node -e "console.log(require('./tools/browser_env').describe())"
-          node tools/test_browser_env.js --self-test
+      # tool deliberately kept OUT of the gate: a check that fails because a host is
+      # throttling is a check people learn to ignore. If you add a dependency, add
+      # it here and say what needs it.
 
       - name: Build
-        # Order matters and is not negotiable: later stages consume earlier output.
-        # CLAUDE.md section 3 is the authority.
-        #
-        # tools/build_app_data.py is deliberately NOT in this list. It writes
-        # app/public/data/, which is what the shipped app reads, and that output is
-        # checked in the `app` job below against the same committed inputs with a
-        # plain git diff. Its fingerprint has been content-only since 4 September
-        # 2026 (CRLF-normalised bytes, no git id), so it could join this list; it
-        # stays in the app job so the app's data and the app's checks fail together.
-        #
-        run: |
-          python3 tools/merge.py
-          python3 tools/regrade.py
-          python3 tools/merge.py
-          python3 tools/build_l0.py
-          python3 tools/build_design_extract.py
-          node    tools/build_l0_layout.mjs
-          python3 tools/build_dashboard.py
+        # tools/build.py is the one build order; later stages consume earlier
+        # output. It ends with build_app_data.py, so app/public/data/ is rebuilt
+        # here too and the step below compares it with everything else.
+        run: python3 tools/build.py
 
       - name: The build must be reproducible from what is committed
         # A rebuild from committed source must reproduce the committed artifacts. If
@@ -110,19 +87,14 @@ jobs:
         # board the sources describe. Nothing else catches that. e04b705 did exactly
         # that and left `master` red.
         #
-        # This was `git diff --quiet` until 30 August 2026, and it had a false
-        # failure that fired at 00:01 UTC that morning: every artifact carries a
-        # build-DATE stamp, so a rebuild on a different UTC day from the machine that
-        # built the commit differs in eleven files by one line each, with nothing
-        # actually wrong. verify.py --idempotent already neutralised that stamp and
-        # said so in its own comment; the knowledge had never been carried across.
-        #
-        # The obvious fix -- `git diff -I<regex>` -- would have been WORSE THAN THE
-        # BUG. data/l0-model.json, data/l0-layout-model.json and
-        # data/design-extract.json are each a single line, so the one changed line
-        # always contains the stamp and every real change to them would have been
-        # ignored. tools/check_rebuild.py normalises the stamp on both sides and
-        # compares full bytes instead. It is self-tested.
+        # Not `git diff --quiet`: every artifact carries a build-DATE stamp, so a
+        # rebuild on a different UTC day from the machine that built the commit
+        # differs by one line per file with nothing actually wrong. And not
+        # `git diff -I<regex>` either, which would be WORSE THAN THE BUG:
+        # data/l0-model.json, data/l0-layout-model.json and data/design-extract.json
+        # are each a single line, so the one changed line always contains the stamp
+        # and every real change to them would be ignored. tools/check_rebuild.py
+        # normalises the stamp (and CRLF) on both sides and compares full bytes.
         run: python3 tools/check_rebuild.py
 
       - name: Keep the rebuilt artifacts when they differ
@@ -139,37 +111,18 @@ jobs:
             data/l0-model.json
             data/design-extract.json
             data/l0-layout-model.json
-            dist/the-program.html
+            data/foia-links.json
+            app/public/data/*.json
 
       - name: ...and that check must be able to fail
         run: python3 tools/check_rebuild.py --self-test
 
-      - name: Serve the board
-        # file:// does not work for a 15MB page: it never finishes parsing.
-        run: |
-          npx http-server dist -p 8899 --silent &
-          for i in $(seq 1 30); do
-            curl -sfo /dev/null http://127.0.0.1:8899/the-program.html && break
-            sleep 1
-          done
-          curl -sSo /dev/null -w 'board serves: %{http_code}\n' \
-            http://127.0.0.1:8899/the-program.html
+      - name: Every Python check
+        # One command, the same one a person runs locally, minus the build (done
+        # above) and the app (the jobs below). It stops at the first failure and
+        # prints a table of every step it ran.
+        run: python3 tools/gate.py --no-build --no-app
 
-      - name: Gate
-        # state_snapshot --gate runs every check and reports them together. It exits
-        # non-zero when any step fails, and names a skip rather than reporting a
-        # browser problem as a board problem.
-        env:
-          BOARD_URL: http://127.0.0.1:8899/the-program.html
-        run: python3 tools/state_snapshot.py --gate
-
-      # The camera moved to the `app` job on 3 September 2026, with look.js itself:
-      # it reads APP_URL now and photographs the app's nine screens. There is no
-      # camera pointed at the old shell any more.
-
-  # The new shell's own gate. Independent of `gate` above: it builds app/ from what
-  # is committed and drives the built pages in a real browser. Both jobs must be
-  # green for deploy.yml to fire, because it waits on the workflow's conclusion.
   app:
     runs-on: ubuntu-latest
     timeout-minutes: 30
@@ -241,11 +194,11 @@ jobs:
           node test/validate.mjs
 
       - name: Install Playwright and a browser
-        # At the REPO ROOT, deliberately, and pinned to the same version the `gate`
-        # job uses. app/checks/run.mjs imports 'playwright' bare and app/node_modules
-        # carries none, so Node resolves upward to the root install. Keep the two
-        # jobs on one version: a check that passes on one browser build and fails on
-        # another teaches nobody anything.
+        # At the REPO ROOT, deliberately, and pinned to the same version the
+        # `poisons` jobs use. app/checks/run.mjs imports 'playwright' bare and
+        # app/node_modules carries none, so Node resolves upward to the root
+        # install. Keep the jobs on one version: a check that passes on one browser
+        # build and fails on another teaches nobody anything.
         run: |
           npm install --no-save playwright@1.56.1 http-server@14
           npx playwright install --with-deps chromium
@@ -285,14 +238,6 @@ jobs:
           APP_URL: http://127.0.0.1:4173
         run: node checks/run.mjs
 
-      - name: ...and every one of them must be able to fail
-        # Each poison damages the real page at one stop and the check named for it
-        # must be seen to fail. A check nobody has watched fail is not a check.
-        working-directory: app
-        env:
-          APP_URL: http://127.0.0.1:4173
-        run: node checks/run.mjs --all-poisons
-
       - name: Keep the app's screenshots when the checks fail
         if: failure()
         uses: actions/upload-artifact@v4
@@ -320,3 +265,55 @@ jobs:
           path: dist/shots/
           if-no-files-found: ignore
           retention-days: 14
+
+  poisons:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      # Every shard reports, so one blind poison does not hide another.
+      fail-fast: false
+      matrix:
+        shard: [1, 2, 3]
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Playwright and a browser
+        # Same place and same version as the `app` job; see the note there.
+        run: |
+          npm install --no-save playwright@1.56.1
+          npx playwright install --with-deps chromium
+
+      - name: Install the app's dependencies
+        working-directory: app
+        run: npm ci
+
+      - name: Build the app
+        working-directory: app
+        run: npm run build
+
+      - name: Serve the built app
+        working-directory: app
+        run: |
+          npm run preview -- --host 127.0.0.1 &
+          for i in $(seq 1 30); do
+            curl -sfo /dev/null http://127.0.0.1:4173/ && break
+            sleep 1
+          done
+          curl -sSo /dev/null -w 'app serves: %{http_code}\n' http://127.0.0.1:4173/
+
+      - name: Every poison in this shard must be seen by its own check
+        # Each poison damages the real page at one stop and the check named for it
+        # must be seen to fail. A check nobody has watched fail is not a check.
+        # Poison i runs in shard (i mod 3) + 1, so the three shards cover every
+        # poison exactly once.
+        working-directory: app
+        env:
+          APP_URL: http://127.0.0.1:4173
+        run: node checks/run.mjs --all-poisons --shard ${{ matrix.shard }}/3

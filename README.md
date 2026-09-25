@@ -9,8 +9,9 @@ modern disclosure movement, 1944–2026.
 *Counts as of 25 August 2026. They move every research pass — regenerate rather than
 trusting them: `python3 tools/state_snapshot.py`. See `CLAUDE.md` for the rest.*
 
-Open `dist/the-program.html` by double-clicking it. No server, no build step, no
-dependencies. It is a single self-contained file.
+The board is the app in `app/`, deployed at https://the-program-zxz.pages.dev. The
+single-file shell that used to be the whole board, `dist/the-program.html`, was retired
+on 25 September 2026.
 
 ---
 
@@ -57,22 +58,18 @@ information.
 ## Layout
 
 ```
-dist/the-program.html    the board — open this
+app/                     the board: a Vite app, reading app/public/data/ at runtime
 data/                    the merged dataset (the-program.json is the whole board)
 research/                per-domain source research
 tools/                   the build pipeline and the verification gate
 notes/                   research log, QA reports, design briefs
-ref/                     the parent board — a BUILD INPUT, never edited
 ```
 
 ## Building
 
 ```bash
-python3 tools/merge.py            # research/*.json -> data/*
-python3 tools/regrade.py          # tiers, dates, coordinates -> research/_remediation.json
-python3 tools/merge.py            # re-merge so the overlay lands
-python3 tools/build_dashboard.py  # data + parent board -> dist/the-program.html
-python3 tools/verify.py --idempotent
+python tools/build.py             # the whole pipeline, research/ -> app/public/data/
+python tools/gate.py              # every check, the app's included
 ```
 
 `verify.py` passing is the definition of shippable. It asserts facts and fails the build,
@@ -83,8 +80,8 @@ reason that rule exists.
 ## Provenance
 
 Built on the engine, schema and design system of *The Vanishing*, a companion board with a
-different subject. `ref/the-vanishing-v2.html` is a build input and is never edited; all
-divergence lives in `tools/build_dashboard.py` as named patches that fail loudly by name.
+different subject. The first shell was that board's single file, patched; it was replaced
+by the app in `app/` on 3 September 2026 and retired on 25 September 2026.
 
 ## Licence
 

@@ -111,6 +111,18 @@ def built_since_last_commit():
     return False
 
 
+# Where a build writes. `--built-only` compares only paths under these, which is
+# how tools/gate.py runs it: a person running the gate mid-session has hand edits
+# in flight (a note, CLAUDE.md, a tool being changed) and those are not rebuild
+# drift. CI runs this WITHOUT the flag, over the whole tree, as a step of its own.
+BUILT_PREFIXES = ("data/", "app/public/data/", "app/public/patents/",
+                  "research/_remediation.json")
+
+
+def is_built(path):
+    return path.replace("\\", "/").startswith(BUILT_PREFIXES)
+
+
 def changed_files():
     # Against HEAD, not against the index. A bare `git diff` compares the working
     # tree with the INDEX, so an artifact that had already been `git add`-ed was
@@ -153,7 +165,7 @@ def compare(paths):
     return real, stamp_only
 
 
-def main():
+def main(built_only=False):
     if not built_since_last_commit():
         print("::error::check_rebuild: nothing was rebuilt, so there is nothing to compare.")
         print("This tool diffs the working tree against HEAD; it does not build. On a")
@@ -163,7 +175,14 @@ def main():
         print()
         print("    python tools/build.py")
         return 1
-    real, stamp_only = compare(changed_files())
+    paths = changed_files()
+    if built_only:
+        skipped = [p for p in paths if not is_built(p)]
+        paths = [p for p in paths if is_built(p)]
+        if skipped:
+            print("  (--built-only: %d changed file(s) outside the build's outputs not "
+                  "compared)" % len(skipped))
+    real, stamp_only = compare(paths)
     for p in stamp_only:
         print("  ok    %s differs only in its build-date stamp" % p)
     if not real:
@@ -229,6 +248,18 @@ def self_test():
     # predicate. CLAUDE.md section 5: poison the page, not just the predicate. Both
     # directions are exercised against actual mtimes on actual BUILT paths.
     import tempfile, time
+    # The --built-only filter, both ways: hand edits are out, build outputs are in.
+    print("\nself-test - --built-only keeps build outputs and drops hand edits\n")
+    for path, want in (("app/public/data/index.json", True), ("data/the-program.json", True),
+                       ("research/_remediation.json", True),
+                       ("CLAUDE.md", False), ("notes/STATE.md", False),
+                       ("tools/verify.py", False), ("research/w1-legacy.json", False)):
+        got = is_built(path)
+        good = got is want
+        ok &= good
+        print("  %s  %s%s" % ("ok  " if good else "FAIL",
+                              "" if want else "REJECTS: ", path))
+
     print("\nself-test — the no-build guard, against real mtimes\n")
     idx = os.path.join(ROOT, ".git", "index")
     if not os.path.exists(idx):
@@ -269,4 +300,5 @@ def self_test():
 
 
 if __name__ == "__main__":
-    sys.exit(self_test() if "--self-test" in sys.argv else main())
+    sys.exit(self_test() if "--self-test" in sys.argv
+             else main(built_only="--built-only" in sys.argv))

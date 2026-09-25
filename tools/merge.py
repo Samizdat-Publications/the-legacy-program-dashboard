@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-merge.py — assemble per-domain research JSON into the board, data/the-program.json.
+merge.py: assemble per-domain research JSON into the board, data/the-program.json.
 
 Reads:  research/*.json   (one per domain, written by the research agents)
 Writes: data/the-program.json, and the tools/*.json reports

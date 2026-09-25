@@ -2185,7 +2185,26 @@ async function main() {
 
 /* ---- --all-poisons: every poison in turn, each must fail its own check --- */
 function allPoisons() {
-  const names = Object.keys(POISONS);
+  /* --shard k/n runs the poisons whose index i satisfies i % n === k - 1, so n
+     parallel CI jobs cover every poison exactly once between them. Without it,
+     every poison runs. */
+  const all = Object.keys(POISONS);
+  const si = process.argv.indexOf('--shard');
+  let names = all, shard = '';
+  if (si >= 0) {
+    const m = /^(\d+)\/(\d+)$/.exec(process.argv[si + 1] || '');
+    const k = m ? Number(m[1]) : 0, n = m ? Number(m[2]) : 0;
+    if (!m || n < 1 || k < 1 || k > n) {
+      console.error('--shard wants k/n with 1 <= k <= n, got ' + (process.argv[si + 1] || 'nothing'));
+      process.exit(2);
+    }
+    names = all.filter((_, i) => i % n === k - 1);
+    shard = ` in shard ${k}/${n}`;
+    if (!names.length) {
+      console.error(`shard ${k}/${n} holds no poisons (there are ${all.length})`);
+      process.exit(2);
+    }
+  }
   const bad = [];
   for (const n of names) {
     const r = spawnSync(process.execPath, [SELF], {
@@ -2197,8 +2216,8 @@ function allPoisons() {
     if (r.status !== 0) bad.push(n);
   }
   console.log('\n' + (bad.length
-    ? `POISON SWEEP FAILED (${bad.length} of ${names.length} blind): ` + bad.join(', ')
-    : `POISON SWEEP PASSED, all ${names.length} poisons were seen by their own check`));
+    ? `POISON SWEEP FAILED (${bad.length} of ${names.length}${shard} blind): ` + bad.join(', ')
+    : `POISON SWEEP PASSED, all ${names.length} poisons${shard} were seen by their own check`));
   process.exit(bad.length ? 1 : 0);
 }
 
