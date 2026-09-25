@@ -58,7 +58,7 @@
    ]
   },
   {
-   "text": "Plasma physics is the leading prosaic explanation for luminous reports: the Condon Report carries a chapter by Martin D. Altschuler on atmospheric electricity and plasma interpretations, and the NASA study team named poor calibration and missing metadata as obstacles to telling atmospheric phenomena from anomalous objects.",
+   "text": "The board files plasma interpretations here: the Condon Report carries a chapter by Martin D. Altschuler on atmospheric electricity and plasma interpretations of UFOs, and the NASA study team named poor calibration and missing metadata as obstacles to telling atmospheric phenomena from anomalous objects.",
    "cite": [
     "c-a754d640da",
     "c-945995a887"
@@ -88,14 +88,15 @@
    ]
   },
   {
-   "text": "Green's clinical DIRD carries the Institute for Advanced Studies at Austin imprint and states as Hypothesis One that \"sufficient evidence exists from human injury / effects to reverse engineer certain aspects of the Energy / Propulsion Systems\". Its preface quotes a November 2007 proposal addressed to Puthoff/Hathaway on 'Probable ET Generated Specific Near-field Electromagnetic Emissions'.",
+   "text": "A second document, the clinical DIRD written by Green and released publicly by Popular Mechanics on 14 February 2020, carries the Institute for Advanced Studies at Austin imprint and states as Hypothesis One that \"sufficient evidence exists from human injury / effects to reverse engineer certain aspects of the Energy / Propulsion Systems\". Its preface quotes a November 2007 proposal addressed to Puthoff/Hathaway on 'Probable ET Generated Specific Near-field Electromagnetic Emissions'.",
    "cite": [
     "c-c2dc45ec5f",
     "c-c9afb9f987",
     "c-855d0f2c47",
     "c-9e377a0325",
     "e-e17e4dea1a",
-    "e-02c70e3391"
+    "e-02c70e3391",
+    "e-72d320eaff"
    ]
   },
   {
@@ -137,7 +138,7 @@
    ]
   },
   {
-   "text": "Betty Cash, Vickie Landrum and Colby Landrum sued the United States in the Southern District of Texas, Civil Action No. H-84-348, under the Federal Tort Claims Act, over the December 1980 encounter on FM 1485 near Huffman. Judge Ross N. Sterling dismissed the case on the government's motion by order filed 21 August 1986.",
+   "text": "Betty Cash, Vickie Landrum and Colby Landrum sued the United States in the Southern District of Texas, Civil Action No. H-84-348, under 28 U.S.C. 1346(b) and 2671 et seq., over the December 1980 encounter on FM 1485. Judge Ross N. Sterling dismissed the case on the government's motion by order filed 21 August 1986.",
    "cite": [
     "c-a9933ed43b",
     "c-4bba85e3c3",
@@ -160,8 +161,7 @@
     "c-3a9659e67b",
     "c-7d5fff36d6",
     "c-8630afeb8d",
-    "c-a811583841",
-    "e-c32089064e"
+    "c-a811583841"
    ]
   },
   {
@@ -199,7 +199,7 @@
    ]
   },
   {
-   "text": "Green's human-effects interest predates the federal contract: he sat on the science advisory board of Bigelow's NIDS, which, on Bigelow's account, sent veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
+   "text": "Green's human-effects interest predates the federal contract: he is reported to have sat on the science advisory board of Bigelow's NIDS, which, on Bigelow's account, sent veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
    "cite": [
     "e-44a696c342",
     "c-f0a924457e"
@@ -213,7 +213,7 @@
    ]
   },
   {
-   "text": "Richard Doty said in August 2026 that he knew of autopsies on recovered bodies from people at the Armed Forces Institute of Pathology, naming Green, then corrected himself in the same passage from saying Green did autopsies to saying he saw reports. No document opened names any individual at the Institute.",
+   "text": "Richard Doty said in August 2026 that he knew of autopsies on recovered bodies from people at the Armed Forces Institute of Pathology, naming 'Kate Green', whom the board identifies as Kit Green, then corrected himself in the same passage from saying Green did autopsies to saying he saw reports. No document opened names any individual at the Institute.",
    "cite": [
     "c-57bdccc137",
     "e-8e70e4ce76"
@@ -242,6 +242,12 @@
    ]
   },
   {
+   "text": "AARO, an interested office, documented at least eight approaches to him between June 2023 and January 2024 and concluded he had no intention of providing it information.",
+   "cite": [
+    "c-55e352d752"
+   ]
+  },
+  {
    "text": "The United States denied that the object and the aircraft were its own, and the court dismissed the Cash suit. An Army Inspector General investigator, Lt. Col. George Sarran, found no evidence the helicopters belonged to the armed forces while calling Cash and Landrum credible, and no documents from a Defense investigation into whether the object was a military device have surfaced.",
    "cite": [
     "e-2a34e96ccd",
@@ -258,10 +264,11 @@
    ]
   },
   {
-   "text": "The records disagree on what DIRD 26 is and who wrote it: the DIA release withholds the author and the board holds that the release alone does not establish Green's authorship, and the printed title adds the words Anomalous and Human to the title DIA gave Congress.",
+   "text": "There is a gap in the record of DIRD 26's authorship: the DIA release withholds the author and the board holds that the release alone does not establish Green's authorship, though DIA's 2018 list to Congress names him. The printed title also adds the words Anomalous and Human to the title DIA gave Congress.",
    "cite": [
     "c-e804ffa5ed",
     "c-300af3cd3d",
+    "c-dd9de2fc2a",
     "c-2dfa379aaf"
    ]
   },
@@ -363,10 +370,6 @@
    "role": "institution"
   },
   {
-   "id": "dod",
-   "role": "institution"
-  },
-  {
    "id": "ross-coulthart",
    "role": "journalist"
   },
@@ -376,6 +379,7 @@
   }
  ],
  "questions": [
+  "How do the two Green documents relate? DIRD 26 is DIA's release with the author withheld, while the clinical DIRD with the Austin imprint was released by Popular Mechanics; is one a version of the other?",
   "What is in Green's clinical case series and the Green-Morris case files, and do the roughly 300 unpublished cases exist in a government-held database?",
   "Who were the Sponsors and Affiliates referred to in the DIRD's executive summary, and was the continuation study of 300 to 500 events ever funded?",
   "Did the Defense Department's investigation into whether the Cash-Landrum object was a military device produce any documents?",

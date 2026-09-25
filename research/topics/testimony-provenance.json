@@ -24,7 +24,7 @@
  "notes": "Added: the witness-chain domain node becomes an explainer. CLAUDE.md section 2a requires every notability node to say how its claim reached us; this topic explains circular reporting, single interviewers and the difference between agreement in substance and verbatim agreement.",
  "appendixT": null,
  "lead": {
-  "text": "Testimony reaches this board by routes that shape what it is worth: the Dulce literature's central insider was invented by the author who then mailed a hundred packets of material to other writers, and the Disclosure Project's sixty-eight testimonies were all taken by one interviewer.",
+  "text": "Testimony reaches this board by routes that shape what it is worth: the author of the Dulce literature's central insider said in a 2015 email that he had invented him and had mailed a hundred packets of material to other writers, and the Disclosure Project's sixty-eight testimonies were all taken by one interviewer.",
   "cite": [
    "c-00b889b936",
    "c-b7c2a03632",
@@ -38,7 +38,8 @@
    "cite": [
     "c-2e4c75d95b",
     "c-4c7cea0bef",
-    "c-9784370d63"
+    "c-9784370d63",
+    "c-81129540ce"
    ]
   },
   {
@@ -54,7 +55,8 @@
    "text": "Between those poles sit interviewer-led registers, such as Robert Hastings's nuclear-site witnesses, and the control cases in which a witness came forward on his own, such as the Minot B-52 co-pilot who approached a research body in 2000.",
    "cite": [
     "c-cc16c644a8",
-    "c-a9c8dc9ec1"
+    "c-a9c8dc9ec1",
+    "c-cb48071832"
    ]
   },
   {
@@ -103,10 +105,11 @@
    ]
   },
   {
-   "text": "The documentary half of an interviewer's output can be checked separately from the interviews: the board opened the 341st Strategic Missile Wing histories, the 24th NORAD Region log and the Warren Blue Book telephone log that Hastings relies on, and found them real and saying what he says.",
+   "text": "The documentary half of an interviewer's output can be checked separately from the interviews: the board opened the 341st Strategic Missile Wing histories and the 24th NORAD Region log that Hastings relies on and found them saying what he says, while the Warren Blue Book telephone log was read only through a mirror of Hastings's own material.",
    "cite": [
     "c-9113af4936",
-    "e-2f1d027c6b"
+    "e-2f1d027c6b",
+    "c-9a77d2bbb0"
    ]
   },
   {
@@ -186,12 +189,13 @@
    ]
   },
   {
-   "text": "The witness-initiated cases run the other way: Runyon contacted the Center for UFO Studies himself in 2000; Robert Salas approached the Great Falls Tribune himself in 1996; the Warren 1965 reports reached the public because Project Blue Book's own consultant printed its log; and Jacobs published under his own name years before any interviewer sought him out.",
+   "text": "The self-initiated cases run the other way: Runyon contacted the Center for UFO Studies himself in 2000; Robert Salas, a claimant who never said he saw anything himself, approached the Great Falls Tribune himself in 1996; the Warren 1965 reports reached the public because Project Blue Book's own consultant printed its log; and Jacobs published under his own name years before any interviewer sought him out.",
    "cite": [
     "c-cb48071832",
     "c-d792c545c8",
     "c-1ecac3e0ba",
-    "c-9e01a79d2d"
+    "c-9e01a79d2d",
+    "c-4301592ac9"
    ]
   },
   {
@@ -234,7 +238,7 @@
    ]
   },
   {
-   "text": "Interview-led registers carry the circularity risk in plain form: four Malmstrom witnesses sharing a single interviewer are one method applied four times, the interviewer's own separation of two events rests on a witness he found, and his count of witnesses varies between his own pages.",
+   "text": "Interview-led registers carry the circularity risk in plain form: four Malmstrom witnesses sharing a single interviewer are one method applied four times, the interviewer's own separation of two events rests on a witness he interviewed, and his count of witnesses varies between his own pages.",
    "cite": [
     "c-cc16c644a8",
     "c-917255071a",
@@ -262,6 +266,14 @@
     "e-62984dacf5",
     "e-50bccd2233"
    ]
+  },
+  {
+   "text": "The Malmstrom corroboration is itself disputed: James Carlson says Figel told him he saw no UFO and treated the radio report as a joke, Tim Hebert says Figel's two Hastings interviews contradict each other and that Figel declined to sign an affidavit, and Meiwald's 1996 letter is characterised in two incompatible ways, one reading it as recording a different recollection from the claimant's.",
+   "cite": [
+    "c-6016b08032",
+    "c-ecdbf7a98a",
+    "c-043a461873"
+   ]
   }
  ],
  "members": [
@@ -271,7 +283,7 @@
   },
   {
    "id": "thomas-castello",
-   "role": "claimant"
+   "role": "subject"
   },
   {
    "id": "dulce-base",
@@ -307,7 +319,7 @@
   },
   {
    "id": "robert-hastings",
-   "role": "researcher"
+   "role": "investigator"
   },
   {
    "id": "doc-norad-24th-log-1975",

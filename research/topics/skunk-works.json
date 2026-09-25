@@ -24,7 +24,7 @@
  "notes": "GAO accession 130581 (the Burbank document-control review) sits here. Thread custody.",
  "appendixT": "skunk-works",
  "lead": {
-  "text": "Lockheed's Skunk Works is the documented builder of aircraft whose existence was officially denied while they flew, from the U-2 to the F-117, and Lockheed Martin is the contractor most often named in custody allegations. George Knapp testified that Lockheed held unusual material at a California facility; AARO says the executives of the companies named to it denied such programmes, and no record the board holds shows Lockheed holding recovered material.",
+  "text": "Lockheed's Skunk Works is the documented builder of aircraft whose existence was officially denied while they flew, from the U-2 to the F-117, and Lockheed Martin is named in custody allegations, including sworn testimony. George Knapp testified that Lockheed held unusual material at a California facility; AARO says the executives of the companies named to it denied such programmes, and no record the board holds shows Lockheed holding recovered material.",
   "cite": [
    "c-aa786f1ebb",
    "c-b6d6789c8c",
@@ -43,7 +43,7 @@
    ]
   },
   {
-   "text": "The oversight record: a 1986 GAO review of a Lockheed special access contract at Burbank found document control that had deteriorated because such contracts had been carved out of routine inspection since 1965.",
+   "text": "The oversight record: a 1986 GAO review of a Lockheed special access contract at Burbank found deteriorated document control, which GAO said might not have happened had the Defense Investigative Service been allowed to inspect the contract; special access programmes had been excluded from its supervision since 1965.",
    "cite": [
     "c-4f2e1a3219",
     "c-8c72a404f4",
@@ -79,15 +79,15 @@
    ]
   },
   {
-   "text": "The CIA's history records Kelly Johnson on the April 1955 flight with Richard Bissell that found the Groom Lake site, and says Johnson named the base Paradise Ranch; the U-2 was flown there because its testing could not be done at Edwards or Palmdale.",
+   "text": "The CIA's history records Kelly Johnson on the April 1955 flight with Richard Bissell that found the Groom Lake site, and says Johnson named the base Paradise Ranch.",
    "cite": [
     "e-cae517d5f7",
     "c-e28e344266",
-    "e-8221f48e9f"
+    "e-d3a62f4e9f"
    ]
   },
   {
-   "text": "GAO's testimony of 24 July 1986 reports that Lockheed's inventory of about 40,000 secret and top secret items across 53 document control stations found 1,460 discrepancies, of which 11 documents remained unresolved, 7 said to have been inadvertently destroyed and 4 not located.",
+   "text": "GAO's testimony of 24 July 1986 reports that Lockheed's inventory of about 40,000 secret and top secret items across 53 document control stations found 1,460 discrepancies; Lockheed reported, in results GAO had not yet verified, that 11 documents remained unresolved, 7 said to have been inadvertently destroyed and 4 not located.",
    "cite": [
     "c-4f2e1a3219",
     "c-c6c9783d1c",
@@ -129,15 +129,6 @@
    ]
   },
   {
-   "text": "Dana Jackson, a former Lockheed Martin chief technology officer, now runs MITRE National Security, the unit containing the NSEC research centre that serves DoD and the intelligence community.",
-   "cite": [
-    "c-b3951ac80d",
-    "c-8176615652",
-    "e-b363c2a62a",
-    "c-c84daf2a74"
-   ]
-  },
-  {
    "text": "Lockheed Martin is the largest single recipient of DoD prime contract obligations, in the hundreds of billions of dollars since FY2008.",
    "cite": [
     "c-7589d37704"
@@ -176,7 +167,7 @@
    ]
   },
   {
-   "text": "Mark McCandlish relays unnamed informants, one who said he worked at the B-2 facility at Plant 42, who place the Skunk Works near the plant; the accounts are relayed, unnamed and uncorroborated.",
+   "text": "Mark McCandlish relays an unnamed informant who said he worked at the B-2 facility at Plant 42, and who places the Skunk Works near the plant; the account is relayed, unnamed and uncorroborated.",
    "cite": [
     "e-e8a2b43ece",
     "e-457300d46d"
@@ -195,19 +186,15 @@
     "c-1498750c72",
     "e-52826d2191"
    ]
-  },
-  {
-   "text": "Daniel Sheehan said in 2024 that Prompt Global Strike was an effort to use reverse-engineered craft propulsion for a two-minute strike.",
-   "cite": [
-    "c-04f88b0ddd"
-   ]
   }
  ],
  "contested": [
   {
-   "text": "AARO says the executives and technology chiefs of the companies named by interviewees denied the allegations to its Director on the record.",
+   "text": "AARO's report states that it found no empirical evidence that the government and private companies have been reverse-engineering extraterrestrial technology, and that executives and technology chiefs of the companies named by interviewees denied such programmes on the record; it names no company and describes no inspection of any facility.",
    "cite": [
-    "c-ae7352ec1d"
+    "c-e6f024d038",
+    "c-ae7352ec1d",
+    "e-ba53a7bcd5"
    ]
   },
   {
@@ -215,15 +202,6 @@
    "cite": [
     "c-a4d61b0f4a",
     "c-ee2fa82851"
-   ]
-  },
-  {
-   "text": "The Congressional Research Service contradicts Sheehan's account of Prompt Global Strike: every booster traces to an existing American ballistic missile, the goal is to strike targets in under an hour, and the programme is funded on the visible budget.",
-   "cite": [
-    "c-04f88b0ddd",
-    "c-d3bf7ccc3b",
-    "c-dea98293dc",
-    "e-be36f16bee"
    ]
   },
   {
@@ -285,14 +263,6 @@
    "role": "official"
   },
   {
-   "id": "dana-keoki-jackson",
-   "role": "contractor"
-  },
-  {
-   "id": "mitre-nsec",
-   "role": "programme"
-  },
-  {
    "id": "podesta-delonge-mccasland-email-2016",
    "role": "document"
   },
@@ -319,14 +289,6 @@
   {
    "id": "usc-10-119",
    "role": "law"
-  },
-  {
-   "id": "conventional-prompt-global-strike",
-   "role": "programme"
-  },
-  {
-   "id": "dird-cockpits-in-the-era-of-breakthrough",
-   "role": "document"
   }
  ],
  "questions": [

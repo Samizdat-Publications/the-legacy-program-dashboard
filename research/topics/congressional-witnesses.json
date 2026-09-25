@@ -24,7 +24,7 @@
  "notes": "Stewart's 18 September scope ruling. jason-sands has no edge and must stop being an island. Each witness's route to Congress is recorded, and michael-herrera's edge to the 2025 hearing is not a witness appearance.",
  "appendixT": "congressional-witnesses",
  "lead": {
-  "text": "Since David Grusch's sworn testimony in July 2023, witnesses have taken UAP accounts to Congress by different routes: some sworn at open hearings, like Dylan Borland, Jeffrey Nuccetelli and George Knapp on 9 September 2025, and some only on paper, like Michael Herrera, whose written testimony a member entered into the record without his appearing.",
+  "text": "Since David Grusch's sworn testimony in July 2023, witnesses have taken UAP accounts to Congress by different routes: some sworn at open hearings, like Dylan Borland, Jeffrey Nuccetelli and George Knapp on 9 September 2025, and some only on paper, like Michael Herrera, whose written testimony, supplied by Steven Greer, a member entered into the record without his appearing.",
   "cite": [
    "c-b036ccae82",
    "c-e9eeaa6e1d",
@@ -32,7 +32,8 @@
    "e-aeedb1f378",
    "e-e399ff9ed0",
    "e-6216782e12",
-   "e-35b29a1f09"
+   "e-35b29a1f09",
+   "c-62c7f116b4"
   ]
  },
  "summary": [
@@ -54,7 +55,7 @@
    ]
   },
   {
-   "text": "The routes to Congress are part of the story: Grusch went through inspectors general before testifying, AARO counts as its top tier those interviewees who spoke to Congress first and were referred on, and several witnesses reached the hearings through a pipeline of independent media and a private foundation.",
+   "text": "The routes to Congress are part of the story: Grusch went through inspectors general before testifying, AARO counts as its top tier those interviewees who spoke to Congress first and were referred on, and several witnesses moved between independent media and a private foundation's platform.",
    "cite": [
     "c-66d33c8d87",
     "c-d28a058e92",
@@ -120,13 +121,6 @@
     "e-889bb3d97c",
     "c-f1a5446073",
     "e-0e02943c78"
-   ]
-  },
-  {
-   "text": "The committee's wrap-up found that agencies withheld information, that witnesses face retaliation, that UAP spending flows to private entities outside the reach of FOIA, and that personnel lack standardised reporting protocols.",
-   "cite": [
-    "c-72c2113480",
-    "c-f937acab2d"
    ]
   },
   {
@@ -248,12 +242,19 @@
    ]
   },
   {
-   "text": "Burlison has offered his office's help to current and former employees and contractors who want to come forward, and recommends that they ask for a member of Congress to be present as well as an attorney; he names Gaffney as the first person he would want to question in a closed setting. Eric Davis has described Gaffney as very antagonistic to an aerospace firm's proposed release of crash-retrieval materials.",
+   "text": "Burlison has offered his office's help to current and former employees and contractors who want to come forward, and recommends that they ask for a member of Congress to be present as well as an attorney; he names Gaffney as the first person he would want to question in a closed setting. Eric Davis, who says he had no direct interaction with Gaffney, has described him as very antagonistic to an aerospace firm's proposed release of crash-retrieval materials.",
    "cite": [
     "c-b7aa699203",
     "c-9e907dd7f1",
     "c-2fb19b9899",
     "c-6af94511e8"
+   ]
+  },
+  {
+   "text": "The committee's published hearing wrap-up, summarising the testimony, asserts that agencies withheld information, that witnesses face retaliation, that UAP spending flows to private entities outside the reach of FOIA, and that personnel lack standardised reporting protocols.",
+   "cite": [
+    "c-72c2113480",
+    "c-f937acab2d"
    ]
   }
  ],
@@ -281,7 +282,7 @@
    ]
   },
   {
-   "text": "AARO's own record on Gaffney's alleged role is an unnamed interviewee's claim that a former senior CIA official quashed the proposal to move the material from the corporation; AARO does not name the official.",
+   "text": "AARO records an unnamed interviewee's claim that a former senior CIA official quashed the proposal to move the material from the corporation; AARO does not name the official, and whether that official is Gaffney is not established.",
    "cite": [
     "c-6ff0911b65"
    ]
@@ -295,7 +296,7 @@
    ]
   },
   {
-   "text": "On the board's reading, the path from independent media to a private foundation's platform to the hearing room is short and documented: Barber went from a YouTube channel in January 2025 to the Sol symposium nine months later, and Borland from the symposium to a three-episode podcast run.",
+   "text": "On the board's reading, the path from independent media to a private foundation's platform is short and documented: Barber went from a YouTube channel in January 2025 to the Sol symposium nine months later, and Borland from the symposium to a three-episode podcast run.",
    "cite": [
     "e-9e3a287af3",
     "e-bc1244598a"
@@ -392,7 +393,8 @@
   "Did Borland's complaints to AARO and the ICIG produce any finding, and what are his unit and dates of service?",
   "Has Jason Sands given testimony to Congress, the ICIG or AARO, and does he appear in the documentary he is said to appear in?",
   "Were Herrera or any of the others whose testimonies were entered by Burlison ever interviewed in a closed congressional setting?",
-  "Have any of the roughly 40 witnesses Grusch says he interviewed been heard by any committee?"
+  "Have any of the roughly 40 witnesses Grusch says he interviewed been heard by any committee?",
+  "George Knapp worked as a consultant to BAASS, the contractor at the centre of the Lockheed transfer he describes: how far does his reporting of that episode rest on what he learned in that role?"
  ],
  "related": [
   "hearing-2023",

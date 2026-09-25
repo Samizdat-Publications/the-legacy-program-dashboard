@@ -291,7 +291,7 @@
    ]
   },
   {
-   "text": "On the board's reading, the waiver, the SAPCO notification rule and committee read-in practice together could keep a programme from 527 of 535 members of Congress indefinitely, and the allegation of a concealed legacy programme reduces to a waived programme or one never entered into the system at all.",
+   "text": "On the board's reading, the waiver, the SAPCO notification rule and committee read-in practice together could keep a programme from all but a handful of members of Congress indefinitely, and the allegation of a concealed legacy programme reduces to a waived programme or one never entered into the system at all. That reading counts eight readers, 527 of 535 excluded; the statute's own count is twelve, as set out below.",
    "cite": [
     "c-3104436903",
     "c-89da18590f"
@@ -358,6 +358,16 @@
    "text": "The Personnel Reliability Program claim is not supported by the directive. The figure of 167 is Robert Hastings's count of nuclear-base witnesses, not of programme personnel, no opened record supports the reporting claim, and the directive says nothing about reporting aerial phenomena.",
    "cite": [
     "c-89d4aa637b"
+   ]
+  },
+  {
+   "text": "The board disagrees with itself on how many members of Congress may see a waived programme. Two items give eight; the statute, 10 U.S.C. 119(e)(2), names the chairman and ranking minority member of each of the defense committees, twelve seats across six committee entities, and DoDI 5205.11 widens that group to staff directors, a designated security manager and the two intelligence committees.",
+   "cite": [
+    "c-89da18590f",
+    "e-41afc54acd",
+    "c-b9b20705ad",
+    "c-b209b81bf2",
+    "e-336caeab0b"
    ]
   },
   {
@@ -439,6 +449,10 @@
   },
   {
    "id": "oversight-congress",
+   "role": "institution"
+  },
+  {
+   "id": "waived-sap-notification-group",
    "role": "institution"
   },
   {

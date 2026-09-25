@@ -26,7 +26,7 @@
  "notes": "Moved from Appendix T's early-record section: the documents surfaced in 1984 through Shandera and Moore, and the data places them with the Kirtland affair, not with 1947. Canon 6 (the named list) extends it.",
  "appendixT": "mj12-documents",
  "lead": {
-  "text": "The Majestic-12 documents are papers purporting to show a secret 1950s control group for recovered craft; they surfaced as an anonymous roll of film mailed to Jaime Shandera in December 1984, postmarked Albuquerque. The FBI records that an Air Force investigation found the memo it received to be a fake, and the board treats the corpus as evidence about the disinformation of the period rather than about recoveries.",
+  "text": "The Majestic-12 documents are papers purporting to show a secret 1950s control group for recovered craft; they surfaced, by the account of their recipients Jaime Shandera and William Moore, as an anonymous roll of film mailed to Shandera in December 1984 and postmarked Albuquerque. The FBI records that an Air Force investigation found the memo it received to be a fake, and the board treats the corpus as evidence about the disinformation of the period rather than about recoveries.",
   "cite": [
    "c-238409647c",
    "e-7a2d61cfb7",
@@ -36,7 +36,7 @@
  },
  "summary": [
   {
-   "text": "The core corpus, the Eisenhower briefing document and a Truman-Forrestal memorandum, arrived as undeveloped 35mm film addressed to William Moore and Shandera, and everything downstream dates from that delivery; Moore and Shandera controlled the release and published their own analytical report in 1990.",
+   "text": "According to the Woods' archive, the core corpus, the Eisenhower briefing document and a Truman-Forrestal memorandum, arrived as undeveloped 35mm film addressed to William Moore and Shandera, and everything downstream dates from that delivery; Moore and Shandera controlled the release and published their own analytical report in 1990.",
    "cite": [
     "e-a5debf93b7",
     "e-d0563484da",
@@ -62,7 +62,7 @@
    ]
   },
   {
-   "text": "The corpus spread into the wider retrieval literature: Ryan Wood's 2005 catalogue Majic Eyes Only indexes claimed crash-retrievals with credibility weightings, much of it inherited from Leonard Stringfield's anonymous sources.",
+   "text": "The corpus spread into the wider retrieval literature: Ryan Wood's 2005 catalogue Majic Eyes Only indexes claimed crash-retrievals with credibility weightings, on the board's reading much of it inherited from Leonard Stringfield's anonymous sources.",
    "cite": [
     "e-909515bf6f",
     "c-e3218ad4c5",
@@ -139,7 +139,7 @@
    ]
   },
   {
-   "text": "The Woods' archive rates much of the corpus as probably authentic; Robert Wood, who spent his career at McDonnell Douglas, says he ran a company-funded study of unidentified craft there in the late 1960s.",
+   "text": "The Woods' archive argues for the authenticity of substantial portions of the corpus; Robert Wood, who spent his career at McDonnell Douglas, says he ran a company-funded study of unidentified craft there in the late 1960s.",
    "cite": [
     "c-3b5de598e8",
     "c-b3735068f1",
@@ -159,15 +159,6 @@
    "cite": [
     "c-c26feaec5b",
     "c-41b4d3461b"
-   ]
-  },
-  {
-   "text": "The Rockefeller-funded 1995 briefing The Best Available Evidence, compiled under Marie Galbraith with Friedman and Don Berliner, was sent to officials, legislators and heads of state.",
-   "cite": [
-    "c-358c27f510",
-    "c-d955b34781",
-    "e-c8e8b97b87",
-    "e-77559c56b0"
    ]
   },
   {
@@ -230,7 +221,7 @@
   },
   {
    "id": "majestic-documents-archive",
-   "role": "programme"
+   "role": "institution"
   },
   {
    "id": "majic-eyes-only",
@@ -253,10 +244,6 @@
    "role": "claimant"
   },
   {
-   "id": "best-available-evidence",
-   "role": "document"
-  },
-  {
    "id": "stanton-friedman",
    "role": "researcher"
   },
@@ -274,14 +261,6 @@
   },
   {
    "id": "project-aquarius",
-   "role": "programme"
-  },
-  {
-   "id": "marie-galbraith",
-   "role": "claimant"
-  },
-  {
-   "id": "rockefeller-initiative",
    "role": "programme"
   },
   {

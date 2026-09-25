@@ -30,17 +30,18 @@
  "notes": "The remote-viewing programmes from SRI to STAR GATE: a stable sub-group of the AAWSAP community that predates it by three decades.",
  "appendixT": "stargate",
  "lead": {
-  "text": "STAR GATE is the last name of the US government's remote-viewing effort, which began with CIA-sponsored research by Harold Puthoff and Russell Targ at SRI in 1972 and ran under federal contract through Army and DIA programmes until 1995. A CIA-commissioned evaluation that year found the information too vague and ambiguous for actionable intelligence, and the programme was ended.",
+  "text": "STAR GATE is the last name of the US government's remote-viewing effort. CIA's Office of Technical Service funded research by Harold Puthoff and Russell Targ at SRI from 1972, and the work ran under federal contract through Army and DIA programmes until 1995, when a CIA-commissioned evaluation found the information too vague and ambiguous for actionable intelligence and the programme was ended.",
   "cite": [
-   "c-ccf7d334c9",
+   "e-12505ae981",
    "c-f1058e5214",
+   "c-720c022de0",
    "c-ef777bce21",
    "c-c76e938a0d"
   ]
  },
  "summary": [
   {
-   "text": "The effort ran under a succession of cryptonyms: SCANATE at CIA around 1970, GONDOLA WISH in 1977, GRILL FLAME from 1978, CENTER LANE from 1983, SUN STREAK at DIA from late 1985 and STAR GATE from 1991. A SUN STREAK budget line adds a further name, DRAGOON ABSORB.",
+   "text": "Secondary accounts give the effort a succession of cryptonyms: SCANATE at CIA around 1970, GONDOLA WISH in 1977, GRILL FLAME from 1978, CENTER LANE from 1983, SUN STREAK at DIA from late 1985 and STAR GATE from 1991. The opened records confirm GRILL FLAME, CENTER LANE and SUN STREAK becoming STAR GATE, and add a budget-line name, DRAGOON ABSORB.",
    "cite": [
     "c-e95749f8eb",
     "c-ea02501d4d",
@@ -300,10 +301,6 @@
   {
    "id": "nids",
    "role": "institution"
-  },
-  {
-   "id": "earthtech-international",
-   "role": "contractor"
   },
   {
    "id": "dird-series",

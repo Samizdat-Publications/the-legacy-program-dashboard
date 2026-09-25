@@ -29,13 +29,14 @@
  "notes": "Split from Appendix T's nuclear-sites: the 1975 overflights rest on NORAD and NMCC logs released under FOIA, a different record from the 1960s missile-field testimony.",
  "appendixT": "nuclear-sites",
  "lead": {
-  "text": "In late October and November 1975 military personnel at Strategic Air Command bases, among them Loring, Wurtsmith, Malmstrom and Minot, reported unidentified objects over weapons storage areas and missile fields, and the government's own paper on it, National Military Command Center memoranda, a NORAD region log and a CINCNORAD summary message, was released under FOIA.",
+  "text": "In late October and November 1975 military personnel at Strategic Air Command bases, among them Loring, Wurtsmith, Malmstrom and Minot (though NORAD's records disagree on which Minot installation), reported unidentified objects over weapons storage areas and missile fields, and the government's own paper on it, National Military Command Center memoranda, a NORAD region log and a CINCNORAD summary message, was released under FOIA.",
   "cite": [
    "c-979fa2345b",
    "c-68c6586b51",
    "c-84dfe6afda",
    "c-9b30fbdcd1",
-   "e-97e5d34f28"
+   "e-97e5d34f28",
+   "c-80ba35e142"
   ]
  },
  "summary": [
@@ -64,13 +65,6 @@
     "c-09937cbcf0",
     "e-07db791118"
    ]
-  },
-  {
-   "text": "Beside it the board carries a claim of a different class: two men's account of an encounter at an Ellsworth AFB launch facility in November 1977, for which no Air Force record has ever been produced.",
-   "cite": [
-    "c-6e0fb78984",
-    "c-d8bc241e0d"
-   ]
   }
  ],
  "record": [
@@ -84,7 +78,7 @@
    ]
   },
   {
-   "text": "The memorandum was distributed to the Chairman of the Joint Chiefs, the service chiefs and representatives of DIA, NSA and CIA. Its updates record the Air Force asking for the Guard helicopter to track and identify only, with no apprehension and no border crossing, the request going to the Army's Director of Operations, an aide to the Deputy Secretary of Defense being advised, and the State Department's Canadian desk being kept informed.",
+   "text": "The memorandum was distributed to the Chairman of the Joint Chiefs, the service chiefs and representatives of DIA, NSA and CIA. Its updates record the Air Force asking for the Guard helicopter to track and identify only, with no apprehension and no border crossing, the request going to the Army's Director of Operations, a military aide to the Special Assistant to the Secretary and Deputy Secretary of Defense being advised, and the State Department's Canadian desk being kept informed.",
    "cite": [
     "c-b2291b5a9f",
     "c-a352fc2a1b",
@@ -144,11 +138,9 @@
    ]
   },
   {
-   "text": "An NMCC Memorandum for the Record of 8 November 1975 records seven height-finder radar returns over Malmstrom between 9,500 and 15,500 feet, ground observers reporting lights and jet noise, FAA cross-tell showing no jet aircraft within 100 nautical miles, two F-106s scrambled, and objects that could not be intercepted. DoD records released under FOIA case 97-F-1677 describe the same failure to intercept.",
+   "text": "An NMCC Memorandum for the Record of 8 November 1975 records seven height-finder radar returns over Malmstrom between 9,500 and 15,500 feet, ground observers reporting lights and jet noise, FAA cross-tell showing no jet aircraft within 100 nautical miles, two F-106s scrambled, and objects that could not be intercepted.",
    "cite": [
-    "c-f969636124",
-    "c-383058bb27",
-    "c-9476ef4048"
+    "c-f969636124"
    ]
   },
   {
@@ -184,7 +176,7 @@
    ]
   },
   {
-   "text": "A Loring operations report quoted by The War Zone gives the opinion that the unknown helicopter had demonstrated a clear intent in the weapons storage area and was smart and a most capable aviator.",
+   "text": "The War Zone quotes the same phrase from what it gives as a Loring operations report rather than a teletype, which gives the opinion that the unknown helicopter had demonstrated a clear intent in the weapons storage area and was smart and a most capable aviator.",
    "cite": [
     "c-7e72a62305"
    ]
@@ -203,35 +195,10 @@
    ]
   },
   {
-   "text": "NICAP cites Grand Forks AFB messages of 4 and 5 November 1975 recording shots possibly fired toward alert aircraft on the SAC ramp; the board has not opened them and carries the claim as inference.",
+   "text": "NICAP cites Grand Forks AFB messages of 4 and 5 November 1975 recording shots possibly fired toward alert aircraft on the SAC ramp; the board has not opened them and carries the claim at Tier 3 for that reason.",
    "cite": [
     "c-a878c5eba0",
     "e-6d661f67f5"
-   ]
-  },
-  {
-   "text": "Mario Woods claims that on 18 November 1977, as a security policeman of the 44th Missile Security Squadron, he and Michael Johnson answered an alarm at Launch Facility November-5 in the Ellsworth field, met a large bright object and four humanoid figures, were taken and examined, lost several hours and were interrogated separately. Woods has told the account under his own name since 1996, in more than forty claimed media appearances in which he named Johnson and asked audiences to find him.",
-   "cite": [
-    "c-50b7bc23aa",
-    "c-2a214d4464",
-    "e-3a8e29454f"
-   ]
-  },
-  {
-   "text": "How Johnson's account reached us: he was located by the publishing party from a viewer's Facebook tip through an unnamed recruiter, with first contact dated on air to 26 June 2026, and nothing he said about the event before that contact exists. On the recorded call he first answered no when asked what they encountered; Woods then asked twice whether it was a UFO and Johnson assented, and Woods supplied the frame of an object over the site.",
-   "cite": [
-    "c-d693a76b39",
-    "c-81129540ce",
-    "c-bab14462a2",
-    "c-ed13cd55e3",
-    "e-f1356e7a78"
-   ]
-  },
-  {
-   "text": "The two accounts agree on substance, an object over the site, figures, missing time and separate interrogation, and diverge on posture and agency: Johnson passive and frozen at the wheel, Woods active and calling him to look. On the board's reading that divergence is the strongest thing in the second account's favour, since it reads differently from verbatim agreement.",
-   "cite": [
-    "c-9784370d63",
-    "c-901a60f144"
    ]
   }
  ],
@@ -273,23 +240,6 @@
     "c-4a2bbcb42a",
     "c-078fbacb5c"
    ]
-  },
-  {
-   "text": "No Air Force record of the Ellsworth event has been produced by anyone, and no service record places either man at Ellsworth or on duty that night. The two accounts are not independent: Woods's version was public for thirty years and named Johnson before Johnson was found by the party publishing the result.",
-   "cite": [
-    "c-d560ec4694",
-    "c-2e4c75d95b",
-    "e-3bdeac722b",
-    "c-8d9aa9922b"
-   ]
-  },
-  {
-   "text": "The Ellsworth episode contradicts itself: its later retelling has Johnson recognising the event immediately with nothing supplied, which its own recording of the call does not show. Its regression content is not carried as evidence, the induction having supplied date, season and setting, and the production launched a crowdfunding appeal for the two men after contact.",
-   "cite": [
-    "c-d3a522ae13",
-    "c-e513b462f2",
-    "c-f60547770c"
-   ]
   }
  ],
  "members": [
@@ -307,10 +257,6 @@
   },
   {
    "id": "malmstrom-1975",
-   "role": "event"
-  },
-  {
-   "id": "ellsworth-1977",
    "role": "event"
   },
   {
@@ -354,10 +300,6 @@
    "role": "place"
   },
   {
-   "id": "l-ellsworth",
-   "role": "place"
-  },
-  {
    "id": "strategic-air-command",
    "role": "institution"
   },
@@ -371,15 +313,7 @@
   },
   {
    "id": "robert-hastings",
-   "role": "researcher"
-  },
-  {
-   "id": "mario-woods",
-   "role": "witness"
-  },
-  {
-   "id": "michael-johnson",
-   "role": "witness"
+   "role": "investigator"
   }
  ],
  "questions": [
@@ -387,9 +321,7 @@
   "Which Minot installation does the November 1975 sequence mean: the radar station named in the NORAD region log or the base named in the CINCNORAD message?",
   "What does the full four-part CINCNORAD message say, and does a facsimile of the NMCC memorandum match the transcription the board has read?",
   "What do the Grand Forks command post messages of 4 and 5 November 1975 actually record about shots fired?",
-  "Does the 42nd Bombardment Wing history for October to December 1975 mention the Loring penetrations, and was the Wurtsmith wing history ever amended?",
-  "Do Michael Johnson's personnel file, discharge papers or the Article 15 he describes place him at Ellsworth in November 1977, and is he the right Michael Johnson?",
-  "Does any 44th Missile Security Squadron duty roster for the night of 17 to 18 November 1977 exist?"
+  "Does the 42nd Bombardment Wing history for October to December 1975 mention the Loring penetrations, and was the Wurtsmith wing history ever amended?"
  ],
  "related": [
   "nuclear-missiles-1960s",

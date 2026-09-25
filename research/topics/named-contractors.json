@@ -34,7 +34,7 @@
  "notes": "The board's exclusions stay: no BDM-to-Northrop edge, and sperry-rand deliberately unattached. Canon cluster 11 (Hughes, Wackenhut, REECo, Dugway) extends it.",
  "appendixT": "named-contractors",
  "lead": {
-  "text": "The custody allegations name many contractors besides Lockheed and EG&G. David Grusch testified that material and programmes were placed with defence contractors outside congressional oversight, and others name Northrop Grumman, General Dynamics, Boeing, SAIC and more; the filings the board holds document these firms' mergers, contracts and directors, not any holding, and AARO says executives of the companies named to it denied such programmes on the record.",
+  "text": "The custody allegations name many contractors besides Lockheed and EG&G. David Grusch testified that material and programmes were placed with defence contractors outside congressional oversight, and others name Northrop Grumman, General Dynamics and SAIC; the filings the board holds document these firms' mergers, contracts and directors, not any holding, and AARO says executives of the companies named to it denied such programmes on the record.",
   "cite": [
    "c-4841f84716",
    "c-65a7c76c8f",
@@ -54,7 +54,7 @@
    ]
   },
   {
-   "text": "How, on the allegation: through contractors' internal research and development money and the waiver that lets special access programmes be reported to only a few members. Congress answered in the FY2024 NDAA by barring UAP-related research money from being charged to the government unless disclosed, after a Senate provision to make contractors surrender such material was stripped.",
+   "text": "How, on the allegation: through contractors' internal research and development money and the waiver that lets special access programmes be reported to only a few members. Congress then legislated in the FY2024 NDAA to bar UAP-related research money from being charged to the government unless disclosed, after a Senate provision to make contractors surrender such material was stripped.",
    "cite": [
     "e-91f862baf1",
     "e-7d04979860",
@@ -63,7 +63,7 @@
    ]
   },
   {
-   "text": "The corporate lineages are on record: TRW bought BDM in 1997 and was merged into Northrop Grumman in 2002, Raytheon bought E-Systems in 1995, Boeing absorbed McDonnell Douglas in 1997, and Leidos was spun out of SAIC in 2013.",
+   "text": "The corporate lineages are on record: TRW bought BDM in 1997 and became a Northrop Grumman subsidiary in 2002, Raytheon bought E-Systems in 1995, Boeing absorbed McDonnell Douglas in 1997, and Leidos was spun out of SAIC in 2013.",
    "cite": [
     "e-d684acecdc",
     "e-e21cd21c0e",
@@ -127,7 +127,7 @@
    ]
   },
   {
-   "text": "E-Systems, incorporated in 1964 as LTV Electrosystems, drew about 75 percent of its 1994 sales from reconnaissance, surveillance and command systems; Raytheon completed its $2.3 billion acquisition on 1 May 1995. Its ten directors in 1995 are listed by name in the takeover filing.",
+   "text": "E-Systems, formerly LTV Electrosystems, drew about 75 percent of its 1994 sales from reconnaissance, surveillance and command systems; Raytheon completed its $2.3 billion acquisition on 1 May 1995. Its ten directors in 1995 are listed by name in the takeover filing.",
    "cite": [
     "c-29e30434b5",
     "c-c67f58fa52",
@@ -145,9 +145,7 @@
     "c-be6d4ed42c",
     "c-7e061bd18e",
     "e-19c8d53c8b",
-    "e-53d5cd6bf6",
-    "e-eb620b89e7",
-    "e-baa8b22e93"
+    "e-eb620b89e7"
    ]
   },
   {
@@ -163,7 +161,7 @@
    ]
   },
   {
-   "text": "Northrop Grumman's documented classified-era work includes leading the consortium that took over Nevada Test Site management in 2006 and, as Northrop, building the TACIT BLUE stealth demonstrator with the Air Force and DARPA.",
+   "text": "Northrop Grumman's documented government work includes leading the consortium that took over Nevada Test Site management in 2006 and, as Northrop, building the TACIT BLUE stealth demonstrator with the Air Force and DARPA.",
    "cite": [
     "c-a3c1e487f5",
     "e-a9e2b1ee93",
@@ -182,17 +180,9 @@
    ]
   },
   {
-   "text": "Rep. Burlison's 2026 production requests to MITRE cover its work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
+   "text": "Rep. Burlison's production requests to MITRE cover its work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
    "cite": [
     "e-172dfa0777"
-   ]
-  },
-  {
-   "text": "The one contractor documented in the Lazar record is Kirk-Mayer: the Los Alamos directory page carrying Lazar's name states that it covers DOE employees and that outside contractor.",
-   "cite": [
-    "e-d23792cec9",
-    "e-2f66568372",
-    "e-6b80bf3a68"
    ]
   }
  ],
@@ -273,6 +263,15 @@
    "text": "The board ties Raytheon to the 2004 Nimitz video only by inference: it builds the Navy's ATFLIR targeting pod, but no document states which sensor produced that video.",
    "cite": [
     "e-bc73ec646e"
+   ]
+  },
+  {
+   "text": "The one contractor tied to the Lazar record is Kirk-Mayer: as Stanton Friedman describes it, the Los Alamos directory page carrying Lazar's name states that it covers DOE employees and that outside contractor.",
+   "cite": [
+    "e-d23792cec9",
+    "c-dcf87b6931",
+    "e-2f66568372",
+    "e-6b80bf3a68"
    ]
   }
  ],
@@ -417,10 +416,6 @@
    "role": "programme"
   },
   {
-   "id": "talbert-gravity-series-1955",
-   "role": "document"
-  },
-  {
    "id": "northrop-tacit-blue",
    "role": "programme"
   },
@@ -453,14 +448,6 @@
    "role": "institution"
   },
   {
-   "id": "nsa",
-   "role": "institution"
-  },
-  {
-   "id": "dia",
-   "role": "institution"
-  },
-  {
    "id": "usaf",
    "role": "institution"
   },
@@ -479,7 +466,8 @@
   "Do McDonnell Douglas or Boeing files hold any record of the study Robert Wood describes?",
   "Did the BDM, TRW and Northrop Grumman lineage carry any programme records with it, as later accounts assume?",
   "What did MITRE produce, if anything, in answer to Burlison's requests about its work with the named primes?",
-  "Is there any record of an Off-World Technologies Division at Crane, or of SAIC's or Sandia's part in one?"
+  "Is there any record of an Off-World Technologies Division at Crane, or of SAIC's or Sandia's part in one?",
+  "How does AARO's statement that its interviewees had no first-hand knowledge square with the contractor programmes Grusch says first-hand witnesses reported to the inspectors general?"
  ],
  "related": [
   "area-51-ranges",

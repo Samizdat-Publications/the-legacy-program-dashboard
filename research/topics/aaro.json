@@ -34,12 +34,13 @@
  "notes": "Start-here flag 5. A connector hub: claims sourced to it cap at Tier 2 unless about what it said.",
  "appendixT": "aaro",
  "lead": {
-  "text": "AARO is the Pentagon office created by a Deputy Secretary of Defense memorandum of 15 July 2022 as the Department's authoritative office for UAP. Its reports and its director's testimony say it has found no verifiable evidence of extraterrestrial technology, while its director also concedes a residue of cases the office cannot explain.",
+  "text": "AARO is the Pentagon office created by a Deputy Secretary of Defense memorandum of 15 July 2022 as the Department's authoritative office for UAP. Its reports and its director's testimony say it has found no verifiable evidence of extraterrestrial technology, while its director also says it has some very anomalous objects.",
   "cite": [
    "c-1e33105c67",
    "c-23cb706884",
    "c-934d6f9f49",
-   "c-5a1dfcaa7d"
+   "c-5a1dfcaa7d",
+   "c-3a8d2f75d1"
   ]
  },
  "summary": [
@@ -125,7 +126,7 @@
    ]
   },
   {
-   "text": "The FY2025 report's section on foreign partners is two sentences long and names no foreign office, air force or archive, only a briefing by AARO's deputy director at a conference in London.",
+   "text": "The FY2025 report's section on foreign partners is two sentences long and names no foreign office, air force or archive, and no Latin American partner, only a briefing by AARO's deputy director at a conference in London.",
    "cite": [
     "e-82ce487530"
    ]
@@ -171,10 +172,9 @@
    ]
   },
   {
-   "text": "In May 2025 AARO issued a Sources Sought Notice for a custom case management system hosted on JWICS, which on the board's record shows the office had no purpose-built case system three years after it was set up.",
+   "text": "In May 2025 AARO issued a Sources Sought Notice for a custom case management system hosted on JWICS, with capabilities statements due 9 June 2025.",
    "cite": [
-    "c-3f5acc7cfd",
-    "e-4e88156cdd"
+    "c-3f5acc7cfd"
    ]
   },
   {
@@ -289,11 +289,15 @@
    ]
   },
   {
-   "text": "Volume I states AARO found no non-disclosure agreements containing UAP information; the Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme, the Yankee Blue matter, which AARO reportedly uncovered under Kirkpatrick. A Pentagon spokesperson could not confirm the department-level memo described in the press.",
+   "text": "Volume I states AARO found no non-disclosure agreements containing UAP information; the Wall Street Journal reported in June 2025, citing officials, that Air Force personnel were briefed into a fictitious alien-technology programme, the Yankee Blue matter, and bound by NDAs, and that AARO uncovered the practice under Kirkpatrick. A Pentagon spokesperson could not confirm the memo described, and OSD and AFOSI FOIA searches returned no records.",
    "cite": [
     "e-0e78639067",
+    "c-9e225ffcd3",
+    "c-823ec63ce1",
     "e-dd739bd1b8",
-    "e-30c7342144"
+    "e-30c7342144",
+    "c-38c323c2bb",
+    "c-6e9c02b106"
    ]
   },
   {
@@ -313,7 +317,7 @@
    ]
   },
   {
-   "text": "Kirkpatrick went from AARO to Oak Ridge National Laboratory as its chief technology officer for defence and intelligence programmes, the laboratory that performed AARO's specimen analyses. The post-employment question has been raised publicly and never adjudicated; the board records the link for proximity, not impropriety.",
+   "text": "Kirkpatrick is reported to have gone from AARO to Oak Ridge National Laboratory as its chief technology officer for defence and intelligence programmes, the laboratory that performed AARO's specimen analyses. The post-employment question has been raised publicly and never adjudicated; the board records the link for proximity, not impropriety.",
    "cite": [
     "e-796a110be8",
     "e-4881201fcb",
@@ -331,6 +335,12 @@
    "cite": [
     "e-9afe7e1ba9",
     "e-128c545f8c"
+   ]
+  },
+  {
+   "text": "The board reads that notice as showing the office had no purpose-built case system three years after it was set up.",
+   "cite": [
+    "e-4e88156cdd"
    ]
   }
  ],

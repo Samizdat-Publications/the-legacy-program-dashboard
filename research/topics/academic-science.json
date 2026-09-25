@@ -35,14 +35,16 @@
  "notes": "The most stable science community: Sol, Nolan's lab, Santa Clara, Albany and UAPx, with the scientific research domain node.",
  "appendixT": "academic-science",
  "lead": {
-  "text": "Since 2019 a small group of working scientists has put UAP questions into peer-reviewed journals: a Stanford materials study, an Albany-led kinematics paper and field expedition, and FOIA-based sensor reconstructions. The Sol Foundation turned that work into policy advice to legislatures and, in June 2026, into seats on a government advisory council that is to see only unclassified data.",
+  "text": "Since 2019 a small group of working scientists has put UAP questions into peer-reviewed journals, with a Stanford materials study and an Albany-led kinematics paper and field expedition, while SCU has deposited FOIA-based sensor reconstructions with DOIs. The Sol Foundation, co-founded by Garry Nolan, has advised legislatures, and in June 2026 several of its people were named to an advisory council that is to see only unclassified data.",
   "cite": [
    "c-397d63b6a9",
    "c-1f4159f165",
    "c-f8090d9099",
    "e-39c5dc1d26",
+   "e-3dcb60b4ee",
    "c-058188fba1",
-   "c-e730186495"
+   "c-e730186495",
+   "c-75434e22cc"
   ]
  },
  "summary": [
@@ -54,19 +56,18 @@
     "e-d908a007f9",
     "e-3dea45016e",
     "e-39c5dc1d26",
-    "c-c45f2ed745",
-    "e-a411033b0f"
+    "c-c45f2ed745"
    ]
   },
   {
-   "text": "Official reviews framed the scientific problem this community set out to address: the NASA UAP Independent Study Team found analysis hampered by poor sensor calibration and missing metadata and recommended action on reporting stigma, and the ODNI's 2021 preliminary assessment named limited and inconsistent data as the principal obstacle.",
+   "text": "Official reviews name the same problem: the NASA UAP Independent Study Team found analysis hampered by poor sensor calibration and missing metadata and recommended action on reporting stigma, and the ODNI's 2021 preliminary assessment named limited and inconsistent data as the principal obstacle.",
    "cite": [
     "c-3c9c879242",
     "c-d6a09d3cb5"
    ]
   },
   {
-   "text": "The work is instrumentation-first: a published materials method, a published field protocol and published detection software, rather than case files built on testimony.",
+   "text": "The work is instrumentation-first: a published materials method, a published field protocol and published detection software.",
    "cite": [
     "c-397d63b6a9",
     "e-aa57215d9a",
@@ -74,7 +75,7 @@
    ]
   },
   {
-   "text": "In 2026 the community moved inside the government's advisory structure, when Sol's leadership and several of these scientists were named to the UAP Science Advisory Council.",
+   "text": "In 2026 Sol's leadership and several of these scientists were named to the UAP Science Advisory Council.",
    "cite": [
     "e-15f84f692e",
     "e-1f65569ae2",
@@ -95,7 +96,7 @@
    ]
   },
   {
-   "text": "Since 2023 the foundation has advised members and committees of the US Senate and House, including the Senate Select Committee on Intelligence and House Oversight, and the parliaments of the UK, Canada and Japan. Its Senior Legislative Affairs Officer is Kirk McConnell, who retired after 37 years with the Senate Armed Services Committee.",
+   "text": "The foundation's policy page states that since 2023 it has advised members and committees of the US Senate and House, including the Senate Select Committee on Intelligence and House Oversight, and the parliaments of the UK, Canada and Japan. Its Senior Legislative Affairs Officer is Kirk McConnell, who retired after 37 years with the Senate Armed Services Committee.",
    "cite": [
     "c-058188fba1",
     "c-7e697143d2",
@@ -142,7 +143,7 @@
    ]
   },
   {
-   "text": "The study it describes is Nolan, Vallee, Jiang and Lemke in Progress in Aerospace Sciences 128 (2022), which applied SIMS and MIBI, instruments developed in Nolan's laboratory for tissue biology, to the 1977 Council Bluffs molten mass; Vallee supplied the sample and its case record and Lemke the engineering arguments for the exclusions.",
+   "text": "The study it describes is Nolan, Vallee, Jiang and Lemke in Progress in Aerospace Sciences 128 (2022), which applied SIMS and MIBI, the latter developed by Angelo, Bendall and Nolan for tissue biology, to the 1977 Council Bluffs molten mass; Vallee supplied the sample and its case record and Lemke the engineering arguments for the exclusions.",
    "cite": [
     "c-397d63b6a9",
     "e-5a9c099223",
@@ -175,7 +176,7 @@
    ]
   },
   {
-   "text": "Szydagis's research interests as published by his department include Unidentified Anomalous Phenomena alongside rare-event detector development; Levy co-developed the Snowball Chamber detector with him, and the university describes their dark-matter method as carried into the UAP field software.",
+   "text": "Szydagis's research interests as published by his department include Unidentified Anomalous Phenomena alongside rare-event detector development; Levy co-developed the Snowball Chamber detector with him, and the university describes the UAP field software as similar to their dark-matter method.",
    "cite": [
     "c-343171de01",
     "e-4fd4acceea",
@@ -184,7 +185,7 @@
    ]
   },
   {
-   "text": "In the same special edition Knuth was lead author, with Szydagis and more than thirty other researchers, of a review of UAP studies from 1933 to the present; SCU records thirty-four authors.",
+   "text": "In the same special edition Knuth was lead author, with Szydagis and more than thirty other researchers, of a UAP review; SCU records thirty-four authors.",
    "cite": [
     "c-57379a933e",
     "c-0a378a3843",
@@ -221,7 +222,7 @@
    ]
   },
   {
-   "text": "On 22 June 2026 ODNI, with FBI support, announced a UAP Science Advisory Council led by Avi Loeb and reporting to an interagency UAP Governance Board. Nolan, Skafish, Gallaudet, Haqq-Misra and Ross Howard of Sol were named to it, and all data shared with it is to be unclassified. DefenseScoop reported a 12-member council announced on 17 June.",
+   "text": "The Sol Foundation reported that on 22 June 2026 ODNI, with FBI support, announced a UAP Science Advisory Council led by Avi Loeb and reporting to an interagency UAP Governance Board. Nolan, Skafish, Gallaudet, Haqq-Misra and Ross Howard of Sol were named to it, and all data shared with it is to be unclassified. DefenseScoop reported a 12-member council announced on 17 June.",
    "cite": [
     "c-392b52cd9e",
     "c-2d06e0df40",
@@ -360,10 +361,6 @@
    "role": "institution"
   },
   {
-   "id": "l-stanford",
-   "role": "place"
-  },
-  {
    "id": "paper-nolan-vallee-2022",
    "role": "document"
   },
@@ -389,7 +386,7 @@
   },
   {
    "id": "kirk-mcconnell",
-   "role": "investigator"
+   "role": "official"
   },
   {
    "id": "david-grusch",
@@ -413,7 +410,7 @@
   },
   {
    "id": "tim-gallaudet",
-   "role": "witness"
+   "role": "official"
   },
   {
    "id": "jacob-haqq-misra",

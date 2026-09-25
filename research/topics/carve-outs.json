@@ -21,12 +21,13 @@
  "notes": "Start-here flag 7. Appendix T gave this topic d-contractor; its label is prime contractor custody, so it goes to the contractor topic instead.",
  "appendixT": "carve-outs",
  "lead": {
-  "text": "A carve-out is a provision, approved only by the Secretary or Deputy Secretary of Defense, that relieves the Defense Counterintelligence and Security Agency of its industrial security oversight of a special access programme held at a contractor. Where one is signed, the outside inspection, the accreditation of the programme's computers and the counterintelligence cross-sharing all stop, and oversight reverts inside the programme's own chain.",
+  "text": "A carve-out is a provision, approved only by the Secretary or Deputy Secretary of Defense, that relieves the Defense Counterintelligence and Security Agency of its industrial security oversight of a special access programme held at a contractor. Where one is signed, the outside inspection, the accreditation of the programme's computers and the counterintelligence cross-sharing stop as DCSA functions, and oversight passes to the programme's own component procedures, which must at a minimum meet the industrial security manual's standards and frequency.",
   "cite": [
    "c-7696eb3d6d",
    "c-82696e28a1",
    "c-0c0175893c",
-   "c-81330177af"
+   "c-81330177af",
+   "c-9d0c63ff07"
   ]
  },
  "summary": [

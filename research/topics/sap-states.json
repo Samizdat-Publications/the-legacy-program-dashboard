@@ -84,13 +84,12 @@
    ]
   },
   {
-   "text": "The same directive limited waived programmes, absent the Secretary's or Deputy Secretary's approval, to the chair, ranking minority member and staff directors of the defense and intelligence committees; kept all waived material submitted to Congress in DoD custody; required notice to SAPCO before any briefing of Congress; barred contractors from giving SAP material to Congress without SAPCO's approval; and denied members' personal staff any access.",
+   "text": "The same directive limited waived programmes, absent the Secretary's or Deputy Secretary's approval, to the chair, ranking minority member and staff directors of the defense and intelligence committees; kept all waived material submitted to Congress in DoD custody; required timely notice to SAPCO when briefing Congress; barred contractors from giving SAP material to Congress without SAPCO's approval; and denied members' personal staff any access.",
    "cite": [
     "c-3ed0996ce2",
     "c-0ea4c10e6e",
     "c-6e83879e51",
-    "c-658e6282c8",
-    "e-c7d081dc1a"
+    "c-658e6282c8"
    ]
   },
   {
@@ -160,14 +159,16 @@
    ]
   },
   {
-   "text": "The waiver is in use, on the Department's own text, though no instance is public. DoDI 5205.11 states the Secretary may designate select unacknowledged programmes as waived; the Oversight Committee reviews all waived programmes each year; the Senior Review Group reviews them annually and checks the accuracy of the list sent to Congress; SAPCO sets the review criteria; and the instruction has separate delegation rules for access approval on waived programmes.",
+   "text": "DoDI 5205.11 provides that the Secretary may designate select unacknowledged programmes as waived, and it writes standing duties around them: the Oversight Committee reviews all waived programmes each year; the Senior Review Group reviews them annually and checks the accuracy of the list sent to Congress; SAPCO sets the review criteria; and the instruction has separate delegation rules for access approval on waived programmes.",
    "cite": [
-    "c-dec5b4f44d",
     "c-a126591e23",
     "c-c456336c62",
     "c-b3a2a6e2c8",
     "c-e32ddd5318",
-    "c-728443976f"
+    "c-728443976f",
+    "e-672f106657",
+    "e-5a5b3fe5e3",
+    "e-bd900046fa"
    ]
   },
   {
@@ -190,7 +191,8 @@
     "c-4d5d9bc12f",
     "c-d4856d2743",
     "c-68f70867b0",
-    "e-336caeab0b"
+    "e-336caeab0b",
+    "e-c58a677506"
    ]
   },
   {
@@ -200,10 +202,11 @@
    ]
   },
   {
-   "text": "The CAPCO marking register gives special access programmes their own marking category, and since December 2024 the law bars moving a capability from an intelligence controlled access programme into a special access programme without notice.",
+   "text": "The CAPCO marking register gives special access programmes their own marking category, and since December 2024 the law bars transferring a capability from an intelligence controlled access programme to a special access programme until notice is submitted, subject to two exceptions.",
    "cite": [
     "e-53d66f00fb",
-    "e-a9db3c9949"
+    "e-a9db3c9949",
+    "c-255631b086"
    ]
   },
   {
@@ -213,7 +216,7 @@
    ]
   },
   {
-   "text": "The one documented moment where a visible UAP programme was considered for conversion is on paper: DIA's AAWSAP solicitation and statement of work of August 2008 are public, and an OUSD(I) information memorandum of November 2009 records the review of a special access programme request for its successor.",
+   "text": "A documented moment where a visible UAP programme was considered for conversion is on paper: DIA's AAWSAP solicitation and statement of work of August 2008 are public, and an OUSD(I) information memorandum of November 2009 records the review of a special access programme request relating to AATIP.",
    "cite": [
     "c-50f5d9f1a3",
     "c-636dd87d0d",
@@ -223,7 +226,7 @@
    ]
   },
   {
-   "text": "Earlier instances show the states in operation. GAO's 1988 report is a primary statement of how programmes were established and by whom; NSDD 159 of 1985 ordered a special access compartment over a whole policy subject; and the Army's psychoenergetics work, begun as GRILL FLAME in 1977, ran as CENTER LANE, a Secretary of the Army designated special access programme with a category three access caveat, until INSCOM ended it in 1984 and proposed handing it to a national agency.",
+   "text": "Earlier instances show the states in operation. GAO's 1988 report is a primary statement of how programmes were established and by whom; NSDD 159 of 1985 ordered a special access compartment over a whole policy subject; and the Army's psychoenergetics work, begun as GRILL FLAME in 1977, ran as CENTER LANE, a Secretary of the Army designated special access programme with a category three access caveat, until INSCOM proposed ending it in July 1984; it was deactivated in March 1985 and its assets attached to DIA.",
    "cite": [
     "e-df64c24d34",
     "e-ec701494a2",
@@ -234,6 +237,13 @@
   }
  ],
  "claimed": [
+  {
+   "text": "The board infers from these standing review and delegation rules that waived programmes exist, since a department does not write such rules for an empty set; no instance is public.",
+   "cite": [
+    "c-dec5b4f44d",
+    "c-728443976f"
+   ]
+  },
   {
    "text": "Representative Mace said at a public hearing that only certain people know the name of the programme and that if you do not know it you cannot get the information. She also asked whether material is given to particular contractors for their expertise, and Luis Elizondo said yes, absolutely correct.",
    "cite": [
@@ -282,6 +292,13 @@
  ],
  "contested": [
   {
+   "text": "DoD states that Elizondo had no assigned responsibilities for AATIP while in OUSD(I), that DIA administered AATIP, and that he interacted with the DIA office managing it but did not lead it.",
+   "cite": [
+    "c-f38a8a8dcb",
+    "c-8e70eb29fa"
+   ]
+  },
+  {
    "text": "No public document identifies a single waived programme, a count, a date or any connection to unidentified anomalous phenomena, and a search across GAO, Inspector General, CRS and Armed Services Committee material found no UAP-specific use of the waiver.",
    "cite": [
     "c-dec5b4f44d",
@@ -296,7 +313,7 @@
    ]
   },
   {
-   "text": "The one documented UAP-related SAP request, for AAWSAP's successor in November 2009, was recommended against by USD(I) James Clapper.",
+   "text": "The documented UAP-related SAP request, relating to AATIP in November 2009, was recommended against by USD(I) James Clapper.",
    "cite": [
     "c-6ea53c64b3"
    ]
@@ -409,10 +426,6 @@
    "role": "legislator"
   },
   {
-   "id": "gang-of-eight",
-   "role": "legislator"
-  },
-  {
    "id": "capco-register",
    "role": "document"
   },
@@ -449,7 +462,7 @@
   "How many waived programmes are on the list the Senior Review Group reviews each year, and has any ever concerned the subject of this board?",
   "How do the 2024 categories, the Joint Force Integration SAP and the Strategic Enabler SAP, map onto the older acknowledged, unacknowledged and waived states?",
   "Has any UAP-related material been held under the HVSACO caveat, outside the classification system?",
-  "Was the 2009 special access programme request for AAWSAP's successor ever approved in any form?",
+  "Was the 2009 special access programme request relating to AATIP ever approved in any form?",
   "What do Volumes 2 to 4 of the SAP Security Manual now say, given that the live copies are no longer retrievable?",
   "Is any UAP-related information protected under Alternative Compensatory Control Measures rather than as a special access programme?"
  ],

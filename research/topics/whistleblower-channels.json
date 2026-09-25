@@ -25,7 +25,7 @@
  "notes": "The Inspector General route Grusch took, the whistleblower bills and the reprisal record.",
  "appendixT": "whistleblower-channels",
  "lead": {
-  "text": "On 25 May 2022 Charles McCullough III, the first Inspector General of the Intelligence Community, filed David Grusch's urgent-concern complaint with that office, which found it credible and urgent in July 2022. What followed was a reprisal complaint, House whistleblower bills that never left referral, and a congressional letter on reprisal that the Department had not answered by September 2025.",
+  "text": "On 25 May 2022 Charles McCullough III, the first Inspector General of the Intelligence Community, filed David Grusch's urgent-concern complaint with that office, which by Grusch's sworn account and The Debrief's reporting found it credible and urgent in July 2022. What followed was a reprisal complaint, House whistleblower bills that never left referral, and a congressional letter on reprisal that the Department had not answered by September 2025.",
   "cite": [
    "c-5ba9eae189",
    "e-a0dfc37ff4",
@@ -63,15 +63,13 @@
  ],
  "record": [
   {
-   "text": "Grusch's PPD-19 urgent-concern complaint was filed with the ICIG on 25 May 2022 by his counsel McCullough, a senior partner at Compass Rose Legal Group, and found credible and urgent in July 2022, which obliges transmission to the congressional intelligence committees. Grusch testified that he became a whistleblower through that filing.",
+   "text": "The unclassified reprisal complaint, as reported, records that Grusch's PPD-19 urgent-concern complaint was filed with the ICIG on 25 May 2022 by his counsel McCullough, a senior partner at Compass Rose Legal Group; Grusch testified that he became a whistleblower through a PPD-19 filing with the ICIG in May 2022.",
    "cite": [
-    "c-5ba9eae189",
     "c-54fb0cd7f6",
     "c-ec2a4984b1",
-    "c-b19d0fe80f",
-    "e-83b775741d",
     "e-bbc013b4fe",
-    "e-c24224e675"
+    "e-c24224e675",
+    "e-a0dfc37ff4"
    ]
   },
   {
@@ -81,10 +79,9 @@
    ]
   },
   {
-   "text": "Thomas Monheim held the Inspector General's office when the finding was made, and his office briefed House Oversight members in closed session in January 2024; members publicly reported learning nothing new.",
+   "text": "Thomas Monheim has headed the ICIG since 2021, and his office briefed House Oversight members in closed session in January 2024.",
    "cite": [
-    "e-35fcaff806",
-    "c-75d08ecf83"
+    "e-35fcaff806"
    ]
   },
   {
@@ -155,6 +152,16 @@
  ],
  "claimed": [
   {
+   "text": "Grusch testified, and The Debrief reported, that the ICIG found his complaint credible and urgent in July 2022, a finding that obliges transmission to the congressional intelligence committees; a 2025 opinion piece in The Hill repeats the account.",
+   "cite": [
+    "c-b19d0fe80f",
+    "c-aa22404b13",
+    "c-5ba9eae189",
+    "e-83b775741d",
+    "c-6c5b14008b"
+   ]
+  },
+  {
    "text": "Grusch testified that he suffered retaliation for his disclosures. His reprisal complaint alleges that his identity and his communications with the DoD Inspector General were disclosed to parties outside the Inspector General's office, and The Debrief records an earlier protected disclosure to the DoD Inspector General in July 2021.",
    "cite": [
     "c-66d33c8d87",
@@ -176,13 +183,14 @@
    ]
   },
   {
-   "text": "After the January 2024 ICIG briefing Burchett said about sixteen members had attended, rated it four out of ten and called it very compartmentalized; Ogles said he asked specific questions and could not get specific answers and described a concerted effort to conceal.",
+   "text": "Contemporaneous reporting said members learned nothing new at the January 2024 ICIG briefing. Burchett said about sixteen members had attended, rated it four out of ten and called it very compartmentalized; Ogles said he asked specific questions and could not get specific answers and described a concerted effort to conceal.",
    "cite": [
     "c-7fd0d83df4",
     "c-699ae8fa76",
     "c-566d8272dd",
     "e-90e45bbece",
-    "e-ed03cf77b9"
+    "e-ed03cf77b9",
+    "c-75d08ecf83"
    ]
   },
   {
@@ -204,7 +212,7 @@
  ],
  "contested": [
   {
-   "text": "The ICIG found the complaint credible and urgent in 2022, while AARO found no verifiable information in 2023 and no firsthand knowledge among its interviewees in 2024; the board records the two executive-branch findings as never reconciled.",
+   "text": "The ICIG is reported to have found the complaint credible and urgent in 2022, while AARO found no verifiable information in 2023 and no firsthand knowledge among its interviewees in 2024; the board records the two executive-branch positions as never reconciled.",
    "cite": [
     "e-84c61e5c3d",
     "c-aa22404b13"
@@ -217,7 +225,7 @@
    ]
   },
   {
-   "text": "The board infers that a credible-and-urgent finding that legally went to the intelligence committees, followed eighteen months later by a briefing members found empty, was absorbed without producing disclosure.",
+   "text": "The board infers that a credible-and-urgent finding reported to have gone to the intelligence committees, followed eighteen months later by a briefing members found empty, was absorbed without producing disclosure.",
    "cite": [
     "c-881b0a8f5e",
     "e-62bc16be1a"
@@ -288,10 +296,6 @@
    "role": "institution"
   },
   {
-   "id": "odni",
-   "role": "institution"
-  },
-  {
    "id": "hr-10111-uap-whistleblower-protection-act",
    "role": "law"
   },
@@ -345,6 +349,7 @@
   }
  ],
  "questions": [
+  "Has any ICIG document stating the July 2022 credible-and-urgent finding been published, or does the finding rest only on Grusch's account and the reporting that relays it?",
   "Did the Defense Department ever answer Crane's July 2025 letter, and on what date and under what authority was Grusch's clearance removed?",
   "Did the ICIG investigate the underlying allegations, or only the reprisal claim, and how was the reprisal complaint resolved?",
   "Did the substance of Grusch's complaint ever reach the Armed Services committees that oversee the programmes it concerns?",

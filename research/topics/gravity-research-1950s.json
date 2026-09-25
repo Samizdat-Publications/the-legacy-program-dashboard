@@ -24,10 +24,11 @@
  "notes": "No Trimble-recruited-Witten edge (an exclusion, not a gap). Canon 15 (Ning Li, Podkletnov, Cook, Bushman) extends it.",
  "appendixT": "gravity-research-1950s",
  "lead": {
-  "text": "In November 1955 a New York Herald Tribune series reported American aerospace firms taking an interest in gravity, and two institutes followed: the Glenn L. Martin Company's RIAS and the Institute of Field Physics at Chapel Hill, whose January 1957 conference an Air Force body helped fund. The documents show mainstream general relativity kept deliberately apart from anti-gravity, and Thomas Townsend Brown's patents claim electrostatic thrust, not gravity control.",
+  "text": "In November 1955 a New York Herald Tribune series reported American aerospace firms taking an interest in gravity and reported two institutes being organised: the Glenn L. Martin Company's Research Institute for Advanced Study and a gravity institute at Chapel Hill, whose January 1957 conference an Air Force body helped fund. The documents show mainstream general relativity kept deliberately apart from anti-gravity, and Thomas Townsend Brown's patents claim electrostatic thrust, not gravity control.",
   "cite": [
    "c-e5d9777a75",
-   "e-85c028b1f6",
+   "c-e635597430",
+   "c-b9dae10855",
    "c-761c6386d7",
    "c-c10f8025c0",
    "c-4f6923e17c",
@@ -36,7 +37,7 @@
  },
  "summary": [
   {
-   "text": "Ansel Talbert's three front-page articles of 20-22 November 1955 are the contemporaneous press record behind later claims that aerospace executives spoke of controlling gravity; they name the firms and quote executives directly.",
+   "text": "Ansel Talbert's three articles of 20-22 November 1955 are the contemporaneous press record behind later claims that aerospace executives spoke of controlling gravity; they name the firms and quote executives directly.",
    "cite": [
     "c-e5d9777a75",
     "c-024dd7f9f8",
@@ -96,7 +97,7 @@
    ]
   },
   {
-   "text": "Industry and Air Force money both reached the Institute: Trimble and the Glenn Martin Company bought a Founder's Membership for $5,000 and offered to help solicit more, and Joshua Goldberg of the modern physics research branch at the Aeronautical Research Laboratory, Wright-Patterson, gave a $5,000 grant and secured military air transport for participants from eleven nations.",
+   "text": "Industry and Air Force money both reached the Institute: Trimble and the Glenn Martin Company bought a Founder's Membership for $5,000 and offered to help solicit more, and Joshua Goldberg of the modern physics research branch at the Aeronautical Research Laboratory, Wright-Patterson, gave a $5,000 grant and secured military air transport for participants from eleven nations. The UNC history names this Air Force route as the Aeronautical Research Laboratory, not the Wright Air Development Center that appears on the conference report.",
    "cite": [
     "c-a45422e6db",
     "e-b06204b20b",
@@ -147,12 +148,10 @@
    ]
   },
   {
-   "text": "Brown's FBI file, referring to a report of 25 March 1953, directs the Washington office to determine any violation of the Fraud Against the Government statute while Brown sought a research contract of about a million dollars for Project Winterhaven. It also records his 1942 dismissal from the Navy Reserve, and a 1950 Hoover memorandum reported no information of a disloyal nature.",
+   "text": "Brown's FBI file, referring to a report of 25 March 1953, directs the Washington office to determine any violation of the Fraud Against the Government statute while Brown sought a research contract of about a million dollars for Project Winterhaven, and asks for a review of his patents at the Patent Office.",
    "cite": [
     "c-8a65db74fd",
-    "c-217aaba3b6",
-    "c-f8edd1703a",
-    "c-8557ab17bb"
+    "c-217aaba3b6"
    ]
   },
   {
@@ -160,18 +159,11 @@
    "cite": [
     "c-46e5f91b71"
    ]
-  },
-  {
-   "text": "Brown ran NICAP at its formation: a Washington Daily News report of 23 October 1956, in the FBI's NICAP file, names him as executive vice chairman pro tempore, with a board of governors still to be elected.",
-   "cite": [
-    "c-ac48e7c619",
-    "e-a5bf34a329"
-   ]
   }
  ],
  "claimed": [
   {
-   "text": "Trimble's letter to Bryce DeWitt of 10 June 1955, known only as quoted by the historian Dean Rickles, says his industry was vitally concerned with gravity as part of bringing space flight to reality, and records him commiserating with the Gravity Research Foundation's president that knowledgeable people did not want to be mixed up in gravity research.",
+   "text": "Trimble's letter to Bryce DeWitt of 10 June 1955, which the board has not opened and which is quoted by the historian Dean Rickles, says his industry was vitally concerned with gravity as part of bringing space flight to reality, and records him commiserating with the Gravity Research Foundation's president that knowledgeable people did not want to be mixed up in gravity research.",
    "cite": [
     "c-6b934dcf5c",
     "c-f49cade67f",
@@ -194,7 +186,7 @@
    ]
   },
   {
-   "text": "Podcast retellings have carried Brown's story further than the documents: Jesse Michels cited the journalist Bill Gunston as sure Brown's work reached the B-2, two speakers told the same uncited Rickover anecdote, and a documentary narration said the Naval Research Laboratory no longer had a 1952 appraisal of Brown's device.",
+   "text": "Podcast retellings have carried Brown's story further than the documents: Jesse Michels cited the journalist Bill Gunston as sure Brown's work reached the B-2, two speakers told an uncited Rickover anecdote with endings of opposite meaning, and a documentary narration said the Naval Research Laboratory no longer had a 1952 appraisal of Brown's device.",
    "cite": [
     "c-cf8879449c",
     "c-45517674e4",
@@ -230,7 +222,7 @@
  ],
  "contested": [
   {
-   "text": "The Institute defined itself against anti-gravity: on John Wheeler's insistence its publicity carried a Protection Clause stating its work had no connection with anti-gravity research of any kind, and the conference participants recorded the necessity of avoiding identification with it. Nothing read shows RIAS producing gravity-control results, and Witten's documented output is classical general relativity.",
+   "text": "The Institute defined itself against anti-gravity: a Protection Clause written into its design by John Wheeler was to accompany its publicity, stating its work had no connection with anti-gravity research of any kind, and the conference participants recorded the necessity of avoiding identification with it. Nothing read shows RIAS producing gravity-control results, and Witten's documented output is classical general relativity.",
    "cite": [
     "c-4f6923e17c",
     "c-c7ff61258f",
@@ -269,11 +261,18 @@
    ]
   },
   {
-   "text": "Doubt about Brown comes from inside the advocate circle too: Kirk McConnell said Harold Puthoff and Eric Davis do not believe Brown achieved what is claimed of him. DIA's own 2010 antigravity reference document, attributed to Davis, does not mention Brown at all.",
+   "text": "Doubt about Brown comes from inside the advocate circle too: Kirk McConnell said he did not think Harold Puthoff and Eric Davis believe Brown achieved what is claimed of him; neither man is quoted. DIA's own 2010 antigravity reference document, attributed to Davis, does not mention Brown at all.",
    "cite": [
     "c-676595aa3a",
     "c-19d4c497db",
     "c-c757ecee42"
+   ]
+  },
+  {
+   "text": "Brown's FBI file disagrees with itself on how he left the Navy: its 1953 summary says he was dismissed from the Navy Reserve in 1942 \"to escape general court martial\", while Hoover's 1950 memorandum records a 1943 resignation \"accepted for the good of the service\" and no information of a disloyal nature.",
+   "cite": [
+    "c-f8edd1703a",
+    "c-8557ab17bb"
    ]
   }
  ],
@@ -325,10 +324,6 @@
   {
    "id": "thomas-townsend-brown",
    "role": "researcher"
-  },
-  {
-   "id": "nicap",
-   "role": "institution"
   },
   {
    "id": "mark-mccandlish",

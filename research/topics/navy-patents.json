@@ -24,14 +24,15 @@
  "notes": "The Patents pages already carry the file wrapper; no Pais edges to AATIP or any DIRD (do not undo). Thread patents.",
  "appendixT": "navy-patents",
  "lead": {
-  "text": "Between 2015 and 2018 the Navy filed, as assignee, five patent applications by the NAWCAD engineer Salvatore Pais, from an electromagnetic field generator to a craft using an inertial mass reduction device. The file wrapper shows an examiner who called the craft's effect impossible, a formal appeal that won the grant, a Navy test that could not prove the effect, and both granted patents later lapsing for unpaid fees.",
+  "text": "Between 2015 and 2018 the Navy filed, as assignee, five patent applications naming Salvatore Pais of NAWCAD as inventor, from an electromagnetic field generator to a craft using an inertial mass reduction device. The file wrapper shows an examiner who called the craft's effect impossible and a formal appeal that won the grant; the two patents granted in 2018 later lapsed for unpaid fees, and a NAWCAD spokesman told The War Zone that a 2016-19 test of the field generator could not prove the effect.",
   "cite": [
    "c-a0f58d8d29",
    "c-fb7370e586",
+   "c-a4201d5a70",
    "c-a2482ac60c",
    "c-3f134f14ee",
-   "e-f2a7824a71",
-   "c-56fb7f23ac"
+   "c-56fb7f23ac",
+   "c-fb470865de"
   ]
  },
  "summary": [
@@ -51,21 +52,23 @@
    ]
   },
   {
-   "text": "The internal Navy briefing for the craft, Navy Case PAX 205, is more revealing than the patent because it was written for the officials deciding whether to fund the work.",
+   "text": "The internal briefing for the craft, Navy Case PAX 205, proposed Navy funding to test the concept; the board infers it was written for the officials deciding that funding.",
    "cite": [
     "c-8d8130857a",
-    "e-2bf2582793"
+    "e-2bf2582793",
+    "c-b25431bf87",
+    "c-d0ee8345c2"
    ]
   },
   {
-   "text": "The Invention Secrecy Act is the backdrop: it lets the government order any invention kept secret, so a propulsion patent that did issue is the control case against which an absence in the patent record is read.",
+   "text": "The Invention Secrecy Act is the backdrop: it lets the government order an invention kept secret where its disclosure might be detrimental to national security, including inventions it does not own, so a propulsion patent that did issue is the control case against which an absence in the patent record is read.",
    "cite": [
     "c-b315ec417b",
     "e-d9e17c4b73"
    ]
   },
   {
-   "text": "The board pairs the Act with the CIA Act's unvouchered-funds provision as instruments of the same architecture, one hiding an invention and the other an expenditure; the pairing is the board's argument, not either statute's text.",
+   "text": "The board pairs the Act with a statute that hides an expenditure, as two instruments of the same architecture; the pairing is the board's argument, not either statute's text.",
    "cite": [
     "e-11e122d142"
    ]
@@ -160,7 +163,7 @@
    ]
   },
   {
-   "text": "Both granted patents expired at the first maintenance fee: US 10,135,366 recorded on 26 December 2022 and US 10,144,532 on 9 January 2023. Patents assigned to a federal agency owe those fees on the ordinary schedule.",
+   "text": "The two patents granted in 2018, US 10,135,366 and US 10,144,532, expired at the first maintenance fee, recorded on 26 December 2022 and 9 January 2023; patents assigned to a federal agency owe those fees on the ordinary schedule. No cited record gives the maintenance status of US 10,322,827.",
    "cite": [
     "c-56fb7f23ac",
     "c-854326f54d",
@@ -169,7 +172,7 @@
    ]
   },
   {
-   "text": "The Invention Secrecy Act, approved 1 February 1952, reaches inventions in which the government has no property interest; an order runs one year and renews annually, and orders in force rose from 5,976 at the end of FY21 to 6,543 at the end of FY25.",
+   "text": "The Invention Secrecy Act, approved 1 February 1952, reaches inventions in which the government has no property interest; an order runs no more than one year and may be renewed annually on an affirmative determination that the national interest requires it, and orders in force rose from 5,976 at the end of FY21 to 6,543 at the end of FY25.",
    "cite": [
     "c-f1d3089285",
     "c-b315ec417b",
@@ -178,7 +181,7 @@
    ]
   },
   {
-   "text": "Four of the five observables attributed to Luis Elizondo appear as design goals in the PAX 205 briefing: trans-medium travel, hypersonic speed, low observability and lift. Sudden acceleration does not, and Elizondo's sworn written statement of November 2024 does not state the five at all.",
+   "text": "On the board's mapping, four of the five observables attributed to Luis Elizondo appear as design goals in the PAX 205 briefing: trans-medium travel, hypersonic speed, low observability and lift. Sudden acceleration does not, and Elizondo's sworn written statement of November 2024 does not state the five at all.",
    "cite": [
     "c-7e67183956",
     "c-dd203b1035",
@@ -210,7 +213,7 @@
    ]
   },
   {
-   "text": "The five observables themselves come from reporting and from To The Stars, not a government document: History's account attributes them to Elizondo's AATIP work, the company's page lists them without author or date, and the wording of the first differs between sources.",
+   "text": "The five observables come from reporting and from To The Stars, and no government original has been located: History's account attributes them to Elizondo's AATIP work, the company's page lists them without author or date, and the wording of the first differs between sources.",
    "cite": [
     "c-fba61217b0",
     "c-2e0f6f2253",
@@ -271,7 +274,7 @@
    ]
   },
   {
-   "text": "The strong reading, that the filings describe technology already understood from a recovered object, sits against the author's own internal statement that no prototype existed. The board infers that statement carries weight because it was made to his funding authority, while noting that classification would constrain what he could say about a concept's origin.",
+   "text": "The board frames a strong reading of the filings, that they describe technology already understood from a recovered object, and sets it against the author's own internal statement that no prototype existed. The board infers that statement carries weight because it was made to his funding authority, while noting that classification would constrain what he could say about a concept's origin.",
    "cite": [
     "c-dea9e5af37",
     "c-d0ee8345c2",
@@ -283,6 +286,18 @@
    "cite": [
     "c-a3434ea538",
     "e-0765b03a3d"
+   ]
+  },
+  {
+   "text": "The Department of Defense states that Elizondo had no assigned responsibilities for AATIP and did not lead it, which bears on the observables' attribution to his AATIP work.",
+   "cite": [
+    "c-f38a8a8dcb"
+   ]
+  },
+  {
+   "text": "AARO's FY2025 report, from an interested office, states that no evidence suggests a government or private entity has ever captured or exploited UAP-derived materials, against the reporting of a stored vehicle at Patuxent River.",
+   "cite": [
+    "c-40a937bc17"
    ]
   }
  ],

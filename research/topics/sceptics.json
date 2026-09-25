@@ -48,7 +48,7 @@
    ]
   },
   {
-   "text": "Mahood, a retired traffic engineer with a master's degree in physics, investigated Lazar's credentials and holds the openable copies of the 1982 Los Alamos Monitor article and of the 1990 court material.",
+   "text": "Mahood, a former civil and traffic engineer with a master's degree in physics, investigated Lazar's credentials and holds the openable copies of the 1982 Los Alamos Monitor article and of the 1990 court material.",
    "cite": [
     "c-20948c1f9a",
     "e-cb88b8efb2",
@@ -119,6 +119,14 @@
     "e-3e440c35a8",
     "e-b4bc7dc247",
     "c-04015718c0"
+   ]
+  },
+  {
+   "text": "Fouche's own compilation carries its own warnings: the document captioned as a SAC/DARPA classified document carries no classification marking, one commentary passage is signed by Fouche himself, and its last pages turn to arguing against Lazar.",
+   "cite": [
+    "c-242988dc58",
+    "c-917734af40",
+    "c-6068212e8e"
    ]
   }
  ],
@@ -194,14 +202,6 @@
    ]
   },
   {
-   "text": "Fouche's own compilation undercuts it: the document captioned as a SAC/DARPA classified document carries no classification marking, one commentary passage is signed by Fouche himself, and its last pages turn to arguing against Lazar.",
-   "cite": [
-    "c-242988dc58",
-    "c-917734af40",
-    "c-6068212e8e"
-   ]
-  },
-  {
    "text": "A podcast claim that Menzel had a thirty-year NSA association and a CIA clearance, said to come from his Harvard papers, would cut against his independence as a sceptic; the board has not reached those papers.",
    "cite": [
     "c-4812325519"
@@ -212,22 +212,6 @@
    "cite": [
     "c-978369c13d",
     "c-e4e7cc1bf4"
-   ]
-  },
-  {
-   "text": "Will Miller, named in the Wilson-Davis notes, wrote to Eric Davis in 2002 on Navy letterhead offering help with research into crash retrievals, saying he had held TS/SCI and other clearances; on the board's reading, no rank or service beyond his first name is supported by the document.",
-   "cite": [
-    "c-9cfeec03ff",
-    "c-fcb743b56e",
-    "c-22cd3f97d8",
-    "e-db23c34431"
-   ]
-  },
-  {
-   "text": "The notes record Wilson as furious with Miller for violating trust among intelligence and Navy colleagues after they talked privately about UFOs, MJ-12 and crashed craft.",
-   "cite": [
-    "c-627f05aa82",
-    "c-daf25928e2"
    ]
   }
  ],
@@ -251,10 +235,6 @@
   {
    "id": "keith-kloor",
    "role": "journalist"
-  },
-  {
-   "id": "will-miller",
-   "role": "claimant"
   },
   {
    "id": "checktheevidence",
@@ -287,10 +267,6 @@
   {
    "id": "condon-committee",
    "role": "programme"
-  },
-  {
-   "id": "us-navy",
-   "role": "institution"
   }
  ],
  "questions": [
@@ -298,7 +274,6 @@
   "What does the National Personnel Records Center file Klass describes show when opened as a document?",
   "Did Fouche ever deliver his 1998 script from a podium? The contemporaneous programme does not list him.",
   "What does the FOIA return on Fouche's records show, and where did Hilton post it?",
-  "Who is Will Miller, and what did he tell Admiral Wilson?",
   "When were most of Mahood's Lazar pages written, and have any been revised?"
  ],
  "related": [

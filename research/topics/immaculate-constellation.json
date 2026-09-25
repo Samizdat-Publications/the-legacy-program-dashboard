@@ -46,7 +46,8 @@
     "c-4abc42a8c5",
     "e-9aa73b0143",
     "c-b5ef4b296e",
-    "e-2ced9755af"
+    "e-2ced9755af",
+    "c-970b4f7afd"
    ]
   },
   {
@@ -138,8 +139,9 @@
    ]
   },
   {
-   "text": "Gallaudet testified that a January 2015 fleet safety email carrying the GO FAST video vanished from recipients' accounts the next day, and concluded it must have been classified within an intelligence agency's special access programme; the board sets that beside Shellenberger's account as an inference, not a link.",
+   "text": "Gallaudet testified that a fleet email headed URGENT SAFETY OF FLIGHT ISSUE, which carried the GO FAST video, vanished from recipients' accounts the next day, and concluded it must have been classified within an intelligence agency's special access programme; the board sets that beside Shellenberger's account as an inference, not a link.",
    "cite": [
+    "c-5f5aa9e538",
     "c-5dd1879261",
     "c-5bed5216ea",
     "e-f4cc5a6307"
@@ -250,10 +252,6 @@
   },
   {
    "id": "micah-hanks",
-   "role": "journalist"
-  },
-  {
-   "id": "newsnation",
    "role": "journalist"
   },
   {

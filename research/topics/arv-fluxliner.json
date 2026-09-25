@@ -65,7 +65,7 @@
    ]
   },
   {
-   "text": "The topic follows how the description grew between 1990 and 2024, and sets its claimed lift mechanism beside the patents the account cites.",
+   "text": "The topic follows how the description grew between 1990 and the present, and sets its claimed lift mechanism beside the patents the account cites.",
    "cite": [
     "c-e1d0899824",
     "c-c7fb7016e2"
@@ -118,17 +118,18 @@
    ]
   },
   {
-   "text": "The Briefing Document prints McCandlish's testimony under the date December 2000 in its technology section, and the interviews in it were conducted by Greer, whose bracketed notes cross-reference McCandlish to a second witness, Lt Col John Williams, who says he was never allowed into a restricted area at Norton.",
+   "text": "The Briefing Document prints McCandlish's testimony under the date December 2000 in its technology section, and the interviews in it were conducted by Greer, whose bracketed notes cross-reference McCandlish to a second witness, Lt Col John Williams, who says he knew of a facility at Norton that no one was to know about and was never allowed in that area.",
    "cite": [
     "c-882d9ed7ad",
     "c-afeee5cd4d",
     "c-49bd4c0e50",
     "c-ab7b5078ae",
-    "e-2fd404135e"
+    "e-2fd404135e",
+    "c-b2be72a72e"
    ]
   },
   {
-   "text": "The ARVP site names no owner; it hosts the 1990 notes and McCandlish's coroner's file, publishes a 3D reconstruction the operator built from McCandlish's talks rather than the original drawing, and sells prints of it. The scan of the notes was created in October 2024 and who held them from 1990 is not recorded.",
+   "text": "The ARVP site names no owner; it hosts the 1990 notes and McCandlish's coroner's file, publishes a 3D reconstruction the operator built from the sketches and McCandlish's talks, not the original drawing, and sells prints of it. The scan of the notes was created in October 2024 and who held them from 1990 is not recorded.",
    "cite": [
     "c-3cde48e0ef",
     "c-d37177e0fb",
@@ -189,14 +190,10 @@
    ]
   },
   {
-   "text": "McCandlish describes himself as a conceptual artist for the defence industry and names General Dynamics, Lockheed, Northrop, McDonnell Douglas and Boeing among his clients; no personnel or contract record for any of them was opened.",
+   "text": "McCandlish describes himself as a conceptual artist whose clients are mostly defence contractors; no personnel or contract record for any of them was opened.",
    "cite": [
     "c-e3fdfdbb0f",
-    "c-f0d051d621",
-    "e-4d2812e764",
-    "e-a2b6a32a54",
-    "e-e5eb570997",
-    "e-1e3c845364"
+    "c-f0d051d621"
    ]
   },
   {
@@ -208,7 +205,7 @@
  ],
  "contested": [
   {
-   "text": "The sizes drift one way across three documents: 20, 60 and maybe 120 feet in 1990 with the witness's disclaimer; 24, 60 and 120 to 130 feet in 2001; and 130, 60 and 24 feet on the ARVP site in 2024 with no disclaimer at all.",
+   "text": "The sizes drift one way across three documents: 20, 60 and maybe 120 feet in 1990 with the witness's disclaimer; 24, 60 and 120 to 130 feet in 2001; and 130, 60 and 24 feet on the ARVP site as read in September 2026, with no disclaimer at all.",
    "cite": [
     "c-e1d0899824"
    ]
@@ -241,14 +238,15 @@
    ]
   },
   {
-   "text": "A patent offered as evidence that the drawing's Scalar Physics callout refers to scalar particles, US 3,322,374, contains neither the word scalar nor the word gravity. On the board's reading, the ARV and TR-3B accounts both cite real documents that do not say what is claimed for them.",
+   "text": "On the board's reading, both of the account's documentary citations are real documents that do not say what is claimed for them: the Brown patents claim thrust, not levitation, and US 3,322,374, offered as evidence that the drawing's Scalar Physics callout refers to scalar particles, contains neither the word scalar nor the word gravity.",
    "cite": [
     "c-654821aa52",
-    "c-f6cd6a6416"
+    "c-f6cd6a6416",
+    "c-c7fb7016e2"
    ]
   },
   {
-   "text": "Eric Davis said on a 2024 podcast that no ARV exists or was ever built, that the rumours are myth spread by storytellers who believe their own tales, and that the CIA shut it all down in 1989.",
+   "text": "Eric Davis said on a 2024 podcast that no ARV exists or was ever built, that the Northrop Grumman and Area 51 ARV rumours are myth spread by storytellers who believe their own tales, and that the CIA shut it all down in 1989.",
    "cite": [
     "c-9db1fbc705",
     "e-c1325a6e0d",
@@ -314,24 +312,8 @@
    "role": "institution"
   },
   {
-   "id": "boeing",
-   "role": "contractor"
-  },
-  {
-   "id": "mcdonnell-douglas",
-   "role": "contractor"
-  },
-  {
-   "id": "general-dynamics",
-   "role": "contractor"
-  },
-  {
    "id": "northrop-grumman",
    "role": "contractor"
-  },
-  {
-   "id": "tr-3b",
-   "role": "programme"
   }
  ],
  "questions": [

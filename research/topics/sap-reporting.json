@@ -32,7 +32,7 @@
  "notes": "Start-here flags 2 and 3 live here.",
  "appendixT": "sap-reporting",
  "lead": {
-  "text": "Who in Congress is told about a special access programme depends on which statute governs it. For the Department of Defense it is 10 U.S.C. 119, whose waiver lets the Secretary send a programme's details only to the chairman and ranking minority member of each of six defense committees, a group often confused with the Gang of Eight, which belongs to covert action.",
+  "text": "Who in Congress is told about a special access programme depends on which statute governs it. For the Department of Defense it is 10 U.S.C. 119, whose waiver lets the Secretary send a programme's details only to the chairman and ranking minority member of each of six defense committees, a group distinct from the Gang of Eight, which belongs to covert action.",
   "cite": [
    "c-3cd5d9469e",
    "c-697089a824",
@@ -68,7 +68,7 @@
    ]
   },
   {
-   "text": "In practice DoD policy widens the waived group to staff directors, a security manager and the intelligence committees, sends waived justification papers only to staff directors, and routes every other member through a read-in gate that the House Oversight chair described on the record in September 2025.",
+   "text": "In practice DoD policy widens the waived group to staff directors, a security manager and the intelligence committees, sends waived justification papers only to staff directors, and routes every other member through a read-in gate that the chair of House Oversight's declassification task force, Anna Paulina Luna, described on the record on 9 September 2025.",
    "cite": [
     "c-b9b20705ad",
     "c-ac3f8c09d6",
@@ -261,7 +261,7 @@
    ]
   },
   {
-   "text": "50 U.S.C. 3091a, enacted in March 2022, requires a briefing on every controlled access programme at least twice a year with no exception for unacknowledged ones, bars establishing a programme or any compartment or sub-compartment before notice, requires annual lists of active and terminated compartments, puts the four chamber leaders in the audience and has no waiver. Since December 2024 it also cuts off funding until notice is given and bars moving a capability into a special access programme without notice.",
+   "text": "50 U.S.C. 3091a, enacted in March 2022, requires a briefing on every controlled access programme at least twice a year with no exception for unacknowledged ones, bars establishing a programme or any compartment or sub-compartment before notice, requires annual lists of active and terminated compartments, puts the four chamber leaders in the audience and has no waiver. Since December 2024 it also cuts off funding for a new programme until notice is given and bars transferring a capability from a controlled access programme to a special access programme until notice is submitted, with two self-certified exceptions.",
    "cite": [
     "c-fe3c25d754",
     "c-eea7a7db22",
@@ -271,7 +271,10 @@
     "c-64e902eed3",
     "c-53ef0c7bed",
     "e-589cb86158",
-    "e-18672cbcbe"
+    "e-18672cbcbe",
+    "c-fdf29ec57d",
+    "c-255631b086",
+    "c-9b58073b84"
    ]
   },
   {
@@ -343,7 +346,7 @@
    ]
   },
   {
-   "text": "Members of Congress describe the access problem in their own words: Burlison said the programme managers were not transparent even in a SCIF and that if you want to hide something from Congress you hand it to a private contractor; Ogles threatened the Holman Rule against any agency denying Congress access and said after a 2024 Inspector General briefing that there was a concerted effort to conceal information; Mace said certain individuals did not want the hearing she spoke at to happen because they feared what might be disclosed.",
+   "text": "Members of Congress describe the access problem in their own words: Burlison said they were not transparent to members even in a SCIF setting and that if you want to hide something from Congress you hand it to a private contractor; Ogles threatened the Holman Rule against any agency denying Congress access and said after a 2024 Inspector General briefing that there was a concerted effort to conceal information; Mace said certain individuals did not want the hearing she spoke at to happen because they feared what might be disclosed.",
    "cite": [
     "c-bf19f238f5",
     "c-f8538dedc0",
@@ -367,7 +370,7 @@
    ]
   },
   {
-   "text": "On the board's reading the four regimes leave seams with no annual census running to a full committee: a DoD programme under a waiver, anything protected by ACCM rather than SAP controls, and, before December 2024, any programme moved between the DoD and intelligence regimes. It adds that 3091's anti-withholding rule does not reach DoD programmes and that the waiver exists precisely where hardware and nuclear-adjacent research live.",
+   "text": "On the board's reading the four regimes leave seams with no annual census running to a full committee: a DoD programme under a waiver, and anything protected by ACCM rather than SAP controls; and, before December 2024, no notice was required when a programme moved between the DoD and intelligence regimes. It adds that 3091's anti-withholding rule does not reach DoD programmes and that the waiver exists precisely where hardware and nuclear-adjacent research live.",
    "cite": [
     "c-77d109b952",
     "c-535fd2debe",
@@ -377,11 +380,12 @@
    ]
   },
   {
-   "text": "The board reads the read-in gate as jurisdictional rather than discretionary, since DoD's answer was not no but not your committee, and notes that Mike Gallagher sat on both House Armed Services and House Intelligence, the committee profile the board reads the gate as requiring.",
+   "text": "The board reads the read-in gate as jurisdictional rather than discretionary, since DoD's answer was not no but not your committee, and notes that Mike Gallagher sat on House Armed Services, one of the two committees in the gate as Luna described it; his House Intelligence seat is not part of that gate, and whether he was ever read in is unresolved.",
    "cite": [
     "c-cc7e963e8c",
     "c-7849e20b6a",
-    "e-a24b387b7d"
+    "e-a24b387b7d",
+    "c-b5abe27162"
    ]
   },
   {
@@ -396,6 +400,12 @@
   }
  ],
  "contested": [
+  {
+   "text": "AARO documented at least eight distinct approaches to Grusch between June 2023 and January 2024 and concluded he had no intention of providing information.",
+   "cite": [
+    "c-55e352d752"
+   ]
+  },
   {
    "text": "The records disagree on the size of the waived group. It is commonly given as eight members, and one board entry says the waiver reduces notification to eight, but the statute's six committee units, each with a chair and ranking member, give up to twelve, plus the staff directors DoD policy adds.",
    "cite": [
@@ -426,7 +436,7 @@
    ]
   },
   {
-   "text": "The agencies say the claims were tested. Representative Grothman said, a year after Grusch testified, that none of the agencies had substantiated Grusch's claims despite members endlessly questioning them inside and outside the SCIF; the board notes this is hard to square with the read-in gate Luna later described.",
+   "text": "Representative Grothman said, a year after Grusch testified, that none of the agencies had been able to substantiate Grusch's claims despite members endlessly questioning them inside and outside the SCIF; the board notes this is hard to square with the read-in gate Luna later described.",
    "cite": [
     "c-2ca2b4bf41",
     "c-f0981a8f64"

@@ -26,14 +26,16 @@
  "notes": "The best-documented encounter on the board, with its witnesses and the FLIR1 video.",
  "appendixT": "nimitz-2004",
  "lead": {
-  "text": "On 14 November 2004 aircrew from the VFA-41 squadron, vectored by the cruiser USS Princeton, intercepted an object off Baja California that the Navy's own range fouler report describes as solid white, smooth and about 46 feet long. The report records that the reporting stopped at 3rd Fleet, and the infrared video from that day was released by the Department of Defense in 2020 as still unidentified.",
+  "text": "On 14 November 2004 aircrew from the VFA-41 squadron, vectored, by Fravor's account, by the cruiser USS Princeton, intercepted an object off Baja California that the Navy's own range fouler report describes as solid white, smooth and about 46 feet long. The report records that the reporting stopped at 3rd Fleet, and a Navy infrared video from November 2004 was released by the Department of Defense in 2020 as still unidentified.",
   "cite": [
    "c-7a215a00a9",
    "c-6362e43b4a",
    "c-d598e54575",
    "c-09b0aab384",
    "e-d4bfb2b551",
-   "e-523fabda6a"
+   "e-523fabda6a",
+   "c-09d15d27fa",
+   "c-2c02c3f0d8"
   ]
  },
  "summary": [
@@ -129,7 +131,7 @@
    ]
   },
   {
-   "text": "A Navy contract announcement describes the Raytheon-built ATFLIR pod as the Navy's primary targeting sensor on F/A-18 variants. No document states that this pod produced the November 2004 video; the board's link between them is inference from the aircraft type and the period.",
+   "text": "A Navy contract announcement describes the Raytheon-built ATFLIR pod as the Navy's primary targeting sensor on F/A-18 variants.",
    "cite": [
     "e-bc73ec646e"
    ]
@@ -214,6 +216,12 @@
     "c-8d21c196d3",
     "e-9c209c896b"
    ]
+  },
+  {
+   "text": "On the board's reading, that Raytheon-built pod produced the November 2004 video; no document states it, and the link is inference from the aircraft type and the period.",
+   "cite": [
+    "e-bc73ec646e"
+   ]
   }
  ],
  "contested": [
@@ -232,7 +240,7 @@
    ]
   },
   {
-   "text": "The Navy's range fouler report shows the pilots did report the incident, through intelligence personnel; what Fravor's statement and the report agree on is that nothing followed, the report placing the stop at 3rd Fleet.",
+   "text": "The Navy's range fouler report shows the pilots did report the incident, through intelligence personnel; what Fravor's statement and the report agree on is that the reporting went no further at the time, the report placing the stop at 3rd Fleet.",
    "cite": [
     "c-6362e43b4a",
     "c-faa0f5bfd8"
@@ -324,7 +332,7 @@
   },
   {
    "id": "michael-gold",
-   "role": "investigator"
+   "role": "claimant"
   },
   {
    "id": "uss-reagan-2004",

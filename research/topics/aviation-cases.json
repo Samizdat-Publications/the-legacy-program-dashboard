@@ -40,19 +40,21 @@
     "c-2c722286fb",
     "c-08814453b7",
     "c-675dbe8e3c",
-    "e-b6d879af4b"
+    "e-b6d879af4b",
+    "c-499c8b5e32"
    ]
   },
   {
-   "text": "Tehran and Belgium: in both, a foreign air force's intercept is documented inside a US or allied intelligence file rather than by the flying service, the Tehran report in DIA's holdings and the Belgian F-16 scramble of March 1990 in the UK Ministry of Defence files.",
+   "text": "Tehran and Belgium: the board compares the two. The Tehran intercept is known through a DIA file, and the Belgian F-16 scramble of March 1990 through UK Ministry of Defence files, which also hold the Belgian Air Force's own statement of November 1993.",
    "cite": [
     "e-bb7cc24acd",
     "e-f7ee2d265b",
-    "c-43b4957821"
+    "c-43b4957821",
+    "c-25485f069d"
    ]
   },
   {
-   "text": "Military aviators are the witness class whose accounts come with instruments attached: the Navy videos released in 2020, sworn statements by Fravor and Graves in 2023, and a published estimate of the Nimitz object's flight characteristics.",
+   "text": "Military aviators' part of the record: the Department of Defense released FLIR1, GIMBAL and GOFAST in 2020 as still unidentified; Fravor and Graves submitted written statements and testified under oath in 2023; and Knuth, Powell and Reali published an estimate of the Nimitz object's flight characteristics.",
    "cite": [
     "c-fc0a6eae8f",
     "c-278f8d21dd",
@@ -183,13 +185,6 @@
    ]
   },
   {
-   "text": "The Black Vault, which holds the file, says Callahan's dramatic account is unconfirmed by other sources, while recording that he preserved copies of the data and later shared them with researchers.",
-   "cite": [
-    "c-27d45aefe2",
-    "c-499c8b5e32"
-   ]
-  },
-  {
    "text": "Graves says he founded Americans for Safe Aerospace to support aircrew affected by UAP encounters, and that by July 2023 it had nearly 5,000 members and was working with more than 30 witnesses who had approached it. The board reads Tim Gallaudet's recalled-email account and Graves's unacknowledged squadron report as the same failed safety machinery seen from opposite ends.",
    "cite": [
     "c-e4d9f3948e",
@@ -250,6 +245,13 @@
    ]
   },
   {
+   "text": "The Black Vault, which holds the file, says Callahan's dramatic account is unconfirmed by other sources, while recording that he preserved copies of the data and later shared them with researchers.",
+   "cite": [
+    "c-27d45aefe2",
+    "c-499c8b5e32"
+   ]
+  },
+  {
    "text": "The board has not read any page of the National Archives file: the one document downloaded is a scan without a text layer, so the file's contents are known only through Klass's quotations and The Black Vault's description.",
    "cite": [
     "c-ca6b9bee55"
@@ -262,10 +264,16 @@
    ]
   },
   {
-   "text": "The UK Ministry of Defence was not told of the Belgian incident at the time and concluded there was no threat to the UK. A podcast's account of de Brouwer's rank and public statements is not supported by the record that names him.",
+   "text": "The UK Ministry of Defence was not told of the Belgian incident at the time and concluded there was no threat to the UK. A podcast's account of de Brouwer's office as given and of his public statements is not supported by the record that names him.",
    "cite": [
     "c-2319675fc5",
     "c-1df492425a"
+   ]
+  },
+  {
+   "text": "AARO later assessed the GO FAST video, one of the three released in 2020, as showing an object at about 13,000 feet moving around 45 mph with 60-knot winds, with no anomalous speeds or flight characteristics.",
+   "cite": [
+    "c-4ce6331d37"
    ]
   }
  ],
@@ -349,6 +357,10 @@
   {
    "id": "nasa-uap-ist",
    "role": "programme"
+  },
+  {
+   "id": "gofast-video",
+   "role": "document"
   }
  ],
  "questions": [

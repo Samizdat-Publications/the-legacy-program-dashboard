@@ -30,12 +30,13 @@
    "c-bc6110fd55",
    "e-0d7d12e17d",
    "c-d2181b6e8b",
-   "c-0cd258d843"
+   "c-0cd258d843",
+   "c-855a82c0db"
   ]
  },
  "summary": [
   {
-   "text": "The group covers five events: the multi-night drone swarms around USS Kidd and other destroyers off Southern California in July 2019; the AC-130J encounter over the Gulf of Oman on 8 September 2021; USS Jackson's recording of four objects in Warning Area W-291 on 15 February 2023; the MQ-9 Hellfire shot at an orb off Yemen in October 2024; and the Navy report of about 100 objects off Virginia carried in AARO's FY2025 report.",
+   "text": "The group covers five events: the multi-night drone swarms around USS Kidd and other destroyers off Southern California in July 2019, recorded in deck logs; the AC-130J encounter over the Gulf of Oman on 8 September 2021; Alexandro Wiggins's account of four objects, one rising from the ocean, seen from USS Jackson in Warning Area W-291 on 15 February 2023; a video shown by Rep. Burlison said to show an MQ-9 firing a Hellfire at an orb off Yemen in October 2024; and the Navy report of about 100 objects off Virginia carried in AARO's FY2025 report.",
    "cite": [
     "e-4877ec3762",
     "e-0d7d12e17d",
@@ -55,11 +56,10 @@
    ]
   },
   {
-   "text": "The board sets these beside the earlier Navy encounters, the Nimitz case of 2004 in the same Southern California training space and the Roosevelt near-midair in Warning Area W-72 off Virginia Beach, which have topics of their own.",
+   "text": "The board sets these beside the Nimitz case of 2004, in the same Southern California training space, which has a topic of its own.",
    "cite": [
     "e-99b6e49833",
-    "e-9c209c896b",
-    "e-b895eee1fb"
+    "e-9c209c896b"
    ]
   }
  ],
@@ -106,7 +106,7 @@
    ]
   },
   {
-   "text": "In May 2025 AARO issued a Sources Sought Notice on SAM.gov for a custom case management system hosted on JWICS, with capabilities statements due 9 June 2025.",
+   "text": "AARO issued a Sources Sought Notice on SAM.gov for a custom case management system hosted on JWICS, with capabilities statements due 9 June 2025.",
    "cite": [
     "c-3f5acc7cfd"
    ]
@@ -173,7 +173,7 @@
  ],
  "contested": [
   {
-   "text": "AARO's FY2025 report states that none of the cases it resolved indicate advanced foreign adversarial capabilities or breakthrough technologies, and it attributes its unresolved cases to a lack of timely and actionable sensor data.",
+   "text": "AARO's FY2025 report states that none of the cases it resolved indicate advanced foreign adversarial capabilities or breakthrough technologies, and says a lack of timely and actionable sensor data continues to constrain its ability to resolve cases.",
    "cite": [
     "c-e2e183dfa8",
     "c-1924c45627"
@@ -195,10 +195,11 @@
    ]
   },
   {
-   "text": "The best-instrumented of these records came to the public outside the official channel: the Jackson footage was published by journalists, and AARO's FY2025 report does not say whether the Jackson account is in its holdings, which the board records as an open inference.",
+   "text": "The Jackson footage, which Wiggins says carries time and position metadata, came to the public outside the official channel: it was published by journalists, and AARO's FY2025 report does not say whether the Jackson account is in its holdings, which the board records as an open inference.",
    "cite": [
     "c-c40dba1bf0",
-    "e-d04be1fac9"
+    "e-d04be1fac9",
+    "c-e44cdd8aac"
    ]
   },
   {
@@ -244,10 +245,6 @@
    "role": "place"
   },
   {
-   "id": "l-w72",
-   "role": "place"
-  },
-  {
    "id": "aaro-fy2025-annual-report",
    "role": "document"
   },
@@ -265,10 +262,6 @@
   },
   {
    "id": "nimitz-2004",
-   "role": "event"
-  },
-  {
-   "id": "roosevelt-2014-2015",
    "role": "event"
   }
  ],

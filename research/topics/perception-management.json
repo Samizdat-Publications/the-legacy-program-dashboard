@@ -23,13 +23,15 @@
  "notes": "YANKEE BLUE and the documented practice of perception management, with the psychological-operations and disinformation domain nodes it absorbs.",
  "appendixT": "perception-management",
  "lead": {
-  "text": "The board keeps a file on the documented practice of managing belief as a security measure: government charters for propaganda and psychological operations, a Joint Chiefs plan for staged pretexts, an Air Force counterintelligence operation that fed a civilian fabricated UFO material, and the reported Yankee Blue practice of reading personnel into a fictitious alien-technology programme.",
+  "text": "The board keeps a file on the practice of managing belief as a security measure: government charters for propaganda and psychological operations, a Joint Chiefs plan for staged pretexts, an Air Force counterintelligence operation that, by its participants' later admissions, fed a civilian fabricated UFO material, and the reported Yankee Blue practice of reading personnel into a fictitious alien-technology programme.",
   "cite": [
    "c-5976133b9d",
    "c-14a013a2d2",
    "e-6327dab193",
    "c-b058ea0ac4",
-   "c-9e225ffcd3"
+   "c-9e225ffcd3",
+   "c-9df8a13609",
+   "c-a170e3377f"
   ]
  },
  "summary": [
@@ -50,19 +52,23 @@
    ]
   },
   {
-   "text": "The best-known case is Kirtland, where Air Force OSI personnel supplied Paul Bennewitz with fabricated documents about alien activity in the early 1980s; the Dulce story is where that operation's output, and much else, converged.",
+   "text": "The best-known case is Kirtland, where, by the later admissions of William Moore and Richard Doty, Air Force OSI personnel supplied Paul Bennewitz with fabricated documents about alien activity in the early 1980s; the Dulce story is where that operation's output, and much else, converged.",
    "cite": [
     "c-b058ea0ac4",
     "e-25b998b015",
-    "e-c711784f2e"
+    "e-c711784f2e",
+    "c-9df8a13609",
+    "c-a170e3377f"
    ]
   },
   {
-   "text": "Yankee Blue, reported in 2025, is the practice's most recent alleged form, turned inward on the Air Force's own personnel; AFOSI, chartered for both criminal investigation and counterintelligence, is the service at the centre of both.",
+   "text": "Yankee Blue, reported in 2025, is the practice's most recent alleged form, turned inward on the Air Force's own personnel. AFOSI, the Air Force's agency chartered for both criminal investigation and counterintelligence, is the service named in the Bennewitz case; press reporting places Yankee Blue in the Air Force, and AFOSI says it holds no records of it.",
    "cite": [
     "c-9e225ffcd3",
     "c-0e701fc335",
-    "e-5c1ff77fec"
+    "e-5c1ff77fec",
+    "e-529e6b0262",
+    "e-0fcbfaf5ff"
    ]
   }
  ],
@@ -95,19 +101,16 @@
     "c-31dea85b1b",
     "e-2fccafb363",
     "e-f07e2d9e5f",
-    "c-e267ce0f69"
+    "c-e267ce0f69",
+    "e-687c1e776b"
    ]
   },
   {
-   "text": "A 1959 Air Force Special Weapons Center study from Kirtland on nuclear detonations near the moon states its motive as scientific, military and political, noting the positive effects that would accrue to the first nation to do it as a demonstration of advanced technological capability and warning that, without preparing world opinion in advance, a considerable negative reaction could follow. Its copies went to ARPA, Los Alamos, Sandia and Wright-Patterson.",
+   "text": "A 1959 Air Force Special Weapons Center study from Kirtland on nuclear detonations near the moon states its motive as scientific, military and political, noting the positive effects that would accrue to the first nation to do it as a demonstration of advanced technological capability and warning that, without preparing world opinion in advance, a considerable negative reaction could follow.",
    "cite": [
     "c-ff05a6fb33",
     "c-ef031c431f",
     "c-fbdf5df850",
-    "e-25a1074150",
-    "e-60c7fbfe4d",
-    "e-ad1ede6b89",
-    "e-922342baef",
     "e-fe05f6fa26"
    ]
   },
@@ -196,10 +199,12 @@
  ],
  "contested": [
   {
-   "text": "The records disagree: Volume I says AARO found no UAP-related NDAs, while the Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme, so the two statements cannot both stand as written.",
+   "text": "The records disagree: Volume I says AARO found no NDAs containing UAP information, while the Wall Street Journal reported that personnel were bound by NDAs over Yankee Blue and a DoD spokeswoman told it the findings would appear in Volume II; the two cannot both stand as written.",
    "cite": [
-    "e-0e78639067",
-    "c-73179e68ea"
+    "c-73179e68ea",
+    "c-9e225ffcd3",
+    "c-5bf219624e",
+    "e-0e78639067"
    ]
   },
   {
@@ -309,22 +314,6 @@
   {
    "id": "avril-haines",
    "role": "official"
-  },
-  {
-   "id": "sandia",
-   "role": "institution"
-  },
-  {
-   "id": "darpa",
-   "role": "institution"
-  },
-  {
-   "id": "l-los-alamos",
-   "role": "place"
-  },
-  {
-   "id": "l-wright-patterson",
-   "role": "place"
   }
  ],
  "questions": [

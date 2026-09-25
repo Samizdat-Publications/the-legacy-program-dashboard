@@ -20,7 +20,7 @@
  "notes": "Added: an explainer for the board's central claim, absorbing the four domain nodes that name it. It says what is alleged and what the record does and does not show; every specific allegation is its own topic.",
  "appendixT": null,
  "lead": {
-  "text": "The legacy programme allegation is the board's central claim: that a multi-decade effort has retrieved craft and material, held them, and tried to reverse-engineer them outside the acknowledged record. It rests on testimony, most prominently David Grusch's sworn account of 2023; AARO says it found no empirical evidence, and no released record documents the custody of any recovered object.",
+  "text": "The legacy programme allegation is the central allegation the board maps: that a multi-decade effort has retrieved craft and material, held them, and tried to reverse-engineer them outside the acknowledged record. It rests on testimony, most prominently David Grusch's sworn account of 2023; AARO says it found no empirical evidence of reverse engineering, and no released AAWSAP-era document records the receipt, transfer or storage of any physical sample.",
   "cite": [
    "c-20023fea57",
    "e-de653955eb",
@@ -48,7 +48,7 @@
    ]
   },
   {
-   "text": "The official answer is AARO's Volume I, which says it found no empirical evidence of reverse engineering by the government or private companies, together with laboratory findings that the specimens tested were conventional.",
+   "text": "The official answer is AARO's Volume I, which says it found no empirical evidence of reverse engineering by the government or private companies; an Oak Ridge analysis, reported by AARO in January 2026, found one specimen consistent with conventional aluminium alloys.",
    "cite": [
     "c-96458686ee",
     "c-43e0daeb69"
@@ -131,13 +131,6 @@
     "c-26d16e3ba7",
     "c-75434e22cc"
    ]
-  },
-  {
-   "text": "The word legacy also has a literal federal meaning near Dulce, New Mexico: the DOE Office of Legacy Management holds a 640-acre Plowshare site, the 1967 Gasbuggy shot, twelve miles southwest of Dulce, where radioactive waste remains in the former cavity.",
-   "cite": [
-    "c-06d2786422",
-    "c-75fff9fa76"
-   ]
   }
  ],
  "claimed": [
@@ -155,7 +148,7 @@
    ]
   },
   {
-   "text": "Eric Davis told the New York Times he had briefed Senate committees in October 2019 on retrievals from off-world vehicles and said of analysed material that we couldn't make it ourselves; no public documentation of where it came from or who held it has accompanied the statement.",
+   "text": "Eric Davis told the New York Times he had briefed Senate Armed Services staff and Senate Intelligence members in October 2019 on retrievals of unexplained objects, and a Defense Department agency in March 2020 about retrievals from off-world vehicles not made on this earth; he said of analysed material that we couldn't make it ourselves, and no public documentation of where it came from or who held it has accompanied the statement.",
    "cite": [
     "c-2451f39f83",
     "c-337b9b8425",
@@ -179,7 +172,7 @@
    ]
   },
   {
-   "text": "The private-sector chain is admitted to be weak by its own custodians: To The Stars' Steve Justice conceded that its materials came from sources with varying levels of chain-of-custody documentation, and Harold Puthoff's EarthTech, outside FOIA, has published no results on the samples it held.",
+   "text": "The private-sector chain is weakly documented: Steve Justice conceded that the ADAM materials were collected from sources with varying levels of chain-of-custody documentation, and the board infers that Harold Puthoff's EarthTech, a private firm outside FOIA, is where documented chains stop, since it has published no results on the samples it held.",
    "cite": [
     "c-8a391de51a",
     "e-bb87a8970e"
@@ -195,7 +188,7 @@
  ],
  "contested": [
   {
-   "text": "AARO addresses and rejects both the retrieval claim and the reverse-engineering claim in Volume I, stating it found no empirical evidence for either.",
+   "text": "AARO states in Volume I that it found no empirical evidence of reverse engineering of extraterrestrial technology, and the board records that the report addresses and rejects the retrieval claim as well.",
    "cite": [
     "c-6c465ee5eb",
     "e-c49642e4c9",
@@ -221,7 +214,7 @@
    ]
   },
   {
-   "text": "The official research the programme did pay for was theoretical: Davis's own antigravity survey for DIA concludes that every proposed device faces daunting technical challenges.",
+   "text": "Davis's own antigravity survey for DIA, one of the 38 products, concludes that every proposed device faces daunting technical challenges.",
    "cite": [
     "c-8d469b4fee"
    ]
@@ -231,6 +224,18 @@
    "cite": [
     "c-0d0224cc36",
     "c-047e85bc72"
+   ]
+  },
+  {
+   "text": "The counter-explanation to Lazar's site comes from two people by unrelated routes: Tom Mahood and T.D. Barnes each say there is nothing at Papoose Lake and that S-4 refers to a radar facility on the Tonopah range.",
+   "cite": [
+    "c-a64ba4a596"
+   ]
+  },
+  {
+   "text": "AARO's Volume I concludes that the Roswell materials were consistent with a Project Mogul balloon and that there is no evidence the government recovered aliens or extraterrestrial material.",
+   "cite": [
+    "c-c96ffffc9a"
    ]
   }
  ],
@@ -249,10 +254,6 @@
   },
   {
    "id": "s-4-papoose-lake",
-   "role": "place"
-  },
-  {
-   "id": "l-dulce",
    "role": "place"
   },
   {
@@ -282,6 +283,10 @@
   {
    "id": "project-azorian",
    "role": "programme"
+  },
+  {
+   "id": "aaro-historical-record-vol1",
+   "role": "document"
   }
  ],
  "questions": [

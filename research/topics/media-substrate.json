@@ -34,7 +34,7 @@
  "notes": "The three mined podcast corpora are sources here, not subjects. Canon 12 (Art Bell, Rogan, Strieber, Jacobsen) extends it.",
  "appendixT": "media-substrate",
  "lead": {
-  "text": "The disclosure record of 2017 to 2026 was carried less by newspapers than by a Las Vegas television station, one cable correspondent, an independent outlet, a newsletter and long-form podcasts. The New York Times broke AATIP in 2017, but the Grusch story, the Immaculate Constellation report and the fullest structural reconstruction of the alleged programme all went elsewhere first.",
+  "text": "The disclosure record of 2017 to 2026 was carried less by newspapers than by a Las Vegas television station, one cable correspondent, an independent outlet, a newsletter and long-form podcasts. The New York Times broke AATIP in 2017, but the Grusch story, the Immaculate Constellation report and, on the board's reading, the most detailed structural reconstruction in circulation all went elsewhere first.",
   "cite": [
    "e-fcf18481ad",
    "e-490189dc86",
@@ -46,7 +46,7 @@
  },
  "summary": [
   {
-   "text": "The board measures the shift from the New York Times story of 16 December 2017, the last time a US paper of record originated a legacy-programme disclosure; the same authors' 2023 Grusch story ran in The Debrief.",
+   "text": "The board measures the shift from the New York Times story of 16 December 2017, which it calls the last time a US paper of record originated a disclosure about the programme's existence; the same authors' 2023 Grusch story ran in The Debrief.",
    "cite": [
     "e-fcf18481ad",
     "c-b4c9a41786"
@@ -87,7 +87,7 @@
    ]
   },
   {
-   "text": "The Debrief was co-founded by Micah Hanks as editor-in-chief, Tim McMillan as executive director and MJ Banias as content director, and published the Kean and Blumenthal Grusch story that the Times did not run.",
+   "text": "The Debrief was co-founded by Micah Hanks as editor-in-chief, Tim McMillan as executive director and MJ Banias as content director, and published the Kean and Blumenthal Grusch story after its authors placed it there rather than at the Times.",
    "cite": [
     "c-cbd47d9c44",
     "e-2cdc0e2c56",
@@ -309,7 +309,7 @@
    ]
   },
   {
-   "text": "The Times's decision not to run the 2023 Grusch story is recorded by the board as an institutional act; it infers the change of venue says something about institutional appetite, not about the reporting.",
+   "text": "The Times did not publish the 2023 Grusch story; its authors placed it at The Debrief. The board records the change of venue and infers that it says something about institutional appetite; no record shows whether the Times was offered it.",
    "cite": [
     "e-a08e6bb75a",
     "e-84d979aab0"
@@ -339,6 +339,13 @@
    "text": "The substrate is divided: third-party channels covered a public dispute between Gerb and Elizondo in August 2026, which Coulthart called a schism; no primary statement from either was retrieved.",
    "cite": [
     "e-c9de0c5f0e"
+   ]
+  },
+  {
+   "text": "The claim that no US paper of record has originated a legacy-programme disclosure since 2017 has at least one exception on the board: the Wall Street Journal reported in June 2025 that Air Force personnel had been briefed into a fictitious reverse-engineering programme called Yankee Blue.",
+   "cite": [
+    "c-823ec63ce1",
+    "c-9e225ffcd3"
    ]
   }
  ],
@@ -514,6 +521,10 @@
   {
    "id": "cia",
    "role": "institution"
+  },
+  {
+   "id": "yankee-blue",
+   "role": "programme"
   }
  ],
  "questions": [

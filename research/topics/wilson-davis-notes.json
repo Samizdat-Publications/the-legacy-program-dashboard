@@ -20,13 +20,15 @@
  "notes": "Thread wilson-davis; start-here flag 11.",
  "appendixT": "wilson-davis-notes",
  "lead": {
-  "text": "The Wilson-Davis notes are fifteen typed pages, dated 16 October 2002, in which the physicist Eric Davis records Vice Admiral Thomas Wilson describing how he was refused access to a special access programme holding recovered material in a contractor's custody. Davis says the notes are his and accurate; Wilson denies the meeting took place, and no government body has authenticated them.",
+  "text": "The Wilson-Davis notes are fifteen typed pages, dated 16 October 2002, in which Eric Davis, an AAWSAP contract author, records Vice Admiral Thomas Wilson describing how he was refused access to a special access programme holding recovered material in a contractor's custody. Davis says the notes are his and accurate; Wilson denies the meeting took place, and DoD witnesses asked about the memo in 2022 said they were unaware of it.",
   "cite": [
    "c-14000c4c9a",
    "c-57e9190bad",
+   "c-7fb0b6e2a9",
    "c-8d6448fa78",
    "c-7cddcadc7e",
-   "e-cc5305178c"
+   "e-cc5305178c",
+   "c-3f0f4c06eb"
   ]
  },
  "summary": [
@@ -48,7 +50,7 @@
    ]
   },
   {
-   "text": "The people: Davis, earlier a NIDS scientist who worked under Harold Puthoff at EarthTech and now sits on the Sol Foundation's advisory board, was an AAWSAP contract author and later briefed Senate committees on retrievals; Wilson was a former DIA director. The notes' account was raised with Pentagon witnesses at a 2022 hearing and is absent from AARO's 2024 history.",
+   "text": "The people: Davis, earlier a NIDS scientist who worked under Harold Puthoff at EarthTech and now sits on the Sol Foundation's advisory board, was an AAWSAP contract author and says he later briefed Senate Armed Services staff and Senate Intelligence members on retrievals; Wilson was a former DIA director. The notes' account was raised with Pentagon witnesses at a 2022 hearing and is absent from AARO's 2024 history.",
    "cite": [
     "e-9478dc5bcb",
     "e-4969cf7445",
@@ -137,13 +139,13 @@
    ]
   },
   {
-   "text": "A 2022 report places the meeting at an EG&G facility in Las Vegas; the board holds that at Tier 3.",
+   "text": "A later report places the meeting at an EG&G facility in Las Vegas; the board holds that at Tier 3.",
    "cite": [
     "e-1ec3a56650"
    ]
   },
   {
-   "text": "Davis told the New York Times in 2020 that he had briefed Senate Armed Services staff and Senate Intelligence members in October 2019 on retrievals from off-world vehicles, and said of the materials that we couldn't make it ourselves; the paper identified him as working for the Aerospace Corporation at the time.",
+   "text": "Davis told the New York Times in 2020 that he had briefed Senate Armed Services staff and Senate Intelligence members in October 2019 on retrievals of unexplained objects, and a Defense Department agency in March 2020 about retrievals from off-world vehicles not made on this earth, and said of the materials that we couldn't make it ourselves; the paper identified him as working for the Aerospace Corporation at the time.",
    "cite": [
     "c-2451f39f83",
     "c-337b9b8425",
@@ -167,10 +169,11 @@
    ]
   },
   {
-   "text": "An author endorsing his own notes is not authentication: Davis vouches for the text while declining to confirm the meeting, and no government body has authenticated the memo.",
+   "text": "An author endorsing his own notes is not authentication: Davis vouches for the text while declining to confirm the meeting, and the DoD witnesses asked about the memo in 2022 said they were unaware of it.",
    "cite": [
     "c-040ce1a32e",
-    "c-8d6448fa78"
+    "c-8d6448fa78",
+    "c-3f0f4c06eb"
    ]
   },
   {
@@ -198,12 +201,18 @@
    ]
   },
   {
-   "text": "An earlier Senate inquiry reached the contractors and stopped: Richard D'Amato's public statement is that 1940s crash allegations did not merit further investigation, while George Knapp attributes to him a private view that a cover-up inside a company such as Lockheed Martin or EG&G was entirely feasible.",
+   "text": "An earlier Senate inquiry reached EG&G and stopped: Richard D'Amato's public statement is that 1940s crash allegations did not merit further investigation, while George Knapp attributes to him a private view that a cover-up inside a company such as Lockheed Martin or EG&G was entirely feasible.",
    "cite": [
     "c-ed860dfc07",
     "c-048b3afad1",
     "e-d1429d73f2",
     "e-be700049d5"
+   ]
+  },
+  {
+   "text": "The skeptic Brian Dunning calls the Wilson-Davis memo an obviously hoaxed document, in itemising the claims of Jason Sands, who treats it as genuine.",
+   "cite": [
+    "c-9ee51f8d27"
    ]
   }
  ],
@@ -279,6 +288,10 @@
   {
    "id": "jesse-michels",
    "role": "journalist"
+  },
+  {
+   "id": "jason-sands",
+   "role": "claimant"
   }
  ],
  "questions": [

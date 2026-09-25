@@ -28,7 +28,7 @@
  "notes": "The documented history of the site (U-2, OXCART, Tacit Blue) beside the claims made about it.",
  "appendixT": "area-51-ranges",
  "lead": {
-  "text": "Area 51 at Groom Lake is a real CIA and Air Force test site whose founding the CIA's own history documents, and which presidents have exempted from environmental disclosure every year since 1995. Around that documented core sit allegations that recovered craft were held on or near the Nevada ranges, made by people such as Bob Lazar and, at second hand, a former EG&G manager.",
+  "text": "Area 51 at Groom Lake is a real CIA and Air Force test site whose founding the CIA's own history documents, and which presidents have exempted from environmental disclosure every year since 1995. Around that documented core sit allegations about recovered craft, such as Bob Lazar's account of a site south of Groom Lake and a former EG&G manager's reported statement that they had a saucer recovered from New Mexico.",
   "cite": [
    "c-2632cbe98b",
    "e-dea6bbd861",
@@ -39,12 +39,12 @@
  },
  "summary": [
   {
-   "text": "The documented history: the CIA's Richard Bissell chose the Groom Lake site in April 1955 for the U-2, the Atomic Energy Commission added the strip known as Area 51 to the Nevada Test Site at his request, and the programmes that followed, from the U-2 to the Northrop TACIT BLUE stealth demonstrator, are recorded in the Agency's history and in Air Force fact sheets.",
+   "text": "The documented history: the CIA's Richard Bissell chose the Groom Lake site in April 1955 for the U-2, and the Atomic Energy Commission added the strip known as Area 51 to the Nevada Test Site at his request; the Agency's history of its U-2 and OXCART programmes records the site's establishment and use.",
    "cite": [
     "c-e28e344266",
     "c-2632cbe98b",
     "e-40e7f6129f",
-    "c-f06c4bb366"
+    "e-dea6bbd861"
    ]
   },
   {
@@ -64,10 +64,11 @@
    ]
   },
   {
-   "text": "The allegations: Lazar's S-4 account is sited by reference to Groom Lake, Edgar Fouche narrated Groom Lake work and a TR-3B based at Papoose, and George Knapp relays an EG&G manager's statement about a recovered saucer. On the board's reading, the site's long official silence shows how a contractor-staffed installation can be kept off the acknowledged record, which is an inference, not a document.",
+   "text": "The allegations: Lazar's S-4 account is sited by reference to Groom Lake, Edgar Fouche narrated Groom Lake work and relays a friend's sighting of a TR-3B based at Papoose, and George Knapp relays an EG&G manager's statement about a recovered saucer. On the board's reading, the site's long official silence shows how a contractor-staffed installation can be kept off the acknowledged record, which is an inference, not a document.",
    "cite": [
     "e-45dedeb372",
     "e-a8cc8584f8",
+    "e-c06775988b",
     "c-e4199b12f0",
     "c-474202a7ff"
    ]
@@ -161,7 +162,7 @@
  ],
  "claimed": [
   {
-   "text": "George Knapp reports that Alfred O'Donnell, whom he describes as the first general manager of EG&G in Nevada, told him that they had a flying saucer recovered from New Mexico and a live being with it. Knapp named O'Donnell to Congress in September 2025; the account reaches the public only through Knapp.",
+   "text": "George Knapp reports that Alfred O'Donnell, whom he describes as the first general manager of EG&G in Nevada, told him that they had a flying saucer recovered from New Mexico and a live being with it. Knapp named O'Donnell to Congress in September 2025; the account reaches the public through Knapp.",
    "cite": [
     "c-266a6dbb9a",
     "c-e4199b12f0",
@@ -246,13 +247,14 @@
    ]
   },
   {
-   "text": "The letter Fouche calls a SAC-DARPA classified document carries no classification marking and is signed by a technical sergeant in a personnel assignments section; its redactions were applied by Fouche himself, and the compilation as a whole shows an ordinary avionics maintenance career.",
+   "text": "The letter Fouche calls a SAC-DARPA classified document carries no classification marking and is signed by a technical sergeant in a personnel assignments section; its redactions were applied by Fouche himself, the compilation holds only decorations, certificates, reports, a degree and one personnel letter, and the 1979 form describes F-15 avionics shop work.",
    "cite": [
     "c-242988dc58",
     "c-8614bbbb95",
     "c-7cca6a7b2d",
     "e-921a06bda3",
-    "e-3ac5085e75"
+    "e-3ac5085e75",
+    "e-a8cc8584f8"
    ]
   },
   {
@@ -277,9 +279,9 @@
    ]
   },
   {
-   "text": "The story of a February 1954 Eisenhower meeting at Muroc, the base later called Edwards, has no primary record and the board carries it as folklore.",
+   "text": "Thomas Wilson denies that the meeting the notes record took place and denies what they attribute to him.",
    "cite": [
-    "c-4d6fbac01b"
+    "c-7cddcadc7e"
    ]
   }
  ],
@@ -306,10 +308,6 @@
   },
   {
    "id": "l-edwards-afb",
-   "role": "place"
-  },
-  {
-   "id": "l-las-vegas",
    "role": "place"
   },
   {

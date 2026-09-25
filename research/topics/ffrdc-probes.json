@@ -54,13 +54,14 @@
   }
  ],
  "lead": {
-  "text": "Federally funded research and development centres such as MITRE, RAND and the Aerospace Corporation are private non-profits with privileged access to government data, and in 2026 they became the target of congressional records demands after a pseudonymous researcher, UAP Gerb, alleged that MITRE has helped reverse-engineer recovered technology since 1958. The regulation and the letters are on record; the custody allegation is a researcher's claim.",
+  "text": "Federally funded research and development centres are private non-profits with privileged access to government data. In May 2026 Rep. Eric Burlison sent records demands to MIT Lincoln Laboratory and MITRE, and named RAND and the Aerospace Corporation as on his trail; in August a pseudonymous researcher, UAP Gerb, published an investigation alleging that MITRE has helped reverse-engineer recovered technology since 1958. The regulation and the letters are on record; the custody allegation is a researcher's claim.",
   "cite": [
    "c-30a2ceae8d",
+   "c-18b58db71b",
    "c-44eb0ea603",
+   "c-be1147e92b",
    "c-ef3c50efe0",
-   "e-318766f210",
-   "c-325ff33b39"
+   "e-d8bf46ae93"
   ]
  },
  "summary": [
@@ -74,13 +75,14 @@
    ]
   },
   {
-   "text": "The allegation: UAP Gerb argues that FFRDCs are the missing link that lets the government vest programmes outside itself while controlling the material, and names MITRE as central to a Navy-led legacy programme; his wider model, which he calls Manhattan Project 2.0, places custody in the atomic laboratories from 1947.",
+   "text": "The allegation: UAP Gerb argues that FFRDCs are the missing link that lets the government vest programmes outside itself while controlling the material, and names MITRE as central to Navy-spearheaded legacy programmes; his wider model, which he calls Manhattan Project 2.0, places custody in the atomic laboratories from 1947.",
    "cite": [
     "c-623dc83a8f",
     "c-ef3c50efe0",
     "e-84f69e61f4",
     "c-608197f302",
-    "e-afd271ba21"
+    "e-afd271ba21",
+    "e-b82f635ae3"
    ]
   },
   {
@@ -113,7 +115,7 @@
    ]
   },
   {
-   "text": "MITRE was incorporated on 21 July 1958 as a non-profit, with Robert Everett as first technical director and 485 Lincoln Laboratory staff moving across to continue SAGE engineering for the Air Force. It now runs six FFRDCs, the widest spread of any operator, the largest being the National Security Engineering Center for DoD at about $1.43 billion in FY2024.",
+   "text": "MITRE was incorporated on 21 July 1958 as a non-profit, with Robert Everett as first technical director and 485 Lincoln Laboratory staff moving across to continue SAGE engineering for the Air Force. It now runs six FFRDCs, the widest spread of any operator, including the National Security Engineering Center for DoD, at about $1.43 billion in FY2024.",
    "cite": [
     "c-d456a6795c",
     "e-dab49b0f8e",
@@ -150,7 +152,7 @@
    ]
   },
   {
-   "text": "MITRE's leadership has come from the intelligence and laboratory world: its chairman since 2018 is Donald Kerr, a former director of Los Alamos and the NRO; its vice chair since October 2023 is Sue Gordon, a former Principal Deputy DNI; its chief executive since September 2024 is Mark Peters, from Battelle; and Samantha Ravich joined its board on 19 May 2026, three days before the letter.",
+   "text": "MITRE's leadership has come from the intelligence and laboratory world: Donald Kerr, a former director of Los Alamos and the NRO, was elected chairman in November 2018; Sue Gordon, a former Principal Deputy DNI, became vice chair in October 2023; Mark Peters came from Battelle to be chief executive from September 2024; and Samantha Ravich joined its board on 19 May 2026, three days before the letter.",
    "cite": [
     "e-48f682bb07",
     "e-8b16fbadbc",
@@ -259,14 +261,14 @@
    ]
   },
   {
-   "text": "His Northrop and TRW investigation alleges that Northrop Grumman may have self-funded its own retrieval programmes with research money after 9/11.",
+   "text": "His Northrop and TRW investigation alleges, extrapolating from David Grusch's remarks on Megyn Kelly, that Northrop Grumman may have self-funded its own retrieval programmes with research money after 9/11.",
    "cite": [
     "c-6e7381fd4e",
     "e-9b535997a6"
    ]
   },
   {
-   "text": "A 2026 Liberation Times report places MITRE among contractors supporting NAVAIR programmes at Patuxent River, in the context of reporting that an exotic vehicle has been stored there for decades.",
+   "text": "A 2026 Liberation Times report places MITRE among contractors supporting NAVAIR programmes at Patuxent River, in the context of reporting that an exotic vehicle has been stored there for decades. The board notes that no allegation of custody attaches to MITRE.",
    "cite": [
     "c-f5e536f4d3",
     "e-c3fc1d3808"
@@ -283,7 +285,7 @@
    ]
   },
   {
-   "text": "Eric Davis was working for the Aerospace Corporation when the New York Times reported in 2020 his classified briefings on retrievals; the corporation has not addressed whether it had any role.",
+   "text": "Eric Davis was working for the Aerospace Corporation when the New York Times reported in 2020 his classified briefings on retrievals; the corporation has not addressed publicly whether it had any role.",
    "cite": [
     "c-c20eb7c8b7",
     "e-9c9d5b18c9",
@@ -301,13 +303,15 @@
  ],
  "contested": [
   {
-   "text": "Gerb's record includes a claim the board has checked and found unsupported: the Battelle nitinol lineage, which the federal literature, including a review Battelle itself wrote, attributes to the Naval Ordnance Laboratory.",
+   "text": "Gerb's record includes a claim the board has checked and found unsupported: his Battelle investigation's nitinol lineage, which the federal literature, including a review Battelle itself wrote, attributes to the Naval Ordnance Laboratory.",
    "cite": [
-    "c-8cf2251854"
+    "c-8cf2251854",
+    "c-e3c3593fbb",
+    "e-214af5f137"
    ]
   },
   {
-   "text": "On the board's reading NewsNation's coverage is not independent corroboration of Gerb: its research producer supplied him leads on an alleged gatekeeper, and the network published its host saying he thinks Gerb is on the money.",
+   "text": "NewsNation's coverage is not independent of Gerb: its research producer supplied him leads on an alleged gatekeeper, and the network published its host saying he thinks Gerb is on the money.",
    "cite": [
     "e-e74accccde",
     "e-5e66467b04"
@@ -327,10 +331,9 @@
    ]
   },
   {
-   "text": "Several links in the wider web are thin: Harald Malmgren's IDA assignment rests on a family biography, the operation Gerb uses to frame a Peru account says nothing about it in its own record, and the tie between the 1952 recording and the Beacon Hill study is an inference with no minutes produced.",
+   "text": "Some links in the wider web are thin: Harald Malmgren's IDA assignment rests on a family biography, and the tie between the 1952 recording and the Beacon Hill study is an inference with no minutes produced.",
    "cite": [
     "e-cd0fae33a2",
-    "e-2d15759ff5",
     "e-25c09fade4"
    ]
   },
@@ -338,6 +341,19 @@
    "text": "Jesse Michels described a 1961 RAND report on ICBM vulnerability to X-rays that the board could not open or find by its exact title.",
    "cite": [
     "c-d12d404431"
+   ]
+  },
+  {
+   "text": "The cited items disagree about the Lincoln Laboratory recording: Burlison's letter gives its designation as AF-ATIC-FILM, 03/52, while the Disclosure Foundation says it concerns the July 1952 Washington sightings.",
+   "cite": [
+    "c-18b58db71b",
+    "c-2ef7b1b8d5"
+   ]
+  },
+  {
+   "text": "The Department of Defense says it has no record of a programme called Immaculate Constellation, and former AARO director Sean Kirkpatrick has denied it exists.",
+   "cite": [
+    "c-9d3c590324"
    ]
   }
  ],
@@ -479,10 +495,6 @@
    "role": "researcher"
   },
   {
-   "id": "jason-matheny",
-   "role": "contractor"
-  },
-  {
    "id": "robert-everett",
    "role": "contractor"
   },
@@ -504,10 +516,6 @@
   },
   {
    "id": "mark-peters",
-   "role": "contractor"
-  },
-  {
-   "id": "dana-keoki-jackson",
    "role": "contractor"
   },
   {
@@ -539,10 +547,6 @@
    "role": "claimant"
   },
   {
-   "id": "mark-mccandlish",
-   "role": "claimant"
-  },
-  {
    "id": "jesse-michels",
    "role": "journalist"
   },
@@ -563,24 +567,12 @@
    "role": "event"
   },
   {
-   "id": "operation-laser-strike",
-   "role": "programme"
-  },
-  {
    "id": "l-pax-river",
    "role": "place"
   },
   {
-   "id": "l-bedford-ma",
-   "role": "place"
-  },
-  {
-   "id": "l-mclean",
-   "role": "place"
-  },
-  {
-   "id": "l-santa-monica",
-   "role": "place"
+   "id": "gerb-battelle-investigation",
+   "role": "document"
   }
  ],
  "questions": [

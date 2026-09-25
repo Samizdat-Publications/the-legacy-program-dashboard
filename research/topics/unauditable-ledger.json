@@ -56,7 +56,7 @@
   }
  ],
  "lead": {
-  "text": "The Department of Defense has had a disclaimer of opinion on its financial statements every year since its first full-scope audit, for FY2018, and in the last two quarters of FY2025 its unsupported adjustments exceeded $859 billion. This topic sets out what that audit record documents, the 2018 accounting standard that lets classified amounts be moved between lines without saying so, and the trillion-dollar figures that circulate from Inspector General reports whose own footnotes say they should not be added together.",
+  "text": "The Department of Defense has had a disclaimer of opinion on its financial statements every year since its first full-scope audit, for FY2018, and in the last two quarters of FY2025 its unsupported adjustments exceeded $859 billion. This topic sets out what that audit record documents, the 2018 accounting standard that lets classified amounts be moved between lines without saying so, and the trillion-dollar figures that circulate from an Inspector General report whose own footnote says its figures should not be added together.",
   "cite": [
    "e-902d4727c0",
    "e-eb0a34f7e0",
@@ -173,7 +173,7 @@
    ]
   },
   {
-   "text": "FASAB, which alone can amend the standard, has been chaired since April 2026 by Terry K. Patton, with R. Scott Bell, Eric S. Berman, Robert Dacey, Diane L. Dudley, Billy Morehead and David A. Vaudt as members.",
+   "text": "FASAB has been chaired since April 2026 by Terry K. Patton, with R. Scott Bell, Eric S. Berman, Robert Dacey, Diane L. Dudley, Billy Morehead and David A. Vaudt as members.",
    "cite": [
     "c-e1c06e24ca",
     "e-a2bd4aa2a7"
@@ -196,7 +196,7 @@
    ]
   },
   {
-   "text": "Classified money moves through channels the audit sees only in aggregate: annex tables that are binding as if printed in the law, 25 rows titled CLASSIFIED PROGRAMS in DoD accounts, intra-account movements of annex amounts that count against neither transfer ceiling, and intelligence reprogramming measured against levels that exist only in the annex.",
+   "text": "Classified money moves through channels published only in aggregate: annex tables that are binding as if printed in the law, 25 rows titled CLASSIFIED PROGRAMS in DoD accounts, intra-account movements of annex amounts that count against neither transfer ceiling, and intelligence reprogramming measured against levels that exist only in the annex.",
    "cite": [
     "c-89f93fe8f3",
     "e-b4a016d1a2",
@@ -207,7 +207,7 @@
    ]
   },
   {
-   "text": "The official now responsible for executing the money is recorded as Michael Powers, Acting Under Secretary of War (Comptroller) and CFO from 20 May 2026.",
+   "text": "The OSD Historical Office records Michael Powers as Acting Under Secretary of War (Comptroller) and CFO from 20 May 2026.",
    "cite": [
     "c-36d9e64d81"
    ]
@@ -265,7 +265,7 @@
    ]
   },
   {
-   "text": "The Department's own audit explainer, graded Tier 2 on the board, describes the universe of transactions and the Fund Balance with Treasury, an estimated $1 trillion, as standing material weaknesses. The board infers that without a complete transaction population no audit can prove that money did not reach an undisclosed activity.",
+   "text": "The Inspector General's explainer also lists, in two statements the board demotes to Tier 2 as an interested party's, the universe of transactions and the Fund Balance with Treasury, an estimated $1 trillion, as standing material weaknesses. The board infers that without a complete transaction population no audit can prove that money did not reach an undisclosed activity.",
    "cite": [
     "c-f371367f17",
     "c-5a29dfd873",
@@ -292,7 +292,7 @@
  ],
  "contested": [
   {
-   "text": "The trillion-dollar figures are not amounts of missing money. The Inspector General's own footnote says its figures are not cumulative, and the board reads the $21 trillion total as double-counting by construction, since the same dollars are adjusted repeatedly and the $6.5 trillion Army figure would be many times the Army General Fund's own appropriation.",
+   "text": "The trillion-dollar figures are adjustment volumes, not a sum shown to be missing: the Inspector General's footnote says its figures are not cumulative, and on the board's reading the $21 trillion total is double-counting by construction, since the same dollars are adjusted repeatedly and the $6.5 trillion Army figure would be many times the Army General Fund's own appropriation.",
    "cite": [
     "c-f302580144",
     "c-827cf2e4b8",
@@ -455,6 +455,7 @@
   }
  ],
  "questions": [
+  "Why does one Inspector General explainer carry both Tier 1 claims and two statements the board demotes to Tier 2 as an interested party's?",
   "Has FASAB issued any Interpretation under paragraph 8(c) of SFFAS 56, and what further modifications would it allow?",
   "Has any federal entity applied SFFAS 56, given that the standard forbids it to say so?",
   "Has anyone obtained the journal voucher detail behind any of the Inspector General's summary figures?",

@@ -35,7 +35,7 @@
  "notes": "Appendix T's nuclear-sites split by era: the nuclear register (47 witnesses) made the missile-field group the fourth largest community, and its incidents fall in two decades. Big Sur is here as a missile-test incident, with Kingston George's identification as the case against.",
  "appendixT": "nuclear-sites",
  "lead": {
-  "text": "In the missile fields and test ranges of the mid-1960s the Air Force's own paper records one event beyond dispute, the loss of strategic alert across every launch facility of Malmstrom's Echo Flight on 16 March 1967, and a dense Blue Book file on Minot in October 1968; around them sit a second Malmstrom shutdown claimed at Oscar Flight, which no released record mentions, and a 1964 missile-test film at Big Sur whose two participants disagree about what it showed.",
+  "text": "In the missile fields and test ranges of the mid-1960s the Air Force's own paper records one event beyond dispute, the loss of strategic alert across every launch facility of Malmstrom's Echo Flight on 16 March 1967, and a dense Blue Book file on Minot in October 1968; around them sit a second Malmstrom shutdown claimed at Oscar Flight, which no released record mentions, and a 1964 missile-test film at Big Sur two of whose participants disagree about what it showed.",
   "cite": [
    "c-d5553a98f7",
    "c-f0a907c1e1",
@@ -61,11 +61,14 @@
    ]
   },
   {
-   "text": "Minot and F. E. Warren: reports over Warren in 1965, over Minot in 1966 and the instrumented Minot B-52 case of 1968 give the board a run of contemporaneous official files at three missile wings.",
+   "text": "Warren and Minot: reports over Warren in 1965 and over Minot in 1966 and 1968 are known through a Blue Book log printed by Hynek, Air Force documents published in Hastings's archive, and the Minot case archive's index to the Blue Book file; with Malmstrom in 1967 the sequence spans three bases.",
    "cite": [
     "e-a1e8f8dd93",
     "e-026e662e22",
-    "e-a389e61911"
+    "e-a389e61911",
+    "c-8de9500e37",
+    "e-abc6efc425",
+    "c-2124f29127"
    ]
   },
   {
@@ -156,7 +159,7 @@
    ]
   },
   {
-   "text": "Catalogued from that file and associated traffic: Minot ground radar tracked an unidentified object and radioed it to the B-52H JAG 31; base weather radar also tracked it; the bomber's radio transmitter failed for four minutes; and Minuteman sites of N, O, J and M Flights reported sightings, security alarms at the silo rings, an outer door opened and an inner door's combination lock moved.",
+   "text": "NICAP's RADCAT directory, cataloguing that file and associated traffic, records that Minot ground radar tracked an unidentified object and radioed it to the B-52H JAG 31; base weather radar also tracked it; the bomber's radio transmitter failed for four minutes; and Minuteman sites of N, O, J and M Flights reported sightings, security alarms at the silo rings, an outer door opened and an inner door's combination lock moved.",
    "cite": [
     "c-21683a70d3",
     "c-63019abb86",
@@ -164,7 +167,7 @@
    ]
   },
   {
-   "text": "Project Blue Book did not send field investigators to Minot despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols; researchers have since located 108 and 141 documents on the case.",
+   "text": "The RADCAT directory records that Project Blue Book did not send field investigators to Minot despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols; researchers have since located 108 and 141 documents on the case.",
    "cite": [
     "c-80553bc19f",
     "e-3ad3b3a25b"
@@ -202,7 +205,8 @@
   {
    "text": "George's photograph caption also places Major Florenz Mansmann at the site.",
    "cite": [
-    "c-77b09411b2"
+    "c-77b09411b2",
+    "e-942134b4c4"
    ]
   }
  ],
@@ -269,7 +273,7 @@
    ]
   },
   {
-   "text": "The Warren reports reached the public by an official route: a Project Blue Book telephone log kept by Lt. Anspaugh records calls on 1 August 1965 from the base commander and others about objects over the Warren missile complex, and Blue Book's consultant J. Allen Hynek printed the summarising memorandum in 1972.",
+   "text": "The Warren reports reached the public through Project Blue Book's own consultant: a Project Blue Book telephone log kept by Lt. Anspaugh records calls on 1 August 1965 from the base commander and others about objects over the Warren missile complex, and Blue Book's consultant J. Allen Hynek printed the summarising memorandum in 1972.",
    "cite": [
     "c-9a77d2bbb0",
     "c-8de9500e37",
@@ -286,12 +290,13 @@
    ]
   },
   {
-   "text": "Jacobs says the film showed an object that manoeuvred around the warhead package and emitted four bright flashes, shaped like a classic flying saucer, after which the warhead tumbled out of suborbit short of its target. He published this under his own name in 1982 and 1989, years before any interviewer sought him out; the Disclosure Project's April 2001 Briefing Document prints his testimony dated November 2000.",
+   "text": "Jacobs says the film showed an object that manoeuvred around the warhead package and emitted four bright flashes, shaped like a classic flying saucer, after which the warhead tumbled out of suborbit short of its target. He published his account under his own name in 1982 and 1989, the version quoted here being the 1989 article, years before any interviewer sought him out; the Disclosure Project's April 2001 Briefing Document prints his testimony dated November 2000.",
    "cite": [
     "c-9436ca690c",
     "c-53b963bb56",
     "c-9e01a79d2d",
-    "c-e6f5b07de7"
+    "c-e6f5b07de7",
+    "c-affa575b2e"
    ]
   },
   {
@@ -483,7 +488,7 @@
   },
   {
    "id": "robert-hastings",
-   "role": "researcher"
+   "role": "investigator"
   },
   {
    "id": "john-greenewald",

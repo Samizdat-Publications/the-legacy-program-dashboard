@@ -27,11 +27,12 @@
  "notes": "The 19 September propulsion pass found each document says less than is claimed for it.",
  "appendixT": "propulsion-claims",
  "lead": {
-  "text": "Accounts of recovered or reverse-engineered craft lean on named physics: the Biefeld-Brown effect, Alcubierre's warp metric, magnetohydrodynamics, antigravity. NASA's own propulsion project ruled on several of these by name, and on the board's reading each document cited for a mechanism, once opened, says less than is claimed for it.",
+  "text": "The UAP literature invokes named physics for exotic propulsion: the Biefeld-Brown effect, Alcubierre's warp metric, antigravity, and a magnetohydrodynamic patent offered as evidence for a claimed craft's drawing. NASA's own propulsion project ruled on several of these by name, and on the board's reading each document cited for a mechanism, once opened, says less than is claimed for it.",
   "cite": [
    "c-859ce408c8",
    "c-8bda8ea947",
    "c-d7ade2ebfb",
+   "e-fffece6570",
    "c-e2b8df3ec4",
    "c-5bfcd43634"
   ]
@@ -119,7 +120,7 @@
    ]
   },
   {
-   "text": "Magnetohydrodynamic ship propulsion was built in public: the Ship and Ocean Foundation's Yamato-1 became the first superconducting MHD-propelled ship on her trial runs in June 1992, reported by the project's principals at a 1994 conference.",
+   "text": "Magnetohydrodynamic ship propulsion was built by a civil foundation: in its principals' own words, the Ship and Ocean Foundation's Yamato-1 became the world's first superconducting MHD-propelled ship on her trial runs in June 1992, reported at a 1994 conference.",
    "cite": [
     "c-39340618f9",
     "c-4ec6656af8"
@@ -147,7 +148,7 @@
    ]
   },
   {
-   "text": "The warp drive DIRD of April 2010 builds on Alcubierre as its first reference, prints the negative energy its warp bubble would require in two tables, and describes control of higher dimensions as a possibility worth investigating, not a result. DIA's list names R. Obousy as author and EarthTech's own list gives Obousy and Davis.",
+   "text": "The warp drive DIRD of April 2010 builds on Alcubierre as its first reference, prints the negative energy its warp bubble would require in two tables, and describes control of higher dimensions as a possibility worth investigating, not a result. EarthTech's own list gives Obousy and Davis as authors, and Davis is not the name DIA recorded on its list to Congress.",
    "cite": [
     "c-bba2e08984",
     "e-b84393e85b",
@@ -158,7 +159,7 @@
    ]
   },
   {
-   "text": "George Hathaway is the author of record of two DIRDs, one on superconductors in gravity research and one on maverick versus corporate inventors. Millis wrote Cockpits in the Era of Breakthrough Flight, and had co-edited Frontiers of Propulsion Science with Davis in 2009; Davis's vacuum-energy DIRD repeats an argument he and Puthoff published in that volume.",
+   "text": "George Hathaway is the author of record of two DIRDs, one on superconductors in gravity research and one on maverick versus corporate inventors. Cockpits in the Era of Breakthrough Flight is attributed on DIA's list to Dr G Millis of Tau Zero, whom the board identifies as Marc Millis; Millis had co-edited Frontiers of Propulsion Science with Davis in 2009, and Davis's vacuum-energy DIRD repeats an argument he and Puthoff published in that volume.",
    "cite": [
     "c-1bf6d51825",
     "c-abc82c84f7",
@@ -173,7 +174,7 @@
    ]
   },
   {
-   "text": "The DIRDs are AAWSAP's contract deliverables, 26 from FY2009 and 12 from FY2010; the solicitation names Dr. James T. Lacatski as Government Project Leader.",
+   "text": "The DIRDs are AAWSAP's contract deliverables, 26 from FY2009 and 12 from FY2010; the solicitation names Lacatski as Government Project Leader.",
    "cite": [
     "e-00dc3b6ebb",
     "c-e085ac1261",
@@ -185,7 +186,8 @@
    "text": "Brown's 1947 vibration-damper patent was assigned to Lockheed Aircraft Corporation, and the Navy's inertial mass reduction patent cites Puthoff's polarizable-vacuum paper on its front page.",
    "cite": [
     "e-a3349f8440",
-    "e-43262f2737"
+    "e-43262f2737",
+    "c-9bf4a89ef7"
    ]
   },
   {
@@ -203,7 +205,7 @@
    ]
   },
   {
-   "text": "King's 1967 patent was put forward in a discussion thread as ample evidence that a Scalar Physics callout on the ARV drawing refers to spin-zero particles.",
+   "text": "King's 1967 patent was put forward as ample evidence that a Scalar Physics callout on the ARV drawing refers to spin-zero particles.",
    "cite": [
     "e-fffece6570",
     "c-fe53bb50b0"
@@ -267,7 +269,7 @@
    ]
   },
   {
-   "text": "Hathaway ran the Podkletnov rotating-superconductor experiment from 1996 to 2003 and reported null results, and DIA then commissioned the superconductor review from him. Neither his Maverick Inventor DIRD nor NASA's survey mentions the Hutchison effect.",
+   "text": "Hathaway is reported to have run the Podkletnov rotating-superconductor experiment from 1996 to 2003 and obtained null results, and DIA then commissioned the superconductor review from him. Neither his Maverick Inventor DIRD nor NASA's survey mentions the Hutchison effect.",
    "cite": [
     "c-d9d0bfeb7d",
     "c-ca79a374f0",
@@ -291,10 +293,23 @@
    ]
   },
   {
-   "text": "The attributions themselves are contested: the DIA list names Obousy, not Davis, for the warp drive paper, and the identification of the redacted AAWSA programme manager as Lacatski is not established by any primary document the board has reached.",
+   "text": "The attributions themselves are uncertain: Davis is a co-author of the warp drive paper, not its sole author, and is not the name DIA recorded; and although the solicitation names Lacatski as Government Project Leader, no primary document the board has reached names him as the programme manager redacted on the released DIRDs.",
    "cite": [
-    "c-5972eead09",
+    "e-63714edf5d",
+    "c-e085ac1261",
     "c-e588d31a86"
+   ]
+  },
+  {
+   "text": "The JASON advisory group's 2008 assessment of a high-frequency gravitational wave concept concluded that the proposed applications of the science are fundamentally wrong, a critique published before DIA accepted a reference document on the subject.",
+   "cite": [
+    "c-fb09fc8b38"
+   ]
+  },
+  {
+   "text": "DIA located no records of the 19 June 2007 letter from Lacatski to Bigelow described in the book Skinwalkers at the Pentagon, and the appeal also returned none.",
+   "cite": [
+    "c-81c9b24315"
    ]
   }
  ],
