@@ -561,6 +561,8 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 .report .rtier.n1 { color: #17667a; }
 .report .rtier.n2 { color: #8a6413; }
 .report .rtier.n3 { color: var(--paper-dim); }
+.report .said-mark { color: #7a4d00; border-color: #b07a1e; }
+.report .said-key { color: var(--paper-dim); margin: 0 0 10px; }
 .report .rdenial { border-left: 2px solid #a8392f; padding-left: 10px; margin-bottom: 8px; }
 .report .rconns { columns: 2; column-gap: 26px; }
 .report .rconns div { break-inside: avoid; margin-bottom: 4px; }

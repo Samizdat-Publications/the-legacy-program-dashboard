@@ -85,3 +85,14 @@ export function saidMark(kind: Said): HTMLElement | null {
   if (!kind) return null;
   return h('span', { class: 'said-mark', 'data-said': kind, title: SAID_TITLE[kind] }, SAID_LABEL[kind]);
 }
+
+/* The key to the marks, for any surface that draws them: what each one means. */
+export function saidKey(kinds: Iterable<Said>): HTMLElement | null {
+  const have = new Set(kinds);
+  const key = h('div', { class: 'said-key dim' });
+  for (const k of ['said', 'office'] as const) {
+    if (!have.has(k)) continue;
+    key.append(h('div', null, h('span', { class: 'said-mark key' }, SAID_LABEL[k]), SAID_TITLE[k]));
+  }
+  return key.childNodes.length ? key : null;
+}

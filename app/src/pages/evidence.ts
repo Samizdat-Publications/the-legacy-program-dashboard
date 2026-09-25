@@ -20,7 +20,7 @@ import '../styles/evidence.css';
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import { loadClaims, loadNode, clsColour, type ClaimRow, type NodeRecord } from '../data';
-import { saidKind, saidMark } from '../attrib';
+import { saidKind, saidMark, saidKey } from '../attrib';
 import {
   loadFoia, readFilters, filterRows, facets, chipHref, clearHref, activeCount, fmt,
   NO_DOMAIN, KEYS, type Filters, type Facet, type Key, type FoiaFile, type FoiaEntry,
@@ -111,6 +111,8 @@ export async function renderEvidence(view: HTMLElement, q: URLSearchParams): Pro
   for (const k of KEYS) if (f[k] != null) active.push(k + ' = ' + f[k]);
   if (active.length) head.append(h('span', { class: 'ev-active amber' }, active.join('  ·  ')));
   main.append(head);
+  const key = saidKey(['said', 'office']);
+  if (key) main.append(key);
 
   if (!shown.length) {
     main.append(h('p', { class: 'ev-note dim' },

@@ -37,6 +37,28 @@ export function renderSmallMap(
   const colW = Math.max(46, (width - BAND_COL) / eras.length);
   const boardW = BAND_COL + colW * eras.length;
 
+  /* A band row is as tall as its fullest cell needs, so a chip that wraps to a
+     second line stays inside its own band instead of landing in the next one
+     (blind critic round 2: step 5 moved rows with the window width). */
+  const perRow = Math.max(1, Math.floor((colW - 8) / (CHIP_W + CHIP_GAP)));
+  const counts = new Map<string, number>();
+  for (const s of thread.steps) {
+    const g = gridNode.get(s.node);
+    const meta = byId.get(s.node);
+    const key = (g ? g.band : FLOOR) + '.' + (g ? g.era : meta ? meta.era : eras[eras.length - 1].id);
+    counts.set(key, (counts.get(key) || 0) + 1);
+  }
+  const rowH = rows.map((b) => {
+    let most = 0;
+    for (const [k, n] of counts) if (k.slice(0, k.lastIndexOf('.')) === b) most = Math.max(most, n);
+    const lines = Math.max(1, Math.ceil(most / perRow));
+    return Math.max(ROW_H, 5 + lines * (CHIP_H + 2) + 7);
+  });
+  const rowTop: number[] = [];
+  let acc = HEAD_H;
+  for (const hh of rowH) { rowTop.push(acc); acc += hh; }
+  const rowsH = acc - HEAD_H;
+
   /* Which cell each step belongs in, and how the chips stack inside it. */
   const perCell = new Map<string, number>();
   const slots: Slot[] = [];
@@ -52,7 +74,6 @@ export function renderSmallMap(
     perCell.set(key, k + 1);
     const ri = Math.max(0, rows.indexOf(band));
     const ci = Math.max(0, eras.findIndex((e) => e.id === era));
-    const perRow = Math.max(1, Math.floor((colW - 8) / (CHIP_W + CHIP_GAP)));
     const sub = Math.floor(k / perRow);
     const col = k % perRow;
     slots.push({
@@ -61,11 +82,11 @@ export function renderSmallMap(
       band,
       era,
       x: BAND_COL + ci * colW + 4 + col * (CHIP_W + CHIP_GAP),
-      y: HEAD_H + ri * ROW_H + 5 + sub * (CHIP_H + 2),
+      y: rowTop[ri] + 5 + sub * (CHIP_H + 2),
     });
   });
 
-  const boardH = HEAD_H + rows.length * ROW_H + 8;
+  const boardH = HEAD_H + rowsH + 8;
   const board = h('div', {
     class: 'tm-board',
     style: 'width:' + Math.round(boardW) + 'px;height:' + boardH + 'px',
@@ -79,7 +100,7 @@ export function renderSmallMap(
     }, e.label));
     board.append(h('i', {
       class: 'tm-vline', 'aria-hidden': 'true',
-      style: 'left:' + (BAND_COL + ci * colW) + 'px;top:' + HEAD_H + 'px;height:' + (rows.length * ROW_H) + 'px',
+      style: 'left:' + (BAND_COL + ci * colW) + 'px;top:' + HEAD_H + 'px;height:' + rowsH + 'px',
     }));
   });
   rows.forEach((b, ri) => {
@@ -88,11 +109,11 @@ export function renderSmallMap(
       : (grid.bands.filter((x) => x.id === b)[0] || { label: b }).label;
     board.append(h('div', {
       class: 'tm-bandhead' + (b === FLOOR ? ' floor' : ''),
-      style: 'top:' + (HEAD_H + ri * ROW_H) + 'px;height:' + ROW_H + 'px;width:' + (BAND_COL - 6) + 'px',
+      style: 'top:' + rowTop[ri] + 'px;height:' + rowH[ri] + 'px;width:' + (BAND_COL - 6) + 'px',
     }, label));
     board.append(h('i', {
       class: 'tm-hline' + (b === FLOOR ? ' floor' : ''), 'aria-hidden': 'true',
-      style: 'top:' + (HEAD_H + ri * ROW_H) + 'px;width:' + Math.round(boardW) + 'px',
+      style: 'top:' + rowTop[ri] + 'px;width:' + Math.round(boardW) + 'px',
     }));
   });
 

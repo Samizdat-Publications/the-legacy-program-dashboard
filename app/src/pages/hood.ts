@@ -306,11 +306,11 @@ function buildLegend(el: HTMLElement): void {
   const item = (cls: string, text: string) =>
     h('span', { class: 'hood-leg' }, h('i', { class: 'sw ' + cls }), h('span', { class: 'dim' }, text));
   el.append(
-    item('solid cyan', 'a member too minor for the program map'),
-    item('dash cyan', 'a sourced link, coloured by its kind'),
+    item('solid cyan', 'part of this node, not on the map itself'),
+    item('dash cyan', 'a sourced link, coloured by kind'),
     item('dash red', 'a denial'),
     item('dash amber', 'custody or funding'),
-    item('dot grey', 'two steps away, through a shared member'),
+    item('dot grey', 'two steps away, via a shared member'),
   );
 }
 

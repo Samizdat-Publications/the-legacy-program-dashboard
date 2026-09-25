@@ -41,7 +41,9 @@
   color: var(--dim);
   padding: 2px 7px;
 }
-.ev-chip { max-width: 100%; overflow-wrap: anywhere; }
+.ev-chip { max-width: 100%; }
+.ev-chip .ev-chip-l { overflow-wrap: anywhere; min-width: 0; }
+.ev-chip .ev-chip-n { white-space: nowrap; }
 .ev-chip:hover { border-color: var(--line2); color: var(--text); text-decoration: none; }
 .ev-chip.on { border-color: var(--cyan); background: var(--panel2); color: var(--text); }
 .ev-chip .ev-chip-n { color: var(--faint); }

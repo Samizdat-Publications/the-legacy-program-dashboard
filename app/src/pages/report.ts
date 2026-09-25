@@ -4,7 +4,7 @@
  * stands. Numbered superscripts in the body, the citations at the foot. Every
  * citation is the source string the board already carries; none is composed here.
  */
-import { saidKind, saidMark } from '../attrib';
+import { saidKind, saidMark, saidKey } from '../attrib';
 import { h, clear } from '../dom';
 import { setTitle } from '../router';
 import {
@@ -59,6 +59,8 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
   const claims = (rec.claims || []).slice().sort((a, b) => Number(a.tier) - Number(b.tier));
   if (claims.length) {
     paper.append(h('h2', null, 'Claims by tier'));
+    const key = saidKey(claims.map((c) => { const s = claimSource(c.source); return saidKind(Number(c.tier), c.text, s.text, s.url); }));
+    if (key) paper.append(key);
     const ol = h('ol', { class: 'rclaims' });
     for (const c of claims) {
       const src = claimSource(c.source);

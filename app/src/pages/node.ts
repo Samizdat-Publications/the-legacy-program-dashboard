@@ -17,7 +17,7 @@ import {
 } from '../data';
 import { notFound } from './notfound';
 import { groupConnections, renderConnGroups } from './connections';
-import { saidKind, saidMark, SAID_LABEL, SAID_TITLE } from '../attrib';
+import { saidKind, saidMark, saidKey } from '../attrib';
 
 const AXES: [keyof Pick<NodeRecord, 'C' | 'A' | 'D'>, string][] = [
   ['C', 'custody proximity'],
@@ -158,14 +158,8 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   ));
   /* the key to the mark, where the page carries one (attrib.ts) */
   const kinds = new Set(claims.map((c) => { const s = claimSource(c.source); return saidKind(Number(c.tier), c.text, s.text, s.url); }).filter(Boolean));
-  if (kinds.size) {
-    const key = h('div', { class: 'said-key dim' });
-    for (const k of ['said', 'office'] as const) {
-      if (!kinds.has(k)) continue;
-      key.append(h('div', null, h('span', { class: 'said-mark key' }, SAID_LABEL[k]), SAID_TITLE[k]));
-    }
-    main.append(key);
-  }
+  const key = saidKey(kinds);
+  if (key) main.append(key);
   const list = h('div', { class: 'claims' });
   for (const tier of [1, 2, 3]) {
     for (const c of byTier[tier]) {
