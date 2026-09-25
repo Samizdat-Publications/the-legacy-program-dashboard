@@ -163,9 +163,17 @@ X["status_semantics"] = {"vocab": dict(Counter(p["status"] for p in P)),
                          "editorial_values": ["fabricated", "resolved", "unknown"]}
 
 # 9. duplicates the detector misses
-X["duplicate_documents_not_flagged"] = [{"a": "gao-nsiad-95-187", "b": "gao-roswell-report-1995",
-                                          "why": "both labels carry GAO/NSIAD-95-187; sources differ (gao.gov vs govinfo.gov) so merge.duplicate_groups, which requires a shared URL, does not pair them",
-                                          "a_label": BY["gao-nsiad-95-187"]["label"][:80], "b_label": BY["gao-roswell-report-1995"]["label"][:80]}]
+# The 24 September census found gao-roswell-report-1995 duplicating gao-nsiad-95-187. Phase 4
+# (25 September 2026) collapsed it into an alias in research/_removed.json, so the pair is now
+# reported through the alias table rather than by reading a node that no longer exists.
+ALIAS = rd("research/_removed.json").get("alias", {})
+X["duplicate_documents_not_flagged"] = [
+    {"a": a, "b": b,
+     "why": "both labels carry GAO/NSIAD-95-187; sources differ (gao.gov vs govinfo.gov) so merge.duplicate_groups, which requires a shared URL, does not pair them",
+     "resolved_by_alias": ALIAS.get(b) == a,
+     "a_label": BY[a]["label"][:80] if a in BY else None,
+     "b_label": BY[b]["label"][:80] if b in BY else None}
+    for a, b in (("gao-nsiad-95-187", "gao-roswell-report-1995"),)]
 
 # 10. manual adjudication of the top-40 cited documents (MANUAL, by reading ids/labels)
 MANUAL = {
@@ -176,7 +184,7 @@ MANUAL = {
     "CHRG-118hhrg53022": ("event only", "hearing-2023-07-26"),
     "DODD 5205.07": ("yes", "dodd-5205-07-2010, dodd-5205-07-2024"),
     "CHRG-118hhrg57440": ("event only", "hearing-2024-11-13"),
-    "GAO-NSIAD-95-187": ("yes, twice", "gao-nsiad-95-187 AND gao-roswell-report-1995 (duplicate)"),
+    "GAO-NSIAD-95-187": ("yes", "gao-nsiad-95-187 (gao-roswell-report-1995 is its alias since phase 4)"),
     "archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt": ("yes", "disclosure-project-briefing-2001"),
     "S 2226": ("yes", "s2226-118"),
     "irp.fas.org/dia/aatip-list.pdf": ("yes", "dia-aatip-list-2019 (its own first source is a different fas.org URL)"),
