@@ -292,7 +292,7 @@
   "year",
   "ranged"
  ],
- "source": "90ecec93ba8e",
+ "source": "ea30b8760839",
  "strandAliases": {
   "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",
   "disclosure": "program",
@@ -309,5 +309,51 @@
   "A",
   "B",
   "C"
+ ],
+ "topicKinds": [
+  {
+   "blurb": "a dated event or encounter",
+   "id": "incident"
+  },
+  {
+   "blurb": "an official effort",
+   "id": "programme"
+  },
+  {
+   "blurb": "a claim about custody or a hidden effort, framed as what is claimed",
+   "id": "allegation"
+  },
+  {
+   "blurb": "how secrecy, law or money works",
+   "id": "mechanism"
+  },
+  {
+   "blurb": "congressional or legal proceedings, including the bills they produce",
+   "id": "hearing"
+  },
+  {
+   "blurb": "a person-centred story",
+   "id": "saga"
+  },
+  {
+   "blurb": "a document trail",
+   "id": "document"
+  },
+  {
+   "blurb": "an organisation's or a place's history",
+   "id": "institution"
+  },
+  {
+   "blurb": "a country's record",
+   "id": "nation"
+  },
+  {
+   "blurb": "media and civilian research",
+   "id": "movement"
+  },
+  {
+   "blurb": "a concept or a method the reader needs, not a story (added in phase 4 for the domain nodes that become topics)",
+   "id": "explainer"
+  }
  ]
 }

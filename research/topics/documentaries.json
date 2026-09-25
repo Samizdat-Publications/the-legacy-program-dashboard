@@ -1,0 +1,24 @@
+{
+ "id": "documentaries",
+ "title": "Documentaries and books",
+ "kind": "movement",
+ "section": "media-movement",
+ "span": {
+  "from": "1950",
+  "to": "2026"
+ },
+ "focusEra": "3",
+ "anchors": [
+  "age-of-disclosure",
+  "dan-farah",
+  "unidentified-history-series",
+  "imminent-book",
+  "reckoning-book",
+  "bryce-zabel"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "The Age of Disclosure twins are one node since phase 4. Books that anchor another topic (Scully, The Roswell Incident, Clear Intent) stay with that topic.",
+ "appendixT": "documentaries"
+}

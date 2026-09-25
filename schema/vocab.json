@@ -91,5 +91,18 @@
  "precisions": ["day", "month", "year", "ranged"],
  "nodeTiers": ["A", "B", "C"],
  "claimTierWords": {"documented": 1, "sworn": 2, "reported": 2, "alleged": 3},
- "timelineGrades": ["A", "B", "C"]
+ "timelineGrades": ["A", "B", "C"],
+ "topicKinds": [
+  {"id": "incident", "blurb": "a dated event or encounter"},
+  {"id": "programme", "blurb": "an official effort"},
+  {"id": "allegation", "blurb": "a claim about custody or a hidden effort, framed as what is claimed"},
+  {"id": "mechanism", "blurb": "how secrecy, law or money works"},
+  {"id": "hearing", "blurb": "congressional or legal proceedings, including the bills they produce"},
+  {"id": "saga", "blurb": "a person-centred story"},
+  {"id": "document", "blurb": "a document trail"},
+  {"id": "institution", "blurb": "an organisation's or a place's history"},
+  {"id": "nation", "blurb": "a country's record"},
+  {"id": "movement", "blurb": "media and civilian research"},
+  {"id": "explainer", "blurb": "a concept or a method the reader needs, not a story (added in phase 4 for the domain nodes that become topics)"}
+ ]
 }

@@ -1,0 +1,19 @@
+{
+ "id": "missing-scientists",
+ "title": "Deaths and disappearances: the scientists probe",
+ "kind": "saga",
+ "section": "congress-disclosure",
+ "span": {
+  "from": "2026",
+  "to": "2026"
+ },
+ "focusEra": "3",
+ "anchors": [
+  "missing-scientists-probe-2026"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "The scientists thread. Moved from Appendix T's media section to Congress: the node is a House Oversight probe. It overlaps The Vanishing at Amy Eskridge only.",
+ "appendixT": "missing-scientists"
+}

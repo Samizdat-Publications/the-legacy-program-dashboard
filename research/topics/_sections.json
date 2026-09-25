@@ -1,0 +1,65 @@
+{
+ "_what": "The Atlas sections (redesign phase 4, task 3). Authored. Order is the row order of the Atlas; every topic stub names one of these ids in its `section`.",
+ "sections": [
+  {
+   "id": "early-record",
+   "title": "The early record, 1944-1969",
+   "order": 1,
+   "blurb": "Roswell and the other crash stories, the Air Force projects from Sign to Blue Book, the CIA's Robertson Panel and the Condon Committee: the record as it stood when the official study closed."
+  },
+  {
+   "id": "secrecy-machinery",
+   "title": "The secrecy machinery: law, classification and money",
+   "order": 2,
+   "blurb": "How secrecy is built: the National Security Act, the classification orders, special access programmes and who must be told about them, the classified budget and the audits that cannot trace it."
+  },
+  {
+   "id": "custody-allegations",
+   "title": "The custody allegations",
+   "order": 3,
+   "blurb": "The claim at the centre of the board, that recovered craft and material are held and studied outside congressional oversight, told allegation by allegation with the case against each."
+  },
+  {
+   "id": "official-study",
+   "title": "Official study programmes",
+   "order": 4,
+   "blurb": "What the government has run to study the subject since 1970: remote viewing, AAWSAP and AATIP, the UAP Task Force, AARO, NASA's study and the 2026 releases."
+  },
+  {
+   "id": "encounters-witnesses",
+   "title": "Encounters and witnesses",
+   "order": 5,
+   "blurb": "The encounters the record documents best, from the missile fields of the 1960s to the Navy carrier groups, and the people who have testified about them, with how each account reached the record."
+  },
+  {
+   "id": "congress-disclosure",
+   "title": "Congress and the disclosure fight",
+   "order": 6,
+   "blurb": "Congress before and after 2017: the hearings, the statutes, the UAP Disclosure Act, the records collection, whistleblower law and the 2025 and 2026 House push."
+  },
+  {
+   "id": "science-technology",
+   "title": "Science, technology and patents",
+   "order": 7,
+   "blurb": "Academic study of the subject, the physics claims and what the documents actually say, the Navy patents, the 1950s gravity research, specimen analyses and medical effects."
+  },
+  {
+   "id": "case-against",
+   "title": "Disinformation, fabrication and the case against",
+   "order": 8,
+   "blurb": "The Kirtland affair, Dulce, the Majestic-12 papers, perception management, the official explanations and the sceptics: where the record shows deception, and where it shows the claim fails."
+  },
+  {
+   "id": "other-nations",
+   "title": "Other nations",
+   "order": 9,
+   "blurb": "The governmental record outside the United States: France, Britain, Brazil, Canada, the Soviet Union, Chile and Peru, and how other governments organise a UAP office."
+  },
+  {
+   "id": "media-movement",
+   "title": "Media, civilian research and the movement",
+   "order": 10,
+   "blurb": "The broadcasters, podcasts and newspapers that carried the story, the civilian research groups, and the documentaries and books."
+  }
+ ]
+}

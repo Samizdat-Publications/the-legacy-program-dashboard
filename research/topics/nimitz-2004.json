@@ -1,0 +1,28 @@
+{
+ "id": "nimitz-2004",
+ "title": "USS Nimitz, November 2004",
+ "kind": "incident",
+ "section": "encounters-witnesses",
+ "span": {
+  "from": "2004",
+  "to": "2020"
+ },
+ "focusEra": "2",
+ "anchors": [
+  "nimitz-2004",
+  "david-fravor",
+  "alex-dietrich",
+  "kevin-day",
+  "gary-voorhis",
+  "chad-underwood",
+  "flir1-video",
+  "uss-princeton",
+  "l-socal-oparea",
+  "vfa-41"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "The best-documented encounter on the board, with its witnesses and the FLIR1 video.",
+ "appendixT": "nimitz-2004"
+}

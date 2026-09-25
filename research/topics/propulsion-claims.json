@@ -1,0 +1,29 @@
+{
+ "id": "propulsion-claims",
+ "title": "Propulsion and exotic-physics claims, and what the documents say",
+ "kind": "allegation",
+ "section": "science-technology",
+ "span": {
+  "from": "1994",
+  "to": "2026"
+ },
+ "focusEra": "2",
+ "anchors": [
+  "alcubierre-1994",
+  "nasa-bpp",
+  "marc-millis",
+  "millis-tm-2004-213082",
+  "canning-nasa-cr-2004-213312",
+  "king-patent-mhd",
+  "george-hathaway",
+  "yamato-1"
+ ],
+ "absorbs": [
+  "d-prop",
+  "d-exotic"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "The 19 September propulsion pass found each document says less than is claimed for it.",
+ "appendixT": "propulsion-claims"
+}

@@ -1,0 +1,33 @@
+{
+ "id": "astronomers-searches",
+ "title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO",
+ "kind": "programme",
+ "section": "science-technology",
+ "span": {
+  "from": "2017",
+  "to": "2026"
+ },
+ "focusEra": "3",
+ "anchors": [
+  "galileo-project",
+  "avi-loeb",
+  "im1-pacific-expedition-2023",
+  "threei-atlas-2025",
+  "amir-siraj",
+  "harvard-cfa",
+  "wesley-watters",
+  "sarah-little",
+  "richard-cloete",
+  "beatriz-villarroel",
+  "paper-villarroel-bruehl-2025",
+  "vasco-project",
+  "stephen-bruehl"
+ ],
+ "absorbs": [
+  "d-astro"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "Split from Appendix T's academic-science: the astronomers' instrument searches are a distinct group from the Sol and Nolan circle, and each reaches six members on its own.",
+ "appendixT": "academic-science"
+}

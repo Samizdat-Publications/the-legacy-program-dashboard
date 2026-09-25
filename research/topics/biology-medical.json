@@ -1,0 +1,28 @@
+{
+ "id": "biology-medical",
+ "title": "Claims of biologics, and documented medical effects",
+ "kind": "allegation",
+ "section": "science-technology",
+ "span": {
+  "from": "1980",
+  "to": "2026"
+ },
+ "focusEra": "2",
+ "anchors": [
+  "cash-v-united-states",
+  "betty-cash",
+  "dird-green-clinical-medical",
+  "dird-anomalous-acute-and-subacute-field-effects",
+  "kit-green",
+  "armed-forces-institute-of-pathology"
+ ],
+ "absorbs": [
+  "d-bio",
+  "d-medical",
+  "d-plasma"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "Kept although Appendix T expected it to be thin: Cash-Landrum and the AAWSAP medical work carry it past six.",
+ "appendixT": "biology-medical"
+}

@@ -1,0 +1,26 @@
+{
+ "id": "navy-patents",
+ "title": "The Navy's Pais patents, and invention secrecy",
+ "kind": "document",
+ "section": "science-technology",
+ "span": {
+  "from": "2015",
+  "to": "2026"
+ },
+ "focusEra": "3",
+ "anchors": [
+  "salvatore-pais",
+  "pais-patent-imrd",
+  "pais-patent-hfgw",
+  "pais-patent-emfg",
+  "pais-app-fusion",
+  "pais-app-superconductor",
+  "pax-205-disclosure",
+  "invention-secrecy-act"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "The Patents pages already carry the file wrapper; no Pais edges to AATIP or any DIRD (do not undo). Thread patents.",
+ "appendixT": "navy-patents"
+}

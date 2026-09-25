@@ -1,0 +1,25 @@
+{
+ "id": "sceptics",
+ "title": "Sceptics and debunkers",
+ "kind": "movement",
+ "section": "case-against",
+ "span": {
+  "from": "1953",
+  "to": "2026"
+ },
+ "focusEra": "1",
+ "anchors": [
+  "donald-h-menzel",
+  "philip-j-klass",
+  "tom-mahood",
+  "will-miller",
+  "keith-kloor",
+  "david-clarke-uk",
+  "checktheevidence"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "Canon 7 (Sagan and the Robertson-era scientists) extends it.",
+ "appendixT": "sceptics"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "classification-orders",
+ "title": "Classification orders from EO 10501 to EO 13526",
+ "kind": "mechanism",
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1953",
+  "to": "2009"
+ },
+ "focusEra": "1",
+ "anchors": [
+  "eo-10501",
+  "eo-11652",
+  "eo-12065",
+  "eo-12356",
+  "eo-12036",
+  "eo-13526",
+  "isoo",
+  "capco-register",
+  "odni-capco"
+ ],
+ "absorbs": [
+  "d-secrecy",
+  "d-policy"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "The executive orders that define classification, with ISOO and the CAPCO register that administer it; the orders form a chain of their own in the secrecy-architecture community.",
+ "appendixT": "classification-orders"
+}

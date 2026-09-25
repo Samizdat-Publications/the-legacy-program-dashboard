@@ -1,0 +1,22 @@
+{
+ "id": "kona-blue",
+ "title": "KONA BLUE (2011)",
+ "kind": "allegation",
+ "section": "custody-allegations",
+ "span": {
+  "from": "2010",
+  "to": "2024"
+ },
+ "focusEra": "2",
+ "anchors": [
+  "kona-blue",
+  "aaro-kona-blue-release",
+  "dhs",
+  "dhs-st"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "Start-here flag 10.",
+ "appendixT": "kona-blue"
+}

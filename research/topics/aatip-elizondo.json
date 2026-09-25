@@ -1,0 +1,32 @@
+{
+ "id": "aatip-elizondo",
+ "title": "AATIP and Luis Elizondo",
+ "kind": "saga",
+ "section": "official-study",
+ "span": {
+  "from": "2008",
+  "to": "2024"
+ },
+ "focusEra": "3",
+ "anchors": [
+  "aatip",
+  "luis-elizondo",
+  "elizondo-resignation-letter-1",
+  "elizondo-resignation-letter-2",
+  "elizondo-dodig-complaint-2021",
+  "dia-aatip-letter-2018",
+  "ousdi-atl-memo-2010",
+  "five-observables",
+  "imminent-book",
+  "garry-reid",
+  "garry-reid-memo-2017"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "Appendix T's five-observables merged in: it is three edges on the board and the observables are Elizondo's framing; the content stays in research/observables-view.json.",
+ "appendixT": "aatip-elizondo",
+ "mergedFrom": [
+  "five-observables"
+ ]
+}

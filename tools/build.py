@@ -16,8 +16,11 @@ THE ORDER, AND WHY IT IS THIS ORDER
   build_design_extract  data/design-extract.json, which build_l0_layout reads
   build_l0_layout.mjs   data/l0-layout-model.json, Design's packed layout
   build_foia_links      data/foia-links.json, from the FOIA letters and l0-model.json
-  build_app_data        app/public/data/, what the shipped app reads. Last, because
-                        it reads everything above it
+  build_app_data        app/public/data/, what the shipped app reads. It reads
+                        everything above it
+  propose_members       research/topics/_proposals.json, the topic membership
+                        proposals (redesign phase 4). Last, because it reads the
+                        shipped board that build_app_data has just written
 
 Until 25 September 2026 this was tools/build.sh, which ended in build_dashboard.py:
 the old single-file shell, which also ran the FOIA step inside itself. The old shell
@@ -40,6 +43,7 @@ STEPS = (
     ("build_l0_layout", ["build_l0_layout.mjs"]),
     ("build_foia_links", ["build_foia_links.py"]),
     ("build_app_data", ["build_app_data.py"]),
+    ("propose_members", ["topics/propose_members.py"]),
 )
 
 

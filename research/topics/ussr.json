@@ -1,0 +1,26 @@
+{
+ "id": "ussr",
+ "title": "The USSR: SETKA and the Soviet programmes",
+ "kind": "nation",
+ "section": "other-nations",
+ "span": {
+  "from": "1977",
+  "to": "1996"
+ },
+ "focusEra": "1",
+ "anchors": [
+  "setka-program",
+  "soyuzufotsentr",
+  "vladimir-azhazha",
+  "institute-22",
+  "izmiran",
+  "yury-platov",
+  "ev-petrozavodsk-1977",
+  "l-moscow"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "SETKA and the Soviet and Russian programmes.",
+ "appendixT": "ussr"
+}

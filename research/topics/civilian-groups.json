@@ -1,0 +1,32 @@
+{
+ "id": "civilian-groups",
+ "title": "Civilian research groups and the disclosure movement",
+ "kind": "movement",
+ "section": "media-movement",
+ "span": {
+  "from": "1956",
+  "to": "2026"
+ },
+ "focusEra": "1",
+ "anchors": [
+  "nicap",
+  "donald-keyhoe",
+  "mufon",
+  "mufon-sip",
+  "cufos",
+  "fund-for-ufo-research",
+  "nufohrc",
+  "stanton-friedman",
+  "jacques-vallee",
+  "richard-dolan",
+  "stan-gordon",
+  "skywatcher"
+ ],
+ "absorbs": [
+  "d-disclosure"
+ ],
+ "essays": [],
+ "status": "draft",
+ "notes": "NICAP, MUFON, CUFOS and the civilian investigators, with the disclosure-movement domain node.",
+ "appendixT": "civilian-groups"
+}

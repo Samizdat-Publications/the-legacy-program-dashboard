@@ -1,0 +1,32 @@
+{
+ "id": "black-budget",
+ "title": "The classified budget: annexes, the NIP and the MIP",
+ "kind": "mechanism",
+ "section": "secrecy-machinery",
+ "span": {
+  "from": "1947",
+  "to": "2026"
+ },
+ "focusEra": "2",
+ "anchors": [
+  "classified-annex",
+  "nip",
+  "mip",
+  "nip-fy2013-summary-disclosure",
+  "classified-programs-line",
+  "classified-schedule-authorizations",
+  "intel-budget-disclosure-record",
+  "usc-50-3510",
+  "usc-50-3306",
+  "fas",
+  "steven-aftergood",
+  "aurora-budget-line"
+ ],
+ "absorbs": [],
+ "essays": [
+  "the-classified-programs-arithmetic"
+ ],
+ "status": "draft",
+ "notes": "The money community's budget half: how classified programmes appear, and do not appear, in enacted budgets. The arithmetic essay on the classified-programme rows attaches here.",
+ "appendixT": "black-budget"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "rendlesham-1980",
+ "title": "Rendlesham Forest, December 1980",
+ "kind": "incident",
+ "section": "other-nations",
+ "span": {
+  "from": "1980",
+  "to": "2023"
+ },
+ "focusEra": "1",
+ "anchors": [
+  "rendlesham-1980",
+  "halt-memo",
+  "charles-halt",
+  "larry-warren",
+  "john-burroughs",
+  "jim-penniston",
+  "l-raf-woodbridge",
+  "ev-rendlesham-files",
+  "peter-robbins"
+ ],
+ "absorbs": [],
+ "essays": [],
+ "status": "draft",
+ "notes": "Split from Appendix T's uk: the incident has its own witnesses and documents, and a reader looks for it by name.",
+ "appendixT": "uk"
+}
