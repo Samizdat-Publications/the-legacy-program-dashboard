@@ -1,0 +1,145 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 180-182, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "George identifies his own role in his opening paragraph: 'I was the project engineer for these experiments.' He confirms Jacobs's: 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location.'",
+"tier": 1
+},
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 182-184 photograph captions, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He publishes two group photographs and captions the people in them, including 'In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner', 'Lt. Bob Jacobs is not in this picture' for the first, 'Lt. Bob Jacobs is at left with blocked military cap', and Jacobs 'at far right holding a camera and standing behind Chief Warrant Officer Spooner' for the second.",
+"tier": 1
+},
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 180-184, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He dates and names the event: an Atlas launch nicknamed 'Buzzing Bee' before sunup on 22 September 1964, covered by a borrowed 24-inch mirror telescope built in the 1950s on a modified five-inch gun mount by Boston University under government contract, owned and operated by the Range Measurements Laboratory of the Air Force Eastern Test Range, fitted with an image orthicon television camera tube, sited at about 4,000 feet in the Los Padres National Forest, which covered nine of eleven Vandenberg launches between August and November 1964.",
+"tier": 1
+},
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 185-187, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "His explanation is specific: two decoys were fired off by small rocket charges on schedule, some of the decoy packing material trailed along and was visible optically and on certain radars, and the little cloud of debris around each decoy gave away the false status. He states the classification was raised from Secret to Top Secret and a copy flown to Headquarters SAC at Omaha, that everyone who had seen the film was questioned and cautioned not to discuss it, that his own clearance was later raised so he could re-analyse it, that 'I don't think Bob Jacobs ever gained the required clearance', and that 'the film and related materials were all destroyed long before the 12 years were up'.",
+"tier": 1
+},
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 186-187, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He concedes a point against his own case, which is what distinguishes the article from advocacy: 'But Bob is correct in saying that the observations in 1964 did not involve lasers.' His own contemporaneous document is cited in his references as 'George, Kingston A. 1964. Preliminary Report on Image Orthicon Photography from Big Sur. Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, October 13.'",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "research",
+"connections": [
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1993",
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "The project engineer's published rebuttal of the UFO reading of the event",
+"id": "big-sur-1964",
+"l0": false,
+"label": "Big Sur missile-test filming, September 1964",
+"note": "A directed denial by a named participant, and the model this board should want: it establishes the witness's unit, appointment, presence and debriefing while disputing what was on the film.",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "1993",
+"dateStart": "1993",
+"direction": "in",
+"edgeLabel": "Author",
+"id": "kingston-george",
+"l0": false,
+"label": "Kingston A. George",
+"note": "He identifies himself as the project engineer in the article's opening line. Type research, not custody: he wrote it, he does not hold custody of anything.",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"coords": null,
+"dateEnd": "1993",
+"dateStart": "1993",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "kingston-george",
+"label": "Kingston A. George"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "The project engineer's published rebuttal of the UFO reading of the event",
+"note": "A directed denial by a named participant, and the model this board should want: it establishes the witness's unit, appointment, presence and debriefing while disputing what was on the film.",
+"of": {
+"id": "doc-si-big-sur-1993",
+"label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993"
+},
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+]
+}
+],
+"desc": "THE MODEL THIS BOARD SHOULD WANT FOR EVERY CLAIMANT AND ALMOST NEVER GETS. Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp. 180 to 187, is a hostile participant's answer to Robert Jacobs's 1989 MUFON article about the September 1964 Big Sur filming, and in the course of demolishing Jacobs's interpretation it establishes his facts. George identifies himself in his opening line as the project engineer for the experiments. He writes that Jacobs was named the on-site commander by the 1369th Photo Squadron and managed the logistics at Big Sur. He publishes two photographs of the team and captions Jacobs into both. He names Major Florenz Mansmann and Chief Warrant Officer Guy Spooner in a caption. He dates the event to before sunup on 22 September 1964 on an Atlas launch nicknamed Buzzing Bee, describes the borrowed 24-inch Boston University telescope on a modified five-inch gun mount with an image orthicon tube at about 4,000 feet in the Los Padres National Forest, and cites a contemporaneous document of his own by title, issuing headquarters and date. He concedes one of Jacobs's six conclusions outright. And he states that everyone who had seen the film was questioned and cautioned, that he himself was later cleared to re-analyse it, and that he does not think Jacobs ever gained the required clearance. A document that confirms a witness's unit, appointment, presence and debriefing while disputing his interpretation is worth more to this board than five friendly corroborations.",
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "doc-si-big-sur-1993",
+"l0": false,
+"label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
+"locLabel": null,
+"members": null,
+"short": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"sub": "The project engineer's published answer to Robert Jacobs, confirming Jacobs's unit, appointment, presence and debriefing while disputing what was on the film",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 503 of 1170, score 31). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "1993",
+"id": "tl-1993-si-big-sur-rebuttal",
+"label": "The project engineer answers Jacobs and confirms his unit, role and debriefing",
+"precision": "year",
+"strand": "witness",
+"text": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 180-187, identifies himself as the project engineer, writes that 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location', publishes two group photographs and captions Jacobs into both, names Major Florenz Mansmann and CWO Guy Spooner, dates the event to 22 September 1964 on an Atlas launch nicknamed Buzzing Bee, concedes Jacobs's point about lasers, and disputes only what was on the film.",
+"tier": "B"
+}
+]
+}

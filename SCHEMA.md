@@ -190,14 +190,12 @@ experiments, and the 1997 CIA admission on U-2 and UFO report falsification.
 ## PART 3 — File layout
 
 ```
-data/program-people.js         PEOPLE[]
-data/program-entities.js       INSTITUTIONS[] PROGRAMS[] LOCATIONS[] DOMAINS[] LEGISLATION[] DOCUMENTS[] EVENTS[]
-data/program-edges.js          PROGRAM_EDGES[]
-data/program-entity-info.js    ENTITY_INFO{} ENTITY_SOURCES{}
-data/program-timeline.js       TIMELINE[] STRANDS[] PRECEDENT[]
-data/program-meta.js           EDGE_TYPES CLUSTERS TIERS AXES STATUS_LABEL
-data/the-program.json          everything, combined, for non-JS consumers
+data/the-program.json          the whole board: people, entities, edges, timeline, entityInfo
+app/public/data/               what the app reads, written from it by tools/build_app_data.py
 ```
+
+The `data/program-*.js` files that used to sit beside it were the old single-file shell's
+data shape and went with it on 25 September 2026.
 
 ## PART 4 — Integrity rules
 

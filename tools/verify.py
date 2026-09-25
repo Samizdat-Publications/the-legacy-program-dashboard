@@ -44,7 +44,6 @@ sys.path.insert(0, os.path.join(ROOT, "tools"))
 from merge import canonical_id  # noqa: E402
 
 BOARD = os.path.join(ROOT, "data", "the-program.json")
-DIST = os.path.join(ROOT, "dist", "the-program.html")
 GOLDEN = os.path.join(ROOT, "tools", "GOLDEN.json")
 
 FAILURES = []
@@ -65,7 +64,7 @@ def check(name):
 # ---------------------------------------------------------------------------
 
 @check("ids are canonical")
-def _ids_canonical(b, html):
+def _ids_canonical(b):
     """Two spellings of one id put the same person on the board twice, split their
     edges and sources, and — because label falls back to the id — make the twin
     render its own slug as its name. This is exactly what happened to
@@ -84,7 +83,7 @@ def _ids_canonical(b, html):
 
 
 @check("no label is its own id")
-def _label_not_id(b, html):
+def _label_not_id(b):
     """merge.py falls back to the id when a record has no label. That fallback
     reaching the screen means a record was invented rather than merged."""
     return [f"{n['id']} displays its own slug as its name"
@@ -92,7 +91,7 @@ def _label_not_id(b, html):
 
 
 @check("person plate names are meaningful")
-def _plate_names(b, html):
+def _plate_names(b):
     """The plate shows `SURNAME, F.`. A label whose last token is a generational
     suffix rendered five different people as 'JR., J.'. Reproduces the shipped
     formatter's contract rather than trusting it."""
@@ -115,7 +114,7 @@ def _plate_names(b, html):
 
 
 @check("no dangling references")
-def _dangling(b, html):
+def _dangling(b):
     ids = {n["id"] for n in b["people"] + b["entities"]}
     bad = []
     for e in b["edges"]:
@@ -135,7 +134,7 @@ def _dangling(b, html):
 
 
 @check("every person back-reference resolves")
-def _person_refs(b, html):
+def _person_refs(b):
     """A person points at nodes through locId, instId and domains, and deriveEdges()
     turns each one into a live edge at runtime. These are references exactly as much
     as an edge endpoint is, and until this check existed nothing walked them.
@@ -159,7 +158,7 @@ def _person_refs(b, html):
 
 
 @check("no unapproved duplicate nodes")
-def _duplicates(b, html):
+def _duplicates(b):
     """One object recorded twice is worse than one recorded not at all: both copies
     look sourced, each holds a fraction of the evidence, and they can carry
     different tiers, so the board grades the same thing two ways at once.
@@ -194,7 +193,7 @@ def _duplicates(b, html):
 
 
 @check("affiliations render as names, not ids")
-def _affiliations(b, html):
+def _affiliations(b):
     """affiliations is a prose field upstream and is printed verbatim. The research
     here writes node ids into it, so 54 entries reached the dossier as raw slugs:
     a reader saw 'dod-sapco' and 'skidmore-fitts-report' where a name belonged.
@@ -216,7 +215,7 @@ def _affiliations(b, html):
 
 
 @check("sequence chains are renderable")
-def _chain_shape(b, html):
+def _chain_shape(b):
     """chainHtml() reads s.date, s.event, s.source and s.isAnomalous off every step.
     All 11 chains on this board held bare node-id strings instead of step objects,
     so every one of them rendered an undefined event under an undefined date --
@@ -238,7 +237,7 @@ def _chain_shape(b, html):
 
 
 @check("no edge note leaks build bookkeeping")
-def _edge_note_bookkeeping(b, html):
+def _edge_note_bookkeeping(b):
     """An edge note renders in the dock. A reader gets it as the board's statement of
     what the edge asserts, so it must say only that.
 
@@ -262,42 +261,8 @@ def _edge_note_bookkeeping(b, html):
     return bad[:40]
 
 
-@check("every edge type has a caption written for this board")
-def _explain_edge_covers(b, html):
-    """explainEdge() writes the caption under every connection in every node dock.
-    A type with no case falls through to 'Connected.', which reads as a caption
-    rather than as a gap, so nothing looks broken and nobody goes looking.
-
-    That is how four of this board's twelve types -- legislative, denial, custody
-    and funding, 554 edges between them -- were explained with one word for as long
-    as the board has existed. Custody is one of the three axes the board scores on.
-
-    The same surface carried the parent board's meanings for two types it does
-    share: behavioral was 'Both left the same category of personal item behind',
-    which is a missing-person fact, and temporal was a sixty-day proximity rule.
-    Both rendered confidently over edges that mean something else entirely.
-
-    This asserts coverage, not wording: every type present in the data must have
-    its own case, and no case may still carry the parent's vocabulary."""
-    import re as _re
-    types = {e.get("type") for e in b["edges"] if e.get("type")}
-    m = _re.search(r"function explainEdge\(type, a, b\) \{.*?\n\}", html, _re.S)
-    if not m:
-        return ["explainEdge() is not in the built file at all"]
-    blk = m.group(0)
-    cases = set(_re.findall(r"case '([^']+)':", blk))
-    bad = [f"edge type {t!r} has no explainEdge case, so its caption is 'Connected.'"
-           for t in sorted(types - cases)]
-    # the parent board's vocabulary, which must not survive here
-    for phrase in ("personal item behind", "sixty days", "left everything behind",
-                   "departure kit"):
-        if phrase in blk:
-            bad.append(f"explainEdge still carries the parent board's wording: {phrase!r}")
-    return bad
-
-
 @check("no Tier 1 edge rests only on a secondary source")
-def _edge_tier_sourcing(b, html):
+def _edge_tier_sourcing(b):
     """An edge's claimTier renders in the dock as "Tier 1 - documented", and the
     board's own copy calls Tier 1 "what survives a hostile audit". That is the
     same promise a claim's Tier 1 makes, and it was audited on one of the two.
@@ -359,7 +324,7 @@ def _edge_tiers():
 
 
 @check("no Tier 1 edge rests on an interested party asserting an external fact")
-def _edge_interested_party(b, html):
+def _edge_interested_party(b):
     """CLAUDE.md section 2: claims sourced to aaro.mil or defense.gov cap at Tier 2
     unless the claim is about what they said. The rule names no carve-out for
     edges, and until 1 September 2026 it had one anyway: remediate_tiers() applied
@@ -412,100 +377,8 @@ def _edge_interested_party(b, html):
     return bad[:40]
 
 
-@check("the timeline stacks at the four-column threshold")
-def _timeline_threshold(b, html):
-    """The parent board's timeline had three columns and stacked below 820px of
-    surface width. This board's has four, and build_dashboard.py raises the
-    threshold to 1040px in the two places the width is measured. Until 1
-    September 2026 that patch was a bare s.replace() behind a guard that was
-    always false, so it had never applied and the four columns stacked at the
-    three-column line on every reader's screen. The build said "all patches
-    applied". Nothing read the built file. This does."""
-    if not html:
-        return ["dist/the-program.html is missing — run build_dashboard.py"]
-    have = html.count("getBoundingClientRect().width < 1040;")
-    stale = html.count("getBoundingClientRect().width < 820;")
-    bad = []
-    if have < 2:
-        bad.append(f"the 1040px timeline threshold appears {have} time(s); expected 2 "
-                   f"(viewTimeline and the ResizeObserver)")
-    if stale:
-        bad.append(f"the parent board's 820px timeline threshold is still in the built "
-                   f"file ({stale} occurrence(s))")
-    return bad
-
-
-@check("no parent-board editorial content ships")
-def _no_parent_editorial(b, html):
-    """This board was built by porting a shell from a sibling project, The Vanishing,
-    which is about a cluster of missing and dead scientists. Its vocabulary kept
-    surviving the port in surfaces nobody had read: the scripted analyst answered
-    about JPL headcount, explainEdge captioned this board's behavioral edges with a
-    fact about personal effects, and a 3KB COUNTERS array of skeptical commentary on
-    that dataset shipped inside the published file, declared and referenced by
-    nothing.
-
-    None of it could throw. All of it renders, or reads, as confident and finished.
-
-    The list grew on 25 August after a systematic sweep: diffing prose string
-    literals between ref/the-vanishing-v2.html and the built file showed 177 that
-    survived the port verbatim, of which five rendered as false copy -- a hardcoded
-    "Fifty-two entities across five classes" heading the SEARCH view of a 956-node
-    board among them.
-
-    These strings are specific to the sibling board's subject matter and have no
-    legitimate use here. Note what is deliberately NOT listed: 'Ning Li' and 'JPL'
-    both appear on this board for real reasons -- the AAWSAP superconductor DIRD
-    reviews Ning Li's work -- so screening on them would fire on good content."""
-    banned = ("NeuroLogica", "matched denominator", "left everything behind",
-              "departure kit", "the leftBehind array",
-              # found by diffing prose literals against ref/the-vanishing-v2.html:
-              # 177 survived the port verbatim and these five rendered as false copy
-              "Fifty-two entities", "who disappeared within three months",
-              "derived from the case records",
-              "after April 2026 is a fact about reporting attention")
-    return [f"the built file carries the parent board's {p!r}"
-            for p in banned if p in html]
-
-
-@check("the page title names this board, not the parent")
-def _title_is_this_board(b, html):
-    """The most visible copy on the artifact, and the last place anyone looked.
-
-    Until 29 August 2026 the built page shipped
-        <title>The Program -- Scientist Network Tracker v2</title>
-    because build_dashboard.py's branding table swapped the board NAME and stopped.
-    "Scientist Network Tracker v2" is the parent board's subtitle -- The Vanishing
-    tracks a cluster of missing and dead scientists -- and it sat in the browser
-    tab, the bookmark, the link preview and the search result of a UAP records
-    board. It went out in the 29 August production deploy.
-
-    Nothing caught it. §8's sweep diffed PROSE string literals and never read
-    <head>, which is the same blind spot that let three render-blocking Google
-    <link> tags survive six sessions. `no parent-board editorial content ships`
-    screens a banned list drawn from that prose diff, and the title was not on it.
-
-    This asserts the positive rather than the absence: the title must name THIS
-    board. A future re-port that carries over a different sibling subtitle fails
-    here without anyone having to predict the string."""
-    m = re.search(r"<title>(.*?)</title>", html, re.S | re.I)
-    if not m:
-        return ["the built page has no <title>"]
-    t = " ".join(m.group(1).split())
-    out = []
-    if "The Program" not in t:
-        out.append(f"<title> does not name this board: {t!r}")
-    for parent in ("Scientist Network Tracker", "The Vanishing"):
-        if parent in t:
-            out.append(f"<title> carries the parent board's {parent!r}: {t!r}")
-    return out
-
-
-_M = re.match(r'(x)', 'x')   # a never-None match, so the fallbacks above read
-                              # 'unknown' rather than raising inside a check
-
 @check("every Tier A node rests on at least one sourced URL")
-def _tier_a_sourced(b, html):
+def _tier_a_sourced(b):
     """regrade.py's centrality() says 'a node with no sources cannot be Tier A' and
     then multiplies the score by 0.35, which is a discount, not an exclusion: a
     node with forty connections and full axis scores could still clear the top
@@ -520,134 +393,8 @@ def _tier_a_sourced(b, html):
     return bad[:40]
 
 
-@check("no declared resource fetches a remote host")
-def _no_runtime_fetch(b, html):
-    """CLAUDE.md's first line about this artifact is "single self-contained HTML
-    file, no server, no runtime deps". Until 26 August 2026 that was not true, and
-    the way it was untrue is the exact shape of §8's inherited-surface trap: three
-    <link> tags to fonts.googleapis.com came over verbatim from
-    ref/the-vanishing-v2.html, and the third of them is a stylesheet.
-
-    A stylesheet blocks first paint. So the whole board -- 956 nodes, 4,513 claims,
-    a canvas map -- waited on a Google server before drawing one pixel, and in a
-    network that stalls that request it drew nothing for as long as the stall
-    lasted. Measured in the build container: 12,452ms to first contentful paint with
-    the link present, 132ms with it blocked. Nothing in the source said so and no
-    check could fail; the fonts always arrived eventually, so it looked like the
-    page was simply heavy.
-
-    This screens the RESOURCE-LOADING positions only. The page also carries 2,888
-    citation URLs as data, and every one of them is supposed to be there -- a check
-    that grepped for 'https://' would fire on the entire point of the board. So it
-    parses href/src attributes and CSS url() functions, and asks whether any of them
-    names a host. data:, blob:, # and same-document fragments are all fine."""
-    bad = []
-    # <link href>, <script src>, <img src>, <iframe src>, <use href> ... anything
-    # in an attribute the browser will go and fetch.
-    for m in re.finditer(r"<(link|script|img|iframe|video|audio|source|embed|object|use)\b[^>]*?>",
-                         html, re.I):
-        tag = m.group(0)
-        for am in re.finditer(r'\b(href|src|data|srcset)\s*=\s*"([^"]*)"', tag, re.I):
-            for u in am.group(2).split(","):
-                u = u.strip().split(" ")[0]
-                if re.match(r"^(https?:)?//|^[a-z][a-z0-9+.-]*:", u, re.I) and \
-                   not u.lower().startswith(("data:", "blob:", "about:")):
-                    bad.append(f"<{m.group(1).lower()}> loads {u[:80]!r}")
-    # CSS url(...) in any <style> block or style= attribute
-    for m in re.finditer(r"url\(\s*['\"]?([^'\")]+)", html, re.I):
-        u = m.group(1).strip()
-        if re.match(r"^(https?:)?//|^[a-z][a-z0-9+.-]*:", u, re.I) and \
-           not u.lower().startswith(("data:", "blob:", "about:")):
-            bad.append(f"css url() loads {u[:80]!r}")
-    return sorted(set(bad))[:20]
-
-
-@check("the only runtime fetch targets are the analyst's")
-def _fetch_targets(b, html):
-    """The check above screens what the markup DECLARES. Since 29 August the board
-    also calls fetch() from script: the analyst health probe, the analyst
-    endpoint, and api.anthropic.com for a reader's own key. Those three are the
-    whole list. Anything else appearing in a fetch( call is a regression --
-    telemetry, a font, a tracker that came in with a patch -- and the declared-
-    resource check cannot see it. Until 1 September that check's name promised
-    'fetches nothing at runtime', which had stopped being true."""
-    ALLOWED = (
-        "fetch(o + '/api/analyst/health')",          # the discovery loop, two origins
-        "fetch(S.analystEndpoint,",                   # the worker
-        "fetch('https://api.anthropic.com/v1/messages',",  # a reader's own key
-    )
-    bad = []
-    for m in re.finditer(r"\bfetch\(([^\n]{0,80})", html):
-        call = "fetch(" + m.group(1)
-        if not any(call.startswith(a) for a in ALLOWED):
-            bad.append("unexpected fetch target: " + call[:90])
-    return sorted(set(bad))[:20]
-
-
-@check("the typeface ships with the page, at every weight it draws")
-def _fonts_embedded(b, html):
-    """The map is drawn with ctx.measureText, so the geometry depends on which font
-    resolves. Three weights are declared across the CSS and the canvas -- 400, 500
-    and 600 -- and a missing face does not error, it silently substitutes and every
-    label is fitted against different metrics.
-
-    Two subsets, latin and latin-ext, because the board carries names that need
-    them. Six faces, therefore. This asserts the count and the form: a face served
-    from a URL rather than embedded would satisfy a naive @font-face count while
-    reintroducing exactly the dependency the check above exists to forbid."""
-    faces = re.findall(r"@font-face\{([^}]*)\}", html)
-    plex = [f for f in faces if "IBM Plex Mono" in f]
-    bad = []
-    if len(plex) != 6:
-        bad.append(f"expected 6 embedded IBM Plex Mono faces, found {len(plex)}")
-    weights = sorted({(re.search(r"font-weight:(\d+)", f) or _M).group(1) for f in plex
-                      if re.search(r"font-weight:(\d+)", f)})
-    for w in ("400", "500", "600"):
-        if w not in weights:
-            bad.append(f"no embedded face at weight {w}; the page draws at it")
-    for f in plex:
-        if "url(data:font/woff2;base64," not in f:
-            src = (re.search(r"src:([^;]*)", f) or _M).group(1)[:60]
-            bad.append(f"a face is not embedded: src is {src!r}")
-    return bad
-
-
-@check("the analyst system prompt describes this board")
-def _system_prompt_is_ours(b, html):
-    """SYSTEM_PROMPT() is what the model is told it is before it answers anything, and
-    until 25 August it had never been checked by anything.
-
-    It was inherited whole. It opened by calling this 'a research dashboard tracking
-    deaths and disappearances of US scientists and defense-connected individuals since
-    2021', which is the sibling board's mission with the name swapped -- the identical
-    fault as the scripted analyst, one path over, missed because the scripted path got
-    the attention.
-
-    The costly line was HARD RULE 4: 'The three axes S, P and I are never summed.'
-    This board scores every entity on C, A and D. The model held the wrong names for
-    the board's primary scoring scheme, stated as a numbered hard rule, so any answer
-    it gave about scoring reasoned over letters that are not here. A wrong axis name
-    cannot throw; it produces fluent analysis of nothing.
-
-    Asserts the prompt names this board's axes, and carries none of the parent's."""
-    import re as _re
-    m = _re.search(r"const SYSTEM_PROMPT = \(\) => `(.*?)`;", html, _re.S)
-    if not m:
-        return ["SYSTEM_PROMPT() is not in the built file"]
-    p = m.group(1)
-    bad = []
-    for need in ("C (custody proximity)", "A (access level)", "D (disclosure role)"):
-        if need not in p:
-            bad.append(f"the system prompt never names the axis {need!r}")
-    for wrong in ("axes S, P and I", "deaths and disappearances",
-                  "real missing people", "who disappeared"):
-        if wrong in p:
-            bad.append(f"the system prompt still carries the parent board's {wrong!r}")
-    return bad
-
-
 @check("claim tiers are valid and Tier 1 is sourced")
-def _claims(b, html):
+def _claims(b):
     """Credibility rule: no claim renders without a confidence treatment, and Tier 1
     means a primary record exists. A Tier 1 with no URL is the single most damaging
     thing this board can ship."""
@@ -661,86 +408,42 @@ def _claims(b, html):
     return bad[:40]
 
 
-@check("UI copy agrees with the data")
-def _copy(b, html):
-    """The DETAIL panel said 'Five entity classes' on a board with eight. Copy that
-    states a fact about the data is data, and drifts like data."""
-    bad = []
-    classes = {n["cls"] for n in b["entities"]} | {"person"}
-    # Every count has a word. Until 1 September 2026 this was a six-entry table
-    # ({3,4,5,8,9,12}) and at any other count `want` was None, the condition
-    # short-circuited and the check passed on anything -- the board happens to
-    # have eight classes, so it worked by coincidence, and the self-test fixture
-    # always built eight, so the blind branch was never poisoned.
-    words = {0: "No", 1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six",
-             7: "Seven", 8: "Eight", 9: "Nine", 10: "Ten", 11: "Eleven", 12: "Twelve",
-             13: "Thirteen", 14: "Fourteen", 15: "Fifteen", 16: "Sixteen"}
-    word = lambda n: words.get(n, str(n))
-    want = word(len(classes))
-    m = re.search(r"(\w+) entity classes are clickable", html)
-    if not m:
-        bad.append("the DETAIL panel copy about entity classes is not in the built file")
-    elif m.group(1) != want:
-        bad.append(f"copy says {m.group(1)!r} entity classes; data has {len(classes)} ({want})")
-    strands = {t.get("strand") for t in b.get("timeline", []) if t.get("strand")}
-    m2 = re.search(r"(\w+) strands on one axis", html)
-    if not m2:
-        bad.append("the timeline copy about strands is not in the built file")
-    elif m2.group(1) != word(len(strands)):
-        bad.append(f"copy says {m2.group(1)!r} strands; data has {len(strands)}")
-    return bad
-
-
-@check("the built file contains the data it claims")
-def _dist(b, html):
-    bad = []
-    if not html:
-        return ["dist/the-program.html is missing — run build_dashboard.py"]
-    for needle, what in [("PROGRAM_EDGES", "edge array"), ("TIMELINE", "timeline array")]:
-        if needle not in html:
-            bad.append(f"built file has no {what}")
-    # Exact, not a heuristic: every node in the data must be present in the artifact.
-    # A count comparison was the first version of this check and it was wrong — it
-    # also matched timeline ids. A check that is approximately right fails in both
-    # directions and teaches you to ignore it.
-    # Match the id as a quoted token rather than assuming a serialization. People are
-    # emitted as `id: 'x'` and entities as `other('x', 'institution', ...)`; the first
-    # version of this check knew only the former and declared all 724 entities missing.
-    missing = [n["id"] for n in b["people"] + b["entities"]
-               if ("'%s'" % n["id"]) not in html]
-    if missing:
-        bad.append(f"{len(missing)} node(s) in the data are absent from the built file: "
-                   f"{missing[:5]}")
-    return bad
-
-
-
 # ---------------------------------------------------------------------------
-# the L0 program map — six checks, each self-tested
+# the L0 program map, each check self-tested
 #
-# These validate what SHIPPED, not what a helper recomputes: the model is parsed
-# back out of the built HTML. A patch that reads correctly and does not take
-# effect is this board's most expensive recurring bug, and reading the source is
-# how it keeps getting missed.
+# These read data/l0-model.json, the build product the app's map data is written
+# from. Self-test poisons them through _L0_OVERRIDE, the same channel pattern as
+# _LAYOUT_OVERRIDE below.
 # ---------------------------------------------------------------------------
 
-def _l0(html):
-    """Pull the L0DATA literal back out of the built file. Returns None if absent."""
-    i = html.find("const L0DATA = ")
-    if i < 0:
-        return None
-    try:
-        obj, _ = json.JSONDecoder().raw_decode(html, i + len("const L0DATA = "))
-        return obj
-    except ValueError:
-        return None
+L0_MODEL = os.path.join(ROOT, "data", "l0-model.json")
+_L0_OVERRIDE = None
+_L0_CACHE = []
+
+
+def _l0():
+    """data/l0-model.json, or the poisoned stand-in during --self-test.
+
+    Until 25 September 2026 this parsed the `const L0DATA = ` literal back out of
+    the old single-file shell, on the principle that what shipped is the only thing
+    worth asserting on. The old shell is retired and the app reads the map from
+    app/public/data/, which build_app_data.py writes from this same file and checks
+    with --check; so the model file is now the nearest thing to what ships."""
+    if _L0_OVERRIDE is not None:
+        return _L0_OVERRIDE
+    if not _L0_CACHE:
+        if not os.path.exists(L0_MODEL):
+            return None
+        with open(L0_MODEL, encoding="utf-8") as fh:
+            _L0_CACHE.append(json.load(fh))
+    return _L0_CACHE[0]
 
 
 @check("register partition is total")
-def _l0_partition(b, html):
-    d = _l0(html)
+def _l0_partition(b):
+    d = _l0()
     if d is None:
-        return ["the built file carries no L0 model"]
+        return ["data/l0-model.json is missing: run tools/build.py"]
     c = d["counts"]
     total = len(b["people"]) + len(b["entities"])
     got = c["l0"] + c["ledger"] + c["pathOnly"] + c["unattached"]
@@ -764,10 +467,10 @@ def _l0_partition(b, html):
 
 
 @check("summarised edge tier is the strongest of its underlying links")
-def _l0_tier(b, html):
-    d = _l0(html)
+def _l0_tier(b):
+    d = _l0()
     if d is None:
-        return ["the built file carries no L0 model"]
+        return ["data/l0-model.json is missing: run tools/build.py"]
     pair = {}
     for e in b["edges"]:
         pair.setdefault("|".join(sorted((e["a"], e["b"]))), []).append(e)
@@ -785,23 +488,14 @@ def _l0_tier(b, html):
         if e["n"] != len(e["via"]):
             bad.append(f"summarised {e['a']}~{e['b']} claims {e['n']} shared members "
                        f"but lists {len(e['via'])}")
-        # The design asserted shared counts run 2-5 so the five-tick vocabulary
-        # never overflows. Densifying the graph made that false. The assertion
-        # that still holds is that the RENDERER can represent the overflow: five
-        # ticks drawn for both 5 and 18 would be a channel that silently
-        # saturates, which is the same failure class as a check that always
-        # passes.
-        if e["n"] > 5 and "TICK_MAX" not in html:
-            bad.append(f"summarised {e['a']}~{e['b']} carries {e['n']} shared "
-                       f"members and the renderer has no tick-overflow path")
     return bad[:8]
 
 
 @check("the shared-member gate holds and only hand-written edges are summarised")
-def _l0_gate(b, html):
-    d = _l0(html)
+def _l0_gate(b):
+    d = _l0()
     if d is None:
-        return ["the built file carries no L0 model"]
+        return ["data/l0-model.json is missing: run tools/build.py"]
     hand = set()
     for e in b["edges"]:
         hand.add("|".join(sorted((e["a"], e["b"]))))
@@ -822,10 +516,10 @@ def _l0_gate(b, html):
 
 
 @check("no routed or path-only entity emits an edge instance")
-def _l0_noroutededges(b, html):
-    d = _l0(html)
+def _l0_noroutededges(b):
+    d = _l0()
     if d is None:
-        return ["the built file carries no L0 model"]
+        return ["data/l0-model.json is missing: run tools/build.py"]
     l0ids = {n["id"] for n in d["l0"]}
     off = {r["id"] for r in d["pathOnly"]} | {r["id"] for r in d["unattached"]}
     for n in d["l0"]:
@@ -849,24 +543,15 @@ def _l0_noroutededges(b, html):
     return bad[:8]
 
 
-@check("UI copy agrees with the register counts")
-def _l0_copy(b, html):
-    d = _l0(html)
+@check("every L0 node's class bar sums to the members it lists")
+def _l0_copy(b):
+    d = _l0()
     if d is None:
-        return ["the built file carries no L0 model"]
-    c = d["counts"]
+        return ["data/l0-model.json is missing: run tools/build.py"]
     bad = []
-    # Both registers must be REACHABLE, and their counts must be DERIVED. A
-    # hard-coded number is the DETAIL-panel bug that shipped last time: it read
-    # fine and was false. So assert the control exists and that the number beside
-    # it comes from the model rather than from a keystroke.
-    for key, attr in (("pathOnly", "path"), ("unattached", "un")):
-        if 'data-l0reg="%s"' % attr not in html:
-            bad.append(f"the rail has no {key} register control — the register is "
-                       f"asserted in the counts but unreachable in the UI")
-        if "L0DATA.counts." + key not in html:
-            bad.append(f"the {key} count is not derived from L0DATA.counts; a typed "
-                       f"number goes stale the moment the research moves")
+    # This check also asserted, until 25 September 2026, that the old shell's rail
+    # carried both register controls with counts read from L0DATA.counts. That half
+    # went with the old shell; the half that is about the model stays.
     for n in d["l0"]:
         listed = len(n["direct"]) + len(n["routed"])
         mixed = sum(n["mix"].values())
@@ -877,10 +562,10 @@ def _l0_copy(b, html):
 
 
 @check("every routed row names its intermediate resolvably")
-def _l0_via(b, html):
-    d = _l0(html)
+def _l0_via(b):
+    d = _l0()
     if d is None:
-        return ["the built file carries no L0 model"]
+        return ["data/l0-model.json is missing: run tools/build.py"]
     known = set(d["nodes"].keys())
     bad = []
     for n in d["l0"]:
@@ -900,10 +585,10 @@ def _l0_via(b, html):
 
 
 @check("every L0 node carries an entity dossier")
-def _l0_dossier_cover(b, html):
-    d = _l0(html)
+def _l0_dossier_cover(b):
+    d = _l0()
     if d is None:
-        return ["the built file carries no L0 model"]
+        return ["data/l0-model.json is missing: run tools/build.py"]
     # The dossier is the ARGUMENT for why a node is on this map, and on this board
     # the argument is the product. A node with a member list and no argument sends
     # the reader into individual dossiers to reconstruct it themselves.
@@ -914,10 +599,10 @@ def _l0_dossier_cover(b, html):
 
 
 @check("every dossier claim is tiered and sourced")
-def _l0_dossier_claims(b, html):
-    d = _l0(html)
+def _l0_dossier_claims(b):
+    d = _l0()
     if d is None:
-        return ["the built file carries no L0 model"]
+        return ["data/l0-model.json is missing: run tools/build.py"]
     bad = []
     for n in d["l0"]:
         for i, c in enumerate((n.get("dossier") or {}).get("claims", [])):
@@ -933,10 +618,10 @@ def _l0_dossier_claims(b, html):
 
 
 @check("every connection row is backed by a hand-written edge")
-def _l0_connections(b, html):
-    d = _l0(html)
+def _l0_connections(b):
+    d = _l0()
     if d is None:
-        return ["the built file carries no L0 model"]
+        return ["data/l0-model.json is missing: run tools/build.py"]
     hand = set()
     for e in b["edges"]:
         hand.add((e["a"], e["b"], e["type"]))
@@ -957,10 +642,10 @@ def _l0_connections(b, html):
 
 
 @check("structural authority is cited, and the exclusions hold")
-def _l0_authority(b, html):
-    d = _l0(html)
+def _l0_authority(b):
+    d = _l0()
     if d is None:
-        return ["the built file carries no L0 model"]
+        return ["data/l0-model.json is missing: run tools/build.py"]
     auth = d.get("authority") or {}
     ids = {n["id"] for n in b["people"] + b["entities"]}
     bad = []
@@ -1041,10 +726,8 @@ def measure(b):
 # ---------------------------------------------------------------------------
 # Design's nine checks, from notes/design-2026-08-24/DESIGN-RESPONSE-LAYOUT §5.
 #
-# They assert against data/l0-layout-model.json, which is a build product on disk
-# rather than something embedded in the built page -- the packed-cell layout is
-# generated but not yet rendered. So these need their own poison channel, the way
-# the scripted-analyst check needs BREAK=1: _LAYOUT_OVERRIDE, set by self_test().
+# They assert against data/l0-layout-model.json, which is a build product on disk,
+# so they need their own poison channel: _LAYOUT_OVERRIDE, set by self_test().
 # ---------------------------------------------------------------------------
 
 LAYOUT = os.path.join(ROOT, "data", "l0-layout-model.json")
@@ -1145,7 +828,7 @@ def _datasets(m):
 
 
 @check("every chip label fits the chip it is drawn in")
-def _shorts_fit(b, html):
+def _shorts_fit(b):
     """A 205px chip at 1.0x holds about 37 monospace characters. Beyond that the
     renderer middle-truncates, which Design called a safety net rather than a
     design: `l0Fit` cannot know which half of a label matters, and it dropped the
@@ -1181,7 +864,7 @@ def _shorts_fit(b, html):
 
 
 @check("nothing in the image register fails silently")
-def _image_register(b, html):
+def _image_register(b):
     """`data/l0-images.json` is empty on purpose -- a record there asserts that a
     specific image exists at a specific URL under a specific licence, which is a
     sourcing claim like any other. But the register is PLUMBED, and the failure mode
@@ -1244,7 +927,7 @@ def _image_register(b, html):
 
 
 @check("L0 degree is distinct neighbours, not edge instances")
-def _dz_degree(b, html):
+def _dz_degree(b):
     """Design: `degree_is_distinct_neighbours`. Must reject a model baked from the
     extract's `deg` field, which counts edge INSTANCES.
 
@@ -1286,7 +969,7 @@ def _dz_degree(b, html):
 
 
 @check("every layout figure recomputes from the model")
-def _dz_figures(b, html):
+def _dz_figures(b):
     """Design: `figures_match_model`. Must reject any hand-edited figure.
 
     Every number quoted in the design write-up is supposed to be read out of the
@@ -1314,7 +997,7 @@ def _dz_figures(b, html):
 
 
 @check("no L0 node with a link is left without a line")
-def _dz_no_bare(b, html):
+def _dz_no_bare(b):
     """Design: `no_node_without_a_line`. Must reject clause 1 shipped without clause
     2, which reaches 50 of 110 nodes and leaves 60 bare.
 
@@ -1334,7 +1017,7 @@ def _dz_no_bare(b, html):
 
 
 @check("absent prints as absent")
-def _dz_absent(b, html):
+def _dz_absent(b):
     """Design: `absent_prints_as_absent`. Must reject placing an undated node in an
     era column, or an `isolated` count dropping to 0 without those nodes gaining a
     real edge.
@@ -1381,7 +1064,7 @@ def _dz_absent(b, html):
 
 
 @check("chip size is not a channel")
-def _dz_no_size(b, html):
+def _dz_no_size(b):
     """Design: `no_size_channel`. Must reject any model where the set of distinct chip
     widths or heights has more than one member.
 
@@ -1412,7 +1095,7 @@ def _dz_no_size(b, html):
 
 
 @check("layout positions are grid-derived, not force-derived")
-def _dz_deterministic(b, html):
+def _dz_deterministic(b):
     """Design: `layout_is_deterministic`. Must reject a re-introduced force pass.
 
     `--idempotent` already builds twice and requires byte-identical output, which
@@ -1439,7 +1122,7 @@ def _dz_deterministic(b, html):
 
 
 @check("a denial that is not a directed act carries no denial styling")
-def _dz_denialkind(b, html):
+def _dz_denialkind(b):
     """Design, answering the implementation session: a denial has three states
     because the data has three, and one undifferentiated red line was not.
 
@@ -1493,7 +1176,7 @@ def _dz_denialkind(b, html):
 
 
 @check("every field the design reads but the data withholds is in the backfill queue")
-def _dz_queue(b, html):
+def _dz_queue(b):
     """Design's `queue_covers_every_field_read`. Must reject "this doc and the page
     disagreeing" -- the same drift class the reproduction correction fixed once.
 
@@ -1588,7 +1271,7 @@ def _dz_queue(b, html):
 
 
 @check("the rarity order the board implies still matches the pin")
-def _dz_rarity(b, html):
+def _dz_rarity(b):
     """Design's `rarity_order_matches_the_pin`, the one named check that was never
     built as a gate step. The generator has always REPORTED drift in
     `figures.rarityDrift` and `state_snapshot.py` prints it; nothing failed on it.
@@ -1625,7 +1308,7 @@ def _dz_rarity(b, html):
 
 
 @check("denial direction is published only where the record names a denier")
-def _dz_denier(b, html):
+def _dz_denier(b):
     """The check that was missing while 22 of 47 arrowheads pointed the wrong way.
 
     `motion is attested, not decorative` above guards the FLAGS -- that a denial is
@@ -1666,7 +1349,7 @@ def _dz_denier(b, html):
 
 
 @check("motion is attested, not decorative")
-def _dz_motion(b, html):
+def _dz_motion(b):
     """Design: `motion_only_where_attested`. Must reject a time-direction flow on
     every line.
 
@@ -1707,7 +1390,7 @@ def _dz_motion(b, html):
 
 
 @check("highlights are a pointer, not a promotion")
-def _dz_highlights(b, html):
+def _dz_highlights(b):
     """Design: `highlights_are_a_pointer`. Must reject a flag naming an id the floor
     excluded, or flagging more than 16 of 110.
 
@@ -1746,7 +1429,7 @@ def _dz_highlights(b, html):
 
 
 @check("the layout model stays under the read cap")
-def _dz_read_cap(b, html):
+def _dz_read_cap(b):
     """Design: `model_under_read_cap`. Must reject the thing this whole correction was
     about.
 
@@ -1770,7 +1453,7 @@ def _dz_read_cap(b, html):
 
 
 @check("every FOIA request points at a question that is actually open")
-def _foia_links(b, html):
+def _foia_links(b):
     """The FOIA layer, and what it must not be allowed to become.
 
     Stewart, 29 August 2026: "The FOIA will have to happen way later but keep them
@@ -1838,7 +1521,7 @@ def _foia_links(b, html):
 
 
 @check("every patents-tab quotation is verbatim in the document it cites")
-def _pat_quotes(b, html):
+def _pat_quotes(b):
     """THE ONE RULE THAT NEVER BENDS, mechanised for the PATENTS tab.
 
     The tab's argument is carried by four quotations, three of them the examiner's,
@@ -1892,7 +1575,7 @@ def _pat_quotes(b, html):
 
 
 @check("no patents-tab quotation is edited by its own highlight")
-def _pat_emphasis(b, html):
+def _pat_emphasis(b):
     """The renderer lights one phrase inside each quotation. If that phrase is not a
     substring of the quotation, the renderer drops it silently and the quote prints
     plain -- which is the safe failure, but a silent one.
@@ -1917,7 +1600,7 @@ def _pat_emphasis(b, html):
 
 
 @check("the five observables stay Tier 2, and the mapping stays separate")
-def _pat_observables(b, html):
+def _pat_observables(b):
     """TWO GRADES THAT MUST NEVER BE MERGED, and merging them is the easy overclaim
     this node exists to avoid.
 
@@ -1969,7 +1652,7 @@ def _pat_observables(b, html):
 
 
 @check("the patents tab prints what it does not have")
-def _pat_absent(b, html):
+def _pat_absent(b):
     """`absent prints as absent`, the rule this board already gates on the map,
     applied to the file wrapper.
 
@@ -2025,7 +1708,7 @@ def _pat_absent(b, html):
 
 
 @check("every thread step is joined to the last by a board edge")
-def _threads_joined(b, html):
+def _threads_joined(b):
     """research/threads.json is the THREADS page's whole content, the way
     research/patents-view.json is the PATENTS tab's. A thread is a chain a stranger
     is invited to follow, so the one thing it must never do is imply a connection
@@ -2147,7 +1830,7 @@ def _threads_joined(b, html):
 
 
 @check("no research record is silently dropped")
-def _no_rejects(b, html):
+def _no_rejects(b):
     """merge.py writes every record it could not place to tools/REJECTS.json with a
     reason, and until 25 August NOTHING READ THAT FILE. The build exited 0, the gate
     passed, and the dropped research simply was not on the board.
@@ -2183,7 +1866,7 @@ def _no_rejects(b, html):
 
 
 @check("counts match the golden manifest")
-def _golden(b, html):
+def _golden(b):
     now = measure(b)
     if not os.path.exists(GOLDEN):
         return ["tools/GOLDEN.json missing — run with --update-golden to establish it"]
@@ -2196,76 +1879,56 @@ def _golden(b, html):
 
 
 # ---------------------------------------------------------------------------
-# the no-key analyst — the only voice a reader without an API key ever hears.
+# idempotency: the check that would have caught the 35 lost dates.
 # ---------------------------------------------------------------------------
 
-@check("scripted analyst answers from the right branch")
-def check_scripted_analyst(board, html):
-    """Delegate to tools/test_scripted_analyst.mjs, which asserts the TOPIC TAG
-    of each answer rather than its prose.
+def _idempotent_targets():
+    """Every file the build writes that a reader or a later stage consumes."""
+    out = []
+    appdata = os.path.join(ROOT, "app", "public", "data")
+    for dirpath, _dirs, files in os.walk(appdata):
+        for f in files:
+            out.append(os.path.join(dirpath, f))
+    for rel in ("the-program.json", "l0-model.json", "l0-layout-model.json",
+                "foia-links.json"):
+        out.append(os.path.join(ROOT, "data", rel))
+    return sorted(out)
 
-    Kept as a separate script, and shelling out rather than reimplementing:
-    the function under test is JavaScript that closes over NODES and L0DATA, so
-    the only honest way to test it is to run it. Reimplementing its routing in
-    Python would produce a check that agrees with my reading of the code, which
-    is the failure this repo keeps hitting.
-
-    That script carries its own self-test: BREAK=1 disables the topic table and
-    the run must go red. This check is exercised in self_test() the same way.
-    """
-    exe = os.path.join(ROOT, "tools", "test_scripted_analyst.mjs")
-    if not os.path.exists(exe):
-        return ["tools/test_scripted_analyst.mjs is missing"]
-    env = dict(os.environ)
-    r = subprocess.run(["node", exe], capture_output=True, cwd=ROOT, env=env)
-    if r.returncode == 0:
-        return []
-    out = (r.stdout.decode() + r.stderr.decode())
-    lines = [l for l in out.splitlines() if l.startswith("FAIL") or "->" in l]
-    return ["scripted analyst routing: " + l.strip() for l in lines[:12]] or \
-           ["scripted analyst test exited %d: %s" % (r.returncode, out[-300:])]
-
-
-# ---------------------------------------------------------------------------
-# idempotency — the check that would have caught the 35 lost dates.
-# ---------------------------------------------------------------------------
 
 def check_idempotent():
-    """Run the full documented pipeline twice and require an identical artifact.
+    """Run the full documented pipeline twice and require identical output.
 
     This is the check that catches a whole CLASS of bug rather than one instance:
     any pass that reads its own previous output back in and forgets what it did.
-    It is slow, so it is opt-in via --idempotent (and is what CI should run).
+    It is slow, so it is opt-in via --idempotent.
+
+    The pipeline is tools/build.py, the one build order. Until 25 September 2026
+    this listed the steps itself and hashed the old single-file shell; it now
+    hashes every file under app/public/data, which is what the app serves, plus
+    the four data/ build products the rest of the gate reads.
     """
+    stamp = re.compile(rb'"generated"\s*:\s*"\d{4}-\d{2}-\d{2}"')
+
     def build_once():
-        # build_l0 bakes the L0 model and its layout; build_dashboard consumes it.
-        # It is in the idempotency gate because a bake seeded from anything
-        # non-deterministic would drift here and nowhere else.
-        # build_design_extract feeds build_l0_layout, which is Design's generator
-        # and is now inside the gate: a packed layout is a pure function of its
-        # inputs, so if it is not byte-identical across two runs something
-        # non-deterministic has crept back in.
-        for cmd in (["merge.py"], ["regrade.py"], ["merge.py"],
-                    ["build_l0.py"], ["build_design_extract.py"],
-                    ["build_l0_layout.mjs"], ["build_dashboard.py"]):
-            exe = ["node"] if cmd[0].endswith(".mjs") else [sys.executable]
-            r = subprocess.run(exe + [os.path.join(ROOT, "tools", cmd[0])],
-                               capture_output=True, cwd=ROOT)
-            if r.returncode != 0:
-                return None, f"{cmd[0]} exited {r.returncode}: {r.stderr.decode()[:400]}"
-        # Both artifacts carry a "generated":"YYYY-MM-DD" stamp. Hashing it makes
+        r = subprocess.run([sys.executable, os.path.join(ROOT, "tools", "build.py")],
+                           capture_output=True, cwd=ROOT)
+        if r.returncode != 0:
+            out = (r.stdout.decode(errors="replace") + r.stderr.decode(errors="replace"))
+            return None, f"tools/build.py exited {r.returncode}: {out[-400:]}"
+        # Several products carry a "generated":"YYYY-MM-DD" stamp. Hashing it makes
         # this check fail for a build that straddles midnight UTC -- a real, rare,
         # maximally confusing false failure, since nothing is actually
-        # non-deterministic and a re-run passes. Neutralise the stamp and hash
-        # everything else. Verified 25 Aug: two consecutive runs are byte-identical
-        # apart from this field.
-        stamp = re.compile(rb'"generated"\s*:\s*"\d{4}-\d{2}-\d{2}"')
-        h = hashlib.sha256()
-        h.update(stamp.sub(b'"generated":"<stamped>"', open(DIST, "rb").read()))
-        lm = os.path.join(ROOT, "data", "l0-layout-model.json")
-        if os.path.exists(lm):
-            h.update(stamp.sub(b'"generated":"<stamped>"', open(lm, "rb").read()))
-        return h.hexdigest(), None
+        # non-deterministic and a re-run passes. Neutralise the stamp, and CRLF,
+        # and hash everything else.
+        hashes = {}
+        for path in _idempotent_targets():
+            if not os.path.exists(path):
+                hashes[path] = "absent"
+                continue
+            raw = open(path, "rb").read().replace(b"\r\n", b"\n")
+            raw = stamp.sub(b'"generated":"<stamped>"', raw)
+            hashes[path] = hashlib.sha256(raw).hexdigest()
+        return hashes, None
 
     h1, err = build_once()
     if err:
@@ -2273,9 +1936,11 @@ def check_idempotent():
     h2, err = build_once()
     if err:
         return [err]
-    if h1 != h2:
-        return [f"pipeline is NOT idempotent: two consecutive builds differ "
-                f"({h1[:12]} vs {h2[:12]}). Something reads its own output back in."]
+    differ = sorted(os.path.relpath(p, ROOT).replace(os.sep, "/")
+                    for p in set(h1) | set(h2) if h1.get(p) != h2.get(p))
+    if differ:
+        return [f"pipeline is NOT idempotent: {len(differ)} file(s) differ between two "
+                f"consecutive builds. Something reads its own output back in."] + differ[:12]
     return []
 
 
@@ -2286,13 +1951,7 @@ def check_idempotent():
 def self_test():
     """Feed each check input it MUST reject. A check that passes here is broken,
     and a broken check is worse than no check because it reads as evidence."""
-    good_html = ("Eight entity classes are clickable: x. Four strands on one axis. "
-                 "PROGRAM_EDGES TIMELINE "
-                 + " ".join("'%s'" % i for i in
-                            ["a-b"] + ["e%d" % i for i in range(7)]))
-    # The fixture must exercise the real shape: eight classes and four strands, or
-    # the copy check silently no-ops on an unmapped count — which is precisely how
-    # it failed its own self-test the first time this file was run.
+    # The fixture carries the real shape: eight classes and four strands.
     base = {"people": [{"id": "a-b", "cls": "person", "label": "Ann Bee", "claims": []}],
             "entities": [{"id": f"e{i}", "cls": c, "label": f"E{i}", "claims": []}
                          for i, c in enumerate(["institution", "program", "location",
@@ -2344,24 +2003,12 @@ def self_test():
              "note": "Asserts a thing. [Re-pointed from the collapsed duplicate `x`, 14 Aug 2026.]"})),
         "claim tiers are valid and Tier 1 is sourced": mut(lambda b: b["people"][0]["claims"].append(
             {"tier": 1, "text": "x", "source": ""})),
-        # seven classes against copy that says Eight: the count the old six-entry
-        # word table did not know, where the check used to pass on anything
-        "UI copy agrees with the data": mut(lambda b: b["entities"].pop()),
-        "the built file contains the data it claims": base,
         # a Tier A node with no sourced URL: the 0.35 discount let one through
         "every Tier A node rests on at least one sourced URL": mut(
             lambda b: b["entities"][0].update(tier="A", sources=[{"name": "a recollection"}])),
     }
-    poison_html = {
-                   # present, but with every node id stripped out
-                   "the built file contains the data it claims":
-                       "Eight entity classes are clickable: x. Four strands on one axis. "
-                       "PROGRAM_EDGES TIMELINE"}
-
-
-    # ---- L0 fixtures. Each of the six L0 checks gets input it MUST reject.
-    # The model is read back out of the HTML, so most poisons are HTML-side: that
-    # is deliberate, because what shipped is the only thing worth asserting on.
+    # ---- L0 fixtures. Each L0 check gets a model it MUST reject, through
+    # _L0_OVERRIDE; its clean call gets L0() through the same channel.
     def L0(**kw):
         m = {"config": {"sharedMemberGate": 2},
              "counts": {"total": 8, "l0": 1, "ledger": 1, "pathOnly": 0,
@@ -2377,69 +2024,6 @@ def self_test():
         m.update(kw)
         return m
 
-    # Capture the base ONCE. Building the poisoned html from a good_html that had
-    # already been given a model appended a SECOND L0DATA literal, and _l0 reads the
-    # first — so every poison silently carried a clean model and all six checks
-    # passed their self-test while asserting nothing. That is the canvasInk failure
-    # exactly, reproduced in the fixture rather than the check.
-    _base_html = good_html
-
-    def wrap(model, extra=""):
-        # the rail strings the copy check looks for, plus the model literal.
-        #
-        # The <title> is here for the same reason EXPLAIN_OK is, and the self-test
-        # found it the same way: the title check reads <title> out of the built
-        # file, so a fixture without one makes it report a false positive on CLEAN
-        # input. It did, the first time it ran. The fixture has to carry the real
-        # shape, not just the strings a given check happens to grep for.
-        return ("<title>The Program -- legacy UAP recovery and reverse-engineering,"
-                " 1944-2026</title>\n"
-                + _base_html + ' data-l0reg="path" data-l0reg="un" '
-                + ' L0DATA.counts.pathOnly L0DATA.counts.unattached ' + extra
-                + "\nconst L0DATA = " + json.dumps(model) + ";\n")
-
-    # The caption check reads explainEdge() out of the built file, so the CLEAN
-    # fixture has to contain a real one or the check reports a false positive on
-    # good input -- which is what it did the first time it ran.
-    EXPLAIN_OK = ("\nfunction explainEdge(type, a, b) {\n  switch (type) {\n"
-                  + "".join("    case '%s':\n      return 'x';\n" % t for t in
-                            ("institutional", "geographic", "research", "temporal",
-                             "behavioral", "programmatic", "investigative",
-                             "witness-chain", "custody", "funding", "denial",
-                             "legislative"))
-                  + "    default:\n      return 'Connected.';\n  }\n}\n")
-
-    # Same reason as EXPLAIN_OK: the system-prompt check reads the prompt out of the
-    # built file, so the CLEAN fixture needs a valid one or the check false-positives
-    # on good input.
-    SYSPROMPT_OK = ("\nconst SYSTEM_PROMPT = () => `You are the analyst. The three axes "
-                    "are C (custody proximity), A (access level) and D (disclosure role), "
-                    "and they are never summed.`;\n")
-
-    # Six embedded faces, for the same reason as EXPLAIN_OK and SYSPROMPT_OK: the
-    # typeface check reads them out of the built file, so a fixture without them
-    # false-positives on good input. The base64 here is a placeholder marker, not a
-    # font -- the check asserts the src FORM (embedded, not fetched), which is the
-    # property that matters, and a real woff2 in a test fixture would assert nothing
-    # extra while adding 86KB to this file.
-    FONTS_OK = "<style>" + "".join(
-        "@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:%s;"
-        "font-display:swap;src:url(data:font/woff2;base64,NOT-A-FONT-FIXTURE-ONLY) "
-        "format('woff2');unicode-range:U+%s}" % (w, r)
-        for w in ("400", "500", "600") for r in ("0000-00FF", "0100-02AF")) + "</style>"
-
-    # The two timeline width measurements, at the four-column threshold. Same
-    # reason as the three above: the check reads them out of the built file.
-    TIMELINE_OK = ("\nconst narrow = $('#surface').getBoundingClientRect().width < 1040;\n"
-                   "const narrow2 = $('#surface').getBoundingClientRect().width < 1040;\n")
-
-    good_html = wrap(L0(), EXPLAIN_OK + SYSPROMPT_OK + FONTS_OK + TIMELINE_OK)
-
-    # The poison IS the historical bug: the parent board's threshold surviving in
-    # the built file because the patch that should have raised it never applied.
-    poison_html["the timeline stacks at the four-column threshold"] = \
-        good_html.replace("width < 1040;", "width < 820;")
-
     # a board with the hand-written edges the tier and gate poisons rest on
     l0board = mut(lambda b: b["edges"].extend([
         {"a": "e0", "b": "a-b", "type": "custody", "claimTier": 1},
@@ -2450,8 +2034,6 @@ def self_test():
               {"id": "e1", "direct": ["a-b", "e2"], "routed": [], "mix": {"person": 1, "institution": 1}}]
 
     poisons.update({
-        # a board carrying custody edges, against html whose explainEdge lost that case
-        "every edge type has a caption written for this board": l0board,
         # a summarised edge printing Tier 3 over two Tier 1 links
         "summarised edge tier is the strongest of its underlying links": l0board,
         "the shared-member gate holds and only hand-written edges are summarised": l0board,
@@ -2459,86 +2041,54 @@ def self_test():
     _l0_dosn = {"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1},
                 "dossier": {"narrative": "why e0 is on the map",
                             "claims": [{"text": "x", "tier": 1, "source": "https://e"}]}}
-    poison_html.update({
-        # REPLACE the good prompt, never append a second one: the check reads the
-        # first SYSTEM_PROMPT in the file, so an appended poison leaves the clean
-        # one in front of it and the check passes while asserting nothing. That is
-        # the duplicate-L0DATA trap this fixture already warns about, hit again.
-        "the analyst system prompt describes this board":
-            good_html.replace(SYSPROMPT_OK,
-                "\nconst SYSTEM_PROMPT = () => `You are the analyst. The three "
-                "axes S, P and I are never summed.`;\n"),
-        "no parent-board editorial content ships":
-            good_html + " NeuroLogica (Novella) on the matched denominator ",
-        # The literal title that went to production on 29 August 2026. The poison IS
-        # the historical bug, and it edits the real <title> on the real page rather
-        # than appending a string the predicate would trivially find.
-        "the page title names this board, not the parent":
-            re.sub(r"<title>.*?</title>",
-                   "<title>The Program -- Scientist Network Tracker v2</title>",
-                   good_html, count=1, flags=re.S | re.I),
-        # The exact three tags that shipped for six sessions. Reintroducing them is
-        # the failure this check exists for, so the poison IS the historical bug.
-        "no declared resource fetches a remote host":
-            '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono'
-            ':wght@400;500;600&display=swap" rel="stylesheet">\n' + good_html,
-        # a fetch() to a host that is not one of the analyst's two endpoints
-        "the only runtime fetch targets are the analyst's":
-            good_html + "\nfetch('https://telemetry.example/collect', {method:'POST'});\n",
-        # One weight dropped. The page still renders, still has @font-face rules,
-        # and every 600-weight label is quietly fitted against the wrong metrics --
-        # which is why counting faces is not enough on its own.
-        "the typeface ships with the page, at every weight it draws":
-            re.sub(r"@font-face\{[^}]*font-weight:600[^}]*\}", "", good_html),
-        "every edge type has a caption written for this board":
-            good_html.replace("    case 'custody':\n      return 'x';\n", "", 1),
+    poison_l0 = {
         # a node on the map with no argument for why it is there
         "every L0 node carries an entity dossier":
-            wrap(L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1}}])),
+            (L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1}}])),
         # an unsourced claim, which is the one rule that never bends
         "every dossier claim is tiered and sourced":
-            wrap(L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1},
+            (L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1},
                          "dossier": {"narrative": "n",
                                      "claims": [{"text": "x", "tier": 1, "source": ""}]}}])),
         # registers that do not sum to the board
         "register partition is total":
-            wrap(L0(counts={"total": 8, "l0": 1, "ledger": 1, "pathOnly": 0, "unattached": 5})),
+            (L0(counts={"total": 8, "l0": 1, "ledger": 1, "pathOnly": 0, "unattached": 5})),
         "summarised edge tier is the strongest of its underlying links":
-            wrap(L0(l0=two_l0, counts={"total": 8, "l0": 2, "ledger": 1, "pathOnly": 0, "unattached": 5},
+            (L0(l0=two_l0, counts={"total": 8, "l0": 2, "ledger": 1, "pathOnly": 0, "unattached": 5},
                     summarised=[{"a": "e0", "b": "e1", "n": 2, "tier": 3,
                                  "via": ["a-b", "e2"], "links": 4}])),
         # one shared member is not a summary, it is a restatement — and 420 of them
         # would have been drawn on the real board
         "the shared-member gate holds and only hand-written edges are summarised":
-            wrap(L0(l0=two_l0, counts={"total": 8, "l0": 2, "ledger": 1, "pathOnly": 0, "unattached": 5},
+            (L0(l0=two_l0, counts={"total": 8, "l0": 2, "ledger": 1, "pathOnly": 0, "unattached": 5},
                     summarised=[{"a": "e0", "b": "e1", "n": 1, "tier": 1,
                                  "via": ["a-b"], "links": 2}])),
         # an edge drawn to an unattached entity
         "no routed or path-only entity emits an edge instance":
-            wrap(L0(directEdges=[{"a": "e0", "b": "e3", "n": 1, "tier": 1, "types": ["custody"]}])),
+            (L0(directEdges=[{"a": "e0", "b": "e3", "n": 1, "tier": 1, "types": ["custody"]}])),
         # the class bar says two members, the ledger lists one
-        "UI copy agrees with the register counts":
-            wrap(L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [],
+        "every L0 node's class bar sums to the members it lists":
+            (L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [],
                          "mix": {"person": 1, "document": 1}}])),
         # the matcher going loose, plus an uncited authority claim
         "structural authority is cited, and the exclusions hold":
-            wrap(L0(authority={"susan-gough": {"authority": "x", "instruments": [],
+            (L0(authority={"susan-gough": {"authority": "x", "instruments": [],
                                                "weight": 3, "tense": "holds",
                                                "publicRecord": {"connections": 0}}})),
         # a connection row with no edge behind it: something generated it
         "every connection row is backed by a hand-written edge":
-            wrap(L0(connections={"e0": [{"id": "a-b", "type": "custody", "tier": 1,
+            (L0(connections={"e0": [{"id": "a-b", "type": "custody", "tier": 1,
                                          "label": "Ann Bee", "cls": "person",
                                          "dir": "out", "why": "", "note": ""}]})),
         # the JR., J. reappearance site: a via that resolves to nothing
         "every routed row names its intermediate resolvably":
-            wrap(L0(l0=[{"id": "e0", "direct": [], "mix": {},
+            (L0(l0=[{"id": "e0", "direct": [], "mix": {},
                          "routed": [{"id": "e4", "depth": 2, "via": ["ghost"]}]}])),
-    })
+    }
 
     # ---- Design's nine, from DESIGN-RESPONSE-LAYOUT-2026-08-24 section 5 ----------
     # Each poison is the specific input Design named in the "must reject" column.
-    # These checks read a build product on disk rather than the html fixture, so
+    # These checks read a build product on disk rather than the synthetic board, so
     # they get their own channel: _LAYOUT_OVERRIDE, set around the call below.
     _real = _layout()
     # Design's checks compare the MODEL against the board it was built from, so the
@@ -2791,42 +2341,41 @@ def self_test():
         if name == "counts match the golden manifest":
             print(f"  n/a   {name} (drift tripwire, not a property)")
             continue
-        # The scripted-analyst check does not read the board or the HTML fixture
-        # -- it runs real JavaScript in a subprocess -- so a poisoned dict proves
-        # nothing about it. Its poison is BREAK=1, which disables the topic table
-        # inside the function under test. Same contract as every other check:
-        # show it going red, or it is not evidence.
-        if name == "scripted analyst answers from the right branch":
-            os.environ["BREAK"] = "1"
+        if name in poison_l0:
+            global _L0_OVERRIDE
+            _L0_OVERRIDE = poison_l0[name]
             try:
-                caught = fn(base, good_html)
+                caught = fn(poisons.get(name, base))
             finally:
-                os.environ.pop("BREAK", None)
-            clean = fn(base, good_html)
+                _L0_OVERRIDE = L0()
+            try:
+                clean = fn(base)
+            finally:
+                _L0_OVERRIDE = None
         elif name in poison_rejects:
             global _REJECTS_OVERRIDE
             _REJECTS_OVERRIDE = poison_rejects[name]
             try:
-                caught = fn(base, good_html)
+                caught = fn(base)
             finally:
                 _REJECTS_OVERRIDE = []
-            clean = fn(base, good_html)
+            clean = fn(base)
             _REJECTS_OVERRIDE = None
         elif name in poison_images:
             global _IMAGES_OVERRIDE
             _IMAGES_OVERRIDE = poison_images[name]
             try:
-                caught = fn(base, good_html)
+                caught = fn(base)
             finally:
                 _IMAGES_OVERRIDE = None
-            clean = fn(base, good_html)
+            clean = fn(base)
         elif name in poison_foia:
             global _FOIA_OVERRIDE
             caught = []
             for one in poison_foia[name]:
                 _FOIA_OVERRIDE = one
                 try:
-                    got = fn(base, good_html)
+                    got = fn(base)
                 finally:
                     _FOIA_OVERRIDE = None
                 if not got:
@@ -2834,7 +2383,7 @@ def self_test():
                     print(f"  FAIL  {name} accepted one of its poisons")
                     break
                 caught = got
-            clean = fn(base, good_html)
+            clean = fn(base)
         elif name in poison_threads:
             # Seven poisons, one per clause: every clause a check asserts needs its
             # own, or the untested ones are indistinguishable from broken.
@@ -2843,7 +2392,7 @@ def self_test():
             for one in poison_threads[name]:
                 _THREADS_OVERRIDE = one
                 try:
-                    got = fn(base, good_html)
+                    got = fn(base)
                 finally:
                     _THREADS_OVERRIDE = None
                 if not got:
@@ -2851,7 +2400,7 @@ def self_test():
                     print(f"  FAIL  {name} accepted one of its poisons")
                     break
                 caught = got
-            clean = fn(base, good_html)
+            clean = fn(base)
         elif name in poison_patents or name in poison_obs:
             # A check may carry SEVERAL poisons and every one must be rejected;
             # one poison per check is only enough when the check asserts one thing,
@@ -2868,7 +2417,7 @@ def self_test():
                 else:
                     _PATENTS_OVERRIDE = one
                 try:
-                    got = fn(base, good_html)
+                    got = fn(base)
                 finally:
                     _PATENTS_OVERRIDE = None
                     _OBS_OVERRIDE = None
@@ -2878,7 +2427,7 @@ def self_test():
                     print(f"  FAIL  {name} accepted one of its poisons")
                     break
                 caught = got
-            clean = fn(base, good_html)
+            clean = fn(base)
         elif name in poison_layout:
             global _LAYOUT_OVERRIDE
             lb = _real_board if _real_board is not None else base
@@ -2896,19 +2445,17 @@ def self_test():
             for pz in ps:
                 _LAYOUT_OVERRIDE = pz
                 try:
-                    got = fn(lb, good_html)
+                    got = fn(lb)
                 finally:
                     _LAYOUT_OVERRIDE = None
                 if not got:
                     caught = []          # one poison slipped through: the check is dead
                     break
                 caught = caught + got
-            clean = fn(lb, good_html)
+            clean = fn(lb)
         else:
-            b = poisons.get(name, base)
-            html = poison_html.get(name, good_html)
-            caught = fn(b, html)
-            clean = fn(base, good_html)
+            caught = fn(poisons.get(name, base))
+            clean = fn(base)
         if not caught:
             print(f"  FAIL  {name}: did NOT reject poisoned input — this check is dead")
             ok = False
@@ -2930,7 +2477,6 @@ def main():
         print("data/the-program.json missing — run merge.py", file=sys.stderr)
         return 1
     b = json.load(open(BOARD, encoding="utf-8"))
-    html = open(DIST, encoding="utf-8").read() if os.path.exists(DIST) else ""
 
     if "--update-golden" in args:
         json.dump({"note": "Deliberately accepted counts. Every change here should be "
@@ -2943,7 +2489,7 @@ def main():
     print("=== verify ===")
     failed = 0
     for name, fn in CHECKS_RUN:
-        problems = fn(b, html)
+        problems = fn(b)
         if problems:
             failed += 1
             print(f"  FAIL  {name}  ({len(problems)})")

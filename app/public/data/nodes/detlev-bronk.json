@@ -45,7 +45,7 @@
 "direction": "out",
 "edgeLabel": "Named as a panel member inside the disputed document",
 "id": "mj-12-documents",
-"l0": true,
+"l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "Bronk is named as an MJ-12 member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED and again by the host in a separate episode. No record opened for this node connects him to the subject; his offices are the reason he is on the board.",
 "sources": [
@@ -111,7 +111,7 @@
 "status": "former",
 "sub": "President, National Academy of Sciences 1950-1962; Vice Chairman, National Advisory Committee for Aeronautics",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 289 of 1136, score 39). 1 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 297 of 1170, score 39). 1 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

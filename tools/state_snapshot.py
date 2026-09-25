@@ -17,7 +17,9 @@ cannot mislead the next session.
 USAGE
     python3 tools/state_snapshot.py            # human-readable
     python3 tools/state_snapshot.py --json     # machine-readable
-    python3 tools/state_snapshot.py --gate     # also run the full gate (slow)
+    python3 tools/state_snapshot.py --gate     # then run tools/gate.py (slow); its
+                                               # --quick, --no-build, --no-app and
+                                               # --idempotent pass straight through
 
 Read CLAUDE.md first. This tells you WHAT is here; CLAUDE.md tells you the rules.
 """
@@ -146,7 +148,6 @@ def collect():
     }
 
     out["artifacts"] = {
-        "dist/the-program.html": _mb("dist/the-program.html"),
         "data/the-program.json": _mb("data/the-program.json"),
         "data/l0-model.json": _mb("data/l0-model.json"),
         "data/design-extract.json": _mb("data/design-extract.json"),
@@ -171,102 +172,34 @@ def collect():
     return out
 
 
-BOARD_URL = os.environ.get("BOARD_URL", "http://127.0.0.1:8899/the-program.html")
+GATE_FLAGS = ("--quick", "--no-build", "--no-app", "--idempotent")
 
 
-def _board_served():
-    """Is the built board reachable over HTTP right now?
+def run_gate(args, capture):
+    """tools/gate.py, with the gate flags passed through. Returns (exit, output).
 
-    The three browser steps cannot run against file:// -- a 13MB document served
-    that way never finishes parsing in this container. Rather than let them fail
-    for a reason that has nothing to do with the board, this asks first and the
-    gate reports SKIPPED with the reason NAMED. A skip you can read is fine; a
-    silent one is how a check sits dead for weeks.
-    """
-    try:
-        import urllib.request
-        with urllib.request.urlopen(BOARD_URL, timeout=4) as r:
-            return r.status == 200
-    except Exception:
-        return False
-
-
-def _why(r, keep=6):
-    """The failing lines out of a check's own output, for the gate summary.
-
-    Every check in this gate prefixes a failure with FAIL. Until 30 August the
-    gate captured that output and discarded it, so a red CI run said
-    `runtime_check FAIL(1)` and nothing else -- the name of the one assertion
-    that failed was thrown away, and reading it back meant reproducing the run.
-    A gate that knows which check failed and will not say why is a gate that
-    costs a session every time it fires.
-
-    Falls back to the tail of stderr, then stdout, when nothing matches -- a
-    check that dies before printing anything still has to be diagnosable.
-    """
-    out = (r.stdout or b"").decode("utf-8", "replace")
-    err = (r.stderr or b"").decode("utf-8", "replace")
-    lines = [l.strip() for l in out.splitlines() if l.strip().startswith("FAIL")]
-    if not lines:
-        lines = [l.strip() for l in err.splitlines() if l.strip().startswith("FAIL")]
-    if not lines:
-        tail = (err.strip() or out.strip()).splitlines()
-        lines = [l.strip() for l in tail[-keep:] if l.strip()]
-    if not lines:
-        return "  -- and printed nothing"
-    shown = lines[:keep]
-    more = "" if len(lines) <= keep else "\n      ... and %d more" % (len(lines) - keep)
-    return "\n      " + "\n      ".join(shown) + more
-
-
-def run_gate():
-    """Run the gate and report per-command. Slow; --idempotent builds twice."""
-    cmds = [
-        # Runs first and needs no browser: it decides whether the browser steps CAN
-        # start. Four of them used to hardcode this container's Chromium path, so off
-        # this machine they died with ENOENT before asserting anything.
-        ("browser_env --self-test",
-         ["node", _p("tools", "test_browser_env.js"), "--self-test"], False),
-        ("verify", [sys.executable, _p("tools", "verify.py")], False),
-        ("verify --self-test", [sys.executable, _p("tools", "verify.py"), "--self-test"], False),
-        ("capture_strip", ["node", _p("tools", "capture_strip.js")], True),
-        ("audit_independent", [sys.executable, _p("tools", "audit_independent.py")], False),
-        ("runtime_check", ["node", _p("tools", "runtime_check.js")], True),
-        # The packed-cell layout, read back out of the canvas it drew.
-        ("test_packed_layout", ["node", _p("tools", "test_packed_layout.js")], True),
-        ("test_packed_layout --self-test",
-         ["node", _p("tools", "test_packed_layout.js"), "--self-test"], True),
-        ("test_scripted_analyst", ["node", _p("tools", "test_scripted_analyst.mjs")], False),
-        ("verify --idempotent", [sys.executable, _p("tools", "verify.py"), "--idempotent"], False),
-    ]
-    served = _board_served()
-    results = {}
-    for name, cmd, needs_browser in cmds:
-        if needs_browser and not served:
-            results[name] = ("SKIPPED -- nothing serving %s. Run: "
-                             "npx http-server dist -p 8899 --silent &" % BOARD_URL)
-            continue
-        try:
-            env = dict(os.environ, BOARD_URL=BOARD_URL)
-            r = subprocess.run(cmd, capture_output=True, cwd=ROOT, env=env)
-            if r.returncode == 0:
-                results[name] = "PASS"
-            else:
-                results[name] = "FAIL(%d)%s" % (r.returncode, _why(r))
-        except FileNotFoundError as exc:
-            results[name] = "COULD NOT RUN: %s" % exc
-    return results
+    This used to hold the gate itself: a list of commands that drove the old
+    single-file shell, three of them needing it served on port 8899. The old
+    shell is retired and the gate is tools/gate.py; this only calls it."""
+    cmd = [sys.executable, _p("tools", "gate.py")] + [a for a in args if a in GATE_FLAGS]
+    if capture:
+        r = subprocess.run(cmd, capture_output=True, cwd=ROOT)
+        out = (r.stdout or b"").decode("utf-8", "replace")
+        return r.returncode, out
+    return subprocess.run(cmd, cwd=ROOT).returncode, None
 
 
 def main():
     args = sys.argv[1:]
     state = collect()
-    if "--gate" in args:
-        state["gate"] = run_gate()
 
     if "--json" in args:
+        rc = 0
+        if "--gate" in args:
+            rc, out = run_gate(args, capture=True)
+            state["gate"] = {"exit": rc, "tail": out.strip().splitlines()[-24:]}
         print(json.dumps(state, indent=2))
-        return 0
+        return 1 if rc else 0
 
     def head(t):
         print("\n" + t + "\n" + "-" * len(t))
@@ -324,11 +257,11 @@ def main():
     print("  %s" % state["git"].get("head"))
     print("  working tree: %s" % ("DIRTY" if state["git"].get("dirty") else "clean"))
 
-    if "gate" in state:
-        head("gate")
-        for k, v in state["gate"].items():
-            print("  %-24s %s" % (k, v))
-        if any(v != "PASS" for v in state["gate"].values()):
+    if "--gate" in args:
+        head("gate (tools/gate.py)")
+        sys.stdout.flush()
+        rc, _ = run_gate(args, capture=False)
+        if rc:
             print("\n  NOT GREEN. Do not build on this until it is.")
             return 1
 

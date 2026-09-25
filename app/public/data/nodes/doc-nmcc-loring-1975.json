@@ -1,0 +1,149 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "NMCC Memorandum for Record, 29 October 1975, reproduced at http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
+"text": "The memorandum's five numbered paragraphs read: '1. At 290200 EST AFOC informed NMCC that an unidentified helicopter, possibly two, had been sighted flying low over Loring AFB Maine, in proximity to a weapons storage area. 2. An Army National Guard helo was called in to assist in locating the unidentified helo(s). 3. NORAD was informed of the incident by SAC, requested and received authority from Canadian officials to proceed into Canadian airspace if necessary to locate the intruder. 4. At 0404 SAC Command Center informed NMCC that the army helo assisting on the scene had not sighted the unidentified helo(s). 5. A similar incident was reported at Loring the evening of 28 October 1975.' Signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations (NMCC).",
+"tier": 1
+},
+{
+"source": "NMCC Memorandum for Record, 29 October 1975, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
+"text": "The distribution list is CJCS (5), DJS (3), J-30, J-31, J-32, J-32A, J-33, J-34, J-35, J-38, CSA, CNO, CSAF, CMC, CH WWMCCS OPS & EVAL DIV, DDO (NMCC), ADDO (NMCC), CCOC (NMCC), DIA REP FOR NMIC, NSA REP, CIA REP, PA REP, WEST HEM DESK, NWSB and NMCC BRIEFER.",
+"tier": 1
+},
+{
+"source": "NMCC AFB PENETRATION narrative, 29 October 1975, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
+"text": "The accompanying AFB PENETRATION narrative records that 'Sightings of the unidentified helicopter(s) were limited to security guards' and that one helicopter landed briefly in proximity to a weapons storage area after penetrating Loring AFB from Canadian territory.",
+"tier": 1
+},
+{
+"source": "NMCC DDO updates, 29 to 30 October 1975, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
+"text": "The four DDO updates cite their sources by message: '42 BW OP LORING AFB 291140Z OCT 75' for the 291300 EST update; that message plus 'SAC CP OPS CONTROL 291954Z OCT 75' for the 292200 EST update; that message plus 'PHONCON DDO/INTERESTED ACTIVITIES' for the 300600 EST update; and that message plus 'PHONCON NMCC/FOC' for the 301300 EST update.",
+"tier": 1
+},
+{
+"source": "NMCC Memorandum for Record and DDO updates, 29 to 30 October 1975, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
+"text": "THE DOCUMENT NEVER SAYS UFO. Its vocabulary throughout is 'unidentified helicopter', 'intruder' and 'AFB Penetration'. What it documents is a failure to identify and a failure to intercept at a nuclear weapons storage area, escalated to the Joint Staff, the Army Staff, a Deputy Secretary of Defense aide and the State Department's Canadian desk. That is the whole of the Tier 1 claim and it is enough.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1975-10-30",
+"dateStart": "1975-10-29",
+"direction": "out",
+"edgeLabel": "The memorandum's subject is this installation",
+"id": "l-loring",
+"l0": false,
+"label": "Loring AFB, Maine",
+"note": "Subject line 'AFB Penetration'; Loring AFB Maine named in paragraph 1.",
+"sources": [
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1975-10-30",
+"dateStart": "1975-10-29",
+"direction": "out",
+"edgeLabel": "The command-level record of the penetration and the failed response",
+"id": "loring-1975",
+"l0": false,
+"label": "Loring AFB penetrations, 27 to 31 October 1975",
+"note": "Five numbered paragraphs plus four DDO updates, each citing its source message.",
+"sources": [
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1975-10-30",
+"dateStart": "1975-10-29",
+"direction": "out",
+"edgeLabel": "SAC is the reporting chain throughout the memorandum",
+"id": "strategic-air-command",
+"l0": true,
+"label": "Strategic Air Command (SAC)",
+"note": "NORAD was informed by SAC; the SAC Command Center reported the failed search; SAC CP OPS CONTROL 291954Z OCT 75 is cited as a source message.",
+"sources": [
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1975-10-30",
+"dateStart": "1975-10-29",
+"deg": 3,
+"denials": [],
+"desc": "THE BEST SINGLE DOCUMENT IN THE NUCLEAR STRAND AND IT IS NOT A UFO DOCUMENT. It is a National Military Command Center Memorandum for Record, dated 29 October 1975 at 0605 EST, subject line 'AFB Penetration', signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations. Five numbered paragraphs record that an unidentified helicopter, possibly two, was sighted flying low over Loring AFB in proximity to a weapons storage area; that an Army National Guard helicopter was called in and failed to locate it; that NORAD requested and received authority from Canadian officials to cross into Canadian airspace in pursuit; and that a similar incident had occurred the previous evening. Four DDO updates follow, each citing its source message. The distribution list is what makes the document remarkable: CJCS in five copies, DJS in three, J-30 through J-38, the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, the Chief of WWMCCS Operations and Evaluation Division, the DIA representative for the National Military Intelligence Center, the NSA representative, the CIA representative and the Western Hemisphere desk. This is what a nuclear security incident looks like on paper when nobody has decided what it is.",
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "doc-nmcc-loring-1975",
+"l0": false,
+"label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
+"locLabel": null,
+"members": null,
+"short": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
+"sources": [
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+},
+{
+"date": "2026-09-19",
+"name": "The War Zone (TWZ), 'The Mysterious Cold War Case Of Unidentified Aircraft Descending On Loring Air Force Base', quoting the Loring OPREP phrase about clear intent in the weapons storage area and a SAC message captioned 'Defense Against Helicopter Assault'. Opened 19 September 2026",
+"url": "https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+}
+],
+"sub": "National Military Command Center memorandum and four DDO updates on the Loring AFB penetrations, signed by a serving brigadier general",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 442 of 1170, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"timeline": [
+{
+"date": "1975-10-29",
+"id": "tl-1975-10-29-nmcc-afb-penetration",
+"label": "NMCC logs an 'AFB Penetration' at Loring and runs it up the Joint Staff",
+"precision": "day",
+"strand": "program",
+"text": "At 0605 EST on 29 October 1975 the National Military Command Center issued a Memorandum for Record subject 'AFB Penetration', signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, recording that an unidentified helicopter, possibly two, had been sighted flying low over Loring AFB in proximity to a weapons storage area, that an Army National Guard helicopter had failed to locate it, and that NORAD had obtained Canadian authority to pursue across the border. Distribution ran to CJCS, DJS, J-30 through J-38, the service chiefs and the DIA, NSA and CIA representatives.",
+"tier": "A"
+}
+]
+}

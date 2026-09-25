@@ -5,6 +5,11 @@
 "band": null,
 "claims": [
 {
+"source": "CINCNORAD message as excerpted at http://www.nicap.org/intsac.htm , against the 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , both opened 2026-09-19",
+"text": "Minot recurs in the 1975 sequence, nine years after the 1966 incursions, but the two NORAD documents disagree about which Minot installation is meant. CINCNORAD's four-part message of 11 November 1975 lists 'Minot AFB, ND'; the 24th NORAD Region Senior Director's Log for 10 November 1975 records the sighting at 'Minot Air Force Station' and says the object 'passed over the radar station'. The board carries the discrepancy rather than folding the radar-station entry into the missile-field record.",
+"tier": 1
+},
+{
 "source": "ufohastings.com document archive, items minot_afb_1966-08-25_01 to _03 and Minot_Daily_News_1 and _2",
 "text": "Three Air Force documents dated 25 August 1966 concerning Minot AFB, and Minot Daily News coverage of 6 December 1966, are published in facsimile in the UFOs & Nukes document archive.",
 "tier": 1
@@ -20,13 +25,34 @@
 "connections": [
 {
 "claimTier": 1,
+"cls": "location",
+"dateEnd": "1966",
+"dateStart": "1966",
+"direction": "out",
+"edgeLabel": "The 1966 incursions were over this installation's Minuteman launch facilities",
+"id": "l-minot",
+"l0": false,
+"label": "Minot AFB, North Dakota",
+"note": "Minot AFB is named in the 1975 CINCNORAD message as one of the installations with a recurring history; the 1966 material is the board's existing node.",
+"sources": [
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
 "cls": "event",
 "dateEnd": "1967-03-16",
 "dateStart": "1966-08-25",
 "direction": "out",
 "edgeLabel": "Minot 1966 precedes the Malmstrom shutdowns by seven months",
 "id": "malmstrom-echo-flight-1967",
-"l0": false,
+"l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "Different wing, different state, same category of report. The sequence F. E. Warren 1965, Minot 1966, Malmstrom 1967 establishes recurrence rather than a single-site anomaly.",
 "sources": [
@@ -36,7 +62,7 @@
 "url": "https://www.ufohastings.com/documents"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "temporal"
 },
 {
@@ -64,10 +90,11 @@
 "coords": null,
 "dateEnd": "1966-12-06",
 "dateStart": "1966-08-25",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "desc": "Minot Air Force Base, North Dakota, home of the 91st Strategic Missile Wing, generated a documented run of unexplained aerial activity over its Minuteman launch facilities during 1966. Robert Hastings publishes three Air Force documents dated 25 August 1966 relating to Minot incursions, together with Minot Daily News coverage of 6 December 1966. The 1966 material matters because it establishes a pattern predating the March 1967 Malmstrom shutdowns by seven months at a different wing in a different state, which is the point that separates the nuclear-incursion strand from a single-site anomaly: the same category of report recurs across F. E. Warren AFB (1 August 1965), Minot (1966), Malmstrom (March 1967), and then the whole northern tier in the autumn of 1975. Hastings's Minot witnesses are among those whose affidavits he holds and publishes. This board grades the 1966 Minot material at tier 1 for the existence and dating of the documents and tier 2 for the interpretation placed on them.",
 "domains": [
+"nuclear-witnesses-2026-09-19",
 "w2-retrieval-literature"
 ],
 "dossier": null,
@@ -86,14 +113,29 @@
 "short": "Minot AFB incursions, 1966",
 "sources": [
 {
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+},
+{
+"date": "1975-11-19",
+"name": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+},
+{
 "date": "2026-08-12",
 "name": "UFOs & Nukes document and affidavit archive (Robert Hastings)",
 "url": "https://www.ufohastings.com/documents"
+},
+{
+"date": null,
+"name": "CINCNORAD message as excerpted at , against the 24th NORAD Region log, ,%201967%20NORAD%20logs_djvu.txt , both opened 2026-09-19",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016"
 }
 ],
 "sub": "Reported object activity over 91st SMW Minuteman sites, North Dakota",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 902 of 1136, score 18). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 796 of 1170, score 22). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "date": "1966-08-25",

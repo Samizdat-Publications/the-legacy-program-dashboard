@@ -1,0 +1,385 @@
+{
+"A": 3,
+"C": 1,
+"D": 1,
+"band": "custody",
+"claims": [
+{
+"source": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975, reproduced at http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
+"text": "SAC is the reporting node in the primary records. The National Military Command Center's Memorandum for Record of 29 October 1975 states that 'NORAD was informed of the incident by SAC' and that 'At 0404 SAC Command Center informed NMCC that the army helo assisting on the scene had not sighted the unidentified helo(s)', citing SAC CP OPS CONTROL 291954Z OCT 75 among its sources.",
+"tier": 1
+},
+{
+"source": "24th NORAD Region Senior Directors Log, November 1975, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"text": "The 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 is largely a record of calls from Strategic Air Command posts, opening '7 Nov 75 (1035Z) - Received a call from the 341st Strategic Air Command Post (SAC CP)' and repeatedly attributing missile-site reports to 'From SAC CP'.",
+"tier": 1
+},
+{
+"source": "341st SMW history, Jan-Mar 1967, pp 32-33, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "SAC escalated the Echo Flight shutdown within hours. The 341st Strategic Missile Wing history records: 'At approximately 1400 hrs on 16 Mar 67, the 341st SMW was advised that SAC Headquarters had called in OOAMA support for a complete engineering analysis of this problem', and cites the SAC message DM 02752 to 341 SMW, subject 'Loss of Strategic Alert Echo Flight, Malmstrom AFB', dated 17 March 1967.",
+"tier": 1
+},
+{
+"source": "NICAP, http://www.nicap.org/intsac.htm , and The War Zone, https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base , both opened 2026-09-19",
+"text": "Several SAC bases in the northern tier were placed on a high priority Security Option 3 alert during the October and November 1975 intrusions over atomic weapons storage areas, and a SAC security police message of October 1975 was captioned 'Defense Against Helicopter Assault'.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1975-10-30",
+"dateStart": "1975-10-29",
+"direction": "in",
+"edgeLabel": "SAC is the reporting chain throughout the memorandum",
+"id": "doc-nmcc-loring-1975",
+"l0": false,
+"label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
+"note": "NORAD was informed by SAC; the SAC Command Center reported the failed search; SAC CP OPS CONTROL 291954Z OCT 75 is cited as a source message.",
+"sources": [
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1977-11-18",
+"dateStart": "1977-11-18",
+"direction": "in",
+"edgeLabel": "SAC installation; 44th Strategic Missile Wing Minuteman field",
+"id": "l-ellsworth",
+"l0": false,
+"label": "Ellsworth AFB, South Dakota",
+"note": "The unit is as claimed by the two claimants, not as established by any opened Air Force record. No document opened by this board places either man at Ellsworth.",
+"sources": [
+{
+"date": "2026-09-07",
+"name": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 2,
+"cls": "location",
+"dateEnd": "1975-11-05",
+"dateStart": "1975-11-04",
+"direction": "in",
+"edgeLabel": "SAC installation; 321st Strategic Missile Wing",
+"id": "l-grand-forks",
+"l0": false,
+"label": "Grand Forks AFB, North Dakota",
+"note": "The alert-ramp incident is cited from message traffic this board has not opened in its own text, so the edge is Tier 2.",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1975-10-31",
+"dateStart": "1975-10-27",
+"direction": "in",
+"edgeLabel": "SAC installation; 42nd Bombardment Wing and its nuclear weapons storage area",
+"id": "l-loring",
+"l0": false,
+"label": "Loring AFB, Maine",
+"note": "The NMCC memorandum records SAC informing NORAD of the penetration and the SAC Command Center reporting back on the failed National Guard search, citing SAC CP OPS CONTROL 291954Z OCT 75.",
+"sources": [
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+},
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1975-11-19",
+"dateStart": "1967-03-16",
+"direction": "in",
+"edgeLabel": "SAC installation; 341st Strategic Missile Wing",
+"id": "l-malmstrom",
+"l0": false,
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"note": "SAC Headquarters called in OOAMA support for the Echo Flight engineering analysis within hours on 16 March 1967; the 1975 NORAD log is largely a record of calls from the 341st Strategic Air Command Post.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "1975-11-19",
+"name": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1975-11-11",
+"dateStart": "1966",
+"direction": "in",
+"edgeLabel": "SAC installation; 91st Strategic Missile Wing and 5th Bomb Wing",
+"id": "l-minot",
+"l0": false,
+"label": "Minot AFB, North Dakota",
+"note": "The 1968 Blue Book file is built on 91st SMW and 862nd Combat Support Group records; CINCNORAD's 1975 message names Minot AFB.",
+"sources": [
+{
+"date": "1968-11-13",
+"name": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026",
+"url": "https://minotb52ufo.com/doc.php"
+},
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1967-10-01",
+"dateStart": "1965-08-01",
+"direction": "in",
+"edgeLabel": "SAC installation; Minuteman field, and the site of the post-Echo-Flight EMP test programme",
+"id": "l-warren",
+"l0": false,
+"label": "F. E. Warren AFB, Wyoming",
+"note": "The 341st SMW history records SAMSO EMP testing at Warren completing all objectives on Delta Flight before moving to the 564th SMS in October 1967.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "1965-08-01",
+"name": "rr0.org mirror of Robert Hastings's F. E. Warren AFB 1965 material, reproducing the Project Blue Book telephone log of 1 August 1965 kept by Lt. Anspaugh and first published by J. Allen Hynek in 'The UFO Experience' (1972). Opened 19 September 2026",
+"url": "https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/"
+}
+],
+"tier": "C",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1979-01-18",
+"dateStart": "1975-10-30",
+"direction": "in",
+"edgeLabel": "SAC installation; 379th Bombardment Wing",
+"id": "l-wurtsmith",
+"l0": false,
+"label": "Wurtsmith AFB, Michigan",
+"note": "The NORAD log records the object over the SAC weapons storage area; the 379th Bombardment Wing historian's 1979 file is the wing's own record of the omission.",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+},
+{
+"date": "1975-10-31",
+"name": "NICAP case page, Wurtsmith AFB incursion, 30 October 1975, giving the NORAD Command Director's Log entry 31 Oct 75/0445Z. Opened 19 September 2026",
+"url": "https://www.nicap.org/babylon/751030_wurtsmith.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1992-06-01",
+"dateStart": "1946-03-21",
+"direction": "out",
+"edgeLabel": "Major command of the United States Air Force, 1946 to 1992",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "Asserted from the primary records themselves, which route SAC reporting through Air Force channels: the NMCC memorandum's distribution includes CSAF, and the 341st SMW history records SAC Headquarters tasking Ogden Air Materiel Area.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1992-06-01",
+"dateStart": "1946-03-21",
+"deg": 9,
+"denials": [],
+"desc": "THE MISSING SPINE. Every incident in this cluster happened inside Strategic Air Command, and until now the board had United States Air Force above and nothing between it and the bases. SAC owned Loring, Wurtsmith, Malmstrom, Minot, Grand Forks, F. E. Warren, Ellsworth and Walker; it ran the alert postures the 1975 documents invoke; and it is SAC command posts that appear as the reporting node in almost every primary record opened for this pass. The 24th NORAD Region Senior Director's Log for November 1975 reads almost entirely as a record of calls from 'SAC CP' and the 341st Strategic Air Command Post. The National Military Command Center's Loring memorandum of 29 October 1975 records that NORAD was informed of the incident by SAC and that the SAC Command Center reported back on the failure of the Army National Guard helicopter to locate the intruder, citing SAC CP OPS CONTROL 291954Z OCT 75. When Echo Flight went off alert at Malmstrom on 16 March 1967 it was SAC Headquarters that called in Ogden Air Materiel Area support for a complete engineering analysis within hours. The node exists so that a reader can see that these are not scattered base-level anomalies but a run of reports moving up one chain of command, and so that the base hubs have something to attach to.",
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": {
+"claims": [
+{
+"source": "NMCC Memorandum for Record 29 Oct 1975; 24th NORAD Region Senior Director's Log 7-19 Nov 1975; 341st SMW history, all opened 2026-09-19",
+"text": "SAC IS THE REPORTING NODE IN THE PRIMARY RECORDS. The National Military Command Center's Memorandum for Record of 29 October 1975 states that 'NORAD was informed of the incident by SAC'. The 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 is largely a record of calls from Strategic Air Command posts. The 341st Strategic Missile Wing history records that within hours of the Echo Flight shutdown on 16 March 1967, SAC Headquarters had been called.",
+"tier": 1
+},
+{
+"source": "stated inference from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md",
+"text": "THE PROVENANCE RATIO THAT MAKES THIS CLUSTER DIFFERENT. Of 47 named witnesses in the nuclear register, 26 reached the record through contemporaneous official paper and 13 through a researcher's interview programme. A missile field generates paperwork by design, which is why this seam is documented where most of this subject is only attested.",
+"tier": 3
+}
+],
+"narrative": "The reason this node matters more than an organisational chart entry is that it changes what kind of evidence the nuclear cluster rests on.\n\nOf the 47 named witnesses in this cluster's register, 26 reached the record through contemporaneous official paper: message traffic, memoranda for record, duty logs, AF Form 117s and a Blue Book phone log. Thirteen reached it through a researcher's interview programme. That ratio is unusual in this subject and it is entirely a consequence of where these events happened. A missile field generates paperwork by design. A man who sees something in a field does not.\n\nSo SAC sits at the centre of the map here as the entity whose routine record-keeping is the evidence. Its bases are the hubs, the incidents attach to the bases, and the witnesses attach to the incidents. Reading outward from this node is reading the chain by which a claim became a document.\n\nWhat this node does not assert is any conclusion about the objects. The records establish that intrusions were reported, escalated, logged and in several cases responded to with intercepts and alert postures. They do not establish what was intruding, and several of them record that nobody determined it.",
+"openQuestions": [
+"The full OASD FOIA compilation behind the NORAD log: at least 449 further pages from the same release stream were not opened.",
+"Whether SAC-level correspondence about the 1975 sequence exists beyond the NORAD and NMCC records already opened.",
+"The 'Report of Engineering Investigation of Echo Flight Incident, 16 Mar 67' of 23 March 1967, cited by exhibit on nearly every page of the released history and opened by nobody."
+],
+"roles": [
+"custody",
+"concealment",
+"oversight"
+],
+"whatItIs": "Strategic Air Command, the USAF major command that held the American land-based nuclear deterrent from 1946 to 1992. It owned every installation in this cluster: Malmstrom, Minot, Loring, Wurtsmith, F. E. Warren, Grand Forks and Ellsworth. It is on this map because it is the reporting node in the primary records, not because anyone claims anything about it.",
+"whyImplicated": "It is the institutional spine of the strongest documentary seam this board carries. Where almost everything else in this subject reaches the record through someone's testimony, the nuclear-incursion record reaches it through SAC's own message traffic, duty logs and unit histories. The National Military Command Center's Memorandum for Record of 29 October 1975 states plainly that NORAD was informed of the incident by SAC. The 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 is in substance a record of calls from SAC posts. When the Echo Flight shutdown happened on 16 March 1967, SAC Headquarters was called within hours and the wing history says so. Whatever one concludes about what was seen, the paper trail is the command's own."
+},
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "strategic-air-command",
+"l0": true,
+"label": "Strategic Air Command (SAC)",
+"locLabel": null,
+"members": [
+{
+"cls": "document",
+"id": "doc-nmcc-loring-1975",
+"label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-ellsworth",
+"label": "Ellsworth AFB, South Dakota",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-grand-forks",
+"label": "Grand Forks AFB, North Dakota",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-loring",
+"label": "Loring AFB, Maine",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-malmstrom",
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-minot",
+"label": "Minot AFB, North Dakota",
+"tier": "B"
+},
+{
+"cls": "location",
+"id": "l-warren",
+"label": "F. E. Warren AFB, Wyoming",
+"tier": "C"
+},
+{
+"cls": "location",
+"id": "l-wurtsmith",
+"label": "Wurtsmith AFB, Michigan",
+"tier": "B"
+}
+],
+"short": "Strategic Air Command",
+"sources": [
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+},
+{
+"date": "1975-11-19",
+"name": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+},
+{
+"date": "2026-09-19",
+"name": "The War Zone (TWZ), 'The Mysterious Cold War Case Of Unidentified Aircraft Descending On Loring Air Force Base', quoting the Loring OPREP phrase about clear intent in the weapons storage area and a SAC message captioned 'Defense Against Helicopter Assault'. Opened 19 September 2026",
+"url": "https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+},
+{
+"date": null,
+"name": "24th NORAD Region Senior Directors Log, November 1975, ,%201967%20NORAD%20logs_djvu.txt , opened 2026-09-19",
+"url": "https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016"
+}
+],
+"sub": "The USAF major command that owned every installation in this cluster; the institutional spine of the nuclear-incursion record, 1946 to 1992",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 390 of 1170, score 35). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"timeline": []
+}

@@ -1,0 +1,154 @@
+{
+"A": 1,
+"C": 1,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Reported at Metabunk and in the Hastings material, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ and https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , both opened 2026-09-19",
+"text": "In a 1997 letter to researcher Jim Klotz, Boeing engineer Robert Kaminski wrote that the Echo Flight investigation team found no significant failures, engineering data or findings that would explain how ten missiles were knocked off alert, and that the Air Force unexpectedly ordered the inquiry ended mid-stream with no report to be filed.",
+"tier": 2
+},
+{
+"source": "341st SMW history, Jan-Mar 1967, citing Report of Engineering Investigation of Echo Flight Incident, 23 March 1967, p 17, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "The first half of his account is corroborated by the Air Force's own history, quoting the classified engineering report: 'The investigation teams at Malmstrom, were unable to determine a logical cause for the incident.'",
+"tier": 1
+},
+{
+"source": "341st SMW histories, Apr-Jun and Jul-Sep 1967, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
+"text": "The second half is contradicted by the same source. The history records the investigation continuing at the contractor's facility, Boeing bench testing in its Network Resolution Area that reproduced the Channel 9 and 12 No-Go signature in 60 per cent of 20 applications of a 30 microsecond pulse, transformer-failure simulation tests at Malmstrom during the week of 15 May 1967, and three Boeing engineering change proposals numbered 1221, 1141-1 and 1141-2 plus FCIR MCL 2827.",
+"tier": 1
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "SECTION 2a PROVENANCE. His account reached the public as a private letter to a researcher thirty years after the event, and is published by Robert Hastings. No dated public statement by Kaminski before that letter was identified by the pass of 19 September 2026.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"His statement that the inquiry was stopped with no report filed is contradicted by the 341st SMW history, which cites the engineering report by title and date and records months of follow-on work and three resulting engineering change proposals."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1997",
+"dateStart": "1967-03",
+"direction": "out",
+"edgeLabel": "Boeing engineer on the investigation task group",
+"id": "malmstrom-echo-flight-1967",
+"l0": true,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"note": "HIS ACCOUNT REACHED THE PUBLIC AS A 1997 LETTER TO RESEARCHER JIM KLOTZ, THIRTY YEARS AFTER THE EVENT. The half of it that says no cause was found is corroborated by the unit history; the half that says the inquiry was stopped with no report filed is contradicted by it.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "A",
+"type": "witness-chain"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": "2011",
+"dateStart": "1997",
+"direction": "in",
+"edgeLabel": "Publishes his 1997 letter to Jim Klotz",
+"id": "robert-hastings",
+"l0": false,
+"label": "Robert L. Hastings",
+"note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. The letter itself was addressed to Klotz, not to Hastings, and has not been opened by this board.",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+}
+],
+"tier": "B",
+"type": "research"
+}
+],
+"date": "1997-01-01",
+"dateEnd": null,
+"dateStart": "1997-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "robert-kaminski",
+"instId": null,
+"l0": false,
+"label": "Robert J. Kaminski",
+"loc": "Seattle, Washington",
+"locId": null,
+"members": null,
+"narrative": "Robert Kaminski is the one witness in the Malmstrom cluster who was close to the hardware rather than to the story, and his account is in direct and checkable tension with the Air Force's own paper. He is described as a Boeing engineer on the team sent to Malmstrom after the Echo Flight shutdown. In a 1997 letter to researcher Jim Klotz he wrote that the investigation team found nothing that would explain ten missiles dropping off alert, no significant failures and no engineering data that accounted for it, and that the inquiry was ordered ended mid-stream with no report to be filed. The first half of that is corroborated by the 341st Strategic Missile Wing history, which records in the engineering report's own words that the teams at Malmstrom were unable to determine a logical cause. The second half is contradicted by the same history, which records the investigation continuing at the contractor's facility through 1967, Boeing bench tests in its Network Resolution Area reproducing the fault signature, and three engineering change proposals submitted by Boeing as a result. Both cannot be wholly right, and the board records the tension rather than resolving it, because one of them is a document and the other is a letter thirty years after the fact.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Robert J. Kaminski",
+"sources": [
+{
+"date": "2026-09-19",
+"name": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+{
+"date": "2026-09-19",
+"name": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"url": ""
+}
+],
+"status": "unknown",
+"sub": "Boeing Company engineer on the Echo Flight engineering investigation task group, Malmstrom AFB, March 1967",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 842 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The 1997 letter to Jim Klotz was NOT OPENED by this board.",
+"No Boeing personnel or contract record placing Kaminski on the Echo Flight task group has been opened. The unit history names the task group's member organisations, OOAMA, Boeing Company, Autonetics and 15th Air Force, but names no individual from them."
+]
+}

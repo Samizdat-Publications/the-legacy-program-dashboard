@@ -277,7 +277,7 @@
 "url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -363,6 +363,27 @@
 ],
 "tier": "B",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2001-06-14",
+"dateStart": "1967-03-16",
+"direction": "out",
+"edgeLabel": "The Air Force's own history states the UFO rumours were disproven",
+"id": "malmstrom-echo-flight-1967",
+"l0": true,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"note": "A DIRECTED DENIAL BY THE BODY THAT OWNED THE EVENT, and the only occurrence of the words Unidentified Flying Object in 88 released pages. Quoted in full because each side quotes half: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven. A Mobile Strike Team, which had checked all November Flight's LFs on the morning of 16 March 67, were questioned and stated that no unusual activity or sightings were observed.' NOTE WHAT THE EVIDENCE FOR THE DISPROOF IS: a team that had been at NOVEMBER Flight, not Echo Flight. The board records the non-sequitur without inflating it.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "A",
+"type": "denial"
 },
 {
 "claimTier": 1,
@@ -539,6 +560,32 @@
 },
 {
 "claimTier": 1,
+"cls": "institution",
+"dateEnd": "1992-06-01",
+"dateStart": "1946-03-21",
+"direction": "in",
+"edgeLabel": "Major command of the United States Air Force, 1946 to 1992",
+"id": "strategic-air-command",
+"l0": true,
+"label": "Strategic Air Command (SAC)",
+"note": "Asserted from the primary records themselves, which route SAC reporting through Air Force channels: the NMCC memorandum's distribution includes CSAF, and the 341st SMW history records SAC Headquarters tasking Ogden Air Materiel Area.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+{
+"date": "1975-10-29",
+"name": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026",
+"url": "http://www.nicap.org/reports/751027loring_1-6.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "document",
 "dateEnd": "1955",
 "dateStart": "1954",
@@ -583,7 +630,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-09-18",
-"deg": 25,
+"deg": 27,
 "denials": [
 {
 "by": {
@@ -645,6 +692,27 @@
 "date": "1985-02-08",
 "name": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
 "url": "https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4"
+}
+]
+},
+{
+"by": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "The Air Force's own history states the UFO rumours were disproven",
+"note": "A DIRECTED DENIAL BY THE BODY THAT OWNED THE EVENT, and the only occurrence of the words Unidentified Flying Object in 88 released pages. Quoted in full because each side quotes half: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven. A Mobile Strike Team, which had checked all November Flight's LFs on the morning of 16 March 67, were questioned and stated that no unusual activity or sightings were observed.' NOTE WHAT THE EVIDENCE FOR THE DISPROOF IS: a team that had been at NOVEMBER Flight, not Echo Flight. The board records the non-sequitur without inflating it.",
+"of": {
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
+"sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens; 88-page PDF on The Black Vault, text extracted and read in full by this session. Opened 19 September 2026",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
 }
 ]
 }
@@ -773,7 +841,7 @@
 "cls": "document",
 "id": "doc-341-smw-history-1967",
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "person",
@@ -846,7 +914,7 @@
 ],
 "sub": "Military department; original custodian of the UFO record and of the Roswell material",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 33 of 1136, score 92). 26 connections, 7 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 29 of 1170, score 98). 28 connections, 7 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [
 {
 "date": "1947-09-18",

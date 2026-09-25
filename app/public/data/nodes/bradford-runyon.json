@@ -1,0 +1,131 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Documentation index for the 24 October 1968 Minot AFB case, https://minotb52ufo.com/doc.php , opened 2026-09-19",
+"text": "Capt. Bradford Runyon is named as co-pilot in the debriefing record of the 24 October 1968 Minot AFB case, with radar navigator Maj. Charles Richey, navigator Capt. Patrick McCaslin, electronic warfare officer Capt. Thomas Goduto and gunner TSgt Arlie Judd. The case file includes a transcription of recorded conversations between the B-52 co-pilot and Radar Approach Control, thirteen ASQ-38 radarscope photographs, and Lt Col Arthur J. Werlich's Basic Reporting Data of 28 October 1968.",
+"tier": 1
+},
+{
+"source": "Minot B-52 UFO case investigation material, https://minotb52ufo.com/doc.php and the case investigation narrative, opened 2026-09-19",
+"text": "The modern investigation of the Minot 1968 case began when Runyon contacted the Center for UFO Studies in 2000 and completed a CUFOS UFO questionnaire on his own initiative. He was not located or recruited by a researcher.",
+"tier": 2
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "SECTION 2a PROVENANCE. Runyon is the clearest instance in this cluster of a witness approaching a research body rather than a research body finding a witness. The board records the direction of contact explicitly, because it is the control case against which the Malmstrom and Ellsworth provenance chains should be read.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1968-10-24",
+"dateStart": "1968-10-24",
+"direction": "out",
+"edgeLabel": "B-52H co-pilot based at Minot AFB",
+"id": "l-minot",
+"l0": false,
+"label": "Minot AFB, North Dakota",
+"note": "His presence is in the Air Force's own 1968 debriefing record.",
+"sources": [
+{
+"date": "1968-11-13",
+"name": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026",
+"url": "https://minotb52ufo.com/doc.php"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2000",
+"dateStart": "1968-10-24",
+"direction": "out",
+"edgeLabel": "B-52H co-pilot, JAG-31, named in the contemporaneous debriefing record",
+"id": "minot-1968",
+"l0": false,
+"label": "Minot AFB B-52 incident, 24 October 1968",
+"note": "Tier 1 for his presence, which is in the Air Force's own 1968 file, not in any later interview. HE APPROACHED THE CENTER FOR UFO STUDIES HIMSELF IN 2000. The direction of contact is the opposite of the Malmstrom pattern and is the control case for this cluster.",
+"sources": [
+{
+"date": "1968-11-13",
+"name": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026",
+"url": "https://minotb52ufo.com/doc.php"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "2000-01-01",
+"dateEnd": null,
+"dateStart": "2000-01-01",
+"deg": 2,
+"denials": [],
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "bradford-runyon",
+"instId": null,
+"l0": false,
+"label": "Capt. Bradford Runyon",
+"loc": "Minot, North Dakota",
+"locId": null,
+"members": null,
+"narrative": "Bradford Runyon is the counterexample this cluster needs, and the board should use him as one. He was the co-pilot of the B-52H, call sign JAG-31, whose crew was vectored onto a radar target northwest of Minot AFB in the early hours of 24 October 1968, and he is named in the contemporaneous debriefing roster alongside radar navigator Maj. Charles Richey, navigator Capt. Patrick McCaslin, electronic warfare officer Capt. Thomas Goduto and gunner TSgt Arlie Judd. What separates him from almost every other witness in this cluster is the direction of contact: the modern investigation of the Minot case exists because Runyon approached the Center for UFO Studies in 2000 of his own initiative and completed a CUFOS questionnaire. Nobody recruited him. That is the opposite of the pattern that dominates the Malmstrom material, and it is why the Minot 1968 case carries the weight it does on this board.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Capt. Bradford Runyon",
+"sources": [
+{
+"date": "1968-11-13",
+"name": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026",
+"url": "https://minotb52ufo.com/doc.php"
+},
+{
+"date": "2026-09-19",
+"name": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"url": ""
+}
+],
+"status": "unknown",
+"sub": "USAF Captain, co-pilot of B-52H call sign JAG-31, 23rd Bomb Squadron, 5th Bomb Wing, Minot AFB, 24 October 1968",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 906 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "2000",
+"id": "tl-2000-runyon-contacts-cufos",
+"label": "A B-52 co-pilot approaches CUFOS on his own initiative",
+"precision": "year",
+"strand": "witness",
+"text": "Capt. Bradford Runyon, co-pilot of JAG-31 on 24 October 1968, contacted the Center for UFO Studies in 2000 and completed a CUFOS questionnaire. The modern investigation of the Minot case begins there. A witness approached a research body; a research body did not recruit a witness. It is the control case against which the Malmstrom and Ellsworth provenance chains should be read.",
+"tier": "B"
+}
+],
+"unexplainedResidual": null,
+"unverified": [
+"The CUFOS questionnaire he completed in 2000 was not opened by this session; its existence and date are asserted by the case archive."
+]
+}

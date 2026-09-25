@@ -94,12 +94,10 @@ ERAS = [
      "start": None, "end": None},
 ]
 
-# Class colours, read off the current renderer (tools/build_dashboard.py line
-# 543), which is what the Design response section 1.1 points at.
-# Class colours: the program map's chip markers, L0_CLS in tools/l0_patches.py,
-# which is what the Design response section 1.1 points at ("the current map's
-# chip markers"). build_dashboard.py's PALETTE differs on document and event and
-# belongs to the old network map.
+# Class colours: the program map's chip markers, read off L0_CLS in the old
+# shell's tools/l0_patches.py (retired 25 September 2026), which is what the
+# Design response section 1.1 points at ("the current map's chip markers"). The
+# old shell's network-map PALETTE differed on document and event.
 CLASS_COLOUR = {
     "document": "#f0d264",
     "domain": "#e08ad0",
@@ -192,12 +190,23 @@ def source_hash():
     the short id of whatever commit .git/HEAD named, which index.json published as
     "sourceCommit" -- the same class of defect, a published value that moves when
     the content has not.  It is gone; `source` is the provenance stamp.
+
+    THE BUILD-DATE STAMP IS NEUTRALISED TOO (25 September 2026).  merge.py and
+    build_l0.py write `"generated": "<today>"` into their outputs, which are inputs
+    here, so hashing the stamp made `source` a function of the DAY the pipeline ran.
+    That did not matter while CI rebuilt only this step from committed inputs; it
+    matters now that tools/build.py runs the whole pipeline and check_rebuild.py
+    compares everything, because a commit built on one day and rebuilt in CI on the
+    next would differ in seven files over nothing.  The stamp's own field,
+    `generated`, is still published, and check_rebuild.py normalises it.
     """
+    stamp = re.compile(rb'"generated"\s*:\s*"\d{4}-\d{2}-\d{2}"')
     h = hashlib.sha1()
     for rel in INPUTS:
         h.update(rel.encode("utf-8"))
         with open(os.path.join(ROOT, rel), "rb") as f:
-            h.update(hashlib.sha1(f.read().replace(b"\r\n", b"\n")).digest())
+            raw = f.read().replace(b"\r\n", b"\n")
+        h.update(hashlib.sha1(stamp.sub(b'"generated":"<stamped>"', raw)).digest())
     return h.hexdigest()[:12]
 
 
@@ -365,10 +374,11 @@ def counts(s, ix):
             ct[i] += c[i]
     pv = s.patents
     sheets = len(pv["drawings"]["sheets"])
-    fq = 0
-    for r in s.foia["requests"]:
-        for n in r["nodes"]:
-            fq += len(n["questions"]) + len(n["partial"])
+    # Distinct (node, question) pairs. A question that two requests would close is
+    # one open question, not two: until 25 September 2026 this summed per request
+    # and Home printed 121 where the board holds 116 (check C27 re-derives it).
+    fq = len({(n["node"], q) for r in s.foia["requests"] for n in r["nodes"]
+              for q in n["questions"] + n["partial"]})
     return {
         "claims": {"1": ct[0], "2": ct[1], "3": ct[2]},
         "edges": len(s.board["edges"]),
@@ -918,8 +928,8 @@ def check(board_rel=BOARD, quiet=False):
     pv = rd(PATENTS_VIEW)
     th = rd(THREADS) if os.path.exists(os.path.join(ROOT, THREADS)) else []
     th = th.get("threads", th) if isinstance(th, dict) else th
-    fq = sum(len(x["questions"]) + len(x["partial"])
-             for r in foia["requests"] for x in r["nodes"])
+    fq = len({(x["node"], q) for r in foia["requests"] for x in r["nodes"]
+              for q in x["questions"] + x["partial"]})
 
     want = {
         "claims": {"1": ct[1], "2": ct[2], "3": ct[3]},

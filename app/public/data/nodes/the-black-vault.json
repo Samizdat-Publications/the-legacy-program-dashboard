@@ -103,7 +103,7 @@
 "url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "custody"
 },
 {
@@ -254,7 +254,7 @@
 "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "witness-chain"
 }
 ],
@@ -327,7 +327,7 @@
 "cls": "document",
 "id": "doc-341-smw-history-1967",
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
-"tier": "B"
+"tier": "A"
 },
 {
 "cls": "event",
@@ -357,7 +357,7 @@
 "cls": "person",
 "id": "uyrange-hollanda",
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
-"tier": "C"
+"tier": "B"
 }
 ],
 "short": "The Black Vault",
@@ -395,6 +395,6 @@
 ],
 "sub": "FOIA document archive founded by John Greenewald Jr., 1996",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 203 of 1136, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 209 of 1170, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": []
 }

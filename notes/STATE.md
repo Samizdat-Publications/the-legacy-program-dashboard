@@ -2,37 +2,29 @@
 
 **Overwrite this file at the end of every session. Never append.** It answers one question for the next
 session: where does the repo stand, and what do I do now? History lives in the dated handoffs and in
-`notes/HISTORY-TO-2026-09-24.md` (once phase 2 writes it).
+`notes/HISTORY-TO-2026-09-24.md`.
 
-**Updated:** 24 September 2026, by the phase 1 session (Opus 5.5, high effort).
+**Updated:** 25 September 2026, by the overnight session (Opus 5.5, high), after phase 2.
 
 | | |
 |---|---|
-| **Next phase** | **Phase 2: Retire the old shell, land the nuclear register, one gate command, slim `CLAUDE.md`.** Its section in `notes/PLAN-2026-09-24.md` is an outline: write its detailed plan first (superpowers:writing-plans) into `notes/plans/P2-retire-old-shell.md`, commit it, then execute. Opus 5.5 at **high**, branch `redesign/p2-retire-old-shell` |
-| After that | phase 3 (the pipeline drops nothing), then phase 4 at **max**; see the plan's roadmap |
-| Master | phase 1 merged: see "What phase 1 did" below |
-| Production | https://the-program-zxz.pages.dev serves master (CI deploys after a green gate). Board data unchanged by phase 1: 1,136 nodes, 2,685 edges, 5,897 claims, 1,059 events |
-| Branches worth knowing | `nuclear-2026-09-19`: the verified 47-witness nuclear register, parked only by the old shell's `fitChipInk`; it merges in phase 2. `trial/nuclear-on-defaults`: local only, a measurement, never merge. `redesign/p1-node-meaning`: merged, history |
+| **Next phase** | **Phase 3: the pipeline drops nothing.** Its detailed plan is written and committed: `notes/plans/P3-pipeline-drops-nothing.md`. Branch `redesign/p3-pipeline-drops-nothing` |
+| After that | phase 4 at **max** effort (stable ids, entity resolution, the taxonomy decided); see the roadmap in `notes/PLAN-2026-09-24.md` |
+| Master | phases 1 and 2 merged |
+| Production | https://the-program-zxz.pages.dev serves master (CI deploys after a green gate) |
+| The gate | `python tools/gate.py` (full), `--quick` (no poison sweep), `--no-build`, `--no-app`, `--idempotent`. CI: a gate job without a browser, an app job, and the poison sweep in three parallel shards |
+| Branches worth knowing | `trial/nuclear-on-defaults`: local only, a measurement, never merge. `nuclear-2026-09-19`, `redesign/p1-*`, `redesign/p2-*`: merged, history |
 | Working copy | `C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program`. The OneDrive copy is dead cloud placeholders |
-| The gate | until phase 2 lands `tools/gate.py`: the sequence under "How to run a phase" in the plan, plus `python tools/lint_no_em_dash.py`. **Always run the app checks as well** (`npm run check`, `npm run check:poison`). A phase that changes only `app/src` may skip the Python pipeline |
-| Waiting on Stewart | nothing blocking. Optional: read Appendix T (the topic table) and change any line; the Worker redeploy from 12 September (not urgent); the public-release questions in section 10 of the redesign |
+| Waiting on Stewart | nothing blocking. Optional: Appendix T (the topic table) before phase 4; the Worker redeploy from 12 September (not urgent); the public-release questions in section 10 of the redesign |
 
-## What phase 1 did
+## What phase 2 did
 
 | | |
 |---|---|
-| Connections on every node page | grouped by relationship under reader names (Custody, Money, Programme links, Institutional ties, Law and oversight, Research and authorship, Investigations, Testimony, Conduct, Denials, Sequence in time, Place) in three layers; one row per counterpart; each link's own sentence as text, with dates, tier and a fold-out source list. The word "member" is gone from the page and the report. `app/src/vocab.ts`, `app/src/pages/connections.ts` |
-| Every authored field shown | what it is, unverified notes, denial posture, chronology plus sequence chain (deduplicated), affiliations, the node's own sources, and every open question with the FOIA request that would close it. The tier letter and cluster left the crumb and the report; the machine tier rationale left the page (still in the data for the analyst) |
-| Search | reaches timeline events and the eight threads |
-| Evidence | the column is "NODE DENIED" and a flagged cell reads "on the node": the flag is the node's, never the claim's. Data unchanged |
-| Phones | at 760px and below the node page is one column and the bar scrolls inside itself |
-| Em dashes | 69 lines removed from `app/src`, `app/checks`; `tools/lint_no_em_dash.py` (self-tested) runs in the app job of `gate.yml`. `app/src/analyst/tools.ts` stays exempt until phase 12 |
-| Found by looking, fixed | a global `.cell` rule in `map.css` stacked the node page's three axis cells into one square (renamed `.acell`, guarded in C23); the "map neighbours by start date" list repeated a neighbour once per edge (now once each); new search rows for events had their label squeezed into the mark column (CSS) |
-| Checks | C22 to C26, each written first, each shown failing on the old build and on its own poison. C18 now waits up to 10s for the analyst health line to settle (it read "checking" on a slow connection) |
-
-## Known, not done (belongs to later phases)
-
-- Node, edge and event labels in the DATA still carry em dashes; phase 3 normalises display labels.
-- Chronology and sequence chain dedupe only exact date+text matches; near-duplicates (two phrasings of one
-  event) remain, by design, until phase 3's integrity work.
-- The event-row layout fix in search is looked at, not guarded by a check.
+| The old shell is gone | `dist/the-program.html`, the parent page it patched, and 13 tools that built or tested it: about 331,000 lines. Its independent checks were carried to the app first: C27 (Home's figures re-derived from the served files), C28 (no sibling-board wording; the title names this board), C29 (the analyst's brief names this board's axes, read from the request it sends, answered locally so no tokens are spent) |
+| A real defect, found by C27 on its first run | Home said 121 open questions; the board holds 116. `build_app_data.py` counted a question twice when two FOIA requests would close it |
+| One build, one gate | `tools/build.py` (merge, regrade, merge, build_l0, build_design_extract, build_l0_layout, build_foia_links, build_app_data) and `tools/gate.py`. `verify.py` 57 to 46 checks, `audit_independent.py` 41 to 29: only old-shell checks went. `--idempotent` hashes the app's data |
+| The nuclear register is live | 47 witnesses, 15 people and 19 entities net, seven base hubs. GOLDEN moved with it (nodes 1,136 to 1,170, edges 2,685 to 2,762, events 1,059 to 1,076, claims T1 3,789, T2 1,684, T3 618). Three chip numerals updated, wording untouched |
+| `CLAUDE.md` | 69 KB to 20 KB. The whole old file is in `notes/HISTORY-TO-2026-09-24.md` |
+| Deferred, on purpose | the force-layout bake in `build_l0.py` and the dossier copy inside `l0-model.json`'s rows: both still have readers, and both go with the L0 map in phase 11 |
+| Noticed, and made visible | a local poison sweep run alongside another heavy job on this machine reported 16 runs with no verdict line; run alone, they pass. The sweep now prints the exit status and the last lines of any run that dies before its verdict |

@@ -1,0 +1,118 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 182 photograph caption, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Kingston A. George, the project engineer for the 1964 Big Sur telescope experiment, published a photograph of the team in the Skeptical Inquirer, Winter 1993, and captioned it: 'In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner.' Mansmann's rank, presence and identity at the site are therefore established by a source hostile to the UFO reading of the event.",
+"tier": 2
+},
+{
+"source": "Wikipedia, 'Big Sur UFO', https://en.wikipedia.org/wiki/Big_Sur_UFO , opened 2026-09-19",
+"text": "Florenz Mansmann, a major involved in the Big Sur project, is reported to have confirmed Robert Jacobs's account of the September 1964 filming in a May 1987 letter to a UFO researcher. Correspondence with Lee Graham in 1983 and a letter from Jacobs to Mansmann of 14 January 1985 are also reported.",
+"tier": 2
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "THE BOARD HAS BEEN ATTRIBUTING THESE LETTERS TO THE WRONG MAN AND THE WRONG EVENT. The malmstrom-echo-flight-1967 node carries a claim that a 'Col. Robert Mansmann, who was involved in the technical investigation', wrote to Lee Graham on 30 January 1983, to Peter Bons on 8 March 1983 and to T. Scott Crain on 6 May 1987 about the Echo Flight incident. The correspondents match the Big Sur correspondence; the man is Major Florenz J. Mansmann and the event is Big Sur, September 1964. A correction is filed at research/leads/nuclear-corrections-2026-09-19.json for review.",
+"tier": 3
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "SECTION 2a PROVENANCE. Mansmann reached the record through correspondence with UFO researchers, not through any publication of his own. His presence at Big Sur, by contrast, reached the record through the project engineer's published photograph, which is the stronger of the two channels and is the one that makes him worth carrying.",
+"tier": 3
+}
+],
+"cls": "person",
+"cluster": "witness",
+"conflicts": [
+"Mansmann confirms Jacobs's account of the filming; Kingston George, who publishes the photograph that establishes Mansmann was there, disputes what was on the film. The two men agree on the deployment and disagree about its product, which is the same evidentiary shape the big-sur-1964 node already carries for Jacobs and George."
+],
+"connections": [
+{
+"claimTier": 2,
+"cls": "event",
+"dateEnd": "1987-05",
+"dateStart": "1964-09-22",
+"direction": "out",
+"edgeLabel": "Major present at the Big Sur site; Jacobs's corroborating witness",
+"id": "big-sur-1964",
+"l0": false,
+"label": "Big Sur missile-test filming, September 1964",
+"note": "Tier 1 for his presence, which is established by the project engineer's own published photograph caption, and Tier 2 for what he later wrote to researchers. THE BOARD HAS BEEN ATTRIBUTING HIS LETTERS TO THE WRONG MAN AND THE WRONG EVENT; see research/leads/nuclear-corrections-2026-09-19.json.",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "Wikipedia, 'Big Sur UFO', opened only to date Florenz Mansmann's May 1987 letter to a UFO researcher. Opened 19 September 2026",
+"url": "https://en.wikipedia.org/wiki/Big_Sur_UFO"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+}
+],
+"date": "1987-05-06",
+"dateEnd": null,
+"dateStart": "1987-05-06",
+"deg": 1,
+"denials": [],
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "florenz-mansmann",
+"instId": null,
+"l0": false,
+"label": "Maj. Florenz J. Mansmann",
+"loc": "Big Sur, California",
+"locId": "l-vandenberg",
+"members": null,
+"narrative": "Florenz Mansmann is the corroborating witness for Robert Jacobs's Big Sur account, and he is on this board partly to correct a misattribution the board itself carried. His presence at the site is documented from a hostile source in the same way Jacobs's is: Kingston A. George, the project engineer, published a group photograph in the Skeptical Inquirer of Winter 1993 and captioned it, naming Major Florenz Mansmann and Chief Warrant Officer Guy Spooner in uniform in front of him. Mansmann later wrote to UFO researchers about the September 1964 filming, including a letter to Lee Graham in 1983 and a letter of May 1987 to T. Scott Crain that is reported as confirming Jacobs's account, and Jacobs wrote to him in January 1985. Those letters are Big Sur letters. The board's malmstrom-echo-flight-1967 node attributes letters of the same dates to a Col. Robert Mansmann said to have been involved in the Echo Flight technical investigation at Malmstrom, which is the wrong man and the wrong event; the correction is filed separately at research/leads/nuclear-corrections-2026-09-19.json.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Maj. Florenz J. Mansmann",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+},
+{
+"date": "2026-09-19",
+"name": "Wikipedia, 'Big Sur UFO', opened only to date Florenz Mansmann's May 1987 letter to a UFO researcher. Opened 19 September 2026",
+"url": "https://en.wikipedia.org/wiki/Big_Sur_UFO"
+},
+{
+"date": "2026-09-19",
+"name": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"url": ""
+}
+],
+"status": "unknown",
+"sub": "USAF Major, present at the Big Sur photographic site above Vandenberg AFB, September 1964; Robert Jacobs's corroborating witness",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 938 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": [
+"The Mansmann letters of 1983, 1985 and 1987 were NOT OPENED in facsimile by this board. Their dates differ between sources, with 30 January and 10 March both reported for a 1983 letter to Lee Graham. Until they are opened, the misattribution flagged above is flagged and not proven.",
+"No service record for Mansmann has been opened; his rank comes from a photograph caption written by a colleague."
+]
+}

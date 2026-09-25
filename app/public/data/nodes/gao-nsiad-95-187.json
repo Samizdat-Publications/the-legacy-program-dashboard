@@ -2,7 +2,7 @@
 "A": 1,
 "C": 2,
 "D": 3,
-"band": "retrieval",
+"band": null,
 "claims": [
 {
 "source": "GAO/NSIAD-95-187, p.3",
@@ -354,36 +354,11 @@
 },
 "hl": null,
 "id": "gao-nsiad-95-187",
-"l0": true,
+"l0": false,
 "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "locLabel": null,
-"members": [
-{
-"cls": "program",
-"id": "project-mogul",
-"label": "Project MOGUL",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "raaf-press-release-1947",
-"label": "RAAF Press Release, 8 July 1947",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "rg-615-uap-records",
-"label": "NARA Record Group 615 — UAP Records Collection",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "steven-schiff",
-"label": "Steven H. Schiff",
-"tier": "B"
-}
-],
-"short": "GAO/NSIAD-95-187",
+"members": null,
+"short": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "sources": [
 {
 "date": "1995-07-28",
@@ -397,8 +372,8 @@
 }
 ],
 "sub": "General Accounting Office report, 28 July 1995",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 171 of 1136, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 174 of 1170, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
 "date": "1995-07-28",

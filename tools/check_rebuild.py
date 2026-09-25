@@ -35,9 +35,9 @@ So the stamp is normalised in BOTH sides and the full bytes are compared. A file
 differs only in its build date passes and is named in the output. A file that differs
 anywhere else fails, however close to the stamp the difference sits.
 
-    python3 tools/check_rebuild.py             # on an OTHERWISE-CLEAN tree, after
-                                              # running the section 3 pipeline
-    python3 tools/check_rebuild.py --self-test # show it rejecting a real change
+    python tools/check_rebuild.py              # on an OTHERWISE-CLEAN tree, after
+                                              # running python tools/build.py
+    python tools/check_rebuild.py --self-test  # show it rejecting a real change
 """
 
 import os
@@ -57,6 +57,9 @@ STAMPS = (
 
 
 def normalise(b):
+    # Line endings too: a Windows checkout with core.autocrlf holds CRLF where HEAD
+    # holds LF, and git itself treats the two as the same content.
+    b = b.replace(b"\r\n", b"\n")
     for rx, sub in STAMPS:
         b = rx.sub(sub, b)
     return b
@@ -71,9 +74,7 @@ def _git(*args):
 # file added to the pipeline later is still compared without being listed here.
 BUILT = (
     "data/the-program.json", "data/l0-model.json", "data/l0-layout-model.json",
-    "data/design-extract.json", "data/l0-layout-model.js", "data/program-edges.js",
-    "data/program-entities.js", "data/program-people.js", "data/program-timeline.js",
-    "dist/the-program.html",
+    "data/design-extract.json", "data/foia-links.json",
 )
 
 
@@ -108,6 +109,18 @@ def built_since_last_commit():
         if os.path.exists(f) and os.path.getmtime(f) >= t:
             return True
     return False
+
+
+# Where a build writes. `--built-only` compares only paths under these, which is
+# how tools/gate.py runs it: a person running the gate mid-session has hand edits
+# in flight (a note, CLAUDE.md, a tool being changed) and those are not rebuild
+# drift. CI runs this WITHOUT the flag, over the whole tree, as a step of its own.
+BUILT_PREFIXES = ("data/", "app/public/data/", "app/public/patents/",
+                  "research/_remediation.json")
+
+
+def is_built(path):
+    return path.replace("\\", "/").startswith(BUILT_PREFIXES)
 
 
 def changed_files():
@@ -152,23 +165,24 @@ def compare(paths):
     return real, stamp_only
 
 
-def main():
+def main(built_only=False):
     if not built_since_last_commit():
         print("::error::check_rebuild: nothing was rebuilt, so there is nothing to compare.")
         print("This tool diffs the working tree against HEAD; it does not build. On a")
         print("clean tree with no build behind it, silence means 'you did not run the")
-        print("pipeline', not 'the rebuild reproduced'. Run the CLAUDE.md section 3")
-        print("pipeline, then run this again:")
+        print("pipeline', not 'the rebuild reproduced'. Run the build, then run this")
+        print("again:")
         print()
-        print("    python3 tools/merge.py")
-        print("    python3 tools/regrade.py")
-        print("    python3 tools/merge.py")
-        print("    python3 tools/build_l0.py")
-        print("    python3 tools/build_design_extract.py")
-        print("    node    tools/build_l0_layout.mjs")
-        print("    python3 tools/build_dashboard.py")
+        print("    python tools/build.py")
         return 1
-    real, stamp_only = compare(changed_files())
+    paths = changed_files()
+    if built_only:
+        skipped = [p for p in paths if not is_built(p)]
+        paths = [p for p in paths if is_built(p)]
+        if skipped:
+            print("  (--built-only: %d changed file(s) outside the build's outputs not "
+                  "compared)" % len(skipped))
+    real, stamp_only = compare(paths)
     for p in stamp_only:
         print("  ok    %s differs only in its build-date stamp" % p)
     if not real:
@@ -176,7 +190,7 @@ def main():
               + (" (%d file(s) restamped)" % len(stamp_only) if stamp_only else ""))
         return 0
     print("::error::rebuilding from committed source changed tracked files.")
-    print("Run the section 3 pipeline in CLAUDE.md and commit the result.")
+    print("Run python tools/build.py and commit the result.")
     for p, why in real:
         print("  FAIL  %s — %s" % (p, why))
     # THE PRECONDITION, said out loud, because the same output means two different
@@ -212,6 +226,10 @@ def self_test():
         ("REJECTS: a changed date INSIDE the data", normalise(b) == normalise(d), False),
         ("REJECTS: a changed byte after a restamped header",
          normalise(hdr_b) == normalise(hdr_c), False),
+        ("a CRLF-only difference is not a failure",
+         normalise(hdr_a.replace(b"\n", b"\r\n")) == normalise(hdr_a), True),
+        ("REJECTS: a real change hidden behind CRLF",
+         normalise(hdr_b.replace(b"\n", b"\r\n")) == normalise(hdr_c), False),
     ]
     print("self-test — the stamp is neutral, everything else is not\n")
     for label, got, want in cases:
@@ -230,6 +248,18 @@ def self_test():
     # predicate. CLAUDE.md section 5: poison the page, not just the predicate. Both
     # directions are exercised against actual mtimes on actual BUILT paths.
     import tempfile, time
+    # The --built-only filter, both ways: hand edits are out, build outputs are in.
+    print("\nself-test - --built-only keeps build outputs and drops hand edits\n")
+    for path, want in (("app/public/data/index.json", True), ("data/the-program.json", True),
+                       ("research/_remediation.json", True),
+                       ("CLAUDE.md", False), ("notes/STATE.md", False),
+                       ("tools/verify.py", False), ("research/w1-legacy.json", False)):
+        got = is_built(path)
+        good = got is want
+        ok &= good
+        print("  %s  %s%s" % ("ok  " if good else "FAIL",
+                              "" if want else "REJECTS: ", path))
+
     print("\nself-test — the no-build guard, against real mtimes\n")
     idx = os.path.join(ROOT, ".git", "index")
     if not os.path.exists(idx):
@@ -270,4 +300,5 @@ def self_test():
 
 
 if __name__ == "__main__":
-    sys.exit(self_test() if "--self-test" in sys.argv else main())
+    sys.exit(self_test() if "--self-test" in sys.argv
+             else main(built_only="--built-only" in sys.argv))

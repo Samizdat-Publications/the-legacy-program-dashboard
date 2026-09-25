@@ -1265,6 +1265,15 @@ def main():
         for name, text in files:
             (OUT_DIR / name).write_text(text, encoding="utf-8", newline="\n")
         (OUT_DIR / "README.md").write_text(README_TEXT, encoding="utf-8", newline="\n")
+        # A numbered file this run did not write is an orphan from an earlier run,
+        # left behind when the band order changed and the numbers moved: six of them
+        # sat in the export beside their replacements, so a notebook loaded from
+        # the folder read two different band files under one number. Remove them.
+        written = {name for name, _ in files}
+        for stale in sorted(OUT_DIR.glob("[0-9][0-9]-*.md")):
+            if stale.name not in written:
+                stale.unlink()
+                print("  removed stale " + stale.name)
 
     total_words = 0
     total_chars = 0

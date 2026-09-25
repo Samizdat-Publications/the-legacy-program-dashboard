@@ -1,6 +1,6 @@
 # The research band
 
-The programme map splits the 149 nodes closest to the alleged programme into seven bands, and this file is the research band: 28 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 135 nodes closest to the alleged programme into seven bands, and this file is the research band: 27 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -54,7 +54,7 @@ Roles the board assigns it: concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 101 of 1125, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
+Re-graded A on a global pass (rank 103 of 1170, score 62). 15 connections, 4 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -142,7 +142,7 @@ Roles the board assigns it: concealment, oversight, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 142 of 1125, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
+Re-graded A on a global pass (rank 145 of 1170, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.
 
 ### The claims on the record
 
@@ -211,7 +211,7 @@ Roles the board assigns it: concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 157 of 1125, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded A on a global pass (rank 160 of 1170, score 51). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -281,7 +281,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 149 of 1125, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 152 of 1170, score 52). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -345,7 +345,7 @@ Roles the board assigns it: disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 548 of 1125, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 562 of 1170, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -401,7 +401,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 121 of 1125, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 124 of 1170, score 56). 11 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -483,7 +483,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 207 of 1125, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
+Re-graded B on a global pass (rank 215 of 1170, score 45). 11 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -556,7 +556,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 88 of 1125, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 90 of 1170, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -642,7 +642,7 @@ Roles the board assigns it: oversight, concealment, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 125 of 1125, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 128 of 1170, score 55). 18 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -721,7 +721,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 86 of 1125, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 88 of 1170, score 68). 10 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -804,7 +804,7 @@ Roles the board assigns it: research, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 97 of 1125, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 99 of 1170, score 64). 9 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -890,7 +890,7 @@ Roles the board assigns it: research, concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 191 of 1125, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 197 of 1170, score 46). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -960,7 +960,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 403 of 1125, score 34). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.
+Re-graded B on a global pass (rank 416 of 1170, score 34). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.
 
 ### The claims on the record
 
@@ -983,83 +983,6 @@ Re-graded B on a global pass (rank 403 of 1125, score 34). 7 connections, 0 of t
 - NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004) comes in from **NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)** (document, board tier C), a research link at Tier 1 documented. The link reads: The experiment behind the survey's ion-wind finding. Reference 55 of NASA/TM-2004-213082 names the same Institute for Scientific Research work, planned for the 40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference in July 2004. The contractor report is the measurement; the technical memorandum is the ruling. Sources: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, dated 2004; NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages, https://ntrs.nasa.gov/api/citations/20040171929/downloads/20040171929.pdf, dated 2004-10.
 - NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004) runs out to **NASA Breakthrough Propulsion Physics Project (1996-2002)** (program, board tier C), a investigative link at Tier 1 documented. The link reads: The published summary of the project's methods and findings. A document about a programme. Its abstract states the three grand challenges and the outcome of sixteen incremental research tasks. Sources: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, dated 2004.
 - NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004) runs out to **US Patent 10,322,827 - High frequency gravitational wave generator** (document, board tier C), a research link at Tier 3 stated inference. The link reads: NASA treated high frequency gravitational waves as a detection problem in 2004. STATED INFERENCE ABOUT THE DISTANCE BETWEEN TWO DOCUMENTS AND NOT A REFUTATION. Section 3.3.2 opens 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses' and proceeds to interferometry and LIGO. Fifteen years later US 10,322,827 was granted for a generator. Both statements are Tier 1 for what their own documents say and nothing opened joins them. Sources: NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf, dated 2004.
-
-## US Patent 10,144,532 - Craft using an inertial mass reduction device
-
-US Patent 10,144,532 - Craft using an inertial mass reduction device is a document on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2016-04-28 to 2023-01-09; axes C2 A1 D0; 6 connections; in the research band.
-
-In one line: Application 15/141270, filed 28 April 2016, granted 4 December 2018; assignee the Secretary of the Navy.
-
-### What it is
-
-United States Patent 10,144,532, 'Craft using an inertial mass reduction device', application 15/141,270, filed 28 April 2016 from the Naval Air Warfare Center Aircraft Division and granted 4 December 2018, assigned to 'The United States of America as represented by the Secretary of the Navy' under Navy docket PAX 205. The examiner was Philip J. Bonzell, supervised by Timothy Collins; the application moved from Art Unit 3644 to Art Unit 3642 mid-prosecution without changing examiner. The patent expired on 9 January 2023 for non-payment of the first maintenance fee under 37 CFR 1.362.
-
-### Why it is implicated
-
-It is the control case for the patents tab. A Navy-assigned propulsion filing that did issue is what makes an absence elsewhere in the patent record a legal artefact of the Invention Secrecy Act rather than evidence that nothing exists. It is also the filing that produced the public controversy, and the file wrapper contradicts the story most often told about it. The secondary accounts say the application was rejected and then granted after the Naval Aviation Enterprise's chief technology officer asserted operability and invoked Chinese development of comparable technology. The wrapper shows the examiner refusing that argument in writing, and shows the grant arriving through a formal appeal rather than a letter.
-
-### The longer account
-
-The prosecution record is unusually explicit for a document of this kind, and it is worth following in order. Non-final rejection 28 November 2017. A telephonic examiner interview on 17 January 2018 at which, in the record's words, 'no agreement was reached'. Final rejection 30 March 2018. A response after final on 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018. Notice of Appeal 21 June 2018, on form PTO/AIA/33, an 800 dollar fee against deposit account 600508. Advisory Action 11 July 2018 refusing to allow. Appeal Brief 21 August 2018, re-filing the same 11 May declaration in its Evidence Appendix rather than a second one. Reasons for Allowance 24 October 2018, Notice of Allowance 31 October, grant 4 December. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.
-
-The examiner quantified his objection rather than gesturing at it. Polarising a quantum vacuum as claimed 'would take 10^9 teslas and 10^18V/m', which 'are not feasible with current technology', and: 'The largest magnetic field ever created is 10^3 teslas and a neutron star is 10^6 teslas so how are you using a microwave emitter that produces a magnetic field that is three orders of magnitude greater than a neutron star?' The same passage repeats verbatim in the final rejection. He also rejected the physical premise in terms, writing that there is no such thing as a repulsive electromagnetic energy field and that electromagnetism can be repulsive in certain circumstances but there is no blanket field that repels everything.
-
-On the argument the secondary accounts credit with winning the patent, the wrapper is unambiguous: 'With respect to third argument that China is already investing significantly in this area, this has nothing to do with what is patentable. If anyone else filed this Application they would receive the same rejection.' Peer review fared no better. On the AIAA and SAE presentations the examiner wrote that presentation and committee review 'does not equate to the device being patentable', and that 'Presenting math at a conference doesn't prove anything physical.'
-
-What was eventually granted is narrow. Claim 1 is the only independent claim and recites an inner resonant cavity wall, an outer resonant cavity wall and microwave emitters creating high frequency electromagnetic waves that vibrate the outer wall in an accelerated mode and create a local polarized vacuum outside it. There are four claims in total. Five years later the Navy stopped paying for it.
-
-### What it has denied
-
-The denial on this node runs in the unusual direction. The Navy did not deny anything about this filing; a federal examiner denied, on the record and in quantified terms, that the claimed effect is physically achievable, and did so twice before the applicant appealed. That is the only adjudicated technical opinion this board holds on any of the Pais filings, and it is negative. Two further things follow, and both matter for how the node should be read. The allowance that eventually issued came from the same examiner rather than from the Patent Trial and Appeal Board, so no appellate body has ever endorsed the disclosure. And the board's own edge from this patent to the five observables is graded Tier 2 and describes what the briefing claims the device would deliver, not a capability anyone has demonstrated.
-
-Roles the board assigns it: research, disclosure.
-
-### Open questions on this node
-
-- Whether the Navy's failure to pay the first maintenance fee was a decision or an oversight is not established. Nothing on this board explains the expiry.
-- Whether the Notice of Appeal was ever docketed at the Patent Trial and Appeal Board is not established. The examiner allowed the application first, so no PTAB decision exists to read.
-- The node's own description still says the correspondence asserting operability has not been obtained for this board, while its claims cite the Sheehy letter of 15 December 2017 and the declaration of 11 May 2018 as transcribed under research/patents/wrapper/. The description is behind the claims and should be reconciled.
-- No test data, experimental result or hardware associated with the device has been located. The board holds the paper record of the filing and nothing else.
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 62 of 1125, score 74). 6 connections, 4 of them custody/funding/programmatic. Axes C2/A1/D0.
-
-### The claims on the record
-
-- **Tier 1 documented.** A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS. Claim 1, as printed: 'A craft using an inertial mass reduction device comprising: an inner resonant cavity wall; an outer resonant cavity wall, the inner resonant cavity wall and the outer resonant cavity wall forming a resonant cavity; and, microwave emitters such that the microwave emitters create high frequency electromagnetic waves throughout the resonant cavity causing the outer resonant cavity wall to vibrate in an accelerated mode and create a local polarized vacuum outside the outer resonant cavity wall.' The Navy's own test of the related High Energy Electromagnetic Field Generator concluded in September 2019 that the effect could not be proven. Source: US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
-- **Tier 1 documented.** Claim 1 is the only independent claim and recites an inner resonant cavity wall, an outer resonant cavity wall and microwave emitters; the emitters create high frequency electromagnetic waves throughout the resonant cavity, causing the outer wall to vibrate in an accelerated mode and create a local polarized vacuum outside it. There are four claims in total. Source: USPTO file wrapper, application 15/141,270 (PAX 205), Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt
-- **Tier 1 documented.** FRONT-PAGE FACTS READ OFF THE PRINTED PATENT, which is where the Navy's sponsorship is documented rather than inferred: '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)'; '(21) Appl. No.: 15/141,270'; '(22) Filed: Apr. 28, 2016'; '(65) Prior Publication Data: US 2017/0313446 A1, Nov. 2, 2017'; '(51) Int. Cl. B64G 1/40 (2006.01)'; 'Subject to any disclaimer, the term of this patent is extended or adjusted under 35 U.S.C. 154(b) by 153 days'; 'Primary Examiner - Philip J Bonzell'; '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD'; and '4 Claims, 1 Drawing Sheet'. Source: US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
-- **Tier 1 documented.** Peer review was argued and expressly refused. On AIAA 2017-5343 and SAE 2017-01-2040 the examiner wrote that 'just because a concept was presented at an AIAA forum and that a SAE committee board, peer reviewed the concept does not equate to the device being patentable', and on the mathematics: 'Presenting math at a conference doesn't prove anything physical. It like saying that you can math out tachyons by playing with relativistic equations but that doesn't "prove" that they exist nor can they then be used to create a physical object that can be patented.' Source: USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt
-- **Tier 1 documented.** THE EXAMINER NAMED ON THE GRANTED PATENT IS THE SAME PERSON THE SHEEHY LETTER ADDRESSES. The board already carries at Tier 1 that on 15 December 2017 the Chief Technology Officer of the Naval Aviation Enterprise wrote on NAVAIR letterhead to 'Mr. Philip J. Bonzell, Primary Patent Examiner'. The printed front page of US 10,144,532 gives 'Primary Examiner - Philip J Bonzell'. The correspondence between the letter and the grant is now checkable on the face of the patent itself. Source: US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
-- **Tier 1 documented.** The 'Other Publications' cited on its printed front page, in full: Froning, H. David, 'Quantum Vacuum Engineering for Power and Propulsion from the Energetics of Space', Third International Conference on Future Energy, Oct. 9-10, 2009, Washington DC; Pais, Salvatore, 'Conditional Possibility of Spacecraft Propulsion at Superluminal Speeds', Intl. J. Space Science and Engineering, 2015, vol. 3 No. 1; PUTHOFF, H. E., 'Polarizable-Vacuum (PV) Approach to General Relativity', Foundations of Physics, Jun. 2002, vol. 32 No. 6; Prigogine, Ilya, 'Time, Structure and Fluctuations', Nobel Lecture, Dec. 8, 1977; Hayasaka, Hideo and Takeuchi, Sakae, 'Anomalous Weight Reduction on a Gyroscope's Right Rotations around the Vertical Axis on the Earth', Physical Review Letters, Dec. 18, 1989, vol. 63 No. 25; and Pais, Salvatore, 'The High Energy Electromagnetic Field Generator', Int. J. Space Science and Engineering, 2015, vol. 3 No. 4. Source: US Patent 10,144,532 B2, printed front page and specification, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, opened 2026-09-19
-- **Tier 1 documented.** The 'declaration by Dr. James Sheehy under 37 CFR 1.132 filed 1/23/2018' that the Final Rejection answers is the letter of 15 December 2017. The examiner's section 6 replies to exactly three arguments, in the order the letter makes them: that lasers evolved beyond what was first possible, that Pais 'is funded and working on experiments', and that China is investing. Those are paragraphs 1, 2-4 and 5 of the Sheehy letter. No separate January 2018 declaration appears anywhere in the wrapper. Source: USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt; compared against research/patents/wrapper/sheehy-letter-2017-12-15.txt
-- **Tier 1 documented.** The Final Rejection rejects the physical premise of the craft in terms, not merely the sufficiency of the disclosure. Answering the argument that the field generator 'would generate a repulsive EM energy field while in earth's atmosphere, thereby repelling air molecules in its path of ascent/flight', the examiner wrote: 'however, this is not true. There is no such thing as a "repulsive EM energy field". Electromagnetism can be repulsive in certain circumstances, but there is no blanket field that repels everything.' He concluded that 'it is impossible to generate the electric and magnetic field that would be required to create the so called claimed effect of inertial mass reduction.' Source: USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt
-- **Tier 1 documented.** The Final Rejection rejects the physical premise rather than merely the sufficiency of the disclosure, concluding that 'it is impossible to generate the electric and magnetic field that would be required to create the so called claimed effect of inertial mass reduction.' Source: USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt
-- **Tier 1 documented.** The Non-Final Rejection of 28 November 2017 holds that polarising a quantum vacuum as claimed 'would take 10^9 teslas and 10^18V/m', that 'these levels are not feasible with current technology', and asks: 'The largest magnetic field ever created is 10^3 teslas and a neutron star is 10^6 teslas so how are you using a microwave emitter that produces a magnetic field that is three orders of magnitude greater than a neutron star?' The same passage is repeated verbatim in the Final Rejection of 30 March 2018. Source: USPTO file wrapper, application 15/141,270, Non-Final Rejection mailed 28 November 2017 (Paper No. 20171122), examiner Philip J. Bonzell, Art Unit 3644
-- **Tier 1 documented.** The Notice of Appeal in the wrapper is form PTO/AIA/33, naming Art Unit 3644, examiner Philip Bonzell and docket PAX 205, with the appeal fee shown as $800.00 paid via EFS-Web against deposit account 600508. It is signed for the applicant by Mark O. Glut and its certificate of transmission bears the date 6/24/18, three days after the date USPTO records for the notice. Source: USPTO file wrapper, application 15/141,270, Notice of Appeal from the Examiner to the Patent Trial and Appeal Board (form PTO/AIA/33), certificate dated 6/24/18
-- **Tier 1 documented.** The after-final remarks of 24 May 2018 describe the accompanying Sheehy declaration as 'dated May 11, 2017' and are signed 'Date: 5/24/2017', a year out in both places; the declaration in the wrapper is dated 11 May 2018 and was refiled unchanged with the Appeal Brief in August. The 2017 dates are typing errors in the attorney's remarks, and no 2017 declaration exists in the file. Recorded so that the wrong year is not later read as evidence of a second, earlier declaration. Source: USPTO file wrapper, application 15/141,270, Response after Final Action received by central fax 24 May 2018, compared against research/patents/wrapper/sheehy-declaration-2018-05-11.txt
-- **Tier 1 documented.** The application changed art unit mid-prosecution without changing examiner. The Office actions of 28 November 2017 and 30 March 2018 and the interview summary of 22 January 2018 issue from Art Unit 3644; the Advisory Action of 11 July 2018 issues from Art Unit 3642. Philip J. Bonzell signs all four, and Timothy Collins is named as supervisor throughout. Source: USPTO file wrapper, application 15/141,270, Office actions of 28 November 2017, 22 January 2018, 30 March 2018 and 11 July 2018, compared
-- **Tier 1 documented.** The application changed art unit mid-prosecution without changing examiner: the actions of 28 November 2017, 22 January 2018 and 30 March 2018 issue from Art Unit 3644, the Advisory Action of 11 July 2018 from Art Unit 3642. Philip J. Bonzell signs all four and Timothy Collins is named as supervisor throughout. Source: USPTO file wrapper, application 15/141,270, Office actions of 28 November 2017, 22 January 2018, 30 March 2018 and 11 July 2018, compared
-- **Tier 1 documented.** The examiner quantified the objection rather than gesturing at it. The Non-Final Rejection of 28 November 2017 holds that polarising a quantum vacuum as claimed 'would take 10^9 teslas and 10^18V/m', that 'these levels are not feasible with current technology', and asks: 'The largest magnetic field ever created is 10^3 teslas and a neutron star is 10^6 teslas so how are you using a microwave emitter that produces a magnetic field that is three orders of magnitude greater than a neutron star?' The same passage is repeated verbatim in the Final Rejection of 30 March 2018. Source: USPTO file wrapper, application 15/141,270, Non-Final Rejection mailed 28 November 2017 (Paper No. 20171122), examiner Philip J. Bonzell, Art Unit 3644
-- **Tier 1 documented.** The examiner refused the China argument in writing, which is the argument the secondary accounts credit with winning the patent: 'With respect to third argument that China is already investing significantly in this area, this has nothing to do with what is patentable. If anyone else filed this Application they would receive the same rejection.' Source: USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt
-- **Tier 1 documented.** The examiner refused the China argument in writing: 'With respect to third argument that China is already investing significantly in this area, this has nothing to do with what is patentable. If anyone else filed this Application they would receive the same rejection.' Source: USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt
-- **Tier 1 documented.** The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled. Source: USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026
-- **Tier 1 documented.** The grant was obtained through a formal appeal, not a letter: non-final rejection 22 November 2017; examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 with a 37 C.F.R. 1.132 declaration signed by Dr James Sheehy on 11 May 2018; Notice of Appeal 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief 21 August 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled. Source: USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026
-- **Tier 1 documented.** The independent claim is narrow and mechanical. As summarised in the Appeal Brief, claim 1 is the only independent claim and recites an inner resonant cavity wall, an outer resonant cavity wall and microwave emitters; the emitters create high frequency electromagnetic waves throughout the resonant cavity, causing the outer wall to vibrate in an accelerated mode and create a local polarized vacuum outside it. There are four claims in total. Source: USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt
-- **Tier 1 documented.** US 10,144,532 is EXPIRED. USPTO application data gives application status 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 9 January 2023, following a maintenance fee reminder mailed 25 July 2022. The Navy prosecuted the application through a formal appeal to obtain the grant in December 2018 and then did not pay the first maintenance fee, so the invention passed into the public domain. Source: USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026
-- **Tier 1 documented.** US 10,144,532 is expired. USPTO application data gives application status 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 9 January 2023, following a maintenance fee reminder mailed 25 July 2022. Source: USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026
-- **Tier 2 named person on the record.** The abstract begins 'A craft using an inertial mass reduction device comprises of an inner resonant cavity wall, an outer resonant cavity, and microwave emitters'. Source: https://www.freepatentsonline.com/10144532.html
-- **Tier 2 named person on the record.** US Patent 10,144,532, 'Craft using an inertial mass reduction device', application number 15/141270, filing date 28 April 2016, publication date 4 December 2018, assignee 'The United States of America as represented by the Secretary of the Navy', international class B64G1/40. Source: https://www.freepatentsonline.com/10144532.html
-
-### Its strongest connections
-
-- US Patent 10,144,532 - Craft using an inertial mass reduction device comes in from **United States Navy** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Assignee of record. THE SPONSORSHIP IS PRINTED, NOT INFERRED, AND IT IS THE TEST THAT KEEPS KING OUT OF THE PATENTS VIEW. The front page carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)', '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD' and 'Primary Examiner - Philip J Bonzell'. US 3,322,374 by contrast carries no assignee line at all. Sources: US Patent 10,144,532, https://www.freepatentsonline.com/10144532.html; US Patent 10,144,532 B2, 'Craft using an inertial mass reduction device', printed front page, https://patentimages.storage.googleapis.com/de/4c/43/62c585ccc936cc/US10144532.pdf, dated 2018-12-04.
-- US Patent 10,144,532 - Craft using an inertial mass reduction device comes in from **NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: Internal disclosure underlying the granted patent. Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted. Sources: NAVAIR FOIA release 2021-003244, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
-- US Patent 10,144,532 - Craft using an inertial mass reduction device runs out to **US Patent 10,322,827 - High frequency gravitational wave generator** (document, board tier C), a programmatic link at Tier 1 documented. The link reads: The disclosure says the IMRD enables the gravitational wave generator. PAX 205 slide 5: 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)'. Sources: NAVAIR FOIA release 2021-003244, slide 5, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
-- US Patent 10,144,532 - Craft using an inertial mass reduction device comes in from **Salvatore Cezar Pais** (person, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Named inventor. Application 15/141270, assigned to the Secretary of the Navy. Sources: US Patent 10,144,532, https://www.freepatentsonline.com/10144532.html
-- US Patent 10,144,532 - Craft using an inertial mass reduction device comes in from **Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188** (legislation, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: The control case for the patents tab: a propulsion patent that did issue. A Navy-assigned propulsion patent that did issue is the control case for the tab: the Act is why an absence in the patent record is a legal artefact rather than evidence of nothing. Sources: 35 U.S.C. 181, Secrecy of certain inventions and withholding of patent, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim
-- US Patent 10,144,532 - Craft using an inertial mass reduction device comes in from **The five observables (UAP performance taxonomy)** (document, board tier B), a research link at Tier 2 named person on the record. The link reads: The craft claimed to deliver them. US 10,144,532 is the patent application arising from PAX 205 and claims the mechanism the briefing offers for the four mapped observables. Sources: NAVAIR FOIA release 2021-003244, PAX 205 briefing, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf
 
 # 2017-2026: Post-disclosure
 
@@ -1113,7 +1036,7 @@ Roles the board assigns it: disclosure, concealment, oversight, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 19 of 1125, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 19 of 1170, score 110). 19 connections, 1 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -1210,7 +1133,7 @@ Roles the board assigns it: oversight, concealment, research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 79 of 1125, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 81 of 1170, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1300,7 +1223,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 428 of 1125, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 443 of 1170, score 33). 9 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1377,7 +1300,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 552 of 1125, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
+Re-graded B on a global pass (rank 569 of 1170, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.
 
 ### The claims on the record
 
@@ -1461,7 +1384,7 @@ Roles the board assigns it: disclosure, oversight, concealment, research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 555 of 1125, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 572 of 1170, score 29). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1545,7 +1468,7 @@ Roles the board assigns it: research, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 770 of 1125, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 794 of 1170, score 22). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1621,7 +1544,7 @@ Roles the board assigns it: research, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 374 of 1125, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 384 of 1170, score 35). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1701,7 +1624,7 @@ Roles the board assigns it: concealment, oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 47 of 1125, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 48 of 1170, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -1792,7 +1715,7 @@ Roles the board assigns it: disclosure, research, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 477 of 1125, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 492 of 1170, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1859,7 +1782,7 @@ Roles the board assigns it: research, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 122 of 1125, score 55). 7 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 125 of 1170, score 55). 7 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -1943,7 +1866,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 73 of 1125, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded A on a global pass (rank 75 of 1170, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2018,7 +1941,7 @@ Roles the board assigns it: research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 269 of 1125, score 40). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 277 of 1170, score 40). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2077,7 +2000,7 @@ Roles the board assigns it: research.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 270 of 1125, score 40). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded B on a global pass (rank 278 of 1170, score 40). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 
@@ -2147,7 +2070,7 @@ Roles the board assigns it: oversight, disclosure, research.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 757 of 1125, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
+Re-graded C on a global pass (rank 782 of 1170, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.
 
 ### The claims on the record
 

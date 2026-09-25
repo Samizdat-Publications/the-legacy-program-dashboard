@@ -4,13 +4,13 @@
 # TypeScript, hash-routed, with its data fetched at runtime from `/data`. CI runs
 # `npm ci` and `npm run build` in `app/` and uploads `app/dist`. Before that date
 # this workflow ran `tools/build_site.py` and uploaded the assembled `site/` tree,
-# which was a copy of the single-file `dist/the-program.html`. That old shell still
-# builds and its gate still runs, but it is no longer deployed anywhere.
+# which was a copy of the single-file `dist/the-program.html`. That old shell was
+# retired on 25 September 2026.
 #
 # `app/dist/` is gitignored and derived, so CI builds it here rather than serving a
 # committed artifact. What makes that safe is the gate: deploy waits on the whole
 # gate workflow, whose `app` job builds the same tree and runs the app's own checks
-# and every poison against it.
+# against it, and whose three `poisons` jobs run every poison against it.
 #
 # NEVER DEPLOY THE REPO'S `dist/`. It holds the transcript exports. On 2 September a
 # manual deploy chained a `cd` into a worktree that had failed to create, ran from

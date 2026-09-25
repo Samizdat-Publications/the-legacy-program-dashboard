@@ -36,6 +36,26 @@
 "source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
 "text": "He describes the security reaction in terms that concede a cover-up while denying its subject: 'Vulnerability of a major weapons system is normally classified Top Secret. How could this matter be kept from leaking out?' and records that everyone at the site had to be identified and questioned, 'All, including Jacobs and myself'.",
 "tier": 2
+},
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 187 references, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He cites a contemporaneous document of his own by title, author, issuing headquarters and date, which is what makes the case checkable at all: 'George, Kingston A. 1964. Preliminary Report on Image Orthicon Photography from Big Sur. Headquarters 1st Strategic Aerospace Division Operations Analysis Staff Study, October 13.' The staff study itself has not been opened by this board.",
+"tier": 1
+},
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 180-184, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He dates the event precisely and names the launch: an Atlas launch nicknamed 'Buzzing Bee' before sunup on 22 September 1964, covered from a borrowed 24-inch Boston University mirror telescope on a modified five-inch gun mount fitted with an image orthicon television camera tube, sited at about 4,000 feet in the Los Padres National Forest, which covered nine of eleven Vandenberg launches between August and November 1964.",
+"tier": 1
+},
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 187, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "He states the film no longer exists: the Top Secret film was marked for downgrading and declassification after twelve years, 'but its utility was over after a few months', and 'the film and related materials were all destroyed long before the 12 years were up'. He adds that Jacobs 'is being both safe and cagey in observing that the Air Force denies the existence of the film or other hard evidence'.",
+"tier": 1
+},
+{
+"source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 185-186, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
+"text": "His explanation of the imagery is specific and testable rather than dismissive: two decoys were fired off by small rocket charges on schedule, some of the decoy packing material trailed along and was visible optically and on certain radars, and the little cloud of debris around each decoy gave away the false status, which is why the classification went from Secret to Top Secret and a copy was flown to SAC headquarters.",
+"tier": 1
 }
 ],
 "cls": "person",
@@ -65,6 +85,27 @@
 },
 {
 "claimTier": 1,
+"cls": "document",
+"dateEnd": "1993",
+"dateStart": "1993",
+"direction": "out",
+"edgeLabel": "Author",
+"id": "doc-si-big-sur-1993",
+"l0": false,
+"label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
+"note": "He identifies himself as the project engineer in the article's opening line. Type research, not custody: he wrote it, he does not hold custody of anything.",
+"sources": [
+{
+"date": "1993",
+"name": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer Vol. 17, Winter 1993, pp. 180-187; Center for Inquiry PDF, read in full. Opened 19 September 2026",
+"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
+"claimTier": 1,
 "cls": "person",
 "dateEnd": "1993",
 "dateStart": "1993",
@@ -81,14 +122,14 @@
 "url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 }
 ],
 "date": null,
 "dateEnd": null,
 "dateStart": null,
-"deg": 2,
+"deg": 3,
 "denials": [
 {
 "by": {
@@ -113,7 +154,8 @@
 }
 ],
 "domains": [
-"disclosure-project-2026-09-19"
+"disclosure-project-2026-09-19",
+"nuclear-witnesses-2026-09-19"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -144,7 +186,7 @@
 "status": "unknown",
 "sub": "Air Force project engineer for the 1964 Big Sur image-orthicon telescope deployment; author of the published rebuttal of Robert Jacobs's account and of a contemporaneous 1964 staff study on the same imagery",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 414 of 1136, score 33). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 190 of 1170, score 46). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

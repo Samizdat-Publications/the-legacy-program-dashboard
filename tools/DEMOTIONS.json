@@ -235,6 +235,11 @@
   "claim": "Barber was a named speaker at the 2025 Sol Foundation Symposium, 24-27 October 2025."
  },
  {
+  "id": "florenz-mansmann",
+  "why": "node carries no primary-record URL",
+  "claim": "Kingston A. George, the project engineer for the 1964 Big Sur telescope experiment, published a photograph of "
+ },
+ {
   "id": "george-hathaway",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "The DIA letter of 9 January 2018 lists item 10 as \"Role of Superconductors in Gravity Research, Dr George Hath"
@@ -313,11 +318,6 @@
   "id": "frank-scully",
   "why": "node carries no primary-record URL",
   "claim": "Silas M. Newton and Leo A. Gebauer were convicted of fraud in 1953 following charges pressed by Herman Flader "
- },
- {
-  "id": "robert-salas",
-  "why": "node carries no primary-record URL",
-  "claim": "An Air Force teletype dated 17 March 1967 reporting loss of strategic alert at Malmstrom AFB is published in f"
  },
  {
   "id": "betty-cash",
@@ -738,6 +738,51 @@
   "id": "lacatski-book-series",
   "why": "node carries no primary-record URL",
   "claim": "Lacatski published 'Inside the U.S. Government Covert UFO Program: New Insights' in 2025 (ISBN 9798989114689) "
+ },
+ {
+  "id": "big-sur-1964",
+  "why": "node carries no primary-record URL",
+  "claim": "The deployment: 'The United States Air Force conducted a test of a special light-sensitive telescope high up i"
+ },
+ {
+  "id": "big-sur-1964",
+  "why": "node carries no primary-record URL",
+  "claim": "The instrument: a 24-inch mirror telescope 'built in the 1950s on a modified 5-inch gun mount by Boston Univer"
+ },
+ {
+  "id": "big-sur-1964",
+  "why": "node carries no primary-record URL",
+  "claim": "The date and the launch, per the project engineer: 'Dawn on September 22, 1964', on 'an Atlas launch nicknamed"
+ },
+ {
+  "id": "big-sur-1964",
+  "why": "node carries no primary-record URL",
+  "claim": "A contemporaneous internal document is cited by title and date: 'George, Kingston A. 1964. Preliminary Report "
+ },
+ {
+  "id": "big-sur-1964",
+  "why": "node carries no primary-record URL",
+  "claim": "The project engineer confirms the other participant's role: 'Bob was named the on-site commander by the 1369th"
+ },
+ {
+  "id": "big-sur-1964",
+  "why": "node carries no primary-record URL",
+  "claim": "The film's fate: 'The Top Secret film was marked for downgrading and declassification after 12 years, but its "
+ },
+ {
+  "id": "big-sur-1964",
+  "why": "node carries no primary-record URL",
+  "claim": "The project engineer's own contemporaneous document is cited by title, issuing headquarters and date in his 19"
+ },
+ {
+  "id": "big-sur-1964",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Two further participants are named and placed at the site by George's published photograph caption: 'In front "
+ },
+ {
+  "id": "big-sur-1964",
+  "why": "node carries no primary-record URL",
+  "claim": "George states the physical evidence no longer exists: the Top Secret film was marked for downgrading and decla"
  },
  {
   "id": "rendlesham-1980",

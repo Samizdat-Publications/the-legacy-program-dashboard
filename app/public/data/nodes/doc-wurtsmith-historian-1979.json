@@ -1,0 +1,123 @@
+{
+"A": 2,
+"C": 0,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "NICAP, 'Wurtsmith and Others', http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"text": "SSgt Paul J. Cahill, Research Record of Events, 17 January 1979: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.'",
+"tier": 1
+},
+{
+"source": "NICAP, 'Wurtsmith and Others', http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"text": "Capt. Myron Taylor, Memo for the Record to SSgt Cahill, 18 January 1979, gives the KC-135 crew's account of 30 October 1975 and names Major Frederick Pappas as aircraft commander, Capt. K. E. May as co-pilot, Capt. Rick Meier as navigator, Capt. Randy Higginbotham as instructor pilot, Sergeant Steve Smith, and himself as instructor navigator.",
+"tier": 1
+},
+{
+"source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"text": "THE STANDING CAUTION THIS DOCUMENT CREATES. Because a wing historian is on record finding no reference in his own wing history to an event other Air Force paper records, an argument from a unit history's silence is weaker on this board than it looks. That applies to the sceptical reading of the 341st SMW Echo Flight material as much as to anything else.",
+"tier": 3
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": "1979-01-18",
+"dateStart": "1979-01-17",
+"direction": "out",
+"edgeLabel": "Written at Wurtsmith AFB by the 379th Bombardment Wing historian",
+"id": "l-wurtsmith",
+"l0": false,
+"label": "Wurtsmith AFB, Michigan",
+"note": "The wing and the base are named in the documents themselves.",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+}
+],
+"tier": "B",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1979-01-18",
+"dateStart": "1979-01-17",
+"direction": "out",
+"edgeLabel": "The wing historian's file recovering an event his own wing history omitted",
+"id": "wurtsmith-1975",
+"l0": false,
+"label": "Wurtsmith AFB incursion, 30 October 1975",
+"note": "Cahill's Research Record of Events of 17 January 1979 and Taylor's Memo for the Record of 18 January 1979.",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+}
+],
+"tier": "C",
+"type": "investigative"
+}
+],
+"coords": null,
+"dateEnd": "1979-01-18",
+"dateStart": "1979-01-17",
+"deg": 2,
+"denials": [],
+"desc": "THE METHODOLOGICALLY MOST IMPORTANT DOCUMENT PAIR IN THIS CLUSTER. On 17 January 1979 SSgt Paul J. Cahill, historian of the 379th Bombardment Wing at Wurtsmith AFB, wrote a Research Record of Events recording that he had checked the October to December 1975 Wing History for the 30 October 1975 incursion and found no references to it. The following day Capt. Myron Taylor, an instructor navigator who had been aboard the KC-135 that pursued the object over Lake Huron, wrote Cahill a Memo for the Record giving the crew's account and naming the crew. The pair matters to this board beyond the Wurtsmith case: it is a documented instance of an Air Force unit history omitting an event that other Air Force paper records, discovered and written down by the unit historian himself. Any argument anywhere on this board that proceeds from a unit history's silence, including the sceptical argument about Echo Flight, has to be read against it.",
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "doc-wurtsmith-historian-1979",
+"l0": false,
+"label": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
+"locLabel": null,
+"members": null,
+"short": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+},
+{
+"date": "1975-10-31",
+"name": "NICAP case page, Wurtsmith AFB incursion, 30 October 1975, giving the NORAD Command Director's Log entry 31 Oct 75/0445Z. Opened 19 September 2026",
+"url": "https://www.nicap.org/babylon/751030_wurtsmith.htm"
+},
+{
+"date": "2026-09-19",
+"name": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
+"url": ""
+}
+],
+"sub": "SSgt Paul J. Cahill's Research Record of Events and Capt. Myron Taylor's Memo for the Record; a wing historian recording that his own wing history omitted the event",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 887 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [
+{
+"date": "1979-01-17",
+"id": "tl-1979-01-17-wurtsmith-historian",
+"label": "A wing historian records that his own wing history omits the incursion",
+"precision": "day",
+"strand": "coverup",
+"text": "SSgt Paul J. Cahill, historian of the 379th Bombardment Wing, wrote in a Research Record of Events: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.' The following day Capt. Myron Taylor wrote him a Memo for the Record giving the KC-135 crew's account. This is the board's one documented instance of an Air Force unit history omitting an event that other Air Force paper records, found and written down by the unit historian himself.",
+"tier": "B"
+}
+]
+}

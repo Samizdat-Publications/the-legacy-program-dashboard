@@ -4,9 +4,9 @@ This is a research board about an alleged legacy programme to recover and revers
 
 ## What the board holds
 
-The board carries 1125 nodes: 338 people and 787 entities, which are institutions, programmes, documents, events, locations, domains and pieces of legislation. Those nodes are joined by 2661 hand written links and carry 5839 tiered claims between them. 1050 dated events sit on the timeline, 135 nodes are placed on the programme map, 5 patents are tracked in full prosecution detail, 8 authored threads walk a reader through the strongest sequences, and 17 Freedom of Information Act requests are drafted and waiting to be filed.
+The board carries 1170 nodes: 353 people and 817 entities, which are institutions, programmes, documents, events, locations, domains and pieces of legislation. Those nodes are joined by 2762 hand written links and carry 6091 tiered claims between them. 1076 dated events sit on the timeline, 135 nodes are placed on the programme map, 5 patents are tracked in full prosecution detail, 8 authored threads walk a reader through the strongest sequences, and 17 Freedom of Information Act requests are drafted and waiting to be filed.
 
-Of the claims, 3648 are Tier 1, 1618 are Tier 2 and 573 are Tier 3. That split is the point of the board. It is built so that nobody can read it without knowing which parts rest on a primary record and which parts rest on testimony or on inference.
+Of the claims, 3789 are Tier 1, 1684 are Tier 2 and 618 are Tier 3. That split is the point of the board. It is built so that nobody can read it without knowing which parts rest on a primary record and which parts rest on testimony or on inference.
 
 ## The claim tiers, in plain words
 
@@ -42,7 +42,7 @@ So a node written as C3 A2 D0 is deep in the custody question, holds serious acc
 
 The All-domain Anomaly Resolution Office, AARO, and the Department of Defense publishing domains including defense.gov are treated on this board as interested parties. A claim sourced to them caps at Tier 2 unless the claim is about what they said. The reasoning is simple: publishing something on aaro.mil makes that page a primary record of the statement, not a primary record of the fact asserted in it. AARO reporting what AARO found is testimony from a party to the dispute.
 
-This is not a rhetorical stance, it is enforced in the data. 264 claims on this board carry a source string that records the demotion in writing, usually with the phrase DEMOTED from Tier 1 followed by the reason and a note that a primary replacement is still needed. Those strings are reproduced unchanged in these files.
+This is not a rhetorical stance, it is enforced in the data. 273 claims on this board carry a source string that records the demotion in writing, usually with the phrase DEMOTED from Tier 1 followed by the reason and a note that a primary replacement is still needed. Those strings are reproduced unchanged in these files.
 
 The mirror of that rule is that denials are kept in full and sourced, treated as artefacts of the concealment effort rather than as counterweights to it. A denial is a dated, signed, attributable statement, which makes it evidence about the denier. There is a whole file of them here.
 
@@ -57,8 +57,8 @@ The bands:
 - **custody**
 - **funding**
 - **oversight**
-- **disclosure**
 - **research**
+- **disclosure**
 
 The eras:
 
@@ -74,10 +74,10 @@ The board offers six authored entry paths, each a different question to walk in 
 
 - **Follow the money**: How an unacknowledged programme gets paid for, and why the Department has never passed an audit. 6 of its 11 nodes are on the programme map.
 - **Start from a witness**: The people who testified under oath, and what the record does and does not corroborate. 0 of its 7 nodes are on the programme map.
-- **The custody chain**: Who is said to have held material, and who says so. Every link here is hand-written and individually sourced. 52 of its 204 nodes are on the programme map.
+- **The custody chain**: Who is said to have held material, and who says so. Every link here is hand-written and individually sourced. 50 of its 204 nodes are on the programme map.
 - **The foreign counter-examples**: States that funded a UAP office, published, and did not treat the subject as unmentionable. The contrast is the argument. 10 of its 11 nodes are on the programme map.
 - **The legal mechanism**: The statutes and directives that let a programme exist without being reportable, and the twelve seats that get told. 10 of its 10 nodes are on the programme map.
-- **Who denied what**: A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers. 42 of its 156 nodes are on the programme map.
+- **Who denied what**: A denial is a dated, signed, attributable statement, which makes it evidence about the denier. These are the issuers. 41 of its 162 nodes are on the programme map.
 
 ## Names in full
 
@@ -114,6 +114,7 @@ These expansions are taken from the board's own node labels. Where a file below 
 - **NIP**: National Intelligence Program
 - **NSEC**: National Security Engineering Center
 - **ODNI**: ICD 906, Controlled Access Programs
+- **SAC**: Strategic Air Command
 - **SAPOC**: Special Access Program Oversight Committee
 - **SCU**: Scientific Coalition for UAP Studies
 - **SIP**: BAASS–MUFON Star Team Impact Project
@@ -132,4 +133,4 @@ If you are listening rather than reading: file 15 is the honest one. It is where
 
 Two mechanical notes about the text. Em dashes in the stored data have been rendered as commas, or as the word to when they sat between two numbers, and runs of spaces have been collapsed. No wording has been changed, added or removed.
 
-Generated from board build 2026-09-19 (board source cc2cd2991e89).
+Generated from board build 2026-09-25 (board source 6baf9bab56df).

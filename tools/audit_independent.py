@@ -6,20 +6,23 @@ DELIBERATELY DOES NOT IMPORT verify.py OR build_l0.py.
 
 verify.py is the build gate and I wrote it. An audit that runs the author's own
 checks proves the author is self-consistent, not that the deliverable is right.
-This file re-derives every displayed figure from `data/the-program.json` using its
-own arithmetic, then compares against the strings ACTUALLY RENDERED in
-`dist/the-program.html`. Where the two disagree, the rendered value is what the
-reader sees and therefore what is wrong.
+This file re-derives the map model's figures and the board's integrity rules from
+`data/the-program.json` and the research files, using its own arithmetic, and
+compares them against what `data/l0-model.json` states about itself.
+
+It used to compare the figures RENDERED in the old single-file shell as well (the
+stats strip, the breadcrumb, a class count in UI copy). That shell was retired on
+25 September 2026; the app's check C27 now re-derives the figures Home prints from
+the raw files the app serves, which is the same question asked of what ships.
 
 Prints checks run / checks failed. A zero-failure run is demonstrated, not asserted.
 """
 
-import json, os, re, sys
+import json, os, sys
 from collections import Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOARD = os.path.join(ROOT, "data", "the-program.json")
-DIST = os.path.join(ROOT, "dist", "the-program.html")
 
 PASS, FAIL = [], []
 
@@ -34,7 +37,6 @@ def ck(name, got, want, note=""):
 
 def main():
     b = json.load(open(BOARD, encoding="utf-8"))
-    html = open(DIST, encoding="utf-8").read()
     people, ents, edges = b["people"], b["entities"], b["edges"]
     nodes = people + ents
 
@@ -136,20 +138,12 @@ def main():
     ck("gated-out count", c["gatedOut"], gated)
 
     # every summarised tick count must equal its shared-member count
-    bad_tick = [e["id"] if isinstance(e, dict) else e for e in []]
     mism = 0
     for e in model["summarised"]:
         k = "|".join(sorted((e["a"], e["b"])))
         if k in summ and e["n"] != len(summ[k]):
             mism += 1
     ck("summarised tick counts equal shared-member counts", mism, 0)
-
-    # tick overflow: the design said counts run 2-5. They do not any more.
-    mx = max((e["n"] for e in model["summarised"]), default=0)
-    ck("renderer has a tick-overflow path", "TICK_MAX" in html, mx <= 5 or True,
-       f"max shared members is {mx}")
-    if mx > 5 and "TICK_MAX" not in html:
-        FAIL.append("tick overflow: counts exceed 5 and the renderer cannot draw it")
 
     # ---- dossiers -------------------------------------------------------------
     withd = sum(1 for n in model["l0"] if (n.get("dossier") or {}).get("narrative"))
@@ -183,111 +177,10 @@ def main():
     # each edge yields exactly two rows unless an endpoint is missing
     ck("connection rows equal twice the edge count", rows, len(edges) * 2 - dangling * 2)
 
-    # ---- the stats strip, as RENDERED -----------------------------------------
-    # This is the part a reader actually reads. Pull the numbers out of the built
-    # file and re-derive each from source independently.
-    # The stats strip is COMPUTED AT RUNTIME, so scraping the HTML source finds
-    # the code that builds it, not the number a reader sees. My first attempt did
-    # exactly that and matched "5205" out of "DoDD 5205.07" for CUSTODY. Read the
-    # rendered DOM text instead: tools/runtime-strip.txt is written by the browser
-    # pass. If it is absent, these checks are SKIPPED AND SAID TO BE SKIPPED rather
-    # than silently passing, which is the canvasInk failure this project keeps
-    # relearning.
-    strip_path = os.path.join(ROOT, "tools", "runtime-strip.txt")
-    strip = open(strip_path, encoding="utf-8").read() if os.path.exists(strip_path) else None
-    if strip is None:
-        FAIL.append("stats strip: tools/runtime-strip.txt absent, so the figures a "
-                    "reader actually sees were NOT verified. Run the browser pass.")
-
-    def rendered(pat, what=None):
-        """Pull one figure out of the captured DOM text.
-
-        If the strip was captured but the figure is NOT in it, that is a FAILURE, not a
-        skip. Every caller below used to guard with `if value:` and fall through in
-        silence when the pattern missed, so a check could sit dead for weeks while the
-        number it guarded was wrong. That is exactly what happened to
-        `breadcrumb object count`: the L0 breadcrumb renders as "PROGRAM MAPSTART436
-        objects", the pattern expected whitespace where "START" is, it never matched,
-        and the audit reported 37 of its 38 checks as a clean run.
-        """
-        if strip is None:
-            return None
-        m = re.search(pat, strip)
-        if not m:
-            if what:
-                FAIL.append(f"stats strip: captured, but the {what} figure is not in it "
-                            f"-- the check that depends on it did not run")
-            return None
-        return m.group(1)
-
-    ent_rendered = rendered(r"ENTITIES\s*(\d{3,4})", "ENTITIES")
-    if ent_rendered:
-        ck("stats strip ENTITIES", int(ent_rendered), len(nodes))
-    else:
-        FAIL.append("stats strip: could not locate the ENTITIES figure in the built file")
-
-    links_rendered = rendered(r"SOURCED LINKS\s*(\d{3,5})", "SOURCED LINKS")
-    if links_rendered:
-        ck("stats strip SOURCED LINKS", int(links_rendered), len(edges))
-
-    # claim totals
+    # ---- claim tiers ------------------------------------------------------------
     claims = [cl for n in nodes for cl in (n.get("claims") or [])]
     ck("claim tier values are all legal",
        sorted({cl.get("tier") for cl in claims}), [1, 2, 3])
-    t1 = sum(1 for cl in claims if cl.get("tier") == 1)
-    documented = round(t1 / len(claims) * 100)
-    dr = rendered(r"(\d{1,3})%\s*(?:</[^>]+>\s*)?of\s*(\d{3,5})\s*claims", "DOCUMENTED")
-    if dr:
-        m = re.search(r"(\d{1,3})%\s*(?:</[^>]+>\s*)?of\s*(\d{3,5})\s*claims", strip)
-        ck("stats strip DOCUMENTED denominator", int(m.group(2)), len(claims))
-        ck("stats strip DOCUMENTED percent", int(m.group(1)), documented,
-           f"{t1} tier-1 of {len(claims)}")
-
-    den = sum(1 for e in edges if e["type"] == "denial")
-    dnr = rendered(r"DENIALS\s*(\d{1,4})", "DENIALS")
-    if dnr:
-        ck("stats strip DENIALS", int(dnr), den)
-    cus = sum(1 for e in edges if e["type"] == "custody")
-    cur = rendered(r"CUSTODY\s*(\d{1,4})", "CUSTODY")
-    if cur:
-        ck("stats strip CUSTODY", int(cur), cus)
-
-    tr = rendered(r"TIER A\s*(\d{1,4})", "TIER A")
-    if tr:
-        ck("stats strip TIER A", int(tr),
-           sum(1 for n in nodes if n.get("tier") == "A"))
-    # The crumb renders as "PROGRAM MAPSTART110 nodes · 103 of 326 links at rest
-    # · 1.00x" -- the label between "MAP" and the count is part of the breadcrumb,
-    # not whitespace. It used to read "436 objects", one number covering nodes and
-    # both edge kinds. The packed layout draws only the budgeted edges at rest, so
-    # a single total would have told the reader they were looking at 326 links when
-    # 103 are on the screen. Three figures now, and all three are checked.
-    mo = (rendered(r"PROGRAM MAP\D{0,12}?(\d{2,5})\s*nodes", "PROGRAM MAP nodes")
-          if strip else None)
-    if mo:
-        ck("breadcrumb node count", int(mo), c["l0"])
-    mr = (rendered(r"(\d{1,5})\s*of\s*\d{1,5}\s*links at rest", "links at rest")
-          if strip else None)
-    if mr:
-        # Re-derived from the layout model rather than from the number the model
-        # states about itself: count the edges actually flagged `rest`.
-        lay = json.load(open(os.path.join(ROOT, "data", "l0-layout-model.json"),
-                             encoding="utf-8"))["current"]
-        ck("breadcrumb links at rest", int(mr),
-           sum(1 for e in lay["edges"] if e.get("rest")))
-    mt = (rendered(r"\d{1,5}\s*of\s*(\d{1,5})\s*links at rest", "links total")
-          if strip else None)
-    if mt:
-        ck("breadcrumb links total", int(mt),
-           c["directEdges"] + c["summarisedEdges"])
-
-    # entity class count stated in UI copy
-    ncls = len({n["cls"] for n in nodes})
-    words = {5: "Five", 6: "Six", 7: "Seven", 8: "Eight", 9: "Nine"}
-    stated = re.search(r"(Five|Six|Seven|Eight|Nine) entity classes", html)
-    if stated:
-        ck("UI copy: entity class count", stated.group(1), words.get(ncls),
-           f"the board carries {ncls} classes")
 
     # ---- removals actually took ----------------------------------------------
     rm = json.load(open(os.path.join(ROOT, "research", "_removed.json"),
@@ -376,7 +269,7 @@ def main():
     for f in FAIL:
         print("  FAIL  " + f)
     if not FAIL:
-        print("  every displayed figure re-derived from source and matched.")
+        print("  every figure re-derived from source and matched.")
     return 1 if FAIL else 0
 
 

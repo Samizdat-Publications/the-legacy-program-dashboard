@@ -1,6 +1,6 @@
 # The oversight band
 
-The programme map splits the 135 nodes closest to the alleged programme into seven bands, and this file is the oversight band: 23 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
+The programme map splits the 135 nodes closest to the alleged programme into seven bands, and this file is the oversight band: 22 nodes, taken era by era from the earliest to the most recent. Each entry gives what the node is, why the board places it here, why it holds the tier it holds, what it has denied, its documented and testimonial claims with their sources, and the links that tie it to the rest of the board.
 
 Names in full, for this file:
 
@@ -55,7 +55,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 201 of 1125, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 207 of 1170, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -97,6 +97,61 @@ Re-graded B on a global pass (rank 201 of 1125, score 45). 18 connections, 1 of 
 
 It carries 18 connections in total on the board.
 
+## NORAD and US Northern Command
+
+NORAD and US Northern Command is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1958; axes C0 A3 D2; 8 connections; in the oversight band.
+
+In one line: Homeland air defence combatant command.
+
+### What it is
+
+The North American Aerospace Defense Command and US Northern Command, the binational and homeland commands responsible for aerospace warning and control over North America. On this board they appear in two eras that are usually discussed separately: the 1975 northern-tier intrusions, recorded in NORAD's own regional logs, and the post-2022 drone-incursion reporting over US military installations.
+
+### Why it is implicated
+
+Because the same command's own records bracket the subject at both ends. The 24th NORAD Region Senior Director's Log for November 1975 records fighters launched against objects over weapons storage areas and lights extinguishing on their arrival. Fifty years later the same command reports more than 600 drone sightings over US installations since 2022 and stands up a counter-drone demonstration programme. Whatever the objects are in either period, the institution recording them is the one whose job is knowing what is in the airspace.
+
+### The longer account
+
+This node is on the map because of what its records are, not what anyone claims about it.
+
+The 1975 material is primary and contemporaneous. The 24th NORAD Region Senior Director's Log, released over a colonel's signature and stamped as pages of a larger compilation, records calls from Strategic Air Command posts, two F-106s launched, that the fighters did not get down to the objects, and lights extinguishing on fighter arrival. The National Military Command Center memorandum of 29 October 1975 shows the traffic reaching the Chairman, the Joint Staff and the service chiefs, with a general officer personally approving rules of engagement for a National Guard helicopter.
+
+One unresolved detail is carried openly rather than smoothed. The NORAD log names Minot Air Force Station, a radar site, where the CINCNORAD message of 11 November says Minot AFB. Those are different places and the discrepancy matters for which base a claim attaches to. Nothing opened resolves it, so the board states both and attaches the claim to neither silently.
+
+The modern material is of a different character and is kept distinct. Drone reports over installations since 2022 are an acknowledged, funded, operational problem with named programmes attached. The board carries them because the same command is the reporter, and because a reader tracing how official language about unidentified objects has changed will want both ends of the line in one place. It does not assert that the two eras are the same phenomenon.
+
+Roles the board assigns it: oversight, disclosure.
+
+### Open questions on this node
+
+- Whether Minot Air Force Station or Minot AFB is correct in the 1975 record, which decides a hub attachment.
+- The remainder of the OASD FOIA compilation the NORAD log was released within, at least 449 unseen pages.
+- Whether any NORAD assessment of the 1975 sequence exists beyond the logs themselves.
+
+### Why it holds its tier
+
+Re-graded B on a global pass (rank 454 of 1170, score 32). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.
+
+### The claims on the record
+
+- **Tier 1 documented.** NORAD continued issuing intercept press releases through 2026, including multiple temporary flight restriction violation intercepts in the Northeast and over New Jersey. Source: NORAD Newsroom press releases, 2026
+- **Tier 1 documented.** THE 1975 LOG IS PRIMARY AND CONTEMPORANEOUS. The 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 records calls from Strategic Air Command posts, 'two F-106', that 'fighters did not get down to objects', and lights extinguishing on fighter arrival. Source: 24th NORAD Region Senior Director's Log, 7-19 Nov 1975, opened 2026-09-19
+- **Tier 2 named person on the record.** Guillot established Falcon Peak, a counter-drone demonstration with multiple vendors, and advocates a layered approach including directed energy. Source: The War Zone, 30 October 2024
+- **Tier 2 named person on the record.** NORAD recorded more than 600 drone reports above US military installations since 2022. Source: NORAD via The War Zone, 30 October 2024
+- **Tier 2 named person on the record.** THE MODERN REPORTING, KEPT DISTINCT. NORAD recorded more than 600 drone reports above US military installations since 2022, and established Falcon Peak, a counter-drone demonstration with multiple vendors. The board carries this because the same command is the reporter, and asserts no continuity between the two eras. Source: NORAD statements and reporting, already on the board before this cluster
+
+### Its strongest connections
+
+- NORAD and US Northern Command runs out to **1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)** (event, board tier A), a institutional link at Tier 1 documented. The link reads: NORAD was the detection and identification authority across the sequence. The NMCC memorandum records NORAD obtaining Canadian authority for pursuit; the CINCNORAD message summarises the sequence; the 24th Region log is the working record. Sources: National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026, http://www.nicap.org/reports/751027loring_1-6.htm, dated 1975-10-29; NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026, http://www.nicap.org/intsac.htm, dated 1975-11-11; 24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt, dated 1975-11-19.
+- NORAD and US Northern Command comes in from **Defense Support Program (DSP) missile early warning satellites** (program, board tier B), a denial link at Tier 1 documented. The link reads: USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD. USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA. Sources: USNORTHCOM FOIA response letter, case FY14-19NOV2013-07, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf, dated 2013-12-06.
+- NORAD and US Northern Command runs out to **24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975** (document, board tier B), a research link at Tier 1 documented. The link reads: Produced by the 24th NORAD Region's own senior directors. Type research because NORAD produced the document. It does not hold custody of anything on this board, and a custody edge here would weight the node as a programme edge without warrant. Sources: 24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt, dated 1975-11-19.
+- NORAD and US Northern Command comes in from **February 2023 Alaska, Yukon and Lake Huron Shootdowns** (event, board tier B), a institutional link at Tier 1 documented. The link reads: NORAD-controlled fighters destroyed three unidentified objects in four days. Two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing destroyed the Lake Huron object with an AIM-9X at roughly 20,000 feet on 12 February 2023. Sources: The War Zone - we finally see the object shot down over Lake Huron, https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron, dated 2026-05-22.
+- NORAD and US Northern Command runs out to **CINCNORAD four-part message, 11 November 1975** (document, board tier C), a research link at Tier 1 documented. The link reads: Originated by the Commander-in-Chief, NORAD. Type research: originator of the message, not custodian of anything. Sources: NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026, http://www.nicap.org/intsac.htm, dated 1975-11-11.
+- NORAD and US Northern Command comes in from **NDAA FY2026 UAP provisions (Secs. 1671-1673)** (legislation, board tier A), a legislative link at Tier 2 named person on the record. The link reads: demands an intercept history since 2004. AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them. Sources: DefenseScoop, FY2026 NDAA UAP provisions, https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/, dated 2025-12-10.
+- NORAD and US Northern Command comes in from **Langley AFB Drone Incursions (December 2023)** (event, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Centrepiece of Guillot's 90-day counter-UAS assessment. Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review. Sources: The War Zone - mysterious drones swarmed Langley AFB for weeks, https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks, dated 2024-03-15; The War Zone - NORAD commander on the Langley incursions, https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions, dated 2024-10-30.
+- NORAD and US Northern Command comes in from **Gregory M. Guillot** (person, board tier C), a institutional link at Tier 2 named person on the record. The link reads: Commander, NORAD and USNORTHCOM from February 2024. Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position. Sources: The War Zone - NORAD commander on the Langley incursions, https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions, dated 2024-10-30; The War Zone - US battled drone incursions over key bases after Epic Fury, https://www.twz.com/news-features/u-s-battled-drone-incursions-over-key-bases-at-home-after-launch-of-epic-fury, dated 2026-03-25.
+
 ## National Investigations Committee on Aerial Phenomena (NICAP)
 
 National Investigations Committee on Aerial Phenomena (NICAP) is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1956; axes C1 A1 D1; 7 connections; in the oversight band.
@@ -133,7 +188,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 315 of 1125, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 325 of 1170, score 38). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -159,7 +214,7 @@ Re-graded B on a global pass (rank 315 of 1125, score 38). 7 connections, 1 of t
 
 ## Congressional oversight of special access programs
 
-Congressional oversight of special access programs is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1988; axes C0 A3 D3; 12 connections; in the oversight band.
+Congressional oversight of special access programs is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1988; axes C0 A3 D3; 13 connections; in the oversight band.
 
 In one line: The statutory oversight mechanism, and the hole in it.
 
@@ -204,7 +259,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 257 of 1125, score 41). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 250 of 1170, score 42). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -236,10 +291,11 @@ Re-graded B on a global pass (rank 257 of 1125, score 41). 12 connections, 0 of 
 - Congressional oversight of special access programs runs out to **DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)** (document, board tier A), a investigative link at Tier 1 documented. The link reads: The audit Congress has, and cannot read. The only formal evaluation of DoD's UAP conduct is classified in full, so the oversight value available to members outside the cleared channels is an unclassified summary. Sources: DoD OIG, DODIG-2023-109, https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/, dated 2023-08-15.
 - Congressional oversight of special access programs runs out to **Senate Armed Services Committee** (institution, board tier B), a legislative link at Tier 1 documented. The link reads: Defense committee receiving waived-SAP notification. Same statutory provision; four committees, eight members. Sources: 10 U.S.C. 119, Special access programs: congressional oversight, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
 - Congressional oversight of special access programs comes in from **Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)** (institution, board tier B), a investigative link at Tier 1 documented. The link reads: The historical benchmark, and the source of the board's sharpest statement of the limit. The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own. Sources: S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf, dated 1976-04-26.
+- Congressional oversight of special access programs comes in from **Howard P. "Buck" McKeon** (person, board tier B), a institutional link at Tier 1 documented. The link reads: House Armed Services leadership, 2009-2015. Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group. Sources: https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member, https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member; 10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22.
+- Congressional oversight of special access programs comes in from **Thad Cochran** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Senate appropriations leadership in 2009, the year of the Reid SAP request. The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them. Sources: https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm, https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm; https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim; U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22.
 - Congressional oversight of special access programs runs out to **Program structure and organisational mapping** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: the statutory oversight scheme, and the exception written into it. Under 10 U.S.C. 119 the Secretary must report annually by 1 March to the four defense committees on every special access program, with a brief description, major milestones and costs - and under 119(e) may waive any of that on a case-by-case basis. The scheme and its exception are the same statute, which is why oversight belongs on the structural map rather than outside it. Sources: 10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-21; 10 U.S.C. 119 (U.S. Code 2023 Edition, GPO), https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm, dated 2024-01-05; Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18), https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf, dated 2026-05-18.
 - Congressional oversight of special access programs runs out to **House Armed Services Committee** (institution, board tier C), a legislative link at Tier 1 documented. The link reads: Defense committee receiving waived-SAP notification. Under 10 U.S.C. 119(e) the chairman and ranking minority member of each defense committee receive the waived program information and the waiver justification. Sources: 10 U.S.C. 119, Special access programs: congressional oversight, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2024-01-01.
-- Congressional oversight of special access programs comes in from **Howard P. "Buck" McKeon** (person, board tier C), a institutional link at Tier 1 documented. The link reads: House Armed Services leadership, 2009-2015. Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group. Sources: https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member, https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member; 10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22.
-- Congressional oversight of special access programs comes in from **Thad Cochran** (person, board tier C), a institutional link at Tier 1 documented. The link reads: Senate appropriations leadership in 2009, the year of the Reid SAP request. The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them. Sources: https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm, https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm; https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim; U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22.
+- Congressional oversight of special access programs comes in from **Executive Order 12036 - United States Intelligence Activities (24 January 1978)** (legislation, board tier C), a legislative link at Tier 1 documented. The link reads: Fully and currently informed, and expressly not a condition precedent. Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed' while stating that this is 'not... a condition precedent'. Notification is owed; permission is not. Sources: EO 12036 sec. 3-401, https://irp.fas.org/offdocs/eo/eo-12036.htm, dated 2026-09-19.
 
 ## Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)
 
@@ -277,7 +333,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 205 of 1125, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
+Re-graded B on a global pass (rank 212 of 1170, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -350,7 +406,7 @@ Roles the board assigns it: oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 593 of 1125, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.
+Re-graded C on a global pass (rank 612 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -381,106 +437,6 @@ Re-graded C on a global pass (rank 593 of 1125, score 28). 7 connections, 0 of t
 - Information Security Oversight Office runs out to **Program structure and organisational mapping** (domain, board tier C), a institutional link at Tier 1 documented. The link reads: the office charged with counting the classification system, and therefore the boundary of the public map. ISOO is housed at the National Archives and is responsible to the President for policy and oversight of the government-wide security classification system and the National Industrial Security Program, under Executive Orders 13526 and 13556. Where ISOO's annual reporting stops is where this domain's open-source organisational mapping has to switch to inference. Sources: National Archives - Information Security Oversight Office, https://www.archives.gov/isoo, dated 2026-08-21.
 - Information Security Oversight Office runs out to **Waived unacknowledged special access program (waived USAP)** (program, board tier A), a institutional link at Tier 3 stated inference. The link reads: NISP oversight is the only government-wide window on contractor-held classified work. ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program'. A contractor-held program with no government sponsor of record would be visible, if anywhere, through NISP - and ISOO has never been directed at the UAP question. Sources: National Archives - Information Security Oversight Office, https://www.archives.gov/isoo, dated 2026-08-12.
 
-## GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement
-
-GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement is a document on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1988-05-24; axes C1 A1 D1; 6 connections; in the oversight band.
-
-In one line: Unclassified summary to congressional committees, B-230522, 24 May 1988; summary of a classified report of 1 April 1988.
-
-### What it is
-
-GAO's unclassified summary to the four defence committees, B-230522, 24 May 1988, of a classified report of 1 April 1988 on how the Department of Defense decides to make a programme special access. It answers section 1133 of Public Law 100-180.
-
-### Why it is implicated
-
-It is the record behind this board's argument that special access status is asserted rather than justified. GAO found that DoD does not adequately follow its own criteria, that the definition of a special access programme is not clear inside the department, and that the official required to hold a list of all such programmes does not hold one. It also dates the Army's own central oversight office to September 1984, ten years before the reform this board carries at dod-sap-reform-1994.
-
-### The longer account
-
-The board's oversight case has always turned on a simple claim: that the special access system is not policed by the department that runs it. This report is Congress's own auditor saying so in 1988, in an unclassified summary of a classified report, to Les Aspin, Bill Chappell Jr., Sam Nunn and John C. Stennis. Three findings carry. First, creation authority is narrow and named: only the three service secretaries and the Deputy Under Secretary of Defense for Policy may establish a special access programme. Second, nobody held the list: the Deputy Under Secretary for Policy was required to maintain a listing of all special access programmes and did not, on security grounds, and the Secretary's office had no centralized office with cognizance of all of them. Third, and this is the finding that moves two existing nodes, the reform chain starts earlier than the board had it: a DoD review of Army special access programs in 1983 revealed systemic weaknesses which resulted in the establishment of a central oversight office in September 1984. The January 1994 dates on dod-sap-reform-1994 and sapoc stand; what changes is that they are no longer the beginning.
-
-Roles the board assigns it: oversight, concealment.
-
-### Open questions on this node
-
-- The classified report of 1 April 1988 that this document summarises.
-- GAO/NSIAD-89-133 of 4 May 1989 is opened and not yet built as a node; it carries the carve-out contract growth from 63 in 1971 to 1,061 in 1987.
-
-### Why it holds its tier
-
-Re-graded B on a global pass (rank 425 of 1125, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.
-
-### The claims on the record
-
-- **Tier 1 documented.** Creation authority is held by four people: 'Only the three service secretaries and Deputy Under Secretary of Defense for Policy are authorized to establish special access programs.' Source: GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf
-- **Tier 1 documented.** GAO's central finding: 'We found that the Department of Defense does not adequately follow criteria to be used in determining the need to establish programs as special accessrequired. The definition of special accessprograms is not clear within the Department of Defense and, until recently, the oversight role of the Office of the Secretary of Defense in the programs' creation has been limited.' Source: GAO/NSIAD-88-152, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf
-- **Tier 1 documented.** Nobody held a list: 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns.' GAO adds that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. Source: GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf
-- **Tier 1 documented.** The Army reform is dated to 1983-84, not 1994: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' Source: GAO/NSIAD-88-152, Recommendations section, https://www.gao.gov/assets/nsiad-88-152.pdf
-- **Tier 1 documented.** The report is a summary of a classified one and answers a statute: 'This report is an unclassified summary of a classified report that we sent to you on April 1, 1988.' The review 'is in response to section 1133 of Public Law 100-180, which requires that the Comptroller General report to the defense committees on this subject.' Source: GAO/NSIAD-88-152, B-230522, 24 May 1988, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf
-
-### Its strongest connections
-
-- GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement runs out to **Special Access Program Oversight Committee (SAPOC)** (institution, board tier A), a temporal link at Tier 1 documented. The link reads: Records that no OSD office held a list of all special access programmes in 1988. The report records that no OSD office held a list of all special access programmes in 1988, which is the condition the SAPOC was later created to fix. Sources: GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, https://www.gao.gov/assets/nsiad-88-152.pdf, dated 1988-05-24.
-- GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement runs out to **Special Access Programs** (domain, board tier B), a programmatic link at Tier 1 documented. The link reads: A primary statement of how special access programmes are established and by whom. The report is a primary statement of how special access programmes are established and by whom. Sources: GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, https://www.gao.gov/assets/nsiad-88-152.pdf, dated 1988-05-24.
-- GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement runs out to **DoD special access programme governance change, 5 January 1994** (event, board tier B), a temporal link at Tier 1 documented. The link reads: Dates an Army central SAP oversight office to September 1984, ten years earlier. GAO dates a central Army special-access oversight office to September 1984, following a 1983 DoD review, which places a documented predecessor ten years before the January 1994 change this node carries. Sources: GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, https://www.gao.gov/assets/nsiad-88-152.pdf, dated 1988-05-24.
-- GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement runs out to **GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation** (document, board tier B), a temporal link at Tier 1 documented. The link reads: The same GAO division two years after the Lockheed document-control testimony. The same GAO division, two years after the Lockheed document-control testimony the board already holds, reporting on the establishment criteria rather than on document accountability. Sources: GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, https://www.gao.gov/assets/nsiad-88-152.pdf, dated 1988-05-24.
-- GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement runs out to **Congressional Oversight** (domain, board tier C), a investigative link at Tier 1 documented. The link reads: Commissioned by statute, section 1133 of Public Law 100-180, and reported to the four defence committees. Congress commissioned it by statute, section 1133 of Public Law 100-180, and GAO reported to the four defence committees. Sources: GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, https://www.gao.gov/assets/nsiad-88-152.pdf, dated 1988-05-24.
-- GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement runs out to **Government Accountability Office** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: GAO's own report, signed out of the National Security and International Affairs Division under B-230522. The report is GAO's own, signed out of the National Security and International Affairs Division under B-230522. Sources: GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, https://www.gao.gov/assets/nsiad-88-152.pdf, dated 1988-05-24.
-
-## A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990
-
-A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990 is a document on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 1997; axes C0 A3 D2; 6 connections; in the oversight band.
-
-In one line: Gerald K. Haines, CIA Studies in Intelligence, 1997.
-
-### What it is
-
-The CIA's own official history of its involvement with unidentified flying objects, written by NRO historian Gerald K. Haines and published in the Agency's in-house journal Studies in Intelligence in 1997.
-
-### Why it is implicated
-
-It contains admissions no outside researcher could have obtained: that CIA sponsorship of the Robertson panel was forbidden to be mentioned, that the panel canvassed mass media and the Disney corporation to carry its message, and that the Air Force made misleading and deceptive statements to the public to protect a sensitive national security project.
-
-### The longer account
-
-This is the Agency describing its own posture, which makes it a primary record of the posture and nothing more, and that is exactly what it is used for here. Its trigger is stated in the text: in late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files. Its most-cited passage attributes over half of all UFO reports of the late 1950s and 1960s to manned reconnaissance flights, on the estimate of CIA officials who worked on the U-2 and OXCART projects, and concludes that the resulting deception was, while perhaps justified, deception. The corpus opened here puts the Agency's own history of those two projects beside it: Pedlow and Welzenbach's study of the U-2 and OXCART programmes, written by the same History Staff in 1992 on full access to CIA records and released in 2013 in the version that left the Area 51 references intact. That study also settles a claim the corpus attaches to it: it contains no Norton Air Force Base, its only Norton is Garrison Norton, a man, and its stated span ends with the transfer of the remaining Agency U-2s to the Air Force in 1974.
-
-Roles the board assigns it: concealment, disclosure, oversight.
-
-### Open questions on this node
-
-- Whether the 1993 Woolsey review produced a records inventory that has itself been released.
-- The basis for the over-half estimate, which the article attributes to officials rather than to a document.
-
-### Why it holds its tier
-
-Re-graded A on a global pass (rank 92 of 1125, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.
-
-### The claims on the record
-
-- **Tier 1 documented.** 'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights (namely the U-2) over the United States.' Source: Haines, 'CIA's Role in the Study of UFOs, 1947-90'
-- **Tier 1 documented.** 'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights.' Source: Haines, Studies in Intelligence, 1997
-- **Tier 1 documented.** 'Air Force BLUE BOOK investigators aware of the secret U-2 flights tried to explain away such sightings by linking them to natural phenomena such as ice crystals and temperature inversions... They were careful, however, not to reveal the true cause of the sighting to the public.' Source: Haines, 'CIA's Role in the Study of UFOs, 1947-90'
-- **Tier 1 documented.** 'CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden.' Source: Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997
-- **Tier 1 documented.** 'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project. While perhaps justified, this deception added fuel to the later conspiracy theories and the coverup controversy of the 1970s.' Source: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA)
-- **Tier 1 documented.** 'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.' Source: Haines, Studies in Intelligence, 1997
-- **Tier 1 documented.** CIA's Deputy Assistant Director of OSI, Philip Strong, refused to declassify the Robertson Panel report and 'the Agency prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.' Source: Haines, 'CIA's Role in the Study of UFOs, 1947-90'
-- **Tier 1 documented.** The Robertson Panel suggested 'using the mass media, advertising, business clubs, schools, and even the Disney corporation to get the message across'. Source: Haines, Studies in Intelligence, 1997
-- **Tier 1 documented.** The article gives the Air Force's own unexplained residue as a falling figure: 'The percentage of what the Air Force considered unexplained UFO sightings fell to 5.9 percent in 1955 and to 4 percent in 1956.' On Area 52 (batch 07, file 04, 0:49:22) John Ramirez attributed to this article a figure of one in ten. The article does not carry that figure. Source: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm
-- **Tier 1 documented.** The article states its own trigger: 'In late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files on UFOs.' Source: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm
-
-### Its strongest connections
-
-- A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990 runs out to **Central Intelligence Agency** (institution, board tier A), a denial link at Tier 1 documented. The link reads: CIA's own published history concedes the Air Force made deceptive public statements. 'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.' Sources: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy, https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/, dated 1997-01-01.
-- A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990 comes in from **Central Intelligence Agency** (institution, board tier A), a research link at Tier 1 documented. The link reads: CIA published its own institutional history of its UFO role in 1997. Gerald K. Haines, the Agency's historian, published an eighteen-page account in Studies in Intelligence acknowledging the OSI effort, the Robertson Panel and the later U-2/OXCART attribution. Sources: Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/, dated 1997-01-01.
-- A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990 runs out to **Project Blue Book** (program, board tier A), a denial link at Tier 1 documented. The link reads: CIA states the Air Force made misleading and deceptive public statements. Haines writes that reconnaissance-programme secrecy 'led the Air Force to make misleading and deceptive statements to the public', an agency of the US government confirming official deception on this subject. Sources: Haines, CIA's Role in the Study of UFOs, 1947-1990, https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/, dated 1997-01-01.
-- A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990 runs out to **Project Blue Book** (program, board tier A), a institutional link at Tier 1 documented. The link reads: Blue Book investigators knowingly issued false explanations for U-2 sightings. CIA records that Blue Book investigators aware of the secret U-2 flights attributed sightings to ice crystals and temperature inversions and 'were careful, however, not to reveal the true cause of the sighting to the public.' Sources: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy, https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/, dated 1997-01-01.
-- A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990 runs out to **Robertson Panel** (program, board tier A), a denial link at Tier 1 documented. The link reads: CIA refused declassification and issued a sanitised version of the Robertson Panel report. CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.' Sources: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy, https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/, dated 1997-01-01.
-- A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990 comes in from **Robertson Panel** (program, board tier A), a investigative link at Tier 1 documented. The link reads: CIA's official history documents the panel's debunking and concealment. Haines records the mass media and Disney recommendations and states plainly that CIA sponsorship of the panel was forbidden from being mentioned. Sources: Haines, CIA's Role in the Study of UFOs, 1947-1990, https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/, dated 1997-01-01.
-- A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990 runs out to **1952 Washington DC Sightings** (event, board tier C), a investigative link at Tier 1 documented. The link reads: CIA history confirms the 1952 flap drove Agency intervention. Haines records the escalation from the summer 1952 sightings through Chadwell's memoranda to the January 1953 panel. Sources: Haines, CIA's Role in the Study of UFOs, 1947-1990, https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/, dated 1997-01-01.
-- A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990 comes in from **The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974** (document, board tier B), a investigative link at Tier 2 named person on the record. The link reads: Same History Staff, five years earlier, on the projects the 1997 UFO history rests on. The board's Haines UFO history of 1997 rests on CIA officials who worked on the U-2 and OXCART projects; this is the same History Staff's own history of those projects. Tier 2 because the connection is between two Agency histories and no opened document states it. Sources: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/
-- A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990 runs out to **YANKEE BLUE (alleged AFOSI indoctrination program)** (program, board tier B), a behavioral link at Tier 3 stated inference. The link reads: A documented precedent for institutional falsification about UFOs by the US Air Force. CIA's own history establishes that the Air Force knowingly issued false UFO explanations for at least a decade. That precedent is why the YANKEE BLUE allegation cannot be dismissed on plausibility grounds alone. Sources: Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy, https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/, dated 1997-01-01; John Greenewald Jr., 'Pentagon Denies Existence of "Yankee Blue" Memo Reported by Wall Street Journal', The Black Vault, https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/, dated 2025-09-16.
-
 ## Senate Select Committee on Intelligence
 
 Senate Select Committee on Intelligence is a institution on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1976; axes C2 A3 D2; 6 connections; in the oversight band.
@@ -508,7 +464,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 349 of 1125, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded B on a global pass (rank 359 of 1170, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -563,7 +519,7 @@ Roles the board assigns it: concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 60 of 1125, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded A on a global pass (rank 62 of 1170, score 74). 8 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -650,7 +606,7 @@ Roles the board assigns it: concealment, disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 6 of 1125, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 6 of 1170, score 157). 38 connections, 5 of them custody/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -693,12 +649,12 @@ A further 31 claims sit on this node on the board and are not reproduced here.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I runs out to **Roswell Incident** (event, board tier A), a denial link at Tier 1 documented. The link reads: AARO reaffirms MOGUL and finds no recovered extraterrestrial material. The February 2024 report concludes the Roswell materials were consistent with a then-classified Project Mogul balloon and that there is no evidence the USG recovered aliens or extraterrestrial material. Sources: AARO Historical Record Report, Volume I, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf, dated 2024-02-01.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I runs out to **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a denial link at Tier 1 documented. The link reads: March 2024: 'no evidence for the USG reverse-engineering narrative provided by interviewees'. AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263. Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: AARO: 'AATIP was never an official DoD program'. The report is where the Department's own account of AATIP sits. Volume I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the programme in 2012, then that supporters proposed KONA BLUE to DHS as a follow-on. That is the programmatic relation: the report covers the programme's lifecycle. The denial edge on this pair is separate and records the report's rejection of the reverse-engineering account. Sources: AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF, dated 2024-03-08; Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov), https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF, dated 2026-08-11.
+- AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)** (event, board tier A), a denial link at Tier 1 documented. The link reads: AARO's 2024 historical review does not address the 1975 nuclear-base overflights. A full-text review of Volume I finds no treatment of the Loring, Wurtsmith, Malmstrom or Minot incursions despite the underlying records being publicly released by DoD's own FOIA office. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677), https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/, dated 2021-11-08.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I runs out to **KONA BLUE** (program, board tier A), a investigative link at Tier 1 documented. The link reads: Volume I surfaced Kona Blue and framed it as the origin of crash-retrieval belief. AARO disclosed the DHS prospective SAP and used it to argue that witnesses mistook a rejected proposal for an operating programme. Sources: AARO Historical Record Report Volume I, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; AARO DHS Kona Blue package, https://www.aaro.mil/Portals/136/PDFs/UAP_Records_Research/AARO_DHS_Kona_Blue.pdf, dated 2024-06-01.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **Rendlesham Forest Incident, RAF Woodbridge/Bentwaters** (event, board tier A), a denial link at Tier 1 documented. The link reads: AARO's 2024 historical review does not mention Rendlesham. A congressionally directed review of the historical record omits the best-documented physical-trace incident at a NATO nuclear-capable base, for which the Pentagon's own FOIA office has released the commander's memorandum. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; The Halt Memo - Rendlesham Forest Incident (DoD FOIA case 97-F-1677, released Sept 1997), https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/, dated 2021-11-11.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **The Wilson-Davis Notes (16 October 2002)** (document, board tier A), a denial link at Tier 1 documented. The link reads: AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson. The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; The Debrief, 'Summer of the Saucers' (notes Wilson-Davis Memo raised at the 17 May 2022 House Intelligence UAP hearing), https://thedebrief.org/summer-of-the-saucers/, dated 2022-08-01.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **The Wilson-Davis Notes (16 October 2002)** (document, board tier A), a temporal link at Tier 1 documented. The link reads: AARO's report independently catalogues the same structural allegation the memo describes. AARO records a senior military officer describing a craft floating in a building with roughly 150 people working on it, in a program kept 'outside of government so the technology could remain proprietary' - the memo's central claim, restated in a DoD publication. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
 - AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports** (legislation, board tier A), a programmatic link at Tier 1 documented. The link reads: the report it requires. Subsection (j) as enacted by sec. 6802 is where this report comes from. 'Not later than 540 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2023, the Director of the Office shall submit to the congressional defense committees, the congressional intelligence committees, and congressional leadership a written report detailing the historical record of the United States Government relating to unidentified anomalous phenomena'. The statute fixes its scope: it must 'focus on the period beginning on January 1, 1945, and ending on the date on which the Director of the Office completes activities under this subsection'. Sources: Pub. L. 117-263 (James M. Inhofe NDAA for FY2023) sec. 6802, enacted text read from govinfo on 22 August 2026, https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm, dated 2026-08-22.
-- AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I comes in from **1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)** (event, board tier A), a denial link at Tier 1 documented. The link reads: AARO's 2024 historical review does not address the 1975 nuclear-base overflights. A full-text review of Volume I finds no treatment of the Loring, Wurtsmith, Malmstrom or Minot incursions despite the underlying records being publicly released by DoD's own FOIA office. Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; Unidentified Flying Objects over Malmstrom AFB, November 1975 (DoD FOIA case 97-F-1677), https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/, dated 2021-11-08.
 
 It carries 38 connections in total on the board.
 
@@ -746,7 +702,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 59 of 1125, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 61 of 1170, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -847,7 +803,7 @@ Roles the board assigns it: concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 27 of 1125, score 100). 19 connections, 5 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 27 of 1170, score 100). 19 connections, 5 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -896,7 +852,7 @@ It carries 19 connections in total on the board.
 
 ## House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'
 
-House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth' is a event on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2024; axes C2 A2 D3; 16 connections; in the oversight band.
+House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth' is a event on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2024-11-13; axes C2 A2 D3; 16 connections; in the oversight band.
 
 In one line: congressional-hearings.
 
@@ -945,7 +901,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 21 of 1125, score 107). 23 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
+Re-graded A on a global pass (rank 21 of 1170, score 107). 23 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -1043,7 +999,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 48 of 1125, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 49 of 1170, score 82). 17 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1143,7 +1099,7 @@ Roles the board assigns it: oversight, disclosure, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 100 of 1125, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 102 of 1170, score 62). 14 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1238,7 +1194,7 @@ Roles the board assigns it: disclosure, oversight, concealment.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 28 of 1125, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 28 of 1170, score 99). 14 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1335,7 +1291,7 @@ Roles the board assigns it: disclosure, concealment, oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 72 of 1125, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 74 of 1170, score 71). 10 connections, 2 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -1416,7 +1372,7 @@ Roles the board assigns it: disclosure, oversight.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 381 of 1125, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 392 of 1170, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1502,7 +1458,7 @@ Roles the board assigns it: oversight, concealment, disclosure.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 83 of 1125, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.
+Re-graded A on a global pass (rank 85 of 1170, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -1595,7 +1551,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 639 of 1125, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 657 of 1170, score 26). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1683,7 +1639,7 @@ Roles the board assigns it: concealment, oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 520 of 1125, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 535 of 1170, score 30). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1764,7 +1720,7 @@ Roles the board assigns it: oversight, disclosure.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 723 of 1125, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 747 of 1170, score 23). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1828,7 +1784,7 @@ Roles the board assigns it: oversight.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 25 of 1125, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.
+Re-graded A on a global pass (rank 25 of 1170, score 103). 31 connections, 2 of them custody/funding/programmatic. Axes C3/A1/D3.
 
 ### The claims on the record
 
@@ -1876,6 +1832,6 @@ A further 4 claims sit on this node on the board and are not reproduced here.
 - Waived SAP Notification Group runs out to **Senate Armed Services Committee** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: one of the six defense committees named in 10 U.S.C. 119(g)(1). Contributes two of the twelve seats: the chairman and the ranking minority member. Ordinary committee membership confers no entitlement. Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; P.L. 118-31, Sec. 1841(e), GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Waived SAP Notification Group comes in from **John F. Reed** (person, board tier B), a institutional link at Tier 1 documented. The link reads: seat 2 of 12 - Ranking Member, Senate Armed Services. Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking). Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; Congress.gov, S. 2226, https://www.congress.gov/bill/118th-congress/senate-bill/2226, dated 2023-07-11; https://www.armed-services.senate.gov/about/membership, https://www.armed-services.senate.gov/about/membership; https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm, https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm; https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm, https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm
 - Waived SAP Notification Group comes in from **Roger F. Wicker** (person, board tier B), a institutional link at Tier 1 documented. The link reads: seat 1 of 12 - Chairman, Senate Armed Services. Also held a 119(e)(2) seat as Ranking Member during the 118th Congress. Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; S. 4784 (Reported in Senate), FY2027 NDAA, GPO, https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm, dated 2026-06-15; https://www.armed-services.senate.gov/about/membership, https://www.armed-services.senate.gov/about/membership
-- Waived SAP Notification Group comes in from **Mitch McConnell** (person, board tier B), a institutional link at Tier 1 documented. The link reads: seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee. Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint. Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; 50 U.S.C. 3093(c)(2), the Gang of Eight construct, for contrast with the section 119 group, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; The Debrief, UAP Disclosure Act receives pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27; https://www.appropriations.senate.gov/subcommittees/defense, https://www.appropriations.senate.gov/subcommittees/defense
+- Waived SAP Notification Group comes in from **Howard P. "Buck" McKeon** (person, board tier B), a institutional link at Tier 1 documented. The link reads: Ranking Member then Chairman, House Armed Services Committee. Entered the twelve-member group on his election as ranking member, announced by the committee chairman on 16 June 2009, and remained in it as chairman through the 112th and 113th Congresses to January 2015. Longest continuous House Armed Services occupancy of a 119(e)(2) seat in the 2009-2015 window the board's current-holder roster does not cover. Sources: https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member, https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member; https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm, https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm; https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22.
 
 It carries 31 connections in total on the board.

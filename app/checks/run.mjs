@@ -235,6 +235,16 @@ const IN_PAGE = {
     return { claims, head: head ? head.textContent : '', denials };
   },
 
+  /* Home's figures, as printed: the counts panel row by row, and the prose. */
+  home() {
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    return {
+      rows: Array.prototype.map.call(document.querySelectorAll('.panel.counts tr'), (tr) =>
+        [txt(tr.querySelector('td.n')), txt(tr.querySelector('td.k'))]),
+      para: txt(document.querySelector('.home-para')),
+    };
+  },
+
   /* Sourced connections on a node page, grouped as drawn. */
   conns() {
     const txt = (el) => ((el && el.textContent) || '').trim();
@@ -729,6 +739,35 @@ const POISONS = {
       if (td) td.textContent = 'denied';
     }),
   },
+  c27: {
+    stops: ['home'],
+    what: 'changes one figure in the counts panel by one, the way a stale index would',
+    fn: async (page) => page.evaluate(() => {
+      const td = document.querySelector('.panel.counts td.n');
+      if (td) td.textContent = td.textContent.replace(/\d(?=\D*$)/, (d) => String((Number(d) + 1) % 10));
+    }),
+  },
+  c28: {
+    stops: ['home'],
+    what: "puts one of the sibling board's sentences back into Home's prose",
+    fn: async (page) => page.evaluate(() => {
+      const p = document.querySelector('.home-para');
+      if (p) p.append(' Fifty-two entities are listed who disappeared within three months.');
+    }),
+  },
+  c29: {
+    stops: ['analyst'],
+    what: "rewrites the analyst's outgoing brief to name the sibling board's axes",
+    fn: async (page) => page.evaluate(() => {
+      const f = window.fetch;
+      window.fetch = (u, o) => {
+        if (o && typeof o.body === 'string' && /\/api\/analyst$/.test(String(u))) {
+          o = Object.assign({}, o, { body: o.body.split('custody proximity').join('axes S, P and I') });
+        }
+        return f(u, o);
+      };
+    }),
+  },
   c26: {
     stops: ['phone'],
     what: 'puts the desktop two-column grid back at phone width',
@@ -856,6 +895,7 @@ async function main() {
   /* ---- itinerary -------------------------------------------------------- */
   await stop('home', '#/', 1600);
   S.home.starthere = await ev(IN_PAGE.starthere);
+  S.home.home = await ev(IN_PAGE.home);
 
   await stop('node', '#/n/' + NODE_FOCUS, 1200);
   S.node.node = await ev(IN_PAGE.node);
@@ -975,6 +1015,12 @@ async function main() {
       p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
       await p.goto(APP + hash, { waitUntil: 'load' });
       await p.waitForTimeout(hash.startsWith('#/evidence') ? 3000 : 1500);
+      /* a cold load on a busy machine can take longer than the settle above to
+         mount the dock; wait for its chip key rather than read an empty dock */
+      await p.waitForFunction(() => {
+        const a = document.getElementById('analyst');
+        return !!(a && a.getAttribute('data-chipkey'));
+      }, null, { timeout: 10000 }).catch(() => {});
       const strip = await p.evaluate(`(function ${IN_PAGE.dock})()`);
       const opener = p.locator('#analyst .an-bar').first();
       if (await opener.count()) { await opener.click(); await p.waitForTimeout(400); }
@@ -1082,6 +1128,43 @@ async function main() {
       SEARCH.threads = await p.evaluate(() => document.querySelectorAll('.results a.res.thread').length);
       await p.close();
     }
+  }
+
+  /* ---- C29's analyst brief ----------------------------------------------- */
+  /* What the analyst is told about the board is the request the page sends, so
+     that is what is read: the Worker route is intercepted and answered here, and
+     no question reaches the model or spends a token. */
+  let BRIEF = null;
+  if (!POISON || POISON === 'c29') {
+    const p = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
+    p.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+    let body = null;
+    await p.route('**/api/analyst', async (route) => {
+      try { body = JSON.parse(route.request().postData() || 'null'); } catch { body = null; }
+      await route.fulfill({
+        status: 200, contentType: 'application/json',
+        body: JSON.stringify({ content: [{ type: 'text', text: 'Check reply.' }], stop_reason: 'end_turn',
+          usage: { input_tokens: 1, output_tokens: 1 } }),
+      });
+    });
+    await p.goto(APP + '#/', { waitUntil: 'load' });
+    await p.waitForTimeout(1500);
+    await poisonAt(p, 'analyst');
+    const bar = p.locator('#analyst .an-bar').first();
+    if (await bar.count()) { await bar.click(); await p.waitForTimeout(400); }
+    const input = p.locator('#analyst input[type="text"]').first();
+    if (await input.count()) {
+      await input.fill('What is on this board?');
+      await input.press('Enter');
+      for (let i = 0; i < 40 && !body; i++) await p.waitForTimeout(250);
+    }
+    const sys = body ? body.system : null;
+    BRIEF = {
+      sent: !!body,
+      text: typeof sys === 'string' ? sys
+        : Array.isArray(sys) ? sys.map((b) => (b && b.text) || '').join('\n') : '',
+    };
+    await p.close();
   }
 
   /* ---- C19's tool drive -------------------------------------------------- */
@@ -1509,6 +1592,84 @@ async function main() {
     check('c13', want.length === got.length && want.every((x, i) => x === got[i]),
       'C13 the denial rows on #/n/' + NODE_FOCUS + ' are exactly its denialPairs',
       `page ${got.length} [${got.join(', ')}] · record ${want.length} [${want.join(', ')}]`);
+  }
+
+  /* ---- C27 -------------------------------------------------------------- */
+  /* Home's figures, re-derived from the raw files the app serves and never from
+     index.json's own counts block. Replaces the twelve figure checks that
+     tools/audit_independent.py scraped off the old shell. */
+  {
+    const fmt = (x) => Number(x).toLocaleString('en-US');
+    const people = index.nodes.filter((x) => x.cls === 'person').length;
+    const tier = [1, 2, 3].map((t) => claimRows.filter((c) => c.tier === t).length);
+    const pats = patentsFile.patents || [];
+    const sheets = pats.reduce((a, x) => a + (Array.isArray(x.sheets) ? x.sheets.length : 0), 0) +
+      ((patentsFile.drawings || {}).unmatchedSheets || []).length;
+    const qPairs = new Set();
+    for (const r of foiaFile.requests || []) for (const x of r.nodes || []) {
+      for (const q of [...(x.questions || []), ...(x.partial || [])]) qPairs.add(x.node + '#' + q);
+    }
+    const qNodes = Object.values(foiaFile.byNode || {}).filter((v) => (v || []).length).length;
+    const want = [
+      [index.nodes.length, people, index.nodes.length - people],
+      [edges.length],
+      [claimRows.length, ...tier],
+      [tlEvents.length],
+      [(mapData.nodes || []).length, (mapData.bands || []).length, (mapData.eras || []).length],
+      [threads.length],
+      [pats.length, sheets],
+      [(foiaFile.requests || []).length, qPairs.size, qNodes],
+    ];
+    const nums = (t) => (t.replace(/\bT[123]\b/g, '').match(/\d[\d,]*/g) || []).map((x) => Number(x.replace(/,/g, '')));
+    const got = S.home.home.rows.map(([a, b]) => nums(a + ' ' + b));
+    const bad = want.map((w, i) => [w, got[i] || []]).filter(([w, g]) => w.join(',') !== g.join(','))
+      .map(([w, g]) => 'wanted ' + w.join('/') + ' drew ' + g.join('/'));
+    check('c27', got.length === want.length && bad.length === 0,
+      "C27 every figure in Home's counts panel re-derives from the served data files",
+      bad.length ? clip(bad, 3) : want.map((w) => w.join('/')).join(' · '));
+    const para = S.home.home.para;
+    const phrases = [fmt(index.nodes.length) + ' people', fmt(edges.length) + ' hand-written',
+      fmt(claimRows.length) + ' claims', 'documented (' + fmt(tier[0]) + ')',
+      'on the record (' + fmt(tier[1]) + ')', 'inference (' + fmt(tier[2]) + ')'];
+    const miss = phrases.filter((x) => !para.includes(x));
+    check('c27', miss.length === 0, "C27 every figure in Home's prose re-derives from the served data files",
+      miss.length ? 'missing ' + clip(miss, 3) : phrases.join(' · '));
+  }
+
+  /* ---- C28 -------------------------------------------------------------- */
+  /* This board was built by porting a sibling board's shell, and its copy leaked
+     through more than once (CLAUDE.md section 8). The nine strings are verify.py's
+     old #438 list, carried over when the old shell retired. */
+  {
+    const BANNED = ['NeuroLogica', 'matched denominator', 'left everything behind', 'departure kit',
+      'the leftBehind array', 'Fifty-two entities', 'who disappeared within three months',
+      'derived from the case records', 'after April 2026 is a fact about reporting attention'];
+    const hits = [];
+    for (const [id, snap] of Object.entries(S)) {
+      for (const b of BANNED) if (snap && snap.text && snap.text.includes(b)) hits.push(id + ': "' + b + '"');
+    }
+    check('c28', hits.length === 0, "C28 no screen carries the sibling board's wording",
+      hits.length ? clip(hits, 3) : Object.keys(S).length + ' screens clean of ' + BANNED.length + ' strings');
+    check('c28', /The Legacy Program/.test(S.home.title || ''), 'C28 the page title names this board',
+      '"' + (S.home.title || '') + '"');
+  }
+
+  /* ---- C29 -------------------------------------------------------------- */
+  if (!BRIEF) {
+    skip('C29 the analyst is briefed about this board', 'poison ' + POISON + ' does not drive it');
+  } else {
+    const NEED = ['custody proximity', 'access', 'disclosure role'];
+    const BAN = ['axes S, P and I', 'deaths and disappearances', 'real missing people', 'who disappeared'];
+    /* the standing instructions only: the case index after them is the board's own
+       data, and a node about missing scientists may say "disappearances" */
+    const t = BRIEF.text.split('CASE INDEX.')[0];
+    const lacks = NEED.filter((x) => !t.includes(x));
+    const has = BAN.filter((x) => t.includes(x));
+    check('c29', BRIEF.sent && t.length > 0 && lacks.length === 0 && has.length === 0,
+      "C29 the analyst's brief names this board's axes and none of the sibling board's",
+      !BRIEF.sent ? 'no request reached the analyst route'
+        : (lacks.length ? 'lacks ' + lacks.join(', ') + ' ' : '') + (has.length ? 'carries ' + has.join(', ') : '') ||
+          t.length + ' characters, axes named');
   }
 
   /* ---- C22 -------------------------------------------------------------- */
@@ -2024,20 +2185,45 @@ async function main() {
 
 /* ---- --all-poisons: every poison in turn, each must fail its own check --- */
 function allPoisons() {
-  const names = Object.keys(POISONS);
+  /* --shard k/n runs the poisons whose index i satisfies i % n === k - 1, so n
+     parallel CI jobs cover every poison exactly once between them. Without it,
+     every poison runs. */
+  const all = Object.keys(POISONS);
+  const si = process.argv.indexOf('--shard');
+  let names = all, shard = '';
+  if (si >= 0) {
+    const m = /^(\d+)\/(\d+)$/.exec(process.argv[si + 1] || '');
+    const k = m ? Number(m[1]) : 0, n = m ? Number(m[2]) : 0;
+    if (!m || n < 1 || k < 1 || k > n) {
+      console.error('--shard wants k/n with 1 <= k <= n, got ' + (process.argv[si + 1] || 'nothing'));
+      process.exit(2);
+    }
+    names = all.filter((_, i) => i % n === k - 1);
+    shard = ` in shard ${k}/${n}`;
+    if (!names.length) {
+      console.error(`shard ${k}/${n} holds no poisons (there are ${all.length})`);
+      process.exit(2);
+    }
+  }
   const bad = [];
   for (const n of names) {
     const r = spawnSync(process.execPath, [SELF], {
       env: { ...process.env, POISON: n }, encoding: 'utf8',
     });
     const out = (r.stdout || '') + (r.stderr || '');
-    const line = out.split('\n').filter((l) => /POISON=/.test(l)).pop() || '(no verdict line)';
-    console.log(line.trim());
+    const line = out.split('\n').filter((l) => /POISON=/.test(l)).pop();
+    if (line) console.log(line.trim());
+    else {
+      /* a run that died before its verdict: say why, rather than only that it did */
+      const tail = out.trim().split('\n').slice(-4).map((l) => '      ' + l.trim()).join('\n');
+      console.log(`POISON=${n} no verdict line (exit ${r.status}${r.signal ? ', ' + r.signal : ''})` +
+        (r.error ? ': ' + r.error.message : '') + (tail ? '\n' + tail : ''));
+    }
     if (r.status !== 0) bad.push(n);
   }
   console.log('\n' + (bad.length
-    ? `POISON SWEEP FAILED (${bad.length} of ${names.length} blind): ` + bad.join(', ')
-    : `POISON SWEEP PASSED, all ${names.length} poisons were seen by their own check`));
+    ? `POISON SWEEP FAILED (${bad.length} of ${names.length}${shard} blind): ` + bad.join(', ')
+    : `POISON SWEEP PASSED, all ${names.length} poisons${shard} were seen by their own check`));
   process.exit(bad.length ? 1 : 0);
 }
 

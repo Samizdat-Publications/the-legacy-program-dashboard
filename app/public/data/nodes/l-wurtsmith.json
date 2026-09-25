@@ -1,0 +1,154 @@
+{
+"A": 2,
+"C": 1,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "NICAP, 'Wurtsmith and Others', citing Cahill's Research Record of Events of 17 January 1979, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"text": "THE WING HISTORY OMITTED THE EVENT AND THE WING HISTORIAN RECORDED THE OMISSION. SSgt Paul J. Cahill, 379th Bombardment Wing historian, wrote in a Research Record of Events dated 17 January 1979: 'Following that request, I checked the Oct-Dec 75 Wing History and found no references to the incident.'",
+"tier": 1
+},
+{
+"source": "NICAP, 'Wurtsmith and Others', citing Taylor's Memo for the Record of 18 January 1979, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"text": "Capt. Myron Taylor, instructor navigator, wrote a Memo for the Record to SSgt Cahill on 18 January 1979 giving the KC-135 crew's account: 'We followed the lights north out over Lake Huron and then the UFO swung south still over the lake toward the Saginaw Bay area of Michigan.' He names the crew as Major Frederick Pappas, aircraft commander; Capt. K. E. May, co-pilot; Capt. Rick Meier, navigator; Capt. Randy Higginbotham, instructor pilot; and Sergeant Steve Smith.",
+"tier": 1
+},
+{
+"source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
+"text": "The NORAD Senior Director's Log entry for 31 October 1975 reads: 'Alerted by NCOC of a helicopter sighted over Wurtsmith AFB Wpns storage area, a tanker sighted same and pursued it 35 SE over Lake Huron.' A NORAD Command Director's Log entry timed 31 Oct 75/0445Z reports the incident at 0355Z.",
+"tier": 1
+},
+{
+"source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm , opened 2026-09-19",
+"text": "A Joint Chiefs of Staff operational report of 30 October 1975 records the conventional-explanation check: 'Upon information that the Dept. of Natural Resources sends out aircraft searching for hunters spotting deer, the Dept. of Natural Resources was contacted.'",
+"tier": 1
+},
+{
+"source": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
+"text": "Named ground witnesses at Wurtsmith are in the contemporaneous record: Airman Martin E. Tackabury at the Capehart housing area gate, Airman Michael J. Myers of Police Unit Seven at the motor pool, Sergeant Robert J. Anderson at the motor pool, Airman Roger Skipper at the main gate and Sergeant James A. Miller of the weapons storage area security police. Col. Boardman is named as wing commander.",
+"tier": 2
+}
+],
+"cls": "location",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1979-01-18",
+"dateStart": "1979-01-17",
+"direction": "in",
+"edgeLabel": "Written at Wurtsmith AFB by the 379th Bombardment Wing historian",
+"id": "doc-wurtsmith-historian-1979",
+"l0": false,
+"label": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
+"note": "The wing and the base are named in the documents themselves.",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1979-01-18",
+"dateStart": "1975-10-30",
+"direction": "out",
+"edgeLabel": "SAC installation; 379th Bombardment Wing",
+"id": "strategic-air-command",
+"l0": true,
+"label": "Strategic Air Command (SAC)",
+"note": "The NORAD log records the object over the SAC weapons storage area; the 379th Bombardment Wing historian's 1979 file is the wing's own record of the omission.",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+},
+{
+"date": "1975-10-31",
+"name": "NICAP case page, Wurtsmith AFB incursion, 30 October 1975, giving the NORAD Command Director's Log entry 31 Oct 75/0445Z. Opened 19 September 2026",
+"url": "https://www.nicap.org/babylon/751030_wurtsmith.htm"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "1975-10-31",
+"dateStart": "1975-10-30",
+"direction": "in",
+"edgeLabel": "The incursion was over this installation's weapons storage area",
+"id": "wurtsmith-1975",
+"l0": false,
+"label": "Wurtsmith AFB incursion, 30 October 1975",
+"note": "The NORAD Senior Director's Log names Wurtsmith AFB weapons storage area.",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+},
+{
+"date": "1975-10-31",
+"name": "NICAP case page, Wurtsmith AFB incursion, 30 October 1975, giving the NORAD Command Director's Log entry 31 Oct 75/0445Z. Opened 19 September 2026",
+"url": "https://www.nicap.org/babylon/751030_wurtsmith.htm"
+}
+],
+"tier": "C",
+"type": "geographic"
+}
+],
+"coords": null,
+"dateEnd": "1979-01-18",
+"dateStart": "1975-10-30",
+"deg": 3,
+"denials": [],
+"desc": "THE HUB THAT CARRIES THE MOST METHODOLOGICALLY IMPORTANT DOCUMENT IN THE CLUSTER, AND IT IS NOT FROM 1975. Wurtsmith Air Force Base at Oscoda, Michigan was a Strategic Air Command installation home to the 379th Bombardment Wing, and on the night of 30 to 31 October 1975 an unidentified low-flying object was reported over its weapons storage area and pursued by a KC-135 tanker out over Lake Huron. The NORAD Command Director's Log entry of 31 Oct 75/0445Z reports an incident at 0355Z, and the NORAD Senior Director's Log records that a tanker sighted the same object and pursued it thirty-five miles southeast over the lake. A Joint Chiefs of Staff operational report of 30 October 1975 records the prosaic-explanation check that was run and did not fit, contacting the Department of Natural Resources about aircraft searching for hunters spotting deer. But the document that matters most to this board's method is dated January 1979. SSgt Paul J. Cahill, the 379th Bombardment Wing historian, wrote a Research Record of Events on 17 January 1979 stating that he had checked the October to December 1975 Wing History and found no references to the incident, and the following day Capt. Myron Taylor wrote him a Memo for the Record giving the KC-135 crew's account. THAT IS A DOCUMENTED INSTANCE OF A UNIT HISTORY OMITTING AN EVENT THAT OTHER AIR FORCE PAPER RECORDS, DISCOVERED AND WRITTEN DOWN BY THE WING HISTORIAN HIMSELF. It is the correct caution to attach to any argument from a unit history's silence anywhere on this board, including the sceptical argument about Echo Flight.",
+"domains": [
+"nuclear-witnesses-2026-09-19"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "l-wurtsmith",
+"l0": false,
+"label": "Wurtsmith AFB, Michigan",
+"locLabel": null,
+"members": null,
+"short": "Wurtsmith AFB, Michigan",
+"sources": [
+{
+"date": "1979-01-18",
+"name": "NICAP, 'Wurtsmith and Others', citing SSgt Paul J. Cahill's Research Record of Events of 17 January 1979, Capt. Myron Taylor's Memo for the Record of 18 January 1979, and NORAD, NMCC and Blue Book entries for Minot, Grand Forks, Cannon, Eglin and Fort Ritchie. Opened 19 September 2026",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+},
+{
+"date": "1975-10-31",
+"name": "NICAP case page, Wurtsmith AFB incursion, 30 October 1975, giving the NORAD Command Director's Log entry 31 Oct 75/0445Z. Opened 19 September 2026",
+"url": "https://www.nicap.org/babylon/751030_wurtsmith.htm"
+},
+{
+"date": "1975-11-11",
+"name": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026",
+"url": "http://www.nicap.org/intsac.htm"
+}
+],
+"sub": "SAC installation at Oscoda, Michigan; 379th Bombardment Wing; site of the 30 October 1975 weapons storage area incursion and the KC-135 pursuit over Lake Huron",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 565 of 1170, score 29). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": []
+}
