@@ -34,6 +34,7 @@ const POISON = (process.env.POISON || '').trim().toLowerCase();
 const SELF = fileURLToPath(import.meta.url);
 
 const NODE_FOCUS = 'aawsap';       /* start-here 1, the richest record on the board */
+const PERSON_FOCUS = 'david-grusch'; /* the richest person record: unverified, chronology, affiliations */
 const PATENT = '10144532';
 
 /* ---- reporting ---------------------------------------------------------- */
@@ -228,6 +229,42 @@ const IN_PAGE = {
       return { other: a ? a.getAttribute('href').slice(4) : null, text: d.textContent };
     });
     return { claims, head: head ? head.textContent : '', denials };
+  },
+
+  /* Sourced connections on a node page, grouped as drawn. */
+  conns() {
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    return {
+      groups: Array.prototype.map.call(document.querySelectorAll('.node-side .conn-group'), (g) => ({
+        type: g.getAttribute('data-type') || '',
+        head: txt(g.querySelector('.conn-ghead .eyebrow')),
+        rows: Array.prototype.map.call(g.querySelectorAll('.conn'), (r) => ({
+          id: r.getAttribute('data-id') || '',
+          lines: Array.prototype.map.call(r.querySelectorAll('.conn-line .conn-text'), txt),
+          metas: Array.prototype.map.call(r.querySelectorAll('.conn-line .cmeta'), txt),
+        })),
+      })),
+    };
+  },
+
+  /* The same, on the printable node report. */
+  rconns() {
+    return Array.prototype.map.call(document.querySelectorAll('.rconns .rconn'), (r) => ({
+      id: r.getAttribute('data-id') || '',
+      type: r.getAttribute('data-type') || '',
+      sent: ((r.querySelector('.rsent') || {}).textContent || '').trim(),
+      text: r.textContent || '',
+    }));
+  },
+
+  /* How many of each authored field a node page draws, and its crumb. */
+  fields() {
+    const n = (sel) => document.querySelectorAll(sel).length;
+    return {
+      oq: n('.node .oq'), unv: n('.node .unv'), chron: n('.node .chron .ev'),
+      aff: n('.node .affs .aff'), nsrc: n('.node .nsrcs .nsrc'),
+      crumb: ((document.querySelector('.node .crumb-l') || {}).textContent || ''),
+    };
   },
 
   /* Neighbourhood ring entries, from the DOM. */
@@ -648,6 +685,49 @@ const POISONS = {
       }
     }),
   },
+  c22: {
+    stops: ['node', 'report'],
+    what: 'redraws one connection the old way: its sentence gone, its relationship replaced by "member"',
+    fn: async (page) => page.evaluate(() => {
+      const t = document.querySelector('.node-side .conn-line .conn-text');
+      if (t) t.textContent = '';
+      const m = document.querySelector('.node-side .conn-line .cmeta');
+      if (m) m.textContent = 'member · T1';
+      const r = document.querySelector('.rconns .rconn .rsent');
+      if (r) r.textContent = 'member';
+    }),
+  },
+  c23: {
+    stops: ['person'],
+    what: 'hides one of the unverified notes on the person page, leaving it on the record',
+    fn: async (page) => page.evaluate(() => {
+      const u = document.querySelectorAll('.node .unv');
+      if (u.length) u[u.length - 1].remove();
+    }),
+  },
+  c24: {
+    stops: ['search'],
+    what: 'removes the event and thread rows from the search results',
+    fn: async (page) => page.evaluate(() => {
+      for (const a of document.querySelectorAll('.results a.res.event, .results a.res.thread')) a.remove();
+    }),
+  },
+  c25: {
+    stops: ['evidence'],
+    what: 'rewrites one node-level flag back to the claim-level word "denied"',
+    fn: async (page) => page.evaluate(() => {
+      const td = Array.from(document.querySelectorAll('td.c-den')).find((x) => x.textContent.trim());
+      if (td) td.textContent = 'denied';
+    }),
+  },
+  c26: {
+    stops: ['phone'],
+    what: 'puts the desktop two-column grid back at phone width',
+    fn: async (page) => page.evaluate(() => {
+      const n = document.querySelector('.node');
+      if (n) n.style.gridTemplateColumns = 'minmax(0, 1fr) 520px';
+    }),
+  },
   c20: {
     stops: ['search'],
     what: 'redraws the claim rows as the unranked code drew them: the first twelve matches in file order',
@@ -697,15 +777,15 @@ async function main() {
     return r.json();
   };
   let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
-      claimRows, foiaFile;
+      claimRows, foiaFile, personRec;
   try {
     [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
-     claimRows, foiaFile] =
+     claimRows, foiaFile, personRec] =
       await Promise.all([
         jget('data/index.json'), jget('data/map.json'), jget('data/edges.json'),
         jget('data/threads.json'), jget('data/highlights.json'), jget('data/timeline.json'),
         jget('data/nodes/' + NODE_FOCUS + '.json'), jget('data/patents.json'), jget('data/analyst.json'),
-        jget('data/claims.json'), jget('data/foia.json'),
+        jget('data/claims.json'), jget('data/foia.json'), jget('data/nodes/' + PERSON_FOCUS + '.json'),
       ]);
   } catch (e) {
     console.error('HARNESS: the app is not being served at ' + APP + ' (' + e.message + ').');
@@ -770,6 +850,11 @@ async function main() {
 
   await stop('node', '#/n/' + NODE_FOCUS, 1200);
   S.node.node = await ev(IN_PAGE.node);
+  S.node.conns = await ev(IN_PAGE.conns);
+  S.node.fields = await ev(IN_PAGE.fields);
+
+  await stop('person', '#/n/' + PERSON_FOCUS, 1200);
+  S.person.fields = await ev(IN_PAGE.fields);
 
   await stop('map', '#/map', 2400);
   S.map.map = await ev(IN_PAGE.map);
@@ -802,7 +887,10 @@ async function main() {
 
   await stop('patents', '#/patents/' + PATENT, 2000);
   await stop('evidence', '#/evidence', 3200);
+  S.evidence.den = await page.evaluate(() =>
+    Array.from(document.querySelectorAll('td.c-den')).map((td) => (td.textContent || '').trim()));
   await stop('report', '#/report/n/' + NODE_FOCUS, 1600);
+  S.report.rconns = await ev(IN_PAGE.rconns);
 
   /* the map again, at the width Design says is below the label floor */
   await page.setViewportSize({ width: 1366, height: 768 });
@@ -811,6 +899,19 @@ async function main() {
   S.map1366.map = await ev(IN_PAGE.map);
   S.map1366.rederive = await ev(IN_PAGE.rederive, mapData.nodes, mapData.cells,
     mapData.bands.map((b) => b.id), mapData.eras.map((e) => e.id));
+
+  /* a node page at phone width */
+  await page.setViewportSize({ width: 375, height: 812 });
+  current = null;
+  await stop('phone', '#/n/' + NODE_FOCUS, 1600);
+  S.phone.phone = await page.evaluate(() => {
+    const m = document.querySelector('.node-main');
+    return {
+      mainW: m ? m.getBoundingClientRect().width : 0,
+      scrollW: document.documentElement.scrollWidth,
+      vw: window.innerWidth,
+    };
+  });
   await page.setViewportSize({ width: 1920, height: 1080 });
 
   /* ---- C9's route sweep ------------------------------------------------- */
@@ -937,7 +1038,7 @@ async function main() {
     const pair = hy ? hy.label.match(/([A-Za-z]{4,})-([A-Za-z]{4,})/) : null;
     const twoWord = pair ? (pair[1] + ' ' + pair[2]).toLowerCase() : null;
 
-    const driveSearch = !POISON || POISON === 'c20';
+    const driveSearch = !POISON || POISON === 'c20' || POISON === 'c24';
     if (driveSearch && word) {
       const p = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
       p.on('request', (r) => requests.push(r.url()));
@@ -956,6 +1057,13 @@ async function main() {
         await type(twoWord);
         SEARCH.two = await p.evaluate(IN_PAGE.search, twoWord);
       }
+      /* C24: timeline events and threads are searchable too */
+      await type('scandinavia');
+      if (POISON === 'c24') await poisonAt(p, 'search');
+      SEARCH.events = await p.evaluate(() => document.querySelectorAll('.results a.res.event').length);
+      await type('wilson davis');
+      if (POISON === 'c24') await poisonAt(p, 'search');
+      SEARCH.threads = await p.evaluate(() => document.querySelectorAll('.results a.res.thread').length);
       await p.close();
     }
   }
@@ -1385,6 +1493,99 @@ async function main() {
     check('c13', want.length === got.length && want.every((x, i) => x === got[i]),
       'C13 the denial rows on #/n/' + NODE_FOCUS + ' are exactly its denialPairs',
       `page ${got.length} [${got.join(', ')}] · record ${want.length} [${want.join(', ')}]`);
+  }
+
+  /* ---- C22 -------------------------------------------------------------- */
+  /* Every sourced connection is drawn once, under its own relationship, with its
+     own sentence; no group is headed by a raw type id; nothing says "member".
+     Restated, not imported, from app/src/vocab.ts. */
+  {
+    const READER = {
+      custody: 'Custody', funding: 'Money', programmatic: 'Programme links',
+      institutional: 'Institutional ties', legislative: 'Law and oversight',
+      research: 'Research and authorship', investigative: 'Investigations',
+      'witness-chain': 'Testimony', behavioral: 'Conduct', denial: 'Denials',
+      temporal: 'Sequence in time', geographic: 'Place',
+    };
+    const NO_SENTENCE = 'no sentence recorded for this link';
+    const recC = focusRec.connections || [];
+    const want = recC.map((c) => c.type + '|' + c.id + '|' + (c.edgeLabel || c.note || NO_SENTENCE)).sort();
+    const got = [];
+    for (const g of S.node.conns.groups) for (const r of g.rows) for (const l of r.lines) got.push(g.type + '|' + r.id + '|' + l);
+    got.sort();
+    const missing = want.filter((x) => !got.includes(x));
+    const extra = got.filter((x) => !want.includes(x));
+    check('c22', want.length === got.length && missing.length === 0 && extra.length === 0,
+      'C22 every sourced connection on #/n/' + NODE_FOCUS + ' is drawn once, under its relationship, with its own sentence',
+      `record ${want.length} · page ${got.length}` +
+      (missing.length ? ' · missing ' + clip(missing, 2) : '') + (extra.length ? ' · extra ' + clip(extra, 2) : ''));
+    const badHead = S.node.conns.groups.filter((g) => READER[g.type] ? g.head !== READER[g.type] : !g.head);
+    check('c22', S.node.conns.groups.length > 0 && badHead.length === 0, 'C22 every group is headed by its reader name',
+      badHead.length ? clip(badHead.map((g) => g.type + '="' + g.head + '"'), 4) : S.node.conns.groups.length + ' groups');
+    const bucket = S.node.conns.groups.flatMap((g) => g.rows.flatMap((r) => r.metas)).filter((m) => /^member\b/i.test(m));
+    check('c22', bucket.length === 0, 'C22 no connection is labelled with the bucket word "member"',
+      bucket.length ? bucket.length + ' rows' : 'none');
+    const rWant = recC.map((c) => c.type + '|' + c.id + '|' + (c.edgeLabel || c.note || NO_SENTENCE)).sort();
+    const rGot = S.report.rconns.map((r) => r.type + '|' + r.id + '|' + r.sent).sort();
+    check('c22', rWant.length === rGot.length && rWant.every((x, i) => x === rGot[i]),
+      'C22 the node report lists every connection with its sentence',
+      `record ${rWant.length} · report ${rGot.length}`);
+    const rBucket = S.report.rconns.filter((r) => /·\s*member\b/i.test(r.text));
+    check('c22', rBucket.length === 0, 'C22 the node report never says "member"',
+      rBucket.length ? rBucket.length + ' rows' : 'none');
+  }
+
+  /* ---- C23 -------------------------------------------------------------- */
+  /* Nothing authored is hidden: every field a researcher wrote on the record has a
+     place on the page. The chronology rule is restated here, not imported. */
+  {
+    const list = (v) => (Array.isArray(v) ? v.filter(Boolean) : (v ? [v] : []));
+    for (const [stopId, rec] of [['node', focusRec], ['person', personRec]]) {
+      const f = S[stopId].fields;
+      const chron = new Set([...(rec.chronology || []), ...(rec.sequenceChain || [])]
+        .map((e) => String(e.date) + '|' + String(e.event || '').trim().toLowerCase()));
+      const want = {
+        oq: ((rec.dossier && rec.dossier.openQuestions) || []).length,
+        unv: list(rec.unverified).length, chron: chron.size,
+        aff: (rec.affiliations || []).length, nsrc: (rec.sources || []).length,
+      };
+      const bad = Object.keys(want).filter((k) => want[k] !== f[k]);
+      check('c23', bad.length === 0, `C23 #/n/${rec.id} renders every authored field it carries`,
+        Object.keys(want).map((k) => `${k} ${f[k]}/${want[k]}`).join(' · '));
+      check('c23', !/\bTier [ABC]\b|\bcluster\b/.test(f.crumb),
+        `C23 #/n/${rec.id} prints neither the node tier letter nor the cluster`, f.crumb.trim().slice(0, 80));
+    }
+  }
+
+  /* ---- C25 -------------------------------------------------------------- */
+  /* The denial flag on the Evidence table is the NODE's (the node is the object
+     of some denial), so no claim may be painted with the claim-level word. */
+  {
+    const claimWord = S.evidence.den.filter((t) => /^denied$/i.test(t)).length;
+    const flagged = S.evidence.den.filter(Boolean).length;
+    check('c25', claimWord === 0 && flagged > 0,
+      'C25 no claim is labelled "denied": the flag belongs to the node, and says so',
+      claimWord ? claimWord + ' cells say "denied"' : flagged + ' flagged cells, all node-level');
+  }
+
+  /* ---- C26 -------------------------------------------------------------- */
+  {
+    const p = S.phone.phone;
+    check('c26', p.mainW >= 300 && p.scrollW <= p.vw + 1,
+      'C26 a node page reads at 375px: a real main column and no sideways scroll',
+      `main ${Math.round(p.mainW)}px · page ${p.scrollW}px in ${p.vw}px`);
+  }
+
+  /* ---- C24 -------------------------------------------------------------- */
+  if (!SEARCH || SEARCH.events === undefined) {
+    skip('C24 search reaches timeline events and threads', 'poison ' + POISON + ' does not drive it');
+  } else {
+    const wantEv = tlEvents.filter((e) => /scandinavia/i.test((e.label || '') + ' ' + (e.text || ''))).length;
+    check('c24', wantEv > 0 && SEARCH.events > 0,
+      'C24 search reaches timeline events', `record ${wantEv} · results ${SEARCH.events}`);
+    const wantTh = threads.filter((t) => /wilson.?davis/i.test((t.title || t.label || '') + ' ' + t.id)).length;
+    check('c24', wantTh > 0 && SEARCH.threads > 0,
+      'C24 search reaches threads', `record ${wantTh} · results ${SEARCH.threads}`);
   }
 
   /* ---- C14 -------------------------------------------------------------- */
