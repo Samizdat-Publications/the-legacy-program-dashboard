@@ -433,7 +433,7 @@ const IN_PAGE = {
       present: true,
       q,
       heads: Array.prototype.map.call(panel ? panel.querySelectorAll('.res-head') : [], (e) => e.textContent),
-      nodes: rows.filter((r) => !r.classList.contains('claim'))
+      nodes: rows.filter((r) => !['claim', 'thread', 'event'].some((k) => r.classList.contains(k)))
         .map((r) => (r.getAttribute('href') || '').replace('#/n/', '')),
       claims: rows.filter((r) => r.classList.contains('claim')).map((r) => ({
         tier: Number(r.getAttribute('data-tier')),
@@ -969,6 +969,13 @@ async function main() {
       const strip = await p.evaluate(`(function ${IN_PAGE.dock})()`);
       const opener = p.locator('#analyst .an-bar').first();
       if (await opener.count()) { await opener.click(); await p.waitForTimeout(400); }
+      /* The health line asks the Worker over the network. A slow answer is not a
+         broken one, so wait for the line to settle; one that never settles still
+         reads "checking" and still fails C18. */
+      await p.waitForFunction(() => {
+        const s = document.querySelector('#analyst .an-status');
+        return !s || !/^checking/.test(s.textContent || '');
+      }, null, { timeout: 10000 }).catch(() => {});
       await poisonAt(p, 'chips');
       const read = await p.evaluate(`(function ${IN_PAGE.chips})()`);
       CH.push({ key, hash, strip, ...read });
