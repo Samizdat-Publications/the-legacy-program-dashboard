@@ -1084,7 +1084,7 @@ Claims the record added:
 
 Sources added to it: American Alchemy with Jesse Michels, 'Steven Greer: UFO Secrets Are Held By A Global Cabal' (audio), https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL5974189713.mp3?updated=1751479023, dated 2025-04-11.
 
-### IAA FY2024 Sec. 1102, contractor turn-in of 'non-earth origin or exotic' UAP material
+### IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material
 
 Fields the record forced a change to: claims, cls, label, sources, sub.
 
@@ -1345,7 +1345,7 @@ Claims the record added:
 
 Sources added to it: https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df
 
-### 10 U.S.C. 119, Special Access Programs: Congressional Oversight
+### 10 U.S.C. 119 - Special Access Programs: Congressional Oversight
 
 Fields the record forced a change to: claims, cls, sources.
 

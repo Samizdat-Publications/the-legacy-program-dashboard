@@ -46,13 +46,13 @@ The join from House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Ph
 
 The join from David Charles Grusch to Waived SAP Notification Group is a investigative link, recorded as direct, at Tier 3 stated inference.
 
-**Step 4, 10 U.S.C. 119, Special Access Programs: Congressional Oversight** (year 1989, a legislation, board tier A). The group is created by 10 U.S.C. 119(e)(2) and defined by 119(g), which direct waived-SAP information and the waiver justification jointly to the chairman and ranking minority member of each defense committee.
+**Step 4, 10 U.S.C. 119 - Special Access Programs: Congressional Oversight** (year 1989, a legislation, board tier A). The group is created by 10 U.S.C. 119(e)(2) and defined by 119(g), which direct waived-SAP information and the waiver justification jointly to the chairman and ranking minority member of each defense committee.
 
-The join from Waived SAP Notification Group to 10 U.S.C. 119, Special Access Programs: Congressional Oversight is a legislative link, recorded as direct, at Tier 1 documented.
+The join from Waived SAP Notification Group to 10 U.S.C. 119 - Special Access Programs: Congressional Oversight is a legislative link, recorded as direct, at Tier 1 documented.
 
 **Step 5, KONA BLUE** (year 2011, a program, board tier A). AARO states that KONA BLUE was not reported to Congress at that time because it was never established as a SAP and therefore did not meet the threshold for congressional reporting.
 
-The join from 10 U.S.C. 119, Special Access Programs: Congressional Oversight to KONA BLUE is a behavioral link, recorded as direct, at Tier 1 documented.
+The join from 10 U.S.C. 119 - Special Access Programs: Congressional Oversight to KONA BLUE is a behavioral link, recorded as direct, at Tier 1 documented.
 
 **Step 6, Lockheed Martin Advanced Development Programs (Skunk Works)** (year 1943, a institution, board tier B). The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side.
 
@@ -90,13 +90,13 @@ The join from The Classified Annex (NDAA and Defense Appropriations) to DoD Spec
 
 The join from DoD Special Access Program Central Office (DoD SAPCO) to Waived SAP Notification Group is a institutional link, recorded as direct, at Tier 1 documented.
 
-**Step 6, 10 U.S.C. 119, Special Access Programs: Congressional Oversight** (year 1989, a legislation, board tier A). The group is created by 10 U.S.C. 119(e)(2) and defined by 119(g), added by Pub. L. 100-180 on 4 December 1987.
+**Step 6, 10 U.S.C. 119 - Special Access Programs: Congressional Oversight** (year 1989, a legislation, board tier A). The group is created by 10 U.S.C. 119(e)(2) and defined by 119(g), added by Pub. L. 100-180 on 4 December 1987.
 
-The join from Waived SAP Notification Group to 10 U.S.C. 119, Special Access Programs: Congressional Oversight is a legislative link, recorded as direct, at Tier 1 documented.
+The join from Waived SAP Notification Group to 10 U.S.C. 119 - Special Access Programs: Congressional Oversight is a legislative link, recorded as direct, at Tier 1 documented.
 
-**Step 7, FY2024 NDAA sec. 1687, Limitation on Use of Funds for Certain Unreported Programs** (year 2023, a legislation, board tier A). Sec. 1687 is Congress overriding the Sec. 119 waiver for one subject matter, conditioning the money itself on disclosure to both intelligence committees and all four congressional leaders for UAP activity specifically.
+**Step 7, FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs** (year 2023, a legislation, board tier A). Sec. 1687 is Congress overriding the Sec. 119 waiver for one subject matter, conditioning the money itself on disclosure to both intelligence committees and all four congressional leaders for UAP activity specifically.
 
-The join from 10 U.S.C. 119, Special Access Programs: Congressional Oversight to FY2024 NDAA sec. 1687, Limitation on Use of Funds for Certain Unreported Programs is a legislative link, recorded as direct, at Tier 1 documented.
+The join from 10 U.S.C. 119 - Special Access Programs: Congressional Oversight to FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs is a legislative link, recorded as direct, at Tier 1 documented.
 
 ## Denials: eight steps, every join a denial edge
 
