@@ -16,9 +16,12 @@ kind of drift twice.
 
 Run it after editing the letters:
 
-    python3 tools/build_foia_links.py
+    python tools/build_foia_links.py
 
-It runs inside the build too, so a stale file cannot ship.
+It is a step of tools/build.py too, after build_l0 (it reads data/l0-model.json)
+and before build_app_data (which reads what it writes), so a stale file cannot
+ship. It exits non-zero when a letter names a node or a question the board does
+not have.
 """
 
 import json
@@ -104,7 +107,7 @@ def parse(text):
         # can carry. The heading already names the agency in the form a reader wants:
         # "F3. OSD - the YANKEE BLUE remand search result". Take that, and keep the
         # full destination for the chip's tooltip.
-        short = re.split(r"\s+[-\u2013\u2014]\s+", title, 1)[0].strip()
+        short = re.split(r"\s+[-\u2013\u2014]\s+", title, maxsplit=1)[0].strip()
         out.append({
             "id": rid,
             "title": title,
@@ -192,3 +195,7 @@ if __name__ == "__main__":
               file=sys.stderr)
         for x in p["outOfRange"][:10]:
             print(f"       {x}", file=sys.stderr)
+    # A letter naming a node or a question the board does not have is a build
+    # failure, as it was when this ran inside build_dashboard.py: a dossier would
+    # point at a request that no longer closes anything.
+    sys.exit(1 if (p["unresolved"] or p["outOfRange"]) else 0)

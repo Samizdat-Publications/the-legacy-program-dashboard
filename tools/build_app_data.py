@@ -192,12 +192,23 @@ def source_hash():
     the short id of whatever commit .git/HEAD named, which index.json published as
     "sourceCommit" -- the same class of defect, a published value that moves when
     the content has not.  It is gone; `source` is the provenance stamp.
+
+    THE BUILD-DATE STAMP IS NEUTRALISED TOO (25 September 2026).  merge.py and
+    build_l0.py write `"generated": "<today>"` into their outputs, which are inputs
+    here, so hashing the stamp made `source` a function of the DAY the pipeline ran.
+    That did not matter while CI rebuilt only this step from committed inputs; it
+    matters now that tools/build.py runs the whole pipeline and check_rebuild.py
+    compares everything, because a commit built on one day and rebuilt in CI on the
+    next would differ in seven files over nothing.  The stamp's own field,
+    `generated`, is still published, and check_rebuild.py normalises it.
     """
+    stamp = re.compile(rb'"generated"\s*:\s*"\d{4}-\d{2}-\d{2}"')
     h = hashlib.sha1()
     for rel in INPUTS:
         h.update(rel.encode("utf-8"))
         with open(os.path.join(ROOT, rel), "rb") as f:
-            h.update(hashlib.sha1(f.read().replace(b"\r\n", b"\n")).digest())
+            raw = f.read().replace(b"\r\n", b"\n")
+        h.update(hashlib.sha1(stamp.sub(b'"generated":"<stamped>"', raw)).digest())
     return h.hexdigest()[:12]
 
 
