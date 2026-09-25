@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -53,7 +54,7 @@
 "edgeLabel": "SSCI produced the contractor turn-in language",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Sec. 1102 rode in the Intelligence Authorization Act for FY2024, Division M of the engrossed Senate bill.",
 "sources": [
 {
@@ -156,9 +157,7 @@
 "deg": 6,
 "denials": [],
 "desc": "SSCI is where the sharpest UAP language originates and where it dies. Its annual Intelligence Authorization Act has carried, in successive years: Sec. 6802 of the FY2023 IAA restating AARO into existence and demanding the Historical Record Report; Sec. 6803 putting GAO auditors on that report; Sec. 1102 of the FY2024 IAA ordering contractors to surrender a list of non-earth origin material with immunity; Sec. 7343, the enacted remnant of that; and Secs. 6801-6802 of the FY2025 IAA. Its leadership through the critical period — Chairman Warner and Vice Chairman Rubio — wrote or cosponsored every major UAP instrument of 2023, with Warner authoring the contractor turn-in and Rubio cosponsoring the eminent domain text. That combination of committee access and legislative aggression is the strongest single piece of circumstantial evidence on this board: the two members entitled to the most complete intelligence briefings in the Senate both moved, in the same month, to compel production of physical material from private hands. Rubio left the Senate in January 2025 and Warner moved to Vice Chairman; the FY2026 Intelligence Authorization Act, riding in Division F of P.L. 119-60, contains no UAP provisions at all.",
-"domains": [
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -226,7 +225,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Senate Select Cttee on Intelligence",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2022-12-23",
@@ -246,6 +249,7 @@
 ],
 "sub": "SSCI; author of the IAA UAP provisions",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 359 of 1170, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 365 of 1170, score 36). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [],
+"unverified": []
 }

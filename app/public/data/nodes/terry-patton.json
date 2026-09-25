@@ -58,7 +58,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"w2-black-budget"
+"d-funding"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -79,6 +79,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Terry K. Patton",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -97,13 +100,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 1092 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-04",
+"grade": "C",
 "id": "bb-tl-2026-04-fasab",
 "label": "Terry K. Patton becomes FASAB chairman",
 "precision": "month",
 "strand": "oversight",
-"text": "Patton, professor emeritus at Midwestern State University, takes the chair of the body that owns SFFAS 56 and alone can withdraw it or issue the Interpretations under paragraph 8(c) authorising further unspecified modifications to public financial reports.",
-"tier": "C"
+"text": "Patton, professor emeritus at Midwestern State University, takes the chair of the body that owns SFFAS 56 and alone can withdraw it or issue the Interpretations under paragraph 8(c) authorising further unspecified modifications to public financial reports."
 }
 ],
 "unexplainedResidual": null,

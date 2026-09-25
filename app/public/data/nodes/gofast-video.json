@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -129,6 +130,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"id": "gofast-video",
+"label": "GO FAST (Navy ATFLIR video, January 2015)"
+},
 "by": {
 "id": "jon-kosloski",
 "label": "Jon T. Kosloski"
@@ -156,10 +165,7 @@
 }
 ],
 "desc": "The third of the officially released Navy videos, filmed in January 2015 off Florida's east coast and released by the Department of Defense on 27 April 2020 as authentic and unidentified. GO FAST is the most contested artefact on this board because two official positions attach to it. The first is operational: Tim Gallaudet testified to House Oversight on 13 November 2024 that in January 2015 the operations officer of US Fleet Forces Command sent an all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' carrying this video and asking for identification because 'We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise' - and that the email was deleted from every recipient's account the next day. The second is analytical: AARO's case slides for the 19 November 2024 Senate Armed Services hearing assessed the object at roughly 13,000 feet moving at about 45 mph in 60-knot winds, concluding it 'did not demonstrate any anomalous speeds or flight characteristics.' Both can be true. The parallax finding resolves the apparent speed; it does not explain why a fleet-wide flight-safety warning built on the same footage was withdrawn within 24 hours, and no agency has ever acknowledged withdrawing it.",
-"domains": [
-"_rs-archive-mirror",
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -173,7 +179,12 @@
 "label": "GO FAST (Navy ATFLIR video, January 2015)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "GO FAST (Navy ATFLIR video, January 2015)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -203,6 +214,7 @@
 ],
 "sub": "Officially released DoD UAP video; subject of AARO parallax rebuttal",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 381 of 1170, score 35). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 383 of 1170, score 35). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.",
+"timeline": [],
+"unverified": []
 }

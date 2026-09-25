@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -124,9 +125,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The published rule that decides whether a person on a nuclear weapons site keeps his access, and the reason the board can treat 'they were afraid to report' as something other than an anecdote. The directive opened here is the 25 May 1993 edition, distribution unlimited, which reissues an edition of 6 December 1985; the current manual could not be reached from this environment and nothing here should be read as describing it. Its force for this board is not what it says about UFOs, which is nothing, but what it says about who may find a person unreliable and on what evidence: a non-medical certifying official, with access to the individual's medical record without his consent, may act on 'aberrant behavior' or on mood described as unusual happiness, sadness or agitation. Every witness at a nuclear site whose testimony this board carries was subject to a rule of that shape. Two things the corpus attaches to the programme are not in the directive: the duty to report an over-the-counter analgesic, and the figure 167, which is Robert Hastings's count of nuclear-base witnesses rather than a count of PRP personnel.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -140,7 +139,11 @@
 "label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1993-05-25",
@@ -155,6 +158,7 @@
 ],
 "sub": "DoDD 5210.42, 25 May 1993, ASD(C3I); reissues the directive of 6 December 1985",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 502 of 1170, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 503 of 1170, score 31). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"timeline": [],
+"unverified": []
 }

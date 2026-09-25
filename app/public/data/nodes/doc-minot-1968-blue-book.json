@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "THE DENSEST PRIMARY SET IN THE AMERICAN NUCLEAR-SITE RECORD. The Project Blue Book file on the 24 October 1968 Minot AFB case is not one document but a coordinated set, and its density is the argument the case makes. Lt Col Arthur J. Werlich of the 862nd Combat Support Group Operations Division prepared eight pages of Basic Reporting Data on 28 October 1968 and transmitted it to multiple Air Force agencies; the Foreign Technology Division produced a twelve-page final case report on 13 November 1968; the 91st Strategic Missile Wing Security Controller compiled a summary listing UFO observers at Launch Control Facilities with their sighting times; the Base Operations Dispatcher's Log for 0800 to 1010Z records ground reports from site N-7; seven airmen completed AF Form 117 questionnaires; thirteen B-52 ASQ-38 radarscope photographs were printed at 8x10 with data plates; Werlich drew an overlay map at 1:200,000 showing the B-52's flight track against the object's reported positions; upper-air rawinsonde data was collected; and the conversations between the B-52 co-pilot and Radar Approach Control were transcribed. What separates this from the rest of the cluster is that every witness statement in it is a contemporaneous official statement made within days of the event, not a recollection given to a researcher decades later.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -88,7 +87,11 @@
 "label": "Project Blue Book case file, Minot AFB, 24 October 1968",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project Blue Book case file, Minot AFB, 24 October 1968",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1968-11-13",
@@ -103,16 +106,20 @@
 ],
 "sub": "Werlich's Basic Reporting Data of 28 October 1968, the final case report of 13 November 1968, seven AF Form 117 questionnaires, thirteen radarscope photographs and the overlay map",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 955 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 954 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1968-10-28",
+"grade": "A",
 "id": "tl-1968-10-28-werlich-reporting-data",
 "label": "Lt Col Werlich files eight pages of Basic Reporting Data on the Minot case",
 "precision": "day",
 "strand": "witness",
-"text": "Lt Col Arthur J. Werlich of the 862nd Combat Support Group Operations Division prepared eight pages of Basic Reporting Data on the 24 October 1968 Minot events and transmitted it to multiple Air Force agencies. Seven airmen completed AF Form 117 questionnaires, thirteen B-52 ASQ-38 radarscope photographs were printed with data plates, and Werlich drew an overlay map at 1:200,000. Every witness statement in the file is contemporaneous and official.",
-"tier": "A"
+"text": "Lt Col Arthur J. Werlich of the 862nd Combat Support Group Operations Division prepared eight pages of Basic Reporting Data on the 24 October 1968 Minot events and transmitted it to multiple Air Force agencies. Seven airmen completed AF Form 117 questionnaires, thirteen B-52 ASQ-38 radarscope photographs were printed with data plates, and Werlich drew an overlay map at 1:200,000. Every witness statement in the file is contemporaneous and official."
 }
+],
+"unverified": [
+"The file was NOT OPENED page by page by this board. The inventory above comes from the case archive's own documentation index, and no individual document in it has been read here."
 ]
 }

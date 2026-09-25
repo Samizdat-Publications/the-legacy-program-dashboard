@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -89,7 +90,7 @@
 "edgeLabel": "The Administrator may waive both the reports and the 30-day clock",
 "id": "usc-50-2426",
 "l0": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "note": "50 U.S.C. 2426(e)(1) permits waiver of subsections (a), (b) and (c) and, uniquely, of the report-and-wait requirement in subsection (f).",
 "sources": [
 {
@@ -108,11 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "NNSA is 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science', established by Congress in 2000 in the wake of the Wen Ho Lee security failures at Los Alamos. It operates the weapons complex through management and operating contracts: Los Alamos National Laboratory, Sandia National Laboratories, Lawrence Livermore National Laboratory, the Nevada National Security Site, the Pantex Plant, the Y-12 National Security Complex, the Kansas City National Security Campus and the Savannah River Site. Every one of those facilities is contractor-operated on government-owned land, carries an armed protective force, operates under DOE's own clearance regime rather than the DoD's, and holds material under Restricted Data authority. NNSA is thus the single most capable custodial architecture in the United States government for material that must be stored, guarded, machined and analysed without appearing in any Department of Defense special access program list. The historical UAP record intersects it repeatedly: the 1948-1951 green fireball events centred on LosAlamos, Sandia and the Kirtland complex; the 1980 Manzano Weapons Storage Area intrusions; the persistent identification of the Nevada Test Site and its S-4 area in retrieval testimony; and the modern use of DOE laboratory analytical capability for AARO's materials work.",
-"domains": [
-"_rs-archive-mirror",
-"lazar-s4-2026-09-18",
-"w2-agencies"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -126,7 +123,13 @@
 "label": "National Nuclear Security Administration",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National Nuclear Security Administration",
+"sourceFiles": [
+"_rs-archive-mirror",
+"lazar-s4-2026-09-18",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2025-04-23",
@@ -161,16 +164,18 @@
 ],
 "sub": "Semi-autonomous DOE agency established by Congress in 2000; operator of the nuclear weapons complex",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 433 of 1170, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 432 of 1170, score 33). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2000-03-01",
+"grade": "B",
 "id": "ag-tl-2000-nnsa",
 "label": "NNSA established by Congress",
 "precision": "month",
 "strand": "program",
-"text": "The nuclear weapons complex is placed under a semi-autonomous agency inside DOE, consolidating the most capable custodial architecture in the government outside the DoD SAP system.",
-"tier": "B"
+"text": "The nuclear weapons complex is placed under a semi-autonomous agency inside DOE, consolidating the most capable custodial architecture in the government outside the DoD SAP system."
 }
-]
+],
+"unverified": []
 }

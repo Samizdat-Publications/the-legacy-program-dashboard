@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -144,10 +145,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Series of documented meetings between Senator Reid and DIA leadership about the AAWSAP contract.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -161,7 +159,12 @@
 "label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror"
+],
 "sources": [
 {
 "date": "2009-01-02",
@@ -212,5 +215,6 @@
 "sub": "meeting",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 778 of 1170, score 22). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

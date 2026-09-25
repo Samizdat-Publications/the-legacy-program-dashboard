@@ -32,6 +32,7 @@
 ],
 "cls": "event",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "On the night of 30 to 31 March 1993 more than thirty reports of bright lights over central England reached the Ministry of Defence within about six hours, from police officers and military witnesses including a police patrol at RAF Cosford. The MoD's UFO desk had the RAF replay radar tapes and nothing unusual had been detected. The Assistant Chief of the Air Staff, Sir Anthony Bagnall, was nonetheless briefed that there was evidence a UFO had evaded UK defences, and The National Archives' own guide to the release then records that the majority of the sightings turned out to have been caused by the re-entry of the Russian rocket that launched the Cosmos 2238 satellite. The node carries both halves because the second is the finding: the internal alarm and the mundane resolution are in the same paragraph of the same official guide. The file is DEFE 24/2086; the paper piece is closed until 2078 and only a redacted digital copy is open.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -119,7 +118,11 @@
 "label": "Cosford incident, 30-31 March 1993",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Cosford incident, 30-31 March 1993",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2009-08-17",
@@ -134,16 +137,18 @@
 ],
 "sub": "More than 30 sightings in six hours; ACAS briefed on an evasion, then attributed to a rocket re-entry",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 409 of 1170, score 34). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 412 of 1170, score 34). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1993-03-31",
+"grade": "C",
 "id": "tl-1993-03-31-cosford-incident",
 "label": "More than thirty sightings over central England in six hours, then a rocket re-entry",
 "precision": "day",
 "strand": "witness",
-"text": "The MoD's UFO desk had the RAF replay radar tapes and 'found nothing unusual had been detected'; the Assistant Chief of the Air Staff was nonetheless briefed 'that there was evidence a UFO had evaded UK defences'. The same official guide then records that 'It soon emerged that the majority of sightings were caused by the Russian rocket that launched the Cosmos 2238 satellite, re-entering the earths atmosphere.' Both halves are in one paragraph of one guide.",
-"tier": "C"
+"text": "The MoD's UFO desk had the RAF replay radar tapes and 'found nothing unusual had been detected'; the Assistant Chief of the Air Staff was nonetheless briefed 'that there was evidence a UFO had evaded UK defences'. The same official guide then records that 'It soon emerged that the majority of sightings were caused by the Russian rocket that launched the Cosmos 2238 satellite, re-entering the earths atmosphere.' Both halves are in one paragraph of one guide."
 }
-]
+],
+"unverified": []
 }

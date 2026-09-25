@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -54,10 +55,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Aztec, New Mexico is the location of the second-oldest crash-recovery claim in the American corpus, dating to March 1948 and popularised by Frank Scully's 1950 book 'Behind the Flying Saucers'. The case is significant on this board precisely because it was exposed - Scully's sources, Silas Newton and Leo GeBauer, were subsequently prosecuted for fraud in an unrelated oil-detection scheme, and the Aztec account is the field's canonical example of a recovery claim that collapsed under investigation. It is retained rather than deleted because a board built on the premise of a real programme has an obligation to record the cases that failed, and because the Aztec pattern - a dramatic recovery narrative attached to promoters with a separate financial motive - is a template that recurs.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -71,7 +69,12 @@
 "label": "Aztec, New Mexico",
 "locLabel": "Aztec, New Mexico, USA",
 "members": null,
+"openQuestions": [],
 "short": "Aztec, New Mexico",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -87,5 +90,6 @@
 "sub": "Town in San Juan County, New Mexico; site of the 1948 claimed saucer recovery",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1137 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -17,6 +17,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -98,9 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Ranking Member Robert Garcia's bill, introduced 11 January 2024 - the day before the closed ICIG briefing - and co-led with Republican subcommittee chairman Glenn Grothman. It would close the civilian reporting gap by enabling civilian pilots and aviation personnel to report UAP encounters to the Federal Aviation Administration, which would forward them to the Pentagon's All-domain Anomaly Resolution Office, in exchange for legal safeguards. It is the direct legislative product of Garcia's questioning of Ryan Graves at the July 2023 hearing about the absence of any usable reporting channel and the stigma that suppresses reports, and of Luna's questioning about airline pilots reportedly receiving cease-and-desist letters from corporations for coming forward. It is the only House UAP bill of the period led by the minority.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -114,7 +113,11 @@
 "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2024-01-11",
@@ -134,16 +137,18 @@
 ],
 "sub": "Introduced 11 Jan 2024 by Garcia with Grothman",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1007 of 1170, score 15). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1008 of 1170, score 15). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-01-11",
+"grade": "B",
 "id": "ch-2024-01-11",
 "label": "Garcia files the reporting bill",
 "precision": "day",
 "strand": "oversight",
-"text": "Ranking Member Robert Garcia introduces H.R. 6967, the Safe Airspace for Americans Act, with Republican subcommittee chairman Glenn Grothman.",
-"tier": "B"
+"text": "Ranking Member Robert Garcia introduces H.R. 6967, the Safe Airspace for Americans Act, with Republican subcommittee chairman Glenn Grothman."
 }
-]
+],
+"unverified": []
 }

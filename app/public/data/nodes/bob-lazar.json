@@ -407,18 +407,20 @@
 "deg": 14,
 "denials": [
 {
-"by": {
+"a": {
 "id": "lazar-clark-county-1990",
 "label": "Clark County, Nevada felony pandering file, 1990 and 1996"
 },
+"b": {
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The court file contradicts his own credential account, in his own reported words",
 "note": "THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour.",
-"of": {
-"id": "bob-lazar",
-"label": "Robert \"Bob\" Lazar"
-},
+"of": null,
 "sources": [
 {
 "date": "1990-07-27",
@@ -428,6 +430,14 @@
 ]
 },
 {
+"a": {
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"b": {
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
 "by": {
 "id": "stanton-friedman",
 "label": "Stanton T. Friedman"
@@ -449,6 +459,14 @@
 ]
 },
 {
+"a": {
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
 "by": {
 "id": "tom-mahood",
 "label": "Tom Mahood"
@@ -475,9 +493,7 @@
 ]
 }
 ],
-"domains": [
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -497,6 +513,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Robert \"Bob\" Lazar",
+"sourceFiles": [
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "1982-06-27",
@@ -570,40 +589,44 @@
 "tierRationale": "Re-graded A on a global pass (rank 54 of 1170, score 77). 14 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1982-06-28",
+"grade": "C",
 "id": "tl-1982-06-28-teller-lecture",
 "label": "Edward Teller lectures at Los Alamos the day after the jet-car story",
 "precision": "day",
 "strand": "witness",
-"text": "Tom Mahood's 2018 retrospective places Teller's Los Alamos lecture on the day after the Monitor article, calling the timing an 'amazing display of totally fucked synchronicity'. Lazar's own 1991 narration instead places the newspaper story and the Teller speech on the same day. The newspaper's date is fixed, so both cannot be right, and the board carries the anecdote as 'within a day'. No newspaper notice of the lecture was opened.",
-"tier": "C"
+"text": "Tom Mahood's 2018 retrospective places Teller's Los Alamos lecture on the day after the Monitor article, calling the timing an 'amazing display of totally fucked synchronicity'. Lazar's own 1991 narration instead places the newspaper story and the Teller speech on the same day. The newspaper's date is fixed, so both cannot be right, and the board carries the anecdote as 'within a day'. No newspaper notice of the lecture was opened."
 },
 {
+"claimTier": null,
 "date": "1997-12",
+"grade": "B",
 "id": "tl-1997-12-friedman-fraud",
 "label": "Stanton Friedman publishes 'The Bob Lazar Fraud'",
 "precision": "month",
 "strand": "witness",
-"text": "Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, publishes the credential investigation, updated January 2011. He located the professor Lazar named as a Caltech instructor: 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' He records the directory page's own scope statement and describes the W-2 as totalling 'under $1000.00'. The heaviest denial in the cluster comes from a proponent, not a debunker.",
-"tier": "B"
+"text": "Friedman, a nuclear physicist who spent his career arguing that UFOs are real craft, publishes the credential investigation, updated January 2011. He located the professor Lazar named as a Caltech instructor: 'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' He records the directory page's own scope statement and describes the W-2 as totalling 'under $1000.00'. The heaviest denial in the cluster comes from a proponent, not a debunker."
 },
 {
+"claimTier": null,
 "date": "2007-07-20",
+"grade": "A",
 "id": "tl-2007-07-20-cpsc-united-nuclear",
 "label": "CPSC: United Nuclear, the company, fined $7,500 after pleading guilty to three counts",
 "precision": "day",
 "strand": "program",
-"text": "CORRECTS THE STANDARD FRAMING. It is widely repeated that 'in 2006, Lazar pleaded guilty' to a Federal Hazardous Substances Act violation. The CPSC's own release of 20 July 2007 says the COMPANY pled guilty, to three criminal counts, before U.S. Chief Magistrate Lorenzo F. Garcia: 'United Nuclear Scientific Supplies LLC, of Edgewood, N.M., founded and operated by Robert Lazar, was fined $7,500 and received three years probation.' Robert Lazar and accountant Joy White appear in the separate civil consent decree.",
-"tier": "A"
+"text": "CORRECTS THE STANDARD FRAMING. It is widely repeated that 'in 2006, Lazar pleaded guilty' to a Federal Hazardous Substances Act violation. The CPSC's own release of 20 July 2007 says the COMPANY pled guilty, to three criminal counts, before U.S. Chief Magistrate Lorenzo F. Garcia: 'United Nuclear Scientific Supplies LLC, of Edgewood, N.M., founded and operated by Robert Lazar, was fined $7,500 and received three years probation.' Robert Lazar and accountant Joy White appear in the separate civil consent decree."
 },
 {
+"claimTier": null,
 "date": "2017-07-19",
+"grade": "A",
 "id": "tl-2017-07-19-united-nuclear-search",
 "label": "FBI searches United Nuclear Scientific in a Michigan homicide investigation",
 "precision": "day",
 "strand": "program",
-"text": "A two-page Laingsburg, Michigan police report records an 'Agency Assist' supporting an FBI search of United Nuclear Scientific in aid of 'a homicide investigation out of Houghton, MI involving poison', and records that Lazar consented to the search. The underlying case is the thallium death of Janel Sturzl, 31, on 22 December 2015. Lazar is not recorded as a suspect. The report was obtained by Tim McMillan under a local open-records request.",
-"tier": "A"
+"text": "A two-page Laingsburg, Michigan police report records an 'Agency Assist' supporting an FBI search of United Nuclear Scientific in aid of 'a homicide investigation out of Houghton, MI involving poison', and records that Lazar consented to the search. The underlying case is the thallium death of Janel Sturzl, 31, on 22 December 2015. Lazar is not recorded as a suspect. The report was obtained by Tim McMillan under a local open-records request."
 }
 ],
 "unexplainedResidual": null,

@@ -17,6 +17,7 @@
 ],
 "cls": "program",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -88,9 +89,7 @@
 "deg": 3,
 "denials": [],
 "desc": "majesticdocuments.com, operated by Dr. Robert M. Wood and Ryan S. Wood since 1999 and still active in 2026, is the only sustained attempt to treat the leaked-document corpus of this domain as a forensic problem rather than a matter of belief. It organises its holdings by date band - pre-1948, 1948-1959, 1960-1969, 1970-present - and applies a published authenticity-rating scheme, with separate sections for document sources, authentication articles, summary arguments and an explicit disclaimer. Alongside the contested MJ-12 material it aggregates uncontested official record sets: FOIA releases, National Archives and Truman Library holdings, British Public Record Office material, NICAP publications, and the Air Force and GAO Roswell reports. It also maintains a first-hand and second-hand witness index and an MJ-12 master list of named personnel. The archive's value to this board is double-edged and both edges should be stated. As a repository of official material and as a forensic framework it is genuinely useful and no government body has published a competing analysis. As a source of conclusions it is unusable for tier 1 or tier 2 purposes, because the core corpus arrived anonymously in December 1984 at the address of William L. Moore, who later stated publicly that he was cooperating with Air Force counterintelligence at the time.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -104,7 +103,11 @@
 "label": "The Majestic Documents archive (Wood and Wood)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Majestic Documents archive (Wood and Wood)",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -120,5 +123,6 @@
 "sub": "Online leaked-document repository with published authenticity ratings, 1999-present",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1034 of 1170, score 14). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

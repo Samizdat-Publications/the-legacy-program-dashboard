@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Bell Aircraft Corporation of Buffalo, New York is one of the aircraft firms named in Ansel Talbert's November 1955 New York Herald Tribune series as participating or actively interested in gravity research, and its founder and president Lawrence D. Bell is quoted in the series directly. It reaches this board through the Danny Jones corpus, where a guest names it alongside Martin as a company making public electrogravitics claims in 1953. The opened press record puts the claims two years later and puts them in more careful language than the transcript does: Bell speaks of operating outside the earth's gravity as a third step after atmospheric flight, not of a working engine.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -72,7 +71,11 @@
 "label": "Bell Aircraft Corporation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Bell Aircraft Corporation",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": null,
@@ -87,6 +90,7 @@
 ],
 "sub": "Buffalo aircraft firm named in the Talbert gravity series of November 1955; its founder and president Lawrence D. Bell quoted directly",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 947 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 946 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"timeline": [],
+"unverified": []
 }

@@ -32,6 +32,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "THE HUB WHERE THE BEST DOCUMENT IN THE SUBJECT WAS GENERATED. Loring Air Force Base at Limestone, Maine was a Strategic Air Command installation home to the 42nd Bombardment Wing and a nuclear weapons storage area, and on the nights of 27, 28 and 29 to 30 October 1975 that storage area was overflown at low level by something the United States military tracked, pursued and failed to identify. What makes Loring the strongest node in this cluster is not the sighting reports but the paper trail above them. The National Military Command Center produced a Memorandum for Record over the signature of a serving brigadier general with a subject line reading 'AFB Penetration', distributed to the Chairman of the Joint Chiefs, the Director of the Joint Staff, the J-30 through J-38 directorates, the service chiefs, and the DIA, NSA and CIA representatives. A Major General of the Army Staff personally approved rules of engagement for a National Guard helicopter: track and identify, no apprehension, no border crossing. The State Department's Canadian desk officer was kept informed. Nothing in this record says what the object was, and the traffic calls it an unidentified helicopter throughout rather than a UFO. What it documents is a three-day command-level flap over an unidentified rotary-wing intruder at a nuclear weapons storage area, escalated to the Joint Staff and to a foreign government, which is a nuclear security record before it is anything else.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -124,7 +123,11 @@
 "label": "Loring AFB, Maine",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Loring AFB, Maine",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1975-10-29",
@@ -149,6 +152,11 @@
 ],
 "sub": "SAC installation at Limestone, Maine; 42nd Bombardment Wing and its nuclear weapons storage area; the first base in the October 1975 penetration sequence",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 607 of 1170, score 28). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 602 of 1170, score 28). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": [
+"The 42nd Bombardment Wing unit history for October to December 1975, held at the Air Force Historical Research Agency, has not been sought or opened. The Wurtsmith precedent makes its contents genuinely unpredictable: there, the wing historian checked his own Oct-Dec 1975 history and found no reference to the incident at all.",
+"An OSI teletype of 29 October 1975 and an OSI letter of 21 April 1977 titled 'Overflight of USAF Installations by Unidentified Aircraft' are cited by NICAP from Clear Intent and were NOT OPENED in their own text by this board.",
+"The base's own institutional history, dates of operation and closure are not asserted here because no source establishing them was opened by this pass."
+]
 }

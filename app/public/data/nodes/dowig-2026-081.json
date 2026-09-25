@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,10 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Inspector General's plain-language companion to the FY2025 agency-wide audit, published 12 May 2026 under the Department's new secondary designation as the Department of War. It is the current authoritative public statement of what the Department can and cannot account for. It records the eighth consecutive disclaimer of opinion, enumerates twenty-six material weaknesses by name, attributes each to the organisations that contributed most to it, and states that in the last two quarters of FY2025 alone the Department's accounting adjustments exceeded $859 billion. It expressly notes that FY2026 audits were still ongoing and are not addressed. For a board about money that does not appear as a budget line, this document is the load-bearing Tier 1 citation: it is the government's own admission, in an unclassified document, that the largest spending organisation on earth cannot produce an auditable record of where its money went.",
-"domains": [
-"_rs-archive-mirror",
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -63,7 +61,12 @@
 "label": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-05-12",
@@ -91,13 +94,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 978 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-05-12",
+"grade": "A",
 "id": "bb-tl-2026-05-12-dowig",
 "label": "Eighth consecutive disclaimer; $859 billion unsupported in two quarters",
 "precision": "day",
 "strand": "oversight",
-"text": "DOWIG-2026-081, 'The FY 2025 DoW Financial Statement Audit Explained', records a disclaimer of opinion for the eighth consecutive year, twenty-six material weaknesses including 'Unsupported Accounting Adjustments', 'Universe of Transactions' and 'Fund Balance with Treasury', and states that in the last two quarters of FY2025 the Department's adjustments exceeded $859 billion.",
-"tier": "A"
+"text": "DOWIG-2026-081, 'The FY 2025 DoW Financial Statement Audit Explained', records a disclaimer of opinion for the eighth consecutive year, twenty-six material weaknesses including 'Unsupported Accounting Adjustments', 'Universe of Transactions' and 'Fund Balance with Treasury', and states that in the last two quarters of FY2025 the Department's adjustments exceeded $859 billion."
 }
-]
+],
+"unverified": []
 }

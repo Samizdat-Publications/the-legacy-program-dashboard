@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,9 +125,7 @@
 "deg": 4,
 "denials": [],
 "desc": "CENTER LANE was the Army Intelligence and Security Command's designation for the operational remote-viewing unit from 1983, succeeding GRILL FLAME after the codename was compromised. It was run as an INSCOM special access programme with its own security classification guide - a detail worth holding onto, because it demonstrates that the US Army was willing to place a psychic-functioning programme inside SAP-level access controls. The renaming sequence itself is instructive for this board: GRILL FLAME to CENTER LANE to SUN STREAK to STARGATE, four names for one continuous effort across three agencies in seventeen years. Codeword churn on compromise is the standard tradecraft response, and it is the reason why chasing a single programme name through the record is a losing method. The effort persists; the label does not.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -140,7 +139,11 @@
 "label": "CENTER LANE",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "CENTER LANE",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "1985-03-02",
@@ -166,5 +169,6 @@
 "sub": "Army INSCOM successor program, 1983-1986",
 "tier": "B",
 "tierRationale": "Re-graded B on a global pass (rank 288 of 1170, score 40). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A3/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

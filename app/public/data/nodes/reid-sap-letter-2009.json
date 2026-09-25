@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -135,8 +136,8 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
 }
 ],
-"tier": "B",
-"type": "programmatic"
+"tier": "C",
+"type": "legislative"
 }
 ],
 "coords": null,
@@ -145,6 +146,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"b": {
+"id": "dia-sap-denial-memo-2009",
+"label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+},
 "by": {
 "id": "dia-sap-denial-memo-2009",
 "label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
@@ -166,6 +175,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -188,9 +205,7 @@
 }
 ],
 "desc": "Three pages on Senate letterhead that are, in the board's judgement, the most consequential unclassified document in the funded lineage. Reid, as Senate Majority Leader, asks Deputy Secretary of Defense William Lynn III to establish 'a Restricted Special-Access-Program (SAP) with a Bigoted Access List for specific portions of the AATIP' — and then itemises what needs protecting: methodologies for identifying and engineering advanced technologies; personnel allocation and oversight details; application and engineering approaches; and the involvement of private contractors and industry partners. He proposes a preliminary bigoted list for FY10 against a program length projected FY09 through FY13, and refers questions to his staffer Bob Herbert at (202) 437-3162. The letter uses 'Advanced Aerospace Threat and Identification Program', a name that appears nowhere on the contract. Its significance is what it implies about what Reid had been told: a bigoted access list is the most restrictive personnel control in the US classification system, reserved for programs whose very participant roster is itself classified, and Reid was asking for one over 'engineering advanced technologies' and contractor involvement. DoD said no. Susan Gough authenticated the letter on 13 June 2019 while stating it changed nothing.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -204,7 +219,11 @@
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2009-06-24",
@@ -223,17 +242,19 @@
 }
 ],
 "sub": "Senator Harry Reid to William J. Lynn III, 24 June 2009",
-"tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 172 of 1170, score 49). 5 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 196 of 1170, score 46). 5 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2009-06-24",
+"grade": "A",
 "id": "tl-2009-sapreq",
 "label": "Reid requests a Restricted SAP",
 "precision": "day",
 "strand": "oversight",
-"text": "Reid asks Deputy Secretary of Defense William Lynn III for a Restricted Special Access Program with a bigoted access list over methodologies for engineering advanced technologies and contractor involvement.",
-"tier": "A"
+"text": "Reid asks Deputy Secretary of Defense William Lynn III for a Restricted Special Access Program with a bigoted access list over methodologies for engineering advanced technologies and contractor involvement."
 }
-]
+],
+"unverified": []
 }

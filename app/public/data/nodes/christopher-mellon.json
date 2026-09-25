@@ -433,18 +433,20 @@
 "deg": 11,
 "denials": [
 {
-"by": {
+"a": {
 "id": "christopher-mellon",
 "label": "Christopher K. Mellon"
 },
+"b": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "'The most error-ridden and unsatisfactory government report I can recall reading'",
 "note": "Mellon, a former Deputy Assistant Secretary of Defense for Intelligence and SSCI staff director, attacked the AARO report's quality at the September 2025 Task Force hearing - an oversight professional's judgment on the rebuttal's workmanship rather than on the phenomenon.",
-"of": {
-"id": "aaro-historical-record-vol1",
-"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
-},
+"of": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -455,11 +457,10 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa",
-"grusch",
-"releases-2023-2026",
-"w2-2025-2026"
+"d-disclosure",
+"d-oversight",
+"d-witness",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -480,6 +481,13 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Christopher K. Mellon",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa",
+"grusch",
+"releases-2023-2026",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -535,16 +543,17 @@
 "status": "active",
 "sub": "Former Deputy Assistant Secretary of Defense for Intelligence; TTSA National Security Affairs Advisor",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 83 of 1170, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 85 of 1170, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2018-03-09",
+"grade": "B",
 "id": "tl-2018-03-mellon-oped",
 "label": "Mellon's Washington Post op-ed",
 "precision": "day",
 "strand": "witness",
-"text": "'The military keeps encountering UFOs. Why doesn't the Pentagon care?' — a former Deputy Assistant Secretary of Defense for Intelligence taking the question to the op-ed page.",
-"tier": "B"
+"text": "'The military keeps encountering UFOs. Why doesn't the Pentagon care?' — a former Deputy Assistant Secretary of Defense for Intelligence taking the question to the op-ed page."
 }
 ],
 "unexplainedResidual": null,

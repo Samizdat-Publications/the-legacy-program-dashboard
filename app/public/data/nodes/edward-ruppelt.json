@@ -180,7 +180,9 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"history-1940s-1960s"
+"d-legacy",
+"d-coverup",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -201,6 +203,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Edward J. Ruppelt",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1956-01-01",
@@ -221,16 +226,17 @@
 "status": "dead",
 "sub": "First director, Project Blue Book",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 397 of 1170, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 400 of 1170, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1952-03-01",
+"grade": "A",
 "id": "tl-1952-03",
 "label": "Project Blue Book begins under Ruppelt",
 "precision": "month",
 "strand": "program",
-"text": "Capt. Edward Ruppelt renames and professionalises the project, coining the term 'unidentified flying object' to replace 'flying saucer'.",
-"tier": "A"
+"text": "Capt. Edward Ruppelt renames and professionalises the project, coining the term 'unidentified flying object' to replace 'flying saucer'."
 }
 ],
 "unexplainedResidual": null,

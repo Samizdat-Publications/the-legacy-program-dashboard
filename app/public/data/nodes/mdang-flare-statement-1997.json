@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -82,18 +83,20 @@
 "deg": 2,
 "denials": [
 {
-"by": {
+"a": {
 "id": "mdang-flare-statement-1997",
 "label": "Maryland Air National Guard flare statement, 26 July 1997"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": null,
 "label": "An official explanation offered four months after the event",
 "note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1997-07-26",
@@ -104,9 +107,7 @@
 }
 ],
 "desc": "Four months after the 13 March 1997 sightings over Arizona, a named Maryland Air National Guard spokesman stated on the record that eight of the unit's A-10 ground-attack jets had dropped high-intensity flares that night over the Barry M. Goldwater Air Force Range, about 60 miles southwest of Phoenix. The board carries the Phoenix lights in prose with no official-explanation counterweight, and this is the counterweight, dated and attributed. What the record does not carry is the name Operation Snowbird, which the transcript attaches to it: no Air Force document connecting that Davis-Monthan deployment programme to these sorties was opened, because af.mil refuses this environment. The node exists to hold the asymmetry rather than to close it.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -120,7 +121,11 @@
 "label": "Maryland Air National Guard flare statement, 26 July 1997",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Maryland Air National Guard flare statement, 26 July 1997",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1997-07-26",
@@ -135,6 +140,7 @@
 ],
 "sub": "Eight A-10s and high-intensity flares over the Barry M. Goldwater Range, offered four months later as the explanation for the 13 March 1997 Phoenix lights",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 600 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 594 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.",
+"timeline": [],
+"unverified": []
 }

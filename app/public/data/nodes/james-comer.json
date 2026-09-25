@@ -147,7 +147,8 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"congress-house"
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -168,6 +169,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "James Comer Jr.",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -203,7 +207,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-KY-1); Chairman, House Committee on Oversight and Government Reform",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 865 of 1170, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 866 of 1170, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

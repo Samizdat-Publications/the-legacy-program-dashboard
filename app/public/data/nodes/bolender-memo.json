@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -131,7 +132,7 @@
 "edgeLabel": "No records series has ever been identified for the JANAP channel",
 "id": "rg-615-uap-records",
 "l0": false,
-"label": "NARA Record Group 615 — UAP Records Collection",
+"label": "NARA Record Group 615 - UAP Records Collection",
 "note": "Blue Book's files went to NARA; whatever accumulated on the JANAP 146 side has never been named as a series, accessioned, or searched under any disclosure statute including the FY2024 NDAA.",
 "sources": [
 {
@@ -155,6 +156,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "bolender-memo",
+"label": "Bolender Memorandum"
+},
+"b": {
+"id": "l-wright-patterson",
+"label": "Wright-Patterson Air Force Base, Ohio"
+},
 "by": {
 "id": "bolender-memo",
 "label": "Bolender Memorandum"
@@ -177,10 +186,7 @@
 }
 ],
 "desc": "The memorandum by Brig. Gen. Carroll H. Bolender, USAF Deputy Director of Development, dated 20 October 1969, recommending termination of Project Blue Book. Its historical importance is not the recommendation but the justification. Bolender explains that reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11 and are not part of the Blue Book system — and therefore that terminating Blue Book would not affect the Air Force's ability to handle national-security cases. That is an official written statement that the program the public believed was the government's UFO investigation had never handled the cases that mattered. The memo also observes that the retention of Blue Book records would not be a problem once the project ended, and Blue Book's holdings duly went to the National Archives while whatever accumulated on the JANAP side has never been identified as a records series, never been accessioned, and never been searched. Two months after Bolender wrote, Secretary of the Air Force Robert C. Seamans Jr. announced Blue Book's closure on 17 December 1969, citing the Condon Report.",
-"domains": [
-"_rs-archive-mirror",
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The Bolender memorandum is short, administrative, and the most quietly damaging document in the legacy corpus. Its purpose was to justify closing Project Blue Book, and its argument was that closure would cost the Air Force nothing operationally because the reports that mattered had never been in Blue Book to begin with: UFO reports which could affect national security were made in accordance with JANAP 146 or Air Force Manual 55-11, and were not part of the Blue Book system. Read against JANAP 146(C) of 10 March 1954, which made unidentified flying objects a mandatory CIRVIS report and prohibited unauthorised disclosure of report contents under 18 U.S.C. 793 and 794, the memo describes a two-track structure operating for at least fifteen years: a public program that generated 12,618 catalogued sightings and a residue of 701 unknowns, and a classified channel whose output has never been named as a records series, never been accessioned by the National Archives, and never been searched under any disclosure statute — including the FY2024 NDAA provisions that created Record Group 615. Blue Book's records went to College Park. The other channel's records went somewhere that has not been identified in fifty-seven years. That gap is the specific, concrete, documentable thing this board exists to track, and it was opened by a brigadier general writing routine staff correspondence, not by a whistleblower.",
@@ -218,7 +224,12 @@
 "label": "Bolender Memorandum",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Bolender Memorandum",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "2026-07-06",
@@ -246,13 +257,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 193 of 1170, score 46). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1969-10-20",
+"grade": "A",
 "id": "tl-1969-10-20",
 "label": "Bolender memo",
 "precision": "day",
 "strand": "coverup",
-"text": "Brig. Gen. Carroll Bolender recommends terminating Blue Book, explaining that UFO reports affecting national security go via JANAP 146 or AFM 55-11 and 'are not part of the Blue Book system'.",
-"tier": "A"
+"text": "Brig. Gen. Carroll Bolender recommends terminating Blue Book, explaining that UFO reports affecting national security go via JANAP 146 or AFM 55-11 and 'are not part of the Blue Book system'."
 }
-]
+],
+"unverified": []
 }

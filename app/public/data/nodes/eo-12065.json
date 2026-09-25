@@ -17,6 +17,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Carter's classification order, which revoked EO 11652 and required an official weighing continued classification to ask whether the public interest in disclosure outweighed the damage to national security. That test was removed four years later by EO 12356 and has never returned.",
-"domains": [
-"nsc-eo-spine-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -88,7 +87,11 @@
 "label": "Executive Order 12065 - National Security Information (28 June 1978)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Executive Order 12065 - National Security Information (28 June 1978)",
+"sourceFiles": [
+"nsc-eo-spine-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -98,16 +101,18 @@
 ],
 "sub": "Executive order; carried mainly for the public-interest balancing test that the next order removed",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 954 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 953 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1978-06-28",
+"grade": null,
 "id": "spine-tl-1978-12065",
 "label": "EO 12065 requires the public interest in disclosure to be weighed",
 "precision": "day",
 "strand": "oversight",
-"text": "Carter's classification order revokes EO 11652 and, at section 3-303, requires an official to determine whether the public interest in disclosure outweighs the damage to national security. It is the only classification order to have carried such a test, and it lasts four years.",
-"tier": 1
+"text": "Carter's classification order revokes EO 11652 and, at section 3-303, requires an official to determine whether the public interest in disclosure outweighs the damage to national security. It is the only classification order to have carried such a test, and it lasts four years."
 }
-]
+],
+"unverified": []
 }

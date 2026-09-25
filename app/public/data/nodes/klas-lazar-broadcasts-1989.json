@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -98,9 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "THIS NODE IS DELIBERATELY INCOMPLETE AND SAYS SO, on the precedent already set on this board by ronald-moultrie, scott-bray and brad-steiger, which were built the same way on 18 September 2026. The broadcasts are the custody point for the entire S-4 claim and the most consequential media artefact in the cluster: they are what put Area 51 into worldwide public consciousness. Not one of them was opened by this board's research pass. KLAS's own site at 8newsnow.com, which carries George Knapp's retrospectives on the story, returned HTTP 403 to three separate requests on 18 September 2026, and no 1989-dated listing, recording or transcript was reached by any other route. What the node therefore rests on is one contemporaneous newspaper line: the Las Vegas Review-Journal of 19 June 1990 recording that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. That is a Tier 1 anchor for the existence and consequence of the broadcasts. The air dates are not: the May 1989 'Dennis' interview and the 10 or 11 November 1989 named interview are carried at Tier 3 from Tom Mahood's timeline. The node is built thin and honest rather than padded, and a later session should replace the Tier 3 dates with an opened artefact.",
-"domains": [
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -114,7 +113,11 @@
 "label": "The KLAS-TV Lazar broadcasts, 1989",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The KLAS-TV Lazar broadcasts, 1989",
+"sourceFiles": [
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "1990-06-19",
@@ -137,22 +140,29 @@
 "tierRationale": "Re-graded C on a global pass (rank 1027 of 1170, score 14). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1989-05",
+"grade": "B",
 "id": "tl-1989-05-klas-dennis",
 "label": "KLAS-TV airs the silhouetted interviews under the pseudonym 'Dennis'",
 "precision": "month",
 "strand": "witness",
-"text": "TIER 3 DATE, CARRIED HONESTLY. Tom Mahood's timeline records that in May 1989 Lazar's silhouetted interviews with George Knapp aired on KLAS-TV using the pseudonym 'Dennis'. NO 1989-DATED ARTEFACT WAS OPENED BY THIS BOARD, and KLAS's own retrospectives returned HTTP 403 three times on 18 September 2026.",
-"tier": "B"
+"text": "TIER 3 DATE, CARRIED HONESTLY. Tom Mahood's timeline records that in May 1989 Lazar's silhouetted interviews with George Knapp aired on KLAS-TV using the pseudonym 'Dennis'. NO 1989-DATED ARTEFACT WAS OPENED BY THIS BOARD, and KLAS's own retrospectives returned HTTP 403 three times on 18 September 2026."
 },
 {
+"claimTier": null,
 "date": "1989-11-10",
+"grade": "B",
 "id": "tl-1989-11-10-klas-named",
 "label": "KLAS-TV identifies and interviews Lazar under his own name",
 "precision": "day",
 "strand": "witness",
-"text": "TIER 3 DATE, CARRIED HONESTLY. Mahood's timeline gives 10 November 1989; some accounts give 11 November. This is the broadcast that put Area 51 into worldwide public consciousness and no artefact of it was opened by this board. The only contemporaneous documentary confirmation opened is the Las Vegas Review-Journal of 19 June 1990 recording that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'.",
-"tier": "B"
+"text": "TIER 3 DATE, CARRIED HONESTLY. Mahood's timeline gives 10 November 1989; some accounts give 11 November. This is the broadcast that put Area 51 into worldwide public consciousness and no artefact of it was opened by this board. The only contemporaneous documentary confirmation opened is the Las Vegas Review-Journal of 19 June 1990 recording that Lazar 'was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'."
 }
+],
+"unverified": [
+"NO 1989 ARTEFACT WAS OPENED. Not a broadcast, not a recording, not a transcript, not a television listing, not a 1989-dated newspaper notice. This node is built deliberately incomplete on the precedent of ronald-moultrie, scott-bray and brad-steiger, and it should not be tidied up by a later session filling the dates in from memory.",
+"The exact air dates. May 1989 for the silhouetted 'Dennis' interview and 10 or 11 November 1989 for the named interview both rest on secondary chronologies. The discrepancy between 10 and 11 November is itself unresolved.",
+"KLAS-TV's own account of what verification it performed before broadcast. Three separate 8newsnow.com retrospectives returned HTTP 403 on 18 September 2026, so not one word of the originating institution's own version of this story is on this board."
 ]
 }

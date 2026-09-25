@@ -47,6 +47,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -181,18 +182,20 @@
 "deg": 6,
 "denials": [
 {
-"by": {
+"a": {
 "id": "doc-341-smw-history-1967",
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
 },
+"b": {
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
 "note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
-"of": {
-"id": "malmstrom-oscar-flight-1967",
-"label": "Malmstrom Oscar Flight claim, 24 March 1967"
-},
+"of": null,
 "sources": [
 {
 "date": "2001-06-14",
@@ -203,10 +206,7 @@
 }
 ],
 "desc": "Excerpts from five quarterly histories of the 341st Strategic Missile Wing, Malmstrom AFB, released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 and posted by The Black Vault. The January to March 1967 volume carries a section headed 'the investigation of Echo Flight incident and the results' at pages 32 to 40, footnoted throughout to a single classified engineering report of 23 March 1967. The release is the document the board's Malmstrom node names as decisive. It states the shutdown happened and states that the UFO reports around it were disproven, and it names no launch officer on duty.",
-"domains": [
-"dannyjones-2026-09-03",
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -220,7 +220,12 @@
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"sourceFiles": [
+"dannyjones-2026-09-03",
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2001-06-14",
@@ -230,16 +235,18 @@
 ],
 "sub": "Excerpts from five quarterly 341st Strategic Missile Wing histories, released to John Greenewald Jr by HQ 341st Space Wing on 14 June 2001",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 136 of 1170, score 54). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 137 of 1170, score 54). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1967-03-23",
+"grade": "A",
 "id": "tl-1967-03-23-echo-flight-engineering-report",
 "label": "The engineering investigation reports it cannot determine a cause",
 "precision": "day",
 "strand": "program",
-"text": "The Engineering Investigation Team's 'Report of Engineering Investigation of Echo Flight Incident, Malmstrom AFB, Mont. - 16 Mar 67', dated 23 March 1967 and classified Secret, is the document the entire Malmstrom controversy turns on. It is footnoted on almost every page of the wing history's Echo Flight section and has never been opened by this board. Through the history it states: 'The investigation teams at Malmstrom, were unable to determine a logical cause for the incident.'",
-"tier": "A"
+"text": "The Engineering Investigation Team's 'Report of Engineering Investigation of Echo Flight Incident, Malmstrom AFB, Mont. - 16 Mar 67', dated 23 March 1967 and classified Secret, is the document the entire Malmstrom controversy turns on. It is footnoted on almost every page of the wing history's Echo Flight section and has never been opened by this board. Through the history it states: 'The investigation teams at Malmstrom, were unable to determine a logical cause for the incident.'"
 }
-]
+],
+"unverified": []
 }

@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -119,10 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "A body of fabricated documents is the most efficient way to poison an evidentiary well, and this field has one of the largest such bodies on record. The Majestic-12 papers - first surfacing on unsolicited film delivered to Jaime Shandera in December 1984, purporting to be an Eisenhower-era briefing on recovered craft - were investigated by the FBI, whose file on the matter is public in the Bureau's Vault reading room and records the Air Force Office of Special Investigations' assessment that the documents were bogus. Whether any given MJ-12 document is a forgery, a forgery built on real classified content, or a genuine record does not change the structural point: once fabricated material enters circulation, every genuine document acquires the burden of proving it is not one of them, and that burden is the concealment dividend. This board therefore treats forged documents as evidence of an act - someone made them, at a cost, for a purpose - and asks who benefited from their circulation. Scoring high on this domain means an entity authored, distributed, authenticated or debunked fabricated material, all four of which are consequential roles.",
-"domains": [
-"dulce-2026-09-19",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -136,7 +134,12 @@
 "label": "Disinformation & Fabricated Documents",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Disinformation & Fabricated Documents",
+"sourceFiles": [
+"dulce-2026-09-19",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2024-04-02",
@@ -167,5 +170,6 @@
 "sub": "Evidentiary domain - forged and salted records as a concealment instrument",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 635 of 1170, score 27). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

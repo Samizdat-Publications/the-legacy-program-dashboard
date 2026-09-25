@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -358,6 +359,14 @@
 "deg": 13,
 "denials": [
 {
+"a": {
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"id": "pais-patent-emfg",
+"label": "US Patent 10,135,366 - Electromagnetic field generator"
+},
 "by": {
 "id": "us-navy",
 "label": "United States Navy"
@@ -380,11 +389,7 @@
 }
 ],
 "desc": "The United States Navy is the maritime service of the Department of Defense, organised under a civilian Secretary of the Navy with the Chief of Naval Operations as senior uniformed officer, and it states its purpose as deploying combat-ready sailors, ships, aircraft and submarines worldwide without dependence on foreign land bases. It is the service that generated the modern evidentiary core of the UAP problem: carrier strike group encounters off southern California in November 2004 and off the eastern seaboard in 2014-2015, recorded by F/A-18 targeting pods, SPY-1 radar and aircrew who filed the reports through operational channels. On 27 April 2020 the Department authorised release of three unclassified Navy videos - one from November 2004 and two from January 2015 - and stated on the record that it was doing so to clear up public misconceptions about whether the circulating footage was real. That release is a hinge artifact for this board, because it converts material that had circulated as leak and rumour into acknowledged official product while conspicuously not addressing what the objects were. The Navy also holds the institutional position that matters for custody questions - it operates the fleet ranges where the encounters occurred, the aviation safety and hazard reporting systems into which aircrew reports flow, and the shore facilities repeatedly named in recovery and material-storage allegations elsewhere on this board.",
-"domains": [
-"_rs-stubs-known",
-"_stubs",
-"propulsion-2026-09-19"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -510,7 +515,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "United States Navy",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs",
+"propulsion-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -535,6 +546,7 @@
 ],
 "sub": "Military service",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 532 of 1170, score 30). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 526 of 1170, score 30). 13 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

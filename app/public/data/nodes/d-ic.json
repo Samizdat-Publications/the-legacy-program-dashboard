@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -53,7 +54,7 @@
 "claimTier": 3,
 "cls": "domain",
 "dateEnd": null,
-"dateStart": null,
+"dateStart": "1947-09-18",
 "direction": "out",
 "edgeLabel": "Elements and tradecraft",
 "id": "d-intel",
@@ -77,11 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The intelligence community is not one organisation but a federation of elements with distinct legal authorities, distinct appropriations and distinct oversight committees, and that federated structure is itself a concealment resource - an activity can be positioned in the seam between two elements' jurisdictions and be nobody's to report. The documented UAP-relevant history runs through several of them: CIA's Office of Scientific Intelligence convened the Robertson Panel in 1953 and CIA's own in-house historian later admitted the agency's role in shaping public explanations; NSA fought and won FOIA litigation to withhold the substance of its holdings; DIA solicited, awarded and administered AAWSAP from 2008 and considered converting its successor into a special access programme in 2009; and ODNI produced the June 2021 preliminary assessment and now houses the annual reporting requirement. The Intelligence Community Inspector General is the structural pressure point, because it is the only channel through which an IC employee can lawfully raise an urgent concern that reaches Congress. Scoring high on this domain means an entity held an IC billet, ran an IC element, or exercised IC authority over the subject.",
-"domains": [
-"_rs-archive-mirror",
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -95,7 +92,13 @@
 "label": "Intelligence Community",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Intelligence Community",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-11",
@@ -135,6 +138,7 @@
 ],
 "sub": "Institutional domain - the eighteen elements, their separate authorities, and where UAP work sat",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 322 of 1170, score 38). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 321 of 1170, score 38). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [],
+"unverified": []
 }

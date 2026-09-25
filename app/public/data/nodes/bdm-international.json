@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "BDM is on this board as a documented company with an ownership history that runs through exactly the places this board maps, and as the address of a 1985 meeting whose evidence is far weaker than the company's. From its own Form 10-K for FY1995: 'The Company was formed in 1959 by Drs. Joseph V. Braddock, Bernard J. Dunn, and Daniel F. McDonald as Braddock, Dunn & McDonald, Incorporated, which was later reorganized as BDM International, Inc.' It was public from 1980 to 1988, 'when Ford Aerospace Corporation, then a wholly owned subsidiary of Ford Motor Company, acquired all of the outstanding stock of the Predecessor Company', and in October 1990 The Carlyle Group formed BDM Holdings, Inc. to acquire substantially all the assets. In 1995 the Department of Defense was approximately 37 per cent of revenue, international defence agencies 25 per cent, civil government 23 per cent. Vinnell Corporation was a subsidiary.\n\nThe Advanced Theoretical Physics meeting of May 1985 is a different order of evidence and this node says so. The only source outside the interview literature is a set of scans said to come from Jack Houck's private files after his death in 2013, published on a research blog: a booking slip for the 'BDM McLean Secure Facility' for 20-25 May 1985, an undated May 1985 agenda, and transparencies annotated in Houck's hand. That chain is private papers to researcher to blog -- no institutional repository, no government record, no BDM record -- and it is carried at Tier 3, worded as what the papers are rather than as what the meeting was.",
-"domains": [
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -93,7 +92,11 @@
 "label": "BDM International, Inc.",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "BDM International, Inc.",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "1996-03-12",
@@ -108,6 +111,9 @@
 ],
 "sub": "Defence services contractor, McLean VA; Ford Aerospace 1988, Carlyle Group 1990",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 820 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 821 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [],
+"unverified": [
+"The commonly stated chain BDM to TRW in 1997 and TRW to Northrop Grumman in 2002 was NOT read off any document in this pass, and no edge to northrop-grumman is drawn on it. Neither John B. Alexander's nor Jacques Vallee's published account of the Advanced Theoretical Physics group was read; a named participant in print would move that claim to Tier 2."
+]
 }

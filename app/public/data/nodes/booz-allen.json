@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -58,7 +59,7 @@
 "edgeLabel": "Security-support primes administer the compartmentation the statute is supposed to make visible",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Reasoning: Sec. 119 places the reporting duty on the Secretary of Defense, but the underlying program-protection and access records are held by contractors with no independent reporting obligation to Congress.",
 "sources": [
 {
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Booz Allen is the firm that staffs the secrecy itself. Its federal business - roughly $97 billion in prime contract obligations across Booz Allen recipient entities since FY2008 - is concentrated in intelligence community analytic support, security engineering, and the program-protection and special access program administration functions that determine who is read on to what. That is the choke point in this entire domain: David Grusch testified that he was tasked to identify every special access and controlled access program relevant to the UAP Task Force's congressional mandate and was refused the read-ons. The machinery that executes such a refusal - billet lists, access rosters, security classification guides, program-protection plans - is largely built and maintained by contractors, of which Booz Allen is the largest. No witness has alleged Booz Allen holds material. The board records it as the administrative infrastructure of compartmentation rather than as an alleged custodian, and flags as a gap that no committee has ever asked a security-support prime to produce the access rosters for the programs at issue.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -98,7 +97,11 @@
 "label": "Booz Allen Hamilton",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Booz Allen Hamilton",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -119,5 +122,6 @@
 "sub": "Management and security consultancy; large-scale SAP and clearance support",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 888 of 1170, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

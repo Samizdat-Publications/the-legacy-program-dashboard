@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -96,9 +97,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Las Vegas is the operational hub of the private side of this entire subject. Robert Bigelow's businesses are headquartered here: Bigelow Aerospace, the National Institute for Discovery Science which ran the Skinwalker Ranch investigation from 1995, and Bigelow Aerospace Advanced Space Studies, the prime contractor on the Defense Intelligence Agency's AAWSAP award. BAASS recruited some fifty full-time investigators with top secret clearances in this city and ran for 27 months, producing more than three dozen preliminary reports, over a hundred detailed research papers and a data warehouse of more than 240,000 case files, most of which DIA has never released. Colm Kelleher was BAASS deputy administrator here. George Knapp has reported the story from KLAS-TV here since 1989, when he broadcast the Robert Lazar interviews that created the modern reverse-engineering narrative. And McCarran/Harry Reid International Airport is the departure point of the unmarked white-and-red Boeing 737 fleet operated under the callsign JANET that carries the Groom Lake and Tonopah workforce - the physical commute of the black world, visible daily from a public terminal. Sen. Harry Reid represented Nevada; the AAWSAP appropriation he arranged went to a Nevada company; the workforce it might have touched flies out of a Nevada airport. That concentration is not a coincidence and it is the reason Las Vegas rather than Washington is where the contractor-side record actually sits.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -112,7 +111,11 @@
 "label": "Las Vegas, Nevada",
 "locLabel": "Las Vegas, Nevada, USA",
 "members": null,
+"openQuestions": [],
 "short": "Las Vegas, Nevada",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -128,5 +131,6 @@
 "sub": "Clark County; Bigelow Aerospace, NIDS, BAASS, EG&G 'Janet' terminal, KLAS-TV",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 645 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

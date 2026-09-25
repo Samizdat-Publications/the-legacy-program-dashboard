@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Grusch's civil action against Loudoun County Sheriff Michael Chapman and a Sheriff's Office employee over the release of records describing his 2014 and 2018 emergency custody episodes, including an October 2018 incident report referencing evaluation at Inova's Loudoun Adult Psychiatric Services where he was evaluated but not committed. The records were obtained under Virginia FOIA and published by Ken Klippenstein in The Intercept on 9 August 2023, two weeks after Grusch's sworn testimony. The suit, filed in Loudoun County Circuit Court on 15 July 2024, alleged the defendants lacked authority to release involuntary commitment material and that the disclosure caused him to suffer personally and professionally. It was dismissed with prejudice on 6 August 2025, on the reasoning that Virginia's mental health confidentiality statute reaches court files rather than police records and that the redacted release complied with FOIA. The case matters to the board not for its legal outcome but for what it establishes: that a UAP whistleblower's most sensitive personal records were lawfully obtainable by anyone who filed a request, and that no protection existed. That gap is exactly what the whistleblower-protection provisions being litigated in Congress since 2023 are aimed at.",
-"domains": [
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -93,7 +92,11 @@
 "label": "David C. Grusch v. Michael Chapman et al.",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "David C. Grusch v. Michael Chapman et al.",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2024-07-25",
@@ -116,22 +119,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 1099 of 1170, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-07-15",
+"grade": "A",
 "id": "g-tl-2024-07-lawsuit",
 "label": "Grusch sues over the records release",
 "precision": "day",
 "strand": "witness",
-"text": "Files in Loudoun County Circuit Court against Sheriff Mike Chapman and a Sheriff's Office employee over the FOIA release of his emergency-custody records.",
-"tier": "A"
+"text": "Files in Loudoun County Circuit Court against Sheriff Mike Chapman and a Sheriff's Office employee over the FOIA release of his emergency-custody records."
 },
 {
+"claimTier": null,
 "date": "2025-08-06",
+"grade": "B",
 "id": "g-tl-2025-08-dismissal",
 "label": "Privacy suit dismissed with prejudice",
 "precision": "day",
 "strand": "coverup",
-"text": "The court holds Virginia's mental health confidentiality statute reaches court files rather than police records and that the redacted release complied with FOIA - establishing that no legal shield protected the whistleblower's records.",
-"tier": "B"
+"text": "The court holds Virginia's mental health confidentiality statute reaches court files rather than police records and that the redacted release complied with FOIA - establishing that no legal shield protected the whistleblower's records."
 }
-]
+],
+"unverified": []
 }

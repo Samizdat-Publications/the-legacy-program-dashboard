@@ -127,10 +127,7 @@
 "dateStart": "2022-03-29",
 "deg": 4,
 "denials": [],
-"domains": [
-"dulce-2026-09-19",
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -150,6 +147,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "John Olsen Lear",
+"sourceFiles": [
+"dulce-2026-09-19",
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "2016-08-29",
@@ -175,34 +176,37 @@
 "status": "dead",
 "sub": "Son of the Learjet founder and a documented pilot; from a dated statement of 29 December 1987 one of the field's most prolific claimants; present at two of the three 1989 desert viewings with Lazar",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 838 of 1170, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 839 of 1170, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1987-12-29",
+"grade": "C",
 "id": "tl-1987-12-29-lear-statement",
 "label": "John Lear's statement is dated, eighteen months before Lazar reaches KLAS",
 "precision": "day",
 "strand": "witness",
-"text": "A statement by John Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation and preserved in the BSRA/BSRF holdings at the Archives for the Unexplained, circulated on the ParaNet bulletin board in early 1988. It precedes Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. Only the archive item record was opened; the statement's text was not rendered and no content from it is asserted.",
-"tier": "C"
+"text": "A statement by John Lear dated 29 December 1987, originally a physical letter to the Borderland Sciences Research Foundation and preserved in the BSRA/BSRF holdings at the Archives for the Unexplained, circulated on the ParaNet bulletin board in early 1988. It precedes Lazar's KLAS appearance by roughly eighteen months and set the frame the later account fitted into. Only the archive item record was opened; the statement's text was not rendered and no content from it is asserted."
 },
 {
+"claimTier": null,
 "date": "1988",
+"grade": "C",
 "id": "tl-1988-lear-dulce",
 "label": "Lear develops his Dulce hypothesis, sourced to 'Ann West'",
 "precision": "year",
 "strand": "witness",
-"text": "Hayakawa's chronology dates Lear's Dulce hypothesis to 1988 and names his source as a woman called Ann West, the same name Levesque later gives as the raw material of the two original Dulce Base articles.",
-"tier": "C"
+"text": "Hayakawa's chronology dates Lear's Dulce hypothesis to 1988 and names his source as a woman called Ann West, the same name Levesque later gives as the raw material of the two original Dulce Base articles."
 },
 {
+"claimTier": null,
 "date": "2022-03-29",
+"grade": "C",
 "id": "tl-2022-03-29-lear-dies",
 "label": "John Lear dies",
 "precision": "day",
 "strand": "witness",
-"text": "The Museum of Flight Archives authority record states: 'John Lear died on March 29, 2022.' He was born 3 December 1942, the son of William Powell Lear and Moya Olsen Lear, and his materials sit within the William P. and Moya Olsen Lear Family Collection.",
-"tier": "C"
+"text": "The Museum of Flight Archives authority record states: 'John Lear died on March 29, 2022.' He was born 3 December 1942, the son of William Powell Lear and Moya Olsen Lear, and his materials sit within the William P. and Moya Olsen Lear Family Collection."
 }
 ],
 "unexplainedResidual": null,

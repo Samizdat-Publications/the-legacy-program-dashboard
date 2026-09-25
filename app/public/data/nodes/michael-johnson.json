@@ -125,7 +125,9 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"nuclear-witnesses-2026-09-19"
+"d-nuclear",
+"d-nuc",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -146,6 +148,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Michael Johnson",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-07",
@@ -166,16 +171,17 @@
 "status": "alive",
 "sub": "Claimed USAF security policeman, 44th Missile Security Squadron, Ellsworth AFB; second witness to the 18 November 1977 Launch Facility November-5 claim, located by the publishing party in June 2026",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 843 of 1170, score 20). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 844 of 1170, score 20). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-06-26",
+"grade": "C",
 "id": "tl-2026-06-26-johnson-located",
 "label": "The publishing party cold-calls the second Ellsworth witness",
 "precision": "day",
 "strand": "witness",
-"text": "Dated on air: on 26 June 2026 the producer telephoned a Michael Johnson in South Carolina, located from a viewer's Facebook tip by an unnamed recruiter, and withheld the frame, saying nothing about November-5 and nothing about a UFO. Mario Woods was then patched in and within two minutes supplied the site, the date and, after Johnson first answered 'No', the category. NO DATED PUBLIC STATEMENT BY JOHNSON ABOUT THE EVENT EXISTS BEFORE THIS CALL.",
-"tier": "C"
+"text": "Dated on air: on 26 June 2026 the producer telephoned a Michael Johnson in South Carolina, located from a viewer's Facebook tip by an unnamed recruiter, and withheld the frame, saying nothing about November-5 and nothing about a UFO. Mario Woods was then patched in and within two minutes supplied the site, the date and, after Johnson first answered 'No', the category. NO DATED PUBLIC STATEMENT BY JOHNSON ABOUT THE EVENT EXISTS BEFORE THIS CALL."
 }
 ],
 "unexplainedResidual": null,

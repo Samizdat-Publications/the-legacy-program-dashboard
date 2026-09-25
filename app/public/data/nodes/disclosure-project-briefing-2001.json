@@ -52,6 +52,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -317,10 +318,7 @@
 "deg": 10,
 "denials": [],
 "desc": "The Briefing Document is the custody point for dozens of this board's witness claims, not only this one, and it is openable in full as OCR text on archive.org. It prints McCandlish's testimony at section 3.8.5 under the date December 2000, and it is where the claimed craft acquires its two names in print. It also prints, separately, the September 2000 testimony of Lt Col John Williams on a compartmented facility at Norton AFB, and its compiler cross-references the two witnesses to each other in bracketed editorial notes signed 'SG'. That is the document's characteristic move and the reason its claims about the world cap at Tier 2: the corroboration between the two testimonies is asserted by the compiler, inside the compilation. Its claims about its own contents are another matter and are documented, because the contents can be read.",
-"domains": [
-"arv-2026-09-18",
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -419,7 +417,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "DP Briefing Document, April 2001",
+"sourceFiles": [
+"arv-2026-09-18",
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -429,34 +432,42 @@
 ],
 "sub": "Roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 206 of 1170, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 205 of 1170, score 45). 12 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2000-09",
+"grade": "B",
 "id": "tl-2000-09-williams-testimony",
 "label": "Lt Col John Williams's Disclosure Project testimony on a compartmented facility at Norton",
 "precision": "month",
 "strand": "witness",
-"text": "Printed in the same document as McCandlish's. Williams says he 'was responsible for that base's facilities from 1981-82' and that 'I was never allowed in that area when I was there at Norton Air Force Base'. Greer cross-references the two testimonies to each other in bracketed notes signed 'SG'.",
-"tier": "B"
+"text": "Printed in the same document as McCandlish's. Williams says he 'was responsible for that base's facilities from 1981-82' and that 'I was never allowed in that area when I was there at Norton Air Force Base'. Greer cross-references the two testimonies to each other in bracketed notes signed 'SG'."
 },
 {
+"claimTier": null,
 "date": "2001-04",
+"grade": "B",
 "id": "tl-2001-04-briefing-document",
 "label": "The Disclosure Project Briefing Document is prepared by Greer and Loder",
 "precision": "month",
 "strand": "witness",
-"text": "The roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony including McCandlish's of December 2000. It is the custody point for dozens of this board's witness claims.",
-"tier": "B"
+"text": "The roughly 500 page compilation prepared by Steven M. Greer MD and Theodore C. Loder III PhD, printing summarised witness testimony including McCandlish's of December 2000. It is the custody point for dozens of this board's witness claims."
 },
 {
+"claimTier": null,
 "date": "2001-04",
+"grade": "A",
 "id": "tl-2001-04-briefing-documentx",
 "label": "Disclosure Project Briefing Document published",
 "precision": "month",
 "strand": "witness",
-"text": "'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D. / April, 2001', addressed to members of the press, the US government and the US scientific community. Its section 3.8 prints sixty-eight dated witness testimonies across five subsections.",
-"tier": "A"
+"text": "'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D. / April, 2001', addressed to members of the press, the US government and the US scientific community. Its section 3.8 prints sixty-eight dated witness testimonies across five subsections."
 }
+],
+"unverified": [
+"That Kent Sellen existed, served at Edwards, or was a crew chief on William B. Scott's aircraft. The document carries McCandlish's account of him, and that account is the only source opened: 'In 1992, I met a man named Kent Sellen', a former Edwards crew chief on the aircraft flown by 'Bill Scott, or William Scott, who was a local editor for a trade publication called Aviation Week and Space Technology', who said 'I saw it in 1973' at Edwards North Base. No service record, no Edwards personnel record and no statement by Sellen was opened, so the board carries this as unverified and not as a claim.",
+"The plate section of the document, containing the ARV cut-away drawing, was not extracted. The OCR text layer refers to the illustration but does not contain it.",
+"Whether the book version of this testimony differs from the Briefing Document version. Greer's 'Disclosure: Military and Government Witnesses Reveal the Greatest Secrets in Modern History' (2001) was located as a Kindle edition and not opened."
 ]
 }

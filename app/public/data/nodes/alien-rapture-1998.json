@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -98,9 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "This is the book the TR-3B arrived attached to, and its cataloguing is the single most load-bearing Tier 1 fact in the whole cluster. The Library of Congress holds it as LCCN 98002961: Alien rapture, subtitle the chosen, by Fouche, Edgar Rothschild, 1948-, and Steiger, Brad; Lakeville, Minnesota, Galde Press, 1998, first edition, xii and 275 pages, 23 cm; ISBN 1880090503. Under the gsafd genre authority the record's genre element reads, in full, 'Science fiction.' Its Library of Congress subject heading is 'Alien abduction - Fiction'. Its class number PS3556.O779 A79 1998 places it in American literature, individual authors, 1961 onward, and its Dewey number 813/.54 is American fiction. The record was created by the Library of Congress itself, recordContentSource DLC, on 4 February 1998, which is before the book's publication and before the presentation. Open Library independently records the same publisher, year, pagination and the subjects 'Alien abduction' and 'Fiction'. Fouche's presentation of the following August names the book as its occasion and asserts, of the craft, 'The TR-3B flying triangle is not fiction'. WHAT THIS NODE DOES NOT SAY: no copy of the book's text was opened, so how the TR-3B appears inside it, and whether Steiger had any hand in that material, are unestablished. The catalogue record establishes the genre assignment, the imprint, the pagination and the date, and nothing about the contents.",
-"domains": [
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -114,7 +113,11 @@
 "label": "Alien Rapture: The Chosen, Galde Press, 1998",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Alien Rapture: The Chosen, Galde Press, 1998",
+"sourceFiles": [
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "1998-02-04",
@@ -134,25 +137,31 @@
 ],
 "sub": "The Fouche and Steiger book the 1998 presentation was given to promote, catalogued by the Library of Congress under the genre heading 'Science fiction'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 925 of 1170, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 924 of 1170, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1998",
+"grade": "B",
 "id": "tl-1998-alien-rapture-published",
 "label": "Alien Rapture: The Chosen published by Galde Press",
 "precision": "year",
 "strand": "witness",
-"text": "First edition, Lakeville, Minnesota, Galde Press, 1998, xii and 275 pages, 23 cm, ISBN 1880090503, by Edgar Rothschild Fouche and Brad Steiger. The Library of Congress record gives only the year; no primary record for the month was opened. No copy of the text was opened, so how the TR-3B appears inside it is unestablished.",
-"tier": "B"
+"text": "First edition, Lakeville, Minnesota, Galde Press, 1998, xii and 275 pages, 23 cm, ISBN 1880090503, by Edgar Rothschild Fouche and Brad Steiger. The Library of Congress record gives only the year; no primary record for the month was opened. No copy of the text was opened, so how the TR-3B appears inside it is unestablished."
 },
 {
+"claimTier": null,
 "date": "1998-02-04",
+"grade": "B",
 "id": "tl-1998-02-04-loc-catalogues-alien-rapture",
 "label": "THE LIBRARY OF CONGRESS CATALOGUES ALIEN RAPTURE AS SCIENCE FICTION",
 "precision": "day",
 "strand": "witness",
-"text": "Library of Congress record LCCN 98002961, recordContentSource DLC, recordCreationDate 980204, carries the gsafd genre element 'Science fiction.', the subject heading 'Alien abduction - Fiction', the classification PS3556.O779 A79 1998, which is American literature, individual authors, 1961 onward, and the Dewey number 813/.54, American fiction. The cataloguing predates both the book's publication and the August presentation.",
-"tier": "B"
+"text": "Library of Congress record LCCN 98002961, recordContentSource DLC, recordCreationDate 980204, carries the gsafd genre element 'Science fiction.', the subject heading 'Alien abduction - Fiction', the classification PS3556.O779 A79 1998, which is American literature, individual authors, 1961 onward, and the Dewey number 813/.54, American fiction. The cataloguing predates both the book's publication and the August presentation."
 }
+],
+"unverified": [
+"How the TR-3B appears in the book. No copy of the text was opened. The relationship between the novel's narrative and the technical passage at slides 69 to 72 of the August 1998 presentation is unknown to this research, and nothing about the book's contents is asserted anywhere on this node.",
+"The month of publication. The Library of Congress record gives only the year 1998. Retail listings surfaced during this research give 1 July 1998, but no primary record for the month was opened, so the node carries the year alone."
 ]
 }

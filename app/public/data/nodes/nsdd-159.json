@@ -47,6 +47,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -139,9 +140,7 @@
 "deg": 4,
 "denials": [],
 "desc": "A National Security Decision Directive signed by Reagan which orders the national security adviser to stand up a separate, specially compartmented control and access system at the Top Secret level covering all policy matters concerning covert action, restricts each agency to a single designated focal point, and directs that the minimum possible number of documents be created. It is the clearest openable statement of the compartmentation architecture this board spends most of its time describing, and it predates the special access programme governance the board otherwise starts from by nearly a decade.",
-"domains": [
-"nsc-eo-spine-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -155,7 +154,11 @@
 "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"sourceFiles": [
+"nsc-eo-spine-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -170,16 +173,18 @@
 ],
 "sub": "Presidential directive creating a separate compartmented access system for covert-action POLICY, with one designated focal point per agency",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 239 of 1170, score 43). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 238 of 1170, score 43). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D1.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1985-01-18",
+"grade": null,
 "id": "spine-tl-1985-nsdd159",
 "label": "NSDD 159 orders a compartmented access system over covert-action policy itself",
 "precision": "day",
 "strand": "coverup",
-"text": "Reagan signs NSDD 159, directing the national security adviser to establish a separate, specially compartmented control and access system at the Top Secret level for all policy matters concerning covert action. Each agency designates one senior officer as its sole focal point. Knowledge of policy, of operations and of supporting activity is to be strictly compartmented from each other, the minimum possible number of documents is to be created, and one NSC officer holds the only record copies of approved Findings. The implementing procedures are promulgated under separate cover and are not in the released document.",
-"tier": 1
+"text": "Reagan signs NSDD 159, directing the national security adviser to establish a separate, specially compartmented control and access system at the Top Secret level for all policy matters concerning covert action. Each agency designates one senior officer as its sole focal point. Knowledge of policy, of operations and of supporting activity is to be strictly compartmented from each other, the minimum possible number of documents is to be created, and one NSC officer holds the only record copies of approved Findings. The implementing procedures are promulgated under separate cover and are not in the released document."
 }
-]
+],
+"unverified": []
 }

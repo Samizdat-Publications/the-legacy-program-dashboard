@@ -105,7 +105,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"primes-custody"
+"d-custody",
+"d-exotic",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -126,6 +128,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Ben R. Rich",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "1994-01-01",
@@ -146,25 +151,27 @@
 "status": "dead",
 "sub": "Director, Lockheed Advanced Development Projects (Skunk Works), 1975-1991",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 580 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 579 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1975-01-01",
+"grade": "B",
 "id": "pc-1975-rich",
 "label": "Ben Rich takes over Skunk Works",
 "precision": "year",
 "strand": "program",
-"text": "Rich succeeds Kelly Johnson as director of Lockheed's Advanced Development Projects, holding the deepest black-aerospace access available to a private citizen for the next sixteen years.",
-"tier": "B"
+"text": "Rich succeeds Kelly Johnson as director of Lockheed's Advanced Development Projects, holding the deepest black-aerospace access available to a private citizen for the next sixteen years."
 },
 {
+"claimTier": null,
 "date": "1993-01-01",
+"grade": "C",
 "id": "pc-1993-rich",
 "label": "The Rich remark",
 "precision": "year",
 "strand": "program",
-"text": "Ben Rich is reported to have told a UCLA alumni audience that the means to travel among the stars already exist but are locked inside black projects. No recording or transcript has ever been produced.",
-"tier": "C"
+"text": "Ben Rich is reported to have told a UCLA alumni audience that the means to travel among the stars already exist but are locked inside black projects. No recording or transcript has ever been produced."
 }
 ],
 "unexplainedResidual": null,

@@ -57,6 +57,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -91,6 +92,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
@@ -256,12 +278,7 @@
 "deg": 6,
 "denials": [],
 "desc": "DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-21, DIA-08-1011-006, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"propulsion-2026-09-19",
-"w7-dirds-3"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -322,7 +339,14 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "DIA: MHD Air Breathing Propulsion",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"propulsion-2026-09-19",
+"w7-dirds-3"
+],
 "sources": [
 {
 "date": "2010-11-21",
@@ -357,16 +381,18 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 277 of 1170, score 40). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 263 of 1170, score 41). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2010-11-21",
+"grade": "C",
 "id": "tl-2010-11-21-dird-mhd",
 "label": "DIA's MHD DIRD is issued, and it is about hypersonic aerodynamics",
 "precision": "day",
 "strand": "program",
-"text": "DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', ICOD 20 July 2010, 'Defense Futures', 33 pages as released, attributed on the DIA list to Dr S Macheret of Lockheed Martin. Its Summary reports 'significant difficulties... weight, complexity, higher power' and that the Ajax energy bypass concept 'has been shown to be meaningless below at least Mach 12'. Word counts: UFO 0, antigravity 0, scalar 0, zero point 0.",
-"tier": "C"
+"text": "DIA-08-1011-006, 'MHD Air Breathing Propulsion and Power for Aerospace Applications', ICOD 20 July 2010, 'Defense Futures', 33 pages as released, attributed on the DIA list to Dr S Macheret of Lockheed Martin. Its Summary reports 'significant difficulties... weight, complexity, higher power' and that the Ajax energy bypass concept 'has been shown to be meaningless below at least Mach 12'. Word counts: UFO 0, antigravity 0, scalar 0, zero point 0."
 }
-]
+],
+"unverified": []
 }

@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -105,7 +106,7 @@
 "edgeLabel": "Postponement authority returned to the original classifier",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
 "sources": [
 {
@@ -150,18 +151,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "house-intelligence",
 "label": "House Permanent Select Committee on Intelligence"
 },
+"b": {
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The Board was designed to bypass the intelligence committees",
 "note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
-"of": {
-"id": "uap-records-review-board",
-"label": "Unidentified Anomalous Phenomena Records Review Board"
-},
+"of": null,
 "sources": [
 {
 "date": "2023-07-27",
@@ -171,6 +174,14 @@
 ]
 },
 {
+"a": {
+"id": "mike-turner",
+"label": "Michael R. Turner"
+},
+"b": {
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
 "by": {
 "id": "mike-turner",
 "label": "Michael R. Turner"
@@ -197,18 +208,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "ndaa-fy2024-subtitle-c",
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)"
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)"
 },
+"b": {
+"id": "uap-records-review-board",
+"label": "Unidentified Anomalous Phenomena Records Review Board"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Postponement authority returned to the original classifier",
 "note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
-"of": {
-"id": "uap-records-review-board",
-"label": "Unidentified Anomalous Phenomena Records Review Board"
-},
+"of": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -224,9 +237,7 @@
 }
 ],
 "desc": "The Review Board is the JFK Records Act transplant at the centre of the UAPDA and the thing the conference was most determined to prevent. Section 9007 establishes it 'as an independent agency' — outside the Department of Defense, outside the intelligence community, outside the armed services and intelligence committees. The President appoints nine citizens 'by and with the advice and consent of the Senate,' with nominations due within 90 days of enactment and a replacement nomination required within 30 days of any Senate rejection. Nominees are drawn from recommendations by the four congressional leaders, the Secretary of Defense, the National Academy of Sciences, 'established nonprofit research organizations relating to unidentified anomalous phenomena,' and the American Historical Association. The disqualification in Section 9007(b)(4)(A) is the operative clause: members 'shall be impartial citizens, none of whom shall have had any previous or current involvement with any legacy program or controlling authority relating to the collection, exploitation, or reverse engineering of technologies of unknown origin or the examination of biological evidence of living or deceased non-human intelligence.' The composition is mandated to include a national security official, a foreign service official, a scientist or engineer, an economist, a professional historian and a sociologist. Under Section 9009(c)(1) the Board must order disclosure 'in the absence of clear and convincing evidence' for postponement — reversing the ordinary classification presumption. Under Section 9010(b) recovered material must be made available to it for personal examination. The Board was removed in conference and does not exist. Nothing in enacted law performs its function: under Section 1843 of P.L. 118-31 the postponement decision is made by 'the original classification authority.'",
-"domains": [
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -240,7 +251,11 @@
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Unidentified Anomalous Phenomena Records Review Board",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-07-27",
@@ -255,6 +270,7 @@
 ],
 "sub": "Independent agency, authorised by the Senate, never constituted",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 115 of 1170, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 114 of 1170, score 58). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.",
+"timeline": [],
+"unverified": []
 }

@@ -74,9 +74,7 @@
 "dateStart": "2010-01-01",
 "deg": 1,
 "denials": [],
-"domains": [
-"w7-dirds-4"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -96,6 +94,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "John G. Cramer",
+"sourceFiles": [
+"w7-dirds-4"
+],
 "sources": [
 {
 "date": "2019-01-17",

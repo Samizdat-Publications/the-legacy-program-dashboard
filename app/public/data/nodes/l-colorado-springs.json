@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -54,10 +55,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Colorado Springs is the command node of American aerospace warning. Peterson Space Force Base hosts the headquarters of the North American Aerospace Defense Command and United States Northern Command; Cheyenne Mountain Space Force Station, the hardened complex inside the granite of Cheyenne Mountain, remains the alternate command centre and the integration point for missile warning and space surveillance data; Schriever Space Force Base to the east operates satellite control. Any object that enters North American airspace and is detected by national sensors is, by design, a problem that resolves to this city. That makes Colorado Springs the correct address for the oversight question this board keeps returning to: NORAD's own commander, Gen. Gregory M. Guillot, has acknowledged domain awareness gaps at low altitude, and the institutional history of NORAD's UAP handling - what it detects, what it declines to correlate, what it passes to AARO - has never been the subject of a public accounting. Colorado Springs entered the release record directly on 7 August 2026, when the fifth PURSUE tranche included FBI-UAP-D031, an FBI file concerning Colorado Springs. The city is also where the 2018 Schriever Wargame was run, the exercise series later invoked by a self-identified whistleblower as the folder in which Immaculate Constellation material was found - a claim the board records because it is the only specific provenance allegation ever attached to that document, and because Schriever is here.",
-"domains": [
-"_rs-archive-mirror",
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -71,7 +69,12 @@
 "label": "Colorado Springs, Colorado",
 "locLabel": "Colorado Springs, Colorado, USA",
 "members": null,
+"openQuestions": [],
 "short": "Colorado Springs, Colorado",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -91,6 +94,7 @@
 ],
 "sub": "El Paso County; Peterson SFB, Cheyenne Mountain SFS, Schriever SFB, NORAD/USNORTHCOM, US Space Command",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 816 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 817 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": []
 }

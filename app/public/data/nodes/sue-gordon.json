@@ -87,7 +87,9 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"ffrdcs"
+"d-ffrdc",
+"d-ic",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -108,6 +110,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Susan M. Gordon",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2023-10-31",
@@ -123,16 +128,17 @@
 "status": "active",
 "sub": "Vice Chair, MITRE Board of Trustees (elected Oct 2023); former Principal Deputy Director of National Intelligence (2017-2019); former Deputy Director, NGA; 27 years CIA",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 805 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 806 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-10-31",
+"grade": "A",
 "id": "tl-ffrdc-2023-gordon",
 "label": "Sue Gordon elected MITRE board vice chair",
 "precision": "day",
 "strand": "program",
-"text": "A former Principal Deputy Director of National Intelligence becomes vice chair of MITRE's governing board, three months after David Grusch's House Oversight testimony.",
-"tier": "A"
+"text": "A former Principal Deputy Director of National Intelligence becomes vice chair of MITRE's governing board, three months after David Grusch's House Oversight testimony."
 }
 ],
 "unexplainedResidual": null,

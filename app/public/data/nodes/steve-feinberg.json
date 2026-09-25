@@ -84,8 +84,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"w2-agencies"
+"d-structure",
+"d-custody"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -106,6 +106,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Stephen A. Feinberg",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-08-10",

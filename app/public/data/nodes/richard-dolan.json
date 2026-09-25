@@ -96,7 +96,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"w2-retrieval-literature"
+"d-coverup",
+"d-recovery",
+"d-history"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -117,6 +119,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Richard M. Dolan",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2022-09-28",

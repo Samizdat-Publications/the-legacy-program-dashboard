@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -633,48 +634,14 @@
 "deg": 27,
 "denials": [
 {
-"by": {
-"id": "donald-keyhoe",
-"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+"a": {
+"id": "aurora-budget-line",
+"label": "Aurora (FY1986-FY1987 procurement line)"
 },
-"claimTier": 1,
-"denialKind": null,
-"label": "The Air Force insisted on being the single channel for his inquiries",
-"note": "The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.",
-"of": {
+"b": {
 "id": "usaf",
 "label": "United States Air Force"
 },
-"sources": [
-{
-"date": "1958-04-04",
-"name": "CIA reading room document 0005516043",
-"url": "https://archive.org/details/cia-readingroom-document-0005516043"
-}
-]
-},
-{
-"by": {
-"id": "nicap",
-"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
-},
-"claimTier": 1,
-"denialKind": null,
-"label": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
-"note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
-"of": {
-"id": "usaf",
-"label": "United States Air Force"
-},
-"sources": [
-{
-"date": "1964-05-01",
-"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
-"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
-}
-]
-},
-{
 "by": {
 "id": "usaf",
 "label": "United States Air Force"
@@ -696,6 +663,60 @@
 ]
 },
 {
+"a": {
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"b": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"by": null,
+"claimTier": 1,
+"denialKind": null,
+"label": "The Air Force insisted on being the single channel for his inquiries",
+"note": "The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.",
+"of": null,
+"sources": [
+{
+"date": "1958-04-04",
+"name": "CIA reading room document 0005516043",
+"url": "https://archive.org/details/cia-readingroom-document-0005516043"
+}
+]
+},
+{
+"a": {
+"id": "nicap",
+"label": "National Investigations Committee on Aerial Phenomena (NICAP)"
+},
+"b": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"by": null,
+"claimTier": 1,
+"denialKind": null,
+"label": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
+"note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
+"of": null,
+"sources": [
+{
+"date": "1964-05-01",
+"name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+}
+]
+},
+{
+"a": {
+"id": "usaf",
+"label": "United States Air Force"
+},
+"b": {
+"id": "malmstrom-echo-flight-1967",
+"label": "Malmstrom AFB missile shutdowns, March 1967"
+},
 "by": {
 "id": "usaf",
 "label": "United States Air Force"
@@ -718,9 +739,7 @@
 }
 ],
 "desc": "The Air Force is the origin point of the entire American UFO record and of the entire American denial record. Established as an independent service on 18 September 1947 - eleven weeks after the Roswell press release issued by the 509th Bomb Group at Roswell Army Air Field - it inherited Project SIGN (1948), Project GRUDGE (1949) and Project BLUE BOOK (1952-1969) at Wright-Patterson Air Force Base, Ohio, the same installation that every retrieval account since 1947 identifies as the destination of recovered material. The National Archives records that from 1947 to 1969 'a total of 12,618 sightings were reported to Project BLUE BOOK. Of these 701 remain Unidentified', and that 'On December 17, 1969, the Secretary of the Air Force announced the termination of Project BLUE BOOK', a decision resting on the University of Colorado's 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it; the collection now sits at NARA as 94 rolls of 35mm microfilm, T-1206. The Air Force also produced the two modern Roswell rebuttals - 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994) and 'The Roswell Report: Case Closed' (1997) - which attributed the debris to Project MOGUL and the bodies to anthropomorphic test dummies dropped in the 1950s, an explanation that requires the witnesses to have misdated events by up to a decade. Wright-Patterson remains the home of the Air Force Research Laboratory and of the Foreign Technology Division lineage that became the National Air and Space Intelligence Center, and the Air Force retains the largest single share of the Department's special access program portfolio.",
-"domains": [
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -904,7 +923,11 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "United States Air Force",
+"sourceFiles": [
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -914,25 +937,28 @@
 ],
 "sub": "Military department; original custodian of the UFO record and of the Roswell material",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 29 of 1170, score 98). 28 connections, 7 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 27 of 1170, score 98). 28 connections, 7 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1947-09-18",
+"grade": "A",
 "id": "ag-tl-1947-usaf",
 "label": "US Air Force established",
 "precision": "day",
 "strand": "program",
-"text": "The Air Force becomes an independent service and inherits the flying disc problem, Wright Field, and the Air Materiel Command intelligence apparatus that would run SIGN, GRUDGE and BLUE BOOK.",
-"tier": "A"
+"text": "The Air Force becomes an independent service and inherits the flying disc problem, Wright Field, and the Air Materiel Command intelligence apparatus that would run SIGN, GRUDGE and BLUE BOOK."
 },
 {
+"claimTier": null,
 "date": "1969-12-17",
+"grade": "A",
 "id": "ag-tl-1969-bluebook",
 "label": "Secretary of the Air Force terminates Project BLUE BOOK",
 "precision": "day",
 "strand": "coverup",
-"text": "After 12,618 reported sightings of which 701 remain unidentified, the Air Force closes its public UFO channel on the strength of the Condon Report and a National Academy of Sciences review. No document terminating classified collection is ever produced.",
-"tier": "A"
+"text": "After 12,618 reported sightings of which 701 remain unidentified, the Air Force closes its public UFO channel on the strength of the Condon Report and a National Academy of Sciences review. No document terminating classified collection is ever produced."
 }
-]
+],
+"unverified": []
 }

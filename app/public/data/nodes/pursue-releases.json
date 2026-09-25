@@ -122,6 +122,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -1297,18 +1298,20 @@
 "deg": 40,
 "denials": [
 {
-"by": {
+"a": {
 "id": "aaro-declassification-info-paper-2025",
 "label": "AARO Declassification Information Paper (September 2025)"
 },
+"b": {
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "Process described as immovable was moved by cabinet direction in weeks",
 "note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
-"of": {
-"id": "pursue-releases",
-"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
-},
+"of": null,
 "sources": [
 {
 "date": "2025-09-01",
@@ -1323,6 +1326,14 @@
 ]
 },
 {
+"a": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
 "by": {
 "id": "aaro-fy2025-annual-report",
 "label": "AARO FY2025 Consolidated Annual Report on UAP"
@@ -1349,18 +1360,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "dodig-2021-000806-foia",
 "label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology"
 },
+"b": {
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "undirected",
 "label": "imagery released, methodology withheld",
 "note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
-"of": {
-"id": "pursue-releases",
-"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-06-16",
@@ -1375,18 +1388,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "pursue-releases",
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
 },
+"b": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Release programme runs parallel to, not in place of, AARO reporting",
 "note": "The Department of War states it 'will continue to conduct separate reporting on resolved UAP cases, as mandated by statute' - meaning the historical-records release and the contemporary programme reporting line remain separate. This structure allows maximal apparent transparency about the past while the present reporting is unchanged.",
-"of": {
-"id": "aaro",
-"label": "All-domain Anomaly Resolution Office (AARO)"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -1401,18 +1416,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "pursue-releases",
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
 },
+"b": {
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "sixteen gigabytes released, one promised report unpublished",
 "note": "The Department published roughly 2.45GB of documents and 13.4GB of video across five tranches between May and August 2026 while the congressionally-anticipated Volume II, promised within months in November 2024, remains unpublished. Volume is not the same as disclosure.",
-"of": {
-"id": "aaro-historical-record-vol2",
-"label": "AARO Historical Record Report, Volume II (unpublished)"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -1427,18 +1444,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "pursue-releases",
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
 },
+"b": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "undirected",
 "label": "Release volume without release quality",
 "note": "The Scientific Coalition for UAP Studies found Release #1 stripped 'critical metadata, such as time, date, location, range, altitude, speed,' recycled roughly 70 percent of the FBI files from the existing FOIA Vault, contained no material from DOE, DIA, NRO, NSA or CIA, and left a 1974-2015 gap.",
-"of": {
-"id": "dod",
-"label": "United States Department of Defense (secondary designation: Department of War)"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-05-13",
@@ -1449,14 +1468,7 @@
 }
 ],
 "desc": "PURSUE is the Department of War's UAP declassification release programme, published at war.gov/UFO and coordinated with ODNI. Its name is confirmed on AARO's own homepage, which links to the war.gov portal - the statutory UAP office pointing away from itself to a release channel it does not run. PURSUE stands on President Trump's 19-20 February 2026 Truth Social direction to Secretary of War Pete Hegseth and other relevant departments and agencies to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs. Five tranches were published between 8 May and 7 August 2026: R01 on 8 May (160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026, documents bundle 1.2GB, video bundle 1.3GB); R02 on 22 May (64 files including 51 sensor videos in a DOW-UAP-PR050 to PR099 series, 7 NASA crew audio files, 6 documents; video bundle 5.6GB); R03 on 12 June (72 files - 53 documents, 10 images, 6 videos, 3 audio - with FBI records dominating at 29 files); R04 on 10 July (documents 227MB, videos 1.4GB, spanning the 1940s to 2026); and R05 on 7 August (41 files - 16 videos, 22 documents, 3 images - spanning 1953 to 2026 per the portal, with content reaching back to a 1950 Montana case). Files carry structured identifiers - DOW-UAP-PRxxx for imagery, DOW-UAP-Dxxx for documents, ODNI-UAP-Dxxx and FBI-UAP-Dxxx for agency-originated material - which is the first time the US Government has issued UAP material under a single public numbering scheme. The Department's declared posture is total non-assessment: 'We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files.' That posture is the programme's defining feature and its defining defect. It released the imagery and withheld the physics: no coordinates, no sensor parameters, no altitude, no chain of custody. At least 100 of the 160 files in R01 carried redactions. PURSUE is nonetheless the strategic fact of 2026. The declassification AARO spent four years explaining was impossible was executed over the office's head, by the Secretary of War, at the President's direction, five weeks after a subcommittee chair wrote demanding AARO's video holdings.",
-"domains": [
-"_rs-archive-mirror",
-"congress-house",
-"media-structure",
-"releases-2023-2026",
-"uaptf-aaro",
-"w12-duplicate-collapse"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -1752,7 +1764,17 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "PURSUE",
+"sourceFiles": [
+"_rs-archive-mirror",
+"congress-house",
+"media-structure",
+"releases-2023-2026",
+"uaptf-aaro",
+"w12-duplicate-collapse",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -1820,121 +1842,135 @@
 "tierRationale": "Re-graded A on a global pass (rank 4 of 1170, score 161). 47 connections, 11 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-02-19",
+"grade": "A",
 "id": "ms-2026-directive",
 "label": "Trump directs UAP records release",
 "precision": "day",
 "strand": "oversight",
-"text": "A presidential directive instructs the Secretary of War and other agencies to identify and release government files connected to UAP and extraterrestrial life, creating PURSUE.",
-"tier": "A"
+"text": "A presidential directive instructs the Secretary of War and other agencies to identify and release government files connected to UAP and extraterrestrial life, creating PURSUE."
 },
 {
+"claimTier": null,
 "date": "2026-02-19",
+"grade": "A",
 "id": "ms-cv-2026-parallel",
 "label": "PURSUE runs parallel to statutory reporting",
 "precision": "day",
 "strand": "coverup",
-"text": "The Department of War states it will continue separate reporting on resolved UAP cases as mandated by statute. The historical-records release and the contemporary programme reporting line remain distinct - a structure permitting maximal apparent transparency about the past while present reporting is unchanged.",
-"tier": "A"
+"text": "The Department of War states it will continue separate reporting on resolved UAP cases as mandated by statute. The historical-records release and the contemporary programme reporting line remain distinct - a structure permitting maximal apparent transparency about the past while present reporting is unchanged."
 },
 {
+"claimTier": null,
 "date": "2026-02-19",
+"grade": "A",
 "id": "tl-trump-2026-02-19",
 "label": "Presidential direction to release UAP files",
 "precision": "day",
 "strand": "oversight",
-"text": "President Trump states he will direct the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life and related UAP matters.",
-"tier": "A"
+"text": "President Trump states he will direct the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life and related UAP matters."
 },
 {
+"claimTier": 2,
 "date": "2026-02-19",
+"grade": null,
 "id": "tl-trump-direction",
 "label": "Trump directs release of UAP files by Truth Social post",
 "precision": "day",
 "strand": "program",
-"text": "The originating instrument of PURSUE: a social-media direction to Secretary of War Hegseth and other departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs. No signed executive order has surfaced.",
-"tier": "2"
+"text": "The originating instrument of PURSUE: a social-media direction to Secretary of War Hegseth and other departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs. No signed executive order has surfaced."
 },
 {
+"claimTier": null,
 "date": "2026-02-20",
+"grade": "A",
 "id": "ch-2026-02-20",
 "label": "Trump orders a file release",
 "precision": "day",
 "strand": "program",
-"text": "The President pledges to direct Hegseth and relevant agencies to begin identifying and releasing government files on UAP and extraterrestrial life; PURSUE follows.",
-"tier": "A"
+"text": "The President pledges to direct Hegseth and relevant agencies to begin identifying and releasing government files on UAP and extraterrestrial life; PURSUE follows."
 },
 {
+"claimTier": null,
 "date": "2026-05-08",
+"grade": "A",
 "id": "av-2026-05-08",
 "label": "PURSUE launches",
 "precision": "day",
 "strand": "program",
-"text": "The Presidential Unsealing and Reporting System for UAP Encounters publishes its first tranche under a directive from President Trump, implemented by the Department of War with ODNI, FBI, State, NASA and AARO.",
-"tier": "A"
+"text": "The Presidential Unsealing and Reporting System for UAP Encounters publishes its first tranche under a directive from President Trump, implemented by the Department of War with ODNI, FBI, State, NASA and AARO."
 },
 {
+"claimTier": null,
 "date": "2026-05-08",
+"grade": "A",
 "id": "ch-2026-05-08",
 "label": "First PURSUE drop",
 "precision": "day",
 "strand": "program",
-"text": "About 160 declassified files are released through a war.gov portal, at least 100 redacted. Mellon: 'Data alone is not disclosure.'",
-"tier": "A"
+"text": "About 160 declassified files are released through a war.gov portal, at least 100 redacted. Mellon: 'Data alone is not disclosure.'"
 },
 {
+"claimTier": null,
 "date": "2026-05-08",
+"grade": "A",
 "id": "ms-2026-pursue1",
 "label": "PURSUE Release 01",
 "precision": "day",
 "strand": "oversight",
-"text": "The Department of War publishes the first tranche of declassified UAP records. The Sol Foundation issues a press statement the following day.",
-"tier": "A"
+"text": "The Department of War publishes the first tranche of declassified UAP records. The Sol Foundation issues a press statement the following day."
 },
 {
+"claimTier": null,
 "date": "2026-05-13",
+"grade": "A",
 "id": "av-2026-05-13",
 "label": "SCU finds PURSUE Release #1 deficient",
 "precision": "day",
 "strand": "oversight",
-"text": "The Scientific Coalition for UAP Studies reports that critical metadata was stripped, roughly 70 percent of the FBI files already existed in the FOIA Vault, 1974-2015 is missing, and DOE, DIA, NRO, NSA and CIA contributed nothing.",
-"tier": "A"
+"text": "The Scientific Coalition for UAP Studies reports that critical metadata was stripped, roughly 70 percent of the FBI files already existed in the FOIA Vault, 1974-2015 is missing, and DOE, DIA, NRO, NSA and CIA contributed nothing."
 },
 {
+"claimTier": null,
 "date": "2026-05-14",
+"grade": "A",
 "id": "rel-2026-05-14",
 "label": "'Data alone is not disclosure'",
 "precision": "day",
 "strand": "witness",
-"text": "Mellon concedes the scale of the holdings is itself a revelation and rejects context-free files; Gallaudet and Rojas identify the missing metadata; a War Department official confirms the Department will offer no assessment on any file.",
-"tier": "A"
+"text": "Mellon concedes the scale of the holdings is itself a revelation and rejects context-free files; Gallaudet and Rojas identify the missing metadata; a War Department official confirms the Department will offer no assessment on any file."
 },
 {
+"claimTier": 2,
 "date": "2026-05-14",
+"grade": null,
 "id": "tl-pursue-name",
 "label": "DefenseScoop reports the programme's name: PURSUE",
 "precision": "day",
 "strand": "program",
-"text": "DefenseScoop publishes the acronym - Presidential Unsealing and Reporting System for UAP Encounters - and the research community's reaction. Christopher Mellon: 'Data alone is not disclosure.' Ryan Graves: 'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
-"tier": "2"
+"text": "DefenseScoop publishes the acronym - Presidential Unsealing and Reporting System for UAP Encounters - and the research community's reaction. Christopher Mellon: 'Data alone is not disclosure.' Ryan Graves: 'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'"
 },
 {
+"claimTier": null,
 "date": "2026-06-14",
+"grade": "B",
 "id": "av-2026-06-14",
 "label": "Third PURSUE tranche",
 "precision": "day",
 "strand": "program",
-"text": "Cases include a 2008 disc over Harare International Airport, a 2024 Colorado Springs object assessed with low confidence, and a 2025-2026 northeastern orb assessed as sky lanterns.",
-"tier": "B"
+"text": "Cases include a 2008 disc over Harare International Airport, a 2024 Colorado Springs object assessed with low confidence, and a 2025-2026 northeastern orb assessed as sky lanterns."
 },
 {
+"claimTier": null,
 "date": "2026-08-07",
+"grade": "A",
 "id": "ms-2026-pursue5",
 "label": "PURSUE Release 05",
 "precision": "day",
 "strand": "oversight",
-"text": "The fifth tranche of declassified UAP records is published the same day as Gerb's MITRE investigation.",
-"tier": "A"
+"text": "The fifth tranche of declassified UAP records is published the same day as Gerb's MITRE investigation."
 }
-]
+],
+"unverified": []
 }

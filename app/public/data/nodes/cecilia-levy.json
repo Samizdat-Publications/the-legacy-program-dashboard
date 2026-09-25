@@ -111,9 +111,7 @@
 "dateStart": "2025-06-01",
 "deg": 3,
 "denials": [],
-"domains": [
-"w11-final-unattached"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -133,6 +131,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Cecilia Levy",
+"sourceFiles": [
+"w11-final-unattached"
+],
 "sources": [
 {
 "date": "2026-08-21",

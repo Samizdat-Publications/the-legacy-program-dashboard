@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -61,9 +62,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Sperry Rand is a narrow item and a clean one: a five-star officer chairing a defence prime while the alleged programme period runs. The company's own 1956 publication carries a signed statement attributed to 'General of the Army Douglas MacArthur, Chairman of the Board, Sperry Rand Corporation', and a New York Journal-American column of 17 January 1957, preserved in CIA records, reports that 'Gen. Douglas MacArthur, who will be 77 next week, is active as chairman of the board of Sperry Rand.'\n\nThat column is the more useful artefact, because it inventories the same pipeline in a single paragraph: Halsey at International Tel and Tel, Lucius Clay at Continental Can, Ira Eaker at Hughes Tool, Doolittle at Shell Oil and on the Air Force Scientific Advisory Board and the President's Foreign Intelligence Board, Ennis Whitehead at Northrop, J. B. Montgomery at General Electric. Thirteen further instances of the general-officer-to-prime-contractor movement, in one citable contemporaneous document held by CIA.\n\nTwo corrections travel with it. The company was not called Sperry Rand in 1986: it had been Sperry Corporation since 1979, and it was Sperry Corporation that Burroughs absorbed. SEC's own record shows CIK 0000746838 changing its conformed name from BURROUGHS CORP /DE/ on 4 December 1986, and Unisys carrying Sperry's obligations thereafter, including its sale of the Sperry Aerospace Group that same month. No UAP claim attaches to this node from any document opened for it; the only claim of that kind located is testimonial, and it is recorded below.",
-"domains": [
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -77,7 +76,11 @@
 "label": "Sperry Rand Corporation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Sperry Rand Corporation",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "2025-02-21",
@@ -102,6 +105,9 @@
 ],
 "sub": "Defence prime chaired by General of the Army Douglas MacArthur; absorbed into Unisys, 1986",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 853 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 855 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
+"timeline": [],
+"unverified": [
+"No UAP claim attaches to this node; nothing read supports one. dateStart is null: none of the three documents opened establishes a founding year, and 1955 would be an encyclopedia figure printed as a sourced one. dateEnd is the year, not 4 December 1986 -- that precise date is SEC's conformed-name change from BURROUGHS CORP /DE/ to Unisys, which is documented but is not the same event as Sperry's dissolution. The 1979 Sperry Rand to Sperry Corporation rename is carried at Tier 3 pending a primary document. This node carries no edge to an existing board node: Douglas MacArthur has no node here, and inventing an institutional link on the strength of the Considine column would be an inference, not a record."
+]
 }

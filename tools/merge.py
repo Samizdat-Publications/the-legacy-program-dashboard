@@ -62,18 +62,88 @@ def canonical_id(i):
     return i
 
 
-VALID_CLS = {"person", "institution", "program", "location", "domain",
-             "legislation", "document", "event"}
-VALID_EDGE = {"institutional", "geographic", "research", "temporal", "behavioral",
-              "programmatic", "investigative", "witness-chain", "custody",
-              "funding", "denial", "legislative"}
-VALID_TIER = {"A", "B", "C"}
-VALID_CLUSTER = {"legacy", "contractor", "ffrdc", "ic", "oversight", "witness",
-                 "research", "media", "other"}
-VALID_STRAND = {"program", "witness", "oversight", "coverup"}
-VALID_PRECISION = {"day", "month", "year", "ranged"}
+# --- the one vocabulary --------------------------------------------------------
+# schema/vocab.json holds every enumerated value this pipeline accepts (redesign
+# phase 3, decision 6). These sets used to be literals here while the app kept its
+# own copy of the edge types in app/src/vocab.ts; now both read one file.
+SCHEMA_DIR = os.path.join(ROOT, "schema")
+VOCAB = json.load(open(os.path.join(SCHEMA_DIR, "vocab.json"), encoding="utf-8"))
+RESEARCH_SCHEMA = json.load(open(os.path.join(SCHEMA_DIR, "research.schema.json"),
+                                 encoding="utf-8"))
+
+VALID_CLS = {c["id"] for c in VOCAB["classes"]}
+VALID_EDGE = {t["id"] for t in VOCAB["edgeTypes"]}
+VALID_TIER = set(VOCAB["nodeTiers"])
+VALID_CLUSTER = {c["id"] for c in VOCAB["clusters"]}
+VALID_STRAND = set(VOCAB["strands"])
+VALID_PRECISION = set(VOCAB["precisions"])
+VALID_STATUS = set(VOCAB["personStatus"])
+VALID_GRADE = set(VOCAB["timelineGrades"])
+VERB_MAP = {k: v for k, v in VOCAB["authoredVerbs"].items() if not k.startswith("_")}
+STRAND_ALIAS = {k: v for k, v in VOCAB["strandAliases"].items() if not k.startswith("_")}
+TIER_WORDS = VOCAB["claimTierWords"]
 
 rejects = []
+schema_warnings = []      # unknown fields: warnings in phase 3, not rejects
+display_normalised = []   # labels whose spaced em dash became " - " (decision 7)
+unadjudicated_denials = []
+unplaced_claims = []      # claims authored on an id that has no survivor to carry them
+unplaced_sources = []
+entity_info_keys = {"aliased": [], "dropped": [], "unplaced": []}
+
+
+# --- display labels ---------------------------------------------------------------
+# A spaced em dash in a DISPLAY label becomes " - ", and every change is listed in
+# tools/DISPLAY-NORMALISED.json. Labels only: claim texts, source strings and
+# timeline texts are never touched, because they may be verbatim quotations.
+SPACED_EM_DASH = re.compile(r"\s+\u2014\s+")
+
+
+def display_label(s, where, oid):
+    if not isinstance(s, str) or "\u2014" not in s:
+        return s
+    new = SPACED_EM_DASH.sub(" - ", s)
+    if new != s:
+        display_normalised.append({"where": where, "id": oid, "from": s, "to": new})
+    return new
+
+
+# --- research.schema.json -----------------------------------------------------------
+def _kind_schema(kind):
+    return RESEARCH_SCHEMA["$defs"][kind]
+
+
+def schema_fields(kind, rec, slug):
+    """Unknown fields are WARNINGS in this phase (tools/SCHEMA-WARNINGS.json).
+    Fields whose name starts with `_` are the research's own annotations."""
+    known = _kind_schema(kind)["properties"]
+    for f in rec:
+        if f.startswith("_") or f in known:
+            continue
+        schema_warnings.append({"kind": kind, "file": slug, "id": rec.get("id") or
+                                f"{rec.get('a') or rec.get('from')}->{rec.get('b') or rec.get('to')}",
+                                "field": f})
+
+
+def schema_enum(kind, field, value, rec, slug):
+    """An enumerated field with a value outside schema/vocab.json is a REJECT: the
+    value is recorded and not used. Absent (None) is not a value. Returns the value
+    to use, or None."""
+    if value is None:
+        return None
+    spec = _kind_schema(kind)["properties"][field]
+    allowed = set()
+    for ref in spec.get("x-vocab") or []:
+        v = VOCAB[ref]
+        if isinstance(v, dict):
+            allowed |= {k for k in v if not k.startswith("_")}
+        else:
+            allowed |= {x["id"] if isinstance(x, dict) else x for x in v}
+    allowed |= set(spec.get("x-also") or [])
+    if value in allowed:
+        return value
+    reject(f"{kind}.{field}", rec, f"{field} {value!r} is not in schema/vocab.json ({slug})")
+    return None
 
 
 def reject(kind, obj, why):
@@ -132,8 +202,8 @@ def norm_claim(c):
         reject("claim", c, "not an object")
         return None
     t = c.get("tier")
-    if isinstance(t, str):
-        t = {"documented": 1, "sworn": 2, "reported": 2, "alleged": 3}.get(t.lower(), 3)
+    if isinstance(t, str) and not t.strip().isdigit():
+        t = TIER_WORDS.get(t.lower(), 3)
     try:
         t = int(t)
     except (TypeError, ValueError):
@@ -220,14 +290,36 @@ def _union_lists(a, b, fields):
         a[f] = merged
 
 
+def claim_key(text):
+    """One claim's identity: its whole text, lower-cased, non-word characters out."""
+    return re.sub(r"\W+", "", (text or "").lower())
+
+
+def dedupe_claims(claims):
+    out, seen = [], set()
+    for c in claims:
+        k = claim_key(c["text"])
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(c)
+    return out
+
+
 def _merge_claims(a, b):
     # The whole normalised text, not its first 120 characters: two long claims
     # that share an opening (the same document title, the same lead-in) and
     # diverge in their conclusion are two claims, and the truncated key merged
     # them in silence.
-    seen = {re.sub(r"\W+", "", c["text"].lower()) for c in a.get("claims", [])}
+    #
+    # The same key on BOTH sides (phase 3). The seen-set was built from the full
+    # text while the incoming key was cut at 120 characters, so any claim longer
+    # than that never matched itself and shipped twice: four nodes carried a
+    # duplicate (anna-paulina-luna, eli-crane, hearing-2025-09-09,
+    # uap-nda-waiver-directive-2026).
+    seen = {claim_key(c["text"]) for c in a.get("claims", [])}
     for c in b.get("claims") or []:
-        k = re.sub(r"\W+", "", c["text"].lower())[:120]
+        k = claim_key(c["text"])
         if k not in seen:
             seen.add(k)
             a.setdefault("claims", []).append(c)
@@ -287,8 +379,27 @@ def _better_date(a, b, owner=None, field=None):
     return a
 
 
+def _record_person_date(a, b):
+    """People keep fill-if-falsy for `date`: the first file wins, as it always has
+    (phase 3 decision 4: the choice does not change). What changes is that two
+    files disagreeing about WHEN is recorded in DATE-CONFLICTS.json beside the
+    entity ones, instead of being settled by filename order in silence. Agreement
+    is judged exactly as _better_date judges it: one date a prefix of the other at
+    a component boundary is the same date at a coarser precision."""
+    x, y = a.get("date"), b.get("date")
+    if not x or not y or x == y:
+        return
+    x, y = str(x), str(y)
+    short, long = (x, y) if len(x) < len(y) else (y, x)
+    if long.startswith(short) and long[len(short)] == "-":
+        return
+    date_conflicts.append({"id": a.get("id"), "field": "date", "kept": a.get("date"),
+                           "ignored": b.get("date")})
+
+
 def merge_person(a, b):
     _better_label(a, b)
+    _record_person_date(a, b)
     for f in ("loc", "locId", "instId", "sub", "cluster", "status",
               "date", "age", "photoCredit", "unexplainedResidual"):
         if not a.get(f) and b.get(f):
@@ -321,8 +432,56 @@ def merge_entity(a, b):
             a[f] = v
     if len(str(b.get("desc") or "")) > len(str(a.get("desc") or "")):
         a["desc"] = b["desc"]
+    if not a.get("short") and b.get("short"):
+        a["short"] = b["short"]
     _merge_common(a, b)
+    # Unioned across files exactly as a person's are. Until phase 3 the entity
+    # record was built from a fixed field list that did not name these, so 22
+    # conflicts, 99 unverified notes and 18 open questions never reached the board.
+    _union_lists(a, b, ENTITY_LIST_FIELDS)
     return a
+
+
+# The list fields an entity carries and unions across research files.
+ENTITY_LIST_FIELDS = ("conflicts", "unverified", "openQuestions", "domains")
+# The fields that follow a collapsed node to its survivor.
+CASE_AGAINST_FIELDS = ("conflicts", "unverified", "openQuestions")
+
+
+def carry_collapsed(tgt, loser):
+    """Everything the survivor would show, from the collapsed record: its claims
+    (deduped by the one claim key), its sources (deduped as sources always are),
+    the case against, a person's affiliations, chronology and sequence chain, and
+    its provenance. Prose only where the survivor has none: the survivor's own
+    `desc` or `narrative` is never replaced by the collapsed copy's. Tier, axes,
+    dates, label and status stay the survivor's: those are settled on the
+    survivor (and by the regrade overlay), not re-opened by a collapse."""
+    tgt["claims"] = dedupe_claims(list(tgt.get("claims") or []) + list(loser.get("claims") or []))
+    tgt["sources"] = norm_sources((tgt.get("sources") or []) + (loser.get("sources") or []))
+    for f in ("desc", "narrative"):
+        if f in loser and loser.get(f) and not tgt.get(f):
+            tgt[f] = loser[f]
+    lists = [f for f in CASE_AGAINST_FIELDS + ("affiliations", "sequenceChain")
+             if loser.get(f)]
+    _union_lists(tgt, loser, lists)
+    if loser.get("chronology"):
+        seen = {(c["date"], c["event"][:60]) for c in tgt.get("chronology") or []}
+        for c in loser["chronology"]:
+            if (c["date"], c["event"][:60]) not in seen:
+                seen.add((c["date"], c["event"][:60]))
+                tgt.setdefault("chronology", []).append(c)
+        tgt["chronology"] = sorted(tgt["chronology"], key=lambda x: x["date"])
+    for d in loser.get("_domains") or []:
+        if d not in tgt.setdefault("_domains", []):
+            tgt["_domains"].append(d)
+
+
+def _as_list(v):
+    """`conflicts` and `unverified` are authored as a list, or once in a while as a
+    bare string. A string is one item, not a sequence of characters."""
+    if v is None or v == "":
+        return []
+    return list(v) if isinstance(v, list) else [v]
 
 
 def finalise_defaults(people, entities):
@@ -351,12 +510,82 @@ def finalise_defaults(people, entities):
         if not rec.get("status"):
             rec["status"] = "active"
             fixed["status"] += 1
+        # An overlay may set status directly, bypassing schema_enum at read time.
+        elif rec["status"] not in VALID_STATUS:
+            reject("person.status", rec, f"status {rec['status']!r} is not in schema/vocab.json (overlay)")
     print(f"  defaults applied after merge: cluster={fixed['cluster']} "
           f"status={fixed['status']} coerced={fixed['coerced']}", file=sys.stderr)
     if off_vocab_cluster:
         bad = sorted({o["value"] for o in off_vocab_cluster})
         print(f"  {len(off_vocab_cluster)} out-of-vocabulary cluster value(s) ignored, "
               f"from {bad}", file=sys.stderr)
+
+
+NOT_NODE_DOCUMENTS = {"_edge_tiers.json"}
+
+
+def _removed_aliases():
+    p = os.path.join(RESEARCH, "_removed.json")
+    if not os.path.exists(p):
+        return {}
+    return json.load(open(p, encoding="utf-8")).get("alias") or {}
+
+
+EI_ALIAS = _removed_aliases()
+
+
+def norm_timeline(t, slug):
+    """One timeline event, normalised. Returns a new dict, or None to drop it (with
+    a reject recorded).
+
+    STRAND. An authored strand outside the four lanes used to become `program` in
+    silence (50 events: disclosure, mechanism, research). The mapping is declared in
+    schema/vocab.json `strandAliases` now, the event keeps `authoredStrand`, and a
+    strand in neither list is a reject. Absent is not a value: it defaults to
+    `program` as before.
+
+    LABEL AND NODE. Thirteen events were authored with `event` and `ref` in place of
+    `label` and `node`, so they shipped with no label and joined no node page.
+
+    TIER (phase 3 decision 5). One field carried two vocabularies: an event GRADE
+    (A/B/C) and a claim TIER (1/2/3, as ints and as strings). They are two fields
+    now, `grade` and `claimTier`; `tier` is not shipped."""
+    t = dict(t)
+    s = t.get("strand")
+    if s is not None and s not in VALID_STRAND:
+        if s in STRAND_ALIAS:
+            t["authoredStrand"], t["strand"] = s, STRAND_ALIAS[s]
+        else:
+            reject("timeline.strand", t, f"strand {s!r} is not in schema/vocab.json ({slug})")
+            t["strand"] = None
+    if not t.get("strand"):
+        t["strand"] = "program"
+    p = t.get("precision")
+    if p is not None and p not in VALID_PRECISION:
+        reject("timeline.precision", t, f"precision {p!r} is not in schema/vocab.json ({slug})")
+    if t.get("precision") not in VALID_PRECISION:
+        t["precision"] = ("day" if re.match(r"^\d{4}-\d{2}-\d{2}$", str(t.get("date", "")))
+                          else "year")
+    if not t.get("label") and t.get("event"):
+        t["label"] = t.pop("event")
+    if not t.get("node") and t.get("ref"):
+        t["node"] = t.pop("ref")
+    if t.get("label"):
+        t["label"] = display_label(t["label"], "timeline.label", t.get("id") or t.get("date"))
+    if "tier" in t:
+        v = t.pop("tier")
+        if isinstance(v, str) and v.strip() in VALID_GRADE:
+            t["grade"] = v.strip()
+        elif str(v).strip() in ("1", "2", "3"):
+            t["claimTier"] = int(str(v).strip())
+        elif v is not None:
+            reject("timeline.tier", t, f"tier {v!r} is neither a grade nor a claim tier ({slug})")
+    return t
+
+# entityInfo keys that are a research file's own metadata, not a node: dropped, and
+# listed in tools/ENTITYINFO-KEYS.json. Keys starting with `_` are always metadata.
+ENTITY_INFO_META = {"domain", "title", "scope", "thesis", "methodNote", "throughLine",
+                    "counts"}
 
 
 def load():
@@ -367,6 +596,11 @@ def load():
     # the merge rules (which otherwise take the strongest tier and would undo a
     # deliberate demotion). _stubs lands second-to-last so real dossiers win over stubs.
     allf = glob.glob(os.path.join(RESEARCH, "*.json"))
+    # research/_edge_tiers.json is not a node document: it is a list of per-edge
+    # tier ADJUDICATIONS, read by load_edge_adjudications(). The glob used to take
+    # its 16 records as edges as well (unsourced, unnoted, typed by the decision
+    # they record), so it is named out here.
+    allf = [f for f in allf if os.path.basename(f) not in NOT_NODE_DOCUMENTS]
     if MERGE_SKIP:
         allf = [f for f in allf
                 if os.path.splitext(os.path.basename(f))[0] not in MERGE_SKIP]
@@ -389,21 +623,22 @@ def load():
             if not pid:
                 reject("person", p, "no id")
                 continue
+            schema_fields("person", p, slug)
             rec = {
                 "id": pid, "cls": "person",
-                "label": p.get("label") or p.get("name") or pid,
+                "label": display_label(p.get("label") or p.get("name") or pid, "node.label", pid),
                 # Defaulted LATE, in finalise_defaults(). "active" is truthy and
                 # merge_person fills `status` only when it is falsy, so defaulting
                 # it here let the first file to mention a person pin "active" for
                 # good: Harry Reid, Gerald Ford, Kenneth Arnold and Nathan Twining
                 # all shipped "active" while another file said "dead".
-                "status": p.get("status") or None,
+                "status": schema_enum("person", "status", p.get("status") or None, p, slug),
                 "date": p.get("date"), "age": p.get("age"),
                 "loc": p.get("loc"),
                 "locId": canonical_id(p.get("locId")), "instId": canonical_id(p.get("instId")),
                 "sub": p.get("sub"),
                 "cluster": _valid_cluster(p.get("cluster"), pid, slug),
-                "tier": p.get("tier") if p.get("tier") in VALID_TIER else "C",
+                "tier": schema_enum("person", "tier", p.get("tier"), p, slug) or "C",
                 "C": clamp_axis(p.get("C")), "A": clamp_axis(p.get("A")), "D": clamp_axis(p.get("D")),
                 "domains": p.get("domains") or [],
                 "narrative": p.get("narrative") or "",
@@ -432,7 +667,7 @@ def load():
                 for f in ("label", "sub", "cluster", "tier", "status", "loc",
                           "date", "narrative", "unexplainedResidual"):
                     if p.get(f) is not None:
-                        tgt[f] = p[f]
+                        tgt[f] = rec["label"] if f == "label" else p[f]
                 # membership test, not truthiness: an explicit null or [] is the
                 # correction in every case where the old value should simply go.
                 for f in ("locId", "instId", "domains", "affiliations", "sequenceChain"):
@@ -441,7 +676,7 @@ def load():
                 if p.get("sources"):
                     tgt["sources"] = norm_sources(list(p["sources"]) + tgt.get("sources", []))
                 if p.get("claims"):
-                    tgt["claims"] = norm_claims(p["claims"]) + tgt.get("claims", [])
+                    tgt["claims"] = dedupe_claims(norm_claims(p["claims"]) + tgt.get("claims", []))
             elif slug == "_remediation" and pid in people:
                 tgt = people[pid]
                 for f in ("tier", "tierRationale", "date", "coords"):
@@ -464,27 +699,38 @@ def load():
             if cls not in VALID_CLS or cls == "person":
                 reject("entity", e, f"bad cls {cls!r}")
                 continue
+            schema_fields("entity", e, slug)
             rec = {
-                "id": eid, "cls": cls, "label": e.get("label") or eid,
+                "id": eid, "cls": cls,
+                "label": display_label(e.get("label") or eid, "node.label", eid),
                 "cluster": _valid_cluster(e.get("cluster"), eid, slug),
                 "sub": e.get("sub"), "desc": e.get("desc") or None,
-                "tier": e.get("tier") if e.get("tier") in VALID_TIER else "C",
+                "tier": schema_enum("entity", "tier", e.get("tier"), e, slug) or "C",
                 "C": clamp_axis(e.get("C")), "A": clamp_axis(e.get("A")), "D": clamp_axis(e.get("D")),
                 "dateStart": e.get("dateStart"), "dateEnd": e.get("dateEnd"),
                 "coords": e.get("coords"), "locLabel": e.get("locLabel"),
                 "tierRationale": e.get("tierRationale") or "",
                 "claims": norm_claims(e.get("claims")),
                 "sources": norm_sources(e.get("sources")),
+                # Carried since phase 3 (decision 1). Before it these five were
+                # read by nothing and 63 records' worth of the case against a node
+                # (its conflicts and its unverified notes) never reached the board.
+                "short": display_label(e.get("short"), "node.short", eid) or None,
+                **{f: _as_list(e.get(f)) for f in ENTITY_LIST_FIELDS},
                 "_domains": [slug],
             }
             if slug == "_corrections" and eid in entities:
                 # Corrections are authoritative and may overwrite prose. They exist
                 # because a claim on this board turned out not to survive a check,
                 # and the record of that has to beat the merge's "longest wins" rule.
+                #
+                # dateStart/dateEnd joined this list in phase 3 (decision 1): a
+                # correction to WHEN is as authoritative as a correction to what,
+                # and it is the one field _better_date cannot settle by itself.
                 tgt = entities[eid]
-                for f in ("label", "desc", "sub", "cluster", "tier"):
+                for f in ("label", "desc", "sub", "cluster", "tier", "dateStart", "dateEnd"):
                     if e.get(f) is not None:
-                        tgt[f] = e[f]
+                        tgt[f] = rec["label"] if f == "label" else e[f]
                 tgt["sources"] = norm_sources(list(e.get("sources") or []) + tgt.get("sources", []))
                 # A correction may REMOVE claims it supersedes, but only by saying so:
                 #   "removeClaims": [{"contains": "...", "tier": 1, "why": "..."}]
@@ -503,7 +749,8 @@ def load():
                                                    "claim": c["text"][:110]})
                             return False
                     return True
-                tgt["claims"] = norm_claims(e.get("claims")) + [c for c in tgt.get("claims", []) if _kept(c)]
+                tgt["claims"] = dedupe_claims(norm_claims(e.get("claims")) +
+                                              [c for c in tgt.get("claims", []) if _kept(c)])
             elif slug == "_remediation" and eid in entities:
                 tgt = entities[eid]
                 for f in ("tier", "tierRationale", "coords", "locLabel"):
@@ -521,17 +768,46 @@ def load():
             if not a_ or not b_:
                 reject("edge", x, "missing endpoint")
                 continue
+            schema_fields("edge", x, slug)
+            # An authored verb outside the twelve types is MAPPED, by the table in
+            # schema/vocab.json, and the edge keeps the verb. Until phase 3 every
+            # such verb (89 records, 35 verbs) became `programmatic` in silence. A
+            # verb the table does not name is a reject, never a coercion.
+            verb = None
             if t not in VALID_EDGE:
-                t = "programmatic"
+                m = VERB_MAP.get(t)
+                if not m:
+                    reject("edge", x, f"edge type {t!r} is neither one of the twelve types "
+                                      f"nor in schema/vocab.json authoredVerbs ({slug})")
+                    continue
+                verb, t = t, m["type"]
+                if m.get("swap"):
+                    a_, b_ = b_, a_
             key, rkey = f"{a_}|{b_}|{t}", f"{b_}|{a_}|{t}"
             if rkey in edges:
                 key = rkey
-            ct = x.get("claimTier")
-            ct = ct if ct in (1, 2, 3) else 3
-            rec = {"a": a_, "b": b_, "type": t, "label": x.get("label") or "",
+            # Singular `tier` and `source` are aliases (phase 3 decision 2), not
+            # noise: 62 records carry them, 15 of those URLs are on no twin, and
+            # merge read only `claimTier` and `sources`. The strongest tier wins,
+            # exactly as between duplicate edges, and the caps below still apply.
+            tiers = [v for v in (x.get("claimTier"), x.get("tier")) if v in (1, 2, 3)]
+            ct = min(tiers) if tiers else 3
+            srcs = list(x.get("sources") or [])
+            if x.get("source"):
+                srcs += x["source"] if isinstance(x["source"], list) else [x["source"]]
+            rec = {"a": a_, "b": b_, "type": t,
+                   "label": display_label(x.get("label") or "", "edge.label", f"{a_}->{b_}"),
                    "claimTier": ct, "dateStart": x.get("dateStart"), "dateEnd": x.get("dateEnd"),
                    "note": x.get("note") or x.get("summary") or "",
-                   "sources": norm_sources(x.get("sources")), "_domains": [slug]}
+                   "sources": norm_sources(srcs), "_domains": [slug]}
+            if verb:
+                rec["authoredVerb"] = verb
+            # A research file may carry its own denial verdict (one does). The
+            # adjudication file, applied in emit(), still has the last word.
+            if t == "denial":
+                for f in ("denialKind", "denier"):
+                    if x.get(f):
+                        rec[f] = canonical_id(x[f]) if f == "denier" else x[f]
             if key in edges:
                 old = edges[key]
                 if len(rec["note"]) > len(old["note"]):
@@ -540,6 +816,9 @@ def load():
                     old["label"] = rec["label"]
                 old["claimTier"] = min(old["claimTier"], rec["claimTier"])
                 old["sources"] = norm_sources(old["sources"] + rec["sources"])
+                for f in ("authoredVerb", "denialKind", "denier"):
+                    if rec.get(f) and not old.get(f):
+                        old[f] = rec[f]
                 for d in rec["_domains"]:
                     if d not in old["_domains"]:
                         old["_domains"].append(d)
@@ -548,11 +827,10 @@ def load():
 
         seen_tl = {(v.get("date"), (v.get("label") or "")[:50]) for v in timeline.values()}
         for t in doc.get("timeline") or []:
-            if t.get("strand") not in VALID_STRAND:
-                t["strand"] = "program"
-            if t.get("precision") not in VALID_PRECISION:
-                t["precision"] = ("day" if re.match(r"^\d{4}-\d{2}-\d{2}$", str(t.get("date", "")))
-                                  else "year")
+            schema_fields("timeline", t, slug)
+            t = norm_timeline(t, slug)
+            if t is None:
+                continue
             key = (t.get("date"), (t.get("label") or "")[:50])
             if key in seen_tl:
                 continue
@@ -566,7 +844,17 @@ def load():
             timeline[tid] = t
 
         for k, v in (doc.get("entityInfo") or {}).items():
+            # A research file's own metadata written into entityInfo (its domain,
+            # title, scope, a count table) is not about a node. Dropped, listed.
+            if k.startswith("_") or k in ENTITY_INFO_META:
+                entity_info_keys["dropped"].append({"file": slug, "key": k})
+                continue
             k = canonical_id(k)
+            # A collapsed node's entityInfo follows it to the survivor, as its
+            # edges and timeline events do (phase 3 decision 9).
+            if k in EI_ALIAS:
+                entity_info_keys["aliased"].append({"file": slug, "key": k, "to": EI_ALIAS[k]})
+                k = EI_ALIAS[k]
             # tolerate agents that wrote entityInfo as {id: "desc string"}
             if isinstance(v, str):
                 v = {"desc": v, "sources": []}
@@ -595,6 +883,37 @@ def load():
     if os.path.exists(rmpath):
         rm = set(json.load(open(rmpath, encoding="utf-8")).get("remove") or [])
         gone = [i for i in rm if i in people or i in entities]
+        # What was authored on a collapsed node goes to its survivor, like its
+        # edges. Until phase 3 only the edges and timeline followed a collapse, so
+        # 37 claims (all of `setka`'s Soviet programme record, five DoDD 5205.07
+        # quotations on `dod-sapco-arch`, the DIRD list on `dird-collection`) and
+        # their sources were deleted with the id they were written under.
+        # carry_collapsed() says exactly what moves. A deletion with no alias, and
+        # a collapse into a `d-*` domain node (a topic, not the thing the claim is
+        # about), move nothing: those claims are listed in
+        # tools/UNPLACED-CLAIMS.json rather than placed by guess.
+        _alias = json.load(open(rmpath, encoding="utf-8")).get("alias") or {}
+        for i in sorted(gone):
+            loser = people.get(i) or entities.get(i)
+            to = _alias.get(i)
+            while to in _alias and to not in people and to not in entities:
+                to = _alias[to]
+            tgt = people.get(to) or entities.get(to)
+            if not loser:
+                continue
+            if tgt is None or str(to).startswith("d-"):
+                why = ("removed by research/_removed.json with no alias" if not to
+                       else f"collapsed into {to}, which is not on the board" if tgt is None
+                       else f"collapsed into the domain node {to}: a topic, not the thing "
+                            f"the claim is about, so nothing is placed by guess")
+                for c in loser.get("claims") or []:
+                    unplaced_claims.append({"id": i, "to": to, "why": why, "tier": c["tier"],
+                                            "claim": c["text"], "source": c.get("source")})
+                for sc in loser.get("sources") or []:
+                    unplaced_sources.append({"id": i, "to": to, "why": why,
+                                             "url": sc.get("url"), "name": sc.get("name")})
+                continue
+            carry_collapsed(tgt, loser)
         for i in gone:
             people.pop(i, None)
             entities.pop(i, None)
@@ -642,6 +961,9 @@ def load():
                     old_e["label"] = e["label"]
                 old_e["claimTier"] = min(old_e["claimTier"], e["claimTier"])
                 old_e["sources"] = norm_sources(old_e["sources"] + e["sources"])
+                for f in ("authoredVerb", "denialKind", "denier"):
+                    if e.get(f) and not old_e.get(f):
+                        old_e[f] = e[f]
                 for dm in e["_domains"]:
                     if dm not in old_e["_domains"]:
                         old_e["_domains"].append(dm)
@@ -667,8 +989,12 @@ def load():
         # the gate reported ok. The gate now walks these fields too; this sweep is
         # what keeps them clean, and an alias re-points rather than orphans exactly
         # as it does for the timeline above.
+        # A denier named by a research file follows a collapse like any other id.
+        for e in edges.values():
+            if e.get("denier") in alias:
+                e["denier"] = alias[e["denier"]]
         swept = 0
-        for p_ in people.values():
+        for p_ in list(people.values()) + list(entities.values()):
             for f in ("locId", "instId"):
                 if p_.get(f) in rm:
                     p_[f] = alias.get(p_[f])
@@ -689,6 +1015,14 @@ def load():
                   f"that touched them", file=sys.stderr)
 
     finalise_defaults(people, entities)
+
+    # entityInfo keyed on no node. Not dropped: several are sourced prose (the
+    # black-budget essays in w2-black-budget.json) that no node carries yet, and
+    # they stay on the board file where they always were. Listed, so that a key
+    # which is really a typo of a node id is visible rather than inert.
+    for k in entity_info:
+        if k not in people and k not in entities:
+            entity_info_keys["unplaced"].append(k)
 
     return people, entities, edges, timeline, entity_info, gaps
 
@@ -836,6 +1170,30 @@ def hoist_claim_urls(people, entities):
     return hoisted
 
 
+def tier1_cap_reason(c, urls):
+    """Why a Tier 1 claim may not stay Tier 1, or None. `urls` is every URL the
+    claim's owner stands on (a node's sources; a dossier's claim sources).
+
+    One function, because the same rule now reaches two kinds of object: node
+    claims here, and entity-dossier claims where build_l0.py loads them (phase 3
+    decision 5). Before that the dossiers shipped 40 Tier 1 claims cited to a
+    secondary source and 22 cited to AARO/DoD for an outside fact."""
+    if c.get("tier") != 1:
+        return None
+    src = c.get("source") or ""
+    if SECONDARY_PAT.search(src):
+        return "cited to a secondary/encyclopedic source"
+    if src.strip().lower().startswith("no attributed source"):
+        return "no attributed source"
+    if not PRIMARY_URL_PAT.search(urls) and SECONDARY_PAT.search(urls):
+        return "node carries no primary-record URL"
+    if (INTERESTED_PARTY_PAT.search(src)
+            and not ATTRIBUTION_PAT.search(c.get("text") or "")):
+        return ("sourced to an interested party (AARO/DoD) asserting an external "
+                "fact; primary record of the statement, not of the fact")
+    return None
+
+
 def remediate_tiers(people, entities):
     """Demote Tier 1 claims that no primary record actually backs.
 
@@ -847,22 +1205,8 @@ def remediate_tiers(people, entities):
     """
     for n in list(people.values()) + list(entities.values()):
         urls = " ".join(s.get("url", "") for s in n.get("sources", []))
-        has_primary = bool(PRIMARY_URL_PAT.search(urls))
         for c in n.get("claims", []):
-            if c["tier"] != 1:
-                continue
-            src = c.get("source") or ""
-            why = None
-            if SECONDARY_PAT.search(src):
-                why = "cited to a secondary/encyclopedic source"
-            elif src.strip().lower().startswith("no attributed source"):
-                why = "no attributed source"
-            elif not has_primary and SECONDARY_PAT.search(urls):
-                why = "node carries no primary-record URL"
-            elif (INTERESTED_PARTY_PAT.search(src)
-                  and not ATTRIBUTION_PAT.search(c.get("text") or "")):
-                why = ("sourced to an interested party (AARO/DoD) asserting an external "
-                       "fact; primary record of the statement, not of the fact")
+            why = tier1_cap_reason(c, urls)
             if why:
                 c["tier"] = 2
                 if "needs primary" not in c["source"].lower():
@@ -1192,7 +1536,14 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
     adj_path = os.path.join(ROOT, "data", "denial-adjudication.json")
     if os.path.exists(adj_path):
         with open(adj_path, encoding="utf-8") as fh:
-            adj = (json.load(fh) or {}).get("edges") or {}
+            raw_adj = (json.load(fh) or {}).get("edges") or {}
+        # Verdict keys follow a collapse exactly as edges do (phase 3 decision 4).
+        # Three verdicts were keyed on collapsed ids (cia-haines-1997 twice,
+        # sue-gough) and matched nothing, which only ever printed a warning.
+        adj = {}
+        for k, r in raw_adj.items():
+            ends = [EI_ALIAS.get(x, x) for x in k.split("|")]
+            adj["|".join(ends)] = r
         matched = set()
         for e in edges.values():
             if e["type"] != "denial":
@@ -1206,10 +1557,31 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
                 e["denier"] = r["denier"]
         stray = [k for k in adj if k not in matched
                  and "|".join(reversed(k.split("|"))) not in matched]
-        if stray:
-            print(f"  !! {len(stray)} denial verdict(s) match no edge on the board: "
-                  f"{stray[:4]} — the research moved and the adjudication did not follow",
-                  file=sys.stderr)
+        if stray and not MERGE_JSON_OUT:
+            # A hard error since phase 3. The pristine merge regrade.py runs is
+            # exempt: it omits the overlay on purpose, and the real merge that
+            # follows it is where this is enforced.
+            sys.exit(f"merge.py: {len(stray)} denial verdict(s) in data/denial-adjudication.json "
+                     f"match no edge on the board, even through research/_removed.json's "
+                     f"aliases: {stray[:6]}. The research moved and the adjudication did "
+                     f"not follow; re-key or remove the verdict.")
+
+    # Every denial edge the adjudication does not reach, listed. A report in phase
+    # 3; the check that reads it fails once phase R has cleared them.
+    for e in edges.values():
+        if e["type"] == "denial" and not e.get("denialKind"):
+            unadjudicated_denials.append({"a": e["a"], "b": e["b"], "label": e.get("label") or "",
+                                          "authoredVerb": e.get("authoredVerb")})
+    unadjudicated_denials.sort(key=lambda r: (r["a"], r["b"]))
+
+    # The authored chip shorts in data/l0-shorts.json are display labels too. The
+    # three stages that read that register (build_l0.py, build_l0_layout.mjs,
+    # build_app_data.py) apply the same rule; the record of it is kept here with
+    # the rest, so tools/DISPLAY-NORMALISED.json is the one list.
+    sp = os.path.join(ROOT, "data", "l0-shorts.json")
+    if os.path.exists(sp):
+        for k, v in sorted(((json.load(open(sp, encoding="utf-8")) or {}).get("shorts") or {}).items()):
+            display_label(v, "l0-shorts.short", k)
 
     os.makedirs(OUT, exist_ok=True)
     from datetime import date as _d
@@ -1240,7 +1612,13 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
                     ("GAPS.json", gaps), ("DEMOTIONS.json", demotions),
                     ("EDGE-DEMOTIONS.json", edge_demotions),
                     ("REMOVED-CLAIMS.json", removed_claims),
-                    ("DATE-CONFLICTS.json", date_conflicts)):
+                    ("DATE-CONFLICTS.json", date_conflicts),
+                    ("UNADJUDICATED-DENIALS.json", unadjudicated_denials),
+                    ("UNPLACED-CLAIMS.json", {"claims": unplaced_claims,
+                                              "sources": unplaced_sources}),
+                    ("DISPLAY-NORMALISED.json", display_normalised),
+                    ("SCHEMA-WARNINGS.json", schema_warnings),
+                    ("ENTITYINFO-KEYS.json", entity_info_keys)):
         with open(os.path.join(OUT, fn), "w", encoding="utf-8") as f:
             json.dump(obj, f, indent=1, ensure_ascii=False)
     return today

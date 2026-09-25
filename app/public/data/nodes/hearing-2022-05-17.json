@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The House Permanent Select Committee on Intelligence, Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation, meeting at 9:00 a.m. in Room HVC-210 of the Capitol Visitor Center with Rep. Andre Carson presiding, took testimony from Under Secretary of Defense for Intelligence and Security Ronald S. Moultrie and Deputy Director of Naval Intelligence Scott W. Bray. It is the first open congressional hearing on unidentified aerial phenomena in more than fifty years, and it is the hearing from which the 2023, 2024 and 2025 Oversight sequence descends. The board carried a node for every other congressional UAP hearing of the modern era and not this one, which is the gap this node closes.",
-"domains": [
-"witnesses-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -109,7 +108,11 @@
 "label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
+"sourceFiles": [
+"witnesses-2026-09-18"
+],
 "sources": [
 {
 "date": "2022-05-17",
@@ -122,13 +125,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 476 of 1170, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-05-17",
+"grade": "A",
 "id": "tl-2022-05-17-hpsci-uap-hearing",
 "label": "First open congressional UAP hearing in over fifty years",
 "precision": "day",
 "strand": "oversight",
-"text": "The House Permanent Select Committee on Intelligence, Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation met at 9:00 a.m. in Room HVC-210 with Rep. Andre Carson presiding, taking testimony from Under Secretary of Defense for Intelligence and Security Ronald S. Moultrie and Deputy Director of Naval Intelligence Scott W. Bray. Carson opened by saying the subcommittee would 'bring that organization out of the shadows', referring to AOIMSG.",
-"tier": "A"
+"text": "The House Permanent Select Committee on Intelligence, Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation met at 9:00 a.m. in Room HVC-210 with Rep. Andre Carson presiding, taking testimony from Under Secretary of Defense for Intelligence and Security Ronald S. Moultrie and Deputy Director of Naval Intelligence Scott W. Bray. Carson opened by saying the subcommittee would 'bring that organization out of the shadows', referring to AOIMSG."
 }
-]
+],
+"unverified": []
 }

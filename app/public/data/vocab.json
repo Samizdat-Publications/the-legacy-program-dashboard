@@ -1,0 +1,313 @@
+{
+ "authoredVerbs": {
+  "_what": "Every verb a research file wrote in an edge's `type` (or `rel`) that is not one of the twelve types, mapped explicitly to one of them. The edge keeps the verb as `authoredVerb` for phase 7. A verb not in this map is a REJECT in merge.py, never a coercion. `swap: true` turns the edge round so that `a` is the actor the type expects.",
+  "amends": {
+   "type": "legislative"
+  },
+  "authored": {
+   "type": "research"
+  },
+  "authorizes": {
+   "type": "legislative"
+  },
+  "authorship": {
+   "type": "research"
+  },
+  "codifies": {
+   "type": "legislative"
+  },
+  "conditions-funding-on": {
+   "type": "funding"
+  },
+  "contains": {
+   "type": "institutional"
+  },
+  "contracted": {
+   "type": "funding"
+  },
+  "creates": {
+   "type": "legislative"
+  },
+  "defines": {
+   "type": "legislative"
+  },
+  "defines-audience": {
+   "type": "legislative"
+  },
+  "denied-by": {
+   "swap": true,
+   "type": "denial",
+   "why": "'X denied-by Y' names the denier on `b`; the denial type expects the denier on `a`. It joins the unadjudicated list until data/denial-adjudication.json carries a verdict for it."
+  },
+  "establishes-role-of": {
+   "type": "legislative"
+  },
+  "excludes": {
+   "type": "legislative"
+  },
+  "falls-outside": {
+   "type": "legislative"
+  },
+  "held-by": {
+   "type": "custody"
+  },
+  "implements": {
+   "type": "legislative"
+  },
+  "incorporates-by-reference": {
+   "type": "legislative"
+  },
+  "instrument": {
+   "type": "funding",
+   "why": "moved from the plan's default (legislative): its one edge is aawsap -> aawsap-contract-hhm402-08-c-0072, labelled 'prime contract'. A contract is money, which is what `funding` means ('who paid, contracted or was paid')."
+  },
+  "maintains": {
+   "type": "institutional"
+  },
+  "managed": {
+   "type": "institutional"
+  },
+  "oversight": {
+   "type": "legislative"
+  },
+  "produced": {
+   "type": "programmatic"
+  },
+  "produces": {
+   "type": "programmatic"
+  },
+  "prompted": {
+   "type": "temporal"
+  },
+  "regulates-transfer-into": {
+   "type": "legislative"
+  },
+  "reissues-and-cancels": {
+   "type": "legislative"
+  },
+  "removes-oversight-by": {
+   "type": "legislative"
+  },
+  "same-as": {
+   "type": "institutional"
+  },
+  "sponsored": {
+   "type": "funding"
+  },
+  "structural": {
+   "type": "legislative",
+   "why": "moved from the plan's default (programmatic): its one edge is uapda-sec-9010-eminent-domain -> uapda-2023, labelled 'section of'. Both ends are legislation and the relation is a statute and its own section, which is what `legislative` covers; nothing ran or produced anything."
+  },
+  "subordinate-to": {
+   "type": "institutional"
+  },
+  "subsidiary-of": {
+   "type": "institutional"
+  },
+  "testimony": {
+   "type": "witness-chain"
+  },
+  "transfers-records-to": {
+   "type": "institutional"
+  }
+ },
+ "claimTierWords": {
+  "alleged": 3,
+  "documented": 1,
+  "reported": 2,
+  "sworn": 2
+ },
+ "classes": [
+  {
+   "colour": "#c9d2dd",
+   "id": "person"
+  },
+  {
+   "colour": "#a795e8",
+   "id": "institution"
+  },
+  {
+   "colour": "#66d69f",
+   "id": "program"
+  },
+  {
+   "colour": "#7fb4e8",
+   "id": "location"
+  },
+  {
+   "colour": "#e08ad0",
+   "id": "domain"
+  },
+  {
+   "colour": "#e08ad0",
+   "id": "legislation"
+  },
+  {
+   "colour": "#f0d264",
+   "id": "document"
+  },
+  {
+   "colour": "#7fb4e8",
+   "id": "event"
+  }
+ ],
+ "clusters": [
+  {
+   "id": "legacy",
+   "label": "Legacy record"
+  },
+  {
+   "id": "contractor",
+   "label": "Contractor"
+  },
+  {
+   "id": "ffrdc",
+   "label": "FFRDC"
+  },
+  {
+   "id": "ic",
+   "label": "Intelligence community"
+  },
+  {
+   "id": "oversight",
+   "label": "Oversight"
+  },
+  {
+   "id": "witness",
+   "label": "Witness"
+  },
+  {
+   "id": "research",
+   "label": "Research"
+  },
+  {
+   "id": "media",
+   "label": "Media"
+  },
+  {
+   "id": "other",
+   "label": "Other"
+  }
+ ],
+ "edgeTypes": [
+  {
+   "blurb": "who is said to hold material, or to have handed it on",
+   "id": "custody",
+   "label": "Custody",
+   "layer": "backbone"
+  },
+  {
+   "blurb": "who paid, contracted or was paid",
+   "id": "funding",
+   "label": "Money",
+   "layer": "backbone"
+  },
+  {
+   "blurb": "what ran, produced, succeeded or absorbed what",
+   "id": "programmatic",
+   "label": "Programme links",
+   "layer": "backbone"
+  },
+  {
+   "blurb": "posts, roles, memberships and parent bodies",
+   "id": "institutional",
+   "label": "Institutional ties",
+   "layer": "backbone"
+  },
+  {
+   "blurb": "what created, governs, amended or must report to what",
+   "id": "legislative",
+   "label": "Law and oversight",
+   "layer": "backbone"
+  },
+  {
+   "blurb": "who studied, wrote or co-wrote what",
+   "id": "research",
+   "label": "Research and authorship",
+   "layer": "backbone"
+  },
+  {
+   "blurb": "who examined, analysed or looked into what",
+   "id": "investigative",
+   "label": "Investigations",
+   "layer": "assertion"
+  },
+  {
+   "blurb": "who said what about whom, and how it reached the record",
+   "id": "witness-chain",
+   "label": "Testimony",
+   "layer": "assertion"
+  },
+  {
+   "blurb": "actions and moves, including career moves and reprisal",
+   "id": "behavioral",
+   "label": "Conduct",
+   "layer": "assertion"
+  },
+  {
+   "blurb": "dated, attributable statements that something is not so",
+   "id": "denial",
+   "label": "Denials",
+   "layer": "assertion"
+  },
+  {
+   "blurb": "what followed, answered or was caused by what",
+   "id": "temporal",
+   "label": "Sequence in time",
+   "layer": "context"
+  },
+  {
+   "blurb": "where something was, happened or was based",
+   "id": "geographic",
+   "label": "Place",
+   "layer": "context"
+  }
+ ],
+ "generated": "2026-09-25",
+ "layerHeads": {
+  "assertion": "Who says so, and who denies it",
+  "backbone": "What the record says it is and did",
+  "context": "Time and place"
+ },
+ "noSentence": "no sentence recorded for this link",
+ "nodeTiers": [
+  "A",
+  "B",
+  "C"
+ ],
+ "personStatus": [
+  "active",
+  "dead",
+  "former",
+  "alive",
+  "unknown",
+  "deceased",
+  "missing",
+  "fabricated",
+  "resolved"
+ ],
+ "precisions": [
+  "day",
+  "month",
+  "year",
+  "ranged"
+ ],
+ "source": "67fab325f977",
+ "strandAliases": {
+  "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",
+  "disclosure": "program",
+  "mechanism": "program",
+  "research": "program"
+ },
+ "strands": [
+  "program",
+  "witness",
+  "oversight",
+  "coverup"
+ ],
+ "timelineGrades": [
+  "A",
+  "B",
+  "C"
+ ]
+}

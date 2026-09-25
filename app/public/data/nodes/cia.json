@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -1030,18 +1031,20 @@
 "deg": 43,
 "denials": [
 {
-"by": {
+"a": {
 "id": "church-committee",
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
 },
+"b": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Named by the committee as having limited its access to the full record",
 "note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege.",
-"of": {
-"id": "cia",
-"label": "Central Intelligence Agency"
-},
+"of": null,
 "sources": [
 {
 "date": "1976-04-26",
@@ -1051,27 +1054,14 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "cia",
 "label": "Central Intelligence Agency"
 },
-"claimTier": 2,
-"denialKind": "directed",
-"label": "CIA alleged to have terminated the programme",
-"note": "Gerb's account has the CIA shutting Kona Blue down. Recorded here as an alleged act of the concealment apparatus rather than as an adjudicated fact.",
-"of": {
-"id": "kona-blue",
-"label": "KONA BLUE"
+"b": {
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
 },
-"sources": [
-{
-"date": "2026-08-04",
-"name": "NewsNation Reality Check - 'Inside Kona Blue'",
-"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
-}
-]
-},
-{
 "by": {
 "id": "cia",
 "label": "Central Intelligence Agency"
@@ -1098,6 +1088,14 @@
 ]
 },
 {
+"a": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "cia",
 "label": "Central Intelligence Agency"
@@ -1119,6 +1117,89 @@
 ]
 },
 {
+"a": {
+"id": "donald-keyhoe",
+"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
+},
+"b": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"by": null,
+"claimTier": 1,
+"denialKind": null,
+"label": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
+"note": "A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.",
+"of": null,
+"sources": [
+{
+"date": "1958-04-04",
+"name": "CIA reading room document 0005516043",
+"url": "https://archive.org/details/cia-readingroom-document-0005516043"
+}
+]
+},
+{
+"a": {
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"b": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"by": null,
+"claimTier": 1,
+"denialKind": "association",
+"label": "CIA's own published history concedes the Air Force made deceptive public statements",
+"note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
+"of": null,
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+}
+]
+},
+{
+"a": {
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"by": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "CIA alleged to have terminated the programme",
+"note": "Gerb's account has the CIA shutting Kona Blue down. Recorded here as an alleged act of the concealment apparatus rather than as an adjudicated fact.",
+"of": {
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+]
+},
+{
+"a": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
 "by": {
 "id": "cia",
 "label": "Central Intelligence Agency"
@@ -1143,54 +1224,10 @@
 "url": "https://www.archives.gov/research/topics/uaps/rg-615"
 }
 ]
-},
-{
-"by": {
-"id": "donald-keyhoe",
-"label": "Maj. Donald E. Keyhoe, USMC (Ret.)"
-},
-"claimTier": 1,
-"denialKind": null,
-"label": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
-"note": "A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.",
-"of": {
-"id": "cia",
-"label": "Central Intelligence Agency"
-},
-"sources": [
-{
-"date": "1958-04-04",
-"name": "CIA reading room document 0005516043",
-"url": "https://archive.org/details/cia-readingroom-document-0005516043"
-}
-]
-},
-{
-"by": {
-"id": "haines-cia-history",
-"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
-},
-"claimTier": 1,
-"denialKind": null,
-"label": "CIA's own published history concedes the Air Force made deceptive public statements",
-"note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
-"of": {
-"id": "cia",
-"label": "Central Intelligence Agency"
-},
-"sources": [
-{
-"date": "1997-01-01",
-"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
-"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
-}
-]
 }
 ],
 "desc": "The CIA was created by the National Security Act of 1947 - signed on 26 July 1947, seventeen days after the Roswell debris story was killed by the Fort Worth weather-balloon photographs - and it is the agency whose documented conduct most nearly matches the pattern this board is built to test. The Agency's own historian, Gerald K. Haines, published 'CIA's Role in the Study of UFOs, 1947-1990' in Studies in Intelligence in 1997; the article is an eighteen-page institutional admission that the Agency ran a UFO effort out of the Office of Scientific Intelligence, convened the Robertson Panel in January 1953 under H. P. Robertson, and adopted a policy of public debunking coupled with the surveillance of civilian UFO organisations. The Robertson Panel's declassified recommendations - that the phenomenon be stripped of its 'aura of mystery' through a programme of 'education' and 'debunking', and that groups such as the Aerial Phenomena Research Organization be monitored 'because of their potentially great influence on mass thinking' - are the founding charter of American UFO information management. Haines additionally records the Agency's later position that U-2 and OXCART overflights accounted for a large share of the UFO reports of the late 1950s and 1960s, a claim that simultaneously excuses the deception and concedes that the Agency knowingly allowed false explanations to stand. The CIA maintains a public FOIA collection, 'UFOs: Fact or Fiction?', which it characterises as containing 'CIA information on this subject from the 1940s through the early 1990s', consisting mostly of 'cables reporting unsubstantiated UFO sightings in the foreign press and intra-Agency memos about how the Agency handled public inquiries'. That framing is itself a claim: it asserts that the Agency's UFO holdings are administrative rather than substantive, and it is the assertion that every subsequent FOIA fight has contested.",
-"domains": [
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -1495,7 +1532,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Central Intelligence Agency",
+"sourceFiles": [
+"w2-agencies"
+],
 "sources": [
 {
 "date": "1997-01-01",
@@ -1520,43 +1561,48 @@
 ],
 "sub": "Independent civilian foreign intelligence service; convener of the Robertson Panel",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 12 of 1170, score 121). 45 connections, 8 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 10 of 1170, score 121). 45 connections, 8 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1947-07-26",
+"grade": "A",
 "id": "ag-tl-1947-nsa47",
 "label": "National Security Act signed",
 "precision": "day",
 "strand": "program",
-"text": "President Truman signs the National Security Act of 1947, creating the Central Intelligence Agency, the National Security Council and an independent Air Force. The entire institutional architecture within which the UAP record would be created and concealed comes into being seventeen days after the Roswell press release.",
-"tier": "A"
+"text": "President Truman signs the National Security Act of 1947, creating the Central Intelligence Agency, the National Security Council and an independent Air Force. The entire institutional architecture within which the UAP record would be created and concealed comes into being seventeen days after the Roswell press release."
 },
 {
+"claimTier": null,
 "date": "1953-01-17",
+"grade": "A",
 "id": "ag-tl-1953-robertson",
 "label": "Robertson Panel reports",
 "precision": "day",
 "strand": "coverup",
-"text": "The CIA-convened panel under H. P. Robertson recommends stripping the phenomenon of its 'aura of mystery' through education and debunking, and the monitoring of civilian UFO groups 'because of their potentially great influence on mass thinking'. American UFO information management begins here.",
-"tier": "A"
+"text": "The CIA-convened panel under H. P. Robertson recommends stripping the phenomenon of its 'aura of mystery' through education and debunking, and the monitoring of civilian UFO groups 'because of their potentially great influence on mass thinking'. American UFO information management begins here."
 },
 {
+"claimTier": null,
 "date": "1997-01-01",
+"grade": "A",
 "id": "ag-tl-1997-haines",
 "label": "CIA publishes its own UFO history",
 "precision": "year",
 "strand": "oversight",
-"text": "Gerald K. Haines' 'CIA's Role in the Study of UFOs, 1947-1990' appears in Studies in Intelligence, acknowledging the Office of Scientific Intelligence effort, the Robertson Panel and the later attribution of sightings to U-2 and OXCART overflights.",
-"tier": "A"
+"text": "Gerald K. Haines' 'CIA's Role in the Study of UFOs, 1947-1990' appears in Studies in Intelligence, acknowledging the Office of Scientific Intelligence effort, the Robertson Panel and the later attribution of sightings to U-2 and OXCART overflights."
 },
 {
+"claimTier": null,
 "date": "2010-01-01",
+"grade": "A",
 "id": "pc-2010-blocked",
 "label": "The transfer is blocked",
 "precision": "year",
 "strand": "coverup",
-"text": "The divestment never occurs. Elizondo testifies that a memorandum from the Secretary of the Air Force required to complete it never issued; the reported cause is a CIA veto, which AARO records as a former senior CIA official quashing the proposal to remove the material from the corporation.",
-"tier": "A"
+"text": "The divestment never occurs. Elizondo testifies that a memorandum from the Secretary of the Air Force required to complete it never issued; the reported cause is a CIA veto, which AARO records as a former senior CIA official quashing the proposal to remove the material from the corporation."
 }
-]
+],
+"unverified": []
 }

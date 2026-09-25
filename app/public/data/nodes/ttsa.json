@@ -42,6 +42,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -488,6 +489,14 @@
 "deg": 17,
 "denials": [
 {
+"a": {
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"b": {
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
 "by": {
 "id": "aaro-metallic-specimen-analysis",
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
@@ -510,10 +519,7 @@
 }
 ],
 "desc": "TTSA was incorporated in Delaware in 2017 as a public benefit corporation and registered with the SEC under Commission File Number 024-10728, CIK 1710274, EIN 82-0601064. Its three named directors were Tom DeLonge, Jim Semivan and Harold Puthoff; Luis Elizondo and Steve Justice were listed as significant employees. It ran three divisions — Aerospace (beamed energy propulsion and Space-Time Metric Engineering), Science (a Community of Interest UAP reporting site, brain-computer interface and consciousness work), and Entertainment (music, books and film, operating out of Encinitas, California). Structurally it was a securities vehicle: a Regulation A+ offering launched in September 2017 targeting $50 million, of which roughly $1.09 million had been raised by April 2018. FY2017 showed revenues of $1,376,215 against a net loss of $30,665,436, almost all of it non-cash stock compensation; by June 2018 the accumulated deficit was $37.4 million against $129,000 of cash, with a going-concern warning. Gravity Holdings LLC, a DeLonge family trust entity, held 60 million of 70 million Class A shares. What makes TTSA matter is not its balance sheet but its function: for roughly three years it was the legal person through which five men with intelligence, special-access and black-aerospace backgrounds acted in public — hosting the FLIR1, Gimbal and GoFast videos, running the ADAM materials program with Puthoff's EarthTech International, executing a research agreement with a U.S. Army laboratory, producing a History Channel series, and briefing Congress. Elizondo, Mellon and Justice left in December 2020; the aerospace and materials work wound down; in 2022 the entity renamed itself To The Stars Inc. and reverted to entertainment.",
-"domains": [
-"elizondo-ttsa",
-"primes-custody"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -737,7 +743,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "To The Stars Academy",
+"sourceFiles": [
+"elizondo-ttsa",
+"primes-custody"
+],
 "sources": [
 {
 "date": "2018-04-30",
@@ -790,22 +801,25 @@
 "tierRationale": "Re-graded A on a global pass (rank 52 of 1170, score 78). 18 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2018-10-15",
+"grade": "A",
 "id": "tl-2018-10-deficit",
 "label": "TTSA's $37.4 million deficit reported",
 "precision": "day",
 "strand": "program",
-"text": "Vice reports SEC filings showing a $37.4 million accumulated deficit, $129,000 cash on hand, roughly $1 million raised against a $50 million target, and a going-concern warning.",
-"tier": "A"
+"text": "Vice reports SEC filings showing a $37.4 million accumulated deficit, $129,000 cash on hand, roughly $1 million raised against a $50 million target, and a going-concern warning."
 },
 {
+"claimTier": null,
 "date": "2020-12-01",
+"grade": "B",
 "id": "tl-2020-12-departures",
 "label": "Elizondo, Mellon and Justice leave TTSA",
 "precision": "month",
 "strand": "program",
-"text": "The three government-side principals depart; the aerospace and materials work winds down and the entity later renames itself To The Stars Inc.",
-"tier": "B"
+"text": "The three government-side principals depart; the aerospace and materials work winds down and the entity later renames itself To The Stars Inc."
 }
-]
+],
+"unverified": []
 }

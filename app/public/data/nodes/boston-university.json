@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Boston University is the academic home of Laurence J. Kotlikoff, Professor of Economics, who co-wrote the three Forbes columns with Mark Skidmore that carried the unsupported-adjustment aggregate into financial-press circulation between December 2017 and January 2019. The institution has no other role on this board; it is recorded because the credibility of the Forbes pieces rested in part on the authors' academic affiliations, and because tracing where a claim acquired authority is part of tracing the claim.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -57,7 +56,11 @@
 "label": "Boston University",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Boston University",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -68,5 +71,6 @@
 "sub": "University; academic home of Laurence Kotlikoff",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1170 of 1170, score 5). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

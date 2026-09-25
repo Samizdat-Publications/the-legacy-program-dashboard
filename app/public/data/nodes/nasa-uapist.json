@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -103,6 +104,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "nasa-uapist",
+"label": "NASA Unidentified Anomalous Phenomena Independent Study Team"
+},
+"b": {
+"id": "d-custody",
+"label": "Chain of custody"
+},
 "by": {
 "id": "nasa-uapist",
 "label": "NASA Unidentified Anomalous Phenomena Independent Study Team"
@@ -130,9 +139,7 @@
 }
 ],
 "desc": "NASA commissioned the UAP Independent Study Team on 24 May 2022, with David Spergel as chair and Daniel Evans as designated federal official. Its sixteen members were Spergel, Anamaria Berea (George Mason), Federica Bianco (Delaware), Paula Bontempi, Reggie Brothers (AE Industrial Partners), Jen Buss (Potomac Institute for Policy Studies), Nadia Drake, Mike Gold (Redwire), David Grinspoon, Scott Kelly, Matt Mountain, Warren Randolph (FAA), Walter Scott (Maxar), Joshua Semeter (Boston University), Karlin Toner (FAA) and Shelley Wright (UC San Diego). The team began work on 24 October 2022, held a single public meeting on 31 May 2023, and delivered its report on 14 September 2023, dissolving the same day; NASA announced a Director of UAP Research at the same time. Its conclusions were that no evidence of extraterrestrial origin was found, that poor-quality and limited data is the binding constraint, and that NASA should apply a rigorous evidence-based approach incorporating artificial intelligence and citizen observation. For this board, the panel is best read as a measurement of access rather than of evidence: sixteen serious scientists, examining only unclassified material, concluding that unclassified material is insufficient. The panel was never given the thing the argument is about.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -146,7 +153,11 @@
 "label": "NASA Unidentified Anomalous Phenomena Independent Study Team",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "NASA Unidentified Anomalous Phenomena Independent Study Team",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -161,25 +172,28 @@
 ],
 "sub": "Sixteen-member panel chaired by David Spergel, commissioned 24 May 2022, reported 14 September 2023",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 828 of 1170, score 21). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 829 of 1170, score 21). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-05-24",
+"grade": "A",
 "id": "st-2022-05-24",
 "label": "NASA commissions its panel",
 "precision": "day",
 "strand": "oversight",
-"text": "NASA commissions the sixteen-member UAP Independent Study Team under David Spergel - with access to unclassified data only.",
-"tier": "A"
+"text": "NASA commissions the sixteen-member UAP Independent Study Team under David Spergel - with access to unclassified data only."
 },
 {
+"claimTier": null,
 "date": "2023-09-14",
+"grade": "A",
 "id": "st-2023-09-14",
 "label": "NASA panel reports and dissolves",
 "precision": "day",
 "strand": "oversight",
-"text": "The UAP Independent Study Team delivers its report - no evidence of extraterrestrial origin, data quality is the binding constraint - and dissolves the same day. It had never been given the classified holdings.",
-"tier": "A"
+"text": "The UAP Independent Study Team delivers its report - no evidence of extraterrestrial origin, data quality is the binding constraint - and dissolves the same day. It had never been given the classified holdings."
 }
-]
+],
+"unverified": []
 }

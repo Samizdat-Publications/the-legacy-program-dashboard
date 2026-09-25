@@ -53,7 +53,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"elizondo-ttsa"
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -74,6 +74,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Thomas Crosson",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2017-12-16",
@@ -92,13 +95,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 1164 of 1170, score 6). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-12-16",
+"grade": "A",
 "id": "tl-2017-12-16-crosson",
 "label": "Pentagon acknowledges the program",
 "precision": "day",
 "strand": "coverup",
-"text": "Spokesman Thomas Crosson confirms AATIP existed and was shut down in 2012 because 'there were other, higher priority issues that merit' the funding. This is acknowledgement, not denial.",
-"tier": "A"
+"text": "Spokesman Thomas Crosson confirms AATIP existed and was shut down in 2012 because 'there were other, higher priority issues that merit' the funding. This is acknowledgement, not denial."
 }
 ],
 "unexplainedResidual": null,

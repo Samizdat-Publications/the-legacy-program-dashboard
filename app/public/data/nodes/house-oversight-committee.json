@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -236,7 +237,7 @@
 "edgeLabel": "Reports on SAP access populations are addressed to House Oversight among others",
 "id": "ndaa-fy2024-7606",
 "l0": false,
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "note": "Sec. 7606(c)(2) names the Committee on Oversight and Accountability of the House of Representatives among the recipients.",
 "sources": [
 {
@@ -403,7 +404,7 @@
 "edgeLabel": "Gives House Oversight a statutory entitlement to SAP reports from every covered agency",
 "id": "usc-50-3348",
 "l0": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(1)(C) names the committee; 3348(g)(2)(B) excludes only DoD, NNSA and IC agencies from the reporting obligation.",
 "sources": [
 {
@@ -448,6 +449,14 @@
 "deg": 18,
 "denials": [
 {
+"a": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
 "by": {
 "id": "dod",
 "label": "United States Department of Defense (secondary designation: Department of War)"
@@ -474,6 +483,14 @@
 ]
 },
 {
+"a": {
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"id": "house-oversight-committee",
+"label": "U.S. House Committee on Oversight and Government Reform"
+},
 "by": {
 "id": "mitre-corporation",
 "label": "The MITRE Corporation"
@@ -496,9 +513,7 @@
 }
 ],
 "desc": "The House's general-purpose investigative committee, styled Committee on Oversight and Accountability in the 118th Congress and Committee on Oversight and Government Reform in the 119th, chaired by James Comer since 2023 with Jamie Raskin and then Robert Garcia as ranking member. It is the only House committee with government-wide investigative jurisdiction and unilateral subpoena authority in the chair's hands, which is why the UAP question landed here rather than in Armed Services or Intelligence. It has held every House UAP hearing of the modern era: 26 July 2023 through its National Security, the Border, and Foreign Affairs subcommittee; 13 November 2024 as a joint hearing of that subcommittee and the Cybersecurity, Information Technology and Government Innovation subcommittee; and 9 September 2025 through the Task Force on the Declassification of Federal Secrets. Its structural problem is stated in its own record. On 9 September 2025 Chairwoman Luna disclosed that DoD had told committee staff that under special access program rules only House Armed Services and Defense Appropriations members could be read in on the relevant programs, and that any other member required approval from the chairman and ranking member of both. The committee that can subpoena cannot be cleared; the committees that are cleared have not subpoenaed. That is the load-bearing structural fact of the entire House disclosure effort.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -675,7 +690,7 @@
 {
 "cls": "legislation",
 "id": "ndaa-fy2024-7606",
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "tier": "C"
 },
 {
@@ -699,11 +714,15 @@
 {
 "cls": "legislation",
 "id": "usc-50-3348",
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "House Oversight & Gov't Reform",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -738,6 +757,7 @@
 ],
 "sub": "Standing committee; government-wide subpoena jurisdiction",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 207 of 1170, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 206 of 1170, score 45). 18 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
+"timeline": [],
+"unverified": []
 }

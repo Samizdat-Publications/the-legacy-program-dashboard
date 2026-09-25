@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -176,10 +177,7 @@
 "deg": 6,
 "denials": [],
 "desc": "KLAS-TV is the Las Vegas station where George Knapp has worked as anchor and I-Team investigative reporter since 1981, apart from a break from 1991 to 1995. It is where the Bob Lazar interviews aired in May and November 1989, putting Area 51 into global consciousness, and it remains the institutional base from which Knapp has run four decades of UAP reporting. A local CBS affiliate in a desert market being the originating venue for the most durable claims in this field is itself a structural fact about where this story has been allowed to live.",
-"domains": [
-"lazar-s4-2026-09-18",
-"media-structure"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -219,7 +217,12 @@
 "label": "KLAS-TV (Las Vegas)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "KLAS-TV (Las Vegas)",
+"sourceFiles": [
+"lazar-s4-2026-09-18",
+"media-structure"
+],
 "sources": [
 {
 "date": "1990-06-19",
@@ -234,6 +237,7 @@
 ],
 "sub": "CBS affiliate, Channel 8",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 952 of 1170, score 17). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 951 of 1170, score 17). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unverified": []
 }

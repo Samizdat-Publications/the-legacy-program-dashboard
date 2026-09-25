@@ -442,6 +442,14 @@
 "deg": 11,
 "denials": [
 {
+"a": {
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"b": {
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
 "by": {
 "id": "kirkpatrick-sciam-oped-2024",
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
@@ -464,10 +472,12 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"aawsap-aatip",
-"history-1970s-2000s",
-"primes-custody"
+"d-funding",
+"d-paranormal",
+"d-contracting",
+"d-research",
+"d-exotic",
+"d-custody"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -513,6 +523,12 @@
 }
 ],
 "short": "Robert T. Bigelow",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aawsap-aatip",
+"history-1970s-2000s",
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -588,25 +604,27 @@
 "status": "active",
 "sub": "Founder, Budget Suites / Bigelow Aerospace / NIDS / BAASS",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 56 of 1170, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 57 of 1170, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1998-08-10",
+"grade": "A",
 "id": "t-1998-bigelow",
 "label": "Bigelow's first NIDS interview",
 "precision": "day",
 "strand": "program",
-"text": "Bigelow tells the Deseret News that anomalous aerial activity and animal deaths have continued around the ranch and that 'we wouldn't be there just for the weather,' while declining to discuss specifics.",
-"tier": "A"
+"text": "Bigelow tells the Deseret News that anomalous aerial activity and animal deaths have continued around the ranch and that 'we wouldn't be there just for the weather,' while declining to discuss specifics."
 },
 {
+"claimTier": null,
 "date": "2017-05-28",
+"grade": "B",
 "id": "tl-2017-60min",
 "label": "Bigelow on 60 Minutes",
 "precision": "day",
 "strand": "witness",
-"text": "Robert Bigelow tells CBS he is 'absolutely convinced' of an extraterrestrial presence on Earth, seven months before the program he was paid to run becomes public.",
-"tier": "B"
+"text": "Robert Bigelow tells CBS he is 'absolutely convinced' of an extraterrestrial presence on Earth, seven months before the program he was paid to run becomes public."
 }
 ],
 "unexplainedResidual": null,

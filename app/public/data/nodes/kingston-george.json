@@ -132,6 +132,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "kingston-george",
+"label": "Kingston A. George"
+},
+"b": {
+"id": "robert-jacobs",
+"label": "Robert M. Jacobs"
+},
 "by": {
 "id": "kingston-george",
 "label": "Kingston A. George"
@@ -153,10 +161,7 @@
 ]
 }
 ],
-"domains": [
-"disclosure-project-2026-09-19",
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -176,6 +181,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Kingston A. George",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1993",
@@ -186,7 +195,7 @@
 "status": "unknown",
 "sub": "Air Force project engineer for the 1964 Big Sur image-orthicon telescope deployment; author of the published rebuttal of Robert Jacobs's account and of a contemporaneous 1964 staff study on the same imagery",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 190 of 1170, score 46). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 189 of 1170, score 46). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

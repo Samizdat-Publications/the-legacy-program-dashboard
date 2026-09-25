@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -103,10 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "An ODNI-numbered document published in PURSUE Release 02 on 22 May 2026: a first-person narrative written by a serving senior intelligence officer describing a one-hour, multi-witness UAP encounter observed from a military helicopter in late 2025. Four properties make it the most unusual item in the corpus. The witness is serving, not retired. The witness is a senior intelligence officer, not aircrew. The account is first-person narrative, not a case summary. And the encounter is an hour long with multiple witnesses, which removes the two disposals - brief duration and single observer - that AARO's annual reports use to close most cases. It is also the clearest structural evidence that PURSUE is genuinely interagency: ODNI put an operational account by one of its own serving officers into a Department of War release series, under an ODNI document number, five months after the encounter.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -120,7 +118,12 @@
 "label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -145,6 +148,7 @@
 ],
 "sub": "Released in PURSUE Release 02, 22 May 2026; incident late 2025",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 528 of 1170, score 30). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 523 of 1170, score 30). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [],
+"unverified": []
 }

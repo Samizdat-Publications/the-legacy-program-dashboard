@@ -52,6 +52,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -159,10 +160,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The civil aviation regulator inside the Department of Transportation, and one of the eight agencies that have transferred records into the National Archives' Unidentified Anomalous Phenomena Records Collection under sections 1841 to 1843 of the FY2024 National Defense Authorization Act. Its series, National Archives Identifier 493468575, holds 575 PDF files under two accessions and is listed first on NARA's own RG 615 page. The series is withheld in part under UAP Records Collection Postponement Code 1843(a)(3). This node is a promotion from board prose, where the agency is already named as an RG 615 contributor, rather than a discovery from the podcast corpus.",
-"domains": [
-"area52-2026-09-02",
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -176,7 +174,12 @@
 "label": "Federal Aviation Administration",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Federal Aviation Administration",
+"sourceFiles": [
+"area52-2026-09-02",
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-08-28",
@@ -211,25 +214,28 @@
 ],
 "sub": "Civil aviation regulator in the Department of Transportation; first-listed contributing agency to NARA Record Group 615",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 220 of 1170, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 219 of 1170, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1987-03-05",
+"grade": "A",
 "id": "tl-1987-03-05-faa-alaska-release",
 "label": "FAA Alaskan Region press release concludes against a second aircraft",
 "precision": "day",
 "strand": "oversight",
-"text": "The FAA Alaskan Region issued a press release stating that agency experts at the Technical Center in Atlantic City 'determined that a second radar target near the JAL flight... was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return', and concluding: 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.'",
-"tier": "A"
+"text": "The FAA Alaskan Region issued a press release stating that agency experts at the Technical Center in Atlantic City 'determined that a second radar target near the JAL flight... was not another aircraft but was... an uncorrelated primary and beacon [radar transponder] target return', and concluding: 'The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.'"
 },
 {
+"claimTier": null,
 "date": "2001-06-27",
+"grade": "A",
 "id": "tl-2001-06-27-faa-destruction-letter",
 "label": "FAA tells a FOIA requester the JAL 1628 records will be destroyed in 30 days",
 "precision": "day",
 "strand": "coverup",
-"text": "Letter of 27 June 2001: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed. Over 1,500 pages were later found at the National Archives.",
-"tier": "A"
+"text": "Letter of 27 June 2001: 'all documents pertaining to this UFO sighting will be destroyed in 30 days from the date of this letter.' A further request in 2009 was answered with the statement that the records had been destroyed. Over 1,500 pages were later found at the National Archives."
 }
-]
+],
+"unverified": []
 }

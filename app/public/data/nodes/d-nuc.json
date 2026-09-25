@@ -42,6 +42,7 @@
 ],
 "cls": "domain",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -113,10 +114,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The strongest statistical claim in the entire field is not about craft but about geography: reported unidentified phenomena cluster around nuclear weapons production, storage and testing sites at rates the reporting-bias explanation struggles to absorb. Hancock, Porritt and Grosvenor assembled this as a formal indications analysis of the United States atomic warfare complex for 1945-1975, published through the Scientific Coalition for UAP Studies in 2023 and again in the peer-reviewed journal Limina in March 2025. The archival astronomy strand converged independently on the same correlation: Bruehl and Villarroel's October 2025 Scientific Reports paper links transients on Palomar sky survey plates to nuclear testing and to UAP reports. The witness strand is older and sworn - Robert Salas and others have testified publicly, including at a National Press Club event on 27 September 2010, to missile shutdowns at Malmstrom AFB coinciding with observed objects. The dual-use complication is real and belongs in the record: nuclear sites are also where the most exotic classified aerospace and sensor testing has always occurred. Scoring high on this domain means an entity served in, guarded or studied that complex.",
-"domains": [
-"nuclear-witnesses-2026-09-19",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -130,7 +128,12 @@
 "label": "Nuclear Weapons Complex Nexus",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Nuclear Weapons Complex Nexus",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -180,6 +183,7 @@
 ],
 "sub": "Correlational domain - the persistent association between UAP reports and atomic infrastructure",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 273 of 1170, score 41). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 274 of 1170, score 41). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"timeline": [],
+"unverified": []
 }

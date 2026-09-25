@@ -160,7 +160,7 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "research"
 },
 {
 "claimTier": 1,
@@ -190,8 +190,9 @@
 "deg": 6,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"congress-senate-legislation"
+"d-legislative",
+"d-oversight",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -212,6 +213,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Marco Rubio",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-07-13",
@@ -237,16 +242,17 @@
 "status": "former",
 "sub": "R-FL; SSCI Vice Chair 2021-2025; cosponsor of the UAPDA; left Senate Jan 2025",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 449 of 1170, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 542 of 1170, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-01-21",
+"grade": "B",
 "id": "cl-2025-01-21",
 "label": "Rubio leaves the Senate",
 "precision": "day",
 "strand": "oversight",
-"text": "The SSCI Vice Chairman who cosponsored the eminent domain text departs on confirmation as Secretary of State, removing the disclosure coalition's most senior intelligence-committee Republican.",
-"tier": "B"
+"text": "The SSCI Vice Chairman who cosponsored the eminent domain text departs on confirmation as Secretary of State, removing the disclosure coalition's most senior intelligence-committee Republican."
 }
 ],
 "unexplainedResidual": null,

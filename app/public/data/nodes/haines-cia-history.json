@@ -62,6 +62,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -264,18 +265,20 @@
 "deg": 6,
 "denials": [
 {
-"by": {
+"a": {
 "id": "haines-cia-history",
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
 },
-"claimTier": 1,
-"denialKind": null,
-"label": "CIA's own published history concedes the Air Force made deceptive public statements",
-"note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
-"of": {
+"b": {
 "id": "cia",
 "label": "Central Intelligence Agency"
 },
+"by": null,
+"claimTier": 1,
+"denialKind": "association",
+"label": "CIA's own published history concedes the Air Force made deceptive public statements",
+"note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
+"of": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -285,27 +288,14 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "haines-cia-history",
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
 },
-"claimTier": 1,
-"denialKind": null,
-"label": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
-"note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
-"of": {
-"id": "robertson-panel",
-"label": "Robertson Panel"
+"b": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
 },
-"sources": [
-{
-"date": "1997-01-01",
-"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
-"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
-}
-]
-},
-{
 "by": {
 "id": "project-blue-book",
 "label": "Project Blue Book"
@@ -325,12 +315,33 @@
 "url": "https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/"
 }
 ]
+},
+{
+"a": {
+"id": "haines-cia-history",
+"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+},
+"b": {
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"by": null,
+"claimTier": 1,
+"denialKind": "undirected",
+"label": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
+"note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
+"of": null,
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+}
+]
 }
 ],
 "desc": "The CIA's own official history of its involvement with unidentified flying objects, written by NRO historian Gerald K. Haines and published in the Agency's in-house journal Studies in Intelligence in 1997. It is included here as a primary source because it contains admissions no outside researcher could have obtained. It states that Chadwell and Robertson assembled the January 1953 panel; that 'CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden'; that the panel canvassed mass media, advertising, business clubs, schools and the Disney corporation to carry its message; that 'according to later estimates from CIA officials who worked on the U-2 project and the OXCART project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights'; and that this 'led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project'. An agency of the United States government has therefore stated in writing that the Air Force deceived the American public about unidentified flying objects for national security reasons. The dispute is not about whether the government lies about this subject. It is about what else it was covering.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -362,7 +373,21 @@
 "whatItIs": "The CIA's own official history of its involvement with unidentified flying objects, written by NRO historian Gerald K. Haines and published in the Agency's in-house journal Studies in Intelligence in 1997.",
 "whyImplicated": "It contains admissions no outside researcher could have obtained: that CIA sponsorship of the Robertson panel was forbidden to be mentioned, that the panel canvassed mass media and the Disney corporation to carry its message, and that the Air Force made misleading and deceptive statements to the public to protect a sensitive national security project."
 },
-"entityInfo": null,
+"entityInfo": {
+"desc": "The passage that matters, in full, from the section headed 'CIA's U-2 and OXCART as UFOs': 'The early U-2s were silver (they were later painted black) and reflected the rays from the sun, especially at sunrise and sunset. They often appeared as fiery objects to observers below. Air Force BLUE BOOK investigators aware of the secret U-2 flights tried to explain away such sightings by linking them to natural phenomena such as ice crystals and temperature inversions. By checking with the Agency's U-2 Project Staff in Washington, BLUE BOOK investigators were able to attribute many UFO sightings to U-2 flights. They were careful, however, not to reveal the true cause of the sighting to the public. According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights (namely the U-2) over the United States. This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project. While perhaps justified, this deception added fuel to the later conspiracy theories and the coverup controversy of the 1970s.' The article also records that when pressure built for release of the Robertson Panel report, 'Philip Strong, Deputy Assistant Director of OSI, refused to declassify the report and declined to disclose CIA sponsorship of the panel. As an alternative, the Agency prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.' Note what this establishes and what it does not. It establishes, from the Agency's own historian in the Agency's own journal, that the United States Air Force knowingly issued false explanations for UFO sightings to the American public for at least a decade, and that CIA sanitised a scientific panel report to conceal its own sponsorship and its psychological-warfare interest. It does not establish that every sighting was a U-2. The number given is 'over half,' and it is an estimate by the people with the strongest interest in it being high. The residual - the sightings not accounted for by reconnaissance aircraft, in a period when the Air Force was publicly reporting an unexplained rate falling to four percent - is the part CIA did not address.",
+"sources": [
+{
+"date": "1997-01-01",
+"name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+"url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/"
+},
+{
+"date": "2016-08-15",
+"name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+"url": "https://www.archives.gov/research/military/air-force/ufos"
+}
+]
+},
 "era": "1",
 "foia": {
 "questions": [],
@@ -374,7 +399,12 @@
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"sourceFiles": [
+"history-1940s-1960s",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "1997-01-01",
@@ -399,25 +429,28 @@
 ],
 "sub": "Gerald K. Haines, CIA Studies in Intelligence, 1997",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 94 of 1170, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 97 of 1170, score 65). 9 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1997-01-01",
+"grade": "A",
 "id": "t-1997-haines",
 "label": "CIA publishes the U-2 cover-story admission",
 "precision": "year",
 "strand": "coverup",
-"text": "Gerald Haines' Studies in Intelligence history states that Blue Book investigators knowingly attributed U-2 sightings to ice crystals and temperature inversions and that 'this led the Air Force to make misleading and deceptive statements to the public.'",
-"tier": "A"
+"text": "Gerald Haines' Studies in Intelligence history states that Blue Book investigators knowingly attributed U-2 sightings to ice crystals and temperature inversions and that 'this led the Air Force to make misleading and deceptive statements to the public.'"
 },
 {
+"claimTier": null,
 "date": "1997-01-01",
+"grade": "A",
 "id": "tl-1997-01",
 "label": "CIA admits official deception",
 "precision": "year",
 "strand": "coverup",
-"text": "CIA's Studies in Intelligence publishes Gerald Haines's history, stating that reconnaissance secrecy 'led the Air Force to make misleading and deceptive statements to the public' and that mention of CIA sponsorship of the Robertson Panel was forbidden.",
-"tier": "A"
+"text": "CIA's Studies in Intelligence publishes Gerald Haines's history, stating that reconnaissance secrecy 'led the Air Force to make misleading and deceptive statements to the public' and that mention of CIA sponsorship of the Robertson Panel was forbidden."
 }
-]
+],
+"unverified": []
 }

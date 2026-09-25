@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -176,6 +177,14 @@
 "deg": 6,
 "denials": [
 {
+"a": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"id": "americans-for-safe-aerospace",
+"label": "Americans for Safe Aerospace"
+},
 "by": {
 "id": "aaro-fy2025-annual-report",
 "label": "AARO FY2025 Consolidated Annual Report on UAP"
@@ -198,9 +207,7 @@
 }
 ],
 "desc": "The civilian organisation Ryan Graves founded in 2022 to build the reporting channel the Navy did not provide. Its existence is the most concrete measure of the failure documented in Graves's own testimony: after his squadron's near-midair in Warning Area W-72, 'there was no official acknowledgement of the incident and no further mechanism to report the sightings,' so an aircrew nonprofit now performs an intake function that belongs to the Naval Safety Command and the FAA. By July 2023 Graves told Congress it had 'nearly 5,000 members' and was 'actively working with more than 30 UAP witnesses who have approached us.' The organisation's programme sits squarely on the recommendations the NASA UAP Independent Study Team published on 14 September 2023 - enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and working with the FAA on civilian pilot procedures - recommendations Mike Gold pressed again in House Oversight testimony on 13 November 2024. The organisation is a witness-chain hub: it is where aircrew who will not report inside the chain of command go instead, which makes it both an evidentiary asset and a symptom.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -328,7 +335,11 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "Americans for Safe Aerospace",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -348,16 +359,18 @@
 ],
 "sub": "Aircrew advocacy and UAP reporting nonprofit",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 492 of 1170, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 494 of 1170, score 31). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-01-01",
+"grade": "A",
 "id": "av-2022-asa",
 "label": "Americans for Safe Aerospace founded",
 "precision": "year",
 "strand": "witness",
-"text": "Ryan Graves builds the aircrew reporting channel the Navy did not provide; by July 2023 it has nearly 5,000 members and is working with more than 30 UAP witnesses.",
-"tier": "A"
+"text": "Ryan Graves builds the aircrew reporting channel the Navy did not provide; by July 2023 it has nearly 5,000 members and is working with more than 30 UAP witnesses."
 }
-]
+],
+"unverified": []
 }

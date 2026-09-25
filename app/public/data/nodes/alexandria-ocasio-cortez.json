@@ -112,8 +112,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"congress-house",
-"grusch"
+"d-oversight",
+"d-funding"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -134,6 +134,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Alexandria Ocasio-Cortez",
+"sourceFiles": [
+"congress-house",
+"grusch"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -154,16 +158,17 @@
 "status": "active",
 "sub": "U.S. Rep. (D-NY-14); pursued the IR&D notification loophole",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 548 of 1170, score 29). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 544 of 1170, score 29). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "ch-2023-07-26f",
 "label": "AOC finds the notification loophole",
 "precision": "day",
 "strand": "oversight",
-"text": "Ocasio-Cortez identifies that there are no statutory definitions or requirements for congressional notification and asks whether notification means a phone call to a chairman or 'an email to, hypothetically, a dead email box.'",
-"tier": "A"
+"text": "Ocasio-Cortez identifies that there are no statutory definitions or requirements for congressional notification and asks whether notification means a phone call to a chairman or 'an email to, hypothetically, a dead email box.'"
 }
 ],
 "unexplainedResidual": null,

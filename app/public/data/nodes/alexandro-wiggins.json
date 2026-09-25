@@ -146,29 +146,13 @@
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving.",
 "sources": [
 {
 "date": "2025-09-09",
 "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": "2025",
-"dateStart": "2025",
-"direction": "out",
-"edgeLabel": "First active-duty Navy senior enlisted UAP witness before Congress",
-"id": "hearing-2025-09-09",
-"l0": true,
-"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "House Oversight - hearing page, 9 Sept 2025",
@@ -247,11 +231,9 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"aviators-incidents",
-"congress-house",
-"uaptf-aaro",
-"w2-2025-2026"
+"d-aviators",
+"d-oversight",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -272,6 +254,13 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Alexandro Wiggins",
+"sourceFiles": [
+"_rs-legislation",
+"aviators-incidents",
+"congress-house",
+"uaptf-aaro",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -312,25 +301,27 @@
 "status": "active",
 "sub": "Senior Chief Petty Officer (Operations Specialist), USN; USS Jackson (LCS-6) witness, 15 Feb 2023",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 189 of 1170, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 240 of 1170, score 42). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2023-02-15",
+"grade": null,
 "id": "tl-jackson",
 "label": "USS Jackson: a light rising from the waterline",
 "precision": "day",
 "strand": "witness",
-"text": "At about 1915 PST in W-291 off Southern California, Senior Chief Alexandro Wiggins observes a self-luminous object emerge from the ocean, join three others, and depart with near-instantaneous acceleration. CIC records it on the ship's Star SAFIRE and reports to the Tactical Action Officer.",
-"tier": "2"
+"text": "At about 1915 PST in W-291 off Southern California, Senior Chief Alexandro Wiggins observes a self-luminous object emerge from the ocean, join three others, and depart with near-instantaneous acceleration. CIC records it on the ship's Star SAFIRE and reports to the Tactical Action Officer."
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "ch-2025-09-09c",
 "label": "First active-duty witness",
 "precision": "day",
 "strand": "witness",
-"text": "Navy Senior Chief Alexandro Wiggins becomes the first currently serving military member to testify publicly to Congress on UAP, describing a 2023 USS Jackson encounter.",
-"tier": "A"
+"text": "Navy Senior Chief Alexandro Wiggins becomes the first currently serving military member to testify publicly to Congress on UAP, describing a 2023 USS Jackson encounter."
 }
 ],
 "unexplainedResidual": "Four self-luminous objects, one transmedium, recorded on a calibrated EO/IR sensor with intact metadata in a US Navy warning area - and no released government assessment of the footage exists.",

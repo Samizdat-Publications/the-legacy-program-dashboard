@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -98,9 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The block of Pacific warning areas and range complexes off Southern California and the Baja approaches in which the two most significant American maritime UAP encounters occurred nineteen years apart. Carrier Strike Group 11 was working up here in November 2004 when USS Princeton tracked objects descending from above 80,000 feet and VFA-41 intercepted the Tic Tac roughly 30 miles off Baja California. The July 2019 drone swarms against USS Kidd, USS Rafael Peralta, USS Russell and USS John Finn occurred in the same operating environment. On 15 February 2023, USS Jackson recorded four transmedium tic-tac objects in Warning Area W-291. The geographic persistence is a datum in itself: three distinct classes of event - a single high-performance object, a coordinated multi-platform swarm, and a transmedium group - concentrated in the same instrumented, heavily surveilled naval training space over two decades, with the Navy's own range fouler reporting confirming the first and its own deck logs the second.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -114,7 +113,11 @@
 "label": "Southern California Operating Areas (W-291 and Baja approaches)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Southern California Operating Areas (W-291 and Baja approaches)",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-01-14",
@@ -135,5 +138,6 @@
 "sub": "US Navy warning areas, Pacific",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 786 of 1170, score 22). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

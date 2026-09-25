@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Elizondo's second book, scheduled for publication by HarperCollins on 27 August 2026 — a fortnight after the current date of this board. The publisher's description says it draws on 'previously undisclosed evidence, global history and groundbreaking science' and argues that the phenomenon touches 'technology, security, faith and the very identity of humankind', with the assertion that 'UAPs are real, the evidence is undeniable, and our future depends on how we respond.' Reporting characterises it as abandoning the hedged register of Imminent. Elizondo has announced a twenty-date speaking tour around the release. The open question for this board is whether it too went through DOPSR and what, if anything, was struck; nothing on that point is yet public.",
-"domains": [
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -62,7 +61,11 @@
 "label": "Reckoning: The Unspoken Truth about UFOs and the Urgency of Now",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Reckoning: The Unspoken Truth about UFOs and the Urgency of Now",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2026-01-28",
@@ -77,16 +80,18 @@
 ],
 "sub": "Luis Elizondo, HarperCollins, scheduled 27 August 2026",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 817 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 818 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-08-27",
+"grade": "B",
 "id": "tl-2026-08-27-reckoning",
 "label": "Reckoning scheduled for publication",
 "precision": "day",
 "strand": "witness",
-"text": "Elizondo's second book, promising 'previously undisclosed evidence', is scheduled for HarperCollins release with a 20-date speaking tour. Its DOPSR status is not yet public.",
-"tier": "B"
+"text": "Elizondo's second book, promising 'previously undisclosed evidence', is scheduled for HarperCollins release with a 20-date speaking tour. Its DOPSR status is not yet public."
 }
-]
+],
+"unverified": []
 }

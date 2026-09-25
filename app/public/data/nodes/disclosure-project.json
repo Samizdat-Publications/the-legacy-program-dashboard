@@ -42,6 +42,7 @@
 ],
 "cls": "program",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -228,6 +229,14 @@
 "deg": 7,
 "denials": [
 {
+"a": {
+"id": "philip-j-klass",
+"label": "Philip J. Klass"
+},
+"b": {
+"id": "disclosure-project",
+"label": "The Disclosure Project"
+},
 "by": {
 "id": "philip-j-klass",
 "label": "Philip J. Klass"
@@ -250,10 +259,7 @@
 }
 ],
 "desc": "Founded by Steven Greer in 1993 as an offshoot of his Center for the Study of Extraterrestrial Intelligence, the Disclosure Project's method was to locate former military, intelligence, contractor and air traffic personnel with first-hand UFO experience, record their testimony on video, and use the aggregate to demand congressional hearings with subpoena power and witness amnesty. It briefed members of Congress and officials in Washington in April 1997 - the same week the Wilson-Davis notes later record as the trigger for Admiral Wilson's inquiries - and staged its major public event at the National Press Club on 9 May 2001 with roughly twenty witnesses and a stated corpus of more than four hundred. No hearing followed. The project's structural contribution is the demonstration that witness aggregation without documents does not move institutions: the 2001 event produced global coverage and zero congressional action, whereas the 2023 Grusch testimony - one witness with an Inspector General complaint, a security clearance and a statutory whistleblower channel - produced a hearing. The lesson the modern movement learned from Greer is that the paperwork is the lever.",
-"domains": [
-"disclosure-project-2026-09-19",
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -329,7 +335,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "The Disclosure Project",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -359,16 +370,18 @@
 ],
 "sub": "Private witness-aggregation and congressional-hearing campaign, 1993-",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 411 of 1170, score 34). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 414 of 1170, score 34). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2001-05-09",
+"grade": "B",
 "id": "t-2001-disclosure",
 "label": "Disclosure Project press conference",
 "precision": "day",
 "strand": "witness",
-"text": "Steven Greer presents about twenty former military and government witnesses at the National Press Club and demands congressional hearings with subpoena power. Global coverage; no hearing.",
-"tier": "B"
+"text": "Steven Greer presents about twenty former military and government witnesses at the National Press Club and demands congressional hearings with subpoena power. Global coverage; no hearing."
 }
-]
+],
+"unverified": []
 }

@@ -52,6 +52,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -207,18 +208,20 @@
 "deg": 7,
 "denials": [
 {
-"by": {
+"a": {
 "id": "institute-of-field-physics",
 "label": "Institute of Field Physics (UNC Chapel Hill)"
 },
+"b": {
+"id": "d-prop",
+"label": "Propulsion & Field Physics"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Standing written disclaimer of any connection to anti-gravity research",
 "note": "On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute.",
-"of": {
-"id": "d-prop",
-"label": "Propulsion & Field Physics"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -229,9 +232,7 @@
 }
 ],
 "desc": "The Institute of Field Physics received its certificate of incorporation on 7 September 1955 and was placed inside the physics department at the University of North Carolina at Chapel Hill, directed by Bryce and Cecile DeWitt and funded principally by the Winston-Salem industrialist Agnew Bahnson. Its inaugural event was the Conference on the Role of Gravitation in Physics at Chapel Hill in January 1957, now known as GR1. It sits on the same money as the board's existing Martin thread: George Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000 while the company was separately standing up RIAS, whose first researcher was Louis Witten. The thing a node must carry is what the Institute wrote about itself. On John Wheeler's insistence a 'Protection Clause' was attached to every IOFP publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes', and the department's own history says the instruction to avoid anti-gravity connotations runs through the founding correspondence like a mantra.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -312,7 +313,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Institute of Field Physics",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1957-03-01",
@@ -345,13 +350,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 154 of 1170, score 52). 7 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1955-09-07",
+"grade": "B",
 "id": "tl-1955-09-07-institute-of-field-physics",
 "label": "The Institute of Field Physics is incorporated, with an anti-gravity disclaimer written into its publicity",
 "precision": "day",
 "strand": "program",
-"text": "The Institute receives its certificate of incorporation and is placed inside the physics department at the University of North Carolina at Chapel Hill under Bryce and Cecile DeWitt, funded principally by Agnew Bahnson. George Trimble and the Glenn L. Martin Company buy a Founder's Membership for 5,000 dollars. On John Wheeler's insistence a Protection Clause is attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'.",
-"tier": "B"
+"text": "The Institute receives its certificate of incorporation and is placed inside the physics department at the University of North Carolina at Chapel Hill under Bryce and Cecile DeWitt, funded principally by Agnew Bahnson. George Trimble and the Glenn L. Martin Company buy a Founder's Membership for 5,000 dollars. On John Wheeler's insistence a Protection Clause is attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'."
 }
-]
+],
+"unverified": []
 }

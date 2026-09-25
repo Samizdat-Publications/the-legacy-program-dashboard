@@ -57,6 +57,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -253,9 +254,7 @@
 "deg": 8,
 "denials": [],
 "desc": "RAND is the original. It began in 1946 as Project RAND inside Douglas Aircraft under Army Air Forces contract and was incorporated as an independent nonprofit in 1948, creating the institutional form - the permanent, contractor-operated, sole-source analytical partner to a military service - that every entity in this domain copies. MITRE was explicitly built on the RAND model twelve years later. RAND today operates four FFRDCs: Project AIR FORCE for the Air Force, the Arroyo Center for the Army, the National Defense Research Institute for the Under Secretary of Defense for Acquisition and Sustainment, and the Homeland Security Operational Analysis Center for DHS. Its UFO record is public and continuous. In November 1968 RAND issued George Kocher's draft DRU-1571, 'UFOs: What To Do?', examining UFO brightness, size and manoeuvres and recommending a course of action - two months before the Condon Committee report told the public the subject was closed. In July 2023 RAND published RRA2475-1, mapping public UAP reports across the United States and citing Kocher's 1968 draft. Its president and CEO, Jason Matheny, came from directing IARPA and from the White House OSTP. Its long-running FFRDC contracts are documented on USAspending: Project AIR FORCE under FA701406C0001, Arroyo under W74V8H06C0001, NDRI under W74V8H06C0002 and successors HQ003422F0012, HQ003423F0005 and HQ003424F0003. Burlison has named RAND among the organisations his investigation is following. RAND is the institution that invented the seam, has documented interest in the phenomenon spanning fifty-eight years, and has never been asked under oath what it holds.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -433,7 +432,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "RAND Corporation",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2025-04-23",
@@ -478,25 +481,28 @@
 ],
 "sub": "Nonprofit operator of four FFRDCs (Project AIR FORCE, Arroyo Center, National Defense Research Institute, HSOAC); Santa Monica, CA; est. 1948 out of Project RAND (1946)",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 147 of 1170, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 148 of 1170, score 53). 8 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1946-03-01",
+"grade": "B",
 "id": "tl-ffrdc-1946-rand",
 "label": "Project RAND created",
 "precision": "month",
 "strand": "program",
-"text": "The Army Air Forces establish Project RAND inside Douglas Aircraft, inventing the contractor-operated analytical partner form that every institution in this domain would later copy.",
-"tier": "B"
+"text": "The Army Air Forces establish Project RAND inside Douglas Aircraft, inventing the contractor-operated analytical partner form that every institution in this domain would later copy."
 },
 {
+"claimTier": null,
 "date": "1948-05-14",
+"grade": "B",
 "id": "tl-ffrdc-1948-rand-inc",
 "label": "RAND incorporated as an independent nonprofit",
 "precision": "month",
 "strand": "program",
-"text": "RAND separates from Douglas Aircraft and incorporates as a nonprofit, establishing the legal template: permanent, sole-source, answerable to a military customer, outside the civil service.",
-"tier": "B"
+"text": "RAND separates from Douglas Aircraft and incorporates as a nonprofit, establishing the legal template: permanent, sole-source, answerable to a military customer, outside the civil service."
 }
-]
+],
+"unverified": []
 }

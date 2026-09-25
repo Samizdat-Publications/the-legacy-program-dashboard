@@ -54,7 +54,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"scientists-technical"
+"d-materials"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -75,6 +75,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Sizun Jiang",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2022-01-01",

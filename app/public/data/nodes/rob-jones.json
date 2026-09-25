@@ -84,7 +84,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"media-structure"
+"d-media",
+"d-structure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -105,6 +106,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Rob Jones",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-04",

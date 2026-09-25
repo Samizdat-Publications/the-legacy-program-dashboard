@@ -42,6 +42,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -155,9 +156,7 @@
 "deg": 5,
 "denials": [],
 "desc": "On 24 July 1986 the General Accounting Office told a congressional subcommittee that a prime contractor's special-access document control had failed, and in the same statement explained that the body which would ordinarily have inspected it had been excluded from doing so since 1965. That conjunction is this board's structural argument, documented and dated. The cover page reads: 'STATEMENT OF MARTIN M FERBER, ASSOCIATE DIRECTOR, NATIONAL SECURITY AND INTERNATIONAL AFFAIRS DIVISION, BEFORE THE SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS, HOUSE COMMITTEE ON ENERGY AND COMMERCE, ON CONTROLS OVER CLASSIFIED DOCUMENTS FOR A SPECIAL ACCESS PROGRAM AT LOCKHEED CORPORATION'. The venue is worth noting: not a defence committee.\n\nThe numbers are exact and the popular version of them is wrong. Lockheed reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items. As of 19 July 1986 it had completed investigation on 235 of them; 224 were 'later accounted for' and 11 were unresolved -- 7 inadvertently destroyed and 4 not located. The 46 destroyed and the 17 transferred out of the company sit inside the 224 that were accounted for, not outside them. The genuinely unaccounted-for total is 11.\n\nGAO explains the carve-out in its own words: special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', a 1965 decision, and by 1983 GAO estimated 'there probably were several thousand such contracts'. Its closing sentence is the finding: 'it appears inconsistent to us to establish a special access program because of security considerations and then afford it less document protection than normal classified programs.' The companion letter report to the Secretary of Defense, GAO/NSIAD-86-191 of 7 August 1986, goes further and names the plant the testimony would not.",
-"domains": [
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -171,7 +170,11 @@
 "label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "1986-07-24",
@@ -196,16 +199,18 @@
 ],
 "sub": "GAO testimony, 24 July 1986, House Energy and Commerce, Subcommittee on Oversight and Investigations",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 308 of 1170, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 307 of 1170, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1986-07-24",
+"grade": "A",
 "id": "tl-1986-gao-lockheed",
 "label": "GAO tells Congress a carve-out contractor lost control of its documents",
 "precision": "day",
 "strand": "oversight",
-"text": "GAO testifies to the House Energy and Commerce Subcommittee on Oversight and Investigations that Lockheed reported 1,460 discrepancies in a 40,000-item special-access inventory, 11 of them still unresolved. In the same statement it explains that since 1965 special access programs have been excluded from Defense Investigative Service supervision, and that this is why they are called carve-out contracts.",
-"tier": "A"
+"text": "GAO testifies to the House Energy and Commerce Subcommittee on Oversight and Investigations that Lockheed reported 1,460 discrepancies in a 40,000-item special-access inventory, 11 of them still unresolved. In the same statement it explains that since 1965 special access programs have been excluded from Defense Investigative Service supervision, and that this is why they are called carve-out contracts."
 }
-]
+],
+"unverified": []
 }

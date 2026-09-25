@@ -6143,21 +6143,6 @@
 "open": false,
 "source": {
 "domain": null,
-"text": "House Committee on Oversight and Government Reform hearing record and press release",
-"url": null
-},
-"text": "Luna chaired the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' before the Task Force on the Declassification of Federal Secrets.",
-"tier": 1
-},
-{
-"cls": "person",
-"cluster": "oversight",
-"denied": true,
-"label": "Anna Paulina Luna",
-"node": "anna-paulina-luna",
-"open": false,
-"source": {
-"domain": null,
 "text": "House Oversight press release, 'Luna continues transparency investigation into UAPs', 1 April 2026",
 "url": null
 },
@@ -6797,7 +6782,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6812,7 +6797,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6827,7 +6812,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6842,7 +6827,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6857,7 +6842,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6872,7 +6857,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6887,7 +6872,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6902,7 +6887,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6917,7 +6902,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6932,7 +6917,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6947,7 +6932,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6962,7 +6947,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6977,7 +6962,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -6992,7 +6977,7 @@
 {
 "cls": "program",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "node": "arv-fluxliner",
 "open": false,
@@ -8402,7 +8387,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8417,7 +8402,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8432,7 +8417,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8447,7 +8432,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8462,7 +8447,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8477,7 +8462,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8492,7 +8477,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8507,7 +8492,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8522,7 +8507,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8537,7 +8522,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8552,7 +8537,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8567,7 +8552,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -8582,7 +8567,7 @@
 {
 "cls": "institution",
 "cluster": "ffrdc",
-"denied": true,
+"denied": false,
 "label": "Battelle Memorial Institute",
 "node": "battelle",
 "open": true,
@@ -9137,7 +9122,7 @@
 {
 "cls": "person",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Betty Cash",
 "node": "betty-cash",
 "open": false,
@@ -9152,7 +9137,7 @@
 {
 "cls": "person",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Betty Cash",
 "node": "betty-cash",
 "open": false,
@@ -9167,7 +9152,7 @@
 {
 "cls": "person",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Betty Cash",
 "node": "betty-cash",
 "open": false,
@@ -9182,7 +9167,7 @@
 {
 "cls": "person",
 "cluster": "witness",
-"denied": true,
+"denied": false,
 "label": "Betty Cash",
 "node": "betty-cash",
 "open": false,
@@ -12543,7 +12528,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12558,7 +12543,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12573,7 +12558,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12588,7 +12573,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12603,7 +12588,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12618,7 +12603,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12633,7 +12618,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12648,7 +12633,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12663,7 +12648,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12678,7 +12663,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12693,7 +12678,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12708,7 +12693,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12723,7 +12708,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12738,7 +12723,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -12753,7 +12738,7 @@
 "cls": "legislation",
 "cluster": "contractor",
 "denied": false,
-"label": "32 CFR Part 117 — NISPOM Rule",
+"label": "32 CFR Part 117 - NISPOM Rule",
 "node": "cfr-32-117",
 "open": false,
 "source": {
@@ -13562,7 +13547,7 @@
 {
 "cls": "institution",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Central Intelligence Agency",
 "node": "cia",
 "open": true,
@@ -13577,7 +13562,7 @@
 {
 "cls": "institution",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Central Intelligence Agency",
 "node": "cia",
 "open": true,
@@ -13592,7 +13577,7 @@
 {
 "cls": "institution",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Central Intelligence Agency",
 "node": "cia",
 "open": true,
@@ -13607,7 +13592,7 @@
 {
 "cls": "institution",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Central Intelligence Agency",
 "node": "cia",
 "open": true,
@@ -16007,7 +15992,7 @@
 {
 "cls": "domain",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "The Cover-Up",
 "node": "d-coverup",
 "open": false,
@@ -16022,7 +16007,7 @@
 {
 "cls": "domain",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "The Cover-Up",
 "node": "d-coverup",
 "open": false,
@@ -16037,7 +16022,7 @@
 {
 "cls": "domain",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "The Cover-Up",
 "node": "d-coverup",
 "open": false,
@@ -16052,7 +16037,7 @@
 {
 "cls": "domain",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "The Cover-Up",
 "node": "d-coverup",
 "open": false,
@@ -16097,7 +16082,7 @@
 {
 "cls": "domain",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Official Denial",
 "node": "d-denial",
 "open": false,
@@ -16112,7 +16097,7 @@
 {
 "cls": "domain",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Official Denial",
 "node": "d-denial",
 "open": false,
@@ -16127,7 +16112,7 @@
 {
 "cls": "domain",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Official Denial",
 "node": "d-denial",
 "open": false,
@@ -16472,7 +16457,7 @@
 {
 "cls": "domain",
 "cluster": "media",
-"denied": true,
+"denied": false,
 "label": "Freedom of Information Practice",
 "node": "d-foia",
 "open": false,
@@ -16487,7 +16472,7 @@
 {
 "cls": "domain",
 "cluster": "media",
-"denied": true,
+"denied": false,
 "label": "Freedom of Information Practice",
 "node": "d-foia",
 "open": false,
@@ -16502,7 +16487,7 @@
 {
 "cls": "domain",
 "cluster": "media",
-"denied": true,
+"denied": false,
 "label": "Freedom of Information Practice",
 "node": "d-foia",
 "open": false,
@@ -16517,7 +16502,7 @@
 {
 "cls": "domain",
 "cluster": "media",
-"denied": true,
+"denied": false,
 "label": "Freedom of Information Practice",
 "node": "d-foia",
 "open": false,
@@ -17192,7 +17177,7 @@
 {
 "cls": "domain",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "Majestic-12 Corpus",
 "node": "d-mj12",
 "open": false,
@@ -17207,7 +17192,7 @@
 {
 "cls": "domain",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "Majestic-12 Corpus",
 "node": "d-mj12",
 "open": false,
@@ -17222,7 +17207,7 @@
 {
 "cls": "domain",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "Majestic-12 Corpus",
 "node": "d-mj12",
 "open": false,
@@ -17657,7 +17642,7 @@
 {
 "cls": "domain",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Propulsion & Field Physics",
 "node": "d-prop",
 "open": false,
@@ -17672,7 +17657,7 @@
 {
 "cls": "domain",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Propulsion & Field Physics",
 "node": "d-prop",
 "open": false,
@@ -17687,7 +17672,7 @@
 {
 "cls": "domain",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Propulsion & Field Physics",
 "node": "d-prop",
 "open": false,
@@ -18557,7 +18542,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Defense Advanced Research Projects Agency",
 "node": "darpa",
 "open": false,
@@ -18572,7 +18557,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Defense Advanced Research Projects Agency",
 "node": "darpa",
 "open": false,
@@ -18587,7 +18572,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Defense Advanced Research Projects Agency",
 "node": "darpa",
 "open": false,
@@ -18602,7 +18587,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Defense Advanced Research Projects Agency",
 "node": "darpa",
 "open": false,
@@ -18617,7 +18602,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Defense Advanced Research Projects Agency",
 "node": "darpa",
 "open": false,
@@ -19803,7 +19788,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "node": "defense-appropriations-aawsap",
 "open": false,
 "source": {
@@ -19818,7 +19803,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "node": "defense-appropriations-aawsap",
 "open": false,
 "source": {
@@ -19833,7 +19818,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "node": "defense-appropriations-aawsap",
 "open": false,
 "source": {
@@ -20253,7 +20238,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil",
 "node": "dgac-chile",
 "open": false,
 "source": {
@@ -20268,7 +20253,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil",
 "node": "dgac-chile",
 "open": false,
 "source": {
@@ -20283,7 +20268,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil",
 "node": "dgac-chile",
 "open": false,
 "source": {
@@ -20298,7 +20283,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil",
 "node": "dgac-chile",
 "open": false,
 "source": {
@@ -20313,7 +20298,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil",
 "node": "dgac-chile",
 "open": false,
 "source": {
@@ -20673,7 +20658,7 @@
 "cls": "document",
 "cluster": "other",
 "denied": false,
-"label": "DIA Info Memo U-09-2660 — denial of restricted SAP for AAWSAP (13 Nov 2009)",
+"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
 "node": "dia-sap-denial-2009",
 "open": false,
 "source": {
@@ -20688,7 +20673,7 @@
 "cls": "document",
 "cluster": "other",
 "denied": false,
-"label": "DIA Info Memo U-09-2660 — denial of restricted SAP for AAWSAP (13 Nov 2009)",
+"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
 "node": "dia-sap-denial-2009",
 "open": false,
 "source": {
@@ -20703,7 +20688,7 @@
 "cls": "document",
 "cluster": "other",
 "denied": false,
-"label": "DIA Info Memo U-09-2660 — denial of restricted SAP for AAWSAP (13 Nov 2009)",
+"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
 "node": "dia-sap-denial-2009",
 "open": false,
 "source": {
@@ -20718,7 +20703,7 @@
 "cls": "document",
 "cluster": "other",
 "denied": false,
-"label": "DIA Info Memo U-09-2660 — denial of restricted SAP for AAWSAP (13 Nov 2009)",
+"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
 "node": "dia-sap-denial-2009",
 "open": false,
 "source": {
@@ -20877,6 +20862,21 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/"
 },
 "text": "Released PDF is 37 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
+"node": "dird-advanced-space-propulsion-based-on-vacuum",
+"open": false,
+"source": {
+"domain": null,
+"text": "DIA FOIA Electronic Reading Room AATIP index; DIA letter to FAS, 16 January 2019",
+"url": null
+},
+"text": "'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', authored by Harold E. Puthoff, is among the 38 AAWSAP reference products listed by DIA and is hosted in the DIA FOIA Electronic Reading Room.",
 "tier": 1
 },
 {
@@ -23692,6 +23692,21 @@
 "node": "dird-series",
 "open": true,
 "source": {
+"domain": null,
+"text": "DIA memo U-429-09-DWO-IM, 30 October 2009",
+"url": null
+},
+"text": "DIA's internal review found 'all of the reviews were positive, some exceptionally so' across the 26 FY09 reports, with five outside reviews including three by Sandia National Laboratories staff.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"node": "dird-series",
+"open": true,
+"source": {
 "domain": "www.dia.mil",
 "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/",
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
@@ -23767,11 +23782,41 @@
 "node": "dird-series",
 "open": true,
 "source": {
+"domain": null,
+"text": "DIA letter to Senators John McCain and Jack Reed, Senate Armed Services Committee, 9 January 2018, signed Brian L. Jenkins, Chief, Records Management and Information Services",
+"url": null
+},
+"text": "The full DIA-transmitted list of 38 products with authors: 1. Inertial Electrostatic Confinement Fusion (Dr. George Miley, University of Illinois); 2. Advanced Nuclear Propulsion for Manned Deep Space Missions (Dr. F. Winterberg, University of Nevada-Reno); 3. Pulsed High-Power Microwave Technology (Dr. James Wells, JW Enterprises); 4. Space Access (Dr. P. Czysz, HyperTech); 5. Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (Dr. Hal Puthoff, EarthTech International); 6. BioSensors and BioMEMS (Dr. Bruce Towe, University of Arizona); 7. Invisibility Cloaking (Dr. Ulf Leonhardt, University of St Andrews); 8. Traversable Wormholes, Stargates, and Negative Energy (Dr. Eric Davis, EarthTech International); 9. High-Frequency Gravitational Wave Communications (Dr. Robert Baker, GravWave); 10. Role of Superconductors in Gravity Research (Dr. George Hathaway, Hathaway Consulting); 11. Antigravity for Aerospace Applications (Dr. Eric Davis, EarthTech International); 12. Field Effects on Biological Tissues (Dr. Kit Green, Wayne State University); 13. Positron Aerospace Propulsion (Dr. Gerald Smith, Positronics Research); 14. Concepts for Extracting Energy from the Quantum Vacuum (Dr. Eric Davis, EarthTech International); 15. An Introduction to the Statistical Drake Equation (Dr. Claudio Maccone, International Academy of Astronautics); 16. Maverick Inventor Versus Corporate Inventor (Dr. George Hathaway, Hathaway Consulting); 17. Biomaterials (Dr. Bruce Towe, University of Arizona); 18. Metamaterials for Aerospace Applications (Dr. G. Shvets, University of Texas-Austin); 19. Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (Dr. R. Obousy, Obousy Consultants); 20. Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (Dr. R. Genik, Wayne State University); 21. Materials for Advanced Aerospace Platforms (Dr. J. Williams, Ohio State University); 22. Metallic Glasses (Dr. T. Hufnagel, Johns Hopkins University); 23. Aerospace Applications of Programmable Matter (Dr. W. McCarthy, Programmable Matter Corporation); 24. Metallic Spintronics (Dr. M. Tsoi, University of Texas-Austin); 25. Space-Communication Implications of Quantum Entanglement and Nonlocality (Dr. J. Cramer, University of Washington); 26. Aneutronic Fusion Propulsion I (Dr. V. Teofilo, Lockheed Martin); 27. Cockpits in the Era of Breakthrough Flight (Dr. G. Millis, Tau Zero); 28. Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft (Dr. R. Genik, Wayne State University); 29. Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities (Dr. W. Culbreth, University of Nevada-Las Vegas); 30. Aneutronic Fusion Propulsion II (Dr. W. Culbreth, University of Nevada-Las Vegas); 31. Laser Lightcraft Nanosatellites (Dr. E. Davis, EarthTech); 32. Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications (Dr. S. Macheret, Lockheed Martin); 33. Quantum Computing and Utilizing Organic Molecules in Automation Technology (Dr. R. Genik, Wayne State University); 34. Quantum Tomography of Negative Energy States in the Vacuum (Dr. Eric Davis, EarthTech); 35. Ultracapacitors as Energy and Power Storage Devices (Dr. J. Golightly, Lockheed Martin); 36. Negative Mass Propulsion (Dr. F. Winterberg, University of Nevada-Reno); 37. State of the Art and Evolution of High Energy Laser Weapons (J. Albertine, Directed Technologies) — SECRET/NOFORN; 38. State of the Art and Evolution of High Energy Laser Weapons (J. Albertine, Directed Technologies) — UNCLASSIFIED//FOUO.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"node": "dird-series",
+"open": true,
+"source": {
 "domain": "documents2.theblackvault.com",
 "text": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
 },
 "text": "The same survey's own conclusion on what antigravity would require, verbatim: 'Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"node": "dird-series",
+"open": true,
+"source": {
+"domain": null,
+"text": "The Black Vault AAWSAP DIRD archive, 2018-2022",
+"url": null
+},
+"text": "Thirty-seven of the 38 DIRDs have been released in full and are publicly downloadable; the SECRET/NOFORN version of the high-energy laser weapons paper has not been released.",
 "tier": 1
 },
 {
@@ -23788,6 +23833,21 @@
 },
 "text": "WHAT THE ZERO-COUNTS ARE AND ARE NOT EVIDENCE FOR, stated so no later session overstates them. THEY ARE EVIDENCE that the United States government's own commissioned survey of antigravity for aerospace applications, written under the same programme this board maps, is a review of gravitomagnetic forces, Forward's dipole generator, Felber's effect, negative energy, dark energy, the cosmological constant and quantum vacuum zero-point fluctuation force, and that it never reaches for the figure the electrogravitics literature treats as its origin. THEY ARE NOT EVIDENCE that DIA considered Brown and rejected him: the document shows no sign of having considered him at all, and an absence is not an adjudication. THEY ARE NOT EVIDENCE that Brown's work was suppressed, hidden or classified; nothing opened supports that and nothing here asserts it.",
 "tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"node": "dird-series",
+"open": true,
+"source": {
+"domain": null,
+"text": "The War Zone analysis of the DIRD list, 18 January 2019, citing the JASON HFGW report",
+"url": null
+},
+"text": "The JASON advisory group's 2008 assessment of Robert Baker's high-frequency gravitational wave concept concluded 'the proposed applications of the science of HFGW are fundamentally wrong', a critique published before DIA accepted the DIRD on the same subject.",
+"tier": 2
 },
 {
 "cls": "document",
@@ -23817,6 +23877,21 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/"
 },
 "text": "That two surnames survive the redaction pass in U-429-09 while every cover page is scrubbed indicates redaction was applied by template rather than by review, and that DIA's own reviewers wrote about these authors by name in internal correspondence. Author identities are therefore recoverable from the released corpus itself, not only from leaks.",
+"tier": 3
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"node": "dird-series",
+"open": true,
+"source": {
+"domain": null,
+"text": "Inference from the composition of the deliverable list against the stated foreign-threat purpose",
+"url": null
+},
+"text": "The subject distribution — six papers on vacuum energy, antigravity, warp drive, wormholes and negative mass, plus three on human biological and cognitive effects — indicates the requirement was written by someone already working a specific set of observed characteristics rather than surveying foreign capability broadly.",
 "tier": 3
 },
 {
@@ -25967,7 +26042,7 @@
 {
 "cls": "document",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
 "node": "doc-si-big-sur-1993",
 "open": false,
@@ -25982,7 +26057,7 @@
 {
 "cls": "document",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
 "node": "doc-si-big-sur-1993",
 "open": false,
@@ -25997,7 +26072,7 @@
 {
 "cls": "document",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
 "node": "doc-si-big-sur-1993",
 "open": false,
@@ -26012,7 +26087,7 @@
 {
 "cls": "document",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
 "node": "doc-si-big-sur-1993",
 "open": false,
@@ -26027,7 +26102,7 @@
 {
 "cls": "document",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
 "node": "doc-si-big-sur-1993",
 "open": false,
@@ -26387,7 +26462,7 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "node": "dod-sapco",
 "open": true,
@@ -26402,7 +26477,7 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "node": "dod-sapco",
 "open": true,
@@ -26417,7 +26492,82 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": "web.archive.org",
+"text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+"text": "DoDD 5205.07 (2010) Enclosure 3, Note 2: 'The Director, DoD SAPCO, has AAA [access approval authority] for all SAPs unless expressly withheld by the Secretary or Deputy Secretary of Defense.' Note 4: the Director 'shall coordinate on PARs for the White House, National Security Council, and political appointees of the Executive Branch.' Note 3: the Director coordinates PARs 'for judicial and other Federal agency personnel for waived programs.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": "web.archive.org",
+"text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+"text": "DoDD 5205.07 (2010) para 4.c: 'The DoD SAP Central Office (SAPCO), under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": null,
+"text": "DoDD 5205.07 (2010), para 4.c",
+"url": null
+},
+"text": "DoDD 5205.07 (2010) para 4.c: DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": null,
+"text": "DoDD 5205.07 (2024), Director DoD SAPCO responsibilities",
+"url": null
+},
+"text": "DoDD 5205.07 (2024) makes the Director, DoD SAPCO Executive Secretary of the SAPOC and the SRG and Chair of the SSWG, reporting directly to the Deputy Secretary of Defense.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": "www.esd.whs.mil",
+"text": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+"text": "DoDD 5205.07 (2024) restates it: the Director, DoD SAPCO, 'under the authority, direction, and control of the Deputy Secretary of Defense, will be a general officer, flag officer, or Senior Executive Service member or equivalent appointed to oversee day-to-day management of the SAP Enterprise,' serves as proponent for SAP policy, as Executive Secretary of the SAPOC and SRG, as Chair of the SSWG, and as 'primary point of contact for congressional matters', and 'Maintains records of DoD SAP information provided to Congress.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "node": "dod-sapco",
 "open": true,
@@ -26432,7 +26582,52 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": null,
+"text": "DoDI 5205.11, Enclosure 2, para 2.k",
+"url": null
+},
+"text": "DoDI 5205.11 Enclosure 2 para 2.k: DoD SAPCO 'Establishes policies and applicable procedures to satisfy reporting requirements for DSS carve-outs, CFIUS, and treaty matters. Provides DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": "web.archive.org",
+"text": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+},
+"text": "DoDM 5205.07 Vol 1, Enclosure 2, para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": null,
+"text": "DoDM 5205.07 Volume 1, Enclosure 2, para 3.b",
+"url": null
+},
+"text": "DoDM 5205.07-V1 Enclosure 2 para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "node": "dod-sapco",
 "open": true,
@@ -26447,7 +26642,7 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "node": "dod-sapco",
 "open": true,
@@ -26457,6 +26652,36 @@
 "url": null
 },
 "text": "AARO's assurance of 'full access to all pertinent sensitive USG programs' is unfalsifiable as written, because the determination of which programs are 'pertinent' was made by the same SAPCO enterprise that would be the custodian of any concealed program. Reasoning: the reviewer's scope was set by the reviewed.",
+"tier": 3
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": null,
+"text": "DoDI 5205.11 Enclosure 2; DoDD 5205.07 (2010) paras 4.c and 4.e",
+"url": null
+},
+"text": "DoD SAPCO is simultaneously the office that (a) writes the criteria for reviewing waived programs, (b) confirms which contractor facilities are carved out of DCSA oversight, (c) is the single point of congressional liaison, and (d) must approve any contractor's provision of SAP material to a member of Congress. Those four functions in one office, reporting to the official who signs the waivers, is the structural definition of a closed loop. Reasoning: enumeration of the four responsibilities from DoDI 5205.11 and DoDD 5205.07.",
+"tier": 3
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "DoD Special Access Program Central Office (DoD SAPCO)",
+"node": "dod-sapco",
+"open": true,
+"source": {
+"domain": "web.archive.org",
+"text": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+},
+"text": "One office holds: single-point congressional liaison, custody of the record of what was told to Congress, access-approval authority for all SAPs, and the coordination point for White House, NSC, judicial and political-appointee access to waived programs. Every external route into a waived DoD SAP -- legislative, executive and judicial -- transits the same desk, which reports to the Deputy Secretary of Defense and to no one outside the Department. Reasoning stated from DoDD 5205.07 (2010) paras 4.c, 4.e and Enclosure 3 Notes 2-4.",
 "tier": 3
 },
 {
@@ -26822,7 +27047,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26837,7 +27062,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26852,7 +27077,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26867,7 +27092,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26882,7 +27107,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26897,7 +27122,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26912,7 +27137,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26927,7 +27152,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26942,7 +27167,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26957,7 +27182,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26972,7 +27197,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -26987,7 +27212,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "node": "dodd-5205-07-2024",
 "open": false,
@@ -27033,7 +27258,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27048,7 +27273,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27063,7 +27288,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27078,7 +27303,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27093,7 +27318,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27108,7 +27333,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27123,7 +27348,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27138,7 +27363,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27153,7 +27378,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27168,7 +27393,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27183,7 +27408,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27198,7 +27423,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27213,7 +27438,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27228,7 +27453,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27243,7 +27468,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27258,7 +27483,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27273,7 +27498,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27288,7 +27513,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27303,7 +27528,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27318,7 +27543,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27333,7 +27558,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27348,7 +27573,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "node": "dodi-5205-11",
 "open": false,
 "source": {
@@ -27753,7 +27978,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27768,7 +27993,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27783,7 +28008,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27798,7 +28023,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27813,7 +28038,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27828,7 +28053,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27843,7 +28068,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27858,7 +28083,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27873,7 +28098,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27888,7 +28113,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27903,7 +28128,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27918,7 +28143,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27933,7 +28158,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27948,7 +28173,7 @@
 "cls": "document",
 "cluster": "legacy",
 "denied": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "node": "dodm-5205-07-series",
 "open": false,
 "source": {
@@ -27962,8 +28187,8 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"denied": false,
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "node": "dodm-5205-07-v1",
 "open": false,
 "source": {
@@ -27977,8 +28202,8 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"denied": false,
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "node": "dodm-5205-07-v1",
 "open": false,
 "source": {
@@ -27992,8 +28217,8 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"denied": false,
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "node": "dodm-5205-07-v1",
 "open": false,
 "source": {
@@ -28007,8 +28232,8 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"denied": false,
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "node": "dodm-5205-07-v1",
 "open": false,
 "source": {
@@ -28022,8 +28247,8 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"denied": false,
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "node": "dodm-5205-07-v1",
 "open": false,
 "source": {
@@ -28037,8 +28262,8 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"denied": false,
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "node": "dodm-5205-07-v1",
 "open": false,
 "source": {
@@ -28052,8 +28277,8 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"denied": false,
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "node": "dodm-5205-07-v1",
 "open": false,
 "source": {
@@ -28067,8 +28292,8 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"denied": false,
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "node": "dodm-5205-07-v1",
 "open": false,
 "source": {
@@ -28082,8 +28307,8 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"denied": false,
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "node": "dodm-5205-07-v1",
 "open": false,
 "source": {
@@ -28097,8 +28322,8 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"denied": false,
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "node": "dodm-5205-07-v1",
 "open": false,
 "source": {
@@ -28382,7 +28607,7 @@
 {
 "cls": "person",
 "cluster": "media",
-"denied": true,
+"denied": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "node": "donald-keyhoe",
 "open": false,
@@ -28397,7 +28622,7 @@
 {
 "cls": "person",
 "cluster": "media",
-"denied": true,
+"denied": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "node": "donald-keyhoe",
 "open": false,
@@ -28412,7 +28637,7 @@
 {
 "cls": "person",
 "cluster": "media",
-"denied": true,
+"denied": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "node": "donald-keyhoe",
 "open": false,
@@ -28427,7 +28652,7 @@
 {
 "cls": "person",
 "cluster": "media",
-"denied": true,
+"denied": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "node": "donald-keyhoe",
 "open": false,
@@ -28442,7 +28667,7 @@
 {
 "cls": "person",
 "cluster": "media",
-"denied": true,
+"denied": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "node": "donald-keyhoe",
 "open": false,
@@ -30158,21 +30383,6 @@
 "open": false,
 "source": {
 "domain": null,
-"text": "Rep. Eli Crane, Task Force on the Declassification of Federal Secrets hearing record, Serial No. 119-44, 9 September 2025",
-"url": null
-},
-"text": "'I would like to enter into the testimony a letter I sent to the DOD regarding the case of Major David Charles Grusch, a UAP whistleblower who has been extremely helpful to this Committee. Unfortunately, due to his participation in the disclosure of UAP, he suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
-"tier": 1
-},
-{
-"cls": "person",
-"cluster": "oversight",
-"denied": true,
-"label": "Elijah Crane",
-"node": "eli-crane",
-"open": false,
-"source": {
-"domain": null,
 "text": "Congress.gov, H.R. 5060 (119th Congress), cosponsor record",
 "url": null
 },
@@ -30873,7 +31083,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 12829 — National Industrial Security Program (6 Jan 1993)",
+"label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "node": "eo-12829",
 "open": false,
 "source": {
@@ -30888,7 +31098,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 12829 — National Industrial Security Program (6 Jan 1993)",
+"label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "node": "eo-12829",
 "open": false,
 "source": {
@@ -30903,7 +31113,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 12829 — National Industrial Security Program (6 Jan 1993)",
+"label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "node": "eo-12829",
 "open": false,
 "source": {
@@ -30918,7 +31128,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -30933,7 +31143,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -30948,7 +31158,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -30963,7 +31173,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -30978,7 +31188,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -30993,7 +31203,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31008,7 +31218,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31023,7 +31233,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31038,7 +31248,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31053,7 +31263,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31068,7 +31278,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31083,7 +31293,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31098,7 +31308,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31113,7 +31323,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31128,7 +31338,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31143,7 +31353,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31158,7 +31368,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31173,7 +31383,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31188,7 +31398,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "node": "eo-13526",
 "open": false,
 "source": {
@@ -31262,7 +31472,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31277,7 +31487,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31292,7 +31502,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31307,7 +31517,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31322,7 +31532,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31337,7 +31547,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31352,7 +31562,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31367,7 +31577,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31382,7 +31592,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31397,7 +31607,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31412,7 +31622,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31427,7 +31637,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31442,7 +31652,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31457,7 +31667,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31472,7 +31682,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31487,7 +31697,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31502,7 +31712,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31517,7 +31727,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31532,7 +31742,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31547,7 +31757,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31562,7 +31772,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31577,7 +31787,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31592,7 +31802,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Eric Burlison",
 "node": "eric-burlison",
 "open": false,
@@ -31652,7 +31862,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31667,7 +31877,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31682,7 +31892,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31697,7 +31907,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31712,7 +31922,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31727,7 +31937,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31742,7 +31952,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31757,7 +31967,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31772,7 +31982,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31787,7 +31997,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31802,7 +32012,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31817,7 +32027,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31832,7 +32042,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31847,7 +32057,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31862,7 +32072,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31877,7 +32087,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31892,7 +32102,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31907,7 +32117,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31922,7 +32132,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31937,7 +32147,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -31952,7 +32162,7 @@
 {
 "cls": "person",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "Eric W. Davis",
 "node": "eric-davis",
 "open": false,
@@ -32582,7 +32792,7 @@
 {
 "cls": "event",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Closure of the MoD UFO Desk, 1 December 2009",
 "node": "ev-uk-ufo-desk-closure",
 "open": false,
@@ -32597,7 +32807,7 @@
 {
 "cls": "event",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Closure of the MoD UFO Desk, 1 December 2009",
 "node": "ev-uk-ufo-desk-closure",
 "open": false,
@@ -32612,7 +32822,7 @@
 {
 "cls": "event",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Closure of the MoD UFO Desk, 1 December 2009",
 "node": "ev-uk-ufo-desk-closure",
 "open": false,
@@ -32623,6 +32833,21 @@
 },
 "text": "The closure is the delayed execution of Condign's key recommendation rather than an independent 2009 judgement. Reasoning: Condign's key recommendation in 2000 was that DI55 should no longer be required to monitor UAP reports and that the database should not be maintained; the desk that fed that database was wound up in 2009 on the same stated ground of no defence value.",
 "tier": 3
+},
+{
+"cls": "event",
+"cluster": "legacy",
+"denied": false,
+"label": "Varginha incident, Minas Gerais, January 1996",
+"node": "ev-varginha-1996",
+"open": false,
+"source": {
+"domain": null,
+"text": "Brazilian Army inquiry, 2010 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "A 2010 Brazilian military inquiry concluded the women had encountered Luiz Antonio de Paula, known as 'Mudinho', with the commander of the 24th Military Police Battalion supplying photographs and stating his physical characteristics matched the description.",
+"tier": 2
 },
 {
 "cls": "event",
@@ -32682,6 +32907,36 @@
 "url": null
 },
 "text": "The 2010 Brazilian military inquiry concluded that 'this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature', and that the movements of Fire Brigade, Army and EsSA vehicles 'were real facts ... incorrectly interpreted'.",
+"tier": 2
+},
+{
+"cls": "event",
+"cluster": "legacy",
+"denied": false,
+"label": "Varginha incident, Minas Gerais, January 1996",
+"node": "ev-varginha-1996",
+"open": false,
+"source": {
+"domain": null,
+"text": "Brazilian Army inquiry, 2010, quoted findings — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The inquiry concluded that the presence of firefighters in Jardim Andere, the parking of Army trucks near a dealership for periodic maintenance and the departure of Escola de Sargentos das Armas vehicles were real events incorrectly interpreted as participation in a capture and transport.",
+"tier": 2
+},
+{
+"cls": "event",
+"cluster": "legacy",
+"denied": false,
+"label": "Varginha incident, Minas Gerais, January 1996",
+"node": "ev-varginha-1996",
+"open": false,
+"source": {
+"domain": null,
+"text": "Contemporary Brazilian media reports and the witnesses' accounts",
+"url": null
+},
+"text": "Three women aged 14 to 22 reported seeing an unknown large-headed biped with vein-like skin markings, three bumps on the head and red eyes near Rua Dr. Benevenuto Braz Vieira at about 3:30 p.m. on 20 January 1996.",
 "tier": 2
 },
 {
@@ -33438,7 +33693,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"label": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+"label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
 "node": "foia-21-f-0938",
 "open": false,
 "source": {
@@ -33453,7 +33708,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"label": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+"label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
 "node": "foia-21-f-0938",
 "open": false,
 "source": {
@@ -33468,7 +33723,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"label": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+"label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
 "node": "foia-21-f-0938",
 "open": false,
 "source": {
@@ -34653,7 +34908,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"label": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
 "node": "gao-04-332",
 "open": false,
 "source": {
@@ -34668,7 +34923,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"label": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
 "node": "gao-04-332",
 "open": false,
 "source": {
@@ -34683,7 +34938,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"label": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
 "node": "gao-04-332",
 "open": false,
 "source": {
@@ -34698,7 +34953,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"label": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
 "node": "gao-04-332",
 "open": false,
 "source": {
@@ -34713,7 +34968,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"label": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
 "node": "gao-04-332",
 "open": false,
 "source": {
@@ -34728,7 +34983,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": false,
-"label": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+"label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
 "node": "gao-04-332",
 "open": false,
 "source": {
@@ -34953,7 +35208,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "node": "gao-nsiad-95-187",
 "open": false,
 "source": {
@@ -34968,7 +35223,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "node": "gao-nsiad-95-187",
 "open": false,
 "source": {
@@ -34983,7 +35238,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "node": "gao-nsiad-95-187",
 "open": false,
 "source": {
@@ -34998,7 +35253,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "node": "gao-nsiad-95-187",
 "open": false,
 "source": {
@@ -35013,7 +35268,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "node": "gao-nsiad-95-187",
 "open": false,
 "source": {
@@ -35028,7 +35283,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "node": "gao-nsiad-95-187",
 "open": false,
 "source": {
@@ -35043,7 +35298,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "node": "gao-nsiad-95-187",
 "open": false,
 "source": {
@@ -40058,21 +40313,6 @@
 "open": true,
 "source": {
 "domain": null,
-"text": "House Committee on Oversight and Government Reform hearing record; CHRG-119hhrg61718",
-"url": null
-},
-"text": "The hearing was held 9 September 2025 before the House Oversight Task Force on the Declassification of Federal Secrets with witnesses Nuccetelli, Wiggins, Knapp, Borland and Spielberger.",
-"tier": 1
-},
-{
-"cls": "event",
-"cluster": "oversight",
-"denied": false,
-"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"node": "hearing-2025-09-09",
-"open": true,
-"source": {
-"domain": null,
 "text": "CHRG-119hhrg61718 front matter",
 "url": null
 },
@@ -41268,7 +41508,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
 "open": false,
 "source": {
@@ -41283,7 +41523,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
 "open": false,
 "source": {
@@ -41298,7 +41538,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
 "open": false,
 "source": {
@@ -41313,7 +41553,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
 "open": false,
 "source": {
@@ -41328,7 +41568,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
 "open": false,
 "source": {
@@ -41343,7 +41583,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
 "open": false,
 "source": {
@@ -41358,7 +41598,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
 "open": false,
 "source": {
@@ -41373,7 +41613,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
 "open": false,
 "source": {
@@ -41388,7 +41628,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
 "open": false,
 "source": {
@@ -41403,7 +41643,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "node": "iaa-fy2024-7343",
 "open": false,
 "source": {
@@ -41418,7 +41658,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41433,7 +41673,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41448,7 +41688,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41463,7 +41703,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41478,7 +41718,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41493,7 +41733,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41508,7 +41748,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41523,7 +41763,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41538,7 +41778,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41553,7 +41793,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41568,7 +41808,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41583,7 +41823,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41598,7 +41838,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41613,7 +41853,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41628,7 +41868,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41643,7 +41883,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41658,7 +41898,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41673,7 +41913,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41688,7 +41928,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41703,7 +41943,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41718,7 +41958,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "node": "iaa-fy2024-sec-1102",
 "open": false,
 "source": {
@@ -41777,8 +42017,8 @@
 {
 "cls": "legislation",
 "cluster": "ic",
-"denied": true,
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"denied": false,
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "node": "iaa-fy2025-title-lxviii",
 "open": false,
 "source": {
@@ -41792,8 +42032,8 @@
 {
 "cls": "legislation",
 "cluster": "ic",
-"denied": true,
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"denied": false,
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "node": "iaa-fy2025-title-lxviii",
 "open": false,
 "source": {
@@ -41807,8 +42047,8 @@
 {
 "cls": "legislation",
 "cluster": "ic",
-"denied": true,
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"denied": false,
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "node": "iaa-fy2025-title-lxviii",
 "open": false,
 "source": {
@@ -41822,8 +42062,8 @@
 {
 "cls": "legislation",
 "cluster": "ic",
-"denied": true,
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"denied": false,
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "node": "iaa-fy2025-title-lxviii",
 "open": false,
 "source": {
@@ -41837,8 +42077,8 @@
 {
 "cls": "legislation",
 "cluster": "ic",
-"denied": true,
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"denied": false,
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "node": "iaa-fy2025-title-lxviii",
 "open": false,
 "source": {
@@ -41973,7 +42213,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -41988,7 +42228,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42003,7 +42243,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42018,7 +42258,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42033,7 +42273,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42048,7 +42288,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42063,7 +42303,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42078,7 +42318,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42093,7 +42333,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42108,7 +42348,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42123,7 +42363,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42138,7 +42378,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42153,7 +42393,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42168,7 +42408,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42183,7 +42423,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42198,7 +42438,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42213,7 +42453,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42228,7 +42468,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42243,7 +42483,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42258,7 +42498,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -42273,7 +42513,7 @@
 "cls": "document",
 "cluster": "ic",
 "denied": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "node": "icd-906",
 "open": false,
 "source": {
@@ -43487,7 +43727,7 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Information Security Oversight Office",
 "node": "isoo",
 "open": false,
@@ -43502,7 +43742,7 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Information Security Oversight Office",
 "node": "isoo",
 "open": false,
@@ -43517,7 +43757,7 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Information Security Oversight Office",
 "node": "isoo",
 "open": false,
@@ -43608,7 +43848,7 @@
 "cls": "institution",
 "cluster": "research",
 "denied": false,
-"label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+"label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
 "node": "izmiran",
 "open": false,
 "source": {
@@ -43623,7 +43863,7 @@
 "cls": "institution",
 "cluster": "research",
 "denied": false,
-"label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+"label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
 "node": "izmiran",
 "open": false,
 "source": {
@@ -43638,7 +43878,7 @@
 "cls": "institution",
 "cluster": "research",
 "denied": false,
-"label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+"label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
 "node": "izmiran",
 "open": false,
 "source": {
@@ -43653,7 +43893,7 @@
 "cls": "institution",
 "cluster": "research",
 "denied": false,
-"label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+"label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
 "node": "izmiran",
 "open": false,
 "source": {
@@ -44942,7 +45182,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "node": "janap-146",
 "open": false,
@@ -44957,7 +45197,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "node": "janap-146",
 "open": false,
@@ -44972,7 +45212,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "node": "janap-146",
 "open": false,
@@ -44987,7 +45227,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "node": "janap-146",
 "open": false,
@@ -45002,7 +45242,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "node": "janap-146",
 "open": false,
@@ -45017,7 +45257,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "node": "janap-146",
 "open": false,
@@ -45032,7 +45272,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "node": "janap-146",
 "open": false,
@@ -45047,7 +45287,7 @@
 {
 "cls": "document",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "node": "janap-146",
 "open": false,
@@ -61307,7 +61547,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61322,7 +61562,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61337,7 +61577,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61352,7 +61592,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61367,7 +61607,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61382,7 +61622,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61397,7 +61637,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61412,7 +61652,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61427,7 +61667,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61442,7 +61682,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61457,7 +61697,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61472,7 +61712,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61487,7 +61727,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61502,7 +61742,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61517,7 +61757,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61532,7 +61772,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61547,7 +61787,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61562,7 +61802,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61577,7 +61817,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61592,7 +61832,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61607,7 +61847,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61622,7 +61862,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61637,7 +61877,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61652,7 +61892,7 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "node": "ndaa-fy2024",
 "open": true,
@@ -61668,7 +61908,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61683,7 +61923,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61698,7 +61938,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61713,7 +61953,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61728,7 +61968,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61743,7 +61983,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61758,7 +61998,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61773,7 +62013,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61788,7 +62028,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61803,7 +62043,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61818,7 +62058,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61833,7 +62073,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61848,7 +62088,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61863,7 +62103,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61878,7 +62118,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61893,7 +62133,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61908,7 +62148,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61923,7 +62163,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "node": "ndaa-fy2024-1687",
 "open": false,
 "source": {
@@ -61938,7 +62178,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "node": "ndaa-fy2024-7606",
 "open": false,
 "source": {
@@ -61953,7 +62193,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "node": "ndaa-fy2024-7606",
 "open": false,
 "source": {
@@ -61968,7 +62208,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "node": "ndaa-fy2024-7606",
 "open": false,
 "source": {
@@ -61983,7 +62223,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "node": "ndaa-fy2024-7606",
 "open": false,
 "source": {
@@ -61998,7 +62238,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "node": "ndaa-fy2024-7606",
 "open": false,
 "source": {
@@ -62013,7 +62253,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+"label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "node": "ndaa-fy2024-7606",
 "open": false,
 "source": {
@@ -62027,8 +62267,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"denied": false,
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "node": "ndaa-fy2024-subtitle-c",
 "open": false,
 "source": {
@@ -62042,8 +62282,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"denied": false,
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "node": "ndaa-fy2024-subtitle-c",
 "open": false,
 "source": {
@@ -62057,8 +62297,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"denied": false,
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "node": "ndaa-fy2024-subtitle-c",
 "open": false,
 "source": {
@@ -62072,8 +62312,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"denied": false,
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "node": "ndaa-fy2024-subtitle-c",
 "open": false,
 "source": {
@@ -62087,8 +62327,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"denied": false,
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "node": "ndaa-fy2024-subtitle-c",
 "open": false,
 "source": {
@@ -62102,8 +62342,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"denied": false,
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "node": "ndaa-fy2024-subtitle-c",
 "open": false,
 "source": {
@@ -62117,8 +62357,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"denied": false,
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "node": "ndaa-fy2024-subtitle-c",
 "open": false,
 "source": {
@@ -62132,8 +62372,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"denied": false,
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "node": "ndaa-fy2024-subtitle-c",
 "open": false,
 "source": {
@@ -63647,7 +63887,7 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "NORAD and US Northern Command",
 "node": "norad-northcom",
 "open": false,
@@ -63662,7 +63902,7 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "NORAD and US Northern Command",
 "node": "norad-northcom",
 "open": false,
@@ -63677,7 +63917,7 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "NORAD and US Northern Command",
 "node": "norad-northcom",
 "open": false,
@@ -66002,7 +66242,7 @@
 {
 "cls": "institution",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "node": "ousdi",
 "open": false,
@@ -66017,7 +66257,7 @@
 {
 "cls": "institution",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "node": "ousdi",
 "open": false,
@@ -66032,7 +66272,7 @@
 {
 "cls": "institution",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "node": "ousdi",
 "open": false,
@@ -66047,7 +66287,7 @@
 {
 "cls": "institution",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "node": "ousdi",
 "open": false,
@@ -66062,7 +66302,7 @@
 {
 "cls": "institution",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "node": "ousdi",
 "open": false,
@@ -66137,7 +66377,7 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Congressional oversight of special access programs",
 "node": "oversight-congress",
 "open": false,
@@ -66152,7 +66392,7 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Congressional oversight of special access programs",
 "node": "oversight-congress",
 "open": false,
@@ -66167,7 +66407,7 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Congressional oversight of special access programs",
 "node": "oversight-congress",
 "open": false,
@@ -66182,7 +66422,7 @@
 {
 "cls": "institution",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Congressional oversight of special access programs",
 "node": "oversight-congress",
 "open": false,
@@ -68118,7 +68358,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "node": "pl-100-180",
 "open": false,
 "source": {
@@ -68133,7 +68373,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "node": "pl-100-180",
 "open": false,
 "source": {
@@ -68148,7 +68388,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "node": "pl-100-180",
 "open": false,
 "source": {
@@ -68163,7 +68403,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "node": "pl-100-180",
 "open": false,
 "source": {
@@ -68178,7 +68418,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "node": "pl-100-180",
 "open": false,
 "source": {
@@ -68193,7 +68433,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "node": "pl118-31-sec-1687",
 "open": false,
 "source": {
@@ -68208,7 +68448,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "node": "pl118-31-sec-1687",
 "open": false,
 "source": {
@@ -68223,7 +68463,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "node": "pl118-31-sec-1687",
 "open": false,
 "source": {
@@ -68238,7 +68478,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "node": "pl118-31-sec-1687",
 "open": false,
 "source": {
@@ -68253,7 +68493,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "node": "pl118-31-sec-1687",
 "open": false,
 "source": {
@@ -68268,7 +68508,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "node": "pl118-31-sec-1687",
 "open": false,
 "source": {
@@ -68283,7 +68523,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "node": "pl118-31-sec-1687",
 "open": false,
 "source": {
@@ -68298,7 +68538,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "node": "pl118-31-sec-7343",
 "open": false,
 "source": {
@@ -68313,7 +68553,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "node": "pl118-31-sec-7343",
 "open": false,
 "source": {
@@ -68328,7 +68568,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "node": "pl118-31-sec-7343",
 "open": false,
 "source": {
@@ -68343,7 +68583,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "node": "pl118-31-sec-7343",
 "open": false,
 "source": {
@@ -68358,7 +68598,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "node": "pl118-31-sec-7343",
 "open": false,
 "source": {
@@ -68373,7 +68613,7 @@
 "cls": "legislation",
 "cluster": "ic",
 "denied": false,
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "node": "pl118-31-sec-7343",
 "open": false,
 "source": {
@@ -69227,7 +69467,7 @@
 {
 "cls": "program",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "Project MOGUL",
 "node": "project-mogul",
 "open": false,
@@ -69242,7 +69482,7 @@
 {
 "cls": "program",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "Project MOGUL",
 "node": "project-mogul",
 "open": false,
@@ -69257,7 +69497,7 @@
 {
 "cls": "program",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "Project MOGUL",
 "node": "project-mogul",
 "open": false,
@@ -69272,7 +69512,7 @@
 {
 "cls": "program",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "Project MOGUL",
 "node": "project-mogul",
 "open": false,
@@ -71343,7 +71583,7 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
-"label": "NARA Record Group 615 — UAP Records Collection",
+"label": "NARA Record Group 615 - UAP Records Collection",
 "node": "rg-615-uap-records",
 "open": false,
 "source": {
@@ -71358,7 +71598,7 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
-"label": "NARA Record Group 615 — UAP Records Collection",
+"label": "NARA Record Group 615 - UAP Records Collection",
 "node": "rg-615-uap-records",
 "open": false,
 "source": {
@@ -71373,7 +71613,7 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
-"label": "NARA Record Group 615 — UAP Records Collection",
+"label": "NARA Record Group 615 - UAP Records Collection",
 "node": "rg-615-uap-records",
 "open": false,
 "source": {
@@ -71388,7 +71628,7 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
-"label": "NARA Record Group 615 — UAP Records Collection",
+"label": "NARA Record Group 615 - UAP Records Collection",
 "node": "rg-615-uap-records",
 "open": false,
 "source": {
@@ -71403,7 +71643,7 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
-"label": "NARA Record Group 615 — UAP Records Collection",
+"label": "NARA Record Group 615 - UAP Records Collection",
 "node": "rg-615-uap-records",
 "open": false,
 "source": {
@@ -73592,7 +73832,7 @@
 {
 "cls": "program",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Robertson Panel",
 "node": "robertson-panel",
 "open": true,
@@ -73607,7 +73847,7 @@
 {
 "cls": "program",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Robertson Panel",
 "node": "robertson-panel",
 "open": true,
@@ -73622,7 +73862,7 @@
 {
 "cls": "program",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Robertson Panel",
 "node": "robertson-panel",
 "open": true,
@@ -73637,7 +73877,7 @@
 {
 "cls": "program",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Robertson Panel",
 "node": "robertson-panel",
 "open": true,
@@ -73652,7 +73892,7 @@
 {
 "cls": "program",
 "cluster": "ic",
-"denied": true,
+"denied": false,
 "label": "Robertson Panel",
 "node": "robertson-panel",
 "open": true,
@@ -74327,7 +74567,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "node": "roswell-report-case-closed",
 "open": false,
@@ -74342,7 +74582,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "node": "roswell-report-case-closed",
 "open": false,
@@ -74357,7 +74597,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "node": "roswell-report-case-closed",
 "open": false,
@@ -74372,7 +74612,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "node": "roswell-report-case-closed",
 "open": false,
@@ -74913,7 +75153,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "SAF/AAZ — Air Force Declassification & Special Programs",
+"label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "node": "saf-aaz",
 "open": false,
 "source": {
@@ -74928,7 +75168,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "SAF/AAZ — Air Force Declassification & Special Programs",
+"label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "node": "saf-aaz",
 "open": false,
 "source": {
@@ -74943,7 +75183,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "SAF/AAZ — Air Force Declassification & Special Programs",
+"label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "node": "saf-aaz",
 "open": false,
 "source": {
@@ -74958,7 +75198,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "SAF/AAZ — Air Force Declassification & Special Programs",
+"label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "node": "saf-aaz",
 "open": false,
 "source": {
@@ -74973,7 +75213,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "SAF/AAZ — Air Force Declassification & Special Programs",
+"label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "node": "saf-aaz",
 "open": false,
 "source": {
@@ -74988,7 +75228,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "SAF/AAZ — Air Force Declassification & Special Programs",
+"label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "node": "saf-aaz",
 "open": false,
 "source": {
@@ -75003,7 +75243,7 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"label": "SAF/AAZ — Air Force Declassification & Special Programs",
+"label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "node": "saf-aaz",
 "open": false,
 "source": {
@@ -75947,7 +76187,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The annual DoD special access program report to Congress",
 "node": "sap-annual-report",
 "open": false,
@@ -75962,7 +76202,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The annual DoD special access program report to Congress",
 "node": "sap-annual-report",
 "open": false,
@@ -75977,7 +76217,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The annual DoD special access program report to Congress",
 "node": "sap-annual-report",
 "open": false,
@@ -75992,7 +76232,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The annual DoD special access program report to Congress",
 "node": "sap-annual-report",
 "open": false,
@@ -76007,7 +76247,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The annual DoD special access program report to Congress",
 "node": "sap-annual-report",
 "open": false,
@@ -76022,7 +76262,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The annual DoD special access program report to Congress",
 "node": "sap-annual-report",
 "open": false,
@@ -76037,7 +76277,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The annual DoD special access program report to Congress",
 "node": "sap-annual-report",
 "open": false,
@@ -76052,7 +76292,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The annual DoD special access program report to Congress",
 "node": "sap-annual-report",
 "open": false,
@@ -76067,7 +76307,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "The annual DoD special access program report to Congress",
 "node": "sap-annual-report",
 "open": false,
@@ -76083,7 +76323,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "node": "sap-cover-mechanisms",
 "open": false,
 "source": {
@@ -76098,7 +76338,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "node": "sap-cover-mechanisms",
 "open": false,
 "source": {
@@ -76113,7 +76353,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "node": "sap-cover-mechanisms",
 "open": false,
 "source": {
@@ -76128,7 +76368,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "node": "sap-cover-mechanisms",
 "open": false,
 "source": {
@@ -76143,7 +76383,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "node": "sap-cover-mechanisms",
 "open": false,
 "source": {
@@ -76158,7 +76398,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "node": "sap-cover-mechanisms",
 "open": false,
 "source": {
@@ -76173,7 +76413,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "node": "sap-cover-mechanisms",
 "open": false,
 "source": {
@@ -76188,7 +76428,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "node": "sap-cover-mechanisms",
 "open": false,
 "source": {
@@ -76203,7 +76443,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "node": "sap-cover-mechanisms",
 "open": false,
 "source": {
@@ -76278,7 +76518,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": true,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "node": "sap-taxonomy",
 "open": false,
 "source": {
@@ -76293,7 +76533,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": true,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "node": "sap-taxonomy",
 "open": false,
 "source": {
@@ -76308,7 +76548,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": true,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "node": "sap-taxonomy",
 "open": false,
 "source": {
@@ -76323,7 +76563,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": true,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "node": "sap-taxonomy",
 "open": false,
 "source": {
@@ -76338,7 +76578,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": true,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "node": "sap-taxonomy",
 "open": false,
 "source": {
@@ -76353,7 +76593,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": true,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "node": "sap-taxonomy",
 "open": false,
 "source": {
@@ -76368,7 +76608,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": true,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "node": "sap-taxonomy",
 "open": false,
 "source": {
@@ -76383,7 +76623,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": true,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "node": "sap-taxonomy",
 "open": false,
 "source": {
@@ -76398,7 +76638,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": true,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "node": "sap-taxonomy",
 "open": false,
 "source": {
@@ -76413,7 +76653,7 @@
 "cls": "domain",
 "cluster": "legacy",
 "denied": true,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "node": "sap-taxonomy",
 "open": false,
 "source": {
@@ -77812,6 +78052,21 @@
 "node": "setka-program",
 "open": false,
 "source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "'During the work on the program (for 13 years) about three thousand of messages reporting about extraordinary phenomena have been obtained ... on the whole, more than 400 events were registered and identified as extraordinary or paranormal.' Over 90% were resolved as rocket-launch effects or high-altitude balloons, the balloon class accounting for 10-12% of messages. The Petrozavodsk phenomenon itself was attributed to 'the launch of an artificial Earth satellite \"Kosmos 955\" from the space range in Plesetsk'. Reports 'did not practically come' from units at or near test ranges, where such effects were familiar.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
 "domain": null,
 "text": "Stonehill and Mantle",
 "url": null
@@ -77857,6 +78112,81 @@
 "node": "setka-program",
 "open": false,
 "source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "'The budget financing of the research program included the salary of the experts occupied in these activities and the costs of business trips. All the money was coming from the budget of organisations - executors and there was no special financing of the research.' The programme was 'the most inexpensive one, if not the cheapest, among the scientific works on defensive subjects'.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "'Thus, in 1978 in the USSR the state program of studying the \"UFO\" phenomenon started, and proceeded without interruption for 13 years down to 1990.' Five-year defence research plans including the anomalous-phenomena work were approved again in 1981 and 1986.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "A document authorised by the Chief of the General Staff in January 1980 reached the troops as a General Staff Directive; it designated the central research institute as the collection, processing and analysis centre, named responsible institutes in all five arms, set the order for obtaining launch data needed for identification, and fixed rules for documenting and reporting detections by urgency.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "Academy of Sciences President Anatoly Aleksandrov wrote to L. Smirnov, Vice-President of the government and Chairman of the Military-Industrial Commission, requesting urgent consideration of a complex research programme on anomalous phenomena involving Ministry of Defence and war-industry organisations.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "Across the whole programme there was no message about a UFO landing, no message about contact with UFO occupants, and no message about abductions. The authors state the conclusion as a fork: 'either the territory of the USSR was, due to any reasons, closed for alien visitations during, at least, 13 years or that the hypothesis of an extraterrestrial origin of \"UFO\" is inconsistent.'",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
 "domain": null,
 "text": "Stonehill and Mantle, 'Setka: A Secret Soviet UFO Research Program'",
 "url": null
@@ -77887,12 +78217,132 @@
 "node": "setka-program",
 "open": false,
 "source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The MIC Scientific and Technical Council met 'in October, 1977 in Kremlin under the presidency of general - lieutenant B.A.Kijasov'; members noted that reports of extraordinary phenomena also reached Ministry of Defence organisations from servicemen and that 'during such events sometimes were marked the cases of violation in the operation of the means of maintenance of the army forces'.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Yu. V. Platov and B. A. Sokolov, translated from Vestnik Rossiiskoi Akademii Nauk, Vol. 70, No. 6, 2000, pp. 507-515 - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The Petrozavodsk phenomenon of 20 September 1977 was reported in Izvestia on 23 September 1977 under the title 'The Unidentified natural phenomenon', describing a 'huge \"star\" with impulsive beams of light coming to the ground' that hung over the town 'as a huge \"jellyfish\"'.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The military branch was led from 'one of the central military research institutes in the Moscow region', with its chief V. Balashov as scientific head and a working group of four to five people; roughly fifteen further Ministry of Defence and war-industry organisations participated voluntarily. The academic branch was headed by Academician V. Migulin, director of IZMIRAN, which was 'determined as the head institute in this field of activity', with a working group of four to five headed by Yu. Platov.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The research was classified for three stated reasons: it formally entered the classified defence plan; a military-technical origin for the effects was thought likely at the outset; and there was 'a capability of a military use of some probable properties of the UFO ... absence of a radar contrast, high manoeuvrability, etc.' In official documents 'the use of an abbreviation \"UFO\" was not accepted, instead of it the term \"paranormal phenomenon\" was used.'",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The series of flight emergencies in 1984-87 at the Borisoglebsk air unit in Voronezh region, characterised by unknown objects on radar and visually observed by pilots in emergency zones, is left explicitly unresolved: 'So far there is no consensus of opinion as to the role played in these emergencies by the mysterious objects observed in the zone of flight, and we shall interpret these events as unidentified.'",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "Two topics were entered in the 1978 defence research plan, verbatim: '\"Setka MO\" (Ministry of Defence) - \"Research of paranormal atmospheric and space phenomena and their influence on the operation of military technical equipment and personnel\"; \"Setka AS\" (Academy of Sciences) - \"Research of a physical nature and mechanisms of paranormal atmospheric and space phenomena\".'",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
 "domain": null,
 "text": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "url": null
 },
 "text": "UK Defence Intelligence Staff assessment: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.'",
 "tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "Verbatim: 'One can say that the noted directive for 13 years put the army into the on-duty regime of observation of the paranormal phenomena in the places of the army dislocation, i.e. practically on the whole territory of the USSR, and this means, anyway, approximately 1/6 of the Earth territory.' Each serviceman 'became (without knowing it) a potential participant of the program'.",
+"tier": 2
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"node": "setka-program",
+"open": false,
+"source": {
+"domain": "www.ufoinfo.com",
+"text": "Paul Stonehill and Philip Mantle, 'Setka: A Secret Soviet UFO Research Program - Dawn of the Secret Program' - https://www.ufoinfo.com/news/setka.shtml",
+"url": "https://www.ufoinfo.com/news/setka.shtml"
+},
+"text": "Secondary accounts state that the SETKA designations were changed to 'Galaktika' (MO and AN) in 1981 and to 'Gorizont' (MO and AN) in 1986.",
+"tier": 3
 },
 {
 "cls": "document",
@@ -78707,7 +79157,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78722,7 +79172,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78737,7 +79187,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78752,7 +79202,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78767,7 +79217,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78782,7 +79232,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78797,7 +79247,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78812,7 +79262,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78827,7 +79277,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78842,7 +79292,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78857,7 +79307,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78872,7 +79322,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78887,7 +79337,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -78902,7 +79352,7 @@
 {
 "cls": "institution",
 "cluster": "research",
-"denied": true,
+"denied": false,
 "label": "The Sol Foundation",
 "node": "sol-foundation",
 "open": false,
@@ -83477,7 +83927,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
 "node": "trump-truth-social-post-2026-02-20",
 "open": false,
@@ -83492,7 +83942,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
 "node": "trump-truth-social-post-2026-02-20",
 "open": false,
@@ -83507,7 +83957,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
 "node": "trump-truth-social-post-2026-02-20",
 "open": false,
@@ -83522,7 +83972,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
 "node": "trump-truth-social-post-2026-02-20",
 "open": false,
@@ -83537,7 +83987,7 @@
 {
 "cls": "document",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
 "node": "trump-truth-social-post-2026-02-20",
 "open": false,
@@ -84553,21 +85003,6 @@
 },
 "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - with an offer of assistance and a recommendation that participants request congressional presence and counsel.",
 "tier": 1
-},
-{
-"cls": "document",
-"cluster": "oversight",
-"denied": false,
-"label": "Presidential directive waiving UAP-related nondisclosure agreements",
-"node": "uap-nda-waiver-directive-2026",
-"open": false,
-"source": {
-"domain": null,
-"text": "Fox News, 21 July 2026",
-"url": null
-},
-"text": "Officials clarified the directive is 'not a declassification directive' and permits disclosure only to cleared government investigators at AARO or the PURSUE task force.",
-"tier": 2
 },
 {
 "cls": "document",
@@ -85698,7 +86133,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "node": "uapda-sec-9010-eminent-domain",
 "open": false,
 "source": {
@@ -85713,7 +86148,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "node": "uapda-sec-9010-eminent-domain",
 "open": false,
 "source": {
@@ -85728,7 +86163,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "node": "uapda-sec-9010-eminent-domain",
 "open": false,
 "source": {
@@ -85743,7 +86178,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "node": "uapda-sec-9010-eminent-domain",
 "open": false,
 "source": {
@@ -85758,7 +86193,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "node": "uapda-sec-9010-eminent-domain",
 "open": false,
 "source": {
@@ -85773,7 +86208,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "node": "uapda-sec-9010-eminent-domain",
 "open": false,
 "source": {
@@ -85788,7 +86223,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "node": "uapda-sec-9010-eminent-domain",
 "open": false,
 "source": {
@@ -85803,7 +86238,7 @@
 "cls": "document",
 "cluster": "oversight",
 "denied": true,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "node": "uapda-sec-9010-eminent-domain",
 "open": false,
 "source": {
@@ -85967,7 +86402,7 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "United Kingdom Ministry of Defence",
 "node": "uk-mod",
 "open": false,
@@ -85982,7 +86417,7 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "United Kingdom Ministry of Defence",
 "node": "uk-mod",
 "open": false,
@@ -86567,7 +87002,7 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "United States Air Force",
 "node": "usaf",
 "open": false,
@@ -86582,7 +87017,7 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "United States Air Force",
 "node": "usaf",
 "open": false,
@@ -86597,7 +87032,7 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "United States Air Force",
 "node": "usaf",
 "open": false,
@@ -86612,7 +87047,7 @@
 {
 "cls": "institution",
 "cluster": "legacy",
-"denied": true,
+"denied": false,
 "label": "United States Air Force",
 "node": "usaf",
 "open": false,
@@ -86777,8 +87212,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86792,8 +87227,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86807,8 +87242,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86822,8 +87257,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86837,8 +87272,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86852,8 +87287,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86867,8 +87302,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86882,8 +87317,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86897,8 +87332,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86912,8 +87347,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86927,8 +87362,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86942,8 +87377,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86957,8 +87392,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86972,8 +87407,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -86987,8 +87422,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87002,8 +87437,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87017,8 +87452,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87032,8 +87467,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87047,8 +87482,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87062,8 +87497,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87077,8 +87512,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87092,8 +87527,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87107,8 +87542,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87122,8 +87557,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87137,8 +87572,8 @@
 {
 "cls": "legislation",
 "cluster": "oversight",
-"denied": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"denied": false,
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "node": "usc-10-119",
 "open": true,
 "source": {
@@ -87153,7 +87588,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "node": "usc-10-119e",
 "open": false,
 "source": {
@@ -87168,7 +87603,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "node": "usc-10-119e",
 "open": false,
 "source": {
@@ -87183,7 +87618,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "node": "usc-10-119e",
 "open": false,
 "source": {
@@ -87198,7 +87633,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "node": "usc-10-119e",
 "open": false,
 "source": {
@@ -87213,7 +87648,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "node": "usc-10-119e",
 "open": false,
 "source": {
@@ -87228,7 +87663,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "node": "usc-10-119e",
 "open": false,
 "source": {
@@ -87243,7 +87678,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "node": "usc-10-119e",
 "open": false,
 "source": {
@@ -87258,7 +87693,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "node": "usc-10-119e",
 "open": false,
 "source": {
@@ -87273,7 +87708,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "node": "usc-10-119e",
 "open": false,
 "source": {
@@ -87288,7 +87723,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "node": "usc-50-2426",
 "open": false,
 "source": {
@@ -87303,7 +87738,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "node": "usc-50-2426",
 "open": false,
 "source": {
@@ -87318,7 +87753,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "node": "usc-50-2426",
 "open": false,
 "source": {
@@ -87333,7 +87768,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "node": "usc-50-2426",
 "open": false,
 "source": {
@@ -87348,7 +87783,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "node": "usc-50-2426",
 "open": false,
 "source": {
@@ -87363,7 +87798,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "node": "usc-50-2426",
 "open": false,
 "source": {
@@ -87378,7 +87813,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "node": "usc-50-2426",
 "open": false,
 "source": {
@@ -87393,7 +87828,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "node": "usc-50-2426",
 "open": false,
 "source": {
@@ -87408,7 +87843,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "node": "usc-50-3091",
 "open": false,
 "source": {
@@ -87423,7 +87858,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "node": "usc-50-3091",
 "open": false,
 "source": {
@@ -87438,7 +87873,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "node": "usc-50-3091",
 "open": false,
 "source": {
@@ -87453,7 +87888,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "node": "usc-50-3091",
 "open": false,
 "source": {
@@ -87468,7 +87903,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "node": "usc-50-3091",
 "open": false,
 "source": {
@@ -87483,7 +87918,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "node": "usc-50-3091",
 "open": false,
 "source": {
@@ -87498,7 +87933,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "node": "usc-50-3091",
 "open": false,
 "source": {
@@ -87513,7 +87948,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87528,7 +87963,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87543,7 +87978,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87558,7 +87993,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87573,7 +88008,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87588,7 +88023,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87603,7 +88038,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87618,7 +88053,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87633,7 +88068,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87648,7 +88083,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87663,7 +88098,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87678,7 +88113,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87693,7 +88128,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87708,7 +88143,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87723,7 +88158,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87738,7 +88173,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87753,7 +88188,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "node": "usc-50-3091a",
 "open": false,
 "source": {
@@ -87768,7 +88203,7 @@
 "cls": "legislation",
 "cluster": "other",
 "denied": false,
-"label": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+"label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "node": "usc-50-3091a-2024amend",
 "open": false,
 "source": {
@@ -87783,7 +88218,7 @@
 "cls": "legislation",
 "cluster": "other",
 "denied": false,
-"label": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+"label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "node": "usc-50-3091a-2024amend",
 "open": false,
 "source": {
@@ -87798,7 +88233,7 @@
 "cls": "legislation",
 "cluster": "other",
 "denied": false,
-"label": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+"label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "node": "usc-50-3091a-2024amend",
 "open": false,
 "source": {
@@ -87813,7 +88248,7 @@
 "cls": "legislation",
 "cluster": "other",
 "denied": false,
-"label": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+"label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "node": "usc-50-3091a-2024amend",
 "open": false,
 "source": {
@@ -87828,7 +88263,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "node": "usc-50-3093",
 "open": false,
 "source": {
@@ -87843,7 +88278,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "node": "usc-50-3093",
 "open": false,
 "source": {
@@ -87858,7 +88293,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "node": "usc-50-3093",
 "open": false,
 "source": {
@@ -87873,7 +88308,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "node": "usc-50-3093",
 "open": false,
 "source": {
@@ -87888,7 +88323,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "node": "usc-50-3093",
 "open": false,
 "source": {
@@ -87903,7 +88338,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "node": "usc-50-3093",
 "open": false,
 "source": {
@@ -87918,7 +88353,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "node": "usc-50-3093",
 "open": false,
 "source": {
@@ -87933,7 +88368,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "node": "usc-50-3093",
 "open": false,
 "source": {
@@ -88008,7 +88443,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88023,7 +88458,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88038,7 +88473,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88053,7 +88488,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88068,7 +88503,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88083,7 +88518,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88098,7 +88533,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88113,7 +88548,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88128,7 +88563,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88143,7 +88578,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88158,7 +88593,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88173,7 +88608,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88188,7 +88623,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -88203,7 +88638,7 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "node": "usc-50-3348",
 "open": false,
 "source": {
@@ -89283,7 +89718,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89298,7 +89733,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89313,7 +89748,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89328,7 +89763,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89343,7 +89778,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89358,7 +89793,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89373,7 +89808,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89388,7 +89823,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89403,7 +89838,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89418,7 +89853,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89433,7 +89868,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89448,7 +89883,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89463,7 +89898,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89478,7 +89913,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89493,7 +89928,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89508,7 +89943,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89523,7 +89958,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -89538,7 +89973,7 @@
 "cls": "program",
 "cluster": "legacy",
 "denied": false,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "node": "waived-usap-mechanism",
 "open": false,
 "source": {
@@ -90497,7 +90932,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "William J. Lynn III",
 "node": "william-lynn",
 "open": false,
@@ -90512,7 +90947,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "William J. Lynn III",
 "node": "william-lynn",
 "open": false,
@@ -90527,7 +90962,7 @@
 {
 "cls": "person",
 "cluster": "oversight",
-"denied": true,
+"denied": false,
 "label": "William J. Lynn III",
 "node": "william-lynn",
 "open": false,

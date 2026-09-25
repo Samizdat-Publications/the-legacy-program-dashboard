@@ -175,8 +175,8 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"congress-house",
-"grusch"
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -197,6 +197,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Glenn S. Grothman",
+"sourceFiles": [
+"congress-house",
+"grusch"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -225,13 +229,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 769 of 1170, score 22). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-11-13",
+"grade": "A",
 "id": "ch-2024-11-13d",
 "label": "Grothman's access claim",
 "precision": "day",
 "strand": "coverup",
-"text": "Grothman states that no agency substantiated Grusch's claims 'despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF' - a claim that cannot be reconciled with the read-in gate Luna documents ten months later.",
-"tier": "A"
+"text": "Grothman states that no agency substantiated Grusch's claims 'despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF' - a claim that cannot be reconciled with the read-in gate Luna documents ten months later."
 }
 ],
 "unexplainedResidual": null,

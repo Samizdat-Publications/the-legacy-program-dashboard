@@ -37,6 +37,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -129,9 +130,7 @@
 "deg": 4,
 "denials": [],
 "desc": "On 20 April 2026 Oversight Chairman James Comer and Rep. Eric Burlison, chair of the Subcommittee on Economic Growth, Energy Policy and Regulatory Affairs, wrote effectively identical letters to NASA, the FBI, the Department of War and the Department of Energy asking about deaths and disappearances among people with access to sensitive US scientific information. The letters say 'at least ten individuals' and say the pattern 'began in 2023 with the death of Michael David Hicks'; the board previously carried eleven people since 2022, which is the Fox News figure of 21 April 2026 and not the Committee's. The letters also frame their own subject as recent unconfirmed public reporting and footnote every factual assertion in them to the Daily Mail of 11 April 2026 and to New York Post pieces of 9 April, 18 March and 21 March 2026. What they establish is that the Committee asked, and the deadline it set, 27 April 2026. The trigger was the disappearance in February 2026 of retired Air Force Maj. Gen. William Neil McCasland, former commander of the Air Force Research Laboratory at Wright-Patterson, from his Albuquerque home, leaving behind his phone, glasses, hiking boots, wallet and a .38-calibre revolver. Burlison revealed that his own staff had been trying to reach McCasland about a separate congressional investigation before he disappeared; reporting on 28 April indicated the deadline passed without FBI answers. This is the point at which The Program and The Vanishing become the same investigation: the House committee running the UAP inquiry is now also running the missing-scientists inquiry, and the two were connected by the same member and the same disappearance.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -145,7 +144,11 @@
 "label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2026-04-20",
@@ -173,13 +176,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 463 of 1170, score 32). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-04-21",
+"grade": "A",
 "id": "ch-2026-04-21",
 "label": "The UFO General vanishes; Oversight opens a probe",
 "precision": "day",
 "strand": "coverup",
-"text": "Comer and Burlison open an investigation into eleven deaths and disappearances of people in nuclear and rocket work since 2022, triggered by the February 2026 disappearance of retired Maj. Gen. William Neil McCasland, former AFRL commander at Wright-Patterson. Burlison's staff had been trying to reach him about a separate congressional investigation.",
-"tier": "A"
+"text": "Comer and Burlison open an investigation into eleven deaths and disappearances of people in nuclear and rocket work since 2022, triggered by the February 2026 disappearance of retired Maj. Gen. William Neil McCasland, former AFRL commander at Wright-Patterson. Burlison's staff had been trying to reach him about a separate congressional investigation."
 }
-]
+],
+"unverified": []
 }

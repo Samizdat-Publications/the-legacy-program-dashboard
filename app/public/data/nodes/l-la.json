@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -80,9 +81,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Los Angeles County holds two entirely different strands of this board and they should not be confused. The first is industrial: Lockheed's Advanced Development Projects - the Skunk Works - was at Burbank until it moved to Palmdale in 1990, and it is the corporate origin of the U-2, the A-12, HAVE BLUE and the F-117, all of which were tested at Groom Lake precisely because they could not be tested at Edwards or Palmdale. Lockheed is also the company named in the most-repeated custody allegation in the field: George Knapp testified in September 2025 that Bigelow negotiated with a senior Lockheed executive to obtain unusual material safeguarded in California, that analysis found no unknown elements but a composition suggesting fabrication in zero gravity, and that the agreement was never completed. The second strand is documentary and archival: John Greenewald Jr. runs The Black Vault from Los Angeles and has been the single most productive private FOIA requester in this subject for three decades, holding the Army/TTSA CRADA correspondence denials, the AARO products and much of the release record; Jeremy Corbell, Jesse Michels, Bryce Zabel and Dan Farah produce here; and Burbank is where William L. Moore and Jaime Shandera received the MJ-12 documents in 1984. Los Angeles is thus simultaneously the birthplace of the aircraft that provided the cover stories and the base of the archive that keeps trying to get behind them.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -96,7 +95,11 @@
 "label": "Los Angeles and Burbank, California",
 "locLabel": "Los Angeles, California, USA",
 "members": null,
+"openQuestions": [],
 "short": "Los Angeles and Burbank, California",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -111,6 +114,7 @@
 ],
 "sub": "Los Angeles County; Lockheed Skunk Works (Burbank), The Black Vault, documentary and podcast production base",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 573 of 1170, score 29). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 572 of 1170, score 29). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"timeline": [],
+"unverified": []
 }

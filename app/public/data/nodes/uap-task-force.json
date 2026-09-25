@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -459,10 +460,7 @@
 "deg": 16,
 "denials": [],
 "desc": "The UAP Task Force was approved by Deputy Secretary of Defense David L. Norquist on 4 August 2020 and announced by the Navy on 14 August 2020, sited in the Department of the Navy with Office of Naval Intelligence involvement and cognizance by the Office of the Under Secretary of Defense for Intelligence and Security. Its stated mission was to detect, analyse and catalog UAP that could potentially pose a threat to US national security. It is the most consequential body in this domain because it did two things no successor has done: it produced the classified substrate of the ODNI Preliminary Assessment delivered to Congress on 25 June 2021, and - per David Grusch's sworn testimony - its director tasked a cleared intelligence officer to identify every special access programme relevant to the Task Force's congressionally mandated mission, a tasking that ran directly into refused read-ons. Jay Stratton is publicly identified as its director in the operative 2020-2021 period. The Task Force was disestablished by direction of the 15 July 2022 AARO establishment memorandum, which ordered the Secretary of the Navy to shut it down and transfer its data and materials to AARO. That transfer is a custody event: everything the UAPTF held about crash retrieval allegations, if it held anything, passed into an office reporting to the Deputy Secretary of Defense.",
-"domains": [
-"_rs-archive-mirror",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -671,7 +669,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "UAP Task Force (UAPTF)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2026-05-19",
@@ -706,16 +709,18 @@
 ],
 "sub": "Navy/ONI task force 2020-2022",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 81 of 1170, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 83 of 1170, score 69). 19 connections, 6 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2020-08-04",
+"grade": "A",
 "id": "tl-uaptf-2020-08-04",
 "label": "UAP Task Force approved",
 "precision": "day",
 "strand": "program",
-"text": "Deputy Secretary of Defense David Norquist approves the UAP Task Force under the Department of the Navy with OUSD(I&S) cognizance. The Navy announces it on 14 August.",
-"tier": "A"
+"text": "Deputy Secretary of Defense David Norquist approves the UAP Task Force under the Department of the Navy with OUSD(I&S) cognizance. The Navy announces it on 14 August."
 }
-]
+],
+"unverified": []
 }

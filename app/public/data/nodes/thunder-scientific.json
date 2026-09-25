@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -46,10 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The humidity and temperature calibration instrumentation company Paul Bennewitz founded and ran in Albuquerque, located on property with sightlines to the eastern boundary of Kirtland Air Force Base, including the Manzano Weapons Storage Area. Thunder Scientific was a legitimate technical firm whose customers included the US Air Force - which is exactly what makes the Bennewitz case unusual and unusually damning. The man AFOSI ran a multi-year disinformation operation against was not a hobbyist. He was a credentialed physicist running an instrumentation business that sold to the Air Force, with the technical capability to record and characterise electromagnetic emissions, positioned with a clear line of sight to a nuclear weapons storage complex. That combination - technical competence, physical proximity to the sensitive site, and a documented USAF vendor relationship - is what he was equipped to bring to the problem, and it is what the operation against him neutralised.",
-"domains": [
-"_rs-archive-mirror",
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -63,7 +61,12 @@
 "label": "Thunder Scientific Corporation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Thunder Scientific Corporation",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -84,5 +87,6 @@
 "sub": "Albuquerque instrumentation firm founded by Paul Bennewitz; USAF customer base",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1124 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

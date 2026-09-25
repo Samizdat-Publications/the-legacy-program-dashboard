@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -145,9 +146,7 @@
 "deg": 5,
 "denials": [],
 "desc": "A WORKING OPERATIONAL LOG, WHICH IS WHY IT IS WORTH MORE THAN ANY REPORT. The 24th NORAD Region Senior Director's Log at Malmstrom AFB records thirteen days of reports from the 341st Strategic Missile Wing's field in the controllers' own shorthand, timed in Zulu, with site designators, radar track numbers, height-finder readings and aircraft call-outs. It was released under FOIA over the signature block 'TERRENCE C. JAMES, Colonel, USAF, Director of Administration', with copies to HQ USAF/DAD and HQ USAF/JACL, and the extracted pages carry stamps 450, 451 and 452 plus a control number 000974, showing that it is a fragment of a much larger paginated release. The log is not an advocate's document and does not read like one: alongside the sightings it records that surveillance could detect no track except known traffic, that an airline crew reported a meteor, and that on 12 November the controllers never had any contact on radar at all. It also contains the 10 November entry naming Minot Air Force Station rather than Minot AFB, which is the one unresolved naming problem in the 1975 sequence. NOTE THE ARCHIVE ITEM IS MISTITLED: it is filed as 'Malmstrom Air Force Base Incident - March 16, 1967 NORAD logs' and its contents are the November 1975 log.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -161,7 +160,11 @@
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1975-11-19",
@@ -189,13 +192,18 @@
 "tierRationale": "Re-graded B on a global pass (rank 471 of 1170, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1975-11-19",
+"grade": "B",
 "id": "tl-1975-11-19-norad-log-last-entry",
 "label": "The NORAD log closes the Malmstrom sequence",
 "precision": "day",
 "strand": "program",
-"text": "'19 Nov 75 (1327Z) - SAC command post report UFO observed by FSC & a cook, observed object travelling NE between M-8 and M-l at a fast rate of speed. Object bright white light seen 45 to 50 sec following terrain 200 ft off ground. The light was two to three times brighter than landing lights on a jet.' The original marks this as the last entry pertaining to these incidents.",
-"tier": "B"
+"text": "'19 Nov 75 (1327Z) - SAC command post report UFO observed by FSC & a cook, observed object travelling NE between M-8 and M-l at a fast rate of speed. Object bright white light seen 45 to 50 sec following terrain 200 ft off ground. The light was two to three times brighter than landing lights on a jet.' The original marks this as the last entry pertaining to these incidents."
 }
+],
+"unverified": [
+"The remaining pages of the FOIA compilation from which this log was extracted. At least 449 pages have never been seen by this board, and they are the same release stream that produced the Loring, Wurtsmith, Falconbridge and Cannon material.",
+"The text is OCR of a scan and carries transcription artefacts throughout, including 'M-l' for M-1 and 'L-l' for L-1. Quotations on this board preserve the artefacts rather than silently correcting them."
 ]
 }

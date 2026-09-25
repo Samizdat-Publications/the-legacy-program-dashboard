@@ -100,7 +100,9 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"legacy-1947-86"
+"d-witness",
+"d-legacy",
+"d-research"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -121,6 +123,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Robert I. Sarbacher",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "2024-10-19",

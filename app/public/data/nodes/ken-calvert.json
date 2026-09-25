@@ -69,9 +69,7 @@
 "dateStart": "2023-01-03",
 "deg": 1,
 "denials": [],
-"domains": [
-"w9-waived-sap-group"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -91,6 +89,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Ken Calvert",
+"sourceFiles": [
+"w9-waived-sap-group"
+],
 "sources": [
 {
 "date": "2026-08-22",

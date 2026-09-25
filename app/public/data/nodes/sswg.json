@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -42,7 +43,7 @@
 "edgeLabel": "Chairs the deconfliction forum at the DoD SAPCO director level",
 "id": "dodi-5205-11",
 "l0": true,
-"label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+"label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDI 5205.11 Enclosure 3 para 4.a makes the Director, DoD SAPCO the SSWG Chair, with SAPCO directors from USD(I), USD(P), USD(AT&L), the services, the Joint Staff, DARPA and MDA.",
 "sources": [
 {
@@ -61,11 +62,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The SSWG is the lowest of the three governance tiers and the one that sees a prospective program first: under the PSAP timeline, the SSWG reviews a prospective SAP no later than fourteen days after its establishment, performing programmatic deconfliction and validation and producing a written recommendation. It 'serves as the senior program protection forum to coordinate, deconflict, and integrate special programs; address SAP policy, oversight, and management; and provide recommendations to the SRG'. It is chaired by the Director of DoD SAPCO, with members the SAPCO Directors of USD(I), USD(P), USD(AT&L), the Army, Air Force, Navy, Marine Corps, the Joint Staff, DARPA and the Missile Defense Agency, plus representatives of DCAPE, the DoD CIO, the Comptroller and the General Counsel. The presence of DARPA and MDA SAPCO directors on the deconfliction forum is worth noting for the board: those are two of the organisations most frequently named in retrieval and exploitation allegations, and their SAP control offices sit at the table where every new program is deconflicted against every existing one.",
-"domains": [
-"_rs-archive-mirror",
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -79,7 +76,13 @@
 "label": "SAP Senior Working Group (SSWG)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "SAP Senior Working Group (SSWG)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -109,6 +112,7 @@
 ],
 "sub": "oversight-body",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 380 of 1170, score 35). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 382 of 1170, score 35). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [],
+"unverified": []
 }

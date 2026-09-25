@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -83,9 +84,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The filing with the largest asserted consequences. Application 15/431823, filed 14 February 2017 and granted 18 June 2019, assigned to the Secretary of the Navy. The PAX 205 briefing links it directly to the inertial mass reduction device, stating that the IMRD can be used as an artificial gravitational wave generator by enabling the Gertsenshtein Effect, with offensive and defensive military applications and planetary-scale local spacetime modification described as feasible. Filing followed the first detection of gravitational waves, which the same briefing dates to February 2016.",
-"domains": [
-"pais-patents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -99,7 +98,11 @@
 "label": "US Patent 10,322,827 - High frequency gravitational wave generator",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "US Patent 10,322,827 - High frequency gravitational wave generator",
+"sourceFiles": [
+"pais-patents"
+],
 "sources": [
 {
 "date": null,
@@ -109,16 +112,18 @@
 ],
 "sub": "Application 15/431823, filed 14 February 2017, granted 18 June 2019; assignee the Secretary of the Navy",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 923 of 1170, score 18). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 922 of 1170, score 18). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2019-06-18",
+"grade": null,
 "id": "tl-pais-hfgw-granted",
 "label": "US 10,322,827 granted",
 "precision": "day",
 "strand": "program",
-"text": "The high frequency gravitational wave generator patent issued to the Secretary of the Navy.",
-"tier": "2"
+"text": "The high frequency gravitational wave generator patent issued to the Secretary of the Navy."
 }
-]
+],
+"unverified": []
 }

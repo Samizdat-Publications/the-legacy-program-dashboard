@@ -42,6 +42,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -228,10 +229,7 @@
 "deg": 8,
 "denials": [],
 "desc": "On 27 September 2010 Robert Hastings convened seven United States Air Force veterans at the National Press Club in Washington DC to describe unidentified aerial incursions at nuclear weapons sites during the Cold War, including missile malfunctions occurring moments after disc-shaped craft were observed near underground launch silos. CNN streamed the event live. This is the pivot event for the whole nuclear strand and the reason this board grades that strand higher than the crash-retrieval literature it sits beside: it converted anonymous and semi-anonymous testimony into named, identifiable former officers speaking on camera, with signed affidavits archived and published in facsimile. The affidavit set on Hastings's own document archive names Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson - seven witnesses, matching the seven veterans described as speaking. Hastings told the room that 'whoever are aboard this craft are sending a signal to both Washington and Moscow, among others, that we are playing with fire', and that the possession and threatened use of nuclear weapons 'threatens the human race and the integrity of the planetary environment'. The speakers urged the US government to reveal the facts. The evidentiary claim here is narrow and should stay narrow: what the event establishes is not that craft disabled missiles, but that a group of named commissioned and non-commissioned officers were willing to say under their own names, in a venue with legal consequences for defamation and with signed affidavits on file, that these incidents occurred.",
-"domains": [
-"nuclear-witnesses-2026-09-19",
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -328,7 +326,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "UFO-Nukes press conf., Sep 2010",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2010-09-27",
@@ -361,22 +364,25 @@
 "tierRationale": "Re-graded B on a global pass (rank 472 of 1170, score 32). 8 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2010-09-27",
+"grade": "B",
 "id": "tl-2010-09-27-npc-seven-veterans",
 "label": "Seven USAF veterans speak at the National Press Club",
 "precision": "day",
 "strand": "witness",
-"text": "Robert Hastings convened Dwynne Arneson, Bruce Fenstermacher, Charles Halt, Robert Jamison, Patrick McDonough, Jerry Nelson and Robert Salas at the National Press Club. Six are named on his own page as having executed affidavits. For five of the seven this is their first appearance in the public record. Walter Figel declined to sign an affidavit and did not appear.",
-"tier": "B"
+"text": "Robert Hastings convened Dwynne Arneson, Bruce Fenstermacher, Charles Halt, Robert Jamison, Patrick McDonough, Jerry Nelson and Robert Salas at the National Press Club. Six are named on his own page as having executed affidavits. For five of the seven this is their first appearance in the public record. Walter Figel declined to sign an affidavit and did not appear."
 },
 {
+"claimTier": null,
 "date": "2010-09-27",
+"grade": "A",
 "id": "tl-2010-0927-npc",
 "label": "UFO-Nukes Connection press conference",
 "precision": "day",
 "strand": "witness",
-"text": "Robert Hastings convenes seven named USAF veterans at the National Press Club. CNN streams it live. Signed affidavits from Salas, Halt, McDonough, Jamison, Arneson, Fenstermacher and Nelson are on file and published in facsimile. Anonymous testimony becomes on-the-record testimony.",
-"tier": "A"
+"text": "Robert Hastings convenes seven named USAF veterans at the National Press Club. CNN streams it live. Signed affidavits from Salas, Halt, McDonough, Jamison, Arneson, Fenstermacher and Nelson are on file and published in facsimile. Anonymous testimony becomes on-the-record testimony."
 }
-]
+],
+"unverified": []
 }

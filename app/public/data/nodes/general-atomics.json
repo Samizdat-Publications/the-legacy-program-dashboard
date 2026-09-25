@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "General Atomics is the structurally interesting case: a privately held company, not answerable to public shareholders, holding simultaneous deep relationships with the Department of Energy on fusion and nuclear research and with DoD on unmanned aircraft through General Atomics Aeronautical Systems. USAspending records roughly $41 billion in prime contract obligations across General Atomics entities since FY2008. Private ownership matters to this domain for a specific legal reason: the disclosure obligations that constrain public companies - the reporting duties that made To The Stars Academy's Army agreement a matter of public record through its SEC filings - do not apply. A privately held prime can hold material, fund research on it from retained earnings, and have no securities-law obligation to disclose any of it. No sworn witness has named General Atomics as a custodian. It is recorded here as an instance of the ownership structure in which the alleged arrangement would be least visible, and as a research-priority target.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -67,7 +66,11 @@
 "label": "General Atomics",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "General Atomics",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -82,6 +85,7 @@
 ],
 "sub": "Privately held; fusion research, unmanned aircraft, DOE and DARPA programs",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 924 of 1170, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 923 of 1170, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [],
+"unverified": []
 }

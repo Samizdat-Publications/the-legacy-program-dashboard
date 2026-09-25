@@ -67,6 +67,10 @@
 ],
 "cls": "institution",
 "cluster": "witness",
+"conflicts": [
+"Karl Wolfe places the Lunar Orbiter imagery at an NSA facility on Langley Air Force Base; NASA's own catalogue states the programme was managed by NASA Langley Research Center, a separate civil installation. The board carries the discrepancy of institution and does not resolve it.",
+"The Briefing Document prints 'John Weygandt'; the surrounding literature and the canon-gap audit say 'Jonathan'. The board carries the source's spelling and records the conflict rather than picking a side."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -195,9 +199,7 @@
 "deg": 5,
 "denials": [],
 "desc": "THIS IS A SET NODE AND NOT AN ORGANISATION; NOTHING HERE EVER MET AS A BODY. It exists because a person node built on one testimony in one interested-party document would assert that somebody said something and nothing else, and because sixty-eight of those would make `witness-chain` the dominant edge type of an entire region of this board, which CLAUDE.md section 6 warns turns degree into a measure of how much is claimed rather than of what is true. The set carries the roster and the counts, and individual witnesses are promoted out of it only when an independent record is found, which in this pass happened for John Callahan, Clifford Stone, Robert Jacobs and Larry Warren and did not happen for Karl Wolfe, Donna Hare, Don Phillips or John Weygandt. Those four are held here with their claims and with the specific documentary problems each carries: Wolfe's NSA-at-Langley account against NASA's own record that the Lunar Orbiter programme was run by NASA Langley Research Center; Hare's employer documented by Ford Motor Company while her employment is documented nowhere; Phillips with nothing independent at all; and Weygandt, whose name the Briefing Document prints as John while the modern literature calls him Jonathan, which is precisely the class of error this board keeps having to undo.",
-"domains": [
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -211,7 +213,11 @@
 "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
+"sourceFiles": [
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -241,16 +247,24 @@
 ],
 "sub": "A SET NODE, NOT AN ORGANISATION. Carries the 68 named testimonies printed in section 3.8 of the April 2001 Briefing Document, and holds the witnesses for whom no independent record exists rather than giving each a single-claim node",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 305 of 1170, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 304 of 1170, score 39). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2018-10-10",
+"grade": "C",
 "id": "tl-2018-10-10-wolfe-dies",
 "label": "Karl Wolfe dies",
 "precision": "day",
 "strand": "witness",
-"text": "Karl R. Wolfe, 19 April 1944 to 10 October 2018, per his funeral home obituary at Lansing, New York. The obituary does not mention US Air Force service, an employer, an education or a career, which is the whole of the independent record on him.",
-"tier": "C"
+"text": "Karl R. Wolfe, 19 April 1944 to 10 October 2018, per his funeral home obituary at Lansing, New York. The obituary does not mention US Air Force service, an employer, an education or a career, which is the whole of the independent record on him."
 }
+],
+"unverified": [
+"Karl Wolfe's Air Force service. No record of any kind; his own obituary does not mention it.",
+"Donna Hare's employment by Philco-Ford. No badge record, contractor roster, clearance record or contemporaneous document was opened; the photograph, the technician's name and any written NASA policy have never been produced. Nor was the '[1997] congressional briefings' she refers to identified.",
+"Don Phillips, entirely: the Air Force service, the Lockheed employment, the CIA contract, the Angels Peak sighting and the named radar operator Anthony Kasar.",
+"John or Jonathan Weygandt, entirely: no DD-214, no USMC unit record, no USSOUTHCOM document, no Peruvian record.",
+"The remaining fifty-seven testimonies. Unchecked."
 ]
 }

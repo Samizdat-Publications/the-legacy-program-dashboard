@@ -77,6 +77,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -424,6 +425,14 @@
 "deg": 14,
 "denials": [
 {
+"a": {
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -451,11 +460,7 @@
 }
 ],
 "desc": "The best-documented episode in the entire UFO-nuclear record, because the paper is the government's own and it was released. Over roughly a fortnight in late October and early November 1975, unidentified objects were reported over Strategic Air Command weapons storage and alert areas and over Minuteman missile fields at Loring AFB, Maine (27, 28 and 31 October), Wurtsmith AFB, Michigan (30 October), Malmstrom AFB, Montana (7-8 November), Minot AFB, North Dakota, and Canadian Forces Station Falconbridge, Ontario. A NORAD document dated 11 November 1975 records that reliable military personnel at all five installations had visually sighted suspicious objects. A Loring AFB teletype states that an unidentified object 'demonstrated a clear intent in the weapons storage area' - the phrase from which Fawcett and Greenwood took the title of their 1984 book. The 24th NORAD Region Senior Director's log for 7 November 1975 records the 341st SAC Command Post reporting sightings from missile sites M-1, L-3, LIMA and L-6 near Moore and Buffalo, Montana at 1035Z; the Harlow launch control facility observing an object illuminating the site driveway at 1203Z; site K-1 tracking a bright object through 10x50 binoculars at 1319Z; and L-1 at 1327Z reporting the object issuing a tubular black object, with surveillance unable to establish any track. The National Military Command Center's Memorandum for the Record of 8 November 1975, subject 'Unidentified Sightings', records that at 0253 EST Malmstrom received seven radar cuts on the height-finder radar between 9,500 and 15,500 feet with simultaneous ground witnesses reporting lights and jet engine noise, that cross-tell with the FAA revealed no jet aircraft within 100 nautical miles, that two F-106 interceptors from the 24th NORAD Region were scrambled at 0254 and airborne at 0257, and that at 0344 EST the objects could not be intercepted because the fighters had to stay above 12,000 feet over mountainous terrain. These documents reached the public because Citizens Against UFO Secrecy filed a FOIA request on 26 December 1977; the Office of the Assistant Secretary of Defense replied on 6 February 1978 identifying twenty-four documents held by the Office of the Joint Chiefs of Staff, and after an internal argument over exempting raw unevaluated reporting, Assistant Secretary of Defense Thomas Ross determined no useful purpose would be served by withholding them.",
-"domains": [
-"history-1970s-2000s",
-"nuclear-witnesses-2026-09-19",
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -680,7 +685,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "1975 SAC Nuclear-Base Overflights",
+"sourceFiles": [
+"history-1970s-2000s",
+"nuclear-witnesses-2026-09-19",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2021-11-08",
@@ -740,34 +751,38 @@
 ],
 "sub": "Documented unidentified incursions over nuclear weapons and missile installations, Oct-Nov 1975",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 60 of 1170, score 75). 14 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 62 of 1170, score 75). 14 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1975-10-27",
+"grade": "B",
 "id": "t-1975-loring",
 "label": "Loring AFB overflights begin",
 "precision": "day",
 "strand": "program",
-"text": "Unidentified aerial incursions are logged over Loring AFB, Maine, opening a three-week sequence across SAC nuclear installations.",
-"tier": "B"
+"text": "Unidentified aerial incursions are logged over Loring AFB, Maine, opening a three-week sequence across SAC nuclear installations."
 },
 {
+"claimTier": null,
 "date": "1975-11-08",
+"grade": "A",
 "id": "tl-1975-1108-nmcc",
 "label": "NMCC memorandum for the record",
 "precision": "day",
 "strand": "witness",
-"text": "At 0253 EST Malmstrom takes seven height-finder radar cuts between 9,500 and 15,500 feet with simultaneous ground witnesses; FAA cross-tell shows no jet within 100NM; two F-106s are scrambled at 0254 and airborne at 0257; at 0344 the objects cannot be intercepted.",
-"tier": "A"
+"text": "At 0253 EST Malmstrom takes seven height-finder radar cuts between 9,500 and 15,500 feet with simultaneous ground witnesses; FAA cross-tell shows no jet within 100NM; two F-106s are scrambled at 0254 and airborne at 0257; at 0344 the objects cannot be intercepted."
 },
 {
+"claimTier": null,
 "date": "1975-11-11",
+"grade": "A",
 "id": "tl-1975-1111-norad",
 "label": "NORAD summary document",
 "precision": "day",
 "strand": "oversight",
-"text": "A NORAD document records that reliable military personnel at Loring, Wurtsmith, Malmstrom, Minot and CFS Falconbridge had visually sighted suspicious objects during October and early November 1975.",
-"tier": "A"
+"text": "A NORAD document records that reliable military personnel at Loring, Wurtsmith, Malmstrom, Minot and CFS Falconbridge had visually sighted suspicious objects during October and early November 1975."
 }
-]
+],
+"unverified": []
 }

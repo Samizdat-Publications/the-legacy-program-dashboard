@@ -76,8 +76,9 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"primes-custody"
+"d-custody",
+"d-exotic",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -98,6 +99,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Robert M. Wood",
+"sourceFiles": [
+"_rs-archive-mirror",
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-03-09",

@@ -104,7 +104,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"ffrdcs"
+"d-ffrdc",
+"d-ic"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -125,6 +126,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Samantha F. Ravich",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-05-19",
@@ -143,13 +147,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 904 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-05-19",
+"grade": "B",
 "id": "tl-ffrdc-2026-ravich",
 "label": "Samantha Ravich elected to MITRE's board",
 "precision": "day",
 "strand": "program",
-"text": "A former vice chair of the President's Intelligence Advisory Board joins MITRE's trustees three days before the congressional UAP records demand arrives.",
-"tier": "B"
+"text": "A former vice chair of the President's Intelligence Advisory Board joins MITRE's trustees three days before the congressional UAP records demand arrives."
 }
 ],
 "unexplainedResidual": null,

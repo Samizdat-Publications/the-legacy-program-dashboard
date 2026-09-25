@@ -292,7 +292,7 @@
   {
    "by": "aaro-historical-record-vol1",
    "kind": "directed",
-   "label": "March 2024: 'no evidence for the USG reverse-engineering narrative provided by interviewees'",
+   "label": "AARO: 'AATIP was never an official DoD program'",
    "of": "aatip"
   },
   {
@@ -886,6 +886,7 @@
    "b": "aawsap",
    "tier": 1,
    "types": [
+    "institutional",
     "programmatic"
    ]
   },
@@ -902,6 +903,7 @@
    "b": "baass",
    "tier": 1,
    "types": [
+    "funding",
     "programmatic"
    ]
   },
@@ -1048,6 +1050,7 @@
    "tier": 1,
    "types": [
     "custody",
+    "institutional",
     "programmatic"
    ]
   },
@@ -1227,6 +1230,7 @@
    "b": "dodi-5205-11",
    "tier": 1,
    "types": [
+    "legislative",
     "programmatic"
    ]
   },
@@ -1517,6 +1521,7 @@
    "b": "dird-series",
    "tier": 1,
    "types": [
+    "institutional",
     "programmatic"
    ]
   },
@@ -1533,6 +1538,7 @@
    "b": "dird-series",
    "tier": 1,
    "types": [
+    "institutional",
     "programmatic"
    ]
   },
@@ -1549,6 +1555,7 @@
    "b": "dird-warp-drive-dark-energy-and-the",
    "tier": 1,
    "types": [
+    "institutional",
     "programmatic"
    ]
   },
@@ -1744,6 +1751,7 @@
    "b": "waived-usap-mechanism",
    "tier": 1,
    "types": [
+    "legislative",
     "programmatic"
    ]
   },
@@ -1816,6 +1824,7 @@
    "b": "usc-10-119",
    "tier": 1,
    "types": [
+    "institutional",
     "legislative",
     "programmatic"
    ]
@@ -2298,6 +2307,7 @@
    "b": "waived-usap-mechanism",
    "tier": 1,
    "types": [
+    "funding",
     "legislative",
     "programmatic"
    ]
@@ -3474,7 +3484,7 @@
    "era": "2",
    "hl": null,
    "id": "dodi-5205-11",
-   "label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
    "short": "DoDI 5205.11",
    "tier": "A"
   },
@@ -3534,7 +3544,7 @@
    "era": "2",
    "hl": null,
    "id": "eo-13526",
-   "label": "Executive Order 13526 — Classified National Security Information",
+   "label": "Executive Order 13526 - Classified National Security Information",
    "short": "Executive Order 13526",
    "tier": "A"
   },
@@ -3654,7 +3664,7 @@
    "era": "3",
    "hl": null,
    "id": "iaa-fy2024-7343",
-   "label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+   "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
    "short": "FY2024 IAA sec. 7343",
    "tier": "A"
   },
@@ -3669,7 +3679,7 @@
    "era": "3",
    "hl": null,
    "id": "iaa-fy2024-sec-1102",
-   "label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+   "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
    "short": "IAA FY2024 Sec. 1102",
    "tier": "A"
   },
@@ -4044,7 +4054,7 @@
    "era": "3",
    "hl": null,
    "id": "ndaa-fy2024-1687",
-   "label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+   "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
    "short": "FY2024 NDAA sec. 1687",
    "tier": "A"
   },
@@ -4541,7 +4551,7 @@
    "id": "setka-program",
    "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
    "short": "SETKA-AN / SETKA-MO",
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 0,
@@ -4809,7 +4819,7 @@
    "era": "1",
    "hl": 3,
    "id": "usc-10-119",
-   "label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+   "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
    "short": "10 U.S.C. 119",
    "tier": "A"
   },
@@ -4854,8 +4864,8 @@
    "era": "1",
    "hl": null,
    "id": "waived-usap-mechanism",
-   "label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
-   "short": "Waived USAP — the mechanism",
+   "label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+   "short": "Waived USAP - the mechanism",
    "tier": "A"
   },
   {
@@ -4904,7 +4914,7 @@
    "tier": "B"
   }
  ],
- "source": "6baf9bab56df",
+ "source": "67fab325f977",
  "summarised": [
   {
    "a": "aaro",

@@ -117,6 +117,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "hoyt-vandenberg",
+"label": "Hoyt S. Vandenberg"
+},
+"b": {
+"id": "estimate-of-the-situation",
+"label": "Estimate of the Situation (1948)"
+},
 "by": {
 "id": "hoyt-vandenberg",
 "label": "Hoyt S. Vandenberg"
@@ -144,7 +152,9 @@
 }
 ],
 "domains": [
-"history-1940s-1960s"
+"d-legacy",
+"d-coverup",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -165,6 +175,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Hoyt S. Vandenberg",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1968-11-01",
@@ -180,7 +193,7 @@
 "status": "dead",
 "sub": "Air Force Chief of Staff (1948-1953); former DCI",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 578 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 577 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

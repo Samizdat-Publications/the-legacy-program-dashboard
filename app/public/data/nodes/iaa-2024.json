@@ -17,6 +17,7 @@
 ],
 "cls": "legislation",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -115,7 +116,7 @@
 "edgeLabel": "section node of this act (section number needs verification)",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "The board's section node is filed under this act, and the filing carries a caution that is now confirmed rather than merely flagged. Searching the enacted 2.8-million-character text finds 'non-earth origin' zero times and 'exotic' zero times: the contractor turn-in mandate did not survive conference. What did survive is Division A, Title XVIII, Subtitle C - secs. 1841 to 1843, the unidentified anomalous phenomena records collection at the National Archives. The turn-in language belongs to the Senate-passed text, and the node's '1102' section number is still not confirmed against either version. Tier 2 because the edge records a filing relationship whose section number remains unverified.",
 "sources": [
 {
@@ -180,9 +181,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Division G of Public Law 118-31. Sec. 7341 moves the annual UAP report obligation onto the Director of AARO; sec. 7343 conditions all IC funding for UAP special-access or restricted-access activity on prior disclosure of the details to the intelligence, armed services and appropriations committees and congressional leadership, and bars UAP-related independent research and development from being charged as an allowable indirect contract expense unless disclosed to Congress.",
-"domains": [
-"_rs-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -196,7 +195,11 @@
 "label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
+"sourceFiles": [
+"_rs-legislation"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -207,5 +210,6 @@
 "sub": "authorizing-statutes",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1023 of 1170, score 14). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

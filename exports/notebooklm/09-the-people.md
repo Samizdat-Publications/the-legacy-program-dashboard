@@ -39,7 +39,7 @@ Affiliations recorded: National Geospatial-Intelligence Agency, National Reconna
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 1 of 1170, score 181). 80 connections, 11 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 1 of 1170, score 178). 79 connections, 10 of them custody/funding/programmatic, 10 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -63,7 +63,7 @@ A further 24 claims sit on this node on the board and are not reproduced here.
 - David Charles Grusch comes in from **Anna Paulina Luna** (person, board tier A), a legislative link at Tier 1 documented. The link reads: Established the April 2022 Kirkpatrick conversation and the DOPSR clearance on the record. Luna's questioning put two facts in the transcript that AARO's later messaging has to work around: that Grusch briefed Kirkpatrick in a classified setting before Kirkpatrick led AARO, and that DoD cleared his public statements in advance. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
 - David Charles Grusch runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a temporal link at Tier 1 documented. The link reads: Present in the room as reprisal against him is entered into the record. Grusch did not testify but attended; Knapp referenced him directly from the witness table, Crane entered the reprisal letter, and Mace described the medical-records leak. The hearing is the reprisal file's official home. Sources: Task Force hearing record, Serial No. 119-44, https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf, dated 2025-09-09.
 
-It carries 80 connections in total on the board.
+It carries 79 connections in total on the board.
 
 ## Luis D. Elizondo
 
@@ -103,7 +103,7 @@ Affiliations recorded: US Army counterintelligence, Office of the Under Secretar
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 5 of 1170, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 6 of 1170, score 151). 42 connections, 5 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -124,10 +124,10 @@ A further 17 claims sit on this node on the board and are not reproduced here.
 - Luis D. Elizondo comes in from **Eric Burlison** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Burlison read the Lockheed-Bigelow-CIA reporting into the record and obtained confirmation. Burlison named the journalist, described the transfer, asked the witness to confirm, and then asked who possesses the material today - to which Elizondo said he could only answer in closed session. Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 - Luis D. Elizondo runs out to **To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Director of Global Security & Special Programs / Government Programs (2017-2020). The move placed the former AATIP director inside the private company then acquiring claimed exotic material and negotiating a federal research agreement over it. Sources: SEC EDGAR, TTSA Form 1-K, https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm, dated 2018-04-30; SEC EDGAR filing index for To The Stars Inc. (CIK 0001710274), https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001710274&type=1-K&dateb=&owner=include&count=40, dated 2026-04-29; House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 - Luis D. Elizondo runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a institutional link at Tier 1 documented. The link reads: Elizondo's testimony converted the contractor transfer story into a congressional record. His confirmation that the transfer 'was blocked' is the single most load-bearing on-record statement in this domain. Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
-- Luis D. Elizondo runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf, dated 2024-11-13.
-- Luis D. Elizondo runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Sworn witness; testified to a SCIF-signed document barring him from discussing crash retrieval. Elizondo's affirmation is printed in the same official record in which the majority notes that agencies had not substantiated Grusch's claims - both statements stand in the hearing volume. Sources: U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; Luis Elizondo, written testimony, House Oversight, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf, dated 2024-11-13; HHRG-118-GO12 transcript, https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf, dated 2024-11-13; House Oversight hearing record, Serial No. 118-140, https://www.congress.gov/118/chrg/CHRG-118hhrg57440/CHRG-118hhrg57440.pdf, dated 2024-11-13; House Oversight hearing page, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth, dated 2024-11-13.
+- Luis D. Elizondo runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: sworn witness. Elizondo's affirmation is printed in the same official record in which the majority notes that agencies had not substantiated Grusch's claims - both statements stand in the hearing volume. Sources: CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf, dated 2024-11-13; U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; Luis Elizondo, written testimony, House Oversight, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf, dated 2024-11-13; HHRG-118-GO12 transcript, https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf, dated 2024-11-13; House Oversight hearing record, Serial No. 118-140, https://www.congress.gov/118/chrg/CHRG-118hhrg57440/CHRG-118hhrg57440.pdf, dated 2024-11-13; House Oversight hearing page, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth, dated 2024-11-13.
+- Luis D. Elizondo comes in from **New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'** (event, board tier A), a investigative link at Tier 1 documented. The link reads: Named him as the official who ran AATIP. The article identified him, quoted his resignation letter and reported his move to TTSA, the act that made him the Department's problem. Sources: New York Times (NICAP copy), https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf, dated 2017-12-16.
 
-It carries 43 connections in total on the board.
+It carries 42 connections in total on the board.
 
 ## Eric Burlison
 
@@ -149,7 +149,7 @@ Affiliations recorded: U.S. House of Representatives, MO-7 (2023- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 31 of 1170, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 29 of 1170, score 95). 30 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -199,7 +199,7 @@ Affiliations recorded: U.S. House of Representatives, FL-13 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 23 of 1170, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 25 of 1170, score 99). 30 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -220,10 +220,10 @@ A further 16 claims sit on this node on the board and are not reproduced here.
 - Anna Paulina Luna comes in from **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a denial link at Tier 1 documented. The link reads: Luna called former AARO director Kirkpatrick 'a documented liar' and AARO's channel a graveyard for testimony. From her 9 September 2025 opening statement, which also read Mellon's critique of AARO's historical report into the record. Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - Anna Paulina Luna runs out to **Waived SAP Notification Group** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: no statutory entitlement; not a defense committee chair or ranking member. Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10), https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/, dated 2026-08-10; https://armedservices.house.gov/about/members.htm, https://armedservices.house.gov/about/members.htm
 - Anna Paulina Luna runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a institutional link at Tier 1 documented. The link reads: Luna chaired the hearing at which the contractor allegation acquired names. Luna chaired the Task Force on the Declassification of Federal Secrets hearing at which four witnesses testified on UAP transparency and whistleblower retaliation. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; House Oversight - Restoring Public Trust Through UAP Transparency and Whistleblower Protection, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; House Oversight - Hearing Wrap Up: Government Must Be More Transparent About UAPs, https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/, dated 2025-09-09.
-- Anna Paulina Luna runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a legislative link at Tier 1 documented. The link reads: Chaired the Task Force hearing that seated operator witnesses. The Task Force on the Declassification of Federal Secrets built the hearing around serving and former operators rather than programme officials. Sources: House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09.
-- Anna Paulina Luna runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: presiding chairwoman. 'Hon. Anna Luna, [Chairwoman of the Task Force] presiding.' Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09.
+- Anna Paulina Luna runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a legislative link at Tier 1 documented. The link reads: presiding chairwoman. The Task Force on the Declassification of Federal Secrets built the hearing around serving and former operators rather than programme officials. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09; House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09.
+- Anna Paulina Luna runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a investigative link at Tier 1 documented. The link reads: Co-drove the hearing; established Grusch's DoD prepublication clearance and his fear for his life. Moskowitz thanked Burchett and Luna for pushing the hearing forward; Luna's rounds established both facts on the record. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 
-It carries 31 connections in total on the board.
+It carries 30 connections in total on the board.
 
 ## Eric W. Davis
 
@@ -260,7 +260,7 @@ Affiliations recorded: National Institute for Discovery Science (1996-2004), Ear
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 17 of 1170, score 111). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 16 of 1170, score 111). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -315,7 +315,7 @@ Affiliations recorded: KLAS-TV Las Vegas, I-Team (1980s-present), Mystery Wire (
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 55 of 1170, score 76). 21 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded A on a global pass (rank 70 of 1170, score 72). 20 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -334,12 +334,12 @@ A further 9 claims sit on this node on the board and are not reproduced here.
 
 - George Knapp runs out to **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Sworn statement that extra-legal reprisal against Grusch was ongoing in September 2025. From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up. Sources: Task Force hearing record, Serial No. 119-44, https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf, dated 2025-09-09.
 - George Knapp runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a institutional link at Tier 1 documented. The link reads: Knapp's testimony named the company, the executive and the intelligence official. The naming is sworn and specific; the underlying sourcing has not been published, which is why the claims are graded tier 2 rather than tier 1. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- George Knapp runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09.
-- George Knapp runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Journalist witness at the September 2025 hearing. Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors. Sources: House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; George Knapp, written testimony, House Oversight Task Force, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, dated 2025-09-09; Task Force hearing record, Serial No. 119-44, https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf, dated 2025-09-09; House Oversight - Hearing Wrap Up, https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/, dated 2025-09-09.
+- George Knapp runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: sworn witness. Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09; House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; George Knapp, written testimony, House Oversight Task Force, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, dated 2025-09-09; Task Force hearing record, Serial No. 119-44, https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf, dated 2025-09-09; House Oversight - Hearing Wrap Up, https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/, dated 2025-09-09.
 - George Knapp runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: His Statement for the Record was submitted by Rep. Burchett in 2023, two years before he testified in person. Listed in the 2023 Index of Documents; Knapp testified live on 9 September 2025. Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
 - George Knapp comes in from **Timothy Floyd Burchett** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Burchett asked Knapp to name the corporations; Knapp named Lockheed and offered a list. No list has been published and no committee has reported receiving one, which is itself a documented gap in the record. Sources: House Oversight Task Force on the Declassification of Federal Secrets hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718, Serial No. 119-44), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
+- George Knapp runs out to **DIA Contract HHM402-08-C-0072 (BAASS)** (document, board tier A), a investigative link at Tier 1 documented. The link reads: published the contract documentation. Knapp's KLAS I-Team established publicly that the DIA-funded study was executed in Nevada, ahead of DIA's own release of the contract in 2022. Sources: KLAS 8 News Now, https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/, dated 2017-12-20.
 
-It carries 21 connections in total on the board.
+It carries 20 connections in total on the board.
 
 ## Harry M. Reid
 
@@ -359,7 +359,7 @@ Affiliations recorded: US Senate (1987-2017), Senate Majority Leader (2007-2015)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 40 of 1170, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 33 of 1170, score 92). 19 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -376,14 +376,14 @@ A further 4 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
-- Harry M. Reid runs out to **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: co-sponsored FY2008 supplemental $10M add with Sen. Inouye. He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on. Sources: Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/, dated 2009-06-24; USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/, dated 2009.
+- Harry M. Reid runs out to **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a funding link at Tier 1 documented. The link reads: co-sponsored FY2008 supplemental $10M add with Sen. Inouye. Sources: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/
+- Harry M. Reid runs out to **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on. Sources: Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/, dated 2009-06-24; USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/, dated 2009.
 - Harry M. Reid runs out to **Waived SAP Notification Group** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group. This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran. Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; 50 U.S.C. 3093(c)(2), the Gang of Eight construct, for contrast with the section 119 group, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/, dated 2009-06-24; https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm, https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm
 - Harry M. Reid runs out to **Advanced Aerospace Threat Identification Program (AATIP / AAITP)** (program, board tier A), a legislative link at Tier 1 documented. The link reads: 24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied. Susan Gough authenticated the memorandum on 13 June 2019. Elizondo's and Puthoff's names were originally redacted from it and later released. Sources: The Black Vault, Reid memo, https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/, dated 2019-06-13.
 - Harry M. Reid comes in from **New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'** (event, board tier A), a funding link at Tier 1 documented. The link reads: Identified Reid as the senator who initiated and funded AATIP. Reid told the Times 'I'm not embarrassed or ashamed or sorry I got this thing going' and called the appropriation 'black money'. Sources: New York Times (NICAP copy), https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf, dated 2017-12-16.
 - Harry M. Reid runs out to **KONA BLUE** (program, board tier A), a funding link at Tier 1 documented. The link reads: Reid and Lieberman asked that the DHS prospective SAP be established with promised funding. AARO states 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding' - the same senator who created the DIA appropriation now seeking a DHS compartment. Sources: AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
-- Harry M. Reid runs out to **Reid Letter to DEPSECDEF Requesting Restricted SAP Status** (document, board tier A), a legislative link at Tier 1 documented. The link reads: authored the Restricted SAP request. The Senate Majority Leader asked DoD to compartment a program whose deliverables DoD would three months later describe as unclassifiable basic research. Sources: Reid to Lynn, 24 June 2009, https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf, dated 2009-06-24.
 
-It carries 17 connections in total on the board.
+It carries 19 connections in total on the board.
 
 ## John Greenewald Jr.
 
@@ -403,7 +403,7 @@ Affiliations recorded: The Black Vault, founder (1996-present), The Black Vault 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 100 of 1170, score 63). 17 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 101 of 1170, score 63). 17 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -456,7 +456,7 @@ Mark McCandlish is the origin point in print of a named craft, and he is not a w
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 141 of 1170, score 53). 17 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 142 of 1170, score 53). 17 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -515,7 +515,7 @@ Affiliations recorded: Defense Intelligence Agency, chief scientist for the Defe
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 11 of 1170, score 121). 24 connections, 3 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
+Re-graded A on a global pass (rank 11 of 1170, score 118). 24 connections, 2 of them custody/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -537,7 +537,7 @@ A further 15 claims sit on this node on the board and are not reproduced here.
 - Sean M. Kirkpatrick runs out to **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: first Director, July 2022 - 1 December 2023. Kirkpatrick led AARO from establishment through his departure on 1 December 2023, announced 7 November 2023. Sources: DefenseScoop - Pentagon's UAP investigation chief to depart Dec. 1, https://defensescoop.com/2023/11/30/pentagons-uap-investigation-chief-to-depart-dec-1/, dated 2023-11-30.
 - Sean M. Kirkpatrick runs out to **AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I** (document, board tier A), a institutional link at Tier 1 documented. The link reads: directed the production of the official history. The Volume I historical review was drafted under Kirkpatrick's directorship of AARO and released in early 2024 after his departure; he has publicly identified himself with its findings. Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; AARO Historical Record Report, Volume I, https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf, dated 2024-02-01; All-domain Anomaly Resolution Office, https://www.aaro.mil/, dated 2026-08-12; AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08; The Debrief, 'Pentagon UAP Report Says No Evidence U.S. Has Collected Exotic Technology, Kept Programs Hidden from Congress', https://thedebrief.org/pentagon-uap-report-says-no-evidence-u-s-has-collected-exotic-technology-kept-programs-hidden-from-congress/, dated 2024-03-08.
 - Sean M. Kirkpatrick runs out to **Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)** (document, board tier B), a behavioral link at Tier 1 documented. The link reads: authored the op-ed attacking the whistleblowers seven weeks after leaving office. Published 19 January 2024, between his 1 December 2023 departure and the 8 March 2024 release of the report he had written. Sources: Scientific American op-ed, https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/, dated 2024-01-19.
-- Sean M. Kirkpatrick runs out to **Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'** (event, board tier B), a institutional link at Tier 1 documented. The link reads: sole DoD witness; testified AARO held 650+ cases. The only open Senate hearing on AARO under its first director, published as S.Hrg. 118-648. Sources: Congress.gov - S.Hrg. 118-648, https://www.congress.gov/event/118th-congress/senate-event/LC74346/text, dated 2023-04-19.
+- Sean M. Kirkpatrick comes in from **Marik von Rennenkampff** (person, board tier C), a investigative link at Tier 1 documented. The link reads: checked and rejected Kirkpatrick's balloon explanation. After Kirkpatrick attributed tic-tac-shaped sightings to a Florida company's escaped helium balloons, von Rennenkampff wrote in The Hill: 'After calling the company, I found Kirkpatrick's statement to be implausible.' The Debrief quotes the op-ed and identifies him as a former State Department Bureau of International Security and Nonproliferation analyst. Sources: https://thedebrief.org/the-pentagons-former-chief-ufo-hunter-speaks-out-but-some-of-his-arguments-dont-hit-the-mark/, https://thedebrief.org/the-pentagons-former-chief-ufo-hunter-speaks-out-but-some-of-his-arguments-dont-hit-the-mark/; https://thehill.com/opinion/technology/4432225-what-has-happened-to-the-pentagons-former-ufo-hunter/, https://thehill.com/opinion/technology/4432225-what-has-happened-to-the-pentagons-former-ufo-hunter/
 
 It carries 24 connections in total on the board.
 
@@ -587,7 +587,7 @@ Affiliations recorded: UAP Gerb (YouTube channel, ~135,000 subscribers), NewsNat
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 106 of 1170, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded A on a global pass (rank 107 of 1170, score 61). 18 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -639,7 +639,7 @@ Affiliations recorded: Stanford Research Institute, remote viewing programs (197
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 18 of 1170, score 110). 18 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
+Re-graded A on a global pass (rank 17 of 1170, score 110). 18 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.
 
 ### The claims on the record
 
@@ -685,7 +685,7 @@ Affiliations recorded: U.S. House of Representatives, TN-2 (2019- ), House Commi
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 84 of 1170, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 86 of 1170, score 68). 16 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -796,7 +796,7 @@ Affiliations recorded: Central Intelligence Agency, Office of Scientific Intelli
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 47 of 1170, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 48 of 1170, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -846,7 +846,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 30 of 1170, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
+Re-graded A on a global pass (rank 28 of 1170, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.
 
 ### The claims on the record
 
@@ -894,7 +894,7 @@ Affiliations recorded: ufohastings.com, UFOs and Nukes (book and documentary).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 191 of 1170, score 46). 12 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 190 of 1170, score 46). 12 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -940,7 +940,7 @@ Affiliations recorded: Senate Select Committee on Intelligence, Minority Staff D
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 83 of 1170, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
+Re-graded A on a global pass (rank 85 of 1170, score 68). 13 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -988,7 +988,7 @@ Affiliations recorded: U.S. House of Representatives, SC-1 (2021- ), House Overs
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 108 of 1170, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
+Re-graded A on a global pass (rank 121 of 1170, score 56). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1010,9 +1010,9 @@ A further 3 claims sit on this node on the board and are not reproduced here.
 - Nancy Ruth Mace runs out to **Luis D. Elizondo** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Mace elicited the only public description of a distributed contractor custody model. The exchange converts the allegation from a claim about one company into a described system of allocation by technical domain across multiple primes. Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 - Nancy Ruth Mace runs out to **Waived SAP Notification Group** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: House Armed Services member but not chair or ranking - no 119(e)(2) entitlement. Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee. Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf, dated 2024-11-13; https://armedservices.house.gov/about/members.htm, https://armedservices.house.gov/about/members.htm
 - Nancy Ruth Mace runs out to **Immaculate Constellation disclosure, October-November 2024** (event, board tier A), a legislative link at Tier 1 documented. The link reads: Mace entered the twelve-page report into the Congressional Record. Mace announced from the dais that committee staff had asked her to enter the document; it appears in the hearing's Index of Documents as 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.' Sources: GPO transcript CHRG-118hhrg57440, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
-- Nancy Ruth Mace comes in from **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a legislative link at Tier 1 documented. The link reads: Chaired the joint subcommittee hearing. Joint hearing of the Cybersecurity/IT/Government Innovation and National Security/Border/Foreign Affairs subcommittees, with Rep. Glenn Grothman co-chairing. Sources: Congress.gov, House event 117721, https://www.congress.gov/event/118th-congress/house-event/117721, dated 2024-11-13.
+- Nancy Ruth Mace runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a legislative link at Tier 1 documented. The link reads: presiding chair; entered Immaculate Constellation into the record. Joint hearing of the Cybersecurity/IT/Government Innovation and National Security/Border/Foreign Affairs subcommittees, with Rep. Glenn Grothman co-chairing. Sources: CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf, dated 2024-11-13; Congress.gov, House event 117721, https://www.congress.gov/event/118th-congress/house-event/117721, dated 2024-11-13.
 
-It carries 13 connections in total on the board.
+It carries 12 connections in total on the board.
 
 ## Paul Frederick Bennewitz
 
@@ -1040,7 +1040,7 @@ Affiliations recorded: Thunder Scientific Corporation, Albuquerque (founder/pres
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 198 of 1170, score 45). 11 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 199 of 1170, score 45). 11 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -1092,7 +1092,7 @@ Affiliations recorded: US Air Force Office of Special Investigations (c.1979-198
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 118 of 1170, score 57). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
+Re-graded A on a global pass (rank 117 of 1170, score 57). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.
 
 ### The claims on the record
 
@@ -1144,7 +1144,7 @@ Affiliations recorded: Budget Suites of America (1988-present), National Institu
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 56 of 1170, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
+Re-graded A on a global pass (rank 57 of 1170, score 75). 11 connections, 4 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.
 
 ### The claims on the record
 
@@ -1188,7 +1188,7 @@ Affiliations recorded: Defense Intelligence Agency, Defense Warning Office (1990
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 104 of 1170, score 61). 10 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
+Re-graded A on a global pass (rank 103 of 1170, score 62). 11 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D3.
 
 ### The claims on the record
 
@@ -1203,14 +1203,14 @@ Re-graded A on a global pass (rank 104 of 1170, score 61). 10 connections, 2 of 
 
 ### Its strongest connections
 
-- James T. Lacatski runs out to **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: AAWSA Program Manager (name redacted in release). Named unredacted as Government Project Leader on the public DIA solicitation HHM402-08-R-0211; redacted under 10 USC 424 in every later release. Sources: The Black Vault, AAWSAP Original Bid Solicitation, https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/, dated 2008-08-18.
+- James T. Lacatski runs out to **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a programmatic link at Tier 1 documented. The link reads: Government Project Leader. Named unredacted as Government Project Leader on the public DIA solicitation HHM402-08-R-0211; redacted under 10 USC 424 in every later release. Sources: The Black Vault, AAWSAP Original Bid Solicitation, https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/, dated 2008-08-18.
 - James T. Lacatski comes in from **Defense Intelligence Agency** (institution, board tier A), a behavioral link at Tier 1 documented. The link reads: redacted the PM's name it had already published. Lacatski is named in the public solicitation and redacted under 10 USC 424 in every post-award release, a records posture aimed at breaking the link between office and person. Sources: The Black Vault, AAWSAP Original Bid Solicitation, https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/, dated 2008-08-18; DIA AAWSAP contract (FOIA-00349-2018), https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00349-2018.pdf, dated 2022-10-13.
 - James T. Lacatski comes in from **DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'** (document, board tier B), a programmatic link at Tier 1 documented. The link reads: Lacatski named as AAWSA Program Manager on the document's administrative note. The administrative note directs comments to James T. Lacatski, D.Eng., AAWSA Program Manager, DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100 - naming the government official responsible for the series. Sources: DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy' (Eric W. Davis, EarthTech International), https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf, dated 2010-04-06.
 - James T. Lacatski comes in from **KLAS-TV (Las Vegas)** (institution, board tier C), a research link at Tier 1 documented. The link reads: Knapp co-authored two books with the AAWSAP originator. Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.' Sources: House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf, https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf
 - James T. Lacatski runs out to **Robert T. Bigelow** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: 2007 approach that originated the contract. Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter. Sources: The Black Vault, FOIA-00023-2022, https://www.theblackvault.com/documentarchive/wp-content/uploads/2023/09/FOIA00023-2022.pdf, dated 2023-09-01.
 - James T. Lacatski runs out to **Skinwalker Ranch, Uintah Basin, Utah** (location, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Lacatski's visit is the documented link from the ranch to DIA. Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker', visited the ranch and reported an experience there; Bigelow relayed this to Sen. Harry Reid. Sources: Wikipedia - Skinwalker Ranch, https://en.wikipedia.org/wiki/Skinwalker_Ranch, dated 2026-08-12.
 
-It carries 10 connections in total on the board.
+It carries 11 connections in total on the board.
 
 ## Jesse Michels
 
@@ -1230,7 +1230,7 @@ Affiliations recorded: American Alchemy (2021-present), Thiel Capital (investor)
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 624 of 1170, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 621 of 1170, score 27). 10 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1283,7 +1283,7 @@ Affiliations recorded: National Security Agency (physicist / technical director)
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 42 of 1170, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
+Re-graded A on a global pass (rank 44 of 1170, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.
 
 ### The claims on the record
 
@@ -1332,7 +1332,7 @@ Affiliations recorded: The Debrief (2023), The New York Times (2017-2019, contri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 232 of 1170, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 231 of 1170, score 43). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1388,7 +1388,7 @@ Affiliations recorded: Stanford University School of Medicine, Professor of Path
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 121 of 1170, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
+Re-graded A on a global pass (rank 122 of 1170, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.
 
 ### The claims on the record
 
@@ -1483,7 +1483,7 @@ Affiliations recorded: Center for the Study of Extraterrestrial Intelligence (fo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 230 of 1170, score 43). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded B on a global pass (rank 229 of 1170, score 43). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -1552,7 +1552,7 @@ Re-graded B on a global pass (rank 200 of 1170, score 45). 8 connections, 1 of t
 - Colm A. Kelleher runs out to **Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)** (document, board tier B), a witness-chain link at Tier 1 documented. The link reads: co-author, contractor side of the account. Kelleher supplies the field-operations and human-effects record from the BAASS side. Sources: Goodreads, Skinwalkers at the Pentagon, https://www.goodreads.com/book/show/59410596, dated 2021-08-01.
 - Colm A. Kelleher runs out to **Advanced Aerospace Weapon System Applications Program (AAWSAP)** (program, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Deputy administrator of BAASS, the AAWSAP performer. Kelleher ran the operational science side of the contract that produced the DIRD series, having previously managed NIDS field investigations for the same principal, Robert Bigelow. Sources: Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics, https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/, dated 2020-02-14; Wikipedia: Advanced Aerospace Threat Identification Program, https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program, dated 2026-08-12.
 - Colm A. Kelleher runs out to **Bigelow Aerospace Advanced Space Studies (BAASS), LLC** (institution, board tier A), a programmatic link at Tier 2 named person on the record. The link reads: Deputy Administrator running day-to-day contract execution. Kelleher carried the NIDS field methodology into the federally funded effort and directed the biological-effects line. Sources: The Debrief, https://thedebrief.org/colm-kelleher-aawsap-and-the-skinwalker-enigma/, dated 2023-05-25.
-- Colm A. Kelleher runs out to **George Knapp** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: 'Hunt for the Skinwalker' (2005), the book that triggered the contract. Lacatski read it and wrote to Bigelow in June 2007; a trade paperback is the documented first cause of a $22 million federal program. Sources: KLAS Mystery Wire, https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/, dated 2021-08-01.
+- Colm A. Kelleher runs out to **George Knapp** (person, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: 'Hunt for the Skinwalker' (2005) - the book that triggered the contract. Lacatski read it and wrote to Bigelow in June 2007; a trade paperback is the documented first cause of a $22 million federal program. Sources: KLAS Mystery Wire, https://www.8newsnow.com/mystery-wire/new-book-uncovers-secrets-of-government-funded-ufo-investigation-program-exclusive-interview/, dated 2021-08-01.
 - Colm A. Kelleher runs out to **National Institute for Discovery Science (NIDS)** (program, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Kelleher was NIDS deputy administrator and ran field operations. Kelleher managed the ranch instrumentation, the necropsy response programme and the hotline casework for the institute's whole life. Sources: Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News, https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn, dated 1998-08-10; Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131, https://journalofscientificexploration.org/index.php/jse/article/view/2857, dated 2023-05-02.
 - Colm A. Kelleher runs out to **Robert T. Bigelow** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Continuous employment across NIDS and BAASS under the same principal. Kelleher's move from NIDS project manager to BAASS deputy administrator meant the DIA-funded programme inherited a pre-existing private case and sample archive rather than building one. Sources: Tim McMillan, 'Inside the Pentagon's Secret UFO Program', Popular Mechanics, https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/, dated 2020-02-14.
 
@@ -1582,7 +1582,7 @@ Edgar Albert Fouche is the single named origin of the TR-3B account, and what ma
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 216 of 1170, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 214 of 1170, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1635,7 +1635,7 @@ Affiliations recorded: US Navy (2009-2019), VFA-11 Red Rippers, USS Theodore Roo
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 180 of 1170, score 47). 10 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 227 of 1170, score 43). 9 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -1653,13 +1653,13 @@ A further 1 claims sit on this node on the board and are not reproduced here.
 ### Its strongest connections
 
 - Ryan Graves comes in from **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Co-witness, 26 July 2023 hearing panel. Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
-- Ryan Graves runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26.
-- Ryan Graves runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Lead witness at the July 2023 House Oversight hearing. Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record. Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
+- Ryan Graves runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: sworn witness. Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26; House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 - Ryan Graves comes in from **United States Navy** (institution, board tier B), a witness-chain link at Tier 1 documented. The link reads: Navy F/A-18F pilot turned first active-duty-era witness before Congress. In his own words: 'My name is Ryan "FOBS" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation. Sources: Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023, https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf
 - Ryan Graves runs out to **USS Theodore Roosevelt Encounters (2014-2015)** (event, board tier B), a witness-chain link at Tier 1 documented. The link reads: VFA-11 aircrew during the 2014-2015 encounter series. Graves testified in writing that his squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis' after the AESA radar upgrade. Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
 - Ryan Graves runs out to **Americans for Safe Aerospace** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Founder and Executive Director. Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023. Sources: House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26; House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26.
+- Ryan Graves comes in from **Maxwell Alejandro Frost** (person, board tier C), a investigative link at Tier 1 documented. The link reads: questioned Graves on scientific advisory board and NASA reporting. Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee. Sources: House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 
-It carries 10 connections in total on the board.
+It carries 9 connections in total on the board.
 
 ## Salvatore Cezar Pais
 
@@ -1704,7 +1704,7 @@ Affiliations recorded: Naval Air Warfare Center Aircraft Division (NAWCAD), NAS 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 43 of 1170, score 84). 8 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
+Re-graded A on a global pass (rank 45 of 1170, score 84). 8 connections, 6 of them custody/funding/programmatic. Axes C2/A1/D1.
 
 ### The claims on the record
 
@@ -1732,7 +1732,7 @@ It carries 8 connections in total on the board.
 
 ## William L. Moore
 
-William L. Moore is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1989-07-01; axes C0 A1 D2; 8 connections.
+William L. Moore is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 1990-01-01; axes C0 A1 D2; 8 connections.
 
 In one line: Co-author, 'The Roswell Incident' (1980); first recipient of the MJ-12 film; self-confessed conduit for AFOSI disinformation.
 
@@ -1743,12 +1743,14 @@ William L. Moore wrote the book that made Roswell a public case and then, nine y
 ### Where the record conflicts
 
 - Friedman continued to regard the MJ-12 core documents as authentic after Moore's admission; Randle regarded the admission as conclusive against them.
+- Moore's admission of being an AFOSI conduit is used both to discredit MJ-12 (as a plant) and to authenticate it (as a controlled leak). The record supports the first reading more strongly.
 
 ### Recorded as unverified
 
 - The names of the AFOSI personnel Moore says he dealt with, and whether any AFOSI record of the relationship has ever been requested or released. Nothing responsive has surfaced.
+- Whether Moore was given genuine classified material at any point, as he implied, is unresolved.
 
-Affiliations recorded: Fair-Witness Project, Co-author with Charles Berlitz, 'The Roswell Incident' (1980).
+Affiliations recorded: Fair-Witness Project, Co-author with Charles Berlitz, 'The Roswell Incident' (1980), Aerial Phenomena Research Organization, Fair-Witness Project, Burbank, California.
 
 ### Why it holds its tier
 
@@ -1788,7 +1790,7 @@ The president who signed the founding instruments of the structure this board ma
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 261 of 1170, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 260 of 1170, score 41). 7 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -1827,7 +1829,7 @@ Affiliations recorded: Weaponized podcast (with George Knapp), Extraordinary Bel
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 622 of 1170, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 619 of 1170, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -1865,16 +1867,19 @@ No disposition authority has ever been produced for the destruction of the RAAF 
 ### Where the record conflicts
 
 - Marcel overstated parts of his military biography in later interviews, which the Air Force uses to impeach him; the overstatements do not bear on what he handled in July 1947
+- The Air Force's 1994-1997 reports conclude the debris was a Project Mogul balloon train launched from Alamogordo AAF, and that Marcel misidentified it. Researchers have also documented that Marcel's later claims about his own war record and education were inflated relative to his service file.
 
 ### Recorded as unverified
 
 - Whether material was substituted between Roswell and Fort Worth on 8 July 1947
+- The exact date in February 1978 of the Friedman interview.
+- Whether any 1947 Air Materiel Command or 509th record beyond the press release names Marcel in connection with the material's onward routing.
 
-Affiliations recorded: 509th Bomb Group, Roswell Army Air Field, S-2 Intelligence (1946-1948), US Air Force, Special Weapons Program (1948-1950).
+Affiliations recorded: 509th Bomb Group, Roswell Army Air Field, S-2 Intelligence (1946-1948), US Air Force, Special Weapons Program (1948-1950), US Army Air Forces, commissioned 1942, 5th Bomber Command, Southwest Pacific, 509th Composite Group / 509th Bomb Group, Roswell AAF, Operation Crossroads, Bikini Atoll, 1946.
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 142 of 1170, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 143 of 1170, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -1911,7 +1916,7 @@ Affiliations recorded: U.S. Senate, New York (2009- ), Senate Armed Services Com
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 228 of 1170, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 275 of 1170, score 40). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -1927,10 +1932,10 @@ Re-graded B on a global pass (rank 228 of 1170, score 43). 7 connections, 1 of t
 ### Its strongest connections
 
 - Kirsten E. Gillibrand runs out to **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a legislative link at Tier 1 documented. The link reads: authored the statutory mandate and reporting regime AARO operates under. Gillibrand's FY2022 NDAA and IAA provisions and the FY2023 NDAA codification at 50 U.S.C. 3373 create AARO's legal identity and its classified quarterly and unclassified annual reporting duties. Sources: Congress.gov - S.Hrg. 118-648, https://www.congress.gov/event/118th-congress/senate-event/LC74346/text, dated 2023-04-19.
-- Kirsten E. Gillibrand runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a programmatic link at Tier 1 documented. The link reads: cosponsor. Named in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
+- Kirsten E. Gillibrand runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a research link at Tier 1 documented. The link reads: cosponsor. Named in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
 - Kirsten E. Gillibrand runs out to **S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Original cosponsor, 13 July 2023. Gillibrand cosponsored Schumer's amendment while her own Sec. 1683 architecture was the statutory baseline it cross-referenced. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
 - Kirsten E. Gillibrand runs out to **FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)** (legislation, board tier B), a legislative link at Tier 1 documented. The link reads: Author of the founding AARO authority. Sec. 1683 of P.L. 117-81, codified at 50 U.S.C. 3373, is the statute every later UAP provision cross-references. Sources: P.L. 117-81, GPO, https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm, dated 2021-12-27.
-- Kirsten E. Gillibrand runs out to **Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'** (event, board tier B), a legislative link at Tier 1 documented. The link reads: chaired the hearing. Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee for both AARO oversight hearings. Sources: Senate Armed Services hearing page, https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office, dated 2023-04-19.
+- Kirsten E. Gillibrand runs out to **Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'** (event, board tier C), a legislative link at Tier 1 documented. The link reads: chaired the hearing. Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee for both AARO oversight hearings. Sources: Senate Armed Services hearing page, https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office, dated 2023-04-19.
 - Kirsten E. Gillibrand runs out to **FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting** (legislation, board tier A), a legislative link at Tier 2 named person on the record. The link reads: Claims only the briefing-requirement update as her FY2026 UAP win. Gillibrand's FY2026 announcement lists 'language to update congressional briefing requirements for UAP', matching Sec. 1671 rather than any disclosure mandate. Sources: Gillibrand announces FY2026 defense bill wins, https://www.gillibrand.senate.gov/news/press/release/gillibrand-announces-fy2026-defense-bill-wins/, dated 2025-07-15; P.L. 119-60, GPO, https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm, dated 2025-12-18.
 
 It carries 7 connections in total on the board.
@@ -2284,7 +2289,7 @@ The provenance that matters most is the one the enthusiast literature omits. Bro
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 57 of 1170, score 75). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A1/D2.
+Re-graded A on a global pass (rank 58 of 1170, score 75). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A1/D2.
 
 ### The claims on the record
 
@@ -2328,7 +2333,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 276 of 1170, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 277 of 1170, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -2373,7 +2378,7 @@ Affiliations recorded: Harvard University Department of Astronomy (1993- ; chair
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 233 of 1170, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 232 of 1170, score 43). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -2455,7 +2460,7 @@ Affiliations recorded: US Army, Vietnam (116th and 187th Assault Helicopter Comp
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 231 of 1170, score 43). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 230 of 1170, score 43). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2493,7 +2498,7 @@ Affiliations recorded: U.S. Senate, Florida (2011-2025), SSCI Acting Chairman (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 449 of 1170, score 32). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D2.
+Re-graded B on a global pass (rank 542 of 1170, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.
 
 ### The claims on the record
 
@@ -2504,7 +2509,7 @@ Re-graded B on a global pass (rank 449 of 1170, score 32). 6 connections, 1 of t
 
 ### Its strongest connections
 
-- Marco Rubio runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a programmatic link at Tier 1 documented. The link reads: cosponsor. Named in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
+- Marco Rubio runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a research link at Tier 1 documented. The link reads: cosponsor. Named in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
 - Marco Rubio runs out to **S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Original cosponsor while serving as SSCI Vice Chairman. Rubio cosponsored the eminent domain text while holding one of the eight most senior intelligence-access positions in Congress. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
 - Marco Rubio runs out to **Senate Select Committee on Intelligence** (institution, board tier B), a institutional link at Tier 1 documented. The link reads: Vice Chairman 2021-2025. Rubio's Gang of Eight access is what makes his cosponsorship of the eminent domain text evidentially significant. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
 - Marco Rubio runs out to **UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)** (legislation, board tier B), a temporal link at Tier 1 documented. The link reads: Absent from the 2024 refiling; left the Senate January 2025. The 2024 amendment carries only Rounds and Schumer; Rubio, Gillibrand, Young and Heinrich are not on it, and Rubio left the Senate the following January. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
@@ -2527,7 +2532,7 @@ The structural point is the ordering. A former DCI publicly contradicting the Ai
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 168 of 1170, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
+Re-graded A on a global pass (rank 167 of 1170, score 49). 6 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.
 
 ### The claims on the record
 
@@ -2573,7 +2578,7 @@ Affiliations recorded: US Navy (1989-2017), Rear Admiral, Commander, Naval Meteo
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 150 of 1170, score 52). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 175 of 1170, score 48). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2591,13 +2596,13 @@ A further 2 claims sit on this node on the board and are not reproduced here.
 ### Its strongest connections
 
 - Timothy Gallaudet comes in from **The Sol Foundation** (institution, board tier A), a institutional link at Tier 1 documented. The link reads: Gallaudet on Sol's Natural Sciences and US Government Advisory Boards. 'Beneath the Surface: We May Learn More about UAP by Looking in the Ocean' opened the foundation's numbered series; Gallaudet was subsequently named to the 2026 advisory council. Sources: The Sol Foundation - People, https://thesolfoundation.org/people/, dated 2026-08-12; The Sol Foundation - UAP Science Advisory Council announcement, https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-22; The Sol Foundation - White Papers and Policy Briefings index, https://thesolfoundation.org/white-papers/, dated 2026-08-12.
-- Timothy Gallaudet runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf, dated 2024-11-13.
-- Timothy Gallaudet runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified before the House Oversight joint subcommittees. Gallaudet's statement urged members to 'wield their subpoena power against hostile witnesses and prevent additional government funding to those UAP efforts that remain hidden from congressional oversight.' Sources: House Oversight - hearing page, 13 Nov 2024, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/, dated 2024-11-13; House Oversight - Gallaudet written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf, dated 2024-11-13; U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; HHRG-118-GO12 transcript, https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf, dated 2024-11-13.
+- Timothy Gallaudet runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: sworn witness. Gallaudet's statement urged members to 'wield their subpoena power against hostile witnesses and prevent additional government funding to those UAP efforts that remain hidden from congressional oversight.' Sources: CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf, dated 2024-11-13; House Oversight - hearing page, 13 Nov 2024, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/, dated 2024-11-13; House Oversight - Gallaudet written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf, dated 2024-11-13; U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; HHRG-118-GO12 transcript, https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf, dated 2024-11-13.
 - Timothy Gallaudet runs out to **PURSUE - Presidential Unsealing and Reporting System for UAP Encounters** (program, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Said the absence of metadata made it impossible to conclude any object was truly anomalous. A 2024 House witness assessing the 2026 executive release. Sources: DefenseScoop: 'Data alone is not disclosure', UAP research community reacts to Trump's first PURSUE file drop, https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/, dated 2026-05-14.
 - Timothy Gallaudet runs out to **PURSUE - Presidential Unsealing and Reporting System for UAP Encounters** (program, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Identified the missing metadata as the disqualifying defect. Gallaudet welcomed the first open admission that UAP files had been shielded and said the absence of metadata made it impossible to conclude any object was truly anomalous. Sources: DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop, https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/, dated 2026-05-14; DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution, https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/, dated 2026-02-20.
 - Timothy Gallaudet comes in from **UAP Science Advisory Council** (institution, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Gallaudet named to the council as its oceanographer. A retired rear admiral and former acting NOAA administrator, and a Sol Foundation senior adviser, seated on the government's outside science body. Sources: Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/, dated 2026-06-15; The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council', https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/, dated 2026-06-01; DefenseScoop, 'Data alone is not disclosure', https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/, dated 2026-05-14; DefenseScoop, UAP Science Advisory Council, https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/, dated 2026-06-17.
+- Timothy Gallaudet runs out to **Americans for Safe Aerospace** (institution, board tier B), a programmatic link at Tier 2 named person on the record. The link reads: Flag-officer corroboration of the safety-reporting failure ASA was built around. Gallaudet's recalled-email account and Graves's unacknowledged squadron safety report describe the same broken machinery from opposite ends of the chain of command. Sources: House Oversight - Gallaudet written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf, dated 2024-11-13; House Oversight - Graves written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, dated 2023-07-26.
 
-It carries 8 connections in total on the board.
+It carries 7 connections in total on the board.
 
 ## Bob Fish
 
@@ -2611,7 +2616,7 @@ A private correspondent of John Podesta's in the WikiLeaks Podesta Emails, writi
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 549 of 1170, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 545 of 1170, score 29). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -2642,7 +2647,7 @@ The board already holds a document over Cabell's signature, cited as a source on
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 262 of 1170, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 261 of 1170, score 41). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -2678,7 +2683,7 @@ Affiliations recorded: U.S. Senate, New York (1999- ), Senate Majority Leader (2
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 274 of 1170, score 40). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 329 of 1170, score 37). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2691,11 +2696,11 @@ Re-graded B on a global pass (rank 274 of 1170, score 40). 5 connections, 1 of t
 
 ### Its strongest connections
 
-- Charles E. Schumer runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a programmatic link at Tier 1 documented. The link reads: sponsor of S.Amdt. 797. congress.gov lists Sen. Schumer as sponsor of S.Amdt.797, submitted 07/13/2023; the Congressional Record entry names him as the submitting senator. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13; congress.gov, S.Amdt.797 to S.2226 overview (Wayback capture 2024-12-18), https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2024-12-18.
+- Charles E. Schumer runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a research link at Tier 1 documented. The link reads: sponsor of S.Amdt. 797. congress.gov lists Sen. Schumer as sponsor of S.Amdt.797, submitted 07/13/2023; the Congressional Record entry names him as the submitting senator. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13; congress.gov, S.Amdt.797 to S.2226 overview (Wayback capture 2024-12-18), https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2024-12-18.
 - Charles E. Schumer runs out to **S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Sponsor of record; filed 13 July 2023. Congress.gov lists Schumer as the sole sponsor of S.Amdt. 797, submitted 13 July 2023, with the text printed at 169 Cong. Rec. S2953. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13; Congressional Record, 13 July 2023, S.Amdt. 797, https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
 - Charles E. Schumer runs out to **Jared Evan Moskowitz** (person, board tier B), a legislative link at Tier 1 documented. The link reads: Moskowitz read Schumer's disclosure language into the House record. 'The American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena.' Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 - Charles E. Schumer runs out to **Harry M. Reid** (person, board tier A), a behavioral link at Tier 2 named person on the record. The link reads: Schumer names Reid as the legacy he is continuing. Schumer publicly framed the UAPDA as inheriting from Reid, who had funded AAWSAP through leadership discretion rather than committee process. Sources: The Debrief, UAP Disclosure Act of 2023, https://thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schumer-and-the-senates-new-push-for-uap-transparency/, dated 2023-07-14.
-- Charles E. Schumer runs out to **P.L. 118-31 Subtitle C, Secs. 1841-1843 (what survived)** (legislation, board tier A), a denial link at Tier 2 named person on the record. The link reads: Publicly called the removal of the Review Board an outrage. Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it. Sources: The Debrief, A Dramatic Dilution, https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/, dated 2023-12-22.
+- Charles E. Schumer runs out to **P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)** (legislation, board tier A), a denial link at Tier 2 named person on the record. The link reads: Publicly called the removal of the Review Board an outrage. Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it. Sources: The Debrief, A Dramatic Dilution, https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/, dated 2023-12-22.
 
 ## Clifford E. Stone
 
@@ -2745,7 +2750,7 @@ A further 1 claims sit on this node on the board and are not reproduced here.
 
 ## David Fravor
 
-David Fravor is a person on the board; board tier A, named in sworn testimony or primary documents as directly inside the programme; dates 2023-07-26; axes C0 A1 D3; 5 connections.
+David Fravor is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2023-07-26; axes C0 A1 D3; 5 connections.
 
 In one line: CDR, USN (Ret.); Commanding Officer, VFA-41 Black Aces; 14 Nov 2004 Nimitz intercept.
 
@@ -2765,7 +2770,7 @@ Affiliations recorded: US Navy (1989-2006), VFA-41 Black Aces, Commanding Office
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 162 of 1170, score 50). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 188 of 1170, score 46). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2783,8 +2788,7 @@ A further 3 claims sit on this node on the board and are not reproduced here.
 ### Its strongest connections
 
 - David Fravor comes in from **David Charles Grusch** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Co-witness, 26 July 2023 hearing panel. Fravor testified alongside Grusch and Graves, providing the operational encounter testimony that framed Grusch's programmatic allegations for the committee. Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
-- David Fravor runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26.
-- David Fravor runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified as former commanding officer, VFA-41. Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept. Sources: House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
+- David Fravor runs out to **House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: sworn witness. Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept. Sources: CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf, dated 2023-07-26; House Oversight - hearing page, 26 July 2023, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/, dated 2023-07-26; House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 - David Fravor runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Intercepted the object as CO of VFA-41 on 14 Nov 2004. Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - David Fravor runs out to **Alex Dietrich** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
 - David Fravor runs out to **Kevin Day** (person, board tier C), a behavioral link at Tier 1 documented. The link reads: Direct conflict over whether data was taken. Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
@@ -2806,7 +2810,7 @@ Keyhoe ran the civilian organisation the board already carries as nicap, and he 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 229 of 1170, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 228 of 1170, score 43). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -2846,7 +2850,7 @@ Affiliations recorded: US Air Force veteran, U.S. Air Force (Langley AFB, c.2012
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 105 of 1170, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 118 of 1170, score 57). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -2864,8 +2868,7 @@ A further 6 claims sit on this node on the board and are not reproduced here.
 ### Its strongest connections
 
 - Dylan Borland comes in from **Eric Burlison** (person, board tier A), a investigative link at Tier 1 documented. The link reads: Asked him on the record whether BAASS was involved in reverse-engineering exploitation of NHI craft. Ties the 2025 witness layer back to the AAWSAP/BAASS contracting layer. Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09.
-- Dylan Borland runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09.
-- Dylan Borland runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified before the House Oversight Task Force. Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023. Sources: House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; Dylan Borland, written testimony, House Oversight Task Force, https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf, dated 2025-09-09; The Hill: Moskowitz accuses the US government of lying about UAP, https://thehill.com/homenews/house/5494075-moskowitz-demands-uap-transparency/, dated 2025-09-09; DefenseScoop - Military whistleblowers share new evidence of alleged UAP, https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/, dated 2025-09-09.
+- Dylan Borland runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: sworn witness. Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09; House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; Dylan Borland, written testimony, House Oversight Task Force, https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf, dated 2025-09-09; The Hill: Moskowitz accuses the US government of lying about UAP, https://thehill.com/homenews/house/5494075-moskowitz-demands-uap-transparency/, dated 2025-09-09; DefenseScoop - Military whistleblowers share new evidence of alleged UAP, https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/, dated 2025-09-09.
 - Dylan Borland comes in from **The Sol Foundation** (institution, board tier A), a institutional link at Tier 2 named person on the record. The link reads: Borland spoke at the 2025 Sol Foundation Symposium. Same pipeline: Borland, a former USAF 1N1 geospatial intelligence specialist, appears on the 2025 symposium programme and is subsequently given a three-episode run on American Alchemy in August 2026. Sources: The Sol Foundation - 2025 Symposium, https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/, dated 2025-10-24; American Alchemy - Dylan Borland, https://www.youtube.com/watch?v=K4gYHs84BIc, dated 2026-08-05.
 - Dylan Borland comes in from **Jesse Michels** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Michels ran a three-episode Borland sequence, August 2026. Published 5, 6 and 7 August 2026. Borland is a former USAF 1N1 geospatial intelligence specialist who describes witnessing a 100-to-150-foot black metallic triangle near the NASA hangar at Langley AFB in 2012; the episode chapters include 'ODNI and the leaked program name'. Sources: American Alchemy - 'A Top Government Official Told Me Aliens Run Everything!' - Dylan Borland, https://www.youtube.com/watch?v=K4gYHs84BIc, dated 2026-08-05.
 - Dylan Borland runs out to **H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)** (legislation, board tier C), a programmatic link at Tier 3 stated inference. The link reads: The reprisal case the bill is designed to cover. Reasoning: Borland testified to a decade of sustained reprisal at the hearing convened to advance whistleblower protections, and Luna closed the hearing urging members to sign a protection letter on his behalf. Sources: U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; The Hill: Moskowitz accuses the US government of lying about UAP, https://thehill.com/homenews/house/5494075-moskowitz-demands-uap-transparency/, dated 2025-09-09.
@@ -2888,7 +2891,7 @@ Affiliations recorded: U.S. House of Representatives, FL-23 (2023- ), House Comm
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 370 of 1170, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 374 of 1170, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -2926,7 +2929,7 @@ Affiliations recorded: The White House (1993-2001; 2014-2015), Center for Americ
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 711 of 1170, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded C on a global pass (rank 710 of 1170, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -2960,7 +2963,7 @@ Affiliations recorded: NASA Ames Research Center (2001-2005), University at Alba
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 941 of 1170, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 940 of 1170, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -2999,7 +3002,7 @@ Affiliations recorded: CRIFO (Civilian Research, Interplanetary Flying Objects),
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 810 of 1170, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
+Re-graded C on a global pass (rank 811 of 1170, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.
 
 ### The claims on the record
 
@@ -3034,7 +3037,7 @@ Affiliations recorded: University at Albany (SUNY), Department of Physics, LUX /
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 940 of 1170, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 939 of 1170, score 17). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3067,7 +3070,7 @@ Genik has no documented custody proximity and no documented special access. He i
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 144 of 1170, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded A on a global pass (rank 145 of 1170, score 53). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3086,8 +3089,8 @@ A further 5 claims sit on this node on the board and are not reproduced here.
 
 - Richard J. Genik II comes in from **Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft** (document, board tier B), a research link at Tier 1 documented. The link reads: authored by Richard J. Genik II. The DIA list of 9 January 2018 records 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.' The released PDF's author block is redacted under (b)(6). Genik wrote three of the 38 DIRDs, the largest single-author block after Eric Davis's five. Sources: Released DIRD, 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecra', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514, https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514
 - Richard J. Genik II runs out to **Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces** (document, board tier B), a research link at Tier 1 documented. The link reads: author of record on the DIA list. DIA list item 20: "Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ." The KLAS-TV list of July 2018 gives the same document the plainer title "Brain-Machine Interfaces." Sources: Released DIRD, 'Technological Approaches to Controlling External Devices in the Absenc', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
+- Richard J. Genik II comes in from **Quantum Computing and Utilizing Organic Molecules in Automation Technology** (document, board tier B), a research link at Tier 1 documented. The link reads: authored by. The DIA congressional list credits 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' to 'Dr R Genik, Wayne State Univ'. Genik is credited elsewhere on the same list with the brain-machine interface deliverable on controlling external devices without limb-operated interfaces, making him a multi-product AAWSAP contributor. Sources: Released DIRD, 'Quantum Computing and Utilizing Organic Molecules in Automation Techno', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
 - Richard J. Genik II runs out to **Wayne State University** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: director, Emergent Technology Research Division; assistant professor of psychiatry and behavioral neurosciences. Wayne State University School of Medicine identifies Genik as director of its Emergent Technology Research Division and an assistant professor in the Department of Psychiatry and Behavioral Neurosciences. Wayne State is the affiliation DIA recorded for him on the congressional list. The dateStart is the date of the university announcement establishing the role, not necessarily the start of his tenure. Sources: https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514, https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf
-- Richard J. Genik II comes in from **Quantum Computing and Utilizing Organic Molecules in Automation Technology** (document, board tier C), a research link at Tier 1 documented. The link reads: authored by. The DIA congressional list credits 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' to 'Dr R Genik, Wayne State Univ'. Genik is credited elsewhere on the same list with the brain-machine interface deliverable on controlling external devices without limb-operated interfaces, making him a multi-product AAWSAP contributor. Sources: Released DIRD, 'Quantum Computing and Utilizing Organic Molecules in Automation Techno', FOIA copy, cover page read 22 August 2026, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room entry for this reference document, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/, dated 2026-08-22; DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations, https://fas.org/publication/aatip-list/, dated 2026-08-23; https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
 - Richard J. Genik II runs out to **Christopher C. 'Kit' Green** (person, board tier A), a institutional link at Tier 2 named person on the record. The link reads: co-affiliated AAWSAP authors at Wayne State University. The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship, no primary source describing collaboration between them has been located, and the edge should not be read as one. Sources: https://irp.fas.org/dia/aatip-list.pdf, https://irp.fas.org/dia/aatip-list.pdf; https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html, https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html; https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html, https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html
 
 ## Richard M. Bissell Jr.
@@ -3147,7 +3150,7 @@ Affiliations recorded: US Air Force Academy, 341st Strategic Missile Wing, Malms
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 192 of 1170, score 46). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 191 of 1170, score 46). 5 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3192,7 +3195,7 @@ Affiliations recorded: General Electric (1956-1959), Aerojet General Nucleonics 
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 143 of 1170, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
+Re-graded A on a global pass (rank 144 of 1170, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -3237,7 +3240,7 @@ Affiliations recorded: US House of Representatives, NM-01 (1989-1998), House Jud
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 314 of 1170, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 312 of 1170, score 38). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3252,7 +3255,7 @@ Re-graded B on a global pass (rank 314 of 1170, score 38). 5 connections, 0 of t
 
 ### Its strongest connections
 
-- Steven H. Schiff runs out to **GAO/NSIAD-95-187, Results of a Search for Records Concerning the 1947 Crash Near Roswell** (document, board tier A), a legislative link at Tier 1 documented. The link reads: Schiff tasked GAO after DoD refused to answer him. A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed. Sources: GAO/NSIAD-95-187 (landing page), https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28; GAO/NSIAD-95-187 (full PDF), https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
+- Steven H. Schiff runs out to **GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell** (document, board tier A), a legislative link at Tier 1 documented. The link reads: Schiff tasked GAO after DoD refused to answer him. A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed. Sources: GAO/NSIAD-95-187 (landing page), https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28; GAO/NSIAD-95-187 (full PDF), https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
 - Steven H. Schiff runs out to **The Roswell Reports (USAF, 1994-1997)** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Schiff's inquiry forced the Air Force to abandon the weather balloon story. Both Roswell Reports state they were produced in response to Rep. Schiff's inquiry. The 1994-1995 volume conceded that the 1947 weather balloon explanation was false. Sources: USAF, The Roswell Report: Fact vs. Fiction (1995), https://archive.org/details/DTIC_ADA326148, dated 1995-01-01; GAO/NSIAD-95-187, https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
 - Steven H. Schiff runs out to **Albuquerque, New Mexico** (location, board tier B), a investigative link at Tier 1 documented. The link reads: Schiff's New Mexico district inquiry produced the GAO Roswell audit. Rep. Steven H. Schiff of New Mexico asked GAO to search federal records after the Defense Department declined to answer his Roswell inquiries, producing GAO/NSIAD-95-187. Sources: GAO/NSIAD-95-187, https://www.gao.gov/products/nsiad-95-187, dated 1995-07-28.
 - Steven H. Schiff comes in from **Government Accountability Office** (institution, board tier C), a investigative link at Tier 1 documented. The link reads: GAO conducted the Roswell records search at Rep. Schiff's request. Schiff turned to GAO after the Air Force declined to answer him directly; GAO/NSIAD-95-187 is the result. Sources: GAO/NSIAD-95-187, https://www.gao.gov/assets/nsiad-95-187.pdf, dated 1995-07-28.
@@ -3274,7 +3277,7 @@ Tom Mahood is the custody and analysis point for most of the documentary record 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 315 of 1170, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.
+Re-graded B on a global pass (rank 313 of 1170, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -3311,7 +3314,7 @@ Affiliations recorded: Central Intelligence Agency, Director of Central Intellig
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 424 of 1170, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 427 of 1170, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3340,7 +3343,7 @@ The correspondent named throughout the Wilson-Davis notes as the man who first r
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 735 of 1170, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 734 of 1170, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3372,7 +3375,7 @@ Affiliations recorded: US Navy (2001-2019), VFA-41 Black Aces (2004), Naval Post
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 515 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 513 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3388,8 +3391,8 @@ Re-graded B on a global pass (rank 515 of 1170, score 30). 4 connections, 0 of t
 
 - Alex Dietrich runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Flew wing on the 14 Nov 2004 intercept; observed the object for about five minutes. Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
 - Alex Dietrich runs out to **ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)** (document, board tier A), a behavioral link at Tier 1 documented. The link reads: Sixteen years of silence is the stigma the assessment describes. Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.' Sources: CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16; ODNI Preliminary Assessment: Unidentified Aerial Phenomena (PDF), https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf, dated 2021-06-25.
-- Alex Dietrich comes in from **David Fravor** (person, board tier A), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
-- Alex Dietrich comes in from **Michael Gold** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Cited Dietrich by name to Congress as evidence of aviator stigma. Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.' Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
+- Alex Dietrich comes in from **David Fravor** (person, board tier B), a witness-chain link at Tier 1 documented. The link reads: Section lead and wingman on the same intercept. Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14; CBS News / 60 Minutes, https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/, dated 2021-05-16.
+- Alex Dietrich comes in from **Michael Gold** (person, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Cited Dietrich by name to Congress as evidence of aviator stigma. Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.' Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
 
 ## Alexandro Wiggins
 
@@ -3417,7 +3420,7 @@ Affiliations recorded: US Navy, Senior Chief Operations Specialist, USS Jackson 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 189 of 1170, score 46). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.
+Re-graded B on a global pass (rank 240 of 1170, score 42). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.
 
 ### The claims on the record
 
@@ -3434,8 +3437,7 @@ A further 3 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
-- Alexandro Wiggins runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09.
-- Alexandro Wiggins runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: First active-duty Navy senior enlisted UAP witness before Congress. Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving. Sources: House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; DefenseScoop - Military whistleblowers share new evidence of alleged UAP, https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/, dated 2025-09-09.
+- Alexandro Wiggins runs out to **House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: sworn witness. Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving. Sources: CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf, dated 2025-09-09; House Oversight - hearing page, 9 Sept 2025, https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/, dated 2025-09-09; House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09; U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718), https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm, dated 2025-09-09; DefenseScoop - Military whistleblowers share new evidence of alleged UAP, https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/, dated 2025-09-09.
 - Alexandro Wiggins runs out to **USS Jackson (LCS-6) Encounter, 15 February 2023** (event, board tier C), a witness-chain link at Tier 2 named person on the record. The link reads: Supervised the watch and the recording of the 15 Feb 2023 encounter. Wiggins testified as an active-duty Senior Chief Operations Specialist that CIC recorded four objects on Star SAFIRE with intact position and time metadata. Sources: House Oversight - Wiggins written statement (PDF), https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09.
 - Alexandro Wiggins comes in from **AARO FY2025 Consolidated Annual Report on UAP** (document, board tier A), a witness-chain link at Tier 3 stated inference. The link reads: AARO's only unresolved maritime case parallels the transmedium account an active-duty sailor gave Congress instead of AARO. Wiggins described a multi-radar transmedium contact from USS Jackson to a House task force in September 2025; AARO's FY2025 report carries one unresolved maritime event and does not indicate whether the USS Jackson account is in its holdings. Sources: DefenseScoop - Military whistleblowers share new evidence of alleged UAP, https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/, dated 2025-09-09; AARO FY2025 Consolidated Annual Report, https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf, dated 2026-07-21.
 - Alexandro Wiggins runs out to **Navy UAP event off the Virginia coast (reported July 2026)** (event, board tier C), a temporal link at Tier 3 stated inference. The link reads: two maritime cases, three years apart, both unresolved. The USS Jackson transmedium event of February 2023 and the roughly 100 objects with two uncrewed surface systems off Virginia are the two maritime anchors of the current record; neither has a public case number. Sources: Wiggins Written Statement, https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf, dated 2025-09-09; DefenseScoop, Navy UAP event off Virginia, https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/, dated 2026-07-21.
@@ -3459,7 +3461,7 @@ The documented officeholder who joins three institutions the board already carri
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 263 of 1170, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
+Re-graded B on a global pass (rank 262 of 1170, score 41). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.
 
 ### The claims on the record
 
@@ -3497,7 +3499,7 @@ Everything substantive on this thread traces to one man, and the earliest docume
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 514 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded B on a global pass (rank 512 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 
@@ -3541,7 +3543,7 @@ Affiliations recorded: United States Air Force (1965-1991), 81st Combat Support 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 422 of 1170, score 33). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 425 of 1170, score 33). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3575,7 +3577,7 @@ Affiliations recorded: Office of the Assistant to the Secretary of Defense for P
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 804 of 1170, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
+Re-graded C on a global pass (rank 805 of 1170, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.
 
 ### The claims on the record
 
@@ -3607,7 +3609,7 @@ Affiliations recorded: Air Technical Intelligence Center, Wright-Patterson AFB (
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 397 of 1170, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
+Re-graded B on a global pass (rank 400 of 1170, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.
 
 ### The claims on the record
 
@@ -3645,7 +3647,7 @@ Affiliations recorded: U.S. House of Representatives, AZ-2 (2023- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 369 of 1170, score 35). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded B on a global pass (rank 447 of 1170, score 32). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -3742,7 +3744,7 @@ Affiliations recorded: CIA Office of Scientific Intelligence, Assistant Director
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 551 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 547 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -3772,7 +3774,7 @@ Affiliations recorded: Ohio State University (1936-1956), Project SIGN / GRUDGE 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 517 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 515 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -3802,7 +3804,7 @@ Affiliations recorded: U.S. House of Representatives, KY-1 (2016- ), Committee o
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 865 of 1170, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 866 of 1170, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -3963,7 +3965,7 @@ John Lear is the rare figure in this cluster whose ordinary career is fully docu
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 838 of 1170, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
+Re-graded C on a global pass (rank 839 of 1170, score 20). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.
 
 ### The claims on the record
 
@@ -3998,7 +4000,7 @@ Affiliations recorded: US Army, Colonel (ret.), UAP Task Force, Army liaison (20
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 550 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 546 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -4047,7 +4049,7 @@ Re-graded C on a global pass (rank 767 of 1170, score 22). 4 connections, 0 of t
 
 ### Its strongest connections
 
-- Kevin Day comes in from **David Fravor** (person, board tier A), a behavioral link at Tier 1 documented. The link reads: Direct conflict over whether data was taken. Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
+- Kevin Day comes in from **David Fravor** (person, board tier B), a behavioral link at Tier 1 documented. The link reads: Direct conflict over whether data was taken. Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26; The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
 - Kevin Day runs out to **USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004** (event, board tier A), a witness-chain link at Tier 2 named person on the record. The link reads: Ran the Princeton air picture and vectored the intercept. As Senior Chief Operations Specialist Day was the air warfare coordinator holding the tracks. Fravor's sworn statement corroborates the substance of the radar picture Day describes. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26.
 - Kevin Day runs out to **USS Princeton (CG-59)** (institution, board tier B), a institutional link at Tier 2 named person on the record. The link reads: Senior Chief Operations Specialist aboard USS Princeton, Nov 2004. Day's billet is the reason his account of the radar record and its removal carries weight; he is the man who owned the air picture. Sources: House Oversight - Fravor written statement (PDF), https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf, dated 2023-07-26.
 - Kevin Day runs out to **Gary Voorhis** (person, board tier C), a witness-chain link at Tier 3 stated inference. The link reads: Independent shipmate corroboration of the post-encounter data collection. Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof. Sources: The War Zone - Tic Tac incident in newly released range fouler reports, https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports, dated 2023-01-14.
@@ -4440,7 +4442,7 @@ What is documented about his work is classical general relativity, not gravity c
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 652 of 1170, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
+Re-graded C on a global pass (rank 653 of 1170, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.
 
 ### The claims on the record
 
@@ -4492,7 +4494,7 @@ Re-graded C on a global pass (rank 1116 of 1170, score 10). 4 connections, 0 of 
 
 ## Michael Gold
 
-Michael Gold is a person on the board; board tier B, documented channel and capability, programme role indicated but not yet nailed to a primary source; dates 2024-11-13; axes C0 A1 D2; 4 connections.
+Michael Gold is a person on the board; board tier C, contextual, real and relevant, no direct programme linkage on the record yet; dates 2024-11-13; axes C0 A1 D2; 4 connections.
 
 In one line: Former NASA Associate Administrator for Space Policy and Partnerships; NASA UAP Independent Study Team member.
 
@@ -4504,7 +4506,7 @@ Affiliations recorded: Bigelow Aerospace (Washington DC operations, prior), NASA
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 512 of 1170, score 30). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 650 of 1170, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -4517,8 +4519,7 @@ Re-graded B on a global pass (rank 512 of 1170, score 30). 5 connections, 1 of t
 
 ### Its strongest connections
 
-- Michael Gold runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness. Listed in the printed hearing record as a witness. Sources: CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf, dated 2024-11-13.
-- Michael Gold runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Testified before the House Oversight joint subcommittees. Gold testified as the fourth witness and answered Boebert's genetics question in the negative. Sources: House Oversight - hearing page, 13 Nov 2024, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/, dated 2024-11-13; House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13; U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
+- Michael Gold runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: sworn witness. Gold testified as the fourth witness and answered Boebert's genetics question in the negative. Sources: CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf, dated 2024-11-13; House Oversight - hearing page, 13 Nov 2024, https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/, dated 2024-11-13; House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13; U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 - Michael Gold runs out to **NASA UAP Independent Study Team** (program, board tier B), a institutional link at Tier 1 documented. The link reads: Member of the study team. Gold is listed among the team's members and later testified to Congress on its findings. Sources: NASA UAP Independent Study Team Final Report (PDF), https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf, dated 2023-09-14; House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
 - Michael Gold runs out to **All-domain Anomaly Resolution Office (AARO)** (institution, board tier A), a investigative link at Tier 2 named person on the record. The link reads: NASA UAP study participant testifying on stigma and data policy alongside AARO's remit. Gold's testimony argued the problem is stigma and data quality as much as classification. Sources: U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; Michael Gold, written testimony, House Oversight, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
 - Michael Gold runs out to **Alex Dietrich** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Cited Dietrich by name to Congress as evidence of aviator stigma. Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.' Sources: House Oversight - Gold written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf, dated 2024-11-13.
@@ -4541,7 +4542,7 @@ Michael Herrera is a claimant whose account has reached two official records wit
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 398 of 1170, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.
+Re-graded B on a global pass (rank 401 of 1170, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.
 
 ### The claims on the record
 
@@ -4580,7 +4581,7 @@ Affiliations recorded: Public (co-founder), University of Austin (faculty, 2026)
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 311 of 1170, score 38). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D3.
+Re-graded B on a global pass (rank 398 of 1170, score 34). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D3.
 
 ### The claims on the record
 
@@ -4597,8 +4598,7 @@ A further 1 claims sit on this node on the board and are not reproduced here.
 
 ### Its strongest connections
 
-- Michael Shellenberger runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a programmatic link at Tier 1 documented. The link reads: sworn witness; delivered the Immaculate Constellation document. Chairwoman Mace on the record: the 12-page Pentagon document 'that Michael Shellenberger brought today'. Sources: CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf, dated 2024-11-13.
-- Michael Shellenberger runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: Delivered the Immaculate Constellation document to Congress the morning of the hearing. Mace announced from the dais that Shellenberger had delivered the 12-page document that morning and moved it into the record. Sources: U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; Michael Shellenberger, written testimony, House Oversight, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf, dated 2024-11-13; HHRG-118-GO12 transcript, https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf, dated 2024-11-13.
+- Michael Shellenberger runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a witness-chain link at Tier 1 documented. The link reads: sworn witness; delivered the Immaculate Constellation document. Mace announced from the dais that Shellenberger had delivered the 12-page document that morning and moved it into the record. Sources: CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf, dated 2024-11-13; U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; Michael Shellenberger, written testimony, House Oversight, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf, dated 2024-11-13; HHRG-118-GO12 transcript, https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf, dated 2024-11-13.
 - Michael Shellenberger runs out to **Immaculate Constellation 12-page report entered into the Congressional Record** (document, board tier A), a witness-chain link at Tier 1 documented. The link reads: Delivered the document to Congress on the morning of the hearing and testified to its contents. Shellenberger supplied the 12-page report that Chairwoman Mace moved into the Congressional Record, and testified to its contents under oath. Sources: U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13; Michael Shellenberger, written testimony, House Oversight, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf, dated 2024-11-13.
 - Michael Shellenberger runs out to **Immaculate Constellation disclosure, October-November 2024** (event, board tier A), a investigative link at Tier 2 named person on the record. The link reads: Brought the alleged USAP into the congressional record. On 13 November 2024 Shellenberger testified to a House Oversight subcommittee and submitted a twelve-page report, sourced to an alleged insider, describing an unacknowledged special access program collecting UAP data outside acknowledged reporting channels. Sources: House Oversight - Shellenberger written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf, dated 2024-11-13; The Debrief - 'Immaculate Constellation: UAP Bombshell or Disinformation?', https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/, dated 2024-10-17; American Alchemy - Shellenberger interview, https://www.youtube.com/watch?v=DPmO-2E7Ayg, dated 2024-11-14; GPO transcript CHRG-118hhrg57440, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 - Michael Shellenberger runs out to **House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'** (event, board tier A), a legislative link at Tier 2 named person on the record. The link reads: Testified and submitted the report at the 13 November 2024 hearing. The hearing is the fixed, dateable event at which the Immaculate Constellation document entered the record. Sources: American Alchemy - Shellenberger interview recorded after the hearing, https://www.youtube.com/watch?v=DPmO-2E7Ayg, dated 2024-11-14.
@@ -4618,7 +4618,7 @@ Affiliations recorded: U.S. Senate, South Dakota (2015- ), Senate Armed Services
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 448 of 1170, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.
+Re-graded B on a global pass (rank 541 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.
 
 ### The claims on the record
 
@@ -4630,7 +4630,7 @@ Re-graded B on a global pass (rank 448 of 1170, score 32). 4 connections, 1 of t
 
 ### Its strongest connections
 
-- Mike Rounds runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a programmatic link at Tier 1 documented. The link reads: lead cosponsor. First-listed cosponsor in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
+- Mike Rounds runs out to **UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)** (legislation, board tier A), a research link at Tier 1 documented. The link reads: lead cosponsor. First-listed cosponsor in the Congressional Record entry for SA 797. Sources: Congressional Record, 13 July 2023, Text of Senate Amendment 797 (CREC-2023-07-13-pt1-PgS2953), https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm, dated 2023-07-13.
 - Mike Rounds runs out to **S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)** (document, board tier B), a legislative link at Tier 1 documented. The link reads: Original cosponsor, 13 July 2023. Rounds is listed as an original cosponsor with sponsorship date 13 July 2023. Sources: Congress.gov, S.Amdt. 797, https://www.congress.gov/amendment/118th-congress/senate-amendment/797, dated 2023-07-13.
 - Mike Rounds runs out to **UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)** (legislation, board tier B), a legislative link at Tier 1 documented. The link reads: Lead sponsor of the 2024 refiling. S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' with the full text and the eminent domain clause intact. Sources: Congressional Record, 11 July 2024, SA 2610, https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm, dated 2024-07-11; Congress.gov, S.Amdt. 2610, https://www.congress.gov/amendment/118th-congress/senate-amendment/2610, dated 2024-07-11.
 - Mike Rounds runs out to **2026 Disclosure Symposium** (event, board tier C), a behavioral link at Tier 2 named person on the record. The link reads: Announces a fourth filing at an outside conference. Nine days after SASC reported a bill with no UAP content, Rounds announced the next UAPDA attempt at the 2026 Disclosure Symposium rather than in committee. Sources: Sen. Rounds, Weekly Round[s] Up, June 22-28, 2026, https://www.rounds.senate.gov/newsroom/weekly-rounds/weekly-rounds-up-june-22-28-2026, dated 2026-06-28; S. 4784 (Reported in Senate), GPO, https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm, dated 2026-06-15.
@@ -4657,7 +4657,7 @@ Affiliations recorded: U.S. House, Ohio (2003- ), Chairman, HPSCI (2023-2025), H
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 516 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
+Re-graded B on a global pass (rank 514 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.
 
 ### The claims on the record
 
@@ -4670,7 +4670,7 @@ Re-graded B on a global pass (rank 516 of 1170, score 30). 4 connections, 0 of t
 
 - Michael R. Turner runs out to **House Permanent Select Committee on Intelligence** (institution, board tier C), a institutional link at Tier 1 documented. The link reads: Chairman during the FY2024 conference. Turner chaired HPSCI from January 2023 to January 2025, spanning the conference in which the disclosure division was reduced. Sources: P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Michael R. Turner runs out to **Unidentified Anomalous Phenomena Records Review Board** (program, board tier A), a denial link at Tier 2 named person on the record. The link reads: Named as demanding removal of the Board's subpoena power. The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27; P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
-- Michael R. Turner runs out to **Section 9010(a), Exercise of Eminent Domain** (document, board tier A), a denial link at Tier 2 named person on the record. The link reads: Named as demanding removal of the eminent domain provision. Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27; P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
+- Michael R. Turner runs out to **Section 9010(a) - Exercise of Eminent Domain** (document, board tier A), a denial link at Tier 2 named person on the record. The link reads: Named as demanding removal of the eminent domain provision. Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27; P.L. 118-31, FY2024 NDAA, GPO, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm, dated 2023-12-22.
 - Michael R. Turner comes in from **Daniel P. Sheehan** (person, board tier B), a witness-chain link at Tier 2 named person on the record. The link reads: Named-source account of what Turner demanded in conference. Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record. Sources: The Debrief, pushback from lawmakers, https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/, dated 2023-11-27.
 
 ## Nathan F. Twining
@@ -4691,7 +4691,7 @@ Affiliations recorded: US Army Air Forces / Air Materiel Command (1945-1947), US
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 329 of 1170, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 328 of 1170, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -4725,7 +4725,7 @@ Affiliations recorded: OUSD(I), Director for Defense Intelligence (Collection & 
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 450 of 1170, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
+Re-graded B on a global pass (rank 448 of 1170, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -4759,7 +4759,7 @@ Affiliations recorded: uk-mod, uk-mod-ufo-desk.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 678 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded C on a global pass (rank 677 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -4793,7 +4793,7 @@ Affiliations recorded: fab, Ministério da Aeronáutica.
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 521 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 519 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -4830,7 +4830,7 @@ Affiliations recorded: Secretary of Defense / Secretary of War (2025-), Fox News
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 181 of 1170, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
+Re-graded B on a global pass (rank 179 of 1170, score 47). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.
 
 ### The claims on the record
 
@@ -4907,7 +4907,7 @@ Robert Jacobs is the one witness in this cluster whose claimed role is confirmed
 
 ### Why it holds its tier
 
-Re-graded A on a global pass (rank 163 of 1170, score 50). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
+Re-graded A on a global pass (rank 162 of 1170, score 50). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.
 
 ### The claims on the record
 
@@ -4950,7 +4950,7 @@ Robert Jamison matters far more to the structure of the Malmstrom case than his 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 870 of 1170, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded C on a global pass (rank 871 of 1170, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -5012,7 +5012,7 @@ Souers held, in sequence, the two offices through which the postwar national sec
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 312 of 1170, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
+Re-graded B on a global pass (rank 310 of 1170, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.
 
 ### The claims on the record
 
@@ -5052,7 +5052,7 @@ Affiliations recorded: fab, Serviço Nacional de Informações (SNI).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 584 of 1170, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
+Re-graded B on a global pass (rank 583 of 1170, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.
 
 ### The claims on the record
 
@@ -5128,7 +5128,7 @@ Affiliations recorded: nro, odni.
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 618 of 1170, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
+Re-graded C on a global pass (rank 613 of 1170, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.
 
 ### The claims on the record
 
@@ -5158,7 +5158,7 @@ The released aneutronic paper attributed to him reads like a nuclear engineering
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 234 of 1170, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
+Re-graded B on a global pass (rank 233 of 1170, score 43). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.
 
 ### The claims on the record
 
@@ -5312,7 +5312,7 @@ Affiliations recorded: Princeton University, Department of Astrophysical Science
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 547 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
+Re-graded B on a global pass (rank 543 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.
 
 ### The claims on the record
 
@@ -5378,7 +5378,7 @@ Affiliations recorded: President of the United States (2017-2021, 2025-).
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 447 of 1170, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
+Re-graded B on a global pass (rank 446 of 1170, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.
 
 ### The claims on the record
 
@@ -5415,7 +5415,7 @@ Affiliations recorded: National Bureau of Standards, director (1945-1951), Unive
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 446 of 1170, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
+Re-graded B on a global pass (rank 445 of 1170, score 32). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.
 
 ### The claims on the record
 
@@ -5454,7 +5454,7 @@ Affiliations recorded: Los Alamos Scientific Laboratory (1943-1951), Lawrence Li
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 806 of 1170, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 807 of 1170, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -5490,7 +5490,7 @@ Frederick Meiwald is the single most important corroborating name in the Oscar F
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 869 of 1170, score 19). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.
+Re-graded C on a global pass (rank 870 of 1170, score 19). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.
 
 ### The claims on the record
 
@@ -5521,7 +5521,7 @@ His geographic placement matters to the shape of the programme. AAWSAP funding w
 
 ### Why it holds its tier
 
-Re-graded B on a global pass (rank 425 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
+Re-graded B on a global pass (rank 428 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.
 
 ### The claims on the record
 
@@ -5560,7 +5560,7 @@ Affiliations recorded: U.S. Special Operations Command / OSD SO-LIC, OUSD(I&S), 
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 616 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
+Re-graded C on a global pass (rank 611 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.
 
 ### The claims on the record
 
@@ -5598,7 +5598,7 @@ Affiliations recorded: US Navy, USS Princeton (CG-59), Carrier Strike Group 11 (
 
 ### Why it holds its tier
 
-Re-graded C on a global pass (rank 734 of 1170, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
+Re-graded C on a global pass (rank 733 of 1170, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.
 
 ### The claims on the record
 

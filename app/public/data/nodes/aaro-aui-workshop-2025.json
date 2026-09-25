@@ -17,6 +17,7 @@
 ],
 "cls": "event",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "An invitation-only workshop convened in the Washington DC area in early August 2025, officially hosted by Associated Universities, Inc. and set up and sponsored by AARO, first reported publicly by DefenseScoop on 16 March 2026 - seven months after it happened. Roughly forty government, academic and independent researchers attended. The agenda was standardisation: best practices for collecting and storing narrative data associated with UAP sightings, methods for integrating data across organisations, and application of artificial intelligence to pattern recognition. The Department did not announce the event beforehand and published no attendee list, citing participant privacy. Pentagon spokesperson Sue Gough said AARO recognises that input from the scientific and academic community is critical to its work and that the office hopes to convene future workshops to foster an interdisciplinary community for UAP analysis. Two things make this worth a node. First, it is the operational precursor to the UAP Science Advisory Council announced ten months later, and to the Naval Postgraduate School CTX special issue AARO promotes on its homepage. Second, an unannounced federal workshop with an unpublished attendee list, run through a university-consortium intermediary rather than under a Federal Advisory Committee Act charter, is the structure that produces expert consensus without a public record of who produced it.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -67,7 +66,11 @@
 "label": "AARO invite-only UAP research workshop (early August 2025)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO invite-only UAP research workshop (early August 2025)",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-03-16",
@@ -85,13 +88,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1029 of 1170, score 14). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2025-08",
+"grade": null,
 "id": "tl-aui-workshop",
 "label": "AARO sponsors an unannounced UAP research workshop",
 "precision": "month",
 "strand": "program",
-"text": "Roughly 40 government, academic and independent researchers meet in the Washington DC area, hosted by Associated Universities, Inc., to standardise UAP data capture and analysis. No attendee list is published; the event is not reported publicly until March 2026.",
-"tier": "2"
+"text": "Roughly 40 government, academic and independent researchers meet in the Washington DC area, hosted by Associated Universities, Inc., to standardise UAP data capture and analysis. No attendee list is published; the event is not reported publicly until March 2026."
 }
-]
+],
+"unverified": []
 }

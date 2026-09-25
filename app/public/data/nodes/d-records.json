@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -166,9 +167,7 @@
 "deg": 6,
 "denials": [],
 "desc": "Whoever controls the records controls the history, and this is the one front on which the disclosure movement has produced enacted law. Subtitle C of the FY2024 National Defense Authorization Act (P.L. 118-31) created, in Section 1841, an Unidentified Anomalous Phenomena Records Collection at the National Archives; in Section 1842, an affirmative duty on every government office to review, identify and transmit UAP records to NARA; and in Section 1843, grounds for postponement - a framework in which withholding is temporary and must be justified rather than permanent and unexplained. The model is the President John F. Kennedy Assassination Records Collection Act of 1992, which is why the Senate's original UAP Disclosure Act of 2023 also proposed an independent Review Board with the power to order release over agency objection; that Review Board and the eminent-domain provision over recovered material were stripped before enactment. What survived is a records statute without an independent adjudicator, which places the postponement decision back inside the agencies that hold the records. The stakes are set by the documented history: GAO found in 1995 that Roswell Army Air Field's outgoing messages for 1946-1949 had been destroyed with no destruction certificate. Scoring high on this domain means an entity holds, transfers, withholds or destroys records - or wrote the law governing those acts.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -182,7 +181,11 @@
 "label": "Records & Archives",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Records & Archives",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -215,13 +218,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 295 of 1170, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2026-07-23",
+"grade": null,
 "id": "tx-2026-burlison-amdt",
 "label": "The House votes a records framework",
 "precision": "day",
 "strand": "oversight",
-"text": "The House approves an amendment offered by Rep. Eric Burlison creating a framework for UAP records disclosure - the records domain remaining the only front on which the disclosure movement reliably moves legislation.",
-"tier": 2
+"text": "The House approves an amendment offered by Rep. Eric Burlison creating a framework for UAP records disclosure - the records domain remaining the only front on which the disclosure movement reliably moves legislation."
 }
-]
+],
+"unverified": []
 }

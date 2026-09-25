@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The event at which Grusch escalated from the concealment allegation to a fraud allegation. Hosted by the House Task Force on the Declassification of Federal Secrets on the Capitol steps with Reps. Luna, Burchett, Burlison and Moskowitz, and staged to pressure the White House to convert the February 2026 declassification announcement into actual releases. Grusch's framing beforehand: 'President Trump now has an historic opportunity; this press conference is about moving from testimony to action. Let the American people judge the facts for themselves.' From the podium he said he had found 'slush funds to the tune of billions of dollars per annum for these activities' and that 'this is also a real fraud, waste and abuse issue'; he accused the Defense Intelligence Agency of obstructing congressional oversight by withholding documents; and he stated that the US government is aware of several kinds of non-human intelligence, ranging in complexity. The demands were specific: immunity for whistleblowers, waiver of nondisclosure agreements, release of records on alleged encounters with non-human beings, and declassification of US records on the 1996 Varginha incident in Brazil. Burlison: 'There must be real penalties for officials who knowingly withhold information from Congress.' Moskowitz: 'There's trillions of dollars missing at the Pentagon. Where does that money go?'",
-"domains": [
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -124,7 +123,11 @@
 "label": "Capitol UAP Disclosure Press Conference",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Capitol UAP Disclosure Press Conference",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2026-06-10",
@@ -147,13 +150,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 792 of 1170, score 22). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-06-09",
+"grade": "B",
 "id": "g-tl-2026-06-presser",
 "label": "Capitol press conference: slush funds and several kinds of NHI",
 "precision": "day",
 "strand": "witness",
-"text": "Grusch alleges slush funds of billions of dollars per annum, calls it a fraud, waste and abuse issue, accuses DIA of withholding documents, and says the government is aware of several kinds of non-human intelligence. Luna, Burchett, Burlison and Moskowitz appear with him.",
-"tier": "B"
+"text": "Grusch alleges slush funds of billions of dollars per annum, calls it a fraud, waste and abuse issue, accuses DIA of withholding documents, and says the government is aware of several kinds of non-human intelligence. Luna, Burchett, Burlison and Moskowitz appear with him."
 }
-]
+],
+"unverified": []
 }

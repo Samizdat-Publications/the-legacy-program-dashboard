@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Ryan S. Wood's 2005 catalogue is the retrieval literature's attempt to become a database. Where Stringfield produced seven narrative monographs with anonymised letter-number case codes and Kevin Randle produced case-by-case essays in 'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010), Wood produced rows: each claimed retrieval event given a date, a location, a source trail and a numerical credibility weighting, spanning from the 1940s forward and totalling seventy-plus entries. That structure is the book's contribution and its exposure. It is the fastest way to find out that a claim exists, when it was first made and by whom - which is a genuine research service in a field where the same story recirculates for decades under different names. It is not a way to find out whether a claim is true, because the weighting function is not published in a form a third party can re-run on the same inputs, and because a large share of the source trail terminates in either Stringfield's anonymous informants or the Wood family's own Majestic Documents corpus. This board uses 'Majic Eyes Only' as an index and grades its entries individually against their underlying sources.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -83,7 +82,11 @@
 "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -101,13 +104,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1147 of 1170, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2005",
+"grade": "B",
 "id": "tl-2005-majic",
 "label": "Majic Eyes Only",
 "precision": "year",
 "strand": "program",
-"text": "Ryan S. Wood publishes the retrieval literature's first indexed catalogue, with dates, locations, source trails and credibility weightings.",
-"tier": "B"
+"text": "Ryan S. Wood publishes the retrieval literature's first indexed catalogue, with dates, locations, source trails and credibility weightings."
 }
-]
+],
+"unverified": []
 }

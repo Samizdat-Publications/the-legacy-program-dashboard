@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Controlled Disclosure Campaign Plan is the UAPDA's answer to the objection that disclosure must be managed rather than instantaneous, and it is the concept the disclosure movement has since adopted as its central demand. Under Section 9009(c)(3) the Review Board would have been required to create and transmit to the President, the Archivist, the Senate Homeland Security and Governmental Affairs Committee and the House Oversight and Accountability Committee a plan with a classified appendix covering every record, every piece of information, and every item of 'recovered technologies of unknown origin, and biological evidence for non-human intelligence' whose disclosure was postponed. The plan had to contain a justification of each postponement and 'a benchmark-driven plan... recommending precise requirements for periodic review, downgrading, and declassification as well as the exact time or specified occurrence following which each postponed item may be appropriately disclosed to the public.' In other words: nothing could be withheld indefinitely, and every withholding had to carry a dated exit. Section 9009(b)(6) required the Board to brief AARO on the Plan before terminating, and Section 9013(b)(2) required AARO to carry the Plan's logic forward into standing declassification guidance for records created after the Board wound up. All of it was removed. No Controlled Disclosure Campaign Plan exists, and no enacted provision requires one.",
-"domains": [
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -93,7 +92,11 @@
 "label": "Controlled Disclosure Campaign Plan",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Controlled Disclosure Campaign Plan",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-07-27",
@@ -103,6 +106,7 @@
 ],
 "sub": "Sec. 9009(c)(3) — mandated managed-release schedule, never produced",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 358 of 1170, score 36). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 364 of 1170, score 36). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [],
+"unverified": []
 }

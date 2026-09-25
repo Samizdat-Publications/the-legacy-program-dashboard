@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -97,6 +98,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
@@ -164,11 +186,7 @@
 "deg": 4,
 "denials": [],
 "desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-03-30, DIA-08-1003-016, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"w7-dirds-4"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -182,7 +200,13 @@
 "label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-4"
+],
 "sources": [
 {
 "date": "2010-03-30",
@@ -217,6 +241,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 654 of 1170, score 26). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 626 of 1170, score 27). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

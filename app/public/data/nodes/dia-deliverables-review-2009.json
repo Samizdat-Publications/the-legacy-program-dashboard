@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -103,10 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The quality verdict, and the single strongest rebuttal in the record to DoD's later position that AAWSAP produced nothing of value. Written by the Defense Warning Office in response to a request arising from the May 2009 Reid meeting, it covers the 26 technical reports delivered in FY09 under the BAASS contract. Eight reviews were performed by other report authors; five by outside reviewers, including three staff members from Sandia National Laboratories. The memo's conclusion is unambiguous: 'all of the reviews were positive, some exceptionally so', and 'the quality hoped for in the reports was achieved' despite the constraint of unclassified research. The program manager reviewed every paper and concurred with the assessments. Fifteen years later AARO would tell the public the program was 'terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project.' Both statements are DIA's. Only one was written while the work was being done.",
-"domains": [
-"_rs-archive-mirror",
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -120,7 +118,12 @@
 "label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -140,16 +143,18 @@
 ],
 "sub": "DIA Defense Warning Office memorandum, 30 October 2009",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 628 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 627 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2009-10-30",
+"grade": "A",
 "id": "tl-2009-review",
 "label": "DIA finds the deliverables excellent",
 "precision": "day",
 "strand": "program",
-"text": "DIA's Defense Warning Office records that of thirteen reviews of the 26 FY09 reports, including three by Sandia National Laboratories staff, 'all of the reviews were positive, some exceptionally so'.",
-"tier": "A"
+"text": "DIA's Defense Warning Office records that of thirteen reviews of the 26 FY09 reports, including three by Sandia National Laboratories staff, 'all of the reviews were positive, some exceptionally so'."
 }
-]
+],
+"unverified": []
 }

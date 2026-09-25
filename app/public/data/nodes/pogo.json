@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -123,10 +124,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The Project On Government Oversight is a Washington non-profit founded in 1981, originally as a Pentagon procurement watchdog under the name Project on Military Procurement, and later broadened to the whole federal executive. It describes itself as a nonpartisan independent watchdog that investigates, exposes and champions reforms on systemic corruption, abuse of power and waste, and it operates as a donor-funded 501(c)(3) with published audited financials and charity-navigator accreditation rather than on government or contractor money. Its working method is the one that matters to this board: it takes documents and testimony from inside federal agencies and defence contractors, publishes the underlying records, supplies congressional committees with investigative material, and maintains a standing whistleblower intake with legal guidance for people who cannot safely go through their own chain of command. That combination - independence from the contractors, a document-publishing habit and a protected intake channel - makes POGO one of the small number of non-governmental institutions positioned to receive material from inside compartmented programmes and route it to oversight. It sits on the board as infrastructure rather than as a claimant: an external, non-classified path around the internal reporting channels that the concealment depends on.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -140,7 +138,12 @@
 "label": "Project On Government Oversight",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project On Government Oversight",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -151,5 +154,6 @@
 "sub": "Watchdog organisation",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1095 of 1170, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -74,9 +74,7 @@
 "dateStart": "2010-03-31",
 "deg": 1,
 "denials": [],
-"domains": [
-"w7-dirds-2"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -96,6 +94,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Bruce C. Towe",
+"sourceFiles": [
+"w7-dirds-2"
+],
 "sources": [
 {
 "date": null,

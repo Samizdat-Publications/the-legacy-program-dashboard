@@ -32,6 +32,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Reagan's classification order, which revoked EO 12065, dropped the requirement to weigh the public interest in disclosure, resolved doubt in favour of the higher classification, and permitted information to be reclassified after it had been declassified and disclosed, including after a Freedom of Information Act request.",
-"domains": [
-"nsc-eo-spine-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -124,7 +123,11 @@
 "label": "Executive Order 12356 - National Security Information (2 April 1982)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Executive Order 12356 - National Security Information (2 April 1982)",
+"sourceFiles": [
+"nsc-eo-spine-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -144,16 +147,18 @@
 ],
 "sub": "Executive order; removes the public-interest balancing test and authorises reclassification after a disclosure request",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 441 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 440 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1982-04-02",
+"grade": null,
 "id": "spine-tl-1982-12356",
 "label": "EO 12356 removes the public-interest test and permits reclassification after a FOIA request",
 "precision": "day",
 "strand": "coverup",
-"text": "Reagan's classification order, effective 1 August 1982, revokes EO 12065. The phrase 'public interest' occurs nowhere in it. Section 1.6(c) permits reclassifying information already declassified and disclosed where it may reasonably be recovered, and 1.6(d) permits classification or reclassification after a Freedom of Information Act request has been received. Doubt about the level is resolved upward.",
-"tier": 1
+"text": "Reagan's classification order, effective 1 August 1982, revokes EO 12065. The phrase 'public interest' occurs nowhere in it. Section 1.6(c) permits reclassifying information already declassified and disclosed where it may reasonably be recovered, and 1.6(d) permits classification or reclassification after a Freedom of Information Act request has been received. Doubt about the level is resolved upward."
 }
-]
+],
+"unverified": []
 }

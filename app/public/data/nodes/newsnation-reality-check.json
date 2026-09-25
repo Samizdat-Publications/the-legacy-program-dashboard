@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -114,9 +115,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Reality Check is the only standing investigative unit at a US cable network devoted substantially to the legacy program, and in 2026 it became the bridge that carried the independent structural reconstruction into broadcast. Hosted by Ross Coulthart, its credited team is executive producer Andy Gipson, editorial producer Meagan Medick, segment producers Christine Jenkinson and Will Tomasi, research producer Rob Jones, and editor Kanyon Lyons - a real newsroom apparatus, not a one-man show. Across 2026 the programme ran a multi-part series with UAP Gerb, culminating on 4 August 2026 in 'Inside Kona Blue, the alleged Lockheed-to-DHS UFO transfer'. That episode's chapter list is a structural document in its own right: Immaculate Constellation (0:38), Project Kona Blue (4:25), Limited disclosure campaigns (7:18), Government agreements with NHI (9:16), Agreements with foreign adversaries (9:41), Schism in the UAP community (11:22), Modern legacy program gaps (12:08), Has the U.S. achieved anti-gravity (13:19), Arguments for secrecy (15:15), FFRDCs U-Arcs and GOCOs (17:00), Risk of catastrophic disclosure (20:13), Gatekeeping within the legacy program (26:42), Is the legacy program a deep state (28:54), Should legacy program employees be given amnesty (31:53), Have directed energy weapons been used on potential whistleblowers (32:55), Allegations of the downing of civilian aircraft (34:18), Blue on blue kinetic strikes (35:55), Congressional efforts on disclosure (37:37), Will Trump be a disclosure president (38:30). Coulthart's on-air position is not neutral: NewsNation published a segment in early 2026 titled 'Ross Coulthart on UAP Gerb's claims: I think he's on the money.'",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "FULL CHAPTER SUMMARY of the 4 August 2026 Kona Blue episode (verbatim): :00 Intro / :38 Immaculate constellation / 3:08 Attempts at controlled disclosure / 4:25 Project Kona Blue / 7:18 Limited disclosure campaigns / 9:16 Government agreements with NHI? / 9:41 Agreements with foreign adversaries / 11:22 Schism in the UAP community / 12:08 Modern legacy program gaps / 13:19 Has the U.S. achieved anti-gravity? / 15:15 Arguments for secrecy / 17:00 FFRDCs, U-Arcs, and GOCOs / 20:13 Risk of catastrophic disclosure / 20:44 Has the U.S. achieved 'In planet flight mode'? / 21:14 Could previously reported sightings actually be U.S. reverse engineered craft? / 26:42 Gatekeeping within the legacy program / 28:54 Is the legacy program a 'deep state'? / 30:57 Gerb makes a prediction about future disclosure drops / 31:53 Should legacy program employees be given amnesty? / 32:55 Have directed energy weapons been used on potential whistleblowers? / 34:18 Allegations of the downing civilian aircrafts / 35:55 'Blue on blue' kinetic strikes / 37:37 Congressional efforts on disclosure / 38:30 Will Trump be a disclosure president? / 41:15 Final thoughts.",
@@ -139,7 +138,11 @@
 "label": "Reality Check with Ross Coulthart (NewsNation)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Reality Check with Ross Coulthart (NewsNation)",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-04",
@@ -162,13 +165,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 986 of 1170, score 16). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-08-04",
+"grade": "A",
 "id": "ms-2026-kona",
 "label": "Coulthart and Gerb on Kona Blue",
 "precision": "day",
 "strand": "program",
-"text": "Reality Check devotes a full episode to the alleged Lockheed-to-DHS transfer, the Immaculate Constellation document, FFRDCs/UARCs/GOCOs, gatekeeping, alleged directed-energy attacks on whistleblowers and alleged EMP downings of civilian aircraft; 176,430 views.",
-"tier": "A"
+"text": "Reality Check devotes a full episode to the alleged Lockheed-to-DHS transfer, the Immaculate Constellation document, FFRDCs/UARCs/GOCOs, gatekeeping, alleged directed-energy attacks on whistleblowers and alleged EMP downings of civilian aircraft; 176,430 views."
 }
-]
+],
+"unverified": []
 }

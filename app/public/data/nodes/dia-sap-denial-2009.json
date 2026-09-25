@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -34,7 +35,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeLabel": "USD(I) tasked DIA to evaluate; DIA declined",
+"edgeLabel": "",
 "id": "reid-letter-2009-06-24",
 "l0": false,
 "label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
@@ -53,6 +54,27 @@
 ],
 "tier": "C",
 "type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "USD(I) tasked DIA to evaluate; DIA declined",
+"id": "reid-letter-2009-06-24",
+"l0": false,
+"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+}
+],
+"tier": "C",
+"type": "temporal"
 }
 ],
 "coords": null,
@@ -61,10 +83,7 @@
 "deg": 1,
 "denials": [],
 "desc": "DIA's response to USD(I) Special Programs declining to establish a restricted SAP/ACCM for the AAWSAP contract.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -75,10 +94,15 @@
 "hl": null,
 "id": "dia-sap-denial-2009",
 "l0": false,
-"label": "DIA Info Memo U-09-2660 — denial of restricted SAP for AAWSAP (13 Nov 2009)",
+"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
 "locLabel": null,
 "members": null,
-"short": "DIA Info Memo U-09-2660 — denial of restricted SAP for AAWSAP (13 Nov 2009)",
+"openQuestions": [],
+"short": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror"
+],
 "sources": [
 {
 "date": "2009-11-13",
@@ -113,6 +137,7 @@
 ],
 "sub": "correspondence",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1021 of 1170, score 14). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 1004 of 1170, score 15). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

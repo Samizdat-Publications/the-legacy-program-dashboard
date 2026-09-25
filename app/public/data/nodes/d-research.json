@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,11 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The scientific study of this subject has an unusual structure: the instrumentation is straightforward, the data are held by parties that will not release them, and the career penalty for asking has historically been severe. That penalty is documented rather than anecdotal - the NASA Unidentified Anomalous Phenomena Independent Study Team, chaired by David Spergel and reporting in September 2023, identified stigma as a first-order obstacle and recommended that NASA use its public standing explicitly to destigmatise reporting, alongside findings that existing UAP analysis suffers from poor sensor calibration and missing metadata. The productive research programmes of the last decade have therefore been instrumentation-first rather than case-first: the Galileo Project's integrated detection platform, published in the Journal of Astronomical Instrumentation in 2023, and the materials-forensics methodology published by Nolan and Vallée in Progress in Aerospace Sciences in 2022. The dual-use route into classified work is the ordinary one for any physical science - a clearance, a national laboratory appointment, or a contract - and the researchable signature it leaves is a publication gap. Scoring high on this domain means an entity produced peer-reviewed work on the phenomenon or built the instruments that could.",
-"domains": [
-"_rs-archive-mirror",
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -69,7 +66,13 @@
 "label": "Scientific Research",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Scientific Research",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-11",
@@ -110,5 +113,6 @@
 "sub": "Methodological domain - peer review, instrumentation and the professional cost of working on this",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 879 of 1170, score 19). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

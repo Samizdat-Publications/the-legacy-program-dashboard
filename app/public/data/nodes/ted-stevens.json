@@ -51,7 +51,7 @@
 "edgeLabel": "provided bipartisan cover for the earmark",
 "id": "defense-appropriations-aawsap",
 "l0": false,
-"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "Stevens, the senior Republican appropriator and former committee chairman, is consistently named with Reid and Inouye as one of the three senators behind the appropriation.",
 "sources": [
 {
@@ -70,7 +70,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"aawsap-aatip"
+"d-funding",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -91,6 +92,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Theodore F. Stevens",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2021-06-13",

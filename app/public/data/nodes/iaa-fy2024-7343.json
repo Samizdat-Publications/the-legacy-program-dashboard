@@ -57,6 +57,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -88,7 +89,7 @@
 "edgeLabel": "controlled-access counterpart",
 "id": "icd-906",
 "l0": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "Tier 3, and recorded as a reading rather than a citation. The board's existing claim holds that secs. 1687 and 7343 are deliberately mirrored across the DoD/IC seam identified in 50 U.S.C. 3348(g)(2)(B) and ICD 906 C.3. ICD 906 is ODNI's controlled-access-programme directive and is the IC-side instrument the mirroring runs through. Neither text cites the other.",
 "sources": [
 {
@@ -109,7 +110,7 @@
 "edgeLabel": "Twin provisions covering the defense and intelligence sides of the same gap",
 "id": "ndaa-fy2024-1687",
 "l0": true,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Both were enacted in Public Law 118-31 on 22 December 2023 and both reference activities described in an AARO report released in fiscal year 2024.",
 "sources": [
 {
@@ -172,7 +173,7 @@
 "edgeLabel": "the IC side of the same seam",
 "id": "usc-50-3348",
 "l0": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "Tier 3: this is a reading of how the provisions sit together, not a cross-reference either text makes. Sec. 7343 is the intelligence-funds twin of NDAA sec. 1687, running through the DNI rather than the Secretary of Defense. The seam it straddles is the one 50 U.S.C. 3348(g)(2)(B) draws when it excludes DoD, the NNSA and IC agencies from its own SAP-reporting regime and routes each to a separate channel. 3348's text was read directly on 22 August 2026 and makes no reference to 7343; the connection is structural.",
 "sources": [
 {
@@ -196,11 +197,7 @@
 "deg": 6,
 "denials": [],
 "desc": "Division G of Public Law 118-31 is the Intelligence Authorization Act for Fiscal Year 2024, and its section 7343 mirrors section 1687 on the intelligence side with a different addressee and a wider committee list. Subsection (b): 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.' Its 'appropriate committees of Congress' are the Select Committee on Intelligence, the Committee on Armed Services and the Committee on Appropriations of the Senate, and the Permanent Select Committee on Intelligence, the Committee on Armed Services and the Committee on Appropriations of the House - six committees, plus the four congressional leaders. Subsection (c) carries the same independent research and development prohibition. Read together, sections 1687 and 7343 mean that as of 22 December 2023 both the Secretary of Defense and the Director of National Intelligence are under a statutory funding prohibition for unreported UAP special access activity, and both prohibitions run to a combined audience far wider than the 10 U.S.C. 119(e) waiver group. Congress did not repeal the waiver; it built a subject-matter carve-out around it.",
-"domains": [
-"_rs-legislation",
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -258,7 +255,7 @@
 "hl": null,
 "id": "iaa-fy2024-7343",
 "l0": true,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "locLabel": null,
 "members": [
 {
@@ -270,17 +267,23 @@
 {
 "cls": "document",
 "id": "icd-906",
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "tier": "A"
 },
 {
 "cls": "legislation",
 "id": "usc-50-3348",
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "FY2024 IAA sec. 7343",
+"sourceFiles": [
+"_rs-legislation",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -296,5 +299,6 @@
 "sub": "statute",
 "tier": "A",
 "tierRationale": "Re-graded A on a global pass (rank 158 of 1170, score 51). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

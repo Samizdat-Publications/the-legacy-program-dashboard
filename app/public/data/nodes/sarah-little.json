@@ -91,7 +91,7 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"scientists-technical"
+"d-research"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -112,6 +112,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Sarah Little",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2025-11-26",

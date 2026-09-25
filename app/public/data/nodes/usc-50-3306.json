@@ -27,6 +27,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "This section, enacted as section 601 of the Implementing Recommendations of the 9/11 Commission Act of 2007 and later supplemented for the request side by section 364 of the Intelligence Authorization Act for Fiscal Year 2010, is the sum total of what Congress has required to be told to the public about the intelligence budget. Subsection (a): at the time the President submits the budget, he 'shall disclose to the public the aggregate amount of appropriations requested for that fiscal year for the National Intelligence Program.' Subsection (b): 'Not later than 30 days after the end of each fiscal year, the Director of National Intelligence shall disclose to the public the aggregate amount of funds appropriated by Congress for the National Intelligence Program for such fiscal year.' Subsection (c) permits the President to waive or postpone either disclosure by submitting to the intelligence committees an unclassified statement that disclosure would damage national security together with a statement of reasons that may be classified. Two aggregate numbers per year, no breakdown of any kind, and a waiver the President can exercise at will. It is worth stating plainly what this regime does not require: it does not require disclosure of the Military Intelligence Program, of any agency's budget, of any programme, of the number of programmes, or of whether any given activity is funded at all. The 9/11 Commission had recommended that the overall figure be disclosed precisely so that the public could hold the intelligence enterprise to account; what emerged in statute is the minimum reading of that recommendation.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -93,7 +92,11 @@
 "label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -116,22 +119,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 759 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2007-08-03",
+"grade": "A",
 "id": "bb-tl-2007-601",
 "label": "Section 601 compels annual NIP disclosure",
 "precision": "day",
 "strand": "oversight",
-"text": "Section 601 of the Implementing Recommendations of the 9/11 Commission Act, codified at 50 U.S.C. 3306, requires the DNI to disclose the aggregate NIP appropriation within 30 days of each fiscal year's end, subject to a presidential waiver. The FY2007 figure is $43.5 billion. This remains, with the later request-side requirement, the entire statutory transparency regime for the intelligence budget.",
-"tier": "A"
+"text": "Section 601 of the Implementing Recommendations of the 9/11 Commission Act, codified at 50 U.S.C. 3306, requires the DNI to disclose the aggregate NIP appropriation within 30 days of each fiscal year's end, subject to a presidential waiver. The FY2007 figure is $43.5 billion. This remains, with the later request-side requirement, the entire statutory transparency regime for the intelligence budget."
 },
 {
+"claimTier": null,
 "date": "2011-02",
+"grade": "B",
 "id": "bb-tl-2011-364",
 "label": "First publication of the NIP budget request",
 "precision": "month",
 "strand": "oversight",
-"text": "Under section 364 of the Intelligence Authorization Act for Fiscal Year 2010, the aggregate NIP budget request is published for the first time, in February 2011. Two numbers a year is now the settled floor and ceiling of public knowledge.",
-"tier": "B"
+"text": "Under section 364 of the Intelligence Authorization Act for Fiscal Year 2010, the aggregate NIP budget request is published for the first time, in February 2011. Two numbers a year is now the settled floor and ceiling of public knowledge."
 }
-]
+],
+"unverified": []
 }

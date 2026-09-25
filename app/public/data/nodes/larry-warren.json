@@ -161,6 +161,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "charles-halt",
+"label": "Charles I. Halt"
+},
+"b": {
+"id": "larry-warren",
+"label": "Larry Warren"
+},
 "by": {
 "id": "charles-halt",
 "label": "Charles I. Halt"
@@ -182,6 +190,14 @@
 ]
 },
 {
+"a": {
+"id": "peter-robbins",
+"label": "Peter Robbins"
+},
+"b": {
+"id": "larry-warren",
+"label": "Larry Warren"
+},
 "by": {
 "id": "peter-robbins",
 "label": "Peter Robbins"
@@ -208,9 +224,7 @@
 ]
 }
 ],
-"domains": [
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -230,6 +244,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Larry Warren",
+"sourceFiles": [
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -263,31 +280,34 @@
 "tierRationale": "Re-graded B on a global pass (rank 481 of 1170, score 31). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1980-12-11",
+"grade": "C",
 "id": "tl-1980-12-11-warren-prp",
 "label": "Larry Warren says his PRP clearance came through at Bentwaters",
 "precision": "day",
 "strand": "witness",
-"text": "In the Disclosure Project Briefing Document: 'On December 11th, 1980, my security clearance notice, PRP, came through and I was approved. My clearance was a secret clearance at that time.' His assignment to the 81st Tactical Fighter Wing is not the disputed part of his account; his presence at the events of later that month is.",
-"tier": "C"
+"text": "In the Disclosure Project Briefing Document: 'On December 11th, 1980, my security clearance notice, PRP, came through and I was approved. My clearance was a secret clearance at that time.' His assignment to the 81st Tactical Fighter Wing is not the disputed part of his account; his presence at the events of later that month is."
 },
 {
+"claimTier": null,
 "date": "2000-09",
+"grade": "C",
 "id": "tl-2000-09-warren-testimony",
 "label": "Larry Warren's testimony recorded for the Disclosure Project",
 "precision": "month",
 "strand": "witness",
-"text": "Printed at section 3.8.4 under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'.",
-"tier": "C"
+"text": "Printed at section 3.8.4 under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'."
 },
 {
+"claimTier": null,
 "date": "2017-10-17",
+"grade": "B",
 "id": "tl-2017-10-17-cosimo-withdrawal",
 "label": "Publisher suspends distribution of Left at East Gate",
 "precision": "day",
 "strand": "witness",
-"text": "Cosimo, Inc.: 'Cosimo is announcing that it is suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins', because 'some of the experiences described in this book may be inaccurate or embellished'.",
-"tier": "B"
+"text": "Cosimo, Inc.: 'Cosimo is announcing that it is suspending the distribution of the book, Left at East Gate, by Larry Warren and Peter Robbins', because 'some of the experiences described in this book may be inaccurate or embellished'."
 }
 ],
 "unexplainedResidual": null,

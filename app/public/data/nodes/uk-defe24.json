@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -109,9 +110,7 @@
 "deg": 4,
 "denials": [],
 "desc": "DEFE 24 (Ministry of Defence: Defence Secretariat Branches: Registered Files) and DEFE 31 (Ministry of Defence: Air Secretariat: Registered Files) are the two National Archives record series into which the MoD's UFO holdings were placed. The released piece numbers are enumerable and citable: DEFE 24/1926-1930 (October 2008); DEFE 24/1938 and DEFE 31/176-181 (March 2009); DEFE 24/1948, 1959-1965, 1970-1976, 2086 (August 2009); DEFE 24/1973, 1978, 1982, 1983, 1991-1993, 1995, 1996, 1998, 2001, 2004, 2012-2015, 2042, 2045 (August 2010); DEFE 24/1958, 2006, 2019, 2020, 2031, 2033-2035, 2047, 2056, 2057, 2060, 2064-2072, 2075, 2076, 2081, 2082, 2091, 2094 and DEFE 31/182-188 (August 2011); DEFE 24/1984, 1985, 1987, 2005, 2043, 2061, 2073, 2074, 2077-2080, 2083, 2084, 2087-2090, 2093 and DEFE 31/189-194 (July 2012); DEFE 24/2448-2465 and 2623-2629 (June 2013). The wider UK holding also includes AIR 2 and AIR 20 Air Ministry files and the Prime Minister's series PREM 11/855, which contains Churchill's July 1952 minute demanding to know 'what all this stuff about flying saucers' amounts to.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -125,7 +124,11 @@
 "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2013-06-01",
@@ -140,6 +143,7 @@
 ],
 "sub": "Record series holding the released UK UFO files",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 615 of 1170, score 28). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 610 of 1170, score 28). 4 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unverified": []
 }

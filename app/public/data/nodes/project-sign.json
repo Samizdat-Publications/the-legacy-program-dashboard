@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -150,6 +151,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"id": "project-sign",
+"label": "Project SIGN"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -172,9 +181,7 @@
 }
 ],
 "desc": "Project SIGN was the first official United States Air Force investigation of unidentified flying objects, directed on 30 December 1947 on the recommendation of Lt. Gen. Nathan Twining's memorandum of 23 September 1947 and beginning operations at Wright Field on 23 January 1948. It sat inside Air Materiel Command intelligence under Col. Howard McCoy. SIGN's significance is that its staff reached the interplanetary conclusion and were overruled: in mid-1948 the project produced a Top Secret 'Estimate of the Situation' concluding the objects were of extraterrestrial origin, which Air Force Chief of Staff Gen. Hoyt Vandenberg rejected for insufficient proof and ordered destroyed. The Condon Report — written under Air Force contract twenty years later — records this. SIGN was reconstituted as Project GRUDGE on 11 February 1949 with an explicitly dismissive posture, and the personnel who had signed the Estimate were dispersed. The SIGN episode establishes the pattern that governs the whole legacy era: the working-level analysts closest to the data reach an exotic conclusion, and the conclusion is destroyed rather than rebutted.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -188,7 +195,11 @@
 "label": "Project SIGN",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project SIGN",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1968-11-01",
@@ -208,34 +219,38 @@
 ],
 "sub": "First official USAF UFO project (1948-1949)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 179 of 1170, score 48). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 178 of 1170, score 48). 5 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1944-11-01",
+"grade": "C",
 "id": "tl-1944-foo",
 "label": "Foo fighters",
 "precision": "month",
 "strand": "program",
-"text": "Allied aircrews over Europe and the Pacific report glowing objects pacing their aircraft. The 415th Night Fighter Squadron files repeated reports; no Axis weapon is ever identified as the cause.",
-"tier": "C"
+"text": "Allied aircrews over Europe and the Pacific report glowing objects pacing their aircraft. The 415th Night Fighter Squadron files repeated reports; no Axis weapon is ever identified as the cause."
 },
 {
+"claimTier": null,
 "date": "1946-07-01",
+"grade": "C",
 "id": "tl-1946-ghost",
 "label": "Ghost rockets over Scandinavia",
 "precision": "month",
 "strand": "program",
-"text": "Sweden logs hundreds of unexplained rocket-like objects; US and UK intelligence send officers, including Gen. James Doolittle, to assess. No Soviet programme is ever identified.",
-"tier": "C"
+"text": "Sweden logs hundreds of unexplained rocket-like objects; US and UK intelligence send officers, including Gen. James Doolittle, to assess. No Soviet programme is ever identified."
 },
 {
+"claimTier": null,
 "date": "1947-12-30",
+"grade": "A",
 "id": "tl-1947-12-30",
 "label": "Project SIGN directed",
 "precision": "day",
 "strand": "program",
-"text": "On Twining's recommendation the Air Force establishes its first official UFO project inside Air Materiel Command intelligence at Wright Field. It begins operating 23 January 1948.",
-"tier": "A"
+"text": "On Twining's recommendation the Air Force establishes its first official UFO project inside Air Materiel Command intelligence at Wright Field. It begins operating 23 January 1948."
 }
-]
+],
+"unverified": []
 }

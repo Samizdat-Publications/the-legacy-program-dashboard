@@ -91,6 +91,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "peter-robbins",
+"label": "Peter Robbins"
+},
+"b": {
+"id": "larry-warren",
+"label": "Larry Warren"
+},
 "by": {
 "id": "peter-robbins",
 "label": "Peter Robbins"
@@ -117,9 +125,7 @@
 ]
 }
 ],
-"domains": [
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -139,6 +145,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Peter Robbins",
+"sourceFiles": [
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2017-06-13",
@@ -162,13 +171,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 901 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-06-13",
+"grade": "B",
 "id": "tl-2017-06-13-robbins-statement",
 "label": "Peter Robbins repudiates his co-author after twenty-nine years",
 "precision": "day",
 "strand": "witness",
-"text": "Robbins publishes a statement alleging that Larry Warren fabricated a photograph with John Lennon, altered a USAF Form 490 whose ophthalmic notation is attributed to a physician Robbins found to be an orthopaedic surgeon, produced an in-processing sheet with mismatched signatures, and attributed testimonial letters to two named airmen that were never sent. He accepts as authentic Warren's January 1981 letter to his mother.",
-"tier": "B"
+"text": "Robbins publishes a statement alleging that Larry Warren fabricated a photograph with John Lennon, altered a USAF Form 490 whose ophthalmic notation is attributed to a physician Robbins found to be an orthopaedic surgeon, produced an in-processing sheet with mismatched signatures, and attributed testimonial letters to two named airmen that were never sent. He accepts as authentic Warren's January 1981 letter to his mother."
 }
 ],
 "unexplainedResidual": null,

@@ -56,7 +56,7 @@
 "edgeLabel": "Appropriations chairman who provided the vehicle",
 "id": "defense-appropriations-aawsap",
 "l0": false,
-"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "Inouye's control of the Senate Appropriations process allowed the $22M to be routed through the classified annex without floor debate on the allocation.",
 "sources": [
 {
@@ -75,8 +75,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"aawsap-aatip"
+"d-funding",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -97,6 +97,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Daniel K. Inouye",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2026-07-05",

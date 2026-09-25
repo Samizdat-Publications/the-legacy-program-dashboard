@@ -156,8 +156,9 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"congress-senate-legislation",
-"w9-waived-sap-group"
+"d-legislative",
+"d-oversight",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -178,6 +179,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "John F. Reed",
+"sourceFiles": [
+"congress-senate-legislation",
+"w9-waived-sap-group"
+],
 "sources": [
 {
 "date": "2023-07-11",
@@ -211,22 +216,24 @@
 "tierRationale": "Re-graded B on a global pass (rank 241 of 1170, score 42). 3 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-11",
+"grade": "B",
 "id": "cl-2023-07-11",
 "label": "S. 2226 introduced",
 "precision": "day",
 "strand": "program",
-"text": "Chairman Jack Reed introduces the FY2024 NDAA, the vehicle that will carry both UAP regimes.",
-"tier": "B"
+"text": "Chairman Jack Reed introduces the FY2024 NDAA, the vehicle that will carry both UAP regimes."
 },
 {
+"claimTier": null,
 "date": "2023-12-12",
+"grade": "B",
 "id": "cl-2023-12-12",
 "label": "Senate accepts the gutting in silence",
 "precision": "day",
 "strand": "coverup",
-"text": "The Senate's final consideration of the FY2024 NDAA produces no transcribed remarks containing the word 'anomalous'; no member objects aloud to the removal of the division the chamber had passed.",
-"tier": "B"
+"text": "The Senate's final consideration of the FY2024 NDAA produces no transcribed remarks containing the word 'anomalous'; no member objects aloud to the removal of the division the chamber had passed."
 }
 ],
 "unexplainedResidual": null,

@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -98,9 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The named files of the fifth tranche, published 7 August 2026, and the tranche that most clearly exposes the corpus's originator-prefix scheme. Identified items: DOW-UAP-PR122, an erratically manoeuvring object over the Gulf of Oman on 8 September 2021; DOW-UAP-D101, the intelligence report on that engagement; DOW-UAP-PR134, an orb over a Middle Eastern residential area dated 1 January 2025; DOW-UAP-D098, the 1953 analysis of the Montana and Utah film cases - that is, the Navy Photographic Interpretation Center study of the 1950 Great Falls and 1952 Tremonton films; FBI-UAP-D031, a large triangle with red lights over Colorado Springs in October 2023; FBI-UAP-D025, an airborne triangle at Bagram Air Base in June 2002; DOS-UAP-D002, a Department of State diplomatic cable on a Brazil incident of November 1963; and EOP-UAP-D001, a Brazil incident report from November 1963 bearing the prefix EOP - Executive Office of the President. That last prefix is the most significant single detail in the tranche. It means the release programme reached into White House holdings, that the Executive Office of the President is an originating authority in the UAP records universe, and that a 1963 Brazilian incident generated a document at that level. Sean Parnell, Assistant to the Secretary of War for Public Affairs, said the material 'continues to be housed on WAR.GOV/UFO, and the Department will release additional files on a rolling basis' - the Department's only statement of forward intent as of 12 August 2026. The tranche's date span, given by EarthSky as 1950 to 2025 and by the portal as 1953 to 2026, is itself unresolved.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -114,7 +113,11 @@
 "label": "PURSUE Release 05 file identifiers (7 August 2026)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "PURSUE Release 05 file identifiers (7 August 2026)",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-07",
@@ -132,22 +135,25 @@
 "tierRationale": "Re-graded B on a global pass (rank 342 of 1170, score 37). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2026-08-07",
+"grade": null,
 "id": "tl-parnell-rolling",
 "label": "Parnell: additional files 'on a rolling basis'",
 "precision": "day",
 "strand": "program",
-"text": "The Department's only statement of forward intent: the material continues to be housed on WAR.GOV/UFO and more will follow. No schedule, no scope, no manifest.",
-"tier": "2"
+"text": "The Department's only statement of forward intent: the material continues to be housed on WAR.GOV/UFO and more will follow. No schedule, no scope, no manifest."
 },
 {
+"claimTier": 1,
 "date": "2026-08-07",
+"grade": null,
 "id": "tl-r05-eop",
 "label": "EOP-UAP-D001: the Executive Office of the President becomes an originator",
 "precision": "day",
 "strand": "program",
-"text": "Release 05 carries a November 1963 Brazil incident report prefixed EOP, alongside DOS-UAP-D002, a State Department cable on the same events - the release programme reaching into White House holdings.",
-"tier": "1"
+"text": "Release 05 carries a November 1963 Brazil incident report prefixed EOP, alongside DOS-UAP-D002, a State Department cable on the same events - the release programme reaching into White House holdings."
 }
-]
+],
+"unverified": []
 }

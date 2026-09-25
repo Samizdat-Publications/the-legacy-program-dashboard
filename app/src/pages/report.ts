@@ -75,7 +75,9 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
       const nn = cite(s ? (s.name || s.url || '') : (d.note || 'denial recorded on the edge, no source string'),
         (s && s.url) || null);
       paper.append(h('div', { class: 'rdenial' },
-        h('b', null, d.by.label), ': ', d.label || d.note || '', ' ', sup(nn)));
+        h('b', null, d.by ? d.by.label : d.a.label + ' / ' + d.b.label),
+        d.by || d.denialKind ? '' : ' (direction not adjudicated)',
+        ': ', d.label || d.note || '', ' ', sup(nn)));
     }
   }
 

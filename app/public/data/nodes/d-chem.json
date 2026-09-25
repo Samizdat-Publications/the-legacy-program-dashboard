@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,10 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Chemistry is the discipline that would deliver the verdict, and it is also the discipline most easily destroyed by a broken chain of custody. Isotope ratio measurement by secondary ion mass spectrometry or thermal ionisation mass spectrometry can distinguish terrestrial from non-terrestrial origin at high confidence for many elements - the technique is routine in cosmochemistry, where meteoritic material is identified by exactly this signature. The Ubatuba magnesium fragments, examined since the 1950s, are the field's oldest test case and remain unresolved because provenance was never established. The strongest modern work runs through Avi Loeb's group, which published elemental and isotopic classification of spherules recovered from the Pacific site of the CNEOS 2014-01-08 bolide in Chemical Geology in December 2024, followed in March 2025 by a study relating the morphology and chemistry of D-type spherules - a demonstration that the analytical approach works and that its conclusions are contestable in the open literature. The dual-use route into classified work runs through the national laboratories: the same mass spectrometry capability underpins nuclear forensics, where results are Restricted Data from the moment they are produced. Scoring high on this domain means an entity performed, commissioned or controlled compositional analysis.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -68,7 +66,12 @@
 "label": "Chemistry & Isotopics",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Chemistry & Isotopics",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -98,6 +101,7 @@
 ],
 "sub": "Technical domain - elemental composition, isotope ratios and the chain of custody around a sample",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 592 of 1170, score 28). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 588 of 1170, score 28). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"timeline": [],
+"unverified": []
 }

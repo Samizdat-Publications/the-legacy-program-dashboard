@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -337,11 +338,7 @@
 "deg": 12,
 "denials": [],
 "desc": "Materials analysis is the single place where the central claim could be settled by measurement rather than by testimony, which is why both sides of the argument have converged on it. The falsifiable signature is isotopic: terrestrial elements occur in well-characterised isotope ratios set by solar system formation and by known industrial enrichment processes, so a sample whose ratios lie outside that envelope, and outside the known list of processes that can shift them, would be very difficult to explain conventionally. Garry Nolan, Jacques Vallée and colleagues published the methodology for exactly this test in Progress in Aerospace Sciences in 2022, setting out the instrumental techniques - including secondary ion mass spectrometry - applicable to characterising unusual materials for aerospace forensics. The results so far do not support the claim: AARO's January 2026 supplement reports Oak Ridge National Laboratory found a specimen from Ohio to be a conventional aluminium-silicon casting alloy with large grain sizes, interconnected porosity and needle-like silicon precipitates - defects, not exotica. The dual-use route matters here too, because the national laboratories that would perform such analysis are the same ones that perform nuclear forensics under Restricted Data controls. Scoring high on this domain means an entity has held, analysed or controlled physical material.",
-"domains": [
-"_rs-archive-mirror",
-"scientists-technical",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "Custody chains catalogued in this domain, with the point at which each goes dark. (1) Council Bluffs 1977 - CHAIN COMPLETE: incident with five independent witness groups, police photography, contemporaneous press (Daily Nonpareil 18 Dec 1977; Des Moines Register 26 Jan 1978), initial 1978 identification as high-carbon steel and slag, retention in Jacques Vallee's collection, SIMS and MIBI analysis at Stanford 2021, publication in Progress in Aerospace Sciences 2022. (2) The 'Art's Parts' bismuth/magnesium-zinc laminate - anonymous source to Art Bell (1990s), to Linda Moulton Howe, tested at Carnegie Science's Department of Terrestrial Magnetism (1996), tested by Harold Puthoff on several occasions through a 2012 negative-result letter, purchased by To The Stars Academy for $35,000 (July 2019, SEC filing), placed under a five-year US Army CCDC CRADA (17 October 2019). GOES DARK at the CRADA: no characterisation, no technical output, no Army statement in seven years. (3) The material Eric Davis described in his October 2019 Senate briefings and March 2020 DoD briefing as recovered from 'off-world vehicles not made on this earth'. NO PUBLIC CHAIN AT ALL: no source, no custodian, no location. (4) The human casualty material and imaging that Garry Nolan says government and aerospace-corporation representatives brought to his Stanford laboratory in or before 2021. GOES DARK AT THE FIRST LINK: neither the government element nor the corporation has been named. (5) The 42 published and roughly 300 unpublished injury cases in Christopher Green's AAWSAP data base, including the Schuessler catalogue and the Green-Morris case files. GOES DARK AT THE SPONSOR: the DIRD refers only to 'the Sponsor and Affiliates'. (6) The IM1 Pacific spherules - chain complete and public, and contested in the peer-reviewed literature within eighteen months, which is what a functioning custody regime looks like.",
@@ -404,7 +401,13 @@
 "label": "Materials and custody analysis",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Materials and custody analysis",
+"sourceFiles": [
+"_rs-archive-mirror",
+"scientists-technical",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -452,13 +455,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 169 of 1170, score 49). 12 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2026-01-01",
+"grade": null,
 "id": "tx-2026-aluminum",
 "label": "Oak Ridge returns a conventional result",
 "precision": "month",
 "strand": "program",
-"text": "AARO publishes its Aluminum Materials Analysis Supplement, reporting that Oak Ridge National Laboratory found a specimen recovered near Flint Ridge, Ohio to match conventional aluminium-silicon casting alloys, with casting defects and no radioactive emissions. The materials domain's most recent test returned negative, and the board records that.",
-"tier": 1
+"text": "AARO publishes its Aluminum Materials Analysis Supplement, reporting that Oak Ridge National Laboratory found a specimen recovered near Flint Ridge, Ohio to match conventional aluminium-silicon casting alloys, with casting defects and no radioactive emissions. The materials domain's most recent test returned negative, and the board records that."
 }
-]
+],
+"unverified": []
 }

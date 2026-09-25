@@ -37,6 +37,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -207,10 +208,7 @@
 "deg": 7,
 "denials": [],
 "desc": "The most tractable question in this whole field is not whether exotic physics is real but who was paid to study it, and that question has a documented answer. Between 2008 and 2010 the Defense Intelligence Agency commissioned thirty-eight Defense Intelligence Reference Documents under AAWSAP, released under FOIA, on subjects including 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 'Traversable Wormholes, Stargates, and Negative Energy' by Eric W. Davis of EarthTech International, and 'Antigravity for Aerospace Applications'. Those are real government contract deliverables on precisely the physics a recovered craft would require, written by named authors, with document control numbers. Two readings are available and this board records both: either the topics were selected because someone had a reason to believe they were relevant, or a sympathetic programme manager funded a literature survey of fringe physics. The strength of the domain is that it does not depend on resolving that - the tasking itself is the tier-1 fact. Scoring high here means an entity authored, commissioned or reviewed this body of work.",
-"domains": [
-"propulsion-2026-09-19",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -224,7 +222,12 @@
 "label": "Exotic Technology & Physics",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Exotic Technology & Physics",
+"sourceFiles": [
+"propulsion-2026-09-19",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2004",
@@ -257,13 +260,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 292 of 1170, score 40). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2008-08-18",
+"grade": null,
 "id": "tx-2008-aawsap",
 "label": "DIA buys the physics",
 "precision": "day",
 "strand": "program",
-"text": "The Defense Intelligence Agency issues solicitation HHM402-08-R-0211 for the Advanced Aerospace Weapon System Applications Program. The resulting contract produces thirty-eight Defense Intelligence Reference Documents on metric engineering, wormholes, antigravity and field effects on human tissue - the tier-1 evidence that a US agency paid to study the physics a recovered craft would require.",
-"tier": 1
+"text": "The Defense Intelligence Agency issues solicitation HHM402-08-R-0211 for the Advanced Aerospace Weapon System Applications Program. The resulting contract produces thirty-eight Defense Intelligence Reference Documents on metric engineering, wormholes, antigravity and field effects on human tissue - the tier-1 evidence that a US agency paid to study the physics a recovered craft would require."
 }
-]
+],
+"unverified": []
 }

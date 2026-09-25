@@ -176,29 +176,13 @@
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
 "sources": [
 {
 "date": "2025-09-09",
 "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": "2025",
-"dateStart": "2025",
-"direction": "out",
-"edgeLabel": "Testified before the House Oversight Task Force",
-"id": "hearing-2025-09-09",
-"l0": true,
-"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "House Oversight - hearing page, 9 Sept 2025",
@@ -308,12 +292,11 @@
 "deg": 5,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"aviators-incidents",
-"congress-house",
-"media-structure",
-"uaptf-aaro",
-"w2-2025-2026"
+"d-aviators",
+"d-oversight",
+"d-witness",
+"d-coverup",
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -334,6 +317,14 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Dylan Borland",
+"sourceFiles": [
+"_rs-legislation",
+"aviators-incidents",
+"congress-house",
+"media-structure",
+"uaptf-aaro",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-05",
@@ -394,16 +385,17 @@
 "status": "active",
 "sub": "USAF veteran; UAP witness testifying to House Oversight, Sept 2025",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 105 of 1170, score 61). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 118 of 1170, score 57). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "ch-2025-09-09e",
 "label": "A decade of reprisal",
 "precision": "day",
 "strand": "witness",
-"text": "Dylan Borland testifies that his career was 'deliberately obstructed' and that he has endured 'sustained reprisals from government agencies for more than a decade.'",
-"tier": "A"
+"text": "Dylan Borland testifies that his career was 'deliberately obstructed' and that he has endured 'sustained reprisals from government agencies for more than a decade.'"
 }
 ],
 "unexplainedResidual": null,

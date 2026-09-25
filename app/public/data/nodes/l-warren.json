@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -140,9 +141,7 @@
 "deg": 5,
 "denials": [],
 "desc": "THE HUB THAT SITS ON BOTH SIDES OF THIS CLUSTER, WHICH IS THE MOST INTERESTING KIND. Francis E. Warren Air Force Base at Cheyenne, Wyoming appears in this material three separate times and in two opposite roles. It is a witness site: the Project Blue Book telephone log of 1 August 1965, kept by Lt. Anspaugh between 0130 and 0440 and first published by J. Allen Hynek in 1972, records calls from Capt. Snelling, from the base commander Col. Johnson, from Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and from Capt. Howell, referring to sightings over missile sites designated E Site, G Flight, Quebec Flight, H-2 and B-4. Two of the seven veterans at the 27 September 2010 National Press Club event served there, Bruce Fenstermacher as a missile combat crew commander from 1974 to 1977 and Patrick McDonough as a geodetic surveyor from 1962 to 1966. AND IT IS ALSO WHERE THE AIR FORCE WENT TO TEST THE EXPLANATION. The 341st Strategic Missile Wing history records that after the Echo Flight shutdown, Space and Missile Systems Organization conducted electromagnetic pulse tests at Warren, completing all test objectives on Delta Flight before moving to the 564th Strategic Missile Squadron in October 1967. A base hub that carries both the claim and the engineering answer to the claim is exactly what the hub structure is for.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -156,7 +155,11 @@
 "label": "F. E. Warren AFB, Wyoming",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "F. E. Warren AFB, Wyoming",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1965-08-01",
@@ -176,6 +179,10 @@
 ],
 "sub": "SAC installation at Cheyenne; the 1 August 1965 Project Blue Book telephone log; the post-Echo-Flight EMP test programme on Delta Flight; base of two 2010 National Press Club affiants",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 725 of 1170, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 724 of 1170, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": [
+"The 1 August 1965 Blue Book telephone log was NOT OPENED in facsimile by this board; it is quoted from a mirror of Hastings's material, which in turn traces it to Hynek's 1972 book. Hynek's book was not opened either.",
+"Robert Hastings separately states he publishes F. E. Warren AFB documents dated 1 August 1965 in facsimile; those facsimiles were not opened by this board."
+]
 }

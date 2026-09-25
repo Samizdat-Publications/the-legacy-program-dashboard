@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -198,18 +199,20 @@
 "deg": 8,
 "denials": [
 {
-"by": {
+"a": {
 "id": "cia-prepublication-classification-review-board",
 "label": "CIA Prepublication Classification Review Board"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "A disclaimer disowning authentication is attached in advance to every cleared account",
 "note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "2018-11-28",
@@ -219,18 +222,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "d-coverup",
 "label": "The Cover-Up"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Denial is the public face of concealment",
 "note": "CIA's own historian records that false explanations were issued knowingly to protect classified overflights; the denial is the output of the concealment activity.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -240,18 +245,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "d-roswell",
 "label": "Roswell"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Four official explanations for one event",
 "note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -261,18 +268,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "donald-h-menzel",
 "label": "Donald H. Menzel"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977",
 "note": "The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1969",
@@ -282,18 +291,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "frank-olson-death-1953",
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "The Rockefeller Commission anonymised him and footnoted his stability",
 "note": "The published report calls him only an employee of the Department of the Army and attaches a footnote saying the few remaining Agency records indicate he may have had a history of emotional instability.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1975-06",
@@ -303,18 +314,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "mdang-flare-statement-1997",
 "label": "Maryland Air National Guard flare statement, 26 July 1997"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": null,
 "label": "An official explanation offered four months after the event",
 "note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1997-07-26",
@@ -324,18 +337,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "tr-ac-47-silver-bug",
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding",
 "note": "The Summary states that the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1955-02-15",
@@ -345,18 +360,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "us-v-pelton-1986",
 "label": "United States v. Ronald W. Pelton (D. Md. 1986)"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "States the fact of a compromise while naming no operation",
 "note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": null,
@@ -367,10 +384,7 @@
 }
 ],
 "desc": "A denial is not the end of an inquiry on this board; it is an entry in it. The editorial rule is that every official denial gets recorded in full, with its author, its date, its precise wording and its scope - because the wording and the scope are the data. AARO's Volume I historical record report of February 2024 states flatly that the office found 'no empirical evidence' that the US government or private companies have reverse-engineered extraterrestrial technology; what the same report also states is the scope of its search, the access it was granted, and which named programmes it did and did not resolve, and those are the parts a hostile audit turns on. The documented pattern that makes this a domain rather than a footnote is the historical one: the National Reconnaissance Office's very existence was an official secret from 1961 until 1992, meaning that for thirty-one years an accurate answer to 'does that organisation exist' was legally required to be no. Denials therefore have a known failure mode - a categorical denial by an official without the relevant read-in is not a statement about the world but a statement about that official's access. Scoring on this domain measures how central official denial has been to an entity's public conduct: an agency spokesman who issues denials, a director who signs them, or a witness whose testimony a denial was written to rebut.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -384,7 +398,12 @@
 "label": "Official Denial",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Official Denial",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -409,25 +428,28 @@
 ],
 "sub": "Evidentiary domain - the denial as a dated, attributable artifact",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 114 of 1170, score 58). 8 connections, 0 of them custody/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 113 of 1170, score 58). 8 connections, 0 of them custody/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1961-09-06",
+"grade": null,
 "id": "tx-1961-nro-classified",
 "label": "An agency whose existence is a secret",
 "precision": "month",
 "strand": "coverup",
-"text": "The National Reconnaissance Office is established with its very existence classified - a status maintained until September 1992. For thirty-one years the legally required answer to whether the organisation existed was no, which is the documented proof that a categorical official denial can be false and lawful at the same time.",
-"tier": 1
+"text": "The National Reconnaissance Office is established with its very existence classified - a status maintained until September 1992. For thirty-one years the legally required answer to whether the organisation existed was no, which is the documented proof that a categorical official denial can be false and lawful at the same time."
 },
 {
+"claimTier": 1,
 "date": "2024-02-01",
+"grade": null,
 "id": "tx-2024-aaro-vol1",
 "label": "AARO answers on the record",
 "precision": "month",
 "strand": "coverup",
-"text": "AARO publishes Volume I of its historical record report, concluding it found no empirical evidence that the US government or private companies have reverse-engineered extraterrestrial technology. The report is catalogued here in full: its scope, its access and its methodology are the parts a hostile audit turns on.",
-"tier": 1
+"text": "AARO publishes Volume I of its historical record report, concluding it found no empirical evidence that the US government or private companies have reverse-engineered extraterrestrial technology. The report is catalogued here in full: its scope, its access and its methodology are the parts a hostile audit turns on."
 }
-]
+],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "On the evening of 17 March 2026 the White House registered the .gov domains alien.gov and aliens.gov, reported by DefenseScoop on 18 March 2026. Neither was connected to an active website at the time of reporting, and neither is the domain PURSUE eventually used - the release programme launched seven weeks later on war.gov/UFO. White House spokeswoman Anna Kelly responded to the discovery with 'Stay tuned!' and an alien emoji. CISA's Acting Executive Assistant Director for Cybersecurity Chris Butera noted that 'CISA does not generally review or audit how government organizations use their registered domains.' The registration is a small artefact with a specific evidentiary value: it is a dated, attributable act by the Executive Office of the President, a month after the Truth Social direction and seven weeks before the first tranche, showing that an alien-and-UAP-branded public-facing property was contemplated at the White House level and then not used. The programme that actually shipped was branded as a Department of War transparency effort, on the Secretary's estate, under an acronym containing the word 'Presidential'.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -72,7 +71,11 @@
 "label": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-03-18",
@@ -90,13 +93,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1134 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2026-03-17",
+"grade": null,
 "id": "tl-alien-gov",
 "label": "White House registers alien.gov and aliens.gov",
 "precision": "day",
 "strand": "program",
-"text": "Neither domain is connected to a site. Anna Kelly: 'Stay tuned!' The release programme ships seven weeks later on war.gov/UFO instead.",
-"tier": "2"
+"text": "Neither domain is connected to a site. Anna Kelly: 'Stay tuned!' The release programme ships seven weeks later on war.gov/UFO instead."
 }
-]
+],
+"unverified": []
 }

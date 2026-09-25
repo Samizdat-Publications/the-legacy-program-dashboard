@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "An exclusive block of restricted airspace ten miles east of Virginia Beach used for air combat training, and the site of the near-midair that anchors Ryan Graves's congressional testimony. Graves described it as 'an exclusive block of airspace ten miles east of Virginia Beach' where 'one of the pilots saw a dark gray cube inside of a clear sphere - motionless against the wind, fixed directly at the entry point,' with two F/A-18Fs 100 feet apart forced into evasive action. The location matters because it is not open ocean: it is controlled, deconflicted airspace whose entire purpose is that nothing uninvited is in it. An object holding station against the wind at the entry point of a live training area is either a catastrophic airspace-control failure or an intrusion, and in either case it generated a squadron safety report that the Navy, per Graves, never acknowledged. The Atlantic warning areas are also the environment that produced GIMBAL and GO FAST in January 2015 and, per Gallaudet, the recalled Fleet Forces Command safety message about 'multiple near-midair collisions.'",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -62,7 +61,11 @@
 "label": "Warning Area W-72, off Virginia Beach",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Warning Area W-72, off Virginia Beach",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -75,13 +78,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1025 of 1170, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2015-01-01",
+"grade": "A",
 "id": "av-2015-w72",
 "label": "W-72 near-midair",
 "precision": "year",
 "strand": "witness",
-"text": "Two F/A-18Fs 100 feet apart take evasive action around a dark gray cube inside a clear sphere holding station against the wind at the entry point of Warning Area W-72. The squadron files a safety report and receives no acknowledgement.",
-"tier": "A"
+"text": "Two F/A-18Fs 100 feet apart take evasive action around a dark gray cube inside a clear sphere holding station against the wind at the entry point of Warning Area W-72. The squadron files a safety report and receives no acknowledgement."
 }
-]
+],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -290,9 +291,7 @@
 "deg": 10,
 "denials": [],
 "desc": "Follow the contract vehicle and you find the programme, which is why acquisition mechanics belong on an intelligence board. The routes that matter here are the ones with reduced visibility: sole-source justifications under exceptions to full and open competition; Cooperative Research and Development Agreements, which allow a government laboratory to work with a private party on terms that protect the private party's proprietary data; Other Transaction Authority, which sits outside the Federal Acquisition Regulation entirely; and classified contract line items that appear in financial systems only as an obligation figure. The documented case study is the Army's 2019 CRADA with To The Stars Academy to evaluate materials for combat vehicle applications - an agreement reported by Bloomberg Government and examined by The War Zone, in which the mechanism was used for exactly this subject matter in the open. The AAWSAP file shows the ordinary route: a solicitation, a competitive award, priced modifications, and deliverables. Scoring high on this domain means an entity signs, awards or administers these instruments.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -306,7 +305,11 @@
 "label": "Federal Contracting Mechanics",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Federal Contracting Mechanics",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2019-10-21",
@@ -332,5 +335,6 @@
 "sub": "Procedural domain - the vehicles, CRADAs and OTAs through which work is bought and hidden",
 "tier": "B",
 "tierRationale": "Re-graded B on a global pass (rank 344 of 1170, score 37). 10 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

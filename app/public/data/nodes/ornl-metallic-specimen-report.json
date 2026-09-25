@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,18 +78,20 @@
 "deg": 2,
 "denials": [
 {
-"by": {
+"a": {
 "id": "ornl-metallic-specimen-report",
 "label": "ORNL Synopsis: Analysis of a Metallic Specimen"
 },
+"b": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
 "note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
-"of": {
-"id": "aaro",
-"label": "All-domain Anomaly Resolution Office (AARO)"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-07-11",
@@ -99,10 +102,7 @@
 }
 ],
 "desc": "The only publicly released analysis by a US national laboratory of a physical specimen alleged to originate from a crashed non-human craft. Commissioned by AARO in 2022 under contract to Oak Ridge National Laboratory, dated April 2024, and released to the public in July 2024. The specimen is a magnesium alloy long circulated in UFO research as the 'Council Bluffs' or 'Art's Parts' material and alleged to derive from a 1947 crash with extraordinary properties. ORNL's conclusion was that it is a terrestrial magnesium alloy consistent with mid-twentieth-century industrial metallurgy. The board records this as a denial artifact as well as a technical result, for three reasons stated in the report and its coverage: neither AARO nor ORNL could verify the specimen's historical origin, meaning the chain of custody linking the tested object to any 1947 event was never established; records of failed magnesium alloy designs of the period are scant, meaning the comparison baseline is incomplete; and the analysis was performed by a laboratory operated by UT-Battelle, a partnership including the same Battelle Memorial Institute that ran the Air Force's original UFO data analysis in the 1950s, and to which the commissioning official subsequently moved. None of that makes the metallurgy wrong. All of it bears on who gets to certify what the government has.",
-"domains": [
-"_rs-archive-mirror",
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -116,7 +116,12 @@
 "label": "ORNL Synopsis: Analysis of a Metallic Specimen",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "ORNL Synopsis: Analysis of a Metallic Specimen",
+"sourceFiles": [
+"_rs-archive-mirror",
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-07-14",
@@ -141,16 +146,18 @@
 ],
 "sub": "Oak Ridge National Laboratory report for AARO, April 2024; published July 2024",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 489 of 1170, score 31). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 491 of 1170, score 31). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-04-01",
+"grade": "A",
 "id": "tl-ffrdc-2024-ornl-report",
 "label": "'ORNL Synopsis: Analysis of a Metallic Specimen'",
 "precision": "month",
 "strand": "coverup",
-"text": "Oak Ridge reports the specimen alleged to derive from a 1947 crash is a terrestrial magnesium alloy - while stating that neither AARO nor ORNL could verify its historical origin and that records of failed magnesium alloy designs are scant.",
-"tier": "A"
+"text": "Oak Ridge reports the specimen alleged to derive from a 1947 crash is a terrestrial magnesium alloy - while stating that neither AARO nor ORNL could verify its historical origin and that records of failed magnesium alloy designs are scant."
 }
-]
+],
+"unverified": []
 }

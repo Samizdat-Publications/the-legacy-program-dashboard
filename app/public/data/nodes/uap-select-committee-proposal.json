@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -119,9 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The instrument the disclosure caucus has asked for twice and never received. Burchett led the first effort under Speaker Kevin McCarthy in 2023; it collapsed when McCarthy lost the speakership. Eric Burlison led the second on 12 March 2024, framing it explicitly as a money investigation - 'the proposed select committee would first be focused on questioning the Department of Defense on expenditures he believes are for secret UAP recovery programs' - and stating that he had the support of Oversight Chairman James Comer, Burchett and Moskowitz. He had not raised it with Speaker Mike Johnson. His stated reason for needing a select committee is the reason this board exists: 'They weren't transparent to us in a SCIF setting. So they could have brought forward evidence. They could have explained what these Special Access Programs actually do. But they are not willing to do that with Congress.' A select committee would carry its own clearance posture and its own subpoena authority, and would therefore route around the HASC/HAC-D read-in gate. It has never been created.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -135,7 +134,11 @@
 "label": "Proposed House Select Committee on UAP",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Proposed House Select Committee on UAP",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2024-03-12",
@@ -148,22 +151,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 787 of 1170, score 22). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-10-01",
+"grade": "B",
 "id": "ch-2023-fall",
 "label": "First select committee push dies",
 "precision": "month",
 "strand": "oversight",
-"text": "Burchett's effort to create a House select committee on UAP collapses when Speaker Kevin McCarthy loses the speakership.",
-"tier": "B"
+"text": "Burchett's effort to create a House select committee on UAP collapses when Speaker Kevin McCarthy loses the speakership."
 },
 {
+"claimTier": null,
 "date": "2024-03-12",
+"grade": "A",
 "id": "ch-2024-03-12",
 "label": "Burlison: 'They weren't transparent to us in a SCIF setting'",
 "precision": "day",
 "strand": "oversight",
-"text": "Burlison leads a bipartisan call for a House select committee on UAP focused first on expenditures, and states that DoD officials were not truthful to members in classified session.",
-"tier": "A"
+"text": "Burlison leads a bipartisan call for a House select committee on UAP focused first on expenditures, and states that DoD officials were not truthful to members in classified session."
 }
-]
+],
+"unverified": []
 }

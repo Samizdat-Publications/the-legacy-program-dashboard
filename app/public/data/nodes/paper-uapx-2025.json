@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -88,9 +89,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Published in Progress in Aerospace Sciences volume 156, article 101099, in June 2025 (DOI 10.1016/j.paerosci.2025.101099) by Matthew Szydagis, Kevin H. Knuth, Benjamin Kugielsky and Cecilia Levy. It reports the results of UAPx's first instrumented field expedition, conducted off Catalina Island, California, using multi-band optical and other sensors with explicit treatment of instrumental artefacts and false positives. Its significance is not any single detection but the fact that the field now has a published, mainstream-journal field protocol written by particle physicists - a baseline against which any future government-released sensor data can be compared, and a template that no government programme has ever put in the public domain.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -104,7 +103,11 @@
 "label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2025-06-01",
@@ -117,13 +120,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1057 of 1170, score 13). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-06-01",
+"grade": "A",
 "id": "st-2025-06-uapx",
 "label": "UAPx field results published",
 "precision": "month",
 "strand": "program",
-"text": "Szydagis, Knuth, Kugielsky and Levy publish the first peer-reviewed UAP field-expedition results in Progress in Aerospace Sciences - a published protocol with explicit false-positive handling.",
-"tier": "A"
+"text": "Szydagis, Knuth, Kugielsky and Levy publish the first peer-reviewed UAP field-expedition results in Progress in Aerospace Sciences - a published protocol with explicit false-positive handling."
 }
-]
+],
+"unverified": []
 }

@@ -69,9 +69,7 @@
 "dateStart": "2023-01-03",
 "deg": 1,
 "denials": [],
-"domains": [
-"w9-waived-sap-group"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -91,6 +89,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Betty McCollum",
+"sourceFiles": [
+"w9-waived-sap-group"
+],
 "sources": [
 {
 "date": "2026-08-22",
@@ -116,7 +117,7 @@
 "status": "active",
 "sub": "Ranking Member, Defense Subcommittee of the House Appropriations Committee (118th and 119th Congresses, serving August 2026)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 627 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 624 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

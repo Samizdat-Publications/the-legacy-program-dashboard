@@ -12,6 +12,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -62,18 +63,20 @@
 "deg": 1,
 "denials": [
 {
-"by": {
+"a": {
 "id": "project-bear",
 "label": "Project BEAR (Battelle contract to Project GRUDGE)"
 },
+"b": {
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
 "note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
-"of": {
-"id": "battelle",
-"label": "Battelle Memorial Institute"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-03-08",
@@ -84,9 +87,7 @@
 }
 ],
 "desc": "Project BEAR was the informal name Captain Edward Ruppelt gave to the contract he created with the Battelle Memorial Institute to supply scientific support to Project GRUDGE. Battelle built the improved observer questionnaire, designed the punch-card system that automated statistical analysis of the accumulated sighting files, and produced the study issued in late 1954 as Special Report No. 14. AARO's own history records the crucial detail: Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the US government's UFO investigation was written by a private contractor whose authorship was concealed at the contractor's request, and issued under an Air Force cover. Whatever one concludes about the report's findings, the arrangement establishes the pattern at the origin of the file: contractor performs the analysis, government takes the byline, and the contractor's own holdings and working papers stay with the contractor.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -100,7 +101,11 @@
 "label": "Project BEAR (Battelle contract to Project GRUDGE)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project BEAR (Battelle contract to Project GRUDGE)",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2024-03-08",
@@ -110,25 +115,28 @@
 ],
 "sub": "Contractor scientific support to Project GRUDGE and BLUE BOOK, 1951-1954",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 609 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 604 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1951-01-01",
+"grade": "A",
 "id": "pc-1951-bear",
 "label": "Battelle contracted to Project GRUDGE",
 "precision": "year",
 "strand": "program",
-"text": "Capt. Edward Ruppelt creates the contract he calls Project BEAR with the Battelle Memorial Institute to supply scientific support to the Air Force UFO investigation. The first private contractor enters the file.",
-"tier": "A"
+"text": "Capt. Edward Ruppelt creates the contract he calls Project BEAR with the Battelle Memorial Institute to supply scientific support to the Air Force UFO investigation. The first private contractor enters the file."
 },
 {
+"claimTier": null,
 "date": "1954-12-01",
+"grade": "A",
 "id": "pc-1954-sr14",
 "label": "Battelle's authorship of Special Report No. 14 concealed",
 "precision": "month",
 "strand": "coverup",
-"text": "Battelle completes the statistical study issued as Special Report No. 14 and, per AARO's own history, 'released a report under the cover of ATIC to maintain its anonymity.' Contractor performs, government takes the byline.",
-"tier": "A"
+"text": "Battelle completes the statistical study issued as Special Report No. 14 and, per AARO's own history, 'released a report under the cover of ATIC to maintain its anonymity.' Contractor performs, government takes the byline."
 }
-]
+],
+"unverified": []
 }

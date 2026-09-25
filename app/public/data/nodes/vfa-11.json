@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The squadron whose 2014-2015 encounters turned UAP from a single spectacular incident into a documented, repeated flight-safety problem. Ryan Graves testified that 'In 2014, I was near Virginia Beach as part of VFA-11, a Navy Fighter/Attack Squadron made up of F/A-18F Super Hornets,' and that after the fleet's upgrade to the APG-79 AESA radar the squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis.' The defining event occurred in Warning Area W-72 ten miles east of Virginia Beach, where a pilot saw 'a dark gray cube inside of a clear sphere - motionless against the wind, fixed directly at the entry point' and two jets 'only 100 feet apart, were forced to take evasive action.' The squadron filed a safety report. Graves's testimony records the institutional response: 'there was no official acknowledgement of the incident and no further mechanism to report the sightings.' Two of the three DoD-released videos, GIMBAL and GO FAST, both from January 2015, came out of this operating environment, and Tim Gallaudet's account of a recalled January 2015 Fleet Forces Command safety message citing 'multiple near-midair collisions' describes the command-level reaction to exactly this squadron's problem.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -62,7 +61,11 @@
 "label": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -78,5 +81,6 @@
 "sub": "F/A-18F squadron, USS Theodore Roosevelt workups, 2014-2015",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 981 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

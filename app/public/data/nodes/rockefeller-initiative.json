@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "A privately financed, establishment-level campaign to persuade President Clinton to declassify the US government's UFO holdings, run from 1993 to 1996 with Laurance Rockefeller's money and access. Its instruments were a briefing document, 'Unidentified Flying Objects Briefing Document: The Best Available Evidence,' compiled by Marie 'Bootsie' Galbraith with Stanton Friedman and Don Berliner and distributed to legislators, officials and heads of state in 1995; direct correspondence with the President and First Lady; and approaches through the White House Office of Science and Technology Policy and the President's science adviser. The Clinton Presidential Library holds the residue as FOIA collections: correspondence between the President and Laurance Rockefeller (2006-0480-F), photographs of the Clintons at Rockefeller's JY Ranch in Jackson, Wyoming on 21 August 1995 (2006-0546-F), and a Roswell file containing the July 1995 GAO report and public correspondence (2006-0476-F). The initiative produced no declassification. Its failure is the finding: the wealthiest and best-connected private effort in American history to open these files was routed to the science adviser, answered with an unclassified GAO records report, and closed. Whatever holds this material does not respond to the President's science policy apparatus.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -124,7 +123,11 @@
 "label": "The Rockefeller UFO Disclosure Initiative",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Rockefeller UFO Disclosure Initiative",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2019-09-16",
@@ -152,13 +155,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 666 of 1170, score 26). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1993-01-01",
+"grade": "B",
 "id": "t-1993-rockefeller",
 "label": "Rockefeller Initiative begins",
 "precision": "year",
 "strand": "oversight",
-"text": "Laurance Rockefeller begins funding a coordinated campaign to obtain presidential declassification of US government UFO holdings.",
-"tier": "B"
+"text": "Laurance Rockefeller begins funding a coordinated campaign to obtain presidential declassification of US government UFO holdings."
 }
-]
+],
+"unverified": []
 }

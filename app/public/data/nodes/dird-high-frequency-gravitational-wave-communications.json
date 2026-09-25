@@ -52,6 +52,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -132,6 +133,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
@@ -235,6 +257,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "dird-high-frequency-gravitational-wave-communications",
+"label": "High-Frequency Gravitational Wave Communications"
+},
+"b": {
+"id": "jason-advisory-group",
+"label": "JASON"
+},
 "by": {
 "id": "jason-advisory-group",
 "label": "JASON"
@@ -272,11 +302,7 @@
 }
 ],
 "desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-04-06, DIA-08-1004-005, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"w7-dirds-2"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -290,7 +316,13 @@
 "label": "High-Frequency Gravitational Wave Communications",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "High-Frequency Gravitational Wave Communications",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"w7-dirds-2"
+],
 "sources": [
 {
 "date": "2010-04-06",
@@ -345,6 +377,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 245 of 1170, score 42). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 234 of 1170, score 43). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

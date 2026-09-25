@@ -75,9 +75,7 @@
 "dateStart": "1957-01-18",
 "deg": 2,
 "denials": [],
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -97,6 +95,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Peter G. Bergmann",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": null,

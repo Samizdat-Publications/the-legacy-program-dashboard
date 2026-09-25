@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,18 +104,20 @@
 "deg": 2,
 "denials": [
 {
-"by": {
+"a": {
 "id": "cash-v-united-states",
 "label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)"
 },
+"b": {
+"id": "betty-cash",
+"label": "Betty Cash"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "The United States denied ownership of the object and the aircraft",
 "note": "The government moved to dismiss and for summary judgment; the court dismissed under FRCP 12(b)(1), 12(b)(6) and 56. The Defense Department's internal investigation into whether the object was a US military device has never produced a released document.",
-"of": {
-"id": "betty-cash",
-"label": "Betty Cash"
-},
+"of": null,
 "sources": [
 {
 "date": "1986-08-21",
@@ -125,9 +128,7 @@
 }
 ],
 "desc": "Betty Cash, Vickie Landrum and Colby Landrum sued the United States of America in the US District Court for the Southern District of Texas, Houston Division, over the 29 December 1980 encounter near Huffman, Texas. The original complaint and summonses were filed on 18 January 1984 under the Federal Tort Claims Act, 28 U.S.C. 1346(b) and 2671 et seq., the docket sheet classifying the cause as airplane product liability with damages of $5,000,000 - reported in the press as a $20 million action across the plaintiffs. Peter A. Gersten of Gagliardi, Torpes & Gersten of Tarrytown, New York was designated attorney in charge, with William C. Shead of Houston as local co-counsel; Assistant US Attorney Frank A. Conforti appeared for the government. The theory of the case was that the diamond-shaped object and the tandem-rotor helicopters escorting it were US government property or operations, and that the plaintiffs were injured by them. An amended complaint was filed, the government moved to dismiss and for summary judgment, and on 21 August 1986 Judge Ross N. Sterling entered an Order of Dismissal dismissing the action under Federal Rules of Civil Procedure 12(b)(1), 12(b)(6) and 56. The government's position, and the ground on which the case ended, was that no such vehicle or operation was the United States'. Gersten later said the suit had been a bluff, brought in the hope of a quiet settlement of the medical bills. Two things about this docket matter to this board. First, it is the only time a UFO injury claim has reached a US federal court on the merits. Second, the Defense Department conducted an internal investigation into whether the object was a US military device, and no document from that investigation has ever surfaced.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "Civil Action No. H-84-348, S.D. Tex., Houston Division. Filed 18 January 1984 under 28 U.S.C. 1346(b) and 2671 et seq. by Betty Cash, Vickie Landrum and Colby Landrum; attorney in charge Peter A. Gersten; dismissed 21 August 1986 by Judge Ross N. Sterling under FRCP 12(b)(1), 12(b)(6) and 56. The docket sheet classifies the cause as 'Airplane Product Liability', which is the United States district court system's best available description of a UFO injury claim. The open thread is the Defense Department's internal investigation into whether the object was a US military device: it happened, and no document from it has ever surfaced.",
@@ -144,7 +145,11 @@
 "label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1986-08-21",
@@ -167,31 +172,35 @@
 "tierRationale": "Re-graded C on a global pass (rank 799 of 1170, score 22). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1982",
+"grade": "A",
 "id": "tl-1982-sarran",
 "label": "Army IG investigation",
 "precision": "year",
 "strand": "oversight",
-"text": "Lt. Col. George Sarran of the Office of the Inspector General of the US Army conducts the only thorough formal government investigation of the Cash-Landrum encounter. He finds no evidence the helicopters were US armed forces aircraft, while stating the witnesses were credible and no one appeared to be exaggerating.",
-"tier": "A"
+"text": "Lt. Col. George Sarran of the Office of the Inspector General of the US Army conducts the only thorough formal government investigation of the Cash-Landrum encounter. He finds no evidence the helicopters were US armed forces aircraft, while stating the witnesses were credible and no one appeared to be exaggerating."
 },
 {
+"claimTier": null,
 "date": "1984-01-18",
+"grade": "A",
 "id": "tl-1984-0118-cash",
 "label": "Cash v. United States filed",
 "precision": "day",
 "strand": "oversight",
-"text": "Betty Cash, Vickie Landrum and Colby Landrum sue the United States in the Southern District of Texas under the Federal Tort Claims Act, Civil Action No. H-84-348. Peter A. Gersten is attorney in charge.",
-"tier": "A"
+"text": "Betty Cash, Vickie Landrum and Colby Landrum sue the United States in the Southern District of Texas under the Federal Tort Claims Act, Civil Action No. H-84-348. Peter A. Gersten is attorney in charge."
 },
 {
+"claimTier": null,
 "date": "1986-08-21",
+"grade": "A",
 "id": "tl-1986-0821-dismissal",
 "label": "Cash-Landrum dismissed",
 "precision": "day",
 "strand": "oversight",
-"text": "Judge Ross N. Sterling enters an Order of Dismissal under Federal Rules of Civil Procedure 12(b)(1), 12(b)(6) and 56 on the United States' motion. The only US UFO personal-injury case to reach federal court ends without trial.",
-"tier": "A"
+"text": "Judge Ross N. Sterling enters an Order of Dismissal under Federal Rules of Civil Procedure 12(b)(1), 12(b)(6) and 56 on the United States' motion. The only US UFO personal-injury case to reach federal court ends without trial."
 }
-]
+],
+"unverified": []
 }

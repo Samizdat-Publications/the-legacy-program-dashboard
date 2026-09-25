@@ -741,13 +741,14 @@
 "deg": 16,
 "denials": [],
 "domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"aawsap-aatip",
-"elizondo-ttsa",
-"history-1970s-2000s",
-"propulsion-2026-09-19",
-"scientists-technical"
+"d-funding",
+"d-prop",
+"d-exotic",
+"d-materials",
+"d-disclosure",
+"d-research",
+"d-coverup",
+"d-custody"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -805,6 +806,15 @@
 }
 ],
 "short": "Harold E. Puthoff",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"elizondo-ttsa",
+"history-1970s-2000s",
+"propulsion-2026-09-19",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2025-11-22",
@@ -935,25 +945,27 @@
 "status": "active",
 "sub": "President, EarthTech International; AAWSAP DIRD author; former SRI remote-viewing program director",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 18 of 1170, score 110). 18 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 17 of 1170, score 110). 18 connections, 8 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1972-01-01",
+"grade": "A",
 "id": "st-1972-sri",
 "label": "SRI psychoenergetics",
 "precision": "year",
 "strand": "program",
-"text": "Harold Puthoff and Russell Targ begin the SRI International programme that becomes the government's Stargate effort - the template for outsourcing an unwanted phenomenon to a private laboratory.",
-"tier": "A"
+"text": "Harold Puthoff and Russell Targ begin the SRI International programme that becomes the government's Stargate effort - the template for outsourcing an unwanted phenomenon to a private laboratory."
 },
 {
+"claimTier": null,
 "date": "1974-10-18",
+"grade": "A",
 "id": "t-1974-nature",
 "label": "Targ and Puthoff publish in Nature",
 "precision": "day",
 "strand": "program",
-"text": "'Information transmission under conditions of sensory shielding' appears in Nature vol. 251, pp. 602-607 - the open-literature face of a classified programme.",
-"tier": "A"
+"text": "'Information transmission under conditions of sensory shielding' appears in Nature vol. 251, pp. 602-607 - the open-literature face of a classified programme."
 }
 ],
 "unexplainedResidual": null,

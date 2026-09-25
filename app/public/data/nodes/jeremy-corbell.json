@@ -207,9 +207,7 @@
 "deg": 7,
 "denials": [],
 "domains": [
-"lazar-s4-2026-09-18",
-"media-structure",
-"w16-thin-people"
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -230,6 +228,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jeremy Kenyon Lockyer Corbell",
+"sourceFiles": [
+"lazar-s4-2026-09-18",
+"media-structure",
+"w16-thin-people"
+],
 "sources": [
 {
 "date": "2018",
@@ -250,7 +253,7 @@
 "status": "active",
 "sub": "Filmmaker; co-host, Weaponized",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 622 of 1170, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 619 of 1170, score 27). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

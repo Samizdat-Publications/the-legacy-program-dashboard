@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The board has carried no Norton node, and two witnesses inside one opened document name the base independently of each other: McCandlish, relaying a hangar exhibit on 12 November 1988, and Lt Col John Williams, who says he was responsible for the base's facilities in 1981 to 1982 and knew of an area he was never allowed into. The compiler of that document then cross-references the two to each other, which is an assertion by the compiler and not corroboration. The 1990 primary document adds one small, unprompted detail about the base itself, offered as an excuse for a host's lateness rather than as testimony.",
-"domains": [
-"arv-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -93,7 +92,11 @@
 "label": "Norton Air Force Base, San Bernardino, California",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Norton Air Force Base, San Bernardino, California",
+"sourceFiles": [
+"arv-2026-09-18"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -108,6 +111,7 @@
 ],
 "sub": "Former USAF base on the eastern fringe of San Bernardino; named by two witnesses in one 2001 document as holding a compartmented facility",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 916 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 915 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [],
+"unverified": []
 }

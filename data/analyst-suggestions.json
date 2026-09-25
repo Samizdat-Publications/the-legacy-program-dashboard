@@ -4,7 +4,7 @@
     "timeline": 1076,
     "l0": 135,
     "nodes": 1170,
-    "claims.3": 618
+    "claims.3": 622
   },
   "_keys": "home node map hood thread timeline patents evidence report. Route kinds map on: node-map and thread-map use map, node-hood uses hood, both report kinds use report, notfound uses home.",
   "home": [
@@ -53,7 +53,7 @@
   ],
   "evidence": [
     "Show me every entity the government has formally denied",
-    "Filter to Tier 3 and tell me which of those 618 claims is load bearing anywhere.",
+    "Filter to Tier 3 and tell me which of those 622 claims is load bearing anywhere.",
     "Show me claims that are open questions on nodes with a drafted FOIA request.",
     "Which source domain carries the most claims, and how many of those are Tier 1?"
   ],

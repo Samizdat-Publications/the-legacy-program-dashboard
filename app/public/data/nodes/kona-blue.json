@@ -97,6 +97,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -404,7 +405,7 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "temporal"
 },
 {
@@ -437,7 +438,7 @@
 "edgeLabel": "A program can be designed and formally requested without ever crossing the congressional reporting threshold",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "AARO: 'KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did not meet the threshold for congressional reporting.' The government states the gap in its own defence.",
 "sources": [
 {
@@ -461,27 +462,14 @@
 "deg": 13,
 "denials": [
 {
-"by": {
-"id": "cia",
-"label": "Central Intelligence Agency"
+"a": {
+"id": "dhs",
+"label": "United States Department of Homeland Security"
 },
-"claimTier": 2,
-"denialKind": "directed",
-"label": "CIA alleged to have terminated the programme",
-"note": "Gerb's account has the CIA shutting Kona Blue down. Recorded here as an alleged act of the concealment apparatus rather than as an adjudicated fact.",
-"of": {
+"b": {
 "id": "kona-blue",
 "label": "KONA BLUE"
 },
-"sources": [
-{
-"date": "2026-08-04",
-"name": "NewsNation Reality Check - 'Inside Kona Blue'",
-"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
-}
-]
-},
-{
 "by": {
 "id": "dhs",
 "label": "United States Department of Homeland Security"
@@ -501,17 +489,39 @@
 "url": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
 }
 ]
+},
+{
+"a": {
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"by": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "CIA alleged to have terminated the programme",
+"note": "Gerb's account has the CIA shutting Kona Blue down. Recorded here as an alleged act of the concealment apparatus rather than as an adjudicated fact.",
+"of": {
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"sources": [
+{
+"date": "2026-08-04",
+"name": "NewsNation Reality Check - 'Inside Kona Blue'",
+"url": "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+}
+]
 }
 ],
 "desc": "Kona Blue was a Department of Homeland Security prospective special access programme, terminated on 10 February 2012, intended to house UAP recovery and reverse-engineering work after the DIA's AAWSAP/AATIP funding lapsed. AARO surfaced it in the Historical Record Report Volume I and DHS declassified the associated records; on 5 February 2024 DHS Acting Deputy Secretary Kristie Canegallo transmitted them to the Deputy Secretary of Defense, with strike-through formatting preserving the former classification marks and a records search finding no further material. The documents were made public in June 2024. AARO's framing is that Kona Blue was rejected by DHS leadership as lacking merit and that it is the proximate origin of the modern belief in a crash-retrieval programme - people who saw the Kona Blue proposal, on this account, mistook a proposal for an existing capability. The record is more interesting than the framing. A prospective special access programme is a real, chartered vehicle, and the surviving text discusses protection rationales for sensitive personnel and exotic technologies. The federal government did not draft a SAP charter to house nothing; it drafted one because named officials with clearances believed there was something to house, and the charter reached the Acting Deputy Secretary level of DHS before it was killed. AARO uses Kona Blue as a debunking device; on its face it is documentary evidence that in 2011-2012 senior officials at two departments treated recovered exotic material as a programme-management problem.",
-"domains": [
-"_rs-archive-mirror",
-"aawsap-aatip",
-"grusch",
-"media-structure",
-"primes-custody",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -698,7 +708,7 @@
 "cls": "document",
 "id": "reid-sap-letter-2009",
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -707,7 +717,16 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "KONA BLUE",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aawsap-aatip",
+"grusch",
+"media-structure",
+"primes-custody",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -767,43 +786,48 @@
 ],
 "sub": "Proposed DHS special access program, circa 2011",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 10 of 1170, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 9 of 1170, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2011-01-01",
+"grade": "A",
 "id": "pc-2011-konablue",
 "label": "KONA BLUE proposed to DHS",
 "precision": "year",
 "strand": "program",
-"text": "AAWSAP's advocates propose a prospective special access program at DHS to restart the work and reverse-engineer any recovered craft they hoped to acquire. DHS rejects it. AARO notes it was never reported to Congress because it never met the SAP threshold.",
-"tier": "A"
+"text": "AAWSAP's advocates propose a prospective special access program at DHS to restart the work and reverse-engineer any recovered craft they hoped to acquire. DHS rejects it. AARO notes it was never reported to Congress because it never met the SAP threshold."
 },
 {
+"claimTier": null,
 "date": "2011-01-01",
+"grade": "A",
 "id": "tl-2011-konablue",
 "label": "KONA BLUE proposed at DHS",
 "precision": "year",
 "strand": "program",
-"text": "A successor special access program to house UAP recovery and reverse-engineering work is proposed to the Department of Homeland Security and subsequently rejected by DHS leadership.",
-"tier": "A"
+"text": "A successor special access program to house UAP recovery and reverse-engineering work is proposed to the Department of Homeland Security and subsequently rejected by DHS leadership."
 },
 {
+"claimTier": null,
 "date": "2024-06-01",
+"grade": "A",
 "id": "ag-tl-2024-kbpaper",
 "label": "AARO and DHS publish the KONA BLUE history",
 "precision": "month",
 "strand": "oversight",
-"text": "The joint paper confirms that a DHS component head established a prospective special access program in 2011 and that the Deputy Secretary killed it six months later.",
-"tier": "A"
+"text": "The joint paper confirms that a DHS component head established a prospective special access program in 2011 and that the Deputy Secretary killed it six months later."
 },
 {
+"claimTier": null,
 "date": "2024-06-01",
+"grade": "A",
 "id": "tl-konablue-2024-06-01",
 "label": "Kona Blue documents made public",
 "precision": "month",
 "strand": "program",
-"text": "The declassified DHS Kona Blue package, transmitted by Acting Deputy Secretary Kristie Canegallo on 5 February 2024, is published - a chartered prospective SAP intended to house UAP recovery and reverse-engineering, terminated 10 February 2012.",
-"tier": "A"
+"text": "The declassified DHS Kona Blue package, transmitted by Acting Deputy Secretary Kristie Canegallo on 5 February 2024, is published - a chartered prospective SAP intended to house UAP recovery and reverse-engineering, terminated 10 February 2012."
 }
-]
+],
+"unverified": []
 }

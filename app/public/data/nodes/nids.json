@@ -37,6 +37,7 @@
 ],
 "cls": "program",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -414,46 +415,43 @@
 "deg": 12,
 "denials": [],
 "desc": "NIDS was Robert Bigelow's privately funded institute, founded in Las Vegas in 1995 and describing itself as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena.' Its staff and board were not amateurs: Hal Puthoff from the CIA/DIA remote-viewing programmes, Colonel John B. Alexander from Los Alamos and Army INSCOM, the biochemist Colm Kelleher as deputy administrator, Jacques Vallee on the advisory board, and Eric Davis as a staff scientist. It ran a public reporting hotline (1-888-433-6500), a veterinary necropsy response capability for reported animal mutilations, and, from 1996, a permanently instrumented field station at Skinwalker Ranch in Uintah County, Utah. Bigelow gave his first interview about it to the Deseret News in August 1998, saying he would not discuss specific incidents and that 'we wouldn't be there just for the weather.' NIDS closed in 2004. Four years later the same personnel, the same principal and substantially the same methodology were operating under a Defense Intelligence Agency contract as BAASS. NIDS is the pivot point at which the government's anomalous-phenomena capability had been fully privatised - and the point at which it could be re-federalised by writing a contract rather than standing up an office.",
-"domains": [
-"aawsap-aatip",
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
-"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/",
+"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/ - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "NIDS was formed by Robert Bigelow in October 1995; the Las Vegas Sun reported on 23 October 1996 that the ranch research was \"being conducted by the National Institute for Discovery Science, which Bigelow formed last October.\"",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/",
+"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/ - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Bigelow negotiated to buy the Shermans' 480-acre ranch for about $200,000 several weeks after the family went public in July 1996 with accounts of lights emerging from circular \"doorways\" appearing in mid-air, three mutilated cows, several missing cattle, unusual soil impressions and circles of flattened grass.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/",
+"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/ - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "By October 1996 Bigelow had erected an observation building on the property, installed a pair of scientists and a veterinarian, and maintained someone on the property twenty-four hours a day recording anything out of the ordinary.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/",
+"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/ - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Terry Sherman, retained by Bigelow to maintain the ranch, told the Las Vegas Sun he could no longer discuss the activity because of a nondisclosure agreement Bigelow had him sign.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/",
+"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/ - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "John B. Alexander, described as \"former director of non-lethal weapons testing at Los Alamos National Laboratories in New Mexico,\" was among the scientists involved and spoke for NIDS from its Las Vegas offices, stating that \"one of the missions of the institute is to make information widely available\" and that results would be published in scientific journals and on the institute's web page.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/",
+"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/ - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Bigelow met Roosevelt, Utah veterinarian Dan Dennis on 15 October 1996 to request assistance performing necropsies on animals whose deaths or mutilations might be tied to UFO or paranormal phenomena, and planned to write area ranchers requesting notification of unusual animal deaths.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/",
+"source": "https://lasvegassun.com/news/1996/oct/23/nevada-millionaire-buys-ufo-ranch-in-utah/ - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Bigelow declined to be interviewed and Alexander would not provide details of how or why the research was being conducted; outside researchers including Chris O'Brien, who had visited the ranch in July 1996, objected that the case \"should be public knowledge.\"",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science",
@@ -471,24 +469,24 @@
 "tier": 2
 },
 {
-"source": "https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher",
+"source": "https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Rice University's published biography of Colm A. Kelleher states: \"From 1996-2004, he led the National Institute for Discovery Science (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects.\"",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher",
+"source": "https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The same Rice biography states: \"In 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space Studies (BAASS) where he led the day-to day operations in executing the AAWSAP contract with Defense Intelligence Agency (DIA),\" and lists his affiliation as \"Program Manager, Advanced Aerospace System Weapons Application Program (AAWSAP) Contractor, Defense Intelligence Agency (DIA).\"",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher",
+"source": "https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Between the NIDS and BAASS periods, from 2004 to 2008, Kelleher served as laboratory director at San Francisco biotechnology company Prosetta, leading teams executing Department of Defense contracts to discover drugs against Ebola virus and other viruses of interest to DoD.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://archives.library.rice.edu/repositories/2/archival_objects/332408",
+"source": "https://archives.library.rice.edu/repositories/2/archival_objects/332408 - DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The finding aid for the Jacques F. Vallee UFO and paranormal phenomena papers (MS 0672, Woodson Research Center, Rice University) states the collection contains \"field notes and press documents about related topics such as cattle mutilations, and face-to-face meetings of NIDS and BAASS, as well as various research proposals\"; the collection is restricted, with Series I and II opening 24 January 2028 and Series III case files 1 January 2031.",
-"tier": 1
+"tier": 2
 }
 ],
 "connections": [
@@ -611,7 +609,12 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "NIDS",
+"sourceFiles": [
+"aawsap-aatip",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2024-01-01",
@@ -646,52 +649,58 @@
 ],
 "sub": "Privately funded research institute, Las Vegas, 1995-2004",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 130 of 1170, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 131 of 1170, score 55). 14 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1995-01-01",
+"grade": "A",
 "id": "tl-1995-nids",
 "label": "NIDS founded",
 "precision": "year",
 "strand": "program",
-"text": "Robert Bigelow founds the National Institute for Discovery Science in Las Vegas, assembling the staff and methodology later inherited by BAASS.",
-"tier": "A"
+"text": "Robert Bigelow founds the National Institute for Discovery Science in Las Vegas, assembling the staff and methodology later inherited by BAASS."
 },
 {
+"claimTier": null,
 "date": "1996-01-01",
+"grade": "B",
 "id": "ms-1996-nids",
 "label": "Knapp joins NIDS",
 "precision": "year",
 "strand": "program",
-"text": "Knapp works with Robert Bigelow's National Institute of Discovery Science alongside Colm Kelleher; this period produces the Skinwalker Ranch material and the Reid-Bigelow introduction that leads to AAWSAP.",
-"tier": "B"
+"text": "Knapp works with Robert Bigelow's National Institute of Discovery Science alongside Colm Kelleher; this period produces the Skinwalker Ranch material and the Reid-Bigelow introduction that leads to AAWSAP."
 },
 {
+"claimTier": null,
 "date": "2004-01-01",
+"grade": "A",
 "id": "t-2004-nids",
 "label": "NIDS closes; ranch retained",
 "precision": "year",
 "strand": "program",
-"text": "Bigelow shuts the institute but keeps Skinwalker Ranch. The cleared cadre remains intact and available.",
-"tier": "A"
+"text": "Bigelow shuts the institute but keeps Skinwalker Ranch. The cleared cadre remains intact and available."
 },
 {
+"claimTier": null,
 "date": "2005-01-01",
+"grade": "B",
 "id": "tl-2005-hunt",
 "label": "'Hunt for the Skinwalker' published",
 "precision": "year",
 "strand": "witness",
-"text": "Kelleher and Knapp publish the account of the NIDS ranch work; James Lacatski of DIA reads it.",
-"tier": "B"
+"text": "Kelleher and Knapp publish the account of the NIDS ranch work; James Lacatski of DIA reads it."
 },
 {
+"claimTier": null,
 "date": "2007-01-01",
+"grade": "A",
 "id": "t-2007-dia",
 "label": "DIA contacts Bigelow about Skinwalker",
 "precision": "year",
 "strand": "program",
-"text": "A senior Defense Intelligence Agency official writes to Bigelow about the ranch; Bigelow connects him to Senator Harry Reid. The AAWSAP contract follows in 2008 - the private capability is re-federalised without a new office being created.",
-"tier": "A"
+"text": "A senior Defense Intelligence Agency official writes to Bigelow about the ranch; Bigelow connects him to Senator Harry Reid. The AAWSAP contract follows in 2008 - the private capability is re-federalised without a new office being created."
 }
-]
+],
+"unverified": []
 }

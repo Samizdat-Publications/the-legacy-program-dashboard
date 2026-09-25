@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -83,9 +84,7 @@
 "deg": 3,
 "denials": [],
 "desc": "General Dynamics appears in the record because Rep. Nancy Mace used it as her worked example. On 13 November 2024 she asked Luis Elizondo whether material given to private contractors is allocated by expertise - 'if it is related to submerged and undersea propulsion, would it go to a general contractor like General Dynamics?' - and Elizondo answered 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.' The company's documented role is the undersea one: Electric Boat builds and sustains the US ballistic missile and attack submarine fleet, and General Dynamics holds the deepest undersea engineering base in American industry. The exchange is the only public description of a distributed, domain-partitioned custody model, and Mace's choice of General Dynamics as the undersea example was not contradicted by the witness. No document places recovered material at General Dynamics; the company is here because a member of Congress and a former program director together described the architecture in which it would sit.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -99,7 +98,11 @@
 "label": "General Dynamics Corporation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "General Dynamics Corporation",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2024-11-13",
@@ -109,6 +112,7 @@
 ],
 "sub": "Prime contractor; submarines, undersea systems, Electric Boat",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 823 of 1170, score 21). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 824 of 1170, score 21). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [],
+"unverified": []
 }

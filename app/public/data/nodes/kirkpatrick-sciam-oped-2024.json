@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -176,6 +177,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "kirkpatrick-sciam-oped-2024",
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
@@ -197,6 +206,14 @@
 ]
 },
 {
+"a": {
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"b": {
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
 "by": {
 "id": "kirkpatrick-sciam-oped-2024",
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
@@ -218,6 +235,14 @@
 ]
 },
 {
+"a": {
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
 "by": {
 "id": "sean-kirkpatrick",
 "label": "Sean M. Kirkpatrick"
@@ -240,10 +265,7 @@
 }
 ],
 "desc": "Published 19 January 2024, seven weeks after Kirkpatrick left AARO and seven weeks before the office published the Historical Record Report Volume I he had authored. It is the clearest single statement of the containment thesis in the former director's own voice. Its arguments: the investigation found no evidence of aliens, only allegations circulated repeatedly by UFO claim advocates; the public whistleblowers never provided evidence to AARO despite invitations and are therefore 'suspect' for preferring to be 'sensationalist in the public eye'; the narrative is 'a textbook example of circular reporting, with each person relaying what they heard, but the information often ultimately being sourced to the same small group of individuals'; the claims derive from 'a small group of interconnected believers' influenced by Robert Bigelow and originating in the defunct AATIP; and belief in a statement is proportional to the volume and repetition of its transmission rather than to the facts. The document matters for three reasons. It is a former officeholder attacking named living witnesses in a scientific journal within weeks of departure. It previews the conclusions of an official report not yet published, which is a rollout technique rather than an analysis. And its central mechanism - circular reporting from a small group - is precisely the mechanism the Department would confirm eighteen months later in the Yankee Blue disclosure, except that the small group seeding the belief was the United States Air Force.",
-"domains": [
-"uaptf-aaro",
-"w12-duplicate-collapse"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -257,7 +279,13 @@
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
+"sourceFiles": [
+"grusch",
+"uaptf-aaro",
+"w12-duplicate-collapse"
+],
 "sources": [
 {
 "date": "2024-01-19",
@@ -272,25 +300,28 @@
 ],
 "sub": "Op-ed, 19 January 2024, seven weeks after leaving AARO",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 417 of 1170, score 34). 6 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 420 of 1170, score 34). 6 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-01-19",
+"grade": "A",
 "id": "g-tl-2024-01-sciam",
 "label": "Kirkpatrick publishes the circular-reporting thesis",
 "precision": "day",
 "strand": "coverup",
-"text": "In Scientific American the departing AARO director attributes the allegations to inadvertent disclosures of legitimate programs or unsupported belief, seven weeks before his agency's report advances the same frame.",
-"tier": "A"
+"text": "In Scientific American the departing AARO director attributes the allegations to inadvertent disclosures of legitimate programs or unsupported belief, seven weeks before his agency's report advances the same frame."
 },
 {
+"claimTier": null,
 "date": "2024-01-19",
+"grade": "A",
 "id": "tl-sciam-2024-01-19",
 "label": "Kirkpatrick op-ed in Scientific American",
 "precision": "day",
 "strand": "coverup",
-"text": "Seven weeks after leaving office and seven weeks before his report is published, Kirkpatrick calls the disclosure record circular reporting from a small group of interconnected believers and calls the whistleblowers suspect.",
-"tier": "A"
+"text": "Seven weeks after leaving office and seven weeks before his report is published, Kirkpatrick calls the disclosure record circular reporting from a small group of interconnected believers and calls the whistleblowers suspect."
 }
-]
+],
+"unverified": []
 }

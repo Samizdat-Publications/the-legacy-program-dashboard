@@ -143,6 +143,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "neill-tipton",
+"label": "Neill Tipton"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "neill-tipton",
 "label": "Neill Tipton"
@@ -165,7 +173,7 @@
 }
 ],
 "domains": [
-"elizondo-ttsa"
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -186,6 +194,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Neill Tipton",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2023-01-01",
@@ -201,25 +212,27 @@
 "status": "former",
 "sub": "Director for Defense Intelligence (Collection & Special Programs), OUSD(I)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 450 of 1170, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 448 of 1170, score 32). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-09-01",
+"grade": "B",
 "id": "tl-2017-09-tipton-memo",
 "label": "Elizondo drafts AATIP transition memo for Tipton",
 "precision": "month",
 "strand": "program",
-"text": "Emails later released under FOIA show Elizondo drafting a memorandum to help Neill Tipton 'assume the new responsibilities for AATIP' — five years after the Department says the program ended.",
-"tier": "B"
+"text": "Emails later released under FOIA show Elizondo drafting a memorandum to help Neill Tipton 'assume the new responsibilities for AATIP' — five years after the Department says the program ended."
 },
 {
+"claimTier": null,
 "date": "2019-05-07",
+"grade": "A",
 "id": "tl-2019-05-07-tipton-email",
 "label": "Tipton originates the denial formula",
 "precision": "day",
 "strand": "coverup",
-"text": "Internal email: Elizondo 'had no assigned responsibilities for this program.' A colleague warns the Department risks 'contradicting previous statements'; the chain closes with 'we will have to keep our messages in synch.'",
-"tier": "A"
+"text": "Internal email: Elizondo 'had no assigned responsibilities for this program.' A colleague warns the Department risks 'contradicting previous statements'; the chain closes with 'we will have to keep our messages in synch.'"
 }
 ],
 "unexplainedResidual": null,

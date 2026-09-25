@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -140,9 +141,7 @@
 "deg": 5,
 "denials": [],
 "desc": "RIAS is the cleanest documented instance on this board of an aerospace prime setting up a research institute to study gravitation, and the documentation is a participants list and a dated letter rather than an allegation. The 1957 Chapel Hill conference on the role of gravitation in physics prints two of its staff among the attendees -- 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore' -- and the institutional style there is corporate: RIAS, Inc., a company in Baltimore, in a room otherwise full of universities.\n\nIts purpose is stated by the executive who proposed it. George S. Trimble wrote to Bryce DeWitt on 10 June 1955 that 'our industry was vitally concerned with gravity' and that 'At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity', describing the proposed body as an 'industrial version of the Institute for Advanced Study'. The conference report that names RIAS is itself WADC Technical Report 57-216, produced under a funding agreement with the Wright Air Development Center.\n\nGrade it honestly. This is a corporate research institute that studied gravitation, and nothing read shows it producing gravity-control results -- the Chapel Hill participants recorded their own concern about 'the absolute necessity to avoid identification with so-called anti-gravity research', and Louis Witten's documented output is classical general relativity. Its value here is the chain and the date, not a result.",
-"domains": [
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -156,7 +155,11 @@
 "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "1957-01-23",
@@ -176,25 +179,30 @@
 ],
 "sub": "The Glenn L. Martin Company's industrial research institute, Baltimore; gravitation was explicitly its subject",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 819 of 1170, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 820 of 1170, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1955-06-10",
+"grade": "B",
 "id": "tl-1955-trimble-rias",
 "label": "An aerospace prime proposes an institute to study gravity",
 "precision": "day",
 "strand": "program",
-"text": "George S. Trimble of the Glenn L. Martin Company writes to Bryce DeWitt that 'our industry was vitally concerned with gravity' and that respectable researchers 'do not wish to get mixed up in the field of gravity research'. He proposes an 'industrial version of the Institute for Advanced Study'. RIAS, Inc. of Baltimore is the result; Louis Witten is its first researcher.",
-"tier": "B"
+"text": "George S. Trimble of the Glenn L. Martin Company writes to Bryce DeWitt that 'our industry was vitally concerned with gravity' and that respectable researchers 'do not wish to get mixed up in the field of gravity research'. He proposes an 'industrial version of the Institute for Advanced Study'. RIAS, Inc. of Baltimore is the result; Louis Witten is its first researcher."
 },
 {
+"claimTier": null,
 "date": "1957-01-18",
+"grade": "B",
 "id": "tl-1957-chapel-hill",
 "label": "RIAS at the Chapel Hill gravitation conference",
 "precision": "day",
 "strand": "program",
-"text": "The participants list of the conference on the role of gravitation in physics prints 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore'. The conference report is WADC Technical Report 57-216, produced under a funding agreement with the Wright Air Development Center. The participants record their own concern to avoid identification with anti-gravity research.",
-"tier": "B"
+"text": "The participants list of the conference on the role of gravitation in physics prints 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore'. The conference report is WADC Technical Report 57-216, produced under a funding agreement with the Wright Air Development Center. The participants record their own concern to avoid identification with anti-gravity research."
 }
+],
+"unverified": [
+"RIAS's founding date and founder are NOT established from a primary record and dateStart is null. The '1955, by George Bunker' attribution appears only in encyclopedia summaries and was not opened; Trimble's June 1955 letter describes the institute as still proposed, which is consistent with 1955 but does not establish it. The corporate succession from the Glenn L. Martin Company through Martin Marietta to Lockheed Martin was not read off any document, and the edge to lockheed-martin is graded Tier 3 for that reason alone."
 ]
 }

@@ -42,6 +42,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -134,9 +135,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The CIA programme that built a purpose-designed heavy-lift ship under a deep-ocean mining cover and used it in August 1974 to raise part of a Soviet ballistic missile submarine lost in the Pacific in March 1968. Its own 50-page internal history was released under FOIA and stamped for release on 4 January 2010. The history is on this board for the mechanism rather than the salvage: covert recovery of foreign hardware from the deep ocean under commercial cover, with a named corporate front, and with Freedom of Information Act litigation named inside the operation's own account of what it had been forced to concede.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -150,7 +149,11 @@
 "label": "Project AZORIAN and the Hughes Glomar Explorer",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project AZORIAN and the Hughes Glomar Explorer",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "2010-01-04",
@@ -165,6 +168,7 @@
 ],
 "sub": "CIA deep-ocean recovery programme under a Hughes mining cover; its own 50-page internal history released 4 January 2010",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 131 of 1170, score 55). 4 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 132 of 1170, score 55). 4 connections, 2 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"timeline": [],
+"unverified": []
 }

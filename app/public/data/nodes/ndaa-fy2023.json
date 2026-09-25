@@ -92,6 +92,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -163,11 +164,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 is Public Law 117-263, enacted from H.R. 7776 and approved 23 December 2022 at 136 Stat. 2395. Buried inside a routine defence authorisation of more than a thousand pages is the single most consequential piece of UAP law on this board: it rewrote 50 U.S.C. 3373 to stand up the All-domain Anomaly Resolution Office under the Secretary of Defense in coordination with the Director of National Intelligence, within 120 days of enactment. The statute obliges that office to standardise collection and reporting of unidentified anomalous phenomena across the entire Defense and intelligence enterprise, to coordinate with the FAA, NASA and DHS, to run field investigations, to report to Congress in both classified and unclassified form, and - the provision that matters most here - to compile a historical record of US Government involvement with UAP reaching back to 1 January 1945. Congress does not order a seventy-eight-year retrospective historical record of an agency that has nothing to look back on; the 1945 start date is the year of Trinity and of the earliest incidents alleged in the recovery narrative, and it was chosen by legislators who had by then been briefed in closed session. The Act is therefore both the legal instrument that created AARO and, read as an artifact, a congressional acknowledgement that a concealed institutional history exists and needs to be reconstructed. Section 3373 has been amended repeatedly since - by Pub. L. 118-31 and Pub. L. 119-60 - which is the legislative signature of a fight that did not end when the office was created.",
-"domains": [
-"_rs-legislation",
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "Public Law 117-263 carries UAP provisions in two separate divisions. Division A, Title XVI: sec. 1673, note 50 U.S.C. 3373b, UAP reporting procedures (136 Stat. 2959-2962) - the authorized-disclosure channel, the NDA and Atomic Energy Act override, the anti-reprisal rule, the 72-hour congressional notification for disclosures touching unreported SAPs, and the NDA-identification duty extending to federal contractors. Division F (Intelligence Authorization Act for FY2023), Title LXVIII: sec. 6802, rewriting 50 U.S.C. 3373 in full to establish the All-domain Anomaly Resolution Office, fix its reporting chain to the Deputy Secretary of Defense and the Principal Deputy DNI, and insert the definitions at 50 U.S.C. 3373(n)(7)-(8) (136 Stat. 3586-3593); sec. 6803, note 50 U.S.C. 3373 note, Comptroller General audits and briefings on the UAP Historical Record Report (136 Stat. 3594).",
@@ -190,7 +187,13 @@
 "label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
+"sourceFiles": [
+"_rs-legislation",
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2022-12-23",
@@ -205,25 +208,28 @@
 ],
 "sub": "authorizing-statutes",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 177 of 1170, score 48). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 176 of 1170, score 48). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-12-23",
+"grade": "A",
 "id": "g-tl-2022-12-ndaa",
 "label": "FY2023 NDAA UAP whistleblower protections enacted",
 "precision": "day",
 "strand": "oversight",
-"text": "The FY2023 National Defense Authorization Act includes provisions permitting authorized UAP disclosures without retaliation regardless of prior nondisclosure agreements. The Debrief reports Grusch helped draft the language.",
-"tier": "A"
+"text": "The FY2023 National Defense Authorization Act includes provisions permitting authorized UAP disclosures without retaliation regardless of prior nondisclosure agreements. The Debrief reports Grusch helped draft the language."
 },
 {
+"claimTier": null,
 "date": "2022-12-23",
+"grade": "A",
 "id": "tl-2022-12-23-pl117263",
 "label": "FY2023 NDAA creates AARO and the whistleblower channel",
 "precision": "day",
 "strand": "program",
-"text": "Public Law 117-263 is approved. Section 1673 (50 U.S.C. 3373b) creates a secure authorized-reporting mechanism covering federal and contractor activity involving 'material retrieval, material analysis, reverse engineering', voids nondisclosure agreements as against authorized disclosures, overrides EO 13526 and Atomic Energy Act chapter 18 restrictions, and bans reprisal including clearance revocation. Division F sec. 6802 rewrites 50 U.S.C. 3373 to establish the All-domain Anomaly Resolution Office and inserts the statutory definitions of 'unidentified anomalous phenomena' and 'transmedium objects or devices'.",
-"tier": "A"
+"text": "Public Law 117-263 is approved. Section 1673 (50 U.S.C. 3373b) creates a secure authorized-reporting mechanism covering federal and contractor activity involving 'material retrieval, material analysis, reverse engineering', voids nondisclosure agreements as against authorized disclosures, overrides EO 13526 and Atomic Energy Act chapter 18 restrictions, and bans reprisal including clearance revocation. Division F sec. 6802 rewrites 50 U.S.C. 3373 to establish the All-domain Anomaly Resolution Office and inserts the statutory definitions of 'unidentified anomalous phenomena' and 'transmedium objects or devices'."
 }
-]
+],
+"unverified": []
 }

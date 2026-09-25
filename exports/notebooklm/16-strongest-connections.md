@@ -1,6 +1,6 @@
 # The strongest connections on the board
 
-The board holds 2762 hand written links between its nodes. These are the hundred that combine the best evidenced link tier with the two best placed and most connected nodes at either end, each told as a short paragraph with the note somebody wrote when they made the link and the sources it rests on.
+The board holds 2803 hand written links between its nodes. These are the hundred that combine the best evidenced link tier with the two best placed and most connected nodes at either end, each told as a short paragraph with the note somebody wrote when they made the link and the sources it rests on.
 
 ## 1. All-domain Anomaly Resolution Office (AARO) and David Charles Grusch
 
@@ -32,7 +32,7 @@ Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board t
 
 The DIRDs are the contract's deliverables. DIA Talking Paper U-973-09 records that the RFP broke the work into twelve technical areas - lift, propulsion, control, armament, signature reduction and the rest - and the Defense Intelligence Reference Documents are the products those areas were delivered as. Every one of the 32 series-member edges was verified against the released PDF's cover page on 22 August 2026.
 
-Sources: FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/, dated 2008-08-18; DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/, dated 2010.
+Sources: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/; FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/, dated 2008-08-18.
 
 ## 5. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and David Charles Grusch
 
@@ -212,11 +212,9 @@ Sources: DefenseScoop - Pentagon's UAP investigation chief to depart Dec. 1, htt
 
 ## 27. Advanced Aerospace Weapon System Applications Program (AAWSAP) and Bigelow Aerospace Advanced Space Studies (BAASS), LLC
 
-Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board tier A, 59 connections) is joined to Bigelow Aerospace Advanced Space Studies (BAASS), LLC (institution, board tier A, 19 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: HHM402-08-C-0072, sole bid, signed 22 Sep 2008.
+Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board tier A, 59 connections) is joined to Bigelow Aerospace Advanced Space Studies (BAASS), LLC (institution, board tier A, 19 connections) by a funding link recorded at Tier 1 documented. The link is labelled: HHM402-08-C-0072, sole bid, signed 22 Sep 2008.
 
-BAASS was the only bidder and the performer. DIA's own record: 'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive.' A twelve-technical-area solicitation drawing a single bid is itself a fact about how the work was scoped.
-
-Sources: FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/, dated 2008-08-18; DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/, dated 2010.
+Sources: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/
 
 ## 28. David Charles Grusch and Nancy Ruth Mace
 
@@ -228,11 +226,9 @@ Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), ht
 
 ## 29. Advanced Aerospace Weapon System Applications Program (AAWSAP) and Harry M. Reid
 
-Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board tier A, 59 connections) is joined to Harry M. Reid (person, board tier A, 17 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: co-sponsored FY2008 supplemental $10M add with Sen. Inouye.
+Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board tier A, 59 connections) is joined to Harry M. Reid (person, board tier A, 17 connections) by a funding link recorded at Tier 1 documented. The link is labelled: co-sponsored FY2008 supplemental $10M add with Sen. Inouye.
 
-He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on.
-
-Sources: Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/, dated 2009-06-24; USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/, dated 2009.
+Sources: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/
 
 ## 30. David Charles Grusch and Garry Nolan
 
@@ -268,11 +264,9 @@ Sources: DefenseScoop, https://defensescoop.com/2026/05/27/rep-eric-burlison-req
 
 ## 34. Advanced Aerospace Threat Identification Program (AATIP / AAITP) and Advanced Aerospace Weapon System Applications Program (AAWSAP)
 
-Advanced Aerospace Threat Identification Program (AATIP / AAITP) (program, board tier A, 14 connections) is joined to Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board tier A, 59 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: AAWSAP is the official name; AATIP/AAITP is Reid's name for it.
+Advanced Aerospace Threat Identification Program (AATIP / AAITP) (program, board tier A, 14 connections) is joined to Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board tier A, 59 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: AAWSAP is the official name; AATIP/AAITP is Reid's name for it.
 
-Elizondo's account is that AATIP grew out of AAWSAP; AARO's 2024 historical report treats 2009 as the standup year for both. The Department has treated them as one contract and two labels, alternately.
-
-Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; Blue Blurry Lines, https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html, dated 2021-05-21.
+Sources: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/
 
 ## 35. Advanced Aerospace Weapon System Applications Program (AAWSAP) and New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'
 
@@ -306,15 +300,7 @@ AARO describes KONA BLUE as a proposed UAP recovery and reverse-engineering SAP 
 
 Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 
-## 39. David Fravor and David Charles Grusch
-
-David Fravor (person, board tier A, 5 connections) is joined to David Charles Grusch (person, board tier A, 67 connections) by a witness-chain link recorded at Tier 1 documented. The link is labelled: Co-witness, 26 July 2023 hearing panel. It is dated 2023.
-
-Fravor testified alongside Grusch and Graves, providing the operational encounter testimony that framed Grusch's programmatic allegations for the committee.
-
-Sources: House Oversight hearing transcript, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf, dated 2023-07-26.
-
-## 40. All-domain Anomaly Resolution Office (AARO) and Jon T. Kosloski
+## 39. All-domain Anomaly Resolution Office (AARO) and Jon T. Kosloski
 
 All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to Jon T. Kosloski (person, board tier A, 10 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Director of AARO from August 2024. It is dated 2024.
 
@@ -322,7 +308,7 @@ Kosloski was named AARO's full-time director in August 2024 and testified before
 
 Sources: AARO - Kosloski Statement for the Record, SASC (PDF), https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf, dated 2024-11-19; The Debrief - 'We do have some very anomalous objects', https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/, dated 2024-11-19; AARO - FY2024 Consolidated Annual Report on UAP (PDF), https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF, dated 2024-11-14; AARO - FY2025 Consolidated Annual Report on UAP (PDF), https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf, dated 2026-07-21; AARO - Congressional/Press Products index, https://www.aaro.mil/Congressional-Press-Products/, dated 2026-08-12; DefenseScoop - Top NSA researcher tapped to lead Pentagon's UAP investigation hub, https://defensescoop.com/2024/08/26/leader-pentagon-uap-investigation-hub-jon-kosloski/, dated 2024-08-26.
 
-## 41. All-domain Anomaly Resolution Office (AARO) and ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver
+## 40. All-domain Anomaly Resolution Office (AARO) and ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver
 
 All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver (document, board tier A, 10 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: designates AARO as a receiving channel for waived-NDA testimony. It is dated 2026-08-01.
 
@@ -330,7 +316,7 @@ Witnesses are told that NDAs, agreements, oaths or commitments are waived 'when 
 
 Sources: ODNI Memorandum ES 2026-00818, https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf, dated 2026-08-01.
 
-## 42. David Charles Grusch and FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)
+## 41. David Charles Grusch and FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)
 
 David Charles Grusch (person, board tier A, 67 connections) is joined to FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b) (legislation, board tier A, 4 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: The statute legislates the exact programme category he alleges. It is dated 2022.
 
@@ -338,23 +324,23 @@ Sec. 1673(a)(1)(B) creates a reporting channel for programmes involving 'materia
 
 Sources: P.L. 117-263, GPO, https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm, dated 2022-12-23.
 
-## 43. All-domain Anomaly Resolution Office (AARO) and AARO FY2024 Consolidated Annual Report on UAP
+## 42. All-domain Anomaly Resolution Office (AARO) and AARO FY2024 Consolidated Annual Report on UAP
 
-All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to AARO FY2024 Consolidated Annual Report on UAP (document, board tier A, 8 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Second annual report, 14 November 2024.
+All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to AARO FY2024 Consolidated Annual Report on UAP (document, board tier A, 8 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Second annual report, 14 November 2024. It is dated 2024.
 
 757 new reports, 1,652 total, 118 cases resolved, and the first appearance of the standing sentence on no evidence of extraterrestrial beings, activity or technology.
 
 Sources: AARO - FY2024 Consolidated Annual Report on UAP (PDF), https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF, dated 2024-11-14; AARO - Congressional/Press Products index, https://www.aaro.mil/Congressional-Press-Products/, dated 2026-08-12.
 
-## 44. Advanced Aerospace Weapon System Applications Program (AAWSAP) and James T. Lacatski
+## 43. Advanced Aerospace Weapon System Applications Program (AAWSAP) and James T. Lacatski
 
-Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board tier A, 59 connections) is joined to James T. Lacatski (person, board tier A, 10 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: AAWSA Program Manager (name redacted in release).
+Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board tier A, 59 connections) is joined to James T. Lacatski (person, board tier A, 10 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: Government Project Leader. It is dated 2008 to 2012.
 
 Named unredacted as Government Project Leader on the public DIA solicitation HHM402-08-R-0211; redacted under 10 USC 424 in every later release.
 
 Sources: The Black Vault, AAWSAP Original Bid Solicitation, https://www.theblackvault.com/documentarchive/advanced-aerospace-weapon-systems-applications-program-aawsap-original-bid-solicitation/, dated 2008-08-18.
 
-## 45. All-domain Anomaly Resolution Office (AARO) and Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports
+## 44. All-domain Anomaly Resolution Office (AARO) and Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports
 
 All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports (legislation, board tier A, 7 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: establishes the office.
 
@@ -362,7 +348,7 @@ Sec. 6802 does not create AARO alongside anything: it amends section 1683 of the
 
 Sources: Pub. L. 117-263 (James M. Inhofe NDAA for FY2023) sec. 6802, enacted text read from govinfo on 22 August 2026, https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm, dated 2026-08-22.
 
-## 46. All-domain Anomaly Resolution Office (AARO) and AARO Historical Record Report, Volume II (unpublished)
+## 45. All-domain Anomaly Resolution Office (AARO) and AARO Historical Record Report, Volume II (unpublished)
 
 All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to AARO Historical Record Report, Volume II (unpublished) (document, board tier A, 6 connections) by a denial link recorded at Tier 1 documented. The link is labelled: the office has not published the volume it committed to for over two years. It is dated 2024.
 
@@ -370,7 +356,7 @@ Promised in Volume I, deferred by the Pentagon in August 2024, promised 'within 
 
 Sources: DefenseScoop - New AARO chief unveils annual caseload analysis, https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/, dated 2024-11-14; Department of War release index, https://www.war.gov/UFO/, dated 2026-08-12.
 
-## 47. All-domain Anomaly Resolution Office (AARO) and The misappropriation allegation: Grusch's ICIG complaint and sworn testimony
+## 46. All-domain Anomaly Resolution Office (AARO) and The misappropriation allegation: Grusch's ICIG complaint and sworn testimony
 
 All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to The misappropriation allegation: Grusch's ICIG complaint and sworn testimony (event, board tier A, 6 connections) by a denial link recorded at Tier 1 documented. The link is labelled: AARO's reports address the retrieval claims and say nothing about the funding claims. It is dated 2024-03-08.
 
@@ -378,7 +364,7 @@ The AARO Historical Record Report Volume I (March 2024) and the FY2025 Consolida
 
 Sources: AARO Historical Record Report Vol. I, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 
-## 48. All-domain Anomaly Resolution Office (AARO) and United States Department of Homeland Security
+## 47. All-domain Anomaly Resolution Office (AARO) and United States Department of Homeland Security
 
 All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to United States Department of Homeland Security (institution, board tier A, 5 connections) by a investigative link recorded at Tier 1 documented. The link is labelled: AARO's SAP review extended to the DHS control office enterprise. It is dated 2022-07 to 2024-03.
 
@@ -386,7 +372,7 @@ AARO names DHS as the third SAP control office enterprise with which it partnere
 
 Sources: AARO Historical Record Report Volume I (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08.
 
-## 49. All-domain Anomaly Resolution Office (AARO) and DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)
+## 48. All-domain Anomaly Resolution Office (AARO) and DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)
 
 All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109) (document, board tier A, 5 connections) by a investigative link recorded at Tier 1 documented. The link is labelled: The IG found no department-wide UAP policy and component-level stovepipes.
 
@@ -394,7 +380,7 @@ Eighteen months after AARO was made the Department's authoritative UAP office, t
 
 Sources: DoD OIG press release - Evaluation of the DoD's Actions Regarding UAP, https://www.dodig.mil/In-the-Spotlight/Article/3656428/press-release-evaluation-of-the-dods-actions-regarding-unidentified-anomalous-p/, dated 2024-01-25; DoD OIG - Evaluation of the DoD's Actions Regarding UAP (DODIG-2023-109), https://www.dodig.mil/Reports/Audits-and-Evaluations/Article/3496071/evaluation-of-the-dods-actions-regarding-unidentified-anomalous-phenomena-dodig/, dated 2023-08-15; DoD OIG unclassified summary, https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF, dated 2024-01-25.
 
-## 50. All-domain Anomaly Resolution Office (AARO) and NDAA FY2026 UAP provisions (Secs. 1671-1673)
+## 49. All-domain Anomaly Resolution Office (AARO) and NDAA FY2026 UAP provisions (Secs. 1671-1673)
 
 All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to NDAA FY2026 UAP provisions (Secs. 1671-1673) (legislation, board tier A, 5 connections) by a legislative link recorded at Tier 1 documented. The link is labelled: Directs AARO to brief on NORAD/NORTHCOM UAP intercepts back to 2004 and account for its classification guides. It is dated 2025.
 
@@ -402,7 +388,7 @@ Congress required AARO to brief on NORAD/USNORTHCOM UAP intercepts since 2004 an
 
 Sources: DefenseScoop: Congress wants to know more about the military's UAP intercepts around North America, https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/, dated 2025-12-10.
 
-## 51. All-domain Anomaly Resolution Office (AARO) and Oak Ridge National Laboratory (UT-Battelle, LLC)
+## 50. All-domain Anomaly Resolution Office (AARO) and Oak Ridge National Laboratory (UT-Battelle, LLC)
 
 All-domain Anomaly Resolution Office (AARO) (institution, board tier A, 61 connections) is joined to Oak Ridge National Laboratory (UT-Battelle, LLC) (institution, board tier A, 5 connections) by a custody link recorded at Tier 1 documented. The link is labelled: AARO contracted ORNL in 2022 to test the magnesium alloy specimen. It is dated 2022 to 2024.
 
@@ -410,7 +396,7 @@ AARO's own words: 'In 2022, The All-domain Anomaly Resolution Office (AARO) cont
 
 Sources: AARO UAP Records, https://www.aaro.mil/UAP-Records/, dated 2026-07-08.
 
-## 52. Advanced Aerospace Weapon System Applications Program (AAWSAP) and Antigravity for Aerospace Applications
+## 51. Advanced Aerospace Weapon System Applications Program (AAWSAP) and Antigravity for Aerospace Applications
 
 Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board tier A, 59 connections) is joined to Antigravity for Aerospace Applications (document, board tier A, 7 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: deliverable under AAWSAP.
 
@@ -418,7 +404,7 @@ The released document names the programme itself. Its inside cover reads 'This p
 
 Sources: documents2.theblackvault.com, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf; DIA FOIA Reading Room, Antigravity for Aerospace Applications (PDF), https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2010-03-30.
 
-## 53. Advanced Aerospace Weapon System Applications Program (AAWSAP) and Skinwalker Ranch, Uintah Basin, Utah
+## 52. Advanced Aerospace Weapon System Applications Program (AAWSAP) and Skinwalker Ranch, Uintah Basin, Utah
 
 Advanced Aerospace Weapon System Applications Program (AAWSAP) (program, board tier A, 59 connections) is joined to Skinwalker Ranch, Uintah Basin, Utah (location, board tier A, 7 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: funded field investigation of the Utah site. It is dated 2008 to 2012.
 
@@ -426,7 +412,7 @@ AARO confirms the investigation; DIA says it cannot locate the resulting 'Utah R
 
 Sources: AARO Historical Record Report Volume 1, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF, dated 2024-03-08; The UFO Trail, https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html, dated 2022-03-01.
 
-## 54. Eric Burlison and Luis D. Elizondo
+## 53. Eric Burlison and Luis D. Elizondo
 
 Eric Burlison (person, board tier A, 28 connections) is joined to Luis D. Elizondo (person, board tier A, 38 connections) by a investigative link recorded at Tier 1 documented. The link is labelled: Burlison read the Lockheed-Bigelow-CIA reporting into the record and obtained confirmation. It is dated 2024.
 
@@ -434,7 +420,7 @@ Burlison named the journalist, described the transfer, asked the witness to conf
 
 Sources: House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440), https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm, dated 2024-11-13.
 
-## 55. AARO FY2025 Consolidated Annual Report on UAP and United States Department of Defense (secondary designation: Department of War)
+## 54. AARO FY2025 Consolidated Annual Report on UAP and United States Department of Defense (secondary designation: Department of War)
 
 AARO FY2025 Consolidated Annual Report on UAP (document, board tier A, 18 connections) is joined to United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) by a denial link recorded at Tier 1 documented. The link is labelled: 'No evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials'. It is dated 2026.
 
@@ -442,7 +428,7 @@ A categorical negative issued by the office whose access to waived and unacknowl
 
 Sources: AARO FY2025 Consolidated Annual Report on UAP (PDF), https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf, dated 2026-07-20.
 
-## 56. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and Lockheed Martin Corporation
+## 55. AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I and Lockheed Martin Corporation
 
 AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (document, board tier A, 32 connections) is joined to Lockheed Martin Corporation (institution, board tier A, 31 connections) by a denial link recorded at Tier 1 documented. The link is labelled: Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record. It is dated 2024.
 
@@ -450,7 +436,7 @@ AARO states it met high-ranking officials of the companies named by interviewees
 
 Sources: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf, dated 2024-03-08.
 
-## 57. The 38 Defense Intelligence Reference Documents (DIRDs) and Eric W. Davis
+## 56. The 38 Defense Intelligence Reference Documents (DIRDs) and Eric W. Davis
 
 The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) is joined to Eric W. Davis (person, board tier A, 22 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: authored five of the 38 DIRDs. It is dated 2008 to 2010.
 
@@ -458,7 +444,7 @@ Items 8, 11, 14, 31 and 34, wormholes, antigravity, quantum vacuum energy, laser
 
 Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
 
-## 58. United States Department of Defense (secondary designation: Department of War) and DoD Special Access Program Central Office (DoD SAPCO)
+## 57. United States Department of Defense (secondary designation: Department of War) and DoD Special Access Program Central Office (DoD SAPCO)
 
 United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) is joined to DoD Special Access Program Central Office (DoD SAPCO) (institution, board tier A, 18 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: Central SAP management office under the Deputy Secretary of Defense. It is dated 1994.
 
@@ -466,7 +452,7 @@ DoDD 5205.07 (12 Sep 2024) places DoD SAPCO 'under the authority, direction, and
 
 Sources: DoD Directive 5205.07, Special Access Program (SAP) Policy, https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf, dated 2024-09-12.
 
-## 59. United States Department of Defense (secondary designation: Department of War) and Immaculate Constellation disclosure, October-November 2024
+## 58. United States Department of Defense (secondary designation: Department of War) and Immaculate Constellation disclosure, October-November 2024
 
 United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) is joined to Immaculate Constellation disclosure, October-November 2024 (event, board tier A, 18 connections) by a denial link recorded at Tier 1 documented. The link is labelled: DoD spokesperson Sue Gough: no record of any SAP by that name. It is dated 2024.
 
@@ -474,7 +460,7 @@ United States Department of Defense (secondary designation: Department of War) (
 
 Sources: House Oversight - Shellenberger written testimony (PDF), https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf, dated 2024-11-13.
 
-## 60. United States Department of Defense (secondary designation: Department of War) and Timothy Floyd Burchett
+## 59. United States Department of Defense (secondary designation: Department of War) and Timothy Floyd Burchett
 
 United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) is joined to Timothy Floyd Burchett (person, board tier A, 16 connections) by a denial link recorded at Tier 1 documented. The link is labelled: Denied members SCIF access to Grusch before the founding hearing. It is dated 2023.
 
@@ -482,15 +468,15 @@ Burchett's opening statement: members 'were even denied access to a classified b
 
 Sources: U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26.
 
-## 61. United States Department of Defense (secondary designation: Department of War) and 10 U.S.C. 119, Special Access Programs: Congressional Oversight
+## 60. United States Department of Defense (secondary designation: Department of War) and 10 U.S.C. 119 - Special Access Programs: Congressional Oversight
 
-United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) is joined to 10 U.S.C. 119, Special Access Programs: Congressional Oversight (legislation, board tier A, 16 connections) by a legislative link recorded at Tier 1 documented. The link is labelled: Imposes the entire SAP reporting duty on the Secretary of Defense. It is dated 1987-12-04.
+United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) is joined to 10 U.S.C. 119 - Special Access Programs: Congressional Oversight (legislation, board tier A, 16 connections) by a legislative link recorded at Tier 1 documented. The link is labelled: Imposes the entire SAP reporting duty on the Secretary of Defense. It is dated 1987-12-04.
 
 Section 119 runs to 'the Secretary of Defense' alone; no subordinate official, program manager or contractor is an obligor under it.
 
 Sources: 10 U.S.C. 119, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-12.
 
-## 62. Bigelow Aerospace Advanced Space Studies (BAASS), LLC and The 38 Defense Intelligence Reference Documents (DIRDs)
+## 61. Bigelow Aerospace Advanced Space Studies (BAASS), LLC and The 38 Defense Intelligence Reference Documents (DIRDs)
 
 Bigelow Aerospace Advanced Space Studies (BAASS), LLC (institution, board tier A, 19 connections) is joined to The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: prime contractor that commissioned and delivered the 38 DIRDs. It is dated 2008 to 2010.
 
@@ -498,7 +484,7 @@ BAASS subcontracted the reports to EarthTech, Lockheed Martin, and a dozen unive
 
 Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
 
-## 63. Eric Burlison and Waived SAP Notification Group
+## 62. Eric Burlison and Waived SAP Notification Group
 
 Eric Burlison (person, board tier A, 28 connections) is joined to Waived SAP Notification Group (institution, board tier A, 31 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: no statutory entitlement; not a defense committee chair or ranking member.
 
@@ -506,7 +492,7 @@ Burlison is not listed among the members of the House Armed Services Committee a
 
 Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022), https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm, dated 2023-07-26; https://armedservices.house.gov/about/members.htm, https://armedservices.house.gov/about/members.htm
 
-## 64. PURSUE - Presidential Unsealing and Reporting System for UAP Encounters and The Sol Foundation
+## 63. PURSUE - Presidential Unsealing and Reporting System for UAP Encounters and The Sol Foundation
 
 PURSUE - Presidential Unsealing and Reporting System for UAP Encounters (program, board tier A, 40 connections) is joined to The Sol Foundation (institution, board tier A, 19 connections) by a behavioral link recorded at Tier 1 documented. The link is labelled: Sol issued press statements on each major PURSUE release. It is dated 2026.
 
@@ -514,7 +500,7 @@ Sol published statements dated 9 May, 22 May and 10 July 2026 responding to the 
 
 Sources: The Sol Foundation - News & Events, https://thesolfoundation.org/news-and-events/, dated 2026-08-12.
 
-## 65. Anna Paulina Luna and Waived SAP Notification Group
+## 64. Anna Paulina Luna and Waived SAP Notification Group
 
 Anna Paulina Luna (person, board tier A, 26 connections) is joined to Waived SAP Notification Group (institution, board tier A, 31 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: no statutory entitlement; not a defense committee chair or ranking member.
 
@@ -522,7 +508,7 @@ Luna is not listed among the members of the House Armed Services Committee and d
 
 Sources: 10 U.S.C. 119, Special Access Programs: congressional oversight, subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim, dated 2026-08-22; U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat), https://www.senate.gov/legislative/DatesofSessionsofCongress.htm, dated 2026-08-22; Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10), https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/, dated 2026-08-10; https://armedservices.house.gov/about/members.htm, https://armedservices.house.gov/about/members.htm
 
-## 66. The 38 Defense Intelligence Reference Documents (DIRDs) and Harold E. Puthoff
+## 65. The 38 Defense Intelligence Reference Documents (DIRDs) and Harold E. Puthoff
 
 The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) is joined to Harold E. Puthoff (person, board tier A, 16 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: authored DIRD on vacuum/spacetime metric engineering. It is dated 2008 to 2010.
 
@@ -530,7 +516,7 @@ Item 5 on DIA's transmittal list; the closest thing in the released set to a the
 
 Sources: DIA letter to SASC, https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf, dated 2018-01-09.
 
-## 67. Lockheed Martin Corporation and UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)
+## 66. Lockheed Martin Corporation and UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)
 
 Lockheed Martin Corporation (institution, board tier A, 31 connections) is joined to UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA) (legislation, board tier A, 26 connections) by a legislative link recorded at Tier 1 documented. The link is labelled: The Senate voted to seize privately held recovered technology by eminent domain. It is dated 2023.
 
@@ -538,7 +524,7 @@ The Senate passed Division I of the NDAA on 27 July 2023 including Sec. 9010, an
 
 Sources: H.R. 2670, NDAA FY2024 as passed by the Senate, Division I - Unidentified Anomalous Phenomena Disclosure Act of 2023 (Sec. 9001-9010), https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm, dated 2023-07-27.
 
-## 68. Central Intelligence Agency and National Archives Unidentified Anomalous Phenomena Records Collection
+## 67. Central Intelligence Agency and National Archives Unidentified Anomalous Phenomena Records Collection
 
 Central Intelligence Agency (institution, board tier A, 43 connections) is joined to National Archives Unidentified Anomalous Phenomena Records Collection (institution, board tier A, 13 connections) by a denial link recorded at Tier 1 documented. The link is labelled: Produced no records for the first statutory UAP transfer. It is dated 2025-04-24.
 
@@ -546,13 +532,21 @@ NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regul
 
 Sources: National Archives press release nr25-07, https://www.archives.gov/press/press-releases/2025/nr25-07, dated 2025-04-24.
 
-## 69. Central Intelligence Agency and Robertson Panel
+## 68. Central Intelligence Agency and Robertson Panel
 
 Central Intelligence Agency (institution, board tier A, 43 connections) is joined to Robertson Panel (program, board tier A, 13 connections) by a funding link recorded at Tier 1 documented. The link is labelled: CIA convened and sponsored the panel, and concealed that sponsorship. It is dated 1953.
 
 The panel was convened by the Office of Scientific Intelligence. The CIA's own history states that any mention of Agency sponsorship of the panel was forbidden.
 
 Sources: Haines, CIA's Role in the Study of UFOs, 1947-1990, https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/, dated 1997-01-01; Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0), https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf, dated 1953-01-17.
+
+## 69. United States Department of Defense (secondary designation: Department of War) and SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme
+
+United States Department of Defense (secondary designation: Department of War) (institution, board tier A, 45 connections) is joined to SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme (program, board tier A, 11 connections) by a behavioral link recorded at Tier 1 documented. The link is labelled: opposite reporting posture: mandated versus stigmatised. It is dated 1980-01 to 1990.
+
+A January 1980 Directive of the Soviet General Staff obliged every serviceman to report any inexplicable phenomenon in writing and routed the results to a single analysis centre, putting the army 'into the on-duty regime of observation' for thirteen years. The contrast with the US chain of command over the same period, where reporting carried career risk and no service-wide collection mandate existed, is the comparison this node exists to make. The Soviet side of the comparison is documented by the programme's own coordinators; no institutional contact between the two is claimed.
+
+Sources: Stonehill & Mantle - Setka: A Secret Soviet UFO Research Program, https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf, dated 2010-11-19; Project Condign Volume 3 (UK MoD assessment of FSU activity), https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt, dated 2006-05-15; http://www.debunker.com/historical/HistoryRussianUFOlogy.html, http://www.debunker.com/historical/HistoryRussianUFOlogy.html
 
 ## 70. PURSUE - Presidential Unsealing and Reporting System for UAP Encounters and UAP Science Advisory Council
 
@@ -564,7 +558,7 @@ Sources: The Sol Foundation - UAP Science Advisory Council announcement, https:/
 
 ## 71. The 38 Defense Intelligence Reference Documents (DIRDs) and EarthTech International / Institute for Advanced Studies at Austin
 
-The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) is joined to EarthTech International / Institute for Advanced Studies at Austin (institution, board tier A, 14 connections) by a funding link recorded at Tier 1 documented. The link is labelled: largest single DIRD producer, six of 38. It is dated 2008 to 2010.
+The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) is joined to EarthTech International / Institute for Advanced Studies at Austin (institution, board tier A, 14 connections) by a funding link recorded at Tier 1 documented. The link is labelled: largest single DIRD producer - six of 38. It is dated 2008 to 2010.
 
 A small Austin firm produced more of the deliverable set than any university or defence prime, indicating a directed rather than competed distribution.
 
@@ -748,11 +742,9 @@ Sources: National Archives press release nr25-07, https://www.archives.gov/press
 
 ## 94. Antigravity for Aerospace Applications and The 38 Defense Intelligence Reference Documents (DIRDs)
 
-Antigravity for Aerospace Applications (document, board tier A, 7 connections) is joined to The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) by a programmatic link recorded at Tier 1 documented. The link is labelled: DIRD.
+Antigravity for Aerospace Applications (document, board tier A, 7 connections) is joined to The 38 Defense Intelligence Reference Documents (DIRDs) (document, board tier A, 41 connections) by a institutional link recorded at Tier 1 documented. The link is labelled: DIRD.
 
-Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-018. Publication date 30 March 2010 on the cover. 45 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.
-
-Sources: Released DIRD, 'Antigravity for Aerospace Applications' (FOIA copy, cover page read 22 August 2026), https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf, dated 2026-08-22; DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, dated 2026-08-22.
+Sources: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/, https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/
 
 ## 95. Harry M. Reid and Waived SAP Notification Group
 

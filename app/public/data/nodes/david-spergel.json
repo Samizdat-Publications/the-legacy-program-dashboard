@@ -186,8 +186,10 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"aviators-incidents",
-"scientists-technical"
+"d-aviators",
+"d-oversight",
+"d-research",
+"d-astro"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -208,6 +210,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "David N. Spergel",
+"sourceFiles": [
+"aviators-incidents",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2025-06-13",
@@ -248,7 +254,7 @@
 "status": "active",
 "sub": "Astrophysicist; President, Simons Foundation; Chair, NASA UAP Independent Study Team",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 547 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 543 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

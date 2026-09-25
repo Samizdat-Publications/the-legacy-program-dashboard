@@ -112,6 +112,7 @@
 ],
 "cls": "legislation",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -288,7 +289,7 @@
 "edgeLabel": "Reduced in conference to a bare funding limitation",
 "id": "pl118-31-sec-7343",
 "l0": false,
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "note": "Subsections (b), (d), (e) and (g) of Sec. 1102 — the sense of Congress, the contractor turn-in, the immunity grant and the notice to Congress — have no enacted counterpart in Sec. 7343.",
 "sources": [
 {
@@ -314,7 +315,7 @@
 "edgeLabel": "Dangling cross-reference dates the excision to conference",
 "id": "pl118-31-sec-7343",
 "l0": false,
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "note": "Enacted Sec. 7343(c) refers to 'contracts covered by such instruction' with no antecedent; the DoDI 3204.01 citation it depended on was deleted with Sec. 1102(f)(1).",
 "sources": [
 {
@@ -361,7 +362,7 @@
 "edgeLabel": "Two independent Senate routes at the same private holdings",
 "id": "uapda-sec-9010-eminent-domain",
 "l0": false,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "note": "Sec. 9010 takes the material by condemnation; Sec. 1102 compels its surrender by cutting off contract funding and granting immunity. Both passed the Senate on 27 July 2023; both were removed.",
 "sources": [
 {
@@ -385,11 +386,7 @@
 "deg": 9,
 "denials": [],
 "desc": "Warner's Section 1102 is the most direct legislative assault on contractor-held material ever passed by a chamber of Congress, and it is far less well known than the eminent domain clause. It opens with a sense of Congress that the Federal Government 'must expand awareness about any historical exotic technology antecedents previously provided by the Federal Government for research and development purposes' — a statement that the Government has previously handed exotic technology to industry. It then cuts off all funds for UAP activity under special or restricted access not 'formally, officially, explicitly, and specifically described, explained, and justified' to Congress and the AARO Director, enumerating six categories including personnel whose mission is 'capturing, recovering, and securing unidentified anomalous phenomena craft or pieces and components of such craft,' analysis to determine 'material composition, method of manufacture, origin,' 'reverse engineering or replicating unidentified anomalous phenomena technology,' and 'any aerospace craft that uses propulsion technology other than chemical propellants, solar power, or electric ion thrust.' Subsection (d) then requires any current or former Federal contractor holding such material to notify the AARO Director within 60 days and, within 180 days, to make available all of it plus 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.' Subsection (e) grants full civil and criminal immunity to those who comply. Subsection (f) disallows independent research and development funding on such material as an indirect expense unless it is surrendered, effective 60 days after enactment and applicable to money appropriated before as well as after. The Senate passed all of this on 27 July 2023.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation",
-"w11-statutory"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -519,7 +516,7 @@
 "hl": null,
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "locLabel": null,
 "members": [
 {
@@ -561,17 +558,23 @@
 {
 "cls": "legislation",
 "id": "pl118-31-sec-7343",
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "tier": "B"
 },
 {
 "cls": "document",
 "id": "uapda-sec-9010-eminent-domain",
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "IAA FY2024 Sec. 1102",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation",
+"w11-statutory"
+],
 "sources": [
 {
 "date": null,
@@ -686,6 +689,7 @@
 ],
 "sub": "Division M (Intelligence Authorization Act for FY2024) of S. 2226 as passed by the Senate, 27 Jul 2023; the same text is Sec. 1104 of S. 2103 as reported by SSCI, 22 Jun 2023. Turn-in mandate STRIPPED in conference; enacted as Sec. 7343, Div. G, P.L. 118-31 — a funding limitation only.",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 34 of 1170, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 36 of 1170, score 91). 10 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D3.",
+"timeline": [],
+"unverified": []
 }

@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -145,10 +146,7 @@
 "deg": 5,
 "denials": [],
 "desc": "On the night of 8 August 1980 three members of the 1608th Security Police Squadron at Kirtland Air Force Base - SSgt Stephen Ferenz, ATC Martin W. Rist and AMN Anthony D. Frazier - watched a very bright light approximately three miles north-north-east of their position perform stop-and-go manoeuvres inconsistent with a helicopter, descend into Coyote Canyon, and later depart straight up at high speed. Shortly after midnight a Sandia Laboratories security guard reported a round disc-shaped object near an alarmed structure, with his radio failing during the encounter. A further incident was recorded on 13 August. AFOSI Special Agent Richard C. Doty documented the reports on a complaint form dated 9 September 1980 under District File No. 8017D93-0/29, describing the 'alleged sighting of unidentified aerial lights in restricted test range'. Manzano is a nuclear weapons storage area. The case matters here because of who is in the file: an Air Force counterintelligence agent, a nuclear storage site security detachment, and a Department of Energy contractor laboratory's own guard force. Within a year the same AFOSI office was running material at Paul Bennewitz. The Kirtland file is where the anomalous-object record, the nuclear weapons complex and the disinformation apparatus visibly overlap.",
-"domains": [
-"dulce-2026-09-19",
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -162,7 +160,12 @@
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Kirtland AFB / Manzano Weapons Storage Area incident",
+"sourceFiles": [
+"dulce-2026-09-19",
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -177,25 +180,28 @@
 ],
 "sub": "8-9 August 1980, Coyote Canyon and Manzano, Kirtland AFB, New Mexico",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 360 of 1170, score 36). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 366 of 1170, score 36). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1980-08-08",
+"grade": "B",
 "id": "tl-1980-08-08-kirtland",
 "label": "Named 1608 SPS personnel report unidentified objects over Manzano",
 "precision": "day",
 "strand": "witness",
-"text": "SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier of the 1608 Security Police Squadron reported at approximately 2350 hrs on 8 August 1980; a Sandia security guard who requested anonymity reported at approximately 0020 hrs on 9 August. The record establishes that guards at a nuclear weapons storage area reported what they could not identify. It establishes nothing about what the objects were.",
-"tier": "B"
+"text": "SSGT Stephen Ferenz, area supervisor, ATC Martin W. Rist and AMN Anthony D. Frazier of the 1608 Security Police Squadron reported at approximately 2350 hrs on 8 August 1980; a Sandia security guard who requested anonymity reported at approximately 0020 hrs on 9 August. The record establishes that guards at a nuclear weapons storage area reported what they could not identify. It establishes nothing about what the objects were."
 },
 {
+"claimTier": null,
 "date": "1980-08-08",
+"grade": "A",
 "id": "tl-ffrdc-1980-kirtland",
 "label": "Kirtland AFB / Manzano incident",
 "precision": "day",
 "strand": "witness",
-"text": "Three 1608 SPS airmen watch an object make stop-and-go manoeuvres near the Manzano restricted test range, descend into Coyote Canyon and depart vertically at high speed; a Sandia security guard reports a disc near an alarmed structure hours later.",
-"tier": "A"
+"text": "Three 1608 SPS airmen watch an object make stop-and-go manoeuvres near the Manzano restricted test range, descend into Coyote Canyon and depart vertically at high speed; a Sandia security guard reports a disc near an alarmed structure hours later."
 }
-]
+],
+"unverified": []
 }

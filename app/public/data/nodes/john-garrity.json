@@ -55,7 +55,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"elizondo-ttsa"
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -76,6 +76,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "John Garrity",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2022-08-17",

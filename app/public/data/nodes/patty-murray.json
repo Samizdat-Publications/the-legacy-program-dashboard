@@ -59,9 +59,7 @@
 "dateStart": "2023-01-03",
 "deg": 1,
 "denials": [],
-"domains": [
-"w9-waived-sap-group"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -81,6 +79,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Patty Murray",
+"sourceFiles": [
+"w9-waived-sap-group"
+],
 "sources": [
 {
 "date": "2026-08-22",
@@ -101,7 +102,7 @@
 "status": "active",
 "sub": "Vice Chair, Senate Appropriations Committee (119th Congress, serving August 2026); Chairman of that committee in the 118th Congress including 2023",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 715 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 714 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

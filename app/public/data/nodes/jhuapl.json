@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "APL is the important exception in this domain, and the exception proves the mechanism. It is not an FFRDC: it is a University Affiliated Research Center, a distinct category established by the Department of Defense to preserve essential engineering and technical capability inside a university, without the FAR 35.017 sponsoring-agreement regime, the FFRDC funding ceilings, or the master-list registration that FFRDCs carry on the NSF's published inventory. Founded in 1942 to build the proximity fuze, APL has been the Navy's principal technical adviser ever since - strategic systems, missile defence, undersea warfare - and also runs major NASA missions. The distinction matters because the whistleblower record on legacy programmes is overwhelmingly Navy-centred: the UAP Task Force was Navy-led, the Nimitz and Roosevelt encounters were Navy, and the UAP Gerb allegations of August 2026 describe two Navy-spearheaded legacy programmes. A UARC is the one institutional form with FFRDC-like access and even less public registration. APL is catalogued here without any UAP claim attached; the point is that if the seam runs anywhere it runs at least as easily through a UARC as through an FFRDC, and no congressional letter has yet gone to one. That is a gap, not a finding.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -62,7 +61,11 @@
 "label": "Johns Hopkins University Applied Physics Laboratory",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Johns Hopkins University Applied Physics Laboratory",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -77,6 +80,7 @@
 ],
 "sub": "University Affiliated Research Center (UARC), not an FFRDC; Laurel, MD; est. 1942; principal Navy technical adviser",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 919 of 1170, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 918 of 1170, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [],
+"unverified": []
 }

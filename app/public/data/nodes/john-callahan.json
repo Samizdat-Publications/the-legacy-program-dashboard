@@ -165,9 +165,7 @@
 "dateStart": null,
 "deg": 4,
 "denials": [],
-"domains": [
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -187,6 +185,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "John Callahan",
+"sourceFiles": [
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -230,22 +231,24 @@
 "tierRationale": "Re-graded B on a global pass (rank 480 of 1170, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2000-10",
+"grade": "B",
 "id": "tl-2000-10-callahan-testimony",
 "label": "John Callahan's testimony recorded for the Disclosure Project",
 "precision": "month",
 "strand": "witness",
-"text": "Printed at section 3.8.2 under 'Testimony of FAA Division Chief John Callahan / October 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY ONLY; the case he describes has its own federal record and his claimed title does not.",
-"tier": "B"
+"text": "Printed at section 3.8.2 under 'Testimony of FAA Division Chief John Callahan / October 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY ONLY; the case he describes has its own federal record and his claimed title does not."
 },
 {
+"claimTier": null,
 "date": "2015-10-05",
+"grade": "C",
 "id": "tl-2015-10-05-dean-form-171",
 "label": "A researcher publishes Callahan's self-supplied OMB Form 171",
 "precision": "day",
 "strand": "witness",
-"text": "Paul Dean publishes an OMB Form 171 showing 'Division Mgr. Investigations/Evaluations', 'FAA ATS-1 Washington Headquarters', 'Oct. 1986 to present', stating that the originals were provided by Callahan himself in 2015. In part one of the same series Dean had reported his own negative finding: the public record showed a 'Quality Control Branch Manager' of the 'Quality Assurance Staff'.",
-"tier": "C"
+"text": "Paul Dean publishes an OMB Form 171 showing 'Division Mgr. Investigations/Evaluations', 'FAA ATS-1 Washington Headquarters', 'Oct. 1986 to present', stating that the originals were provided by Callahan himself in 2015. In part one of the same series Dean had reported his own negative finding: the public record showed a 'Quality Control Branch Manager' of the 'Quality Assurance Staff'."
 }
 ],
 "unexplainedResidual": null,

@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Japan is the clearest 2026 case of an American disclosure action propagating into an allied government. Within days of the first US Department of Defense UAP file release of 8 May 2026, Kyodo News reported on 9 May 2026 that footage disclosed by the United States showed a football-shaped object near Japan; The Japan Times reported on 11 May 2026 that Tokyo was analysing the Pentagon file trove for sightings near Japan; and on 13 May 2026 further coverage reported that the Japanese government had confirmed possession of UAP footage after reviewing the Pentagon videos taken near Japanese airspace, and that Japan would release UAP files of its own. Japan has no standing UAP office of the GEIPAN or SEFAA kind; its historical engagement with the subject is dominated by the Japan Air Lines flight 1628 encounter over Alaska on 17 November 1986, in which the Federal Aviation Administration's own investigation became a public controversy in the United States rather than in Japan. The 2026 sequence is therefore a step change and should be tracked closely.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -72,7 +71,11 @@
 "label": "Japan's review of the 2026 US UAP file releases",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Japan's review of the 2026 US UAP file releases",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-05-09",
@@ -90,13 +93,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1032 of 1170, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2026-05-13",
+"grade": null,
 "id": "tl-intl-2026-japan",
 "label": "Japan confirms it holds UAP footage",
 "precision": "day",
 "strand": "oversight",
-"text": "Following its review of the US release, coverage reports that the Japanese government has confirmed possession of UAP footage taken near Japanese airspace and that Japan will release files of its own. Japan has no standing UAP office of the GEIPAN or SEFAA kind.",
-"tier": 2
+"text": "Following its review of the US release, coverage reports that the Japanese government has confirmed possession of UAP footage taken near Japanese airspace and that Japan will release files of its own. Japan has no standing UAP office of the GEIPAN or SEFAA kind."
 }
-]
+],
+"unverified": []
 }

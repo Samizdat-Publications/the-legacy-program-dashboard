@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,10 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The building in which every institutional act in this domain occurred: OUSD(I)'s fifth-floor offices where Elizondo worked and where the New York Times placed AATIP; the office that produced the Reid memoranda and the 2019 messaging coordination; the public affairs shop that issued the Sherwood and Gough statements; and the parking lot in which, on Christopher Mellon's own account, three video files changed hands. In 2025 the Department was renamed the Department of War, and its web properties now resolve to war.gov — including the April 2020 statement authorising release of the videos.",
-"domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -63,7 +61,12 @@
 "label": "The Pentagon, Arlington, Virginia",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Pentagon, Arlington, Virginia",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2026-08-02",
@@ -83,6 +86,7 @@
 ],
 "sub": "Headquarters, U.S. Department of Defense / Department of War",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 629 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 628 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [],
+"unverified": []
 }

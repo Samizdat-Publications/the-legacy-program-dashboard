@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -94,7 +95,7 @@
 "edgeLabel": "Secs. 1841-1843 created RG 615 at the National Archives",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "The collection is the only concrete institution produced by the entire UAPDA fight.",
 "sources": [
 {
@@ -118,9 +119,7 @@
 "deg": 3,
 "denials": [],
 "desc": "RG 615 is the only thing the UAPDA fight actually built. Established under Sections 1841-1843 of P.L. 118-31, it is a dedicated National Archives record group into which every Federal agency is required to transmit copies of its UAP records, with the Archivist obliged to preserve physical integrity and original provenance, publish a subject guidebook and index, make records available for inspection within 30 days of transmission and online within a further 180 days, and maintain a central directory of identification aids. The National Security Program Office at NARA, working with the Information Security Oversight Office, is required to run a security programme for the postponed, still-classified portion. NARA issued guidance to agencies on transferring publicly releasable UAP records in April 2025 — sixteen months after enactment and roughly six months after the statutory 300-day agency review deadline of 17 October 2024 had already passed — and states that records will be added 'on an ongoing, rolling basis as they are received from federal agencies.' The collection is the measurable test of the enacted statute: it exists, it is real, and its rate of fill is the honest metric for whether Sections 1841-1843 accomplish anything without the Review Board that was supposed to force them.",
-"domains": [
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -134,7 +133,11 @@
 "label": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2025-04-24",
@@ -149,16 +152,18 @@
 ],
 "sub": "National Archives collection created under Secs. 1841-1843",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 561 of 1170, score 29). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 560 of 1170, score 29). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-04-01",
+"grade": "B",
 "id": "cl-2025-04-01",
 "label": "NARA issues transfer guidance",
 "precision": "month",
 "strand": "oversight",
-"text": "Sixteen months after enactment and roughly six months after the statutory agency deadline, the National Archives issues guidance on transferring publicly releasable UAP records into Record Group 615.",
-"tier": "B"
+"text": "Sixteen months after enactment and roughly six months after the statutory agency deadline, the National Archives issues guidance on transferring publicly releasable UAP records into Record Group 615."
 }
-]
+],
+"unverified": []
 }

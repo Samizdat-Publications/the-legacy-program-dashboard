@@ -77,6 +77,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -85,6 +86,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "HHM402-08-C-0072, sole bid, signed 22 Sep 2008",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
@@ -170,15 +192,20 @@
 {
 "claimTier": 1,
 "cls": "institution",
-"dateEnd": "2012",
-"dateStart": "2007",
+"dateEnd": null,
+"dateStart": null,
 "direction": "out",
-"edgeLabel": "separately registered LLC under the Bigelow umbrella",
+"edgeLabel": "BAASS LLC, North Las Vegas NV",
 "id": "bigelow-aerospace",
 "l0": false,
 "label": "Bigelow Aerospace",
 "note": "BAASS holds its own DUNS and CAGE codes distinct from Bigelow Aerospace, isolating the intelligence contract from the NASA-facing business.",
 "sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+},
 {
 "date": "2022-10-13",
 "name": "DIA AAWSAP contract (FOIA-00349-2018)",
@@ -194,7 +221,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeLabel": "BAASS LLC, North Las Vegas NV",
+"edgeLabel": "",
 "id": "bigelow-aerospace",
 "l0": false,
 "label": "Bigelow Aerospace",
@@ -626,11 +653,7 @@
 "deg": 19,
 "denials": [],
 "desc": "BAASS is the corporate vehicle through which US government money was spent on UFO research between 2008 and 2012, and it is a distinct legal entity from Bigelow Aerospace — registered at 4640 S. Eastern Avenue, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7. It was stood up to bid and hold the DIA contract, staffed substantially from the alumni of Robert Bigelow's National Institute for Discovery Science, and run day to day by Deputy Administrator Colm Kelleher, a biochemist who had led the NIDS team at Skinwalker Ranch. Its operation was built around a Las Vegas facility with SCIF space, and its work divided into a physics and engineering line — subcontracting the Defense Intelligence Reference Documents out to EarthTech International, Lockheed Martin, and a dozen universities — and a field line that investigated live cases, ran the Utah ranch as a permanently instrumented site, built a case database, and studied the physiological effects of close encounters on witnesses. In 2009 it contracted with the Mutual UFO Network for rapid-response field investigation under the Star Team Impact Project, giving a government-funded contractor a pipeline into the largest civilian UFO reporting network in the United States; the arrangement collapsed in 2010. BAASS delivered a 494-page Ten Month Report to DIA in July 2009. DoD's 2024 history refers to it only as 'the selected private sector organization' and concedes it 'conducted UFO research with the support of the DIA program manager'.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -886,7 +909,13 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Bigelow Aerospace (BAASS)",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2009-09-02",
@@ -986,6 +1015,7 @@
 ],
 "sub": "contractor",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 16 of 1170, score 113). 21 connections, 11 of them custody/funding/programmatic. Axes C3/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 12 of 1170, score 117). 22 connections, 12 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"timeline": [],
+"unverified": []
 }

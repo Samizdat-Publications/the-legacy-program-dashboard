@@ -37,6 +37,7 @@
 ],
 "cls": "legislation",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -47,7 +48,7 @@
 "edgeLabel": "Reduced in conference to a bare funding limitation",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Subsections (b), (d), (e) and (g) of Sec. 1102 — the sense of Congress, the contractor turn-in, the immunity grant and the notice to Congress — have no enacted counterpart in Sec. 7343.",
 "sources": [
 {
@@ -73,7 +74,7 @@
 "edgeLabel": "Dangling cross-reference dates the excision to conference",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Enacted Sec. 7343(c) refers to 'contracts covered by such instruction' with no antecedent; the DoDI 3204.01 citation it depended on was deleted with Sec. 1102(f)(1).",
 "sources": [
 {
@@ -99,7 +100,7 @@
 "edgeLabel": "Twin limitations on the intelligence and defence sides",
 "id": "pl118-31-sec-1687",
 "l0": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "note": "Sec. 7343 applies the same bar to intelligence funds through the DNI that Sec. 1687 applies to DoD funds through the Secretary of Defense.",
 "sources": [
 {
@@ -118,10 +119,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Section 7343 is the scar tissue left by the excision, and it can be read as evidence of haste. The enacted section keeps a bare prohibition on obligating intelligence funds for UAP activity under special or restricted access limitations unless the DNI has described it to the intelligence, armed services and appropriations committees and congressional leadership. It then keeps subsection (c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available to the appropriate congressional committees and leadership.' There is no antecedent for 'such instruction' anywhere in Section 7343. In the Senate original the phrase referred to Department of Defense Instruction 3204.01, cited in full in Section 1102(f)(1); when the drafters cut Section 1102 down they deleted the citation and left the pronoun stranded. The enacted United States Statutes at Large therefore contains a UAP provision that refers to an instruction it never identifies. The same subsection also loses its point: in the Senate text the disallowance was lifted only if the material was surrendered to the AARO Director under the turn-in subsection; in the enacted text it is lifted if the material is 'made available to the appropriate congressional committees and leadership,' with no turn-in subsection left to make it available under.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -132,10 +130,15 @@
 "hl": null,
 "id": "pl118-31-sec-7343",
 "l0": false,
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "locLabel": null,
 "members": null,
-"short": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"openQuestions": [],
+"short": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -151,5 +154,6 @@
 "sub": "Enacted remnant of IAA FY2024 Sec. 1102",
 "tier": "B",
 "tierRationale": "Re-graded B on a global pass (rank 334 of 1170, score 37). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

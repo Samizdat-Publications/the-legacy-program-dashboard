@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -166,9 +167,7 @@
 "deg": 6,
 "denials": [],
 "desc": "GAO reported to the four defence committees under section 1133 of Public Law 100-180 on how the Department of Defense decides to make a programme special access. It found that DoD does not follow its own two criteria, that the definition of a special access programme is not clear inside the department, and that the official required to hold a list of all such programmes does not hold one. The report is the record behind the board's argument that special access status is asserted rather than justified, and it dates the Army's own centralised oversight office to September 1984, ten years before the reform the board carries at dod-sap-reform-1994.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -216,7 +215,11 @@
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1988-05-24",
@@ -226,6 +229,7 @@
 ],
 "sub": "Unclassified summary to congressional committees, B-230522, 24 May 1988; summary of a classified report of 1 April 1988",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 438 of 1170, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 437 of 1170, score 33). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [],
+"unverified": []
 }

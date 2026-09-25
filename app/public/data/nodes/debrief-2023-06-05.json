@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -114,9 +115,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The article that made Grusch public. Written by Leslie Kean and Ralph Blumenthal - the same reporting pair behind the December 2017 New York Times AATIP story - and published by The Debrief on 5 June 2023 after major national outlets passed on it. Its architecture is what made it durable: rather than resting on Grusch alone, it carries on-record corroboration from retired Army Col. Karl Nell, the Army's UAP Task Force liaison, who calls Grusch beyond reproach and affirms the eighty-year reverse-engineering arms race as fundamentally correct; from Christopher Mellon, former Deputy Assistant Secretary of Defense for Intelligence, on well-placed officials sharing detailed information; and from a serving NASIC officer under the name Jonathan Grey. It documents the July 2021 DoD IG disclosure, the May 2022 ICIG filing by McCullough, the July 2022 credible-and-urgent determination, and the April 2023 DOPSR clearances. Grusch's core claims as reported: intact and partially intact vehicles of non-human origin have been retrieved for decades; the materials have unique atomic arrangements and radiological signatures; the activity is illegally withheld from Congress by nesting inside classified programs; and individuals inside those programs raised concerns about illegal contracting.",
-"domains": [
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -130,7 +129,11 @@
 "label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2023-06-05",
@@ -140,16 +143,18 @@
 ],
 "sub": "Kean and Blumenthal, 5 June 2023",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 496 of 1170, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 497 of 1170, score 31). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-06-05",
+"grade": "A",
 "id": "g-tl-2023-06-debrief",
 "label": "The Debrief publishes the Grusch allegations",
 "precision": "day",
 "strand": "witness",
-"text": "Leslie Kean and Ralph Blumenthal report that the US has retrieved intact and partially intact craft of non-human origin, with on-record corroboration from Karl Nell, Christopher Mellon and a serving NASIC officer using the name Jonathan Grey.",
-"tier": "A"
+"text": "Leslie Kean and Ralph Blumenthal report that the US has retrieved intact and partially intact craft of non-human origin, with on-record corroboration from Karl Nell, Christopher Mellon and a serving NASIC officer using the name Jonathan Grey."
 }
-]
+],
+"unverified": []
 }

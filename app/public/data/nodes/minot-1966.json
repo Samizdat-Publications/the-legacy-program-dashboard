@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,10 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Minot Air Force Base, North Dakota, home of the 91st Strategic Missile Wing, generated a documented run of unexplained aerial activity over its Minuteman launch facilities during 1966. Robert Hastings publishes three Air Force documents dated 25 August 1966 relating to Minot incursions, together with Minot Daily News coverage of 6 December 1966. The 1966 material matters because it establishes a pattern predating the March 1967 Malmstrom shutdowns by seven months at a different wing in a different state, which is the point that separates the nuclear-incursion strand from a single-site anomaly: the same category of report recurs across F. E. Warren AFB (1 August 1965), Minot (1966), Malmstrom (March 1967), and then the whole northern tier in the autumn of 1975. Hastings's Minot witnesses are among those whose affidavits he holds and publishes. This board grades the 1966 Minot material at tier 1 for the existence and dating of the documents and tier 2 for the interpretation placed on them.",
-"domains": [
-"nuclear-witnesses-2026-09-19",
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -110,7 +108,12 @@
 "label": "Minot AFB incursions, 1966",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Minot AFB incursions, 1966",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1975-11-11",
@@ -138,13 +141,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 796 of 1170, score 22). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1966-08-25",
+"grade": "A",
 "id": "tl-1966-0825-minot",
 "label": "Minot AFB documents",
 "precision": "day",
 "strand": "witness",
-"text": "Three Air Force documents record unexplained aerial activity around Minot AFB, North Dakota, home of the 91st Strategic Missile Wing. Published in facsimile by Robert Hastings.",
-"tier": "A"
+"text": "Three Air Force documents record unexplained aerial activity around Minot AFB, North Dakota, home of the 91st Strategic Missile Wing. Published in facsimile by Robert Hastings."
 }
-]
+],
+"unverified": []
 }

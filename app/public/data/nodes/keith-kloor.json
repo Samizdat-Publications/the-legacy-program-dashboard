@@ -70,7 +70,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"elizondo-ttsa"
+"d-coverup",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -91,6 +92,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Keith Kloor",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2019-06-01",
@@ -109,13 +113,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 1115 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-04-01",
+"grade": "B",
 "id": "tl-2019-04-kloor-eval",
 "label": "Elizondo's evaluation published",
 "precision": "month",
 "strand": "witness",
-"text": "Keith Kloor publishes the 'exemplary' rating and the supervisor's language on the importance of Elizondo's portfolio in Issues in Science and Technology.",
-"tier": "B"
+"text": "Keith Kloor publishes the 'exemplary' rating and the supervisor's language on the importance of Elizondo's portfolio in Issues in Science and Technology."
 }
 ],
 "unexplainedResidual": null,

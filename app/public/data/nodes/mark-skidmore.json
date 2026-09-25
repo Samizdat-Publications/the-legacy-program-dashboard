@@ -128,7 +128,8 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"w2-black-budget"
+"d-funding",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -149,6 +150,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Mark Skidmore",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",

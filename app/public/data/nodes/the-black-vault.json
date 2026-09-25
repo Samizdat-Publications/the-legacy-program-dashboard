@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -264,11 +265,7 @@
 "deg": 9,
 "denials": [],
 "desc": "The Black Vault is the private FOIA archive through which the overwhelming majority of primary documents in this domain reached the public: the Elizondo resignation letters, the Garry Reid memoranda, the DD Form 1910, the Neill Tipton messaging emails, the Elizondo-Gough correspondence, the Army's denial of the TTSA CRADA correspondence, and the DoD Inspector General files. It is not aligned with the disclosure movement's conclusions and has publicly contested several of them, which is what gives its releases their evidentiary force — these are documents extracted by an adversarial requester, not supplied by an interested party.",
-"domains": [
-"disclosure-project-2026-09-19",
-"elizondo-ttsa",
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -360,7 +357,13 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "The Black Vault",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"elizondo-ttsa",
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -395,6 +398,7 @@
 ],
 "sub": "FOIA document archive founded by John Greenewald Jr., 1996",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 209 of 1170, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 208 of 1170, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unverified": []
 }

@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Limina is a peer-reviewed journal dedicated to UAP studies with its own DOI prefix, publishing since 2024. Its output includes methodological and governance work - Daniel Ammon on the development, dissemination and revision of good scientific practice for UAP research (January 2024) and on the demarcation problem (July 2026), Matthew Szydagis on disclosure timelines (March 2025), Karen Engels on phenomenology, James Houran on a procedural roadmap for scientific studies of government-sourced UAP data (July 2026), and the SCU Grosvenor-Hancock-Porritt analysis of the 1945-1975 United States atomic warfare complex (March 2025). Its existence matters institutionally rather than evidentially: a field cannot accumulate knowledge without a venue that will referee it, and until Limina and the Journal of Astronomical Instrumentation special issue there was no such venue that a serious scientist could publish in without career cost. The journal is also where the argument about what would even count as government-sourced evidence is being conducted in print.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -57,7 +56,11 @@
 "label": "Limina - The Journal of UAP Studies",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Limina - The Journal of UAP Studies",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2025-03-07",
@@ -78,5 +81,6 @@
 "sub": "Peer-reviewed journal of UAP studies, DOI prefix 10.59661",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1157 of 1170, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

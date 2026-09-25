@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -625,7 +626,7 @@
 "edgeLabel": "The IR&D restriction applies directly to covered prime contractors",
 "id": "ndaa-fy2024-1687",
 "l0": true,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "DoDI 3204.01 covers major contractors allocating over $11 million in IR&D and bid-and-proposal costs; the primes on this board are all covered contractors, and none has publicly reported a disclosure under Sec. 1687(b).",
 "sources": [
 {
@@ -821,6 +822,14 @@
 "deg": 31,
 "denials": [
 {
+"a": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
 "by": {
 "id": "aaro-fy2025-annual-report",
 "label": "AARO FY2025 Consolidated Annual Report on UAP"
@@ -847,6 +856,43 @@
 ]
 },
 {
+"a": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"by": {
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"denialKind": "directed",
+"label": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record",
+"note": "AARO states it met high-ranking officials of the companies named by interviewees and that all denied the existence of the programs and attested to the truthfulness of their statements. AARO does not name a single company, and describes no inspection of any facility or holding.",
+"of": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"sources": [
+{
+"date": "2024-03-08",
+"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+}
+]
+},
+{
+"a": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
 "by": {
 "id": "cia",
 "label": "Central Intelligence Agency"
@@ -871,33 +917,10 @@
 "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
 }
 ]
-},
-{
-"by": {
-"id": "lockheed-martin",
-"label": "Lockheed Martin Corporation"
-},
-"claimTier": 1,
-"denialKind": "directed",
-"label": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record",
-"note": "AARO states it met high-ranking officials of the companies named by interviewees and that all denied the existence of the programs and attested to the truthfulness of their statements. AARO does not name a single company, and describes no inspection of any facility or holding.",
-"of": {
-"id": "aaro-historical-record-vol1",
-"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
-},
-"sources": [
-{
-"date": "2024-03-08",
-"name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
-"url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
-}
-]
 }
 ],
 "desc": "Lockheed Martin is the company named more often than any other in the custody allegation, and the only one named on the floor of a congressional hearing by a sworn witness. Its documented government relationship is total: USAspending records show prime contract obligations to Lockheed Martin recipient entities running to the hundreds of billions of dollars since FY2008, spanning the F-35, Trident II D5, missile defense, national security space and classified aeronautics. It operates cleared facilities under DoD special access program accreditation, including Air Force Plant 42 at Palmdale and the Advanced Development Programs organisation that AARO's own historical report describes by name. The custody allegation attaches at three separate points. First, George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for a quantity of material 'stashed away and protected at a facility in California,' adding 'that material was not made here'; asked to name corporations holding material, he answered 'one of them is Lockheed,' and named a Lockheed executive as a gatekeeper. Second, Luis Elizondo testified on 13 November 2024 that an aerospace contractor sought to divest itself of material collected in the 1950s, confirmed the reported Lockheed-Bigelow transfer was blocked, and described a Secretary of the Air Force memorandum that never came. Third, AARO's Historical Record Report records - without naming companies - an interviewee claim that an organisation possessed off-world material in 2009 and 2010 and that a former senior CIA official quashed the proposal to remove it from the corporation. Lockheed Martin has issued no public rebuttal of the sworn testimony. AARO states that the executives and chief technology officers of the named companies met its Director and denied the allegations on the record.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -1174,7 +1197,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Lockheed Martin Corporation",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -1204,25 +1231,28 @@
 ],
 "sub": "Prime defense contractor; largest single recipient of DoD prime contract obligations",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 26 of 1170, score 100). 31 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
+"tierRationale": "Re-graded A on a global pass (rank 23 of 1170, score 100). 31 connections, 8 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2009-01-01",
+"grade": "A",
 "id": "pc-2009-lockheed",
 "label": "The alleged Lockheed material negotiation",
 "precision": "year",
 "strand": "program",
-"text": "Per George Knapp's later sworn testimony, Robert Bigelow and an AAWSAP colleague negotiate with senior Lockheed Martin executives for a quantity of material held at a California facility. AARO separately records an allegation that an organisation possessed off-world material in 2009 and 2010.",
-"tier": "A"
+"text": "Per George Knapp's later sworn testimony, Robert Bigelow and an AAWSAP colleague negotiate with senior Lockheed Martin executives for a quantity of material held at a California facility. AARO separately records an allegation that an organisation possessed off-world material in 2009 and 2010."
 },
 {
+"claimTier": null,
 "date": "2023-03-11",
+"grade": "B",
 "id": "pc-2023-03-audit",
 "label": "Public call to audit Lockheed Martin's special access programs",
 "precision": "day",
 "strand": "oversight",
-"text": "Jeremy Corbell challenges the Senate Appropriations Committee to audit Lockheed Martin SAPs; Elizondo responds that the inquiry should extend to several other aerospace companies that have likely played a key historical role.",
-"tier": "B"
+"text": "Jeremy Corbell challenges the Senate Appropriations Committee to audit Lockheed Martin SAPs; Elizondo responds that the inquiry should extend to several other aerospace companies that have likely played a key historical role."
 }
-]
+],
+"unverified": []
 }

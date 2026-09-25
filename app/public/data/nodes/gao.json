@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -130,9 +131,7 @@
 "deg": 5,
 "denials": [],
 "desc": "GAO is the audit arm of Congress and the only investigative body on this board that answers to the legislature rather than the executive. Its single most important product in this domain is GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico', issued 28 July 1995 at the request of Representative Steven Schiff of New Mexico after the Air Force declined to give him a straight answer. GAO's finding is one of the load-bearing facts of the entire field: that the outgoing messages of Roswell Army Air Field for the period March 1945 to December 1949 had been destroyed, without any destruction certificate being located to authorise it. GAO could not determine who destroyed them or when. That is not a finding that the material existed; it is a finding that the record of the period was not kept in the manner required, at exactly the installation and exactly the period at issue. GAO's involvement also demonstrates the tool Congress has never fully used since: a legislative-branch auditor with statutory access authority, directed at the classification and records-management conduct of the agencies, rather than at the phenomenon.",
-"domains": [
-"w2-agencies"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -146,7 +145,11 @@
 "label": "Government Accountability Office",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Government Accountability Office",
+"sourceFiles": [
+"w2-agencies"
+],
 "sources": [
 {
 "date": "1995-07-28",
@@ -166,16 +169,18 @@
 ],
 "sub": "Legislative branch audit agency; author of the 1995 Roswell records search",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 926 of 1170, score 18). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 925 of 1170, score 18). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1995-07-28",
+"grade": "A",
 "id": "ag-tl-1995-gao",
 "label": "GAO reports Roswell message traffic destroyed",
 "precision": "day",
 "strand": "oversight",
-"text": "GAO/NSIAD-95-187, produced at Rep. Steven Schiff's request, finds that Roswell Army Air Field outgoing messages for March 1945 to December 1949 were destroyed with no destruction certificate located to authorise it.",
-"tier": "A"
+"text": "GAO/NSIAD-95-187, produced at Rep. Steven Schiff's request, finds that Roswell Army Air Field outgoing messages for March 1945 to December 1949 were destroyed with no destruction certificate located to authorise it."
 }
-]
+],
+"unverified": []
 }

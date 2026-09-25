@@ -60,16 +60,24 @@ export interface Connection {
   sources: Source[]; direction: 'out' | 'in';
 }
 
+/* `a` and `b` are the edge's two ends in record order. `by` and `of` are set only
+   where data/denial-adjudication.json names the denier; otherwise both are null
+   and no direction may be printed (redesign phase 3, decision 5). */
 export interface Denial {
-  by: { id: string; label: string };
-  of: { id: string; label: string };
+  a: { id: string; label: string };
+  b: { id: string; label: string };
+  by: { id: string; label: string } | null;
+  of: { id: string; label: string } | null;
   label: string; claimTier: number | null; note?: string;
-  denialKind?: string; sources?: Source[];
+  denialKind?: string | null; sources?: Source[];
 }
 
+/* `grade` is the event's own A/B/C grade and `claimTier` a claim tier 1/2/3: two
+   fields since phase 3, where one `tier` field used to carry both vocabularies. */
 export interface TimelineEvent {
   id: string; strand: string; date: string; precision: string;
-  label: string; text?: string; tier?: string; node?: string; era?: string;
+  label: string; text?: string; grade?: string | null; claimTier?: number | null;
+  node?: string; era?: string;
 }
 
 export interface FoiaRequest {
@@ -97,6 +105,12 @@ export interface NodeRecord {
   affiliations?: string[];
   conflicts?: string[] | string;
   unverified?: string[] | string;
+  /* an entity's own open questions, carried since phase 3; they print after the
+     dossier's, which are the ones FOIA request indices point into */
+  openQuestions?: string[];
+  /* authored topic tags (ids of domain nodes); `sourceFiles` is the provenance */
+  domains?: string[];
+  sourceFiles?: string[];
   dossier: Dossier | null;
   connections: Connection[];
   denials: Denial[];

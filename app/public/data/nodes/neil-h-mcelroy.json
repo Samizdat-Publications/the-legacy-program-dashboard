@@ -107,7 +107,9 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"dannyjones-2026-09-03"
+"d-research",
+"d-structure",
+"d-program"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -128,6 +130,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Neil H. McElroy",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1975-12-01",

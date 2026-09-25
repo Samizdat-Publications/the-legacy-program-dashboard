@@ -65,8 +65,8 @@
 {
 "claimTier": 1,
 "cls": "institution",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2024",
+"dateStart": "2023",
 "direction": "out",
 "edgeLabel": "Deputy Director from Oct 2023; Acting Director Dec 2023 - Aug 2024",
 "id": "aaro",
@@ -111,8 +111,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"uaptf-aaro"
+"d-coverup",
+"d-ic"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -133,6 +133,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Timothy A. Phillips",
+"sourceFiles": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2025-11-18",
@@ -173,7 +177,7 @@
 "status": "former",
 "sub": "Deputy Director AARO (Oct 2023-); Acting Director Dec 2023-Aug 2024; on assignment from ODNI",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 576 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 575 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

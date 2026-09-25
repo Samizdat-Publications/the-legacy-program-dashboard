@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The transfer document. A DIA information memorandum addressed to the Under Secretary of Defense for Acquisition, Technology and Logistics, using the name Advanced Aerospace Threat and Identification Program throughout and never AAWSAP, reporting that the reports 'were of limited value to DIA' but suggesting 'they could be of merit to other organizations' and that 'the project could be transitioned to another agency or component better suited.' All sender and preparer names are redacted under 10 USC 424 and (b)(6). This memo is the documentary hinge of the AATIP-versus-AAWSAP question: it establishes, in DIA's own hand and on DIA's own timeline, that at the end of 2010 DIA was actively proposing to hand the program to another component — which is precisely the point at which Luis Elizondo says he picked it up in OUSD(I), and precisely what DoD's 2019 press guidance declines to address. Two versions exist in the public record, a two-page draft and a four-page final released under FOIA-00255-2022 dated 1 December 2010.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -93,7 +92,11 @@
 "label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2010-12-01",
@@ -111,13 +114,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 336 of 1170, score 37). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2010-12-01",
+"grade": "A",
 "id": "tl-2010-transfer",
 "label": "DIA proposes moving AATIP out",
 "precision": "month",
 "strand": "program",
-"text": "A DIA info memo to USD(AT&L) says the reports were of limited value to DIA but could merit other organisations, and that the project could be transitioned to a better-suited component.",
-"tier": "A"
+"text": "A DIA info memo to USD(AT&L) says the reports were of limited value to DIA but could merit other organisations, and that the project could be transitioned to a better-suited component."
 }
-]
+],
+"unverified": []
 }

@@ -166,8 +166,9 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"congress-house",
-"w16-thin-people"
+"d-coverup",
+"d-custody",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -188,6 +189,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "William Neil McCasland",
+"sourceFiles": [
+"congress-house",
+"w16-thin-people"
+],
 "sources": [
 {
 "date": "2026-04-21",
@@ -233,7 +238,7 @@
 "status": "missing",
 "sub": "Maj. Gen., USAF (ret.); former AFRL commander; disappeared February 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 182 of 1170, score 47). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 180 of 1170, score 47). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -161,9 +162,7 @@
 "deg": 6,
 "denials": [],
 "desc": "The council created by section 101 of the National Security Act of 1947 to advise the President on the integration of domestic, foreign and military policy. It matters to this board as the body that issued NSC 10/2, NSC 5412 and the directive series that governs covert action, and as the place where classification oversight was lodged by EO 11652.",
-"domains": [
-"nsc-eo-spine-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -177,7 +176,11 @@
 "label": "National Security Council",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National Security Council",
+"sourceFiles": [
+"nsc-eo-spine-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -188,5 +191,6 @@
 "sub": "Statutory body, 1947; the approving authority for covert action and the issuer of the NSC directive series",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 667 of 1170, score 26). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

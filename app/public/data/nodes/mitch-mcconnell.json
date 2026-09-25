@@ -110,6 +110,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "mitch-mcconnell",
+"label": "Mitch McConnell"
+},
+"b": {
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
 "by": {
 "id": "mitch-mcconnell",
 "label": "Mitch McConnell"
@@ -132,8 +140,9 @@
 }
 ],
 "domains": [
-"congress-senate-legislation",
-"w9-waived-sap-group"
+"d-legislative",
+"d-oversight",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -154,6 +163,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Mitch McConnell",
+"sourceFiles": [
+"congress-senate-legislation",
+"w9-waived-sap-group"
+],
 "sources": [
 {
 "date": "2023-11-27",
@@ -179,7 +192,7 @@
 "status": "active",
 "sub": "R-KY; Senate Republican Leader 2007-2025",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 275 of 1170, score 40). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 276 of 1170, score 40). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

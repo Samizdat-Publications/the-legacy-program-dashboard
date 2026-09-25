@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -75,9 +76,7 @@
 "deg": 2,
 "denials": [],
 "desc": "White Sands Missile Range covers almost 3,200 square miles across Dona Ana, Otero, Socorro, Sierra and Lincoln Counties in New Mexico, making it the largest military installation in the United States. It was established as White Sands Proving Ground on 9 July 1945; seven days later, on 16 July 1945, the first atomic detonation took place at Trinity Site near its northern boundary. After the war 100 captured German V-2 rockets were shipped here and 67 were fired between 1946 and 1951; by 1946 thirty-five Operation Paperclip scientists were working at the proving ground. This is the geographic centre of everything that matters about 1947-1950 in New Mexico: Trinity, the V-2 programme, the Paperclip cohort, Los Alamos to the north, Sandia and Kirtland to the northwest, Alamogordo and the Project Mogul launch site to the east, and the Foster Ranch debris field to the northeast. The range is also the origin of the most technically interesting early observational record in the American file. From 1948 the Land-Air Inc. optical tracking crews - professional cinetheodolite operators whose entire job was measuring the trajectories of fast objects - reported unidentified objects on the range, and it was these observations, together with the green fireball reports over the Los Alamos and Sandia corridor, that produced the 16 February 1949 Los Alamos conference attended by Edward Teller and the Air Force's Project Twinkle instrumented observation effort at Holloman and Vaughn, New Mexico, from 1950. The significance is that the earliest instrumented, professional-observer UAP reporting in the United States came from inside the nuclear weapons and rocketry complex, gathered by people employed to measure objects in flight, and it was answered with a small, underfunded, quietly terminated camera project rather than a serious collection programme.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -91,7 +90,11 @@
 "label": "White Sands Missile Range, New Mexico",
 "locLabel": "White Sands, New Mexico, USA",
 "members": null,
+"openQuestions": [],
 "short": "White Sands Missile Range, New Mexico",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -104,13 +107,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 762 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1945-07-09",
+"grade": "A",
 "id": "tl-1945-wspg",
 "label": "White Sands Proving Ground established",
 "precision": "day",
 "strand": "program",
-"text": "Seven days before Trinity, the Army stands up the proving ground that will become the largest military installation in the United States and the geographic centre of the 1947-1951 New Mexico record.",
-"tier": "A"
+"text": "Seven days before Trinity, the Army stands up the proving ground that will become the largest military installation in the United States and the geographic centre of the 1947-1951 New Mexico record."
 }
-]
+],
+"unverified": []
 }

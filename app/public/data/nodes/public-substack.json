@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -139,9 +140,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Public is the Substack newsletter co-founded by Michael Shellenberger covering censorship, cities, mental health, addiction, energy and the environment. Its relevance here is narrow and sharp: it is the outlet through which Shellenberger reported the Immaculate Constellation allegations before entering the twelve-page report into the congressional record on 13 November 2024. Public is a further instance of the pattern that defines this domain - the most consequential UAP reporting of the period was published on subscription platforms owned by individual journalists rather than by newsrooms.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -155,7 +154,11 @@
 "label": "Public",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Public",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -166,5 +169,6 @@
 "sub": "Substack newsletter",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1077 of 1170, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

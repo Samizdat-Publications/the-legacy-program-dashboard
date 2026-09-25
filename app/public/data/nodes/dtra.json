@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -87,9 +88,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Defense Threat Reduction Agency was established in the Department of Defense as a combat support agency effective 1 October 1998 by DoD Directive 5105.62 of 30 September 1998, consolidating the Defense Special Weapons Agency, the On-Site Inspection Agency, the Defense Technology Security Administration and elements of the Office of the Secretary of Defense concerned with arms control. Its own agency history traces an unbroken line from the Manhattan Engineer District through AFSWP, DASA, DNA and DSWA, and calls it the nation's oldest defense agency. Its published Privacy Act inventory records that it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944. The National Archives holds the AFSWP, DASA and DNA era textual records as Record Group 374 and names the Atomic Energy Commission's own records, Record Group 326, as a separate related group.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -103,7 +102,11 @@
 "label": "Defense Threat Reduction Agency",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Defense Threat Reduction Agency",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2026-09-02",
@@ -133,16 +136,18 @@
 ],
 "sub": "DoD combat support agency, 1998 to present; heir of AFSWP, DASA, DNA and DSWA",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 270 of 1170, score 41). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 271 of 1170, score 41). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1998-10-01",
+"grade": "B",
 "id": "tl-1998-10-01-dtra-established",
 "label": "The Defense Threat Reduction Agency is established, heir to AFSWP",
 "precision": "day",
 "strand": "oversight",
-"text": "DTRA is established in the Department of Defense as a combat support agency by DoD Directive 5105.62 of 30 September 1998, consolidating the Defense Special Weapons Agency, the On-Site Inspection Agency, the Defense Technology Security Administration and OSD arms control elements. Its own history states the line: 'The nation's oldest defense agency thus lives on; MED to AFSWP to DAS A to DNA to DSWA to DTRA.' The Atomic Energy Commission's own records are a separate National Archives group, RG 326, not RG 374.",
-"tier": "B"
+"text": "DTRA is established in the Department of Defense as a combat support agency by DoD Directive 5105.62 of 30 September 1998, consolidating the Defense Special Weapons Agency, the On-Site Inspection Agency, the Defense Technology Security Administration and OSD arms control elements. Its own history states the line: 'The nation's oldest defense agency thus lives on; MED to AFSWP to DAS A to DNA to DSWA to DTRA.' The Atomic Energy Commission's own records are a separate National Archives group, RG 326, not RG 374."
 }
-]
+],
+"unverified": []
 }

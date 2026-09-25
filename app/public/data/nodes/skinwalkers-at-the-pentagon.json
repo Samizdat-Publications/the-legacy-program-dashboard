@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,6 +125,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+},
 "by": {
 "id": "dia",
 "label": "Defense Intelligence Agency"
@@ -151,9 +160,7 @@
 }
 ],
 "desc": "The insider account, written by the DIA program manager, the contractor's deputy administrator and the reporter who broke the story, and cleared for publication through the Defense Office of Prepublication and Security Review. That clearance is the fact that matters institutionally: the Department of Defense read a manuscript in which its own former program manager describes what AAWSAP found and permitted its publication. The book supplies the origin narrative — Lacatski reading 'Hunt for the Skinwalker', writing to Bigelow on DIA letterhead on 19 June 2007 — and the account of the Utah field operations, the physiological effects on personnel, and Lacatski's statement that he entered a craft of unknown origin. DIA subsequently told a FOIA requester it could locate neither the 2007 letter nor the Utah ranch investigation report the book describes. AARO's 2024 history contradicts the book's framing without engaging its specifics. The board records the book as tier 2 throughout: named first-hand participants speaking on the record, with a government prepublication clearance attached, and no primary documents released to corroborate the field-work claims.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -167,7 +174,11 @@
 "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2021-08-01",
@@ -187,16 +198,18 @@
 ],
 "sub": "DOPSR-cleared insider account of AAWSAP",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 219 of 1170, score 44). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 218 of 1170, score 44). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-08-01",
+"grade": "A",
 "id": "tl-2021-book",
 "label": "'Skinwalkers at the Pentagon' published",
 "precision": "month",
 "strand": "witness",
-"text": "The DIA program manager, the contractor's deputy administrator and the reporter who broke the story publish a DOPSR-cleared insider account including Lacatski's claim of entering a craft of unknown origin.",
-"tier": "A"
+"text": "The DIA program manager, the contractor's deputy administrator and the reporter who broke the story publish a DOPSR-cleared insider account including Lacatski's claim of entering a craft of unknown origin."
 }
-]
+],
+"unverified": []
 }

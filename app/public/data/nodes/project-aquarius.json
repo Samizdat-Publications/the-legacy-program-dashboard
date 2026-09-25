@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -108,10 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "AQUARIUS is the name attached to a typed paper that AFOSI Special Agent Richard Doty showed the documentary producer Linda Moulton Howe at Kirtland AFB in April 1983, which she was permitted to read and take notes on but not to copy. The paper described a US government programme covering retrieved craft and biological entities, and Howe was told film footage would be released to her for an HBO documentary; it never was, and the project collapsed. A version of the AQUARIUS text later circulated as a teletype and became entangled with the MJ-12 corpus. No copy from any government archive has ever surfaced. The National Archives has stated that it searched the National Security Council's Policy Paper and Meeting Minute indexes under, among other subjects, 'Aquarius' - and found nothing. AQUARIUS should therefore be catalogued as what the evidence supports: not a documented programme, but a documented instrument. A serving US counterintelligence agent used a paper bearing that name to manage an American journalist, and that use is the fact of record. The name's function was to make a promise of access that was never kept, which is the same function the Bennewitz material served.",
-"domains": [
-"dulce-2026-09-19",
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -125,7 +123,12 @@
 "label": "Project AQUARIUS (alleged)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project AQUARIUS (alleged)",
+"sourceFiles": [
+"dulce-2026-09-19",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -150,16 +153,18 @@
 ],
 "sub": "Purported USG UFO program named in AFOSI-sourced material, 1983",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 686 of 1170, score 25). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 685 of 1170, score 25). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1983-04-09",
+"grade": "B",
 "id": "t-1983-aquarius",
 "label": "Doty shows Howe the AQUARIUS paper",
 "precision": "day",
 "strand": "coverup",
-"text": "AFOSI Special Agent Richard Doty shows documentary producer Linda Moulton Howe a purported government briefing paper at Kirtland AFB. She may read but not copy it; the promised film footage never materialises.",
-"tier": "B"
+"text": "AFOSI Special Agent Richard Doty shows documentary producer Linda Moulton Howe a purported government briefing paper at Kirtland AFB. She may read but not copy it; the promised film footage never materialises."
 }
-]
+],
+"unverified": []
 }

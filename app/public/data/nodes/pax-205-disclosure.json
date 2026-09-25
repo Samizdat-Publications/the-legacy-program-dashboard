@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -41,7 +42,7 @@
 "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "research"
 },
 {
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The internal Navy briefing that underlies US 10,144,532, released under NAVAIR FOIA case 2021-003244. It is more informative than the patent because it was written for a Navy audience deciding whether to fund the work rather than for an examiner deciding whether to grant it. It names the author, his NAWCAD competency code and his navy.mil address; quotes the Commander of NAVAIR; describes a hybrid aerospace / undersea craft moving through air, space and water in a vacuum plasma sheath with extreme speed and non-linear RF and sonar scattering; asserts that the same device enables an artificial gravitational wave generator via the Gertsenshtein Effect and that planetary-scale spacetime modification is feasible; and states plainly, twice, that there is no prototype in existence and that Section 219 NISE funding of 500,000 USD in total is to be applied for to test the concept experimentally.",
-"domains": [
-"pais-patents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -109,7 +108,11 @@
 "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
+"sourceFiles": [
+"pais-patents"
+],
 "sources": [
 {
 "date": null,
@@ -119,16 +122,18 @@
 ],
 "sub": "Six-slide NAWCAD invention-disclosure briefing by S.C. Pais, released under NAVAIR FOIA 2021-003244",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 568 of 1170, score 29). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 567 of 1170, score 29). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D0.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2015-03-06",
+"grade": null,
 "id": "tl-pais-pax205-origin",
 "label": "Invention original date recorded for the Inertial Mass Reduction Device",
 "precision": "day",
 "strand": "program",
-"text": "The NAVAIR invention-disclosure briefing for Navy Case PAX 205 records the invention original date as 06/03/2015 and states that the concept is theoretical with no prototype in existence.",
-"tier": "1"
+"text": "The NAVAIR invention-disclosure briefing for Navy Case PAX 205 records the invention original date as 06/03/2015 and states that the concept is theoretical with no prototype in existence."
 }
-]
+],
+"unverified": []
 }

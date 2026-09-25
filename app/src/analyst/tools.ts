@@ -675,7 +675,12 @@ async function tNode(a: Args): Promise<string> {
     if (want('denials') && rec.denials && rec.denials.length) {
       L.push('denials on the record:');
       for (const x of rec.denials) {
-        L.push('  ' + x.by.label + ' (' + x.by.id + ') denies ' + x.of.label + ' (' + x.of.id + '): ' + clip(x.label, 260));
+        /* by/of are null where the adjudication names no denier (phase 3); the
+           wording of this tool is phase 12's, this only keeps it from crashing */
+        L.push(x.by && x.of
+          ? '  ' + x.by.label + ' (' + x.by.id + ') denies ' + x.of.label + ' (' + x.of.id + '): ' + clip(x.label, 260)
+          : '  ' + x.a.label + ' (' + x.a.id + ') / ' + x.b.label + ' (' + x.b.id + '), ' +
+            (x.denialKind || 'direction not adjudicated') + ': ' + clip(x.label, 260));
       }
     }
     if (want('timeline') && rec.timeline && rec.timeline.length) {
@@ -778,7 +783,7 @@ async function tTimeline(a: Args): Promise<string> {
         : gb === 'decade' ? e.date.slice(0, 3) + '0s'
           : gb === 'strand' ? (e.strand || 'none')
             : gb === 'era' ? String(e.era || 'none')
-              : gb === 'tier' ? (e.tier || 'none')
+              : gb === 'tier' ? (e.grade || (e.claimTier != null ? 'T' + e.claimTier : 'none'))
                 : '(group_by ' + gb + ' is not one of year, decade, strand, era, tier)';
     const rows = keep.map(key);
     const body = gb === 'year' || gb === 'decade'

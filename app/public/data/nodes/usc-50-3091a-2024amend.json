@@ -27,9 +27,10 @@
 ],
 "cls": "legislation",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
-"claimTier": 3,
+"claimTier": 1,
 "cls": "domain",
 "dateEnd": null,
 "dateStart": null,
@@ -37,7 +38,28 @@
 "edgeLabel": "6603 bars CAP-to-SAP capability transfer without notice",
 "id": "sap-taxonomy",
 "l0": false,
-"label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "bars movement between the categories",
+"id": "sap-taxonomy",
+"l0": false,
+"label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "Tier 3 because this is a reading of what the amendment does to the taxonomy, not a quotation about it. Sec. 6603's new 50 U.S.C. 3091a(b)(2)(A) bars the head of an IC element from transferring a capability out of a controlled access program, subject to the two exits at (B). The categories on this board are not merely descriptive after December 2024: Congress attached a statutory consequence to which box a capability sits in, which is what makes the CAP/SAP distinction load-bearing rather than nomenclature. The verbatim text of both subparagraphs is on the amendment node.",
 "sources": [
 {
@@ -58,7 +80,28 @@
 "edgeLabel": "Pub. L. 118-159 secs. 6602-6603",
 "id": "usc-50-3091a",
 "l0": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "amends",
+"id": "usc-50-3091a",
+"l0": false,
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "note": "Pub. L. 118-159 secs. 6602 and 6603, approved 23 December 2024, amend this section: 6602 inserts a new subsection (c) limiting National Intelligence Program spending, and 6603 adds subsection (b)(2)(A) with its exception at (B). The OLRC text carries the amendment note and records that subsection (c) 'shall apply with respect to controlled access programs ... that are established on or after the date of the enactment of this Act', so the new limit is prospective only and existing compartments are untouched by it. Statute read on 22 August 2026; the verbatim section text is already on the amendment node from the enacted public law.",
 "sources": [
 {
@@ -82,9 +125,7 @@
 "deg": 2,
 "denials": [],
 "desc": "FY2025 Intelligence Authorization Act (div. F of Pub. L. 118-159, 23 Dec 2024) amendments to 50 U.S.C. 3091a.",
-"domains": [
-"_rs-sap-docs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -95,10 +136,14 @@
 "hl": null,
 "id": "usc-50-3091a-2024amend",
 "l0": false,
-"label": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+"label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "locLabel": null,
 "members": null,
-"short": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+"openQuestions": [],
+"short": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
+"sourceFiles": [
+"_rs-sap-docs"
+],
 "sources": [
 {
 "date": "2024-12-23",
@@ -108,6 +153,7 @@
 ],
 "sub": "statute",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 914 of 1170, score 18). 2 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 851 of 1170, score 20). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

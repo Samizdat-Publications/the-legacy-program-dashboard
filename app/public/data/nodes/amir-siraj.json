@@ -81,7 +81,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"scientists-technical"
+"d-astro",
+"d-research"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -102,6 +103,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Amir Siraj",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2022-11-01",

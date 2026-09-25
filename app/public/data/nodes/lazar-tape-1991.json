@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -114,9 +115,7 @@
 "deg": 4,
 "denials": [],
 "desc": "This is the strongest artefact in the Lazar cluster and it is the one that was actually opened. It is a forty-minute videotape published by Tri-Dot Productions in 1991, created by Gene Huff and Bob Lazar, archived on the Internet Archive since 6 April 2007 and mirrored on YouTube, whose English auto-generated captions run to 38:39 and were read in full by this board's research pass on 18 September 2026. Its value is that it fixes the entire claim in datable, complete, citable form in the claimant's own voice, two years after the 1989 broadcasts and long before the modern podcast circuit. Every element-115 claim, every S-4 description and the Edward Teller anecdote carry timestamps in it. The board should anchor the cluster's claims here rather than on any later interview, because a 1991 videotape cannot be revised in response to later objections and a 2019 interview can. Two cautions belong on the node. The captions are machine-generated, so all quotation from it is approximate and is marked as such wherever it is used. And a videotape in which a claimant narrates his own claim is evidence of the claim, never of its content.",
-"domains": [
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -130,7 +129,11 @@
 "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Lazar Tape and Excerpts from the Government Bible (1991)",
+"sourceFiles": [
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "1991",
@@ -140,16 +143,21 @@
 ],
 "sub": "Forty-minute videotape written and produced by Gene Huff with Bob Lazar for Tri-Dot Productions, in which Lazar narrates the S-4, element 115 and gravity-wave account in his own words",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 920 of 1170, score 18). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 919 of 1170, score 18). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1991",
+"grade": "B",
 "id": "tl-1991-lazar-tape",
 "label": "The Lazar Tape fixes the whole claim in datable form",
 "precision": "year",
 "strand": "witness",
-"text": "Tri-Dot Productions publishes 'The Lazar Tape and Excerpts from the Government Bible', forty minutes, created by Gene Huff and Bob Lazar. It is the strongest artefact in the cluster and the one opened by this board: its English auto-generated captions, 1,046 segments to 38:39, were read in full on 18 September 2026. Every element-115 claim, every S-4 description and the Teller anecdote carry timestamps in it.",
-"tier": "B"
+"text": "Tri-Dot Productions publishes 'The Lazar Tape and Excerpts from the Government Bible', forty minutes, created by Gene Huff and Bob Lazar. It is the strongest artefact in the cluster and the one opened by this board: its English auto-generated captions, 1,046 segments to 38:39, were read in full on 18 September 2026. Every element-115 claim, every S-4 description and the Teller anecdote carry timestamps in it."
 }
+],
+"unverified": [
+"The accuracy of individual words in every quotation drawn from this tape. The captions are machine-generated. Where a quotation matters, a later session should confirm it against the audio. Known caption corruptions already identified include 'Maison' for 'Meson', 'grew' for 'Groom' and 'Dr Taylor' for 'Dr Teller'.",
+"Whether the Internet Archive copy is complete or identical to the 1991 release. Only the item record and the YouTube mirror's captions were examined."
 ]
 }

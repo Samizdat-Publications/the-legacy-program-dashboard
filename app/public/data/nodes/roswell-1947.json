@@ -62,6 +62,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -213,7 +214,7 @@
 "edgeLabel": "GAO found the base's records for the event period destroyed",
 "id": "gao-nsiad-95-187",
 "l0": false,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF outgoing messages Oct 1946 - Dec 1949 and administrative records Mar 1945 - Dec 1949 were destroyed, and the disposition form does not record who destroyed them, when, or under what authority.",
 "sources": [
 {
@@ -472,6 +473,14 @@
 "deg": 15,
 "denials": [
 {
+"a": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -493,6 +502,14 @@
 ]
 },
 {
+"a": {
+"id": "project-mogul",
+"label": "Project MOGUL"
+},
+"b": {
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
 "by": {
 "id": "project-mogul",
 "label": "Project MOGUL"
@@ -514,6 +531,14 @@
 ]
 },
 {
+"a": {
+"id": "roger-ramey",
+"label": "Roger M. Ramey"
+},
+"b": {
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
 "by": {
 "id": "roger-ramey",
 "label": "Roger M. Ramey"
@@ -536,10 +561,7 @@
 }
 ],
 "desc": "In late June 1947 rancher W. W. 'Mac' Brazel found debris scattered on the Foster Ranch near Corona, in Lincoln County, New Mexico, roughly seventy-five miles northwest of Roswell. On 6 July he reported it to Chaves County Sheriff George Wilcox, who called Roswell Army Air Field. RAAF dispatched Maj. Jesse A. Marcel Sr., intelligence officer of the 509th Bomb Group - at that date the only nuclear-capable bomb group in existence - and Capt. Sheridan Cavitt of the Counter Intelligence Corps. On 8 July 1947 the base public information officer, 1st Lt. Walter Haut, issued a press release stating that 'the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.' The story went out on the wires within hours. That same day Brig. Gen. Roger M. Ramey, commanding Eighth Air Force at Fort Worth Army Air Field, staged a press conference with weather officer Warrant Officer Irving Newton and presented the material as a weather balloon and a radar target reflector. The Air Force's own subsequent reports concede the essential structure: the 1994 report identified the debris as a Project Mogul balloon train, specifically Flight No. 4 launched 4 June 1947 from Alamogordo Army Air Field, and explicitly acknowledged that the weather balloon statement had been a cover story to divert attention from a classified programme; 'The Roswell Report: Case Closed', published 24 June 1997 and authored in part by declassification officer 1st Lt. James McAndrew, attributed accounts of recovered bodies to anthropomorphic parachute test dummies dropped in 1950s high-altitude programmes. Roswell's evidentiary value to this board does not depend on adjudicating what the debris was. It rests on two documented facts. First, the United States has conceded in writing that it issued a false public explanation for a materiel recovery in 1947. Second, when Rep. Steven H. Schiff asked GAO to audit the paper trail after the Defense Department declined to answer him, GAO/NSIAD-95-187 reported that RAAF outgoing messages from October 1946 through December 1949 had been destroyed and that no disposition authority for the destruction could be located. The unit's message traffic for the period covering the recovery no longer exists, and nobody has ever produced the authority that ordered it destroyed. That finding has never been rebutted by any agency.",
-"domains": [
-"history-1940s-1960s",
-"w2-places-events"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -659,7 +681,7 @@
 {
 "cls": "document",
 "id": "gao-nsiad-95-187",
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "tier": "A"
 },
 {
@@ -711,7 +733,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Roswell Incident",
+"sourceFiles": [
+"history-1940s-1960s",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "1995-07-28",
@@ -754,31 +781,35 @@
 "tierRationale": "Re-graded A on a global pass (rank 32 of 1170, score 93). 17 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1947-07-06",
+"grade": "A",
 "id": "tl-1947-brazel",
 "label": "Brazel reports the Foster Ranch debris",
 "precision": "day",
 "strand": "program",
-"text": "Mac Brazel reports the debris to Chaves County Sheriff George Wilcox, who calls Roswell Army Air Field. Maj. Jesse Marcel of the 509th Bomb Group and Capt. Sheridan Cavitt of the CIC are sent to retrieve it.",
-"tier": "A"
+"text": "Mac Brazel reports the debris to Chaves County Sheriff George Wilcox, who calls Roswell Army Air Field. Maj. Jesse Marcel of the 509th Bomb Group and Capt. Sheridan Cavitt of the CIC are sent to retrieve it."
 },
 {
+"claimTier": null,
 "date": "1947-07-08",
+"grade": "A",
 "id": "tl-1947-haut",
 "label": "RAAF announces a disc, and takes it back the same day",
 "precision": "day",
 "strand": "coverup",
-"text": "1st Lt. Walter Haut issues the 'flying disc' release; within hours Brig. Gen. Roger Ramey presents the material at Fort Worth as a weather balloon. The Air Force will concede in 1994 that the balloon statement was a cover story.",
-"tier": "A"
+"text": "1st Lt. Walter Haut issues the 'flying disc' release; within hours Brig. Gen. Roger Ramey presents the material at Fort Worth as a weather balloon. The Air Force will concede in 1994 that the balloon statement was a cover story."
 },
 {
+"claimTier": null,
 "date": "1995-07-28",
+"grade": "A",
 "id": "tl-1995-gao",
 "label": "GAO finds the Roswell records destroyed",
 "precision": "day",
 "strand": "oversight",
-"text": "GAO/NSIAD-95-187 reports that RAAF outgoing messages from October 1946 to December 1949 were destroyed with no disposition authority located. No agency has ever rebutted it.",
-"tier": "A"
+"text": "GAO/NSIAD-95-187 reports that RAAF outgoing messages from October 1946 to December 1949 were destroyed with no disposition authority located. No agency has ever rebutted it."
 }
-]
+],
+"unverified": []
 }

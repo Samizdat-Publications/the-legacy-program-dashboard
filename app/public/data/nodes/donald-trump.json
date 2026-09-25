@@ -135,8 +135,8 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
+"d-disclosure",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -157,6 +157,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Donald J. Trump",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -187,7 +191,7 @@
 "status": "active",
 "sub": "President; source of the PURSUE directive",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 447 of 1170, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 446 of 1170, score 32). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

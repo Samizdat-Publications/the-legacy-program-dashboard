@@ -64,7 +64,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"media-structure"
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -85,6 +85,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Dan Farah",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2025-03-09",

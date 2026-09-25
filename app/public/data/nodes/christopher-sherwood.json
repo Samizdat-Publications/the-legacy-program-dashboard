@@ -133,6 +133,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "christopher-sherwood",
 "label": "Christopher Sherwood"
@@ -154,6 +162,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -176,7 +192,7 @@
 }
 ],
 "domains": [
-"elizondo-ttsa"
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -197,6 +213,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Christopher Sherwood",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2019-06-01",
@@ -212,25 +231,27 @@
 "status": "former",
 "sub": "DoD spokesperson, Office of the Assistant to the Secretary of Defense for Public Affairs",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 804 of 1170, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 805 of 1170, score 21). 4 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-05-22",
+"grade": "A",
 "id": "tl-2019-05-22-sherwood",
 "label": "Pentagon confirms AATIP studied UAP",
 "precision": "day",
 "strand": "coverup",
-"text": "Christopher Sherwood tells the New York Post that AATIP 'did pursue research and investigation into unidentified aerial phenomena'.",
-"tier": "A"
+"text": "Christopher Sherwood tells the New York Post that AATIP 'did pursue research and investigation into unidentified aerial phenomena'."
 },
 {
+"claimTier": null,
 "date": "2019-06-01",
+"grade": "A",
 "id": "tl-2019-06-01-intercept",
 "label": "'No responsibilities with regard to the AATIP program'",
 "precision": "day",
 "strand": "coverup",
-"text": "Christopher Sherwood's statement to The Intercept becomes the Department's fixed position on Elizondo and remains so for the next seven years.",
-"tier": "A"
+"text": "Christopher Sherwood's statement to The Intercept becomes the Department's fixed position on Elizondo and remains so for the next seven years."
 }
 ],
 "unexplainedResidual": null,

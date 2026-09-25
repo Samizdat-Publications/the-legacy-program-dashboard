@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -98,9 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The Department of the Navy's criminal investigative and counterintelligence organisation, known as the Naval Investigative Service and then the Naval Investigative Service Command before it was renamed. The earliest federal record opened for this node is the Navy's final rule of 9 June 1994, which struck 'Commander, Naval Investigative Service Command' from 32 CFR 701.5 and inserted 'Director, Naval Criminal Investigative Service'; a Navy rule published eight days earlier still printed the old title. It is drafted here because Richard Doty places NIS inside the MJ-12 chain of custody the board already holds through Jaime Shandera, describing Shandera as an NIS asset on an unrelated operation when the dead drop arrived. The commonly cited 1992 redesignation date was not established by any record opened from this machine and is deliberately absent from this node.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -114,7 +113,11 @@
 "label": "Naval Criminal Investigative Service",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Naval Criminal Investigative Service",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1994-06-09",
@@ -139,16 +142,18 @@
 ],
 "sub": "Department of the Navy criminal investigative and counterintelligence organisation; title fixed in 32 CFR 701.5 on 9 June 1994",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 720 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 719 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1994-06-09",
+"grade": "C",
 "id": "tl-1994-06-09-nis-becomes-ncis",
 "label": "The Navy codifies the NCIS title, and it is not 1992",
 "precision": "day",
 "strand": "oversight",
-"text": "A Department of the Navy final rule amends 32 CFR 701.5(e)(2)(iii)(B) by removing 'Commander, Naval Investigative Service Command' and adding in its place 'Director, Naval Criminal Investigative Service'. A Navy document published eight days earlier still lists the old title among the officers it designates. This is the earliest federal record of the new name reached by this pass; the commonly cited 1992 redesignation date is supported by nothing opened.",
-"tier": "C"
+"text": "A Department of the Navy final rule amends 32 CFR 701.5(e)(2)(iii)(B) by removing 'Commander, Naval Investigative Service Command' and adding in its place 'Director, Naval Criminal Investigative Service'. A Navy document published eight days earlier still lists the old title among the officers it designates. This is the earliest federal record of the new name reached by this pass; the commonly cited 1992 redesignation date is supported by nothing opened."
 }
-]
+],
+"unverified": []
 }

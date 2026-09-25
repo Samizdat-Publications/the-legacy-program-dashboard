@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -129,10 +130,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The portal itself is a fact worth recording separately from what it contains. PURSUE material is published at war.gov/UFO, on the Secretary's own web estate, with video bundles served from a CloudFront distribution rather than from aaro.mil or from a FOIA reading room. AARO's homepage links out to it. The portal presents five dated releases, each as a paired document ZIP and video ZIP, carries Hegseth's signed transparency statement and a quotation of the President's direction, and offers no assessment, index, manifest, metadata schema or provenance statement for any file. The Department has reported the site receiving over 1.7 billion hits. The architectural choice is the substantive one: by publishing through the Secretary's site rather than through AARO's EFOIA reading room, the Department produced a release with no FOIA case numbers, no processing notes, no exemption citations against the redactions, and no appeal path - the release is a publication, not a disclosure under any statute, and can be curtailed or withdrawn without any legal consequence.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -146,7 +144,12 @@
 "label": "war.gov/UFO release portal",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "war.gov/UFO release portal",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -177,5 +180,6 @@
 "sub": "The publication surface for PURSUE; not an AARO property",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 779 of 1170, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

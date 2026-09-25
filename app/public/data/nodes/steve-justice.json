@@ -126,7 +126,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"elizondo-ttsa"
+"d-prop",
+"d-materials",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -147,6 +149,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Steve Justice",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2018-04-30",
@@ -167,7 +172,7 @@
 "status": "former",
 "sub": "TTSA COO and Aerospace Division Director; 31 years at Lockheed Martin Skunk Works",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 396 of 1170, score 34). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 399 of 1170, score 34). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

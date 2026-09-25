@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -166,10 +167,7 @@
 "deg": 6,
 "denials": [],
 "desc": "The Nevada complex is where the classification regimes overlap. A Department of Energy site operated under Atomic Energy Act authorities by a succession of private management and operating contractors - EG&G in the nuclear testing era, Bechtel Nevada from 1996 to 2006, the Northrop Grumman-led National Security Technologies LLC from 2006 - it sits adjacent to the Air Force operating location near Groom Lake, whose environmental disclosure obligations the President waives annually. Its contractor-operated laboratories, the Remote Sensing Laboratory and the Special Technologies Laboratory, hold the national capability for characterising anomalous radiological and material signatures. Al O'Donnell, the EG&G manager who told George Knapp that a recovered saucer and a live being existed, was the first general manager of EG&G's operations here. Material held under DOE Restricted Data authority at a contractor-operated site sits outside the 10 U.S.C. Sec. 119 special access program reporting regime entirely.",
-"domains": [
-"lazar-s4-2026-09-18",
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -183,7 +181,12 @@
 "label": "Nevada Test Site / Nevada National Security Site",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Nevada Test Site / Nevada National Security Site",
+"sourceFiles": [
+"lazar-s4-2026-09-18",
+"primes-custody"
+],
 "sources": [
 {
 "date": "1990-08-21",
@@ -208,6 +211,7 @@
 ],
 "sub": "DOE site complex; successive contractor management EG&G, Bechtel Nevada, NSTec",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 498 of 1170, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 499 of 1170, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"timeline": [],
+"unverified": []
 }

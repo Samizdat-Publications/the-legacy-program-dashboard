@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Aerojet Rocketdyne is the American propulsion house - solid and liquid rocket motors, hypersonic and advanced propulsion research - and propulsion is the specific technical category the Senate Intelligence Committee legislated about in 2023. Section 1104 of the reported Intelligence Authorization Act for FY2024 would have cut off funds for 'the development of propulsion technology, or aerospace craft that uses propulsion technology, systems, or subsystems, that is based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and for 'any aerospace craft that uses propulsion technology other than chemical propellants, solar power, or electric ion thrust.' A Senate committee does not write that sentence about a category it believes to be empty. USAspending records roughly $8.7 billion in prime contract obligations to Aerojet entities since FY2008. The company was acquired by L3Harris in 2023, moving its propulsion portfolio and its historical records into a new corporate parent. No witness has named Aerojet Rocketdyne as a custodian of material; it is on the board as the industrial location where the legislated category of derived propulsion work would necessarily sit.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -62,7 +61,11 @@
 "label": "Aerojet Rocketdyne",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Aerojet Rocketdyne",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2023-06-22",
@@ -82,6 +85,7 @@
 ],
 "sub": "Propulsion prime; acquired by L3Harris in 2023",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 855 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 857 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"timeline": [],
+"unverified": []
 }

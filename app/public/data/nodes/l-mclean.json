@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,9 +125,7 @@
 "deg": 4,
 "denials": [],
 "desc": "McLean, Virginia is where four of MITRE's six FFRDCs are registered on the NSF's master list - the National Security Engineering Center (primary location reassigned here in 2025), the Center for Advanced Aviation System Development, the Center for Enterprise Modernization, and the Homeland Security Systems Engineering and Development Institute. It sits inside the Northern Virginia intelligence corridor between CIA headquarters at Langley and the Pentagon. MITRE's other headquarters is in Bedford, Massachusetts, adjacent to Hanscom Air Force Base and MIT Lincoln Laboratory, the corporation's point of origin. The two-campus structure is itself the story: the Massachusetts campus is the engineering inheritance from Lincoln Laboratory and SAGE; the Virginia campus is where the defence and intelligence customer relationships live.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -140,7 +139,11 @@
 "label": "McLean, Virginia",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "McLean, Virginia",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -150,6 +153,7 @@
 ],
 "sub": "MITRE co-headquarters; primary location of NSEC, CAASD, CEM and HSSEDI",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 950 of 1170, score 17). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 949 of 1170, score 17). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"timeline": [],
+"unverified": []
 }

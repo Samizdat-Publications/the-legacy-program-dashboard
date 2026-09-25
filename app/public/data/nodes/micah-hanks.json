@@ -80,7 +80,7 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"media-structure"
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -101,6 +101,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Micah Hanks",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -119,13 +122,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 1066 of 1170, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-10-17",
+"grade": "A",
 "id": "ms-2024-ic-debrief",
 "label": "The Debrief reports Immaculate Constellation",
 "precision": "day",
 "strand": "program",
-"text": "Micah Hanks publishes the first general-readership account of Shellenberger's alleged insider and the unacknowledged special access program, framed as an open question.",
-"tier": "A"
+"text": "Micah Hanks publishes the first general-readership account of Shellenberger's alleged insider and the unacknowledged special access program, framed as an open question."
 }
 ],
 "unexplainedResidual": null,

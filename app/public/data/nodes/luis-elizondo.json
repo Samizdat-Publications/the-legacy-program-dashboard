@@ -643,8 +643,8 @@
 "url": "https://www.history.com/articles/ufo-sightings-speed-appearance-movement"
 }
 ],
-"tier": "B",
-"type": "programmatic"
+"tier": "C",
+"type": "research"
 },
 {
 "claimTier": 1,
@@ -703,29 +703,13 @@
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Elizondo's affirmation is printed in the same official record in which the majority notes that agencies had not substantiated Grusch's claims - both statements stand in the hearing volume.",
 "sources": [
 {
 "date": "2024-11-13",
 "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": null,
-"dateStart": "2024",
-"direction": "out",
-"edgeLabel": "Sworn witness; testified to a SCIF-signed document barring him from discussing crash retrieval",
-"id": "hearing-2024-11-13",
-"l0": true,
-"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
-"note": "Elizondo's affirmation is printed in the same official record in which the majority notes that agencies had not substantiated Grusch's claims - both statements stand in the hearing volume.",
-"sources": [
 {
 "date": "2024-11-13",
 "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)",
@@ -1110,7 +1094,7 @@
 "edgeLabel": "HVSACO and nickname practice describe the paperwork environment Elizondo has described",
 "id": "sap-cover-mechanisms",
 "l0": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "note": "Elizondo's account of AATIP-era handling turns on material moving in special access channels; DoDM 5205.07-V1 documents HVSACO as the caveat used for unacknowledged SAP nicknames and expressly not a classification.",
 "sources": [
 {
@@ -1337,6 +1321,14 @@
 "deg": 38,
 "denials": [
 {
+"a": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -1358,6 +1350,14 @@
 ]
 },
 {
+"a": {
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "christopher-sherwood",
 "label": "Christopher Sherwood"
@@ -1379,6 +1379,14 @@
 ]
 },
 {
+"a": {
+"id": "garry-reid-memo-2017",
+"label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "garry-reid-memo-2017",
 "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
@@ -1405,6 +1413,14 @@
 ]
 },
 {
+"a": {
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "kirkpatrick-sciam-oped-2024",
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
@@ -1426,6 +1442,14 @@
 ]
 },
 {
+"a": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
 "by": {
 "id": "luis-elizondo",
 "label": "Luis D. Elizondo"
@@ -1447,6 +1471,14 @@
 ]
 },
 {
+"a": {
+"id": "neill-tipton",
+"label": "Neill Tipton"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "neill-tipton",
 "label": "Neill Tipton"
@@ -1468,6 +1500,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -1495,14 +1535,14 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"_rs-legislation",
-"aawsap-aatip",
-"elizondo-ttsa",
-"grusch",
-"primes-custody",
-"uaptf-aaro",
-"w2-2025-2026"
+"d-funding",
+"d-oversight",
+"d-coverup",
+"d-disclosure",
+"d-materials",
+"d-witness",
+"d-custody",
+"d-media"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -1560,6 +1600,16 @@
 }
 ],
 "short": "Luis D. Elizondo",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_rs-legislation",
+"aawsap-aatip",
+"elizondo-ttsa",
+"grusch",
+"primes-custody",
+"uaptf-aaro",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-02-01",
@@ -1665,43 +1715,47 @@
 "status": "active",
 "sub": "Former OUSD(I) counterintelligence officer; states he ran AATIP 2010-2017",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 5 of 1170, score 157). 43 connections, 7 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 6 of 1170, score 151). 42 connections, 5 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2010-01-01",
+"grade": "B",
 "id": "tl-2010-elizondo-takes-over",
 "label": "Elizondo assumes AATIP role",
 "precision": "year",
 "strand": "program",
-"text": "On TTSA's account Elizondo takes over AATIP as Director in 2010, running it from OUSD(I). Neill Tipton, his superior in this period, later states he brought no AATIP responsibilities with him.",
-"tier": "B"
+"text": "On TTSA's account Elizondo takes over AATIP as Director in 2010, running it from OUSD(I). Neill Tipton, his superior in this period, later states he brought no AATIP responsibilities with him."
 },
 {
+"claimTier": null,
 "date": "2016-01-01",
+"grade": "B",
 "id": "tl-2016-eval",
 "label": "'Exemplary' performance evaluation",
 "precision": "year",
 "strand": "witness",
-"text": "Elizondo's annual evaluation rates him exemplary; his supervisor writes that it 'cannot be overstated the importance of Mr. Elizondo's portfolio to national security' and credits him with neutralising six insider threats.",
-"tier": "B"
+"text": "Elizondo's annual evaluation rates him exemplary; his supervisor writes that it 'cannot be overstated the importance of Mr. Elizondo's portfolio to national security' and credits him with neutralising six insider threats."
 },
 {
+"claimTier": null,
 "date": "2021-05-16",
+"grade": "B",
 "id": "tl-2021-05-16-60min",
 "label": "60 Minutes segment",
 "precision": "day",
 "strand": "program",
-"text": "Elizondo, Mellon and Navy aviators appear in a CBS 60 Minutes report on UAP in restricted U.S. airspace, weeks before the ODNI preliminary assessment.",
-"tier": "B"
+"text": "Elizondo, Mellon and Navy aviators appear in a CBS 60 Minutes report on UAP in restricted U.S. airspace, weeks before the ODNI preliminary assessment."
 },
 {
+"claimTier": 2,
 "date": "2025-05-02",
+"grade": null,
 "id": "tl-elizondo-irrigation",
 "label": "Elizondo's claimed 600-1,000-foot disc identified as an irrigation circle",
 "precision": "day",
 "strand": "witness",
-"text": "At a UAP Disclosure Fund hearing Luis Elizondo presents an image described as a gigantic disc; analysts including Mick West identify it as an irrigation circle. The correction comes from the sceptic community, not the government.",
-"tier": "2"
+"text": "At a UAP Disclosure Fund hearing Luis Elizondo presents an image described as a gigantic disc; analysts including Mick West identify it as an irrigation circle. The correction comes from the sceptic community, not the government."
 }
 ],
 "unexplainedResidual": "If Elizondo truly had no assigned AATIP duties, no one at OUSD(I) has explained why he was the officer who submitted the DD-1910 for the AATIP-associated video files, or why his supervisor's evaluation described a classified portfolio of overstated-to-understate national-security importance.",

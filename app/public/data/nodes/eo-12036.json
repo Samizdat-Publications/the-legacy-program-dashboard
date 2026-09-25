@@ -32,6 +32,7 @@
 ],
 "cls": "legislation",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Carter's intelligence charter order. It is on this board for its special-activity approval chain and its oversight structure, and for a negative finding: it contains no compartmentation provision of any kind, so it cannot be cited for one.",
-"domains": [
-"nsc-eo-spine-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -98,7 +97,11 @@
 "label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
+"sourceFiles": [
+"nsc-eo-spine-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -109,5 +112,6 @@
 "sub": "Executive order; the special-activity approval chain, and NOT a compartmentation instrument",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 795 of 1170, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

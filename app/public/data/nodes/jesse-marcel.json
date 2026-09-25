@@ -4,14 +4,38 @@
 "D": 3,
 "affiliations": [
 "509th Bomb Group, Roswell Army Air Field, S-2 Intelligence (1946-1948)",
-"US Air Force, Special Weapons Program (1948-1950)"
+"US Air Force, Special Weapons Program (1948-1950)",
+"US Army Air Forces, commissioned 1942",
+"5th Bomber Command, Southwest Pacific",
+"509th Composite Group / 509th Bomb Group, Roswell AAF",
+"Operation Crossroads, Bikini Atoll, 1946"
 ],
 "age": null,
 "band": null,
 "chronology": [
 {
+"date": "1907-05-27",
+"event": "Born, Bayou Blue, Louisiana",
+"precision": "day"
+},
+{
+"date": "1942-04",
+"event": "Commissioned 2nd Lt, US Army Air Forces; trained as combat photo interpreter / intelligence officer",
+"precision": "month"
+},
+{
+"date": "1946-07-26",
+"event": "Brig. Gen. Roger M. Ramey writes a letter of commendation for Marcel's performance in Operation Crossroads",
+"precision": "day"
+},
+{
 "date": "1947-07-07",
 "event": "Travels to the Foster ranch with CIC Capt. Sheridan Cavitt and collects debris",
+"precision": "day"
+},
+{
+"date": "1947-07-07",
+"event": "With Lt. Col. Sheridan Cavitt, visits the Foster ranch debris field with Mac Brazel and recovers material",
 "precision": "day"
 },
 {
@@ -20,8 +44,28 @@
 "precision": "day"
 },
 {
+"date": "1947-07-08",
+"event": "Roswell AAF press release names Marcel as the officer responsible for recovering the 'flying disc'; debris flown to Fort Worth AAF",
+"precision": "day"
+},
+{
+"date": "1978-02",
+"event": "Interviewed by Stanton Friedman in Baton Rouge; states the weather balloon account was a cover story",
+"precision": "month"
+},
+{
 "date": "1978-02-20",
 "event": "Tells Stanton Friedman the balloon story was a cover and the material was unidentifiable",
+"precision": "day"
+},
+{
+"date": "1980",
+"event": "His account is published in Berlitz and Moore, 'The Roswell Incident'",
+"precision": "year"
+},
+{
+"date": "1986-06-23",
+"event": "Dies",
 "precision": "day"
 },
 {
@@ -70,7 +114,8 @@
 "cls": "person",
 "cluster": "witness",
 "conflicts": [
-"Marcel overstated parts of his military biography in later interviews, which the Air Force uses to impeach him; the overstatements do not bear on what he handled in July 1947"
+"Marcel overstated parts of his military biography in later interviews, which the Air Force uses to impeach him; the overstatements do not bear on what he handled in July 1947",
+"The Air Force's 1994-1997 reports conclude the debris was a Project Mogul balloon train launched from Alamogordo AAF, and that Marcel misidentified it. Researchers have also documented that Marcel's later claims about his own war record and education were inflated relative to his service file."
 ],
 "connections": [
 {
@@ -253,6 +298,14 @@
 "deg": 7,
 "denials": [
 {
+"a": {
+"id": "jesse-marcel",
+"label": "Jesse A. Marcel Sr."
+},
+"b": {
+"id": "usaf-roswell-reports",
+"label": "The Roswell Reports (USAF, 1994-1997)"
+},
 "by": {
 "id": "usaf-roswell-reports",
 "label": "The Roswell Reports (USAF, 1994-1997)"
@@ -280,8 +333,9 @@
 }
 ],
 "domains": [
-"history-1940s-1960s",
-"w12-duplicate-collapse"
+"d-legacy",
+"d-recovery",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -321,6 +375,11 @@
 }
 ],
 "short": "Jesse A. Marcel Sr.",
+"sourceFiles": [
+"history-1940s-1960s",
+"w12-duplicate-collapse",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1995-01-01",
@@ -351,20 +410,23 @@
 "status": "dead",
 "sub": "Intelligence officer, 509th Bomb Group",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 142 of 1170, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 143 of 1170, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1978-02-01",
+"grade": "B",
 "id": "tl-1978-02",
 "label": "Jesse Marcel breaks silence",
 "precision": "month",
 "strand": "witness",
-"text": "The 509th's intelligence officer tells researcher Stanton Friedman that the 1947 weather balloon explanation was a cover story, restarting the Roswell inquiry after thirty-one years.",
-"tier": "B"
+"text": "The 509th's intelligence officer tells researcher Stanton Friedman that the 1947 weather balloon explanation was a cover story, restarting the Roswell inquiry after thirty-one years."
 }
 ],
 "unexplainedResidual": "No disposition authority has ever been produced for the destruction of the RAAF outgoing message traffic covering the exact period of the recovery.",
 "unverified": [
-"Whether material was substituted between Roswell and Fort Worth on 8 July 1947"
+"Whether material was substituted between Roswell and Fort Worth on 8 July 1947",
+"The exact date in February 1978 of the Friedman interview.",
+"Whether any 1947 Air Materiel Command or 509th record beyond the press release names Marcel in connection with the material's onward routing."
 ]
 }

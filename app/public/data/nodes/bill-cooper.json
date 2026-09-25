@@ -87,9 +87,7 @@
 "dateStart": "2001-11-06",
 "deg": 2,
 "denials": [],
-"domains": [
-"dulce-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -109,6 +107,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Milton William Cooper",
+"sourceFiles": [
+"dulce-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -124,16 +125,17 @@
 "status": "deceased",
 "sub": "Broadcaster and author who carried the alien-bases-under-reservations frame to a mass audience from 1989; his 1989 paper never names Dulce",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 803 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 804 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2001-11-06",
+"grade": "C",
 "id": "tl-2001-11-06-cooper-killed",
 "label": "Cooper is killed during an attempted arrest in Arizona",
 "precision": "day",
 "strand": "witness",
-"text": "A sheriff's operation involving seventeen officers, with two deputies in plain clothes, on a 1998 federal warrant for tax evasion and bank fraud and a local warrant for aggravated assault with a deadly weapon. Cooper shot a deputy in the head and 'was killed by multiple shots before he made it inside'. The SPLC report gives 6 November; the date in general circulation is 5 November.",
-"tier": "C"
+"text": "A sheriff's operation involving seventeen officers, with two deputies in plain clothes, on a 1998 federal warrant for tax evasion and bank fraud and a local warrant for aggravated assault with a deadly weapon. Cooper shot a deputy in the head and 'was killed by multiple shots before he made it inside'. The SPLC report gives 6 November; the date in general circulation is 5 November."
 }
 ],
 "unexplainedResidual": null,

@@ -17,6 +17,7 @@
 ],
 "cls": "domain",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -327,9 +328,7 @@
 "deg": 12,
 "denials": [],
 "desc": "The domain covering how the disclosure record is actually produced and distributed. The defining fact of the 2023-2026 period is that the substrate moved: the New York Times carried the 2017 AATIP story but not the 2023 Grusch story, which went to The Debrief; the most detailed structural reconstruction of the alleged programme was published not by any newsroom but on a YouTube channel; and the mainstream broadcast contribution came from a single correspondent at a fourth-place cable network. The consequences cut both ways. Long-form independent media gave the structural argument the room it needed - three and four hours, with timestamped chapter indexes that make claims retrievable and dateable - which no broadcast format would have allowed. It also removed the editorial layer that would have forced sourcing discipline, and it attached the whole enterprise to advertising, membership and merchandise revenue models that reward escalation. Both facts belong in any assessment of this record.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -343,7 +342,11 @@
 "label": "Independent media as the disclosure substrate",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Independent media as the disclosure substrate",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-01-11",
@@ -353,6 +356,7 @@
 ],
 "sub": "Research domain",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 821 of 1170, score 21). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 822 of 1170, score 21). 12 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"timeline": [],
+"unverified": []
 }

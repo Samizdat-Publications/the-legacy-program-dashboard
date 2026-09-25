@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -171,9 +172,7 @@
 "deg": 6,
 "denials": [],
 "desc": "A contractor study for the Air Force Special Weapons Center on what could be learned from detonating a nuclear weapon on or near the Moon, and on what it would cost politically. Its own introduction names three motivations, scientific, military and political, and says plainly that a nation performing the feat first would accrue positive effects as a demonstration of advanced technological capability. It is carried on this board as an instrument rather than an anecdote: a dated federal record of a plan whose public existence was, for decades, a matter of assertion. Its distribution list also documents who in the nuclear weapons complex received it. Two corrections the record forces on the corpus: the report is dated 19 June 1959, not 1958 and not May 1959, and the string A119 appears nowhere in it. C. E. Sagan is on its contributor list; the document says nothing about his security clearance.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -242,7 +241,11 @@
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AFSWC TR-59-39 Lunar Research Flights",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1959-06-19",
@@ -262,16 +265,18 @@
 ],
 "sub": "Air Force Special Weapons Center, Kirtland AFB; L. Reiffel, Armour Research Foundation; contributor C. E. Sagan; DDC AD 425380",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 116 of 1170, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 115 of 1170, score 58). 6 connections, 5 of them custody/funding/programmatic. Axes C3/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1959-06-19",
+"grade": "B",
 "id": "tl-1959-06-19-lunar-research-flights",
 "label": "A Study of Lunar Research Flights delivered to the Air Force Special Weapons Center",
 "precision": "day",
 "strand": "program",
-"text": "AFSWC TR-59-39 Vol I, by L. Reiffel of the Armour Research Foundation with contributions including C. E. Sagan, is dated 19 June 1959 under Contract AF 29(601)-1164. Its introduction states that the motivation for detonating a nuclear weapon on or near the Moon is threefold, scientific, military and political, and that positive effects would accrue to the nation first performing the feat. Copies went to ARPA at the Pentagon, to the AEC for the Division of Military Application, to Sandia, to Los Alamos, to the Lawrence Radiation Laboratory and to WADD at Wright-Patterson. The string A119 appears nowhere in it.",
-"tier": "B"
+"text": "AFSWC TR-59-39 Vol I, by L. Reiffel of the Armour Research Foundation with contributions including C. E. Sagan, is dated 19 June 1959 under Contract AF 29(601)-1164. Its introduction states that the motivation for detonating a nuclear weapon on or near the Moon is threefold, scientific, military and political, and that positive effects would accrue to the nation first performing the feat. Copies went to ARPA at the Pentagon, to the AEC for the Division of Military Application, to Sandia, to Los Alamos, to the Lawrence Radiation Laboratory and to WADD at Wright-Patterson. The string A119 appears nowhere in it."
 }
-]
+],
+"unverified": []
 }

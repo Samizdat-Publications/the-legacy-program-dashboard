@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -119,9 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The 'UFO desk' was the Ministry of Defence's public-facing single point of entry for unidentified aerial phenomena reports from the British public, police, military and civil aviation. It sat within the Secretariat (Air Staff) and latterly the Directorate of Air Staff, and its defining characteristic - attested by its own last desk officer to hold the post publicly, Nick Pope, and by The National Archives' description of the released files - is that it was deliberately never given a project name of the Project Blue Book kind, because the government wished to play down the extent of its interest. The desk's formal public line for five decades was that UAP reports were of no defence significance. The files released by The National Archives between 2008 and 2013 show that the desk simultaneously routed material to the Defence Intelligence Staff section DI55, briefed ministers, answered parliamentary questions, and in the last years handled the largest volume of sighting reports in thirty years. The National Archives' description of the final June 2013 tranche states plainly that it covers 'the final two years of the Ministry of Defence's UFO Desk (from late 2007 until November 2009)' and invites researchers to 'discover the reasons behind the closure of the UFO desk ... and the disclosure campaign for the truth, which was sparked by the closure of the UFO Desk'. The desk was closed on 1 December 2009, the MoD having, in the broadcaster's later summary, 'deemed it surplus to the UK's defence requirements'. The closure took effect nine years after the Defence Intelligence Staff's own Project Condign study had made exactly that recommendation as its single key recommendation.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -135,7 +134,11 @@
 "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2013-06-01",
@@ -155,6 +158,7 @@
 ],
 "sub": "UK civil-service desk receiving and triaging public UAP reports, c.1950s-2009",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 830 of 1170, score 21). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 831 of 1170, score 21). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unverified": []
 }

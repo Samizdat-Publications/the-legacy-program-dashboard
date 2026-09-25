@@ -89,8 +89,7 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"elizondo-ttsa",
-"w16-thin-people"
+"d-materials"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -111,6 +110,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jeffery Langhout",
+"sourceFiles": [
+"elizondo-ttsa",
+"w16-thin-people"
+],
 "sources": [
 {
 "date": "2019-10-18",
@@ -126,7 +129,7 @@
 "status": "former",
 "sub": "Director, U.S. Army Ground Vehicle Systems Center; CRADA signatory",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 839 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 840 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

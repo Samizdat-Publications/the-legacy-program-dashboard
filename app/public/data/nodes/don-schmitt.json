@@ -92,7 +92,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"w2-retrieval-literature"
+"d-recovery",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -113,6 +114,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Donald R. Schmitt",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",

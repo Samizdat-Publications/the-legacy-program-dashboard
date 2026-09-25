@@ -91,6 +91,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "philip-j-klass",
+"label": "Philip J. Klass"
+},
+"b": {
+"id": "clifford-stone",
+"label": "Clifford E. Stone"
+},
 "by": {
 "id": "philip-j-klass",
 "label": "Philip J. Klass"
@@ -112,6 +120,14 @@
 ]
 },
 {
+"a": {
+"id": "philip-j-klass",
+"label": "Philip J. Klass"
+},
+"b": {
+"id": "disclosure-project",
+"label": "The Disclosure Project"
+},
 "by": {
 "id": "philip-j-klass",
 "label": "Philip J. Klass"
@@ -133,9 +149,7 @@
 ]
 }
 ],
-"domains": [
-"disclosure-project-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -155,6 +169,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Philip J. Klass",
+"sourceFiles": [
+"disclosure-project-2026-09-19"
+],
 "sources": [
 {
 "date": "2001",
@@ -168,13 +185,14 @@
 "tierRationale": "Re-graded B on a global pass (rank 482 of 1170, score 31). 2 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2001",
+"grade": "B",
 "id": "tl-2001-klass-sun-68",
 "label": "Klass publishes Stone's service record and the 1987 FAA release",
 "precision": "year",
 "strand": "witness",
-"text": "Skeptics UFO Newsletter #68, Summer 2001. It prints Clifford Stone's assignment history obtained from the National Personnel Records Center, quotes the FAA Alaskan Region press release of 5 March 1987 and the air traffic control transcript on JAL 1628, and records that twenty of sixty-nine interviewees spoke at the press conference. Klass declares that he was refused admission to the event.",
-"tier": "B"
+"text": "Skeptics UFO Newsletter #68, Summer 2001. It prints Clifford Stone's assignment history obtained from the National Personnel Records Center, quotes the FAA Alaskan Region press release of 5 March 1987 and the air traffic control transcript on JAL 1628, and records that twenty of sixty-nine interviewees spoke at the press conference. Klass declares that he was refused admission to the event."
 }
 ],
 "unexplainedResidual": null,

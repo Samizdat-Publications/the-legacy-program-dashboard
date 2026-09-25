@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -77,10 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Reverse engineering is a mature, unremarkable defence discipline - the United States has run foreign materiel exploitation on captured Soviet aircraft, missiles and radars for eight decades, with dedicated organisations, facilities and a documented workflow: teardown, materials characterisation, functional analysis, then reproduction attempts. The claim this board tracks is not that the discipline is exotic but that it was applied to an artifact of unknown origin, which changes only the input. The workflow's signature is what makes it researchable: exploitation requires metallurgists, spectroscopists, structural engineers and test facilities, and those people leave publication gaps, clearance records, and unexplained capability jumps in adjacent unclassified fields. AARO's Volume I report addresses the claim directly and rejects it; David Grusch's sworn July 2023 testimony asserts it directly. The honest statement of the evidentiary position is that no artifact has been produced for independent examination, and every materials analysis released to date - including AARO's own January 2026 supplement on an aluminium specimen analysed by Oak Ridge National Laboratory - has returned a conventional result. Scoring high on this domain means an entity is alleged or documented to have performed exploitation work.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -94,7 +92,12 @@
 "label": "Reverse Engineering",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Reverse Engineering",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -124,6 +127,7 @@
 ],
 "sub": "Technical domain - exploitation of a recovered artifact into reproducible engineering",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 321 of 1170, score 38). 2 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 320 of 1170, score 38). 2 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"timeline": [],
+"unverified": []
 }

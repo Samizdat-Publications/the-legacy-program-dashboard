@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -187,10 +188,7 @@
 "deg": 7,
 "denials": [],
 "desc": "Congressional oversight of the deepest access tiers is not a matter of will but of architecture, and the architecture is written down. Under 10 U.S.C. 119 the Secretary of Defense may waive notification of a special access programme so that only the chairs and ranking members of four defence committees are told - eight members, ordinarily without cleared staff, ordinarily orally, with no ability to take notes away or consult a colleague. A member outside that eight who suspects a programme exists has no lawful route to confirm it, and a member inside it has no lawful route to tell anyone. That is the structural fact the disclosure fight has been trying to break since 2017. The instruments Congress has reached for are traceable: mandatory reporting requirements in successive NDAAs, the creation of AARO with a statutory mandate to review the historical record, the Department of Defense Inspector General's evaluation DODIG-2023-109, and - on 9 September 2025 - a House Oversight hearing titled 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' that put the access problem itself on the record. Scoring high on this domain means an entity sits at the point where the executive's information meets Congress's right to it: a committee chair, a cleared staff director, an IG, or a member who forced a vote.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -204,7 +202,12 @@
 "label": "Congressional Oversight",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Congressional Oversight",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-02-06",
@@ -239,16 +242,18 @@
 ],
 "sub": "Institutional domain - the committees, clearances and gaps through which Congress does or does not see",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 591 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 587 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2024-01-25",
+"grade": null,
 "id": "tx-2024-oig",
 "label": "The Inspector General reports, mostly classified",
 "precision": "day",
 "strand": "oversight",
-"text": "The DoD Inspector General releases an unclassified summary of DODIG-2023-109, its evaluation of the Department's actions regarding UAP. The evaluation was initiated on personnel complaints; the public receives the summary.",
-"tier": 1
+"text": "The DoD Inspector General releases an unclassified summary of DODIG-2023-109, its evaluation of the Department's actions regarding UAP. The evaluation was initiated on personnel complaints; the public receives the summary."
 }
-]
+],
+"unverified": []
 }

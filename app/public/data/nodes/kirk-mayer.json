@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The smallest node in this cluster and possibly the most useful, because it converts a disputed sentence into a precise one. 'Lazar worked at Los Alamos' has been argued about for thirty-five years. 'Lazar worked at Los Alamos as a contract technician for Kirk-Mayer' is what the opened record actually supports, and it is supported from three directions that do not share a source: the telephone directory page carrying his name states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer; a Los Alamos colleague interviewed on tape in 1996 said Lazar 'was a contractor' under Kirk Mayer; and Gene Huff, writing in Lazar's defence, records a Kirk-Mayer employee number issued on 18 May 1982. The node also does work the board needs beyond this cluster: it is a named support contractor at a national laboratory, which is the contractor spine the board's own gap list has been asking for, and it joins lanl, l-los-alamos, doe and d-contractor.",
-"domains": [
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -119,7 +118,11 @@
 "label": "Kirk-Mayer, Inc.",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Kirk-Mayer, Inc.",
+"sourceFiles": [
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "1997-12",
@@ -145,5 +148,9 @@
 "sub": "Los Alamos support-services contractor under which Bob Lazar actually worked in 1982, and whose name appears on the telephone-directory page that also carries his",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1102 of 1170, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": [
+"The company's full corporate identity, incorporation, contract vehicle and scope of work at Los Alamos. NOTHING was opened about Kirk-Mayer as a company. Everything here is what three people writing about Lazar say about his relationship to it. A later session should look for the laboratory's support-services contract records.",
+"The spelling of the name. 'Kirk Meyer' in Friedman, 'Kirk Mayer' in the 1996 interview transcript, 'Kirk-Mayer' in Huff and Mahood. No corporate record was opened to settle it."
+]
 }

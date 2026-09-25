@@ -17,6 +17,7 @@
 ],
 "cls": "legislation",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -88,9 +89,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Enacted as section 8 of the Central Intelligence Agency Act of 1949 on 20 June 1949, this is the oldest and bluntest black-budget instrument in American law, and it has never been repealed or narrowed. The operative text: 'The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted for solely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.' Two clauses, two different powers. The first disapplies the whole body of federal expenditure law to Agency spending. The second provides that for confidential, extraordinary or emergency objects the Director's own signature is the entire accounting record - no receipt, no contract file, no audit trail, and by statute nothing further may be demanded. The provision dates from 1949, which places it squarely inside the period in which the alleged recovery programme is said to have been established and in which the institutional architecture of concealment was being built. Any account of how a programme could be financed for decades without appearing in any auditable record must begin here, because Congress wrote the answer in 1949 and has left it on the books ever since.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -104,7 +103,11 @@
 "label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -114,16 +117,18 @@
 ],
 "sub": "Statutory authority to spend appropriated money outside all normal accounting law",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 444 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 443 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1949-06-20",
+"grade": "A",
 "id": "bb-tl-1949-ciaact",
 "label": "CIA Act of 1949 creates unvouchered spending",
 "precision": "day",
 "strand": "program",
-"text": "Section 8 of the Central Intelligence Agency Act, now 50 U.S.C. 3510(b), permits Agency sums to be 'expended without regard to the provisions of law and regulations relating to the expenditure of Government funds', with confidential, extraordinary or emergency objects 'accounted for solely on the certificate of the Director'. The oldest and bluntest black-budget instrument in American law, enacted two years after Roswell and never narrowed.",
-"tier": "A"
+"text": "Section 8 of the Central Intelligence Agency Act, now 50 U.S.C. 3510(b), permits Agency sums to be 'expended without regard to the provisions of law and regulations relating to the expenditure of Government funds', with confidential, extraordinary or emergency objects 'accounted for solely on the certificate of the Director'. The oldest and bluntest black-budget instrument in American law, enacted two years after Roswell and never narrowed."
 }
-]
+],
+"unverified": []
 }

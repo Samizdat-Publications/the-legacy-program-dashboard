@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "A National Security Action Memorandum of two numbered sentences, signed by McGeorge Bundy, which renames the Special Group 5412 as the 303 Committee and changes nothing else. It is on this board as a documented case of a citation that does not say what it is cited for.",
-"domains": [
-"nsc-eo-spine-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -93,7 +92,11 @@
 "label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
+"sourceFiles": [
+"nsc-eo-spine-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -106,13 +109,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1028 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1964-06-02",
+"grade": null,
 "id": "spine-tl-1964-303",
 "label": "The Special Group 5412 is renamed the 303 Committee, and nothing else changes",
 "precision": "day",
 "strand": "program",
-"text": "McGeorge Bundy signs a two-sentence National Security Action Memorandum renaming the Special Group 5412 as the 303 Committee, expressly altering nothing about its composition, function or responsibility. It contains no secrecy policy of any kind, which matters because it is routinely cited as though it did.",
-"tier": 1
+"text": "McGeorge Bundy signs a two-sentence National Security Action Memorandum renaming the Special Group 5412 as the 303 Committee, expressly altering nothing about its composition, function or responsibility. It contains no secrecy policy of any kind, which matters because it is routinely cited as though it did."
 }
-]
+],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,10 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The founding charter of the modern official apparatus, signed by Deputy Secretary of Defense Kathleen Hicks on 15 July 2022 and announced on 20 July. Four operative directions: establish AARO as the Department's authoritative office and focal point for all UAP activities; task it to synchronise efforts to detect, identify and attribute objects of interest in, on or near military installations, operating areas, training areas, special use airspace and other areas of interest, including anomalous space, airborne, submerged and transmedium objects; direct the Under Secretary of Defense for Intelligence and Security to stand the office up in coordination with the Director of Administration and Management; and direct the Secretary of the Navy to disestablish the UAP Task Force and transfer its data and materials to AARO. It supersedes the 23 November 2021 AOIMSG direction. The transmedium language is worth noting on its own terms: the Deputy Secretary of Defense signed a memorandum in 2022 whose plain text assigns an office responsibility for submerged and transmedium anomalous objects.",
-"domains": [
-"_rs-archive-mirror",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -110,7 +108,12 @@
 "label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2026-06-09",
@@ -133,13 +136,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 457 of 1170, score 32). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-07-15",
+"grade": "A",
 "id": "tl-aaro-2022-07-15",
 "label": "AARO established",
 "precision": "day",
 "strand": "program",
-"text": "Hicks signs the memorandum creating AARO, disestablishing AOIMSG, and ordering the Navy to disestablish the UAPTF and transfer its data and materials. Announced 20 July.",
-"tier": "A"
+"text": "Hicks signs the memorandum creating AARO, disestablishing AOIMSG, and ordering the Navy to disestablish the UAPTF and transfer its data and materials. Announced 20 July."
 }
-]
+],
+"unverified": []
 }

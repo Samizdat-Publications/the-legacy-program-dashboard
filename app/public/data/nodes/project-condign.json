@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Project Condign is the codename of the secret study run by the UK Defence Intelligence Staff between 1997 and 2000 whose product, 'Unidentified Aerial Phenomena in the UK Air Defence Region', is the most substantive government UAP analysis released by any American ally. The Ministry of Defence's own description of its origin is precise: 'During a policy review in 1996 into the handling of Unidentified Aerial Phenomena sighting reports received by the Ministry of Defence, a study was undertaken to determine the potential value, if any, of such reports to Defence Intelligence. Consistent with Ministry of Defence policy, the available data was studied principally to ascertain whether there is any evidence of a threat to the UK, and secondly, should the opportunity arise, to identify any potential military technologies of interest.' The second of those two objectives is the one that matters to this board: the British government commissioned a classified study explicitly to see whether UAP could be exploited militarily. The report was classified UK SECRET UK EYES ONLY in its sensitive volumes and UK RESTRICTED for the executive summary, ran to four volumes and roughly 400 pages, and drew on about 10,000 reports. Its author was never named; the MoD's publication-scheme record gives only 'DAS'. It was released on 15 May 2006 following a September 2005 FOI request by David Clarke and Gary Anthony.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -109,7 +108,11 @@
 "label": "Project Condign",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project Condign",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2006-05-15",
@@ -134,6 +137,7 @@
 ],
 "sub": "UK Defence Intelligence Staff UAP study, 1997-2000",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 419 of 1170, score 34). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 422 of 1170, score 34). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [],
+"unverified": []
 }

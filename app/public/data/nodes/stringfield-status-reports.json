@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -171,9 +172,7 @@
 "deg": 6,
 "denials": [],
 "desc": "The seven UFO Crash/Retrieval Status Reports written by Leonard H. Stringfield between 1978 and 1994 are the founding corpus of the crash-retrieval literature and the reason the subject exists as a research field rather than as folklore. Status Report I is 'Retrievals of the Third Kind: A Case Study of Alleged UFOs and Occupants in Military Custody', delivered as a paper at the ninth annual MUFON Symposium in Dayton, Ohio on 29 July 1978 (revised 20 July 1978) and published in Flying Saucer Review; it grew out of the informant response to Stringfield's 1977 Doubleday book 'Situation Red, The UFO Siege'. Status Report II, 'The UFO Crash/Retrieval Syndrome: New Sources, New Data', is dated January 1980 and was published by MUFON; it introduced the letter-number case coding (Cases A-1 onward, Items B-1 onward) that structures the whole series, and included the first Del Rio and Wright-Patterson entries. Status Report III, 'Amassing the Evidence' (1982), carried endorsements from Dr. Peter Rank, Chief of Radiology at Methodist Hospital, and Richard H. Hall, former Assistant Director of NICAP and editor of the MUFON UFO Journal, and printed a consolidated chronology of every case reported in Status Report II - the field's first tabulated retrieval index. Status Report IV, 'The Fatal Encounter at Ft. Dix-McGuire: A Case Study' (June 1985), is a single-case monograph on an alleged 18 January 1978 incident at McGuire AFB and Fort Dix, developed from a USAF Security Police sergeant who had first appeared as Case A3 in Report III, and opens with a prologue titled 'The Burden of Proof' in which Stringfield states that public research does not possess proof and that affidavits, leaked documents and photographs are not proof. Status Report V, 'Is the Coverup Lid Lifting?' (January 1989), surveys Roswell, Aztec, Kingman, El Yunque and Brown County, Ohio, and argues that confirming any single retrieval would compel eventual sharing of alien propulsion and materials technology. Status Report VI, 'The Inner Sanctum' (July 1991), was self-published from 4412 Grove Avenue, Cincinnati, edited by Richard Hall and typed by Chris Coffey, and opens with the Humpty Dumpty verse from Through the Looking Glass. Status Report VII, 'Search for Proof in a Hall of Mirrors' (February 1994), acknowledges funding from the Fund for UFO Research and cooperation from MUFON, CUFOS and the Mid-Ohio Research Associates, opens with Walter Scott's 'I cannot tell how the truth may be; I say the tale as 'twas told to me', and closes the series ten months before Stringfield's death with a Roswell crash/retrieval update noting a source's placement of the site north of Roswell rather than on the Plains of San Augustin. The series' method - anonymous sources behind letter-number codes - is simultaneously the reason the material exists and the reason almost none of it can be graded above tier 2.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -296,7 +295,11 @@
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "UFO Crash/Retrieval Reports I-VII",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -319,58 +322,65 @@
 "tierRationale": "Re-graded C on a global pass (rank 798 of 1170, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1978-07-29",
+"grade": "A",
 "id": "tl-1978-0729-stringfield",
 "label": "Retrievals of the Third Kind",
 "precision": "day",
 "strand": "program",
-"text": "Leonard Stringfield delivers Status Report I at the ninth annual MUFON Symposium in Dayton, Ohio. The crash-retrieval literature begins as a research field.",
-"tier": "A"
+"text": "Leonard Stringfield delivers Status Report I at the ninth annual MUFON Symposium in Dayton, Ohio. The crash-retrieval literature begins as a research field."
 },
 {
+"claimTier": null,
 "date": "1980-01",
+"grade": "A",
 "id": "tl-1980-01-sr2",
 "label": "Status Report II",
 "precision": "month",
 "strand": "program",
-"text": "'The UFO Crash/Retrieval Syndrome: New Sources, New Data', published by MUFON, introduces the letter-number case coding and the first Del Rio and Wright-Patterson entries.",
-"tier": "A"
+"text": "'The UFO Crash/Retrieval Syndrome: New Sources, New Data', published by MUFON, introduces the letter-number case coding and the first Del Rio and Wright-Patterson entries."
 },
 {
+"claimTier": null,
 "date": "1985-06",
+"grade": "A",
 "id": "tl-1985-06-sr4",
 "label": "Status Report IV",
 "precision": "month",
 "strand": "program",
-"text": "'The Fatal Encounter at Ft. Dix-McGuire' opens with a prologue titled 'The Burden of Proof' in which Stringfield states that public research does not have proof and that affidavits, leaked documents and photographs are not proof.",
-"tier": "A"
+"text": "'The Fatal Encounter at Ft. Dix-McGuire' opens with a prologue titled 'The Burden of Proof' in which Stringfield states that public research does not have proof and that affidavits, leaked documents and photographs are not proof."
 },
 {
+"claimTier": null,
 "date": "1989-01",
+"grade": "A",
 "id": "tl-1989-01-sr5",
 "label": "Status Report V",
 "precision": "month",
 "strand": "program",
-"text": "'Is the Coverup Lid Lifting?' surveys Roswell, Aztec, Kingman, El Yunque and Brown County, Ohio, and argues that confirming a single retrieval would compel eventual sharing of alien propulsion and materials technology.",
-"tier": "A"
+"text": "'Is the Coverup Lid Lifting?' surveys Roswell, Aztec, Kingman, El Yunque and Brown County, Ohio, and argues that confirming a single retrieval would compel eventual sharing of alien propulsion and materials technology."
 },
 {
+"claimTier": null,
 "date": "1994-02",
+"grade": "A",
 "id": "tl-1994-02-sr7",
 "label": "Status Report VII",
 "precision": "month",
 "strand": "program",
-"text": "'Search for Proof in a Hall of Mirrors', Stringfield's last, opens with Walter Scott's 'I say the tale as 'twas told to me' and acknowledges the Fund for UFO Research, MUFON, CUFOS and the Mid-Ohio Research Associates. He dies ten months later.",
-"tier": "A"
+"text": "'Search for Proof in a Hall of Mirrors', Stringfield's last, opens with Walter Scott's 'I say the tale as 'twas told to me' and acknowledges the Fund for UFO Research, MUFON, CUFOS and the Mid-Ohio Research Associates. He dies ten months later."
 },
 {
+"claimTier": null,
 "date": "2026-08-12",
+"grade": "A",
 "id": "tl-2026-08-state",
 "label": "State of the record, August 2026",
 "precision": "day",
 "strand": "program",
-"text": "The retrieval literature stands where Stringfield left it: a large, internally consistent, unauditable testimony corpus. The nuclear-incursion strand stands materially higher, on FOIA-released NORAD, NMCC and Air Force paper plus named affiants. The only judicial findings in the domain are that a UFO injury claim fails on the pleadings and that a UFO records search was inadequate.",
-"tier": "A"
+"text": "The retrieval literature stands where Stringfield left it: a large, internally consistent, unauditable testimony corpus. The nuclear-incursion strand stands materially higher, on FOIA-released NORAD, NMCC and Air Force paper plus named affiants. The only judicial findings in the domain are that a UFO injury claim fails on the pleadings and that a UFO records search was inadequate."
 }
-]
+],
+"unverified": []
 }

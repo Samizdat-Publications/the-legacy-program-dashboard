@@ -127,9 +127,7 @@
 "dateStart": "1946-01-22",
 "deg": 4,
 "denials": [],
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -149,6 +147,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Rear Adm. Sidney W. Souers",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1946-01-22",
@@ -179,16 +180,17 @@
 "status": "former",
 "sub": "First Director of Central Intelligence, Central Intelligence Group, 1946; first Executive Secretary, National Security Council, 1947-1950",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 312 of 1170, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 310 of 1170, score 38). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1946-01-22",
+"grade": "B",
 "id": "tl-1946-01-22-central-intelligence-group",
 "label": "Truman creates the Central Intelligence Group and the post of Director of Central Intelligence",
 "precision": "day",
 "strand": "oversight",
-"text": "A Presidential directive on the coordination of foreign intelligence activities provides that personnel assigned from State, War and the Navy 'shall collectively form a Central Intelligence Group and shall, under the direction of a Director of Central Intelligence, assist the National Intelligence Authority', the Director to be designated by the President and to sit as a non-voting member of the Authority. Rear Adm. Sidney W. Souers is the first holder and signs as Director of Central Intelligence within two weeks.",
-"tier": "B"
+"text": "A Presidential directive on the coordination of foreign intelligence activities provides that personnel assigned from State, War and the Navy 'shall collectively form a Central Intelligence Group and shall, under the direction of a Director of Central Intelligence, assist the National Intelligence Authority', the Director to be designated by the President and to sit as a non-voting member of the Authority. Rear Adm. Sidney W. Souers is the first holder and signs as Director of Central Intelligence within two weeks."
 }
 ],
 "unexplainedResidual": null,

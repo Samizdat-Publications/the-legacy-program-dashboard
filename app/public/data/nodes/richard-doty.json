@@ -417,6 +417,14 @@
 "deg": 11,
 "denials": [
 {
+"a": {
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
 "by": {
 "id": "richard-doty",
 "label": "Richard C. Doty"
@@ -439,9 +447,8 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"dulce-2026-09-19",
-"history-1970s-2000s"
+"d-coverup",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -462,6 +469,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Richard C. Doty",
+"sourceFiles": [
+"_rs-archive-mirror",
+"dulce-2026-09-19",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2025-07-05",
@@ -517,43 +529,47 @@
 "status": "active",
 "sub": "USAF AFOSI Special Agent 1979-1988; later New Mexico State Police officer",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 118 of 1170, score 57). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 117 of 1170, score 57). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1980-09-09",
+"grade": "A",
 "id": "tl-ffrdc-1980-doty",
 "label": "AFOSI complaint form filed by Richard Doty",
 "precision": "day",
 "strand": "coverup",
-"text": "District File No. 8017D93-0/29 documents the Kirtland sightings. The same AFOSI office would shortly begin running fabricated material at Albuquerque physicist Paul Bennewitz.",
-"tier": "A"
+"text": "District File No. 8017D93-0/29 documents the Kirtland sightings. The same AFOSI office would shortly begin running fabricated material at Albuquerque physicist Paul Bennewitz."
 },
 {
+"claimTier": null,
 "date": "2013-06-13",
+"grade": "C",
 "id": "tl-2013-06-13-mirage-men",
 "label": "Mirage Men premieres at Sheffield Doc/Fest, built on the Doty admission",
 "precision": "day",
 "strand": "witness",
-"text": "Directed by John Lundberg with Roland Denning and Kypros Kyprianou, based on Mark Pilkington's 2010 book, produced by a company named Perception Management Productions. The film centres on Doty's dealings with Bennewitz and Linda Moulton Howe. THE FILM WAS NOT WATCHED by this session and nothing he says in it is quoted.",
-"tier": "C"
+"text": "Directed by John Lundberg with Roland Denning and Kypros Kyprianou, based on Mark Pilkington's 2010 book, produced by a company named Perception Management Productions. The film centres on Doty's dealings with Bennewitz and Linda Moulton Howe. THE FILM WAS NOT WATCHED by this session and nothing he says in it is quoted."
 },
 {
+"claimTier": null,
 "date": "2014-05-13",
+"grade": "B",
 "id": "tl-2014-05-13-rojas-doty",
 "label": "A dated report of the Doty admission, which quotes him nowhere",
 "precision": "day",
 "strand": "witness",
-"text": "Alejandro Rojas reports that Doty says he was tasked with hoaxing documents and feeding false information while an AFOSI special agent at Kirtland, that he was ordered to make Bennewitz believe in an impending alien invasion, and that he entered Bennewitz's house and office under orders. The piece paraphrases throughout and contains no direct quotation from him; the Air Force 'refuses to comment'.",
-"tier": "B"
+"text": "Alejandro Rojas reports that Doty says he was tasked with hoaxing documents and feeding false information while an AFOSI special agent at Kirtland, that he was ordered to make Bennewitz believe in an impending alien invasion, and that he entered Bennewitz's house and office under orders. The piece paraphrases throughout and contains no direct quotation from him; the Air Force 'refuses to comment'."
 },
 {
+"claimTier": null,
 "date": "2021-05-20",
+"grade": "B",
 "id": "tl-2021-05-20-doty-file",
 "label": "Doty's 321-page New Mexico State Police personnel file released",
 "precision": "day",
 "strand": "witness",
-"text": "Obtained by John Greenewald under the New Mexico Inspection of Public Records Act, NMSA 14-2-1 et seq., and released by the New Mexico Department of Public Safety with redactions. His Air Force service dates, rank progression and separation are inside the PDF, which was not opened by this session.",
-"tier": "B"
+"text": "Obtained by John Greenewald under the New Mexico Inspection of Public Records Act, NMSA 14-2-1 et seq., and released by the New Mexico Department of Public Safety with redactions. His Air Force service dates, rank progression and separation are inside the PDF, which was not opened by this session."
 }
 ],
 "unexplainedResidual": "No US government document has ever acknowledged the authority under which an AFOSI agent conducted a multi-year disinformation campaign against a US citizen.",

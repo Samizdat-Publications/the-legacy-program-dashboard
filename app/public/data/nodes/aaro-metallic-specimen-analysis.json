@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,6 +109,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"b": {
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
 "by": {
 "id": "aaro-metallic-specimen-analysis",
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
@@ -130,9 +139,7 @@
 }
 ],
 "desc": "In 2022 AARO contracted Oak Ridge National Laboratory to analyse a magnesium alloy specimen publicly alleged to be a component recovered from a crashed extraterrestrial vehicle in 1947 and to function as a terahertz waveguide producing antigravity effects. ORNL ran isotopic ratio measurement, elemental composition analysis and structural characterisation, and concluded the specimen is terrestrial in origin - magnesium and lead isotopic composition within terrestrial ranges - and that its bismuth layers are intermixed with lead in a way that precludes waveguide function. AARO's summary notes the specimen's characteristics are consistent with mid-twentieth-century magnesium alloy research using zinc, lead and bismuth additives and with vapour deposition manufacturing of that era. The document matters to this domain for two reasons beyond its finding. It is the only case in which material held in private hands and claimed to be non-terrestrial has actually been surrendered, analysed by a national laboratory, and reported publicly - the working precedent for what the stripped eminent domain provision would have compelled. And it states plainly that the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its actual historical origin unresolved, which is the recurring condition of every artifact in this file.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -146,7 +153,11 @@
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2024-07-11",
@@ -164,13 +175,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 291 of 1170, score 40). 3 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-07-11",
+"grade": "A",
 "id": "pc-2024-07-ornl",
 "label": "ORNL reports the alleged crash specimen is terrestrial",
 "precision": "day",
 "strand": "program",
-"text": "AARO releases the Oak Ridge analysis of the magnesium alloy sample acquired from a private UAP organisation and the US Army: terrestrial isotopic composition, no waveguide capability, and an undocumented chain of custody.",
-"tier": "A"
+"text": "AARO releases the Oak Ridge analysis of the magnesium alloy sample acquired from a private UAP organisation and the US Army: terrestrial isotopic composition, no waveguide capability, and an undocumented chain of custody."
 }
-]
+],
+"unverified": []
 }

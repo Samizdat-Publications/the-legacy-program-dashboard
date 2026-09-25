@@ -42,6 +42,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -387,6 +388,14 @@
 "deg": 12,
 "denials": [
 {
+"a": {
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"b": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -414,10 +423,7 @@
 }
 ],
 "desc": "Over three nights at the end of December 1980, US Air Force personnel at the twin bases of RAF Woodbridge and RAF Bentwaters in Suffolk - then a nuclear-capable USAF installation under NATO command - reported an object in the adjacent forest and lights in the sky. The deputy base commander documented it in an official memorandum two weeks later. Three distinct evidentiary layers exist: Lt Col Charles Halt's 13 January 1981 memorandum with its physical-trace and radiation readings; Halt's own live audio recording made during the 28 December patrol; and the signed witness statements of the airmen, including SSgt James Penniston and A1C John Burroughs. The UK Ministry of Defence's contemporaneous position was that the events were of no defence significance, a conclusion reached without interviewing the American witnesses. The incident's later history is the more important part for this board: the memo was released under US FOIA in 1983 before the MoD acknowledged its own file; John Burroughs' US Department of Veterans Affairs claim in the 2010s ran into the unavailability of his service medical records for the relevant period and was ultimately granted; and Halt executed a notarized affidavit in 2010 asserting suppression. Rendlesham is the best-documented case in the world of a physical-trace event at a nuclear-capable NATO installation, and the official position remains that nothing of defence significance occurred.",
-"domains": [
-"disclosure-project-2026-09-19",
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -597,7 +603,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Rendlesham Forest, 1980",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2001-04",
@@ -640,13 +651,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 155 of 1170, score 52). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1980-12-26",
+"grade": "A",
 "id": "t-1980-rendlesham",
 "label": "Rendlesham Forest incident begins",
 "precision": "day",
 "strand": "witness",
-"text": "USAF security patrolmen at the RAF Woodbridge east gate report lights descending into the forest; three enter on foot and report a metallic triangular object.",
-"tier": "A"
+"text": "USAF security patrolmen at the RAF Woodbridge east gate report lights descending into the forest; three enter on foot and report a metallic triangular object."
 }
-]
+],
+"unverified": []
 }

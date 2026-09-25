@@ -80,7 +80,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"aviators-incidents"
+"d-aviators",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -101,6 +102,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jason Turner",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-01-14",

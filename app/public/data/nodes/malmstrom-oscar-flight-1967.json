@@ -32,6 +32,10 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [
+"Salas gives all ten missiles off alert; Meiwald is reported as four or five; Kevin Randle records Salas himself once saying eight.",
+"The 24 March date is Hastings's current position via Jamison; Salas has given 24 and 25 March in different accounts, and the event was for years told as part of the 16 March Echo Flight incident."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -222,18 +226,20 @@
 "deg": 7,
 "denials": [
 {
-"by": {
+"a": {
 "id": "doc-341-smw-history-1967",
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
 },
+"b": {
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
 "note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
-"of": {
-"id": "malmstrom-oscar-flight-1967",
-"label": "Malmstrom Oscar Flight claim, 24 March 1967"
-},
+"of": null,
 "sources": [
 {
 "date": "2001-06-14",
@@ -243,6 +249,14 @@
 ]
 },
 {
+"a": {
+"id": "james-carlson",
+"label": "James Carlson"
+},
+"b": {
+"id": "malmstrom-oscar-flight-1967",
+"label": "Malmstrom Oscar Flight claim, 24 March 1967"
+},
 "by": {
 "id": "james-carlson",
 "label": "James Carlson"
@@ -270,9 +284,7 @@
 }
 ],
 "desc": "THE EVENT THE LITERATURE CONFLATES WITH ECHO FLIGHT, SEPARATED HERE SO THAT EACH CAN BE GRADED HONESTLY. Robert Salas states that while on duty as deputy missile combat crew commander in the Oscar Flight launch control capsule at Malmstrom he took a call from a topside security policeman reporting a glowing red object hovering over the front gate, and that within moments the flight's missiles went off alert one after another. His commander was Lt, later Col., Frederick Meiwald. For years this was told as part of the 16 March 1967 Echo Flight event, which allowed Echo Flight's Tier 1 documentation to be read as corroborating it. Robert Hastings now places Oscar Flight on 24 March 1967, eight days later, on Capt. Robert Jamison's recollection of a second retargeting call-out, and states that Salas agrees the incidents were probably on separate days. THE SEPARATION IS WHAT MAKES THE HONEST GRADING POSSIBLE AND IT ALSO REMOVES THE DOCUMENTARY SUPPORT. Once the two events are distinct, the released unit history touches Echo Flight and says nothing whatever about Oscar Flight. A full-text search of the 88 released pages returns zero occurrences of 'Oscar', 'O Flight', '24 Mar' and '25 Mar'. This node is admitted under CLAUDE.md section 2a on notability and is carried at Tier 2, openly, as a named man's account on dated records.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -364,7 +376,11 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Oscar Flight claim, 24 Mar 1967",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2001-06-14",
@@ -389,16 +405,22 @@
 ],
 "sub": "Robert Salas's claimed second missile shutdown, eight days after Echo Flight; not mentioned anywhere in the released 341st SMW histories",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 413 of 1170, score 34). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 416 of 1170, score 34). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1996",
+"grade": "B",
 "id": "tl-1996-salas-great-falls-tribune",
 "label": "Salas goes on the record and locates Meiwald himself",
 "precision": "year",
 "strand": "witness",
-"text": "Robert Salas went public with the Oscar Flight account in a 1996 interview with the Great Falls Tribune, and in the summer of that year located his former missile commander Frederick Meiwald, who wrote to him about the incident on 1 October 1996. Robert Hastings separately states he tape-recorded a telephone conversation with Meiwald in August 1996. Salas approaching a newspaper himself is a different provenance from the witnesses who reach the public only through an interviewer.",
-"tier": "B"
+"text": "Robert Salas went public with the Oscar Flight account in a 1996 interview with the Great Falls Tribune, and in the summer of that year located his former missile commander Frederick Meiwald, who wrote to him about the incident on 1 October 1996. Robert Hastings separately states he tape-recorded a telephone conversation with Meiwald in August 1996. Salas approaching a newspaper himself is a different provenance from the witnesses who reach the public only through an interviewer."
 }
+],
+"unverified": [
+"The 1 October 1996 Meiwald letter in facsimile.",
+"Any Air Force document of any kind recording a second March 1967 Malmstrom shutdown. None exists in anything this board has opened.",
+"Col. Lewis D. Chase's findings, cited by James Carlson, were not opened."
 ]
 }

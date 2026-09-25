@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,10 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Department of Defense statement of 27 April 2020 authorising release of the three Navy videos. It reads in part: 'The Department of Defense has authorized the release of three unclassified Navy videos, one taken in November 2004 and the other two in January 2015, which have been circulating in the public domain after unauthorized releases in 2007 and 2017... DOD is releasing the videos in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos. The aerial phenomena observed in the videos remain characterized as unidentified.' Two features are worth marking. First, the Department characterises the 2017 appearance of the footage as an 'unauthorized release' — which is a formal statement that the material left the building improperly, and therefore that something left the building. Second, no individual is quoted: the statement is issued institutionally, without a name attached, which is the opposite of the practice the Department followed when making statements about Elizondo personally.",
-"domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -63,7 +61,12 @@
 "label": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2026-08-02",
@@ -78,16 +81,18 @@
 ],
 "sub": "Official DoD release; no individual spokesperson quoted",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 848 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 849 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2020-04-27",
+"grade": "A",
 "id": "tl-2020-04-27-dod-release",
 "label": "DoD authorises release of the three videos",
 "precision": "day",
 "strand": "program",
-"text": "The Department releases FLIR1, Gimbal and GoFast officially, calls their earlier appearance the product of 'unauthorized releases in 2007 and 2017', and states the phenomena 'remain characterized as unidentified'.",
-"tier": "A"
+"text": "The Department releases FLIR1, Gimbal and GoFast officially, calls their earlier appearance the product of 'unauthorized releases in 2007 and 2017', and states the phenomena 'remain characterized as unidentified'."
 }
-]
+],
+"unverified": []
 }

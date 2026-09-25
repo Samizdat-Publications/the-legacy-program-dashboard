@@ -12,6 +12,7 @@
 ],
 "cls": "location",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -64,11 +65,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Michigan State University at East Lansing is on this board as the academic base from which economist Mark Skidmore conducted the aggregation of unsupported adjustments reported in Department of Defense financial statements - the most-cited academic work underpinning the black-budget argument. The work matters here for a narrow and defensible reason: it established, from the Department's own published financial reports and its Inspector General's findings, that DoD cannot demonstrate the link between appropriation and expenditure at scale. That is an enabling condition for an unacknowledged programme rather than evidence of one, and the distinction is the whole discipline of the funding domain.",
-"domains": [
-"_rs-archive-mirror",
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -82,7 +79,13 @@
 "label": "Michigan State University, East Lansing, Michigan",
 "locLabel": "East Lansing, Michigan, USA",
 "members": null,
+"openQuestions": [],
 "short": "Michigan State University, East Lansing, Michigan",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-01-13",
@@ -103,5 +106,6 @@
 "sub": "Public research university, East Lansing, Michigan",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1166 of 1170, score 6). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

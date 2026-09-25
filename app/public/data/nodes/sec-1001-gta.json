@@ -27,6 +27,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The authorisation-side twin of section 8005. Section 1001 of the National Defense Authorization Act for Fiscal Year 2026 provides that 'Upon determination by the Secretary of Defense that such action is necessary in the national interest, the Secretary may transfer amounts of authorizations made available to the Department of Defense in this division for fiscal year 2026 between any such authorizations for that fiscal year (or any subdivisions thereof)', capped at $6,000,000,000, excluding transfers among military personnel authorisations, limited to higher-priority items, barred for items Congress denied, and subject only to a duty to 'promptly notify Congress of each transfer made'. The FY2025 NDAA (Public Law 118-159, 23 December 2024) carried the identical $6 billion ceiling and identical text. The trigger is the Secretary's own determination of the national interest; there is no external finding, no OMB concurrence on this side, and no prior notification. Read alongside section 4001(c), which exempts intra-account movements of funding-table amounts from counting against the section 1001 ceiling, the authorisation-side picture matches the appropriations-side picture: a large, self-certified, after-the-fact-reported authority to move money, sitting on top of a classified table of line items that is itself unpublished.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -72,7 +71,11 @@
 "label": "Section 1001 General Transfer Authority (annual NDAA)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Section 1001 General Transfer Authority (annual NDAA)",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2025-12-18",
@@ -88,5 +91,6 @@
 "sub": "$6 billion of authorization-side transfer authority on a national-interest determination",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 641 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -52,12 +52,13 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
 "cls": "institution",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2023",
+"dateStart": "2023",
 "direction": "in",
 "edgeLabel": "First statutory annual report, 25 October 2023",
 "id": "aaro",
@@ -159,12 +160,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The first statutory annual report, published 25 October 2023 covering 31 August 2022 to 30 April 2023. It logged 291 new reports - 274 from the period and 17 from 2019-2022 not previously submitted - bringing AARO's total holdings to 801 as of 30 April 2023. Its analytic posture set the template every subsequent report has followed: only a very small percentage of UAP reports display interesting signatures such as high-speed travel and unknown morphologies, the majority demonstrate ordinary characteristics of readily explainable sources, and a large number of cases remain technically unresolved because of a lack of data. Note what the FY2023 report does not contain: any finding, positive or negative, on extraterrestrial technology. That sentence - the 'no evidence of extraterrestrial beings, activity, or technology' formula - enters the annual reports only with FY2024, in the year after David Grusch testified. The negative finding is not a baseline of the reporting series; it is a response inserted into it.",
-"domains": [
-"_rs-aaro-reports",
-"_rs-archive-mirror",
-"releases-2023-2026",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -178,7 +174,14 @@
 "label": "AARO FY2023 Consolidated Annual Report on UAP",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO FY2023 Consolidated Annual Report on UAP",
+"sourceFiles": [
+"_rs-aaro-reports",
+"_rs-archive-mirror",
+"releases-2023-2026",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2023-10-25",
@@ -218,25 +221,38 @@
 ],
 "sub": "Published 25 October 2023; 291 new reports; 801 total holdings",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 319 of 1170, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 317 of 1170, score 38). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-10-25",
+"grade": null,
+"id": "_rs-aaro-reports-6",
+"label": "FY2023 Consolidated Annual Report on UAP released - 291 reports, 290 of them airborne",
+"precision": "day",
+"strand": "program",
+"text": null
+},
+{
+"claimTier": null,
+"date": "2023-10-25",
+"grade": "A",
 "id": "rel-2023-10-25",
 "label": "AARO FY2023 annual report",
 "precision": "day",
 "strand": "program",
-"text": "First statutory annual report: 291 new reports, 801 total holdings. It contains no finding of any kind on extraterrestrial technology.",
-"tier": "A"
+"text": "First statutory annual report: 291 new reports, 801 total holdings. It contains no finding of any kind on extraterrestrial technology."
 },
 {
+"claimTier": null,
 "date": "2023-10-25",
+"grade": "B",
 "id": "tl-fy23-2023-10-25",
 "label": "FY2023 annual report",
 "precision": "day",
 "strand": "program",
-"text": "AARO's first statutory annual report: 291 new reports, cumulative holdings 801, no explicit extraterrestrial denial - that formula appears only from FY2024.",
-"tier": "B"
+"text": "AARO's first statutory annual report: 291 new reports, cumulative holdings 801, no explicit extraterrestrial denial - that formula appears only from FY2024."
 }
-]
+],
+"unverified": []
 }

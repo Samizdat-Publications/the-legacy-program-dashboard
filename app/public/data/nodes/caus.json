@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "CAUS was the first organisation to treat UFO secrecy as a litigable question rather than a belief question. Founded in 1977 and directed by the attorney Peter Gersten, it used the Freedom of Information Act and federal litigation against the CIA, NSA and Department of Defense, forcing the release of several hundred pages of CIA UFO records in the late 1970s and then bringing Civil Action No. 80-1562 against the National Security Agency. That case established the fact this board cares about: NSA located UFO-related records, withheld them under national-security exemptions, and defended the withholding with a classified affidavit reviewed only by the judge. CAUS lost every merits ruling and won the only thing that mattered - a judicial record that the material exists. The organisation was still in the federal appellate courts against DoD as late as November 2001. Its body of FOIA correspondence became sufficiently substantial that GAO listed 'National Security Agency, Fort Meade, Md. - FOIA records, Citizens Against UFO Secrecy' among the record sets it searched for the 1995 Roswell report.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -98,7 +97,11 @@
 "label": "Citizens Against UFO Secrecy (CAUS)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Citizens Against UFO Secrecy (CAUS)",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2016-09-10",
@@ -128,25 +131,28 @@
 ],
 "sub": "Private FOIA litigation organisation, 1977-2000s",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 951 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 950 of 1170, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1977-01-01",
+"grade": "B",
 "id": "t-1977-caus",
 "label": "CAUS founded",
 "precision": "year",
 "strand": "oversight",
-"text": "Citizens Against UFO Secrecy is established under attorney Peter Gersten and begins FOIA litigation against the CIA.",
-"tier": "B"
+"text": "Citizens Against UFO Secrecy is established under attorney Peter Gersten and begins FOIA litigation against the CIA."
 },
 {
+"claimTier": null,
 "date": "2001-11-14",
+"grade": "B",
 "id": "t-2001-caus9th",
 "label": "CAUS still litigating against DoD",
 "precision": "day",
 "strand": "oversight",
-"text": "The Ninth Circuit decides Citizens Against UFO Secrecy, Inc. v. United States Department of Defense - twenty-four years after the organisation was founded.",
-"tier": "B"
+"text": "The Ninth Circuit decides Citizens Against UFO Secrecy, Inc. v. United States Department of Defense - twenty-four years after the organisation was founded."
 }
-]
+],
+"unverified": []
 }

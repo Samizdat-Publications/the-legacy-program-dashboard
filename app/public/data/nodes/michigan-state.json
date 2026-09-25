@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Michigan State University is the institutional home of Mark Skidmore, who holds the Morris Chair in State and Local Government Finance and Policy and is a Professor of Economics there. The compilation of federal unsupported journal voucher adjustments that produced the $21 trillion aggregate was carried out from that position, with student assistance, using publicly available Inspector General and Government Accountability Office documents. The university's involvement is what gives the work its only claim to academic standing, and Skidmore's own website carries the standard disclaimer that the views expressed are his own and not those of his employer.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -57,7 +56,11 @@
 "label": "Michigan State University",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Michigan State University",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -68,5 +71,6 @@
 "sub": "University; institutional home of Mark Skidmore's unsupported-adjustment research",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1169 of 1170, score 5). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -140,18 +141,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "d-contractor",
 "label": "Prime Contractor Custody"
 },
+"b": {
+"id": "d-foia",
+"label": "Freedom of Information Practice"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "Contractor records are outside the statute",
 "note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
-"of": {
-"id": "d-foia",
-"label": "Freedom of Information Practice"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -167,9 +170,7 @@
 }
 ],
 "desc": "Moving a programme into a prime contractor does not merely add secrecy - it changes the legal category of everything inside it. Contractor records are not agency records and so fall outside the Freedom of Information Act; contractor facilities are inspected by the Defense Counterintelligence and Security Agency rather than by congressional staff; and proprietary data markings restrict government-side circulation independently of classification. GAO reported in 2004 that DoD could not provide adequate assurance that its industrial security oversight was protecting classified information at contractor facilities - a finding about the mechanism's opacity from the government's own auditor. This is the structural reason the custody question and the contractor question are the same question: an object on a contractor's shelf is legally further from Congress than the same object on a government shelf, without any change in its classification. The named firms recur across sworn and named-source testimony rather than across documents, which is precisely why this domain is scored on the C axis and researched through contract data, facility clearance records and personnel movement. Scoring high here means an entity is alleged to hold material or to have managed those who do.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -183,7 +184,11 @@
 "label": "Prime Contractor Custody",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Prime Contractor Custody",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2004-03-03",
@@ -203,6 +208,7 @@
 ],
 "sub": "Industrial domain - the private firms alleged to hold material, and the legal shelter that creates",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 260 of 1170, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 258 of 1170, score 42). 5 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
+"timeline": [],
+"unverified": []
 }

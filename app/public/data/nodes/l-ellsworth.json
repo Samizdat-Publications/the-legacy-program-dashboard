@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -114,9 +115,7 @@
 "deg": 4,
 "denials": [],
 "desc": "A HUB BUILT ALMOST ENTIRELY ON CLAIMS, AND THE NODE SAYS SO. Ellsworth Air Force Base near Rapid City, South Dakota held the 44th Strategic Missile Wing's Minuteman field, which included the launch facility designated November-5. Unlike Loring, Wurtsmith, Malmstrom, Minot and F. E. Warren, this hub carries no contemporaneous Air Force document of its own that this board has opened. What it carries is a claim: that on 18 November 1977 two security policemen of the 44th Missile Security Squadron encountered an object and beings at Launch Facility November-5, lost hours, and were interrogated separately. NO AIR FORCE RECORD OF THAT EVENT HAS EVER BEEN PRODUCED BY ANY PARTY. The node exists under CLAUDE.md section 2a because an informed reader mapping nuclear-facility witnesses would expect Ellsworth to be here and would read its absence as a gap, and because the board already carries related material: a Tier 2 claim from the American Alchemy episode of 5 July 2025 describing the case and Mario Woods's statement that an OSI man named Rick Doty was at his debrief, and AARO's own Historical Record Report Volume I, which the board records as noting interviews with former Air Force officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977. That AARO citation stands on an earlier pass and was NOT re-verified here, because media.defense.gov returned HTTP 403 to every route this session tried.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -130,7 +129,11 @@
 "label": "Ellsworth AFB, South Dakota",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Ellsworth AFB, South Dakota",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-07",
@@ -150,6 +153,11 @@
 ],
 "sub": "SAC installation near Rapid City; 44th Strategic Missile Wing Minuteman field including Launch Facility November-5; hub of the 1977 security-police claim",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 922 of 1170, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 921 of 1170, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"timeline": [],
+"unverified": [
+"AARO Historical Record Report Volume I, which the board elsewhere cites at page 30 for interviews with officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977, was NOT OPENED by this pass: media.defense.gov returned HTTP 403 to WebFetch and to curl with browser headers and an aaro.mil referer. That citation stands on an earlier pass and is not re-verified here.",
+"Search results state that the 45th Missile Security Squadron was activated at Ellsworth on 1 November 1977 assuming functions of the 44th Missile Security Squadron's former Missile Support Branch, and that the 44th Missile Wing was inactivated on 4 July 1994. NEITHER PAGE WAS OPENED and neither fact is asserted as a claim. If confirmed, the first is a small organisational check consistent with the claimed unit and nothing more.",
+"The 44th Missile Security Squadron duty roster for the night of 17 to 18 November 1977, and the 44th Strategic Missile Wing unit histories held at the Air Force Historical Research Agency."
+]
 }

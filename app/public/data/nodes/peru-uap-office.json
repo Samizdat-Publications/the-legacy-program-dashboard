@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -128,10 +129,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Peru is one of a small group of states that has maintained an official military office for investigating anomalous aerial phenomena. The Fuerza Aérea del Perú office was reopened in 2013-2014 after a period of dormancy, a development the BBC covered on 5 February 2014 under the headline 'Por qué Perú reabrió la oficina de búsqueda de ovnis'. The Peruvian arrangement is a military rather than civil-aviation model, distinguishing it from Chile's DGAC-hosted SEFAA and France's CNES-hosted GEIPAN, and it is the least documented of the Latin American offices in English-language sources. It is included here as a placeholder with an honest statement of what is not yet established: the office's exact legal instrument, its current name and reporting line, its case output, and whether it publishes findings.",
-"domains": [
-"w10-brazil",
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -145,7 +143,12 @@
 "label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+"sourceFiles": [
+"w10-brazil",
+"w2-international"
+],
 "sources": [
 {
 "date": null,
@@ -161,5 +164,6 @@
 "sub": "Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA), Fuerza Aérea del Perú, under the Dirección de Intereses Aéreos Espaciales (DINAE); reopened October 2013",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 797 of 1170, score 22). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

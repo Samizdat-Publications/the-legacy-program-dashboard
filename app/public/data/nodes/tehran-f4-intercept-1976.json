@@ -32,6 +32,7 @@
 ],
 "cls": "event",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -145,9 +146,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Two Imperial Iranian Air Force F-4 Phantoms were scrambled from Shahrokhi AFB in the early hours of 20 September 1976 against an object reported by citizens in the Shemiran area of Tehran. The event is documented for the US government by a single Defense Attache Office Tehran intelligence report, IR 6 846 0139 76, transmitted 230530Z SEP 76 to DIA Washington with information copies to the Secretary of Defense, the CIA, NSA, State and the White House. DIA told a FOIA requester in 1996 that a search of its systems of records located one responsive document. That report names one Iranian officer, Brigadier General Yousefi of the command post, and identifies the aircrew only as an unnamed IIAF pilot who was one of its own sources. It is the same shape as the board's Belgian F-16 node: a foreign air force intercept assessed inside a US intelligence document.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -161,7 +160,11 @@
 "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1976-09-23",
@@ -171,6 +174,7 @@
 ],
 "sub": "Two Imperial Iranian Air Force F-4 intercepts over Tehran, 19 and 20 September 1976, documented in DIA IR 6 846 0139 76",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 285 of 1170, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 284 of 1170, score 40). 5 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [],
+"unverified": []
 }

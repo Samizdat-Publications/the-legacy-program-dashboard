@@ -47,6 +47,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -165,10 +166,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Lincoln Laboratory is MITRE's parent and the first FFRDC in this domain to have publicly agreed to hand a UFO record to Congress. It was established in 1951 to build SAGE, the continental air defence system, and MITRE was spun out of its Division 6 in 1958 to carry that work forward. It is administered by MIT, sponsored by the Under Secretary of Defense for Research and Engineering since a sponsor change on 25 April 2011, and was funded at roughly 1.36 billion dollars in FY2024. In 1952 Lincoln Laboratory hosted the Beacon Hill Study, the classified summer study group on aerial reconnaissance that shaped American overhead collection for a generation. On 8 May 2026 Rep. Eric Burlison wrote to Lincoln Laboratory asking it to locate, preserve and arrange archival review of a reel-to-reel recording identified as 'AF-ATIC-FILM, 03/52', labelled 'flying saucer talk', in which Project Blue Book director Edward J. Ruppelt briefed the Beacon Hill group - months before the July 1952 Washington, DC radar incidents. By 25 June 2026 Burlison announced that Lincoln Laboratory had agreed to disclose it. That is the first documented case of an FFRDC producing a UAP record to Congress because Congress named the file by its exact designation. Burlison's own account of the method - 'We told MIT Lincoln Labs we know the exact video file you are holding, by name, and we want it' - is the operational lesson of this entire domain: FFRDC holdings are reachable only when the requester already knows what to ask for.",
-"domains": [
-"congress-house",
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -182,7 +180,12 @@
 "label": "MIT Lincoln Laboratory",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "MIT Lincoln Laboratory",
+"sourceFiles": [
+"congress-house",
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-05-16",
@@ -217,25 +220,28 @@
 ],
 "sub": "FFRDC, est. 1951; Air Force sponsored",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 173 of 1170, score 49). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 172 of 1170, score 49). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1951-01-01",
+"grade": "B",
 "id": "tl-ffrdc-1951-lincoln",
 "label": "MIT Lincoln Laboratory established",
 "precision": "year",
 "strand": "program",
-"text": "Lincoln Laboratory is created to build SAGE, the first continental air defence system - the architecture that determines what American airspace surveillance is built to see.",
-"tier": "B"
+"text": "Lincoln Laboratory is created to build SAGE, the first continental air defence system - the architecture that determines what American airspace surveillance is built to see."
 },
 {
+"claimTier": null,
 "date": "2026-05-08",
+"grade": "A",
 "id": "tl-ffrdc-2026-lincoln-letter",
 "label": "Burlison writes to MIT Lincoln Laboratory",
 "precision": "day",
 "strand": "oversight",
-"text": "Burlison asks Lincoln Laboratory to locate and preserve reel-to-reel recording AF-ATIC-FILM, 03/52 - naming the file by its exact designation - and to coordinate with NARA on archival review.",
-"tier": "A"
+"text": "Burlison asks Lincoln Laboratory to locate and preserve reel-to-reel recording AF-ATIC-FILM, 03/52 - naming the file by its exact designation - and to coordinate with NARA on archival review."
 }
-]
+],
+"unverified": []
 }

@@ -132,9 +132,7 @@
 "dateStart": "1955-03-31",
 "deg": 4,
 "denials": [],
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -154,6 +152,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Sidney Gottlieb",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1955-03-21",

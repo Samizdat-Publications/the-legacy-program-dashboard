@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -140,9 +141,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Gerb's first corporate investigation, published 18 February 2024, and the most primary-document-dense entry in his catalogue - which is why it is the best available test of his method. It traces Battelle Memorial Institute from the 1950s, when it worked with the US government and Air Force to build a machine index categorising UFO reports and, the investigation argues, to quell public interest; through Project Stork and the resulting Special Report No. 14; through Battelle's alleged direct study of UAP material, likely a shape-memory metallic alloy recovered at the 1947 Roswell site and now referred to as nitinol, a claim for which Jacques Vallee has assembled a supporting paper trail; to modern-day connections between Battelle and the personnel around Sean Kirkpatrick and the Pentagon's public UAP messaging. The description publishes its citations in full: CUFON's Progress Reports on Project Stork, a scan of Howard C. Cross's Project Stork material, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC Research and Development Reports at the University of North Texas digital library, a 1994 MUFON Ohio document, and the Defense.gov transcript of the Moultrie roundtable. It also candidly flags one missing citation: 'MISSING: UPDATE ON PROJECT STORK (HAVE PDF BUT NOT LINK)'. That admission is a good-faith marker worth recording.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -156,7 +155,11 @@
 "label": "UAP Gerb - Battelle Memorial Institute investigation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "UAP Gerb - Battelle Memorial Institute investigation",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "1972-01-01",
@@ -186,16 +189,18 @@
 ],
 "sub": "Video investigation, 18 Feb 2024",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 564 of 1170, score 29). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 563 of 1170, score 29). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-02-18",
+"grade": "A",
 "id": "ms-2024-battelle",
 "label": "Gerb publishes the Battelle investigation",
 "precision": "day",
 "strand": "program",
-"text": "UAP Gerb's first corporate investigation, published with a full primary-document citation list including Project Stork, Special Report No. 14 and the Defense.gov Moultrie roundtable transcript. The method that will define the domain is established.",
-"tier": "A"
+"text": "UAP Gerb's first corporate investigation, published with a full primary-document citation list including Project Stork, Special Report No. 14 and the Defense.gov Moultrie roundtable transcript. The method that will define the domain is established."
 }
-]
+],
+"unverified": []
 }

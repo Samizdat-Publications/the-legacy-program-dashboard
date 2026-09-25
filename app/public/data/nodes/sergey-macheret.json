@@ -105,9 +105,7 @@
 "dateStart": "2010-01-01",
 "deg": 2,
 "denials": [],
-"domains": [
-"w7-dirds-3"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -127,6 +125,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Sergey O. Macheret",
+"sourceFiles": [
+"w7-dirds-3"
+],
 "sources": [
 {
 "date": null,

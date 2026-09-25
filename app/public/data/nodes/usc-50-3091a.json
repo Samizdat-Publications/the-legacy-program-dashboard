@@ -92,6 +92,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -149,14 +150,19 @@
 "claimTier": 1,
 "cls": "document",
 "dateEnd": null,
-"dateStart": "2022-03-15",
+"dateStart": null,
 "direction": "out",
-"edgeLabel": "The United States Code defines controlled access programs by reference to the directive",
+"edgeLabel": "3091a(d)(3) defines 'controlled access program' as a program created or managed pursuant to ICD 906",
 "id": "icd-906",
 "l0": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "50 U.S.C. 3091a(e)(3) defines a controlled access program as 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive'.",
 "sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+},
 {
 "date": "2026-08-12",
 "name": "50 U.S.C. 3091a",
@@ -176,11 +182,11 @@
 "cls": "document",
 "dateEnd": null,
 "dateStart": null,
-"direction": "out",
-"edgeLabel": "3091a(d)(3) defines 'controlled access program' as a program created or managed pursuant to ICD 906",
+"direction": "in",
+"edgeLabel": "",
 "id": "icd-906",
 "l0": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "The statute defines its own subject by reference to the directive: 50 U.S.C. 3091a(e)(3) defines a controlled access program as 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive'. Congress delegated the definition to an executive instrument, so what counts as a CAP can change without legislation.",
 "sources": [
 {
@@ -206,7 +212,28 @@
 "edgeLabel": "Pub. L. 118-159 secs. 6602-6603",
 "id": "usc-50-3091a-2024amend",
 "l0": false,
-"label": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+"label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+"url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+}
+],
+"tier": "C",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "amends",
+"id": "usc-50-3091a-2024amend",
+"l0": false,
+"label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "note": "Pub. L. 118-159 secs. 6602 and 6603, approved 23 December 2024, amend this section: 6602 inserts a new subsection (c) limiting National Intelligence Program spending, and 6603 adds subsection (b)(2)(A) with its exception at (B). The OLRC text carries the amendment note and records that subsection (c) 'shall apply with respect to controlled access programs ... that are established on or after the date of the enactment of this Act', so the new limit is prospective only and existing compartments are untouched by it. Statute read on 22 August 2026; the verbatim section text is already on the amendment node from the enacted public law.",
 "sources": [
 {
@@ -230,11 +257,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Section 501A of the National Security Act of 1947 was added by section 504 of the Intelligence Authorization Act for Fiscal Year 2022, Public Law 117-103 of 15 March 2022, and is codified at 50 U.S.C. 3091a. It is the statutory counterpart to ICD 906, and it defines 'controlled access program' by direct reference: 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive' - the United States Code citing an ODNI directive by URL. As enacted it required the DNI to brief the intelligence committees and congressional leadership on every controlled access program in effect not less than semiannually or on request, prohibited the head of an IC element from establishing a CAP or any compartment or subcompartment within one until the appropriate committees and leadership are notified, and required annual reports listing all active and all terminated compartments and subcompartments, with a DNI certification for each that its creation, validation or substantial modification is 'substantiated and justified', the identification of a control officer for each program, and a statement of protection requirements. Then, on 23 December 2024, sections 6602 and 6603 of the FY2025 NDAA, Public Law 118-159, added two teeth. Section 6602 inserted a new subsection (c): National Intelligence Program funds 'may not be obligated or expended for any controlled access program, or a compartment or subcompartment therein' until the required notification is submitted. Section 6603 added subsection (b)(2), prohibiting the head of an IC element from transferring 'a capability from a controlled access program, including from a compartment or subcompartment therein to a compartment or subcompartment of another controlled access program, to a special access program (as defined in section 3348(g) of this title), or to anything else outside the controlled access program' without prior notice - subject to exceptions for 'an urgent counterintelligence issue' or 'an organizational restructuring'. That second provision is Congress legislating directly against the mechanism at the centre of this board: moving a capability out of one compartment regime and into another to break the audit trail. Congress does not write a statute against a manoeuvre nobody has performed.",
-"domains": [
-"_rs-sap-docs",
-"w12-sap-statutory-edges",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -245,10 +268,16 @@
 "hl": null,
 "id": "usc-50-3091a",
 "l0": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "locLabel": null,
 "members": null,
-"short": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"openQuestions": [],
+"short": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
+"sourceFiles": [
+"_rs-sap-docs",
+"w12-sap-statutory-edges",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-01-05",
@@ -273,25 +302,28 @@
 ],
 "sub": "statute",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 72 of 1170, score 71). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 72 of 1170, score 72). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-03-15",
+"grade": "A",
 "id": "sap-tl-2022-3091ax",
 "label": "Congress creates a statutory oversight regime for IC Controlled Access Programs",
 "precision": "day",
 "strand": "oversight",
-"text": "Section 504 of the FY2022 Intelligence Authorization Act, Public Law 117-103, adds section 501A to the National Security Act: semiannual briefings on every CAP, a prohibition on establishing a CAP or compartment before notification, and annual reports listing every active and terminated compartment with a DNI certification for each.",
-"tier": "A"
+"text": "Section 504 of the FY2022 Intelligence Authorization Act, Public Law 117-103, adds section 501A to the National Security Act: semiannual briefings on every CAP, a prohibition on establishing a CAP or compartment before notification, and annual reports listing every active and terminated compartment with a DNI certification for each."
 },
 {
+"claimTier": null,
 "date": "2024-12-23",
+"grade": "A",
 "id": "sap-tl-2024-6603x",
 "label": "Congress prohibits moving a capability from a CAP into a SAP without notice",
 "precision": "day",
 "strand": "oversight",
-"text": "Sections 6602 and 6603 of Public Law 118-159 add a funding cutoff to 50 U.S.C. 3091a and prohibit the head of an IC element from transferring a capability from a controlled access program to a special access program, or to anything else outside the CAP, without prior notice to the intelligence and appropriations committees and congressional leadership - subject to exceptions for urgent counterintelligence and organisational restructuring.",
-"tier": "A"
+"text": "Sections 6602 and 6603 of Public Law 118-159 add a funding cutoff to 50 U.S.C. 3091a and prohibit the head of an IC element from transferring a capability from a controlled access program to a special access program, or to anything else outside the CAP, without prior notice to the intelligence and appropriations committees and congressional leadership - subject to exceptions for urgent counterintelligence and organisational restructuring."
 }
-]
+],
+"unverified": []
 }

@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "On 31 July 1995 Aerolíneas Argentinas flight AR 674, a Boeing 727 under Captain Jorge Polanco, was about 140 kilometres from San Carlos de Bariloche in Patagonia when a power failure blacked out parts of the city and its airport. As the aircraft aligned with the runway an unidentified object showing three lights, including a red one at its centre, appeared off the right side and flew parallel to it; the runway and approach lighting failed again during the manoeuvre. Polanco was unable to land and went around; the object moved behind the aircraft, stopped, ascended vertically, repositioned in front of the aircraft and departed towards the Andes. Another aircraft holding in the area, air traffic controllers and residents on the ground reported the same phenomenon. The case matters here because of where it resurfaced: it appears in the first batch of more than 160 UAP files released by the US Department of Defense on Friday 8 May 2026, in a section of the release examining investigations conducted outside the United States, and the file references a report produced by COMETA - the 1999 French committee. The United States government's own 2026 release therefore cites the French generals' report as a source on a South American case.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -98,7 +97,11 @@
 "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-05-11",
@@ -111,13 +114,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1031 of 1170, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2026-05-08",
+"grade": null,
 "id": "tl-intl-2026-may-release",
 "label": "The US release reaches the allies",
 "precision": "day",
 "strand": "oversight",
-"text": "More than 160 UAP files are published on the US Department of Defense website. Within days Kyodo News reports that the footage shows a football-shaped object near Japan, The Japan Times reports Tokyo analysing the trove, and the Buenos Aires Times reports that the release documents the 31 July 1995 Aerolíneas Argentinas Bariloche encounter in a section on investigations conducted outside the United States - citing the 1999 French COMETA report as a source.",
-"tier": 2
+"text": "More than 160 UAP files are published on the US Department of Defense website. Within days Kyodo News reports that the footage shows a football-shaped object near Japan, The Japan Times reports Tokyo analysing the trove, and the Buenos Aires Times reports that the release documents the 31 July 1995 Aerolíneas Argentinas Bariloche encounter in a section on investigations conducted outside the United States - citing the 1999 French COMETA report as a source."
 }
-]
+],
+"unverified": []
 }

@@ -111,7 +111,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"legacy-1947-86"
+"d-witness",
+"d-legacy",
+"d-recovery"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -132,6 +134,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Philip J. Corso",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "1998-04-01",
@@ -157,16 +162,17 @@
 "status": "dead",
 "sub": "Lt. Col., US Army; Chief, Foreign Technology Division, OCRD, 18 Apr - 18 Jul 1962",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 167 of 1170, score 49). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 166 of 1170, score 49). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1962-04-18",
+"grade": "B",
 "id": "tl-1962-corso-ftd",
 "label": "Corso becomes Chief, Foreign Technology Division, OCRD",
 "precision": "day",
 "strand": "witness",
-"text": "Philip J. Corso's own DA Form 66 records him as 'Chief Foreign Technology Div, OCRD USA' from 18 April to 18 July 1962, after a year as a staff officer in the same division. Three months. The same form records him on the Operations Coordinating Board from 1954 to 1957, which his later affidavit describes as membership of the National Security Council.",
-"tier": "B"
+"text": "Philip J. Corso's own DA Form 66 records him as 'Chief Foreign Technology Div, OCRD USA' from 18 April to 18 July 1962, after a year as a staff officer in the same division. Three months. The same form records him on the Operations Coordinating Board from 1954 to 1957, which his later affidavit describes as membership of the National Security Council."
 }
 ],
 "unexplainedResidual": null,

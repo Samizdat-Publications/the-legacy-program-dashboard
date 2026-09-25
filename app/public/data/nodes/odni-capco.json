@@ -42,19 +42,25 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
 "cls": "document",
 "dateEnd": null,
-"dateStart": "2011-12-30",
+"dateStart": null,
 "direction": "out",
-"edgeLabel": "CAPCO publishes the marking register that defines the SAR- indicator",
+"edgeLabel": "CAPCO manages the CAP Registry of all control systems, compartments and sub-compartments",
 "id": "capco-register",
 "l0": false,
 "label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
 "note": "The IC Authorized Classification and Control Markings Register and Manual v5.1 is issued by the Controlled Access Program Coordination Office, Washington DC 20511.",
 "sources": [
+{
+"date": null,
+"name": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+},
 {
 "date": "2012-03-30",
 "name": "IC Authorized Classification and Control Markings Register and Manual v5.1 (CAPCO)",
@@ -69,8 +75,8 @@
 "cls": "document",
 "dateEnd": null,
 "dateStart": null,
-"direction": "out",
-"edgeLabel": "CAPCO manages the CAP Registry of all control systems, compartments and sub-compartments",
+"direction": "in",
+"edgeLabel": "",
 "id": "capco-register",
 "l0": false,
 "label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
@@ -99,7 +105,7 @@
 "edgeLabel": "Makes the CAPCO director the accountable official and registry holder",
 "id": "icd-906",
 "l0": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "ICD 906 section D.9 designates the Director of ODNI CAPCO as accountable for implementation and requires management of the CAP Registry of all control systems, compartments and sub-compartments.",
 "sources": [
 {
@@ -120,7 +126,28 @@
 "edgeLabel": "D.9 makes the CAPCO Director the accountable official",
 "id": "icd-906",
 "l0": false,
-"label": "ICD 906 — Controlled Access Programs (ODNI)",
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+"url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "",
+"id": "icd-906",
+"l0": false,
+"label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "The directive creates the office's duties. ICD 906 E.4 makes CAPCO the central point of contact for all CAP requirements and requires it to maintain the CAP Registry; D.9 names its Director the accountable official for implementation.",
 "sources": [
 {
@@ -165,18 +192,20 @@
 "deg": 3,
 "denials": [
 {
-"by": {
+"a": {
 "id": "odni-capco",
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)"
 },
+"b": {
+"id": "isoo",
+"label": "Information Security Oversight Office"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "ISOO requests about IC controlled access programs are routed through CAPCO",
 "note": "ICD 906 section D.9.c makes CAPCO responsible for coordinating 'requests from the Information Security Oversight Office' about CAPs.",
-"of": {
-"id": "isoo",
-"label": "Information Security Oversight Office"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-12-19",
@@ -187,11 +216,7 @@
 }
 ],
 "desc": "CAPCO is the intelligence community's counterpart to DoD SAPCO and does two distinct jobs. Under ICD 906 the Director of the ODNI Controlled Access Program Central Office is 'the accountable official responsible for the implementation of this policy', serves as central point of contact for all CAP requirements, and must 'Manage a CAP Registry that maintains a list of all control systems, including all compartments and sub-compartments', deconflict all IC CAPs against all other programs, and 'manage all compartment and sub compartment names, codenames, and any other pertinent information'. It is also 'responsible for the coordination of CAP-related engagements, to include, but not limited to, congressional briefings, requests from the Information Security Oversight Office, and the National Security Council' - the same choke-point design as DoD SAPCO, with ISOO's access routed through the office whose programs ISOO would be examining. Separately, CAPCO publishes the Intelligence Community Authorized Classification and Control Markings Register and Manual, the document that defines the entire marking syntax used across the U.S. classification system, including the Special Access Program marking category. For this board the CAP Registry is the single most valuable unreleased document in the intelligence community: a complete list of every control system, compartment and sub-compartment, maintained by name, in one office, by directive.",
-"domains": [
-"_rs-sap-docs",
-"w15-live-originals",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -205,7 +230,13 @@
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "ODNI Controlled Access Program Coordination Office (CAPCO)",
+"sourceFiles": [
+"_rs-sap-docs",
+"w15-live-originals",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-12-19",
@@ -225,6 +256,7 @@
 ],
 "sub": "oversight-body",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 129 of 1170, score 55). 5 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 125 of 1170, score 56). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
+"timeline": [],
+"unverified": []
 }

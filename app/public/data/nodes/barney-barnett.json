@@ -80,7 +80,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"w2-retrieval-literature"
+"d-recovery",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -101,6 +102,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Grady L. 'Barney' Barnett",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1997-01-01",

@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Uintah Basin is a high desert region of northeastern Utah spanning Uintah and Duchesne Counties, overlapping the Uintah and Ouray Indian Reservation, and it is the geographic setting rather than the single parcel that constitutes the actual reporting record. Sustained UFO reporting from the basin dates to the 1970s, when Utah State University psychologist Frank Salisbury and Junior Hicks compiled hundreds of local accounts; the 1974 book 'The Utah UFO Display' is the resulting document. Skinwalker Ranch sits inside this basin and inherited both its reporting history and its interpretive problem: a region with a decades-long folk record of anomalous sightings, a resident population with its own oral traditions, and no instrumented baseline. For this board the basin matters because the Advanced Aerospace Weapon System Applications Program's field arm - BAASS - was directed at a location chosen from that folk record rather than from a defence sensor record, which is a fact about how the government's largest modern UAP investigation set its priorities. Utah is also the state of record for Adamantium Real Estate LLC's operations and for the ranch's post-2016 commercial research and television programming, which has entangled the site's data with an entertainment product and is the principal reason its output is not usable as evidence.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -62,7 +61,11 @@
 "label": "Uintah Basin, Utah",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Uintah Basin, Utah",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -73,5 +76,6 @@
 "sub": "Region in northeastern Utah spanning Uintah and Duchesne Counties; Skinwalker Ranch and the wider 'UFO corridor'",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1135 of 1170, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

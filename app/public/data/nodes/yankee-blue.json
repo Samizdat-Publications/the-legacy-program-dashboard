@@ -87,6 +87,7 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -438,6 +439,14 @@
 "deg": 11,
 "denials": [
 {
+"a": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -469,6 +478,71 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"by": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "named DoD spokeswoman who confirmed the fake-programme findings would be deferred to Volume II",
+"note": "Gough's confirmation is the Department conceding on the record that the Air Force ran a fictitious alien-technology indoctrination practice, while deferring the official account indefinitely.",
+"of": {
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"sources": [
+{
+"date": "2026-08-12",
+"name": "Wikipedia - Yankee Blue",
+"url": "https://en.wikipedia.org/wiki/Yankee_Blue"
+}
+]
+},
+{
+"a": {
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"by": null,
+"claimTier": 1,
+"denialKind": "undirected",
+"label": "Pentagon spokesperson could not confirm the existence of the memo",
+"note": "Susan Gough, 1 October 2025: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
+"of": null,
+"sources": [
+{
+"date": "2025-09-16",
+"name": "John Greenewald Jr., 'Pentagon Denies Existence of \"Yankee Blue\" Memo Reported by Wall Street Journal', The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/"
+},
+{
+"date": "2025-12-15",
+"name": "John Greenewald Jr., 'Pentagon Reopens Search for Alleged \"Yankee Blue\" Memo After Initial Denial', The Black Vault",
+"url": "https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
+}
+]
+},
+{
+"a": {
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"b": {
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
 "by": {
 "id": "afosi",
 "label": "Air Force Office of Special Investigations"
@@ -498,62 +572,10 @@
 "url": "https://www.nicap.org/foia_003.htm"
 }
 ]
-},
-{
-"by": {
-"id": "susan-gough",
-"label": "Susan Gough"
-},
-"claimTier": 2,
-"denialKind": "directed",
-"label": "named DoD spokeswoman who confirmed the fake-programme findings would be deferred to Volume II",
-"note": "Gough's confirmation is the Department conceding on the record that the Air Force ran a fictitious alien-technology indoctrination practice, while deferring the official account indefinitely.",
-"of": {
-"id": "yankee-blue",
-"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
-},
-"sources": [
-{
-"date": "2026-08-12",
-"name": "Wikipedia - Yankee Blue",
-"url": "https://en.wikipedia.org/wiki/Yankee_Blue"
-}
-]
-},
-{
-"by": {
-"id": "yankee-blue",
-"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
-},
-"claimTier": 1,
-"denialKind": "undirected",
-"label": "Pentagon spokesperson could not confirm the existence of the memo",
-"note": "Susan Gough, 1 October 2025: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
-"of": {
-"id": "aaro",
-"label": "All-domain Anomaly Resolution Office (AARO)"
-},
-"sources": [
-{
-"date": "2025-09-16",
-"name": "John Greenewald Jr., 'Pentagon Denies Existence of \"Yankee Blue\" Memo Reported by Wall Street Journal', The Black Vault",
-"url": "https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/"
-},
-{
-"date": "2025-12-15",
-"name": "John Greenewald Jr., 'Pentagon Reopens Search for Alleged \"Yankee Blue\" Memo After Initial Denial', The Black Vault",
-"url": "https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
-}
-]
 }
 ],
 "desc": "YANKEE BLUE is the allegation that the US Air Force ran a fake UFO reverse-engineering programme on its own personnel — briefing officers in classified units into believing they had been read on to a recovery effort, using fabricated material, as a counterintelligence or hazing exercise. If documented it would be the strongest single item in the coverup strand, because it is the government generating false UAP belief inside its own ranks. It is not documented. A full-text search of the released AARO Historical Record Report Volume I (63 pp., March 2024) finds no occurrence of the term, and it appears in none of the FY2023, FY2024 or FY2025 consolidated annual reports — which corrects a widely repeated claim, including one this board previously made, that AARO conceded the programme in Volume I. Two FOIA cases have returned negative: OSD case 25-F-3514 (September 2025) reported no responsive records after searches of the electronic and paper holdings, and AFOSI case 2025-06002-F reported no investigative reports, summaries or closure memoranda. On 1 October 2025 Pentagon spokesperson Susan Gough stated she could not confirm the alleged memorandum. The Department reportedly reopened the search in December 2025 with no published result. The programme is retained on the board at Tier B with the allegation graded Tier 3 and the negative FOIA findings graded Tier 1. A negative primary finding is itself a documented fact and belongs on a board about concealment — but it is a finding about the absence of a record, not a record.",
-"domains": [
-"_rs-aaro-reports",
-"_rs-archive-mirror",
-"history-1970s-2000s",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -772,7 +794,14 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "YANKEE BLUE",
+"sourceFiles": [
+"_rs-aaro-reports",
+"_rs-archive-mirror",
+"history-1970s-2000s",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2024-03-08",
@@ -847,52 +876,58 @@
 ],
 "sub": "Alleged USAF/AFOSI program",
 "tier": "B",
-"tierRationale": "Re-graded A on a global pass (rank 38 of 1170, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 40 of 1170, score 88). 13 connections, 1 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-06-06",
+"grade": "B",
 "id": "t-2025-wsj",
 "label": "WSJ reports the 'Yankee Blue' disinformation practice",
 "precision": "day",
 "strand": "coverup",
-"text": "The Wall Street Journal reports that the Air Force falsely convinced personnel they were on a reverse-engineering programme for decades, and that OSD ordered the practice halted in spring 2023.",
-"tier": "B"
+"text": "The Wall Street Journal reports that the Air Force falsely convinced personnel they were on a reverse-engineering programme for decades, and that OSD ordered the practice halted in spring 2023."
 },
 {
+"claimTier": null,
 "date": "2025-06-06",
+"grade": "A",
 "id": "tl-yankeeblue-2025-06-06",
 "label": "Yankee Blue exposed",
 "precision": "day",
 "strand": "coverup",
-"text": "The Wall Street Journal reports that the Air Force ran a fictitious alien-technology programme on its own personnel for decades - NDAs, saucer photographs, threats - halted by an OSD memorandum in spring 2023. DNI Haines was briefed that hundreds and hundreds were affected. DoD says the findings will appear in Volume II.",
-"tier": "A"
+"text": "The Wall Street Journal reports that the Air Force ran a fictitious alien-technology programme on its own personnel for decades - NDAs, saucer photographs, threats - halted by an OSD memorandum in spring 2023. DNI Haines was briefed that hundreds and hundreds were affected. DoD says the findings will appear in Volume II."
 },
 {
+"claimTier": null,
 "date": "2025-09-16",
+"grade": "A",
 "id": "t-2025-nofind",
 "label": "Pentagon: no records of the Yankee Blue memo",
 "precision": "day",
 "strand": "coverup",
-"text": "OSD responds in FOIA case 25-F-3514 that no records of the alleged cessation memo could be identified; AFOSI reports no records of any related investigation.",
-"tier": "A"
+"text": "OSD responds in FOIA case 25-F-3514 that no records of the alleged cessation memo could be identified; AFOSI reports no records of any related investigation."
 },
 {
+"claimTier": null,
 "date": "2025-10-01",
+"grade": "A",
 "id": "t-2025-gough",
 "label": "Pentagon spokesperson cannot confirm the memo",
 "precision": "day",
 "strand": "coverup",
-"text": "Susan Gough: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
-"tier": "A"
+"text": "Susan Gough: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'"
 },
 {
+"claimTier": null,
 "date": "2025-12-15",
+"grade": "A",
 "id": "t-2025-remand",
 "label": "FOIA appeal granted; search remanded",
 "precision": "day",
 "strand": "oversight",
-"text": "A Department of War FOIA appellate decision grants the appeal and remands for additional searches, finding a search limited to the Correspondence Management Division inadequate under Oglesby v. U.S. Dep't of Army.",
-"tier": "A"
+"text": "A Department of War FOIA appellate decision grants the appeal and remands for additional searches, finding a search limited to the Correspondence Management Division inadequate under Oglesby v. U.S. Dep't of Army."
 }
-]
+],
+"unverified": []
 }

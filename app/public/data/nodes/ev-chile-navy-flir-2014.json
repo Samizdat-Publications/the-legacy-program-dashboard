@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -51,10 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "In November 2014 a Chilean Navy helicopter on a routine coastal patrol filmed, in daylight and with its infrared camera, an object that the crew tracked from around forty miles away and attempted repeatedly to contact. There was no response. The crew reported it to two nearby radar stations, neither of which could see the object on their screens although both could see the Navy helicopters; air traffic control confirmed that no aircraft had been authorised in the area. The footage shows the object apparently discharging a plume or gas as it moves. CEFAA, then the Chilean civil aviation UAP office, examined the case for two years with a multidisciplinary panel and released the video publicly in January 2017 without an explanation - the first time a Latin American state released military infrared sensor footage of an unresolved object. The release came three years before the US Department of Defense authorised the release of the FLIR1, GIMBAL and GOFAST Navy videos in April 2020, and it establishes the pattern the Canadian government would later identify: the Chilean office publishes what it cannot explain.",
-"domains": [
-"_rs-archive-mirror",
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -68,7 +66,12 @@
 "label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-07-10",
@@ -96,22 +99,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 877 of 1170, score 19). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2014-11",
+"grade": null,
 "id": "tl-intl-2014-chile",
 "label": "Chilean Navy helicopter FLIR case",
 "precision": "month",
 "strand": "witness",
-"text": "A Chilean Navy helicopter films an object in daylight on infrared during a coastal patrol. Two radar stations cannot see it although they can see the helicopters; air traffic control confirms no authorised aircraft in the area. CEFAA analyses the case for two years.",
-"tier": 2
+"text": "A Chilean Navy helicopter films an object in daylight on infrared during a coastal patrol. Two radar stations cannot see it although they can see the helicopters; air traffic control confirms no authorised aircraft in the area. CEFAA analyses the case for two years."
 },
 {
+"claimTier": 2,
 "date": "2017-01",
+"grade": null,
 "id": "tl-intl-2017-chile-release",
 "label": "Chile releases the Navy footage",
 "precision": "month",
 "strand": "oversight",
-"text": "CEFAA publishes the Chilean Navy infrared video without an explanation - the first release of state military sensor footage of an unresolved object by a Latin American government, three years before the US Department of Defense authorised release of the three Navy videos.",
-"tier": 2
+"text": "CEFAA publishes the Chilean Navy infrared video without an explanation - the first release of state military sensor footage of an unresolved object by a Latin American government, three years before the US Department of Defense authorised release of the three Navy videos."
 }
-]
+],
+"unverified": []
 }

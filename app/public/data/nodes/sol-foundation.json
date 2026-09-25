@@ -77,6 +77,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -585,18 +586,20 @@
 "deg": 19,
 "denials": [
 {
-"by": {
+"a": {
 "id": "uap-science-advisory-council",
 "label": "UAP Science Advisory Council"
 },
+"b": {
+"id": "sol-foundation",
+"label": "The Sol Foundation"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "Advisory seat conditioned on unclassified-only access",
 "note": "The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for.",
-"of": {
-"id": "sol-foundation",
-"label": "The Sol Foundation"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-06-22",
@@ -607,11 +610,7 @@
 }
 ],
 "desc": "The Sol Foundation is the institution that turned the technical layer into a policy actor. Co-founded by Stanford's Garry Nolan and anthropologist Peter Skafish - reported as 15 August 2023, though the foundation's own About page gives 2022 - it describes its work as 'science, policy, and public education for the post-UAP world' across scientific and philosophical research, government and social policy, and public education. Its programme list is concrete: a Distributed UAP Observation Project, a Distributed Passive Radar Project, a UAP Image Analysis Team, a Nonhuman Intelligence Project, and citizen science. Its leadership is Skafish as Executive Director, Nolan as Executive Director of the Board, Jennifer Preston as COO, Christian Peters as Associate Director of Research, and - the significant hire - Kirk McConnell, a 37-year Senate Armed Services and intelligence-committee staffer, as Senior Legislative Affairs Officer. It publishes a numbered white-paper and policy-briefing series that includes Tim Gallaudet on the maritime domain (March 2024), Helen McCaw on UK policy (May 2024), Skafish on executive-branch secrecy and harm to Congress (November 2024), Karl Nell's 'The UFO Enigma: A Call for US Government Disclosure' (May 2025), and in 2026 three numbered Science and Policy Briefings: Villarroel's pre-satellite-era plate evidence (No. 1, January 2026), McConnell on a UAP whistleblower restitution fund (No. 2, April 2026), and von Rennenkampff on the first peer-reviewed UAP materials analysis (No. 3, April 2026). In June 2026 its co-founders, its senior adviser Tim Gallaudet, its advisory board member Jacob Haqq-Misra and its production lead Ross Howard were named to the UAP Science Advisory Council; the foundation called this 'a fulfillment of its founding mission'. In under three years a private foundation went from formation to supplying a plurality of the US government's outside scientific advisers on the subject.",
-"domains": [
-"media-structure",
-"scientists-technical",
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -824,7 +823,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "The Sol Foundation",
+"sourceFiles": [
+"media-structure",
+"scientists-technical",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -899,70 +904,78 @@
 ],
 "sub": "UAP research and policy non-profit",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 61 of 1170, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 63 of 1170, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-08-15",
+"grade": "A",
 "id": "st-2023-08-15",
 "label": "Sol Foundation founded",
 "precision": "day",
 "strand": "program",
-"text": "Garry Nolan and Peter Skafish co-found The Sol Foundation, the first institution to treat UAP simultaneously as a materials, governance and public-understanding problem.",
-"tier": "A"
+"text": "Garry Nolan and Peter Skafish co-found The Sol Foundation, the first institution to treat UAP simultaneously as a materials, governance and public-understanding problem."
 },
 {
+"claimTier": null,
 "date": "2023-11-17",
+"grade": "A",
 "id": "ms-2023-sol",
 "label": "Inaugural Sol Foundation conference",
 "precision": "day",
 "strand": "program",
-"text": "Two days at Stanford, sponsored by the Nolan Laboratory and Stanford School of Medicine, with Eric Davis, Tim Gallaudet, Avi Loeb, Leslie Kean, Christopher Mellon, Karl Nell, Hal Puthoff and Jacques Vallee speaking. The movement acquires an academic address.",
-"tier": "A"
+"text": "Two days at Stanford, sponsored by the Nolan Laboratory and Stanford School of Medicine, with Eric Davis, Tim Gallaudet, Avi Loeb, Leslie Kean, Christopher Mellon, Karl Nell, Hal Puthoff and Jacques Vallee speaking. The movement acquires an academic address."
 },
 {
+"claimTier": null,
 "date": "2025-05-01",
+"grade": "A",
 "id": "st-2025-05-nell",
 "label": "Nell publishes through Sol",
 "precision": "month",
 "strand": "oversight",
-"text": "Karl Nell's 'The UFO Enigma: A Call for US Government Disclosure' appears in the Sol Foundation white-paper series.",
-"tier": "A"
+"text": "Karl Nell's 'The UFO Enigma: A Call for US Government Disclosure' appears in the Sol Foundation white-paper series."
 },
 {
+"claimTier": null,
 "date": "2025-10-24",
+"grade": "A",
 "id": "ms-2025-sol-italy",
 "label": "2025 Sol Foundation Symposium",
 "precision": "ranged",
 "strand": "program",
-"text": "Four days on Lake Maggiore in northern Italy with Karl Nell, Jacques Vallee, Garry Nolan, Jake Barber, Dylan Borland, Jeff Nuccetelli, Tim Gallaudet and Gen. Pierre Bescond. The movement internationalises.",
-"tier": "A"
+"text": "Four days on Lake Maggiore in northern Italy with Karl Nell, Jacques Vallee, Garry Nolan, Jake Barber, Dylan Borland, Jeff Nuccetelli, Tim Gallaudet and Gen. Pierre Bescond. The movement internationalises."
 },
 {
+"claimTier": null,
 "date": "2026-01-01",
+"grade": "A",
 "id": "st-2026-01-sol1",
 "label": "Sol Briefing No. 1",
 "precision": "month",
 "strand": "oversight",
-"text": "The Sol Foundation publishes 'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images', translating the VASCO plate results into a policy artefact.",
-"tier": "A"
+"text": "The Sol Foundation publishes 'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images', translating the VASCO plate results into a policy artefact."
 },
 {
+"claimTier": 2,
 "date": "2026-04",
+"grade": null,
 "id": "tl-sol-briefing3",
 "label": "Sol Foundation publishes peer-reviewed analysis of possible UAP material",
 "precision": "month",
 "strand": "program",
-"text": "Science and Policy Briefing No. 3 by Marik von Rennenkampff reports atomic and isotopic analysis of physical material associated with a multi-witness event, conducted by Garry Nolan - the private-sector counterpart to AARO's two Oak Ridge specimen studies.",
-"tier": "2"
+"text": "Science and Policy Briefing No. 3 by Marik von Rennenkampff reports atomic and isotopic analysis of physical material associated with a multi-witness event, conducted by Garry Nolan - the private-sector counterpart to AARO's two Oak Ridge specimen studies."
 },
 {
+"claimTier": 2,
 "date": "2026-06-22",
+"grade": null,
 "id": "tl-sac-members",
 "label": "Sol Foundation confirms its co-founders sit on the federal advisory council",
 "precision": "day",
 "strand": "program",
-"text": "Nolan and Skafish are named to the UAP Science Advisory Council, which the foundation says was announced by ODNI with FBI support and reports to an interagency UAP Governance Board. All data shared with the council will be unclassified.",
-"tier": "2"
+"text": "Nolan and Skafish are named to the UAP Science Advisory Council, which the foundation says was announced by ODNI with FBI support and reports to an interagency UAP Governance Board. All data shared with the council will be unclassified."
 }
-]
+],
+"unverified": []
 }

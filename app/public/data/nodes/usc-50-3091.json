@@ -42,6 +42,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -73,7 +74,7 @@
 "edgeLabel": "The general 'fully and currently informed' duty and its covert action exception",
 "id": "usc-50-3093",
 "l0": false,
-"label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+"label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "note": "Section 3091(a)(1) states the general duty; section 3093(c)(2)-(3) supplies the limited-notification and no-prior-notice exceptions for covert action findings.",
 "sources": [
 {
@@ -97,10 +98,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Section 501 of the National Security Act, at 50 U.S.C. 3091, is the general obligation against which every claim of concealment from Congress in the intelligence sphere must be measured. Subsection (a)(1) requires the President to 'ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity'. Subsection (b) requires that 'any illegal intelligence activity is reported promptly to the congressional intelligence committees, as well as any corrective action that has been taken or is planned'. And subsection (e) closes the classification defence completely: 'Nothing in this chapter shall be construed as authority to withhold information from the congressional intelligence committees on the grounds that providing the information to the congressional intelligence committees would constitute the unauthorized disclosure of classified information or information relating to intelligence sources and methods.' That sentence is the most useful single line of statute for anyone arguing that a compartment cannot lawfully be used to keep the intelligence committees out of an intelligence activity. Its limits are equally important: it binds only as to intelligence activities and only as to the intelligence committees, so it does not reach a DoD acquisition or operations and support special access program, and it does not reach the defense committees at all.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -111,10 +109,15 @@
 "hl": null,
 "id": "usc-50-3091",
 "l0": false,
-"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "locLabel": null,
 "members": null,
-"short": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"openQuestions": [],
+"short": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-01-05",
@@ -134,6 +137,7 @@
 ],
 "sub": "statute",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 435 of 1170, score 33). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 434 of 1170, score 33). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [],
+"unverified": []
 }

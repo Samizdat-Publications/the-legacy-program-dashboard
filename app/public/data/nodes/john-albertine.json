@@ -75,7 +75,7 @@
 "url": "https://irp.fas.org/dia/aatip-list.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "research"
 }
 ],
@@ -84,9 +84,7 @@
 "dateStart": "2010-01-01",
 "deg": 1,
 "denials": [],
-"domains": [
-"w7-dirds-4"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -106,6 +104,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "J. Albertine",
+"sourceFiles": [
+"w7-dirds-4"
+],
 "sources": [
 {
 "date": "2019-01-17",
@@ -126,7 +127,7 @@
 "status": "active",
 "sub": "Directed Technologies; high-energy laser physicist, M.S.; probably John R. Albertine, formerly of the US Navy High Energy Laser Program Office",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 875 of 1170, score 19). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 876 of 1170, score 19). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

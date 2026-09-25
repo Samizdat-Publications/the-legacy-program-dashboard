@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -161,18 +162,20 @@
 "deg": 6,
 "denials": [
 {
-"by": {
+"a": {
 "id": "ev-varginha-1996",
 "label": "Varginha incident, Minas Gerais, January 1996"
 },
+"b": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "Two official inquiries that explained the recovery activity without producing the logs",
 "note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
-"of": {
-"id": "roswell-report-case-closed",
-"label": "The Roswell Report: Case Closed (1997)"
-},
+"of": null,
 "sources": [
 {
 "date": "1997-01-01",
@@ -182,6 +185,14 @@
 ]
 },
 {
+"a": {
+"id": "glenn-dennis",
+"label": "W. Glenn Dennis"
+},
+"b": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
 "by": {
 "id": "roswell-report-case-closed",
 "label": "The Roswell Report: Case Closed (1997)"
@@ -203,6 +214,14 @@
 ]
 },
 {
+"a": {
+"id": "jim-ragsdale",
+"label": "James Ragsdale"
+},
+"b": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
 "by": {
 "id": "roswell-report-case-closed",
 "label": "The Roswell Report: Case Closed (1997)"
@@ -224,6 +243,14 @@
 ]
 },
 {
+"a": {
+"id": "roswell-report-case-closed",
+"label": "The Roswell Report: Case Closed (1997)"
+},
+"b": {
+"id": "plains-san-agustin-1947",
+"label": "Plains of San Agustin claim, July 1947"
+},
 "by": {
 "id": "roswell-report-case-closed",
 "label": "The Roswell Report: Case Closed (1997)"
@@ -246,9 +273,7 @@
 }
 ],
 "desc": "The second and more consequential official Air Force report, authored by James McAndrew and published by Headquarters United States Air Force through the Government Printing Office in 1997, addressing the alien-bodies claims that the 1994-1995 report had not covered. Its four stated conclusions are that Air Force activities spanning many years were consolidated into two or three days in July 1947; that the 'aliens' were probably anthropomorphic test dummies carried aloft by high-altitude balloons; that the 'unusual' military activity in the desert was balloon launch and recovery, with the units that always arrived shortly after a crash being accurate descriptions of dummy-recovery teams; and that the Roswell Army Air Field hospital bodies claims most likely combine a 1956 KC-97 crash killing eleven airmen with a 1959 manned balloon mishap injuring two pilots. The report also asserts flatly that 'the claims of bodies only became part of the Roswell Incident after 1978'. What makes it a first-order artifact rather than a press release is what it printed: anthropomorphic dummy launch and landing locations at Appendix A; sworn witness statements from ten named Air Force personnel at Appendix B including Col. Joseph W. Kittinger Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg and Lt. Col. Raymond A. Madson; and full interview transcripts of five pro-UFO witnesses at Appendix C - Gerald Anderson, Glenn Dennis, Alice Knight, Vern Maltais and James Ragsdale, the Dennis interview supplied by its interviewer Karl T. Pflock. Section 2.1 is the most forensically detailed passage the US government has ever published on a UFO claim: it works the 427th AAF Base Unit Squadron 'M' morning reports and the National Personnel Records Center holdings to establish that Glenn Dennis's 'Naomi Maria Selff' never existed and to identify 1st Lt. Eileen M. Fanton as matching every other particular of his description.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -363,7 +388,11 @@
 "label": "The Roswell Report: Case Closed (1997)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Roswell Report: Case Closed (1997)",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1997-01-01",
@@ -383,16 +412,18 @@
 ],
 "sub": "HQ USAF / GPO, by Capt. James McAndrew; 231 pp.",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 258 of 1170, score 42). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 256 of 1170, score 42). 6 connections, 0 of them custody/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1997",
+"grade": "A",
 "id": "tl-1997-case-closed",
 "label": "The Roswell Report: Case Closed",
 "precision": "year",
 "strand": "oversight",
-"text": "James McAndrew publishes the bodies report through HQ USAF and the GPO. Section 2.1 works the 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center holdings to show Glenn Dennis's 'Naomi Maria Selff' never existed, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
-"tier": "A"
+"text": "James McAndrew publishes the bodies report through HQ USAF and the GPO. Section 2.1 works the 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center holdings to show Glenn Dennis's 'Naomi Maria Selff' never existed, and identifies 1st Lt. Eileen M. Fanton as matching every other particular."
 }
-]
+],
+"unverified": []
 }

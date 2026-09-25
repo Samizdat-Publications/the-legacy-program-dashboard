@@ -42,6 +42,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -244,10 +245,7 @@
 "deg": 9,
 "denials": [],
 "desc": "The Department of Defense was made subject to the Chief Financial Officers Act of 1990 like every other major agency, and for twenty-seven years did not attempt a full-scope audit of its financial statements. The first one covered fiscal year 2018. Every full-scope audit from FY2018 through FY2025 - eight consecutive years - has ended in a disclaimer of opinion: the Inspector General has been unable to obtain sufficient appropriate audit evidence to express any opinion at all on whether the Department's financial statements are fairly presented. This is not a qualified opinion or an adverse opinion; it is a statement that the books cannot be audited. The FY2025 audit, reported in DOWIG-2026-081 'The FY 2025 DoW Financial Statement Audit Explained' published 12 May 2026, identified twenty-six material weaknesses across three categories - ten in management responsibility and asset accountability, six in information technology, and ten in accounting. Among the accounting weaknesses is one named 'Unsupported Accounting Adjustments', under which the report states that in the last two quarters of FY2025 the Department's adjustments totalled more than $859 billion, with contributions from the Army, Air Force, Navy and the Defense Logistics Agency across both general and working capital funds. Twenty-two reporting entities received stand-alone audits: eleven clean opinions, one qualified, nine disclaimers, and one (the Navy Working Capital Fund) no opinion under a two-year cycle. Two of the twenty-six weaknesses go directly to the question this board asks - 'Universe of Transactions', meaning the Department cannot establish the complete set of transactions falling within audit scope, and 'Fund Balance with Treasury', an account holding roughly $1 trillion that the Department cannot reconcile. An entity that cannot enumerate its own transactions cannot demonstrate the absence of any particular transaction, and that is the precise structural reason a documented audit failure is evidence in a concealment investigation rather than merely a management scandal.",
-"domains": [
-"_rs-archive-mirror",
-"w2-black-budget"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -286,9 +284,9 @@
 "tier": 1
 },
 {
-"source": "DoD OIG Report No. DODIG-2026-032; https://www.dodig.mil/reports.html/Article/4365178/independent-auditors-reports-on-the-dod-fy-2025-financial-statements/ and https://media.defense.gov/2025/Dec/19/2003847587/-1/-1/1/DODIG-2026-032.PDF",
+"source": "DoD OIG Report No. DODIG-2026-032; https://www.dodig.mil/reports.html/Article/4365178/independent-auditors-reports-on-the-dod-fy-2025-financial-statements/ and https://media.defense.gov/2025/Dec/19/2003847587/-1/-1/1/DODIG-2026-032.PDF - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "The DoD Office of Inspector General issued Report No. DODIG-2026-032, 'Independent Auditor's Reports on the DoD FY 2025 Financial Statements,' covering the eighth annual department-wide audit and comprising three separate reports on the financial statements, internal control over financial reporting, and compliance with applicable laws and regulations.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "Congressional Research Service, 'Defense Primer: FY2025 Department of Defense Audit Results,' IF12627; https://www.congress.gov/crs-product/IF12627",
@@ -427,7 +425,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "DoD Agency-Wide Audit",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-05-12",
@@ -462,6 +465,7 @@
 ],
 "sub": "Annual full-scope audit required by the CFO Act; disclaimer of opinion every year since inception",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 303 of 1170, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 302 of 1170, score 39). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"timeline": [],
+"unverified": []
 }

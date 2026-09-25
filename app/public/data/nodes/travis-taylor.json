@@ -124,7 +124,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"scientists-technical"
+"d-research",
+"d-exotic",
+"d-prop"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -145,6 +147,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Travis S. Taylor",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-07-26",
@@ -165,7 +170,7 @@
 "status": "active",
 "sub": "Aerospace engineer and optical scientist; Chief Scientist of the Unidentified Aerial Phenomena Task Force; Principal Research Scientist, Radiance Technologies",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 653 of 1170, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 654 of 1170, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

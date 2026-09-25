@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -35,6 +36,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "prime contract",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
@@ -113,10 +135,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The AAWSAP prime contract, signed 22 September 2008 with BAASS, awarded off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -130,7 +149,12 @@
 "label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror"
+],
 "sources": [
 {
 "date": "2009-09-02",
@@ -180,6 +204,7 @@
 ],
 "sub": "contract",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 876 of 1170, score 19). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 743 of 1170, score 23). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The Military Intelligence Program was created in 2005 by consolidating the Joint Military Intelligence Program and the Tactical Intelligence and Related Activities aggregation, placing under the Under Secretary of Defense for Intelligence (now Intelligence and Security) the intelligence money that supports military operations, as distinct from the National Intelligence Program controlled by the DNI. The Department of Defense publishes only an aggregate topline for the MIP, in a brief annual press release, with the standing formula that no other MIP budget figures or details will be released because they remain classified. Appropriated toplines have run from $20.0 billion in FY2007 to a peak of $29.8 billion in FY2024 and $27.8 billion in FY2025, against a FY2026 request of $33.6 billion - roughly a third of the NIP in each year. The MIP matters to this board more than the NIP does, because it is the pot of money closest to the Department's own laboratories, test ranges, materiel commands and special access program enterprise, and because its governing official, USD(I&S), is also the Department's Senior Security Official with authority over the SAP system. The NIP and MIP split also creates the oversight seam that any concealed activity would exploit: NIP money is overseen by the intelligence committees, MIP money principally by the armed services committees, and a programme scored partly to each can be described truthfully to each committee in terms that leave neither with the whole.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -119,7 +118,11 @@
 "label": "Military Intelligence Program (MIP)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Military Intelligence Program (MIP)",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -137,13 +140,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 343 of 1170, score 37). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2005",
+"grade": "B",
 "id": "bb-tl-2005-mip",
 "label": "Military Intelligence Program created",
 "precision": "year",
 "strand": "program",
-"text": "The Joint Military Intelligence Program and Tactical Intelligence and Related Activities aggregations are consolidated into the Military Intelligence Program under the Under Secretary of Defense for Intelligence, formalising the split between DNI-controlled and SECDEF-controlled intelligence money and creating the oversight seam between the intelligence and armed services committees.",
-"tier": "B"
+"text": "The Joint Military Intelligence Program and Tactical Intelligence and Related Activities aggregations are consolidated into the Military Intelligence Program under the Under Secretary of Defense for Intelligence, formalising the split between DNI-controlled and SECDEF-controlled intelligence money and creating the oversight seam between the intelligence and armed services committees."
 }
-]
+],
+"unverified": []
 }

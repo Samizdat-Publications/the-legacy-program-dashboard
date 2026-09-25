@@ -202,7 +202,9 @@
 "deg": 5,
 "denials": [],
 "domains": [
-"w2-retrieval-literature"
+"d-recovery",
+"d-witness",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -223,6 +225,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Leonard H. Stringfield",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -243,7 +248,7 @@
 "status": "dead",
 "sub": "Founder, CRIFO; MUFON director of public relations; author, UFO Crash/Retrieval Status Reports I-VII",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 810 of 1170, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 811 of 1170, score 21). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

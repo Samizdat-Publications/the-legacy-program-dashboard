@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -98,18 +99,20 @@
 "deg": 3,
 "denials": [
 {
-"by": {
+"a": {
 "id": "icig",
 "label": "Inspector General of the Intelligence Community"
 },
+"b": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "Irreconcilable executive-branch findings on the same allegations",
 "note": "The ICIG found the complaint credible and urgent in July 2022; AARO found no verifiable information from June 2023 and no firsthand knowledge in March 2024. Both are executive-branch determinations on the same body of allegations, and neither has been formally reconciled on the public record. Reasoning: no document exists in which either office addresses the other's finding.",
-"of": {
-"id": "aaro",
-"label": "All-domain Anomaly Resolution Office (AARO)"
-},
+"of": null,
 "sources": [
 {
 "date": "2023-07-26",
@@ -125,10 +128,7 @@
 }
 ],
 "desc": "Created by the FY2010 Intelligence Authorization Act and first led by Charles McCullough III, the ICIG administers the urgent-concern channel by which an IC employee may transmit an allegation to the congressional intelligence committees over the head of their agency. It is the office that received Grusch's 25 May 2022 complaint, filed by McCullough himself, and it is the office that determined in July 2022 that the complaint was credible and urgent. Thomas A. Monheim has led it since 2021. In the Grusch matter the ICIG is simultaneously the validating authority and, per the reprisal complaint, the point at which the complainant's identity allegedly escaped the protected channel into DoD and IC hands. Grusch also testified to a structural gap in the office's reach: it had no smooth way to route his disclosure to the House and Senate Armed Services Committees despite Title 10 equities, which means the committees with jurisdiction over DoD special access programs may never have received the substance.",
-"domains": [
-"_rs-archive-mirror",
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -142,7 +142,12 @@
 "label": "Inspector General of the Intelligence Community",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Inspector General of the Intelligence Community",
+"sourceFiles": [
+"_rs-archive-mirror",
+"grusch"
+],
 "sources": [
 {
 "date": "2026-08-07",
@@ -165,22 +170,25 @@
 "tierRationale": "Re-graded B on a global pass (rank 455 of 1170, score 32). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-07-01",
+"grade": "A",
 "id": "g-tl-2022-07-credible",
 "label": "ICIG finds the complaint credible and urgent",
 "precision": "month",
 "strand": "oversight",
-"text": "The statutory determination that obliges transmission to the congressional intelligence committees. It has never been withdrawn, and no executive-branch document reconciles it with AARO's later findings.",
-"tier": "A"
+"text": "The statutory determination that obliges transmission to the congressional intelligence committees. It has never been withdrawn, and no executive-branch document reconciles it with AARO's later findings."
 },
 {
+"claimTier": null,
 "date": "2024-01-13",
+"grade": "B",
 "id": "g-tl-2024-01-icig-brief",
 "label": "ICIG briefs House Oversight members in closed session",
 "precision": "day",
 "strand": "oversight",
-"text": "Members emerge saying they learned nothing new about UAP transparency from the Inspector General of the Intelligence Community.",
-"tier": "B"
+"text": "Members emerge saying they learned nothing new about UAP transparency from the Inspector General of the Intelligence Community."
 }
-]
+],
+"unverified": []
 }

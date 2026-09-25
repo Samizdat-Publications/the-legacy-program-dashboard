@@ -32,6 +32,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -61,9 +62,7 @@
 "deg": 1,
 "denials": [],
 "desc": "DSSP is the documented Navy organisation behind the deep-ocean recovery capability the Area 52 corpus talks about, and the board's undersea thread currently has no office at all. The Deep-Submergence Systems Review Group was established in April 1963, after the loss of USS Thresher, to review Navy plans for the location, identification, rescue from and recovery of deep-submerged large objects from the ocean floor. It reported in February 1964, and the Secretary of the Navy assigned implementation of the resulting programme, renamed the Deep-Submergence Systems Project, to the Navy's Special Projects Office; by 1967 it was a separate project within the Naval Material Command. Its two primary objectives were rescue of personnel from distressed submarines and locating and recovering small objects from the ocean depths, pursued through a rescue vehicle rated for 6,000 feet and a separate search vehicle intended to search the sea floor to 20,000 feet. The project office carried the designator PM-11.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -77,7 +76,11 @@
 "label": "Deep Submergence Systems Project (DSSP)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Deep Submergence Systems Project (DSSP)",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1965-03-01",
@@ -103,5 +106,6 @@
 "sub": "US Navy project for deep-ocean rescue, search, salvage and recovery, established 1964 in the Special Projects Office",
 "tier": "B",
 "tierRationale": "Re-graded B on a global pass (rank 459 of 1170, score 32). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

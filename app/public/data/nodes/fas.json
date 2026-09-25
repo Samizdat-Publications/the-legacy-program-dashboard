@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -109,9 +110,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The Federation of American Scientists, founded in 1945 by Manhattan Project scientists, runs the Government Secrecy Project and the Intelligence Resource Program. It is the organisation that brought the 1997 FOIA suit against the Central Intelligence Agency, with the assistance of Kate Martin of the Center for National Security Studies, which forced the first declassification of the total United States intelligence budget in fifty years, and the 2006 suit against the National Reconnaissance Office that produced unclassified NRO budget records. Its Intelligence Resource Program maintains the only consolidated public series of NIP and MIP toplines. For a board built on the premise of deliberate concealment, FAS is the institutional counter-example that proves the rule: everything the public knows about the size of the intelligence budget exists because a small non-profit sued for it, and nothing below the aggregate has ever been obtained by anyone.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -125,7 +124,11 @@
 "label": "Federation of American Scientists",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Federation of American Scientists",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -143,13 +146,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 891 of 1170, score 19). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2006",
+"grade": "B",
 "id": "bb-tl-2006-nro-foia",
 "label": "FAS wins FOIA suit against the NRO",
 "precision": "year",
 "strand": "oversight",
-"text": "Aftergood, for FAS, secures release of unclassified National Reconnaissance Office budget records - the only occasion on which any component-level intelligence budget material has been prised loose by litigation.",
-"tier": "B"
+"text": "Aftergood, for FAS, secures release of unclassified National Reconnaissance Office budget records - the only occasion on which any component-level intelligence budget material has been prised loose by litigation."
 }
-]
+],
+"unverified": []
 }

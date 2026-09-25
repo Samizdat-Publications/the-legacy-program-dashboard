@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "At about 11:20 p.m. Atlantic Daylight Time on 4 October 1967 at least eleven people saw a low-flying lit object descend into the water off Shag Harbour, Nova Scotia; witnesses reported a whistling sound, a whoosh and a loud bang. Laurie Wickens and four companions, driving on Highway 3, reported to the RCMP detachment at Barrington Passage that a large aircraft had gone into the water. Two RCMP officers reached the scene within about fifteen minutes and the Rescue Coordination Centre in Halifax was alerted; the object, still lit, sank before any rescue attempt. Local fishing boats and a Canadian Coast Guard cutter from Clark's Harbour searched and found no survivors, bodies or debris. By the next morning RCC Halifax had established that no commercial, private or military aircraft were missing anywhere along the eastern seaboard, in the Atlantic provinces or in New England, and sent a priority telex to the Royal Canadian Air Force 'Air Desk' in Ottawa - the office handling all civilian and military UFO reports - explicitly stating that conventional explanations had been dismissed and labelling it a UFO Report. The head of the Air Desk telexed Royal Canadian Navy headquarters recommending an underwater search, and the Navy tasked Fleet Diving Unit Atlantic, which combed the seafloor of the Gulf of Maine for three days beginning two days after the event. The final report says no trace was found. The Chronicle-Herald of 7 October 1967 ran Ray MacLeod's front-page story 'Could Be Something Concrete in Shag Harbour UFO - RCAF', quoting Squadron Leader Bain of the Air Desk saying the Air Force was 'very interested' and that 'the Shag Harbour incident is one of the few where we may get something concrete on it.' The 9 October follow-up, 'UFO Search Called Off', quoted the Navy: 'Not a trace... not a clue... not a bit of anything.' A summary of the event from Department of National Defence files is held at Library and Archives Canada. Shag Harbour is the strongest case in the whole retrieval literature on the criterion this board cares about most - the response is documented in government paper even though the object is not.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -72,7 +71,11 @@
 "label": "Shag Harbour incident, 4 October 1967",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Shag Harbour incident, 4 October 1967",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -82,16 +85,18 @@
 ],
 "sub": "Object impact and Canadian military underwater search, Nova Scotia",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 833 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 834 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1967-10-04",
+"grade": "A",
 "id": "tl-1967-1004-shag",
 "label": "Shag Harbour",
 "precision": "day",
 "strand": "witness",
-"text": "An object enters the water off Shag Harbour, Nova Scotia at about 11:20pm ADT before at least eleven witnesses. RCC Halifax telexes the RCAF Air Desk in Ottawa having eliminated all aircraft; the Navy tasks Fleet Diving Unit Atlantic to a three-day underwater search. Nothing is found.",
-"tier": "A"
+"text": "An object enters the water off Shag Harbour, Nova Scotia at about 11:20pm ADT before at least eleven witnesses. RCC Halifax telexes the RCAF Air Desk in Ottawa having eliminated all aircraft; the Navy tasks Fleet Diving Unit Atlantic to a three-day underwater search. Nothing is found."
 }
-]
+],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "A later carrier rather than a source, and the board builds it as one. The film is directed by Jeremy Kenyon Lockyer Corbell, runs 97 minutes, is narrated by Mickey Rourke, and features Bob Lazar, George Knapp and Joy White. Its significance to this cluster is twofold and both parts are about propagation rather than evidence: it returned the S-4 claim to mass circulation thirty years after the 1989 broadcasts, and it is the route by which the July 2017 search of United Nuclear Scientific entered the UFO literature, framed there as a raid to recover element 115 rather than as an agency assist in a Michigan homicide investigation. A correction the board should carry in print: the date in general circulation for this film, 4 December 2018, is the United Kingdom physical release. Letterboxd lists the United States digital release as 1 November 2018 and the United States physical release as 8 December 2018. IMDb returned HTTP 403 and was not opened, so no distributor record confirms a single date and the node states a range.",
-"domains": [
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -109,7 +108,11 @@
 "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Bob Lazar: Area 51 and Flying Saucers (2018)",
+"sourceFiles": [
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "2018",
@@ -124,16 +127,21 @@
 ],
 "sub": "Jeremy Corbell's 97-minute documentary, narrated by Mickey Rourke, featuring Lazar and George Knapp, released across formats between November and December 2018",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1010 of 1170, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1011 of 1170, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2018-11-01",
+"grade": "C",
 "id": "tl-2018-11-01-corbell-documentary",
 "label": "Bob Lazar: Area 51 and Flying Saucers released digitally in the United States",
 "precision": "day",
 "strand": "witness",
-"text": "Jeremy Corbell's 97-minute documentary, narrated by Mickey Rourke, featuring Lazar, George Knapp and Joy White. Letterboxd lists United States digital release on 1 November 2018, United Kingdom physical on 4 December 2018 and United States physical on 8 December 2018. The widely cited '4 December 2018' is the UK physical date; IMDb returned HTTP 403 and no distributor record was opened.",
-"tier": "C"
+"text": "Jeremy Corbell's 97-minute documentary, narrated by Mickey Rourke, featuring Lazar, George Knapp and Joy White. Letterboxd lists United States digital release on 1 November 2018, United Kingdom physical on 4 December 2018 and United States physical on 8 December 2018. The widely cited '4 December 2018' is the UK physical date; IMDb returned HTTP 403 and no distributor record was opened."
 }
+],
+"unverified": [
+"The film itself was NOT VIEWED by this board. Every statement on this node is about its credits, its release and its downstream effect, and none is about its contents.",
+"A single authoritative release date. IMDb returned HTTP 403 and no distributor or festival record was opened."
 ]
 }

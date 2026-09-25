@@ -95,7 +95,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"w2-international"
+"d-international",
+"d-disclosure",
+"d-foia"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -116,6 +118,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Dr David Clarke",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2006-05-15",
@@ -139,13 +144,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 1045 of 1170, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2006-05-15",
+"grade": null,
 "id": "tl-intl-2006-condign-release",
 "label": "Condign released under FOI",
 "precision": "day",
 "strand": "oversight",
-"text": "The Ministry of Defence releases the Condign report following a September 2005 Freedom of Information Act request by David Clarke and Gary Anthony. The publication scheme entry names the Directorate of Air Staff as author organisation.",
-"tier": 1
+"text": "The Ministry of Defence releases the Condign report following a September 2005 Freedom of Information Act request by David Clarke and Gary Anthony. The publication scheme entry names the Directorate of Air Staff as author organisation."
 }
 ],
 "unexplainedResidual": null,

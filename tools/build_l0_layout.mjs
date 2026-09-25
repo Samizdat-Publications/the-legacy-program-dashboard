@@ -156,7 +156,8 @@ function shortLabel(s) {
 }
 function shortOf(n) {
   const a = AUTHORED_SHORTS[n.id];
-  return (typeof a === 'string' && a.trim()) ? a.trim() : shortLabel(n.label);
+  /* a spaced em dash in a display label becomes " - " (phase 3 decision 7) */
+  return (typeof a === 'string' && a.trim()) ? a.trim().replace(/\s+\u2014\s+/g, ' - ') : shortLabel(n.label);
 }
 const yearOf = s => (s ? parseInt(String(s).slice(0, 4), 10) : null);
 const eraIndex = y => y == null ? null

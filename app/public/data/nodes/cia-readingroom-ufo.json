@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -87,9 +88,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The CIA's standing public UFO offering: a curated collection of nineteen documents spanning the 1940s to the early 1990s, consisting largely of cables reporting unverified UFO sightings carried in foreign media plus internal correspondence on how the Agency should answer public questions about them, accompanied by the 1997 Studies in Intelligence article 'CIA's Role in the Study of UFOs, 1947-90.' It is a collection about the Agency's press posture rather than its analysis. PURSUE Release 03 went past it in two ways: it published a less-redacted version of the Agency's 1953 Robertson Panel report - meaning the existing public version had remained partly withheld for seventy-three years and the withholding was reversible by executive direction - and a CIA file on a 2008 disc-like object over Harare International Airport in Zimbabwe. Release 05 added a CIA report of an alleged November 1963 recovery in Brazil of a metal sphere containing a deceased occupant in a spacesuit, subsequently deemed unsubstantiated by the American Consulate. None of these appear in the Agency's own curated collection.",
-"domains": [
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -103,7 +102,11 @@
 "label": "CIA FOIA Reading Room - UFO collection",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "CIA FOIA Reading Room - UFO collection",
+"sourceFiles": [
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -123,6 +126,7 @@
 ],
 "sub": "19 documents, 1940s-1990s; plus the 1997 Studies in Intelligence history",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 542 of 1170, score 30). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 536 of 1170, score 30). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [],
+"unverified": []
 }

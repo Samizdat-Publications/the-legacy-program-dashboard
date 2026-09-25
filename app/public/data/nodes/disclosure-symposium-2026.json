@@ -17,6 +17,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "During the week of 22-28 June 2026 Senator Rounds spoke at the 2026 Disclosure Symposium and used it to announce that the UAP Disclosure Act would be filed again. In his own newsletter he wrote: 'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.' The Thursday of that week was 25 June 2026. The significance is the venue and the timing together: nine days after the Armed Services Committee reported an FY2027 NDAA containing no UAP provisions at all, the ranking Republican advocate announced the next attempt not in committee, not in a bill, and not on the Senate floor, but at an outside disclosure conference. The pattern established in 2023, 2024 and 2025 is that the Act is filed as a leadership-level floor amendment and disposed of without a vote; the 2026 announcement indicates a fourth iteration of the same approach against a bill whose committee product has been built without a place for it.",
-"domains": [
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -93,7 +92,11 @@
 "label": "2026 Disclosure Symposium",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "2026 Disclosure Symposium",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2026-06-28",
@@ -111,13 +114,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1096 of 1170, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-06-25",
+"grade": "B",
 "id": "cl-2026-06-25",
 "label": "Rounds announces a fourth attempt",
 "precision": "day",
 "strand": "program",
-"text": "At the 2026 Disclosure Symposium Rounds says he is 'once again cosponsoring' the UAP Disclosure Act as an amendment to this year's NDAA — nine days after the committee reported a bill with nothing in it to amend.",
-"tier": "B"
+"text": "At the 2026 Disclosure Symposium Rounds says he is 'once again cosponsoring' the UAP Disclosure Act as an amendment to this year's NDAA — nine days after the committee reported a bill with nothing in it to amend."
 }
-]
+],
+"unverified": []
 }

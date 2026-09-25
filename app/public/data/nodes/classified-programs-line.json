@@ -42,6 +42,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -134,9 +135,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The most direct answer to how money reaches a programme that does not appear as a budget line is that it does appear as a budget line - a line whose title is the word 'CLASSIFIED' and whose only other content is a dollar figure. In the funding tables of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119-60, division D), twenty-five separate rows are titled 'CLASSIFIED PROGRAMS'. Summed, they carry $95.786 billion requested and $95.907 billion authorized. The largest single one is line 077A, Other Procurement, Air Force: $26,920,092 thousand - $26.92 billion of procurement money in one Air Force appropriation account, described by one word. Immediately above it sits line 077, 'SPECIAL UPDATE PROGRAM', at $1,178,397 thousand, an equally uninformative title with a long history in the Air Force budget. Other Procurement, Air Force is the account in which the intelligence community's aerial and space reconnaissance funding has historically been carried, and this row is what defense-budget analysts call the Air Force 'pass-through': money that appears in the Air Force's total obligational authority, counts against the Air Force topline, and is not spent by or controlled by the Air Force. On the research side the concealment is even more literal: classified research, development, test and evaluation appears under Program Element number 9999999999 - an all-nines placeholder in the Department's own programme element numbering system - with $22,264,031 thousand requested for the Air Force alone at line 293A in FY2026, and further nine-nines rows in the Navy ($2,554,769 thousand at line 259A) and Special Operations ($8,276,313 thousand at line 298A). Operation and Maintenance, Defense-Wide carries $22,750,830 thousand at line 530A; Operation and Maintenance, Army carries $2,385,523 thousand at line 590A. The three-year series computed directly from the enacted funding tables runs: FY2024, twenty-two rows, $86.912 billion authorized; FY2025, twenty-four rows, $88.682 billion; FY2026, twenty-five rows, $95.907 billion. These are the visible edges of the black budget. What they fund is in the classified annex.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -150,7 +149,11 @@
 "label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2025-12-18",
@@ -170,6 +173,7 @@
 ],
 "sub": "The published, legally binding budget lines that state a number and nothing else",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 117 of 1170, score 58). 4 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 116 of 1170, score 58). 4 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"timeline": [],
+"unverified": []
 }

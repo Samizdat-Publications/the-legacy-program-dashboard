@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,10 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The most consequential historical document in the PURSUE corpus. Released on 7 August 2026 in Release 05, it is a 1953 US Navy Photographic Interpretation Center analysis of the 1950 Great Falls, Montana and 1952 Tremonton, Utah films. The Utah footage was analysed over more than a thousand hours, frame by frame, and the objects assessed as bright, silvery reflective disks that were self-luminous and intelligently controlled and inconsistent with natural phenomena or commonly known aerospace technologies. That is an affirmative technical finding by a US Navy analytic unit on physical film evidence, and it was made in 1953 - the same year the CIA's Robertson Panel reviewed the same films and reached the opposite disposition, recommending that the subject be stripped of its special status and the public debunked. The Navy's own analysts said the objects were intelligently controlled and not known technology; the panel that set policy said the subject was a distraction. The document sat unpublished for seventy-three years and was released by the Department of War with, per departmental policy, no comment or assessment attached.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -120,7 +118,12 @@
 "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -145,16 +148,18 @@
 ],
 "sub": "Released in PURSUE Release 05, 7 August 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 431 of 1170, score 33). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 430 of 1170, score 33). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-08-07",
+"grade": "A",
 "id": "rel-2026-08-07b",
 "label": "The Navy's 1953 finding surfaces",
 "precision": "day",
 "strand": "program",
-"text": "A Navy Photographic Interpretation Center analysis assessing the Tremonton objects as self-luminous and intelligently controlled, inconsistent with known aerospace technologies, is published for the first time in seventy-three years.",
-"tier": "A"
+"text": "A Navy Photographic Interpretation Center analysis assessing the Tremonton objects as self-luminous and intelligently controlled, inconsistent with known aerospace technologies, is published for the first time in seventy-three years."
 }
-]
+],
+"unverified": []
 }

@@ -42,6 +42,10 @@
 ],
 "cls": "location",
 "cluster": "witness",
+"conflicts": [
+"The designator itself is disputed. Lazar uses S-4 for a claimed hangar complex at Papoose Lake. Tom Mahood and T.D. Barnes both say S-4 is a real designator attaching to a radar facility on the Tonopah side of the range. The board's geographic edge to l-tonopah records that dispute and must not be read as linking the claimed site to Tonopah.",
+"The place named by the claim changed. In August 1990 it was reported in open court coverage as the Nevada Test Site; the settled later version is Papoose Lake on the Nellis range. These are different jurisdictions as well as different places, the first being a Department of Energy site and the second lying within the Air Force range."
+],
 "connections": [
 {
 "claimTier": 2,
@@ -386,6 +390,14 @@
 "deg": 16,
 "denials": [
 {
+"a": {
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"b": {
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
 "by": {
 "id": "stanton-friedman",
 "label": "Stanton T. Friedman"
@@ -407,6 +419,14 @@
 ]
 },
 {
+"a": {
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
 "by": {
 "id": "tom-mahood",
 "label": "Tom Mahood"
@@ -429,9 +449,7 @@
 }
 ],
 "desc": "THIS NODE RECORDS A CLAIM AND NOT A PLACE WHOSE CONTENTS ARE ESTABLISHED. Papoose Lake is a real dry lake bed in Lincoln County, Nevada, a few miles southwest of the Groom Lake facility and adjacent to the Papoose Range. Nothing documented attaches any facility to it. What attaches to it is an assertion: from 1989 Bob Lazar has said that between December 1988 and April 1989 he worked at a site he calls S-4, about fifteen miles south of Groom Lake on the Nellis range, built into a mountainside behind nine hangar doors angled at about sixty degrees, holding nine disc-shaped craft whose propulsion he was hired to back-engineer. The node exists because that assertion is the convergence point of an entire cluster: Lazar, John Lear, Gene Huff, George Knapp, the 1989 KLAS broadcasts, the 1991 videotape and the 2018 Corbell documentary all run into it, and so do the people who say it is wrong. The documented half of the surrounding geography is real and should not be blurred into the claim: the Groom Lake facility was officially acknowledged when the CIA history of the U-2 and OXCART programmes by Gregory Pedlow and Donald Welzenbach was declassified in summer 2013. That is a statement about Groom Lake. It is not a statement about Papoose Lake. The node is named s-4-papoose-lake rather than s-4 deliberately, because the two strongest sceptical accounts both say the designator S-4 is real and attaches to a radar facility elsewhere on the range; a node called s-4 would silently adopt the claimant's referent as the board's own.",
-"domains": [
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -445,7 +463,11 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "S-4 / Papoose Lake, Nevada",
+"sourceFiles": [
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "1991",
@@ -480,43 +502,52 @@
 ],
 "sub": "THE HUB. A claimed nine-hangar facility said to be built into a mountain about fifteen miles south of Groom Lake, at a real dry lake on which aerial photography shows no installation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 175 of 1170, score 49). 16 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 174 of 1170, score 49). 16 connections, 2 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1988-12",
+"grade": "B",
 "id": "tl-1988-12-lazar-claimed-hire",
 "label": "Lazar's claimed employment at S-4 begins",
 "precision": "month",
 "strand": "witness",
-"text": "In his 1991 narration Lazar says that 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', and that 'I was hired in December of 1988 to replace one of these men'. This row records the claim and its date, not any employment.",
-"tier": "B"
+"text": "In his 1991 narration Lazar says that 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', and that 'I was hired in December of 1988 to replace one of these men'. This row records the claim and its date, not any employment."
 },
 {
+"claimTier": null,
 "date": "2013-10-29",
+"grade": "A",
 "id": "tl-2013-10-29-groom-lake-acknowledged",
 "label": "The CIA's U-2 and OXCART history, declassified, acknowledges Groom Lake",
 "precision": "day",
 "strand": "program",
-"text": "The National Security Archive posts Electronic Briefing Book 443, edited by Jeffrey T. Richelson, on the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, declassified that summer. This is the documented half of the hub's geography and it is a statement about Groom Lake, NOT about Papoose Lake.",
-"tier": "A"
+"text": "The National Security Archive posts Electronic Briefing Book 443, edited by Jeffrey T. Richelson, on the CIA history 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974' by Gregory Pedlow and Donald E. Welzenbach, declassified that summer. This is the documented half of the hub's geography and it is a statement about Groom Lake, NOT about Papoose Lake."
 },
 {
+"claimTier": null,
 "date": "2018",
+"grade": "C",
 "id": "tl-2018-mahood-retrospective",
 "label": "Mahood's retrospective: nothing at Papoose Lake, S-4 is a Tonopah radar facility",
 "precision": "year",
 "strand": "witness",
-"text": "Tom Mahood publishes his mature assessment: there is 'nothing at Papoose Lake', S-4 refers to a radar facility at the Tonopah Test Range, and the alien-craft narrative began as a cover story after the April 1989 detention. It concedes in the same document that Lazar is 'amazingly believable' and that Mahood initially found the story plausible. T.D. Barnes reaches the same radar-site conclusion by an unrelated route in 2026.",
-"tier": "C"
+"text": "Tom Mahood publishes his mature assessment: there is 'nothing at Papoose Lake', S-4 refers to a radar facility at the Tonopah Test Range, and the alien-craft narrative began as a cover story after the April 1989 detention. It concedes in the same document that Lazar is 'amazingly believable' and that Mahood initially found the story plausible. T.D. Barnes reaches the same radar-site conclusion by an unrelated route in 2026."
 },
 {
+"claimTier": null,
 "date": "2020-04-13",
+"grade": "B",
 "id": "tl-2020-04-13-papoose-overflight",
 "label": "Papoose Lake photographed from the air on a legal overflight: nothing there",
 "precision": "day",
 "strand": "program",
-"text": "Tyler Rogoway of The War Zone publishes aerial images taken on a pilot's authorised flight directly over Papoose Lake: 'nothing appears to be there, just as satellite images show. There isn't even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.'",
-"tier": "B"
+"text": "Tyler Rogoway of The War Zone publishes aerial images taken on a pilot's authorised flight directly over Papoose Lake: 'nothing appears to be there, just as satellite images show. There isn't even an access road and, as you can see, the lakebed is flooded, which is a fairly common occurrence.'"
 }
+],
+"unverified": [
+"The USGS Geographic Names Information System record for Papoose Lake. The GNIS application programming interface returned HTTP 404 and the gazetteer is a JavaScript application, so the record was NOT OPENED. No feature identifier, class or coordinates are asserted.",
+"Any government document using the designator S-4, for Papoose Lake or anywhere else. DOE/NV-715, the Nevada Test Site Guide, which would show the Department of Energy's own area numbering, returned HTTP 404 at the URL tried and was NOT OPENED. The radar-site counter-explanation therefore rests on Mahood and Barnes rather than on a government document.",
+"Whether anything was ever built at Papoose Lake at any date. The overflight photography establishes the present state of the lakebed and no more."
 ]
 }

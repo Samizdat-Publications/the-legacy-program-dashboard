@@ -42,6 +42,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -173,10 +174,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Vandenberg, on the Santa Barbara County coast near Lompoc, is the United States' west coast space launch installation: it is where polar and sun-synchronous orbits are reached, where National Reconnaissance Office payloads have long gone up, where ICBM test launches down the Western Range originate, and where ground-based missile defence infrastructure sits. It was an Air Force base until it was redesignated a Space Force base in May 2021. Its place on this board comes from sworn congressional testimony rather than from folklore. Jeffrey Nuccetelli, a sixteen-year Air Force veteran who served in security forces at Vandenberg between roughly 2003 and 2005, testified in writing to the House Oversight Task Force on 9 September 2025 that on 14 October 2003 Boeing contractors reported 'a massive, glowing red square silently hovering over two missile defense sites'; that the same night security personnel described 'a massive rectangular craft, larger than a football field' that hovered silently for about 45 seconds before departing at high speed; that a week later a patrol tracked an object inbound from the ocean that descended and vanished, after which the witness 'was threatened and told to kept quiet about the incident'; and that in 2005 a patrol reported a massive triangular craft hovering low over the main base. Two elements make this the most FOIA-actionable location claim in the modern record: Nuccetelli states that 'Official Air Force records documenting it are now held by AARO and the FBI', naming custodians for specific dated incidents at a named installation, and he states that each incident was 'witnessed by multiple personnel, documented, investigated and reported up the chain of command.' Those records have not been produced.",
-"domains": [
-"disclosure-project-2026-09-19",
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -190,7 +188,12 @@
 "label": "Vandenberg Space Force Base, California",
 "locLabel": "Vandenberg SFB, California, USA",
 "members": null,
+"openQuestions": [],
 "short": "Vandenberg Space Force Base, California",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "1993",
@@ -215,16 +218,18 @@
 ],
 "sub": "Space Force installation near Lompoc, Santa Barbara County; polar-orbit launch, NRO missions, missile defence sites",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 386 of 1170, score 35). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 388 of 1170, score 35). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2003-10-14",
+"grade": "A",
 "id": "tl-2003-vandenberg",
 "label": "A red square over the missile defense sites",
 "precision": "day",
 "strand": "witness",
-"text": "Boeing contractors at Vandenberg report a massive glowing red square hovering silently over two missile defense sites; security personnel the same night describe a rectangular craft larger than a football field. A witness a week later is threatened and told to keep quiet.",
-"tier": "A"
+"text": "Boeing contractors at Vandenberg report a massive glowing red square hovering silently over two missile defense sites; security personnel the same night describe a rectangular craft larger than a football field. A witness a week later is threatened and told to keep quiet."
 }
-]
+],
+"unverified": []
 }

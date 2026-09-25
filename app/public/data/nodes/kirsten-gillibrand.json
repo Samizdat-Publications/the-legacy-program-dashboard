@@ -174,7 +174,7 @@
 "url": "https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "legislative"
 },
 {
@@ -264,7 +264,7 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "research"
 }
 ],
 "date": "2021-12-27",
@@ -273,9 +273,9 @@
 "deg": 7,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"congress-senate-legislation",
-"uaptf-aaro"
+"d-legislative",
+"d-oversight",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -296,6 +296,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Kirsten E. Gillibrand",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2023-07-13",
@@ -351,16 +356,17 @@
 "status": "active",
 "sub": "D-NY; author of Sec. 1683, FY2022 NDAA (50 U.S.C. 3373)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 228 of 1170, score 43). 7 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 275 of 1170, score 40). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-02-16",
+"grade": "B",
 "id": "cl-2023-02-16",
 "label": "Sixteen senators demand full AARO funding",
 "precision": "day",
 "strand": "oversight",
-"text": "Gillibrand and Rubio lead fourteen colleagues insisting AARO receive the amount in the classified attachment, arguing the office offers 'increased transparency to the American people.'",
-"tier": "B"
+"text": "Gillibrand and Rubio lead fourteen colleagues insisting AARO receive the amount in the classified attachment, arguing the office offers 'increased transparency to the American people.'"
 }
 ],
 "unexplainedResidual": null,

@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -49,10 +50,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Fort Worth is where the Roswell story was reversed. On 8 July 1947, hours after Roswell Army Air Field announced the recovery of a flying disc, the debris was flown to Eighth Air Force headquarters here, where Brigadier General Roger M. Ramey presented it to the press as a weather balloon and radar target - the photographs taken in Ramey's office that afternoon are the single most examined image set in the field. The city is scored for custody proximity because whatever was flown out of Roswell passed through this building, and for disclosure role because the substitution performed here set the template for every subsequent official explanation.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -66,7 +64,12 @@
 "label": "Fort Worth, Texas",
 "locLabel": "Fort Worth, Texas, USA",
 "members": null,
+"openQuestions": [],
 "short": "Fort Worth, Texas",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -81,6 +84,7 @@
 ],
 "sub": "City in north Texas; site of Eighth Air Force headquarters at Fort Worth AAF (later Carswell AFB)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 700 of 1170, score 25). 1 connections, 1 of them custody/funding/programmatic. Axes C3/A1/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 699 of 1170, score 25). 1 connections, 1 of them custody/funding/programmatic. Axes C3/A1/D1.",
+"timeline": [],
+"unverified": []
 }

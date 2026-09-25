@@ -37,6 +37,7 @@
 ],
 "cls": "event",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -129,18 +130,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "belgian-af-f16-intercept-1990",
 "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave"
 },
+"b": {
+"id": "uk-mod",
+"label": "United Kingdom Ministry of Defence"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Not informed at the time, and no threat to the UK",
 "note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
-"of": {
-"id": "uk-mod",
-"label": "United Kingdom Ministry of Defence"
-},
+"of": null,
 "sources": [
 {
 "date": "2009-08-17",
@@ -151,9 +154,7 @@
 }
 ],
 "desc": "In March 1990 the Belgian Air Force scrambled F-16 fighters against objects reported by police officers and others during a wave of sightings running through 1989 and 1990. The Belgian Air Force sent the UK Ministry of Defence an official statement about it in November 1993, and a four-page account by General Wilfried de Brouwer, Chief of Operations of the Belgian Air Staff, sits in a released MoD file: it says the F-16 pilots obtained radar lock-ons and could not explain the phenomena, and that the events remain unexplained. The Secretary of State for Defence later told Lord Hill-Norton that the MoD had not been informed at the time and that there was no threat to the UK. This node rests on The National Archives' own guide to the August 2009 release and on Project Condign Volume 2; neither Belgian file nor either MoD file has been opened, and the node's date is the date the records give for the imagery and the scramble, not a date taken from a broadcast.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -167,7 +168,11 @@
 "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2009-08-17",
@@ -182,16 +187,18 @@
 ],
 "sub": "NATO air force scrambled, recorded and reported; the MoD was not told at the time",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 251 of 1170, score 42). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 249 of 1170, score 42). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1990-03-31",
+"grade": "C",
 "id": "tl-1990-03-31-belgian-f16-scramble",
 "label": "The Belgian Air Force scrambles F-16s during the Belgian wave",
 "precision": "day",
 "strand": "witness",
-"text": "The National Archives' guide to the MoD UFO files opened in August 2009 states that the files 'reveal how in March 1990 the Belgian Air Force scrambled F-16 fighters to intercept UFOs reported by police officers and others', and places a four-page account by General Wilfried de Brouwer, Chief of Operations, Belgian Air Staff, in DEFE 24/1960, confirming that the F-16 pilots obtained radar lock-ons but could not explain the phenomena. Malcolm Rifkind later told Lord Hill-Norton that the MoD was not informed at the time.",
-"tier": "C"
+"text": "The National Archives' guide to the MoD UFO files opened in August 2009 states that the files 'reveal how in March 1990 the Belgian Air Force scrambled F-16 fighters to intercept UFOs reported by police officers and others', and places a four-page account by General Wilfried de Brouwer, Chief of Operations, Belgian Air Staff, in DEFE 24/1960, confirming that the F-16 pilots obtained radar lock-ons but could not explain the phenomena. Malcolm Rifkind later told Lord Hill-Norton that the MoD was not informed at the time."
 }
-]
+],
+"unverified": []
 }

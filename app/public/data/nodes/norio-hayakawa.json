@@ -54,9 +54,7 @@
 "dateStart": null,
 "deg": 1,
 "denials": [],
-"domains": [
-"dulce-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -76,6 +74,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Norio Hayakawa",
+"sourceFiles": [
+"dulce-2026-09-19"
+],
 "sources": [
 {
 "date": "2016-08-29",
@@ -99,13 +100,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 1088 of 1170, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2016-08-29",
+"grade": "C",
 "id": "tl-2016-08-29-hayakawa-negative",
 "label": "Hayakawa, working the question since 1988: 'it does not seem to exist'",
 "precision": "day",
 "strand": "witness",
-"text": "The same post supplies the dated chronology of the cluster's originators used throughout this file: Bennewitz from about 1979, Myrna Hansen in 1980, Tom Adams in the early 1980s, John Lear in 1988 from 'Ann West', and Phil Schneider only in 1995.",
-"tier": "C"
+"text": "The same post supplies the dated chronology of the cluster's originators used throughout this file: Bennewitz from about 1979, Myrna Hansen in 1980, Tom Adams in the early 1980s, John Lear in 1988 from 'Ann West', and Phil Schneider only in 1995."
 }
 ],
 "unexplainedResidual": null,

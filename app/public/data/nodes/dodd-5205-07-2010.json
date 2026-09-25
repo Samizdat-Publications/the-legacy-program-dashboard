@@ -117,6 +117,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -146,6 +147,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "12 Sep 2024 reissuance cancels the 1 Jul 2010 directive",
+"id": "dodd-5205-07-2024",
+"l0": false,
+"label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+"url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "",
 "id": "dodd-5205-07-2024",
 "l0": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
@@ -195,7 +217,28 @@
 "edgeLabel": "manual implements policy established in DoDD 5205.07",
 "id": "dodm-5205-07-series",
 "l0": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "",
+"id": "dodm-5205-07-series",
+"l0": false,
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "note": "The Manual implements the Directive. The 2010 directive sets SAP policy and defines the carve-out in its glossary; the four-volume Manual carries the operating detail - Volume 1's Enclosure 2 on DSS oversight and its relief, Enclosure 4 on whistleblower routing through SAP channels, and the patents and intellectual property provision. Directive states the policy, Manual runs it.",
 "sources": [
 {
@@ -261,10 +304,7 @@
 "deg": 5,
 "denials": [],
 "desc": "This is the version of DoD's SAP charter that governed for the entire period covered by the Elizondo, Grusch and Kirkpatrick record, and it is the version cross-referenced by the NISPOM rule at 32 CFR 117.6(b)(3). It reissued the 5 January 2006 directive, established the Special Access Program Oversight Committee, established the DoD SAP Central Office under the authority, direction and control of the Deputy Secretary of Defense, and set out in plain language the three things this board most needs documented. First, the taxonomy: its glossary defines an acknowledged SAP as one 'whose existence is acknowledged but its specific details (technologies, materials, techniques, etc.) are classified'; an unacknowledged SAP as one 'having protective controls ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information'; and a waived SAP as 'A SAP for which the Secretary of Defense has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls.' Reference (c) is section 119 of title 10. Second, the congressional access rule: members of the defense and intelligence committees are authorised access to DoD SAPs 'except for waived programs', and for waived SAPs 'only the chair, the ranking minority member, and the staff directors' are authorised access unless the Secretary or Deputy Secretary approves otherwise. Third, the custody rule: 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody. No copies shall be stored outside DoD repositories or control without the approval of the Secretary or Deputy Secretary of Defense.' A committee briefed on a waived program is not permitted to keep the paper.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -278,7 +318,12 @@
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2020-02-04",
@@ -298,16 +343,18 @@
 ],
 "sub": "dod-issuance",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 63 of 1170, score 74). 6 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 56 of 1170, score 76). 8 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2010-07-01",
+"grade": "A",
 "id": "sap-tl-2010-doddx",
 "label": "DoD Directive 5205.07 defines acknowledged, unacknowledged and waived",
 "precision": "day",
 "strand": "program",
-"text": "The directive establishes the SAPOC and DoD SAPCO and puts the three-state taxonomy into DoD policy in terms, together with the rule that committee members get access to DoD SAPs 'except for waived programs' and that waived material submitted to Congress 'shall remain in DoD custody'.",
-"tier": "A"
+"text": "The directive establishes the SAPOC and DoD SAPCO and puts the three-state taxonomy into DoD policy in terms, together with the rule that committee members get access to DoD SAPs 'except for waived programs' and that waived material submitted to Congress 'shall remain in DoD custody'."
 }
-]
+],
+"unverified": []
 }

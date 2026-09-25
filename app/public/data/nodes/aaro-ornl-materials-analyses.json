@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -118,10 +119,7 @@
 "deg": 3,
 "denials": [],
 "desc": "AARO's materials programme in public: two Oak Ridge National Laboratory analyses of specimens alleged to be of non-terrestrial origin, with AARO supplements. The magnesium specimen synopsis appeared in April 2024, alongside Volume I's finding that a putative extraterrestrial sample was a manufactured terrestrial magnesium-zinc-bismuth alloy. The aluminium specimen analysis and its AARO supplement appeared in January 2026, in the same weeks as the PR-011 and PR-013 imagery releases and three months before PURSUE. This is the one line of AARO work that is genuinely primary-document disclosure: a national laboratory's characterisation of a physical specimen, published with a supplement. It is also the narrowest. Two specimens, both resolved as terrestrial manufactures, against an allegation set that concerns material alleged to be held by contractors AARO has never inspected and cannot compel. The FY2025 report's formulation is the giveaway - no evidence any entity has ever captured or exploited UAP-derived materials, and the office is simultaneously developing procedures for handling such material should it ever come into US Government possession.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -135,7 +133,12 @@
 "label": "AARO / Oak Ridge National Laboratory materials analyses",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO / Oak Ridge National Laboratory materials analyses",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -185,25 +188,28 @@
 ],
 "sub": "Magnesium specimen (Apr 2024); aluminium specimen and supplement (Jan 2026)",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 405 of 1170, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 408 of 1170, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-04-01",
+"grade": "B",
 "id": "rel-2024-04-01",
 "label": "ORNL magnesium specimen analysis",
 "precision": "month",
 "strand": "program",
-"text": "AARO publishes the Oak Ridge synopsis of a metallic specimen with its own supplement - the first of only two physical-specimen characterisations it has released.",
-"tier": "B"
+"text": "AARO publishes the Oak Ridge synopsis of a metallic specimen with its own supplement - the first of only two physical-specimen characterisations it has released."
 },
 {
+"claimTier": null,
 "date": "2026-01-01",
+"grade": "C",
 "id": "rel-2026-01-15",
 "label": "ORNL aluminium specimen analysis",
 "precision": "month",
 "strand": "program",
-"text": "AARO publishes the Oak Ridge analysis of an aluminium specimen with a January 2026 supplement, its second and last published materials characterisation.",
-"tier": "C"
+"text": "AARO publishes the Oak Ridge analysis of an aluminium specimen with a January 2026 supplement, its second and last published materials characterisation."
 }
-]
+],
+"unverified": []
 }

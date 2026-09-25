@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -145,9 +146,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The Air Force installation in Florida's first congressional district that produced the only UAP incident a member of Congress has personally investigated on site. Matt Gaetz's office received a protected disclosure from Eglin; he travelled there with Burchett and Luna and was initially refused images, radar and full flight-crew access before obtaining a photograph and an interview with one crew member. The incident involved a test mission over the Gulf of Mexico in airspace that was supposed to be clear, and a formation of four craft in a diamond plus an orb. Gaetz described the radar sequence as one he alone in Congress had seen and asked that the material be subpoenaed. Luna returned to Eglin in her September 2025 opening statement, describing 'the infamous Eglin Air Force Base incident' and stating that multiple active-duty Air Force pilot whistleblowers alleged that the Air Force was covering up UAP activity there. As of August 2026 the Eglin radar and imagery have not been produced to the committee.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -161,7 +160,11 @@
 "label": "Eglin Air Force Base, Florida",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Eglin Air Force Base, Florida",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -179,13 +182,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 464 of 1170, score 32). 5 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "ch-2023-07-26d",
 "label": "Gaetz: the Eglin radar sequence",
 "precision": "day",
 "strand": "coverup",
-"text": "Gaetz describes being initially refused images, radar and full crew access at Eglin AFB, obtaining a photograph and one crew member after a discussion about how authorities flow, and asks that the radar material be subpoenaed. It never was.",
-"tier": "A"
+"text": "Gaetz describes being initially refused images, radar and full crew access at Eglin AFB, obtaining a photograph and one crew member after a discussion about how authorities flow, and asks that the radar material be subpoenaed. It never was."
 }
-]
+],
+"unverified": []
 }

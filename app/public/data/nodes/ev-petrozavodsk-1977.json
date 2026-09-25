@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -41,7 +42,7 @@
 "url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "programmatic"
 }
 ],
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "On 20 September 1977 a luminous object was reported over an area running from Copenhagen and Helsinki to Vladivostok, and most spectacularly over the Karelian capital of Petrozavodsk, where the TASS correspondent Nikolai Milov described in the mainstream Soviet press - Pravda, Izvestiya, Selskaya Zhizn and Sotsialisticheskaya Industriya - a 'huge star' that flared in the dark sky and spread out 'in the form of a jellyfish, showering the city with a multitude of very fine rays'. Government officials from northern European countries wrote to Anatoly Aleksandrov, president of the USSR Academy of Sciences, asking whether the phenomenon was caused by Soviet weapons testing and whether it threatened the region's environment - which made the event a diplomatic problem as well as a scientific one. A preliminary report to the Academy of Sciences in 1977, assembling visual observations, radiolocation reports, physical measurements and meteorological data, concluded that 'based on the available data, it is unfeasible to satisfactorily understand the observed phenomenon'. By 30 December 1978 Soviet researchers had collected eighty-five reports. The event is the direct trigger for the creation of SETKA-AN and SETKA-MO. It is often attributed to the launch of the satellite Kosmos-955.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -67,7 +66,11 @@
 "label": "Petrozavodsk phenomenon, 20 September 1977",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Petrozavodsk phenomenon, 20 September 1977",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-01-01",
@@ -82,16 +85,18 @@
 ],
 "sub": "Mass sighting from Copenhagen to Vladivostok; trigger for the Soviet SETKA programmes",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 960 of 1170, score 17). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 959 of 1170, score 17). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "1977-09-20",
+"grade": null,
 "id": "tl-intl-1977-petro",
 "label": "The Petrozavodsk phenomenon",
 "precision": "day",
 "strand": "witness",
-"text": "A luminous object is reported from Copenhagen and Helsinki to Vladivostok. Northern European governments write to the president of the USSR Academy of Sciences asking whether it was Soviet weapons testing. The Academy's own preliminary report concludes that 'based on the available data, it is unfeasible to satisfactorily understand the observed phenomenon'.",
-"tier": 2
+"text": "A luminous object is reported from Copenhagen and Helsinki to Vladivostok. Northern European governments write to the president of the USSR Academy of Sciences asking whether it was Soviet weapons testing. The Academy's own preliminary report concludes that 'based on the available data, it is unfeasible to satisfactorily understand the observed phenomenon'."
 }
-]
+],
+"unverified": []
 }

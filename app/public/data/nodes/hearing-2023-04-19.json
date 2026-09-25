@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -89,7 +90,7 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "witness-chain"
 }
 ],
 "coords": null,
@@ -98,10 +99,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The only open Senate hearing on AARO under its first director, held 19 April 2023 before the Senate Armed Services Subcommittee on Emerging Threats and Capabilities chaired by Sen. Kirsten Gillibrand, published as S.Hrg. 118-648. Sean Kirkpatrick testified that AARO was investigating more than 650 cases and that spherical objects made up nearly half of all UAP reports the office had received. His testimony that AARO had found no credible evidence of extraterrestrial activity or of objects defying known physics generated immediate controversy over what the office had actually examined versus what it had asserted. The hearing occurred three months before David Grusch testified in the House, and it is the last moment at which the Department's account went unchallenged in a congressional venue.",
-"domains": [
-"_rs-legislation",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -115,7 +113,12 @@
 "label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
+"sourceFiles": [
+"_rs-legislation",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2023-04-19",
@@ -144,26 +147,29 @@
 }
 ],
 "sub": "congressional-hearings",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 530 of 1170, score 30). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 632 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-04-19",
+"grade": "A",
 "id": "tl-2023-04-19-sasc",
 "label": "Kirkpatrick testifies to SASC on AARO",
 "precision": "day",
 "strand": "program",
-"text": "The Senate Armed Services Subcommittee on Emerging Threats and Capabilities holds an open hearing on 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office' with AARO Director Sean Kirkpatrick as sole witness, following a closed session the same day. Printed as S. Hrg. 118-648 (CHRG-118shrg60390).",
-"tier": "A"
+"text": "The Senate Armed Services Subcommittee on Emerging Threats and Capabilities holds an open hearing on 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office' with AARO Director Sean Kirkpatrick as sole witness, following a closed session the same day. Printed as S. Hrg. 118-648 (CHRG-118shrg60390)."
 },
 {
+"claimTier": null,
 "date": "2023-04-19",
+"grade": "A",
 "id": "tl-sasc-2023-04-19",
 "label": "Kirkpatrick testifies to the Senate",
 "precision": "day",
 "strand": "oversight",
-"text": "The only open Senate hearing on AARO under its first director. Kirkpatrick reports 650+ cases and no credible evidence of extraterrestrial activity. Published as S.Hrg. 118-648.",
-"tier": "A"
+"text": "The only open Senate hearing on AARO under its first director. Kirkpatrick reports 650+ cases and no credible evidence of extraterrestrial activity. Published as S.Hrg. 118-648."
 }
-]
+],
+"unverified": []
 }

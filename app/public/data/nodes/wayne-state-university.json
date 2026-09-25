@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -148,7 +149,7 @@
 "url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -297,10 +298,7 @@
 "deg": 7,
 "denials": [],
 "desc": "Wayne State University is a public research university in Midtown Detroit, founded in 1868 when five physicians established the Detroit Medical College, and now comprising thirteen schools and colleges - the School of Medicine among them - with over 24,000 students and a self-described position as Michigan's premier urban research institution. Its place on this board is not institutional but personal: Wayne State's School of Medicine is where Christopher 'Kit' Green did his academic work after leaving the CIA, where he had run life-sciences analysis in the Office of Scientific Intelligence and monitored the SRI parapsychology programme. Green wrote the AAWSAP Defense Intelligence Reference Document on anomalous acute and subacute field effects on human biological tissues, and he examined and documented injuries reported by people claiming close-proximity encounters. That single affiliation makes Wayne State the civilian academic address for the medical-effects strand of the programme record - the strand that treats the phenomenon as something that leaves clinical evidence in human beings rather than only radar returns. The university itself has no documented programme role and is recorded here as the institutional locus of that work.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -434,7 +432,7 @@
 "cls": "document",
 "id": "dird-quantum-computing-and-utilizing-organic-molecules",
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -455,7 +453,12 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "Wayne State University",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -470,6 +473,7 @@
 ],
 "sub": "Academic",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1005 of 1170, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 1006 of 1170, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

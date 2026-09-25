@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,10 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The reason this domain exists on a national security board is a contract. When DIA solicited the Advanced Aerospace Weapon System Applications Program in August 2008 and awarded it to Bigelow Aerospace Advanced Space Studies, the resulting work programme extended well beyond aerodynamics: the effort included investigation of Skinwalker Ranch in Utah, and the account published by Colm Kelleher and James Lacatski in 'Skinwalkers at the Pentagon' (2021) describes a federally funded programme collecting reports of poltergeist-type activity, apparitions and animal effects, with Lacatski identified as the DIA official who initiated the programme. Whether one treats those reports as data about the world or as data about the reporters, the fact that they were collected under a Defense Intelligence Agency contract is tier-1 and is the reason the domain cannot simply be excluded. Barry Greenwood's critical review in the Journal of Scientific Exploration in 2023 is recorded here as the counterweight from inside the research community. Scoring high on this domain means an entity collected, funded or reported this class of material under official auspices.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -94,7 +92,12 @@
 "label": "Anomalous Phenomena Adjacent to UAP",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Anomalous Phenomena Adjacent to UAP",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2008-08-22",
@@ -130,5 +133,6 @@
 "sub": "Contested domain - poltergeist, apparition and animal-effect reports inside a defence contract",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 648 of 1170, score 27). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

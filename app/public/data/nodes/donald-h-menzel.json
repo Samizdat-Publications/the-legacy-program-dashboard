@@ -107,18 +107,20 @@
 "deg": 3,
 "denials": [
 {
-"by": {
+"a": {
 "id": "donald-h-menzel",
 "label": "Donald H. Menzel"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977",
 "note": "The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1969",
@@ -128,9 +130,7 @@
 ]
 }
 ],
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -150,6 +150,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Donald H. Menzel",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1969",

@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -150,9 +151,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The Scientific Coalition for UAP Studies describes itself as 'a think tank of scientists, former military and law enforcement officials and other professionals who seek evidence based answers to UAP questions' and is a registered 501(c)(3). Its distinguishing practice is procedural: obtain the primary government sensor record by FOIA, reconstruct the event quantitatively, and deposit the study on Zenodo with a DOI so that it is time-stamped and citable rather than a PDF on a website. The resulting corpus is substantial - the 2010 Stephenville radar and witness study by Robert Powell and Glen Schulze; the 2015 analysis by Powell, Beall, Cates, Paulson and Hoffman of thermal imagery captured by a Department of Homeland Security Customs and Border Protection aircraft over Aguadilla, Puerto Rico in April 2013; Peter Reali's 2022 forensic analysis of the 'Rubber Duck' video; the 2023 Powell, Little, Hancock, Hasan and Truong study of reported shape, size, kinematics, electromagnetic effects and sound; Stephen Bruehl's 2025 cluster analysis of 216 selected reports; and the multi-year Hancock, Porritt and Grosvenor series correlating 1945-1975 UAP activity with the United States atomic warfare complex, including 'UAP Operational Presence 1945-1975' in April 2026. SCU personnel appear across the rest of the technical layer: Powell co-authored the Entropy kinematics paper with Knuth, and Sarah Little co-authors with both SCU and the Galileo Project.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -166,7 +165,11 @@
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Scientific Coalition for UAP Studies (SCU)",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -197,5 +200,6 @@
 "sub": "501(c)(3) research think tank; FOIA-driven sensor-record analysis with DOI-stamped publication",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 757 of 1170, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

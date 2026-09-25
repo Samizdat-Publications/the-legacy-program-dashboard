@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,9 +125,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The directive that replaced NSC 10/2 as the charter for United States covert operations. It restates the plausible-deniability definition almost word for word, keeps the authority in section 102(d)(5) of the 1947 Act, and makes the Operations Coordinating Board the normal channel for interagency support.",
-"domains": [
-"nsc-eo-spine-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -140,7 +139,11 @@
 "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
+"sourceFiles": [
+"nsc-eo-spine-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -155,16 +158,18 @@
 ],
 "sub": "Top Secret NSC directive; supersedes NSC 10/2 and moves covert-action coordination to the Operations Coordinating Board",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 692 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 691 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D0.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1954-03-15",
+"grade": null,
 "id": "spine-tl-1954-5412",
 "label": "NSC 5412 replaces the 1948 covert-action charter",
 "precision": "day",
 "strand": "program",
-"text": "The President approves NSC 5412 the day it is circulated. It supersedes NSC 10/2 and NSC 10/5, keeps the authority in section 102(d)(5), restates the plausible-deniability test almost word for word, and makes the Operations Coordinating Board the normal channel for interagency support. It does not create the Special Group; that comes with NSC 5412/2 in December 1955.",
-"tier": 1
+"text": "The President approves NSC 5412 the day it is circulated. It supersedes NSC 10/2 and NSC 10/5, keeps the authority in section 102(d)(5), restates the plausible-deniability test almost word for word, and makes the Operations Coordinating Board the normal channel for interagency support. It does not create the Special Group; that comes with NSC 5412/2 in December 1955."
 }
-]
+],
+"unverified": []
 }

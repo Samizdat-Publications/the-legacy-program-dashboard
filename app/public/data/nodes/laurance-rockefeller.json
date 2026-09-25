@@ -128,7 +128,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"history-1970s-2000s"
+"d-oversight",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -149,6 +150,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Laurance S. Rockefeller",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2019-09-16",
@@ -174,16 +178,17 @@
 "status": "dead",
 "sub": "Financier and philanthropist; funder of the 1993-1996 Rockefeller UFO Disclosure Initiative",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 677 of 1170, score 25). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 676 of 1170, score 25). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1995-08-21",
+"grade": "A",
 "id": "t-1995-jyranch",
 "label": "Clintons visit Rockefeller's JY Ranch",
 "precision": "day",
 "strand": "oversight",
-"text": "The President and First Lady visit Laurance Rockefeller in Jackson, Wyoming - documented in Clinton Library FOIA collection 2006-0546-F, and the occasion on which Rockefeller is reported to have pressed the disclosure case directly.",
-"tier": "A"
+"text": "The President and First Lady visit Laurance Rockefeller in Jackson, Wyoming - documented in Clinton Library FOIA collection 2006-0546-F, and the occasion on which Rockefeller is reported to have pressed the disclosure case directly."
 }
 ],
 "unexplainedResidual": null,

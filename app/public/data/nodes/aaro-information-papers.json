@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -61,10 +62,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The other half of AARO's public output: explanatory papers that teach the reader how to resolve their own sightings. The satellite flaring paper of 22 April 2025, with an accompanying DVIDS animation, explains Starlink flaring - the mechanism AARO used in the FY2024 report to resolve a commercial pilot's white flashing lights against a launch an hour earlier. The 2024 paper on the effect of forced perspective and parallax view on UAP observations does the same for apparent motion. A 2025 UAP workshop white paper on narrative data, infrastructures and analysis records the office's engagement with academic researchers. In July 2026 AARO added the Naval Postgraduate School's CTX special issue on UAP science and analysis, and a call for papers for a second volume. These are not nothing - they are the only sustained attempt by the US Government to build an analytic vocabulary for the subject. They are also, taken as a body of work across 2024 to 2026, an office publishing methodology while declining to publish the two things Congress asked for: Volume II and its video holdings.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -78,7 +76,12 @@
 "label": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -109,5 +112,6 @@
 "sub": "Explanatory products, 2024-2026",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 910 of 1170, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

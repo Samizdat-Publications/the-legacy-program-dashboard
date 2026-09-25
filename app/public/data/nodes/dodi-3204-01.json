@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -74,7 +75,7 @@
 "edgeLabel": "Targets contractor independent research and development as a concealment route",
 "id": "ndaa-fy2024-1687",
 "l0": true,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687(b) makes UAP-related IR&D unallowable as indirect expense under DoDI 3204.01 unless the material is made available to the committees and leadership.",
 "sources": [
 {
@@ -95,7 +96,7 @@
 "edgeLabel": "Congress legislated directly against the IR&D mechanism, citing the instruction by number and change date",
 "id": "ndaa-fy2024-1687",
 "l0": true,
-"label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+"label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687(b) makes UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction that precisely unless someone has explained how it is being used.",
 "sources": [
 {
@@ -119,10 +120,7 @@
 "deg": 3,
 "denials": [],
 "desc": "DoDI 3204.01 is the policy that makes the funding allegation legally coherent. It establishes that contractor independent research and development costs 'will be allowable as indirect expenses on covered contracts to the extent they are allocable and reasonable' - that is, a defense contractor's self-directed research is reimbursed by the taxpayer through contract overhead. Reporting obligations attach only to major contractors allocating more than $11 million in IR&D and bid-and-proposal costs, and consist of project summaries submitted to a Defense Innovation Marketplace portal for contracting officer and DCAA review of cost allowability, not of program disclosure to Congress. David Grusch named this exact mechanism under oath on 26 July 2023 - 'Correct, through something called IR&D... IR&D is literally internal to the contractors' - and Congress named the instruction by number, date and change number in NDAA FY2024 Sec. 1687(b) five months later, making UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction by its change date unless someone has explained precisely how it is being used.",
-"domains": [
-"_rs-archive-mirror",
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -136,7 +134,12 @@
 "label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
+"sourceFiles": [
+"_rs-archive-mirror",
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-03-09",
@@ -161,6 +164,7 @@
 ],
 "sub": "The IR&D cost-allowability policy named in statute",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 555 of 1170, score 29). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 553 of 1170, score 29). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"timeline": [],
+"unverified": []
 }

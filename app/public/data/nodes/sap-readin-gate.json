@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -199,7 +200,7 @@
 "edgeLabel": "The read-in gate members describe is the policy text of paragraph 4.f",
 "id": "waived-usap-mechanism",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "note": "DoDD 5205.07 (2010) para 4.f is the written rule that members of the defense and intelligence committees are authorised access to DoD SAPs 'except for waived programs'.",
 "sources": [
 {
@@ -218,9 +219,7 @@
 "deg": 8,
 "denials": [],
 "desc": "The specific bureaucratic mechanism by which the committee with subpoena power is kept away from the material it is investigating, stated on the record by the chair of the House body investigating it. On 9 September 2025 Anna Paulina Luna told the hearing that in preparation for previous UAP hearings the committee repeatedly asked the Department of Defense to allow members to view UAP videos and files, and that DoD notified committee staff that under the Department's special access program rules only members of the House Armed Services Committee and the Defense Subcommittee of House Appropriations could be read in on such programmes; for any non-committee member to view the documents and videos, individual members must be approved by the chairman AND ranking member of BOTH HASC and HAC-D. Luna added that independent staff oversight is a consistent problem because programme budgets are classified and oversight reporting to Congress goes only to the authorising and appropriating committees of jurisdiction. This is the operative architecture: it is not a refusal, it is a jurisdictional routing that makes refusal unnecessary. Eric Burlison supplied two further instances of the same pattern in the same hearing - an NDAA UAP disclosure amendment ruled non-germane 'mostly deemed by staff, not even an elected official,' and members blocked in 2024 from a full AARO briefing by 'someone in House administration.' The Holman Rule threat Ogles made in 2023 and the subpoena Gaetz asked for in 2023 and Luna raised in 2026 are the only instruments that route around this gate, and none has been used.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The full text of the mechanism as stated by Chairwoman Luna on 9 September 2025: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community. In preparation for previous UAP hearings, the Committee repeatedly asked the Department of Defense to allow members to view videos and files related to UAP incidences. Unfortunately, the Department of Defense notified the Committee staff that, due to the Department's special access program rules, only members of the House Armed Services Committee, as well as the Defense Subcommittee on House Appropriations, also known as HAC-D, were allowed to be read in onto such programs. For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D. Independent staff oversight has presented a consistent problem for Congress, as well as program budgets are classified. Additionally, oversight reporting to Congress is classified and only provided to the authorizing and Appropriations Committees of jurisdiction.' Read alongside Burchett's July 2023 disclosure that members were denied a SCIF briefing before the founding hearing, Burlison's account of being blocked from a full AARO briefing by House Administration staff in 2024 and of his NDAA amendment being ruled non-germane by staff in 2025, and Gaetz's account of being refused the Eglin radar until he raised how authorities flow, the pattern is consistent: access is not refused on the merits, it is routed away on jurisdiction and procedure.",
@@ -253,7 +252,11 @@
 "label": "The HASC/HAC-D special access program read-in gate",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The HASC/HAC-D special access program read-in gate",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -268,34 +271,38 @@
 ],
 "sub": "Access-control mechanism blocking Oversight",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 357 of 1170, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 363 of 1170, score 36). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "ch-2023-07-26b",
 "label": "SCIF access denied before the hearing",
 "precision": "day",
 "strand": "coverup",
-"text": "Burchett opens by disclosing that members were denied a classified SCIF briefing with Grusch before the hearing 'due to the amount of hoops that we had to jump through to grant temporary clearance.'",
-"tier": "A"
+"text": "Burchett opens by disclosing that members were denied a classified SCIF briefing with Grusch before the hearing 'due to the amount of hoops that we had to jump through to grant temporary clearance.'"
 },
 {
+"claimTier": null,
 "date": "2025-09-08",
+"grade": "A",
 "id": "ch-2025-09-08",
 "label": "NDAA amendment killed by staff",
 "precision": "day",
 "strand": "coverup",
-"text": "Burlison's UAP disclosure amendment to the NDAA is ruled non-germane overnight - 'mostly deemed by staff, not even an elected official.'",
-"tier": "A"
+"text": "Burlison's UAP disclosure amendment to the NDAA is ruled non-germane overnight - 'mostly deemed by staff, not even an elected official.'"
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "ch-2025-09-09b",
 "label": "Luna documents the read-in gate",
 "precision": "day",
 "strand": "coverup",
-"text": "Luna states that DoD told committee staff only HASC and HAC-D members could be read in on UAP special access programs, and that any other member needs approval from the chairman and ranking member of both.",
-"tier": "A"
+"text": "Luna states that DoD told committee staff only HASC and HAC-D members could be read in on UAP special access programs, and that any other member needs approval from the chairman and ranking member of both."
 }
-]
+],
+"unverified": []
 }

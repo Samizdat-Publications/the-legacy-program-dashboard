@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -136,7 +137,7 @@
 "claimTier": 2,
 "cls": "person",
 "dateEnd": null,
-"dateStart": null,
+"dateStart": "2023",
 "direction": "in",
 "edgeLabel": "AARO's founding director left government for the laboratory that analysed AARO's specimen",
 "id": "sean-kirkpatrick",
@@ -207,10 +208,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Oak Ridge is where the modern government sent the material. In 2022 the All-domain Anomaly Resolution Office contracted ORNL to conduct materials testing on a magnesium alloy specimen publicly alleged to have come from a crashed extraterrestrial vehicle in 1947 and to exhibit extraordinary properties. ORNL's findings were published as 'ORNL Synopsis: Analysis of a Metallic Specimen' in April 2024 and released publicly in July 2024: the specimen was a terrestrial magnesium alloy, though neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs from the relevant era were described as scant. ORNL is administered by UT-Battelle, LLC - a partnership of the University of Tennessee and Battelle Memorial Institute - under DOE contract DEAC0500OR22725, recorded on USAspending at approximately 42.3 billion dollars across the life of the contract, and was funded at roughly 2.09 billion dollars in FY2024. In December 2023, AARO's founding director Sean Kirkpatrick left government and immediately became Chief Technology Officer for Defense and Intelligence Programs at ORNL - the laboratory that had performed AARO's materials analysis on his watch. That the government's only publicly acknowledged analysis of alleged recovered material was performed by a Battelle-operated laboratory, and that the official who commissioned it then went to work there, is the single most concrete instance on this board of the FFRDC layer absorbing both the evidence and the officials.",
-"domains": [
-"_rs-archive-mirror",
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -224,7 +222,12 @@
 "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2025-04-02",
@@ -262,13 +265,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 157 of 1170, score 51). 7 connections, 3 of them custody/funding/programmatic. Axes C3/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2022-01-01",
+"grade": "A",
 "id": "tl-ffrdc-2022-aaro-ornl",
 "label": "AARO contracts Oak Ridge to test the magnesium specimen",
 "precision": "year",
 "strand": "program",
-"text": "The Pentagon's UAP office sends its one publicly acknowledged material sample to a laboratory operated by UT-Battelle - a partnership including the same Battelle Memorial Institute that analysed the Air Force's UFO data in the 1950s.",
-"tier": "A"
+"text": "The Pentagon's UAP office sends its one publicly acknowledged material sample to a laboratory operated by UT-Battelle - a partnership including the same Battelle Memorial Institute that analysed the Air Force's UFO data in the 1950s."
 }
-]
+],
+"unverified": []
 }

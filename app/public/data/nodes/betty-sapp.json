@@ -75,9 +75,7 @@
 "dateStart": "2012-07-06",
 "deg": 2,
 "denials": [],
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -97,6 +95,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Betty J. Sapp",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2019-03-19",
@@ -112,16 +113,17 @@
 "status": "former",
 "sub": "Director of the National Reconnaissance Office, sworn in 6 July 2012",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 704 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 703 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2012-07-06",
+"grade": "C",
 "id": "tl-2012-07-06-sapp-sworn-in-at-nro",
 "label": "Betty J. Sapp is sworn in as Director of the National Reconnaissance Office",
 "precision": "day",
 "strand": "oversight",
-"text": "The Congressional Research Service's intelligence-community leadership roster records 'Director of the National Reconnaissance Office (D/NRO) Betty J. Sapp (sworn in July 6, 2012)', with the appointment authority at 50 U.S.C. 3041(b)(2)(B) and 50 U.S.C. 3602(a)(2), and gives Christopher Scolese as nominated on 7 February 2019 in the same row. This is the NRO's first named officer on this board.",
-"tier": "C"
+"text": "The Congressional Research Service's intelligence-community leadership roster records 'Director of the National Reconnaissance Office (D/NRO) Betty J. Sapp (sworn in July 6, 2012)', with the appointment authority at 50 U.S.C. 3041(b)(2)(B) and 50 U.S.C. 3602(a)(2), and gives Christopher Scolese as nominated on 7 February 2019 in the same row. This is the NRO's first named officer on this board."
 }
 ],
 "unexplainedResidual": null,

@@ -142,9 +142,7 @@
 "dateStart": null,
 "deg": 4,
 "denials": [],
-"domains": [
-"witnesses-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -164,6 +162,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Michael Herrera",
+"sourceFiles": [
+"witnesses-2026-09-18"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -199,25 +200,27 @@
 "status": "alive",
 "sub": "Former US Marine who says that in 2009, during humanitarian and security operations after an Indonesian earthquake, he and his unit encountered a large craft being loaded by non-uniformed armed personnel",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 398 of 1170, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 401 of 1170, score 34). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-17",
+"grade": "C",
 "id": "tl-2023-07-17-herrera-srs",
 "label": "Michael Herrera's account enters the public record on a dated recording",
 "precision": "day",
 "strand": "witness",
-"text": "'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)' premiered on the Shawn Ryan Show, runtime 1:26:50. The artefact is dated and openable; the account within it is a man's own statement and nothing more.",
-"tier": "C"
+"text": "'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)' premiered on the Shawn Ryan Show, runtime 1:26:50. The artefact is dated and openable; the account within it is a man's own statement and nothing more."
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "C",
 "id": "tl-2025-09-09-herrera-entered",
 "label": "Herrera's written testimony entered into a hearing record by motion, sourced to Steven Greer",
 "precision": "day",
 "strand": "oversight",
-"text": "Rep. Eric Burlison moved into the record of the House Oversight Task Force hearing 'further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony', naming also Roderick Castle, Randy Anderson and Steven Digna. Chairwoman Luna: 'No objection.' He did not appear and was not sworn.",
-"tier": "C"
+"text": "Rep. Eric Burlison moved into the record of the House Oversight Task Force hearing 'further witnesses of courageous individuals. It was given to me by Dr. Steven Greer, including Michael Herrera and his testimony', naming also Roderick Castle, Randy Anderson and Steven Digna. Chairwoman Luna: 'No objection.' He did not appear and was not sworn."
 }
 ],
 "unexplainedResidual": null,

@@ -58,7 +58,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"w2-international"
+"d-international",
+"d-foia"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -79,6 +80,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Gary Anthony",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-03-19",

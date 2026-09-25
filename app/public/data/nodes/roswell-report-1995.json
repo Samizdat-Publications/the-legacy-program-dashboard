@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The first of the two official Air Force Roswell reports, written by Col. Richard L. Weaver, Director of Security and Special Program Oversight in the Office of the Secretary of the Air Force, with 1st Lt. James McAndrew. It was produced to answer Rep. Steven H. Schiff's inquiry as routed through the General Accounting Office, delivered to the Secretary of the Air Force and to GAO in July 1994, and published by the Government Printing Office in 1995. Its operative conclusion is that the July 1947 debris came from Project Mogul, the top-priority classified balloon-borne acoustic programme flown from Alamogordo Army Air Field to detect Soviet nuclear tests, described in McAndrew's Attachment 32. The published version duplicates the report delivered to the Secretary and GAO with the addition of a photograph section. The document's evidentiary character is unusual and this board treats it accordingly: it is a denial, and it is also a primary record. It establishes on the government's own signature that a classified programme was flying from Alamogordo in June-July 1947 whose existence had been concealed for forty-seven years, that the Secretary of the Air Force issued a written direction releasing former airmen and contract scientists from nondisclosure obligations so they could speak, and that the inquiry was assigned to the special access programme oversight directorate rather than to a historical office. Every one of those three facts is a fact about the concealment architecture, whatever one concludes about the balloon.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -109,7 +108,11 @@
 "label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1995-01-01",
@@ -132,13 +135,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 764 of 1170, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1994-07",
+"grade": "A",
 "id": "tl-1994-07-weaver",
 "label": "Air Force report to GAO",
 "precision": "month",
 "strand": "oversight",
-"text": "Col. Richard L. Weaver, Director of Security and Special Program Oversight in the Office of the Secretary of the Air Force, and 1st Lt. James McAndrew deliver the report concluding the debris was Project Mogul. It also records that the Secretary released former airmen and contract scientists from nondisclosure obligations in writing.",
-"tier": "A"
+"text": "Col. Richard L. Weaver, Director of Security and Special Program Oversight in the Office of the Secretary of the Air Force, and 1st Lt. James McAndrew deliver the report concluding the debris was Project Mogul. It also records that the Secretary released former airmen and contract scientists from nondisclosure obligations in writing."
 }
-]
+],
+"unverified": []
 }

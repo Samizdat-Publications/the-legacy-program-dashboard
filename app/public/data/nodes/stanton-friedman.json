@@ -229,6 +229,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"b": {
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
 "by": {
 "id": "stanton-friedman",
 "label": "Stanton T. Friedman"
@@ -250,18 +258,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "stanton-friedman",
 "label": "Stanton T. Friedman"
 },
+"b": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "Unresolved dispute over MJ-12 authenticity",
 "note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
-"of": {
-"id": "kevin-randle",
-"label": "Kevin D. Randle"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -271,6 +281,14 @@
 ]
 },
 {
+"a": {
+"id": "stanton-friedman",
+"label": "Stanton T. Friedman"
+},
+"b": {
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
 "by": {
 "id": "stanton-friedman",
 "label": "Stanton T. Friedman"
@@ -293,9 +311,10 @@
 }
 ],
 "domains": [
-"lazar-s4-2026-09-18",
-"w16-thin-people",
-"w2-retrieval-literature"
+"d-recovery",
+"d-witness",
+"d-coverup",
+"d-mj12"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -316,6 +335,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Stanton T. Friedman",
+"sourceFiles": [
+"lazar-s4-2026-09-18",
+"w16-thin-people",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1997-12",
@@ -351,25 +375,27 @@
 "status": "dead",
 "sub": "Nuclear physicist; first civilian Roswell investigator; MJ-12 researcher",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 143 of 1170, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 144 of 1170, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1978-02",
+"grade": "A",
 "id": "tl-1978-02-friedman",
 "label": "Friedman meets Marcel",
 "precision": "month",
 "strand": "witness",
-"text": "Stanton Friedman is put in touch with retired Lt. Col. Jesse Marcel Sr. in Baton Rouge. Marcel states the weather balloon account was a cover and that the material was not of this earth. Roswell restarts after thirty-one years.",
-"tier": "A"
+"text": "Stanton Friedman is put in touch with retired Lt. Col. Jesse Marcel Sr. in Baton Rouge. Marcel states the weather balloon account was a cover and that the material was not of this earth. Roswell restarts after thirty-one years."
 },
 {
+"claimTier": null,
 "date": "2019-05-13",
+"grade": "A",
 "id": "tl-2019-0513-friedman",
 "label": "Friedman dies",
 "precision": "day",
 "strand": "program",
-"text": "Stanton Friedman dies of a heart attack at Toronto Pearson Airport returning from a lecture. He had donated his research files to the Provincial Archives of New Brunswick in the months before his death.",
-"tier": "A"
+"text": "Stanton Friedman dies of a heart attack at Toronto Pearson Airport returning from a lecture. He had donated his research files to the Provincial Archives of New Brunswick in the months before his death."
 }
 ],
 "unexplainedResidual": null,

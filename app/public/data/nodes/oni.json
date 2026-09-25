@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -144,11 +145,7 @@
 "deg": 4,
 "denials": [],
 "desc": "ONI describes itself as 'America's premier maritime intelligence service and a core element of the U.S. Navy's Information Warfare Community', established in 1882 and 'the nation's longest-serving intelligence agency', headquartered at 4251 Suitland Road, Washington DC. Its centrality to the modern UAP record is structural: the encounters that reopened the subject were Navy encounters - the 2004 Nimitz events off Southern California and the 2014-2015 Roosevelt events off the Atlantic coast - and when the Deputy Secretary of Defense formalised the government's response on 4 August 2020, the Unidentified Aerial Phenomena Task Force was established under the cognisance of the Under Secretary of Defense for Intelligence and Security with the Department of the Navy designated to lead it, which placed the Task Force in ONI's institutional orbit. ONI is named in ODNI's 2021 Preliminary Assessment among the contributing elements, listed there as 'Navy/ONI'. ONI is also the agency that has given the most explicit public confirmation that classified UAP holdings exist: in responses to FOIA requests concerning the Nimitz encounter, ONI stated that the responsive material included briefing documents and video classified at the TOP SECRET/SCI level and withheld them in full. That is a formal agency assertion, in writing, that a body of TOP SECRET/SCI UAP material exists - the same category of admission the NSA made in 1980, made forty years later by a different service.",
-"domains": [
-"_rs-archive-mirror",
-"lazar-s4-2026-09-18",
-"w2-agencies"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -162,7 +159,13 @@
 "label": "Office of Naval Intelligence",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Office of Naval Intelligence",
+"sourceFiles": [
+"_rs-archive-mirror",
+"lazar-s4-2026-09-18",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-03-01",
@@ -202,16 +205,18 @@
 ],
 "sub": "Established 1882; the nation's longest-serving intelligence agency; parent of the UAP Task Force",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 265 of 1170, score 41). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 266 of 1170, score 41). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2020-08-04",
+"grade": "A",
 "id": "ag-tl-2020-uaptf",
 "label": "UAP Task Force established under Navy lead",
 "precision": "day",
 "strand": "program",
-"text": "The Deputy Secretary of Defense formalises the government's UAP effort under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit and out of the hands of offices with acquisition equity.",
-"tier": "A"
+"text": "The Deputy Secretary of Defense formalises the government's UAP effort under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit and out of the hands of offices with acquisition equity."
 }
-]
+],
+"unverified": []
 }

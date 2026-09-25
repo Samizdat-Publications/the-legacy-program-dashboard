@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Rockefeller Initiative's central artefact: a briefing document compiled under Marie Galbraith with Stanton Friedman and Don Berliner, funded by Laurance Rockefeller, and distributed in 1995 to members of Congress, senior officials and foreign heads of state. It was deliberately written in the register of a government assessment rather than a popular book - leading with instrumented, multiple-witness and officially documented cases, citing FOIA releases and naming officials. It is the direct methodological ancestor of everything this board does. It also demonstrates the ceiling of the private approach: a document of that quality, delivered by that messenger, to that distribution list, produced no policy response whatsoever, which tells you that the obstacle in 1995 was not the quality of the evidence or the credibility of the advocate.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -83,7 +82,11 @@
 "label": "UFO Briefing Document: The Best Available Evidence (1995)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "UFO Briefing Document: The Best Available Evidence (1995)",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2019-09-16",
@@ -101,13 +104,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 1100 of 1170, score 11). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1995-01-01",
+"grade": "B",
 "id": "t-1995-bae",
 "label": "'The Best Available Evidence' distributed",
 "precision": "year",
 "strand": "oversight",
-"text": "Marie Galbraith's Rockefeller-funded briefing document goes to legislators, senior officials and heads of state. No policy response follows.",
-"tier": "B"
+"text": "Marie Galbraith's Rockefeller-funded briefing document goes to legislators, senior officials and heads of state. No policy response follows."
 }
-]
+],
+"unverified": []
 }

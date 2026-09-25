@@ -143,7 +143,8 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"elizondo-ttsa"
+"d-disclosure",
+"d-materials"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -164,6 +165,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Thomas Matthew DeLonge",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2018-04-30",
@@ -184,7 +188,7 @@
 "status": "active",
 "sub": "Co-founder, President and Chairman, To The Stars Academy of Arts & Science",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 708 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 707 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

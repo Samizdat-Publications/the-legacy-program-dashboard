@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,18 +94,20 @@
 "deg": 3,
 "denials": [
 {
-"by": {
+"a": {
 "id": "d-roswell",
 "label": "Roswell"
 },
+"b": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Four official explanations for one event",
 "note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
-"of": {
-"id": "d-denial",
-"label": "Official Denial"
-},
+"of": null,
 "sources": [
 {
 "date": "1995-07-28",
@@ -115,9 +118,7 @@
 }
 ],
 "desc": "Roswell is not on this board because of what was recovered but because of what the government did afterwards, four times, over forty-eight years. On 8 July 1947 Roswell Army Air Field publicly announced that the 509th Bomb Group had come into possession of a flying disc; the same day the Eighth Air Force at Fort Worth, under Brigadier General Roger M. Ramey, replaced that with a weather balloon. In the mid-1990s the Air Force published 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert', attributing the debris to Project MOGUL, a classified acoustic balloon programme for detecting Soviet nuclear tests; on 24 June 1997 it published 'The Roswell Report: Case Closed', attributing witness accounts of bodies to anthropomorphic crash test dummies dropped in the 1950s. GAO, asked by Congressman Steven Schiff to locate the underlying records, reported in July 1995 that the relevant Roswell AAF outgoing messages for 1946-1949 had been destroyed with no disposition authority and no destruction certificate on file. Four official explanations and one documented records gap is the actual evidentiary situation, and it is the reason the case remains load-bearing. Scoring high on this domain means an entity was present, investigated, or authored one of the explanations.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -131,7 +132,11 @@
 "label": "Roswell",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Roswell",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "1995-07-28",
@@ -169,13 +174,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 345 of 1170, score 37). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1947-07-08",
+"grade": null,
 "id": "tx-1947-roswell-presser",
 "label": "Roswell announces, Fort Worth retracts",
 "precision": "day",
 "strand": "program",
-"text": "Roswell Army Air Field publicly announces that the 509th Bomb Group has come into possession of a flying disc. The material is flown to Eighth Air Force headquarters at Fort Worth, where it is presented to the press the same day as a weather balloon and radar target. Four official explanations for the event will follow over the next fifty years.",
-"tier": 1
+"text": "Roswell Army Air Field publicly announces that the 509th Bomb Group has come into possession of a flying disc. The material is flown to Eighth Air Force headquarters at Fort Worth, where it is presented to the press the same day as a weather balloon and radar target. Four official explanations for the event will follow over the next fifty years."
 }
-]
+],
+"unverified": []
 }

@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -56,9 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Research and Development Board sat at the top of the American defence research structure for the exact six years in which the legacy programme is alleged to have been established, and its statutory life is fully documented. The National Archives' finding aid for Record Group 330 states it was 'Established as the Research and Development Board by the National Security Act of 1947 (61 Stat. 495), July 26, 1947. Abolished by Reorganization Plan No. 6 of 1953, effective June 30, 1953, and superseded by Office of the Assistant Secretary of Defense (Research and Development).' The same aid lists its surviving records, including 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'.\n\nTruman's published letter to Vannevar Bush of 25 September 1947 gives the predecessor relationship in the President's own words: 'I am happy to know that you are willing to continue in the public service as Chairman of the Research and Development Board created by the National Security Act of 1947 ... Since V-J Day you have continued to render valuable service as chairman of the Joint Research and Development Board set up by the Secretaries of War and Navy.' The RDB is a 1947 statutory body and its predecessor the JRDB is a post-V-J Day creation of the two service secretaries -- so no earlier than September 1945.\n\nWhat this node does NOT carry is the Sarbacher consultancy. It is the destination every MJ-12 and Wilbert Smith thread points at, and no primary record for it was found. It is carried at Tier 3 on the Sarbacher node, where it belongs, and no edge is drawn from here.",
-"domains": [
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -72,7 +71,11 @@
 "label": "Research and Development Board",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Research and Development Board",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "2026-08-30",
@@ -90,13 +93,17 @@
 "tierRationale": "Re-graded B on a global pass (rank 469 of 1170, score 32). 1 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1947-07-26",
+"grade": "A",
 "id": "tl-1947-rdb",
 "label": "Research and Development Board established",
 "precision": "day",
 "strand": "program",
-"text": "The National Security Act of 1947 (61 Stat. 495) creates the Research and Development Board, the statutory coordinating body for defence research. Truman appoints Vannevar Bush its chairman, continuing him from the Joint Research and Development Board the service secretaries had set up after V-J Day.",
-"tier": "A"
+"text": "The National Security Act of 1947 (61 Stat. 495) creates the Research and Development Board, the statutory coordinating body for defence research. Truman appoints Vannevar Bush its chairman, continuing him from the Joint Research and Development Board the service secretaries had set up after V-J Day."
 }
+],
+"unverified": [
+"No primary record was found for Robert Sarbacher's alleged consultancy to the Board, and no edge is drawn. The June 1946 date commonly given for the JRDB is consistent with Truman's wording but was not pinned to a primary source. Reorganization Plan No. 6 of 1953 is cited here from NARA's finding aid; govinfo returned OVER_RATE_LIMIT and was not consulted."
 ]
 }

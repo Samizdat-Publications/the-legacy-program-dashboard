@@ -75,8 +75,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
+"d-disclosure",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -97,6 +97,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Tulsi Gabbard",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -127,7 +131,7 @@
 "status": "active",
 "sub": "Director of National Intelligence; ODNI side of PURSUE",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 701 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 700 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

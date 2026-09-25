@@ -170,8 +170,10 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"media-structure",
-"scientists-technical"
+"d-media",
+"d-policy",
+"d-research",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -192,6 +194,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Peter Skafish",
+"sourceFiles": [
+"media-structure",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -232,7 +238,7 @@
 "status": "active",
 "sub": "Executive Director and co-founder, The Sol Foundation",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 518 of 1170, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 516 of 1170, score 30). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -42,6 +42,7 @@
 ],
 "cls": "legislation",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -144,9 +145,7 @@
 "deg": 4,
 "denials": [],
 "desc": "National Defense Authorization Act for Fiscal Year 2022, Public Law 117-81, approved 27 December 2021. Section 1683, codified at 50 U.S.C. 3373, is the first statute to require a standing DoD/ODNI office for unidentified aerial phenomena, superseding the Navy-led UAP Task Force. It mandates field-investigation line organizations, a science plan to explain performance 'that exceed the known state of the art in science or technology', and an intelligence collection and analysis plan on the 'origins and intentions' of UAP.",
-"domains": [
-"_rs-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -160,7 +159,11 @@
 "label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
+"sourceFiles": [
+"_rs-legislation"
+],
 "sources": [
 {
 "date": "2021-12-27",
@@ -170,6 +173,7 @@
 ],
 "sub": "authorizing-statutes",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 684 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 682 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

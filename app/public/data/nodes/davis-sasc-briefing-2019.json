@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "On 21 October 2019 Eric W. Davis gave a classified briefing on retrievals of unexplained objects to staff members of the Senate Armed Services Committee. Two days later, on 23 October 2019, he briefed members of the Senate Intelligence Committee. He also told The New York Times that as recently as March 2020 he had given a classified briefing to a Defense Department agency about retrievals from 'off-world vehicles not made on this earth', and said of the material: 'We couldn't make it ourselves.' Ralph Blumenthal reported all of this on the record on 23 July 2020. This is the pivot point of the modern era. It is not a leak, not an anonymous source and not a whistleblower complaint: it is a named contractor scientist, formerly of EarthTech and by then at The Aerospace Corporation, stating publicly that he had briefed two Senate committees on the recovery of non-human hardware, with dates. Everything the oversight strand does from 2020 onward - the FY2022 Intelligence Authorization Act reporting requirements, the AOIMSG and AARO statutes, the UAP Disclosure Act, the Grusch complaint - runs downstream of the moment two Senate committees were told this in person by a technical contractor.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -98,7 +97,11 @@
 "label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2020-07-23",
@@ -118,43 +121,48 @@
 ],
 "sub": "Two classified briefings on 'retrievals of unexplained objects' within 48 hours",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 506 of 1170, score 31). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 507 of 1170, score 31). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-10-21",
+"grade": "A",
 "id": "st-2019-10-21",
 "label": "Davis briefs SASC staff",
 "precision": "day",
 "strand": "witness",
-"text": "Eric Davis gives a classified briefing on retrievals of unexplained objects to staff members of the Senate Armed Services Committee.",
-"tier": "A"
+"text": "Eric Davis gives a classified briefing on retrievals of unexplained objects to staff members of the Senate Armed Services Committee."
 },
 {
+"claimTier": null,
 "date": "2019-10-23",
+"grade": "A",
 "id": "st-2019-10-23",
 "label": "Davis briefs SSCI members",
 "precision": "day",
 "strand": "witness",
-"text": "Two days later Davis briefs members of the Senate Intelligence Committee on the same subject.",
-"tier": "A"
+"text": "Two days later Davis briefs members of the Senate Intelligence Committee on the same subject."
 },
 {
+"claimTier": null,
 "date": "2020-03-01",
+"grade": "A",
 "id": "st-2020-03-dod",
 "label": "Davis briefs a DoD agency",
 "precision": "month",
 "strand": "witness",
-"text": "Davis gives a classified briefing to a Defense Department agency about retrievals from 'off-world vehicles not made on this earth'. The agency has never been identified.",
-"tier": "A"
+"text": "Davis gives a classified briefing to a Defense Department agency about retrievals from 'off-world vehicles not made on this earth'. The agency has never been identified."
 },
 {
+"claimTier": null,
 "date": "2020-07-23",
+"grade": "A",
 "id": "st-2020-07-23",
 "label": "'We couldn't make it ourselves'",
 "precision": "day",
 "strand": "witness",
-"text": "The New York Times publishes Davis's account of his briefings and his statement about the analysed material, alongside Harry Reid's call for information on retrieved craft to come out.",
-"tier": "A"
+"text": "The New York Times publishes Davis's account of his briefings and his statement about the analysed material, alongside Harry Reid's call for information on retrieved craft to come out."
 }
-]
+],
+"unverified": []
 }

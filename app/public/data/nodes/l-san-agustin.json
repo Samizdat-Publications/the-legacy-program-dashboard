@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -59,10 +60,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Plains of San Agustin is a large high-desert basin west of Socorro, New Mexico, best known today as the site of the Very Large Array. On this board it is the alleged second Roswell-adjacent recovery site, entering the record through Grady 'Barney' Barnett's reported account of coming upon a disc and bodies in July 1947, and later through Gerald Anderson's claimed childhood witness testimony. Both accounts are second-hand or contested in their provenance and neither is supported by a primary document; the site is retained because the Barnett account is one of the oldest strands in the Roswell corpus and its chain of transmission is itself a research object. GAO's 1995 records search found no surviving Roswell AAF message traffic that would corroborate or refute activity here.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -76,7 +74,12 @@
 "label": "Plains of San Agustin, New Mexico",
 "locLabel": "Plains of San Agustin, New Mexico, USA",
 "members": null,
+"openQuestions": [],
 "short": "Plains of San Agustin, New Mexico",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -97,5 +100,6 @@
 "sub": "High desert basin in Catron and Socorro Counties, New Mexico",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1062 of 1170, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

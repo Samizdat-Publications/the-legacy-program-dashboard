@@ -134,7 +134,8 @@
 "deg": 3,
 "denials": [],
 "domains": [
-"aviators-incidents"
+"d-aviators",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -155,6 +156,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Gary Voorhis",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-01-14",
@@ -170,7 +174,7 @@
 "status": "active",
 "sub": "Petty Officer, CEC/Aegis computer and radar technician, USS Princeton (CG-59), Nov 2004",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 734 of 1170, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 733 of 1170, score 23). 4 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

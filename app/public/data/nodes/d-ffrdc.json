@@ -32,6 +32,7 @@
 ],
 "cls": "domain",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -244,9 +245,7 @@
 "deg": 9,
 "denials": [],
 "desc": "This is the mechanism the whole board turns on, and it is not a theory - it is written into the Federal Acquisition Regulation. A federally funded research and development center is a research organisation operated under contract by a private entity - a nonprofit, a university, or an industrial consortium - to meet a special long-term research need that, in the FAR's language, cannot be met as effectively by existing in-house or contractor resources. As of February 2026 there were 41 FFRDCs sponsored or co-sponsored by 12 federal agencies. Three features of FAR 35.017 create the seam. First, sponsors are directed to build long-term strategic relationships: initial contracts may run five years and are renewable in similar increments, expressly to give the FFRDC stability, continuity and the ability to attract high-quality personnel. Second, and decisively, the FFRDC 'has access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship.' That single clause creates an entity that can legally see both the government's compartmented information and the prime contractor's proprietary information - a vantage no ordinary contractor and no ordinary civil servant has. Third, in exchange for that access, the FFRDC is barred from competing with the private sector for federal R&D work and is required to operate in the public interest with objectivity, free from organisational conflicts of interest, and to fully disclose its activities to its sponsoring agency - to the sponsor, note, not to Congress and not to the public. The consequence is the concealment architecture in miniature. Records held by an FFRDC are contractor records, not agency records, and therefore outside the Freedom of Information Act. Disclosure runs to the sponsoring agency, which is also the classification authority. Sole-source awards mean no competitor ever audits the work. Personnel move continuously between the sponsor and the operator. If a programme wanted to be technically vested outside the government while the government retained absolute control of materials, breakthroughs and data - and while remaining invisible to FOIA, to GAO, and to committee staff without the sponsor's consent - it would be built exactly here. Rep. Eric Burlison made this the explicit basis of his May 2026 inquiry: FFRDCs, he wrote, 'often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive,' and 'cannot become private vaults for federal records.'",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "How the seam actually works, mechanism by mechanism. (1) RECORDS STATUS. Documents created and held by an FFRDC operator are the contractor's records, not agency records. The Freedom of Information Act reaches agency records. A congressional committee can subpoena a contractor, but it must first know the contractor holds something - which is why Burlison's method of naming a file by its exact designation, as he did with AF-ATIC-FILM 03/52 at MIT Lincoln Laboratory, worked where a general request would not have. (2) DISCLOSURE DIRECTION. FAR 35.017 obliges the FFRDC to fully disclose its activities to its sponsoring agency. The sponsor is simultaneously the customer, the funder and the original classification authority. There is no obligation running to Congress, to GAO, to the public, or to any other agency. MITRE's answer to Burlison - that it would 'coordinate with the federal agencies responsible for the work' - is not evasion in the colloquial sense; it is the regulation operating exactly as written. (3) DUAL ACCESS. The FFRDC sees the government's compartmented information and the prime contractor's proprietary information. No civil servant has the second; no ordinary contractor has the first. That is the informational chokepoint the 2026 UAP Gerb investigation identifies as the 'missing link', and it exists whether or not any of that investigation's specific allegations are true. (4) NON-COMPETITION. Because the FFRDC is barred from competing with industry for federal R&D, no commercial rival ever has cause or standing to audit its work. (5) PERPETUITY. Five-year contracts renewable indefinitely, awarded sole-source, produce institutional relationships measured in decades - MITRE's DoD relationship is 68 years old, Battelle's Pacific Northwest contract dates to 1978, UT-Battelle's Oak Ridge contract runs to 2030. (6) PERSONNEL FLOW. The same executives move between sponsor and operator: a former NRO director chairs MITRE's board, a former PDDNI is its vice chair, a Battelle executive is its CEO, a former STRATCOM commander runs IDA, a former IARPA director runs RAND, and AARO's founding director went to Oak Ridge. Put these six together and you have an entity with the government's access, the private sector's records status, no auditor, no expiry and a shared talent pool with its own overseer. The board's position is not that this proves a concealed programme exists. It is that if one exists, this is where it lives, and that the burden of demonstrating otherwise sits with the institutions that built the structure.",
@@ -284,7 +283,11 @@
 "label": "The FFRDC Seam",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The FFRDC Seam",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-05-15",
@@ -309,16 +312,18 @@
 ],
 "sub": "Structural domain - the legal space between government and industry",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 185 of 1170, score 47). 9 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 184 of 1170, score 47). 9 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-08-12",
+"grade": "A",
 "id": "tl-ffrdc-2026-now",
 "label": "State of play",
 "precision": "day",
 "strand": "oversight",
-"text": "MITRE's 45-day unclassified production deadline has passed with no public production; no letter has been made public to RAND, Aerospace, IDA or Sandia; the FY2027 NDAA contractor-records provision awaits the Senate.",
-"tier": "A"
+"text": "MITRE's 45-day unclassified production deadline has passed with no public production; no letter has been made public to RAND, Aerospace, IDA or Sandia; the FY2027 NDAA contractor-records provision awaits the Senate."
 }
-]
+],
+"unverified": []
 }

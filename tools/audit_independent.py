@@ -260,6 +260,40 @@ def main():
     ck("no authored cluster or status was lost to a default", sorted(lost)[:12], [],
        f"{len(lost)} node(s); a truthy default beat the file that authored the value")
 
+    # ---- the vocabulary, restated (phase 3) -------------------------------------
+    # schema/vocab.json is the one vocabulary merge.py, build_app_data.py, verify.py
+    # and the app read. RESTATED here, not imported from those tools: if the file
+    # drifts from what this board means by its twelve types and its person
+    # statuses, the two lists disagree and this says so.
+    TYPES = ["custody", "funding", "programmatic", "institutional", "legislative",
+             "research", "investigative", "witness-chain", "behavioral", "denial",
+             "temporal", "geographic"]
+    STATUS = ["active", "dead", "former", "alive", "unknown", "deceased", "missing",
+              "fabricated", "resolved"]
+    vocab = json.load(open(os.path.join(ROOT, "schema", "vocab.json"), encoding="utf-8"))
+    ck("schema/vocab.json names the twelve edge types, in reading order",
+       [t["id"] for t in vocab["edgeTypes"]], TYPES)
+    ck("schema/vocab.json names the nine person statuses in use",
+       vocab["personStatus"], STATUS)
+    ck("every edge on the board carries one of the twelve types",
+       sorted({e["type"] for e in edges} - set(TYPES)), [])
+    ck("every person status on the board is one of the nine",
+       sorted({p.get("status") for p in people} - set(STATUS)), [])
+    verbs = {k: v for k, v in vocab["authoredVerbs"].items() if not k.startswith("_")}
+    unmapped = set()
+    for path in sorted(glob.glob(os.path.join(ROOT, "research", "*.json"))):
+        if os.path.basename(path) == "_edge_tiers.json":
+            continue
+        for x in json.load(open(path, encoding="utf-8")).get("edges") or []:
+            t = x.get("type") or x.get("rel")
+            if t not in TYPES and t not in verbs:
+                unmapped.add(t)
+    ck("every authored edge verb is a type or has a mapping", sorted(unmapped), [])
+    ck("every verb mapping lands on one of the twelve types",
+       sorted(k for k, v in verbs.items() if v.get("type") not in TYPES), [])
+    ck("no timeline event ships the old mixed `tier` field",
+       sum(1 for t in b.get("timeline", []) if "tier" in t), 0)
+
     # ---- report ---------------------------------------------------------------
     print("=" * 66)
     print(f"LAYER 1 — independent re-derivation")

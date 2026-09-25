@@ -142,8 +142,7 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"w2-agencies"
+"d-structure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -164,6 +163,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "William B. Adkins",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-08-11",
@@ -189,7 +192,7 @@
 "status": "active",
 "sub": "Acting Director, National Reconnaissance Office",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 618 of 1170, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 613 of 1170, score 27). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

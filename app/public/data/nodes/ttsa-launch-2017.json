@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "On 11 October 2017, seven days after Elizondo's resignation took effect and nine weeks before the New York Times story, To The Stars Academy of Arts & Science launched publicly with a live-streamed event and a Regulation A+ equity offering. The announced roster is the point: Tom DeLonge as President and CEO; Harold Puthoff as VP Science and Technology; Jim Semivan, recently retired from the CIA's clandestine service, as VP Operations; Steve Justice, 31 years at Lockheed's Skunk Works and latterly Program Director for Advanced Systems, as Aerospace Division Director; Luis Elizondo, described as former Director of Programs investigating unidentified aerial threats for the Office of the Secretary of Defense, as Director of Global Security & Special Programs; and Christopher Mellon, former Deputy Assistant Secretary of Defense for Intelligence and Senate Intelligence Committee minority staff director, as National Security Affairs Advisor. Three divisions were announced: Science, Aerospace — explicitly including beamed energy and electrogravitics — and Entertainment. The timing means the corporate landing pad existed before the story broke.",
-"domains": [
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -93,7 +92,11 @@
 "label": "To The Stars Academy public launch, 11 October 2017",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "To The Stars Academy public launch, 11 October 2017",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2017-10-11",
@@ -103,16 +106,18 @@
 ],
 "sub": "Live-streamed launch event and Regulation A+ offering",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 687 of 1170, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 686 of 1170, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-10-11",
+"grade": "A",
 "id": "tl-2017-10-11-ttsa",
 "label": "To The Stars Academy launches",
 "precision": "day",
 "strand": "program",
-"text": "DeLonge, Puthoff, Semivan, Justice, Elizondo and Mellon appear on one masthead, with a Regulation A+ offering targeting $50 million and divisions for Science, Aerospace and Entertainment.",
-"tier": "A"
+"text": "DeLonge, Puthoff, Semivan, Justice, Elizondo and Mellon appear on one masthead, with a Regulation A+ offering targeting $50 million and divisions for Science, Aerospace and Entertainment."
 }
-]
+],
+"unverified": []
 }

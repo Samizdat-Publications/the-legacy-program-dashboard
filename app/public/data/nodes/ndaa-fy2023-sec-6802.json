@@ -92,6 +92,7 @@
 ],
 "cls": "legislation",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -252,10 +253,7 @@
 "deg": 7,
 "denials": [],
 "desc": "Section 6802 of Pub. L. 117-263 (enacted 23 Dec 2022) rewrote 50 U.S.C. 3373 to establish AARO, and added subsection (j) requiring a Historical Record Report within 540 days of enactment and subsection (k) requiring joint DNI/SECDEF annual reports. This is the statute AARO cites as the authority for both the Historical Record Report and the Consolidated Annual Reports.",
-"domains": [
-"_rs-aaro-reports",
-"w12-sec6802-edges"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -398,7 +396,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Sec. 6802, FY2023 NDAA",
+"sourceFiles": [
+"_rs-aaro-reports",
+"w12-sec6802-edges"
+],
 "sources": [
 {
 "date": "2022-12-23",
@@ -418,6 +421,18 @@
 ],
 "sub": "statute",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 75 of 1170, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 76 of 1170, score 70). 7 connections, 6 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [
+{
+"claimTier": null,
+"date": "2022-12-23",
+"grade": null,
+"id": "_rs-aaro-reports-2",
+"label": "Pub. L. 117-263 enacted; Sec. 6802 rewrites 50 U.S.C. 3373, setting a 540-day Historical Record Report deadline (15 June 2024) and a four-year annual-report requirement",
+"precision": "day",
+"strand": "program",
+"text": null
+}
+],
+"unverified": []
 }

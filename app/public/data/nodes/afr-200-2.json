@@ -52,6 +52,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -154,10 +155,7 @@
 "deg": 4,
 "denials": [],
 "desc": "AFR 200-2, 'Unidentified Flying Objects Reporting', is the internal Air Force regulation that operationalised the Robertson Panel's recommendations seven months after the panel reported. The 12 August 1954 edition, superseding the 26 August 1953 edition, sets out the reporting chain — base level to Air Defense Command, field investigation by the 4602d Air Intelligence Service Squadron, terminal analysis at ATIC, Wright-Patterson — and, critically, governs what may be said publicly. Its release policy states that for objects which are not explainable, 'only the fact that ATIC will analyze the data is worthy of release, due to many unknowns involved', and protects names of principals, intercept and investigation procedures, and classified radar data. In plain terms: solved cases could be discussed, unsolved cases could not. Every public Air Force statement of the period that unexplained cases were unimportant was made under a regulation forbidding officers from discussing them. The regulation was issued under the tenure of Gen. Nathan Twining as Chief of Staff — the same officer who had written in 1947 that the phenomenon was real.",
-"domains": [
-"history-1940s-1960s",
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -171,7 +169,12 @@
 "label": "Air Force Regulation 200-2",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Air Force Regulation 200-2",
+"sourceFiles": [
+"history-1940s-1960s",
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "1954-08-12",
@@ -191,25 +194,28 @@
 ],
 "sub": "USAF regulation on UFO reporting; 26 Aug 1953 and 12 Aug 1954 editions",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 224 of 1170, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 223 of 1170, score 44). 4 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1953-08-26",
+"grade": "A",
 "id": "tl-1953-08-26",
 "label": "AFR 200-2 issued",
 "precision": "day",
 "strand": "coverup",
-"text": "The Air Force regulation on UFO reporting restricts public release on unexplained cases to the bare fact that ATIC will analyse the data. Revised 12 August 1954.",
-"tier": "A"
+"text": "The Air Force regulation on UFO reporting restricts public release on unexplained cases to the bare fact that ATIC will analyse the data. Revised 12 August 1954."
 },
 {
+"claimTier": null,
 "date": "1953-08-26",
+"grade": "A",
 "id": "tl-1953-afr-200-2",
 "label": "AFR 200-2 puts the release restriction in writing",
 "precision": "day",
 "strand": "coverup",
-"text": "Air Force Regulation 200-2, short title UFOB, signed by order of the Secretary of the Air Force by N. F. Twining, supersedes AFL 200-5 of 29 April 1952. It designates ATIC as the analysis authority, directs that all evidence be forwarded there, and restricts public discussion to cases conclusively identified as conventional. Identified cases could be discussed; unidentified ones could not.",
-"tier": "A"
+"text": "Air Force Regulation 200-2, short title UFOB, signed by order of the Secretary of the Air Force by N. F. Twining, supersedes AFL 200-5 of 29 April 1952. It designates ATIC as the analysis authority, directs that all evidence be forwarded there, and restricts public discussion to cases conclusively identified as conventional. Identified cases could be discussed; unidentified ones could not."
 }
-]
+],
+"unverified": []
 }

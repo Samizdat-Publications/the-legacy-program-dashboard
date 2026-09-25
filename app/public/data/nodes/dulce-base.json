@@ -42,6 +42,9 @@
 ],
 "cls": "location",
 "cluster": "witness",
+"conflicts": [
+"The place name is attached to the claim by later tellers; Cooper's 1989 paper, one of the principal mass-audience vehicles for the underlying frame, does not contain the word Dulce at all."
+],
 "connections": [
 {
 "claimTier": 2,
@@ -385,18 +388,20 @@
 "deg": 15,
 "denials": [
 {
-"by": {
+"a": {
 "id": "gasbuggy-1967",
 "label": "Project Gasbuggy, 10 December 1967"
 },
+"b": {
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
 "note": "The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour.",
-"of": {
-"id": "dulce-base",
-"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-09-19",
@@ -406,6 +411,14 @@
 ]
 },
 {
+"a": {
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
 "by": {
 "id": "richard-doty",
 "label": "Richard C. Doty"
@@ -427,6 +440,14 @@
 ]
 },
 {
+"a": {
+"id": "tal-levesque",
+"label": "Tal Levesque (Jason Bishop III)"
+},
+"b": {
+"id": "dulce-base",
+"label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)"
+},
 "by": {
 "id": "tal-levesque",
 "label": "Tal Levesque (Jason Bishop III)"
@@ -449,9 +470,7 @@
 }
 ],
 "desc": "THIS NODE RECORDS A CLAIM. It does not record a facility, and nothing opened by this board places any facility under Archuleta Mesa. What attaches to the mesa is a set of assertions made by named people on datable occasions, and this node is the point at which they converge. Paul Bennewitz is the origin point from about 1979. Myrna Hansen's 1980 abduction account was connected to Dulce by Bennewitz after he had begun to suspect a facility. Tom Adams arrived in the early 1980s by way of cattle-mutilation work. John Lear developed his Dulce hypothesis in 1988, having heard of it from a woman named as Ann West. Tal Levesque wrote the two original Dulce Base articles. Phil Schneider arrived only in 1995 and supplied the specification the modern claim uses: seven levels, over two and a half miles deep, and an alleged 1979 firefight in which he says he shot two aliens and roughly seventy people died. Bill Cooper carried a related frame to a mass audience from 1989, and the precise limit of what he carried is recorded on his own node: his 1989 paper names alien bases under Indian reservations in the Four Corners area and the string 'Dulce' occurs in it zero times. What distinguishes this hub from every other claimant hub on the board is that its central witness has an author who confessed. In November 2015 Tal Levesque told Adam Gorightly by email that Thomas Edwin Castello was 'a creation. A MYTH', described composing the original articles from an account by Ann West mixed with his own research, and described mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. That last part is the manufacture of apparent corroboration, and it is why this cluster is the board's cleanest worked example of many sources agreeing because they share one origin. Against the claim sit four independent checks, none of them each other's method: Levesque's confession; Adam Gorightly, who obtained and published it; John Greenewald, who on 1 April 2016 traced the most-circulated photographic 'evidence' to the 2000 film The 6th Day and stated he had found no evidence Castello exists; Norio Hayakawa, who has worked the question since 1988 and concludes 'it does not seem to exist'; and Brian Dunning, whose 3 December 2013 episode calls the imagery case trivially checkable and classifies the base as fictional. And one documentary counterweight that is not scepticism at all but a fact about the ground: on 10 December 1967 the Atomic Energy Commission detonated a 29-kiloton device at 4,227 feet twelve miles southwest of Dulce, and the site remained under federal management, with liquid radioactive waste injected into the cavity and contaminated soil hauled away as late as 2004. A rumour of a secret federal installation in the ground near Dulce is, in the flattest sense, a rumour about something that happened. What the record does not support is the facility, the levels, the depth, the firefight, or the man.",
-"domains": [
-"dulce-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -465,7 +484,11 @@
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
+"sourceFiles": [
+"dulce-2026-09-19"
+],
 "sources": [
 {
 "date": "2024-04-02",
@@ -505,16 +528,22 @@
 ],
 "sub": "THE HUB. A claimed multi-level joint human and alien facility under Archuleta Mesa, for which no documented facility exists and whose central witness was confessed as an invention",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 137 of 1170, score 54). 15 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 138 of 1170, score 54). 15 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2013-12-03",
+"grade": "C",
 "id": "tl-2013-12-03-skeptoid-391",
 "label": "Skeptoid 391: 'there's nothing there at all'",
 "precision": "day",
 "strand": "witness",
-"text": "Brian Dunning: 'It's trivial to study Google Earth images of Archuleta Mesa and see that there's nothing there at all, certainly nothing like Schneider's elaborate descriptions.' Classified fictional. The episode's own reference list for Dulce is a single blog post, which bounds how much weight it can carry.",
-"tier": "C"
+"text": "Brian Dunning: 'It's trivial to study Google Earth images of Archuleta Mesa and see that there's nothing there at all, certainly nothing like Schneider's elaborate descriptions.' Classified fictional. The episode's own reference list for Dulce is a single blog post, which bounds how much weight it can carry."
 }
+],
+"unverified": [
+"That any facility exists under Archuleta Mesa. No opened record places one there.",
+"The alleged 1979 firefight. No record of any kind was opened.",
+"The Jicarilla Apache Nation's position, which could not be established; see the gaps."
 ]
 }

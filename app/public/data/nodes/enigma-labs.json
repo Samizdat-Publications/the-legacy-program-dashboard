@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -118,10 +119,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Enigma Labs is a privately held company operating what it calls the world's first platform dedicated to unidentified anomalous phenomena: a mobile and web system that takes sighting reports from the public, pushes real-time proximity alerts, plots an interactive map and exposes a searchable database that it states exceeds 50,000 reports with more than 560,000 alerts sent. It is staffed as a full-time commercial team rather than a volunteer network, and it states editorial neutrality on the origin question - positioning itself as an aggregator of sighting experiences that will 'follow the science wherever it leads'. Its board relevance is custodial: it is one of the few large UAP report corpora held entirely outside government, which means it cannot be classified, reorganised out of existence or narrowed by an agency deciding what counts as a case. The analyst Alejandro Rojas works with Enigma and its dataset has been used to characterise what the government file releases of 2025-2026 do and do not contain. The caveat recorded here is real: the company publishes little about its verification protocol, so the corpus is best treated as an unfiltered intake stream rather than an adjudicated case file.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -135,7 +133,12 @@
 "label": "Enigma Labs",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Enigma Labs",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -146,5 +149,6 @@
 "sub": "UAP reporting platform",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1125 of 1170, score 10). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

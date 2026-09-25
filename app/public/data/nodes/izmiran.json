@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,7 +47,7 @@
 "url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 }
 ],
@@ -56,10 +57,7 @@
 "deg": 1,
 "denials": [],
 "desc": "IZMIRAN is the N.V. Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation of the Russian Academy of Sciences, founded in 1939 and based at Troitsk outside Moscow, with a branch in St Petersburg. Its published work covers geomagnetism, the ionosphere, solar-terrestrial physics, space weather forecasting and radio propagation - the exact disciplines a state would draw on to explain, or to investigate, unexplained atmospheric optical and radar phenomena. That is why it appears on this board: IZMIRAN is the institutional home of the physicist Yury Platov, identified in the secondary literature as chief executive of SETKA-AN, the USSR Academy of Sciences half of the 1978-1990 Soviet state programme on anomalous phenomena that ran alongside the Ministry of Defence's SETKA-MO, and as co-author of the official history of that programme. The Soviet arrangement is instructive by contrast with the American one: the academy side of the programme sat in a named, publicly listed research institute that still exists and still publishes, rather than inside an unacknowledged compartment, which is why the Russian programme has an attributable institutional address at all. No primary Russian archival document establishing IZMIRAN's SETKA role was obtained in this pass, and that is recorded as a gap.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -70,10 +68,15 @@
 "hl": null,
 "id": "izmiran",
 "l0": false,
-"label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+"label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
 "locLabel": null,
 "members": null,
-"short": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+"openQuestions": [],
+"short": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -89,5 +92,6 @@
 "sub": "Russian research institute",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1154 of 1170, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

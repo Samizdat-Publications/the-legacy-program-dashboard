@@ -52,6 +52,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -123,9 +124,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The COMETA report is the only document in which a group of senior figures from a NATO state's defence establishment sets out, in their own names, that the extraterrestrial hypothesis is the explanation best supported by the evidence, and then recommends that their government apply diplomatic pressure to the United States to open the subject. It was published in July 1999 as a special issue of the French magazine VSD and delivered to Prime Minister Lionel Jospin. Its conclusion states that CNES's studies with the Gendarmerie Nationale and the Air Force 'tally with other research conducted more or less discretely abroad, mainly in the United States' and that together they 'demonstrate the almost certain physical reality of completely unknown flying objects with remarkable flight performances and noiselessness, apparently operated by intelligent [beings]'. It states that 'secret craft definitely of earthly origin (drones, stealth aircraft, etc.) can only explain a minority of cases'; that 'a single hypothesis sufficiently takes into account the facts and, for the most part, only calls for present-day science. It is the hypothesis of extraterrestrial visitors'; and that this hypothesis 'certainly has not been categorically proven, but strong presumptions exist in its favor and if it is correct, it is loaded with consequences'. The report carries a forward by former CNES chairman André Lebeau and a preface by former IHEDN director General Bernard Norlain, and its opening section records that the whole French official apparatus - GEPAN, then SEPRA - exists because a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie recommended it.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -139,7 +138,11 @@
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "1999-07-01",
@@ -154,16 +157,18 @@
 ],
 "sub": "90-page report by French retired general officers; delivered to PM Lionel Jospin",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 445 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 444 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1999-07",
+"grade": null,
 "id": "tl-intl-1999-cometa",
 "label": "COMETA publishes 'Les OVNI et la Défense'",
 "precision": "month",
 "strand": "oversight",
-"text": "A committee of French retired general officers, weapons engineers, an admiral and a national police chief, almost all IHEDN auditors, concludes that the physical reality of unknown flying objects is 'almost certain', that 'a single hypothesis sufficiently takes into account the facts ... the hypothesis of extraterrestrial visitors', and recommends that France 'initiate diplomatic demarches to the United States ... to urge the superpower to collaborate and, if necessary, exert useful pressure'.",
-"tier": 1
+"text": "A committee of French retired general officers, weapons engineers, an admiral and a national police chief, almost all IHEDN auditors, concludes that the physical reality of unknown flying objects is 'almost certain', that 'a single hypothesis sufficiently takes into account the facts ... the hypothesis of extraterrestrial visitors', and recommends that France 'initiate diplomatic demarches to the United States ... to urge the superpower to collaborate and, if necessary, exert useful pressure'."
 }
-]
+],
+"unverified": []
 }

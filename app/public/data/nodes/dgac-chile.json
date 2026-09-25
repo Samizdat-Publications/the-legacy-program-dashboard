@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -102,10 +103,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Dirección General de Aeronáutica Civil is Chile's civil aviation authority, and it is the only such body in the hemisphere to have operated a permanent, publicly acknowledged office for the study of anomalous aerial phenomena for nearly three decades. On 3 October 1997 the DGAC created the Comité de Estudios de Fenómenos Aéreos Anómalos (CEFAA); on 18 October 2021 it reorganised that committee by Resolución Exenta N° 04/3/0113/1385 into the Sección de Estudios de Fenómenos Aéreos Anómalos (SEFAA), placing it under the DGAC's Communications Subdepartment. SEFAA takes case submissions from the public through an official reporting channel, analyses them by declared scientific method with emphasis on audiovisual evidence, and publishes a case database organised by year - the analyses go out, not just the intake. Under General Ricardo Bermúdez, who directed CEFAA from 1997 to 2016, the office released military sensor footage and published its own conclusions on cases it could not resolve. Chile matters to this board as a control case: a state with real air-defence equities ran an open UAP office for twenty-nine years and released classified-origin footage without the consequences the American concealment argument depends on, and Canada's Chief Science Advisor identified it in June 2025 as one of only three national models worth copying alongside AARO and France's GEIPAN.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -116,10 +114,15 @@
 "hl": null,
 "id": "dgac-chile",
 "l0": false,
-"label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil",
 "locLabel": null,
 "members": null,
-"short": "DGAC Chile — Dirección General de Aeronáutica Civil",
+"openQuestions": [],
+"short": "DGAC Chile - Dirección General de Aeronáutica Civil",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -135,5 +138,6 @@
 "sub": "Foreign government agency",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1050 of 1170, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

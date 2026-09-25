@@ -115,11 +115,6 @@
 "tier": 2
 },
 {
-"source": "House Committee on Oversight and Government Reform hearing record; CHRG-119hhrg61718",
-"text": "The hearing was held 9 September 2025 before the House Oversight Task Force on the Declassification of Federal Secrets with witnesses Nuccetelli, Wiggins, Knapp, Borland and Spielberger.",
-"tier": 1
-},
-{
 "source": "House Oversight, Hearing Wrap Up: Government Must Be More Transparent About UAPs, 9 September 2025",
 "text": "The committee's wrap-up found that witnesses face career damage and retaliation, that agencies withheld information, that UAP spending flows to private entities outside FOIA reach, and that personnel lack standardised reporting protocols.",
 "tier": 1
@@ -182,6 +177,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -245,29 +241,13 @@
 "id": "alexandro-wiggins",
 "l0": false,
 "label": "Alexandro Wiggins",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving.",
 "sources": [
 {
 "date": "2025-09-09",
 "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "B",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": "2025",
-"dateStart": "2025",
-"direction": "in",
-"edgeLabel": "First active-duty Navy senior enlisted UAP witness before Congress",
-"id": "alexandro-wiggins",
-"l0": false,
-"label": "Alexandro Wiggins",
-"note": "Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "House Oversight - hearing page, 9 Sept 2025",
@@ -326,15 +306,20 @@
 {
 "claimTier": 1,
 "cls": "person",
-"dateEnd": "2025",
-"dateStart": "2025",
+"dateEnd": null,
+"dateStart": "2025-09-09",
 "direction": "in",
-"edgeLabel": "Chaired the Task Force hearing that seated operator witnesses",
+"edgeLabel": "presiding chairwoman",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "The Task Force on the Declassification of Federal Secrets built the hearing around serving and former operators rather than programme officials.",
 "sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+},
 {
 "date": "2025-09-09",
 "name": "House Oversight - hearing page, 9 Sept 2025",
@@ -343,27 +328,6 @@
 ],
 "tier": "A",
 "type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": null,
-"dateStart": "2025-09-09",
-"direction": "in",
-"edgeLabel": "presiding chairwoman",
-"id": "anna-paulina-luna",
-"l0": false,
-"label": "Anna Paulina Luna",
-"note": "'Hon. Anna Luna, [Chairwoman of the Task Force] presiding.'",
-"sources": [
-{
-"date": "2025-09-09",
-"name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
-"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
 {
 "claimTier": 3,
@@ -422,29 +386,13 @@
 "id": "dylan-borland",
 "l0": false,
 "label": "Dylan Borland",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
 "sources": [
 {
 "date": "2025-09-09",
 "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": "2025",
-"dateStart": "2025",
-"direction": "in",
-"edgeLabel": "Testified before the House Oversight Task Force",
-"id": "dylan-borland",
-"l0": false,
-"label": "Dylan Borland",
-"note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "House Oversight - hearing page, 9 Sept 2025",
@@ -547,29 +495,13 @@
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
 "sources": [
 {
 "date": "2025-09-09",
 "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": "2025",
-"dateStart": "2025",
-"direction": "in",
-"edgeLabel": "Journalist witness at the September 2025 hearing",
-"id": "george-knapp",
-"l0": false,
-"label": "George Knapp",
-"note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "House Oversight - hearing page, 9 Sept 2025",
@@ -651,29 +583,13 @@
 "id": "jeffrey-nuccetelli",
 "l0": false,
 "label": "Jeffrey Nuccetelli",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
 "sources": [
 {
 "date": "2025-09-09",
 "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "B",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": "2025",
-"dateStart": "2025",
-"direction": "in",
-"edgeLabel": "Testified before the House Oversight Task Force",
-"id": "jeffrey-nuccetelli",
-"l0": false,
-"label": "Jeffrey Nuccetelli",
-"note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "House Oversight - hearing page, 9 Sept 2025",
@@ -729,29 +645,13 @@
 "id": "joe-spielberger",
 "l0": false,
 "label": "Joe Spielberger",
-"note": "Listed in the printed hearing record as the minority witness.",
+"note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
 "sources": [
 {
 "date": "2025-09-09",
 "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "C",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": null,
-"dateStart": "2025",
-"direction": "in",
-"edgeLabel": "Minority witness on whistleblower protection architecture",
-"id": "joe-spielberger",
-"l0": false,
-"label": "Joe Spielberger",
-"note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
@@ -1023,18 +923,20 @@
 "deg": 23,
 "denials": [
 {
-"by": {
+"a": {
 "id": "hearing-2025-09-09",
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
 },
+"b": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "Witnesses testified AARO holds unreleased UAP video",
 "note": "The testimony that AARO possesses additional video records is the specific factual basis for Luna's April 2026 letter and, through it, for the video composition of the PURSUE tranches.",
-"of": {
-"id": "aaro",
-"label": "All-domain Anomaly Resolution Office (AARO)"
-},
+"of": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -1050,17 +952,7 @@
 }
 ],
 "desc": "On 9 September 2025 at 10:00 am in HVC-210 the House Oversight Committee's Task Force on the Declassification of Federal Secrets, chaired by Rep. Anna Paulina Luna with Rep. Jasmine Crockett as ranking member, held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'. The witnesses were Jeffrey Nuccetelli, a sixteen-year Air Force veteran who served in security forces at Vandenberg; Senior Chief Petty Officer Alexandro C. Wiggins, an operations specialist aboard USS Jackson (LCS-6); the journalist George Knapp; Dylan Borland, a former Air Force geospatial intelligence specialist; and, as minority witness, Joe Spielberger, senior policy counsel at the Project On Government Oversight. This is the hinge hearing of the modern era because it moved the enquiry from the phenomenon to the machinery. Nuccetelli testified to the 14 October 2003 Vandenberg incidents over missile defence sites, said each incident was 'witnessed by multiple personnel, documented, investigated and reported up the chain of command', stated that 'official Air Force records documenting it are now held by AARO and the FBI', and reported that a witness was threatened and told to keep quiet. Wiggins testified to 15 February 2023, approximately 7:15 pm PST, aboard USS Jackson: four self-luminous Tic-Tac-shaped objects, one emerging from the ocean, holding formation and departing with near-instantaneous acceleration and no propulsion signature or sonic boom, recorded on the ship's Star SAFIRE multi-spectral EO/IR system with timestamped data and reported to the tactical action officer. Knapp gave the most detailed public account yet of AAWSAP and BAASS: prime contractor status, roughly fifty investigators with top secret clearances, 27 months of operation, three dozen preliminary reports, over a hundred research papers, a 240,000-case data warehouse designed by Jacques Vallee that reportedly remains in agency use, and the fact that most of the papers remain unreleased by DIA. He also described James Lacatski's 2023 statement to DHS that the United States possesses a craft of unknown origin whose interior had been accessed, and the incomplete Bigelow-Lockheed material negotiation. Borland described a summer 2012 triangular craft observation at Langley AFB, alleged more than a decade of retaliation including blacklisting and clearance-record manipulation, and stated he had filed complaints with AARO in March 2023 and the Intelligence Community Inspector General in August 2023. The committee's two findings are the ones that matter: agencies withheld information from the Task Force, and UAP-related spending flows to entities outside the reach of the Freedom of Information Act. That second finding is the direct antecedent of Rep. Burlison's FY2027 NDAA amendment adopted on 23 July 2026, which extends disclosure obligations to government contractors. As of 12 August 2026 this remains the most recent congressional hearing devoted to UAP.",
-"domains": [
-"_rs-legislation",
-"aviators-incidents",
-"congress-house",
-"grusch",
-"primes-custody",
-"releases-2023-2026",
-"uaptf-aaro",
-"w2-2025-2026",
-"w2-places-events"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -1305,7 +1197,19 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Task Force hearing, 9 Sep 2025",
+"sourceFiles": [
+"_rs-legislation",
+"aviators-incidents",
+"congress-house",
+"grusch",
+"primes-custody",
+"releases-2023-2026",
+"uaptf-aaro",
+"w2-2025-2026",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2025-04-11",
@@ -1375,97 +1279,108 @@
 ],
 "sub": "congressional-hearings",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 13 of 1170, score 117). 33 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 30 of 1170, score 93). 27 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-02-19",
+"grade": "B",
 "id": "av-2025-02-19",
 "label": "Luna task force declassification push",
 "precision": "day",
 "strand": "oversight",
-"text": "The House Oversight Task Force on the Declassification of Federal Secrets lists UAP and unidentified submerged objects among its declassification priorities and requests an administration update.",
-"tier": "B"
+"text": "The House Oversight Task Force on the Declassification of Federal Secrets lists UAP and unidentified submerged objects among its declassification priorities and requests an administration update."
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "av-2025-09-09",
 "label": "Operators testify: Wiggins, Nuccetelli, Borland, Knapp",
 "precision": "day",
 "strand": "oversight",
-"text": "The Task Force hearing seats an active-duty Navy senior chief describing a sensor-recorded encounter, two Air Force veterans, and a journalist. Wiggins: 'that is first and foremost a safety issue.'",
-"tier": "A"
+"text": "The Task Force hearing seats an active-duty Navy senior chief describing a sensor-recorded encounter, two Air Force veterans, and a journalist. Wiggins: 'that is first and foremost a safety issue.'"
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "ch-2025-09-09a",
 "label": "Third House UAP hearing",
 "precision": "day",
 "strand": "oversight",
-"text": "The Task Force hears Nuccetelli, Wiggins, Knapp, Borland and Spielberger in HVC-210; Biggs, Begich, Ogles, Titus and Moskowitz are waived on.",
-"tier": "A"
+"text": "The Task Force hears Nuccetelli, Wiggins, Knapp, Borland and Spielberger in HVC-210; Biggs, Begich, Ogles, Titus and Moskowitz are waived on."
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "g-tl-2025-09-hearing",
 "label": "Task Force hearing on UAP transparency and whistleblower protection",
 "precision": "day",
 "strand": "oversight",
-"text": "Crane enters the reprisal letter into the record; George Knapp tells the Task Force from the witness table that extra-legal reprisals against Grusch were occurring in recent days; Nancy Mace states his medical information was leaked to discredit him. Grusch attends but does not testify.",
-"tier": "A"
+"text": "Crane enters the reprisal letter into the record; George Knapp tells the Task Force from the witness table that extra-legal reprisals against Grusch were occurring in recent days; Nancy Mace states his medical information was leaked to discredit him. Grusch attends but does not testify."
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "pc-2025-09-hearing",
 "label": "Lockheed Martin named on the record, with an executive",
 "precision": "day",
 "strand": "witness",
-"text": "George Knapp testifies that Bigelow negotiated with senior Lockheed Martin executives for material held in California that 'was not made here'; tells Rep. Burchett that Lockheed is one of the holders and offers a list; and names Dr. James Ryder at Lockheed and Glenn Gaffney of CIA as gatekeepers.",
-"tier": "A"
+"text": "George Knapp testifies that Bigelow negotiated with senior Lockheed Martin executives for material held in California that 'was not made here'; tells Rep. Burchett that Lockheed is one of the holders and offers a list; and names Dr. James Ryder at Lockheed and Glenn Gaffney of CIA as gatekeepers."
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "rel-2025-09-09",
 "label": "The hinge hearing",
 "precision": "day",
 "strand": "oversight",
-"text": "Luna's Task Force hears Nuccetelli, Wiggins, Knapp and Borland; the committee finds agencies withheld information and that UAP spending flows to entities outside FOIA reach. Witnesses say AARO holds unreleased video.",
-"tier": "A"
+"text": "Luna's Task Force hears Nuccetelli, Wiggins, Knapp and Borland; the committee finds agencies withheld information and that UAP spending flows to entities outside FOIA reach. Witnesses say AARO holds unreleased video."
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "tl-2025-09-09-hearing",
 "label": "Task Force on the Declassification of Federal Secrets holds its UAP whistleblower hearing",
 "precision": "day",
 "strand": "program",
-"text": "Chairwoman Anna Paulina Luna convenes 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' in HVC-210 with witnesses Nuccetelli, Wiggins, Knapp, Borland and minority witness Spielberger. Rep. Crane submits a letter to the Secretary of Defense on the Grusch reprisal. Printed as Serial No. 119-44 (CHRG-119hhrg61718).",
-"tier": "A"
+"text": "Chairwoman Anna Paulina Luna convenes 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' in HVC-210 with witnesses Nuccetelli, Wiggins, Knapp, Borland and minority witness Spielberger. Rep. Crane submits a letter to the Secretary of Defense on the Grusch reprisal. Printed as Serial No. 119-44 (CHRG-119hhrg61718)."
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "tl-2025-hinge",
 "label": "The Task Force turns to the machinery",
 "precision": "day",
 "strand": "oversight",
-"text": "Nuccetelli, Wiggins, Knapp and Borland testify. The committee finds agencies withheld information and that UAP spending flows to entities outside FOIA reach. Nuccetelli names AARO and the FBI as custodians of Vandenberg records.",
-"tier": "A"
+"text": "Nuccetelli, Wiggins, Knapp and Borland testify. The committee finds agencies withheld information and that UAP spending flows to entities outside FOIA reach. Nuccetelli names AARO and the FBI as custodians of Vandenberg records."
 },
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "tl-hearing-2025-09-09",
 "label": "House Task Force hearing on UAP transparency",
 "precision": "day",
 "strand": "witness",
-"text": "Nuccetelli, Wiggins, Knapp and Borland testify. Wiggins is the first active-duty Navy official to do so publicly. Borland describes retaliation. Witnesses tell the Task Force AARO holds additional video records. Burlison presents drone-versus-orb footage from Yemen.",
-"tier": "A"
+"text": "Nuccetelli, Wiggins, Knapp and Borland testify. Wiggins is the first active-duty Navy official to do so publicly. Borland describes retaliation. Witnesses tell the Task Force AARO holds additional video records. Burlison presents drone-versus-orb footage from Yemen."
 },
 {
+"claimTier": 1,
 "date": "2025-09-09",
+"grade": null,
 "id": "tl-hearing-20250909",
 "label": "House Oversight Task Force hears five UAP witnesses",
 "precision": "day",
 "strand": "oversight",
-"text": "Nuccetelli, Wiggins, Knapp, Borland and Spielberger testify in HVC-210. Rep. Burlison plays previously unseen video of an MQ-9 firing a Hellfire missile at a high-speed orb off Yemen in October 2024; the object appears struck and not destroyed.",
-"tier": "1"
+"text": "Nuccetelli, Wiggins, Knapp, Borland and Spielberger testify in HVC-210. Rep. Burlison plays previously unseen video of an MQ-9 firing a Hellfire missile at a high-speed orb off Yemen in October 2024; the object appears struck and not destroyed."
 }
-]
+],
+"unverified": []
 }

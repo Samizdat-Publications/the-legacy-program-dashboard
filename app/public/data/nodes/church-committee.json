@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -192,18 +193,20 @@
 "deg": 7,
 "denials": [
 {
-"by": {
+"a": {
 "id": "church-committee",
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)"
 },
+"b": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Named by the committee as having limited its access to the full record",
 "note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege.",
-"of": {
-"id": "cia",
-"label": "Central Intelligence Agency"
-},
+"of": null,
 "sources": [
 {
 "date": "1976-04-26",
@@ -214,9 +217,7 @@
 }
 ],
 "desc": "The only thorough congressional investigation ever made of the United States intelligence system, and the benchmark this board's oversight view has lacked. Eleven senators, a hundred staff, more than eight hundred interviews and over a hundred and ten thousand pages of documents. It is carried here for what its own final report concedes rather than for what it achieved: that it never once examined an agency's files on its own, that the CIA and other executive agencies limited its access to the record, and that three chapters of its published findings, including the chapter on budgetary oversight, were deleted at the request of the agencies it was investigating. Two Michels-corpus speakers who agree on almost nothing else, Michael Shellenberger and Mick West, each name the committee as the template for a successful congressional penetration of a compartmented programme. The committee's own report says the penetration was mediated throughout, and that is the finding.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -304,7 +305,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Church Committee (Senate, 1975-76)",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1976-04-26",
@@ -314,16 +319,18 @@
 ],
 "sub": "Established by S. Res. 21, 27 January 1975; final report S. Rept. 94-755, six books, 1976",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 212 of 1170, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 211 of 1170, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1976-04-26",
+"grade": "A",
 "id": "tl-1976-04-26-church-report-book-i",
 "label": "Church Committee files Book I and records that it never examined an agency file itself",
 "precision": "day",
 "strand": "oversight",
-"text": "Senate Report 94-755, Book I, Foreign and Military Intelligence, is filed. Its section on the obstacles the committee met states that despite its legal Senate mandate and the issuance of subpoenas, in no instance had the committee been able to examine the agencies' files on its own. Its publication note records that three chapters, Cover, Espionage and Budgetary Oversight, were deleted at the request of the agencies.",
-"tier": "A"
+"text": "Senate Report 94-755, Book I, Foreign and Military Intelligence, is filed. Its section on the obstacles the committee met states that despite its legal Senate mandate and the issuance of subpoenas, in no instance had the committee been able to examine the agencies' files on its own. Its publication note records that three chapters, Cover, Espionage and Budgetary Oversight, were deleted at the request of the agencies."
 }
-]
+],
+"unverified": []
 }

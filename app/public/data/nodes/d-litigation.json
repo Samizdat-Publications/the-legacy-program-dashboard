@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Litigation is the only mechanism on this board that can compel a sworn answer from an unwilling government witness, which is why so much effort has gone into it and why the results are so thin. The canonical run is Citizens Against UFO Secrecy v. NSA, in which a FOIA suit reached the D.C. Circuit and the Supreme Court denied certiorari in March 1982, leaving intact NSA's refusal to release the substance of its holdings on the strength of a classified affidavit the plaintiffs never saw. CAUS returned to court against the Department of Defense and reached the Ninth Circuit in 2001. The other documented route is the tort claim: Betty Cash, Vickie Landrum and Colby Landrum sued the United States in the Southern District of Texas over injuries they attributed to a December 1980 encounter, and the case was dismissed in August 1986 on the government's showing that no such craft was operated by any agency. Both patterns illustrate the ceiling - a court will not order the production of a thing the government swears does not exist, and the swearing is itself unreviewable in practice. Scoring high on this domain means an entity brought, defended or decided such a case.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -109,7 +108,11 @@
 "label": "Litigation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Litigation",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "1981-11-03",
@@ -130,5 +133,6 @@
 "sub": "Adversarial domain - the courtroom as a discovery instrument, and its documented ceiling",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 893 of 1170, score 19). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

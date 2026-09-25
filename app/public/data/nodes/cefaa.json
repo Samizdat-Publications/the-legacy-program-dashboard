@@ -97,6 +97,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -107,7 +108,7 @@
 "edgeLabel": "created and housed by the DGAC",
 "id": "dgac-chile",
 "l0": false,
-"label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil",
 "note": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.",
 "sources": [
 {
@@ -324,10 +325,7 @@
 "deg": 9,
 "denials": [],
 "desc": "Chile's UAP office exists because pilots kept reporting things and a civil aviation authority decided that was an aviation-safety matter rather than an embarrassment. That framing - not disclosure, not exobiology, but the safety of air operations in 32 million square kilometres of airspace - is what has kept it alive for nearly thirty years and what makes it the South American counterweight on this board.\n\nThe prehistory runs back to 1968. Anomalous aerial phenomena were first reported officially in Chile at the old Oficina Meteorológica de Chile in the Quinta Normal aeronautical complex in Santiago, where the director, Aviation Colonel Sergio Bravo Flores, began collecting reports and led the Comisión Chilena para Estudios de Fenómenos Espaciales No Identificados, formed with the support of the Sociedad Científica de Chile. Bravo's first act, on 9 July 1968, was to circulate 43 aeronautical installations from Arica to the Chilean Antarctic asking for reports. The commission - a meteorologist from Línea Aérea Nacional, an engineer, a physician, a doctor of physical and mathematical sciences, a Chilean Air Force lieutenant seconded to the aeronautics directorate, and several engineers - stated its object as establishing 'with all seriousness the true causes' of the matter. In seven years it gathered around a dozen reports, some of which were forwarded to the University of Colorado, where the panel later known as the Condon Committee was at work. It wound up in 1975 when Bravo retired.\n\nThe modern office was created twenty-two years later. A wave of sightings reported over Arica in the last days of March and first days of April 1997, together with the expressed interest of the former Commander-in-Chief of the Chilean Air Force, General del Aire Ramón Vega Hidalgo, moved the Director General of Civil Aeronautics, Aviation General Gonzalo Miranda Aguirre, to create the Comité de Estudios de Fenómenos Aéreos Anómalos on 3 October 1997, by Resolución Exenta N° 01599. The resolution sited the committee at the Escuela Técnica Aeronáutica in Quinta Normal, Santiago, and on 14 October 1997 the school's director, Colonel Enzo Di Nocera García, set out its organisation and operating basis and named its members: himself as head, air traffic controller Gustavo Rodríguez Navarro, and the heads of the air traffic and meteorology areas as consultants, with ETA specialists and external organisations convened as needed. In practice Rodríguez Navarro carried the office's work through its early years.\n\nThe institutional history is not a straight line, and the dossier is stronger for saying so. Di Nocera led the committee until 1998, when Air Brigade General Ricardo Bermúdez Sanhueza took over the ETA and with it CEFAA, running it to February 2002. Air Brigade General Hernán Henríquez Cobaise took the directorship in March 2002 and held it to 31 March 2008, and the DGAC's own account describes the period from March 2002 to March 2008 as 'una etapa de latencia' - a dormancy. On 15 December 2009, by Resolución N° 02/0/01937, Director General José Huepe Pérez ordered the committee to operate from 1 January 2010 reporting directly to the Secretaría General, detaching it from the ETA and putting its members on permanent, exclusively investigative postings. Bermúdez returned to the directorship in 2009 and served to 2016; Hugo Camus Palacios succeeded him. On 18 October 2021, Resolución Exenta N° 04/3/0113/1385 repealed the 1997 resolution and renamed the office the Sección de Estudios de Fenómenos Aéreos Anómalos, moving it under the DGAC's Subdepartamento Comunicacional. It is now based at Av. Pedro Aguirre Cerda 5100, Cerrillos, Santiago.\n\nIts remit is defined by airspace, not by belief. SEFAA's mission is to support the safety of air operations in the national territory and in the airspace of DGAC responsibility, which extends across 32 million square kilometres from Arica in the north, between 120° and 131° west, to the South Pole. Its principal source is pilot reports - military, commercial, private, sport and institutional - supplemented by public reports, and it explicitly reserves the right to select which material is investigable. Investigations are grounded in the scientific method and depend heavily on audiovisual records. A digital case database was created in 2018; by September 2021 the office had received 1,675 cases in total, with 362 arriving in 2020 alone, nearly a 300% jump on prior years, and 300 more by September 2021. Since 2020 investigated and resolved cases have been published on the office's website, with reports made available to the public quarterly, and resolved-case pages remain live by year through 2026. The permanent staff is small - in 2018 the committee comprised its director and two investigators - but it draws on an external research committee of astronomers, geographers, physicists, psychologists, a nuclear chemist, aerospace medicine specialists, air traffic controllers, a meteorologist, aeronautical investigators, inspector pilots, aeronautical engineers, image analysts and armed forces representatives. On its 24th anniversary the DGAC described CEFAA as 'uno de los organismos públicos más antiguos del continente' and as leading a transparency model comparable, allowing for the difference in human and budgetary resources, to a European government body.\n\nIts most visible case is the Chilean Navy footage of 11 November 2014, in which an Airbus Cougar AS-532 helicopter crew recorded roughly ten minutes of infrared video of an object off the coast west of Santiago. CEFAA investigated for over two years and released the footage with an official report in January 2017; Bermúdez, who had directed the investigation, summarised the outcome as knowing what it was not rather than what it was. The case is also the clearest documented instance of European-South American technical cooperation on UAP: photo and video analysts in France, including François Louange, were brought in through GEIPAN, and GEIPAN's analysts proposed a mundane explanation - a medium-haul aircraft venting - that CEFAA rejected. Independent analysts subsequently matched the timestamps and geometry to scheduled flights. The disagreement is the point: two state UAP offices on different continents worked the same tape, reached different conclusions, and both published.\n\nThat visibility is now institutional. Canada's Office of the Chief Science Advisor, designing a national UAP reporting system in 2025, described SEFAA as one of only three national models worth examining alongside the United States and France, and recommended that Canada's lead organisation establish partnerships with AARO and NASA, GEIPAN and SEFAA.",
-"domains": [
-"w2-international",
-"w6-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -422,7 +420,7 @@
 {
 "cls": "institution",
 "id": "dgac-chile",
-"label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil",
 "tier": "C"
 },
 {
@@ -462,7 +460,17 @@
 "tier": "C"
 }
 ],
+"openQuestions": [
+"The full text of Resolución Exenta N° 01599 (3 October 1997) and Resolución Exenta N° 04/3/0113/1385 (18 October 2021) has not been located online; both are described in detail on DGAC and SEFAA pages but neither PDF is published there.",
+"The DGAC page states CEFAA publishes resolved cases quarterly; Canada's 2025 report states SEFAA publishes monthly reports. Both are cited; the cadence may have changed after 2021.",
+"CEFAA/SEFAA's annual budget and current headcount are not published.",
+"The official CEFAA report on the 11 November 2014 Navy footage has not been retrieved in full; the characterisation above rests on press accounts of its release."
+],
 "short": "CEFAA / SEFAA",
+"sourceFiles": [
+"w2-international",
+"w6-international"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -522,25 +530,28 @@
 ],
 "sub": "Chilean civil aviation UAP office, 1997-present (renamed SEFAA 2021)",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 90 of 1170, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 91 of 1170, score 67). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1997-10-03",
+"grade": null,
 "id": "tl-intl-1997-cefaa",
 "label": "CEFAA created in Chile",
 "precision": "day",
 "strand": "program",
-"text": "Gonzalo Miranda Aguirre, Director of Chile's Dirección General de Aeronáutica Civil, creates the Comité de Estudios de Fenómenos Aéreos Anómalos after a sighting wave over Arica and the expressed interest of the former Air Force Commander-in-Chief. Ricardo Bermúdez takes the directorship and holds it until 2016.",
-"tier": 1
+"text": "Gonzalo Miranda Aguirre, Director of Chile's Dirección General de Aeronáutica Civil, creates the Comité de Estudios de Fenómenos Aéreos Anómalos after a sighting wave over Arica and the expressed interest of the former Air Force Commander-in-Chief. Ricardo Bermúdez takes the directorship and holds it until 2016."
 },
 {
+"claimTier": 1,
 "date": "2021-10-18",
+"grade": null,
 "id": "tl-intl-2021-sefaa",
 "label": "CEFAA becomes SEFAA",
 "precision": "day",
 "strand": "program",
-"text": "By Resolución Exenta N° 04/3/0113/1385 the Chilean office is moved in the DGAC organisation chart to the Subdepartamento Comunicacional and renamed the Sección de Estudios de Fenómenos Aéreos Anómalos.",
-"tier": 1
+"text": "By Resolución Exenta N° 04/3/0113/1385 the Chilean office is moved in the DGAC organisation chart to the Subdepartamento Comunicacional and renamed the Sección de Estudios de Fenómenos Aéreos Anómalos."
 }
-]
+],
+"unverified": []
 }

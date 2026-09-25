@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -119,9 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "UAPx is a small research organisation built by working experimental physicists to do the one thing the field has almost never done: go into the field with calibrated multi-band instrumentation, record everything including the negatives, and publish the protocol. Matthew Szydagis, a liquid-xenon dark-matter physicist at the University at Albany, and Kevin Knuth, a former NASA Ames scientist and Entropy editor, conducted the first UAPx expedition off Catalina Island, California, and published 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena' in Progress in Aerospace Sciences volume 156, article 101099, in June 2025, with Benjamin Kugielsky and Cecilia Levy. The paper's value lies in its transparency about instrumentation limits, background rates and false positives - the discipline that comes from a career in an experiment whose principal output is upper limits. In June 2026 Szydagis was named to the UAP Science Advisory Council in the instrumentation and data-collection role, which means the government's outside science body drew its detector expertise from a self-funded civil expedition group rather than from a national laboratory.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -135,7 +134,11 @@
 "label": "UAPx",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "UAPx",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2025-06-01",
@@ -156,5 +159,6 @@
 "sub": "Instrumented field-expedition organisation co-founded by Matthew Szydagis and Kevin Knuth",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 889 of 1170, score 19). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

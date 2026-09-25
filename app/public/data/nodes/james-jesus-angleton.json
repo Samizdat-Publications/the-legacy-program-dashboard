@@ -106,9 +106,7 @@
 "dateStart": "1955-12-07",
 "deg": 3,
 "denials": [],
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -128,6 +126,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "James Jesus Angleton",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1976-04-23",

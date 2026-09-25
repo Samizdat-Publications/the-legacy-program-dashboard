@@ -156,15 +156,20 @@
 {
 "claimTier": 1,
 "cls": "event",
-"dateEnd": "2024",
-"dateStart": "2024",
-"direction": "in",
-"edgeLabel": "Chaired the joint subcommittee hearing",
+"dateEnd": null,
+"dateStart": "2024-11-13",
+"direction": "out",
+"edgeLabel": "presiding chair; entered Immaculate Constellation into the record",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Joint hearing of the Cybersecurity/IT/Government Innovation and National Security/Border/Foreign Affairs subcommittees, with Rep. Glenn Grothman co-chairing.",
 "sources": [
+{
+"date": "2024-11-13",
+"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+},
 {
 "date": "2024-11-13",
 "name": "Congress.gov — House event 117721",
@@ -173,27 +178,6 @@
 ],
 "tier": "A",
 "type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": null,
-"dateStart": "2024-11-13",
-"direction": "out",
-"edgeLabel": "presiding chair; entered Immaculate Constellation into the record",
-"id": "hearing-2024-11-13",
-"l0": true,
-"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
-"note": "INDEX OF DOCUMENTS: 'Report, Pentagon, \"Immaculate Constellation\"; submitted by Rep. Mace.'",
-"sources": [
-{
-"date": "2024-11-13",
-"name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
-"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
 {
 "claimTier": 1,
@@ -416,6 +400,14 @@
 "deg": 11,
 "denials": [
 {
+"a": {
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"b": {
+"id": "ken-klippenstein",
+"label": "Ken Klippenstein"
+},
 "by": {
 "id": "nancy-mace",
 "label": "Nancy Ruth Mace"
@@ -438,10 +430,9 @@
 }
 ],
 "domains": [
-"_rs-legislation",
-"congress-house",
-"grusch",
-"primes-custody"
+"d-oversight",
+"d-coverup",
+"d-custody"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -462,6 +453,12 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Nancy Ruth Mace",
+"sourceFiles": [
+"_rs-legislation",
+"congress-house",
+"grusch",
+"primes-custody"
+],
 "sources": [
 {
 "date": "2024-11-13",
@@ -512,16 +509,17 @@
 "status": "active",
 "sub": "U.S. Rep. (R-SC-1); chaired the 13 Nov 2024 UAP hearing",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 108 of 1170, score 60). 13 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 121 of 1170, score 56). 12 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-11-13",
+"grade": "A",
 "id": "ch-2024-11-13c",
 "label": "'You'll be on some list'",
 "precision": "day",
 "strand": "coverup",
-"text": "Luna warns Mace from the dais that saying 'Immaculate Constellation' aloud will put her on a list. Mace says it anyway.",
-"tier": "A"
+"text": "Luna warns Mace from the dais that saying 'Immaculate Constellation' aloud will put her on a list. Mace says it anyway."
 }
 ],
 "unexplainedResidual": "A sworn witness offered Congress a named list of cooperative and hostile individuals inside an alleged illegal program. Three years later there is no public evidence the list was ever acted on.",

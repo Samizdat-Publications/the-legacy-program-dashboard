@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -129,6 +130,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "nj-drone-incursions-2024",
+"label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)"
+},
+"b": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
 "by": {
 "id": "dod",
 "label": "United States Department of Defense (secondary designation: Department of War)"
@@ -151,9 +160,7 @@
 }
 ],
 "desc": "From mid-November into December 2024 a wave of nocturnal drone sightings over New Jersey and neighbouring states produced more than 5,000 reports to the FBI and a political crisis. On 17 December 2024 the Department of Defense, Department of Homeland Security, FBI and FAA issued a joint statement: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.' Officials said they had run down about 100 specific leads and found 'commercial drones, hobbyist drones, and law enforcement drones, as well as manned fixed-wing aircraft, helicopters, and stars mistakenly reported as drones.' Two features make this a coverup-strand item rather than a debunking. First, the same assessment conceded 'limited' sightings over military facilities in restricted airspace, contradicting earlier White House statements that there had been none. Second, it landed while Wright-Patterson Air Force Base had closed its airspace for nearly four hours on 14-15 December over unauthorized drone activity. A four-agency statement that resolves 100 of 5,000 reports and generalises the result to all of them is not an investigation finding; it is a communications posture, and it is recorded here as one.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -167,7 +174,11 @@
 "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2024-12-17",
@@ -187,34 +198,38 @@
 ],
 "sub": "Mass sighting wave; four-agency joint denial",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 536 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 530 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-12-10",
+"grade": "A",
 "id": "av-2024-12-10",
 "label": "New Jersey drone wave peaks",
 "precision": "day",
 "strand": "witness",
-"text": "Nocturnal drone sightings across New Jersey and neighbouring states generate more than 5,000 reports to the FBI.",
-"tier": "A"
+"text": "Nocturnal drone sightings across New Jersey and neighbouring states generate more than 5,000 reports to the FBI."
 },
 {
+"claimTier": null,
 "date": "2024-12-14",
+"grade": "A",
 "id": "av-2024-12-14",
 "label": "Wright-Patterson closes its airspace",
 "precision": "day",
 "strand": "witness",
-"text": "The base closes airspace for nearly four hours over unauthorized drone activity, days before the federal statement that nothing anomalous had been identified.",
-"tier": "A"
+"text": "The base closes airspace for nearly four hours over unauthorized drone activity, days before the federal statement that nothing anomalous had been identified."
 },
 {
+"claimTier": null,
 "date": "2024-12-17",
+"grade": "A",
 "id": "av-2024-12-17",
 "label": "Four-agency joint denial",
 "precision": "day",
 "strand": "coverup",
-"text": "DoD, DHS, FBI and FAA: 'We have not identified anything anomalous.' About 100 of more than 5,000 reports were run down and attributed to commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars.",
-"tier": "A"
+"text": "DoD, DHS, FBI and FAA: 'We have not identified anything anomalous.' About 100 of more than 5,000 reports were run down and attributed to commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars."
 }
-]
+],
+"unverified": []
 }

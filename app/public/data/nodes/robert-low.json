@@ -122,8 +122,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"history-1940s-1960s",
-"w16-thin-people"
+"d-legacy",
+"d-coverup",
+"d-psyop"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -144,6 +145,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Robert J. Low",
+"sourceFiles": [
+"history-1940s-1960s",
+"w16-thin-people"
+],
 "sources": [
 {
 "date": "2025-07-12",
@@ -174,7 +179,7 @@
 "status": "dead",
 "sub": "Project coordinator, Colorado UFO Project",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 710 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 709 of 1170, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

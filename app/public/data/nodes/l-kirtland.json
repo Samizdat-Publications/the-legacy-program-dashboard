@@ -42,6 +42,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -294,10 +295,7 @@
 "deg": 10,
 "denials": [],
 "desc": "Kirtland Air Force Base occupies 51,558 acres in the southeast quadrant of Albuquerque, sharing runways with the Albuquerque International Sunport. It began as three private airfields, was taken over as Albuquerque Army Air Base in 1941, renamed Kirtland Army Air Field on 24 February 1942 for Col. Roy C. Kirtland, and became Kirtland Air Force Base on 13 January 1948 - the same day as Wright-Patterson. Its relevance is that it is the single densest concentration of nuclear-weapons and directed-energy infrastructure in the United States sitting inside a city: Sandia National Laboratories, descended from the Manhattan Project's Z Division, is adjacent; the Air Force Nuclear Weapons Center and the 377th Air Base Wing are hosted here; the Air Force Research Laboratory Directed Energy Directorate runs the laser and high-power microwave portfolio here; the Manzano Base weapons storage complex, tunnelled into the Manzano Mountains on the base's eastern edge, merged administratively with Kirtland on 1 July 1971; and the Kirtland Underground Munitions Maintenance and Storage Complex, activated in 1992, is described in the base's own literature as the largest nuclear weapons storage facility in the world, with more than 300,000 square feet underground. Kirtland is also the operational address of the best-documented domestic UAP-adjacent counterintelligence operation on the record. Albuquerque businessman Paul Bennewitz, whose company Thunder Scientific sat on the base perimeter and sold humidity sensors licensed from Sandia in 1966, began a self-funded study in July 1979, filmed lights over the Manzano storage area and recorded anomalous signals, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980. What followed was a sustained feed of fabricated material through the Air Force Office of Special Investigations detachment here, later admitted in public by AFOSI special agent Richard C. Doty and by UFO researcher William Moore, who stated on 1 July 1989 that he had participated in an effort to push Bennewitz toward a breakdown by feeding him false information. Bennewitz was hospitalised in August 1988 and died on 23 June 2003. The Bennewitz operation is the board's clearest evidence that counterintelligence resources were deployed against a private citizen over UAP-adjacent observations at a nuclear site, and Kirtland is where it happened.",
-"domains": [
-"dulce-2026-09-19",
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The Bennewitz operation is the best-documented instance in the American record of counterintelligence resources being deployed against a private citizen over UAP-adjacent observations, and both principal participants have admitted it. William Moore stated publicly on 1 July 1989 that he had attempted to push Bennewitz into a mental breakdown by feeding him false information; AFOSI special agent Richard C. Doty has said he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz; and a 1992 article held in the CIA library names both men. The material fed to Bennewitz - underground bases, alien-government agreements, the Dulce mythos - became load-bearing folklore that has contaminated the field for four decades. The stimulus that started it, the lights and signals Bennewitz recorded over the Manzano nuclear weapons storage area in 1979-1980, has never received an official explanation.",
@@ -314,7 +312,12 @@
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "locLabel": "Kirtland AFB, New Mexico, USA",
 "members": null,
+"openQuestions": [],
 "short": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"sourceFiles": [
+"dulce-2026-09-19",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -339,25 +342,28 @@
 ],
 "sub": "51,558-acre USAF installation, southeast Albuquerque; AFRL Directed Energy, AFNWC, Manzano, KUMMSC, Sandia",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 178 of 1170, score 48). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 177 of 1170, score 48). 11 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1979-07-01",
+"grade": "A",
 "id": "tl-1979-bennewitz",
 "label": "Bennewitz begins his Manzano study",
 "precision": "month",
 "strand": "witness",
-"text": "The Albuquerque businessman starts a self-funded study of lights and signals over the Kirtland/Manzano nuclear weapons storage area. He contacts the base 24 October 1980 and briefs officials 10 November 1980.",
-"tier": "A"
+"text": "The Albuquerque businessman starts a self-funded study of lights and signals over the Kirtland/Manzano nuclear weapons storage area. He contacts the base 24 October 1980 and briefs officials 10 November 1980."
 },
 {
+"claimTier": null,
 "date": "1989-07-01",
+"grade": "A",
 "id": "tl-1989-moore",
 "label": "Moore admits the Bennewitz deception",
 "precision": "day",
 "strand": "coverup",
-"text": "William Moore states publicly that he attempted to push Bennewitz toward a breakdown by feeding him false information. Bennewitz had been hospitalised in August 1988; he dies 23 June 2003.",
-"tier": "A"
+"text": "William Moore states publicly that he attempted to push Bennewitz toward a breakdown by feeding him false information. Bennewitz had been hospitalised in August 1988; he dies 23 June 2003."
 }
-]
+],
+"unverified": []
 }

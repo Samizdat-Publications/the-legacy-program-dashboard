@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -84,7 +85,7 @@
 "edgeLabel": "named as an appropriate committee",
 "id": "iaa-fy2024-7343",
 "l0": true,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' for this section as the Senate Select Committee on Intelligence, the Senate Armed Services Committee and Senate Appropriations, together with HPSCI, HASC and House Appropriations. SASC is therefore one of the six bodies to which a UAP-related programme must be reported before intelligence funds may be spent on it.",
 "sources": [
 {
@@ -239,9 +240,7 @@
 "deg": 9,
 "denials": [],
 "desc": "SASC controls the only vehicle the UAP Disclosure Act has ever ridden, and it has never once reported it. Every version of the Act — 2023, 2024 and the announced 2026 attempt — has been a floor amendment to a SASC bill rather than a product of the committee, which means the Act has never had a committee report, a markup record, or a set of members professionally invested in defending it in conference. The committee's own posture has moved from permissive to exclusionary: under Chairman Reed the FY2024 bill carried Division G into the engrossed text; under Chairman Wicker the FY2026 bill carried a three-section housekeeping subtitle and the FY2027 bill, S. 4784, carries nothing. SASC also holds one of the two sets of committees to which every enacted UAP provision reports — Secs. 1687, 7343, 1683(l) briefings and Sec. 1841(e) oversight all route through it — so it is simultaneously the body that excluded the disclosure regime from its bills and the body designated to receive whatever disclosure the surviving statutes produce.",
-"domains": [
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -382,7 +381,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "Senate Armed Services Committee",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -397,6 +400,7 @@
 ],
 "sub": "Committee of jurisdiction over the NDAA vehicle",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 437 of 1170, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 436 of 1170, score 33). 9 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"timeline": [],
+"unverified": []
 }

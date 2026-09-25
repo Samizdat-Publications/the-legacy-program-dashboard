@@ -57,6 +57,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -153,6 +154,27 @@
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "DIRD",
+"id": "dird-series",
+"l0": true,
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "series member",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
@@ -256,12 +278,7 @@
 "deg": 6,
 "denials": [],
 "desc": "DIA Defense Intelligence Reference Document (Acquisition Threat Support series), 2010-04-02, DIA-08-1004-001, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"propulsion-2026-09-19",
-"w7-dirds-4"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -322,7 +339,14 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "DIA: Warp Drive and Dark Energy",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"propulsion-2026-09-19",
+"w7-dirds-4"
+],
 "sources": [
 {
 "date": "2010-04-02",
@@ -372,16 +396,18 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 278 of 1170, score 40). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 264 of 1170, score 41). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2010-04-02",
+"grade": "B",
 "id": "tl-2010-04-02-dird-warp-drive",
 "label": "DIA's warp DIRD is issued, tabulating the requirement at -10^42 J for light speed",
 "precision": "day",
 "strand": "program",
-"text": "DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', ICOD 1 December 2009, 34 pages as released. Its Table 3, after the reduction it argues for, gives -1.00 x 10^42 J at light speed and -4.00 x 10^42 J at twice light speed; its Table 2 gives -3.03 x 10^50 J at light speed. Its reference 1 is Alcubierre 1994.",
-"tier": "B"
+"text": "DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', ICOD 1 December 2009, 34 pages as released. Its Table 3, after the reduction it argues for, gives -1.00 x 10^42 J at light speed and -4.00 x 10^42 J at twice light speed; its Table 2 gives -3.03 x 10^50 J at light speed. Its reference 1 is Alcubierre 1994."
 }
-]
+],
+"unverified": []
 }

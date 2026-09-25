@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -218,18 +219,20 @@
 "deg": 8,
 "denials": [
 {
-"by": {
+"a": {
 "id": "defense-support-program",
 "label": "Defense Support Program (DSP) missile early warning satellites"
 },
+"b": {
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
 "note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
-"of": {
-"id": "norad-northcom",
-"label": "NORAD and US Northern Command"
-},
+"of": null,
 "sources": [
 {
 "date": "2013-12-06",
@@ -240,10 +243,7 @@
 }
 ],
 "desc": "The command responsible for detecting and defeating air threats to North America, and the institution whose public statements since 2023 constitute the government's most damaging admissions on the observational record. NORAD counted more than 600 drone reports above US military installations since 2022. Its commander since February 2024, Gen. Gregory Guillot, made counter-UAS the centrepiece of a 90-day assessment driven by the Langley incursions, established the Falcon Peak counter-drone demonstration series, and stated on the record that he knew of no 'organized or unorganized foreign nexus' to Langley. In February 2023 NORAD-controlled fighters destroyed three unidentified objects over Alaska, the Yukon and Lake Huron in four days, none of which were recovered intact and two of which an allied government's own Secret memorandum described as unverified as to function and propulsion. By March 2026 Guillot confirmed detections over installations had increased year on year with roughly a quarter defeated. A homeland air defence command that cannot attribute persistent intrusions over its own bomber and fighter bases is the strongest available argument that the observational record is a live national-security problem rather than a historical curiosity.",
-"domains": [
-"_rs-archive-mirror",
-"aviators-incidents"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -324,7 +324,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "NORAD and US Northern Command",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -345,5 +350,6 @@
 "sub": "Homeland air defence combatant command",
 "tier": "B",
 "tierRationale": "Re-graded B on a global pass (rank 454 of 1170, score 32). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

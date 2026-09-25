@@ -343,8 +343,11 @@
 "deg": 9,
 "denials": [],
 "domains": [
-"history-1970s-2000s",
-"scientists-technical"
+"d-research",
+"d-exotic",
+"d-materials",
+"d-custody",
+"d-legacy"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -365,6 +368,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jacques F. Vallee",
+"sourceFiles": [
+"history-1970s-2000s",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2025-10-25",

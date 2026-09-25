@@ -27,6 +27,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -119,9 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "This node is the ground, kept deliberately separate from the claim that points at it. Dulce is a town in Rio Arriba County, New Mexico, on the lands of the Jicarilla Apache Nation, beside Archuleta Mesa. Three documented things attach to it. First, Project Gasbuggy: twelve miles southwest of the town, in the Carson National Forest and just west of the reservation, the Atomic Energy Commission detonated a 29-kiloton device at 4,227 feet on 10 December 1967, and the 640-acre site has been under federal stewardship ever since, with liquid radioactive waste injected into the former cavity and final surface remediation completed in September 2004. Second, Gabe Valdez, a New Mexico State Police officer stationed at Dulce from 1976, who ran the livestock-mutilation investigations of that decade and is the only official investigator in this whole story. Third, a sovereign nation whose position on the claim could not be established: the only Jicarilla Apache Nation official whose words were opened is Legislative Council President Ty Vicenti, quoted in a 2016 newspaper feature issuing a tourism welcome and neither asserting nor denying anything about a base. That is the honest state of the record and it is recorded as a gap rather than papered over. The node is named l-dulce and carries the mesa in its label on purpose: a separate archuleta-mesa node would split one place in two and hand the claimant's framing a second entry on the board.",
-"domains": [
-"dulce-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -135,7 +134,11 @@
 "label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
+"sourceFiles": [
+"dulce-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -156,5 +159,8 @@
 "sub": "The real ground: a town on the Jicarilla Apache Nation, a mesa, and a decommissioned Plowshare nuclear site twelve miles away",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1074 of 1170, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": [
+"The Jicarilla Apache Nation's position on the claim. Three 2009 Albuquerque Journal pieces reported to carry it returned connection refused and 404, and the Wayback Machine is unavailable to this session. Nothing about a tribal position is asserted anywhere in this file."
+]
 }

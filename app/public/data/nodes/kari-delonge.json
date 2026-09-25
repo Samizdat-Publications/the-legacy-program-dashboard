@@ -94,7 +94,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"elizondo-ttsa"
+"d-materials",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -115,6 +116,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Kari DeLonge",
+"sourceFiles": [
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2018-04-30",

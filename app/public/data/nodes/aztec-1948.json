@@ -97,6 +97,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -256,6 +257,14 @@
 "deg": 6,
 "denials": [
 {
+"a": {
+"id": "aztec-1948",
+"label": "Aztec, New Mexico claim, March 1948"
+},
+"b": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
 "by": {
 "id": "dod",
 "label": "United States Department of Defense (secondary designation: Department of War)"
@@ -293,22 +302,18 @@
 }
 ],
 "desc": "Aztec is on this board for one reason, and it is not that a saucer came down in Hart Canyon. It is the earliest fully traceable example of a crash-retrieval narrative whose entire provenance can be reconstructed end to end - source, motive, transmission, monetisation, exposure, conviction, and revival - and that makes it the control case against which every other retrieval claim on this board has to be measured. Everything the story needed to survive it had: named military witnesses, a specific canyon, a specific craft diameter, a specific body count, a bestselling book, a metal sample, and a federal-sounding cover-up. What it did not have was a crash.\n\nThe chain begins with Silas Mason Newton, a Denver oil promoter whose name first reached the FBI on 24 September 1938 on a suspected wire-fraud referral, and Leo (Leonard) A. GeBauer, a Phoenix electronics merchant who appears in the literature under the pseudonym 'Dr. Gee', the 'magnetologist'. On 8 March 1950 Newton, billed only as 'Mr. X' or 'Scientist X', lectured a room of science students at the University of Denver. He told them he had seen two recovered flying saucers held in a secret government facility; one had come down near Aztec, New Mexico, brought down by a 'magnetic fault line', the other near Durango, Colorado. The occupants of the first had been burned dark brown when a porthole blew out; the crew of the second had suffocated from a change in atmosphere. He described the beings as between 38 and 42 inches tall, dressed in cloth that could not be torn, probably from Venus, flying on magnetic propulsion at twice the speed of light.\n\nFrank Scully, a Variety columnist, had already begun retailing the story in his 1949 columns. In 1950 Henry Holt published 'Behind the Flying Saucers', which turned Newton's lecture into a bestseller and into the template. Scully's version put the event in March 1948, a 99-foot craft - the largest UFO reported to that date - containing sixteen humanoid bodies, recovered by the military after a controlled landing in Hart Canyon roughly twelve miles northeast of Aztec, and hauled away for secret research. Scully added that the craft ran on 'magnetic principles', that the crew carried concentrated food wafers and heavy water, and that every dimension of the vehicle was divisible by nine. Martin Gardner, in 'Fads and Fallacies in the Name of Science', took the book apart as 'wild imaginings' and 'scientific howlers'.\n\nThe monetisation is the part that matters. Through the late 1940s and early 1950s Newton and GeBauer were travelling the Four Corners selling 'doodlebugs' - devices that in the oil business claim to locate deposits by remote sensing - and their sales pitch was that the doodlebug was built from, or reverse-engineered out of, the alien technology recovered at Aztec. Herman A. Flader, a Denver industrialist, put in $50,000 for a partnership in GeBauer's Colorado Geophysics & Development company, on the represented understanding that each unit cost around $800,000 to build. Dr. Alfred D. Kleyhauer, a Denver optometrist, lost $15,000. When investigators opened the devices they found surplus military radio parts; the estimated build cost was about $3.50 each. When J. P. Cahn of the San Francisco Chronicle demanded a sample of the miracle metal, the sample tested as ordinary aluminium. Cahn published the exposure in True magazine in September 1952 and returned in August 1956 with a second piece cataloguing further victims. Flader pressed charges. Newton and GeBauer were convicted of fraud in 1953 and also faced federal charges for moving the proceeds across state lines. Neither did jail time; the Denver Public Library's account records Newton still on probation and in violation of its terms by June 1955, and on 30 April 1969 he pleaded guilty again, this time to salting the Buckhorn Mine at Silver City, New Mexico. He died in 1972, probably still on probation.\n\nThe story should have died in 1956 and did, for about fifteen years - through the mid-1950s to the early 1970s most ufologists treated it as radioactive. It came back because the surrounding mythology gave it somewhere to live. In 1974 Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson Air Force Base, drawing official Air Force denials. Leonard Stringfield in the late 1970s went further, arguing the craft was one of many the US military had captured and stored. From there the Aztec details - the small burned bodies, the intact hull, the fast military sanitisation of the site - migrated wholesale into later allegedly first-hand accounts of Roswell, which is the single most important structural fact in this dossier: a documented hoax became a donor of detail to the case that the modern disclosure argument rests on.\n\nIt also acquired a paper artefact that will not go away. On 22 March 1950, two weeks after Newton's Denver lecture, Guy Hottel, special agent in charge of the FBI's Washington Field Office, filed a one-page memo relaying a third-party account of three recovered circular craft in New Mexico, 'approximately 50 feet in diameter', each holding three bodies 'only three feet tall' in 'metallic cloth', allegedly downed by high-powered radar. The memo ends 'No further evaluation was attempted'. When the FBI launched The Vault in April 2011 the Hottel memo became its most-viewed document, and in March 2013 the Bureau published a statement that it 'does not prove the existence of UFOs; it is simply a second- or third-hand claim that we never investigated', adding that some believe it simply repeats a hoax then in circulation.\n\nRevisionism continues. Aztec's public library ran an annual UFO Symposium as a library fundraiser from 1997 to 2011. Scott and Suzanne Ramsey, with journalism professor Frank Thayer, spent three decades on the case and published 'The Aztec Incident: Recovery at Hart Canyon' (2012) and 'The Aztec UFO Incident' (2016), arguing the crash was real and independently witnessed; Ramsey placed a commemorative plaque at the canyon site in 2007. Nothing in that body of work has displaced the trial record. Tier it accordingly: the fraud is documented, the retrieval is not.",
-"domains": [
-"w15-live-originals",
-"w2-retrieval-literature",
-"w6-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
-"source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax",
+"source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The story 'was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers.'",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax",
+"source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Per Scully, in March 1948 an unidentified craft 99 feet in diameter containing sixteen humanoid bodies was recovered by the military after a controlled landing in Hart Canyon, 12 miles northeast of Aztec, and 'the military had taken the craft for secret research'.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "Denver Public Library Special Collections and Archives, Chris Root, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
@@ -393,7 +398,17 @@
 "label": "Aztec, New Mexico claim, March 1948",
 "locLabel": null,
 "members": null,
+"openQuestions": [
+"The exact sentence imposed in 1953 is not established from a primary court record. The Denver Public Library article states the specific sentence 'appears to be lost to time'; a reader comment on that article cites Denver Post 14 June 1954 p.3 and Rocky Mountain News 15 June 1954 p.10 for no jail time, five years probation, costs and restitution. That microfilm has not been checked here and the sentence detail is therefore unverified.",
+"Scully's 1949 Variety columns have not been read in the original; the 1949 date rests on secondary sources.",
+"The Ramsey/Thayer witness roster has not been independently examined. No claim in this dossier rests on it."
+],
 "short": "Aztec, New Mexico claim, March 1948",
+"sourceFiles": [
+"w15-live-originals",
+"w2-retrieval-literature",
+"w6-international"
+],
 "sources": [
 {
 "date": "2026-08-25",
@@ -458,25 +473,28 @@
 ],
 "sub": "Claimed 99-foot disc recovery, Hart Canyon; sourced to convicted fraudsters",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 65 of 1170, score 74). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 68 of 1170, score 74). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1950-03-22",
+"grade": "A",
 "id": "tl-1950-hottel",
 "label": "Guy Hottel FBI memorandum",
 "precision": "day",
 "strand": "coverup",
-"text": "The special agent in charge of the FBI Washington Field Office records a third-hand account of three 50-foot circular craft recovered in New Mexico, each with three three-foot occupants in metallic cloth, attributed to high-powered radar interference. The memo closes: 'No further evaluation was attempted.'",
-"tier": "A"
+"text": "The special agent in charge of the FBI Washington Field Office records a third-hand account of three 50-foot circular craft recovered in New Mexico, each with three three-foot occupants in metallic cloth, attributed to high-powered radar interference. The memo closes: 'No further evaluation was attempted.'"
 },
 {
+"claimTier": null,
 "date": "1953",
+"grade": "A",
 "id": "tl-1953-fraud",
 "label": "Newton and Gebauer convicted",
 "precision": "year",
 "strand": "coverup",
-"text": "Scully's two sources are convicted of fraud after millionaire Herman Flader presses charges over 'doodlebug' devices sold on the claim that they used recovered alien technology.",
-"tier": "A"
+"text": "Scully's two sources are convicted of fraud after millionaire Herman Flader presses charges over 'doodlebug' devices sold on the claim that they used recovered alien technology."
 }
-]
+],
+"unverified": []
 }

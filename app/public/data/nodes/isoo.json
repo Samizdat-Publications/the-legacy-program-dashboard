@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -74,7 +75,7 @@
 "edgeLabel": "ISOO access to SAPs is granted and simultaneously conditioned",
 "id": "eo-13526",
 "l0": true,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "note": "Section 4.3(b) affords the ISOO Director access to special access programs 'consistent with the policies and procedures directed by the President' - a defeasible right.",
 "sources": [
 {
@@ -163,7 +164,7 @@
 "edgeLabel": "The only external body with a claim of access, and the claim is conditional",
 "id": "waived-usap-mechanism",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "note": "E.O. 13526 sec. 4.3(b) affords the ISOO Director access to SAPs 'consistent with the policies and procedures directed by the President'.",
 "sources": [
 {
@@ -182,18 +183,20 @@
 "deg": 7,
 "denials": [
 {
-"by": {
+"a": {
 "id": "odni-capco",
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)"
 },
+"b": {
+"id": "isoo",
+"label": "Information Security Oversight Office"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "ISOO requests about IC controlled access programs are routed through CAPCO",
 "note": "ICD 906 section D.9.c makes CAPCO responsible for coordinating 'requests from the Information Security Oversight Office' about CAPs.",
-"of": {
-"id": "isoo",
-"label": "Information Security Oversight Office"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-12-19",
@@ -204,9 +207,7 @@
 }
 ],
 "desc": "ISOO is the office that is supposed to be able to count the secrets. Housed at the National Archives but 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program', ISOO derives its authority from Executive Order 13526 on Classified National Security Information and Executive Order 13556 on Controlled Unclassified Information, and it publishes an annual report to the President with statistics on classification and declassification activity across the executive branch - the FY2024 report being the most recent published as of this board. ISOO is the natural venue for the question this board asks, because the only government body chartered to audit whether the classification system is being used lawfully is ISOO, and ISOO's annual reports have for years documented that agencies self-report classification and declassification volumes with no independent verification. ISOO does not have unilateral access to special access program content; its oversight of SAPs runs through agency self-reporting and through the National Industrial Security Program on the contractor side, which is precisely the seam where a contractor-held program with no government sponsor of record would sit. No ISOO report has ever addressed UAP records as a category, and no ISOO director has testified at a UAP hearing.",
-"domains": [
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -260,9 +261,9 @@
 "tier": 1
 },
 {
-"source": "https://isoo-overview.blogs.archives.gov/2025/09/18/announcing-the-publication-of-isoos-fiscal-year-2024-annual-report-to-the-president/ ; report at https://www.archives.gov/files/isoo/reports/isoo-fy-2024-annual-report-final-508.pdf",
+"source": "https://isoo-overview.blogs.archives.gov/2025/09/18/announcing-the-publication-of-isoos-fiscal-year-2024-annual-report-to-the-president/ ; report at https://www.archives.gov/files/isoo/reports/isoo-fy-2024-annual-report-final-508.pdf - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "ISOO transmitted its Fiscal Year 2024 Annual Report to the President in early August 2025 and publicly issued it on 18 September 2025; it was the first annual report of Director Michael D. Thomas's tenure and restructured ISOO's mission into four areas: Oversight and Compliance, Guidance and Implementation, Data Collection and Analysis, and Administration and Engagement.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://www.archives.gov/isoo/reports/annual-report-archive.html ; see also https://isoo-overview.blogs.archives.gov/2025/09/18/announcing-the-publication-of-isoos-fiscal-year-2024-annual-report-to-the-president/ ('I studied our prior releases, dating all the way back to 1979')",
@@ -337,7 +338,11 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "Information Security Oversight Office",
+"sourceFiles": [
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -347,6 +352,7 @@
 ],
 "sub": "NARA component responsible to the President for the government-wide classification system",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 612 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 607 of 1170, score 28). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.",
+"timeline": [],
+"unverified": []
 }

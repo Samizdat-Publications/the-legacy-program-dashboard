@@ -32,6 +32,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,6 +125,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
 "by": {
 "id": "dia",
 "label": "Defense Intelligence Agency"
@@ -146,9 +155,7 @@
 }
 ],
 "desc": "This is the money. Contract HHM402-08-C-0072, awarded 22 September 2008 by the Defense Intelligence Agency to Bigelow Aerospace Advanced Space Studies, LLC of 4640 S. Eastern Avenue, Las Vegas NV 89119 (DUNS 827037768, CAGE 54JU7), firm fixed price, $10,000,000 base value, base period 22 September 2008 to 21 September 2009 with four one-year options. Line items cover monthly status reports, project management plans, research reports on advanced aerospace weapon systems, an integrated threat assessment, and travel and other direct costs. The contracting officer, COR and Government Project Leader are all redacted under 10 USC 424 in the released copy — the same Lacatski whose name DIA had printed in the public solicitation five weeks earlier. DIA withheld this contract entirely from a 2011 FOIA response and did not release it until 13 October 2022 under FOIA-00349-2018, a fourteen-year gap between award and disclosure of a contract that was competed on a public bid board. A September 2009 modification exercising the FY10 option was released separately.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -162,7 +169,11 @@
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2022-10-13",
@@ -190,31 +201,35 @@
 "tierRationale": "Re-graded A on a global pass (rank 159 of 1170, score 51). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2008-09-22",
+"grade": "A",
 "id": "tl-2008-award",
 "label": "AAWSAP awarded to BAASS",
 "precision": "day",
 "strand": "program",
-"text": "DIA awards firm-fixed-price contract HHM402-08-C-0072 to Bigelow Aerospace Advanced Space Studies LLC, $10,000,000 base with four option years.",
-"tier": "A"
+"text": "DIA awards firm-fixed-price contract HHM402-08-C-0072 to Bigelow Aerospace Advanced Space Studies LLC, $10,000,000 base with four option years."
 },
 {
+"claimTier": null,
 "date": "2011-01-01",
+"grade": "A",
 "id": "tl-2011-foiawithheld",
 "label": "DIA withholds the BAASS contract",
 "precision": "year",
 "strand": "coverup",
-"text": "DIA withholds the AAWSAP contract in full in response to a FOIA request; it will not release it for another eleven years.",
-"tier": "A"
+"text": "DIA withholds the AAWSAP contract in full in response to a FOIA request; it will not release it for another eleven years."
 },
 {
+"claimTier": null,
 "date": "2022-10-13",
+"grade": "A",
 "id": "tl-2022-contract",
 "label": "DIA finally releases the AAWSAP contract",
 "precision": "day",
 "strand": "program",
-"text": "Fourteen years after award and eleven years after withholding it, DIA releases contract HHM402-08-C-0072 under FOIA-00349-2018, with all government personnel names redacted.",
-"tier": "A"
+"text": "Fourteen years after award and eleven years after withholding it, DIA releases contract HHM402-08-C-0072 under FOIA-00349-2018, with all government personnel names redacted."
 }
-]
+],
+"unverified": []
 }

@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -119,11 +120,7 @@
 "deg": 4,
 "denials": [],
 "desc": "This is the board's central claim expressed as a research domain: that a recovery, exploitation and reverse-engineering effort was stood up in the late 1940s, was subsequently moved outside ordinary acquisition and oversight channels, and has run continuously since - the word 'legacy' being the term used by the witnesses themselves for a programme that predates every currently serving official. The claim's highest-grade attestation is sworn: on 26 July 2023 David Grusch told the House Oversight Committee, under oath and after having filed a protected disclosure with the Intelligence Community Inspector General, that he was informed by named individuals of a multi-decade crash retrieval and reverse-engineering programme, and that he provided that information with witnesses to the ICIG and to Congress. The government's own answer is on the record too: AARO's February 2024 Volume I report found 'no empirical evidence' for the reverse-engineering claim, having interviewed approximately thirty individuals and investigated named programmes. Both documents belong on this board, and the disagreement between them is the research problem rather than its resolution. Scoring high on this domain means an entity is placed inside that continuity by testimony or by document - and the C axis, custody proximity, is the axis that most directly tests it.",
-"domains": [
-"_rs-archive-mirror",
-"dulce-2026-09-19",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -137,7 +134,13 @@
 "label": "Legacy Program",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Legacy Program",
+"sourceFiles": [
+"_rs-archive-mirror",
+"dulce-2026-09-19",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -175,13 +178,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 170 of 1170, score 49). 4 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1950-11-21",
+"grade": null,
 "id": "tx-1950-smith-memo",
 "label": "A foreign official records the American classification level",
 "precision": "day",
 "strand": "program",
-"text": "Wilbert B. Smith, a radio engineer in Canada's Department of Transport, writes an internal memorandum to the Controller of Telecommunications stating that the flying saucer subject is classified higher in the United States than the hydrogen bomb and that a small group is studying it. Its evidentiary value is its provenance: a foreign government official reporting internally, not a claimant addressing the public.",
-"tier": 1
+"text": "Wilbert B. Smith, a radio engineer in Canada's Department of Transport, writes an internal memorandum to the Controller of Telecommunications stating that the flying saucer subject is classified higher in the United States than the hydrogen bomb and that a small group is studying it. Its evidentiary value is its provenance: a foreign government official reporting internally, not a claimant addressing the public."
 }
-]
+],
+"unverified": []
 }

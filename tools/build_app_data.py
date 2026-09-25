@@ -65,9 +65,10 @@ OBSERVABLES_VIEW = "research/observables-view.json"
 THREADS = "research/threads.json"
 DRAWINGS = "research/patents/drawings"
 SUGGESTIONS = "data/analyst-suggestions.json"
+VOCAB = "schema/vocab.json"
 
 INPUTS = [BOARD, L0_MODEL, L0_LAYOUT, L0_HIGHLIGHTS, L0_SHORTS, FOIA_LINKS,
-          PATENTS_VIEW, OBSERVABLES_VIEW, SUGGESTIONS]
+          PATENTS_VIEW, OBSERVABLES_VIEW, SUGGESTIONS, VOCAB]
 
 # The analyst's chips, one list per route kind.  app/src/analyst/chips.ts maps
 # route kinds onto these nine keys and nothing else, so a key added here that
@@ -94,32 +95,19 @@ ERAS = [
      "start": None, "end": None},
 ]
 
-# Class colours: the program map's chip markers, read off L0_CLS in the old
-# shell's tools/l0_patches.py (retired 25 September 2026), which is what the
-# Design response section 1.1 points at ("the current map's chip markers"). The
-# old shell's network-map PALETTE differed on document and event.
-CLASS_COLOUR = {
-    "document": "#f0d264",
-    "domain": "#e08ad0",
-    "event": "#7fb4e8",
-    "institution": "#a795e8",
-    "legislation": "#e08ad0",
-    "location": "#7fb4e8",
-    "person": "#c9d2dd",
-    "program": "#66d69f",
-}
+# Class colours and cluster names come from schema/vocab.json since phase 3, the
+# one vocabulary the pipeline and the app share. The colours are the program map's
+# chip markers, read off L0_CLS in the old shell's tools/l0_patches.py (retired 25
+# September 2026), which is what the Design response section 1.1 points at.
+def _vocab():
+    with open(os.path.join(ROOT, VOCAB), "r", encoding="utf-8") as f:
+        return json.load(f)
 
-CLUSTER_LABEL = {
-    "contractor": "Contractor",
-    "ffrdc": "FFRDC",
-    "ic": "Intelligence community",
-    "legacy": "Legacy record",
-    "media": "Media",
-    "other": "Other",
-    "oversight": "Oversight",
-    "research": "Research",
-    "witness": "Witness",
-}
+
+_V = _vocab()
+CLASS_COLOUR = {c["id"]: c["colour"] for c in _V["classes"]}
+CLUSTER_LABEL = {c["id"]: c["label"] for c in _V["clusters"]}
+SPACED_EM_DASH = re.compile(r"\s+\u2014\s+")
 
 URL_RE = re.compile(r"https?://[^\s\"'<>|)\]]+")
 
@@ -286,13 +274,18 @@ def build_indexes(s):
         out.setdefault(e["a"], []).append(e)
         inn.setdefault(e["b"], []).append(e)
         if e.get("type") == "denial":
-            by = e.get("denier") or e["a"]
-            of = e["b"] if by == e["a"] else e["a"]
+            # `by` ONLY from an adjudicated denier (phase 3 decision 5). This
+            # used to fall back to end `a`, and the node page printed "issued
+            # here" or "directed here" off that guess for every denial the
+            # adjudication had not reached. Where no denier is named there is
+            # no direction to publish, and the row says so.
+            by = e.get("denier") if e.get("denier") in (e["a"], e["b"]) else None
+            of = (e["b"] if by == e["a"] else e["a"]) if by else None
             row = {"by": by, "of": of, "edge": e}
             denials.setdefault(e["a"], []).append(row)
             denials.setdefault(e["b"], []).append(row)
     ix["out"], ix["in"], ix["denials"] = out, inn, denials
-    ix["denied"] = set(r["of"] for rows in denials.values() for r in rows)
+    ix["denied"] = set(r["of"] for rows in denials.values() for r in rows if r["of"])
 
     # timeline by node
     tl = {}
@@ -312,7 +305,9 @@ def short_of(s, n):
     has always drawn it), else the label."""
     a = s.shorts.get(n["id"])
     if isinstance(a, str) and a.strip():
-        return a.strip()
+        # a spaced em dash in a display label becomes " - " (phase 3 decision 7;
+        # recorded in tools/DISPLAY-NORMALISED.json by merge.py)
+        return SPACED_EM_DASH.sub(" - ", a.strip())
     m = getattr(s, "l0_short", {}).get(n["id"])
     if isinstance(m, str) and m.strip():
         return m.strip()
@@ -424,7 +419,10 @@ def timeline_json(s):
             "precision": t.get("precision"),
             "strand": t.get("strand"),
             "text": t.get("text"),
-            "tier": t.get("tier"),
+            # two fields, two vocabularies (phase 3 decision 5): the event's
+            # grade A/B/C and a claim tier 1/2/3. `tier` is not shipped.
+            "grade": t.get("grade"),
+            "claimTier": t.get("claimTier"),
         })
     rows.sort(key=lambda r: (r["date"] or "", r["id"]))
     return rows
@@ -465,7 +463,12 @@ def node_files(s, ix):
         ds, de = node_dates(n)
         rec = dict(n)
         rec.pop("_domains", None)
-        rec["domains"] = sorted(n.get("_domains") or [])
+        # Provenance, the research files this node was merged from, ships as
+        # `sourceFiles`. It used to ship as `domains`, which overwrote a
+        # person's AUTHORED topic tags (ids of domain nodes) with file names.
+        # Both reach the page now, under different names (phase 3 decision 9).
+        rec["sourceFiles"] = sorted(n.get("_domains") or [])
+        rec["domains"] = list(n.get("domains") or [])
         rec["dateStart"], rec["dateEnd"] = ds, de
         rec["short"] = short_of(s, n)
         rec["era"] = era_of(ds)
@@ -513,22 +516,30 @@ def node_files(s, ix):
                 continue
             seen.add(k)
             by, of = row["by"], row["of"]
+
+            def ref(i):
+                return {"id": i, "label": s.byid[i]["label"] if i in s.byid else i}
             dens.append({
-                "by": {"id": by, "label": s.byid[by]["label"] if by in s.byid else by},
+                # both ends in record order, always; `by`/`of` only where the
+                # adjudication names the denier, and null otherwise
+                "a": ref(e["a"]),
+                "b": ref(e["b"]),
+                "by": ref(by) if by else None,
                 "claimTier": e.get("claimTier"),
                 "denialKind": e.get("denialKind"),
                 "label": e.get("label") or "",
                 "note": e.get("note") or "",
-                "of": {"id": of, "label": s.byid[of]["label"] if of in s.byid else of},
+                "of": ref(of) if of else None,
                 "sources": e.get("sources") or [],
             })
-        dens.sort(key=lambda r: (r["by"]["id"], r["of"]["id"], r["label"]))
+        dens.sort(key=lambda r: (r["a"]["id"], r["b"]["id"], r["label"]))
         rec["denials"] = dens
 
         rec["timeline"] = sorted(
             [{"date": t.get("date"), "id": t["id"], "label": t.get("label"),
               "precision": t.get("precision"), "strand": t.get("strand"),
-              "text": t.get("text"), "tier": t.get("tier")}
+              "text": t.get("text"), "grade": t.get("grade"),
+              "claimTier": t.get("claimTier")}
              for t in ix["timeline"].get(nid, [])],
             key=lambda r: (r["date"] or "", r["id"]))
 
@@ -827,6 +838,15 @@ def check_chip_figures(raw, by_route, ct):
             % (SUGGESTIONS, "\n  ".join(unquoted)))
 
 
+def vocab_json(meta):
+    """schema/vocab.json, published as /data/vocab.json: the one vocabulary, for
+    anything that reads the data rather than the page's own bundle (the page
+    imports the same file at build time, in app/src/vocab.ts)."""
+    v = {k: val for k, val in _V.items() if not k.startswith("_")}
+    v["generated"], v["source"] = meta["generated"], meta["source"]
+    return v
+
+
 def threads_json(s, meta):
     return {"generated": meta["generated"], "source": meta["source"],
             "threads": threads_list(s)}
@@ -882,6 +902,8 @@ def build(quiet=False):
                     write(os.path.join(OUT, "foia.json"), foia_json(s, meta), 1)))
     written.append(("data/analyst.json",
                     write(os.path.join(OUT, "analyst.json"), analyst_json(s, ix, meta), 1)))
+    written.append(("data/vocab.json",
+                    write(os.path.join(OUT, "vocab.json"), vocab_json(meta), 1)))
 
     nd = os.path.join(OUT, "nodes")
     if os.path.isdir(nd):

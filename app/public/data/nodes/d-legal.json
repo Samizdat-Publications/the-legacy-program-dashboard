@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -53,7 +54,7 @@
 "claimTier": 3,
 "cls": "domain",
 "dateEnd": null,
-"dateStart": null,
+"dateStart": "1998-01-01",
 "direction": "out",
 "edgeLabel": "NDAs and IG channels bound what a witness may say",
 "id": "d-witness",
@@ -77,10 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The law is the terrain on which a witness decides whether to speak, and the terrain is tilted. A person read into a special access programme signs a non-disclosure agreement with criminal exposure attached; the Intelligence Community Whistleblower Protection Act gives a lawful channel to the Inspector General but no protection at all for a disclosure made outside it; and the state secrets privilege can end a civil case before discovery without the court ever seeing the material. Against that stack, the disclosure movement's legislative answer has been amnesty and channel-building: the Senate's 2023 UAP Disclosure Act proposed immunity structures for contractors and personnel holding recovered material, and the UAP Whistleblower Protection Act - introduced as H.R. 10111 in the 118th Congress and reintroduced as H.R. 5060 on 29 August 2025 in the 119th - is an attempt to build a channel that does not run through the agencies being investigated. The documented cost of the current arrangement is visible in the DoD Inspector General's own product: DODIG-2023-109 exists because personnel used the IG channel, and its unclassified summary is nearly the whole of what the public received. Scoring high on this domain means an entity is a lawyer, litigant, adjudicator or drafter shaping what a witness may lawfully say.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -94,7 +92,12 @@
 "label": "Legal Doctrine & Liability",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Legal Doctrine & Liability",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-02-06",
@@ -137,13 +140,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 781 of 1170, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2025-09-09",
+"grade": null,
 "id": "tx-2025-house-hearing",
 "label": "Oversight returns to whistleblower protection",
 "precision": "day",
 "strand": "oversight",
-"text": "The House Oversight Committee holds 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', following the reintroduction of the UAP Whistleblower Protection Act as H.R. 5060 on 29 August 2025. The 2025-2026 phase of the fight is procedural rather than revelatory.",
-"tier": 1
+"text": "The House Oversight Committee holds 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', following the reintroduction of the UAP Whistleblower Protection Act as H.R. 5060 on 29 August 2025. The 2025-2026 phase of the fight is procedural rather than revelatory."
 }
-]
+],
+"unverified": []
 }

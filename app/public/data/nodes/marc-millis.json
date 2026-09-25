@@ -141,10 +141,7 @@
 "dateStart": "2010-11-01",
 "deg": 3,
 "denials": [],
-"domains": [
-"propulsion-2026-09-19",
-"w7-dirds-2"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -164,6 +161,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Marc G. Millis",
+"sourceFiles": [
+"propulsion-2026-09-19",
+"w7-dirds-2"
+],
 "sources": [
 {
 "date": "2004",

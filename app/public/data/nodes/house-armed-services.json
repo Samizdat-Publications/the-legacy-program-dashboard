@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -27,7 +28,7 @@
 "edgeLabel": "named as an appropriate committee",
 "id": "iaa-fy2024-7343",
 "l0": true,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "The same definition at sec. 7343(a)(1) names the House Armed Services Committee among the six bodies constituting 'appropriate committees of Congress' for the section's funding limitation.",
 "sources": [
 {
@@ -90,7 +91,7 @@
 "edgeLabel": "Retained remedy routes back to the committees",
 "id": "pl118-31-sec-1687",
 "l0": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "note": "Sec. 1687 does not open anything to the public; it compels description to the defence and intelligence committees and congressional leadership.",
 "sources": [
 {
@@ -135,9 +136,7 @@
 "deg": 5,
 "denials": [],
 "desc": "HASC held the House side of the NDAA conference through the stripping and is the committee whose jurisdiction the Senate's independent Review Board would most directly have displaced. The pattern of what survived tracks committee interest closely: every enacted UAP provision routes its remedy to 'the appropriate congressional committees and congressional leadership' — the defence and intelligence committees — while every removed provision routed authority to an independent agency, to the Archivist acting on a board's direction, or to a court. Sec. 1687, the funding limitation that did survive, is precisely the form of leverage that keeps the armed services committees as the gatekeeper: it does not open anything to the public, it compels description to the committees.",
-"domains": [
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -151,7 +150,11 @@
 "label": "House Armed Services Committee",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "House Armed Services Committee",
+"sourceFiles": [
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -167,5 +170,6 @@
 "sub": "HASC; conference principal under Chairman Rogers",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 749 of 1170, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -76,7 +76,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"nuclear-witnesses-2026-09-19"
+"d-nuclear",
+"d-nuc",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -97,6 +99,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Capt. Bradford Runyon",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1968-11-13",
@@ -115,13 +120,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 906 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2000",
+"grade": "B",
 "id": "tl-2000-runyon-contacts-cufos",
 "label": "A B-52 co-pilot approaches CUFOS on his own initiative",
 "precision": "year",
 "strand": "witness",
-"text": "Capt. Bradford Runyon, co-pilot of JAG-31 on 24 October 1968, contacted the Center for UFO Studies in 2000 and completed a CUFOS questionnaire. The modern investigation of the Minot case begins there. A witness approached a research body; a research body did not recruit a witness. It is the control case against which the Malmstrom and Ellsworth provenance chains should be read.",
-"tier": "B"
+"text": "Capt. Bradford Runyon, co-pilot of JAG-31 on 24 October 1968, contacted the Center for UFO Studies in 2000 and completed a CUFOS questionnaire. The modern investigation of the Minot case begins there. A witness approached a research body; a research body did not recruit a witness. It is the control case against which the Malmstrom and Ellsworth provenance chains should be read."
 }
 ],
 "unexplainedResidual": null,

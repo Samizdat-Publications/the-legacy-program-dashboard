@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "On 8 July 2026 Rep. Eric Burlison sent letters to the Central Intelligence Agency and the Federal Bureau of Investigation requesting records related to the January 1996 Varginha and Campinas, Brazil unidentified anomalous phenomena incident. The Varginha case is the most persistent foreign-soil retrieval allegation in the literature: multiple Brazilian witnesses, alleged military recovery of one or more entities, and long-standing claims of US involvement in the aftermath. The letters matter here for two structural reasons. First, they are addressed to the two agencies with the most conspicuous positions in the current record - the CIA, which has no series in Record Group 615 and whose 1953 Robertson Panel report PURSUE Release 03 published in a less-redacted form, and the FBI, which is both an RG 615 contributor and the largest single contributor to a PURSUE tranche. Second, they extend the congressional records demand to an event outside US territory, testing whether the disclosure framework reaches foreign incidents at all. No response from either agency has been made public as of 12 August 2026.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -62,7 +61,11 @@
 "label": "Burlison letters to CIA and FBI on the 1996 Varginha/Campinas incident (8 July 2026)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Burlison letters to CIA and FBI on the 1996 Varginha/Campinas incident (8 July 2026)",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-07-08",
@@ -75,13 +78,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 991 of 1170, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2026-07-08",
+"grade": null,
 "id": "tl-varginha-letters",
 "label": "Burlison demands CIA and FBI records on Varginha 1996",
 "precision": "day",
 "strand": "oversight",
-"text": "The congressional records demand crosses a border for the first time, aimed at the two agencies whose positions on the UAP record are most conspicuous.",
-"tier": "1"
+"text": "The congressional records demand crosses a border for the first time, aimed at the two agencies whose positions on the UAP record are most conspicuous."
 }
-]
+],
+"unverified": []
 }

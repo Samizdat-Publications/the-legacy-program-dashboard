@@ -32,6 +32,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -42,7 +43,7 @@
 "edgeLabel": "Enacted section 119 on 4 December 1987",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Source credit to 10 U.S.C. 119: added by Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), 101 Stat. 1151.",
 "sources": [
 {
@@ -61,10 +62,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Until 4 December 1987 there was no statute at all requiring the Department of Defense to tell Congress that a special access program existed. Section 1132(a)(1) of the National Defense Authorization Act for Fiscal Years 1988 and 1989 added section 119 to title 10, at 101 Stat. 1151. The date is load-bearing for this board's chronology: every alleged legacy recovery and reverse-engineering activity from the 1940s through 1987 - the entire period covering Roswell, Project SIGN, Project BLUE BOOK's termination, the 1970s nuclear-site overflights and the origins of the alleged retrieval effort - ran in a legal environment in which no SAP reporting obligation to Congress existed whatsoever. A program stood up before December 1987 and never re-baselined was never a 'new special access program' within the meaning of subsection (b)(3), because that term is defined as one 'that has not previously been covered in a notice and justification under this subsection' - a definition that, on its face, does not reach back before the subsection existed.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -75,10 +73,15 @@
 "hl": null,
 "id": "pl-100-180",
 "l0": false,
-"label": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "locLabel": null,
 "members": null,
-"short": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+"openQuestions": [],
+"short": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-01-05",
@@ -94,5 +97,6 @@
 "sub": "statute",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 746 of 1170, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

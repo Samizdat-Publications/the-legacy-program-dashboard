@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -131,7 +132,7 @@
 "edgeLabel": "$22M appropriated to DIA",
 "id": "defense-appropriations-aawsap",
 "l0": false,
-"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "The appropriation named DIA as the recipient agency to assess long-term and over-the-horizon foreign advanced aerospace threats.",
 "sources": [
 {
@@ -483,7 +484,7 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -910,27 +911,14 @@
 "deg": 35,
 "denials": [
 {
-"by": {
+"a": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"b": {
 "id": "dia",
 "label": "Defense Intelligence Agency"
 },
-"claimTier": 2,
-"denialKind": "directed",
-"label": "withheld the contract for eleven years",
-"note": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.",
-"of": {
-"id": "aawsap-contract",
-"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
-},
-"sources": [
-{
-"date": "2022-03-01",
-"name": "The UFO Trail",
-"url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
-}
-]
-},
-{
 "by": {
 "id": "dia",
 "label": "Defense Intelligence Agency"
@@ -952,6 +940,43 @@
 ]
 },
 {
+"a": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"by": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 2,
+"denialKind": "directed",
+"label": "withheld the contract for eleven years",
+"note": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.",
+"of": {
+"id": "aawsap-contract",
+"label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+},
+"sources": [
+{
+"date": "2022-03-01",
+"name": "The UFO Trail",
+"url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+}
+]
+},
+{
+"a": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "dia",
 "label": "Defense Intelligence Agency"
@@ -973,32 +998,14 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "dia",
 "label": "Defense Intelligence Agency"
 },
-"claimTier": 3,
-"denialKind": "directed",
-"label": "directed to release; absent from the statutory archive",
-"note": "The Director of the Defense Intelligence Agency is an addressee of ES 2026-00818; DIA has no RG 615 series as of 12 August 2026.",
-"of": {
-"id": "odni-memo-es-2026-00818",
-"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+"b": {
+"id": "skinwalkers-at-the-pentagon",
+"label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
 },
-"sources": [
-{
-"date": "2026-08-01",
-"name": "ODNI Memorandum ES 2026-00818",
-"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
-},
-{
-"date": "2026-08-12",
-"name": "National Archives, Record Group 615",
-"url": "https://www.archives.gov/research/topics/uaps/rg-615"
-}
-]
-},
-{
 "by": {
 "id": "dia",
 "label": "Defense Intelligence Agency"
@@ -1023,13 +1030,44 @@
 "url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
 }
 ]
+},
+{
+"a": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"by": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the Defense Intelligence Agency is an addressee of ES 2026-00818; DIA has no RG 615 series as of 12 August 2026.",
+"of": {
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"sources": [
+{
+"date": "2026-08-01",
+"name": "ODNI Memorandum ES 2026-00818",
+"url": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+},
+{
+"date": "2026-08-12",
+"name": "National Archives, Record Group 615",
+"url": "https://www.archives.gov/research/topics/uaps/rg-615"
+}
+]
 }
 ],
 "desc": "DIA is the agency that took the Reid appropriation, wrote the requirement, awarded the contract, ran the program office, reviewed the deliverables, refused the Special Access Program request, terminated the effort, and then spent fifteen years releasing the paperwork a few dozen pages at a time under FOIA. Its Defense Warning Office housed James Lacatski, its Virginia Contracting Activity (ZD50) issued solicitation HHM402-08-R-0211, and its Records Management and Information Services chief signed the January 2018 letter that gave the Senate Armed Services Committee its first inventory of the program. DIA's institutional posture across the record is consistently minimising: its 13 November 2009 memorandum found 'insufficient grounds to classify this open program'; its late-2010 memorandum to USD(AT&L) said the reports were 'of limited value to DIA'; it withheld the BAASS contract entirely in a 2011 FOIA response before releasing it in 2022; it reported no records located for the June 2007 Lacatski-to-Bigelow letter; and it redacted the program manager's name under 10 USC 424 from every release even though DIA itself had published that name in the public bid notice. Against that posture stands DIA's own 30 October 2009 quality review, which found the reports so good that 'all of the reviews were positive, some exceptionally so' — including reviews by three Sandia National Laboratories staff. DIA is the custodian of the AAWSAP record and the principal author of the gaps in it.",
-"domains": [
-"_rs-archive-mirror",
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -1195,7 +1233,7 @@
 {
 "cls": "legislation",
 "id": "defense-appropriations-aawsap",
-"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "tier": "B"
 },
 {
@@ -1268,7 +1306,7 @@
 "cls": "document",
 "id": "dird-state-of-the-art-and-evolution",
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -1337,7 +1375,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Defense Intelligence Agency",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2026-01-12",
@@ -1370,13 +1413,15 @@
 "tierRationale": "Re-graded A on a global pass (rank 7 of 1170, score 151). 35 connections, 19 of them custody/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2008-12-16",
+"grade": "B",
 "id": "tl-2008-brief",
 "label": "First DIA contract status briefing",
 "precision": "day",
 "strand": "program",
-"text": "DIA prepares its first Advanced Aerospace Weapon System Applications contract status briefing three months after award.",
-"tier": "B"
+"text": "DIA prepares its first Advanced Aerospace Weapon System Applications contract status briefing three months after award."
 }
-]
+],
+"unverified": []
 }

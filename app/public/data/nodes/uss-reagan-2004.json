@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -77,18 +78,20 @@
 "deg": 2,
 "denials": [
 {
-"by": {
+"a": {
 "id": "uss-reagan-2004",
 "label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)"
 },
+"b": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "undirected",
 "label": "Federal records destroyed at the point of creation",
 "note": "A Boatswain's Mate of the Watch says he was ordered to 'rip it out' of the logbook; another witness says he watched an officer order subordinates to remove pages. No Navy accounting of this has ever been made.",
-"of": {
-"id": "dod",
-"label": "United States Department of Defense (secondary designation: Department of War)"
-},
+"of": null,
 "sources": [
 {
 "date": "2022-05-09",
@@ -99,9 +102,7 @@
 }
 ],
 "desc": "Between December 2003 and May 2004, while USS Ronald Reagan (CVN-76) operated in the Atlantic, multiple watchstanders observed a round, orange, self-luminous object hovering roughly 100 to 200 feet above the flight deck, pacing the ship at about 22 knots and performing half-circle manoeuvres before departing rapidly. Named witnesses include Quartermaster Karol Olesiak on the bridge navigation table, Seaman Derek Smith on the starboard forward catwalk, and Seaman Patrick Gokey, who observed it twice from different stations; two further witnesses remain anonymous. Crew estimated 50 to 300 people saw it. The reason this event belongs on the coverup strand rather than the sightings pile is what happened to the record: the Boatswain's Mate of the Watch says he was ordered by a senior officer to 'rip it out' of the logbook, another witness recalls being instructed not to write the sighting down, and Gokey says he watched an officer order subordinates to remove pages from the deck logbook. Deck logs are federal records. This is the aviator strand's clearest documented instance of the record being physically destroyed at the point of creation - the same behaviour the Princeton crew describe from the same year, in a different ocean, on a different ship.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -115,7 +116,11 @@
 "label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2022-05-09",
@@ -125,16 +130,18 @@
 ],
 "sub": "Multi-witness flight-deck sighting; deck log pages removed",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 851 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 853 of 1170, score 20). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2004-01-01",
+"grade": "B",
 "id": "av-2004-reagan",
 "label": "USS Reagan log pages removed",
 "precision": "ranged",
 "strand": "coverup",
-"text": "Multiple USS Ronald Reagan watchstanders observe an orange self-luminous object above the flight deck; a Boatswain's Mate of the Watch is ordered to 'rip it out' of the deck logbook and another witness sees an officer order pages removed.",
-"tier": "B"
+"text": "Multiple USS Ronald Reagan watchstanders observe an orange self-luminous object above the flight deck; a Boatswain's Mate of the Watch is ordered to 'rip it out' of the deck logbook and another witness sees an officer order pages removed."
 }
-]
+],
+"unverified": []
 }

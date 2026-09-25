@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,10 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "This is the report from which the entire '$21 trillion' literature descends, and it must be quoted precisely or it becomes useless. Published 26 July 2016, it found that the Office of the Assistant Secretary of the Army (Financial Management and Comptroller) and the Defense Finance and Accounting Service Indianapolis 'did not adequately support $2.8 trillion in third quarter journal voucher (JV) adjustments and $6.5 trillion in yearend JV adjustments made to AGF data during FY 2015 financial statement compilation.' Footnote 2 of the report states that the amounts are not cumulative and should not be added together. What the figures measure is the gross dollar value of accounting entries made to force the Army General Fund's compiled data into balance, not a sum of money that went missing: the same underlying dollar can be adjusted many times in a compilation cycle, which is why the totals exceed the Army General Fund's annual appropriation by roughly two orders of magnitude. Read correctly, the report is not evidence that $6.5 trillion vanished. It is evidence of something arguably more useful to this board: that the Army's financial records for FY2015 were reconstructed at year end by trillions of dollars of entries for which no supporting documentation could be produced, and that therefore the ledger cannot be used to establish where any given appropriation actually went. Anyone citing this report for the proposition that trillions are missing will be correctly demolished; anyone citing it for the proposition that the audit trail does not exist is citing it exactly as written.",
-"domains": [
-"_rs-archive-mirror",
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -89,7 +87,12 @@
 "label": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2025-12-16",
@@ -117,13 +120,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 911 of 1170, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2016-07-26",
+"grade": "A",
 "id": "bb-tl-2016-113",
 "label": "DODIG-2016-113: $6.5 trillion in unsupported year-end adjustments",
 "precision": "day",
 "strand": "oversight",
-"text": "The DoD Inspector General finds that the Army Comptroller's office and DFAS Indianapolis 'did not adequately support $2.8 trillion in third quarter journal voucher (JV) adjustments and $6.5 trillion in yearend JV adjustments made to AGF data during FY 2015 financial statement compilation'. Footnote 2 states the amounts are not cumulative. The report will become the load-bearing citation of the entire missing-money literature, usually misquoted.",
-"tier": "A"
+"text": "The DoD Inspector General finds that the Army Comptroller's office and DFAS Indianapolis 'did not adequately support $2.8 trillion in third quarter journal voucher (JV) adjustments and $6.5 trillion in yearend JV adjustments made to AGF data during FY 2015 financial statement compilation'. Footnote 2 states the amounts are not cumulative. The report will become the load-bearing citation of the entire missing-money literature, usually misquoted."
 }
-]
+],
+"unverified": []
 }

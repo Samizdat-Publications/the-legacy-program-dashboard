@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -54,9 +55,7 @@
 "deg": 1,
 "denials": [],
 "desc": "New York is where the modern disclosure movement acquired institutional legitimacy, on a single date. On 16 December 2017 The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' by Helene Cooper, Ralph Blumenthal and Leslie Kean, revealing the Advanced Aerospace Threat Identification Program, its roughly $22 million in funding, Luis Elizondo's resignation letter, and two of the Navy infrared videos. That story did not add a single new physical fact about any object; what it added was a masthead. Every subsequent institutional step - the Navy's 2019 designation of the objects as UAP, the 2020 Department of Defense release, the UAP Task Force, the ODNI assessment, the hearings, AARO - runs downstream of the decision made in a New York newsroom to treat the subject as a defence-accountability story rather than a curiosity. Blumenthal and Kean later moved much of their work to The Debrief, where on 5 June 2023 they published David Grusch's allegations after other outlets declined; Ross Coulthart's NewsNation reporting is produced from New York; The Intercept's Ken Klippenstein and Keith Kloor have run the sceptical counter-line from the same city. New York is therefore both the venue of the disclosure movement's decisive act and the venue of its most sustained internal argument about evidentiary standards.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -70,7 +69,11 @@
 "label": "New York City",
 "locLabel": "New York, New York, USA",
 "members": null,
+"openQuestions": [],
 "short": "New York City",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2017-12-16",
@@ -81,5 +84,6 @@
 "sub": "Media capital; The New York Times, NewsNation, The Debrief and The Intercept editorial bases",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1060 of 1170, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -57,6 +57,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -292,7 +293,7 @@
 "url": "https://irp.fas.org/dia/aatip-list.pdf"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -301,7 +302,7 @@
 "dateEnd": "2010",
 "dateStart": "2008",
 "direction": "out",
-"edgeLabel": "largest single DIRD producer — six of 38",
+"edgeLabel": "largest single DIRD producer - six of 38",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
@@ -474,11 +475,7 @@
 "deg": 14,
 "denials": [],
 "desc": "EarthTech International Inc. is the private research corporation Harold Puthoff founded in Austin, Texas, in 1991 as the corporate vehicle for the Institute for Advanced Studies at Austin, which he had established in 1985. Its stated research programme covers theories of spacetime, gravity and cosmology, quantum-vacuum studies, modifications of standard electrodynamics, interstellar flight science and SETI, plus a 'Maverick Inventors Program'. That reads as a fringe-physics boutique until you read the cover of a Defense Intelligence Reference Document: DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', dated 6 April 2010, names its author as Eric W. Davis, Ph.D. of EarthTech International Inc., 11855 Research Blvd, Austin TX 78759, and states that the product was produced in FY2009 under the Defense Intelligence Agency Defense Warning Office's Advanced Aerospace Weapon System Applications programme. EarthTech is therefore not an outside commentator on the programme - it is a named performer inside it, at a street address, with a document control number. Puthoff's own vacuum-engineering study appears on the same 38-title list the DIA released to the Federation of American Scientists on 16 January 2019. The Institute for Advanced Studies at Austin imprint also appears on the cover of Christopher Green's medical DIRD, whose preface quotes a November 2007 proposal addressed 'to Puthoff/Hathaway'. From 2017 EarthTech's laboratories became the analytical destination for To The Stars Academy's ADAM Research Project metamaterial samples. It is the smallest and least regulated node in the whole custody chain, and it is where the chain most often goes dark: it is a private company, not subject to FOIA, and it has published no analytical results on the samples it holds.",
-"domains": [
-"aawsap-aatip",
-"elizondo-ttsa",
-"scientists-technical"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -532,14 +529,14 @@
 "tier": 3
 },
 {
-"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "AARO's Historical Record Report Volume I attributes modern reverse-engineering claims largely to \"a consistent group of individuals who have been involved in various UAP-related endeavors since at least 2009,\" many of whom AARO says were \"involved in or supportive of a cancelled DIA program and the subsequent but failed attempt to reestablish this program under DHS, called KONA BLUE\" — a description that maps onto the AAWSAP/BAASS/EarthTech network without naming it.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "AARO reports resolving a claimed anomalous material sample to magnesium \"and bismuth with some other trace elements, such as lead,\" on the basis of materials characterization.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://disclosure.org/team/eric-davis ; Disclosure Foundation leadership per DefenseScoop, 10 December 2025, https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
@@ -649,7 +646,7 @@
 "cls": "document",
 "id": "dird-quantum-tomography-of-negative-energy-states",
 "label": "Quantum Tomography of Negative Energy States in the Vacuum",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -688,7 +685,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "EarthTech International",
+"sourceFiles": [
+"aawsap-aatip",
+"elizondo-ttsa",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2018-01-09",
@@ -743,6 +746,7 @@
 ],
 "sub": "Private research firm, Austin, TX; largest single DIRD producer",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 87 of 1170, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 88 of 1170, score 68). 14 connections, 2 of them custody/funding/programmatic. Axes C3/A2/D3.",
+"timeline": [],
+"unverified": []
 }

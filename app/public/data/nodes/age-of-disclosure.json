@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -114,9 +115,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The Age of Disclosure premiered at SXSW in Austin on 9 March 2025 and is the highest-status artefact the disclosure movement has produced. Directed and produced by Dan Farah, it features thirty-four senior members of the US government, military and intelligence community asserting an eighty-year global cover-up of non-human intelligent life and a secret war. The roster is what makes it structurally load-bearing rather than merely persuasive: former Director of National Intelligence James Clapper, Senator and Secretary of State Marco Rubio, Representative Andre Carson, and Jay Stratton, former director of the government's UAP Task Force, all appear. This is the point at which the denial posture becomes internally incoherent - the same government that maintains through AARO that no verifiable evidence of a concealed reverse-engineering programme exists has a sitting Secretary of State and a former DNI on camera in a film premised on exactly that concealment. UAP Gerb repeatedly cites the film as a reference point, including in his 30 January 2026 Hidden Wing investigation, which notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure'.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -130,7 +129,11 @@
 "label": "The Age of Disclosure (documentary, 2025)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Age of Disclosure (documentary, 2025)",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2025-03-09",
@@ -148,13 +151,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 885 of 1170, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-03-09",
+"grade": "A",
 "id": "ms-2025-aod",
 "label": "The Age of Disclosure premieres at SXSW",
 "precision": "day",
 "strand": "program",
-"text": "Dan Farah's documentary premieres in Austin with 34 senior government, military and intelligence figures on record, including James Clapper, Marco Rubio, Andre Carson and Jay Stratton.",
-"tier": "A"
+"text": "Dan Farah's documentary premieres in Austin with 34 senior government, military and intelligence figures on record, including James Clapper, Marco Rubio, Andre Carson and Jay Stratton."
 }
-]
+],
+"unverified": []
 }

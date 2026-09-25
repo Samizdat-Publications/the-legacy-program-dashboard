@@ -1,9 +1,93 @@
 [
  {
+  "id": "harry-reid",
+  "field": "date",
+  "kept": "2009-06-24",
+  "ignored": "2021-12-28"
+ },
+ {
+  "id": "luis-elizondo",
+  "field": "date",
+  "kept": "2017-10-04",
+  "ignored": "2024-11-13"
+ },
+ {
+  "id": "harold-puthoff",
+  "field": "date",
+  "kept": "2010-01-01",
+  "ignored": "2017-10-11"
+ },
+ {
+  "id": "susan-gough",
+  "field": "date",
+  "kept": "2019-06-13",
+  "ignored": "2019-12-06"
+ },
+ {
   "id": "aatip",
   "field": "dateStart",
   "kept": "2009",
   "ignored": "2008"
+ },
+ {
+  "id": "thomas-monheim",
+  "field": "date",
+  "kept": "2024-01-12",
+  "ignored": "2022-07-01"
+ },
+ {
+  "id": "jay-stratton",
+  "field": "date",
+  "kept": "2009-01-01",
+  "ignored": "2019-01-01"
+ },
+ {
+  "id": "luis-elizondo",
+  "field": "date",
+  "kept": "2017-10-04",
+  "ignored": "2024-11-13"
+ },
+ {
+  "id": "christopher-mellon",
+  "field": "date",
+  "kept": "2017-12-16",
+  "ignored": "2023-06-05"
+ },
+ {
+  "id": "sean-kirkpatrick",
+  "field": "date",
+  "kept": "2024-03-08",
+  "ignored": "2024-01-19"
+ },
+ {
+  "id": "susan-gough",
+  "field": "date",
+  "kept": "2019-06-13",
+  "ignored": "2023-06-07"
+ },
+ {
+  "id": "eric-burlison",
+  "field": "date",
+  "kept": "2026-05-22",
+  "ignored": "2025-03-27"
+ },
+ {
+  "id": "nancy-mace",
+  "field": "date",
+  "kept": "2024-11-13",
+  "ignored": "2023-07-26"
+ },
+ {
+  "id": "jared-moskowitz",
+  "field": "date",
+  "kept": "2025-09-09",
+  "ignored": "2023-07-26"
+ },
+ {
+  "id": "george-knapp",
+  "field": "date",
+  "kept": "2021-08-01",
+  "ignored": "2025-09-09"
  },
  {
   "id": "dopsr",
@@ -24,6 +108,204 @@
   "ignored": "2011"
  },
  {
+  "id": "harold-puthoff",
+  "field": "date",
+  "kept": "2010-01-01",
+  "ignored": "1972-01-01"
+ },
+ {
+  "id": "kit-green",
+  "field": "date",
+  "kept": "2010-01-01",
+  "ignored": "1977-01-01"
+ },
+ {
+  "id": "john-greenewald",
+  "field": "date",
+  "kept": "2022-08-17",
+  "ignored": "1996-01-01"
+ },
+ {
+  "id": "robert-bigelow",
+  "field": "date",
+  "kept": "2008-09-22",
+  "ignored": "1996-01-01"
+ },
+ {
+  "id": "colm-kelleher",
+  "field": "date",
+  "kept": "2009-07-01",
+  "ignored": "1996-01-01"
+ },
+ {
+  "id": "eric-davis",
+  "field": "date",
+  "kept": "2010-01-01",
+  "ignored": "2002-10-16"
+ },
+ {
+  "id": "ross-coulthart",
+  "field": "date",
+  "kept": "2023-06-11",
+  "ignored": "2026-08-04"
+ },
+ {
+  "id": "george-knapp",
+  "field": "date",
+  "kept": "2021-08-01",
+  "ignored": "2023-07-26"
+ },
+ {
+  "id": "daniel-sheehan",
+  "field": "date",
+  "kept": "2023-11-27",
+  "ignored": "2024-01-01"
+ },
+ {
+  "id": "steven-greer",
+  "field": "date",
+  "kept": "2001-05-09",
+  "ignored": "2026-05-08"
+ },
+ {
+  "id": "dylan-borland",
+  "field": "date",
+  "kept": "2025-09-09",
+  "ignored": "2026-08-05"
+ },
+ {
+  "id": "george-knapp",
+  "field": "date",
+  "kept": "2021-08-01",
+  "ignored": "2025-09-09"
+ },
+ {
+  "id": "luis-elizondo",
+  "field": "date",
+  "kept": "2017-10-04",
+  "ignored": "2024-11-13"
+ },
+ {
+  "id": "robert-bigelow",
+  "field": "date",
+  "kept": "2008-09-22",
+  "ignored": "2009-01-01"
+ },
+ {
+  "id": "eric-davis",
+  "field": "date",
+  "kept": "2010-01-01",
+  "ignored": "2002-10-16"
+ },
+ {
+  "id": "kit-green",
+  "field": "date",
+  "kept": "2010-01-01",
+  "ignored": "2019-01-01"
+ },
+ {
+  "id": "jon-kosloski",
+  "field": "date",
+  "kept": "2024-11-19",
+  "ignored": "2026-07-21"
+ },
+ {
+  "id": "eric-burlison",
+  "field": "date",
+  "kept": "2026-05-22",
+  "ignored": "2024-11-13"
+ },
+ {
+  "id": "tim-burchett",
+  "field": "date",
+  "kept": "2023-07-26",
+  "ignored": "2025-09-09"
+ },
+ {
+  "id": "jon-kosloski",
+  "field": "date",
+  "kept": "2024-11-19",
+  "ignored": "2026-07-21"
+ },
+ {
+  "id": "anna-paulina-luna",
+  "field": "date",
+  "kept": "2025-09-09",
+  "ignored": "2026-04-01"
+ },
+ {
+  "id": "eric-burlison",
+  "field": "date",
+  "kept": "2026-05-22",
+  "ignored": "2026-07-23"
+ },
+ {
+  "id": "christopher-mellon",
+  "field": "date",
+  "kept": "2017-12-16",
+  "ignored": "2026-05-14"
+ },
+ {
+  "id": "tim-gallaudet",
+  "field": "date",
+  "kept": "2024-11-13",
+  "ignored": "2026-05-14"
+ },
+ {
+  "id": "ryan-graves",
+  "field": "date",
+  "kept": "2023-07-26",
+  "ignored": "2026-05-14"
+ },
+ {
+  "id": "john-greenewald",
+  "field": "date",
+  "kept": "2022-08-17",
+  "ignored": "2026-07-21"
+ },
+ {
+  "id": "harold-puthoff",
+  "field": "date",
+  "kept": "2010-01-01",
+  "ignored": "2009-01-01"
+ },
+ {
+  "id": "eric-davis",
+  "field": "date",
+  "kept": "2010-01-01",
+  "ignored": "2019-10-21"
+ },
+ {
+  "id": "garry-nolan",
+  "field": "date",
+  "kept": "2023-06-05",
+  "ignored": "2022-01-01"
+ },
+ {
+  "id": "jacques-vallee",
+  "field": "date",
+  "kept": "1995-01-01",
+  "ignored": "2022-01-01"
+ },
+ {
+  "id": "colm-kelleher",
+  "field": "date",
+  "kept": "2009-07-01",
+  "ignored": "2008-09-01"
+ },
+ {
+  "id": "peter-skafish",
+  "field": "date",
+  "kept": "2026-06-22",
+  "ignored": "2023-08-15"
+ },
+ {
+  "id": "kirk-mcconnell",
+  "field": "date",
+  "kept": "2026-06-22",
+  "ignored": "2024-03-01"
+ },
+ {
   "id": "earthtech-international",
   "field": "dateStart",
   "kept": "1985",
@@ -40,6 +322,48 @@
   "field": "dateStart",
   "kept": "2022",
   "ignored": "2023"
+ },
+ {
+  "id": "sean-kirkpatrick",
+  "field": "date",
+  "kept": "2024-03-08",
+  "ignored": "2023-12-01"
+ },
+ {
+  "id": "jay-stratton",
+  "field": "date",
+  "kept": "2009-01-01",
+  "ignored": "2021-12-01"
+ },
+ {
+  "id": "susan-gough",
+  "field": "date",
+  "kept": "2019-06-13",
+  "ignored": "2023-06-06"
+ },
+ {
+  "id": "avi-loeb",
+  "field": "date",
+  "kept": "2026-06-15",
+  "ignored": "2026-06-17"
+ },
+ {
+  "id": "luis-elizondo",
+  "field": "date",
+  "kept": "2017-10-04",
+  "ignored": "2024-11-13"
+ },
+ {
+  "id": "tim-burchett",
+  "field": "date",
+  "kept": "2023-07-26",
+  "ignored": "2026-04-06"
+ },
+ {
+  "id": "kirsten-gillibrand",
+  "field": "date",
+  "kept": "2021-12-27",
+  "ignored": "2024-11-19"
  },
  {
   "id": "yankee-blue",
@@ -64,6 +388,12 @@
   "field": "dateStart",
   "kept": "1996",
   "ignored": "1994"
+ },
+ {
+  "id": "walter-haut",
+  "field": "date",
+  "kept": "1947-07-08",
+  "ignored": "2005-12-15"
  },
  {
   "id": "usc-10-119",

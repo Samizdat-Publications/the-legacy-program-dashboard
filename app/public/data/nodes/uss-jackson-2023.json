@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -145,9 +146,7 @@
 "deg": 5,
 "denials": [],
 "desc": "On 15 February 2023 at approximately 1915 PST in Warning Area W-291 off Southern California, the crew of USS Jackson (LCS-6) observed and recorded four self-luminous tic-tac-shaped objects, one of which was tracked emerging from the ocean. Senior Chief Operations Specialist Alexandro Wiggins testified to the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 that the objects had 'no visible control surfaces and no exhaust plume - features inconsistent with conventional aircraft,' and that the combat information center recorded the event on a Star SAFIRE multi-spectral electro-optical/infrared system, with footage carrying 'timestamps, lat/long, and platform readouts consistent with USS Jackson's location.' This is the highest-quality maritime UAP recording in the public record with an active-duty witness attached to it - and it did not reach the public through the Navy or AARO. It reached the public through journalists Jeremy Corbell and George Knapp, after which Wiggins carried it to Congress under his own name while still serving. Nineteen years after the Nimitz, in adjacent Southern California warning areas, with an object of the same reported morphology and an intact calibrated sensor record, the government has published no assessment.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -161,7 +160,11 @@
 "label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -181,25 +184,28 @@
 ],
 "sub": "Four transmedium objects recorded on Star SAFIRE EO/IR",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 722 of 1170, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 721 of 1170, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-02-15",
+"grade": "A",
 "id": "av-2023-02-15",
 "label": "USS Jackson records four objects",
 "precision": "day",
 "strand": "witness",
-"text": "At about 1915 PST in Warning Area W-291, USS Jackson's CIC records four self-luminous tic-tac objects, one emerging from the ocean, on a Star SAFIRE EO/IR system with intact position and time metadata.",
-"tier": "A"
+"text": "At about 1915 PST in Warning Area W-291, USS Jackson's CIC records four self-luminous tic-tac objects, one emerging from the ocean, on a Star SAFIRE EO/IR system with intact position and time metadata."
 },
 {
+"claimTier": null,
 "date": "2025-04-17",
+"grade": "B",
 "id": "av-2025-04-17",
 "label": "USS Jackson footage surfaces publicly",
 "precision": "day",
 "strand": "witness",
-"text": "The 2023 W-291 recording and independent analysis of it reach the public through journalists rather than through the Navy or AARO.",
-"tier": "B"
+"text": "The 2023 W-291 recording and independent analysis of it reach the public through journalists rather than through the Navy or AARO."
 }
-]
+],
+"unverified": []
 }

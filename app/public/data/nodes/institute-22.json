@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -41,7 +42,7 @@
 "url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 }
 ],
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "'Institute 22' is the name under which the joint Academy of Sciences and Ministry of Defence Soviet UAP effort of 1978-1991 appears in Western secondary literature, chiefly Timothy Good's Need to Know: UFOs, the Military, and Intelligence (2007). On that account it investigated around 3,000 UFO reports and left five to ten per cent unexplained when it dissolved, and orders to observe and report unexplained events were issued widely across the Soviet armed forces without explanation because the Ministry of Defence was involved and no questions could be asked. The label overlaps substantially with what Russian-language sources call SETKA-MO and SETKA-AN, and it should be treated as a Western naming convention for the same apparatus rather than as an independently documented separate body until the primary Russian record is worked. Its principal value on this board is the reporting-volume figure and the confirmation that the Soviet system used routine military tasking to feed a covert analytic centre - the same architecture as the British DI55 arrangement.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -67,7 +66,11 @@
 "label": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-01-01",
@@ -83,5 +86,6 @@
 "sub": "Secret Soviet UAP body created 1978, dissolved with the USSR",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1081 of 1170, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

@@ -75,7 +75,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"history-1970s-2000s"
+"d-witness",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -96,6 +97,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "James W. Penniston",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2020-12-26",
@@ -116,7 +120,7 @@
 "status": "active",
 "sub": "USAF SSgt, 81st Security Police Squadron; first responder, Rendlesham 26 Dec 1980",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 841 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 842 of 1170, score 20). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

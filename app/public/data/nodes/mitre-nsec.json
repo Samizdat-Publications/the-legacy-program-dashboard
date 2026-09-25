@@ -27,6 +27,7 @@
 ],
 "cls": "program",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "NSEC is the FFRDC that would hold anything responsive to Burlison's request. It is MITRE's Department of Defense and Intelligence Community centre, sponsored by the Under Secretary of Defense for Research and Engineering, with its primary location reassigned to McLean, Virginia in 2025, and funded at roughly 1.43 billion dollars in FY2024 - larger than the Aerospace FFRDC and larger than MIT Lincoln Laboratory. MITRE's own fact sheet dates NSEC's lineage to 1958, meaning the DoD centre is coextensive with the corporation itself. Work is placed through Army Contracting Command task orders under indefinite-delivery vehicle W56KGU18D0004, with individual annual task orders running from roughly 583 million dollars in FY20 to roughly 752 million dollars in FY25. NSEC sits inside MITRE National Security, run by Dana Keoki Jackson, formerly Chief Technology Officer of Lockheed Martin, with a subordinate Intelligence Center. Because NSEC is MITRE's only DoD/IC-sponsored centre it is the only one operating at the classification levels at which Special Access Program and controlled-access material would reside; the aviation, tax, health, homeland and cybersecurity centres do not. Any MITRE records concerning technologies of unknown origin, materials exploitation or legacy programme security architecture are, by elimination, NSEC records - and NSEC's disclosure obligation runs to USD(R&E), not to the House Oversight Committee.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -98,7 +97,11 @@
 "label": "National Security Engineering Center (NSEC)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National Security Engineering Center (NSEC)",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -118,6 +121,7 @@
 ],
 "sub": "MITRE-operated FFRDC; sponsor DoD, Under Secretary of Defense for Research and Engineering; since 1958",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 387 of 1170, score 35). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 389 of 1170, score 35). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D1.",
+"timeline": [],
+"unverified": []
 }

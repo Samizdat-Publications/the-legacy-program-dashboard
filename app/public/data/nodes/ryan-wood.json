@@ -87,7 +87,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"w2-retrieval-literature"
+"d-recovery",
+"d-mj12"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -108,6 +109,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Ryan S. Wood",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",

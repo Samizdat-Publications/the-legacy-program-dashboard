@@ -32,6 +32,7 @@
 ],
 "cls": "legislation",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -113,18 +114,20 @@
 "deg": 3,
 "denials": [
 {
-"by": {
+"a": {
 "id": "uapda-2024-samdt-2610",
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
 },
+"b": {
+"id": "iaa-fy2025-title-lxviii",
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "Never called up; FY2025 enacted with no disclosure regime",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
-"of": {
-"id": "iaa-fy2025-title-lxviii",
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-07-11",
@@ -140,10 +143,7 @@
 }
 ],
 "desc": "Title LXVIII of the Intelligence Authorization Act for FY2025, enacted inside P.L. 118-159 on 23 December 2024, is what UAP oversight looked like in the year the disclosure bill got no vote. Sec. 6801 directs the Comptroller General to review AARO's implementation of its duties under 50 U.S.C. 3373, including its operational reporting process and its coordination with DoD, the intelligence community, other agencies and non-Government entities, and to report to the intelligence and defence committees and congressional leadership 'in a timeframe mutually agreed upon' — a deadline with no date in it. Sec. 6802 does the opposite of oversight: it amends Sec. 6803 of the IAA FY2023 to terminate the Comptroller General's quarterly information-sharing on Historical Record Report audits 90 days after the final volume is delivered, and the semiannual verbal briefings to Congress 180 days after. The FY2025 cycle therefore both commissions a new GAO look and puts an expiry on the existing one, while the disclosure regime the Senate had passed twice went unconsidered.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -154,10 +154,15 @@
 "hl": null,
 "id": "iaa-fy2025-title-lxviii",
 "l0": false,
-"label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "locLabel": null,
 "members": null,
-"short": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+"openQuestions": [],
+"short": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2024-12-23",
@@ -172,25 +177,28 @@
 ],
 "sub": "GAO review of AARO; sunset of Historical Record audit",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 594 of 1170, score 28). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 590 of 1170, score 28). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-12-23",
+"grade": "A",
 "id": "cl-2024-12-23",
 "label": "FY2025 enacted with no disclosure regime",
 "precision": "day",
 "strand": "coverup",
-"text": "P.L. 118-159 contains only a GAO review of AARO and a sunset on audit briefings. The FY2024 funding bar on undisclosed UAP special access programmes is not renewed.",
-"tier": "A"
+"text": "P.L. 118-159 contains only a GAO review of AARO and a sunset on audit briefings. The FY2024 funding bar on undisclosed UAP special access programmes is not renewed."
 },
 {
+"claimTier": null,
 "date": "2024-12-23",
+"grade": "B",
 "id": "tl-2024-12-23-pl118159",
 "label": "FY2025 NDAA orders a GAO review of AARO and sunsets the Historical Record audits",
 "precision": "day",
 "strand": "program",
-"text": "Public Law 118-159 is approved. Title LXVIII sec. 6801 directs the Comptroller General to review AARO's implementation of 50 U.S.C. 3373; sec. 6802 ends the GAO briefing and reporting cadence on the UAP Historical Record Report a set period after AARO delivers its final volume.",
-"tier": "B"
+"text": "Public Law 118-159 is approved. Title LXVIII sec. 6801 directs the Comptroller General to review AARO's implementation of 50 U.S.C. 3373; sec. 6802 ends the GAO briefing and reporting cadence on the UAP Historical Record Report a set period after AARO delivers its final volume."
 }
-]
+],
+"unverified": []
 }

@@ -92,6 +92,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -176,29 +177,13 @@
 "id": "david-fravor",
 "l0": false,
 "label": "David Fravor",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept.",
 "sources": [
 {
 "date": "2023-07-26",
 "name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": "2023",
-"dateStart": "2023",
-"direction": "in",
-"edgeLabel": "Testified as former commanding officer, VFA-41",
-"id": "david-fravor",
-"l0": false,
-"label": "David Fravor",
-"note": "Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept.",
-"sources": [
 {
 "date": "2023-07-26",
 "name": "House Oversight - hearing page, 26 July 2023",
@@ -215,7 +200,7 @@
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "witness-chain"
 },
 {
@@ -259,29 +244,13 @@
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
-"note": "Listed in the printed hearing record as a witness; testified under oath.",
+"note": "Grusch testified under oath before the House Oversight national security subcommittee, producing the 40-witness figure, the nonhuman biologics answer, the harm and murder exchanges, and the misappropriation and IR&D funding answers.",
 "sources": [
 {
 "date": "2023-07-26",
 "name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": null,
-"dateStart": "2023",
-"direction": "in",
-"edgeLabel": "Sworn witness; testified to non-human biologics, named SAPs he could not disclose, and harm to persons",
-"id": "david-grusch",
-"l0": false,
-"label": "David Charles Grusch",
-"note": "Grusch testified under oath before the House Oversight national security subcommittee, producing the 40-witness figure, the nonhuman biologics answer, the harm and murder exchanges, and the misappropriation and IR&D funding answers.",
-"sources": [
 {
 "date": "2023-07-26",
 "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
@@ -629,29 +598,13 @@
 "id": "ryan-graves",
 "l0": false,
 "label": "Ryan Graves",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record.",
 "sources": [
 {
 "date": "2023-07-26",
 "name": "CHRG-118hhrg53022, printed hearing transcript, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', Serial No. 118-53",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/pdf/CHRG-118hhrg53022.pdf"
-}
-],
-"tier": "B",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": "2023",
-"dateStart": "2023",
-"direction": "in",
-"edgeLabel": "Lead witness at the July 2023 House Oversight hearing",
-"id": "ryan-graves",
-"l0": false,
-"label": "Ryan Graves",
-"note": "Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record.",
-"sources": [
 {
 "date": "2023-07-26",
 "name": "House Oversight - hearing page, 26 July 2023",
@@ -720,6 +673,14 @@
 "deg": 20,
 "denials": [
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -742,13 +703,7 @@
 }
 ],
 "desc": "On 26 July 2023 at 10:00 am in 2154 Rayburn, the House Committee on Oversight and Accountability's Subcommittee on National Security, the Border, and Foreign Affairs held the first congressional hearing at which a former intelligence officer testified under oath that the United States possesses craft of non-human origin. The witnesses were Ryan Graves, formerly of VFA-11 and now executive director of Americans for Safe Aerospace; retired Cdr. David Fravor, former commanding officer of VFA-41 and the lead aircrew on the 14 November 2004 Nimitz intercept; and David Grusch, former National Reconnaissance Office representative to the Unidentified Anomalous Phenomena Task Force. Rep. Tim Burchett and Rep. Anna Paulina Luna drove the hearing; James Comer chaired the full committee. Three things came out of it that the board treats as permanent. Fravor placed on the record, in writing and under oath, that after the most corroborated encounter in the modern record 'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.' Grusch testified that he had been informed of a multi-decade crash retrieval and reverse-engineering programme, that he had provided the information to the Intelligence Community Inspector General and to Congress, that he knew the exact locations and had provided them to the ICIG and the Intelligence committees in classified session, and that he had witnessed and reported administrative terrorism against colleagues. Graves testified to the operational reporting problem in the Atlantic operating areas. What did not come out of it is equally important: no contractor was called, no document production was compelled, and the 'specific cooperative and hostile witness list' Grusch offered Rep. Nancy Mace under oath has never been produced publicly. The hearing established the subject as legitimate congressional business and simultaneously demonstrated the limits of a committee without jurisdiction over the compartments it is asking about.",
-"domains": [
-"_rs-legislation",
-"congress-house",
-"grusch",
-"primes-custody",
-"w2-places-events"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -908,7 +863,7 @@
 "cls": "person",
 "id": "david-fravor",
 "label": "David Fravor",
-"tier": "A"
+"tier": "B"
 },
 {
 "cls": "person",
@@ -995,7 +950,15 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "House Oversight hearing, 26 July 2023",
+"sourceFiles": [
+"_rs-legislation",
+"congress-house",
+"grusch",
+"primes-custody",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -1055,79 +1018,88 @@
 ],
 "sub": "congressional-hearings",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 24 of 1170, score 103). 25 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 35 of 1170, score 91). 22 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-07-20",
+"grade": "A",
 "id": "ch-2023-07-20",
 "label": "Hearing noticed",
 "precision": "day",
 "strand": "oversight",
-"text": "The Oversight National Security subcommittee announces a UAP hearing with Graves, Grusch and Fravor as witnesses.",
-"tier": "A"
+"text": "The Oversight National Security subcommittee announces a UAP hearing with Graves, Grusch and Fravor as witnesses."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "av-2023-07-26",
 "label": "Aviators testify to House Oversight",
 "precision": "day",
 "strand": "oversight",
-"text": "Fravor and Graves testify alongside David Grusch. Fravor's statement: 'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
-"tier": "A"
+"text": "Fravor and Graves testify alongside David Grusch. Fravor's statement: 'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'"
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "ch-2023-07-26a",
 "label": "The founding hearing",
 "precision": "day",
 "strand": "oversight",
-"text": "Grothman gavels in the first modern House UAP hearing in 2154 Rayburn and waives Burchett, Luna, Gaetz, Burlison, Ocasio-Cortez and Ogles onto the subcommittee.",
-"tier": "A"
+"text": "Grothman gavels in the first modern House UAP hearing in 2154 Rayburn and waives Burchett, Luna, Gaetz, Burlison, Ocasio-Cortez and Ogles onto the subcommittee."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "g-tl-2023-07-hearing",
 "label": "Sworn testimony before House Oversight",
 "precision": "day",
 "strand": "oversight",
-"text": "Grusch testifies to a multi-decade crash retrieval and reverse engineering program, over 40 witnesses interviewed across four years, nonhuman biologics recovered with craft, personal knowledge of people harmed, and funding by misappropriation and contractor IR&D. Members state they were denied a SCIF.",
-"tier": "A"
+"text": "Grusch testifies to a multi-decade crash retrieval and reverse engineering program, over 40 witnesses interviewed across four years, nonhuman biologics recovered with craft, personal knowledge of people harmed, and funding by misappropriation and contractor IR&D. Members state they were denied a SCIF."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "ms-2023-hearing",
 "label": "House Oversight UAP hearing",
 "precision": "day",
 "strand": "oversight",
-"text": "George Knapp attends; the hearing establishes the congressional venue that Shellenberger will use sixteen months later.",
-"tier": "A"
+"text": "George Knapp attends; the hearing establishes the congressional venue that Shellenberger will use sixteen months later."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "pc-2023-07-hearing",
 "label": "Grusch names IR&D under oath",
 "precision": "day",
 "strand": "oversight",
-"text": "Asked how unreported programs are funded, Grusch answers 'misappropriation of funds and self-fund,' then identifies IR&D as the channel, and tells the committee that contractors have no obligation to report UAP encounters.",
-"tier": "A"
+"text": "Asked how unreported programs are funded, Grusch answers 'misappropriation of funds and self-fund,' then identifies IR&D as the channel, and tells the committee that contractors have no obligation to report UAP encounters."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "tl-2023-07-26-hearing",
 "label": "Grusch testifies to House Oversight under oath",
 "precision": "day",
 "strand": "program",
-"text": "The House Oversight Subcommittee on National Security, the Border, and Foreign Affairs hears Ryan Graves, David Grusch and Cdr. David Fravor (Ret.) in room 2154 Rayburn. Grusch testifies that he 'was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access', and, asked whether recovered biologics were human or nonhuman, answers 'Nonhuman'. Printed as Serial No. 118-53 (CHRG-118hhrg53022).",
-"tier": "A"
+"text": "The House Oversight Subcommittee on National Security, the Border, and Foreign Affairs hears Ryan Graves, David Grusch and Cdr. David Fravor (Ret.) in room 2154 Rayburn. Grusch testifies that he 'was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program to which I was denied access', and, asked whether recovered biologics were human or nonhuman, answers 'Nonhuman'. Printed as Serial No. 118-53 (CHRG-118hhrg53022)."
 },
 {
+"claimTier": null,
 "date": "2023-07-26",
+"grade": "A",
 "id": "tl-2023-hearing",
 "label": "Grusch, Fravor and Graves testify",
 "precision": "day",
 "strand": "oversight",
-"text": "The first congressional hearing at which a former intelligence officer testifies under oath to a multi-decade crash retrieval programme. No contractor is called and no document production is compelled.",
-"tier": "A"
+"text": "The first congressional hearing at which a former intelligence officer testifies under oath to a multi-decade crash retrieval programme. No contractor is called and no document production is compelled."
 }
-]
+],
+"unverified": []
 }

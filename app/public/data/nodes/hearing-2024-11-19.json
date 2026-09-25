@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,6 +78,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "hearing-2024-11-19",
+"label": "SASC hearing: Activities of the All-domain Anomaly Resolution Office"
+},
+"b": {
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
 "by": {
 "id": "hearing-2024-11-19",
 "label": "SASC hearing: Activities of the All-domain Anomaly Resolution Office"
@@ -104,9 +113,7 @@
 }
 ],
 "desc": "Jon Kosloski's first congressional testimony as AARO director, before the Senate Armed Services Subcommittee on Emerging Threats and Capabilities on 19 November 2024, six days after the House Oversight hearing at which Elizondo and Gallaudet testified and five days after the FY2024 annual report. His statement for the record put AARO's holdings at over 1,600 reports and delivered the standard formula: to date, AARO has discovered no verifiable evidence of extraterrestrial beings, activity, or technology, with most reports resolving to birds, balloons and unmanned systems and only a very small percentage potentially anomalous. What made the appearance notable was the concession alongside it - that AARO is analysing several cases that are truly anomalous and that he does not understand. The statement for the record makes no mention of whistleblowers, of Immaculate Constellation, or of the status of Historical Record Report Volume II.",
-"domains": [
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -120,7 +127,11 @@
 "label": "SASC hearing: Activities of the All-domain Anomaly Resolution Office",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "SASC hearing: Activities of the All-domain Anomaly Resolution Office",
+"sourceFiles": [
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2024-11-19",
@@ -143,13 +154,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 670 of 1170, score 26). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-11-19",
+"grade": "A",
 "id": "tl-sasc-2024-11-19",
 "label": "Kosloski testifies to the Senate",
 "precision": "day",
 "strand": "oversight",
-"text": "Over 1,600 reports held; no verifiable evidence of extraterrestrial beings, activity or technology; several cases 'truly anomalous'. No mention of whistleblowers, Immaculate Constellation, or Volume II.",
-"tier": "A"
+"text": "Over 1,600 reports held; no verifiable evidence of extraterrestrial beings, activity or technology; several cases 'truly anomalous'. No mention of whistleblowers, Immaculate Constellation, or Volume II."
 }
-]
+],
+"unverified": []
 }

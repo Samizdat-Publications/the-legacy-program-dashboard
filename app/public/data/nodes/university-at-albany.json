@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -191,10 +192,7 @@
 "deg": 6,
 "denials": [],
 "desc": "CORRECTED NODE - description updated to add Cecilia Levy, the second 2025 paper, and the departmental research-interest listing. The physics department at the University at Albany is, improbably, the most productive academic base in this field outside Stanford and Harvard. It employs Kevin Knuth - information physicist, former NASA Ames research scientist and Editor-in-Chief of Entropy since 2012, on the faculty since 2005 and a full professor since 2023 - along with Matthew Szydagis, a liquid-xenon dark-matter physicist who created the Noble Element Simulation Technique used across the direct-detection community, and Cecilia Levy, an LZ physicist and Szydagis's co-developer on the Snowball Chamber. What makes the institution more than an address is that the commitment is on the record in the department's own materials: Szydagis's faculty page lists 'Unidentified Anomalous Phenomena' among his research interests, and the University's news office published the June 2025 field results under its own masthead, naming the three as 'UAlbany authors' and reporting the honest outcome that the team 'succeeded in plausibly explaining all but one of the potential anomalies detected'. Two papers came out of the same Progress in Aerospace Sciences special edition: the UAPx field-expedition results and Knuth's 34-author review, 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)'. Knuth also produced the 2019 Entropy kinematics paper on the Nimitz encounter, and in June 2025 received SCU's inaugural Distinguished Scholar Award. That a mid-sized state university supplies a meaningful fraction of the world's peer-reviewed UAP instrumentation output is a measure of how little institutional capacity exists. Note that UAlbany is not the host or funder of UAPx - the field work was funded by Caroline Cory of OMnium Media for the documentary 'A Tear in the Sky' (2022).",
-"domains": [
-"scientists-technical",
-"w11-final-unattached"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -313,7 +311,12 @@
 "label": "University at Albany (SUNY), Department of Physics",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "University at Albany, Physics",
+"sourceFiles": [
+"scientists-technical",
+"w11-final-unattached"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -348,6 +351,7 @@
 ],
 "sub": "Academic home of Kevin Knuth and Matthew Szydagis; institutional base of UAPx",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 508 of 1170, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 509 of 1170, score 31). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"timeline": [],
+"unverified": []
 }

@@ -58,7 +58,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"ffrdcs"
+"d-ffrdc"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -79,6 +79,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jason Providakes",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2024-06-27",
@@ -94,7 +97,7 @@
 "status": "former",
 "sub": "President and CEO, The MITRE Corporation (2017-2024)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1016 of 1170, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1017 of 1170, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

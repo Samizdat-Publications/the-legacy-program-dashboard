@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -114,9 +115,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The Debrief is the outlet of record for this subject, and the circumstances of its most important story tell you why an outlet of record was needed. Co-founded by Micah Hanks (Editor-in-Chief), Tim McMillan (Executive Director) and MJ Banias (Content Director), with Chrissy Newton, Chris Plain and contributors including Avi Loeb, it describes itself as 'Rebelliously Curious in Exploring Frontier Science and Innovative Technology' and commits to reporting that is 'intellectually honest; skeptical, but open-minded when evidence of new scientific possibilities exists; and grounded in evidence.' On 5 June 2023 The Debrief published Leslie Kean and Ralph Blumenthal's David Grusch story after the New York Times - which had carried the same authors' 2017 AATIP scoop - did not run it. That transfer is one of the cleanest documented illustrations of institutional press behaviour on this subject: the story did not fail verification, it failed placement. Since then The Debrief has maintained the continuous trade record the field lacks - Micah Hanks' 17 October 2024 Immaculate Constellation report, coverage of the AARO annual reports, analysis of the UAP Disclosure Act's repeated defeats, and reporting on the drone incursions over US bases.",
-"domains": [
-"media-structure"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -130,7 +129,11 @@
 "label": "The Debrief",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Debrief",
+"sourceFiles": [
+"media-structure"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -150,25 +153,28 @@
 ],
 "sub": "Independent science and defence outlet",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 921 of 1170, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 920 of 1170, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-06-05",
+"grade": "A",
 "id": "ms-2023-grusch",
 "label": "Grusch story published by The Debrief",
 "precision": "day",
 "strand": "witness",
-"text": "Kean and Blumenthal publish David Grusch's claim that the US operates a multi-decade crash retrieval and reverse-engineering programme. The New York Times, which ran their 2017 scoop, does not run it; The Debrief does.",
-"tier": "A"
+"text": "Kean and Blumenthal publish David Grusch's claim that the US operates a multi-decade crash retrieval and reverse-engineering programme. The New York Times, which ran their 2017 scoop, does not run it; The Debrief does."
 },
 {
+"claimTier": null,
 "date": "2023-06-05",
+"grade": "A",
 "id": "ms-cv-2023-nyt-decline",
 "label": "The paper of record declines the Grusch story",
 "precision": "day",
 "strand": "coverup",
-"text": "Leslie Kean and Ralph Blumenthal, whose 2017 AATIP scoop the New York Times published, take the David Grusch story to The Debrief instead. The story did not fail verification; it failed placement. The change of venue is an artefact of institutional appetite and belongs in the concealment record, not the journalism record.",
-"tier": "A"
+"text": "Leslie Kean and Ralph Blumenthal, whose 2017 AATIP scoop the New York Times published, take the David Grusch story to The Debrief instead. The story did not fail verification; it failed placement. The change of venue is an artefact of institutional appetite and belongs in the concealment record, not the journalism record."
 }
-]
+],
+"unverified": []
 }

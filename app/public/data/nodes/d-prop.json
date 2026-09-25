@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -48,7 +49,7 @@
 "claimTier": 3,
 "cls": "domain",
 "dateEnd": null,
-"dateStart": null,
+"dateStart": "2004-11-14",
 "direction": "out",
 "edgeLabel": "Reported kinematics set the physics requirement",
 "id": "d-aviators",
@@ -114,18 +115,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "institute-of-field-physics",
 "label": "Institute of Field Physics (UNC Chapel Hill)"
 },
+"b": {
+"id": "d-prop",
+"label": "Propulsion & Field Physics"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Standing written disclaimer of any connection to anti-gravity research",
 "note": "On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute.",
-"of": {
-"id": "d-prop",
-"label": "Propulsion & Field Physics"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-09-02",
@@ -136,9 +139,7 @@
 }
 ],
 "desc": "The observed flight characteristics reported by aviators - hypersonic velocity without a thermal signature, instantaneous acceleration without a control surface, transmedium travel - are incompatible with reaction propulsion, which is why every serious technical treatment of the subject ends in field physics. That is not a fringe observation but a funded one: DIA's AAWSAP reference documents include commissioned studies on vacuum spacetime metric engineering, on warp drive and negative energy, and on antigravity for aerospace applications. The independent-analysis strand is equally real - Knuth, Powell and Reali published estimates of the flight characteristics of the 2004 Nimitz object in the MaxEnt 2019 proceedings, deriving accelerations and power requirements from the reported kinematics and finding them orders of magnitude beyond known aerospace capability. The documented dual-use route runs through patents: the US Navy has prosecuted and been granted patents in the names of Salvatore Cezar Pais covering high-frequency gravitational wave generators and inertial mass reduction devices, with the Naval Air Warfare Center as assignee, and those filings are public in the USPTO record regardless of what one concludes about them. Scoring high on this domain means an entity worked, funded or filed in this space.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -152,7 +153,11 @@
 "label": "Propulsion & Field Physics",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Propulsion & Field Physics",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2010-01-01",
@@ -177,6 +182,7 @@
 ],
 "sub": "Technical domain - gravitic, inertial-mass and metric-engineering approaches to flight",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 510 of 1170, score 31). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 511 of 1170, score 31). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"timeline": [],
+"unverified": []
 }

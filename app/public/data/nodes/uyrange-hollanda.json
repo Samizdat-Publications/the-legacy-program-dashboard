@@ -196,7 +196,9 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"w2-international"
+"d-international",
+"d-witness",
+"d-custody"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -217,6 +219,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-01-01",
@@ -232,7 +237,7 @@
 "status": "dead",
 "sub": "Brazilian Air Force captain; commander of Operação Prato, 1977-1978",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 584 of 1170, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 583 of 1170, score 28). 4 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

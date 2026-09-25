@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,10 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Injury is the one class of evidence in this field that generates records outside the security system: an emergency department chart, a radiology report, a service-connected disability claim. The Defense Intelligence Agency commissioned exactly this line of inquiry under AAWSAP - Defense Intelligence Reference Document 26, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', and a companion study by Christopher 'Kit' Green of the Institute for Advanced Studies at Austin on 'Clinical Medical Acute and Subacute Field Effects on Human Dermal and Neurological Tissues'. Those are government-commissioned medical studies of injuries attributed to proximity to anomalous phenomena, written by a named former CIA analyst with medical credentials, and released under FOIA. The civil-litigation counterpart is Cash v. United States, the Cash-Landrum suit filed in the Southern District of Texas over injuries the plaintiffs attributed to a December 1980 encounter, dismissed in August 1986. The dual-use route is uncomfortable and must be named: the same clinical signature - dermal burns, neurological deficit, radiation-type presentation - is produced by directed-energy and radiofrequency exposure from conventional systems. Scoring high on this domain means an entity treated, studied or suffered such effects.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -110,7 +108,12 @@
 "label": "Medical & Injury Effects",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Medical & Injury Effects",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2010-01-01",
@@ -140,6 +143,7 @@
 ],
 "sub": "Scientific domain - documented physiological harm to personnel and civilians near reported events",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 546 of 1170, score 30). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 540 of 1170, score 30). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"timeline": [],
+"unverified": []
 }

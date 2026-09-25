@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -187,10 +188,7 @@
 "deg": 7,
 "denials": [],
 "desc": "Everything this board describes is, on its face, legal - and that is the point. Classification authority flows from executive order rather than statute for most national security information, which means the same executive branch that runs a programme also decides whether Congress and the courts may learn of it. Layered on top are the Atomic Energy Act's 'born classified' Restricted Data regime, the Invention Secrecy Act's power to impose secrecy orders on patent applications, and 50 U.S.C. 3510's authority for unvouchered and confidential expenditure certified by agency heads rather than audited. The dual-use route into a concealment programme is simple and requires no conspiracy: an activity placed inside a special access programme, then waived from ordinary congressional notification under the exception in 10 U.S.C. 119, is protected by exactly the same machinery whether it holds a stealth aircraft or a recovered craft, and the machinery cannot tell the difference. Scoring high on this domain means an entity is a wielder of classification authority - an original classification authority, a security officer, a programme security manager - rather than a person subject to it.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -204,7 +202,12 @@
 "label": "Secrecy Law & Classification",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Secrecy Law & Classification",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -229,6 +232,7 @@
 ],
 "sub": "Legal domain - the statutory and executive machinery that makes concealment lawful",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 280 of 1170, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 279 of 1170, score 40). 7 connections, 3 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"timeline": [],
+"unverified": []
 }

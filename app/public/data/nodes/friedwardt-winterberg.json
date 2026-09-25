@@ -161,10 +161,7 @@
 "dateStart": "2010-01-01",
 "deg": 3,
 "denials": [],
-"domains": [
-"w7-dirds-1",
-"w7-dirds-3"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -184,6 +181,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Friedwardt Winterberg",
+"sourceFiles": [
+"w7-dirds-1",
+"w7-dirds-3"
+],
 "sources": [
 {
 "date": null,
@@ -234,7 +235,7 @@
 "status": "active",
 "sub": "Theoretical physicist, Research Professor, University of Nevada, Reno; author of two AAWSAP DIRDs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 425 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 428 of 1170, score 33). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

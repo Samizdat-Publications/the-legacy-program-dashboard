@@ -27,6 +27,9 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [
+"Two NORAD documents nine days apart name two different Minot installations for the November 1975 activity, and this board resolves neither."
+],
 "connections": [
 {
 "claimTier": 1,
@@ -171,9 +174,7 @@
 "deg": 6,
 "denials": [],
 "desc": "THE HUB WITH THE MOST INDEPENDENT DETECTION CHANNELS AND ONE UNRESOLVED NAMING PROBLEM. Minot Air Force Base, North Dakota, home of the 91st Strategic Missile Wing and the 5th Bomb Wing, is the convergence point for three separate episodes this board already carries in pieces without a place to hang them on: the 1966 incursions over its Minuteman launch facilities, the 24 October 1968 B-52 case, which is the best-instrumented nuclear-site incursion in the American record, and its named appearance in the CINCNORAD four-part message of 11 November 1975. THE NAMING PROBLEM IS REAL AND MUST NOT BE SILENTLY RESOLVED. For 10 November 1975 the 24th NORAD Region Senior Director's Log records a sighting at 'Minot Air Force Station', a radar site, and its own next clause says the object 'passed over the radar station'. Nine days later CINCNORAD's summary message lists 'Minot AFB, ND' among the installations where reliable military personnel had visually sighted suspicious objects. Two NORAD documents from the same period name two different Minot installations, and nothing opened by this board resolves which is meant. That matters for this hub specifically, because a degree count on l-minot that silently absorbs a radar-station entry is a degree count that lies.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -187,7 +188,11 @@
 "label": "Minot AFB, North Dakota",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Minot AFB, North Dakota",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1975-11-19",
@@ -217,6 +222,10 @@
 ],
 "sub": "SAC installation; 91st Strategic Missile Wing and 5th Bomb Wing; 1966 incursions, the 24 October 1968 B-52 case, and a named appearance in the CINCNORAD message of 11 November 1975",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 566 of 1170, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 565 of 1170, score 29). 6 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": [
+"The Blue Book Minot case file was NOT OPENED page by page by this board; the inventory above comes from the case archive's own documentation index.",
+"The base's dates of operation and unit lineage are not asserted here because no source establishing them was opened by this pass."
+]
 }

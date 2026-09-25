@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "On 14 October 2003, Boeing contractors at Vandenberg Air Force Base - home of the National Missile Defense project - reported 'a massive, glowing red square silently hovering over two missile defense sites,' according to the sworn testimony of Jeffrey Nuccetelli, who served there in military police. The same night security guards reported a bright, fast-moving object and witnesses described 'a massive rectangular craft, larger than a football field.' A week later a patrol reported an object over the ocean heading toward the base that descended and 'vanished instantly into the night sky.' In 2005 a patrol reported 'a massive triangular craft, larger than a C-130, hovering low over the main base.' Nuccetelli testified that 'Official Air Force records documenting it are now held by AARO and the FBI' and that one witness 'was threatened and told to kept quiet about the incident.' The Vandenberg case is the strategic-asset analogue of the naval encounters: same period, same reporting suppression, but over a missile defence installation rather than a carrier strike group - and with a specific, FOIA-targetable custody claim attached.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -88,7 +87,11 @@
 "label": "Vandenberg AFB Incidents (2003-2005)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Vandenberg AFB Incidents (2003-2005)",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -106,13 +109,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 784 of 1170, score 22). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2003-10-14",
+"grade": "B",
 "id": "av-2003-10-14",
 "label": "Vandenberg red square",
 "precision": "day",
 "strand": "witness",
-"text": "Boeing contractors at Vandenberg AFB report a massive glowing red square hovering silently over two missile defense sites; security guards report a rectangular craft larger than a football field the same night.",
-"tier": "B"
+"text": "Boeing contractors at Vandenberg AFB report a massive glowing red square hovering silently over two missile defense sites; security guards report a rectangular craft larger than a football field the same night."
 }
-]
+],
+"unverified": []
 }

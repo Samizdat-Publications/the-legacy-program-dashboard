@@ -262,11 +262,6 @@
 "tier": 3
 },
 {
-"source": "House Committee on Oversight and Government Reform hearing record and press release",
-"text": "Luna chaired the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' before the Task Force on the Declassification of Federal Secrets.",
-"tier": 1
-},
-{
 "source": "House Oversight press release, 'Luna continues transparency investigation into UAPs', 1 April 2026",
 "text": "On 1 April 2026 Luna wrote to Secretary of War Hegseth demanding UAP video files held by AARO, following September 2025 whistleblower testimony that AARO held additional video records.",
 "tier": 1
@@ -547,15 +542,20 @@
 {
 "claimTier": 1,
 "cls": "event",
-"dateEnd": "2025",
-"dateStart": "2025",
+"dateEnd": null,
+"dateStart": "2025-09-09",
 "direction": "out",
-"edgeLabel": "Chaired the Task Force hearing that seated operator witnesses",
+"edgeLabel": "presiding chairwoman",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The Task Force on the Declassification of Federal Secrets built the hearing around serving and former operators rather than programme officials.",
 "sources": [
+{
+"date": "2025-09-09",
+"name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
+},
 {
 "date": "2025-09-09",
 "name": "House Oversight - hearing page, 9 Sept 2025",
@@ -564,27 +564,6 @@
 ],
 "tier": "A",
 "type": "legislative"
-},
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": null,
-"dateStart": "2025-09-09",
-"direction": "out",
-"edgeLabel": "presiding chairwoman",
-"id": "hearing-2025-09-09",
-"l0": true,
-"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "'Hon. Anna Luna, [Chairwoman of the Task Force] presiding.'",
-"sources": [
-{
-"date": "2025-09-09",
-"name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
-"url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
 {
 "claimTier": 2,
@@ -1031,18 +1010,20 @@
 "deg": 26,
 "denials": [
 {
-"by": {
+"a": {
 "id": "aaro",
 "label": "All-domain Anomaly Resolution Office (AARO)"
 },
+"b": {
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "Luna called former AARO director Kirkpatrick 'a documented liar' and AARO's channel a graveyard for testimony",
 "note": "From her 9 September 2025 opening statement, which also read Mellon's critique of AARO's historical report into the record.",
-"of": {
-"id": "anna-paulina-luna",
-"label": "Anna Paulina Luna"
-},
+"of": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -1052,6 +1033,14 @@
 ]
 },
 {
+"a": {
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"b": {
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
 "by": {
 "id": "dod",
 "label": "United States Department of Defense (secondary designation: Department of War)"
@@ -1073,18 +1062,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "sean-kirkpatrick",
 "label": "Sean M. Kirkpatrick"
 },
+"b": {
+"id": "anna-paulina-luna",
+"label": "Anna Paulina Luna"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "Kirkpatrick publicly attacked Task Force witnesses and members; Luna answered from the chair",
 "note": "Luna: 'the former AARO director known as Sean Kirkpatrick attacked our witnesses and members on this Committee. It should be noted that he is a documented liar.'",
-"of": {
-"id": "anna-paulina-luna",
-"label": "Anna Paulina Luna"
-},
+"of": null,
 "sources": [
 {
 "date": "2025-09-09",
@@ -1095,14 +1086,13 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"_rs-legislation",
-"congress-house",
-"grusch",
-"primes-custody",
-"releases-2023-2026",
-"uaptf-aaro",
-"w2-2025-2026"
+"d-oversight",
+"d-coverup",
+"d-legislation",
+"d-witness",
+"d-custody",
+"d-disclosure",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -1123,6 +1113,16 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Anna Paulina Luna",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_rs-legislation",
+"congress-house",
+"grusch",
+"primes-custody",
+"releases-2023-2026",
+"uaptf-aaro",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -1238,61 +1238,67 @@
 "status": "active",
 "sub": "U.S. Rep. (R-FL-13); Chairwoman, Task Force on the Declassification of Federal Secrets",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 23 of 1170, score 103). 31 connections, 1 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 25 of 1170, score 99). 30 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "tl-2025-09-09-luna-hearing",
 "label": "Luna task force holds its first UAP hearing",
 "precision": "day",
 "strand": "oversight",
-"text": "'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' — the House Oversight Task Force on the Declassification of Federal Secrets takes testimony from Nuccetelli, Borland, Wiggins, Knapp and POGO's Joe Spielberger.",
-"tier": "A"
+"text": "'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' — the House Oversight Task Force on the Declassification of Federal Secrets takes testimony from Nuccetelli, Borland, Wiggins, Knapp and POGO's Joe Spielberger."
 },
 {
+"claimTier": null,
 "date": "2026-03-01",
+"grade": "B",
 "id": "tl-luna-defund-2026-03-01",
 "label": "Luna recommends defunding AARO",
 "precision": "month",
 "strand": "oversight",
-"text": "Rep. Anna Paulina Luna recommends the office's complete defunding to the DOGE subcommittee, citing systematic obstruction.",
-"tier": "B"
+"text": "Rep. Anna Paulina Luna recommends the office's complete defunding to the DOGE subcommittee, citing systematic obstruction."
 },
 {
+"claimTier": null,
 "date": "2026-03-31",
+"grade": "A",
 "id": "pc-2026-03-luna",
 "label": "Luna demands 46 UAP videos from the Secretary of War",
 "precision": "day",
 "strand": "oversight",
-"text": "The letter sets a 14 April 2026 deadline. It passes with the Department stating it will respond directly to the author and a congressional source offering a future briefing; Luna says the letter was not passed to the appropriate authorities.",
-"tier": "A"
+"text": "The letter sets a 14 April 2026 deadline. It passes with the Department stating it will respond directly to the author and a congressional source offering a future briefing; Luna says the letter was not passed to the appropriate authorities."
 },
 {
+"claimTier": null,
 "date": "2026-03-31",
+"grade": "A",
 "id": "tl-2026-03-31-luna-letter",
 "label": "Luna demands 46 UAP video files from the Department of War",
 "precision": "day",
 "strand": "oversight",
-"text": "Chairwoman Anna Paulina Luna writes to Secretary Pete Hegseth demanding 46 UAP video files with an April 14 deadline, finding AARO's responses 'less than adequate'. The FLIR1/Gimbal/GoFast release chain of 2017-2020 is the precedent she is invoking.",
-"tier": "A"
+"text": "Chairwoman Anna Paulina Luna writes to Secretary Pete Hegseth demanding 46 UAP video files with an April 14 deadline, finding AARO's responses 'less than adequate'. The FLIR1/Gimbal/GoFast release chain of 2017-2020 is the precedent she is invoking."
 },
 {
+"claimTier": null,
 "date": "2026-04-01",
+"grade": "A",
 "id": "rel-2026-04-01",
 "label": "Luna writes to Hegseth",
 "precision": "day",
 "strand": "oversight",
-"text": "The Task Force chair demands AARO's UAP video holdings, citing the September 2025 testimony that the office holds additional video records.",
-"tier": "A"
+"text": "The Task Force chair demands AARO's UAP video holdings, citing the September 2025 testimony that the office holds additional video records."
 },
 {
+"claimTier": null,
 "date": "2026-04-01",
+"grade": "A",
 "id": "tl-luna-letter-2026-04-01",
 "label": "Luna letters Hegseth for AARO's videos",
 "precision": "day",
 "strand": "oversight",
-"text": "The Task Force chair writes to the Secretary of War demanding UAP video files held by AARO, following September 2025 testimony that the office holds additional records.",
-"tier": "A"
+"text": "The Task Force chair writes to the Secretary of War demanding UAP video files held by AARO, following September 2025 testimony that the office holds additional records."
 }
 ],
 "unexplainedResidual": null,

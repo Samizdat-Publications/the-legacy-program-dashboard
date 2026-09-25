@@ -17,6 +17,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -88,9 +89,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Section 8009 of the Department of Defense Appropriations Act for fiscal year 2026 provides, in a single sentence: 'Funds appropriated by this Act may not be used to initiate, or materially modify the scope of, a special access program without prior notification 30 calendar days in advance to the congressional defense committees.' It is the appropriations-side companion to the authorisation-side reporting regime of 10 U.S.C. 119, and it is a purer instrument, because it attaches to the money rather than to a reporting duty and because it contains no waiver. A programme initiated with funds appropriated by that Act without the 30-day notice is a programme operating on funds the statute says may not be used for it. This is the provision against which any concealed UAP-related special access programme would have to be measured, and it is also the provision that a programme predating 1988 - or funded from sources other than annual DoD appropriations, such as contractor IR&D reimbursement or the CIA's unvouchered account under 50 U.S.C. 3510 - would not touch at all.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -104,7 +103,11 @@
 "label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-02-03",
@@ -114,6 +117,7 @@
 ],
 "sub": "Appropriations-side SAP tripwire; the companion to 10 U.S.C. 119",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 729 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 728 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"timeline": [],
+"unverified": []
 }

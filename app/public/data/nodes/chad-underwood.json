@@ -100,8 +100,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"_rs-archive-mirror",
-"aviators-incidents"
+"d-aviators"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -122,6 +121,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Chad Underwood",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2026-08-02",
@@ -142,7 +145,7 @@
 "status": "active",
 "sub": "F/A-18F weapons systems officer, VFA-41; credited with capturing the FLIR1 video, 14 Nov 2004",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 862 of 1170, score 19). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 864 of 1170, score 19). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

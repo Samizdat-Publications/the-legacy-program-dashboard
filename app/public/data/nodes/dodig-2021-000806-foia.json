@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,18 +83,20 @@
 "deg": 2,
 "denials": [
 {
-"by": {
+"a": {
 "id": "dodig-2021-000806-foia",
 "label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology"
 },
+"b": {
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "undirected",
 "label": "imagery released, methodology withheld",
 "note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
-"of": {
-"id": "pursue-releases",
-"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-06-16",
@@ -109,9 +112,7 @@
 }
 ],
 "desc": "A five-page fourth interim release to John Greenewald in Department of War Office of Inspector General FOIA case DODIG-2021-000806, reported 16 June 2026, with approximately 245 pages still pending review. It is the counterweight to PURSUE and belongs beside it on any honest board. The material concerns the OIG's own evaluation of the military's handling of UAP - the project that became DODIG-2023-109. What was withheld: the 'Potential Benefit(s)' section of the evaluation proposal, redacted under FOIA exemption (b)(1) citing military plans, weapons systems or operations and vulnerabilities or capabilities relating to national security; the first two background sections, marked (S) and (S//NF) and blacked out entirely; the details and outcomes of an October 2020 meeting between Space, Intelligence, Engineering and Oversight leadership and the Director of the UAP Task Force, withheld entirely under exemption (b)(5) deliberative process; and methodology steps 3 through 5, classified SECRET and restricted to Five Eyes, together with steps 6 through 8, fully redacted. The pattern is exact and it is the point: in the same quarter that the Department published gun-camera video of an AC-130J engaging objects over the Gulf of Oman, it withheld under national-security exemption the description of how it evaluates UAP at all. Imagery is releasable; methodology is not. A UAP background section classified SECRET//NOFORN inside an Inspector General proposal also establishes that the Five Eyes dimension of the subject is live and compartmented.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -125,7 +126,11 @@
 "label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-06-16",
@@ -138,13 +143,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 474 of 1170, score 32). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2026-06-16",
+"grade": null,
 "id": "tl-oig-foia",
 "label": "DoW OIG withholds its UAP evaluation methodology under (b)(1)",
 "precision": "day",
 "strand": "coverup",
-"text": "Fourth interim release in DODIG-2021-000806: the 'Potential Benefits' section withheld on national-security grounds, background sections marked (S//NF) blacked out, methodology steps 3-8 redacted, October 2020 UAP Task Force leadership meeting withheld as deliberative. Approximately 245 pages still pending.",
-"tier": "1"
+"text": "Fourth interim release in DODIG-2021-000806: the 'Potential Benefits' section withheld on national-security grounds, background sections marked (S//NF) blacked out, methodology steps 3-8 redacted, October 2020 UAP Task Force leadership meeting withheld as deliberative. Approximately 245 pages still pending."
 }
-]
+],
+"unverified": []
 }

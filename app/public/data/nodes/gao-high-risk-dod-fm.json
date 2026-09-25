@@ -17,6 +17,7 @@
 ],
 "cls": "program",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Government Accountability Office maintains a High-Risk List of federal programmes and operations vulnerable to fraud, waste, abuse and mismanagement or in need of transformation. Department of Defense Financial Management has been on it for decades and remains on it in the 2025 edition (GAO-25-107743), where its status is assessed as maintained - neither improved nor regressed. It sits alongside four other Department of Defense entries: Weapon Systems Acquisition, which regressed; Approach to Business Transformation; Business Systems Modernization; and Contract Management. Five of the roughly three dozen government-wide high-risk areas are Department of Defense entries, and the money-related ones have been there without resolution across six presidential administrations. The significance for this board is not that the Department wastes money - every large organisation does - but that the Comptroller General of the United States has certified, repeatedly and in writing, that the Department's financial management systems cannot produce reliable information. That certification, sustained over thirty years, is what makes the concealment hypothesis testable rather than paranoid: the mechanism required for it exists and has been formally documented as existing by the government's own auditor.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -83,7 +82,11 @@
 "label": "GAO High-Risk List: DOD Financial Management",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "GAO High-Risk List: DOD Financial Management",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -94,5 +97,6 @@
 "sub": "Standing designation of the Department's books as a government-wide high-risk area",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1080 of 1170, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

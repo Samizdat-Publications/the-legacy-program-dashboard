@@ -17,6 +17,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "On 9 September 2025, at the House Oversight Task Force hearing, Rep. Eric Burlison played video that had never been publicly shown: a US military MQ-9 Reaper firing a Hellfire missile at a high-speed orb off the coast of Yemen in October 2024. The object appeared to be impacted and was not destroyed. This is the first of what became, over the following year, a small set of documented US weapons employments against unidentified objects: PURSUE Release 02 of 22 May 2026 published DOW-UAP-PR051, an MQ-9 weapons-quality lock on an object over the Jordan-Syria border, and Release 05 of 7 August 2026 published six AC-130J videos and intelligence report DOW-UAP-D101 recording approximately 25 objects over the Gulf of Oman on 8 September 2021 that reportedly reacted to the aircraft's cannon fire. The pattern that emerges across those three is the single most operationally significant fact in the 2025-2026 record: the United States has shot at unidentified objects, on more than one occasion, in more than one theatre, with more than one platform, and the objects were not destroyed. None of these engagements appears in an AARO annual report as an engagement. The Yemen video's provenance, unit, chain of custody and declassification authority have not been made public, and the Department has not confirmed it.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -88,7 +87,11 @@
 "label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -103,16 +106,18 @@
 ],
 "sub": "Video first shown publicly by Rep. Burlison, 9 September 2025",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 693 of 1170, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 692 of 1170, score 25). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2024-10",
+"grade": null,
 "id": "tl-yemen",
 "label": "An MQ-9 fires a Hellfire missile at an orb off Yemen",
 "precision": "month",
 "strand": "witness",
-"text": "The object appears struck and is not destroyed. The video is not shown publicly until Rep. Burlison plays it at a hearing eleven months later; the Department has never confirmed it.",
-"tier": "2"
+"text": "The object appears struck and is not destroyed. The video is not shown publicly until Rep. Burlison plays it at a hearing eleven months later; the Department has never confirmed it."
 }
-]
+],
+"unverified": []
 }

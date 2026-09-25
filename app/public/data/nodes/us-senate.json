@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -114,9 +115,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The Senate is where the modern UAP disclosure architecture was written and where it was cut down. Its Select Committee on Intelligence produced the report language accompanying the Intelligence Authorization Act for FY2021 that compelled ODNI's June 2021 Preliminary Assessment. Its Armed Services Committee carried the FY2022 NDAA section 1683 that created the Airborne Object Identification and Management Synchronization Group and then AARO, and the FY2023 NDAA section 1673 that gave AARO its statutory mission and created the UAP whistleblower protection at 50 U.S.C. 3373b. In July 2023 Majority Leader Chuck Schumer and Senator Mike Rounds introduced the Unidentified Anomalous Phenomena Disclosure Act as an amendment to the FY2024 NDAA - a bill modelled on the President John F. Kennedy Assassination Records Collection Act, containing a records review board with subpoena power, a presumption of disclosure and, at section 9010, an exercise of eminent domain over 'any and all recovered technologies of unknown origin and biological evidence of non-human intelligence' held by private persons. What emerged from conference in December 2023 was sections 1841 to 1843 of Public Law 118-31: the National Archives collection survived, the review board and the eminent domain provision did not. The Senate is therefore both the institution that came closest to forcing the record open and the institution that documented, in the difference between the introduced text and the enacted text, exactly where the resistance sits. Senators Kirsten Gillibrand, Mike Rounds, Marco Rubio, Martin Heinrich and Todd Young have been the recurring principals; before them Harry Reid, Ted Stevens and Daniel Inouye were the appropriators who created AAWSAP.",
-"domains": [
-"w2-agencies"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -130,7 +129,11 @@
 "label": "United States Senate",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "United States Senate",
+"sourceFiles": [
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2025-04-24",
@@ -150,6 +153,7 @@
 ],
 "sub": "Upper chamber; author of every statutory UAP provision that has become law",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 694 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 693 of 1170, score 25). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"timeline": [],
+"unverified": []
 }

@@ -1,0 +1,82 @@
+{
+ "aliased": [
+  {
+   "file": "aawsap-aatip",
+   "key": "dird-collection",
+   "to": "dird-series"
+  },
+  {
+   "file": "history-1970s-2000s",
+   "key": "cia-haines-1997",
+   "to": "haines-cia-history"
+  },
+  {
+   "file": "primes-custody",
+   "key": "ndaa-fy2024-sec1687",
+   "to": "ndaa-fy2024-1687"
+  },
+  {
+   "file": "w2-sap-architecture",
+   "key": "dod-sapco-arch",
+   "to": "dod-sapco"
+  }
+ ],
+ "dropped": [
+  {
+   "file": "_rs-sap-docs",
+   "key": "_rs-sap-docs"
+  },
+  {
+   "file": "w2-2025-2026",
+   "key": "domain"
+  },
+  {
+   "file": "w2-2025-2026",
+   "key": "title"
+  },
+  {
+   "file": "w2-2025-2026",
+   "key": "scope"
+  },
+  {
+   "file": "w2-2025-2026",
+   "key": "thesis"
+  },
+  {
+   "file": "w2-2025-2026",
+   "key": "methodNote"
+  },
+  {
+   "file": "w2-international",
+   "key": "domain"
+  },
+  {
+   "file": "w2-international",
+   "key": "scope"
+  },
+  {
+   "file": "w2-international",
+   "key": "throughLine"
+  },
+  {
+   "file": "w2-international",
+   "key": "counts"
+  },
+  {
+   "file": "w2-taxonomy",
+   "key": "_note"
+  },
+  {
+   "file": "w2-taxonomy",
+   "key": "_taxonomy_scope"
+  }
+ ],
+ "unplaced": [
+  "how-money-reaches-an-invisible-program",
+  "the-21-trillion-stated-precisely",
+  "sffas-56-what-it-actually-permits",
+  "the-named-mechanism",
+  "why-the-failed-audit-is-evidence",
+  "the-classified-programs-arithmetic"
+ ]
+}

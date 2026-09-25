@@ -533,7 +533,7 @@
 "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "research"
 },
 {
@@ -902,18 +902,20 @@
 "deg": 22,
 "denials": [
 {
-"by": {
+"a": {
 "id": "eric-davis",
 "label": "Eric W. Davis"
 },
+"b": {
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": null,
 "label": "Says no such craft exists and none has ever been built",
 "note": "research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00 records Davis saying the ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The corpus recorded the episode as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on 'American Alchemy'; as opened 18 September 2026 the same video id carries a different title on the channel 'Jesse Michels'. The corpus timestamp falls inside the 52:45 runtime.",
-"of": {
-"id": "arv-fluxliner",
-"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-12-12",
@@ -923,18 +925,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "mark-mccandlish",
 "label": "Mark McCandlish"
 },
+"b": {
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": null,
 "label": "Davis says the ARV claims are myth",
 "note": "On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said no ARV exists and none has ever been built, and that the Northrop Grumman and Area 51 ARV rumours are 'all myth'. A claimant node carries the case against. The episode is identified by video id: the corpus recorded it under a different title on a differently named channel.",
-"of": {
-"id": "eric-davis",
-"label": "Eric W. Davis"
-},
+"of": null,
 "sources": [
 {
 "date": "2024-12-12",
@@ -945,13 +949,14 @@
 }
 ],
 "domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"aawsap-aatip",
-"history-1970s-2000s",
-"primes-custody",
-"propulsion-2026-09-19",
-"scientists-technical"
+"d-funding",
+"d-prop",
+"d-exotic",
+"d-custody",
+"d-coverup",
+"d-witness",
+"d-oversight",
+"d-materials"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -997,6 +1002,15 @@
 }
 ],
 "short": "Eric W. Davis",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"history-1970s-2000s",
+"primes-custody",
+"propulsion-2026-09-19",
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2010-04-06",
@@ -1107,25 +1121,27 @@
 "status": "active",
 "sub": "Astrophysicist, EarthTech International; five-time AAWSAP DIRD author",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 17 of 1170, score 111). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 16 of 1170, score 111). 23 connections, 4 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2002-10-16",
+"grade": "B",
 "id": "st-2002-wilson",
 "label": "Alleged Wilson meeting",
 "precision": "day",
 "strand": "coverup",
-"text": "The date attributed to Eric Davis's meeting with Vice Adm. Thomas R. Wilson recorded in the notes that surfaced in 2019 among Edgar Mitchell's papers, describing a special access programme that refused a former DIA director access.",
-"tier": "B"
+"text": "The date attributed to Eric Davis's meeting with Vice Adm. Thomas R. Wilson recorded in the notes that surfaced in 2019 among Edgar Mitchell's papers, describing a special access programme that refused a former DIA director access."
 },
 {
+"claimTier": null,
 "date": "2026-03-08",
+"grade": "A",
 "id": "ms-2026-weinstein-davis",
 "label": "Michels puts Eric Davis on record with Eric Weinstein",
 "precision": "day",
 "strand": "witness",
-"text": "A four-hour session working through the Wilson-Davis memo, the count of crashes, crash-retrieval program structure and the legacy program; 766,314 views.",
-"tier": "A"
+"text": "A four-hour session working through the Wilson-Davis memo, the count of crashes, crash-retrieval program structure and the legacy program; 766,314 views."
 }
 ],
 "unexplainedResidual": "Neither DoD nor AARO has ever addressed the Wilson-Davis notes in a published report, including in AARO's 2024 Historical Record Report Volume I.",

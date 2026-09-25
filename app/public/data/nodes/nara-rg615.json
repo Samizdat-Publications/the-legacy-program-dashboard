@@ -122,6 +122,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -251,7 +252,7 @@
 "edgeLabel": "created by",
 "id": "ndaa-fy2024-subtitle-c",
 "l0": false,
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "Record Group 615 exists under sections 1841-1843 of the FY2024 NDAA, which require NARA to establish the collection and each agency to review, identify and organise its UAP records.",
 "sources": [
 {
@@ -369,9 +370,7 @@
 "deg": 9,
 "denials": [],
 "desc": "The statutory destination for federal UAP records, established by the National Archives under sections 1841-1843 of the FY2024 National Defense Authorization Act. The statute requires NARA to establish the Unidentified Anomalous Phenomena Records Collection and requires each federal agency to review, identify and organise each UAP record, defined to include copies of all Government, Government-provided or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence. NARA's guidance directed agencies holding releasable UAP records to contact it to initiate transfers before 30 September 2025, in digital form with proper metadata. As of 12 August 2026 seven agencies appeared as contributors in RG 615: the Federal Aviation Administration, the Nuclear Regulatory Commission, the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the National Security Agency, the Department of State and the Federal Bureau of Investigation. On 28 August 2026 the Department of the Air Force became the eighth, and the first military department to appear in its own right rather than inside OSD: catalog series 656595571, accession TR-0615-2026-0003, thirty PDF files dated 25 October 1945 to 31 December 1969, accessioned unrestricted. The absences are still most of the story. There is no CIA series. No Defense Intelligence Agency series. No Department of Energy, no NASA, no National Reconnaissance Office, no National Geospatial-Intelligence Agency, no Department of Homeland Security, and no Army or Navy series. What the Air Force transfer establishes is that a military department can comply, which removes the last structural excuse available to the ones that have not. Nor is there any contractor material, because no statute reaches contractor holdings. NARA publishes no compliance list, no roster of agencies determined to hold covered records, and no statement identifying non-compliant agencies; its FAQ describes the framework and is silent on implementation status. The volumetric picture in the bulk-download inventory as last updated 24 April 2025 is equally telling: the electronic-records contributions are tiny - NRC 11.74MB, ODNI 1.29MB, FAA 63.10MB, OSD 103.37MB - against tens of terabytes of legacy Project BLUE BOOK and Roswell material, including a sanitized Blue Book case-file series of roughly 379GB split across ten files and 36.48GB of BLUE BOOK still pictures. In other words, the collection created to receive the modern record has so far received about 180MB of modern electronic records, and is otherwise a digitisation of the Air Force material that was already public.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -615,7 +614,7 @@
 {
 "cls": "legislation",
 "id": "ndaa-fy2024-subtitle-c",
-"label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+"label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "tier": "A"
 },
 {
@@ -625,7 +624,11 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "National Archives Record Group 615",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-09-02",
@@ -685,34 +688,38 @@
 ],
 "sub": "Statutory collection under FY2024 NDAA sections 1841-1843; transfer deadline 30 September 2025",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 82 of 1170, score 69). 9 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 84 of 1170, score 69). 9 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2025-09-30",
+"grade": null,
 "id": "tl-nara-deadline",
 "label": "NARA transfer deadline for UAP records passes",
 "precision": "day",
 "strand": "oversight",
-"text": "NARA's guidance directed agencies holding releasable UAP records to initiate transfers before 30 September 2025. As of 28 August 2026 eight agencies appear in RG 615 - FAA, NRC, ODNI, OSD, NSA, State, FBI and the Department of the Air Force - and NARA has published no compliance list and no statement about agencies that did not transfer. Seven of the eight were in place by 22 May 2026; the Air Force arrived on 28 August 2026, eleven months after the deadline.",
-"tier": "1"
+"text": "NARA's guidance directed agencies holding releasable UAP records to initiate transfers before 30 September 2025. As of 28 August 2026 eight agencies appear in RG 615 - FAA, NRC, ODNI, OSD, NSA, State, FBI and the Department of the Air Force - and NARA has published no compliance list and no statement about agencies that did not transfer. Seven of the eight were in place by 22 May 2026; the Air Force arrived on 28 August 2026, eleven months after the deadline."
 },
 {
+"claimTier": 3,
 "date": "2026-08-12",
+"grade": null,
 "id": "tl-rg615-absentees",
 "label": "Five agencies ordered to release UAP information have no series in the statutory archive",
 "precision": "day",
 "strand": "coverup",
-"text": "CIA, DIA, NRO, NGA and DOE are addressees of ODNI ES 2026-00818 and absentees from Record Group 615. NARA publishes no compliance list and no statement identifying non-compliant agencies.",
-"tier": "3"
+"text": "CIA, DIA, NRO, NGA and DOE are addressees of ODNI ES 2026-00818 and absentees from Record Group 615. NARA publishes no compliance list and no statement identifying non-compliant agencies."
 },
 {
+"claimTier": 1,
 "date": "2026-08-28",
+"grade": null,
 "id": "tl-af-rg615-transfer",
 "label": "Air Force becomes the first military department to transfer into RG 615",
 "precision": "day",
 "strand": "oversight",
-"text": "The National Archives accessioned 'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena' (catalog series 656595571, accession TR-0615-2026-0003) into Record Group 615: 30 PDF files dated 25 October 1945 to 31 December 1969, access and use both Unrestricted, carrying contiguous UAP Record Identifiers 342UAP00001 to 342UAP00030. It is the eighth agency series in RG 615 and the first from a military department in its own right. The documents' own declassification blocks show the Air Force Declassification Office cleared them on 5 May 2025 under the FY24 NDAA authority now codified at 44 U.S.C. 2107, fifteen months before the records reached NARA.",
-"tier": "1"
+"text": "The National Archives accessioned 'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena' (catalog series 656595571, accession TR-0615-2026-0003) into Record Group 615: 30 PDF files dated 25 October 1945 to 31 December 1969, access and use both Unrestricted, carrying contiguous UAP Record Identifiers 342UAP00001 to 342UAP00030. It is the eighth agency series in RG 615 and the first from a military department in its own right. The documents' own declassification blocks show the Air Force Declassification Office cleared them on 5 May 2025 under the FY24 NDAA authority now codified at 44 U.S.C. 2107, fifteen months before the records reached NARA."
 }
-]
+],
+"unverified": []
 }

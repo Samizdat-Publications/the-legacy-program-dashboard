@@ -37,6 +37,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Bluegill Triple Prime was the fourth attempt to detonate the BLUEGILL device above Johnston Island, and the first that worked. Three earlier attempts failed: the 2 June 1962 launch was destroyed in flight after tracking was lost, BLUEGILL Prime burned on the pad, and BLUEGILL Double Prime failed on 15 October. The successful shot is recorded by the Defense Nuclear Agency at 25 October 1962, 2359 local, submegaton, tens of kilometres over Johnston Island, with 22 Air Force aircraft arrayed and nine Navy ships positioned to gather data. Four guests across four Michels lead maps attach a recovery story to it, and the record contradicts them in three places at once. The date is 25 October in the report's narrative and in its own Table 1, not 26 October, which is the GMT rendering of the same instant. DNA 6039F, cited for the shot in the candidates row, is Operation ARGUS 1958 and not the FISHBOWL report at all. And the report contains no unidentified object, no recovery, no debris, no RC-135 and no Cobra Ball: what it does carry is the call sign KETTLE, assigned to three KC-135 photographic aircraft, which is the documented origin of the Kettle film names the corpus uses. The node exists to hold the documented event so that the testimony has something dated to hang from.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -124,7 +123,11 @@
 "label": "Bluegill Triple Prime",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Bluegill Triple Prime",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1983-02-01",
@@ -149,16 +152,18 @@
 ],
 "sub": "FISHBOWL high-altitude shot, Operation DOMINIC I, Johnston Island, 25 October 1962",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 364 of 1170, score 36). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 370 of 1170, score 36). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1962-10-25",
+"grade": "C",
 "id": "tl-1962-10-25-bluegill-triple-prime",
 "label": "Bluegill Triple Prime detonates over Johnston Island",
 "precision": "day",
 "strand": "program",
-"text": "The Defense Nuclear Agency's Operation DOMINIC I report records the shot at 25 October 1962, 2359 local, the fourth and first successful attempt to launch the BLUEGILL device on a Thor missile, submegaton, tens of kilometres over Johnston Island, with 22 Air Force aircraft arrayed and nine Navy ships positioned. The report carries no unidentified object, no recovery and no debris, and the photographic aircraft were three KC-135s under the call sign KETTLE.",
-"tier": "C"
+"text": "The Defense Nuclear Agency's Operation DOMINIC I report records the shot at 25 October 1962, 2359 local, the fourth and first successful attempt to launch the BLUEGILL device on a Thor missile, submegaton, tens of kilometres over Johnston Island, with 22 Air Force aircraft arrayed and nine Navy ships positioned. The report carries no unidentified object, no recovery and no debris, and the photographic aircraft were three KC-135s under the call sign KETTLE."
 }
-]
+],
+"unverified": []
 }

@@ -12,6 +12,7 @@
 ],
 "cls": "document",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -62,9 +63,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Dan Farah's documentary premiered at South by Southwest on 9 March 2025 and received a limited theatrical release in New York, Los Angeles and Washington DC alongside a Prime Video release on 21 November 2025. Its relevance to this domain is the interviewee list: of 34 participants, the technical layer contributes Hal Puthoff, Eric Davis, Travis S. Taylor, Garry Nolan, Mike Gold, Mike Flaherty, Jay Stratton and Karl Nell, alongside serving and former officials including Marco Rubio, James Clapper, Christopher Miller, Christopher Mellon and Tim Gallaudet, and members of Congress including Gillibrand, Rounds, Burchett, Carson, Crenshaw, Gallagher and Luna. The film alleges that alien intelligence exists on Earth and that the US government has concealed this since at least 1947. For the board, the significant fact is not the film's thesis but the roster: Puthoff, Davis, Taylor and Nolan - the AAWSAP propulsion author, the AAWSAP wormhole author who briefed the Senate, the UAP Task Force chief scientist and the Stanford materials analyst - all sat for the same camera in the same year, which is itself a statement about where the technical layer had arrived by 2025.",
-"domains": [
-"scientists-technical"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -78,7 +77,11 @@
 "label": "'The Age of Disclosure' (2025 documentary, dir. Dan Farah)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "'The Age of Disclosure' (2025 documentary, dir. Dan Farah)",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -91,22 +94,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 1133 of 1170, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-03-09",
+"grade": "B",
 "id": "st-2025-03-09",
 "label": "'The Age of Disclosure' premieres",
 "precision": "day",
 "strand": "program",
-"text": "Dan Farah's documentary premieres at SXSW with Puthoff, Davis, Travis Taylor and Nolan among 34 interviewees alongside serving and former officials.",
-"tier": "B"
+"text": "Dan Farah's documentary premieres at SXSW with Puthoff, Davis, Travis Taylor and Nolan among 34 interviewees alongside serving and former officials."
 },
 {
+"claimTier": null,
 "date": "2025-11-21",
+"grade": "B",
 "id": "st-2025-11-21",
 "label": "'The Age of Disclosure' released",
 "precision": "day",
 "strand": "program",
-"text": "Limited theatrical release in New York, Los Angeles and Washington DC, plus Prime Video.",
-"tier": "B"
+"text": "Limited theatrical release in New York, Los Angeles and Washington DC, plus Prime Video."
 }
-]
+],
+"unverified": []
 }

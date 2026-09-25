@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -198,7 +199,7 @@
 "edgeLabel": "the Senate committee text that would have closed the channel at the contractor end",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
-"label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+"label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "As reported by the Senate Select Committee on Intelligence, the IAA FY2024 UAP provision would have required any person currently or formerly under federal contract holding UAP material or information derived from the Government to notify the AARO Director within 60 days and to make it available within 180 days, alongside the funding and IR&D limitations. Tier 2 rather than Tier 1 because the enacted counterpart differed substantially from the Senate-approved text, and because the section number carried on this node does not match the reported bill (see unresolved).",
 "sources": [
 {
@@ -322,7 +323,7 @@
 "edgeLabel": "the statute that fixes what Congress is told about SAP cost, and subsection (e) which suspends it",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Sec. 119(a)-(c) requires the annual SAP report to the four defense committees to state actual historical costs and estimated future costs for each program. Sec. 119(e)(1) lets the Secretary waive any of that on a case-by-case national-security determination, with the information and the justification going instead 'jointly to the chairman and ranking minority member of each of the defense committees.' The cost visibility this domain measures is created and removed by this one section.",
 "sources": [
 {
@@ -379,7 +380,7 @@
 "edgeLabel": "the stacked mechanism by which a funded activity can exist with no publicly reconcilable line",
 "id": "waived-usap-mechanism",
 "l0": true,
-"label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
+"label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
 "note": "Unacknowledged existence (DoDI 5205.11 glossary), waived congressional reporting under 10 U.S.C. 119(e), and carve-out relief from industrial security oversight combine to produce an activity that is funded but not reconcilable from any public document. Every element is sourced to a statute or a DoD issuance rather than to an allegation; the inference that a legacy programme uses this stack is not.",
 "sources": [
 {
@@ -408,11 +409,7 @@
 "deg": 13,
 "denials": [],
 "desc": "Money is the most auditable thing a concealed programme touches, and this is where the board's hardest evidence should eventually come from. The documented channels are all ordinary: classified programme elements carried in the defence budget as a single line with no descriptive text; general transfer authority, exercised annually under provisions such as Sections 8005 and 8006 of the Department of Defense Appropriations Acts, which lets the Department move substantial sums between accounts after enactment; Military Interdepartmental Purchase Requests, which move money between agencies without a new appropriation; contractor Independent Research and Development, which is company money reimbursed as an allowable overhead cost and is therefore government-funded work with no government line item; and the unvouchered expenditure authority of 50 U.S.C. 3510, under which the head of an agency may account for spending by certificate alone. The reason this is more than theory is that the Department of Defense has never passed a clean financial audit; the DoD Inspector General reported in 2016 that Army General Fund adjustments were not adequately documented or supported, and the audit findings have continued through the FY2025 cycle. Scoring high on this domain means an entity moves, certifies or conceals money.",
-"domains": [
-"_rs-archive-mirror",
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -426,7 +423,13 @@
 "label": "Funding Channels",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Funding Channels",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-01-13",
@@ -477,5 +480,6 @@
 "sub": "Financial domain - how money reaches an unacknowledged programme and why it cannot be traced",
 "tier": "A",
 "tierRationale": "Re-graded A on a global pass (rank 59 of 1170, score 75). 13 connections, 11 of them custody/funding/programmatic. Axes C1/A3/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

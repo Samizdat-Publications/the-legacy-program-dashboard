@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "This is the operative clause rather than the institution: FAR 35.017 provides that a federally funded research and development center 'has access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship'. That single sentence creates an entity legally positioned to see both sides of a compartment - the government's classified holdings and the prime contractor's proprietary data - which no ordinary contractor and no ordinary civil servant may do. In exchange the FFRDC is barred from competing for commercial federal R&D work and must disclose its activities fully to its sponsoring agency, which is also its classification authority; disclosure runs to the sponsor, not to Congress. Because FFRDC records are contractor records they are outside FOIA, and because awards are sole-source no competitor ever audits the work. The mechanism therefore permits an activity to be technically vested outside government while the government retains absolute control - which is the concealment architecture in miniature. Scoring high on this domain means an entity operates or sponsors an FFRDC, or moved between the two.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -67,7 +66,11 @@
 "label": "The FFRDC Mechanism",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The FFRDC Mechanism",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -88,5 +91,6 @@
 "sub": "Structural domain - FAR 35.017 access rights as a concealment instrument (see also d-ffrdc)",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 647 of 1170, score 27). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

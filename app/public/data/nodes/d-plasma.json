@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -87,9 +88,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Plasma is the explanation that has to be defeated before any exotic reading is admissible, and it has held that role since the Condon Report, whose chapter by Martin D. Altschuler on 'Atmospheric Electricity and Plasma Interpretations of UFOs' worked through ball lightning, corona discharge and tornado-associated luminosity as candidate sources of sighting reports. The honest position is that plasma accounts for a real and probably substantial fraction of luminous-object reports, and that ball lightning itself remains incompletely explained - so the prosaic explanation invokes a phenomenon that is not fully understood either. What makes this a program domain rather than an atmospheric-science footnote is the dual use: the physics of generating, confining and steering plasma at a distance is the physics of directed-energy weapons and of radiofrequency plasma sheathing for radar signature control, work concentrated at the Air Force Research Laboratory's directed energy activity at Kirtland AFB - a base that recurs on this board for entirely separate reasons. An observer near such a test would see something that behaves like nothing they can name. Scoring high on this domain means an entity worked plasma physics in a defence or laboratory setting.",
-"domains": [
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -103,7 +102,11 @@
 "label": "Plasma Physics & Atmospheric Electricity",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Plasma Physics & Atmospheric Electricity",
+"sourceFiles": [
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "1968-11-01",
@@ -123,6 +126,7 @@
 ],
 "sub": "Scientific domain - the leading prosaic explanation, and the same physics as a directed-energy capability",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 835 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 836 of 1170, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": []
 }

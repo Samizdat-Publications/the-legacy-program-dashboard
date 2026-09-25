@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -139,10 +140,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The Executive Office of the President was created by Reorganization Act authority in 1939 and is the apparatus through which presidential classification authority is exercised: the National Security Council, established by the National Security Act of 1947, the Office of Management and Budget, which builds and conceals the black budget inside the President's request, and the Office of Science and Technology Policy. The classification system that governs almost all UAP material is a creature of executive order - currently Executive Order 13526 - which means the President can unilaterally declassify it, and the fact that no President did so for seventy-eight years is a datum about the presidency, not about the material. Successive administrations have touched the file: the Truman administration through the 1947-1952 Air Force projects, the Eisenhower administration through the Robertson Panel, the Carter administration through a 1977 White House inquiry, and the Clinton administration through John Podesta's push for declassification. In 2026 the EOP became the principal engine of the record: on 19-20 February 2026 the President directed the Pentagon and federal agencies to identify and release UAP and extraterrestrial files, a separate directive addressed the waiver of UAP-related nondisclosure agreements, and the Department of War stood up the PURSUE release portal at war.gov/UFO, publishing its first tranche on 8 May 2026. Executive Order 14347 of 5 September 2025 - the Department of War renaming order - is a reminder of the same power in a different register: the President can rename the department that holds the files by signature, but he cannot by signature reach Restricted Data held under the Atomic Energy Act.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -156,7 +154,12 @@
 "label": "Executive Office of the President",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Executive Office of the President",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-08-07",
@@ -194,31 +197,35 @@
 "tierRationale": "Re-graded B on a global pass (rank 458 of 1170, score 32). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-09-05",
+"grade": "A",
 "id": "ag-tl-2025-eo14347",
 "label": "Executive Order 14347 signed",
 "precision": "day",
 "strand": "program",
-"text": "'Restoring the United States Department of War' authorises secondary designations while leaving statutory references to the Department of Defense controlling, and directs a recommendation on permanent renaming within 60 days.",
-"tier": "A"
+"text": "'Restoring the United States Department of War' authorises secondary designations while leaving statutory references to the Department of Defense controlling, and directs a recommendation on permanent renaming within 60 days."
 },
 {
+"claimTier": null,
 "date": "2026-02-20",
+"grade": "B",
 "id": "ag-tl-2026-directive",
 "label": "Presidential directive to release UAP files",
 "precision": "day",
 "strand": "oversight",
-"text": "The President directs the Pentagon and federal agencies to identify and release files on UAP and extraterrestrial matters - a directive that operates on executive-order classification and therefore cannot reach Restricted Data held by DOE.",
-"tier": "B"
+"text": "The President directs the Pentagon and federal agencies to identify and release files on UAP and extraterrestrial matters - a directive that operates on executive-order classification and therefore cannot reach Restricted Data held by DOE."
 },
 {
+"claimTier": null,
 "date": "2026-05-08",
+"grade": "A",
 "id": "ag-tl-2026-pursue",
 "label": "Department of War publishes the first PURSUE tranche",
 "precision": "day",
 "strand": "oversight",
-"text": "The war.gov/UFO portal opens with the first release of UAP files. Senator Gillibrand issues a statement the same day.",
-"tier": "A"
+"text": "The war.gov/UFO portal opens with the first release of UAP files. Senator Gillibrand issues a statement the same day."
 }
-]
+],
+"unverified": []
 }

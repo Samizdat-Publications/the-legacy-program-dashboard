@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -66,10 +67,7 @@
 "deg": 1,
 "denials": [],
 "desc": "The Department of Transport - today Transport Canada - is the federal department responsible for civil aviation regulation and transportation safety in Canada, and it holds two distinct positions in this record. In 1950 it granted one of its own engineers, Wilbert B. Smith, permission to conduct part-time research into whether some UFOs might use the Earth's magnetic field as a propulsion source; the work became Project Magnet, Smith expanded it to include assessment of the validity of UFO observations, he launched a balloon over Ottawa to monitor public and media reaction, and he established a UFO observatory outside the capital. This makes the Canadian Department of Transport one of the earliest documented instances of a Western government funding a UAP propulsion-physics inquiry inside a civil - not military - department, and Smith's own contemporaneous memoranda are the reason the Canadian file is cited so often against official denial. The second position is current: Transport Canada operates the Civil Aviation Daily Occurrence Reporting System (CADORS), which logs occurrences affecting aviation safety including UAP sightings, making it the principal live federal intake for Canadian aircrew reports. Canada's own Chief Science Advisor named Transport Canada in its June 2025 Sky Canada report as the body that should, with NAV CANADA, actively encourage pilots and controllers to report sightings without stigma - an acknowledgement by one arm of government that the aviation reporting channel it already owns is being under-used.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -83,7 +81,12 @@
 "label": "Canada Department of Transport",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Canada Department of Transport",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2025-06-01",
@@ -99,5 +102,6 @@
 "sub": "Foreign government agency",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1073 of 1170, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

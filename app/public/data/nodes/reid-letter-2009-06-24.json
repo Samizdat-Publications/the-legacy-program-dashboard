@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -44,10 +45,10 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeLabel": "USD(I) tasked DIA to evaluate; DIA declined",
+"edgeLabel": "",
 "id": "dia-sap-denial-2009",
 "l0": false,
-"label": "DIA Info Memo U-09-2660 — denial of restricted SAP for AAWSAP (13 Nov 2009)",
+"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
 "note": "The request and the refusal. Reid's 24 June 2009 letter asked for a restricted SAP; DIA Info Memo U-09-2660 of 13 November 2009 is the answer - 'DIA cannot find adequate justification to establish' it. DIA Info Memo U-10-2552 then records that Deputy Secretary Lynn and the Director met Senator Reid in November 2009 to discuss it. A documented request, a documented denial, and a documented meeting between them.",
 "sources": [
 {
@@ -66,11 +67,32 @@
 },
 {
 "claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "USD(I) tasked DIA to evaluate; DIA declined",
+"id": "dia-sap-denial-2009",
+"l0": false,
+"label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+}
+],
+"tier": "C",
+"type": "temporal"
+},
+{
+"claimTier": 1,
 "cls": "person",
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeLabel": "signed 24 June 2009",
+"edgeLabel": "",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
@@ -89,6 +111,27 @@
 ],
 "tier": "A",
 "type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "signed 24 June 2009",
+"id": "harry-reid",
+"l0": false,
+"label": "Harry M. Reid",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+}
+],
+"tier": "A",
+"type": "research"
 }
 ],
 "coords": null,
@@ -97,10 +140,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Senator Harry Reid's letter to Deputy Secretary of Defense William J. Lynn III asking DoD to place the AAITP under restricted special access protection.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -114,7 +154,12 @@
 "label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror"
+],
 "sources": [
 {
 "date": "2009-06-24",
@@ -149,6 +194,7 @@
 ],
 "sub": "correspondence",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 679 of 1170, score 25). 2 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 625 of 1170, score 27). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

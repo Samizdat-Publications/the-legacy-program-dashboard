@@ -149,18 +149,20 @@
 "deg": 5,
 "denials": [
 {
-"by": {
+"a": {
 "id": "richard-m-bissell-jr",
 "label": "Richard M. Bissell Jr."
 },
+"b": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "His project staff resolved Blue Book's reports and withheld the reason",
 "note": "The CIA history states that Blue Book investigators checked reported sightings against U-2 flight logs held by the Agency's project staff and could not reveal the true cause to the people who had written in.",
-"of": {
-"id": "project-blue-book",
-"label": "Project Blue Book"
-},
+"of": null,
 "sources": [
 {
 "date": "2013-06-25",
@@ -171,7 +173,8 @@
 }
 ],
 "domains": [
-"michels-2026-09-02"
+"d-intel",
+"d-secrecy"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -192,6 +195,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Richard M. Bissell Jr.",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "2013-06-25",

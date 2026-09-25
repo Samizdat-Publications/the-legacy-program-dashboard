@@ -247,7 +247,7 @@
 "dateEnd": "2007",
 "dateStart": "2005",
 "direction": "in",
-"edgeLabel": "'Hunt for the Skinwalker' (2005) — the book that triggered the contract",
+"edgeLabel": "'Hunt for the Skinwalker' (2005) - the book that triggered the contract",
 "id": "colm-kelleher",
 "l0": false,
 "label": "Colm A. Kelleher",
@@ -403,29 +403,13 @@
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "Listed in the printed hearing record as a witness.",
+"note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
 "sources": [
 {
 "date": "2025-09-09",
 "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": "2025",
-"dateStart": "2025",
-"direction": "out",
-"edgeLabel": "Journalist witness at the September 2025 hearing",
-"id": "hearing-2025-09-09",
-"l0": true,
-"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "House Oversight - hearing page, 9 Sept 2025",
@@ -672,12 +656,13 @@
 "deg": 19,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"aawsap-aatip",
-"grusch",
-"lazar-s4-2026-09-18",
-"media-structure",
-"primes-custody"
+"d-funding",
+"d-paranormal",
+"d-oversight",
+"d-media",
+"d-witness",
+"d-custody",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -698,6 +683,14 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "George Knapp",
+"sourceFiles": [
+"_rs-legislation",
+"aawsap-aatip",
+"grusch",
+"lazar-s4-2026-09-18",
+"media-structure",
+"primes-custody"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -763,25 +756,27 @@
 "status": "active",
 "sub": "Investigative journalist, KLAS-TV Las Vegas; co-author of the AAWSAP insider books",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 55 of 1170, score 76). 21 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 70 of 1170, score 72). 20 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1989-03",
+"grade": "C",
 "id": "tl-1989-03-knapp-first-interviews",
 "label": "George Knapp begins interviewing Lazar",
 "precision": "month",
 "strand": "witness",
-"text": "Tom Mahood's timeline records that Knapp began conducting initial interviews with Lazar in March 1989 'for safekeeping purposes'. No 1989-dated artefact was opened and this row is Tier 3 evidence carried on a Tier C node.",
-"tier": "C"
+"text": "Tom Mahood's timeline records that Knapp began conducting initial interviews with Lazar in March 1989 'for safekeeping purposes'. No 1989-dated artefact was opened and this row is Tier 3 evidence carried on a Tier C node."
 },
 {
+"claimTier": null,
 "date": "1989-11-01",
+"grade": "B",
 "id": "ms-1989-lazar",
 "label": "Knapp airs Lazar",
 "precision": "month",
 "strand": "witness",
-"text": "George Knapp's KLAS-TV broadcast reveals Bob Lazar's identity and his S-4 claims, putting Area 51 into global consciousness and establishing the template of the insider-plus-local-reporter disclosure.",
-"tier": "B"
+"text": "George Knapp's KLAS-TV broadcast reveals Bob Lazar's identity and his S-4 claims, putting Area 51 into global consciousness and establishing the template of the insider-plus-local-reporter disclosure."
 }
 ],
 "unexplainedResidual": "A sworn witness told a congressional task force that reprisal against Grusch was occurring in the days before the hearing. Nobody on the dais asked him what he meant, and the record contains no follow-up.",

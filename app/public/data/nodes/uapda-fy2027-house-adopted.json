@@ -52,6 +52,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -305,10 +306,7 @@
 "deg": 10,
 "denials": [],
 "desc": "The successor to the 2023 Schumer-Rounds UAP Disclosure Act, and the first time such a framework has cleared a chamber. Adopted by the House on 22 July 2026 as an amendment to the Fiscal Year 2027 National Defense Authorization Act - the first year Burlison's UAP disclosure amendment advanced to a House floor vote, after a similar proposal failed to advance in the previous defence-bill cycle. As adopted it establishes a statutory framework for preserving, reviewing and publicly disclosing UAP records; creates a permanent UAP Records Collection at the National Archives; establishes an independent, Senate-confirmed UAP Records Review Board with subpoena authority to determine what is released and what stays classified; requires federal agencies to identify, organise, preserve and transmit UAP records to the National Archives on a statutory timeline; and - the provision with no precedent in existing authority - extends disclosure requirements to covered government contractors. Burlison's own framing places it in support of the executive programme rather than against it: the press release states the amendment supports President Trump's Presidential Unsealing and Reporting System for UAP Encounters. Read structurally, it is the exact remedy for each defect PURSUE has: PURSUE has no statutory timeline, so the amendment supplies one; PURSUE has no subpoena power, so the amendment creates a board that has one; PURSUE cannot reach Lockheed, Battelle or MITRE, so the amendment extends to contractors; PURSUE's decisions are made by an unchartered task force, so the amendment's board is Senate-confirmed. It is not law. It must survive the Senate's own version and conference later in 2026 and be signed. The 2023 precedent is the reason for pessimism: the original UAP Disclosure Act's eminent-domain and review-board provisions were stripped in conference by House Intelligence and Armed Services leadership before the FY2024 NDAA was signed.",
-"domains": [
-"w12-duplicate-collapse",
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -442,7 +440,13 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "UAPDA, FY2027 House-adopted",
+"sourceFiles": [
+"releases-2023-2026",
+"w12-duplicate-collapse",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -462,25 +466,28 @@
 ],
 "sub": "Adopted by the House 22-23 July 2026; pending in the Senate",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 392 of 1170, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 394 of 1170, score 35). 10 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2026-07-22",
+"grade": null,
 "id": "tl-uapda-house",
 "label": "House adopts the UAP Disclosure Act as an FY2027 NDAA amendment",
 "precision": "day",
 "strand": "oversight",
-"text": "A permanent National Archives collection, a Senate-confirmed Records Review Board with subpoena power, statutory transfer timelines, and disclosure obligations extended to covered government contractors. First time such a framework has cleared a chamber.",
-"tier": "1"
+"text": "A permanent National Archives collection, a Senate-confirmed Records Review Board with subpoena power, statutory transfer timelines, and disclosure obligations extended to covered government contractors. First time such a framework has cleared a chamber."
 },
 {
+"claimTier": null,
 "date": "2026-07-23",
+"grade": "A",
 "id": "rel-2026-07-23",
 "label": "House adopts the Burlison disclosure amendment",
 "precision": "day",
 "strand": "oversight",
-"text": "The FY2027 NDAA amendment would impose statutory transfer timelines, create a Senate-confirmed UAP Records Review Board with subpoena power, and extend disclosure obligations to government contractors.",
-"tier": "A"
+"text": "The FY2027 NDAA amendment would impose statutory transfer timelines, create a Senate-confirmed UAP Records Review Board with subpoena power, and extend disclosure obligations to government contractors."
 }
-]
+],
+"unverified": []
 }

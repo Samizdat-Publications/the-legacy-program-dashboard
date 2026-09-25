@@ -127,6 +127,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -350,7 +351,7 @@
 "edgeLabel": "Sec. 1687 is the enacted funding bar on undisclosed UAP SAPs",
 "id": "pl118-31-sec-1687",
 "l0": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "note": "The only enacted provision that conditions money on disclosure of special access UAP activity, including the independent research and development indirect-cost bar.",
 "sources": [
 {
@@ -428,7 +429,7 @@
 "edgeLabel": "No enacted statute contains the eminent domain language",
 "id": "uapda-sec-9010-eminent-domain",
 "l0": false,
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "note": "P.L. 118-31, P.L. 118-159 and P.L. 119-60 contain zero instances of 'eminent domain' in any UAP provision.",
 "sources": [
 {
@@ -457,18 +458,20 @@
 "deg": 12,
 "denials": [
 {
-"by": {
+"a": {
 "id": "uapda-sec-9010-eminent-domain",
-"label": "Section 9010(a) — Exercise of Eminent Domain"
+"label": "Section 9010(a) - Exercise of Eminent Domain"
 },
+"b": {
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "undirected",
 "label": "No enacted statute contains the eminent domain language",
 "note": "P.L. 118-31, P.L. 118-159 and P.L. 119-60 contain zero instances of 'eminent domain' in any UAP provision.",
-"of": {
-"id": "ndaa-fy2024",
-"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
-},
+"of": null,
 "sources": [
 {
 "date": "2023-12-22",
@@ -489,12 +492,7 @@
 }
 ],
 "desc": "P.L. 118-31 is the document that records the stripping. The Senate passed S. 2226 on 27 July 2023 carrying two separate UAP regimes: Division G, the fifteen-section UAP Disclosure Act, and Division M Section 1102, Warner's contractor turn-in inside the Intelligence Authorization Act for FY2024. The Act signed on 22 December 2023 contains, in place of Division G, a three-section Subtitle C of Title XVIII: Sec. 1841, the Records Collection at the National Archives; Sec. 1842, review and transmission by heads of Government offices within 300 days; and Sec. 1843, grounds for postponement. There is no Sec. 9007 equivalent, no Sec. 9010 equivalent, no Controlled Disclosure Campaign Plan and no authorization of appropriations. In place of Sec. 1102 it contains Sec. 7343, a bare funding limitation. The Act does retain teeth in two places the House committees controlled: Sec. 1687 cuts off DoD funds for UAP activity 'protected under any form of special access or restricted access limitations' unless the Secretary of Defense has described it to the defence and intelligence committees and congressional leadership, and bars independent research and development funding on UAP from being charged as an indirect expense unless disclosed. Sec. 7343 does the same on the intelligence side. Both are one-year limitations tied to funds authorised by that Act, and neither was renewed in FY2025 or FY2026.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation",
-"primes-custody",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -672,17 +670,24 @@
 {
 "cls": "legislation",
 "id": "pl118-31-sec-1687",
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "tier": "A"
 },
 {
 "cls": "document",
 "id": "uapda-sec-9010-eminent-domain",
-"label": "Section 9010(a) — Exercise of Eminent Domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain",
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "FY2024 NDAA, Public Law 118-31",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation",
+"primes-custody",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -717,43 +722,48 @@
 ],
 "sub": "authorizing-statutes",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 41 of 1170, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 43 of 1170, score 87). 12 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-12-22",
+"grade": "A",
 "id": "cl-2023-12-22",
 "label": "The stripping is enacted",
 "precision": "day",
 "strand": "coverup",
-"text": "P.L. 118-31 is signed. Fifteen sections become three. The Review Board, the eminent domain clause, the Controlled Disclosure Campaign Plan, the $20,000,000 authorization, the contractor turn-in and the immunity grant are all gone. Sec. 7343 is left referring to an instruction it no longer identifies.",
-"tier": "A"
+"text": "P.L. 118-31 is signed. Fifteen sections become three. The Review Board, the eminent domain clause, the Controlled Disclosure Campaign Plan, the $20,000,000 authorization, the contractor turn-in and the immunity grant are all gone. Sec. 7343 is left referring to an instruction it no longer identifies."
 },
 {
+"claimTier": null,
 "date": "2023-12-22",
+"grade": "A",
 "id": "pc-2023-12-stripped",
 "label": "Eminent domain and the contractor inventory are stripped; the IR&D clause survives",
 "precision": "day",
 "strand": "coverup",
-"text": "Public Law 118-31 is enacted without the Review Board, the eminent domain provision or the SSCI contractor disclosure regime. It retains the records collection at Secs. 1841-1843 and the funding limitations at Secs. 1687 and 7343, including the IR&D restriction citing DoDI 3204.01 by change date.",
-"tier": "A"
+"text": "Public Law 118-31 is enacted without the Review Board, the eminent domain provision or the SSCI contractor disclosure regime. It retains the records collection at Secs. 1841-1843 and the funding limitations at Secs. 1687 and 7343, including the IR&D restriction citing DoDI 3204.01 by change date."
 },
 {
+"claimTier": null,
 "date": "2023-12-22",
+"grade": "A",
 "id": "rel-2023-12-22",
 "label": "FY2024 NDAA creates the UAP Records Collection",
 "precision": "day",
 "strand": "oversight",
-"text": "Sections 1841-1843 of P.L. 118-31 mandate a UAP Records Collection at the National Archives - without the review board, subpoena power or contractor reach in the original UAP Disclosure Act.",
-"tier": "A"
+"text": "Sections 1841-1843 of P.L. 118-31 mandate a UAP Records Collection at the National Archives - without the review board, subpoena power or contractor reach in the original UAP Disclosure Act."
 },
 {
+"claimTier": null,
 "date": "2023-12-22",
+"grade": "A",
 "id": "tl-2023-12-22-pl11831",
 "label": "FY2024 NDAA enacted with the Review Board and eminent domain stripped",
 "precision": "day",
 "strand": "program",
-"text": "Public Law 118-31 is approved. Only secs. 9004-9006 of the Senate's Division G survive, renumbered as secs. 1841-1843 in Division A, Title XVIII, Subtitle C. The enacted text contains no Review Board and no eminent-domain provision. Postponement decisions revert to 'the original classification authority' holding the record, and Senior Agency Officials may unilaterally withdraw records from the Collection on notice to Congress. Sec. 1687 and IAA sec. 7343 impose conditional funding limits on unreported UAP special-access activity.",
-"tier": "A"
+"text": "Public Law 118-31 is approved. Only secs. 9004-9006 of the Senate's Division G survive, renumbered as secs. 1841-1843 in Division A, Title XVIII, Subtitle C. The enacted text contains no Review Board and no eminent-domain provision. Postponement decisions revert to 'the original classification authority' holding the record, and Senior Agency Officials may unilaterally withdraw records from the Collection on notice to Congress. Sec. 1687 and IAA sec. 7343 impose conditional funding limits on unreported UAP special-access activity."
 }
-]
+],
+"unverified": []
 }

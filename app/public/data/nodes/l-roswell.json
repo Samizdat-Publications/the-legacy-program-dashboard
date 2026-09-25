@@ -32,6 +32,7 @@
 ],
 "cls": "location",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -132,9 +133,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Roswell is a city in Chaves County in southeastern New Mexico, and in 1947 it was the home of Roswell Army Air Field and the 509th Bomb Group - at that moment the only atomic-capable bomb group in the world, the unit that had dropped the weapons on Hiroshima and Nagasaki. That single fact governs everything about the site's significance: whatever came down on the Foster Ranch, roughly seventy-five miles northwest near Corona in Lincoln County, came down inside the security envelope of the only nuclear strike force on Earth, and the recovery was executed by that force's own intelligence office. Rancher W. W. 'Mac' Brazel found debris in late June 1947, reported it to Chaves County Sheriff George Wilcox on 6 July, and RAAF sent Maj. Jesse Marcel, the 509th's intelligence officer, and Capt. Sheridan Cavitt of the Counter Intelligence Corps to retrieve it. On 8 July 1947 the base public information officer, 1st Lt. Walter Haut, issued a press release stating that 'the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.' Within hours Brig. Gen. Roger M. Ramey, commanding Eighth Air Force at Fort Worth Army Air Field, retracted it in front of press photographers with weather officer Warrant Officer Irving Newton, presenting the material as a weather balloon and radar target. The Air Force's own two later reports - the 1994 report identifying the debris as Project Mogul Flight No. 4 balloon train material launched from Alamogordo, and 'The Roswell Report: Case Closed' of 24 June 1997 attributing body reports to anthropomorphic parachute test dummies - concede the central structural point: the 1947 statement was a cover story, issued by the Army Air Forces, to protect a classified programme. What Roswell demonstrates for this board is therefore not settled by the debris identification. It is that the United States has admitted, in its own official reports, to fabricating a public explanation for a materiel recovery in 1947, and that when GAO audited the paper trail in 1995 it found that RAAF outgoing messages for October 1946 to December 1949 had been destroyed with no disposition authority located. The record of the recovery was removed. That is the fact that survives audit.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -148,7 +147,11 @@
 "label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
 "locLabel": "Roswell, New Mexico, USA",
 "members": null,
+"openQuestions": [],
 "short": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -168,6 +171,7 @@
 ],
 "sub": "City in Chaves County; site of Roswell Army Air Field, home of the 509th Bomb Group; debris field ~75 mi NW near Corona",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 310 of 1170, score 39). 4 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 309 of 1170, score 39). 4 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"timeline": [],
+"unverified": []
 }

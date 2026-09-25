@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -161,10 +162,7 @@
 "deg": 6,
 "denials": [],
 "desc": "A special access programme is the mechanism by which the executive branch creates an information space with tighter controls than Top Secret and a smaller list of people who may enter it. The tier structure is documented policy, not speculation: acknowledged SAPs whose existence is public though their content is not; unacknowledged SAPs whose very existence is classified; and waived unacknowledged SAPs for which the Secretary of Defense has exercised the 10 U.S.C. 119 waiver so that notification runs only to the chairs and ranking members of the armed services and defence appropriations committees - eight members, typically without staff, typically orally. That last category is the load-bearing one for this board, because it is a lawful configuration in which a programme can run for decades while the overwhelming majority of Congress has no lawful means of learning it exists. In 2009 the Office of the Under Secretary of Defense for Intelligence prepared an information memorandum reviewing a request to convert DIA's advanced aerospace work into a special access programme - a documented instance of the transition being considered for exactly this subject matter. Scoring high on this domain means an entity held, granted, or was formally denied SAP-level access, and the denial is scored as heavily as the grant.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -178,7 +176,12 @@
 "label": "Special Access Programs",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Special Access Programs",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -206,13 +209,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 203 of 1170, score 45). 6 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2009-11-01",
+"grade": null,
 "id": "tx-2009-sap-request",
 "label": "The conversion is considered",
 "precision": "month",
 "strand": "program",
-"text": "An Office of the Under Secretary of Defense for Intelligence information memorandum records review of a special access programme request relating to AATIP. This is the documented moment at which a FOIA-visible programme was considered for conversion into an invisible one.",
-"tier": 1
+"text": "An Office of the Under Secretary of Defense for Intelligence information memorandum records review of a special access programme request relating to AATIP. This is the documented moment at which a FOIA-visible programme was considered for conversion into an invisible one."
 }
-]
+],
+"unverified": []
 }

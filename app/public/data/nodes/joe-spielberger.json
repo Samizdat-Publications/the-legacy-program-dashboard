@@ -82,29 +82,13 @@
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "Listed in the printed hearing record as the minority witness.",
+"note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
 "sources": [
 {
 "date": "2025-09-09",
 "name": "CHRG-119hhrg61718, printed hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', Serial No. 119-44",
 "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/pdf/CHRG-119hhrg61718.pdf"
-}
-],
-"tier": "A",
-"type": "programmatic"
 },
-{
-"claimTier": 1,
-"cls": "event",
-"dateEnd": null,
-"dateStart": "2025",
-"direction": "out",
-"edgeLabel": "Minority witness on whistleblower protection architecture",
-"id": "hearing-2025-09-09",
-"l0": true,
-"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
-"sources": [
 {
 "date": "2025-09-09",
 "name": "U.S. GPO, Hearing transcript, Serial No. 119-44 (CHRG-119hhrg61718)",
@@ -147,9 +131,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"congress-house",
-"w2-2025-2026"
+"d-oversight",
+"d-witness"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -170,6 +153,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Joe Spielberger",
+"sourceFiles": [
+"_rs-legislation",
+"congress-house",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2025-09-09",
@@ -200,7 +188,7 @@
 "status": "active",
 "sub": "Senior Policy Counsel, Project On Government Oversight; minority witness, Sept 2025",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 672 of 1170, score 25). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 803 of 1170, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

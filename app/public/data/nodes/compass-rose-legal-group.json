@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The firm where Charles McCullough III, the first Inspector General of the Intelligence Community, is a senior partner, and the firm through which Grusch's PPD-19 urgent-concern complaint was filed on 25 May 2022 and his reprisal complaint pursued. Its role in the record is a credentialing one: the complaint was drafted and filed by the person who previously ran the office receiving it, which is why the credible-and-urgent determination arrived within roughly two months rather than disappearing into intake.",
-"domains": [
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -93,7 +92,11 @@
 "label": "Compass Rose Legal Group",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Compass Rose Legal Group",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2023-06-05",
@@ -104,5 +107,6 @@
 "sub": "National security whistleblower law firm, Washington DC",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1075 of 1170, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

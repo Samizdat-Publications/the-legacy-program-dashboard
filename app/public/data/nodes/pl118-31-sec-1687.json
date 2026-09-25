@@ -42,6 +42,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -125,7 +126,7 @@
 "edgeLabel": "Twin limitations on the intelligence and defence sides",
 "id": "pl118-31-sec-7343",
 "l0": false,
-"label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+"label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
 "note": "Sec. 7343 applies the same bar to intelligence funds through the DNI that Sec. 1687 applies to DoD funds through the Secretary of Defense.",
 "sources": [
 {
@@ -144,10 +145,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Section 1687 is the one enacted provision that reaches at the concealment itself rather than at the paperwork. It bars any funds authorised by the FY2024 NDAA from being obligated or expended 'in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations unless the Secretary of Defense has provided the details of the activity to the appropriate congressional committees and congressional leadership, including for any activities described in a report released by the All-Domain Anomaly Resolution Office in fiscal year 2024.' Subsection (b), noted as 50 U.S.C. 3373 note, then bars UAP-related independent research and development from being allowable as an indirect expense on covered contracts unless the material and information is made available to those same committees — a direct strike at the mechanism by which contractor-held work can be paid for out of overhead without appearing as a Government programme. Its limitation is structural: it restricts funds 'authorized to be appropriated or otherwise made available by this Act,' meaning the FY2024 Act only. It was not re-enacted in the FY2025 NDAA or the FY2026 NDAA, neither of which contains the phrase 'special access or restricted access'. The statutory bar therefore covered one fiscal year and has now been absent for two.",
-"domains": [
-"_rs-legislation",
-"congress-senate-legislation"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -158,10 +156,15 @@
 "hl": null,
 "id": "pl118-31-sec-1687",
 "l0": false,
-"label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
 "locLabel": null,
 "members": null,
-"short": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+"openQuestions": [],
+"short": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-12-22",
@@ -181,6 +184,7 @@
 ],
 "sub": "The surviving teeth, lapsed after FY2024",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 166 of 1170, score 50). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 165 of 1170, score 50). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [],
+"unverified": []
 }

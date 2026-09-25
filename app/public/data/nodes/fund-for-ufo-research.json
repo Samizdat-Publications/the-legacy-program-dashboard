@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Fund for UFO Research was the civilian field's grant-maker, and its money and its affidavit programme are threaded through most of the primary material on this board. It funded Leonard Stringfield's later Status Reports, which he acknowledges by name in Status Report VII of February 1994. It ran the sworn-affidavit programme through which the Roswell witnesses - Walter Haut on 14 May 1993 among them - put their accounts into a form with legal consequences, an initiative that is the single most useful procedural innovation in the history of civilian UFO research, because it converted recollection into attestable statement. It produced the video 'Recollections of Roswell Part II', from which the Air Force's own 1997 report drew the Vern Maltais and Alice Knight footage it then used against the San Agustin claim. And, most creditably, its executive Fred Whiting joined Mark Rodeghier of CUFOS in 1992 to produce 'The Plains of San Agustin Controversy', an investigation that discredited the field's own star first-hand witness. That is the behaviour of a research organisation rather than an advocacy one, and it is why FUFOR material is graded higher on this board than most civilian output.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -88,7 +87,11 @@
 "label": "Fund for UFO Research",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Fund for UFO Research",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -103,6 +106,7 @@
 ],
 "sub": "US grant-making body for civilian UFO research, founded 1979",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 962 of 1170, score 17). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 961 of 1170, score 17). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"timeline": [],
+"unverified": []
 }

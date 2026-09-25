@@ -77,6 +77,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -127,7 +128,7 @@
 "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "programmatic"
 },
 {
@@ -166,6 +167,27 @@
 "id": "dodd-5205-07-2010",
 "l0": false,
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+"url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+}
+],
+"tier": "A",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "",
+"id": "dodd-5205-07-2010",
+"l0": false,
+"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "The Manual implements the Directive. The 2010 directive sets SAP policy and defines the carve-out in its glossary; the four-volume Manual carries the operating detail - Volume 1's Enclosure 2 on DSS oversight and its relief, Enclosure 4 on whistleblower routing through SAP channels, and the patents and intellectual property provision. Directive states the policy, Manual runs it.",
 "sources": [
 {
@@ -191,7 +213,7 @@
 "edgeLabel": "Volume 1 is the general procedures volume of the four-volume manual",
 "id": "dodm-5205-07-v1",
 "l0": false,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07 is issued in volumes; Volume 1 carries the responsibilities, general procedures, HVSACO rules and the glossary containing the carve-out definition.",
 "sources": [
 {
@@ -210,11 +232,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The DoD SAP Security Manual is issued in four volumes under number 5205.07: Volume 1, General Procedures (18 June 2015, Change 1 12 February 2018); Volume 2, Personnel Security; Volume 3, Physical Security; and Volume 4, Marking. Volume 1 is the volume that carries the carve-out definition and the DSS relief provision, and is the only volume this board has been able to obtain in full from an archived copy of the DoD Issuances site; the current live URLs at esd.whs.mil for volumes 1 through 4 return errors to unauthenticated retrieval as of 12 August 2026, which is itself a finding worth recording. Volume 1 states its own lineage: it 'Assigns responsibilities, implements policy established in DoD Instruction (DoDI) 5205.11 ... and describes the general procedures for the administration of DoD SAP security' and 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement'. That last clause is the historical bridge: the security rules for contractor SAPs used to live as an overprint to the NISPOM Supplement, i.e. as a special-case annex to the industrial security system, and were pulled out into a standalone DoD manual - moving contractor SAP security further from the NISP baseline that DCSA inspects.",
-"domains": [
-"_rs-archive-mirror",
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -225,10 +243,16 @@
 "hl": null,
 "id": "dodm-5205-07-series",
 "l0": false,
-"label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "locLabel": null,
 "members": null,
-"short": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+"openQuestions": [],
+"short": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -263,6 +287,7 @@
 ],
 "sub": "dod-issuance",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 66 of 1170, score 73). 5 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 64 of 1170, score 74). 6 connections, 4 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"timeline": [],
+"unverified": []
 }

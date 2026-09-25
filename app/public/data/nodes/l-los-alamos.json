@@ -27,6 +27,7 @@
 ],
 "cls": "location",
 "cluster": "ffrdc",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -148,11 +149,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Los Alamos sits on the Pajarito Plateau in Los Alamos County, New Mexico, and is the site of the laboratory established in 1943 as Project Y of the Manhattan Project, now Los Alamos National Laboratory. Its place on this board rests on two things. First, it is one of the two nuclear design laboratories and therefore one of the small number of American institutions with both the compartmentation architecture and the materials-science capability that a concealed exploitation programme would require; whistleblower accounts collected by AAWSAP and by David Grusch describe materials work distributed across the Department of Energy laboratory complex and its industrial partners, and no document has been produced placing any specific laboratory inside such a programme. Second, and documented, Los Alamos hosted the conference of 16 February 1949 on the green fireballs - the anomalous luminous objects observed repeatedly over northern New Mexico's nuclear installations from December 1948 - attended by Edward Teller and by the University of New Mexico meteoriticist Lincoln LaPaz, whom the Air Force had retained to investigate. LANL's own published account records that the phenomenon was ultimately dismissed as a national security threat, a conclusion that did not prevent the Air Force from standing up Project Twinkle ten months later to instrument it. Los Alamos is thus the first place where American nuclear scientists formally met to discuss unexplained objects over their own facilities, and the meeting is on the laboratory's own record.",
-"domains": [
-"ffrdcs",
-"lazar-s4-2026-09-18",
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -166,7 +163,13 @@
 "label": "Los Alamos, New Mexico",
 "locLabel": "Los Alamos, New Mexico, USA",
 "members": null,
+"openQuestions": [],
 "short": "Los Alamos, New Mexico",
+"sourceFiles": [
+"ffrdcs",
+"lazar-s4-2026-09-18",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2024-11-18",
@@ -189,13 +192,15 @@
 "tierRationale": "Re-graded B on a global pass (rank 339 of 1170, score 37). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1949-02-16",
+"grade": "A",
 "id": "tl-1949-lanl",
 "label": "Nuclear scientists meet at Los Alamos about the green fireballs",
 "precision": "day",
 "strand": "program",
-"text": "Edward Teller and Lincoln LaPaz attend a conference on the anomalous objects over northern New Mexico's nuclear installations. LANL's own account records the phenomenon was ultimately dismissed as a national security threat.",
-"tier": "A"
+"text": "Edward Teller and Lincoln LaPaz attend a conference on the anomalous objects over northern New Mexico's nuclear installations. LANL's own account records the phenomenon was ultimately dismissed as a national security threat."
 }
-]
+],
+"unverified": []
 }

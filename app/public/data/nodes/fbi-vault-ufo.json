@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The FBI's standing public UFO collection: sixteen parts covering the Bureau's role in investigating unexplained flying object reports between 1947 and 1954, published to The Vault on 30 November 2010 and last modified 25 July 2013. That end date is the point. For thirteen years the Bureau's public position on UFOs was a frozen archive of Truman-era teletypes, and the FBI appeared in the modern UAP debate only as history. PURSUE dissolved that framing in three months. Release 01 published FBI file 62-HQ-83894 - the Bureau's master flying disc file spanning 1947 to 1968 - as a single 101MB PDF, along with FBI infrared imagery of objects over the western United States in September and December 2025 and an FBI bronze-ellipsoid case from September 2023 with multiple credentialed witnesses at a US test site. Release 03 made the FBI the largest single contributor to a tranche at 29 files, including a 2021-2025 orb corpus with four authenticated eyewitness videos and an FD-1057 recording two FBI special agents' own first-hand observation. Release 05 added FBI-UAP-D031, a black triangular craft with a red light at each corner near a military base at Colorado Springs in October 2023. The Bureau is an active modern UAP collector, and nothing in its own public reading room said so.",
-"domains": [
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -124,7 +123,11 @@
 "label": "FBI Records: The Vault - UFO collection",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "FBI Records: The Vault - UFO collection",
+"sourceFiles": [
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -139,6 +142,7 @@
 ],
 "sub": "16 parts; 1947-1954; posted 30 Nov 2010, last modified 25 Jul 2013",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 366 of 1170, score 36). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 372 of 1170, score 36). 3 connections, 3 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"timeline": [],
+"unverified": []
 }

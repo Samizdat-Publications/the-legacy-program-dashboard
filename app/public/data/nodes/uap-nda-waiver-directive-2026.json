@@ -25,11 +25,6 @@
 "tier": 2
 },
 {
-"source": "Fox News, 21 July 2026",
-"text": "Officials clarified the directive is 'not a declassification directive' and permits disclosure only to cleared government investigators at AARO or the PURSUE task force.",
-"tier": 2
-},
-{
 "source": "Rep. Eric Burlison official press release, 29 July 2026",
 "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - Burlison, offering his office as a channel and recommending congressional presence and counsel.",
 "tier": 1
@@ -42,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -191,10 +187,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The second executive action of 2026 and the one that goes to witnesses rather than paper. In July 2026 the administration directed the Department of War and the intelligence community to waive nondisclosure agreements for former government employees and contractors wishing to share UAP information with authorised investigators. Senior officials described the mechanism as abrogation of prior NDAs for people cooperating through proper channels, executed by having former officials meet cleared officials of AARO or a presidential PURSUE task force who may waive the applicable NDAs during authorised discussions, with any resulting information routed through existing declassification procedures. Officials were explicit that this is not a declassification directive: it permits disclosure to government investigators, not to the public. Rep. Eric Burlison, whose Special Advisor is David Grusch, said on 29 July 2026 that he had been calling for exactly this, offered his office as a channel, and recommended that anyone participating request congressional presence alongside legal counsel. That recommendation is the whole lesson of the Grusch episode compressed into a sentence: the last person to route a disclosure exclusively through executive-branch channels lost his clearance, his promotion and his career while his identity left the protected channel.",
-"domains": [
-"grusch",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -208,7 +201,12 @@
 "label": "Presidential directive waiving UAP-related nondisclosure agreements",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Presidential directive waiving UAP-related nondisclosure agreements",
+"sourceFiles": [
+"grusch",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-07-21",
@@ -223,34 +221,38 @@
 ],
 "sub": "Reported July 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 255 of 1170, score 42). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 286 of 1170, score 40). 6 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-07-21",
+"grade": "A",
 "id": "g-tl-2026-07-nda",
 "label": "Presidential directive waives UAP-related NDAs",
 "precision": "day",
 "strand": "oversight",
-"text": "Agencies are directed to waive nondisclosure agreements for former employees and contractors speaking to cleared AARO or PURSUE officials. Officials stress it is not a declassification directive. Burlison recommends anyone using it bring counsel and request congressional presence.",
-"tier": "A"
+"text": "Agencies are directed to waive nondisclosure agreements for former employees and contractors speaking to cleared AARO or PURSUE officials. Officials stress it is not a declassification directive. Burlison recommends anyone using it bring counsel and request congressional presence."
 },
 {
+"claimTier": null,
 "date": "2026-07-21",
+"grade": "A",
 "id": "rel-2026-07-21b",
 "label": "NDAs waived - to investigators only",
 "precision": "day",
 "strand": "oversight",
-"text": "The administration directs DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators. Officials stress it is 'not a declassification directive.'",
-"tier": "A"
+"text": "The administration directs DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators. Officials stress it is 'not a declassification directive.'"
 },
 {
+"claimTier": 2,
 "date": "2026-07-29",
+"grade": null,
 "id": "tl-nda-directive",
 "label": "Burlison publicises the Presidential UAP NDA-waiver directive",
 "precision": "day",
 "strand": "program",
-"text": "He offers his office's assistance to witnesses, warns that it is unclear whether the abrogation covers testimony given to Congress before referral to the executive branch, and recommends witnesses bring both an attorney and a member of Congress.",
-"tier": "2"
+"text": "He offers his office's assistance to witnesses, warns that it is unclear whether the abrogation covers testimony given to Congress before referral to the executive branch, and recommends witnesses bring both an attorney and a member of Congress."
 }
-]
+],
+"unverified": []
 }

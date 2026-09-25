@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -102,10 +103,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The 509th was constituted as the 509th Composite Group in December 1944 as the delivery unit for the atomic bomb, flew the August 1945 atomic missions, and was redesignated the 509th Bomb Group and based at Roswell Army Air Field in New Mexico - in 1947 the only atomic-capable combat unit in the world. That is the most important fact about the Roswell episode and the one most often dropped from it: the press release announcing that the 509th had recovered a 'flying disc' came from the public information office of the unit holding the nuclear mission, staffed by officers with the highest clearances then in existence, and it was retracted within hours. The GAO's 1995 audit found the group's own July 1947 unit history recording that the RAAF public information office 'was kept quite busy ... answering inquiries on the flying disc' and stating that the object 'turned out to be a radar tracking balloon'. The same audit produced the finding that anchors this node: the RAAF administrative records for March 1945 to December 1949 and its outgoing messages for October 1946 to December 1949 were destroyed, and the disposition form does not indicate what organisation or person destroyed them, when, or under what authority. A base's entire administrative and message traffic for the period bracketing the incident is gone, with no accountable destruction authority recorded, at the one installation where records discipline was most rigorous. The 509th is therefore not merely the unit at the centre of the founding incident; it is the point at which the documentary record was removed.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -119,7 +117,12 @@
 "label": "509th Bomb Group",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "509th Bomb Group",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "1995-07-28",
@@ -135,5 +138,6 @@
 "sub": "USAAF unit",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 980 of 1170, score 16). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

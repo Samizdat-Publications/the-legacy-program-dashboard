@@ -86,7 +86,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"michels-2026-09-02"
+"d-nuclear",
+"d-structure",
+"d-custody"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -107,6 +109,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Lawrence P. Gise",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1957-05-01",
@@ -127,7 +132,7 @@
 "status": "former",
 "sub": "AEC Division of Military Application Assistant Director 1957; ARPA Assistant Director, Administration 1959",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 318 of 1170, score 38). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 316 of 1170, score 38). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

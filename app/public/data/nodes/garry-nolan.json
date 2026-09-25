@@ -390,9 +390,12 @@
 "deg": 9,
 "denials": [],
 "domains": [
-"grusch",
-"scientists-technical",
-"w2-2025-2026"
+"d-research",
+"d-exotic",
+"d-materials",
+"d-custody",
+"d-bio",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -413,6 +416,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Garry Nolan",
+"sourceFiles": [
+"grusch",
+"scientists-technical",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2023-06-05",
@@ -488,16 +496,17 @@
 "status": "active",
 "sub": "Professor of Pathology, Stanford; Sol Foundation co-founder",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 121 of 1170, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 122 of 1170, score 56). 10 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2021-06-14",
+"grade": "A",
 "id": "st-2021-06-14",
 "label": "Nolan says he was approached",
 "precision": "day",
 "strand": "program",
-"text": "Nolan tells KQED that representatives of the government and an aerospace corporation asked him to assess medical harm from 'supposed interactions with an anomalous craft'.",
-"tier": "A"
+"text": "Nolan tells KQED that representatives of the government and an aerospace corporation asked him to assess medical harm from 'supposed interactions with an anomalous craft'."
 }
 ],
 "unexplainedResidual": "The incomplete mixing of metals in the Council Bluffs mass, with all the ordinary industrial and impact explanations argued away, is the residual: a sample that is terrestrial by isotope and unexplained by process.",

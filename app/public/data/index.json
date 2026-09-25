@@ -111,11 +111,11 @@
  ],
  "counts": {
   "claims": {
-   "1": 3789,
-   "2": 1684,
-   "3": 618
+   "1": 3798,
+   "2": 1700,
+   "3": 622
   },
-  "edges": 2762,
+  "edges": 2803,
   "entities": 817,
   "foia": {
    "nodes": 42,
@@ -911,7 +911,7 @@
    "label": "Adam Smith",
    "short": "Adam Smith",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -1591,7 +1591,7 @@
    "D": 3,
    "band": null,
    "claims": [
-    16,
+    15,
     8,
     1
    ],
@@ -3404,8 +3404,8 @@
    "hl": null,
    "id": "cfr-32-117",
    "l0": false,
-   "label": "32 CFR Part 117 — NISPOM Rule",
-   "short": "32 CFR Part 117 — NISPOM Rule",
+   "label": "32 CFR Part 117 - NISPOM Rule",
+   "short": "32 CFR Part 117 - NISPOM Rule",
    "status": null,
    "tier": "A"
   },
@@ -5927,7 +5927,7 @@
    "label": "David Fravor",
    "short": "David Fravor",
    "status": "active",
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -6047,7 +6047,7 @@
    "label": "DCSA as DoD Cognizant Security Office under the NISP",
    "short": "DCSA as DoD Cognizant Security Office under the NISP",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 3,
@@ -6140,8 +6140,8 @@
    "hl": null,
    "id": "defense-appropriations-aawsap",
    "l0": false,
-   "label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
-   "short": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+   "label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
+   "short": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
    "status": null,
    "tier": "B"
   },
@@ -6332,8 +6332,8 @@
    "hl": null,
    "id": "dgac-chile",
    "l0": false,
-   "label": "DGAC Chile — Dirección General de Aeronáutica Civil",
-   "short": "DGAC Chile — Dirección General de Aeronáutica Civil",
+   "label": "DGAC Chile - Dirección General de Aeronáutica Civil",
+   "short": "DGAC Chile - Dirección General de Aeronáutica Civil",
    "status": null,
    "tier": "C"
   },
@@ -6500,8 +6500,8 @@
    "hl": null,
    "id": "dia-sap-denial-2009",
    "l0": false,
-   "label": "DIA Info Memo U-09-2660 — denial of restricted SAP for AAWSAP (13 Nov 2009)",
-   "short": "DIA Info Memo U-09-2660 — denial of restricted SAP for AAWSAP (13 Nov 2009)",
+   "label": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
+   "short": "DIA Info Memo U-09-2660 - denial of restricted SAP for AAWSAP (13 Nov 2009)",
    "status": null,
    "tier": "C"
   },
@@ -6559,7 +6559,7 @@
    "D": 0,
    "band": null,
    "claims": [
-    8,
+    9,
     0,
     0
    ],
@@ -7103,7 +7103,7 @@
    "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
    "short": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -7127,7 +7127,7 @@
    "label": "Quantum Tomography of Negative Energy States in the Vacuum",
    "short": "Quantum Tomography of Negative Energy States in the Vacuum",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -7135,9 +7135,9 @@
    "D": 0,
    "band": "reverse-engineering",
    "claims": [
-    11,
-    0,
-    2
+    14,
+    1,
+    3
    ],
    "cls": "document",
    "cluster": "other",
@@ -7199,7 +7199,7 @@
    "label": "State of the Art and Evolution of High-Energy Laser Weapons",
    "short": "State of the Art and Evolution of High-Energy Laser Weapons",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -7831,9 +7831,9 @@
    "D": 2,
    "band": "custody",
    "claims": [
-    4,
+    12,
     0,
-    1
+    3
    ],
    "cls": "institution",
    "cluster": "legacy",
@@ -7964,7 +7964,7 @@
    "hl": null,
    "id": "dodi-5205-11",
    "l0": true,
-   "label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
    "short": "DoDI 5205.11",
    "status": null,
    "tier": "A"
@@ -8084,8 +8084,8 @@
    "hl": null,
    "id": "dodm-5205-07-series",
    "l0": false,
-   "label": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
-   "short": "DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)",
+   "label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
+   "short": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
    "status": null,
    "tier": "A"
   },
@@ -8108,8 +8108,8 @@
    "hl": null,
    "id": "dodm-5205-07-v1",
    "l0": false,
-   "label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
-   "short": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+   "label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
+   "short": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
    "status": null,
    "tier": "A"
   },
@@ -8695,7 +8695,7 @@
    "D": 3,
    "band": null,
    "claims": [
-    6,
+    5,
     0,
     0
    ],
@@ -8972,10 +8972,10 @@
    "hl": null,
    "id": "eo-12829",
    "l0": false,
-   "label": "Executive Order 12829 — National Industrial Security Program (6 Jan 1993)",
-   "short": "Executive Order 12829 — National Industrial Security Program (6 Jan 1993)",
+   "label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
+   "short": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -8996,7 +8996,7 @@
    "hl": null,
    "id": "eo-13526",
    "l0": true,
-   "label": "Executive Order 13526 — Classified National Security Information",
+   "label": "Executive Order 13526 - Classified National Security Information",
    "short": "Executive Order 13526",
    "status": null,
    "tier": "A"
@@ -9320,7 +9320,7 @@
    "band": null,
    "claims": [
     0,
-    4,
+    7,
     0
    ],
    "cls": "event",
@@ -9551,7 +9551,7 @@
    "label": "The five observables (UAP performance taxonomy)",
    "short": "The five observables (UAP performance taxonomy)",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 1,
@@ -9644,8 +9644,8 @@
    "hl": null,
    "id": "foia-21-f-0938",
    "l0": false,
-   "label": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
-   "short": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+   "label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
+   "short": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
    "status": null,
    "tier": "C"
   },
@@ -10052,8 +10052,8 @@
    "hl": null,
    "id": "gao-04-332",
    "l0": false,
-   "label": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
-   "short": "GAO-04-332 — Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+   "label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+   "short": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
    "status": null,
    "tier": "B"
   },
@@ -10148,8 +10148,8 @@
    "hl": null,
    "id": "gao-nsiad-95-187",
    "l0": false,
-   "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
-   "short": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+   "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+   "short": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
    "status": null,
    "tier": "A"
   },
@@ -11519,7 +11519,7 @@
    "label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
    "short": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -11599,7 +11599,7 @@
    "D": 3,
    "band": "retrieval",
    "claims": [
-    18,
+    17,
     17,
     0
    ],
@@ -12188,7 +12188,7 @@
    "hl": null,
    "id": "iaa-fy2024-7343",
    "l0": true,
-   "label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+   "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
    "short": "FY2024 IAA sec. 7343",
    "status": null,
    "tier": "A"
@@ -12212,7 +12212,7 @@
    "hl": null,
    "id": "iaa-fy2024-sec-1102",
    "l0": true,
-   "label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+   "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
    "short": "IAA FY2024 Sec. 1102",
    "status": null,
    "tier": "A"
@@ -12260,8 +12260,8 @@
    "hl": null,
    "id": "iaa-fy2025-title-lxviii",
    "l0": false,
-   "label": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
-   "short": "IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)",
+   "label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
+   "short": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
    "status": null,
    "tier": "C"
   },
@@ -12332,8 +12332,8 @@
    "hl": null,
    "id": "icd-906",
    "l0": false,
-   "label": "ICD 906 — Controlled Access Programs (ODNI)",
-   "short": "ICD 906 — Controlled Access Programs (ODNI)",
+   "label": "ICD 906 - Controlled Access Programs (ODNI)",
+   "short": "ICD 906 - Controlled Access Programs (ODNI)",
    "status": null,
    "tier": "A"
   },
@@ -12788,8 +12788,8 @@
    "hl": null,
    "id": "izmiran",
    "l0": false,
-   "label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
-   "short": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+   "label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
+   "short": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
    "status": null,
    "tier": "C"
   },
@@ -17879,7 +17879,7 @@
    "label": "Martin T. Heinrich",
    "short": "Martin T. Heinrich",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 1,
@@ -18071,7 +18071,7 @@
    "label": "Michael Gold",
    "short": "Michael Gold",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -19412,7 +19412,7 @@
    "hl": null,
    "id": "ndaa-fy2024-1687",
    "l0": true,
-   "label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+   "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
    "short": "FY2024 NDAA sec. 1687",
    "status": null,
    "tier": "A"
@@ -19436,8 +19436,8 @@
    "hl": null,
    "id": "ndaa-fy2024-7606",
    "l0": false,
-   "label": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
-   "short": "FY2024 IAA sec. 7606(c) — Agency Review of Special Access Programs",
+   "label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
+   "short": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
    "status": null,
    "tier": "C"
   },
@@ -19460,8 +19460,8 @@
    "hl": null,
    "id": "ndaa-fy2024-subtitle-c",
    "l0": false,
-   "label": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
-   "short": "P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)",
+   "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
+   "short": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
    "status": null,
    "tier": "A"
   },
@@ -21428,8 +21428,8 @@
    "hl": null,
    "id": "pl-100-180",
    "l0": false,
-   "label": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
-   "short": "Public Law 100-180 sec. 1132 — creation of SAP congressional oversight (4 Dec 1987)",
+   "label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
+   "short": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
    "status": null,
    "tier": "C"
   },
@@ -21452,8 +21452,8 @@
    "hl": null,
    "id": "pl118-31-sec-1687",
    "l0": false,
-   "label": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
-   "short": "P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs",
+   "label": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
+   "short": "P.L. 118-31 Sec. 1687 - limitation on funds for unreported programs",
    "status": null,
    "tier": "A"
   },
@@ -21476,8 +21476,8 @@
    "hl": null,
    "id": "pl118-31-sec-7343",
    "l0": false,
-   "label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
-   "short": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
+   "label": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
+   "short": "P.L. 118-31 Sec. 7343 - the truncated funding limitation",
    "status": null,
    "tier": "B"
   },
@@ -22439,7 +22439,7 @@
    "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "short": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
    "status": null,
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -22532,8 +22532,8 @@
    "hl": null,
    "id": "rg-615-uap-records",
    "l0": false,
-   "label": "NARA Record Group 615 — UAP Records Collection",
-   "short": "NARA Record Group 615 — UAP Records Collection",
+   "label": "NARA Record Group 615 - UAP Records Collection",
+   "short": "NARA Record Group 615 - UAP Records Collection",
    "status": null,
    "tier": "B"
   },
@@ -23588,8 +23588,8 @@
    "hl": null,
    "id": "saf-aaz",
    "l0": false,
-   "label": "SAF/AAZ — Air Force Declassification & Special Programs",
-   "short": "SAF/AAZ — Air Force Declassification & Special Programs",
+   "label": "SAF/AAZ - Air Force Declassification & Special Programs",
+   "short": "SAF/AAZ - Air Force Declassification & Special Programs",
    "status": null,
    "tier": "C"
   },
@@ -23756,8 +23756,8 @@
    "hl": null,
    "id": "sap-cover-mechanisms",
    "l0": false,
-   "label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
-   "short": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+   "label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+   "short": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
    "status": null,
    "tier": "A"
   },
@@ -23804,8 +23804,8 @@
    "hl": null,
    "id": "sap-taxonomy",
    "l0": false,
-   "label": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
-   "short": "Acknowledged, unacknowledged and waived — the three states of a DoD SAP",
+   "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
+   "short": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
    "status": null,
    "tier": "A"
   },
@@ -24272,8 +24272,8 @@
    "band": "research",
    "claims": [
     0,
-    7,
-    0
+    20,
+    1
    ],
    "cls": "program",
    "cluster": "ic",
@@ -24287,7 +24287,7 @@
    "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
    "short": "SETKA-AN / SETKA-MO",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 2,
@@ -26384,7 +26384,7 @@
    "band": null,
    "claims": [
     2,
-    4,
+    3,
     1
    ],
    "cls": "document",
@@ -26612,8 +26612,8 @@
    "hl": null,
    "id": "uapda-sec-9010-eminent-domain",
    "l0": false,
-   "label": "Section 9010(a) — Exercise of Eminent Domain",
-   "short": "Section 9010(a) — Exercise of Eminent Domain",
+   "label": "Section 9010(a) - Exercise of Eminent Domain",
+   "short": "Section 9010(a) - Exercise of Eminent Domain",
    "status": null,
    "tier": "A"
   },
@@ -27068,7 +27068,7 @@
    "hl": 3,
    "id": "usc-10-119",
    "l0": true,
-   "label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+   "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
    "short": "10 U.S.C. 119",
    "status": null,
    "tier": "A"
@@ -27092,8 +27092,8 @@
    "hl": null,
    "id": "usc-10-119e",
    "l0": false,
-   "label": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
-   "short": "10 U.S.C. 119(e) — Waiver of SAP Reporting (the 'waived SAP' authority)",
+   "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
+   "short": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
    "status": null,
    "tier": "B"
   },
@@ -27116,8 +27116,8 @@
    "hl": null,
    "id": "usc-50-2426",
    "l0": false,
-   "label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
-   "short": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+   "label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+   "short": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
    "status": null,
    "tier": "B"
   },
@@ -27140,8 +27140,8 @@
    "hl": null,
    "id": "usc-50-3091",
    "l0": false,
-   "label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
-   "short": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+   "label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+   "short": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
    "status": null,
    "tier": "B"
   },
@@ -27164,8 +27164,8 @@
    "hl": null,
    "id": "usc-50-3091a",
    "l0": false,
-   "label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
-   "short": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+   "label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
+   "short": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
    "status": null,
    "tier": "A"
   },
@@ -27188,8 +27188,8 @@
    "hl": null,
    "id": "usc-50-3091a-2024amend",
    "l0": false,
-   "label": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
-   "short": "Pub. L. 118-159 secs. 6602 & 6603 — CAP funding cutoff and the CAP-to-SAP transfer bar",
+   "label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
+   "short": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
    "status": null,
    "tier": "C"
   },
@@ -27212,8 +27212,8 @@
    "hl": null,
    "id": "usc-50-3093",
    "l0": false,
-   "label": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
-   "short": "50 U.S.C. 3093 — Presidential Approval and Reporting of Covert Actions",
+   "label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
+   "short": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
    "status": null,
    "tier": "B"
   },
@@ -27260,8 +27260,8 @@
    "hl": null,
    "id": "usc-50-3348",
    "l0": false,
-   "label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
-   "short": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+   "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+   "short": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
    "status": null,
    "tier": "A"
   },
@@ -27668,8 +27668,8 @@
    "hl": null,
    "id": "waived-usap-mechanism",
    "l0": true,
-   "label": "Waived Unacknowledged SAP (waived USAP) — the mechanism",
-   "short": "Waived USAP — the mechanism",
+   "label": "Waived Unacknowledged SAP (waived USAP) - the mechanism",
+   "short": "Waived USAP - the mechanism",
    "status": null,
    "tier": "A"
   },
@@ -28022,7 +28022,7 @@
    "cls": "person",
    "cluster": "research",
    "dateEnd": null,
-   "dateStart": "1989-07-01",
+   "dateStart": "1990-01-01",
    "deg": 8,
    "era": "1",
    "hl": null,
@@ -28055,7 +28055,7 @@
    "label": "William J. Lynn III",
    "short": "William J. Lynn III",
    "status": "former",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 3,
@@ -28250,5 +28250,5 @@
    "tier": "C"
   }
  ],
- "source": "6baf9bab56df"
+ "source": "67fab325f977"
 }

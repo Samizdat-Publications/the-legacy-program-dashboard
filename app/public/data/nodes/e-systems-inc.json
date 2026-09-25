@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -66,9 +67,7 @@
 "deg": 1,
 "denials": [],
 "desc": "A Dallas defence electronics contractor, incorporated in Delaware in 1964 and acquired by Raytheon in a $2.3 billion cash tender offer completed on 1 May 1995. Its SEC filer record carries its own name history: it filed as LTV Electrosystems, Inc. until 1972. Three quarters of its 1994 sales were reconnaissance and surveillance systems and command, control and communications systems, and it also built intelligence collection and processing systems. It is drafted here because a podcast panel used it as the middle term of a custody chain running LTV Aerospace to E-Systems to Raytheon; the filings contradict the first link, naming LTV Electrosystems rather than LTV Aerospace as the predecessor, and place Edward C. Aldridge nowhere in the company's governance.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -82,7 +81,11 @@
 "label": "E-Systems, Inc.",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "E-Systems, Inc.",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1995-04-03",
@@ -107,6 +110,7 @@
 ],
 "sub": "Dallas defence electronics contractor, incorporated in Delaware 1964 as LTV Electrosystems; acquired by Raytheon 1 May 1995",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 491 of 1170, score 31). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D0.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 493 of 1170, score 31). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"timeline": [],
+"unverified": []
 }

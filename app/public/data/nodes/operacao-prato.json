@@ -57,6 +57,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -95,27 +96,6 @@
 "type": "research"
 },
 {
-"claimTier": 2,
-"cls": "institution",
-"dateEnd": null,
-"dateStart": "1990s",
-"direction": "out",
-"edgeLabel": "official documents held by the National Archives",
-"id": "arquivo-nacional-ufo",
-"l0": true,
-"label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
-"note": "The operation's files were released and are served through the Arquivo Nacional's information system.",
-"sources": [
-{
-"date": "2026-01-01",
-"name": "Operação Prato - Wikipedia",
-"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
-}
-],
-"tier": "A",
-"type": "custody"
-},
-{
 "claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
@@ -137,6 +117,27 @@
 "name": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011",
 "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011"
 },
+{
+"date": "2026-01-01",
+"name": "Operação Prato - Wikipedia",
+"url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "",
+"id": "arquivo-nacional-ufo",
+"l0": true,
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"note": "The Arquivo holds and serves the operation's files. Its own answer to a litigant, quoted verbatim in the 2023 federal judgment, reports that a SIAN search on the term 'operacao prato' returns six documents, none audiovisual. No SIAN item numbers were ever obtained and none are asserted here.",
+"sources": [
 {
 "date": "2026-01-01",
 "name": "Operação Prato - Wikipedia",
@@ -323,7 +324,7 @@
 "url": ""
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "programmatic"
 },
 {
@@ -380,10 +381,7 @@
 "deg": 9,
 "denials": [],
 "desc": "Operação Prato was the first Brazilian Air Force operation mounted solely to investigate UAP. It followed a wave of reports on the island of Colares in Pará in 1977 in which residents said descending lights - which they called the Chupa-Chupa - had burned and punctured them; villagers held night vigils, lit fires and set off fireworks, and the mayor, José Ildone Favacho Soeiro, formally requested Air Force help. The operation was commanded by Captain Uyrangê Hollanda and executed by the Brazilian Air Force together with the National Information Service, the intelligence service of the military dictatorship. It ran in two documented phases, 20 October to 11 November 1977 and 25 November to 5 December 1977, produced photographs of lights, and was terminated after about four months with the official finding that no unusual phenomena had been found. The files are held by the Arquivo Nacional and were opened from the late 1990s onward; Folha de S. Paulo reported in January 2009 under the headline 'SNI investigou óvnis durante a ditadura' that the dictatorship's intelligence service had been running UFO investigations. The operation's importance to this board is that it is a documented case of a military intelligence apparatus mounting a field collection effort against the phenomenon and then publishing a negative finding, with the commanding officer contradicting that finding twenty years later and dying three months afterwards.",
-"domains": [
-"w11-brazil-harden",
-"w2-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -510,7 +508,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Operação Prato",
+"sourceFiles": [
+"w11-brazil-harden",
+"w2-international"
+],
 "sources": [
 {
 "date": null,
@@ -540,16 +543,18 @@
 ],
 "sub": "Brazilian Air Force I COMAR (Belem/PA) intelligence-section operation, Colares, Para, 1977-1978; documents held in the Arquivo Nacional Fundo OVNI, BR DFANBSB ARX",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 77 of 1170, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 78 of 1170, score 70). 10 connections, 5 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "1977-10-20",
+"grade": null,
 "id": "tl-intl-1977-prato",
 "label": "Operação Prato begins on Colares",
 "precision": "day",
 "strand": "program",
-"text": "The Brazilian Air Force and the National Information Service open the first Brazilian military operation mounted solely to investigate UAP, at the request of the mayor of Colares after residents report burns and puncture wounds from descending lights. Captain Uyrangê Hollanda commands.",
-"tier": 2
+"text": "The Brazilian Air Force and the National Information Service open the first Brazilian military operation mounted solely to investigate UAP, at the request of the mayor of Colares after residents report burns and puncture wounds from descending lights. Captain Uyrangê Hollanda commands."
 }
-]
+],
+"unverified": []
 }

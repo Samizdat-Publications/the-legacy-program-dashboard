@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Monroe Institute is a private body at Faber, Virginia, founded around Robert A. Monroe's out-of-body work and the brain hemisphere synchronization technique it markets as Hemi-Sync. It matters to this board because a United States Army intelligence command put a written assessment of its method on the record. On 9 June 1983 the commander of Detachment O, US Army Operational Group, US Army Intelligence and Security Command at Fort George G. Meade, wrote a twenty-nine page memorandum analysing the Gateway Experience, on tasking from his own commander, and said explicitly that it was intended as a guide for other USAINSCOM personnel who were required to take the Gateway training. The memorandum concluded that Gateway is plausible in physical science terms and set out a six-step phased programme for bringing personnel to conscious control of the out-of-body state. The date places it inside CENTER LANE, INSCOM's remote-viewing special access programme of 1983 to 1986.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -98,7 +97,11 @@
 "label": "The Monroe Institute",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Monroe Institute",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1983-06-09",
@@ -113,16 +116,18 @@
 ],
 "sub": "Private institute at Faber, Virginia; source of the Gateway Experience and Hemi-Sync, assessed in writing by INSCOM in 1983",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 597 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 591 of 1170, score 28). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1983-06-09",
+"grade": "B",
 "id": "tl-1983-06-09-gateway-process-assessment",
 "label": "INSCOM puts a written assessment of the Monroe Institute's Gateway Process on the record",
 "precision": "day",
 "strand": "program",
-"text": "A twenty-nine page memorandum from the US Army Operational Group, US Army Intelligence and Security Command, Fort George G. Meade, analyses the Gateway Experience on tasking from its own commander and states that it is meant as 'a useful guide for other USAINSCOM personnel who are required to take the Gateway training or work with Gateway materials'. It names remote viewing as a follow-on technique inside the method and concludes that there is 'a sound, rational basis in terms of physical science parameters for considering Gateway to be plausible in terms of its essential objectives'.",
-"tier": "B"
+"text": "A twenty-nine page memorandum from the US Army Operational Group, US Army Intelligence and Security Command, Fort George G. Meade, analyses the Gateway Experience on tasking from its own commander and states that it is meant as 'a useful guide for other USAINSCOM personnel who are required to take the Gateway training or work with Gateway materials'. It names remote viewing as a follow-on technique inside the method and concludes that there is 'a sound, rational basis in terms of physical science parameters for considering Gateway to be plausible in terms of its essential objectives'."
 }
-]
+],
+"unverified": []
 }

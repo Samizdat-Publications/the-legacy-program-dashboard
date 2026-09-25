@@ -377,8 +377,9 @@
 "deg": 12,
 "denials": [],
 "domains": [
-"nuclear-witnesses-2026-09-19",
-"w2-retrieval-literature"
+"d-nuclear",
+"d-witness",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -399,6 +400,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Robert L. Hastings",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2024-10-19",
@@ -479,7 +484,7 @@
 "status": "active",
 "sub": "Researcher, UFO incursions at US nuclear weapons sites; author, 'UFOs and Nukes'",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 191 of 1170, score 46). 12 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 190 of 1170, score 46). 12 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

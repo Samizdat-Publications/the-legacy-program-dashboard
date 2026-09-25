@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -103,6 +104,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "nga",
 "label": "National Geospatial-Intelligence Agency"
@@ -130,10 +139,7 @@
 }
 ],
 "desc": "NGA is the Intelligence Community's geospatial intelligence element and a Department of Defense combat support agency, created as the National Imagery and Mapping Agency in 1996 out of the Defense Mapping Agency, the Central Imagery Office and CIA's National Photographic Interpretation Center, and renamed the National Geospatial-Intelligence Agency in the FY2004 National Defense Authorization Act. Its relevance to this board is exploitation rather than collection: NGA is the agency that turns NRO overhead product and commercial imagery into analysed geospatial intelligence, which makes it the natural custodian of any imagery-derived record of anomalous objects and of any imagery-derived record of a recovery operation. NGA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP, and AARO's March 2024 historical report lists NGA among the agencies at which it conducted research. NGA has not published a UAP-specific FOIA collection, has not appeared as a witness at any UAP hearing, and has not been the subject of any published FOIA litigation on the subject - a silence that is itself a research gap rather than an answer, because the agency's product line is precisely the kind that would resolve a claim about objects and installations on the ground.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -147,7 +153,12 @@
 "label": "National Geospatial-Intelligence Agency",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "National Geospatial-Intelligence Agency",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-08-11",
@@ -172,6 +183,7 @@
 ],
 "sub": "Combat support agency and IC element for geospatial intelligence; successor to NIMA and the Defense Mapping Agency",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 631 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 630 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"timeline": [],
+"unverified": []
 }

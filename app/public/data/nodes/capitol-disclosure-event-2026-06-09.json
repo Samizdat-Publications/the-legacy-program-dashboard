@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -145,9 +146,7 @@
 "deg": 5,
 "denials": [],
 "desc": "On 9 June 2026 lawmakers and UAP whistleblowers gathered at the US Capitol to renew demands for transparency, with David Grusch returning to the Hill for the first time since his 2023 testimony. The specific asks were sharper than at any hearing: Anna Paulina Luna said lawmakers were requesting that the White House grant immunity to whistleblowers who come forward with information including the locations of UAP craft and advanced technology; Eric Burlison echoed the immunity call and asked President Trump to waive all non-disclosure agreements for UAP whistleblowers, while describing a 'Tom Clancy-style dead drop' of information to his office. Grusch, addressing the gatekeeping directly, said 'Political appointees have not complied with the disclosure law.' Moskowitz: 'Disclosure today, disclosure tomorrow. The American people deserve to know.' Burchett said a congressional tour of Area 51 would yield a T-shirt because the government would move everything else first. Lawmakers also called for the release of records relating to the 1996 Varginha incident in Brazil. The recurring theme was money and oversight rather than biology: whether the Pentagon is spending outside congressional reach.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -161,7 +160,11 @@
 "label": "Capitol UAP disclosure event, 9 June 2026",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Capitol UAP disclosure event, 9 June 2026",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2026-06-09",
@@ -174,13 +177,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 659 of 1170, score 26). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-06-09",
+"grade": "A",
 "id": "ch-2026-06-09",
 "label": "Grusch returns to the Capitol",
 "precision": "day",
 "strand": "oversight",
-"text": "Lawmakers and whistleblowers gather at the Capitol; Luna asks the White House for whistleblower immunity, Burlison asks the President to waive all NDAs, and Grusch says political appointees have not complied with the disclosure law.",
-"tier": "A"
+"text": "Lawmakers and whistleblowers gather at the Capitol; Luna asks the White House for whistleblower immunity, Burlison asks the President to waive all NDAs, and Grusch says political appointees have not complied with the disclosure law."
 }
-]
+],
+"unverified": []
 }

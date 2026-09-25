@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -129,10 +130,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The originating instrument of PURSUE, and a thin one. On 19-20 February 2026 Trump posted on Truth Social that he would direct Secretary of War Hegseth and other relevant departments and agencies to begin the process of identifying and releasing government files related to alien and extraterrestrial life, UAP and UFOs, 'and any and all other information connected to these highly complex, but extremely interesting and important, matters.' Hegseth referred to it five days later as 'that executive order,' but the contemporaneous reporting describes a social-media post and no signed order has surfaced in the public record as of 12 August 2026. Chief Pentagon Spokesman Sean Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive.' The consequence of the missing instrument is that PURSUE has no published scope, no defined universe of covered records, no declassification standard, no review authority named in writing, no compliance deadline and no reporting requirement - every one of which the Burlison FY2027 NDAA amendment would supply by statute. It is a release programme that exists at will.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -146,7 +144,12 @@
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -174,22 +177,25 @@
 "tierRationale": "Re-graded B on a global pass (rank 456 of 1170, score 32). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-02-19",
+"grade": "A",
 "id": "rel-2026-02-19",
 "label": "The President orders a release",
 "precision": "day",
 "strand": "program",
-"text": "Trump posts on Truth Social that he will direct Hegseth and relevant departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs.",
-"tier": "A"
+"text": "Trump posts on Truth Social that he will direct Hegseth and relevant departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs."
 },
 {
+"claimTier": null,
 "date": "2026-02-20",
+"grade": "A",
 "id": "rel-2026-02-20",
 "label": "The department acknowledges the directive",
 "precision": "day",
 "strand": "program",
-"text": "Parnell says the department looks forward to working with the interagency to fulfil the directive. Mellon: 'This might be a consequential moment, but the impact will depend on the follow-through.'",
-"tier": "A"
+"text": "Parnell says the department looks forward to working with the interagency to fulfil the directive. Mellon: 'This might be a consequential moment, but the impact will depend on the follow-through.'"
 }
-]
+],
+"unverified": []
 }

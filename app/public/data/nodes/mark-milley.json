@@ -58,6 +58,14 @@
 "deg": 1,
 "denials": [
 {
+"a": {
+"id": "mark-milley",
+"label": "Mark A. Milley"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
 "by": {
 "id": "mark-milley",
 "label": "Mark A. Milley"
@@ -80,8 +88,7 @@
 }
 ],
 "domains": [
-"grusch",
-"w16-thin-people"
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -102,6 +109,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Mark A. Milley",
+"sourceFiles": [
+"grusch",
+"w16-thin-people"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -117,7 +128,7 @@
 "status": "former",
 "sub": "Gen., US Army; Chairman of the Joint Chiefs of Staff 2019-2023",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 675 of 1170, score 25). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 674 of 1170, score 25). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

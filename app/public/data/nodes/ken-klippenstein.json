@@ -87,6 +87,14 @@
 "deg": 2,
 "denials": [
 {
+"a": {
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"b": {
+"id": "ken-klippenstein",
+"label": "Ken Klippenstein"
+},
 "by": {
 "id": "nancy-mace",
 "label": "Nancy Ruth Mace"
@@ -109,7 +117,8 @@
 }
 ],
 "domains": [
-"grusch"
+"d-media",
+"d-coverup"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -130,6 +139,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Ken Klippenstein",
+"sourceFiles": [
+"grusch"
+],
 "sources": [
 {
 "date": "2023-08-09",
@@ -148,13 +160,14 @@
 "tierRationale": "Re-graded C on a global pass (rank 997 of 1170, score 15). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-08-09",
+"grade": "A",
 "id": "g-tl-2023-08-intercept",
 "label": "Grusch's psychiatric-detention records published",
 "precision": "day",
 "strand": "coverup",
-"text": "Ken Klippenstein publishes Loudoun County police records of Grusch's 2014 and 2018 emergency custody episodes, obtained under Virginia FOIA, two weeks after the sworn testimony. Members of Congress later describe the leak as a discrediting operation.",
-"tier": "A"
+"text": "Ken Klippenstein publishes Loudoun County police records of Grusch's 2014 and 2018 emergency custody episodes, obtained under Virginia FOIA, two weeks after the sworn testimony. Members of Congress later describe the leak as a discrediting operation."
 }
 ],
 "unexplainedResidual": null,

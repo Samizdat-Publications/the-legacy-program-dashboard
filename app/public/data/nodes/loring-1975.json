@@ -27,6 +27,7 @@
 ],
 "cls": "event",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -98,9 +99,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The opening episode of the 1975 sequence and the one that generated the best document in the subject. On 27 October 1975 at about 1945 SSgt Danny K. Lewis of the 42nd Security Police Squadron, on duty at the munitions storage area, saw what he took to be an aircraft at low altitude along the northern perimeter; it penetrated the perimeter at about 300 feet. SSgt James P. Sampley picked it up on tower radar and tried to warn it off a restricted area. Col. Richard E. Chapman, commander of the 42nd Bomb Wing, implemented a Security Option 3 alert. Sgt Grover K. Eggleston tracked it on radar for forty minutes before it vanished from the screen. The following night a similar craft returned and a B-52 crew chief, Sgt Steven Eichner, and others drove toward an object hovering about five feet off the ground near the weapons storage area road. On the night of 28 to 29 October the National Military Command Center logged it as an 'AFB Penetration' and ran it up the Joint Staff. The traffic calls the intruder an unidentified helicopter throughout, never a UFO, and records that it was never identified.",
-"domains": [
-"nuclear-witnesses-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -114,7 +113,11 @@
 "label": "Loring AFB penetrations, 27 to 31 October 1975",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Loring AFB penetrations, 27 to 31 October 1975",
+"sourceFiles": [
+"nuclear-witnesses-2026-09-19"
+],
 "sources": [
 {
 "date": "1975-10-29",
@@ -140,5 +143,10 @@
 "sub": "Unidentified low-level intruder over the 42nd Bombardment Wing's nuclear weapons storage area; escalated by the NMCC to the Joint Staff and the State Department",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 668 of 1170, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"timeline": [],
+"unverified": [
+"The 42 BW message 291140Z OCT 75, cited as the source of the NMCC updates, was NOT OPENED in its own text.",
+"The OSI teletype of 29 October 1975 and the OSI letter of 21 April 1977 titled 'Overflight of USAF Installations by Unidentified Aircraft'.",
+"The account of Sgt Steven Eichner and the B-52 crew comes from Clear Intent rather than from message traffic and is a different evidentiary class from the rest of this node."
+]
 }

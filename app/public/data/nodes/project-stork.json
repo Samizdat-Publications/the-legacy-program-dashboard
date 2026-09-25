@@ -47,6 +47,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -128,10 +129,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Project Stork was the Air Force's contracted analytical arm for its own UFO investigation. Battelle Memorial Institute, in Columbus, Ohio, held the contract and performed the statistical work on Blue Book's case files that became Special Report No. 14. Stork is the reason a private applied-science institute, not the Air Force, controlled the analytical methodology by which UFO reports were classified as identified or unidentified for the entire Blue Book era. It is also the contract vehicle under which H. C. Cross wrote the Pentacle Memorandum on 9 January 1953 proposing covertly scheduled aerial activity in high-report areas - a proposal made by the contractor to the customer, in writing, on a project the public was told was a scientific investigation. Project Stork is the earliest clean instance of the mechanism this domain exists to document: the government's analytical judgement on anomalous phenomena being formed inside a private nonprofit whose records were never federal records.",
-"domains": [
-"ffrdcs",
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -145,7 +143,12 @@
 "label": "Project Stork (Project White Stork)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project Stork (Project White Stork)",
+"sourceFiles": [
+"ffrdcs",
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -178,22 +181,25 @@
 "tierRationale": "Re-graded A on a global pass (rank 156 of 1170, score 52). 3 connections, 3 of them custody/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1952-01-01",
+"grade": "A",
 "id": "tl-ffrdc-1952-stork",
 "label": "Battelle contracted for Project Stork",
 "precision": "year",
 "strand": "program",
-"text": "The Air Force outsources the statistical analysis of Project Blue Book's case files to Battelle Memorial Institute in Columbus, Ohio, under the codename Project Stork.",
-"tier": "A"
+"text": "The Air Force outsources the statistical analysis of Project Blue Book's case files to Battelle Memorial Institute in Columbus, Ohio, under the codename Project Stork."
 },
 {
+"claimTier": null,
 "date": "1952-03-31",
+"grade": "A",
 "id": "tl-1952-stork-inception",
 "label": "Project Stork begins",
 "precision": "day",
 "strand": "program",
-"text": "Work begins on Project Stork, designation PPS-100, later carried as contract AF-19741, for the Air Technical Intelligence Center. The first status report of 25 April 1952 describes progress 'from its inception on March 31, 1952'. Seven status reports survive, totalling 107 pages, and the transcribing archive records that further reports referenced in the text are not in NARA custody.",
-"tier": "A"
+"text": "Work begins on Project Stork, designation PPS-100, later carried as contract AF-19741, for the Air Technical Intelligence Center. The first status report of 25 April 1952 describes progress 'from its inception on March 31, 1952'. Seven status reports survive, totalling 107 pages, and the transcribing archive records that further reports referenced in the text are not in NARA custody."
 }
-]
+],
+"unverified": []
 }

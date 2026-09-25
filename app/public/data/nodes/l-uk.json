@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -85,10 +86,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The United Kingdom occupies a specific argumentative position on this board: it is the state that did what the United States has not. The Ministry of Defence operated a UFO reporting desk from 1950 until December 2009, commissioned the classified Project Condign study of unidentified aerial phenomena in the UK air defence region, and subsequently released its entire UFO file series into the National Archives in successive public tranches. The Rendlesham Forest events of December 1980, involving US Air Force personnel at RAF Woodbridge and Bentwaters, remain the most heavily documented Anglo-American case. Nothing in the British release produced the harms the American concealment case depends on.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -102,7 +100,12 @@
 "label": "United Kingdom",
 "locLabel": "United Kingdom",
 "members": null,
+"openQuestions": [],
 "short": "United Kingdom",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -118,5 +121,6 @@
 "sub": "Sovereign state; the fullest official UFO file release by any government",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 801 of 1170, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

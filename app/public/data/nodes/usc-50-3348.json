@@ -77,6 +77,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -129,7 +130,7 @@
 "edgeLabel": "the IC side of the same seam",
 "id": "iaa-fy2024-7343",
 "l0": true,
-"label": "FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP",
+"label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Tier 3: this is a reading of how the provisions sit together, not a cross-reference either text makes. Sec. 7343 is the intelligence-funds twin of NDAA sec. 1687, running through the DNI rather than the Secretary of Defense. The seam it straddles is the one 50 U.S.C. 3348(g)(2)(B) draws when it excludes DoD, the NNSA and IC agencies from its own SAP-reporting regime and routes each to a separate channel. 3348's text was read directly on 22 August 2026 and makes no reference to 7343; the connection is structural.",
 "sources": [
 {
@@ -150,14 +151,19 @@
 "claimTier": 1,
 "cls": "legislation",
 "dateEnd": null,
-"dateStart": "1993-11-30",
+"dateStart": null,
 "direction": "out",
-"edgeLabel": "Supplies the statutory definition of 'special access program' that title 10 lacks",
+"edgeLabel": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "50 U.S.C. 3348(g)(3) defines the term; 10 U.S.C. 119 uses it throughout without defining it. Section 3091a(b)(2)(A) cross-references 3348(g) for the definition.",
 "sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+},
 {
 "date": "2026-08-12",
 "name": "50 U.S.C. 3348",
@@ -178,10 +184,10 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeLabel": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
+"edgeLabel": "excludes DoD, routing it to sec. 119",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "50 U.S.C. 3348(g)(2)(B) defines what the section does NOT cover, and the first thing it excludes is the Department of Defense: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10)'. The exclusion is the link. 3348's SAP reporting regime does not reach DoD because DoD reports under 10 U.S.C. 119 instead, and 119 is the statute that carries the subsection (e) waiver. Read directly from the OLRC text on 22 August 2026.",
 "sources": [
 {
@@ -207,7 +213,28 @@
 "edgeLabel": "3348(g)(2)(B)(ii) writes NNSA out and points to 50 U.S.C. 2426",
 "id": "usc-50-2426",
 "l0": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+"url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
+"cls": "legislation",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "excludes NNSA, routing it to sec. 2426",
+"id": "usc-50-2426",
+"l0": false,
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "note": "The second exclusion in 50 U.S.C. 3348(g)(2)(B): '(ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title)'. The third, (iii), excludes 'an agency in the Intelligence Community (as defined in section 3003(4) of this title)'. Read directly from the OLRC text on 22 August 2026.",
 "sources": [
 {
@@ -226,11 +253,7 @@
 "deg": 5,
 "denials": [],
 "desc": "Section 1152 of the National Defense Authorization Act for Fiscal Year 1994, Public Law 103-160 of 30 November 1993, now codified at 50 U.S.C. 3348, is the sleeper statute of this whole architecture and it is almost never cited in UAP reporting. It imposes on the head of every 'covered department or agency' the same February 1 annual report, new-program notice, 14-day declassification notice and 30-day report-and-wait that 10 U.S.C. 119 imposes on the Secretary of Defense - and it defines 'covered department or agency' as 'any department or agency of the Federal Government that carries out a special access program', excluding only DoD (covered by 10 U.S.C. 119), the National Nuclear Security Administration (covered by 50 U.S.C. 2426) and 'an agency in the Intelligence Community'. Two provisions make it invaluable. First, it supplies the statutory definition of a special access program: 'any program that, under the authority of Executive Order 12356 (or any successor Executive order), is established by the head of a department or agency whom the President has designated in the Federal Register as an original \"secret\" or \"top secret\" classification authority that imposes \"need-to-know\" controls or access controls beyond those controls normally required ... for access to information classified as \"confidential\", \"secret\", or \"top secret\".' Second, as amended by section 103 of Public Law 115-390 on 21 December 2018, 'congressional oversight committees' means 'congressional leadership and authorizing and appropriations congressional committees with jurisdiction or shared jurisdiction over a department or agency', the Senate Committee on Homeland Security and Governmental Affairs, AND the Committee on Oversight and Government Reform of the House of Representatives. The House Oversight Committee - the committee that has run the public UAP hearings since July 2023 - is a named statutory recipient of special access program reports from every covered agency. And its waiver provision, subsection (e)(2), does not narrow the audience: the waived information still goes 'to the congressional oversight committees', not to a chair and ranking member. The non-defense SAP reporting regime is materially stronger than DoD's.",
-"domains": [
-"_rs-sap-docs",
-"w12-sap-statutory-edges",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -241,10 +264,16 @@
 "hl": null,
 "id": "usc-50-3348",
 "l0": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "locLabel": null,
 "members": null,
-"short": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"openQuestions": [],
+"short": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
+"sourceFiles": [
+"_rs-sap-docs",
+"w12-sap-statutory-edges",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-01-05",
@@ -264,25 +293,28 @@
 ],
 "sub": "statute",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 98 of 1170, score 64). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 96 of 1170, score 65). 7 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1993-11-30",
+"grade": "A",
 "id": "sap-tl-1993-1152x",
 "label": "The government-wide SAP statute and the only statutory definition",
 "precision": "day",
 "strand": "oversight",
-"text": "Section 1152 of the FY1994 NDAA, Public Law 103-160, imposes the same reporting regime on every federal agency that runs a SAP other than DoD, the nuclear weapons complex and the intelligence community, and supplies the only statutory definition of 'special access program' in the United States Code, now at 50 U.S.C. 3348(g)(3).",
-"tier": "A"
+"text": "Section 1152 of the FY1994 NDAA, Public Law 103-160, imposes the same reporting regime on every federal agency that runs a SAP other than DoD, the nuclear weapons complex and the intelligence community, and supplies the only statutory definition of 'special access program' in the United States Code, now at 50 U.S.C. 3348(g)(3)."
 },
 {
+"claimTier": null,
 "date": "2018-12-21",
+"grade": "A",
 "id": "sap-tl-2018-115390x",
 "label": "House Oversight named a statutory recipient of SAP reports",
 "precision": "day",
 "strand": "oversight",
-"text": "Section 103 of Public Law 115-390 amends 50 U.S.C. 3348 to substitute 'the congressional oversight committees' for 'Congress' throughout and defines that term to include the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs.",
-"tier": "A"
+"text": "Section 103 of Public Law 115-390 amends 50 U.S.C. 3348 to substitute 'the congressional oversight committees' for 'Congress' throughout and defines that term to include the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs."
 }
-]
+],
+"unverified": []
 }

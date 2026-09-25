@@ -1,0 +1,838 @@
+{
+ "claims": [
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "tier": 1,
+   "claim": "DoD Financial Management Regulation Volume 3, Chapter 6 governs the journal voucher adjustment process at issue in the unsupported-adjustment findings.",
+   "source": "DoD FMR Volume 3, Chapter 6"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "tier": 1,
+   "claim": "DoD OIG DODIG-2016-113 found Army General Fund adjustments were not adequately documented or supported.",
+   "source": "DODIG-2016-113"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "tier": 2,
+   "claim": "Mark Skidmore, an economist at Michigan State University, published research aggregating unsupported adjustments reported in DoD financial statements across multiple fiscal years.",
+   "source": "Skidmore research on DoD unsupported adjustments"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "tier": 3,
+   "claim": "Persistent inability to trace appropriated funds to expenditure is a necessary enabling condition for an unacknowledged programme, but is not by itself evidence of one. Reasoning: the audit failure removes a detection mechanism without generating a positive indication.",
+   "source": "Inference from the DoD audit record"
+  },
+  {
+   "id": "l-albany",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "The Albany physicists represent the small existing proof that instrumented UAP research can be conducted and published under normal academic norms by named researchers. Reasoning: their published work and continued academic positions.",
+   "source": "Inference from the published record of Szydagis and Knuth"
+  },
+  {
+   "id": "l-boise-id",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 1,
+   "claim": "AARO's historical record report dates the beginning of the modern US UAP investigatory era to the 1947 period opened by the Arnold sighting.",
+   "source": "AARO Historical Record Report Volume I, Section VII"
+  },
+  {
+   "id": "l-boise-id",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-boston",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-cedar-rapids",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-charleston-sc",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-cincinnati",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Stringfield's proximity to Wright-Patterson is a plausible driver of his source access, since retired personnel from that installation settled in the surrounding region. Reasoning: geographic adjacency plus the concentration of Air Materiel Command retirees.",
+   "source": "Inference from installation geography"
+  },
+  {
+   "id": "l-cincinnati",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-dallas",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-franklin-tn",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-fredericton",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-gilbert-az",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-glenbeulah",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-green-bay",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-huntington-beach",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-knoxville",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 1,
+   "claim": "The House Oversight Committee hearing of 26 July 2023 heard sworn testimony from David Grusch, Ryan Graves and David Fravor.",
+   "source": "House Oversight Committee hearing page and GPO transcript"
+  },
+  {
+   "id": "l-knoxville",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Modern UAP oversight pressure came from the general investigative authority of the Oversight Committee rather than from the intelligence or armed services committees that hold jurisdiction and clearances. Reasoning: the 2023, 2024 and 2025 hearings were all Oversight products.",
+   "source": "Inference from the venue of all three modern hearings"
+  },
+  {
+   "id": "l-lafayette",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-long-beach",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-nashville",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-orlando",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-oro-valley",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-parkland-fl",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-schaumburg",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-seattle",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-sf",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 1,
+   "claim": "Vallee is co-author of the 2022 Progress in Aerospace Sciences paper on instrumental and isotopic characterisation of unusual materials.",
+   "source": "Progress in Aerospace Sciences 128:100788"
+  },
+  {
+   "id": "l-sheffield",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-springfield-mo",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 1,
+   "claim": "On 23 July 2026 the House adopted Burlison's Unidentified Anomalous Phenomena Disclosure Act amendment to the FY2027 NDAA, providing statutory transfer timelines, a Senate-confirmed UAP Records Review Board with subpoena power, and disclosure obligations extending to government contractors.",
+   "source": "House floor action on the FY2027 NDAA, 23 July 2026"
+  },
+  {
+   "id": "l-springfield-mo",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 2,
+   "claim": "On 29 July 2026 Burlison offered his office as a channel for those covered by the NDA waiver and recommended requesting congressional presence alongside legal counsel.",
+   "source": "Burlison public statements, 29 July 2026"
+  },
+  {
+   "id": "l-st-petersburg",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 1,
+   "claim": "Anna Paulina Luna (FL-13) chairs the House Oversight Committee's Task Force on the Declassification of Federal Secrets, with Jasmine Crockett (TX-30) as ranking member.",
+   "source": "House Oversight Committee, Task Force on the Declassification of Federal Secrets membership page"
+  },
+  {
+   "id": "l-st-petersburg",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 1,
+   "claim": "The Task Force held 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025 in HVC-210 with witnesses Nuccetelli, Wiggins, Knapp, Borland and Spielberger.",
+   "source": "House Oversight Committee hearing page, 9 September 2025"
+  },
+  {
+   "id": "l-st-petersburg",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 1,
+   "claim": "Luna wrote to Secretary Hegseth on 1 April 2026 demanding AARO's UAP video holdings.",
+   "source": "Luna letter to the Secretary of War, 1 April 2026"
+  },
+  {
+   "id": "l-takoma-park",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-tompkinsville",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-wellesley",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-windsor-co",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  },
+  {
+   "id": "l-woodshole",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "tier": 3,
+   "claim": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+   "source": "Board bookkeeping"
+  }
+ ],
+ "sources": [
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "url": "https://web.archive.org/web/20260521072448/https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf",
+   "name": "Archived: DoD FMR Volume 3, Chapter 6 (Wayback 2026-05-21)"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "url": "https://web.archive.org/web/20260113163643/https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/",
+   "name": "Archived: DoD OIG report DODIG-2016-113 (Wayback 2026-01-13)"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "url": "https://web.archive.org/web/20260521071347/https://comptroller.war.gov/odcfo/afr2025.aspx",
+   "name": "Archived: DoD Agency Financial Report FY2025 (Wayback 2026-05-21)"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "url": "https://web.archive.org/web/20260413163028/https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf",
+   "name": "Archived: DoD AFR FY2018, Financial Section (Wayback 2026-04-13)"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf",
+   "name": "DoD FMR Volume 3, Chapter 6"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "url": "https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/",
+   "name": "DoD OIG report DODIG-2016-113"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "url": "https://comptroller.war.gov/odcfo/afr2025.aspx",
+   "name": "DoD Agency Financial Report FY2025"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "url": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf",
+   "name": "DoD AFR FY2018, Financial Section"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "url": "https://www.nsf.gov/statistics/ffrdclist/",
+   "name": "NSF master government list of FFRDCs"
+  },
+  {
+   "id": "d-money",
+   "to": "d-funding",
+   "why": "collapsed into the domain node d-funding: a topic, not the thing the claim is about, so nothing is placed by guess",
+   "url": "",
+   "name": "Domain definition written for this board; see SCHEMA.md"
+  },
+  {
+   "id": "l-albany",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://www.albany.edu/physics",
+   "name": "University at Albany, SUNY - Department of Physics"
+  },
+  {
+   "id": "l-boise-id",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+   "name": "Archived: AARO, Historical Record Report Volume I (Wayback 2026-05-08)"
+  },
+  {
+   "id": "l-boise-id",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Boise,_Idaho",
+   "name": "Wikipedia - Boise, Idaho"
+  },
+  {
+   "id": "l-boise-id",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+   "name": "AARO, Historical Record Report Volume I"
+  },
+  {
+   "id": "l-boston",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Boston",
+   "name": "Wikipedia - Boston, Massachusetts"
+  },
+  {
+   "id": "l-boston",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://doi.org/10.1016/j.paerosci.2021.100788",
+   "name": "Nolan, Vallee, Jiang & Lemke, Progress in Aerospace Sciences 128:100788"
+  },
+  {
+   "id": "l-cedar-rapids",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Cedar_Rapids,_Iowa",
+   "name": "Wikipedia - Cedar Rapids, Iowa"
+  },
+  {
+   "id": "l-cedar-rapids",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm",
+   "name": "GAO/NSIAD-95-187"
+  },
+  {
+   "id": "l-charleston-sc",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Charleston,_South_Carolina",
+   "name": "Wikipedia - Charleston, South Carolina"
+  },
+  {
+   "id": "l-charleston-sc",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-cincinnati",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Cincinnati",
+   "name": "Wikipedia - Cincinnati"
+  },
+  {
+   "id": "l-cincinnati",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base",
+   "name": "Wikipedia - Wright-Patterson Air Force Base"
+  },
+  {
+   "id": "l-dallas",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Dallas",
+   "name": "Wikipedia - Dallas, Texas"
+  },
+  {
+   "id": "l-dallas",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-franklin-tn",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Franklin,_Tennessee",
+   "name": "Wikipedia - Franklin, Tennessee"
+  },
+  {
+   "id": "l-franklin-tn",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-fredericton",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Fredericton",
+   "name": "Wikipedia - Fredericton"
+  },
+  {
+   "id": "l-fredericton",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://vault.fbi.gov/Majestic%2012",
+   "name": "FBI Records: The Vault - 'Majestic 12'"
+  },
+  {
+   "id": "l-gilbert-az",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Gilbert,_Arizona",
+   "name": "Wikipedia - Gilbert, Arizona"
+  },
+  {
+   "id": "l-gilbert-az",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-glenbeulah",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Glenbeulah,_Wisconsin",
+   "name": "Wikipedia - Glenbeulah, Wisconsin"
+  },
+  {
+   "id": "l-glenbeulah",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-green-bay",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Green_Bay,_Wisconsin",
+   "name": "Wikipedia - Green Bay, Wisconsin"
+  },
+  {
+   "id": "l-green-bay",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-huntington-beach",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Huntington_Beach,_California",
+   "name": "Wikipedia - Huntington Beach, California"
+  },
+  {
+   "id": "l-huntington-beach",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://majesticdocuments.com/about/",
+   "name": "The Majestic Documents - About"
+  },
+  {
+   "id": "l-knoxville",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+   "name": "House Oversight - UAP: Implications on National Security, Public Safety and Government Transparency"
+  },
+  {
+   "id": "l-lafayette",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Lafayette,_Louisiana",
+   "name": "Wikipedia - Lafayette, Louisiana"
+  },
+  {
+   "id": "l-lafayette",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-long-beach",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Long_Beach,_California",
+   "name": "Wikipedia - Long Beach, California"
+  },
+  {
+   "id": "l-long-beach",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-nashville",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Nashville,_Tennessee",
+   "name": "Wikipedia - Nashville, Tennessee"
+  },
+  {
+   "id": "l-nashville",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://doi.org/10.1038/s41598-025-21620-3",
+   "name": "Bruehl & Villarroel, Scientific Reports"
+  },
+  {
+   "id": "l-orlando",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Orlando,_Florida",
+   "name": "Wikipedia - Orlando, Florida"
+  },
+  {
+   "id": "l-orlando",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-oro-valley",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Oro_Valley,_Arizona",
+   "name": "Wikipedia - Oro Valley, Arizona"
+  },
+  {
+   "id": "l-oro-valley",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-parkland-fl",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Parkland,_Florida",
+   "name": "Wikipedia - Parkland, Florida"
+  },
+  {
+   "id": "l-parkland-fl",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-santacruz",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Santa_Cruz,_California",
+   "name": "Wikipedia - Santa Cruz, California"
+  },
+  {
+   "id": "l-santacruz",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2670eas/html/BILLS-118hr2670eas.htm",
+   "name": "H.R. 2670, NDAA FY2024 as passed by the Senate, Division I"
+  },
+  {
+   "id": "l-schaumburg",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Schaumburg,_Illinois",
+   "name": "Wikipedia - Schaumburg, Illinois"
+  },
+  {
+   "id": "l-schaumburg",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-seattle",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Seattle",
+   "name": "Wikipedia - Seattle, Washington"
+  },
+  {
+   "id": "l-seattle",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf",
+   "name": "NASA Unidentified Anomalous Phenomena Independent Study Team Report"
+  },
+  {
+   "id": "l-sf",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/San_Francisco",
+   "name": "Wikipedia - San Francisco"
+  },
+  {
+   "id": "l-sf",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://doi.org/10.1016/j.paerosci.2021.100788",
+   "name": "Nolan, Vallee, Jiang & Lemke, Progress in Aerospace Sciences 128:100788"
+  },
+  {
+   "id": "l-sheffield",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Sheffield",
+   "name": "Wikipedia - Sheffield"
+  },
+  {
+   "id": "l-sheffield",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://www.gov.uk/government/organisations/ministry-of-defence",
+   "name": "UK Government - Ministry of Defence"
+  },
+  {
+   "id": "l-springfield-mo",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/",
+   "name": "House Oversight - UAP: Exposing the Truth"
+  },
+  {
+   "id": "l-st-petersburg",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/",
+   "name": "House Oversight - Task Force on the Declassification of Federal Secrets"
+  },
+  {
+   "id": "l-st-petersburg",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight - Restoring Public Trust Through UAP Transparency"
+  },
+  {
+   "id": "l-takoma-park",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Takoma_Park,_Maryland",
+   "name": "Wikipedia - Takoma Park, Maryland"
+  },
+  {
+   "id": "l-takoma-park",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-tompkinsville",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Tompkinsville,_Kentucky",
+   "name": "Wikipedia - Tompkinsville, Kentucky"
+  },
+  {
+   "id": "l-tompkinsville",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-wellesley",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Wellesley,_Massachusetts",
+   "name": "Wikipedia - Wellesley, Massachusetts"
+  },
+  {
+   "id": "l-wellesley",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://doi.org/10.1142/S2251171723400081",
+   "name": "Cloete et al., Journal of Astronomical Instrumentation"
+  },
+  {
+   "id": "l-windsor-co",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Windsor,_Colorado",
+   "name": "Wikipedia - Windsor, Colorado"
+  },
+  {
+   "id": "l-windsor-co",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/",
+   "name": "House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+  },
+  {
+   "id": "l-woodshole",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://en.wikipedia.org/wiki/Woods_Hole,_Massachusetts",
+   "name": "Wikipedia - Woods Hole, Massachusetts"
+  },
+  {
+   "id": "l-woodshole",
+   "to": null,
+   "why": "removed by research/_removed.json with no alias",
+   "url": "https://doi.org/10.1016/j.chemgeo.2024.122415",
+   "name": "Loeb, Jacobsen, Tagle et al., Chemical Geology"
+  }
+ ]
+}

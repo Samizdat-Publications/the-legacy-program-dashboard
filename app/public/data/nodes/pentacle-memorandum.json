@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,18 +125,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "pentacle-memorandum",
 "label": "The Pentacle Memorandum"
 },
+"b": {
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
 "note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
-"of": {
-"id": "robertson-panel",
-"label": "Robertson Panel"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -151,9 +154,7 @@
 }
 ],
 "desc": "A two-page memorandum dated 9 January 1953, reference G-1579-4, classified SECRET and unsigned, written by Battelle Memorial Institute's H. C. Cross to Miles E. Goll at Wright-Patterson Air Force Base under Project Stork. Jacques Vallee found it in 1967 among J. Allen Hynek's papers and, not then knowing the author's identity, gave him the codename 'Pentacle'. The memorandum recommends establishing controlled experiments in selected areas of the United States with high concentrations of UFO reports, using observation posts equipped for visual skywatch, radar and photography, and states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area.' It was written five days before the CIA-convened Robertson Panel met on 14-16 January 1953 - the panel whose recommendations set the government's public debunking posture for the next fifteen years. Vallee's judgement, which this board records as the significant one, is that the Robertson Panel was never briefed on the Pentacle proposals, and that a separate body had already determined the boundaries of what the panel could consider. The memorandum is the founding document of the contractor-side manipulation thesis: it shows a private institute proposing, to its Air Force customer, to manufacture the stimulus that the official investigation would then be asked to explain. No signed original has ever been produced by the Air Force or by Battelle.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -167,7 +168,11 @@
 "label": "The Pentacle Memorandum",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The Pentacle Memorandum",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -187,16 +192,18 @@
 ],
 "sub": "Two-page SECRET memorandum, 9 January 1953, ref. G-1579-4, H. C. Cross (Battelle) to Miles E. Goll (Wright-Patterson AFB), under Project Stork",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 361 of 1170, score 36). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 367 of 1170, score 36). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1953-01-09",
+"grade": "A",
 "id": "tl-ffrdc-1953-pentacle",
 "label": "The Pentacle Memorandum",
 "precision": "day",
 "strand": "coverup",
-"text": "Battelle's H. C. Cross writes to Miles E. Goll at Wright-Patterson under Project Stork, ref. G-1579-4, SECRET, proposing that 'many different types of aerial activity should be secretly and purposefully scheduled' in areas of high UFO reporting.",
-"tier": "A"
+"text": "Battelle's H. C. Cross writes to Miles E. Goll at Wright-Patterson under Project Stork, ref. G-1579-4, SECRET, proposing that 'many different types of aerial activity should be secretly and purposefully scheduled' in areas of high UFO reporting."
 }
-]
+],
+"unverified": []
 }

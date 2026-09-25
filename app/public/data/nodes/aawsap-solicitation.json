@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The solicitation is the founding public document of the funded lineage and the only place in the entire record where DIA names the program manager without redaction. Posted 18 August 2008 by the DIA Virginia Contracting Activity (ZD50) in Washington DC, with contracting officer Jennifer Sylvestre at (202) 231-1246 and 'Government Project Leader: Dr. James T. Lacatski', it solicited advanced aerospace weapon systems technical studies across eleven areas — lift, propulsion, control, power generation, spatial/temporal translation, materials, configuration and structure, signature reduction across multiple spectra, human interface, human effects, and armament — under the stated objective 'to understand the physics and engineering of these applications as they apply to the foreign threat out to the far term, i.e., from now through the year 2050.' It contemplated a firm fixed price award with a base year plus four one-year options running to 30 September 2013. The document was posted openly on FedBizOpps, which is why it survived: everything downstream of it was later redacted under 10 USC 424, but this was published to the world before anyone thought to.",
-"domains": [
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -93,7 +92,11 @@
 "label": "DIA Solicitation HHM402-08-R-0211",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DIA Solicitation HHM402-08-R-0211",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2008-08-18",
@@ -113,16 +116,18 @@
 ],
 "sub": "Public bid notice and statement of work, 18 August 2008",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 382 of 1170, score 35). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 384 of 1170, score 35). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2008-08-18",
+"grade": "A",
 "id": "tl-2008-solicit",
 "label": "DIA posts solicitation HHM402-08-R-0211",
 "precision": "day",
 "strand": "program",
-"text": "The DIA Virginia Contracting Activity publicly solicits advanced aerospace weapon system studies across eleven areas out to 2050, naming Dr. James T. Lacatski as Government Project Leader.",
-"tier": "A"
+"text": "The DIA Virginia Contracting Activity publicly solicits advanced aerospace weapon system studies across eleven areas out to 2050, naming Dr. James T. Lacatski as Government Project Leader."
 }
-]
+],
+"unverified": []
 }

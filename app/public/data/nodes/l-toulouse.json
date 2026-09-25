@@ -17,6 +17,7 @@
 ],
 "cls": "location",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -49,10 +50,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Toulouse is the centre of the French aerospace industry and the site of the Centre National d'Etudes Spatiales, within which the GEIPAN unit has investigated unidentified aerospace phenomena on behalf of the French state since 1977. GEIPAN's importance to this board is that it is the working demonstration of an open official programme: it publishes its four-category classification scheme, publishes running statistics, and makes its case files publicly accessible, including the residual category of cases that remain unexplained after full investigation. Claude Poher, who founded the unit, and Jean-Jacques Velasco, who later directed it, both operated from here on the public record.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -66,7 +64,12 @@
 "label": "Toulouse, France",
 "locLabel": "Toulouse, France",
 "members": null,
+"openQuestions": [],
 "short": "Toulouse, France",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -86,6 +89,7 @@
 ],
 "sub": "City in Occitanie; headquarters of CNES and of GEIPAN",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 964 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 963 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"timeline": [],
+"unverified": []
 }

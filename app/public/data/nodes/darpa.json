@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -234,18 +235,20 @@
 "deg": 9,
 "denials": [
 {
-"by": {
+"a": {
 "id": "tr-3b",
 "label": "TR-3B 'Astra', claimed black triangular aircraft"
 },
+"b": {
+"id": "darpa",
+"label": "Defense Advanced Research Projects Agency"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
 "note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
-"of": {
-"id": "darpa",
-"label": "Defense Advanced Research Projects Agency"
-},
+"of": null,
 "sources": [
 {
 "date": "1984-07-10",
@@ -261,10 +264,7 @@
 }
 ],
 "desc": "DARPA describes itself as 'an independent research and development agency within the U.S. Department of War' and states it was 'Created in response to the launch of Sputnik in 1957' as 'our nation's commitment to never again face a strategic technical surprise'. It runs six technical offices, and its published budget figures as of 2026 are a President's FY2027 request of $5.039 billion against an FY2026 enacted level of $4.322 billion. DARPA's relevance to this board is twofold and mostly negative-space. First, it is named among the contributing elements to ODNI's June 2021 Preliminary Assessment on UAP - the only pure R&D organisation on that list, which implies it was consulted on the 'USG or U.S. industry developmental programs' explanatory category, the category that exists to reconcile UAP reports against black aerospace projects. Second, DARPA is the institutional counterfactual against which the legacy program allegation is measured: DARPA is what an American breakthrough-technology effort looks like when it is run in the open, with named program managers on fixed terms, published solicitations and a public budget. Any organisation performing eighty years of exotic materials exploitation without producing a single DARPA-style transition to a fielded system is either failing or is structured to avoid exactly that visibility.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -339,7 +339,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "DARPA",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "1975-12-01",
@@ -374,6 +379,7 @@
 ],
 "sub": "Independent R&D agency created in response to Sputnik; contributor to the 2021 UAP assessment",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 249 of 1170, score 42). 9 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 247 of 1170, score 42). 9 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
+"timeline": [],
+"unverified": []
 }

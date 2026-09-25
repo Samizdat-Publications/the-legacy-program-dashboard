@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,10 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "AARO's own paper trail, released under DoD FOIA case 24-F-0266, documenting nine attempts to interview Grusch between 8 June 2023 and 8 January 2024. The sequence: June 2023 approaches through an intermediary and Senate Intelligence Committee staff; a 26 June request for contact information; a 28 June request to Senate staff for verification details; a 27 July relay of an invitation; a 6 October secure call with an associate; a 10 November direct contact in which Grusch agreed to meet on 14 November; a 14 November Arlington appointment at which he did not appear; a 19 November email invitation citing legal authority, declined on security grounds; and an 8 January 2024 transmission of an ODNI CAPCO memorandum reiterating a standing invitation. Sean Kirkpatrick appears in the email chain, David A. Kozik appears as an OSD official, and a March 2023 DoD memorandum signed by Maj. Gen. David W. Abba of the Special Access Program Central Office is referenced as the access authority. The document is the evidentiary basis for Kirkpatrick's public line that the central source has refused to speak with AARO. Read the other way, it is also a record of AARO routing invitations through third parties for five months before ever contacting the witness directly.",
-"domains": [
-"_rs-archive-mirror",
-"grusch"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The nine documented contacts, in order, from DoD FOIA case 24-F-0266. 8-13 June 2023: the AARO director engages an intermediary and Senate Intelligence Committee staff; refused. 26 June 2023: staff request contact information via the intermediary; rebuffed. 28 June 2023: the director asks Senate staff for verification details; no direct contact results. 27 July 2023: staff ask the intermediary to relay an invitation; not accepted. 6 October 2023: a secure call with an associate includes an interview request; declined. 10 November 2023: direct contact; Grusch agrees to meet on 14 November. 14 November 2023: scheduled Arlington, Virginia interview; Grusch does not appear. 19 November 2023: email invitation citing legal authority; declined, with security concerns cited. 8 January 2024: an ODNI CAPCO memorandum is provided and a standing invitation reiterated; no response documented. Named in the file: Sean M. Kirkpatrick in the email chain, David A. Kozik as an OSD official, and a 8 March 2023 DoD memorandum signed by Maj. Gen. David W. Abba, Director of the DoD Special Access Program Central Office, cited as access authority. Multiple intermediaries and Senate staff are redacted. The document supports two readings simultaneously: AARO extended a standing invitation the witness did not take up, and AARO spent five months routing that invitation through third parties before contacting the witness directly.",
@@ -103,7 +101,12 @@
 "label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"grusch"
+],
 "sources": [
 {
 "date": "2026-06-12",
@@ -123,16 +126,18 @@
 ],
 "sub": "AARO record of nine contacts, June 2023 - January 2024",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 589 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 585 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-11-14",
+"grade": "A",
 "id": "g-tl-2023-11-aaro-noshow",
 "label": "Grusch does not appear for the AARO interview",
 "precision": "day",
 "strand": "coverup",
-"text": "Having agreed on 10 November to meet, Grusch does not attend the Arlington appointment. AARO's memorandum for record makes this the centerpiece of its impeachment; the same document shows five prior months of approaches routed through intermediaries.",
-"tier": "A"
+"text": "Having agreed on 10 November to meet, Grusch does not attend the Arlington appointment. AARO's memorandum for record makes this the centerpiece of its impeachment; the same document shows five prior months of approaches routed through intermediaries."
 }
-]
+],
+"unverified": []
 }

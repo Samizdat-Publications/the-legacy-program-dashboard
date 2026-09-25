@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -72,9 +73,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Leidos is what SAIC's government services business became in the 2013 split, and it is now among the largest holders of classified IT, intelligence analysis and technical services work in the federal government - USAspending records roughly $135 billion in prime contract obligations to Leidos entities since FY2008, with the recipient list running to the hundred-record query limit. In 2020 it acquired Dynetics, the Huntsville engineering house whose own federal prime obligations exceed $4 billion. Leidos matters to this domain for a reason that has nothing to do with allegations of material: it is the corporate layer through which classified data, records and analytical products physically pass. If a UAP records collection exists inside DoD or the intelligence community, the systems holding it, the personnel indexing it and the security architecture protecting it are in substantial part contracted out to firms of this type. The NDAA FY2024 records provisions require transmission of 'Government, Government-provided, or Government-funded records' to the National Archives - a formulation that reaches contractor-held records - and no public accounting has been made of what any services prime holds.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -88,7 +87,11 @@
 "label": "Leidos Holdings, Inc.",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Leidos Holdings, Inc.",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -104,5 +107,6 @@
 "sub": "Government services prime spun out of SAIC in 2013; acquired Dynetics 2020",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 755 of 1170, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

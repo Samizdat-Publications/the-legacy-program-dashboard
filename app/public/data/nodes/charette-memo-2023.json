@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -51,9 +52,7 @@
 "deg": 1,
 "denials": [],
 "desc": "A Secret memorandum dated 14 February 2023 from Janice Charette, Clerk of the Privy Council, to Prime Minister Justin Trudeau and National Security Advisor Jody Thomas, obtained and reported by The War Zone on 7 September 2023. It is the most authoritative contemporaneous government document on the February 2023 shootdowns, and it directly contradicts the tidy retrospective account that they were all balloons. Charette wrote that 'The full exploitation of UAP #20, which was engaged by the U.S. on February 10, 2023, has not yet been completed' - an object described as roughly the size of a small car, at 40,000 feet, 'cylindrical and silver-ish gray' with no apparent propulsion system, which broke apart on frozen sea ice near Prudhoe Bay. Of the Yukon object, tracked as UAP #23, she recorded that it 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state,' adding 'It is unknown whether it poses an armed threat or has intelligence collection capabilities.' The memo also conceded recovery was unlikely given terrain and snow. The numbering itself is significant: two allied governments were tracking a sequential UAP series in which these were entries 20 and 23.",
-"domains": [
-"aviators-incidents"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -67,7 +66,11 @@
 "label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
+"sourceFiles": [
+"aviators-incidents"
+],
 "sources": [
 {
 "date": "2023-09-07",
@@ -77,25 +80,28 @@
 ],
 "sub": "Canadian government memo on the February 2023 shootdowns",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 723 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 722 of 1170, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-02-11",
+"grade": "A",
 "id": "av-2023-02-11",
 "label": "Yukon object destroyed",
 "precision": "day",
 "strand": "coverup",
-"text": "An F-22 destroys a small cylindrical object at 40,000 feet over the Yukon; the Canadian Privy Council records it as UAP #23, unverified as to function, propulsion or national affiliation.",
-"tier": "A"
+"text": "An F-22 destroys a small cylindrical object at 40,000 feet over the Yukon; the Canadian Privy Council records it as UAP #23, unverified as to function, propulsion or national affiliation."
 },
 {
+"claimTier": null,
 "date": "2023-02-14",
+"grade": "A",
 "id": "av-2023-02-14",
 "label": "Charette Secret memo to Trudeau",
 "precision": "day",
 "strand": "oversight",
-"text": "The Clerk of the Privy Council records that exploitation of UAP #20 is incomplete and that UAP #23's function and propulsion are unknown.",
-"tier": "A"
+"text": "The Clerk of the Privy Council records that exploitation of UAP #20 is incomplete and that UAP #23's function and propulsion are unknown."
 }
-]
+],
+"unverified": []
 }

@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -74,7 +75,7 @@
 "edgeLabel": "SAP fraud and abuse complaints must not use collateral reporting channels",
 "id": "dodm-5205-07-v1",
 "l0": false,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
 "sources": [
 {
@@ -114,18 +115,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "dod-oig",
 "label": "Department of Defense Office of Inspector General"
 },
+"b": {
+"id": "dodm-5205-07-v1",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": "association",
 "label": "SAP fraud and abuse complaints must not use collateral reporting channels",
 "note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
-"of": {
-"id": "dodm-5205-07-v1",
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures"
-},
+"of": null,
 "sources": [
 {
 "date": "2018-02-12",
@@ -136,10 +139,7 @@
 }
 ],
 "desc": "The DoD Office of Inspector General is the Department's statutory internal watchdog, created by the Inspector General Act, and it is the body that produced the only formal audit of the Department's UAP conduct. On 15 August 2023 - three weeks after David Grusch's testimony - the DoD OIG issued DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', whose stated objective was to determine 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'. The report itself is classified; only an unclassified summary was released, and the OIG issued a press release on 25 January 2024. The OIG is also the office to which Luis Elizondo submitted a complaint in May 2021 alleging reprisal and mishandling. The structural point for this board is that DoD OIG is subject to the same access architecture as everyone else: an inspector general who is not read into a waived unacknowledged special access program cannot audit it, and DODIG-2023-109's classified status means the public cannot determine whether the audit reached the SAP enterprise at all.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -153,7 +153,12 @@
 "label": "Department of Defense Office of Inspector General",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Department of Defense Office of Inspector General",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2025-12-08",
@@ -178,16 +183,18 @@
 ],
 "sub": "Statutory independent oversight body within DoD; author of DODIG-2023-109",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 632 of 1170, score 27). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 631 of 1170, score 27). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-08-15",
+"grade": "A",
 "id": "ag-tl-2023-dodig",
 "label": "DODIG-2023-109 issued and classified",
 "precision": "day",
 "strand": "oversight",
-"text": "The DoD Inspector General completes the only formal evaluation of the Department's UAP conduct three weeks after Grusch testifies. The report is classified; only an unclassified summary is released.",
-"tier": "A"
+"text": "The DoD Inspector General completes the only formal evaluation of the Department's UAP conduct three weeks after Grusch testifies. The report is classified; only an unclassified summary is released."
 }
-]
+],
+"unverified": []
 }

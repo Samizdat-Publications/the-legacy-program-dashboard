@@ -37,6 +37,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -150,9 +151,7 @@
 "deg": 5,
 "denials": [],
 "desc": "On 5 January 1994 the Deputy Secretary of Defense changed the Department's special access programme management and control structures, standardising the approval, termination, revalidation and restructuring of SAPs through a Special Access Program Oversight Committee chaired by the Deputy Secretary, with a Senior Review Group established to support the SAPOC principals and a Special Access Program Coordinating Office staffing both. By November 1994 the committee was chaired by Deputy Secretary John Deutch with the Under Secretary for Acquisition and Technology, the Under Secretary for Policy, the Vice Chairman of the Joint Chiefs of Staff and the Assistant Secretary for C3I as permanent, non-delegable members. The Joint Security Commission, reporting to the Secretary of Defense and the Director of Central Intelligence on 28 February 1994, described the committee as recently formed and supported it. This node exists because the board's sapoc node dates the committee to a 2010 directive, and the 2010 issuance re-established rather than created it.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -166,7 +165,11 @@
 "label": "DoD special access programme governance change, 5 January 1994",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "DoD special access programme governance change, 5 January 1994",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1988-05-24",
@@ -191,16 +194,18 @@
 ],
 "sub": "SAPOC, Senior Review Group and SAPCO stood up under the Deputy Secretary of Defense",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 252 of 1170, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 250 of 1170, score 42). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1994-01-05",
+"grade": "B",
 "id": "tl-1994-01-05-dod-sap-governance-change",
 "label": "The Deputy Secretary of Defense stands up the SAPOC, sixteen years before the directive the board cites",
 "precision": "day",
 "strand": "oversight",
-"text": "'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' The Joint Security Commission called the committee a 'recent formation' on 28 February 1994. The board's sapoc node dated the committee to DoD Directive 5205.07 of 1 July 2010; the 2010 issuance re-established a body that had run since 1994.",
-"tier": "B"
+"text": "'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' The Joint Security Commission called the committee a 'recent formation' on 28 February 1994. The board's sapoc node dated the committee to DoD Directive 5205.07 of 1 July 2010; the 2010 issuance re-established a body that had run since 1994."
 }
-]
+],
+"unverified": []
 }

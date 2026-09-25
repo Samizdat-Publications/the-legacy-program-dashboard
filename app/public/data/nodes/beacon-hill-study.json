@@ -17,6 +17,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -67,9 +68,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Beacon Hill Study was the 1952 classified summer study group convened for the Air Force in the Boston academic-defence complex to assess the future of aerial reconnaissance. Its recommendations shaped the American overhead collection programme that produced the U-2 and, ultimately, the National Reconnaissance Office. Rep. Eric Burlison named Beacon Hill in his 26 May 2026 press release alongside the AF-ATIC-FILM designation, which places Ruppelt's March 1952 'flying saucer talk' as a briefing given into the Beacon Hill circle. That connection is the earliest documented instance of the Air Force's UFO investigation being briefed directly into the group designing the nation's strategic reconnaissance architecture - the same architecture whose successor agencies (NRO, NGA) supply the sensor data at issue in every modern UAP dispute. The study group's records are held in the MIT/Lincoln Laboratory institutional archive rather than in federal custody, which is exactly the records-status problem Burlison's inquiry exists to address.",
-"domains": [
-"ffrdcs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -83,7 +82,11 @@
 "label": "Project Beacon Hill",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Project Beacon Hill",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-05-26",
@@ -93,6 +96,7 @@
 ],
 "sub": "1952 classified summer study on aerial reconnaissance convened at MIT / Lincoln Laboratory for the Air Force",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 818 of 1170, score 21). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 819 of 1170, score 21). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": []
 }

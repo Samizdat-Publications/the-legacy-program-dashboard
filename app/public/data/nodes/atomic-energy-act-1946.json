@@ -37,6 +37,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -94,7 +95,7 @@
 "edgeLabel": "The category this Act invented is the one the executive order cannot reach",
 "id": "eo-13526",
 "l0": true,
-"label": "Executive Order 13526 — Classified National Security Information",
+"label": "Executive Order 13526 - Classified National Security Information",
 "note": "EO 13526 sec. 6.2(a) provides that nothing in the order supersedes any requirement made by or under the Atomic Energy Act of 1954 and that Restricted Data is handled and declassified only under that Act; the 1954 statute carried the category forward from this one.",
 "sources": [
 {
@@ -155,9 +156,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The Atomic Energy Act of 1946 is where classification by category enters United States law. It defines restricted data as an entire class of fact rather than as a set of documents somebody decided to mark, makes publication conditional on an affirmative determination by the Atomic Energy Commission, and backs the rule with a capital penalty that reaches concealment and destruction as well as disclosure. It gates every contractor employee's access behind an FBI investigation and a Commission finding, gives the FBI exclusive jurisdiction over violations, and gives the War and Navy Departments a standing consultative claim over the control of weapons information through the Military Liaison Committee, with an appeal that ends at the President. The board argues the 1954 Act's Restricted Data regime is the statutory shield; this is the instrument that built it, a year before the programme's own 1947 start. The popular name McMahon Act appears in no federal record opened for this node; what is documented is Brien McMahon's chairmanship of the Senate Special Committee on Atomic Energy and of the Joint Committee on Atomic Energy in the 79th Congress.",
-"domains": [
-"michels-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -171,7 +170,11 @@
 "label": "Atomic Energy Act of 1946 (McMahon Act)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Atomic Energy Act of 1946 (McMahon Act)",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1946-08-01",
@@ -196,16 +199,18 @@
 ],
 "sub": "Public Law 79-585, 60 Stat. 755, 1 August 1946; the origin of born-secret classification",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 213 of 1170, score 45). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 212 of 1170, score 45). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1946-08-01",
+"grade": "B",
 "id": "tl-1946-08-01-atomic-energy-act",
 "label": "Atomic Energy Act of 1946 makes classification a property of a category",
 "precision": "day",
 "strand": "oversight",
-"text": "Public Law 79-585, 60 Stat. 755, chapter 724, S. 1717, is approved. Section 10(b)(1) defines restricted data as all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material or its use in the production of power, excluding only what the Commission affirmatively determines may be published. Section 2(a) establishes the Atomic Energy Commission, section 9(a) transfers the Manhattan Engineer District's holdings to it, section 10(b)(4) reaches concealment and destruction with a capital penalty, and section 10(b)(5)(C) gives the FBI exclusive jurisdiction over violations.",
-"tier": "B"
+"text": "Public Law 79-585, 60 Stat. 755, chapter 724, S. 1717, is approved. Section 10(b)(1) defines restricted data as all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material or its use in the production of power, excluding only what the Commission affirmatively determines may be published. Section 2(a) establishes the Atomic Energy Commission, section 9(a) transfers the Manhattan Engineer District's holdings to it, section 10(b)(4) reaches concealment and destruction with a capital penalty, and section 10(b)(5)(C) gives the FBI exclusive jurisdiction over violations."
 }
-]
+],
+"unverified": []
 }

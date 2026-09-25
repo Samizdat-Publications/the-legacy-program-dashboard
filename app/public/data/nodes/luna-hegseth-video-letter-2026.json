@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "On or about 1 April 2026 Task Force Chairwoman Anna Paulina Luna wrote Secretary of War Pete Hegseth demanding video files of UAP sightings after whistleblowers informed the Task Force that AARO holds additional video records. Her stated rationale in the accompanying release: 'The lack of disclosure regarding the very real threat posed by UAPs in and around U.S. restricted airspace is concerning,' and 'The presence of UAPs in and around the sensitive airspaces of U.S. military installations poses a threat to the security of the armed forces and their readiness.' The Department did not produce by the deadline. On or about 17 April 2026 Luna publicly raised the prospect of a subpoena. This is the cleanest modern instance of the pattern the coverup strand exists to record: a chair with a documented whistleblower predicate identifies specific material held by a specific office, sets a deadline, and the deadline passes. As of 12 August 2026 no subpoena had issued.",
-"domains": [
-"congress-house"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -93,7 +92,11 @@
 "label": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2026-04-01",
@@ -106,22 +109,25 @@
 "tierRationale": "Re-graded C on a global pass (rank 634 of 1170, score 27). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-04-01",
+"grade": "A",
 "id": "ch-2026-04-01",
 "label": "Luna demands AARO's video files",
 "precision": "day",
 "strand": "oversight",
-"text": "Chairwoman Luna writes Secretary Hegseth for UAP video files that whistleblowers told the Task Force AARO holds.",
-"tier": "A"
+"text": "Chairwoman Luna writes Secretary Hegseth for UAP video files that whistleblowers told the Task Force AARO holds."
 },
 {
+"claimTier": null,
 "date": "2026-04-17",
+"grade": "A",
 "id": "ch-2026-04-17",
 "label": "Deadline missed; subpoena raised",
 "precision": "day",
 "strand": "coverup",
-"text": "The Pentagon misses Luna's video deadline. She publicly raises a subpoena. None has issued.",
-"tier": "A"
+"text": "The Pentagon misses Luna's video deadline. She publicly raises a subpoena. None has issued."
 }
-]
+],
+"unverified": []
 }

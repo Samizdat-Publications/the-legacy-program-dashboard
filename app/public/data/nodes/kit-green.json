@@ -535,13 +535,14 @@
 "deg": 13,
 "denials": [],
 "domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"aawsap-aatip",
-"history-1970s-2000s",
-"primes-custody",
-"scientists-technical",
-"w17-wayne-etrd"
+"d-funding",
+"d-bio",
+"d-research",
+"d-coverup",
+"d-witness",
+"d-custody",
+"d-ic",
+"d-materials"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -562,6 +563,15 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Christopher C. 'Kit' Green",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"history-1970s-2000s",
+"primes-custody",
+"scientists-technical",
+"w17-wayne-etrd"
+],
 "sources": [
 {
 "date": "2010-03-11",
@@ -647,7 +657,7 @@
 "status": "active",
 "sub": "Neuroradiologist; former CIA analyst; AAWSAP DIRD author on field effects on biological tissue",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 47 of 1170, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 48 of 1170, score 83). 13 connections, 4 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [],
 "unexplainedResidual": "A named CIA scientific intelligence officer says he ran the anomalous-phenomena desk during the period the Agency says it had no such desk.",
 "unverified": [

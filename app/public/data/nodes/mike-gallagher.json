@@ -62,7 +62,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"congress-house"
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -83,6 +83,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Michael John Gallagher",
+"sourceFiles": [
+"congress-house"
+],
 "sources": [
 {
 "date": "2025-09-09",

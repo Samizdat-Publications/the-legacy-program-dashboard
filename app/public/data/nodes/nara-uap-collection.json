@@ -67,6 +67,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -358,6 +359,14 @@
 "deg": 13,
 "denials": [
 {
+"a": {
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "cia",
 "label": "Central Intelligence Agency"
@@ -379,6 +388,14 @@
 ]
 },
 {
+"a": {
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "dhs",
 "label": "United States Department of Homeland Security"
@@ -400,6 +417,14 @@
 ]
 },
 {
+"a": {
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "dia",
 "label": "Defense Intelligence Agency"
@@ -421,6 +446,14 @@
 ]
 },
 {
+"a": {
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "doe",
 "label": "United States Department of Energy"
@@ -442,6 +475,14 @@
 ]
 },
 {
+"a": {
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "nga",
 "label": "National Geospatial-Intelligence Agency"
@@ -468,6 +509,14 @@
 ]
 },
 {
+"a": {
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "nro",
 "label": "National Reconnaissance Office"
@@ -489,6 +538,14 @@
 ]
 },
 {
+"a": {
+"id": "nsa",
+"label": "National Security Agency"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "nsa",
 "label": "National Security Agency"
@@ -511,11 +568,7 @@
 }
 ],
 "desc": "The UAP Records Collection is what survived the Unidentified Anomalous Phenomena Disclosure Act. Sections 1841 to 1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, directed the creation at the National Archives of a collection of United States Government records relating to unidentified anomalous phenomena, modelled on the JFK Assassination Records Collection - but stripped in conference of the independent review board with subpoena power and of the eminent domain provision that would have compelled private holders of recovered material to surrender it. NARA established the collection as Record Group 615 and announced on 24 April 2025 that it had released records transferred from four agencies - the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the Federal Aviation Administration and the Nuclear Regulatory Commission - and that it 'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis'. The composition of that first transfer is itself evidence: two of the four contributing agencies are civilian regulators. Absent from the transfer are CIA, NSA, NRO, NGA, DIA, DOE, DHS and the military departments - that is, every agency with custody proximity. The collection is nonetheless the correct measurable for this board, because it is the one place where a statutory obligation to produce records collides with the agencies alleged to be holding them, and because any presidential declassification directive must eventually deposit here.",
-"domains": [
-"_rs-archive-mirror",
-"grusch",
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -699,7 +752,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "National Archives UAP Collection",
+"sourceFiles": [
+"_rs-archive-mirror",
+"grusch",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-08-11",
@@ -749,34 +808,38 @@
 ],
 "sub": "Statutory collection under 2024 NDAA secs. 1841-1843",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 37 of 1170, score 90). 13 connections, 2 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 39 of 1170, score 90). 13 connections, 2 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-12-22",
+"grade": "A",
 "id": "ag-tl-2023-ndaa",
 "label": "Sections 1841-1843 of Public Law 118-31 enacted",
 "precision": "day",
 "strand": "oversight",
-"text": "The UAP Disclosure Act is cut down in conference: the National Archives collection survives, the review board with subpoena power and the eminent domain provision over recovered technologies do not.",
-"tier": "A"
+"text": "The UAP Disclosure Act is cut down in conference: the National Archives collection survives, the review board with subpoena power and the eminent domain provision over recovered technologies do not."
 },
 {
+"claimTier": null,
 "date": "2025-04-24",
+"grade": "A",
 "id": "ag-tl-2025-nara",
 "label": "First statutory UAP records transfer",
 "precision": "day",
 "strand": "oversight",
-"text": "NARA releases records from ODNI, OSD, the FAA and the Nuclear Regulatory Commission. CIA, NSA, NRO, NGA, DIA, DOE, DHS and the military departments transfer nothing.",
-"tier": "A"
+"text": "NARA releases records from ODNI, OSD, the FAA and the Nuclear Regulatory Commission. CIA, NSA, NRO, NGA, DIA, DOE, DHS and the military departments transfer nothing."
 },
 {
+"claimTier": null,
 "date": "2025-04-24",
+"grade": "A",
 "id": "g-tl-2025-04-nara",
 "label": "National Archives releases UAP records from four agencies",
 "precision": "day",
 "strand": "oversight",
-"text": "Under sections 1841-1843 of the FY2024 NDAA, NARA publishes records transferred from ODNI, OSD, the FAA and the NRC into the Unidentified Anomalous Phenomena Collection, with rolling additions promised.",
-"tier": "A"
+"text": "Under sections 1841-1843 of the FY2024 NDAA, NARA publishes records transferred from ODNI, OSD, the FAA and the NRC into the Unidentified Anomalous Phenomena Collection, with rolling additions promised."
 }
-]
+],
+"unverified": []
 }

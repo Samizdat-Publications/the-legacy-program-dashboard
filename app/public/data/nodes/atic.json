@@ -42,6 +42,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -233,11 +234,7 @@
 "deg": 7,
 "denials": [],
 "desc": "The Air Technical Intelligence Center, established in 1951 out of the Air Materiel Command intelligence organisation (T-2) at Wright Field, was the United States' centre for the exploitation of foreign aerospace technology. It was the organisation that processed the Operation Paperclip haul, that dismantled and reverse-engineered captured Soviet and German airframes, and that was institutionally designed to answer exactly one question: what is this thing and how does it work. Every official UFO project of the legacy era — SIGN, GRUDGE and Blue Book — was hosted here, which is a fact usually reported as an administrative detail and is in fact the central structural point of this domain. The United States did not assign unidentified flying objects to a science agency, an academic body or an air-defence command; it assigned them to the shop that takes recovered hardware apart. The Air Force organizational-history record gives a discontinuation and a new constitution rather than a renaming: the Air Technical Intelligence Center was redesignated Aerospace Technical Intelligence Center on 21 September 1959 and discontinued on 1 July 1961, and the Foreign Technology Division was constituted, activated and organized the same day, absorbing the mission and resources; FTD's own later name is the National Air and Space Intelligence Center, which remains at Wright-Patterson today. It also issued Blue Book Special Report No. 14 in 1955 and was the terminal analytical node under AFR 200-2. If a legacy recovery and exploitation effort existed, ATIC and its successors are the institutional address, and its 1947-1951 T-2 intelligence files have never been subject to a comprehensive declassification review.",
-"domains": [
-"_rs-archive-mirror",
-"history-1940s-1960s",
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -343,7 +340,13 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Air Technical Intelligence Center",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1940s-1960s",
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "2025-12-10",
@@ -378,6 +381,7 @@
 ],
 "sub": "USAF technical intelligence centre, Wright-Patterson AFB",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 164 of 1170, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 163 of 1170, score 50). 8 connections, 1 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"timeline": [],
+"unverified": []
 }

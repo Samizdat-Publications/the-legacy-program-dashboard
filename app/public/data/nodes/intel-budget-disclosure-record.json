@@ -37,6 +37,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -108,9 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The complete public record of what the United States spends on intelligence consists of two numbers per year, and it exists in two segments separated by a nine-year gap. The first segment was created by litigation: following a FOIA suit brought by the Federation of American Scientists with the assistance of Kate Martin of the Center for National Security Studies, the Director of Central Intelligence declassified the total intelligence budget for the first time in fifty years in 1997 - $26.6 billion for FY1997 - and again in 1998 - $26.7 billion for FY1998. Then disclosure stopped. Nothing further was released until 2007, when the newly created Director of National Intelligence began publishing the National Intelligence Program aggregate under statutory compulsion. Military Intelligence Program figures were first published alongside the NIP for FY2010. The combined series, as compiled by the FAS Intelligence Resource Program: FY2007 $43.5bn NIP and $20bn MIP, total $63.5bn; FY2008 $47.5/$22.9/$70.4; FY2009 $49.8/$26.4/$76.2; FY2010 $53.1/$27.0/$80.1; FY2011 $54.6/$24.0/$78.6; FY2012 $53.9/$21.5/$75.4; FY2013 $52.7/$19.2/$71.9; FY2014 $50.5/$17.4/$67.9; FY2015 $50.3/$16.5/$66.8; FY2016 $53.0/$17.7/$70.7; FY2017 $54.6/$18.4/$73.0; FY2018 $59.4/$22.1/$81.5; FY2019 $60.2/$21.5/$81.7; FY2020 $62.7/$23.1/$85.8; FY2021 $60.8/$23.3/$84.1; FY2022 $65.7/$24.1/$89.8; FY2023 $71.7/$27.9/$99.6; FY2024 $76.5/$29.8/$106.3; FY2025 $73.3/$27.8/$101.1; and for FY2026 a request of $81.9bn NIP and $33.6bn MIP. That is the whole of it. There is no agency line, no programme line, no discipline line and no reconciliation to the Department of Defense budget in which most of the money is appropriated.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -124,7 +123,11 @@
 "label": "The intelligence budget disclosure record, FY1997-FY2026",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The intelligence budget disclosure record, FY1997-FY2026",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -144,25 +147,28 @@
 ],
 "sub": "Every published NIP and MIP figure, and the litigation and statutes that produced them",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 613 of 1170, score 28). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 608 of 1170, score 28). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1998",
+"grade": "A",
 "id": "bb-tl-1998-second",
 "label": "Second and last DCI disclosure, then nine years of silence",
 "precision": "year",
 "strand": "oversight",
-"text": "The DCI discloses $26.7 billion for FY1998 and then stops. No intelligence budget figure is published again until 2007, and then only because Congress compels it by statute.",
-"tier": "A"
+"text": "The DCI discloses $26.7 billion for FY1998 and then stops. No intelligence budget figure is published again until 2007, and then only because Congress compels it by statute."
 },
 {
+"claimTier": null,
 "date": "2010",
+"grade": "B",
 "id": "bb-tl-2010-mipfirst",
 "label": "MIP topline published for the first time",
 "precision": "year",
 "strand": "oversight",
-"text": "Military Intelligence Program figures are disclosed alongside the NIP for FY2010: $27.0 billion MIP against $53.1 billion NIP, a combined $80.1 billion. No breakdown of either accompanies the figures, then or since.",
-"tier": "B"
+"text": "Military Intelligence Program figures are disclosed alongside the NIP for FY2010: $27.0 billion MIP against $53.1 billion NIP, a combined $80.1 billion. No breakdown of either accompanies the figures, then or since."
 }
-]
+],
+"unverified": []
 }

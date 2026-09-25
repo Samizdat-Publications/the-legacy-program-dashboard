@@ -75,7 +75,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"w2-international"
+"d-international",
+"d-disclosure"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -96,6 +97,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "General de Brigada Aérea (A) Ricardo Bermúdez Sanhueza",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -111,7 +115,7 @@
 "status": "active",
 "sub": "Director, CEFAA (Chile), 1997-2016; Director of the Chilean Air Force Technical School",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 944 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 943 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

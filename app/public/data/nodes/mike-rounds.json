@@ -129,7 +129,7 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "research"
 },
 {
 "claimTier": 1,
@@ -164,8 +164,9 @@
 "deg": 4,
 "denials": [],
 "domains": [
-"_rs-legislation",
-"congress-senate-legislation"
+"d-legislative",
+"d-oversight",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -186,6 +187,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Mike Rounds",
+"sourceFiles": [
+"_rs-legislation",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2023-07-13",
@@ -221,16 +226,17 @@
 "status": "active",
 "sub": "R-SD; SASC and SSCI; lead Republican on the UAPDA",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 448 of 1170, score 32). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 541 of 1170, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2026-06-16",
+"grade": "B",
 "id": "cl-2026-06-16",
 "label": "Rounds's markup wins contain no UAP item",
 "precision": "day",
 "strand": "oversight",
-"text": "Rounds announces roughly forty provisions he secured in the FY2027 committee markup. None concerns unidentified anomalous phenomena.",
-"tier": "B"
+"text": "Rounds announces roughly forty provisions he secured in the FY2027 committee markup. None concerns unidentified anomalous phenomena."
 }
 ],
 "unexplainedResidual": null,

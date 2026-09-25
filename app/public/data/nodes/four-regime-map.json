@@ -42,14 +42,36 @@
 ],
 "cls": "domain",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
+{
+"claimTier": 3,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
+"id": "accm",
+"l0": false,
+"label": "Alternative Compensatory Control Measures (ACCM)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
 {
 "claimTier": 1,
 "cls": "program",
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
-"edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
+"edgeLabel": "",
 "id": "accm",
 "l0": false,
 "label": "Alternative Compensatory Control Measures (ACCM)",
@@ -78,7 +100,7 @@
 "edgeLabel": "DoD regime: weakest waiver of the four",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "10 U.S.C. 119(e)(2) narrows waived reporting to the chairman and ranking minority member of each defense committee.",
 "sources": [
 {
@@ -99,7 +121,7 @@
 "edgeLabel": "NNSA regime: the only waiver that reaches the 30-day report-and-wait",
 "id": "usc-50-2426",
 "l0": false,
-"label": "50 U.S.C. 2426 — Congressional Oversight of DOE/NNSA Special Access Programs",
+"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "note": "50 U.S.C. 2426(e)(1) expressly permits the Administrator to waive the report-and-wait requirement of subsection (f); 10 U.S.C. 119(e) does not.",
 "sources": [
 {
@@ -125,7 +147,7 @@
 "edgeLabel": "The anti-withholding rule does not reach DoD special access programs",
 "id": "usc-50-3091",
 "l0": false,
-"label": "50 U.S.C. 3091 — General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+"label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "note": "50 U.S.C. 3091(e) bars withholding from the intelligence committees on classification grounds, but binds only as to 'intelligence activities' and only for those committees, leaving DoD acquisition and operations and support SAPs outside it.",
 "sources": [
 {
@@ -146,7 +168,7 @@
 "edgeLabel": "The IC regime is the only one with no waiver and a funding cutoff",
 "id": "usc-50-3091a",
 "l0": false,
-"label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+"label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "note": "50 U.S.C. 3091a contains no waiver authority; subsection (c), added 23 December 2024, bars obligation of NIP funds until notification is submitted.",
 "sources": [
 {
@@ -172,7 +194,7 @@
 "edgeLabel": "All other agencies: reporting runs to House Oversight and Senate Homeland Security",
 "id": "usc-50-3348",
 "l0": false,
-"label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(1) names the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs among the congressional oversight committees.",
 "sources": [
 {
@@ -191,11 +213,7 @@
 "deg": 6,
 "denials": [],
 "desc": "There is no single United States statute on special access programs. There are four parallel regimes plus covert action, and the differences between them are where a program can live. (1) DoD - 10 U.S.C. 119: annual report by 1 March, new-program notice by 1 February, 14-day declassification notice, 30-day report-and-wait, all to six defense committees; the Secretary may waive the reports on a national-security determination, in which case the information goes only to the chairman and ranking minority member of each. (2) NNSA - 50 U.S.C. 2426: identical structure to the defense committees, but the Administrator may additionally waive the 30-day report-and-wait itself. (3) Every other agency - 50 U.S.C. 3348: identical structure, but reporting runs to 'congressional oversight committees' expressly including House Oversight and Senate Homeland Security, and the waiver does not narrow the audience. (4) The Intelligence Community - 50 U.S.C. 3091a and ICD 906: no annual statutory deadline and no waiver at all, but semiannual briefings on every program, a prohibition on establishment before notification, a funding cutoff since December 2024, and a prohibition on transferring capabilities out of a CAP into a SAP without notice since December 2024. Set beside each other, the ranking is unambiguous: the weakest reporting regime in the United States government belongs to the Department of Defense, and it is weakest precisely at the point where the Secretary decides how much to tell the committees. Two structural seams follow. The first is between regimes: a capability transferred from an IC controlled access program to a DoD special access program changes which statute governs it and which committees see it - the manoeuvre Congress prohibited prospectively in December 2024, three decades after the alleged conduct. The second is around all four: ICD 906 section C.3 records that none of them applies to 'special access programs under the purview of the National Security Council, such as covert action', which are governed only by 50 U.S.C. 3093 and its Gang of Eight.",
-"domains": [
-"_rs-sap-docs",
-"w15-live-originals",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "Where a program could sit, and what changes when it moves. There are five distinct legal environments, and the practical differences between them are the map of where concealment is easiest. (1) A DoD special access program: reports to six defense committees, waivable to eight to twelve members by the Secretary's own determination. (2) An NNSA special access program: same committees, and the Administrator may additionally waive the 30-day advance notice itself, so a program can begin with no committee ever having been told in advance - and NNSA material is Restricted Data, born classified by operation of the Atomic Energy Act rather than by an original classification authority, so a presidential declassification order operating on E.O. 13526 information does not reach it. (3) A non-DoD, non-NNSA, non-IC agency special access program: reports to House Oversight and Senate Homeland Security among others, and the waiver does not narrow the audience - the strongest of the SAP regimes, and the one covering DHS, NASA, Justice and Commerce. (4) An IC Controlled Access Program: no waiver at all, semiannual briefings, a funding cutoff since December 2024 and, since December 2024, a prohibition on transferring a capability out into a special access program without notice. (5) A National Security Council covert action program: outside all four SAP regimes by the express terms of ICD 906 section C.3, governed only by 50 U.S.C. 3093. The seam that matters is between (4) and (1). Before 23 December 2024 there was no statutory requirement to notify anyone when a capability moved from an IC controlled access program into a DoD special access program, and the move changes both the governing statute and the committees entitled to know. Congress closed that door prospectively in section 6603 of Public Law 118-159 - and left it ajar with an exception for transfers 'necessary to maintain access in the event of an organizational restructuring', a determination the transferring official makes for himself.",
@@ -212,7 +230,13 @@
 "label": "The four SAP reporting regimes and the seams between them",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "The four SAP reporting regimes and the seams between them",
+"sourceFiles": [
+"_rs-sap-docs",
+"w15-live-originals",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2024-01-05",
@@ -272,6 +296,7 @@
 ],
 "sub": "analysis",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 204 of 1170, score 45). 6 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 195 of 1170, score 46). 7 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"timeline": [],
+"unverified": []
 }

@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -77,9 +78,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Library and Archives Canada holds the Canadian government's UFO record: files from 1947 to 1995 received primarily from the Department of National Defence, the Department of Transport, the National Research Council and the Royal Canadian Mounted Police, with the Department of Communications also represented in LAC's own account. The collection runs to over 15,000 pages, of which around 9,500 have been digitised and are directly available online; the whole collection is publicly accessible and searchable by keywords such as 'UFO' or 'non-meteoritic'. LAC mounted an online exhibition, 'Canada's UFOs: The Search for the Unknown', in August 2005, which quotes the primary documents directly and gives their archival citations - RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt.1 for the Project Magnet and Project Second Story files; RG 24, vol. 17984, file S-940-5, pts.1 and 2, on reel T-3291 for the 1947 Department of National Defence material; RG 77, reels T-1741 to T-1744 for RCMP reports. The National Research Council's 'non-meteoritic sightings' files, compiled under Dr Peter Millman at the Herzberg Institute of Astrophysics from 1967, were transferred to LAC when the NRC stopped collecting reports in 1995.",
-"domains": [
-"w2-international"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -93,7 +92,11 @@
 "label": "Library and Archives Canada - UFO records collection",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Library and Archives Canada - UFO records collection",
+"sourceFiles": [
+"w2-international"
+],
 "sources": [
 {
 "date": "2005-08-11",
@@ -116,13 +119,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 761 of 1170, score 23). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1959",
+"grade": null,
 "id": "tl-intl-1959-cirvis",
 "label": "Canada-US joint UFO reporting system",
 "precision": "year",
 "strand": "program",
-"text": "Library and Archives Canada records that an agreement was finalised between the United States and Canada to institute a joint reporting system for UFOs under CIRVIS/MERINT, 'to extend the early warning coverage for the defence of North America'. Posters depicted a saucer-like object alongside missiles and submarines as examples of objects to be reported.",
-"tier": 1
+"text": "Library and Archives Canada records that an agreement was finalised between the United States and Canada to institute a joint reporting system for UFOs under CIRVIS/MERINT, 'to extend the early warning coverage for the defence of North America'. Posters depicted a saucer-like object alongside missiles and submarines as examples of objects to be reported."
 }
-]
+],
+"unverified": []
 }

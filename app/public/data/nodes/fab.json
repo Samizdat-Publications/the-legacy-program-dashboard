@@ -42,6 +42,7 @@
 ],
 "cls": "institution",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -116,7 +117,23 @@
 "date": null,
 "name": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/",
 "url": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+}
+],
+"tier": "A",
+"type": "institutional"
 },
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "",
+"id": "arquivo-nacional-ufo",
+"l0": true,
+"label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"note": "The transfer obligation is what links them. Portaria no. 551/GC3 of 9 August 2010, Art. 3, requires CENDOC to send originals to the Arquivo Nacional 'periodicamente', which is why the fund has no terminal year. The operative text is transcribed in a federal court judgment, and the DOU publication is attested by citation in a Chamber of Deputies information requirement.",
+"sources": [
 {
 "date": "1986-06-02",
 "name": "Relatório de Ocorrências (Arquivo Nacional)",
@@ -401,10 +418,7 @@
 "deg": 10,
 "denials": [],
 "desc": "The Brazilian Air Force is the only major air arm that has (a) mounted a dedicated field operation against the phenomenon with its intelligence service, (b) scrambled fighters against it on a national scale and recorded in a classified internal report that the objects were solid and behaved intelligently, (c) had its minister say publicly with the pilots present that it had no explanation, and (d) then transferred its entire holding to a civil national archive and disclaimed further competence. Operação Prato ran on Colares in 1977-78 with the National Information Service. On 19 May 1986 it launched five fighters across four states; the Air Defence Command's report of 2 June 1986 recorded the finding of solid, intelligent behaviour. In 2009-2010 it began transferring documents to the Arquivo Nacional and issued rules for pilots on contact with UFOs. Its standing public position, as given to BBC Brasil, is that everything has gone to the archive and that it has no specialists qualified to investigate the subject scientifically or to give an opinion on it.",
-"domains": [
-"w11-brazil-harden",
-"w2-international"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -553,7 +567,12 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "Força Aérea Brasileira",
+"sourceFiles": [
+"w11-brazil-harden",
+"w2-international"
+],
 "sources": [
 {
 "date": null,
@@ -588,6 +607,7 @@
 ],
 "sub": "Brazilian Air Force; ran Operação Prato and the 1986 intercepts; transfers UAP records to the Arquivo Nacional under Portaria 551/GC3 of 9 August 2010",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 107 of 1170, score 61). 11 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 106 of 1170, score 62). 12 connections, 4 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"timeline": [],
+"unverified": []
 }

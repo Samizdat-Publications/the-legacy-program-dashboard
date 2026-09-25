@@ -4,7 +4,9 @@
 "D": 2,
 "affiliations": [
 "Fair-Witness Project",
-"Co-author with Charles Berlitz, 'The Roswell Incident' (1980)"
+"Co-author with Charles Berlitz, 'The Roswell Incident' (1980)",
+"Aerial Phenomena Research Organization",
+"Fair-Witness Project, Burbank, California"
 ],
 "age": null,
 "band": null,
@@ -15,9 +17,19 @@
 "precision": "year"
 },
 {
+"date": "1980-01-01",
+"event": "Publishes 'The Roswell Incident' with Charles Berlitz, reviving the 1947 case.",
+"precision": "year"
+},
+{
 "date": "1984-12",
 "event": "With Jaime Shandera, receives an anonymous roll of 35mm film containing the MJ-12 Eisenhower Briefing Document",
 "precision": "month"
+},
+{
+"date": "1984-12-11",
+"event": "Jaime Shandera receives the anonymous film containing the MJ-12 'Eisenhower Briefing Document.'",
+"precision": "day"
 },
 {
 "date": "1987",
@@ -25,9 +37,29 @@
 "precision": "year"
 },
 {
+"date": "1987-05-29",
+"event": "MJ-12 documents released publicly by Moore, Shandera and Stanton Friedman.",
+"precision": "day"
+},
+{
+"date": "1988-01-01",
+"event": "Philip Klass publishes the first detailed forensic challenge to the MJ-12 documents in Skeptical Inquirer.",
+"precision": "month"
+},
+{
 "date": "1989-07",
 "event": "At the MUFON symposium in Las Vegas, states publicly that he had cooperated with AFOSI personnel and passed disinformation to Paul Bennewitz",
 "precision": "month"
+},
+{
+"date": "1989-07-01",
+"event": "Tells the MUFON symposium that he cooperated with AFOSI and passed disinformation to Bennewitz.",
+"precision": "month"
+},
+{
+"date": "1990-01-01",
+"event": "With Shandera publishes 'The MJ-12 Documents: An Analytical Report' (Fair-Witness Project, Publication 1500).",
+"precision": "year"
 }
 ],
 "claims": [
@@ -75,7 +107,8 @@
 "cls": "person",
 "cluster": "research",
 "conflicts": [
-"Friedman continued to regard the MJ-12 core documents as authentic after Moore's admission; Randle regarded the admission as conclusive against them."
+"Friedman continued to regard the MJ-12 core documents as authentic after Moore's admission; Randle regarded the admission as conclusive against them.",
+"Moore's admission of being an AFOSI conduit is used both to discredit MJ-12 (as a plant) and to authenticate it (as a controlled leak). The record supports the first reading more strongly."
 ],
 "connections": [
 {
@@ -262,24 +295,26 @@
 "type": "research"
 }
 ],
-"date": "1989-07-01",
+"date": "1990-01-01",
 "dateEnd": null,
-"dateStart": "1989-07-01",
+"dateStart": "1990-01-01",
 "deg": 8,
 "denials": [
 {
-"by": {
+"a": {
 "id": "william-l-moore",
 "label": "William L. Moore"
 },
+"b": {
+"id": "kevin-randle",
+"label": "Kevin D. Randle"
+},
+"by": null,
 "claimTier": 2,
 "denialKind": "association",
 "label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
 "note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
-"of": {
-"id": "kevin-randle",
-"label": "Kevin D. Randle"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -290,9 +325,10 @@
 }
 ],
 "domains": [
-"dulce-2026-09-19",
-"w16-thin-people",
-"w2-retrieval-literature"
+"d-recovery",
+"d-mj12",
+"d-coverup",
+"d-disinformation"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -313,6 +349,12 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "William L. Moore",
+"sourceFiles": [
+"dulce-2026-09-19",
+"history-1970s-2000s",
+"w16-thin-people",
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "1997-01-01",
@@ -356,35 +398,39 @@
 "tierRationale": "Re-graded B on a global pass (rank 242 of 1170, score 42). 8 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1984-12",
+"grade": "B",
 "id": "tl-1984-12-mj12",
 "label": "The MJ-12 film arrives",
 "precision": "month",
 "strand": "coverup",
-"text": "William L. Moore and Jaime Shandera receive an anonymous roll of undeveloped 35mm film containing the Eisenhower Briefing Document and the Truman-Forrestal memorandum. The delivery falls inside the period Moore later says he was cooperating with AFOSI.",
-"tier": "B"
+"text": "William L. Moore and Jaime Shandera receive an anonymous roll of undeveloped 35mm film containing the Eisenhower Briefing Document and the Truman-Forrestal memorandum. The delivery falls inside the period Moore later says he was cooperating with AFOSI."
 },
 {
+"claimTier": null,
 "date": "1989-07",
+"grade": "B",
 "id": "tl-1989-07-moore",
 "label": "Moore's AFOSI admission",
 "precision": "month",
 "strand": "coverup",
-"text": "At the MUFON symposium in Las Vegas, William L. Moore states publicly that he had cooperated with Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz.",
-"tier": "B"
+"text": "At the MUFON symposium in Las Vegas, William L. Moore states publicly that he had cooperated with Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz."
 },
 {
+"claimTier": null,
 "date": "1989-07-01",
+"grade": "A",
 "id": "t-1989-moore",
 "label": "Moore admits the AFOSI collaboration",
 "precision": "month",
 "strand": "coverup",
-"text": "At the MUFON symposium Bill Moore tells the UFO community that he worked with Air Force counterintelligence and knowingly passed disinformation to Bennewitz in exchange for access.",
-"tier": "A"
+"text": "At the MUFON symposium Bill Moore tells the UFO community that he worked with Air Force counterintelligence and knowingly passed disinformation to Bennewitz in exchange for access."
 }
 ],
 "unexplainedResidual": null,
 "unverified": [
-"The names of the AFOSI personnel Moore says he dealt with, and whether any AFOSI record of the relationship has ever been requested or released. Nothing responsive has surfaced."
+"The names of the AFOSI personnel Moore says he dealt with, and whether any AFOSI record of the relationship has ever been requested or released. Nothing responsive has surfaced.",
+"Whether Moore was given genuine classified material at any point, as he implied, is unresolved."
 ]
 }

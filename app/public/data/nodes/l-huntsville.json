@@ -22,6 +22,7 @@
 ],
 "cls": "location",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -54,9 +55,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Huntsville is the American rocketry town: Redstone Arsenal received Wernher von Braun and the Operation Paperclip rocket team in 1950, became the Army Ballistic Missile Agency and then NASA's Marshall Space Flight Center, and today hosts the Missile Defense Agency, Army Aviation and Missile Command, the FBI's second-largest campus and a dense mid-tier defence engineering economy. On this board it functions as the contractor-adjacent node most likely to hold compartmented analytical work without attracting attention: Radiance Technologies, an employee-owned defence engineering firm headquartered here with roughly $2.6 billion in prime contract obligations since FY2008 across intelligence analysis, directed energy and sensors, is the employer of Travis S. Taylor, who holds doctorates in optical science and engineering (1999) and aerospace engineering (2012) from the University of Alabama in Huntsville and who Science magazine reported in June 2022 had been chief scientist of the Unidentified Aerial Phenomena Task Force. Huntsville is therefore the address where the government's UAP analytical head and a mid-tier defence contractor's payroll intersect - the exact structural arrangement that Congress found in September 2025 places UAP spending with entities outside the reach of FOIA.",
-"domains": [
-"w2-places-events"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -70,7 +69,11 @@
 "label": "Huntsville, Alabama",
 "locLabel": "Huntsville, Alabama, USA",
 "members": null,
+"openQuestions": [],
 "short": "Huntsville, Alabama",
+"sourceFiles": [
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -85,6 +88,7 @@
 ],
 "sub": "Madison County; Redstone Arsenal, Missile Defense Agency, Army Aviation and Missile Command, Radiance Technologies",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 832 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 833 of 1170, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"timeline": [],
+"unverified": []
 }

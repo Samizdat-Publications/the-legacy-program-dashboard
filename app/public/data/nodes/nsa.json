@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -266,6 +267,14 @@
 "deg": 11,
 "denials": [
 {
+"a": {
+"id": "nsa",
+"label": "National Security Agency"
+},
+"b": {
+"id": "caus-v-nsa",
+"label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)"
+},
 "by": {
 "id": "nsa",
 "label": "National Security Agency"
@@ -287,6 +296,14 @@
 ]
 },
 {
+"a": {
+"id": "nsa",
+"label": "National Security Agency"
+},
+"b": {
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
 "by": {
 "id": "nsa",
 "label": "National Security Agency"
@@ -309,10 +326,7 @@
 }
 ],
 "desc": "NSA was established on 4 November 1952 by a classified memorandum from President Truman, and like the NRO it spent its early decades as an agency whose name the government preferred not to confirm. Its place in the UAP record is defined by a single piece of litigation that is still the most instructive FOIA case in the field. In Citizens Against UFO Secrecy v. National Security Agency, Civil Action No. 80-1562 in the District Court for the District of Columbia, CAUS sought NSA's UFO holdings; NSA responded by locating a body of responsive material and withholding it in its entirety, supporting the withholding with a classified in camera affidavit executed by Eugene F. Yeates, Chief of NSA's Office of Policy. The public version of the Yeates affidavit was released only in heavily redacted form - the district court reviewed the full text ex parte, the D.C. Circuit affirmed in 1981, and the Supreme Court denied certiorari in 1982. The operative fact is not that NSA won; it is what NSA's own filings conceded in order to win: that the Agency held UFO-related documents, that they were classified, and that the number and nature of them could not be disclosed even to a federal judge in open session. NSA has since released a set of these documents in redacted form, and it appears among the contributing elements listed in ODNI's June 2021 Preliminary Assessment on UAP - confirming that NSA signals collection continues to produce UAP-relevant reporting four decades after it told a court it could not describe what it held.",
-"domains": [
-"_rs-archive-mirror",
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -429,7 +443,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "National Security Agency",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-08-11",
@@ -459,25 +478,28 @@
 ],
 "sub": "Signals intelligence and cybersecurity agency; established 4 November 1952 by classified presidential memorandum",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 264 of 1170, score 41). 11 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 265 of 1170, score 41). 11 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1952-11-04",
+"grade": "A",
 "id": "ag-tl-1952-nsa",
 "label": "NSA established by classified presidential memorandum",
 "precision": "day",
 "strand": "program",
-"text": "Truman creates the National Security Agency by a memorandum that is itself classified - the first of the two agencies on this board whose existence was a secret.",
-"tier": "A"
+"text": "Truman creates the National Security Agency by a memorandum that is itself classified - the first of the two agencies on this board whose existence was a secret."
 },
 {
+"claimTier": null,
 "date": "1981-11-03",
+"grade": "A",
 "id": "ag-tl-1981-causaff",
 "label": "D.C. Circuit affirms NSA's total withholding",
 "precision": "day",
 "strand": "coverup",
-"text": "The Court of Appeals sustains the withholding on the classified showing; the Supreme Court denies certiorari on 8 March 1982. A federal court has now confirmed that a US intelligence agency holds UFO material it cannot describe in public.",
-"tier": "A"
+"text": "The Court of Appeals sustains the withholding on the classified showing; the Supreme Court denies certiorari on 8 March 1982. A federal court has now confirmed that a US intelligence agency holds UFO material it cannot describe in public."
 }
-]
+],
+"unverified": []
 }

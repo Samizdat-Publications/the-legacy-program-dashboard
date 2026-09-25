@@ -52,6 +52,7 @@
 ],
 "cls": "program",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -154,6 +155,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
 "by": {
 "id": "tom-mahood",
 "label": "Tom Mahood"
@@ -176,9 +185,7 @@
 }
 ],
 "desc": "THIS NODE RECORDS A CLAIM AND A SEPARATE PHYSICAL FACT THAT HAPPEN TO SHARE A NUMBER, AND IT IS NOT AN ASSERTION THAT THEY ARE THE SAME THING. The claim is Lazar's: that a stable isotope of element 115 was the fuel of the reactor he says he worked on, that it could be machined into triangular wedges and stored, that 223 grams would run for twenty to thirty years, and that its nuclear binding field, which he calls gravity A and identifies with the strong nuclear force, extends past the perimeter of the atom so that it can be accessed and amplified. The fact is that element 115 was synthesised in a Dubna and Lawrence Livermore experiment published in Physical Review C on 2 February 2004, that the International Union of Pure and Applied Chemistry assigned discovery priority on 30 December 2015, and that the name moscovium was approved on 28 November 2016. The two do not meet. Lazar's claim is not that element 115 exists, which was never controversial and was predicted popular physics from 1969; it is that a stable isotope of it exists and that he handled half a pound of it. Nothing in the 2004 paper, the 2015 priority decision or the 2016 naming touches that. Equally, the hostile version, that he invented a number and got lucky, is also wrong: the island of stability near element 114 was in Scientific American in April 1969 and in undergraduate textbooks by 1970. The correct finding is neither prescient nor fabricated from nothing. It is available prior art, used. The board carries the claim as a claim and the element as an element, on one node so that the collision is visible in one place.",
-"domains": [
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -192,7 +199,11 @@
 "label": "Element 115: the Lazar claim and moscovium",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Element 115: the Lazar claim and moscovium",
+"sourceFiles": [
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "2004-02-02",
@@ -232,43 +243,51 @@
 ],
 "sub": "The claimed stable, machinable superheavy fuel of the S-4 propulsion account, set beside the real element 115 synthesised in 2003, assigned in 2015 and named moscovium in 2016",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 363 of 1170, score 36). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 369 of 1170, score 36). 4 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1996-08-26",
+"grade": "C",
 "id": "tl-1996-08-26-morgan-critique",
 "label": "Physicist David L. Morgan publishes the physics critique",
 "precision": "day",
 "strand": "witness",
-"text": "Dr David L. Morgan, a particle physicist, publishes 'A Physicist's Critique', revised April 2001. Three objections: that the strong nuclear force 'has NOTHING TO DO WITH GRAVITY'; that the nuclear force 'extends out to about the same distance away from a nucleus NO MATTER HOW MASSIVE THE NUCLEUS IS'; and, crucially without needing any model of gravity, that if the antimatter must be made on board then 'your system produces NO NET ENERGY AT ALL!!'",
-"tier": "C"
+"text": "Dr David L. Morgan, a particle physicist, publishes 'A Physicist's Critique', revised April 2001. Three objections: that the strong nuclear force 'has NOTHING TO DO WITH GRAVITY'; that the nuclear force 'extends out to about the same distance away from a nucleus NO MATTER HOW MASSIVE THE NUCLEUS IS'; and, crucially without needing any model of gravity, that if the antimatter must be made on board then 'your system produces NO NET ENERGY AT ALL!!'"
 },
 {
+"claimTier": null,
 "date": "2004-02-02",
+"grade": "A",
 "id": "tl-2004-02-02-element-115-synthesised",
 "label": "Element 115 synthesis published in Physical Review C",
 "precision": "day",
 "strand": "program",
-"text": "Oganessian et al., 'Experiments on the synthesis of element 115 in the reaction 243Am(48Ca,xn)291-x115', Physical Review C 69, 021601(R), a Dubna and Lawrence Livermore collaboration. The isotopes are 287 and 288, at cross sections of roughly 1 and 3 picobarn, observed as chains of consecutive alpha decays running to completion within about twenty seconds and about half a second. Nothing about them is stable, machinable or storable.",
-"tier": "A"
+"text": "Oganessian et al., 'Experiments on the synthesis of element 115 in the reaction 243Am(48Ca,xn)291-x115', Physical Review C 69, 021601(R), a Dubna and Lawrence Livermore collaboration. The isotopes are 287 and 288, at cross sections of roughly 1 and 3 picobarn, observed as chains of consecutive alpha decays running to completion within about twenty seconds and about half a second. Nothing about them is stable, machinable or storable."
 },
 {
+"claimTier": null,
 "date": "2015-12-30",
+"grade": "A",
 "id": "tl-2015-12-30-iupac-priority",
 "label": "IUPAC assigns discovery priority for element 115",
 "precision": "day",
 "strand": "program",
-"text": "Priority went to 'the Dubna-Livermore-Oak Ridge collaborations', on the basis of work 'starting in 2010, and subsequently confirmed in 2012 and 2013'. A precision point usually got wrong in both directions: the priority statement rests on the 2010 to 2013 work, not on the 2003 experiment. The Joint Working Party report is Karol, Barber, Sherrill, Vardaci and Yamazaki, Pure and Applied Chemistry 88 (2016) 155.",
-"tier": "A"
+"text": "Priority went to 'the Dubna-Livermore-Oak Ridge collaborations', on the basis of work 'starting in 2010, and subsequently confirmed in 2012 and 2013'. A precision point usually got wrong in both directions: the priority statement rests on the 2010 to 2013 work, not on the 2003 experiment. The Joint Working Party report is Karol, Barber, Sherrill, Vardaci and Yamazaki, Pure and Applied Chemistry 88 (2016) 155."
 },
 {
+"claimTier": null,
 "date": "2016-11-28",
+"grade": "A",
 "id": "tl-2016-11-28-moscovium-named",
 "label": "Element 115 formally named moscovium",
 "precision": "day",
 "strand": "program",
-"text": "The name moscovium, symbol Mc, was formally approved on 28 November 2016 and announced on 30 November 2016, proposed by the discoverers at Dubna, Oak Ridge, Vanderbilt and Lawrence Livermore, in recognition of the Moscow region. This event is regularly presented as vindicating the Lazar claim. It does not: his claim requires a STABLE isotope that can be machined and stored, and no such isotope exists.",
-"tier": "A"
+"text": "The name moscovium, symbol Mc, was formally approved on 28 November 2016 and announced on 30 November 2016, proposed by the discoverers at Dubna, Oak Ridge, Vanderbilt and Lawrence Livermore, in recognition of the Moscow region. This event is regularly presented as vindicating the Lazar claim. It does not: his claim requires a STABLE isotope that can be machined and stored, and no such isotope exists."
 }
+],
+"unverified": [
+"The half-lives of the moscovium isotopes. The primary 2004 paper gives decay-chain durations, not isotope half-lives. The figures in general circulation, about 38 milliseconds for moscovium-287 and about 193 milliseconds for moscovium-288, come from a Wikipedia isotope table that this session did not follow through to the underlying nuclear data compilation, and THEY ARE NOT ASSERTED. What the paper itself supports is that five-step decay chains ran to completion inside about twenty seconds and a four-step chain inside about half a second, from single atoms produced at picobarn cross sections.",
+"Glenn Seaborg's Scientific American article of April 1969 was NOT OPENED. It is cited here only as Tom Mahood cites it, and the page range of 57 to 67 is his."
 ]
 }

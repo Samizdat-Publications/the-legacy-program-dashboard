@@ -87,6 +87,7 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -119,6 +120,27 @@
 "id": "aatip",
 "l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "2012",
+"dateStart": "2009",
+"direction": "out",
+"edgeLabel": "same appropriation, two designations",
+"id": "aatip",
+"l0": true,
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Elizondo's account is that AATIP grew out of AAWSAP; AARO's 2024 historical report treats 2009 as the standup year for both. The Department has treated them as one contract and two labels, alternately.",
 "sources": [
 {
@@ -142,6 +164,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "prime contract",
+"id": "aawsap-contract-hhm402-08-c-0072",
+"l0": false,
+"label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+}
+],
+"tier": "C",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "",
 "id": "aawsap-contract-hhm402-08-c-0072",
 "l0": false,
 "label": "DIA Contract HHM402-08-C-0072 (AAWSAP / BAASS)",
@@ -194,6 +237,27 @@
 "dateStart": null,
 "direction": "out",
 "edgeLabel": "HHM402-08-C-0072, sole bid, signed 22 Sep 2008",
+"id": "baass",
+"l0": true,
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
@@ -992,7 +1056,7 @@
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -1023,7 +1087,7 @@
 "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -1039,14 +1103,14 @@
 "note": "The DIRDs are the contract's deliverables. DIA Talking Paper U-973-09 records that the RFP broke the work into twelve technical areas - lift, propulsion, control, armament, signature reduction and the rest - and the Defense Intelligence Reference Documents are the products those areas were delivered as. Every one of the 32 series-member edges was verified against the released PDF's cover page on 22 August 2026.",
 "sources": [
 {
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+},
+{
 "date": "2008-08-18",
 "name": "FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)",
 "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
-},
-{
-"date": "2010",
-"name": "DIA Info Memo U-10-2552 to USD(AT&L), 'Advanced Aerospace Threat and Identification Program' (DIA FOIA release)",
-"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
 }
 ],
 "tier": "A",
@@ -1106,7 +1170,7 @@
 "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "programmatic"
 },
 {
@@ -1321,6 +1385,27 @@
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "",
+"id": "harry-reid",
+"l0": false,
+"label": "Harry M. Reid",
 "note": "He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on.",
 "sources": [
 {
@@ -1338,12 +1423,33 @@
 "type": "programmatic"
 },
 {
-"claimTier": 1,
+"claimTier": 3,
 "cls": "person",
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
 "edgeLabel": "AAWSA Program Manager (name redacted in release)",
+"id": "james-lacatski",
+"l0": false,
+"label": "James T. Lacatski",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2012",
+"dateStart": "2008",
+"direction": "in",
+"edgeLabel": "Government Project Leader",
 "id": "james-lacatski",
 "l0": false,
 "label": "James T. Lacatski",
@@ -1786,6 +1892,14 @@
 "deg": 59,
 "denials": [
 {
+"a": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -1808,11 +1922,7 @@
 }
 ],
 "desc": "AAWSAP is the official, contract-of-record name of the program the public knows as the Pentagon's secret UFO study, and it is the most completely documented UAP effort in the history of the United States government. It was conceived inside DIA's Defense Warning Office by Dr. James T. Lacatski, funded by roughly $22 million placed in the classified defense appropriation at the direction of Senate Majority Leader Harry Reid with Daniel Inouye and Ted Stevens, solicited publicly on 18 August 2008 as HHM402-08-R-0211 by the DIA Virginia Contracting Activity, and awarded on 22 September 2008 as firm-fixed-price contract HHM402-08-C-0072 to Bigelow Aerospace Advanced Space Studies, LLC of Las Vegas at a $10,000,000 base value with four option years running to 30 September 2013. Its stated objective, in DIA's own words, was 'to understand the physics and engineering of these applications as they apply to the foreign threat out to the far term, i.e., from now through the year 2050', across eleven technical areas: lift, propulsion, control, power generation, spatial/temporal translation, materials, configuration and structure, signature reduction, human interface, human effects, and armament. In practice the contractor built a UFO research enterprise: a Las Vegas SCIF, field investigation teams, a case database, a human physiological effects program, a 494-page Ten Month Report delivered in July 2009, and 38 Defense Intelligence Reference Documents surveying every known theoretical route to the observed flight performance. AARO's 2024 official history concedes the drift in one sentence — 'although investigating UFO/UAP was not specifically outlined in the contract's statement of work, the selected private sector organization conducted UFO research with the support of the DIA program manager.' The program was terminated in 2012. What it produced beyond the 38 released papers — Lacatski says more than 100 detailed reports — has never been released.",
-"domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"aawsap-aatip"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -2121,13 +2231,13 @@
 "cls": "document",
 "id": "dird-quantum-computing-and-utilizing-organic-molecules",
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
 "id": "dird-quantum-tomography-of-negative-energy-states",
 "label": "Quantum Tomography of Negative Energy States in the Vacuum",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -2139,7 +2249,7 @@
 "cls": "document",
 "id": "dird-state-of-the-art-and-evolution",
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
-"tier": "C"
+"tier": "B"
 },
 {
 "cls": "document",
@@ -2250,7 +2360,13 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "AAWSAP",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2008-08-18",
@@ -2360,16 +2476,18 @@
 ],
 "sub": "dia-program",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 2 of 1170, score 174). 61 connections, 53 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 2 of 1170, score 174). 66 connections, 56 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2012-01-01",
+"grade": "A",
 "id": "tl-2012-term",
 "label": "AAWSAP/AATIP terminated",
 "precision": "year",
 "strand": "program",
-"text": "DoD's official history states the program was 'terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project'. Daniel Inouye dies the same year.",
-"tier": "A"
+"text": "DoD's official history states the program was 'terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project'. Daniel Inouye dies the same year."
 }
-]
+],
+"unverified": []
 }

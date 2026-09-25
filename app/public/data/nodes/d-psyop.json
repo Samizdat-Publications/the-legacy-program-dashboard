@@ -27,6 +27,7 @@
 ],
 "cls": "domain",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -187,10 +188,7 @@
 "deg": 7,
 "denials": [],
 "desc": "The use of the UFO subject as a vehicle for deception against a domestic audience is documented at the level of an official recommendation and at the level of a named case. The recommendation is the Robertson Panel's January 1953 proposal for a debunking campaign using mass media, psychiatrists and advertising specialists, explicitly aimed at reducing public susceptibility rather than at establishing what the objects were. The named case is Paul Bennewitz, an Albuquerque physicist living beside Kirtland AFB, who in the early 1980s was fed fabricated documents and staged material by Air Force Office of Special Investigations personnel - most prominently Richard C. Doty, whose later New Mexico State Police personnel file was released under public records law and runs to 321 pages - with the documented effect of destroying his mental health. The dual-use route is exact: a genuine sensitive programme adjacent to a witness generates a security problem, and the cheapest solution is not to silence the witness but to discredit him by feeding him something absurd and letting him repeat it. That mechanism cuts in both directions and must be applied honestly - it explains real disinformation injected into the field, and it is also the most common frame used to dismiss testimony that is not disinformation. Scoring high here means an entity ran, authored or knowingly transmitted deception material.",
-"domains": [
-"dulce-2026-09-19",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -204,7 +202,12 @@
 "label": "Psychological Operations & Perception Management",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Psychological Operations & Perception Management",
+"sourceFiles": [
+"dulce-2026-09-19",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -239,16 +242,18 @@
 ],
 "sub": "Operational domain - deliberate manipulation of belief as a security measure",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 237 of 1170, score 43). 7 connections, 5 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 236 of 1170, score 43). 7 connections, 5 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1953-01-17",
+"grade": null,
 "id": "tx-1953-robertson",
 "label": "The Robertson Panel recommends a debunking programme",
 "precision": "day",
 "strand": "coverup",
-"text": "A CIA Office of Scientific Intelligence panel recommends that the national security agencies strip UFOs of their special status through a programme of mass-media 'training and debunking', and that civilian UFO groups be watched because of their potential influence on mass thinking. This is the documented origin point of the psychological-operations domain.",
-"tier": 1
+"text": "A CIA Office of Scientific Intelligence panel recommends that the national security agencies strip UFOs of their special status through a programme of mass-media 'training and debunking', and that civilian UFO groups be watched because of their potential influence on mass thinking. This is the documented origin point of the psychological-operations domain."
 }
-]
+],
+"unverified": []
 }

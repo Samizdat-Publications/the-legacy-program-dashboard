@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "JARIC is the United Kingdom's joint imagery-intelligence unit, and its institutional life is documented at The National Archives without reference to any UFO case: Operations Record Books run from RAF Nuneham Park in 1950 through RAF Brampton in 1992 in the Air Ministry and Ministry of Defence series, with an administrative history for 1962-1972 at AIR 14/4103. It reaches this board because Nick Pope says JARIC assessed the six Calvine photographs and their negatives and concluded the object was a solid structured craft about 75 feet across. No such assessment has been opened. The Defence Secretariat file covering the period, DEFE 24/1940, is closed at Kew until 1 January 2076 under a Freedom of Information Act exemption signed on 7 June 2023, on the same personal-information ground as every neighbouring file in the run; a redacted digital copy, DEFE 24/1940/1, has been open since 20 October 2008 and could not be downloaded from this environment.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -98,7 +97,11 @@
 "label": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Joint Air Reconnaissance Intelligence Centre (JARIC)",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2026-09-02",
@@ -123,16 +126,18 @@
 ],
 "sub": "UK imagery-intelligence unit, RAF Nuneham Park, Brampton, Wyton and Episkopi; Operations Record Books at Kew 1950-1992",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 408 of 1170, score 34). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A1/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 411 of 1170, score 34). 2 connections, 1 of them custody/funding/programmatic. Axes C2/A1/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2023-06-07",
+"grade": "B",
 "id": "tl-2023-06-07-defe-24-1940-closure-signed",
 "label": "The MoD file covering the Calvine period is signed closed until 2076",
 "precision": "day",
 "strand": "coverup",
-"text": "DEFE 24/1940, 'UFO reports', 1 August 1990 to 31 January 1991, former reference D/Sec(AS)12/2 Part J, carries closure code 84 under the criterion 'Personal information where the applicant is a 3rd party', a Freedom of Information Act exemption instrument signed on 7 June 2023, and a record opening date of 1 January 2076. The closure is the series norm rather than a singling out: the neighbouring files open between 2072 and 2077 on the same basis. A redacted digital copy, DEFE 24/1940/1, has been open since 20 October 2008 and would not download from this environment.",
-"tier": "B"
+"text": "DEFE 24/1940, 'UFO reports', 1 August 1990 to 31 January 1991, former reference D/Sec(AS)12/2 Part J, carries closure code 84 under the criterion 'Personal information where the applicant is a 3rd party', a Freedom of Information Act exemption instrument signed on 7 June 2023, and a record opening date of 1 January 2076. The closure is the series norm rather than a singling out: the neighbouring files open between 2072 and 2077 on the same basis. A redacted digital copy, DEFE 24/1940/1, has been open since 20 October 2008 and would not download from this environment."
 }
-]
+],
+"unverified": []
 }

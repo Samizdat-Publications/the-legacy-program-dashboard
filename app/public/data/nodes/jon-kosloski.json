@@ -317,8 +317,8 @@
 {
 "claimTier": 1,
 "cls": "document",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2024",
+"dateStart": "2024",
 "direction": "out",
 "edgeLabel": "presented the FY2024 report and the GREMLIN disclosure",
 "id": "aaro-fy2024-annual-report",
@@ -529,6 +529,14 @@
 "deg": 10,
 "denials": [
 {
+"a": {
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
 "by": {
 "id": "jon-kosloski",
 "label": "Jon T. Kosloski"
@@ -555,6 +563,14 @@
 ]
 },
 {
+"a": {
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"id": "gofast-video",
+"label": "GO FAST (Navy ATFLIR video, January 2015)"
+},
 "by": {
 "id": "jon-kosloski",
 "label": "Jon T. Kosloski"
@@ -582,12 +598,12 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"aviators-incidents",
-"primes-custody",
-"releases-2023-2026",
-"uaptf-aaro",
-"w2-2025-2026"
+"d-aviators",
+"d-coverup",
+"d-oversight",
+"d-disclosure",
+"d-records",
+"d-ic"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -608,6 +624,14 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jon T. Kosloski",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aviators-incidents",
+"primes-custody",
+"releases-2023-2026",
+"uaptf-aaro",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-05-08",
@@ -743,43 +767,47 @@
 "status": "active",
 "sub": "Director, All-domain Anomaly Resolution Office (Aug 2024- ); former NSA physicist",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 42 of 1170, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 44 of 1170, score 84). 10 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-08-26",
+"grade": "A",
 "id": "av-2024-08-26",
 "label": "Kosloski named AARO director",
 "precision": "day",
 "strand": "program",
-"text": "Dr. Jon T. Kosloski, previously of the National Security Agency, becomes AARO's full-time director.",
-"tier": "A"
+"text": "Dr. Jon T. Kosloski, previously of the National Security Agency, becomes AARO's full-time director."
 },
 {
+"claimTier": null,
 "date": "2024-11-19",
+"grade": "A",
 "id": "av-2024-11-19",
 "label": "AARO reanalyses GO FAST",
 "precision": "day",
 "strand": "coverup",
-"text": "AARO's SASC case slides place the object at about 13,000 feet and 45 mph in 60-knot winds - 'did not demonstrate any anomalous speeds or flight characteristics.' Kosloski also concedes 'we do have some very anomalous objects.'",
-"tier": "A"
+"text": "AARO's SASC case slides place the object at about 13,000 feet and 45 mph in 60-knot winds - 'did not demonstrate any anomalous speeds or flight characteristics.' Kosloski also concedes 'we do have some very anomalous objects.'"
 },
 {
+"claimTier": null,
 "date": "2026-05-15",
+"grade": "A",
 "id": "tl-luna-kosloski-2026-05-15",
 "label": "Kosloski apologises to members",
 "precision": "day",
 "strand": "oversight",
-"text": "Luna and Burlison review the second tranche with Kosloski. Luna then backs him publicly, saying he apologised for the prior leadership's conduct and that the earlier office was intentionally set up to block, stonewall and suppress information.",
-"tier": "A"
+"text": "Luna and Burlison review the second tranche with Kosloski. Luna then backs him publicly, saying he apologised for the prior leadership's conduct and that the earlier office was intentionally set up to block, stonewall and suppress information."
 },
 {
+"claimTier": null,
 "date": "2026-06-15",
+"grade": "B",
 "id": "pc-2026-06-board",
 "label": "Interagency UAP Governance Board convenes",
 "precision": "day",
 "strand": "oversight",
-"text": "ODNI, with the FBI and the Department of War, stands up a UAP Governance Board to coordinate investigation and declassification in support of AARO, with outside science advisory groups attached. No published charter provision addresses contractor holdings.",
-"tier": "B"
+"text": "ODNI, with the FBI and the Department of War, stands up a UAP Governance Board to coordinate investigation and declassification in support of AARO, with outside science advisory groups attached. No published charter provision addresses contractor holdings."
 }
 ],
 "unexplainedResidual": "The FY2025 Virginia coast event - approximately 100 airborne UAP plus two likely uncrewed surface systems observed by Navy assets - remains open in AARO's own report.",

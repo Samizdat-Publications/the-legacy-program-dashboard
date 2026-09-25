@@ -47,6 +47,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -478,11 +479,7 @@
 "deg": 18,
 "denials": [],
 "desc": "NASA was created by the National Aeronautics and Space Act of 1958 as an explicitly civilian agency, and for six decades its institutional answer on UFOs was that the subject belonged to the Air Force. That changed on 9 June 2022, when NASA announced an independent study of unidentified anomalous phenomena, and on 14 September 2023, when it published the 'Unidentified Anomalous Phenomena Independent Study Team Report'. The 16-member panel was chaired by Dr David Spergel of the Simons Foundation and included Dr Anamaria Berea, Dr Federica Bianco, Dr David Grinspoon and the retired NASA astronaut Captain Scott Kelly. The report's findings are notable less for what they concluded about UAP than for what they conceded about the data problem: that 'much of the data collected by military sensors or intelligence satellites are classified', that structured data curation 'plays a pivotal role' and is largely absent, and that NASA's Earth-observing fleet and the U.S. commercial remote-sensing industry have 'the collective potential to directly resolve UAP events'. In the foreword, Associate Administrator for the Science Mission Directorate Dr Nicola Fox announced that 'NASA is appointing a Director of UAP Research to centralize communications'. NASA's leverage on this board is that it is the one agency with world-class sensing capability, a statutory public mission and no SAP equity in the alleged recovery enterprise - which makes it the most plausible venue for an unclassified evidentiary standard, and the agency most conspicuously kept at arm's length from the classified holdings.",
-"domains": [
-"disclosure-project-2026-09-19",
-"propulsion-2026-09-19",
-"w2-agencies"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -704,7 +701,13 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "NASA",
+"sourceFiles": [
+"disclosure-project-2026-09-19",
+"propulsion-2026-09-19",
+"w2-agencies"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -734,25 +737,28 @@
 ],
 "sub": "Civil space agency; host of the 2023 UAP Independent Study Team",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 101 of 1170, score 63). 18 connections, 4 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 102 of 1170, score 63). 18 connections, 4 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1966-08-10",
+"grade": "A",
 "id": "tl-1966-08-10-lunar-orbiter-1",
 "label": "Lunar Orbiter 1 launched; programme managed by NASA Langley Research Center",
 "precision": "day",
 "strand": "program",
-"text": "NASA's NSSDCA master catalogue records the launch of Lunar Orbiter 1 on 10 August 1966, photographic data acquired from 18 to 29 August 1966, and that 'The Lunar Orbiter program was managed by NASA Langley Research Center'. This is the agency record against which Karl Wolfe's account of seeing Lunar Orbiter mosaics at an NSA facility on Langley Air Force Base must be measured.",
-"tier": "A"
+"text": "NASA's NSSDCA master catalogue records the launch of Lunar Orbiter 1 on 10 August 1966, photographic data acquired from 18 to 29 August 1966, and that 'The Lunar Orbiter program was managed by NASA Langley Research Center'. This is the agency record against which Karl Wolfe's account of seeing Lunar Orbiter mosaics at an NSA facility on Langley Air Force Base must be measured."
 },
 {
+"claimTier": null,
 "date": "2023-09-14",
+"grade": "A",
 "id": "ag-tl-2023-nasa",
 "label": "NASA publishes the Independent Study Team report",
 "precision": "day",
 "strand": "oversight",
-"text": "Spergel's 16-member panel concedes that 'much of the data collected by military sensors or intelligence satellites are classified' and Nicola Fox announces a NASA Director of UAP Research.",
-"tier": "A"
+"text": "Spergel's 16-member panel concedes that 'much of the data collected by military sensors or intelligence satellites are classified' and Nicola Fox announces a NASA Director of UAP Research."
 }
-]
+],
+"unverified": []
 }

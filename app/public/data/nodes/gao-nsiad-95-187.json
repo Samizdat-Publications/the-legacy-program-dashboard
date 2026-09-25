@@ -42,6 +42,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -120,7 +121,7 @@
 "edgeLabel": "The first statutory records mechanism descends from the destruction problem",
 "id": "rg-615-uap-records",
 "l0": false,
-"label": "NARA Record Group 615 — UAP Records Collection",
+"label": "NARA Record Group 615 - UAP Records Collection",
 "note": "RG 615 was created under PL 118-31 sections 1841-1843 after decades in which the only auditable finding was GAO's: that the relevant legacy records had been destroyed with no recorded authority.",
 "sources": [
 {
@@ -196,6 +197,14 @@
 "deg": 6,
 "denials": [
 {
+"a": {
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
 "by": {
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
@@ -206,7 +215,7 @@
 "note": "The report reaffirms the MOGUL conclusion without engaging GAO's 1995 finding that the relevant base records were destroyed with no disposition authority — the gap that makes the conclusion untestable.",
 "of": {
 "id": "gao-nsiad-95-187",
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
 },
 "sources": [
 {
@@ -223,9 +232,7 @@
 }
 ],
 "desc": "The most important single document in this domain and the one that survives any hostile audit. Requested by Rep. Steven H. Schiff after the Defense Department refused to answer him, the General Accounting Office worked the file from March 1994 to June 1995 and reported on 28 July 1995. GAO searched Air Force, Army, Navy, Defense Department, CIA, FBI, NSA, National Security Council and National Archives holdings. Its findings on the record itself are unambiguous and are stated in the government's own auditing language: 'RAAF outgoing messages (from Oct. 1946 through Dec. 1949) were destroyed', and RAAF administrative records from March 1945 through December 1949 were destroyed, and — the sentence this board treats as central — 'The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.' Federal records are not destroyed without disposition authority; that is the entire premise of the Federal Records Act. GAO also recorded the FBI's 8 July 1947 teletype from Dallas describing the recovery of 'a hexagonal-shaped disc suspended from a large balloon by cable', and the CIA Executive Director's statement that a search against 'Roswell, New Mexico' in all CIA databases produced no documents. Thirty-one years later no accountability review of the destruction has ever been conducted.",
-"domains": [
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -355,10 +362,14 @@
 "hl": null,
 "id": "gao-nsiad-95-187",
 "l0": false,
-"label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "locLabel": null,
 "members": null,
-"short": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"openQuestions": [],
+"short": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"sourceFiles": [
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "1995-07-28",
@@ -373,16 +384,18 @@
 ],
 "sub": "General Accounting Office report, 28 July 1995",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 174 of 1170, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 173 of 1170, score 49). 6 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1995-07-28",
+"grade": "A",
 "id": "tl-1995-07-28",
 "label": "GAO finds the records destroyed",
 "precision": "day",
 "strand": "oversight",
-"text": "GAO reports that RAAF outgoing messages (Oct 1946 - Dec 1949) and administrative records (Mar 1945 - Dec 1949) were destroyed, and that the disposition form does not record who destroyed them, when, or under what authority.",
-"tier": "A"
+"text": "GAO reports that RAAF outgoing messages (Oct 1946 - Dec 1949) and administrative records (Mar 1945 - Dec 1949) were destroyed, and that the disposition form does not record who destroyed them, when, or under what authority."
 }
-]
+],
+"unverified": []
 }

@@ -32,6 +32,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "The Office of Naval Research was created by Act of Congress on 1 August 1946, the same day as the Atomic Energy Act of 1946, inside the Office of the Secretary of the Navy. It is headed by a Chief of Naval Research appointed by the President with the advice and consent of the Senate, advised by a civilian Naval Research Advisory Committee of up to fifteen preeminent scientists, and it holds the Navy's authority over patents, inventions and royalties. The Act frees its research contracting from five named sections of the Revised Statutes and from performance bonds, lets appropriated research funds stay available for four further years, and authorises the transfer to it of the Naval Research Laboratory and the Special Devices Division.",
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -98,7 +97,11 @@
 "label": "Office of Naval Research",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Office of Naval Research",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "1946-08-01",
@@ -108,16 +111,18 @@
 ],
 "sub": "Created 1 August 1946 in the Office of the Secretary of the Navy; the Navy's research contracting authority",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 560 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 559 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1946-08-01",
+"grade": "B",
 "id": "tl-1946-08-01-office-of-naval-research",
 "label": "The Office of Naval Research is created, the same day as the Atomic Energy Act",
 "precision": "day",
 "strand": "program",
-"text": "Public Law 79-588, 60 Stat. 779, establishes an Office of Naval Research in the Office of the Secretary of the Navy, headed by a Chief of Naval Research appointed by the President with the advice and consent of the Senate. Section 6 frees its research contracting from five named sections of the Revised Statutes and from performance bonds; section 5(b) keeps obligated research appropriations available four further years. It carries the same approval date as the Atomic Energy Act of 1946 at 60 Stat. 755, not a date two days later.",
-"tier": "B"
+"text": "Public Law 79-588, 60 Stat. 779, establishes an Office of Naval Research in the Office of the Secretary of the Navy, headed by a Chief of Naval Research appointed by the President with the advice and consent of the Senate. Section 6 frees its research contracting from five named sections of the Revised Statutes and from performance bonds; section 5(b) keeps obligated research appropriations available four further years. It carries the same approval date as the Atomic Energy Act of 1946 at 60 Stat. 755, not a date two days later."
 }
-]
+],
+"unverified": []
 }

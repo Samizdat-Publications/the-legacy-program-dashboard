@@ -17,6 +17,7 @@
 ],
 "cls": "institution",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -46,9 +47,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Solari, Inc. is the company founded by Catherine Austin Fitts which publishes the Solari Report and maintains the Missing Money archive at missingmoney.solari.com, where the September 2017 Skidmore-Fitts summary report and its supporting documentation are hosted. Solari's own framing of the material - 'the $21 Trillion dollars missing from the U.S. government' - is precisely the formulation that the underlying report does not support and that makes the analysis unusable in a hostile setting. The archive itself, however, is valuable: it preserves links to Inspector General documents whose original government URLs have been retired, and it is the only consolidated index of the underlying reports. A researcher should use Solari as a document repository and go to the primary reports it links, not adopt its framing.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -62,7 +61,11 @@
 "label": "Solari, Inc. / The Solari Report",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Solari, Inc. / The Solari Report",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -83,5 +86,6 @@
 "sub": "Publisher; host of the Missing Money archive and co-publisher of the Skidmore-Fitts compilation",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1146 of 1170, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

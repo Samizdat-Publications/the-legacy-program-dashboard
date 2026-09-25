@@ -42,6 +42,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -118,9 +119,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Nixon's classification order, which superseded EO 10501 and for the first time put classified material on an automatic downgrading and declassification timetable, added a thirty-year rule, and created a standing interagency committee that could take complaints from outside the government.",
-"domains": [
-"nsc-eo-spine-2026-09-19"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -134,7 +133,11 @@
 "label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
+"sourceFiles": [
+"nsc-eo-spine-2026-09-19"
+],
 "sources": [
 {
 "date": "2026-09-19",
@@ -149,16 +152,18 @@
 ],
 "sub": "Executive order; the General Declassification Schedule, the thirty-year rule, and the first standing classification oversight committee",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 412 of 1170, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 415 of 1170, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "1972-03-08",
+"grade": null,
 "id": "spine-tl-1972-11652",
 "label": "EO 11652 puts classified material on an automatic declassification timetable",
 "precision": "day",
 "strand": "oversight",
-"text": "Nixon signs EO 11652, effective 1 June 1972, superseding EO 10501 and six amending orders. It creates the General Declassification Schedule, under which Top Secret declassifies after ten years and Confidential after six, adds a thirty-year rule that only a Department head can override in writing, and creates an Interagency Classification Review Committee under the NSC that takes complaints from outside the government.",
-"tier": 1
+"text": "Nixon signs EO 11652, effective 1 June 1972, superseding EO 10501 and six amending orders. It creates the General Declassification Schedule, under which Top Secret declassifies after ten years and Confidential after six, adds a thirty-year rule that only a Department head can override in writing, and creates an Interagency Classification Review Committee under the NSC that takes complaints from outside the government."
 }
-]
+],
+"unverified": []
 }

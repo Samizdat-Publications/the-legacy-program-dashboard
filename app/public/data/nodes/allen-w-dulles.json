@@ -173,18 +173,20 @@
 "deg": 6,
 "denials": [
 {
-"by": {
+"a": {
 "id": "allen-w-dulles",
 "label": "Allen W. Dulles"
 },
+"b": {
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"by": null,
 "claimTier": 1,
 "denialKind": null,
 "label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
 "note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
-"of": {
-"id": "robertson-panel",
-"label": "Robertson Panel"
-},
+"of": null,
 "sources": [
 {
 "date": "1953-03-13",
@@ -195,7 +197,8 @@
 }
 ],
 "domains": [
-"michels-2026-09-02"
+"d-intel",
+"d-denial"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -216,6 +219,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Allen W. Dulles",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1953-03-13",
@@ -246,7 +252,7 @@
 "status": "dead",
 "sub": "Director of Central Intelligence; signed the CIA's distancing letters on the Robertson Panel report",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 276 of 1170, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 277 of 1170, score 40). 6 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

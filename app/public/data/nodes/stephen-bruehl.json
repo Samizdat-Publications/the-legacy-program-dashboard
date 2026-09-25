@@ -91,7 +91,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"scientists-technical"
+"d-research",
+"d-astro",
+"d-legacy"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -112,6 +114,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Stephen Bruehl",
+"sourceFiles": [
+"scientists-technical"
+],
 "sources": [
 {
 "date": "2025-10-20",

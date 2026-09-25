@@ -173,18 +173,20 @@
 "deg": 4,
 "denials": [
 {
-"by": {
+"a": {
 "id": "nathan-twining",
 "label": "Nathan F. Twining"
 },
+"b": {
+"id": "project-mogul",
+"label": "Project MOGUL"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "The AMC commander's 1947 assessment predates and undercuts the MOGUL account",
 "note": "Twining wrote in September 1947 that the phenomenon was real while noting the lack of recovered exhibits; the Air Force's 1994 position requires that his own command's exploitation centre never connected the wave to a programme it was cleared for.",
-"of": {
-"id": "project-mogul",
-"label": "Project MOGUL"
-},
+"of": null,
 "sources": [
 {
 "date": "1947-09-23",
@@ -200,8 +202,9 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"history-1940s-1960s"
+"d-legacy",
+"d-coverup",
+"d-recovery"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -222,6 +225,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Nathan F. Twining",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "2026-07-06",
@@ -247,7 +254,7 @@
 "status": "dead",
 "sub": "Cmdr, Air Materiel Command; later CJCS",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 329 of 1170, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 328 of 1170, score 37). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

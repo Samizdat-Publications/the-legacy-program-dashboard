@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -103,9 +104,7 @@
 "deg": 3,
 "denials": [],
 "desc": "On 21 July 2026 DefenseScoop reported that AARO was investigating a US Navy report of approximately 100 airborne unidentified anomalous phenomena together with two likely uncrewed surface systems off the coast of Virginia. It is the sole maritime case among the 319 reports recorded in AARO's FY2025 Consolidated Annual Report, published 21 July 2026 - meaning it surfaced publicly on the same day as the report that contains it. Its properties are the ones AARO's methodology cannot dispose of by the usual route: it is not a single fleeting object but a mass event with a simultaneous surface component, reported by Navy assets, in a home-waters operating area adjacent to the largest concentration of US naval infrastructure in the world. AARO's stated position is that the case is open and being worked in coordination with the reporting unit, and its stated constraint is the standing one: 'A lack of timely and actionable sensor data continues to constrain AARO's ability to resolve cases.' The Pentagon declined to provide further information when asked. No case number, incident date, hull or squadron has been made public.",
-"domains": [
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -119,7 +118,11 @@
 "label": "Navy UAP event off the Virginia coast (reported July 2026)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Navy UAP event off the Virginia coast (reported July 2026)",
+"sourceFiles": [
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-07-21",
@@ -132,13 +135,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 990 of 1170, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D2.",
 "timeline": [
 {
+"claimTier": 2,
 "date": "2026-07-21",
+"grade": null,
 "id": "tl-virginia-2026",
 "label": "Navy reports ~100 UAP and two uncrewed surface systems off Virginia",
 "precision": "day",
 "strand": "witness",
-"text": "Disclosed the same day AARO's FY2025 annual report appeared; the sole maritime case in that report; no case number, date, hull or unit made public.",
-"tier": "2"
+"text": "Disclosed the same day AARO's FY2025 annual report appeared; the sole maritime case in that report; no case number, date, hull or unit made public."
 }
-]
+],
+"unverified": []
 }

@@ -65,7 +65,7 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"ffrdcs"
+"d-ffrdc"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -86,6 +86,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Robert R. Everett",
+"sourceFiles": [
+"ffrdcs"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -106,7 +109,7 @@
 "status": "dead",
 "sub": "First Technical Director and later President of The MITRE Corporation; previously associate director of MIT Lincoln Laboratory Division 6 (Project Whirlwind / SAGE)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 936 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 935 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

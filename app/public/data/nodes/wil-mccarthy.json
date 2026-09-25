@@ -100,9 +100,7 @@
 "dateStart": "2010-01-01",
 "deg": 2,
 "denials": [],
-"domains": [
-"w7-dirds-1"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -122,6 +120,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Wil McCarthy",
+"sourceFiles": [
+"w7-dirds-1"
+],
 "sources": [
 {
 "date": null,

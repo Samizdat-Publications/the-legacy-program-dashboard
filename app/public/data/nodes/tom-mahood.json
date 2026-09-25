@@ -154,6 +154,14 @@
 "deg": 5,
 "denials": [
 {
+"a": {
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"id": "bob-lazar",
+"label": "Robert \"Bob\" Lazar"
+},
 "by": {
 "id": "tom-mahood",
 "label": "Tom Mahood"
@@ -180,6 +188,14 @@
 ]
 },
 {
+"a": {
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"id": "element-115-claim",
+"label": "Element 115: the Lazar claim and moscovium"
+},
 "by": {
 "id": "tom-mahood",
 "label": "Tom Mahood"
@@ -201,6 +217,14 @@
 ]
 },
 {
+"a": {
+"id": "tom-mahood",
+"label": "Tom Mahood"
+},
+"b": {
+"id": "s-4-papoose-lake",
+"label": "S-4 / Papoose Lake, Nevada"
+},
 "by": {
 "id": "tom-mahood",
 "label": "Tom Mahood"
@@ -222,9 +246,7 @@
 ]
 }
 ],
-"domains": [
-"lazar-s4-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -244,6 +266,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Tom Mahood",
+"sourceFiles": [
+"lazar-s4-2026-09-18"
+],
 "sources": [
 {
 "date": "2026-09-18",
@@ -274,7 +299,7 @@
 "status": "alive",
 "sub": "Retired civil and traffic engineer with an MS in physics; author of the otherhand.org Lazar investigation, the most detailed documentary examination of the account in existence",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 315 of 1170, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 313 of 1170, score 38). 5 connections, 2 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -27,12 +27,13 @@
 ],
 "cls": "program",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
 "cls": "institution",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2026",
+"dateStart": "2025",
 "direction": "in",
 "edgeLabel": "AARO's own small video release channel, Dec 2025 - Jan 2026",
 "id": "aaro",
@@ -108,10 +109,7 @@
 "deg": 3,
 "denials": [],
 "desc": "AARO's parallel and much smaller video release channel, published on its Official UAP Imagery page. Between 4 December 2025 and 6 January 2026 it put out seven numbered items: PR-016, PR-017 and PR-018 on 4 December 2025; PR-012, PR-014 and PR-015 on 9 December 2025; PR-011 and PR-013 on 6 January 2026. All are infrared or cellular-camera footage of incidents in Europe between 2021 and 2024, ranging from thirteen to fifty-five seconds. Their dispositions are the AARO idiom in miniature: PR-016 resolved as 'almost certainly (>95% likelihood) birds' on morphological and behavioural grounds; PR-017 declared insufficient for a determination; the rest assessed as physical objects with unremarkable characteristics, unresolved, with analysis ongoing. The page also carries the older canon - GIMBAL, FLIR, Go Fast, the 2013 Puerto Rico Customs and Border Protection object resolved as two objects moving at wind speed. Two facts about this channel matter. It began five weeks after the September 2025 hearing at which witnesses testified AARO holds unreleased video. And it produced seven short European clips in five weeks, then stopped - four months before the Department of War published 96 sensor videos across three tranches.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "Full ledger of AARO's own numbered imagery releases as listed on its Official UAP Imagery page, accessed 12 August 2026. 4 December 2025: PR-016 (2023, Europe, infrared, resolved as almost certainly >95% likelihood birds), PR-017 (2024, Europe, insufficient for a determination), PR-018 (2024, Europe, physical object). 9 December 2025: PR-012, PR-014, PR-015 (all 2022, Europe, infrared, 13-55 seconds, physical objects with unremarkable characteristics, unresolved). 6 January 2026: PR-011 (2021, Europe, infrared, analysis of physical attributes and performance characteristics ongoing) and PR-013 (2022, Europe, twenty seconds of infrared from a US military platform, assessed as a physical object, unresolved). The page also carries the legacy canon: GIMBAL, FLIR and Go Fast, all unresolved, and the 26 April 2013 Puerto Rico Customs and Border Protection infrared object, resolved as two objects travelling near each other at wind speed.",
@@ -134,7 +132,12 @@
 "label": "AARO Official UAP Imagery releases (PR series)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO Official UAP Imagery releases (PR series)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-05-14",
@@ -159,34 +162,38 @@
 ],
 "sub": "AARO's own video releases, Dec 2025 - Jan 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 527 of 1170, score 30). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 522 of 1170, score 30). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-12-04",
+"grade": "B",
 "id": "rel-2025-12-04",
 "label": "AARO releases PR-016, PR-017, PR-018",
 "precision": "day",
 "strand": "program",
-"text": "Five weeks after the hearing, AARO begins publishing official UAP imagery: short European infrared clips, one resolved as birds at >95% likelihood, one declared insufficient for a determination.",
-"tier": "B"
+"text": "Five weeks after the hearing, AARO begins publishing official UAP imagery: short European infrared clips, one resolved as birds at >95% likelihood, one declared insufficient for a determination."
 },
 {
+"claimTier": null,
 "date": "2025-12-09",
+"grade": "B",
 "id": "rel-2025-12-09",
 "label": "AARO releases PR-012, PR-014, PR-015",
 "precision": "day",
 "strand": "program",
-"text": "Three more infrared sensor videos of 2022 European incidents, 13 to 55 seconds each, all assessed as physical objects with unremarkable characteristics and left unresolved.",
-"tier": "B"
+"text": "Three more infrared sensor videos of 2022 European incidents, 13 to 55 seconds each, all assessed as physical objects with unremarkable characteristics and left unresolved."
 },
 {
+"claimTier": null,
 "date": "2026-01-06",
+"grade": "B",
 "id": "rel-2026-01-06",
 "label": "AARO releases PR-011 and PR-013",
 "precision": "day",
 "strand": "program",
-"text": "The office's last imagery release before PURSUE: two more European infrared clips from 2021 and 2022, both unresolved, analysis ongoing.",
-"tier": "B"
+"text": "The office's last imagery release before PURSUE: two more European infrared clips from 2021 and 2022, both unresolved, analysis ongoing."
 }
-]
+],
+"unverified": []
 }

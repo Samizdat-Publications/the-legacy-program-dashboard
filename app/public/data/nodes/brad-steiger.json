@@ -49,9 +49,7 @@
 "dateStart": null,
 "deg": 1,
 "denials": [],
-"domains": [
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -71,6 +69,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Brad Steiger",
+"sourceFiles": [
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "1998-02-04",

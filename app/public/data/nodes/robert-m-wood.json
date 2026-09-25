@@ -71,7 +71,9 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"w2-retrieval-literature"
+"d-recovery",
+"d-mj12",
+"d-contractor"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -92,6 +94,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Dr. Robert M. Wood",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -107,7 +112,7 @@
 "status": "active",
 "sub": "PhD physics; 43 years at McDonnell Douglas; co-principal, The Majestic Documents",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 945 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 944 of 1170, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -37,6 +37,7 @@
 ],
 "cls": "event",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -170,10 +171,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The fifth and most recent tranche, published 7 August 2026: 41 files comprising 16 videos, 22 documents and 3 images, with a 130MB document bundle and a 513MB video bundle. The portal states the span as 1953 to 2026; the underlying content reaches back to 1950. Its centrepiece is the Gulf of Oman incident of 8 September 2021 - six videos from an AC-130J gunship together with intelligence report DOW-UAP-D101 documenting approximately 25 instances of UAP, described as cold orbs roughly four feet in diameter flying at between 250 and 1,300 mph at low altitude, and reported as reacting to the aircraft's cannon fire. That is a US military gunship engaging unidentified objects and recording their response, released by the Department that engaged them. The tranche also contains DOW-UAP-PR134, a January 2025 video of a small orb over a residential area in the Middle East; FBI-UAP-D031, a black triangular craft with a red light at each corner near a military base at Colorado Springs in October 2023; digital renderings of triangular UAP sightings from 2002, 2011 and 2023; a CIA report on an alleged November 1963 Brazil recovery of a metal sphere containing a deceased occupant in a spacesuit, subsequently deemed unsubstantiated by the American Consulate; and a 1953 US Navy Photographic Interpretation Center analysis of the 1950 Great Falls, Montana and 1952 Tremonton, Utah films. The Navy PIC finding is the most consequential single document in the entire PURSUE corpus: after more than a thousand hours of frame analysis, the Navy's own photo interpreters assessed the Utah objects as bright, silvery reflective disks that were self-luminous and intelligently controlled and inconsistent with natural phenomena or commonly known aerospace technologies. That is an affirmative technical finding by a US Navy analytic unit, released by the Department of War in 2026, and it directly contradicts the disposition the same films received from the Robertson Panel in January 1953.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -187,7 +185,12 @@
 "label": "PURSUE Release 05",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "PURSUE Release 05",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -207,16 +210,18 @@
 ],
 "sub": "7 August 2026; 41 files (16 videos, 22 documents, 3 images); 1950/1953-2026",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 127 of 1170, score 55). 5 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 129 of 1170, score 55). 5 connections, 5 of them custody/funding/programmatic. Axes C2/A3/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2026-08-07",
+"grade": null,
 "id": "tl-pursue-r05",
 "label": "PURSUE Release 05: the Gulf of Oman gunship engagement",
 "precision": "day",
 "strand": "program",
-"text": "41 files - 16 videos, 22 documents, 3 images - including six AC-130J videos and DOW-UAP-D101 on the 8 September 2021 Gulf of Oman encounter, and the 1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films.",
-"tier": "1"
+"text": "41 files - 16 videos, 22 documents, 3 images - including six AC-130J videos and DOW-UAP-D101 on the 8 September 2021 Gulf of Oman encounter, and the 1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films."
 }
-]
+],
+"unverified": []
 }

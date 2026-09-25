@@ -475,7 +475,7 @@ Agency: OSD. Status: not filed.
 
 Where it goes: OSD/JS FOIA Requester Service Center, with routing to DoD SAPCO for equity review. Expect a referral. File it anyway, because a referral creates a dated record that the document was located.
 
-It covers 5 nodes on the board: All-domain Anomaly Resolution Office (AARO), AARO FY2025 Consolidated Annual Report on UAP, Carve-Out Provision (DCSA relief from NISP oversight), DoD Special Access Program Central Office (DoD SAPCO), 10 U.S.C. 119, Special Access Programs: Congressional Oversight.
+It covers 5 nodes on the board: All-domain Anomaly Resolution Office (AARO), AARO FY2025 Consolidated Annual Report on UAP, Carve-Out Provision (DCSA relief from NISP oversight), DoD Special Access Program Central Office (DoD SAPCO), 10 U.S.C. 119 - Special Access Programs: Congressional Oversight.
 
 ### All-domain Anomaly Resolution Office (AARO)
 
@@ -503,7 +503,7 @@ What this request asks, taken from the open questions on that node:
 - Who succeeded Abba as Director of DoD SAPCO and what that officer has told Congress about UAP.
 - What the July 11, 2023 SAP Enterprise Reform memorandum actually directed, given that it has now been cancelled and absorbed into DoDD 5205.07 without separate publication.
 
-### 10 U.S.C. 119, Special Access Programs: Congressional Oversight
+### 10 U.S.C. 119 - Special Access Programs: Congressional Oversight
 
 What this request asks, taken from the open questions on that node:
 

@@ -42,6 +42,7 @@
 ],
 "cls": "program",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -328,6 +329,14 @@
 "deg": 12,
 "denials": [
 {
+"a": {
+"id": "condon-committee",
+"label": "University of Colorado UFO Project (Condon Committee)"
+},
+"b": {
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
 "by": {
 "id": "condon-committee",
 "label": "University of Colorado UFO Project (Condon Committee)"
@@ -350,10 +359,7 @@
 }
 ],
 "desc": "The Condon Committee was the Air Force's exit vehicle. Formed on 6 October 1966 under contract 44620-67-C-0035 with the University of Colorado at a cost of around half a million dollars, and directed by physicist Edward Condon, it produced 'Scientific Study of Unidentified Flying Objects', delivered in November 1968 and released publicly in January 1969. Condon's personally written conclusions declared that further study of UFOs could not be justified. The Air Force used those conclusions, blessed by a National Academy of Sciences panel chaired by Gerald Clemence, to terminate Project Blue Book on 17 December 1969. The project's integrity had been compromised before it began: project coordinator Robert Low wrote on 9 August 1966, two months before the contract was let, that 'the trick would be' to describe the project so that to the public it would appear a totally objective study while presenting to the scientific community the image of a group of nonbelievers. When staff investigators David Saunders and Norman Levine surfaced the memo and it reached Look magazine in May 1968, Condon fired them. The report is nonetheless a load-bearing primary source for this board, because buried in Section V Chapter 2 it documents the 1948 Estimate of the Situation and its destruction by Gen. Vandenberg — the Air Force paying to have its own suppression put on the record while the front matter told the public there was nothing to study.",
-"domains": [
-"_rs-archive-mirror",
-"history-1940s-1960s"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -362,9 +368,9 @@
 "tier": 1
 },
 {
-"source": "https://files.ncas.org/condon/text/sec-ii.htm (Condon Report, Section II.1); total funding figure per https://en.wikipedia.org/wiki/Condon_Committee",
+"source": "https://files.ncas.org/condon/text/sec-ii.htm (Condon Report, Section II.1); total funding figure per https://en.wikipedia.org/wiki/Condon_Committee - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The first AFOSR research contract provided $313,000 for the first fifteen months, 1 November 1966 to 31 January 1968, and was publicly announced on 7 October 1966; total funding later rose above $500,000.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://files.ncas.org/condon/text/sec-ii.htm (Condon Report, Section II.1)",
@@ -525,7 +531,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "University of Colorado UFO Project",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1940s-1960s"
+],
 "sources": [
 {
 "date": "2025-07-12",
@@ -560,25 +571,28 @@
 ],
 "sub": "USAF contract 44620-67-C-0035 (1966-1969)",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 145 of 1170, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 146 of 1170, score 53). 13 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1966-10-06",
+"grade": "A",
 "id": "tl-1966-10-06",
 "label": "Condon Committee established",
 "precision": "day",
 "strand": "program",
-"text": "The University of Colorado UFO Project is formed under USAF contract 44620-67-C-0035 with Edward Condon as scientific director.",
-"tier": "A"
+"text": "The University of Colorado UFO Project is formed under USAF contract 44620-67-C-0035 with Edward Condon as scientific director."
 },
 {
+"claimTier": null,
 "date": "1969-01-08",
+"grade": "A",
 "id": "tl-1969-01-08",
 "label": "Condon Report released",
 "precision": "day",
 "strand": "coverup",
-"text": "'Scientific Study of Unidentified Flying Objects' concludes further study is unwarranted, while its Section V Chapter 2 documents the 1948 Estimate of the Situation and its destruction.",
-"tier": "A"
+"text": "'Scientific Study of Unidentified Flying Objects' concludes further study is unwarranted, while its Section V Chapter 2 documents the 1948 Estimate of the Situation and its destruction."
 }
-]
+],
+"unverified": []
 }

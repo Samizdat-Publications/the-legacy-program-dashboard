@@ -64,9 +64,7 @@
 "dateStart": "1954-10-22",
 "deg": 1,
 "denials": [],
-"domains": [
-"area52-2026-09-02"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -86,6 +84,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Detlev W. Bronk",
+"sourceFiles": [
+"area52-2026-09-02"
+],
 "sources": [
 {
 "date": "2026-09-02",

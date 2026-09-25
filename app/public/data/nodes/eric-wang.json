@@ -116,7 +116,8 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"legacy-1947-86"
+"d-research",
+"d-legacy"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -137,6 +138,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Eric H. Wang",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "2024-11-15",
@@ -177,7 +181,7 @@
 "status": "dead",
 "sub": "Chief, Special Studies Office, Installations Division, Air Materiel Command; later Chief, Structures Division, AFSWC Kirtland",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 316 of 1170, score 38). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 314 of 1170, score 38). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

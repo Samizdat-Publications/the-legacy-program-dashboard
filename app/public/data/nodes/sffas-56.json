@@ -47,6 +47,7 @@
 ],
 "cls": "document",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -139,9 +140,7 @@
 "deg": 4,
 "denials": [],
 "desc": "Statement of Federal Financial Accounting Standards 56, 'Classified Activities', is the single most consequential documented change to the mechanics of federal financial concealment in the modern era, and it is entirely public, dated and citable. Issued by the Federal Accounting Standards Advisory Board on 4 October 2018 and effective for reporting periods beginning after 30 September 2018, it does for accounting what a special access program does for information: it creates a lawful, standards-blessed route by which the numbers a citizen reads in a government financial statement need not be the numbers in the books. Paragraph 8 permits an entity to 'modify information required by other standards if the effect of the modification does not change the net results of operations or net position', to have a component reporting entity 'excluded from one reporting entity and consolidated into another reporting entity', and to apply Board Interpretations allowing further modifications. Paragraph 9 defines 'modify' with unusual candour: 'Presenting amounts associated with one financial statement line item in another financial statement line item but not presenting narrative explaining the modification', and 'Omitting required disclosures, RSI, or RSSI that would otherwise reveal classified information.' Paragraph 12 requires component entities to disclose that the standards permit such modifications while expressly forbidding them to disclose whether they applied the Statement; paragraph 13 applies the same rule government-wide, requiring only the statement that 'modifications may have been made to certain presentations' and prohibiting identification of which Interpretations were used. The Board's Basis for Conclusions explains the reasoning: identifying which entities applied the standard 'would reveal classified information' and would let users track changes over time. The Department of Defense identified the need for the standard in August 2016 - two months after the DoD Inspector General published the Army General Fund adjustments report - citing the conflict between generally accepted accounting principles and classification obligations under Executive Order 13526. The standard does not authorise misstatement of net position at the consolidated level except through the consolidation route in paragraph 8(b), and it does not restrict cleared auditors, who continue to see the unmodified figures in appropriate environments. What it authorises is precisely the thing this board is about: a published number that is deliberately in the wrong place, with no note telling the reader that it has been moved.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -155,7 +154,11 @@
 "label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2018-10-04",
@@ -170,43 +173,48 @@
 ],
 "sub": "Federal accounting standard authorising modification of public financial reports to protect classified information",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 227 of 1170, score 44). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 226 of 1170, score 44). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2016-08",
+"grade": "A",
 "id": "bb-tl-2016-08-dodask",
 "label": "DoD asks FASAB for a classified-reporting standard",
 "precision": "month",
 "strand": "coverup",
-"text": "Two months after the Army adjustments report, the Department of Defense identifies to the Federal Accounting Standards Advisory Board the need for a standard reconciling generally accepted accounting principles with classification obligations under Executive Order 13526. That request becomes SFFAS 56.",
-"tier": "A"
+"text": "Two months after the Army adjustments report, the Department of Defense identifies to the Federal Accounting Standards Advisory Board the need for a standard reconciling generally accepted accounting principles with classification obligations under Executive Order 13526. That request becomes SFFAS 56."
 },
 {
+"claimTier": null,
 "date": "2017-12-14",
+"grade": "A",
 "id": "bb-tl-2017-12-14-ed",
 "label": "FASAB issues the exposure draft for SFFAS 56",
 "precision": "day",
 "strand": "coverup",
-"text": "The exposure draft of what becomes SFFAS 56 is issued on 14 December 2017 with comments requested by 16 March 2018. FASAB receives seventeen responses from preparers, auditors and professional associations. Seventeen comment letters is the entirety of the public deliberation on a standard authorising modified public financial reporting across the federal government.",
-"tier": "A"
+"text": "The exposure draft of what becomes SFFAS 56 is issued on 14 December 2017 with comments requested by 16 March 2018. FASAB receives seventeen responses from preparers, auditors and professional associations. Seventeen comment letters is the entirety of the public deliberation on a standard authorising modified public financial reporting across the federal government."
 },
 {
+"claimTier": null,
 "date": "2018-09-30",
+"grade": "A",
 "id": "bb-tl-2018-09-30-eff",
 "label": "SFFAS 56 effective date",
 "precision": "day",
 "strand": "coverup",
-"text": "The standard takes effect for reporting periods beginning after 30 September 2018 - the first period following the Department of Defense's first full-scope financial statement audit.",
-"tier": "A"
+"text": "The standard takes effect for reporting periods beginning after 30 September 2018 - the first period following the Department of Defense's first full-scope financial statement audit."
 },
 {
+"claimTier": null,
 "date": "2018-10-04",
+"grade": "A",
 "id": "bb-tl-2018-10-04-sffas",
 "label": "SFFAS 56 'Classified Activities' issued",
 "precision": "day",
 "strand": "coverup",
-"text": "FASAB issues the standard permitting an entity to present amounts associated with one financial statement line item in another 'but not presenting narrative explaining the modification', to omit disclosures that would reveal classified information, and to move a component reporting entity from one consolidation to another. Paragraph 12 requires entities to disclose that such modifications are permitted while expressly forbidding them to disclose that they applied the Statement.",
-"tier": "A"
+"text": "FASAB issues the standard permitting an entity to present amounts associated with one financial statement line item in another 'but not presenting narrative explaining the modification', to omit disclosures that would reveal classified information, and to move a component reporting entity from one consolidation to another. Paragraph 12 requires entities to disclose that such modifications are permitted while expressly forbidding them to disclose that they applied the Statement."
 }
-]
+],
+"unverified": []
 }

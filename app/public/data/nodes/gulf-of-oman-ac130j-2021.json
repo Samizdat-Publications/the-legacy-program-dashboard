@@ -22,6 +22,7 @@
 ],
 "cls": "event",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -134,6 +135,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+"b": {
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
 "by": {
 "id": "aaro-fy2024-annual-report",
 "label": "AARO FY2024 Consolidated Annual Report on UAP"
@@ -166,10 +175,7 @@
 }
 ],
 "desc": "The most operationally significant single incident in the PURSUE corpus. On 8 September 2021 an AC-130J gunship over the Gulf of Oman encountered unidentified objects; the Department released six videos of the encounter together with intelligence report DOW-UAP-D101 in Release 05 on 7 August 2026. The report documents approximately 25 instances of UAP, describes them as cold orbs about four feet in diameter flying at low altitude at speeds between 250 and 1,300 mph, and records that the objects reportedly reacted to the aircraft's cannon fire. Every element of that is a category the government had previously kept out of the public record: a fixed-wing gunship, a weapons employment, a multiple-object event, an object reaction to ordnance, and a speed envelope. It is also a September 2021 incident released in August 2026 - which places it inside the reporting periods of the FY2023 and FY2024 AARO annual reports, neither of which describes anything resembling it, and behind the FY2024 report's finding that AARO's analytic constraint is a lack of timely and actionable sensor data.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -183,7 +189,12 @@
 "label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-08-10",
@@ -223,6 +234,7 @@
 ],
 "sub": "Six videos and DOW-UAP-D101; released in PURSUE Release 05",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 320 of 1170, score 38). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 319 of 1170, score 38). 4 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"timeline": [],
+"unverified": []
 }

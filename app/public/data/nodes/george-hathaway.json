@@ -171,11 +171,7 @@
 "dateStart": "2010-01-01",
 "deg": 3,
 "denials": [],
-"domains": [
-"propulsion-2026-09-19",
-"w7-dirds-3",
-"w7-dirds-4"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -195,6 +191,11 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "George D. Hathaway",
+"sourceFiles": [
+"propulsion-2026-09-19",
+"w7-dirds-3",
+"w7-dirds-4"
+],
 "sources": [
 {
 "date": "2010-03-30",

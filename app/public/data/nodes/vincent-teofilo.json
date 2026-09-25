@@ -121,9 +121,7 @@
 "dateStart": "2010-01-01",
 "deg": 3,
 "denials": [],
-"domains": [
-"w7-dirds-1"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -143,6 +141,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Vincent L. Teofilo",
+"sourceFiles": [
+"w7-dirds-1"
+],
 "sources": [
 {
 "date": null,

@@ -63,7 +63,8 @@
 "deg": 1,
 "denials": [],
 "domains": [
-"aawsap-aatip"
+"d-funding",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -84,6 +85,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Brian L. Jenkins",
+"sourceFiles": [
+"aawsap-aatip"
+],
 "sources": [
 {
 "date": "2018-01-09",

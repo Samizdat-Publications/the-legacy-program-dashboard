@@ -22,6 +22,7 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -98,6 +99,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "garry-reid-memo-2017",
+"label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "garry-reid-memo-2017",
 "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017"
@@ -125,10 +134,7 @@
 }
 ],
 "desc": "Two memoranda written by Garry Reid, Director for Defense Intelligence at OUSD(I), in the days after the New York Times story. The first is a memorandum for record titled as an update on media reporting related to AATIP and Luis Elizondo's actions; it states that Elizondo served as an action officer from 2008 to 2017 with no documented AATIP responsibilities, that the program terminated in 2012, and that he 'aggrandized his role', recording his abrupt resignation, his media appearances and the initiation of an investigation. The second answers six questions put by the Secretary of Defense's office around 23 December 2017 covering why Elizondo resigned abruptly, the 'uncertain provenance' of the second resignation letter, whether his claim of secretly working for the Secretary was credible, security concerns about the videos, the TTSA press conference, and the classification status of the footage. It notes that Elizondo gave three different rationales for resigning and that an AFOSI inquiry into possible mishandling of classified information was ongoing; AFOSI later determined the videos were unclassified and closed the matter. This is the founding document of the Department's counter-narrative, and it was written within a week of the story breaking.",
-"domains": [
-"_rs-archive-mirror",
-"elizondo-ttsa"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -142,7 +148,12 @@
 "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
+"sourceFiles": [
+"_rs-archive-mirror",
+"elizondo-ttsa"
+],
 "sources": [
 {
 "date": "2026-02-01",
@@ -167,16 +178,18 @@
 ],
 "sub": "OUSD(I) memorandum for record and memorandum for the Secretary of Defense",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 554 of 1170, score 29). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 552 of 1170, score 29). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-12-23",
+"grade": "A",
 "id": "tl-2017-12-23-reid-memo",
 "label": "Garry Reid memorandum to the Secretary",
 "precision": "day",
 "strand": "coverup",
-"text": "Reid answers six questions from the Secretary's office, asserts Elizondo 'aggrandized his role' and had 'no job responsibilities related to the AATIP', questions the second letter's 'uncertain provenance', and records an AFOSI inquiry.",
-"tier": "A"
+"text": "Reid answers six questions from the Secretary's office, asserts Elizondo 'aggrandized his role' and had 'no job responsibilities related to the AATIP', questions the second letter's 'uncertain provenance', and records an AFOSI inquiry."
 }
-]
+],
+"unverified": []
 }

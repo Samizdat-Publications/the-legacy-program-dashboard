@@ -140,6 +140,14 @@
 "deg": 3,
 "denials": [
 {
+"a": {
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson"
+},
+"b": {
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
 "by": {
 "id": "thomas-wilson",
 "label": "Thomas R. Wilson"
@@ -162,8 +170,9 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"history-1970s-2000s"
+"d-custody",
+"d-coverup",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -184,6 +193,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Thomas R. Wilson",
+"sourceFiles": [
+"_rs-archive-mirror",
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2026-07-05",
@@ -204,16 +217,17 @@
 "status": "active",
 "sub": "Vice Admiral USN (ret.); Director of Intelligence (J-2), Joint Staff 1994-1997; Director, Defense Intelligence Agency 1999-2002",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 617 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 612 of 1170, score 27). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1997-04-09",
+"grade": "C",
 "id": "t-1997-wilson",
 "label": "Wilson's alleged SAP inquiry begins",
 "precision": "day",
 "strand": "program",
-"text": "Per the Davis notes, Joint Staff J-2 Vice Admiral Thomas Wilson - prompted by the Disclosure Project's Washington briefings - begins trying to locate a special access programme holding recovered non-human material.",
-"tier": "C"
+"text": "Per the Davis notes, Joint Staff J-2 Vice Admiral Thomas Wilson - prompted by the Disclosure Project's Washington briefings - begins trying to locate a special access programme holding recovered non-human material."
 }
 ],
 "unexplainedResidual": "A retired DIA Director's denial and a named astrophysicist's contemporaneous notes cannot both be accurate. No agency has attempted to reconcile them in any published document.",

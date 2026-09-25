@@ -52,6 +52,7 @@
 ],
 "cls": "domain",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -62,7 +63,7 @@
 "edgeLabel": "HVSACO, nicknames and unacknowledged locations are all defined in the manual",
 "id": "dodm-5205-07-v1",
 "l0": false,
-"label": "DoDM 5205.07 Volume 1 — DoD SAP Security Manual: General Procedures",
+"label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07-V1 Enclosure 5 applies HVSACO 'When using a SAP nickname for an unacknowledged SAP' and states 'HVSACO is not a classification'; Enclosure 10 bars federal ID cards for identification at unacknowledged locations.",
 "sources": [
 {
@@ -123,11 +124,7 @@
 "deg": 3,
 "denials": [],
 "desc": "DoD's own manuals describe, in unclassified text, the tradecraft that keeps an unacknowledged program from surfacing. Every DoD SAP is assigned an unclassified nickname generated through the Chairman of the Joint Chiefs of Staff NICKA system under CJCSM 3150.29D, and 'Unclassified nicknames will be used in the annual SAP report to Congress'; whether a classified codeword is also used is decided by the cognizant authority SAPCO. So the artefact Congress receives is a list of two-word nicknames. The marking HANDLE VIA SPECIAL ACCESS CHANNELS ONLY - HVSACO - is applied, expressly, 'When using a SAP nickname for an unacknowledged SAP', and also 'When necessary to protect sensitive relationships' and 'To protect information that does not warrant classification under Executive Order 13526'; the manual states plainly that 'HVSACO is not a classification'. That is a control that restricts distribution of material which is not classified at all, and therefore is not reachable by a mandatory declassification review or by the classification-challenge machinery of E.O. 13526. Physical cover is addressed as well: 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations' - the manual assumes the existence of facilities at which showing a federal badge would itself be a disclosure. Where two programs share a facility, a Co-Utilization Agreement between cognizant security offices governs, and 'For CUAs, the responsible organization will be identified for executing security cognizance with a carved-out SAP', which is how a carved-out program can sit inside a building that other programs also use without the other programs' security officers acquiring cognizance over it.",
-"domains": [
-"_rs-archive-mirror",
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "What the tradecraft looks like in DoD's own words. Three documented mechanisms convert an unacknowledged program into something that leaves almost no trace in ordinary paperwork. First, nicknames: every DoD SAP gets an unclassified two-word nickname from the Joint Staff NICKA system, and it is the nickname, not the mission, that appears in the annual report to Congress. A member reading the list sees words. Second, HVSACO - HANDLE VIA SPECIAL ACCESS CHANNELS ONLY - which is applied when using a SAP nickname for an unacknowledged program, to protect 'sensitive relationships', and to protect information that does not warrant classification at all, and which the manual states 'is not a classification'. Material marked HVSACO is therefore outside the E.O. 13526 declassification machinery entirely: it cannot be the subject of a mandatory declassification review, automatic declassification at twenty-five years, or a classification challenge, because those remedies operate only on classified national security information. Third, unacknowledged locations: DoDM 5205.07 Volume 1 provides that 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations' - a rule that exists because there are facilities at which producing a federal badge would itself constitute a disclosure. Together these are the answer to the recurring question of why decades of FOIA requests have produced so little: much of the relevant paper is either inside a compartment or bears a caveat that is not a classification and therefore has no declassification pathway.",
@@ -141,10 +138,16 @@
 "hl": null,
 "id": "sap-cover-mechanisms",
 "l0": false,
-"label": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "locLabel": null,
 "members": null,
-"short": "Cover mechanisms — HVSACO, nicknames, unacknowledged locations",
+"openQuestions": [],
+"short": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
+"sourceFiles": [
+"_rs-archive-mirror",
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2025-08-09",
@@ -169,6 +172,7 @@
 ],
 "sub": "tradecraft",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 126 of 1170, score 55). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
-"timeline": []
+"tierRationale": "Re-graded A on a global pass (rank 128 of 1170, score 55). 3 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"timeline": [],
+"unverified": []
 }

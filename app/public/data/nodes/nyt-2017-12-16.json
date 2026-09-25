@@ -42,6 +42,7 @@
 ],
 "cls": "event",
 "cluster": "media",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -166,8 +167,8 @@
 {
 "claimTier": 1,
 "cls": "document",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2017",
+"dateStart": "2017",
 "direction": "in",
 "edgeLabel": "Published by the New York Times, reopening the subject",
 "id": "flir1-video",
@@ -380,6 +381,14 @@
 "deg": 14,
 "denials": [
 {
+"a": {
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
 "by": {
 "id": "nyt-2017-12-16",
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
@@ -407,10 +416,7 @@
 }
 ],
 "desc": "On 16 December 2017 The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' by Helene Cooper, Ralph Blumenthal and Leslie Kean, together with a companion piece by Bryan Bender in Politico. The story disclosed the Advanced Aerospace Threat Identification Program; a roughly $22 million appropriation over five years from 2007 to 2012 arranged by Senate Majority Leader Harry Reid at the urging of Nevada businessman Robert Bigelow, most of which went to Bigelow's company; Luis Elizondo's role and his resignation letter protesting excessive secrecy and internal opposition; and two Navy infrared targeting-pod videos, including the November 2004 Nimitz footage. Pentagon spokeswoman Dana White confirmed to Politico that Elizondo had directed AATIP; officials confirmed the programme's existence while disputing its significance, and an anonymous former congressional staffer said 'after all of that there was really nothing there that we could find.' The Times also carried scepticism from James Oberg and Sara Seager. The board records this as the pivotal event of the modern era, and records precisely why: the story added no new physical evidence about any object. What it added was institutional standing. Every subsequent official act runs downstream of it - the Navy's September 2019 statement designating the objects in the videos as unidentified aerial phenomena, the Department's outright release of the three videos on 27 April 2020, the establishment of the UAP Task Force in August 2020, the ODNI preliminary assessment of 25 June 2021, AOIMSG, AARO, and the three House hearings. It is also the date the alleged Immaculate Constellation programme is said to have been created in response, according to Shellenberger's whistleblower: the claim is that the Department's answer to the 2017 exposure was not more transparency but a new consolidating compartment. That claim is unverified. The causal chain from 16 December 2017 to everything after it is not.",
-"domains": [
-"elizondo-ttsa",
-"w2-places-events"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -582,7 +588,12 @@
 "tier": "C"
 }
 ],
+"openQuestions": [],
 "short": "NYT, 'Glowing Auras', Dec 2017",
+"sourceFiles": [
+"elizondo-ttsa",
+"w2-places-events"
+],
 "sources": [
 {
 "date": "2017-12-16",
@@ -602,34 +613,38 @@
 ],
 "sub": "Published 16 December 2017 by Helene Cooper, Ralph Blumenthal and Leslie Kean",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 138 of 1170, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 139 of 1170, score 54). 15 connections, 3 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2017-12-16",
+"grade": "A",
 "id": "tl-2017-12-16-nyt",
 "label": "New York Times breaks AATIP",
 "precision": "day",
 "strand": "program",
-"text": "Cooper, Blumenthal and Kean publish 'Glowing Auras and Black Money', naming AATIP, its $22 million, Harry Reid, Bigelow Aerospace and Luis Elizondo, with two of the three videos.",
-"tier": "A"
+"text": "Cooper, Blumenthal and Kean publish 'Glowing Auras and Black Money', naming AATIP, its $22 million, Harry Reid, Bigelow Aerospace and Luis Elizondo, with two of the three videos."
 },
 {
+"claimTier": null,
 "date": "2017-12-16",
+"grade": "A",
 "id": "tl-2017-nyt",
 "label": "New York Times reveals the program",
 "precision": "day",
 "strand": "witness",
-"text": "The Times names the program, the $22 million, Harry Reid and Bigelow Aerospace, and quotes Luis Elizondo as the official who ran it.",
-"tier": "A"
+"text": "The Times names the program, the $22 million, Harry Reid and Bigelow Aerospace, and quotes Luis Elizondo as the official who ran it."
 },
 {
+"claimTier": null,
 "date": "2017-12-16",
+"grade": "A",
 "id": "tl-2017-nytx",
 "label": "'Glowing Auras and Black Money'",
 "precision": "day",
 "strand": "oversight",
-"text": "Cooper, Blumenthal and Kean reveal AATIP, the $22 million appropriation, Elizondo's resignation and the Navy videos. No new physical evidence; decisive institutional standing. Every subsequent official act follows from this date.",
-"tier": "A"
+"text": "Cooper, Blumenthal and Kean reveal AATIP, the $22 million appropriation, Elizondo's resignation and the Navy videos. No new physical evidence; decisive institutional standing. Every subsequent official act follows from this date."
 }
-]
+],
+"unverified": []
 }

@@ -12,6 +12,7 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 3,
@@ -41,9 +42,7 @@
 "deg": 1,
 "denials": [],
 "desc": "Radiance Technologies is an employee-owned defense engineering firm headquartered in Huntsville, Alabama, working across intelligence analysis, directed energy, sensors and advanced concepts for the Army, Missile Defense Agency and intelligence community. USAspending records roughly $2.6 billion in prime contract obligations to Radiance Technologies since FY2008 - small beside the primes, large for a firm of its size, and concentrated in exactly the mid-tier technical space where a compartmented analytical task would be placed if the objective were to keep it away from a household-name contractor's compliance apparatus. Radiance recurs in UAP-adjacent reporting as an employer of personnel who moved between government UAP work and industry, but the board has not located a primary personnel record establishing any specific individual's tenure, and does not assert one. What is documented is the contract volume and the technical portfolio. This entry is deliberately thin and flagged as a research gap rather than padded with unsourced association.",
-"domains": [
-"primes-custody"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -57,7 +56,11 @@
 "label": "Radiance Technologies, Inc.",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Radiance Technologies, Inc.",
+"sourceFiles": [
+"primes-custody"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -67,6 +70,7 @@
 ],
 "sub": "Employee-owned Huntsville defense contractor",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 956 of 1170, score 17). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 955 of 1170, score 17). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"timeline": [],
+"unverified": []
 }

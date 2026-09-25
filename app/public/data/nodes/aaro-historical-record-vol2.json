@@ -82,6 +82,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -314,6 +315,14 @@
 "deg": 6,
 "denials": [
 {
+"a": {
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"b": {
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
 "by": {
 "id": "aaro",
 "label": "All-domain Anomaly Resolution Office (AARO)"
@@ -340,6 +349,14 @@
 ]
 },
 {
+"a": {
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
 "by": {
 "id": "jon-kosloski",
 "label": "Jon T. Kosloski"
@@ -366,18 +383,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "pursue-releases",
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
 },
+"b": {
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "sixteen gigabytes released, one promised report unpublished",
 "note": "The Department published roughly 2.45GB of documents and 13.4GB of video across five tranches between May and August 2026 while the congressionally-anticipated Volume II, promised within months in November 2024, remains unpublished. Volume is not the same as disclosure.",
-"of": {
-"id": "aaro-historical-record-vol2",
-"label": "AARO Historical Record Report, Volume II (unpublished)"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -393,12 +412,7 @@
 }
 ],
 "desc": "Volume II is the most consequential unpublished document in this domain. Volume I explicitly deferred to it: it was to cover AARO's interviews and research from 1 November 2023 to 15 April 2024 plus every allegation Volume I left unresolved. In August 2024, Pentagon spokesman Maj. Gen. Pat Ryder said officials continued to conduct their review but had nothing further to announce on timing. In November 2024 the incoming director, Jon Kosloski, told reporters the office would release it 'within months.' In June 2025, when the Wall Street Journal published the Yankee Blue investigation, a DoD spokeswoman said the discovery had not been complete when Volume I went out and that the findings would appear in Volume II, then scheduled for late 2025. It did not appear in late 2025. It has not appeared as of 12 August 2026 - after the FY2025 annual report, after five PURSUE tranches, after the standing up of a UAP Governance Board and a science advisory council. The Department has therefore committed, on the record and through a named spokesperson, to publishing an official finding that the Air Force ran a fictitious alien-technology programme on its own personnel for decades, and has then not published it for over two years. Nothing else in the modern record more cleanly demonstrates what the office is for.",
-"domains": [
-"_rs-aaro-reports",
-"_rs-archive-mirror",
-"releases-2023-2026",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
@@ -417,9 +431,9 @@
 "tier": 2
 },
 {
-"source": "AARO Historical Record Report Volume 1 (2024), p. 12, transcribed and validated at https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/12",
+"source": "AARO Historical Record Report Volume 1 (2024), p. 12, transcribed and validated at https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/12 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Volume I states verbatim: \"AARO remains open to additional, verifiable information that may alter the conclusions rendered in Volume I and will note any changes to the findings in this report in Volume II.\"",
-"tier": 1
+"tier": 2
 },
 {
 "source": "AARO Historical Record Report Volume 1 (2024), https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
@@ -427,34 +441,34 @@
 "tier": 2
 },
 {
-"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Volume I disclosed KONA BLUE, a UAP-related Prospective Special Access Program proposed to the Department of Homeland Security and \"supported by individuals who believed the USG was hiding off-world technology,\" which \"was never approved by DHS.\"",
-"tier": 1
+"tier": 2
 },
 {
-"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Volume I states: \"In 2021, without sufficient justification, the scope of an IC Controlled Access Program was expanded to protect UAP reverse-engineering. This program never recovered or reverse-engineered any UAP or extraterrestrial spacecraft. This IC program was disestablished due to its lack of merit.\" AARO does not name the program, the sponsoring element, or the official who expanded its scope.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Volume I asserts that all named alleged hidden UAP reverse-engineering programs \"either do not exist; are misidentified authentic, highly sensitive national security programs that are not related to extraterrestrial technology exploitation; or resolve to an unwarranted and disestablished program.\"",
-"tier": 1
+"tier": 2
 },
 {
-"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Volume I asserts that AARO \"was granted full, unrestricted access by all organizations\" through a secure process built with the highest-level security officials in DoD, the IC, and other organizations.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Volume I attributes reverse-engineering allegations to \"circular reporting from a group of individuals\" who \"have been involved in various UAP-related endeavors since at least 2009,\" many of whom AARO says were \"involved in or supportive of a cancelled DIA program and the subsequent but failed attempt to reestablish this program under DHS, called KONA BLUE.\"",
-"tier": 1
+"tier": 2
 },
 {
-"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"source": "AARO Historical Record Report Volume 1 (2024), p. 9, https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9 - DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Volume I resolved a claimed anomalous material sample to magnesium \"and bismuth with some other trace elements, such as lead,\" on the basis of materials characterization.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "Brandi Vincent, \"Hegseth doubles-down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000,\" DefenseScoop, 25 February 2026, https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
@@ -536,7 +550,14 @@
 "tier": "A"
 }
 ],
+"openQuestions": [],
 "short": "AARO Historical Record, Vol II",
+"sourceFiles": [
+"_rs-aaro-reports",
+"_rs-archive-mirror",
+"releases-2023-2026",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2024-03-08",
@@ -611,25 +632,38 @@
 ],
 "sub": "report",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 48 of 1170, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 49 of 1170, score 82). 9 connections, 3 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
+"claimTier": null,
+"date": "2024-06-15",
+"grade": null,
+"id": "_rs-aaro-reports-10",
+"label": "Statutory deadline under Sec. 6802(j)(1)(A) for the Historical Record Report (540 days after 23 Dec 2022 enactment); Volume II not delivered",
+"precision": "day",
+"strand": "program",
+"text": null
+},
+{
+"claimTier": null,
 "date": "2026-08-12",
+"grade": "A",
 "id": "rel-2026-08-12",
 "label": "Volume II still unpublished",
 "precision": "day",
 "strand": "coverup",
-"text": "As of 12 August 2026 Historical Record Report Volume II has not appeared - after the FY2025 annual report, after five PURSUE tranches, and over two years after it was promised.",
-"tier": "A"
+"text": "As of 12 August 2026 Historical Record Report Volume II has not appeared - after the FY2025 annual report, after five PURSUE tranches, and over two years after it was promised."
 },
 {
+"claimTier": 1,
 "date": "2026-08-12",
+"grade": null,
 "id": "tl-hrr2-absent",
 "label": "Historical Record Report Volume II remains unpublished",
 "precision": "day",
 "strand": "coverup",
-"text": "Promised within months in November 2024, said in June 2025 to carry the Yankee Blue findings and scheduled for late 2025, and absent from AARO's Congressional and Press Products page on 12 August 2026 - after five PURSUE tranches and an IC-wide NDA waiver.",
-"tier": "1"
+"text": "Promised within months in November 2024, said in June 2025 to carry the Yankee Blue findings and scheduled for late 2025, and absent from AARO's Congressional and Press Products page on 12 August 2026 - after five PURSUE tranches and an IC-wide NDA waiver."
 }
-]
+],
+"unverified": []
 }

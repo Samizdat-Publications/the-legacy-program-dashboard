@@ -113,7 +113,9 @@
 "deg": 2,
 "denials": [],
 "domains": [
-"w2-retrieval-literature"
+"d-witness",
+"d-medical",
+"d-recovery"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -134,6 +136,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "John F. Schuessler",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2019-10-03",

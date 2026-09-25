@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,10 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Astronomy contributes two things this board cannot get anywhere else: instruments that were already pointed at the sky when events occurred, and archival plates that predate the possibility of contamination by modern aerospace activity. The archival strand produced one of the most striking peer-reviewed results of the period - Bruehl and Villarroel's October 2025 paper in Scientific Reports, finding that transients in the Palomar Observatory Sky Survey (POSS-I) plates may be associated with nuclear testing and with reports of unidentified anomalous phenomena, a correlation drawn from photographic material exposed between 1949 and 1957. The interstellar-object strand runs through Avi Loeb's work on 'Oumuamua and on the CNEOS 2014-01-08 bolide, whose recovered spherules were subjected to elemental and isotopic classification published in Chemical Geology. In June and July 2026 Loeb announced he had agreed to lead a UAP Science Advisory Council for the US government - the first time the astronomical community's leading advocate for artifact searches was placed inside an official advisory structure. The dual-use route runs through space surveillance: the same sensors that track debris are classified assets. Scoring high on this domain means an entity brought astronomical instrumentation or method to bear.",
-"domains": [
-"_stubs",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -110,7 +108,12 @@
 "label": "Astronomy & Astrophysics",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Astronomy & Astrophysics",
+"sourceFiles": [
+"_stubs",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2025-10-20",
@@ -150,16 +153,18 @@
 ],
 "sub": "Scientific domain - sky surveys, interstellar objects and the search for artifacts",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 731 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 730 of 1170, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
+"claimTier": 1,
 "date": "2025-10-20",
+"grade": null,
 "id": "tx-2025-poss",
 "label": "Pre-Sputnik plates, nuclear correlation",
 "precision": "day",
 "strand": "program",
-"text": "Bruehl and Villarroel publish in Scientific Reports that transients in the Palomar Observatory Sky Survey may be associated with nuclear testing and with reports of unidentified anomalous phenomena. The data are photographic plates exposed between 1949 and 1957 and cannot have been contaminated by satellites.",
-"tier": 1
+"text": "Bruehl and Villarroel publish in Scientific Reports that transients in the Palomar Observatory Sky Survey may be associated with nuclear testing and with reports of unidentified anomalous phenomena. The data are photographic plates exposed between 1949 and 1957 and cannot have been contaminated by satellites."
 }
-]
+],
+"unverified": []
 }

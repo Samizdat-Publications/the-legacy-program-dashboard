@@ -27,6 +27,7 @@
 ],
 "cls": "document",
 "cluster": "other",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,18 +83,20 @@
 "deg": 2,
 "denials": [
 {
-"by": {
+"a": {
 "id": "aaro-declassification-info-paper-2025",
 "label": "AARO Declassification Information Paper (September 2025)"
 },
+"b": {
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "Process described as immovable was moved by cabinet direction in weeks",
 "note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
-"of": {
-"id": "pursue-releases",
-"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
-},
+"of": null,
 "sources": [
 {
 "date": "2025-09-01",
@@ -109,10 +112,7 @@
 }
 ],
 "desc": "An information paper published by AARO in September 2025 - one month before its first video releases and eight months before PURSUE - explaining why the office cannot release UAP material. Its argument: AARO cannot declassify anything independently because other government entities originated the classified data; it must request declassification review from originating offices such as the Military Departments; each review determines whether disclosure could cause damage, serious damage or exceptionally grave damage to national security, producing full release, partial release with redactions, or continued classification; and DOPSR reviews redactions before public release. It identifies the obstacles as protection of platform capabilities, locations and collection methods rather than the subject matter itself - noting that even footage of birds and balloons stays classified when derived from sensitive sources - and describes the process as 'deliberate and time-intensive.' Every sentence of that is defensible as a description of the classification system. What it is not is a description of an immovable constraint, and the proof is the eight months that followed: given a cabinet-level direction, the same department cleared and published five tranches containing well over a hundred sensor videos. The paper is the best single artefact of institutional friction masquerading as legal necessity.",
-"domains": [
-"_rs-archive-mirror",
-"releases-2023-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -126,7 +126,12 @@
 "label": "AARO Declassification Information Paper (September 2025)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO Declassification Information Paper (September 2025)",
+"sourceFiles": [
+"_rs-archive-mirror",
+"releases-2023-2026"
+],
 "sources": [
 {
 "date": "2026-07-14",
@@ -161,16 +166,18 @@
 ],
 "sub": "The office's own account of why it cannot declassify",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 556 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 554 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-09-01",
+"grade": "A",
 "id": "rel-2025-09-30",
 "label": "AARO explains why it cannot declassify",
 "precision": "month",
 "strand": "coverup",
-"text": "AARO publishes a declassification information paper: it cannot declassify independently, must request review from originating offices, and is bound by DOPSR. The process is 'deliberate and time-intensive.'",
-"tier": "A"
+"text": "AARO publishes a declassification information paper: it cannot declassify independently, must request review from originating offices, and is bound by DOPSR. The process is 'deliberate and time-intensive.'"
 }
-]
+],
+"unverified": []
 }

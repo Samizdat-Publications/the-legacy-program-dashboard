@@ -37,6 +37,9 @@
 ],
 "cls": "document",
 "cluster": "legacy",
+"conflicts": [
+"'Fastwalker' is characterised in podcast and popular usage (American Alchemy, 20 July 2026) as a military code word for UFOs in space. The unclassified 2008 AFIT thesis on this node uses the word 34 times for ordinary space-surveillance vocabulary and never uses 'UFO'. The board carries the characterisation as what was said and the definition as what the document says."
+],
 "connections": [
 {
 "claimTier": 2,
@@ -87,9 +90,7 @@
 "deg": 2,
 "denials": [],
 "desc": "This is the public, distribution-unlimited Department of Defense document that defines the term 'fastwalker' in its own words, and it is on this board because the term reaches the popular literature stripped of that definition. Capt. Bradley R. Townsend, US Army, wrote it at the Air Force Institute of Technology at Wright-Patterson for a Master of Science in Astronautical Engineering, March 2008, DTIC accession ADA478890, APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED.\n\nSection 1.1 gives the definition: 'Satellite based sensors looking down at the Earth's surface occasionally observe reflected light from an object passing through the image which is moving too fast relative to the background of the image to be located within the atmosphere. These objects are commonly called fastwalkers. This term refers to any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit.' The word is used 34 times. The words UFO and unidentified do not appear anywhere in the 112 pages. In this document 'fastwalker' is ordinary space-surveillance vocabulary, and the board says so.\n\nWhat the thesis does supply is a documented pointer. Section 1.2 states that 'In his thesis Osedacz [9] states that a database of fastwalker observations exists with data from as far back as 1972', that Osedacz used data from ballistic missile early warning satellites in geosynchronous orbit and concluded orbit determination for such objects was impossible, and that this 'supported the conclusions of an earlier work conducted by Lem Wong ... The research conducted by Wong is no longer available.' Bibliography entry 9 is 'OSEDACZ, R. Orbit determination of sunlight illuminated objects detected by overhead platforms (M. S. Thesis). 1989.' A 1972-onward detection database and a 1989 predecessor thesis, both named in a public document. Osedacz 1989 is the next document to obtain.",
-"domains": [
-"legacy-1947-86"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "2",
@@ -103,7 +104,11 @@
 "label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
+"sourceFiles": [
+"legacy-1947-86"
+],
 "sources": [
 {
 "date": "2008-03-10",
@@ -123,16 +128,20 @@
 ],
 "sub": "Air Force Institute of Technology thesis, March 2008; the public document that defines 'fastwalker'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 604 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 599 of 1170, score 28). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2008-03-10",
+"grade": "B",
 "id": "tl-2008-fastwalker",
 "label": "A public AFIT thesis defines 'fastwalker'",
 "precision": "day",
 "strand": "program",
-"text": "AFIT/GA/ENY/08-M06, distribution unlimited, defines the term in its own words as 'any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit'. The words UFO and unidentified appear nowhere in its 112 pages. It names a fastwalker observation database with data from as far back as 1972, and a 1989 predecessor thesis by R. Osedacz.",
-"tier": "B"
+"text": "AFIT/GA/ENY/08-M06, distribution unlimited, defines the term in its own words as 'any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit'. The words UFO and unidentified appear nowhere in its 112 pages. It names a fastwalker observation database with data from as far back as 1972, and a 1989 predecessor thesis by R. Osedacz."
 }
+],
+"unverified": [
+"The Osedacz 1989 thesis named in the bibliography has not been obtained, and neither has the earlier Lem Wong work, which this thesis states is 'no longer available'. Nothing about the contents of the 1972-onward database is asserted here beyond what this thesis says about it."
 ]
 }

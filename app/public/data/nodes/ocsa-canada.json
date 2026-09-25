@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -99,7 +100,7 @@
 "edgeLabel": "Chile's civil-aviation UAP unit used as a model and proposed partner",
 "id": "dgac-chile",
 "l0": false,
-"label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+"label": "DGAC Chile - Dirección General de Aeronáutica Civil",
 "note": "The Sky Canada report singles out Chile alongside the U.S. and France as a coordinated, transparent model, describing SEFAA as the official Chilean body for collecting and scientifically studying UAP that 'operates within the General Directorate of Civil Aeronautics (DGAC).' Recommendation 13 tells the proposed Canadian lead organization to establish partnerships with SEFAA (Chile) among others.",
 "sources": [
 {
@@ -154,10 +155,7 @@
 "deg": 4,
 "denials": [],
 "desc": "The Office of the Chief Science Advisor of Canada (OCSA) is the federal science-advice body that reports into the Government of Canada's science portfolio and advises the Prime Minister and the Minister of Innovation, Science and Industry. In 2022-2025 it ran the Sky Canada Project, a formal review of how public reports of unidentified aerial phenomena are handled in Canada, and on 30 June 2025 it published 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', a 59-page report of the project. The report is careful about its own limits - it explicitly states it is not intended to collect first-hand data, not to make OCSA the reporting point of contact, and not to prove or disprove extraterrestrial life or visitation - but it does something more useful for this board: it maps the actual Canadian reporting landscape, naming Transport Canada's CADORS occurrence system, the RCAF and Department of National Defence, the National Research Council's 1967-1990s collection role, and the RCMP, OPP and Sûreté du Québec as de facto intake points, and it finds the whole arrangement fragmented and gap-ridden. Its recommendations - identify the department that owns public UAP data, stand up a dedicated service that investigates and publishes its analyses, and have Transport Canada and NAV CANADA actively encourage aircrew and controllers to report without stigma - amount to a Western government stating on the record that stigma suppresses reporting and that transparency is the corrective. OCSA sits on this board as the clearest case of a G7 science authority treating UAP as a legitimate data-governance problem rather than as a subject to be denied.",
-"domains": [
-"_rs-stubs-known",
-"_stubs"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "nd",
@@ -171,7 +169,12 @@
 "label": "Office of the Chief Science Advisor of Canada",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Office of the Chief Science Advisor of Canada",
+"sourceFiles": [
+"_rs-stubs-known",
+"_stubs"
+],
 "sources": [
 {
 "date": "2025-12-03",
@@ -186,6 +189,7 @@
 ],
 "sub": "Foreign government agency",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 915 of 1170, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
-"timeline": []
+"tierRationale": "Re-graded C on a global pass (rank 914 of 1170, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"timeline": [],
+"unverified": []
 }

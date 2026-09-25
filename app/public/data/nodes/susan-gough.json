@@ -68,8 +68,18 @@
 "precision": "day"
 },
 {
+"date": "2024-11-13",
+"event": "Department says it has no record of Immaculate Constellation",
+"precision": "month"
+},
+{
 "date": "2025-06-06",
 "event": "Confirms to the Wall Street Journal that Yankee Blue findings will appear in Volume II of the Historical Record Report",
+"precision": "day"
+},
+{
+"date": "2026-02-25",
+"event": "Discloses that ~1,000 of AARO's 2,000+ cases lack sufficient data and sit in the Active Archive",
 "precision": "day"
 }
 ],
@@ -312,7 +322,7 @@
 "edgeLabel": "FOIA release of the Elizondo-Gough correspondence",
 "id": "foia-21-f-0938",
 "l0": false,
-"label": "OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence",
+"label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
 "note": "The Department's own reading room hosts the most detailed public rebuttal of the Department's position on Elizondo.",
 "sources": [
 {
@@ -488,7 +498,7 @@
 "url": "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "denial"
 },
 {
@@ -519,6 +529,14 @@
 "deg": 13,
 "denials": [
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -540,6 +558,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "christopher-sherwood",
+"label": "Christopher Sherwood"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -561,6 +587,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -587,6 +621,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "hearing-2023-07-26",
+"label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -608,6 +650,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -629,18 +679,20 @@
 ]
 },
 {
-"by": {
+"a": {
 "id": "susan-gough",
 "label": "Susan Gough"
 },
-"claimTier": 2,
-"denialKind": null,
-"label": "Department says it has no record of the programme",
-"note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
-"of": {
+"b": {
 "id": "immaculate-constellation-12-page-report",
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record"
 },
+"by": null,
+"claimTier": 2,
+"denialKind": "directed",
+"label": "Department says it has no record of the programme",
+"note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
+"of": null,
 "sources": [
 {
 "date": "2024-11-13",
@@ -655,6 +707,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -681,6 +741,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -702,6 +770,14 @@
 ]
 },
 {
+"a": {
+"id": "susan-gough",
+"label": "Susan Gough"
+},
+"b": {
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
 "by": {
 "id": "susan-gough",
 "label": "Susan Gough"
@@ -724,11 +800,8 @@
 }
 ],
 "domains": [
-"_rs-archive-mirror",
-"aawsap-aatip",
-"elizondo-ttsa",
-"grusch",
-"uaptf-aaro"
+"d-coverup",
+"d-oversight"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -749,6 +822,14 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Susan Gough",
+"sourceFiles": [
+"_rs-archive-mirror",
+"aawsap-aatip",
+"elizondo-ttsa",
+"grusch",
+"releases-2023-2026",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2025-06-13",
@@ -829,61 +910,67 @@
 "status": "former",
 "sub": "DoD spokesperson for UAP matters, Office of the Assistant to the Secretary of Defense for Public Affairs",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 30 of 1170, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 28 of 1170, score 96). 15 connections, 0 of them custody/funding/programmatic, 9 official denials recorded against it. Axes C0/A1/D1.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2019-06-13",
+"grade": "A",
 "id": "tl-2019-06-13-gough",
 "label": "Gough authenticates the Reid memo and reaffirms the denial",
 "precision": "day",
 "strand": "coverup",
-"text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).' She adds that DIA administered AATIP and Elizondo was never assigned to DIA.",
-"tier": "A"
+"text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).' She adds that DIA administered AATIP and Elizondo was never assigned to DIA."
 },
 {
+"claimTier": null,
 "date": "2019-06-13",
+"grade": "A",
 "id": "tl-2019-gough",
 "label": "Pentagon authenticates Reid's letter, denies its meaning",
 "precision": "day",
 "strand": "coverup",
-"text": "Susan Gough confirms the 2009 SAP request is genuine while restating that Elizondo 'had no assigned responsibilities for AATIP while he was in OUSD(I)'.",
-"tier": "A"
+"text": "Susan Gough confirms the 2009 SAP request is genuine while restating that Elizondo 'had no assigned responsibilities for AATIP while he was in OUSD(I)'."
 },
 {
+"claimTier": null,
 "date": "2019-12-06",
+"grade": "A",
 "id": "tl-2019-12-06-gough-reversal",
 "label": "Gough reverses: 'Neither AATIP nor AAWSAP were UAP related'",
 "precision": "day",
 "strand": "coverup",
-"text": "The Department repudiates its own May 2019 acknowledgement, saying Sherwood was repeating an earlier spokesperson who 'is no longer with my organization', and that AATIP 'did not pursue research and investigation into unidentified aerial phenomena'.",
-"tier": "A"
+"text": "The Department repudiates its own May 2019 acknowledgement, saying Sherwood was repeating an earlier spokesperson who 'is no longer with my organization', and that AATIP 'did not pursue research and investigation into unidentified aerial phenomena'."
 },
 {
+"claimTier": null,
 "date": "2021-05-21",
+"grade": "A",
 "id": "tl-2021-05-21-gough-partial",
 "label": "Gough's partial re-reversal",
 "precision": "day",
 "strand": "coverup",
-"text": "The Department concedes the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs' while insisting UAP examination 'was not the purpose of AATIP'. The denial of Elizondo's role does not move.",
-"tier": "A"
+"text": "The Department concedes the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs' while insisting UAP examination 'was not the purpose of AATIP'. The denial of Elizondo's role does not move."
 },
 {
+"claimTier": null,
 "date": "2023-06-06",
+"grade": "A",
 "id": "tl-denial-2023-06-06",
 "label": "Department denies Grusch's claims",
 "precision": "day",
 "strand": "coverup",
-"text": "OSD Public Affairs, through Susan Gough, states AARO has not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials - a statement bounded by AARO's discoveries, not the Department's knowledge.",
-"tier": "A"
+"text": "OSD Public Affairs, through Susan Gough, states AARO has not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials - a statement bounded by AARO's discoveries, not the Department's knowledge."
 },
 {
+"claimTier": null,
 "date": "2023-06-07",
+"grade": "A",
 "id": "g-tl-2023-06-gough",
 "label": "Pentagon issues the standing denial",
 "precision": "day",
 "strand": "coverup",
-"text": "Susan Gough: AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently. The sentence bounds itself to what one office has discovered.",
-"tier": "A"
+"text": "Susan Gough: AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently. The sentence bounds itself to what one office has discovered."
 }
 ],
 "unexplainedResidual": null,

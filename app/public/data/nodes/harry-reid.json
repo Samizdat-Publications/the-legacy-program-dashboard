@@ -155,6 +155,27 @@
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+}
+],
+"tier": "A",
+"type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "",
+"id": "aawsap",
+"l0": true,
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on.",
 "sources": [
 {
@@ -201,7 +222,7 @@
 "edgeLabel": "directed the $22M appropriation",
 "id": "defense-appropriations-aawsap",
 "l0": false,
-"label": "Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "AARO's official history states the FY2008 and FY2010 Defense Appropriations Acts appropriated $22 million to DIA 'at the direction of Senate Majority Leader Harry Reid (D-NV)'.",
 "sources": [
 {
@@ -391,7 +412,7 @@
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeLabel": "signed 24 June 2009",
+"edgeLabel": "",
 "id": "reid-letter-2009-06-24",
 "l0": false,
 "label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
@@ -414,6 +435,27 @@
 {
 "claimTier": 1,
 "cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "signed 24 June 2009",
+"id": "reid-letter-2009-06-24",
+"l0": false,
+"label": "Reid letter to DEPSECDEF Lynn requesting restricted SAP for AATIP (24 June 2009)",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "document",
 "dateEnd": "2009",
 "dateStart": "2009",
 "direction": "out",
@@ -429,7 +471,7 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf"
 }
 ],
-"tier": "A",
+"tier": "B",
 "type": "legislative"
 },
 {
@@ -533,7 +575,7 @@
 "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP/DR_Reid_Mtg_Nov09.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "denial"
 }
 ],
@@ -543,6 +585,14 @@
 "deg": 17,
 "denials": [
 {
+"a": {
+"id": "william-lynn",
+"label": "William J. Lynn III"
+},
+"b": {
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
 "by": {
 "id": "william-lynn",
 "label": "William J. Lynn III"
@@ -565,10 +615,10 @@
 }
 ],
 "domains": [
-"_rs-aawsap-dirds",
-"_rs-archive-mirror",
-"aawsap-aatip",
-"congress-senate-legislation"
+"d-funding",
+"d-oversight",
+"d-legislative",
+"d-records"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -589,6 +639,12 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Harry M. Reid",
+"sourceFiles": [
+"_rs-aawsap-dirds",
+"_rs-archive-mirror",
+"aawsap-aatip",
+"congress-senate-legislation"
+],
 "sources": [
 {
 "date": "2009-06-24",
@@ -689,34 +745,37 @@
 "status": "dead",
 "sub": "US Senator (D-NV); Senate Majority Leader 2007-2015",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 40 of 1170, score 87). 17 connections, 5 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 33 of 1170, score 92). 19 connections, 6 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2009-01-05",
+"grade": "B",
 "id": "tl-2009-reidjan",
 "label": "DIA talking paper for Reid visit",
 "precision": "day",
 "strand": "oversight",
-"text": "DIA prepares a talking paper for a Senator Reid visit on AAWSAP contract status — the first of three surviving Reid briefing papers from 2009.",
-"tier": "B"
+"text": "DIA prepares a talking paper for a Senator Reid visit on AAWSAP contract status — the first of three surviving Reid briefing papers from 2009."
 },
 {
+"claimTier": null,
 "date": "2009-05-08",
+"grade": "B",
 "id": "tl-2009-reidmay",
 "label": "May 2009 Reid briefing",
 "precision": "day",
 "strand": "oversight",
-"text": "DIA briefs Reid on contract status; the meeting generates the request that produces the October deliverables quality review.",
-"tier": "B"
+"text": "DIA briefs Reid on contract status; the meeting generates the request that produces the October deliverables quality review."
 },
 {
+"claimTier": null,
 "date": "2021-12-28",
+"grade": "A",
 "id": "tl-2021-reiddeath",
 "label": "Harry Reid dies",
 "precision": "day",
 "strand": "oversight",
-"text": "The senator who created the funded lineage and was refused the SAP he asked for dies in Henderson, Nevada.",
-"tier": "A"
+"text": "The senator who created the funded lineage and was refused the SAP he asked for dies in Henderson, Nevada."
 }
 ],
 "unexplainedResidual": null,

@@ -213,8 +213,9 @@
 "deg": 5,
 "denials": [],
 "domains": [
-"congress-house",
-"grusch"
+"d-oversight",
+"d-coverup",
+"d-funding"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -235,6 +236,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Jared Evan Moskowitz",
+"sourceFiles": [
+"congress-house",
+"grusch"
+],
 "sources": [
 {
 "date": "2023-07-26",
@@ -285,16 +290,17 @@
 "status": "active",
 "sub": "U.S. Rep. (D-FL-23); UAP Caucus; the Democratic anchor of House disclosure",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 370 of 1170, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 374 of 1170, score 35). 5 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2025-09-09",
+"grade": "A",
 "id": "ch-2025-09-09f",
 "label": "'We are definitely being lied to'",
 "precision": "day",
 "strand": "oversight",
-"text": "Moskowitz, waived onto the Task Force, says he does not know what is true on this subject but knows when the government is lying, and that it is.",
-"tier": "A"
+"text": "Moskowitz, waived onto the Task Force, says he does not know what is true on this subject but knows when the government is lying, and that it is."
 }
 ],
 "unexplainedResidual": null,

@@ -37,6 +37,7 @@
 ],
 "cls": "institution",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -155,9 +156,7 @@
 "deg": 5,
 "denials": [],
 "desc": "The office the Danny Jones corpus keeps invoking has a charter, and the charter is openable. NSC 10/2 of 18 June 1948 created it inside the Central Intelligence Agency under the residual authority of section 102(d)(5) of the National Security Act of 1947, to plan and conduct covert operations, with its Chief nominated by the Secretary of State, reporting directly to the Director of Central Intelligence, and operating 'independently of other components of Central Intelligence Agency'. Two things a node must say and the transcript does not. The directive names the office the Office of Special Projects; the name Office of Policy Coordination appears only from September 1948, when Frank G. Wisner became Assistant Director for Policy Coordination. And the directive's own definition of covert operations is a definition of deniability rather than of psychological warfare: operations 'so planned and executed that any US Government responsibility for them is not evident to unauthorized persons and that if uncovered the US Government can plausibly disclaim any responsibility for them'.",
-"domains": [
-"dannyjones-2026-09-03"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -171,7 +170,11 @@
 "label": "CIA Office of Policy Coordination",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "CIA Office of Policy Coordination",
+"sourceFiles": [
+"dannyjones-2026-09-03"
+],
 "sources": [
 {
 "date": "1948-06-18",
@@ -191,6 +194,7 @@
 ],
 "sub": "Covert action office chartered by NSC 10/2 as the Office of Special Projects, 18 June 1948; operating from 1 September 1948",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 222 of 1170, score 44). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 221 of 1170, score 44). 5 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [],
+"unverified": []
 }

@@ -32,6 +32,7 @@
 ],
 "cls": "legislation",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -82,9 +83,7 @@
 "deg": 2,
 "denials": [],
 "desc": "Section 8005 is the standing provision of every Department of Defense Appropriations Act by which the Secretary of Defense, with the approval of the Director of the Office of Management and Budget, may move money that Congress appropriated for one purpose to a different purpose. In the FY2026 Act the ceiling is $6,000,000,000; the FY2024 Act carried the same figure. The conditions are that the transfer be to 'higher priority items, based on unforeseen military requirements', that it not be used for an item Congress has denied, and that the Secretary 'notify the Congress promptly of all transfers'. Two features make it structurally important here. First, notification is after the fact - the statute requires prompt notice of transfers made, not prior approval. Second, section 8006(b) of the FY2026 Act provides that amounts specified in the explanatory-statement and classified-annex tables 'shall not be treated as subdivisions of appropriations for purposes of section 8005', with section 8005 applying only when the movement crosses appropriation accounts; the identical carve-out appears at section 4001(c) of the NDAA, which states that transfer or reprogramming of an amount in a funding table 'shall not count against a ceiling on such transfers or reprogrammings under section 1001 of this Act or any other provision of law, unless such transfer or reprogramming would move funds between appropriation accounts.' In plain terms: movement of money among the specific programmes and projects listed in the classified annex, so long as it stays inside a single appropriation account, is neither counted against the transfer ceiling nor separately reported. Section 8005 was the authority the Department used in 2019 to move $2.5 billion to border wall construction, litigation over which produced a substantial body of case law on the meaning of 'unforeseen military requirements' and 'denied by the Congress' - the only sustained judicial examination of the mechanism.",
-"domains": [
-"w2-black-budget"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -98,7 +97,11 @@
 "label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+"sourceFiles": [
+"w2-black-budget"
+],
 "sources": [
 {
 "date": "2026-02-03",
@@ -113,6 +116,7 @@
 ],
 "sub": "$6 billion per year of Secretary-level authority to move appropriated funds between accounts",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 571 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 570 of 1170, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"timeline": [],
+"unverified": []
 }

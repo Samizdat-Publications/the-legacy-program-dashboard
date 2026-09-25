@@ -17,6 +17,7 @@
 ],
 "cls": "document",
 "cluster": "witness",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "A single-page memorandum on Department of the Air Force letterhead, Headquarters Combat Support Group (USAFE), APO New York, dated 13 Jan 81, subject 'Unexplained Lights,' addressed to RAF/CC and signed by Charles I. Halt, Lt Col, USAF, Deputy Base Commander. Three numbered paragraphs describe: patrolmen at the RAF Woodbridge back gate seeing lights on 27 Dec 80 (the date Halt used, generally understood as the early hours of 26 December) and encountering an object 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high' with 'a pulsing red light on top and a bank(s) of blue lights underneath'; ground depressions and radiation readings the following days; and, on a later night, a 'red sun-like light' that 'appeared to throw off glowing particles and then broke into five separate white objects,' plus star-like objects moving 'in sharp angular movements' and one that 'beamed down a stream of light from time to time,' witnessed by 'numerous individuals, including the undersigned.' It is the only official memorandum by a serving US field-grade officer describing a physical-trace UFO event at a NATO nuclear-capable base, and it is in the public domain through the Pentagon's own FOIA office.",
-"domains": [
-"history-1970s-2000s"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "1",
@@ -109,7 +108,11 @@
 "label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
+"sourceFiles": [
+"history-1970s-2000s"
+],
 "sources": [
 {
 "date": "2021-11-11",
@@ -127,13 +130,15 @@
 "tierRationale": "Re-graded C on a global pass (rank 665 of 1170, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1981-01-13",
+"grade": "A",
 "id": "t-1981-halt",
 "label": "Halt signs the 'Unexplained Lights' memo",
 "precision": "day",
 "strand": "witness",
-"text": "The deputy base commander documents the object, three ground depressions and beta/gamma readings of 0.1 milliroentgens in an official memorandum to the RAF station commander.",
-"tier": "A"
+"text": "The deputy base commander documents the object, three ground depressions and beta/gamma readings of 0.1 milliroentgens in an official memorandum to the RAF station commander."
 }
-]
+],
+"unverified": []
 }

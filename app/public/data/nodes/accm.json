@@ -37,14 +37,36 @@
 ],
 "cls": "program",
 "cluster": "legacy",
+"conflicts": [],
 "connections": [
+{
+"claimTier": 3,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
+"id": "four-regime-map",
+"l0": false,
+"label": "The four SAP reporting regimes and the seams between them",
+"note": "",
+"sources": [
+{
+"date": null,
+"name": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
+"url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
 {
 "claimTier": 1,
 "cls": "domain",
 "dateEnd": null,
 "dateStart": null,
 "direction": "out",
-"edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
+"edgeLabel": "",
 "id": "four-regime-map",
 "l0": false,
 "label": "The four SAP reporting regimes and the seams between them",
@@ -73,7 +95,7 @@
 "edgeLabel": "ACCM sits below the definitional trigger of every SAP reporting statute",
 "id": "usc-10-119",
 "l0": true,
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
 "sources": [
 {
@@ -97,18 +119,20 @@
 "deg": 2,
 "denials": [
 {
-"by": {
+"a": {
 "id": "accm",
 "label": "Alternative Compensatory Control Measures (ACCM)"
 },
+"b": {
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"by": null,
 "claimTier": 3,
 "denialKind": "association",
 "label": "ACCM sits below the definitional trigger of every SAP reporting statute",
 "note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
-"of": {
-"id": "usc-10-119",
-"label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight"
-},
+"of": null,
 "sources": [
 {
 "date": "2026-08-12",
@@ -124,10 +148,7 @@
 }
 ],
 "desc": "ACCM is the layer below a special access program, and it is the layer with no statute attached to it at all. The NISPOM rule defines it: 'ACCM are security measures used by USG agencies to safeguard classified intelligence or operations when normal measures are insufficient to achieve strict need-to-know controls and where SAP controls are not required.' The rule then requires contractors to implement ACCM protection requirements 'when established by contract, in accordance with applicable statutes, E.O.s, CSA directives, instructions, manuals, regulations, standards, and memorandums', and covers ACCM in the same supplement, section 117.23, as SAPs, SCI and Restricted Data. The importance for this board is precise and narrow: ACCM produces access lists, nicknames and compartmented handling that look and function like a special access program, but because it is by definition the case 'where SAP controls are not required', an ACCM is not a SAP, and therefore nothing in 10 U.S.C. 119 applies to it. There is no annual ACCM report to the defense committees, no new-ACCM notice, no 30-day report-and-wait and no waiver to exercise, because there is nothing to waive. An activity that needs compartmentation but does not want a line in the annual SAP report has a documented, lawful place to sit.",
-"domains": [
-"_rs-sap-docs",
-"w2-sap-architecture"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": {
 "desc": "The floor beneath the floor. Every congressional SAP reporting statute - 10 U.S.C. 119, 50 U.S.C. 2426, 50 U.S.C. 3348 - is triggered by the term 'special access program'. Alternative Compensatory Control Measures are defined in the NISPOM rule as the security measures used 'where SAP controls are not required'. An ACCM therefore is not a SAP, and no reporting statute reaches it: no annual report, no new-program notice, no 30-day report-and-wait, no waiver needed because there is nothing to waive. ACCMs carry nicknames, access rosters and compartmented handling, and 32 CFR 117.23 imposes contractor obligations for them in the same supplement as SAPs and SCI. For anyone building a picture of where an activity could be run with the least congressional visibility, ACCM is the answer that requires no waiver, no Deputy Secretary signature and no entry on any list Congress receives. The number of ACCMs in existence has never been reported to Congress because no statute requires it.",
@@ -144,7 +165,12 @@
 "label": "Alternative Compensatory Control Measures (ACCM)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Alternative Compensatory Control Measures (ACCM)",
+"sourceFiles": [
+"_rs-sap-docs",
+"w2-sap-architecture"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -169,6 +195,7 @@
 ],
 "sub": "mechanism",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 236 of 1170, score 43). 2 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 217 of 1170, score 44). 3 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"timeline": [],
+"unverified": []
 }

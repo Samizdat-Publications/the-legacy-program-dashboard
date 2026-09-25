@@ -151,7 +151,8 @@
 "deg": 5,
 "denials": [],
 "domains": [
-"michels-2026-09-02"
+"d-intel",
+"d-denial"
 ],
 "dossier": null,
 "entityInfo": null,
@@ -172,6 +173,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Walter Bedell Smith",
+"sourceFiles": [
+"michels-2026-09-02"
+],
 "sources": [
 {
 "date": "1952-10-02",
@@ -197,7 +201,7 @@
 "status": "dead",
 "sub": "Director of Central Intelligence; the DCI who ordered the UFO problem into the intelligence community",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 424 of 1170, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 427 of 1170, score 33). 5 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -82,12 +82,13 @@
 ],
 "cls": "document",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
 "cls": "institution",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2024",
+"dateStart": "2024",
 "direction": "in",
 "edgeLabel": "Second annual report, 14 November 2024",
 "id": "aaro",
@@ -195,8 +196,8 @@
 {
 "claimTier": 1,
 "cls": "event",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2024",
+"dateStart": "2024",
 "direction": "in",
 "edgeLabel": "AARO released its annual report the day after the hearing",
 "id": "hearing-2024-11-13",
@@ -216,8 +217,8 @@
 {
 "claimTier": 1,
 "cls": "person",
-"dateEnd": null,
-"dateStart": null,
+"dateEnd": "2024",
+"dateStart": "2024",
 "direction": "in",
 "edgeLabel": "presented the FY2024 report and the GREMLIN disclosure",
 "id": "jon-kosloski",
@@ -288,6 +289,48 @@
 "deg": 8,
 "denials": [
 {
+"a": {
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
+"b": {
+"id": "pursue-release-02",
+"label": "PURSUE Release 02"
+},
+"by": {
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
+"claimTier": 3,
+"denialKind": "directed",
+"label": "'Lack of timely and actionable sensor data' against 51 released sensor videos",
+"note": "The FY2024 report attributes AARO's analytic constraint to sensor-data scarcity nineteen months before the same department published 51 sensor videos in a single tranche, all of incidents predating the report.",
+"of": {
+"id": "pursue-release-02",
+"label": "PURSUE Release 02"
+},
+"sources": [
+{
+"date": "2024-11-14",
+"name": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)",
+"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
+},
+{
+"date": "2026-08-01",
+"name": "Disclosure Archives - Department of War files index",
+"url": "https://disclosurearchives.com/department-of-war-files"
+}
+]
+},
+{
+"a": {
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+"b": {
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
 "by": {
 "id": "aaro-fy2024-annual-report",
 "label": "AARO FY2024 Consolidated Annual Report on UAP"
@@ -317,62 +360,31 @@
 "url": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf"
 }
 ]
-},
-{
-"by": {
-"id": "aaro-fy2024-annual-report",
-"label": "AARO FY2024 Consolidated Annual Report on UAP"
-},
-"claimTier": 3,
-"denialKind": "directed",
-"label": "'Lack of timely and actionable sensor data' against 51 released sensor videos",
-"note": "The FY2024 report attributes AARO's analytic constraint to sensor-data scarcity nineteen months before the same department published 51 sensor videos in a single tranche, all of incidents predating the report.",
-"of": {
-"id": "pursue-release-02",
-"label": "PURSUE Release 02"
-},
-"sources": [
-{
-"date": "2024-11-14",
-"name": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)",
-"url": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF"
-},
-{
-"date": "2026-08-01",
-"name": "Disclosure Archives - Department of War files index",
-"url": "https://disclosurearchives.com/department-of-war-files"
-}
-]
 }
 ],
 "desc": "The FY2024 report covers 1 May 2023 through 1 June 2024 and was released on 14 November 2024, the day after the House Oversight hearing at which Luis Elizondo and Tim Gallaudet testified and five days before Kosloski appeared before the Senate. It records 757 reports - 485 in-period and 272 backfilled from 2021-2022 - with 118 resolved in-period and 174 more finalised by publication, all to prosaic objects: balloons, birds, unmanned aerial systems. Twenty-one cases were flagged as warranting continued investigation by intelligence and science and technology partners on the basis of reported anomalous characteristics or behaviours. It contains the explicit denial: to date, AARO has discovered no evidence of extraterrestrial beings, activity, or technology. It documents the secure reporting mechanism launched at aaro.mil in October 2023 for current or former USG employees, service members and contractors claiming direct knowledge of purported USG UAP programmes dating back to 1945, with confidentiality protections. It cites 50 U.S.C. 3373(k). The report's own numbers are the argument against its conclusion: 21 cases with anomalous characteristics and roughly 900 reports parked in an active archive for want of scientific data is not a null result, it is an unfunded one.",
-"domains": [
-"_rs-aaro-reports",
-"_rs-archive-mirror",
-"releases-2023-2026",
-"uaptf-aaro"
-],
+"domains": [],
 "dossier": {
 "claims": [
 {
-"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "The report is submitted under a requirement established in 50 U.S.C. 3373(k), which directs the Director of the Office to report to the appropriate congressional committees not later than 180 days after enactment of the FY2023 Intelligence Authorization Act and annually thereafter for four years.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "AARO received 757 UAP reports during the period 1 May 2023 - 1 June 2024; 485 occurred in period and 272 occurred in 2021-2022 but were not previously reported. As of 24 October 2024 AARO held 1,652 reports in total.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Of the 757 reports, 392 came from the FAA and consisted of all of the FAA's UAP reports since 2021; 708 occurred in the air domain, 49 in the space domain, and none in the maritime or transmedium domains.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "AARO determined 21 cases merit further analysis by its intelligence-community and science-and-technology partners; 444 cases lacked sufficient data to facilitate analysis and were placed in the Active Archive.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
@@ -380,9 +392,9 @@
 "tier": 1
 },
 {
-"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "Section IV.G, headed \"AARO Possesses No Data to Indicate the Capture or Exploitation of UAP,\" consists in its entirety of the statement that \"AARO is working with mission partners to formalize a process in the event UAP materiel is captured, drawing on current USG capabilities and operating procedures\" - an admission that no such process existed as of the cut-off date.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
@@ -405,19 +417,19 @@
 "tier": 1
 },
 {
-"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "AARO received 18 reports from the Administrator for Nuclear Security and the Chairman of the Nuclear Regulatory Commission regarding incidents near U.S. nuclear infrastructure, weapons and launch sites, all categorised by those agencies as UAS; two incursions lasted 53 minutes and 1 hour 57 minutes respectively.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "On 3 August 2023 D.C. Cook Nuclear Power Plant security recovered a crashed UAS which was given to Berrien County, Michigan local law enforcement, and \"AARO has no further information about the crashed UAS.\" Separately, the BWXT (formerly Babcock and Wilcox Nuclear Energy) Fuel Cycle Facility in Lynchburg, Virginia observed UAS flyovers on six consecutive nights, 10-15 October 2023.",
-"tier": 1
+"tier": 2
 },
 {
-"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
+"source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF - DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "text": "In May 2023 the Joint Staff issued a UAP GENADMIN message directing Combatant Commands and Services to report all UAP incidents, incursions and engagements to Combatant Command Joint Operations Centers, Service Watch Centers, and respective counterintelligence elements no later than 96 hours after the event.",
-"tier": 1
+"tier": 2
 },
 {
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
@@ -491,7 +503,14 @@
 "tier": "B"
 }
 ],
+"openQuestions": [],
 "short": "AARO FY2024 Annual Report",
+"sourceFiles": [
+"_rs-aaro-reports",
+"_rs-archive-mirror",
+"releases-2023-2026",
+"uaptf-aaro"
+],
 "sources": [
 {
 "date": "2024-11-14",
@@ -541,25 +560,38 @@
 ],
 "sub": "Published 14 November 2024; 757 new reports; 1,652 total",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 85 of 1170, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 87 of 1170, score 68). 8 connections, 1 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.",
 "timeline": [
 {
+"claimTier": null,
 "date": "2024-11-14",
+"grade": null,
+"id": "_rs-aaro-reports-11",
+"label": "FY2024 Consolidated Annual Report released - 757 reports, of which 392 are an FAA backfill; total holdings 1652",
+"precision": "day",
+"strand": "program",
+"text": null
+},
+{
+"claimTier": null,
+"date": "2024-11-14",
+"grade": "A",
 "id": "rel-2024-11-14",
 "label": "AARO FY2024 annual report",
 "precision": "day",
 "strand": "program",
-"text": "757 new reports, 1,652 total. The standing sentence appears for the first time: no evidence of extraterrestrial beings, activity, or technology. Kosloski says Volume II will follow within months.",
-"tier": "A"
+"text": "757 new reports, 1,652 total. The standing sentence appears for the first time: no evidence of extraterrestrial beings, activity, or technology. Kosloski says Volume II will follow within months."
 },
 {
+"claimTier": null,
 "date": "2024-11-14",
+"grade": "A",
 "id": "tl-fy24-2024-11-14",
 "label": "FY2024 annual report and GREMLIN",
 "precision": "day",
 "strand": "program",
-"text": "757 reports, 21 warranting further analysis, ~900 parked in the active archive. Kosloski discloses GREMLIN's 90-day collection and promises Volume II within months.",
-"tier": "A"
+"text": "757 reports, 21 warranting further analysis, ~900 parked in the active archive. Kosloski discloses GREMLIN's 90-day collection and promises Volume II within months."
 }
-]
+],
+"unverified": []
 }

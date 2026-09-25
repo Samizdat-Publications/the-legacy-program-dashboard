@@ -244,9 +244,7 @@
 "dateStart": "2017-05-11",
 "deg": 8,
 "denials": [],
-"domains": [
-"tr3b-2026-09-18"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -266,6 +264,9 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Edgar Fouche",
+"sourceFiles": [
+"tr3b-2026-09-18"
+],
 "sources": [
 {
 "date": "2017-06-18",
@@ -301,43 +302,47 @@
 "status": "dead",
 "sub": "USAF master sergeant and avionics maintenance NCO, later a DoD contractor engineering manager; originating claimant of the TR-3B in an August 1998 presentation",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 216 of 1170, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 214 of 1170, score 44). 8 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
+"claimTier": null,
 "date": "1948-02-22",
+"grade": "C",
 "id": "tl-1948-02-22-fouche-born",
 "label": "Edgar Albert Fouche born, Americus, Georgia",
 "precision": "day",
 "strand": "witness",
-"text": "Find a Grave memorial 180498305, citing an obituary from Mason Funeral Home, gives the birth date and birthplace. The Library of Congress name authority attached to LCCN 98002961 independently gives 'Fouche, Edgar Rothschild, 1948-'.",
-"tier": "C"
+"text": "Find a Grave memorial 180498305, citing an obituary from Mason Funeral Home, gives the birth date and birthplace. The Library of Congress name authority attached to LCCN 98002961 independently gives 'Fouche, Edgar Rothschild, 1948-'."
 },
 {
+"claimTier": null,
 "date": "1987-08-31",
+"grade": "C",
 "id": "tl-1987-08-31-fouche-sac-liaison-ends",
 "label": "End of Fouche's Strategic Air Command liaison post at Kelly AFB; active service concludes",
 "precision": "day",
 "strand": "witness",
-"text": "The Meritorious Service Medal citation with oak leaf cluster reads 'as the Strategic Air Command Liaison Officer, San Antonio Air Logistics Center, Kelly Air Force Base, Texas, from 17 July 1983 to 31 August 1987', and closes 'The singularly distinctive accomplishments of Sergeant Fouche culminate a distinguished career in the service of his country.' The certificate is signed by John T. Chain, Jr., General, USAF, Commander in Chief.",
-"tier": "C"
+"text": "The Meritorious Service Medal citation with oak leaf cluster reads 'as the Strategic Air Command Liaison Officer, San Antonio Air Logistics Center, Kelly Air Force Base, Texas, from 17 July 1983 to 31 August 1987', and closes 'The singularly distinctive accomplishments of Sergeant Fouche culminate a distinguished career in the service of his country.' The certificate is signed by John T. Chain, Jr., General, USAF, Commander in Chief."
 },
 {
+"claimTier": null,
 "date": "2014-09-25",
+"grade": "C",
 "id": "tl-2014-09-25-foia-return-posted",
 "label": "Hilton posts the FOIA return on Fouche's military records",
 "precision": "day",
 "strand": "witness",
-"text": "Andrew Johnson records that Hilton filed a Freedom of Information Act request for Fouche's military records and posted the return on 25 September 2014, and reads it as corroborating what Fouche had already said: Lackland AFB 1967, Keesler and Cannon 1968, Nellis June 1976 to 16 July 1979, Kadena 5 September 1979 to 4 March 1982, and decorations including the Vietnam Service Medal and three Meritorious Service Medals. THE FOIA RETURN ITSELF WAS NOT OPENED by this research.",
-"tier": "C"
+"text": "Andrew Johnson records that Hilton filed a Freedom of Information Act request for Fouche's military records and posted the return on 25 September 2014, and reads it as corroborating what Fouche had already said: Lackland AFB 1967, Keesler and Cannon 1968, Nellis June 1976 to 16 July 1979, Kadena 5 September 1979 to 4 March 1982, and decorations including the Vietnam Service Medal and three Meritorious Service Medals. THE FOIA RETURN ITSELF WAS NOT OPENED by this research."
 },
 {
+"claimTier": null,
 "date": "2017-05-11",
+"grade": "C",
 "id": "tl-2017-05-11-fouche-died",
 "label": "Edgar Albert Fouche dies, aged 69; buried Coffey Cemetery, Mason County, Texas",
 "precision": "day",
 "strand": "witness",
-"text": "Find a Grave memorial 180498305, created 18 June 2017 and citing an obituary from Mason Funeral Home, gives the death date and age and the burial at Coffey Cemetery, Streeter, Mason County, Texas, with the inscription 'Saved by the blood of Jesus Christ'. A death date of 6 May 2018 at age 82 also circulates and is wrong on both counts; no opened record supports it.",
-"tier": "C"
+"text": "Find a Grave memorial 180498305, created 18 June 2017 and citing an obituary from Mason Funeral Home, gives the death date and age and the burial at Coffey Cemetery, Streeter, Mason County, Texas, with the inscription 'Saved by the blood of Jesus Christ'. A death date of 6 May 2018 at age 82 also circulates and is wrong on both counts; no opened record supports it."
 }
 ],
 "unexplainedResidual": null,

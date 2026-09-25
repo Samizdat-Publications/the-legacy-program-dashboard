@@ -27,6 +27,7 @@
 ],
 "cls": "institution",
 "cluster": "oversight",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -124,6 +125,14 @@
 "deg": 4,
 "denials": [
 {
+"a": {
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"id": "aaro-2026-posture",
+"label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner"
+},
 "by": {
 "id": "aaro-fy2025-annual-report",
 "label": "AARO FY2025 Consolidated Annual Report on UAP"
@@ -146,10 +155,7 @@
 }
 ],
 "desc": "AARO's public posture in the current cycle is defined by what its own homepage does. The office is led by Dr. Jon T. Kosloski, previously of the National Security Agency's Research Directorate, with bachelor's degrees in mathematics and physics from California State University San Bernardino and a Johns Hopkins PhD in electrical engineering on quantum optics devices for receiving weak phase-encoded signals - a signals-intelligence physicist running the government's UAP office. AARO's Leaders page names him alone; no deputy, chief scientist or historian is publicly identified. The homepage carries a promotional banner for 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' that links out to war.gov/UFO, and a second banner for 'UAP Records from NARA' that links out to archives.gov. The statutory UAP office therefore signposts users to two release channels it does not control and away from its own EFOIA Reading Room. Its own UAP Records page lists NARA, the 2023 NASA independent study, and the DHS KONA BLUE material, and makes no mention of Historical Record Report Volume II. AARO's stated mission remains unchanged: 'Minimize technical and intelligence surprise by synchronizing scientific, intelligence, and operational detection identification, attribution, and mitigation of unidentified anomalous phenomena in the vicinity of national security areas.' The office's substantive 2025-2026 activity has been analytic and convening rather than disclosive: an invite-only workshop of roughly forty government, academic and independent researchers in the Washington DC area in early August 2025, hosted by Associated Universities, Inc. and sponsored by AARO, on standardising the capture and study of UAP data, which the Department neither announced beforehand nor published an attendee list for.",
-"domains": [
-"_rs-archive-mirror",
-"w2-2025-2026"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -163,7 +169,12 @@
 "label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-2025-2026"
+],
 "sources": [
 {
 "date": "2026-07-07",
@@ -203,6 +214,7 @@
 ],
 "sub": "Director Dr. Jon T. Kosloski; homepage points to war.gov/UFO",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 529 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 524 of 1170, score 30). 4 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"timeline": [],
+"unverified": []
 }

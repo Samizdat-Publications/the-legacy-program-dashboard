@@ -22,6 +22,7 @@
 ],
 "cls": "domain",
 "cluster": "ic",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 1,
@@ -93,10 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "Compartmentation is not a synonym for secrecy; it is a specific engineering choice about who may hold which fragment, and it is the single most important structural fact on this board. The Manhattan Project is the documented ancestor: tens of thousands of workers at Oak Ridge and Hanford who could describe their own task precisely and had no authorised knowledge of the weapon, with compartmentation enforced by physical separation, need-to-know and a security apparatus reporting outside the technical chain. Applied to a recovery and reverse-engineering effort, the same architecture produces the effect witnesses repeatedly describe: a metallurgist who can characterise a sample without being told where it came from, a security officer who moves the container without being told what is in it, a programme manager who signs the contract without the read-in that would let him understand it. The consequence for evidence is severe and must be stated plainly - a compartmented programme generates almost no witness who can testify to the whole, only many witnesses who can each testify to a fragment, which is precisely the evidentiary signature critics cite as weakness. Scoring high here means an entity sits at a junction where fragments were assembled: a control officer, a security review authority, or a person read into more than one compartment at once.",
-"domains": [
-"_rs-archive-mirror",
-"w2-taxonomy"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -110,7 +108,12 @@
 "label": "Secrecy Architecture",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Secrecy Architecture",
+"sourceFiles": [
+"_rs-archive-mirror",
+"w2-taxonomy"
+],
 "sources": [
 {
 "date": "2026-05-18",
@@ -135,6 +138,7 @@
 ],
 "sub": "Structural domain - how compartments are stacked so that no single person sees the whole",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 490 of 1170, score 31). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
-"timeline": []
+"tierRationale": "Re-graded B on a global pass (rank 492 of 1170, score 31). 3 connections, 1 of them custody/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [],
+"unverified": []
 }

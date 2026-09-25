@@ -22,6 +22,7 @@
 ],
 "cls": "institution",
 "cluster": "research",
+"conflicts": [],
 "connections": [
 {
 "claimTier": 2,
@@ -93,9 +94,7 @@
 "deg": 3,
 "denials": [],
 "desc": "The Mutual UFO Network is the largest civilian UFO investigation body in the United States and the institutional platform on which the crash-retrieval literature was launched. Leonard Stringfield served as its Director of Public Relations and delivered 'Retrievals of the Third Kind' from the podium of its ninth annual Symposium in Dayton, Ohio on 29 July 1978; MUFON then published Status Report II in January 1980, and Stringfield's later reports acknowledge the network's continuing cooperation. John F. Schuessler, the NASA-contractor aerospace engineer who investigated the Cash-Landrum case from February 1981, presented on it at the MUFON symposia of 1984, 1985 and 1986 and served as MUFON International Director from 2000 to 2006. William L. Moore made his AFOSI disinformation admission from a MUFON symposium platform in Las Vegas in July 1989. The MUFON UFO Journal is a primary publication venue for much of the material on this board. MUFON's characteristic weakness is the mirror of its strength: a distributed volunteer field-investigator network produces enormous case volume with highly variable evidentiary discipline, and the symposium format rewards new claims over audits of old ones.",
-"domains": [
-"w2-retrieval-literature"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "0",
@@ -109,7 +108,11 @@
 "label": "Mutual UFO Network (MUFON)",
 "locLabel": null,
 "members": null,
+"openQuestions": [],
 "short": "Mutual UFO Network (MUFON)",
+"sourceFiles": [
+"w2-retrieval-literature"
+],
 "sources": [
 {
 "date": "2026-08-12",
@@ -125,5 +128,6 @@
 "sub": "US civilian UFO investigation network, founded 1969",
 "tier": "C",
 "tierRationale": "Re-graded C on a global pass (rank 1035 of 1170, score 14). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
-"timeline": []
+"timeline": [],
+"unverified": []
 }

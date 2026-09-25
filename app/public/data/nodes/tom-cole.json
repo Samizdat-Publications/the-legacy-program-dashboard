@@ -115,10 +115,7 @@
 "dateStart": "2024-04-10",
 "deg": 2,
 "denials": [],
-"domains": [
-"w10-notification-gaps",
-"w9-waived-sap-group"
-],
+"domains": [],
 "dossier": null,
 "entityInfo": null,
 "era": "3",
@@ -138,6 +135,10 @@
 "photoCredit": null,
 "sequenceChain": [],
 "short": "Tom Cole",
+"sourceFiles": [
+"w10-notification-gaps",
+"w9-waived-sap-group"
+],
 "sources": [
 {
 "date": null,
