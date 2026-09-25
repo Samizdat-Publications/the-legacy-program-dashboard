@@ -1,9 +1,9 @@
-/* The evidence explorer — Design response section 1.9, route
+/* The evidence explorer: Design response section 1.9, route
  * #/evidence?tier=&cls=&cluster=&domain=&denied=1&open=1.
  *
  * Left: a rail of filter chips with the real count behind each one, every chip
- * toggling one of the six parameters. Right: the table — tier, class, node, claim,
- * source, denied, FOIA — with the request beside the question it would close.
+ * toggling one of the six parameters. Right: the table (tier, class, node, claim,
+ * source, denied, FOIA), with the request beside the question it would close.
  *
  * All 5,120 rows are held in memory and filtered there; the table renders in
  * blocks so a filter that matches thousands of rows still paints at once. The
@@ -11,7 +11,7 @@
  *
  * Nothing is truncated: claim text, source citations and FOIA questions wrap.
  *
- * The FOIA column prints one line per request — id, office, status — and the
+ * The FOIA column prints one line per request (id, office, status) and the
  * question that request would close opens as a full-width expansion under the
  * row, one row open at a time. Every fact stays; it moves out of the row and
  * under it, so the table reads one claim per two or three lines.

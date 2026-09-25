@@ -1,4 +1,4 @@
-/* evidence.css — the evidence explorer only. Colours and sizes from tokens.css.
+/* evidence.css: the evidence explorer only. Colours and sizes from tokens.css.
  * One label size. Nothing is truncated: every cell wraps, so this file carries
  * no ellipsis and no text-overflow. */
 

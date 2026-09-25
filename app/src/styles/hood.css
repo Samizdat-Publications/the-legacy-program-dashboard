@@ -1,4 +1,4 @@
-/* hood.css — the neighbourhood only. Colours and sizes come from tokens.css.
+/* hood.css: the neighbourhood only. Colours and sizes come from tokens.css.
  *
  * Every name on this screen is at var(--fs-label), the one label size, with
  * white-space:nowrap and no overflow rule of any kind: a label that does not

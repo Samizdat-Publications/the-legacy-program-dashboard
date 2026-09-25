@@ -1,9 +1,9 @@
-/* hood/layout.ts — where the marks go, and which labels are drawn at all.
+/* hood/layout.ts: where the marks go, and which labels are drawn at all.
  *
  * The rule, from Design response 2.2, is the whole of this file: ONE font size,
  * 11px. A label is drawn only if the whole label fits in the room its side has
  * at that size. Nothing is truncated, abbreviated or shrunk. A mark whose label
- * does not fit is not drawn — it is counted, and the count is drawn instead.
+ * does not fit is not drawn: it is counted, and the count is drawn instead.
  *
  * Ring positions are assigned by y, not by angle. The unit is Design's 15px
  * label slot, used as a MINIMUM: the ring's names are spread evenly over the

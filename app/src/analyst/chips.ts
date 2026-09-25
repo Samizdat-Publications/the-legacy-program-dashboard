@@ -1,4 +1,4 @@
-/* analyst/chips.ts — which suggestions belong on which route.
+/* analyst/chips.ts: which suggestions belong on which route.
  *
  * The wording lives in data/analyst-suggestions.json, which tools/build_app_data.py
  * copies into app/public/data/analyst.json as a per key map. It is edited only

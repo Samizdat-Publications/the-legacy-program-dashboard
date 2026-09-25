@@ -1,6 +1,10 @@
-/* app/checks/run.mjs — C1 to C16 of notes/DESIGN-RESPONSE-SHELL-2026-09-02.md
+/* app/checks/run.mjs: C1 to C16 of notes/DESIGN-RESPONSE-SHELL-2026-09-02.md
  * section 3, plus C17 for the back button Stewart made a condition of the new
- * shell and C18 for the analyst dock and its per-route chips, against the built
+ * shell and C18 for the analyst dock and its per-route chips, C19 to C21 for the
+ * analyst's tools, search ranking and the thread report, and C22 to C26 for
+ * redesign phase 1 (notes/PLAN-2026-09-24.md): grouped connections with their
+ * sentences, every authored field, search over events and threads, the
+ * node-level denial flag, and a node page at phone width. All against the built
  * app served by `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
@@ -1217,7 +1221,7 @@ async function main() {
   /* the assertions                                                          */
   /* ====================================================================== */
 
-  console.log('\n  ' + (POISON ? 'POISON=' + POISON + ' — ' + POISONS[POISON].what : 'clean run')
+  console.log('\n  ' + (POISON ? 'POISON=' + POISON + ': ' + POISONS[POISON].what : 'clean run')
     + '  ·  ' + APP + '\n');
 
   const C1_PAGES = ['home', 'map', 'hood0', 'thread:custody', 'timeline', 'patents', 'evidence', 'report'];
@@ -1235,7 +1239,7 @@ async function main() {
     }
     check('c1', bad.length === 0 && total > 0,
       'C1  every #/n/<id> on the eight screens is an id in index.json',
-      `${total} hrefs over ${C1_PAGES.length} screens, ${bad.length} unknown` + (bad.length ? ' — ' + clip(bad) : ''));
+      `${total} hrefs over ${C1_PAGES.length} screens, ${bad.length} unknown` + (bad.length ? ': ' + clip(bad) : ''));
     const empty = C1_PAGES.filter((p) => nodeIdsOn(p).length === 0);
     check('c1', empty.length === 0, 'C1  every one of the eight screens actually renders node links',
       empty.length ? 'no #/n/ href on: ' + empty.join(', ') : 'all eight carry at least one');
@@ -1286,7 +1290,7 @@ async function main() {
     for (const [name, boxes] of cases) {
       const bad = pairsOverlapping(boxes);
       check('c4', bad.length === 0, 'C4  no two label boxes intersect · ' + name,
-        bad.length ? `${bad.length}+ overlapping pairs — ` + clip(bad, 3) : `${boxes.length} boxes, none intersecting`);
+        bad.length ? `${bad.length}+ overlapping pairs: ` + clip(bad, 3) : `${boxes.length} boxes, none intersecting`);
     }
   }
 
@@ -1363,7 +1367,7 @@ async function main() {
     });
     check('c8', noSrc.length === 0 && n.claims.length > 0,
       'C8  every claim row on #/n/' + NODE_FOCUS + ' carries a source link or citation text',
-      noSrc.length ? `${noSrc.length} of ${n.claims.length} with neither — ` + clip(noSrc.map((c) => c.text.slice(0, 40)), 2)
+      noSrc.length ? `${noSrc.length} of ${n.claims.length} with neither: ` + clip(noSrc.map((c) => c.text.slice(0, 40)), 2)
         : `${n.claims.length} claims, ${n.claims.filter((c) => c.srcTag === 'A').length} as links`);
     const m = n.head.match(/Claims\s*·?\s*(\d+)[\s\S]*Tier 1 · (\d+)[\s\S]*Tier 2 · (\d+)[\s\S]*Tier 3 · (\d+)/);
     const tot = m ? Number(m[1]) : NaN, sum = m ? Number(m[2]) + Number(m[3]) + Number(m[4]) : NaN;
@@ -1413,7 +1417,7 @@ async function main() {
     check('c9', offScheme.length === 0, 'C9  every rendered in-app href is a route in the 2.1 scheme',
       offScheme.length ? clip(offScheme, 4) : `${seen.size} distinct hrefs over ${Object.keys(S).length} screens`);
     check('c9', deadIds.length === 0, 'C9  every rendered #/t/ and #/patents/ link names something the board carries',
-      deadIds.length ? `${deadIds.length} dead — ` + clip(deadIds, 5) : 'all resolve to a thread or a patent');
+      deadIds.length ? `${deadIds.length} dead: ` + clip(deadIds, 5) : 'all resolve to a thread or a patent');
   }
 
   /* ---- C10 -------------------------------------------------------------- */
@@ -1441,7 +1445,7 @@ async function main() {
     const over = S.hood3.hood.map((e) => e.id).filter((id) => !allowed.has(id));
     check('c10', over.length === 0,
       'C10 the 3-hop neighbourhood never leaves the hop 1∪2∪3 sets of edges.json',
-      over.length ? `${over.length} outside — ` + clip(over, 4)
+      over.length ? `${over.length} outside: ` + clip(over, 4)
         : `${S.hood3.hood.length} drawn, all inside a set of ${allowed.size}`);
   }
 
@@ -1465,7 +1469,7 @@ async function main() {
     check('c11', mapHl.length === flags.length && mapBad.length === 0,
       'C11 the map\'s numbered chips are the same register with the same numbers',
       mapBad.length || mapHl.length !== flags.length
-        ? `${mapHl.length} numbered chips, ${mapBad.length} disagree — ` + clip(mapBad.map((c) => c.id + '=' + c.hl), 3)
+        ? `${mapHl.length} numbered chips, ${mapBad.length} disagree: ` + clip(mapBad.map((c) => c.id + '=' + c.hl), 3)
         : `${mapHl.length} amber chips, numbers match`);
   }
 
@@ -1475,7 +1479,7 @@ async function main() {
     const heights = [...new Set(chips.map((c) => Math.round(c.h)))];
     check('c12', heights.length === 1, 'C12 every map chip is the same height, whatever its degree',
       `${chips.length} chips at ${heights.join(', ')}px` +
-      (heights.length > 1 ? ' — degree of the tallest: ' +
+      (heights.length > 1 ? ': degree of the tallest: ' +
         clip(chips.filter((c) => Math.round(c.h) === Math.max(...heights)).map((c) => c.id + '/' + deg[c.id]), 3) : ''));
     /* width is a pure function of the label: chip = ceil(text) + 30 (+16 numbered).
        If anything else got into it -- degree, tier, claims -- the residual moves. */
@@ -1483,7 +1487,7 @@ async function main() {
       id: c.id, r: c.w - c.labW - (c.isHl ? 46 : 30),
     })).filter((x) => x.r < -0.5 || x.r > 1.5);
     check('c12', resid.length === 0, 'C12 chip width is its text plus one constant, nothing else',
-      resid.length ? `${resid.length} chips off the constant — ` + clip(resid.map((x) => x.id + ' ' + x.r.toFixed(1)), 3)
+      resid.length ? `${resid.length} chips off the constant: ` + clip(resid.map((x) => x.id + ' ' + x.r.toFixed(1)), 3)
         : `${chips.length} chips within [0,1.5]px of text+${'30/46'}`);
     const marks = [...new Set(S.hood3.hood.map((e) => e.mw + '×' + e.mh))];
     check('c12', marks.length === 1, 'C12 every ring mark is the same size',
@@ -1613,7 +1617,7 @@ async function main() {
     const uniq = [...new Set(bad)];
     check('c14', uniq.length === 0,
       'C14 every runtime request is /data /fonts /patents /assets or the analyst',
-      uniq.length ? `${uniq.length} off-list — ` + clip(uniq.map((u) => u.slice(0, 70)), 3)
+      uniq.length ? `${uniq.length} off-list: ` + clip(uniq.map((u) => u.slice(0, 70)), 3)
         : `${requests.length} requests over ${Object.keys(S).length} screens, all on the list`);
     check('c14', pageErrors.length === 0, 'C14 no uncaught page error while the screens were walked',
       pageErrors.length ? clip(pageErrors, 2) : 'clean');
@@ -1659,7 +1663,7 @@ async function main() {
       if (m) hits.push(k + ': …' + m[0].replace(/\s+/g, ' ').trim() + '…');
     }
     check('c16', hits.length === 0, 'C16 no mockup placeholder string survives into any rendered page',
-      hits.length ? `${hits.length} screen(s) — ` + clip(hits, 2) : `${Object.keys(S).length} screens clean`);
+      hits.length ? `${hits.length} screen(s): ` + clip(hits, 2) : `${Object.keys(S).length} screens clean`);
   }
 
   /* ---- C17 -------------------------------------------------------------- */
@@ -1743,7 +1747,7 @@ async function main() {
       check('c18', missing.length === 0, 'C18 every chip key the sweep visits is in the data file',
         missing.length ? 'no chips for ' + missing.join(', ') : CHIP_ROUTES.map((r) => r[0]).join(', '));
       check('c18', wrong.length === 0, "C18 the chips on screen are exactly that route kind's chips",
-        wrong.length ? wrong.length + ' of ' + CH.length + ' wrong — ' + clip(wrong, 2)
+        wrong.length ? wrong.length + ' of ' + CH.length + ' wrong: ' + clip(wrong, 2)
           : CH.map((r) => r.key + ':' + r.chips.length).join(' · '));
 
       const thin = CH.filter((r) => r.chips.length < 3).map((r) => r.key + ' has ' + r.chips.length);
@@ -1803,7 +1807,7 @@ async function main() {
     } else {
       const o = TOOLS.out, w = TOOLS.want;
       const head1 = (k) => ((o[k] || '').split('\n')[0] || '').slice(0, 120);
-      /* a count printed by a tool: "NODES matching — 311 of 1,057" */
+      /* a count printed by a tool: "NODES matching <em dash> 311 of 1,057" */
       const said = (key) => {
         const m = /\u2014\s*([0-9,]+)\s+of\s+([0-9,]+)/.exec(o[key] || '');
         return m ? Number(m[1].replace(/,/g, '')) : NaN;
@@ -1929,7 +1933,7 @@ async function main() {
       const tiers = SEARCH.claims.map((c) => c.tier);
       const allT1 = tiers.every((t) => t === 1);
       check('c20', allT1, 'C20 the claim rows are ranked, so Tier 1 fills them before Tier 2 does',
-        'tiers drawn [' + tiers.join(',') + '] — the board has ' + w.t1 + ' Tier 1 and '
+        'tiers drawn [' + tiers.join(',') + ']: the board has ' + w.t1 + ' Tier 1 and '
         + w.other + ' weaker claims containing "' + w.word + '"');
 
       const marked = SEARCH.claims.filter((c) => c.marked).length;
@@ -2003,7 +2007,7 @@ async function main() {
     process.exit(seen ? 0 : 1);
   }
   console.log(`  ${nOk} passed, ${nFail} failed`);
-  console.log('\n' + (nFail ? `APP CHECKS FAILED (${nFail}) — ` + [...failsByCheck.keys()].join(', ')
+  console.log('\n' + (nFail ? `APP CHECKS FAILED (${nFail}): ` + [...failsByCheck.keys()].join(', ')
     : 'APP CHECKS PASSED'));
   process.exit(nFail ? 1 : 0);
 }
@@ -2023,7 +2027,7 @@ function allPoisons() {
   }
   console.log('\n' + (bad.length
     ? `POISON SWEEP FAILED (${bad.length} of ${names.length} blind): ` + bad.join(', ')
-    : `POISON SWEEP PASSED — all ${names.length} poisons were seen by their own check`));
+    : `POISON SWEEP PASSED, all ${names.length} poisons were seen by their own check`));
   process.exit(bad.length ? 1 : 0);
 }
 

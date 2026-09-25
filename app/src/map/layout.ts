@@ -1,4 +1,4 @@
-/* map/layout.ts — the label rule of Design response 2.2, laid out at 1:1 for the
+/* map/layout.ts: the label rule of Design response 2.2, laid out at 1:1 for the
  * viewport (Design 4.3), never scaled.
  *
  * Label mode: chip width = measured text width + 30 (+16 for a start-here

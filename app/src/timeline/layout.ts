@@ -1,4 +1,4 @@
-/* timeline/layout.ts — the packing rule of Design response section 1.7 and 2.2.
+/* timeline/layout.ts: the packing rule of Design response section 1.7 and 2.2.
  *
  * Four strand lanes by five era columns. The open era gets year gridlines and
  * its events as 11px chips packed into rows so that no two overlap. An event
@@ -177,7 +177,7 @@ export interface PackOpts {
 export function packLane(lane: Lane, events: TEvent[], o: PackOpts): LaneLayout {
   /* Events in an opened year claim the rows first. Without that the row budget
      is spent on the earlier years before the opened one is reached, and opening
-     a year would widen it without placing anything in it — the control would
+     a year would widen it without placing anything in it, and the control would
      look like it worked and would not have. Order is otherwise by date. */
   const openYear = new Set<number>();
   for (const s of o.slots) if (s.open) openYear.add(s.year);

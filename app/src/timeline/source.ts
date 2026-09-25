@@ -1,4 +1,4 @@
-/* timeline/source.ts — data/timeline.json, the 912 events, fetched once.
+/* timeline/source.ts: data/timeline.json, the 912 events, fetched once.
  * Same-origin /data only. */
 
 import type { TEvent } from './layout';

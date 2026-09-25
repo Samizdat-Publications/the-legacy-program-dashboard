@@ -1,4 +1,4 @@
-/* thread/smallmap.ts — the small map on the Thread page (Design 1.6).
+/* thread/smallmap.ts: the small map on the Thread page (Design 1.6).
  *
  * The same 7 x 5 grid as the program map: the bands and eras of data/map.json,
  * each step drawn as its numbered chip in its own band x era cell, orthogonal

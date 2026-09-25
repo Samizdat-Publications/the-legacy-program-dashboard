@@ -1,4 +1,4 @@
-/* Report — Design response section 1.10.
+/* Report: Design response section 1.10.
  *
  * Paper colours, still monospace, sized to the viewport and printable as it
  * stands. Numbered superscripts in the body, the citations at the foot. Every
@@ -45,7 +45,7 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
 
   paper.append(h('h1', null, rec.label));
   paper.append(h('div', { class: 'rmeta' },
-    [rec.cls, 'Tier ' + (rec.tier || '?'),
+    [rec.cls,
       'custody ' + (rec.C ?? 0) + '/3', 'access ' + (rec.A ?? 0) + '/3',
       'disclosure ' + (rec.D ?? 0) + '/3', dateRange(rec.dateStart, rec.dateEnd)].join(' · ')));
 
@@ -75,7 +75,7 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
       const nn = cite(s ? (s.name || s.url || '') : (d.note || 'denial recorded on the edge, no source string'),
         (s && s.url) || null);
       paper.append(h('div', { class: 'rdenial' },
-        h('b', null, d.by.label), ' — ', d.label || d.note || '', ' ', sup(nn)));
+        h('b', null, d.by.label), ': ', d.label || d.note || '', ' ', sup(nn)));
     }
   }
 

@@ -1,4 +1,4 @@
-/* map/links.ts — orthogonal links on a canvas, behind the chips.
+/* map/links.ts: orthogonal links on a canvas, behind the chips.
  *
  * Design response 1.4 and 4.8: exit horizontally, one vertical routed in the
  * gutter nearest the source, enter horizontally, a 2px end mark. Denial edges

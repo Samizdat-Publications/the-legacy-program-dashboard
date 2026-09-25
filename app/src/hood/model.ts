@@ -1,10 +1,10 @@
-/* hood/model.ts — the neighbourhood's data, and nothing else's.
+/* hood/model.ts: the neighbourhood's data, and nothing else's.
  *
  * Design response 1.5 and 2.2. Hop 1 is the node's own `connections`, which the
  * generator defines as every SOURCED edge touching the node. Hops 2 and 3 are
  * walked over `edges.json`, which is the same sourced set. Derived pairs are the
- * L0 model's `summarised` entries — two map nodes that share members below the
- * floor — and they are hop 2 by construction, which is what the legend says.
+ * L0 model's `summarised` entries (two map nodes that share members below the
+ * floor), and they are hop 2 by construction, which is what the legend says.
  *
  * Nothing here invents a relationship. A pair is in this file only because the
  * board already carries it.

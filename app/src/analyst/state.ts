@@ -1,4 +1,4 @@
-/* analyst/state.ts — the CURRENT STATE block, one per route kind.
+/* analyst/state.ts: the CURRENT STATE block, one per route kind.
  *
  * Decision 4 of notes/ANALYST-PLAN-2026-09-03.md: the block that says what is on
  * screen has to be route aware, or a chip offered on the timeline page is a chip

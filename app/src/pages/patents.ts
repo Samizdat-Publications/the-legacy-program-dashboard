@@ -1,4 +1,4 @@
-/* Patents — Design response section 1.8, route #/patents/<number> with ?sheet=<k>.
+/* Patents: Design response section 1.8, route #/patents/<number> with ?sheet=<k>.
  *
  * Left: one section per patent (number, title, status as the record gives it, the
  * granted or filed date, and the node link where the board carries the node), then

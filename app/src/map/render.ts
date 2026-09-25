@@ -1,4 +1,4 @@
-/* map/render.ts — the program map. Design response 1.4, 2.2, 2.3, 2.4 and 4.
+/* map/render.ts: the program map. Design response 1.4, 2.2, 2.3, 2.4 and 4.
  *
  * Chips are DOM anchors, so every label on the map is real text a check can read
  * and every chip is a `#/n/<id>` route. Links are drawn on a canvas behind them.
@@ -387,7 +387,7 @@ function panel(
       'data-id': m.id,
     });
     row.append(h('i', { class: 'mark', style: 'background:' + clsColour(m.cls), 'aria-hidden': 'true' }));
-    row.append(h('span', { class: 'yr' }, startYear(m) || '—'));
+    row.append(h('span', { class: 'yr' }, startYear(m) || '-'));
     row.append(h('span', { class: 'nm' }, m.short));
     if (m.hl) row.append(h('i', { class: 'chl' }, String(m.hl)));
     list.append(row);

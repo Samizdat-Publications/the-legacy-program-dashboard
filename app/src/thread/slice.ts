@@ -1,4 +1,4 @@
-/* thread/slice.ts — the timeline slice on the Thread page: the steps' own years.
+/* thread/slice.ts: the timeline slice on the Thread page: the steps' own years.
  *
  * One tick per year the chain touches. A year's label is drawn only where the
  * whole label fits clear of the one before it, which is the label rule of

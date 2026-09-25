@@ -1,4 +1,4 @@
-/* evidence/model.ts — the filter state of #/evidence and the counts behind the
+/* evidence/model.ts: the filter state of #/evidence and the counts behind the
  * chips. The rows are claims.json, one per claim, 5,120 of them; the FOIA linkage
  * is foia.json's byNode and the question text is in nodes/<id>.json, which is why
  * the FOIA column reads a node record lazily rather than shipping the questions
