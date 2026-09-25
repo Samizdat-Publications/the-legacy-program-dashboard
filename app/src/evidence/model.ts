@@ -117,8 +117,8 @@ export function facets(rows: ClaimRow[]): Facets {
     cluster: sorted(tally(rows, (r) => r.cluster || '')),
     domain: sorted(tally(rows, rowDomain)),
     denied: [
-      { value: '1', label: 'denied', n: denied },
-      { value: '0', label: 'not denied', n: rows.length - denied },
+      { value: '1', label: 'on a node with a denial on record', n: denied },
+      { value: '0', label: 'no denial on record', n: rows.length - denied },
     ],
     open: [
       { value: '1', label: 'open question', n: open },

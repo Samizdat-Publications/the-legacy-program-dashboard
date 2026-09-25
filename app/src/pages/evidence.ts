@@ -32,7 +32,7 @@ const GROUPS: { key: Key; head: string }[] = [
   { key: 'cls', head: 'Class' },
   { key: 'cluster', head: 'Cluster' },
   { key: 'domain', head: 'Source domain' },
-  { key: 'denied', head: 'Denied' },
+  { key: 'denied', head: 'Node denied' },
   { key: 'open', head: 'Open question' },
 ];
 
@@ -111,7 +111,7 @@ export async function renderEvidence(view: HTMLElement, q: URLSearchParams): Pro
     h('th', { class: 'c-node' }, 'NODE'),
     h('th', { class: 'c-claim' }, 'CLAIM'),
     h('th', { class: 'c-src' }, 'SOURCE'),
-    h('th', { class: 'c-den' }, 'DENIED'),
+    h('th', { class: 'c-den' }, 'NODE DENIED'),
     h('th', { class: 'c-foia' }, 'FOIA')));
   const tbody = h('tbody');
   table.append(thead, tbody);
@@ -176,7 +176,10 @@ function row(r: ClaimRow, foia: FoiaFile): HTMLElement {
           ? h('span', { class: 'dim' }, src.text)
           : h('span', { class: 'faint' }, 'no citation on the row'))));
 
-  tr.append(h('td', { class: 'c-den' }, r.denied ? h('span', { class: 'red' }, 'denied') : ''));
+  tr.append(h('td', { class: 'c-den' }, r.denied
+    /* the flag is the node's (it is the object of some denial), never this claim's */
+    ? h('span', { class: 'dim', title: 'a denial is on record for this node; it is not a denial of this claim' }, 'on the node')
+    : ''));
   tr.append(foiaCell(r, foia, tr));
   return tr;
 }
